@@ -71,3 +71,4 @@ Simple-slope analyses of the same Study 1 regression on self-reported competitiv
 - [Manipulated performance-approach (vs. avoidance) goals increase preference for a self-confirmatory model over a compliant one with a more-competent partner (Study 2)](manipulated-performance-goals-model-preference-competence.md) — related
 - [Performance-approach goals positively predict competitive regulation and performance-avoidance goals positively predict protective regulation overall (Studies 1 and 3)](main-effects-performance-goals-conflict-regulation.md) — related
 - [Manipulated performance-approach (vs. avoidance) goals increase preference for a self-confirmatory model over a compliant one with a more-competent partner (Study 2)](manipulated-goals-model-preference-study2.md) — related
+- [Performance goals predict assertion of one's own competence after a real sociocognitive conflict](performance-goals-self-competence-assertion.md) — related

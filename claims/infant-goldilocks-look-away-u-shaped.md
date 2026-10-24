@@ -51,3 +51,4 @@ The review reports the authors' infant studies (Kidd, Piantadosi, & Aslin, 2012,
 - [Eleven-month-old infants who see a core knowledge violation preferentially explore the violating object over a novel distractor](infants-explore-core-knowledge-violating-objects.md) — related
 - [Eleven-month-old infants learn a new object-sound mapping after a surprising core knowledge violation but not after an expected outcome](surprise-enhances-infant-object-sound-learning.md) — related
 - [Learning enhancements from core knowledge violations are entity-specific: no benefit for unrelated bystander objects](surprise-learning-effect-is-entity-specific.md) — related
+- [Sound localization ability is present in the first ten days of infancy as soon as the infant begins to notice sound](infant-sound-localization-first-ten-days.md) — related

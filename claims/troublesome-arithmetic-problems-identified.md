@@ -44,3 +44,4 @@ Class-level analysis of Woody Test solution percentages for grades VII and VIII.
 
 ## Related Claims
 - [The Organization Test exercises were scaled on 1634 children in grades three to eight, yielding difficulty values from .03 to 6.4 units](greene-organization-test-standardized-1634.md) — a broader claim this one bears on
+- [Problems whose per cents solved do not increase monotonically across grades are eliminated as not measuring grade-to-grade progress](erratic-problems-eliminated.md) — related

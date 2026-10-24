@@ -53,3 +53,4 @@ Regression analysis disaggregated by race/ethnicity (Table 4). The article attri
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
 - [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](massachusetts-k3-risk-inequities-student-groups.md) — related
 - [CREDO's new race/ethnicity approach estimates full annual growth per group without benchmarking against any race/ethnicity](credo-race-ethnicity-growth-without-benchmark.md) — related
+- [Little evidence of heterogeneity in preschool effects by child characteristics, with suggestive larger behavioral drawbacks for lower-SES children](preschool-effects-homogeneous-child-characteristics.md) — related

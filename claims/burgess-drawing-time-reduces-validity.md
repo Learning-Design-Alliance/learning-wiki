@@ -45,3 +45,4 @@ Individual timed examinations of grades III-V pupils on Burgess Form I, measurin
 ## Related Claims
 - [AI-assisted feedback drafts do not reduce TAs' time spent per character of feedback](ai-drafts-no-reduction-time-per-character.md) — related
 - [Monroe's silent reading test permits substantial chance success, inflating comprehension scores](monroe-test-chance-success-defect.md) — related
+- [Sentence units of a completion test differ greatly in completion time, ranging from 12.8% of total test time for unit 1 down to 3.4% for unit 11.](completion-test-sentence-unit-time-differences.md) — related

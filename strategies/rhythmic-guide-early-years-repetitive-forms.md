@@ -47,6 +47,7 @@ The article recommends that the rhythmic guide in penmanship instruction be care
 ## Related Strategies
 
 - [Handwriting Instruction](handwriting-instruction.md)
+- [Weigh legibility gains against speed gains when choosing a penmanship style to teach](weigh-legibility-against-speed-in-penmanship-teaching.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (44 show a difference, 26 mixed, 12 no difference) · 34 studies (15 associational, 6 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 14 of 34 report an effect size · 80 claims rest on one study
+> **Evidence** · 93 claims (52 show a difference, 29 mixed, 12 no difference) · 37 studies (17 associational, 7 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 15 of 37 report an effect size · 91 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -117,6 +117,17 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [With explicit competence feedback, performance-approach and performance-avoidance goals predict competitive and protective regulation respectively when partner competence is higher or unspecified, but not equal (Study 3)](../claims/competence-feedback-unspecified-elicits-goal-congruent-regulation.md) [~M] — learners who differ on it differ in outcomes
 - [Manipulated performance-approach (vs. avoidance) goals increase preference for a self-confirmatory model over a compliant one with a more-competent partner (Study 2)](../claims/manipulated-goals-model-preference-study2.md) [+M] — learners who differ on it differ in outcomes
 - [Performance-approach goals positively predict competitive regulation and performance-avoidance goals positively predict protective regulation overall (Studies 1 and 3)](../claims/main-effects-performance-goals-conflict-regulation.md) [+M] — learners who differ on it differ in outcomes
+- [After a sociocognitive conflict, mastery goals predict interest in task information while performance goals predict interest in the grade](../claims/goals-predict-task-versus-grade-interest.md) [+M] — learners who differ on it differ in outcomes
+- [Experimentally induced mastery goals predicted interest in social comparison only under a performance-approach goal condition](../claims/mastery-goal-manipulation-sco-only-in-performance-approach-condition.md) [~M] — an instructional effect differs with it
+- [Mastery goals positively predict self-reported epistemic conflict regulation in an imagined sociocognitive conflict](../claims/mastery-goals-predict-epistemic-conflict-regulation.md) [+M] — learners who differ on it differ in outcomes
+- [Mastery goals predict recognition of a disagreeing partner's competence after a real sociocognitive conflict](../claims/mastery-goals-partner-competence-recognition.md) [+M] — learners who differ on it differ in outcomes
+- [Mastery goals, performance-approach goals, and performance-avoidance goals are each related to social comparison orientation](../claims/achievement-goal-types-related-to-social-comparison-orientation.md) [+M] — learners who differ on it differ in outcomes
+- [Performance goals positively predict self-reported relational conflict regulation in an imagined sociocognitive conflict](../claims/performance-goals-predict-relational-conflict-regulation.md) [+M] — learners who differ on it differ in outcomes
+- [Performance goals predict assertion of one's own competence after a real sociocognitive conflict](../claims/performance-goals-self-competence-assertion.md) [+M] — learners who differ on it differ in outcomes
+- [Specific goals show distinct directional effects: mastery approach and relational goals predict positive affect, beneficial help attitudes, and teaching quality, while work avoidance and appearance avoidance goals predict poorer outcomes.](../claims/specific-goal-directional-effects-on-outcomes.md) [+W] — learners who differ on it differ in outcomes
+- [The link between mastery goals and social comparison orientation is stronger the higher learners' performance-approach goal endorsement](../claims/mastery-goals-sco-moderated-by-performance-approach-goals.md) [~M] — an instructional effect differs with it
+- [The mastery–performance-approach goal interaction on social comparison replicates across correlational and experimental methods](../claims/goal-interaction-sco-replicates-across-methods.md) [~M] — an instructional effect differs with it
+- [University instructors' achievement goals differentially predict positive affect, attitudes towards help, and self-reported teaching quality, with effects invariant across status groups.](../claims/goals-predict-affect-help-attitudes-teaching-quality.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

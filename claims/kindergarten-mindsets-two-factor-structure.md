@@ -70,3 +70,4 @@ Confirmatory factor analysis comparing a two-factor model against a unidimension
 - [Malleable trait beliefs may be especially beneficial for classroom behavioral self-regulation among mastery-oriented children (marginal interaction)](trait-belief-goal-orientation-interaction-cbsr.md) — related
 - [In Study 1, measured fixed mindset correlated with fixed-trait attributions (r=.28), performance avoidance goals (r=.23), and hypothetical easy-problem choice (r=.12)](fixed-mindset-correlates-study1-replication.md) — related
 - [Kindergarteners who believe traits are malleable show better classroom behavioral self-regulation than children with a stable trait belief](malleable-trait-beliefs-better-cbsr-kindergarten.md) — related
+- [Task goals can be separated from learning goals and normative performance goals, each with approach and avoidance components.](task-goals-separable-from-learning-and-normative-goals.md) — related

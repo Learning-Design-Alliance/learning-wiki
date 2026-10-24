@@ -47,3 +47,4 @@ The brief reports, citing prior studies, that "Gifted students who have reversed
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases — related
 - [Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging](contextual-themes-school-belonging.md) — related
+- [Conspicuous talent does not reliably succeed on its own; success requires physical energy and willpower that gifted individuals often lack](talent-not-self-realizing-without-will-and-energy.md) — related

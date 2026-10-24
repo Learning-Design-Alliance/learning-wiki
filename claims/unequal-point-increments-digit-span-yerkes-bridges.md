@@ -49,3 +49,4 @@ Scale-construction critique in the specific-criticism section. The article notes
 - [Yerkes-Bridges coefficients of intelligence of 1.20 or more are attained by very different percentages of children at successive ages (34.5% at ages 4-5 down to 0% at ages 16-17 and 18-on), so they do not represent the same degree of brightness at all ages.](non-comparable-brightness-coefficients-yerkes-bridges.md) — related
 - [Psychological studies of children's endowments show schools must set different aims and materials for different classes of children, and have broken up lock-step promotion](aims-and-materials-matched-to-endowments.md) — related
 - [The Binet-Simon and Yerkes Point Scale ratings of children run parallel and are practically identical up to age ten](binet-point-scale-parallel-to-age-ten.md) — related
+- [Per cent solved is a variable, not a constant unit of difficulty, and is not comparable across groups](percent-variable-unit-not-constant.md) — related

@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 328 claims (152 for, 126 mixed, 50 against) · 221 studies (79 causal, 47 review, 27 design, 25 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 45 of 221 report an effect size · 313 claims rest on one study
+> **Evidence** · 329 claims (152 for, 127 mixed, 50 against) · 222 studies (80 causal, 47 review, 27 design, 25 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 46 of 222 report an effect size · 314 claims rest on one study
 
 ## Description and scope
 
@@ -308,6 +308,7 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 
 - [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](../claims/its-augmentation-benefits-over-unsupported-learning.md) [+M]
 - [Students incorrectly considered partially hinting images helpful](../claims/students-misjudge-hint-images-as-helpful.md) [~W]
+- [Contingent AI interaction increased children's likelihood of responding over time (OR = 1.026 per question), while pseudo-interactive interaction decreased it (OR = 0.96)](../claims/response-rate-trend-contingency.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

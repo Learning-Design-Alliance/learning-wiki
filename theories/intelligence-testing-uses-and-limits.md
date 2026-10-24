@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 78 claims (27 for, 47 mixed, 4 against) · 45 studies (27 associational, 8 review, 5 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 6 of 45 report an effect size · 77 claims rest on one study
+> **Evidence** · 86 claims (28 for, 52 mixed, 6 against) · 47 studies (29 associational, 8 review, 5 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 6 of 47 report an effect size · 85 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -129,6 +129,14 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Non-verbal test materials add little to predicting achievement beyond verbal tests and mental age](../claims/non-verbal-tests-add-little.md) [~W]
 - [Stanford-Binet mental age correlations with achievement rise with grade level, while verbal group test correlations stay about the same](../claims/stanford-ma-achievement-correlation-rises-with-grade.md) [~W]
 - [Poorest and best students differed most in speed-of-association tests but little in Marble Statue and Substitution tests](../claims/poor-best-students-association-versus-memory-tests.md) [~W]
+- [Thorndike found correlations between Binet age and language tests higher than those between Binet age and a construction test, and therefore judged the Binet scale inadequate.](../claims/thorndike-binet-age-correlates-higher-with-language-than-construction-tests.md) [-W]
+- [The author judges the tests reveal class members' ability to do school work almost as accurately as months of teacher observation, supporting use for borderline promotion cases](../claims/tests-match-teacher-judgment-school-work.md) [+W]
+- [Taylor's Sheffield study suggests the Binet scale is broadly suitable for English children, though tests for ages 6 and 7 seem too easy and tests above 11 seem unsatisfactory.](../claims/sheffield-103-children-binet-suitable-english-ages-6-7-easy.md) [~W]
+- [Terman and Knollin indicate the Stanford revision is more accurate than the Vineland revision in estimating dullness, borderlinity and feeble-mindedness.](../claims/stanford-revision-more-accurate-than-vineland-for-borderlinity.md) [~W]
+- [Travis, examining 128 University of Pennsylvania students, concluded the Binet prose-passage reproduction tests have no value for group application and should be eliminated for ages fifteen and over unless given under standard Binet conditions.](../claims/travis-128-students-prose-passage-tests-no-group-value.md) [-W]
+- [Applying the Stanford revision to selected children in four California cities, Williams classified 32% feeble-minded, 20% borderline, 22% dull normal, and 26% normal or superior.](../claims/williams-stanford-revision-four-california-cities-classification.md) [~W]
+- [Woolley found 25.5% of 18-year-old industrial workers feeble-minded on the point scale and advised changing the definition of feeble-mindedness so tested deficiency better matched common-sense opinion.](../claims/woolley-18-year-industrial-workers-25-5-percent-feeble-minded.md) [~W]
+- [Within a grade, younger pupils score higher on the Alertness Quotient than older pupils](../claims/younger-pupils-higher-alertness-quotient.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

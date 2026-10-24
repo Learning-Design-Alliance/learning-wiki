@@ -46,3 +46,5 @@ This is the authors' interpretive claim in the introduction, offered without dat
 - [Equal practice increases rather than reduces initial ability differences in addition within the same grade](equal-practice-increases-initial-differences-addition.md) — related
 - [Cases with Differences of minus 9 or below — 21.5 per cent of the standardization sample — are described as marked cases of wasted intelligence whose ability is not being utilized](wasted-intelligence-minus-nine-below.md) — related
 - [Substantial overlap exists between bright and dull groups: 48 per cent of poor pupils match the lowest good-group record](overlap-bright-dull-groups-48-percent.md) — related
+- [Schooling adjusted to the average under-serves exceptionally intelligent pupils and can be morally dangerous for them](average-paced-school-morally-dangerous-for-exceptional.md) — possibly the same claim (merge candidate)
+- [Pedagogy has developed for average and subnormal children but still lacks a pedagogy of supernormal children](lacking-pedagogy-of-supernormal-children.md) — related

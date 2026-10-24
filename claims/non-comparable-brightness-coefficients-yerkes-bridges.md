@@ -52,3 +52,4 @@ The article reports, citing the Yerkes and Wood article's Table III, that a "coe
 - [Psychological studies of children's endowments show schools must set different aims and materials for different classes of children, and have broken up lock-step promotion](aims-and-materials-matched-to-endowments.md) — related
 - [The Binet-Simon and Yerkes Point Scale ratings of children run parallel and are practically identical up to age ten](binet-point-scale-parallel-to-age-ten.md) — related
 - [Most referred children in the sample rated below their chronological age on both scales](referred-cases-below-age-both-scales.md) — related
+- [Per cent solved is a variable, not a constant unit of difficulty, and is not comparable across groups](percent-variable-unit-not-constant.md) — a broader claim this one bears on

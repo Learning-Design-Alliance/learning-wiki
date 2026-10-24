@@ -48,3 +48,4 @@ Analysis of test records against standard norms for grades VI-VIII. The article 
 - [Teacher judgment ratings diverged from standardized test results for individual pupils](teacher-judgment-diverges-from-tests.md) — related
 - [The test yields an analytical diagnosis of classes and individuals, illustrated by a pupil profile identifying specific abilities needing improvement](test-diagnostic-individual-profile-ls.md) — related
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](nrc-tests-predicted-routine-school-intelligence-testing.md) — a broader claim this one bears on
+- [Normal-school students rated the same composition on a percentage basis and by the Nassau Supplement on successive days, producing distributions arranged into ten groups for comparison](witham-percentage-versus-nassau-ratings.md) — related
