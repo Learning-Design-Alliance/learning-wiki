@@ -90778,12 +90778,12 @@
 "type":"claim"
 },
 {
-"description":"A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance",
+"description":"A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance",
 "evidence_strength":"moderate",
 "id":"general-oral-language-factor-predicts-comprehension",
 "path":"claims/general-oral-language-factor-predicts-comprehension.md",
 "status":"review",
-"title":"A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance",
+"title":"A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance",
 "type":"claim"
 },
 {

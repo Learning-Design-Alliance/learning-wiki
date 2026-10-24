@@ -72,7 +72,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](../claims/interleaving-lasting-learning-delayed-posttests.md) [+W] — instruction changes it
 - [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](../claims/rule-recall-miserable-half-known.md) [-M] — instruction changes it
 - [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](../claims/discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) [-M] — learners who differ on it differ in outcomes
-- [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance](../claims/general-oral-language-factor-predicts-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](../claims/general-oral-language-factor-predicts-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Specific syntax and vocabulary factors uniquely predicted reading comprehension in only one grade each (syntax in 4th, vocabulary in 7th)](../claims/specific-syntax-vocabulary-factors-unique-one-grade-each.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures

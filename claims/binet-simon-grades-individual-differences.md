@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Average age differences increased monotonically across the five teacher-judgment groups, from +.91 for very bright to −1.8 for very dull. [→ Carl C. Brigham 1914](#carl-c-brigham-1914)
+`q2 i?` Average age differences (mental minus chronological age) fell steadily across the five teacher-judgment groups, from +.91 for very bright through +.03, −.47 and −.94 to −1.8 for very dull. [→ Carl C. Brigham 1914](#carl-c-brigham-1914)
 `q2 i?` Teacher and principal judgments coincided in 41 per cent of cases and differed by one group in 50 per cent. [→ Carl C. Brigham 1914 (2)](#carl-c-brigham-1914-2)
 
 ## Evidence

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance"
-description: "A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance"
+title: "A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance"
+description: "A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance"
 id: general-oral-language-factor-predicts-comprehension
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance
+# A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` The general oral language factor significantly predicted latent reading comprehension in all grades, with standardized coefficients from 0.72 to 0.96, and latent factors accounted for 72%–99% of comprehension variance. [→ Foorman Barbara R. 2015](#foorman-barbara-r-2015)
+`q2 i?` The general oral language factor significantly predicted latent reading comprehension in all grades, with standardized coefficients from 0.72 to 0.96, and the latent factors of oral language and decoding fluency together (not oral language alone) accounted for 72%–99% of comprehension variance; decoding fluency made no significant unique contribution in any grade. [→ Foorman Barbara R. 2015](#foorman-barbara-r-2015)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Foorman Barbara R., Koon Sharon, Petscher Yaacov, Mitchell Alison, Truckenmiller
 
 `q2 · i?` · `associational · r2`
 
-Structural equation modeling by grade tested direct effects of the general oral language, specific syntax and vocabulary, and decoding fluency factors on latent reading comprehension; the article reports standardized coefficient estimates "ranging from 0.72 to 0.96" and 72%–99% of variance accounted for.
+Structural equation modeling by grade tested direct effects of the general oral language, specific syntax and vocabulary, and decoding fluency factors on latent reading comprehension; the article reports standardized coefficient estimates "ranging from 0.72 to 0.96" and that "the amount of variance in reading comprehension that the latent factors of decoding fluency and oral language accounted for was between 72% and 99%" — a figure for the model's factors together, not for the general oral language factor alone.
 
 > "The general oral language factor, measured both by syntax and vocabulary indicators, significantly predicted reading comprehension in all grades, with standardized coefficient estimates ranging from 0.72 to 0.96"
 

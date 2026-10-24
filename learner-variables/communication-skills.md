@@ -110,7 +110,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Discourse-level oral language, spelling, and handwriting fluency completely mediate the relations of language and cognitive skills to writing quality in Grade 1](../claims/diew-complete-mediation-discourse-oral-language-transcription-writing.md) [+M] — learners who differ on it differ in outcomes
 - [Total effects on writing quality are largest for discourse-level oral language (.46), working memory (.43), and spelling (.37)](../claims/total-effects-on-writing-quality-ranking.md) [+M] — learners who differ on it differ in outcomes
 - [Working memory is a foundational cognitive skill for language and transcription skills, but its relation to writing is primarily mediated by other component skills](../claims/working-memory-foundational-but-mediated-in-writing.md) [+M] — learners who differ on it differ in outcomes
-- [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance](../claims/general-oral-language-factor-predicts-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](../claims/general-oral-language-factor-predicts-comprehension.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

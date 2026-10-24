@@ -46,5 +46,5 @@ Exploratory t tests on estimated factor scores compared students with and withou
 - [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance](general-oral-language-factor-predicts-comprehension.md) — related
+- [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](general-oral-language-factor-predicts-comprehension.md) — related
 - [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](decoding-fluency-no-unique-prediction-grades-4-10.md) — related

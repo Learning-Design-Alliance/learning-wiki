@@ -30,4 +30,4 @@ A norm-referenced rating scale developed by Childs for judging elementary and se
 -
 
 ## Key Sources
-- Childs, H. G. (1915). Measurement of the drawing ability of two thousand one hundred and seventy-seven children in Indiana city school systems by a supplemented Thorndike scale. The Journal of Educational Psychology, 6(7), 391-408.
+- Childs, H. G. (1915). Measurement of the drawing ability of two thousand one hundred and seventy-seven children in Indiana city school systems by a supplemented Thorndike scale. The Journal of Educational Psychology, 6(7), 391-408. https://doi.org/10.1037/h0075575
