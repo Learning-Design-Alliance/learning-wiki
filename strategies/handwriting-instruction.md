@@ -73,8 +73,10 @@ Handwriting is a transcription skill: when letter production is effortful, worki
 4. **Fade supports and integrate with composing.** Move from guided paper to unlined writing, and embed handwriting goals within authentic [practice](../elements/practice.md) writing tasks so transcription serves composition.
 
 ## Related Strategies
+
 - [Explicit writing instruction strategies](explicit-writing-instruction.md) — handwriting is the transcription strand of the broader explicit writing framework
 - [Keyboarding instruction](keyboarding-instruction.md) — the digital parallel; both target transcription automaticity
+- [Use rhythmic guides in early years to organize unit strokes and facile movement, with imposed rhythm reserved for simple repetitive forms rather than word writing](rhythmic-guide-early-years-repetitive-forms.md)
 
 ## Examples
 - **[Handwriting Without Tears](https://www.lwtears.com/hwt)** — Developmentally sequenced program using multisensory letter introduction, small-group stroke instruction, and brief daily practice; widely adopted in K–2 classrooms.

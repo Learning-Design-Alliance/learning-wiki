@@ -44,3 +44,4 @@ Multigroup RI-CCLPM analyses across the three ProFAN conditions (jigsaw n = 3,38
 
 ## Related Claims
 - [The temporal asymmetry holds across gender and initial ability levels, with a cautious gender difference in the French lagged effect](temporal-asymmetry-gender-ability-invariance.md) — related
+- [Jigsaw classroom curbs the widening gender gap in self-reported social competences, reducing the Time-3 gap by 27% versus business-as-usual and 20% versus resource independence](jigsaw-curbs-widening-gap-self-reported-competences.md) — related

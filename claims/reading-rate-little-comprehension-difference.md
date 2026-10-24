@@ -49,3 +49,4 @@ Controlled experiment in which each subject read two paragraphs at each of three
 - [Rapid reading gains about 26% more ideas per second than normal reading, and slow reading about 20% fewer, in all four groups](ideas-per-second-rapid-reading-advantage.md) — related
 - [Earlier investigators found rapid readers recall as well as or better than slow readers](prior-rapid-readers-recall-better.md) — related
 - [Instructed slow reading ran about 40% below normal rate and rapid reading about 16% below normal time, fairly uniformly across groups except seventh graders](rate-manipulation-magnitude-groups.md) — related
+- [The new silent-reading test combines rate and comprehension scores into a single score via partial regression equations on teacher-rated reading ability](silent-reading-rate-combined-regression-score.md) — related

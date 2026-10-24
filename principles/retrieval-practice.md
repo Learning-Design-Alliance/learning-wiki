@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 128 claims (59 for, 60 mixed, 9 against) · 57 studies (25 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 57 report an effect size · 121 claims rest on one study
+> **Evidence** · 130 claims (59 for, 62 mixed, 9 against) · 58 studies (26 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 58 report an effect size · 123 claims rest on one study
 
 ## Conditional relationship
 
@@ -104,6 +104,7 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [For incoherent text presented as a list of facts, testing slows the rate of forgetting compared to restudy](../claims/incoherent-material-testing-slows-forgetting.md) [+W] — attached 2026-10-22 from de Jonge et al. (2015), which proposed "Use completion tests for retention of unconnected materials rather than highly structured texts"; tests this page's relationship.
 - [For a highly coherent text, taking a fill-in-the-blank practice test yields no retention benefit and does not slow forgetting compared to restudy](../claims/coherent-text-no-testing-benefit-fill-in-blank.md) [~W] — attached 2026-10-22 from de Jonge et al. (2015), which proposed "Use completion tests for retention of unconnected materials rather than highly structured texts"; tests this page's relationship.
 - [Without initial instruction, varied retrieval practice matches varied worked examples and beats repeated retrieval practice for generalization](../claims/varied-retrieval-practice-matches-varied-worked-examples.md) [+M] — attached 2026-10-22 from Meng Cao et al. (2026), which proposed "Align learning strategy choice with the instructional goal: induction versus memory consolidation"; tests this page's relationship.
+- [Images that reveal the answer during retrieval practice reduce vocabulary recall compared with practice without images](../claims/answer-revealing-images-reduce-vocabulary-retrieval-practice-learning.md) [~W] — attached 2026-10-24 from van den Broek et al. (2021), which proposed "Avoid informative images during vocabulary retrieval practice because they can harm learning".
 
 ## Objective and learner-valued goal
 
@@ -254,6 +255,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Explaining was not more effective than oral retrieval practice overall in Experiment 1](../claims/explaining-no-better-than-oral-retrieval-practice-exp1.md) [~W]
 - [End-of-semester recall of course material was better for relearning than for restudying](../claims/successive-relearning-better-semester-end-recall.md) [+W]
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](../claims/pupils-improve-with-practice-no-fatigue-effect.md) [+W]
+- [Images that reveal the answer reduce recall compared with images appearing after the retrieval attempt](../claims/answer-revealing-images-worse-than-post-retrieval-images.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

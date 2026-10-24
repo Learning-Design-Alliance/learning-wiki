@@ -48,3 +48,4 @@ Latent growth curve model comparison in Results for the 351-child sample, covary
 - [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — related
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
 - [In a prospective longitudinal sample (ECLS-K:2011), numbers reversed performance follows a logarithmic growth pattern, decelerating over ages 6–11](wm-logarithmic-growth-ecls.md) — related
+- [Average and superior children develop at different levels and grow increasingly dissimilar with age, with superior children showing adolescent mental acceleration about one year earlier](average-superior-mental-curves-diverge.md) — related

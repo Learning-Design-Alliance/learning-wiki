@@ -65,6 +65,7 @@ Prediction functions as a form of pretesting: even when predictions are wrong, g
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — expert prediction ("I expect this to…") models the strategy for learners
 - [Pretesting](../strategies/pretesting.md) — the broader family of before-instruction attempts that prediction belongs to
 - [Present problems before explanatory texts to arouse curiosity and situational interest in learners lacking prior knowledge](problem-first-then-explanation.md)
+- [Use small-group discussion of a phenomenon-describing problem before text study to bridge prior knowledge and new information](small-group-problem-discussion-before-text.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the cognitive function prediction serves

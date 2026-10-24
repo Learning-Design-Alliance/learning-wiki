@@ -59,9 +59,11 @@ Environmental interventions work by changing defaults rather than relying on ind
 5. **Monitor and adapt** — observe facility use, gather student feedback, and adjust for groups (e.g., girls, older students) whose usage lags.
 
 ## Related Strategies
+
 - Recess enhancement and classroom movement breaks — the programming layer that makes environmental provision effective
 - Active school transport programs (walking school buses) — leverage the same infrastructure
 - Physically active lessons — integrate movement with academic content rather than competing with it
+- [Design daily school programmes that schedule meals, play and frequent short recreation periods alongside lessons](chaillou-whole-organism-daily-programme.md)
 
 ## Related Elements
 - [Supportive information](../elements/supportive-information.md) — signage and norms that make activity options legible

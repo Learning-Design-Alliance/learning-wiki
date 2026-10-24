@@ -73,3 +73,4 @@ Omnibus ANOVA on overestimation (perceived minus achieved) was significant with 
 - [Students expect AI to help their test scores, but control students overestimate the effect relative to the experimental estimate](genai-student-beliefs-overestimate-control.md) — related
 - [The spotlight effect: people overestimate how much others notice them, across flattering and embarrassing contexts](spotlight-effect-overestimate-noticing.md) — related
 - [Non-interactive teaching produces stronger under-confidence (metacognitive bias) than restudy immediately after learning](non-interactive-teaching-under-confidence-bias.md) — related
+- [Students consistently overestimated how much they learned with answer-revealing images](overestimating-learning-with-answer-revealing-images.md) — related

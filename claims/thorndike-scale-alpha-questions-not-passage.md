@@ -47,3 +47,4 @@ Editorial assessment of Thorndike Scale Alpha, attributed by the editorial to Th
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
 - [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — related
 - [In operational reading-test data, ignoring local dependence inflates reliability estimates, with passage-based alpha 2.3%-4.9% lower than item-based alpha across six test forms](real-data-reliability-overestimated-2-3-to-4-9-percent.md) — related
+- [Free narrative reports are incomplete but relatively free from mistakes, while interrogatory reports contain a large proportion of wrong statements](narrative-versus-interrogatory-report-accuracy.md) — related

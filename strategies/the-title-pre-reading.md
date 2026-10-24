@@ -57,9 +57,11 @@ The strategy works because comprehension depends on connecting new text to exist
 5. Learners read the text, then return to the record to confirm, revise, or reject the pooled ideas — asking them to explain the discrepancies strengthens conceptual learning [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the broader family; The Title is a minimal, text-anchored variant
 - [Anticipation Guides](anticipation-guides.md) — a structured pre-reading variant using agree/disagree statements instead of open brainstorming
 - [KWL Charts](kwl-chart.md) — extends the activity across the full reading cycle with a "Learned" phase
+- [Use small-group discussion of a phenomenon-describing problem before text study to bridge prior knowledge and new information](small-group-problem-discussion-before-text.md)
 
 ## Examples
 - Before reading an article titled "The History of Jazz Music," learners brainstorm in groups what they know about jazz's origins and cultural impact, then check their predictions against the article.

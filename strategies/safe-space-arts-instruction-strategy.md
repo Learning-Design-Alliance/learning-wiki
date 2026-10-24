@@ -47,6 +47,7 @@ Among the most consistent elements of effective arts instruction surfaced in the
 - [Classroom Climate Routines](classroom-climate-routines.md)
 - [Maintain Presence for Students](maintain_presence_for_students.md)
 - [Establish Guidelines for Discussions](establish_guidelines_for_discussions.md)
+- [Arouse desired emotions in pupils through art, literature, history, and imitation of admired models](art-literature-arouse-emotions-associated-ideas.md)
 
 ## Examples
 -

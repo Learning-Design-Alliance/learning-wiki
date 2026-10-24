@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (65 show a difference, 22 mixed, 14 no difference) · 70 studies (26 associational, 22 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 18 of 70 report an effect size · 98 claims rest on one study
+> **Evidence** · 102 claims (66 show a difference, 22 mixed, 14 no difference) · 71 studies (27 associational, 22 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 18 of 71 report an effect size · 99 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -137,6 +137,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Math achievement at the end of second grade is predicted by fluid intelligence, verbal working memory, and prior math achievement](../claims/math-achievement-t2-predictors.md) [+W] — learners who differ on it differ in outcomes
 - [Children's age, general intelligence, and divergent thinking positively predicted tool innovation performance, while executive function measures predicted only ideal manipulation](../claims/age-intelligence-divergent-thinking-predict-tool-innovation.md) [+W] — learners who differ on it differ in outcomes
 - [Intelligence and need for cognition are strong predictors of academic achievement in Flemish seventh graders](../claims/intelligence-need-for-cognition-strong-achievement-predictors.md) [+M] — learners who differ on it differ in outcomes
+- [Army Alpha intelligence standing correlates r = +.31 with one-term school standing among 153 normal-school students](../claims/army-alpha-school-standing-correlation-31.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

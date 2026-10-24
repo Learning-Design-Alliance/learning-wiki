@@ -51,3 +51,4 @@ Experiment 2 activation analysis: students talked 1.5 minutes about topic-releva
 - [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](pbl-discussion-prior-to-text-increases-free-recall.md) — reports the opposite
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
+- [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](problem-analysis-facilitates-text-recall.md) — related

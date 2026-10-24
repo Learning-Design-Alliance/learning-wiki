@@ -41274,5 +41274,125 @@
  "test-format\terror items across Tests A, B, and C\terror items across the alternate test forms": {
   "label": "Errors across Tests A, B, and C vs errors across alternate test forms",
   "treatment_is_a": true
+ },
+ "active-learning\tJigsaw classroom with positive goal and resource interdependence\tbusiness-as-usual": {
+  "label": "Jigsaw learning vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw classroom with positive goal and resource interdependence\tcooperation with resource independence": {
+  "label": "Resource interdependence vs resource independence",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group analysis of the blood-cell problem\tsmall-group analysis of an airplane problem": {
+  "label": "Blood-cell problem vs airplane problem",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group discussion explaining the blood-cell problem\tsmall-group discussion explaining an airplane takeoff problem": {
+  "label": "Blood-cell problem vs airplane problem",
+  "treatment_is_a": true
+ },
+ "media-design\taesthetic representation through a picture, art, or literature\tthe actual event": {
+  "label": "Aesthetic representation vs actual event",
+  "treatment_is_a": true
+ },
+ "media-design\timages that helped learners retrieve the answer during retrieval practice\timages appearing after the retrieval attempt": {
+  "label": "Answer-helping images during retrieval vs images after retrieval",
+  "treatment_is_a": true
+ },
+ "media-design\timages that helped learners retrieve the answer during retrieval practice\tretrieval practice without images": {
+  "label": "Answer-helping images during retrieval vs no images",
+  "treatment_is_a": true
+ },
+ "media-design\timages that helped retrieve the answer\tactual learning as indicated by later recall": {
+  "label": "Answer-helping images during retrieval vs later recall outcome",
+  "treatment_is_a": true
+ },
+ "media-design\timages that helped retrieve the answer\tactual posttest recall": {
+  "label": "Answer-helping images during retrieval vs posttest recall outcome",
+  "treatment_is_a": true
+ },
+ "media-design\timages that helped retrieve the answer\timages appearing after the retrieval attempt": {
+  "label": "Answer-helping images during retrieval vs images after retrieval",
+  "treatment_is_a": true
+ },
+ "media-design\timages that helped retrieve the answer\tno images": {
+  "label": "Answer-helping images during retrieval vs no images",
+  "treatment_is_a": true
+ },
+ "media-design\timages that helped retrieve the answer\tno images during retrieval practice": {
+  "label": "Answer-helping images during retrieval vs no images",
+  "treatment_is_a": true
+ },
+ "media-design\tpractice with images\tpractice without images": {
+  "label": "Images during retrieval practice vs no images",
+  "treatment_is_a": true
+ },
+ "media-design\tpractice with images during retrieval practice\tpractice without informative images": {
+  "label": "Informative images during retrieval practice vs no informative images",
+  "treatment_is_a": true
+ },
+ "media-design\tretrieval practice with answer-helping images\tretrieval practice with images shown after the retrieval attempt": {
+  "label": "Answer-helping images during retrieval vs images after retrieval",
+  "treatment_is_a": true
+ },
+ "media-design\tretrieval practice with answer-helping images\tretrieval practice without images": {
+  "label": "Answer-helping images during retrieval vs no images",
+  "treatment_is_a": true
+ },
+ "media-design\tretrieval practice with images\tretrieval practice without images": {
+  "label": "Images during retrieval practice vs no images",
+  "treatment_is_a": true
+ },
+ "media-design\tretrieval practice with images\tretrieval practice without images or with images appearing after the retrieval attempt": {
+  "label": "Images during retrieval vs no images or images after retrieval",
+  "treatment_is_a": true
+ },
+ "media-design\tretrieval practice with images that helped retrieve the answer\tretrieval practice with images appearing after the retrieval attempt": {
+  "label": "Answer-helping images during retrieval vs images after retrieval",
+  "treatment_is_a": true
+ },
+ "media-design\tretrieval practice with images that helped retrieve the answer\tretrieval practice without images": {
+  "label": "Answer-helping images during retrieval vs no images",
+  "treatment_is_a": true
+ },
+ "media-design\tretrieval practice with images that helped retrieve the answer\tretrieval practice without images or with less informative images": {
+  "label": "Answer-helping images during retrieval vs no or less-informative images",
+  "treatment_is_a": true
+ },
+ "practice-amount\t100 alternating cancellations of 3s and 5s\tno special training during the interval": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t100 trials canceling 3s and 5s separately\tno special training during the interval": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t100 trials of addition practice\tno special training": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tAnalyze the relevant blood-cell problem before studying the text\tAnalyze an unrelated airplane problem before studying the text": {
+  "label": "relevant problem first vs unrelated problem first",
+  "treatment_is_a": true
+ },
+ "problem-first\tanalyze the blood-cell problem before studying the text\tanalyze an airplane problem before studying the text": {
+  "label": "relevant problem first vs unrelated problem first",
+  "treatment_is_a": true
+ },
+ "problem-first\tanalyzing the blood-cell problem before studying the text\tanalyzing a control problem before studying the text": {
+  "label": "relevant problem first vs unrelated problem first",
+  "treatment_is_a": true
+ },
+ "problem-first\tblood-cell problem analysis before text\tcontrol airplane-problem analysis before text": {
+  "label": "relevant problem first vs unrelated problem first",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\topportunities for useful emotions followed by pleasurable consequences\tharmful-emotion situations and expression followed by avoidance or unpleasant consequences": {
+  "label": "reward vs punishment",
+  "treatment_is_a": true
+ },
+ "test-format\tfree narrative report\tinterrogatory question-and-answer report": {
+  "label": "free narrative report vs interrogatory question-and-answer report",
+  "treatment_is_a": true
  }
 }

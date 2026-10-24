@@ -48,3 +48,4 @@ The article reports, citing the Yerkes and Wood article's Table III, that a "coe
 - [In the Yerkes-Bridges alteration of the Binet Scale, equal point increments are assigned to digit-span steps whose growth intervals, as placed in the Binet Scale, are approximately 1, 3, 3, and 4 years.](unequal-point-increments-digit-span-yerkes-bridges.md) — related
 - [The probable error of a score on the language error tests is 2.24](wilson-probable-error-224.md) — related
 - [The Yerkes-Bridges Point Scale scoring method fails entirely to accomplish its stated purpose of bringing out the full value of the test material.](yerkes-bridges-point-scale-fails-stated-purpose.md) — related
+- [IQ is only approximately constant across successive examinations, with first-to-fifth IQ correlation of +0.82 and prediction error of 4 to 7 points](iq-approximately-constant-prediction-error.md) — related

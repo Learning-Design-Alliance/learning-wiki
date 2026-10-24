@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 238 claims (146 show a difference, 57 mixed, 35 no difference) · 174 studies (109 associational, 30 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 27 of 174 report an effect size · 230 claims rest on one study
+> **Evidence** · 245 claims (151 show a difference, 59 mixed, 35 no difference) · 176 studies (110 associational, 31 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 28 of 176 report an effect size · 237 claims rest on one study
 
 ## How to read this page
 
@@ -276,6 +276,13 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Altering the order of administration of math and verbal tests serves as an ecological intervention that reduces stereotype threat on girls’ math performance.](../claims/test-order-intervention-reduces-stereotype-threat-girls-math.md) [+M] — an instructional effect differs by group
 - [Non-fraternity male freshmen were more likely than non-fraternity female freshmen to reach the laggard list](../claims/male-freshmen-more-laggards-than-female.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [In story recall, boys' memory power culminated about the beginning of high school, girls recalled more of the story than boys across parallel grades, and earlier parts of the story were recalled better than later parts](../claims/story-recall-boys-peak-early-girls-higher-primacy.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Across the four graduating classes, the percentage of graduated boys entering 'Early' declined (44, 43, 40, 29 per cent) while the percentage of girls rose (12, 48, 53, 53 per cent)](../claims/early-entrance-sex-trend-graduates.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Adolescent girls perceive higher utility value of social competences than boys](../claims/girls-perceive-higher-utility-value-of-social-competences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Adolescent girls report higher self-reported social competences than boys in vocational high school](../claims/girls-report-higher-social-competences-than-boys.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Jigsaw classroom curbs the widening gender gap in perceived utility value of social competences, reducing the Time-3 gap by 50% versus business-as-usual and 25% versus resource independence](../claims/jigsaw-curbs-widening-gap-utility-value.md) [~W] — an instructional effect differs by group
+- [Jigsaw classroom curbs the widening gender gap in self-reported social competences, reducing the Time-3 gap by 27% versus business-as-usual and 20% versus resource independence](../claims/jigsaw-curbs-widening-gap-self-reported-competences.md) [~W] — an instructional effect differs by group
+- [The gender gap in perceived utility value of social competences widens over time](../claims/gender-gap-utility-value-widens-over-time.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The gender gap in self-reported social competences widens over two years of vocational high school](../claims/gender-gap-self-reported-competences-widens-over-time.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

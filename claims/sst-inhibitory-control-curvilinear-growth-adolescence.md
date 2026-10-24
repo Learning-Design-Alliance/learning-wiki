@@ -50,3 +50,4 @@ Latent growth curve modeling of three annual Stop Signal Task assessments in a c
 - [Parent-reported inhibitory control (EATQ-R) shows no detectable growth from early to middle adolescence](parent-reported-inhibitory-control-no-growth.md) — related
 - [Performance on inhibitory control measures improves with age, with some tasks reaching performance plateaus beginning around 4 years of age](inhibitory-control-performance-improves-plateaus-age-4.md) — related
 - [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related
+- [Average and superior children develop at different levels and grow increasingly dissimilar with age, with superior children showing adolescent mental acceleration about one year earlier](average-superior-mental-curves-diverge.md) — related

@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 84 claims (38 for, 44 mixed, 2 against) · 64 studies (35 causal, 11 review, 10 quant-synthesis, 3 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 18 of 64 report an effect size · 75 claims rest on one study
+> **Evidence** · 85 claims (38 for, 45 mixed, 2 against) · 65 studies (36 causal, 11 review, 10 quant-synthesis, 3 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 18 of 65 report an effect size · 76 claims rest on one study
 
 ## Description and scope
 
@@ -149,6 +149,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Videos and illustrated texts showed no significant difference in retrieval from materials or transfer among fifth and sixth graders](../claims/no-modality-difference-retrieval-transfer.md) [~W]
 - [Visual support reduces global sentence reading times and regressions in adult readers](../claims/visual-support-reduces-global-sentence-reading-times.md) [+W]
 - [Accompanying sentences with an image improves comprehension accuracy, significantly so for sentences containing low-frequency words](../claims/visual-support-improves-sentence-comprehension-accuracy.md) [+W]
+- [Students recognized the harm of answer-revealing images only when images clearly revealed the answer](../claims/students-recognize-harm-only-when-images-reveal-answer.md) [~W]
 
 ## Examples
 

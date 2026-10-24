@@ -70,3 +70,4 @@ The review attributes to Aldrup et al. (2024) that "surface acting and suppressi
 - [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](reappraisal-and-suppression-reverse-linked-to-ef.md) — related
 - [Perceived student misbehavior is consistently identified as a key source of teacher stress and is positively associated with emotional exhaustion](student-misbehavior-teacher-stress-emotional-exhaustion.md) — related
 - [Study demands lead to exhaustion and self-undermining behaviors, instigating a loss spiral](self-undermining-loss-spiral-students.md) — related
+- [Direct repression subdues outward emotional expression but is incomplete as a means of control and may damage the child](direct-repression-incomplete-emotional-control.md) — related

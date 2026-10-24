@@ -70,3 +70,4 @@ Single-turn pedagogical quality analysis across all evaluated models and subject
 - [Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%](multi-turn-dialogue-amplifies-tutor-harm.md) — related
 - [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](revealing-answer-undesired-feedback-higher-succscore.md) — related
 - [AI use is predominantly independent of the science subject taught, with one exception: chemistry teachers most often cite lack of subject-specific relevance](ai-use-independent-of-science-subject.md) — related
+- [Students recognized the harm of answer-revealing images only when images clearly revealed the answer](students-recognize-harm-only-when-images-reveal-answer.md) — related

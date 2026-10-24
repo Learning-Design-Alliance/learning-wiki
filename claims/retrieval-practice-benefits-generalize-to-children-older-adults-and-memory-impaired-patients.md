@@ -109,3 +109,4 @@ The chapter reports that "Several recent studies have shown promising results us
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — related
+- [Younger children are much more suggestible than older children or adults in response to suggestive questions](age-gradient-in-suggestibility.md) — related

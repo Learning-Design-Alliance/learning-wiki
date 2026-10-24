@@ -90,3 +90,4 @@ Girls' section of Table 2, fifth-year row, printed verbatim: "Fifth Year 1997–
 - [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
+- [Graduates spent more semesters in the grades and in the high school than non-graduates, and graduated girls spent longer than graduated boys](semesters-spent-graduates-nongraduates.md) — related

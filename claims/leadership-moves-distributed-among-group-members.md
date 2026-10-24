@@ -71,3 +71,4 @@ Coding of 22 groups in a multi-touch classroom study. The article reports "1,377
 - [Without assigned roles, all group members generally participate in many core dimensions of group leadership, which emerges as an interactive group phenomenon](distributed-leadership-emergent-group-phenomenon.md) — related
 - [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md) — related
 - [Debriefing analysis and application phases operate as distributed metacognition on the publicly shared account](distributed-metacognition-analysis-application.md) — related
+- [Congress speakers advocate distributing lessons in early secondary years and concentrating them in higher lycee classes](levy-wogue-distribution-early-concentration-later.md) — related

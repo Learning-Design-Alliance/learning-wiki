@@ -48,3 +48,5 @@ Null ANOVA on inference counts from the same randomized study; the article repor
 - [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](pbl-recall-benefit-general-not-explanation-specific.md) — related
 - [Elaboration during a problem-based discussion interacts with relevant prior knowledge on immediate text recall, with the interaction approaching significance at a medium effect size](elaboration-prior-knowledge-interaction-immediate-recall.md) — related
 - [Prior problem-based discussion does not change the number of inaccurate propositions recalled](pbl-discussion-no-change-in-inaccurate-recall.md) — related
+- [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](problem-analysis-facilitates-text-recall.md) — related
+- [Problem analysis through small-group discussion particularly stimulates the production of explanatory propositions, via a significant treatment-by-proposition-type interaction](problem-analysis-favors-explanatory-propositions.md) — related

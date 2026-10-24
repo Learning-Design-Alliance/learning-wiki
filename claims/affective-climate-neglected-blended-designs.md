@@ -45,3 +45,4 @@ Results for research question 4 across the 20 reviewed studies, coded against Ve
 ## Related Claims
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
+- [Schools have historically neglected the education of the emotions for three stated reasons](schools-neglect-emotions-three-reasons.md) — related
