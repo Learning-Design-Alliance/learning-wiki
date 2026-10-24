@@ -29,4 +29,4 @@ A standardized written-language assessment published by the World Book Company i
 -
 
 ## Key Sources
-- Wilson, G. M. (1921). Language Error Tests. The Journal of Educational Psychology.
+- Wilson, G. M. (1922). Language error tests. *Journal of Educational Psychology, 13*(6), 341–349. [doi:10.1037/h0064444](https://doi.org/10.1037/h0064444)

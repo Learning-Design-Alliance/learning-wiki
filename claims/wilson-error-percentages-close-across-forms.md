@@ -9,9 +9,9 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 sources:
-  - id: wilson-1921
+  - id: wilson-1922
     resource: "https://doi.org/10.1037/h0064444"
-    title: "Wilson, G. M. (1921). Language Error Tests. The Journal of Educational Psychology. https://doi.org/10.1037/h0064444"
+    title: "Wilson, G. M. (1922). Language error tests. Journal of Educational Psychology, 13(6), 341-349. https://doi.org/10.1037/h0064444"
     author: Wilson, G. M.
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` For grades III, VI, and X, the median percentages of pupils making each error in each test run surprisingly close together across the three forms. [→ Wilson 1921](#wilson-1921)
+`q2 i?` For grades III, VI, and X, the median percentages of pupils making each error in each test run surprisingly close together across the three forms. [→ Wilson 1922](#wilson-1922)
 
 ## Evidence
 
-### Wilson 1921
+### Wilson 1922
 
-Wilson, G. M. (1921). Language Error Tests. The Journal of Educational Psychology. https://doi.org/10.1037/h0064444
+Wilson, G. M. (1922). Language error tests. *Journal of Educational Psychology, 13*(6), 341–349. [doi:10.1037/h0064444](https://doi.org/10.1037/h0064444)
 
 `q2 · i?` · `design · r2`
 
