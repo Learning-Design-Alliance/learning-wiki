@@ -77,3 +77,4 @@ Experimental study with N = 178 pre-service teachers working on simulations of p
 - [Adaptive feedback does not improve pre-service teachers' diagnostic accuracy in simulation-based learning](ann-adaptive-feedback-no-diagnostic-accuracy-effect.md) — related
 - [Static expert-solution feedback had detrimental effects on the learning process when pre-service teachers worked in dyads](static-feedback-detrimental-dyads.md) — related
 - [Collaboration format (individual vs. dyad) was experimentally manipulated alongside feedback format in simulation-based teacher learning](individual-versus-dyad-simulation-collaboration.md) — related
+- [The field's greatest need is an extensive experimental and critical study of the relative diagnostic value of available individual tests, followed by establishment of norms](need-for-critical-study-of-test-relative-value-and-norms.md) — related

@@ -13,7 +13,7 @@ generated:
 # English-Learner Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (55 show a difference, 21 mixed, 16 no difference) · 67 studies (28 associational, 15 causal, 10 review, 5 quant-synthesis, 4 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 10 of 67 report an effect size · 91 claims rest on one study
+> **Evidence** · 93 claims (55 show a difference, 21 mixed, 17 no difference) · 68 studies (28 associational, 15 causal, 10 review, 6 quant-synthesis, 4 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 10 of 68 report an effect size · 92 claims rest on one study
 
 ## Description
 English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.
@@ -122,6 +122,7 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [L1 (Spanish) reading comprehension is positively correlated with English reading comprehension, with the relationship weaker for students with lower English proficiency](../claims/l1-spanish-comprehension-correlates-english-comprehension.md) [~M] — an instructional effect differs with it
 - [Training effects on flexibility and word problem solving do not differ between students with low and high language skills](../claims/training-effects-not-moderated-by-language-skills.md) [-M] — an instructional effect differs with it
 - [Biliterate dual language learners show higher higher order cognitive skills regardless of instructional program](../claims/biliterate-status-higher-order-cognition.md) [+M] — learners who differ on it differ in outcomes
+- [No significant subgroup difference was found in the magnitude of the direct effect of MA on reading comprehension for any moderator (except lower elementary non-significance)](../claims/no-subgroup-difference-direct-effect.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

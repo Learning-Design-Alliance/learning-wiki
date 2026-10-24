@@ -46,3 +46,4 @@ Narrative review attributing this to Kidwell et al. (2016): the article reports 
 
 - [Registered reports were rated higher than typical papers on all nineteen evaluated quality criteria by 353 peer reviewers](registered-reports-rated-higher-on-nineteen-criteria.md) — related
 - [Registered Reports appear to produce credible null findings more frequently than comparable studies, with no detected change in citation rates](registered-reports-null-findings-citation-rates.md)
+- [The article includes an Open Practices Disclosure indicating eligibility for open data, materials, and preregistration badges](open-practices-disclosure-sel-refugee-trial.md) — related

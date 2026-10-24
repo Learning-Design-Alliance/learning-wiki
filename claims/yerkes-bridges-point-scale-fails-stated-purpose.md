@@ -48,3 +48,4 @@ Theoretical argument in the article's introduction. Otis contrasts the Point Sca
 - [The probable error of a score on the language error tests is 2.24](wilson-probable-error-224.md) — related
 - [Yerkes-Bridges coefficients of intelligence of 1.20 or more are attained by very different percentages of children at successive ages (34.5% at ages 4-5 down to 0% at ages 16-17 and 18-on), so they do not represent the same degree of brightness at all ages.](non-comparable-brightness-coefficients-yerkes-bridges.md) — related
 - [The Binet-Simon and Yerkes Point Scale ratings of children run parallel and are practically identical up to age ten](binet-point-scale-parallel-to-age-ten.md) — related
+- [The Binet scale is heavily verbal — 43 of its 54 tests use words rather than acts — a criticism Ayres raises and the reviewer partially rebuts](binet-scale-43-of-54-tests-verbal.md) — related

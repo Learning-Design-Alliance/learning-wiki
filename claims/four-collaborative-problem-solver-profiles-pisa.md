@@ -57,3 +57,4 @@ The editorial reports, citing Ma, Zhang, Ni and Zhou, a latent profile analysis 
 - [Engagement profiles predict who benefits most from accuracy-based adaptive support](engagement-profiles-predict-adaptive-benefit.md) — related
 - [Hong Kong fourth graders' OMR self-efficacy and emotions form three distinct motivational-emotional profiles: positive, moderate, and ambivalent](three-omr-motivational-emotional-profiles-grade4.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
+- [The study examines the social gradient in students’ achievement motivation through an integrative data analysis spanning two decades of PISA data](pisa-two-decade-ida-social-gradient-achievement-motivation.md) — related

@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (19 for, 11 mixed) · 24 studies (8 review, 6 theoretical, 5 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 24 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (20 for, 11 mixed) · 25 studies (8 review, 6 causal, 6 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Student learning activity combined domain-specific academic practices and generic skill practices, supported partly by teachers' scaffolding and partly by self-organized group work](../claims/combined-scaffolding-and-self-organized-group-work.md) [+W] — attached 2026-10-18 from Mørch et al. (2024), which proposed "Coordinate top-down instructional scaffolding with bottom-up creative, self-determined learning goals to balance creative and instructional learning goals".
 - [Sequenced explicit instruction then guided independent learning: students benefit from explicit instruction early and guided independence as fluency develops](../claims/sequenced-explicit-then-independent-learning.md) [+W] — attached 2026-10-21 from Andrew J. Martin (2023), which proposed "Treat explicit and constructivist instruction as synergistic rather than mutually exclusive"; tests this page's relationship.
 - [Tarski's World facilitated conditional reasoning relative to only-situated or only-formal instruction](../claims/tarski-world-facilitated-conditional-reasoning.md) [+W] — attached 2026-10-22 from Jelke van Der Pal (1999), which proposed "Balance situated activity with formal tools in instruction"; tests this page's relationship.
+- [CALI shows some evidence of improving oral and reading comprehension skills (d = .125) without opportunity cost to reading gains.](../claims/cali-comprehension-gains-no-opportunity-cost.md) [+W] — attached 2026-10-24 from Dombek et al. (2017), which proposed "Deliver content-area (science and social studies) instruction during the existing literacy block to build content knowledge without sacrificing reading instruction time.".
 
 ## Objective and learner-valued goal
 

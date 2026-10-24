@@ -48,3 +48,4 @@ Product-moment correlations computed separately for five class-standing groups f
 - [IQ-grade correlation differs sharply by class standing: .69 for Juniors versus .17 for Sophomores, rising to .48 when three discrepant records are omitted](caldwell-1919-junior-sophomore-correlation-difference.md) — related
 - [Stanford Adult test results correlate .44 with college grades when Juniors and Sophomores are re-ranked as one group](caldwell-1919-iq-grades-correlation-44.md) — related
 - [Alpha subtests differ in predicting grades, with correlations from .17 (Test 3) to .37 (Test 7) among seniors](alpha-subtest-correlation-range.md) — related
+- [Median Alpha scores increase each year of high school, by about 15, 10 and 4 points across the successive year intervals](yearly-alpha-gains-15-10-4-points.md) — related

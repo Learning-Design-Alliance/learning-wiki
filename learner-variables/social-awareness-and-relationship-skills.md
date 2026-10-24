@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (78 show a difference, 25 mixed, 11 no difference) · 83 studies (24 review, 21 associational, 13 causal, 13 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 24 of 83 report an effect size · 110 claims rest on one study
+> **Evidence** · 115 claims (79 show a difference, 25 mixed, 11 no difference) · 84 studies (24 review, 21 associational, 14 causal, 13 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 24 of 84 report an effect size · 111 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -155,6 +155,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Jigsaw classroom curbs the widening gender gap in perceived utility value of social competences, reducing the Time-3 gap by 50% versus business-as-usual and 25% versus resource independence](../claims/jigsaw-curbs-widening-gap-utility-value.md) [+W] — instruction changes it
 - [Differences in children's social skills account for roughly 10–20% of the convergence in academic test scores](../claims/social-skills-explain-test-score-convergence.md) [+W] — learners who differ on it differ in outcomes
 - [Preschool attendees exhibit less optimal social skills at kindergarten entry, persisting through first grade only](../claims/preschool-social-skills-deficit-first-grade.md) [-W] — instruction changes it
+- [A cluster randomized trial tests the impact of a skill-targeted social and emotional learning curriculum with Syrian refugee children in Lebanon](../claims/cluster-rct-skill-targeted-sel-syrian-refugee-children-lebanon.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

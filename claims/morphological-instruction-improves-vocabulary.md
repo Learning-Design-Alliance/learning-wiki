@@ -94,3 +94,4 @@ Systematic review of 22 peer-reviewed studies of morphological intervention with
 - [Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness](morphological-awareness-contributes-reading-development.md) — related
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](word-reading-interventions-outcome-type-effects.md) — related
 - [In group design studies, effects of family-implemented literacy interventions vary by outcome type: meaning-focused outcomes (g = 0.41) show larger effects than code-focused outcomes (g = 0.28)](family-literacy-effects-vary-by-outcome-type.md) — related
+- [Morphological awareness has a significant direct effect on reading comprehension controlling for word reading and vocabulary knowledge (β = .146)](ma-direct-effect-reading-comprehension.md) — related

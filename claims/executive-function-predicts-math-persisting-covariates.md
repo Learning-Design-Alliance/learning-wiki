@@ -72,3 +72,4 @@ Model B growth model adding receptive vocabulary and processing speed measured a
 - [Self-regulation effects on letter–word reading are reduced completely after cognitive covariate controls](self-regulation-reading-effects-reduced-covariates.md) — related
 - [Preschool executive function positively predicts kindergarten math on both measures, while teacher–child relationship quality shows only a trend-level main effect on ECLS-K Math and none on Applied Problems](ef-main-effect-teacher-relationship-main-effect-kindergarten-math.md) — related
 - [Preschool math ability significantly predicts kindergarten math ability on both the ECLS-K Math battery and the Applied Problems subtest](preschool-math-predicts-kindergarten-math-both-measures.md) — related
+- [Children's inhibitory control is positively related to math achievement as a main effect, independent of parental input](inhibitory-control-main-effect-math.md) — a narrower finding that bears on this claim

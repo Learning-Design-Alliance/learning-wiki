@@ -69,3 +69,5 @@ The article's summary states the scale measured intelligence development from se
 - [Psychology has helped develop methods for determining school-system efficiency, including pedagogical retardation statistics and measurement scales](retardation-statistics-and-scales-school-efficiency.md) — related
 - [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
 - [Taylor's Sheffield study suggests the Binet scale is broadly suitable for English children, though tests for ages 6 and 7 seem too easy and tests above 11 seem unsatisfactory.](sheffield-103-children-binet-suitable-english-ages-6-7-easy.md) — related
+- [The Binet scale can be understood and applied by the average teacher or school principal as readily as current pedagogical tests](binet-scale-usable-by-teachers-and-principals.md) — related
+- [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](binet-simon-scale-valuable-trained-dangerous-untrained.md) — related

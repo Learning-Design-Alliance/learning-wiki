@@ -55,3 +55,4 @@ The review reports, citing an included study, that "girls exhibited higher behav
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
 - [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](girls-younger-students-higher-engagement.md) — reports the opposite
 - [Girls show higher reading enjoyment and lower math enjoyment than boys, with no science enjoyment difference, after controlling for achievement, SES, and age](gender-differences-enjoyment-reading-math.md) — related
+- [Questionnaire responses from 3,598 pupils show boys' and girls' reading interests are far from identical, with some interests increasing or declining with age](jordan-3598-pupils-sex-differences-reading-interests.md) — related

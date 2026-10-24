@@ -50,3 +50,4 @@ Research question from the abstract: the study investigates whether performance 
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — a broader claim this one bears on
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
+- [The study examines the social gradient in students’ achievement motivation through an integrative data analysis spanning two decades of PISA data](pisa-two-decade-ida-social-gradient-achievement-motivation.md) — related

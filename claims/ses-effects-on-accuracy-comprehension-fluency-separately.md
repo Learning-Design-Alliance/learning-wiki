@@ -48,3 +48,4 @@ Second-stage TSSEM on three just-identified observable reading models. The compr
 - [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](ses-reading-partial-parallel-mediation-linguistic-skills.md) — related
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) — related
 - [Age moderates the vocabulary-to-reading paths (effects increase with age) but not the fluency model or any SES paths](age-moderates-vocabulary-reading-paths-not-ses-paths.md) — related
+- [Older readers showed a stronger indirect effect of MA on reading comprehension via vocabulary knowledge, with a converse pattern via word reading](age-grade-moderates-indirect-effects.md) — related

@@ -47,3 +47,4 @@ Regression-based prediction analysis of the Iowa height data using the Pearson c
 - [Children maintain their relative height rank within a group from ages 4 to 18, with little crossing of growth curves](height-rank-stability-little-curve-crossing.md) — related
 - [Growth measurements at age ten predict stature at sixteen within about 2.5 centimeters and IQ over the same period within 6.3 points](childhood-growth-predicts-later-stature-and-iq.md) — related
 - [Cross-sectional measurements of children of the same age may yield spurious growth facts because of great individual differences](cross-sectional-growth-facts-may-be-spurious-individual-differences.md) — related
+- [Coefficients of variability for physical traits tend to decrease from ages seven to seventeen and are generally higher in boys than in girls, per the review of Baldwin's growth study](baldwin-variability-decreases-7-17-higher-boys.md) — related

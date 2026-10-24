@@ -54,3 +54,4 @@ Measurement study in 81 school- and community-based ECE sites in a large Midwest
 - [A large-scale long-term study examined the measurement stability of Rasch measurement scales that had been in place for almost 40 years](long-term-study-rasch-scale-stability-almost-40-years.md) — related
 - [Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance](recalibrated-5essentials-measures-reliability.md) — related
 - [The final spring 2015 parent-survey pilot collected 253 parent responses across seven school-based and nine center-based Chicago preschool sites, in English and Spanish](parent-survey-pilot-253-responses.md) — related
+- [Maze-task reading performance from 1,258 first and second graders yields a reliable Rasch text-complexity scale](maze-task-student-rasch-scale.md) — related

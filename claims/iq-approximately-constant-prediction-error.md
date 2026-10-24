@@ -48,3 +48,4 @@ Repeated Stanford-Binet (Stanford Revision) testing of 143 children begun in 191
 - [Growth measurements at age ten predict stature at sixteen within about 2.5 centimeters and IQ over the same period within 6.3 points](childhood-growth-predicts-later-stature-and-iq.md) — related
 - [Doctoral preliminary-examination grades and thesis ratings correlated about 0.6 with later success, while recommendation letters ranged from 0.01 to 0.70](doctoral-grades-predict-later-success-better-than-letters.md) — related
 - [The reviewer reports that Baldwin's repeated examinations show the IQ is fairly constant though subject to fluctuations, and that repeated examinations exhibit a definite practice effect](iq-fairly-constant-with-fluctuations-and-practice-effect.md) — a broader claim this one bears on
+- [Early estimates place the IQ needed for successful first-year high school work between about 110 and 120](iq-110-120-needed-first-year-high-school-1922-estimates.md) — related

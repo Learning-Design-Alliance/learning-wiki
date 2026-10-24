@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (40 show a difference, 16 mixed, 12 no difference) · 48 studies (14 causal, 12 associational, 10 review, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 13 of 48 report an effect size · 67 claims rest on one study
+> **Evidence** · 69 claims (40 show a difference, 17 mixed, 12 no difference) · 49 studies (14 causal, 13 associational, 10 review, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 13 of 49 report an effect size · 68 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -108,6 +108,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [The experiment did not confirm that speed increase carries increased reading effectiveness within the same individual](../claims/speed-gain-does-not-carry-effectiveness-gain.md) [-M] — learners who differ on it differ in outcomes
 - [School subjects intercorrelate lowly except reading comprehension with reading rate (0.85)](../claims/low-school-subject-intercorrelations.md) [+M] — learners who differ on it differ in outcomes
 - [Rate of silent reading rises most rapidly in grades 2, 3 and 4, while quality of silent reading increases at about the same rate throughout the grades.](../claims/rate-versus-quality-progress-curves.md) [+W] — instruction changes it
+- [Reading-related skills show significant individual differences in growth rates in kindergarten through grade 2 but not in grades 3 through 5](../claims/reading-growth-individual-differences-early-not-late-elementary.md) [~W] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

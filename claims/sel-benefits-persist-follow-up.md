@@ -133,3 +133,4 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related
 - [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](vpc-change-persistence-follow-ups.md) — related
 - [SEL programs with explicit skill teaching and regular practice can promote preschool EF, possibly including inhibitory control](sel-programs-preschool-ef-efficacy.md) — a narrower finding that bears on this claim
+- [A cluster randomized trial tests the impact of a skill-targeted social and emotional learning curriculum with Syrian refugee children in Lebanon](cluster-rct-skill-targeted-sel-syrian-refugee-children-lebanon.md) — a narrower finding that bears on this claim

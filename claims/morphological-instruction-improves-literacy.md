@@ -106,3 +106,4 @@ Meta-analysis of 22 peer-reviewed studies of morphological intervention with par
 - [In group design studies, effects of family-implemented literacy interventions vary by outcome type: meaning-focused outcomes (g = 0.41) show larger effects than code-focused outcomes (g = 0.28)](family-literacy-effects-vary-by-outcome-type.md) — related
 - [Meaning-based and prosody-focused corrective feedback benefited comprehension and multiple reading outcomes, while decoding-focused feedback mainly enhanced fluency](meaning-based-feedback-comprehension-prosody.md) — related
 - [Working memory, orthographic, phonological, and morphological training each show significant medium effects on Chinese children's literacy](medium-effects-wm-ortho-phono-morph-training.md) — related
+- [Morphological awareness has a significant direct effect on reading comprehension controlling for word reading and vocabulary knowledge (β = .146)](ma-direct-effect-reading-comprehension.md) — related

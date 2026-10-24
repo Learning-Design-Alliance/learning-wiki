@@ -26,7 +26,8 @@ The Transparency and Openness Promotion (TOP) Guidelines are a policy framework 
 - [Most evaluated journals score low on the TOP Factor, with a mean of 3.36 and a median of 1 out of a possible 29 points](../claims/top-factor-journal-scores-low-mean-3-36.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Open Practices Disclosure form](open-practices-disclosure-form.md)
 
 ## Key Sources
 - Mellor, D. (2021). Improving norms in research culture to incentivize transparency and rigor. Educational Psychologist, 56(2). https://orcid.org/0000-0002-3125-5888

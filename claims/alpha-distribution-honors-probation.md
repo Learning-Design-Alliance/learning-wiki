@@ -45,3 +45,4 @@ Table III reports percentage distributions of intelligence ratings for each acad
 ## Related Claims
 - [Grade-class membership relates to grade distributions, with failing-poor ratios rising sharply across the five lowest-to-highest Alpha classes](intelligence-class-gradedistribution.md) — related
 - [Most students show small discrepancies between intelligence percentile and scholarship percentile, but a substantial minority show large ones](alpha-scholarship-percentile-discrepancy-distribution.md) — related
+- [Academic high school freshmen show a very wide range of intelligence, but the group as a whole covers about the upper half of the population distribution](high-school-freshmen-cover-upper-half-intelligence-range.md) — related

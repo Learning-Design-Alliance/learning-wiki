@@ -71,3 +71,4 @@ In the final multivariate LGCM (Model 2), "higher initial NRS levels strongly co
 - [Early numeracy shows a two-factor structure (NRS and CS) on the Dutch ENT-3, with the two-factor model outperforming a one-factor model at several time points](two-factor-structure-ent3-nrs-cs.md) — related
 - [The interdependence between numerical relational and counting skills is weaker in at-risk learners](weaker-nrs-cs-interdependence-at-risk.md) — related
 - [At-risk learners show lower initial levels and delayed growth in early numeracy components, especially counting skills, relative to typically developing peers](at-risk-lower-initial-delayed-growth.md) — related
+- [Cross-domain multivariate models showed mostly independent reading and math growth trajectories, with significant associations only between measures capturing similar skills](domain-specific-reading-math-growth-associations.md) — related

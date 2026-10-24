@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (65 show a difference, 13 mixed, 10 no difference) · 67 studies (23 associational, 20 causal, 13 quant-synthesis, 6 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 17 of 67 report an effect size · 85 claims rest on one study
+> **Evidence** · 90 claims (66 show a difference, 14 mixed, 10 no difference) · 68 studies (23 associational, 20 causal, 14 quant-synthesis, 6 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 18 of 68 report an effect size · 87 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -129,6 +129,8 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Grade 1 vocabulary carried the significant mediated pathway, while treatment showed no significant direct path to Grade 2 vocabulary](../claims/grade1-vocabulary-significant-grade2-not.md) [~M] — learners who differ on it differ in outcomes
 - [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](../claims/discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) [+M] — learners who differ on it differ in outcomes
 - [Specific syntax and vocabulary factors uniquely predicted reading comprehension in only one grade each (syntax in 4th, vocabulary in 7th)](../claims/specific-syntax-vocabulary-factors-unique-one-grade-each.md) [~M] — learners who differ on it differ in outcomes
+- [Morphological awareness has significant indirect effects on reading comprehension via word reading (β = .140) and vocabulary knowledge (β = .190)](../claims/ma-indirect-effects-via-word-reading-vocabulary.md) [+W] — learners who differ on it differ in outcomes
+- [Older readers showed a stronger indirect effect of MA on reading comprehension via vocabulary knowledge, with a converse pattern via word reading](../claims/age-grade-moderates-indirect-effects.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).
