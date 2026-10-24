@@ -507,7 +507,7 @@ def run(args) -> None:
         # from the same article as cells, then each new contrast named. A separate
         # call, not the extraction prompt: asking GLM for structure in the same call
         # cost it most of its passes. Writes no page; render_evidence_map.py reads
-        # eval/runs/evidence-axes/cells.ndjson. About $0.0025 an entry.
+        # eval/runs/evidence-axes/cells/ (evidence_cells.py). About $0.0025 an entry.
         print(f"\n=== coding the dimensions of new evidence entries ===", flush=True)
         _run_chained_step([sys.executable, "-u", "scripts/code_evidence_axes.py", "--new", "--code",
                            "--budget", "3"], SCRAPE_CONSOLE_LOG_PATH)

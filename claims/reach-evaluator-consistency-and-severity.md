@@ -67,3 +67,4 @@ Severity analysis using a randomly selected sample of 46 principals and 16 speci
 - [Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient](principals-inflate-distinguished-ratings.md) — related
 - [Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers](high-end-rating-inflation.md) — related
 - [Principals and trained external observers gave aggregate-consistent Danielson Framework ratings in matched observations](danielson-framework-aggregate-rating-consistency.md) — related
+- [Instructor grading practices vary extremely, with some instructors awarding no honor grades and others awarding honor grades to over half their students](extreme-instructor-grading-variation-carnegie-1917.md) — a narrower finding that bears on this claim

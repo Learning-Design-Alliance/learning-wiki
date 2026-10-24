@@ -58,9 +58,11 @@ Multisensory input supports early letter knowledge: children who trace and explo
 5. Provide corrective [Feedback](../elements/provide-feedback.md) on formation and distribute practice across days [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]
 
 ## Related Strategies
+
 - [Multisensory phonics instruction](multisensory-phonics-instruction.md) — the same haptic-tracing logic applied to letter–sound learning
 - [Chunking instruction](../strategies/chunking_instruction.md) — teaching letter families (e.g., "magic c" letters) in groups reduces load [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - [Part-task practice](../strategies/part-task_practice.md) — isolating individual strokes before whole letters [Part-task practice reduces load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
+- [Montessori method: teach writing as a game from ages three to four using sandpaper letters, crayon filling, and progressive tracing](montessori-sandpaper-writing-method.md)
 
 ## Examples
 - **Handwriting Without Tears** (https://www.lwtears.com) — commercial curriculum using Wood Pieces, Roll-a-Dough, and slate chalkboard activities before pencil practice; widely adopted in early elementary classrooms

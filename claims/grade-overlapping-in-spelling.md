@@ -47,3 +47,4 @@ Analysis of grade distributions from the spelling tests, presented in the curves
 - [Standard spelling scores for grades 1–8 derived from 2500 pupils rise from 10 in grade 1 to 85 in grade 8](spelling-standard-scores-grades-1-8.md) — related
 - [Prior spelling test lists (Ayres, Buckingham) are too easy for better pupils, with more than half of eighth-graders spelling all Buckingham list words correctly](prior-spelling-lists-ceiling-limitation.md) — related
 - [Two 100-word dictionary-sampled spelling lists administered to the same pupil yield scores agreeing within a mean variation of 2.2 points](two-spelling-lists-mean-variation-2-2-points.md) — related
+- [Group averages are misleading when applied to individual pupils because of extensive overlapping in weight and height across grades](group-averages-misleading-individual-overlap.md) — related

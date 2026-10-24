@@ -27,6 +27,7 @@ from pathlib import Path
 WIKI_ROOT = Path(__file__).parent.parent
 RUNS = WIKI_ROOT / "eval" / "runs" / "evidence-axes"
 sys.path.insert(0, str(WIKI_ROOT / "scripts"))
+import evidence_cells  # noqa: E402
 import evidence_dimensions as dims  # noqa: E402
 AXES = dims.axes()
 
@@ -73,25 +74,23 @@ def load_cells(run="cells"):
     kinds = {}
     cpath = RUNS / f"{run}-contrasts.json"
     contrasts = json.loads(cpath.read_text(encoding="utf-8")) if cpath.exists() else {}
-    for line in (RUNS / f"{run}.ndjson").read_text(encoding="utf-8").splitlines():
-        if line.strip():
-            r = json.loads(line)
-            for c in r["cells"]:
-                c["_basis"], c["_entry"], c["_i"] = r["basis"], r["entry"], r["codes"].get("i")
-                if r["claim"] not in kinds:
-                    kinds[r["claim"]] = entry_kinds(r["claim"])
-                res = c.setdefault("result", {})
-                if res.get("design"):
-                    res["design"] = dims.normalize("design", res["design"])
-                if res.get("design") in (None, "?"):
-                    res["design"] = KIND_DESIGN.get(kinds[r["claim"]].get(r["entry"]), "?")
-                d = c.get("D") or {}
-                lab = contrasts.get(f"{d.get('variable')}\t{d.get('treatment') or ''}\t{d.get('comparison') or ''}")
-                c["_contrast"] = (lab or {}).get("label") or f"{d.get('treatment')} vs {d.get('comparison')}"
-                if lab and not lab.get("treatment_is_a", True):
-                    res["direction"] = FLIP.get(res.get("direction"), res.get("direction"))
-                    c["_flipped"] = True
-                by_claim[r["claim"]].append(c)
+    for r in evidence_cells.read(run):
+        for c in r["cells"]:
+            c["_basis"], c["_entry"], c["_i"] = r["basis"], r["entry"], r["codes"].get("i")
+            if r["claim"] not in kinds:
+                kinds[r["claim"]] = entry_kinds(r["claim"])
+            res = c.setdefault("result", {})
+            if res.get("design"):
+                res["design"] = dims.normalize("design", res["design"])
+            if res.get("design") in (None, "?"):
+                res["design"] = KIND_DESIGN.get(kinds[r["claim"]].get(r["entry"]), "?")
+            d = c.get("D") or {}
+            lab = contrasts.get(f"{d.get('variable')}\t{d.get('treatment') or ''}\t{d.get('comparison') or ''}")
+            c["_contrast"] = (lab or {}).get("label") or f"{d.get('treatment')} vs {d.get('comparison')}"
+            if lab and not lab.get("treatment_is_a", True):
+                res["direction"] = FLIP.get(res.get("direction"), res.get("direction"))
+                c["_flipped"] = True
+            by_claim[r["claim"]].append(c)
     return by_claim
 
 

@@ -56,8 +56,10 @@ Handwriting is a graphomotor skill whose fluency underpins later composition: wh
 5. **Mixed review**: previously taught letters are interleaved with new ones in short spaced sessions, then applied to real words ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Structured Literacy / Orton-Gillingham](orton-gillingham-approach.md) — the broader intervention framework in which multisensory handwriting is embedded
 - [Explicit Handwriting Fluency Practice](handwriting-fluency-practice.md) — timed, formation-focused practice that builds transcription automaticity after initial instruction
+- [Montessori method: teach writing as a game from ages three to four using sandpaper letters, crayon filling, and progressive tracing](montessori-sandpaper-writing-method.md)
 
 ## Examples
 - **Orton-Gillingham-based programs** (e.g., [IMSE](https://www.imse.com)) use sand-tray tracing, sky-writing, and simultaneous articulation of sounds during letter formation as standard practice for dyslexia intervention.

@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 132 claims (59 for, 63 mixed, 10 against) · 60 studies (28 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 20 of 60 report an effect size · 125 claims rest on one study
+> **Evidence** · 134 claims (61 for, 63 mixed, 10 against) · 61 studies (29 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 20 of 61 report an effect size · 127 claims rest on one study
 
 ## Conditional relationship
 
@@ -105,6 +105,8 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [For a highly coherent text, taking a fill-in-the-blank practice test yields no retention benefit and does not slow forgetting compared to restudy](../claims/coherent-text-no-testing-benefit-fill-in-blank.md) [~W] — attached 2026-10-22 from de Jonge et al. (2015), which proposed "Use completion tests for retention of unconnected materials rather than highly structured texts"; tests this page's relationship.
 - [Without initial instruction, varied retrieval practice matches varied worked examples and beats repeated retrieval practice for generalization](../claims/varied-retrieval-practice-matches-varied-worked-examples.md) [+M] — attached 2026-10-22 from Meng Cao et al. (2026), which proposed "Align learning strategy choice with the instructional goal: induction versus memory consolidation"; tests this page's relationship.
 - [Images that reveal the answer during retrieval practice reduce vocabulary recall compared with practice without images](../claims/answer-revealing-images-reduce-vocabulary-retrieval-practice-learning.md) [~W] — attached 2026-10-24 from van den Broek et al. (2021), which proposed "Avoid informative images during vocabulary retrieval practice because they can harm learning".
+- [Stepwise MCQs, which delay answer options by 4 s, enhance vocabulary retention significantly compared to standard MCQs in three of four experiments, measured days after practice.](../claims/stepwise-mcqs-enhance-vocabulary-retention.md) [+W] — attached 2026-10-24 from van den Broek et al. (2023), which proposed "Use a stepwise display in MCQ-based retrieval practice: present the question before the answer options to create a cued-recall opportunity.".
+- [The stepwise-MCQ benefit is most robust for questions with noncompetitive answer options and for learners who report trying to retrieve the answer during the delay.](../claims/stepwise-mcq-benefit-moderators.md) [+W] — attached 2026-10-24 from van den Broek et al. (2023), which proposed "Use a stepwise display in MCQ-based retrieval practice: present the question before the answer options to create a cued-recall opportunity.".
 
 ## Objective and learner-valued goal
 

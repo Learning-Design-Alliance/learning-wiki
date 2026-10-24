@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1903 entries** · 0 stable · 1903 in review · 0 drafts
+**1904 entries** · 0 stable · 1904 in review · 0 drafts
 
 ---
 
@@ -1773,6 +1773,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Thinking Math!](thinking-math.md) - Innovamat's PreK–8 mathematics curriculum package combines socio-constructivist lessons, manipulative materials, student logbooks, digital planning and progress monitoring, adaptive practice, and professional development.
 * [thinkSRSD](thinksrsd.md) - thinkSRSD is an online resource providing free materials to help educators and school districts implement Self-Regulated Strategy Development, with optional paid online and in-person professional development.
 * [Thonny Log Visualizer](thonny-log-visualizer.md) - A teacher-facing web application developed by Heidi Taveter et al.
+* [Thorndike's objective scale for measuring handwriting quality](thorndikes-objective-scale-for-measuring-handwriting-quality.md) - A standardized handwriting-quality assessment scale developed by Edward L.
 * [Three open-ended survey questions assessing CT practices in physics contexts](three-open-ended-survey-questions-assessing-ct-practices-in-physics-contexts.md) - A three-question open-ended survey instrument developed by Sean Savage et al.
 * [Three-category framework for organizing school mental health and well-being supports](three-category-framework-for-organizing-school-mental-health-and-well-being-supports.md) - A National Charter School Resource Center framework that helps public charter-school leaders organize and assess school mental-health, well-being, and SEL supports across three categories.
 * [Three-component framework for high-quality, equitable kindergarten entry assessments: content, administration, and validity](three-component-framework-for-high-quality-equitable-kindergarten-entry-assessments-conten.md) - A Yun et al.

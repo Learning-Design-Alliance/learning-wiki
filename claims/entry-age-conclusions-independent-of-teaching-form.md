@@ -49,3 +49,4 @@ Winch defends against the objection that results depend on the system of instruc
 - [Winch's age-weighted method of measuring school progress cannot test the value of preliminary kindergarten teaching in large American cities](age-weighted-progress-method-scope-limit.md) — related
 - [English defense of early school entry shifts from intellectual advantage to moral advantage and attention development when faced with contrary evidence](early-entry-defense-shifts-moral-attention.md) — related
 - [Early school entry shows no intellectual advantage when comparison groups are of equal intellectual ability, per Winch's monograph](early-entry-no-advantage-equal-ability.md) — related
+- [Empirical transfer research by Thorndike, Stone, Courtis, Winch and others is the most hopeful sign for determining the place of mathematics in the curriculum](transfer-research-place-of-mathematics-curriculum.md) — related

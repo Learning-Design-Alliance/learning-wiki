@@ -94,3 +94,4 @@ The review reports that across three Kornell (2014) experiments with trivia fact
 - [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](immediate-feedback-limits-downstream-error-learning.md) — related
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — related
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related
+- [Stepwise MCQs, which delay answer options by 4 s, enhance vocabulary retention significantly compared to standard MCQs in three of four experiments, measured days after practice.](stepwise-mcqs-enhance-vocabulary-retention.md) — related

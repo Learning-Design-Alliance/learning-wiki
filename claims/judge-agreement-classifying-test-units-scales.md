@@ -49,3 +49,4 @@ Classification study in which five judges assigned each of 63 page-length test u
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](lo-alignment-judgment-more-subjective-than-answering.md) — related
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — related
 - [The test's exercises were validated by six expert judges who reached practical agreement after modification](six-judge-validity-agreement-test-exercises.md) — related
+- [Judges' ratings on the Thorndike handwriting scale agree closely, and averaged ratings give a constant determination](thorndike-scale-judge-agreement.md) — related

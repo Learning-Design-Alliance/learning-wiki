@@ -65,3 +65,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — a narrower finding that bears on this claim
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — related
 - [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](judge-agreement-classifying-test-units-scales.md) — related
+- [Judges' ratings on the Thorndike handwriting scale agree closely, and averaged ratings give a constant determination](thorndike-scale-judge-agreement.md) — related

@@ -6,10 +6,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **6,849 distinct studies** behind 26,495 claims. What they add up to (the sections below have the detail):
+The wiki holds **6,864 distinct studies** behind 26,579 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 31% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 57% are quasi-experiments, observational studies or narrative reviews, and 12% are case studies, opinion or theory.
-- **Few print an effect size.** 1,666 of 6,849 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Few print an effect size.** 1,668 of 6,864 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
 - **Strong work is not only trials.** 808 studies are rated `r3`, done well for their kind; 515 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 72% of studies, and 44% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
@@ -21,32 +21,32 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 26,495 |
-| Evidence entries | 31,701 |
-| Distinct studies | 6,849 |
-| Claims resting on one study | 25,962 (98%) |
+| Claims | 26,579 |
+| Evidence entries | 31,797 |
+| Distinct studies | 6,864 |
+| Claims resting on one study | 26,046 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 1,666 of 6,849 (24%) |
+| Studies reporting an effect size | 1,668 of 6,864 (24%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 95 | 875 | 290 | 379 | 1,639 |
+| causal | 95 | 879 | 291 | 379 | 1,644 |
 | quant-synthesis | 114 | 189 | 42 | 134 | 479 |
-| review | 163 | 534 | 110 | 142 | 949 |
-| associational | 84 | 1,012 | 398 | 285 | 1,779 |
+| review | 163 | 535 | 110 | 142 | 950 |
+| associational | 84 | 1,014 | 403 | 285 | 1,786 |
 | qualitative | 126 | 323 | 70 | 94 | 613 |
 | design | 61 | 542 | 135 | 35 | 773 |
-| theoretical | 165 | 328 | 65 | 59 | 617 |
+| theoretical | 165 | 329 | 66 | 59 | 619 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 842 (12%) | 3,875 (57%) | 1,980 (29%) | 152 (2%) |
+| 844 (12%) | 3,884 (57%) | 1,984 (29%) | 152 (2%) |
 
-**Studies per claim:** 0: 0, 1: 25,962, 2: 448, 3: 68, 4 or more: 17.
+**Studies per claim:** 0: 0, 1: 26,046, 2: 448, 3: 68, 4 or more: 17.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -105,7 +105,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
 | [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 90 pages | 1 | q3 | 0 of 1 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
-| [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 85 pages | 6 | q2–q3 | 1 of 6 |
+| [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 86 pages | 6 | q2–q3 | 1 of 6 |
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 82 pages | 3 | q2–q3 | 2 of 3 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 80 pages | 3 | q3–q4 | 0 of 3 |
 
@@ -120,7 +120,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 125 | 81 | 139 | 2 |
-| [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 21 | 15 | 49 | 6 |
+| [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 21 | 16 | 49 | 6 |
 | [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 317 | 43 | 19 | 3 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 24 | 25 | 18 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 488 | 66 | 17 | 3 |
@@ -149,14 +149,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 29 | 0 |
 | [elements](elements/index.md) | 1,057 | 782 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 30 | 0 |
-| [strategies](strategies/index.md) | 6,700 | 3,543 | 3 | 0 |
+| [strategies](strategies/index.md) | 6,709 | 3,551 | 3 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 9.5 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 914 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 46 | 0 |
 | [designs](designs/index.md) | 1,010 | 716 | 1 | 0 |
-| [products](products/index.md) | 1,903 | 1,414 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 635 | 557 | 1 | 0 |
+| [products](products/index.md) | 1,904 | 1,415 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 637 | 559 | 1 | 0 |
 
 ## Toward pooled estimates
 

@@ -45,3 +45,4 @@ Secondary analysis across the grade and age-group correlations shows correlation
 
 ## Related Claims
 - [Stanford-Binet mental age correlations with reading rise from grade III to grade VI](mental-age-reading-correlation-rises-with-grade.md) — related
+- [Prior studies show low and variable correlations between mental tests and college grades, averaging from .09 to .44](caldwell-1919-prior-test-grade-correlations-low.md) — related

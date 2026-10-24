@@ -93,3 +93,4 @@ Model 2 of the failure regressions. Interactive pedagogy related to lower failur
 - [Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy](grades-declined-higher-skill-single-period-students.md) — related
 - [Double-dose algebra substantially increased interactive pedagogy for low-skill students (.55 SD, p<.001), unexplained by classroom compositional changes](double-dose-increased-interactive-pedagogy-low-skill.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
+- [Alternate Average Adult tests are misplaced: 50% of AI 1 failures and 46% of AI 2 failures came from students with IQ above 110](caldwell-1919-alternate-tests-misplaced.md) — related

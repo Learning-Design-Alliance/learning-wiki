@@ -49,3 +49,4 @@ Survey Section 3 items on beliefs about inductive versus deductive effectiveness
 - [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — a broader claim this one bears on
 - [All student groups preferred explicit over implicit grammar instruction](efl-students-prefer-explicit-over-implicit-grammar-instruction.md) — related
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related
+- [Students taught fallacy detection by inductive drill on concrete examples decided argument validity more accurately than students taught by the regular deductive logic course](inductive-drill-superior-validity-decisions.md) — related

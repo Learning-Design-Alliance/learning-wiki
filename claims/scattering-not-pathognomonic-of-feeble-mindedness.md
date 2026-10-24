@@ -49,3 +49,4 @@ Descriptive group-comparison analysis of 2206 Binet records from clinic and inst
 - [The amount of advance credit earned on the Binet scale depends on the extent of testing, not the grade of intelligence of the pupils](binet-credits-depend-on-extent-of-testing.md) — related
 - [Sex differences in scattering reverse across scales: girls scatter more on the 1908 scale, boys on the 1911 and Stanford scales](sex-differences-in-binet-scattering-reverse-by-scale.md) — related
 - [Scattering varies with intelligence-age level: smallest at the lowest mental ages and possibly largest in the middle range, with age-level differences exceeding diagnostic-category differences](scattering-varies-with-mental-age-level.md) — related
+- [Because many delinquent girls learned quickly and accurately, the article concludes moral defects must be partially explained on grounds other than inferior mentality](delinquency-not-fully-explained-by-mentality.md) — related

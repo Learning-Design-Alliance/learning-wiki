@@ -73,3 +73,4 @@ The article reports that "a small number of primary studies found large effects"
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
 - [Meta-analytic effect sizes for cognitive-motivational techniques are substantial: multimedia d = 1.01 overall, elaborative feedback d = 0.71 recall, intrinsic integration d = 0.62](cognitive-motivational-techniques-effect-sizes.md) — related
+- [Multimedia feedback yields higher overall accuracy during practice with feedback, but without iterative improvement over scenarios](multimedia-feedback-higher-practice-accuracy.md) — related

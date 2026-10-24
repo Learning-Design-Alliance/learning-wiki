@@ -50,3 +50,4 @@ Chi-square analysis of the interaction between problem difficulty (easy, medium,
 - [Students learned significantly over the four lessons, and learning outcomes differed by curve form: immediate drop reflected high prior knowledge with low gain, while immediate peak showed the highest gain.](mbmlc-forms-learning-differences.md) — related
 - [Effort (unique problems and problem-solving attempts) does not differ between moment-by-moment learning curve forms.](mbmlc-forms-no-effort-differences.md) — related
 - [Close multiple spikes suggest students unable to regulate accuracy on their own learned better once the ALT took over part of the regulation.](close-spikes-system-support-regulation.md)
+- [Arithmetic problem difficulty may increase as the square of the number of steps rather than directly with step count](problem-difficulty-square-of-steps.md) — related

@@ -50,3 +50,5 @@ Careful analysis of the learning consciousness, verified by objective writing re
 - [The Orientation Statistic Read From Learner Records Is a Difficulty Sort](observation-orients-edges-only-where-prerequisites-gate.md) — related
 - [Dynamic psychology research on habit formation is replacing vague verbal maxims of applied psychology with definite insights, including when practice makes perfect and when it does not.](dynamic-psychology-replaces-vague-maxims.md) — a broader claim this one bears on
 - [Grace E. Bird advanced the thesis that emphasizing speed rather than accuracy from the start yields the most effective learning, with generalization flagged as risky](rapid-drill-speed-emphasis-thesis.md) — related
+- [Individual learning curves rise by irregular increments with occasional losses, with plateau-like periods attributed to changes in method and waning interest](irregular-individual-learning-increments-plateaus.md) — related
+- [Practice curves in computation and reasoning would resemble the learning curves of Bryan and Harter and Book](practice-curves-computation-reasoning-bryan-harter.md) — related

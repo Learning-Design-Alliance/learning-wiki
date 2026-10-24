@@ -97,3 +97,4 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — related
 - [Arm-body training improves overall legibility of letter script while pencil-and-paper training reduces it](arm-body-training-improves-overall-legibility.md) — related
 - [Accuracy in retrieving orthographic and semantic information is not significantly affected by time spent handwriting or typing during learning](writing-duration-not-related-to-retrieval-accuracy.md) — related
+- [Training for speed in handwriting may be secured without considerable sacrifice of quality](speed-without-quality-sacrifice.md) — related

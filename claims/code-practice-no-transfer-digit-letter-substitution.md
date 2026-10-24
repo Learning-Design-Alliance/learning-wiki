@@ -47,3 +47,4 @@ Control-group comparison in the results section: a practiced class and two contr
 - [Practice produced large within-task speed gains: averaging 89 per cent for letter cancellation and over 200 per cent for digit-for-letter substitution](kline-large-within-task-practice-gains.md) — related
 - [Letter-cancellation practice produced only small gains and some losses in parts-of-speech cancellation, while the unpracticed control group gained on all parts of speech](kline-letter-practice-limited-transfer-parts-of-speech.md) — related
 - [Practice in substituting digits for letters transferred positively to writing symbols for digits but interfered with writing digits for symbols](kline-substitution-transfer-asymmetric.md) — related
+- [Cancellation test ability shows no relation, and possibly an inverse relation, to abilities shown in the other tests](cancellation-test-no-relation-other-tests.md) — related

@@ -134,6 +134,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 
 - [Follow the French two-stage placement plan: pedagogical examination first, then mental tests for equal mental retardation](../strategies/binet-simon-special-class-placement-plan.md)
 - [Research agenda for intelligence measurement: intercorrelations, IQ permanence, distribution form, and effects of coaching](../strategies/intelligence-measurement-research-agenda-1921.md)
+- [Use mental tests as supplementary evidence of pupils' abilities in dealing with the apparently bright and the apparently stupid](../strategies/mental-tests-supplementary-evidence-strategy.md)
 
 ## Key Sources
 - Zimmerman, B. J., & Schunk, D. H. (Eds.). (2003). *Educational psychology: A century of contributions*. Erlbaum.

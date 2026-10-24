@@ -46,3 +46,4 @@ Applying a seventy-five per cent correct-judgment standard to the same digit-spa
 - [Teachers' classifications of pupils as good, fair, or poor agree only weakly with digit memory-test standing](teacher-standing-ratings-weakly-match-memory-test-standing.md) — related
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](pupils-improve-with-practice-no-fatigue-effect.md) — related
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
+- [Auditory memory (digit-span) tests are overrepresented in the adult scale and depress the rankings of otherwise high-performing students](caldwell-1919-auditory-memory-overweighting.md) — related

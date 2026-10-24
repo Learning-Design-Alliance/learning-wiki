@@ -48,3 +48,4 @@ Same-pupil administration of two parallel forms in a small city system; 103 pair
 - [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](steady-practice-before-fatigue-tests.md) — related
 - [Spelling test scores correlate highly with teachers' year-long marks (average coefficient .69 across grades 3–8)](spelling-test-teacher-mark-correlations.md) — related
 - [Correlations between two series of mirror-reading tests on the same 16 subjects range widely depending on how errors are scored, from .087 to .700.](mirror-reading-test-retest-correlations-vary-by-scoring.md) — related
+- [The equal-group tests showed high test-retest and between-group correlations, supporting the reliability of the arithmetical-reasoning marking method.](high-correlations-reasoning-tests.md) — related

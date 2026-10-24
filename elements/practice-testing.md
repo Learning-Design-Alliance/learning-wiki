@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 67 claims (32 for, 31 mixed, 4 against) · 41 studies (23 causal, 7 review, 6 quant-synthesis, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 41 report an effect size · 63 claims rest on one study
+> **Evidence** · 68 claims (33 for, 31 mixed, 4 against) · 42 studies (24 causal, 7 review, 6 quant-synthesis, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 42 report an effect size · 64 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -118,6 +118,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Explaining was not more effective than oral retrieval practice overall in Experiment 1](../claims/explaining-no-better-than-oral-retrieval-practice-exp1.md) [~W]
 - [Practice effects on the Thorndike-McCall test over two or more hours of testing are very small](../claims/thorndike-mccall-practice-effect-small.md) [~W]
 - [The overcoming-barriers intervention increases intention to use general retrieval practice methods immediately post-intervention but has no effect on reported use three weeks later](../claims/intervention-increases-intent-not-reported-use.md) [~W]
+- [Stepwise MCQs, which delay answer options by 4 s, enhance vocabulary retention significantly compared to standard MCQs in three of four experiments, measured days after practice.](../claims/stepwise-mcqs-enhance-vocabulary-retention.md) [+W] — attached 2026-10-24 from van den Broek et al. (2023), which proposed "Stepwise MCQ: a multiple-choice item that presents the question word for 4 s before the answer options appear"; tests this page's relationship.
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

@@ -41642,5 +41642,65 @@
  "rewards-incentives\twage bonus\tno wage bonus or baseline condition": {
   "label": "wage bonus vs no wage bonus",
   "treatment_is_a": true
+ },
+ "formative-assessment\tfaculty report on prior grade distributions\tgrading before the report": {
+  "label": "grade-distribution report vs no report",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia feedback\ttext-only feedback": {
+  "label": "multimedia feedback vs text-only feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia feedback (text plus diagrams)\ttext-only feedback": {
+  "label": "multimedia feedback vs text-only feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia feedback with text and diagrams\ttext-only feedback": {
+  "label": "multimedia feedback vs text-only feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia initial instruction\ttext-only initial instruction": {
+  "label": "multimedia initial instruction vs text-only initial instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia initial instruction (text plus diagrams)\ttext-only initial instruction": {
+  "label": "multimedia initial instruction vs text-only initial instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia initial instruction, text-only feedback\ttext-only initial instruction and feedback": {
+  "label": "multimedia initial instruction vs text-only initial instruction",
+  "treatment_is_a": true
+ },
+ "test-format\tcompetitive, hard-to-guess answer options\tnoncompetitive, easy-to-guess answer options": {
+  "label": "competitive vs noncompetitive answer options",
+  "treatment_is_a": true
+ },
+ "test-format\tregular Average Adult test\tAlternate Average Adult test (AI 1)": {
+  "label": "regular vs alternate test forms",
+  "treatment_is_a": true
+ },
+ "test-format\tregular Average Adult test\tAlternate Average Adult test (AI 2)": {
+  "label": "regular vs alternate test forms",
+  "treatment_is_a": true
+ },
+ "test-format\tstepwise MCQs\tstandard MCQs": {
+  "label": "stepwise vs standard MCQs",
+  "treatment_is_a": true
+ },
+ "test-format\tstepwise MCQs with a 4-second question-only display\tstandard MCQs with answer alternatives displayed immediately": {
+  "label": "stepwise vs standard MCQs",
+  "treatment_is_a": true
+ },
+ "test-format\tstepwise MCQs with delayed answer alternatives\tstandard MCQs with immediately displayed alternatives": {
+  "label": "stepwise vs standard MCQs",
+  "treatment_is_a": true
+ },
+ "test-format\tstepwise MCQs with noncompetitive answer options\tstandard MCQs with noncompetitive answer options": {
+  "label": "stepwise vs standard MCQs",
+  "treatment_is_a": true
+ },
+ "test-format\tstepwise MCQs with translations delayed 4 seconds\tstandard MCQs with translations shown immediately": {
+  "label": "delayed vs immediate translation display",
+  "treatment_is_a": true
  }
 }

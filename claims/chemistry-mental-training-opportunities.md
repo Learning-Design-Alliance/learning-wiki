@@ -46,3 +46,4 @@ Theoretical argument in the article's opening section: the author asserts chemis
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
+- [The article argues geometry teaching should target ten enumerated outcomes, with the general powers rather than the content as the chief aim](geometry-ten-aims-powers-over-content.md) — related

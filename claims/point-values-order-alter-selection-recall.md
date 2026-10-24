@@ -65,3 +65,4 @@ Experiment 2 recall by point order; printed effects are "F (1, 89) = 6.33, p < .
 - [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — related
 - [Younger and older adults select study items in an easy-to-difficult order, consistent with the region of proximal learning model](rpl-easy-to-difficult-selection-both-ages.md) — related
 - [Older adults allocate proportionally more study time to easy and medium items while younger adults allocate more to difficult items, yet older adults recall less despite studying more](age-differences-study-time-allocation-recall.md) — related
+- [Condition order did not affect working-memory performance but affected the magnitude of reaction-time deterioration when tasks were difficult](order-effects-rt-deterioration-difficult-tasks.md) — related

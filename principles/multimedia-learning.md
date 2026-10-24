@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 84 claims (34 for, 47 mixed, 3 against) · 65 studies (27 causal, 14 review, 13 quant-synthesis, 4 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 18 of 65 report an effect size · 75 claims rest on one study
+> **Evidence** · 86 claims (35 for, 48 mixed, 3 against) · 66 studies (28 causal, 14 review, 13 quant-synthesis, 4 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 19 of 66 report an effect size · 77 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,8 @@ Claims linked to this page later go here until they are read against the model. 
 - [mLearning students prefer video-based materials with each video under 5 minutes](../claims/mlearning-students-prefer-short-videos-under-5-minutes.md) [~W]
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](../claims/students-contextualize-ai-video-appropriateness.md) [~W]
 - [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](../claims/visual-presentation-limited-to-concrete-meanings.md) [+W] — attached 2026-10-24 from Frank N. Freeman (1922), which proposed "Visual materials' distinctive advantages: sensory appeal, spatial and mechanical relationships, temporal transformation, and diffusion of expert presentation".
+- [Multimedia feedback produces higher posttest performance than text-only feedback on conditional probability problems](../claims/multimedia-feedback-improves-posttest-conditional-probability.md) [+W] — attached 2026-10-24 from Gök et al. (2025), which proposed "Provide multimedia materials in feedback to improve problem-solving performance, and in initial instruction when the aim is spontaneous diagram generation"; tests this page's relationship.
+- [Multimedia initial instruction shows no detectable benefit over text-only instruction on posttest performance](../claims/multimedia-instruction-no-posttest-benefit.md) [~W] — attached 2026-10-24 from Gök et al. (2025), which proposed "Provide multimedia materials in feedback to improve problem-solving performance, and in initial instruction when the aim is spontaneous diagram generation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

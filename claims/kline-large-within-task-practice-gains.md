@@ -68,3 +68,4 @@ In the second study, individual improvement between the first record and the bes
 - [Practice in writing code produced practically no transfer to digit-letter substitution: the practiced group gained 12%, two percent less than the unpracticed control group.](code-practice-no-transfer-digit-letter-substitution.md) — related
 - [A letter-cancellation practice group outperformed a control group in the first parts-of-speech test period](kline-practice-group-superior-first-period.md) — related
 - [The more the substitution practice was distributed over days, the larger the practice gains and the more pronounced the negative transfer effects](kline-distributed-practice-amplifies-transfer-effects.md) — related
+- [Individual differences in substitution-test learning are large, ranging from 8 to 44 substitutions on the first day and reaching 214 for the best performer by trial sixteen](large-individual-differences-substitution-learning.md) — related

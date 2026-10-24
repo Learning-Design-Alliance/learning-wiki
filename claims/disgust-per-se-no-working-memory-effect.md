@@ -47,3 +47,4 @@ Planned comparison within the repeated-measures ANOVA contrasting the disgust no
 - [Intentionally down-regulating disgust disrupts young adults' working memory performance but not older adults' at the second post-induction measurement](down-regulation-cost-young-not-older-adults.md) — related
 - [The disgust film induction elevated disgust ratings comparably in young and older adults, with no age differences in reactivity or recovery after baseline](mood-induction-effective-no-age-reactivity-difference.md) — related
 - [Working memory performance increases from baseline to the first post-induction trial across all age groups and conditions, consistent with practice effects](nback-practice-effect-all-groups.md) — related
+- [Condition order did not affect working-memory performance but affected the magnitude of reaction-time deterioration when tasks were difficult](order-effects-rt-deterioration-difficult-tasks.md) — related

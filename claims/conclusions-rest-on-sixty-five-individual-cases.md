@@ -50,3 +50,4 @@ The article's stated limitation: with "only eighty children in all, ten for each
 - [Lengthening the interval between dictated digits markedly lowered children's memory span scores on one testing day](digit-pacing-change-lowered-span-scores.md) — related
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
 - [The Binet-Simon scale measured intelligence development from ages seven to eleven with at least 96 per cent efficiency under the study's conditions](binet-simon-accurate-ages-7-11.md) — related
+- [Auditory memory (digit-span) tests are overrepresented in the adult scale and depress the rankings of otherwise high-performing students](caldwell-1919-auditory-memory-overweighting.md) — related

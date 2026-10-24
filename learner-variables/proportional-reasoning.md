@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (21 show a difference, 10 mixed, 1 no difference) · 17 studies (7 associational, 4 causal, 2 design, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 5 of 17 report an effect size · 32 claims rest on one study
+> **Evidence** · 33 claims (22 show a difference, 10 mixed, 1 no difference) · 18 studies (8 associational, 4 causal, 2 design, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 5 of 18 report an effect size · 33 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -68,6 +68,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders](../claims/supported-self-explaining-improves-magnitude-comparison-accuracy.md) [+W] — instruction changes it
 - [Supported self-explaining produces higher-quality explanations of fraction magnitude differences than a word-problem component](../claims/supported-self-explaining-improves-explanation-quality.md) [+M] — instruction changes it
 - [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](../claims/measurement-fraction-intervention-beats-control-generalized-knowledge.md) [+M] — instruction changes it
+- [Fractions knowledge is a critical domain-specific predictor of mathematics achievement in later grades](../claims/fractions-knowledge-predicts-later-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.
