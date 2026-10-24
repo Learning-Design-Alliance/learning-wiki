@@ -47,3 +47,4 @@ The same statistical models estimating the postpolicy effect were applied to pre
 - [Prepolicy retained students dropped out earlier, but postpolicy retained students showed elevated dropout risk throughout their remaining years rather than at early ages](postpolicy-retention-elevated-risk-all-ages.md) — related
 - Systemwide CPS cumulative dropout percentages rose from 8.1 to 33.1 over five years — related
 - [Dropout intentions increased over the school year among 9th-grade students](dropout-intentions-increase-over-school-year.md) — related
+- [Retention in grades 1-5 increases the odds of dropping out of high school rather than graduating, above propensity to be retained](early-retention-increases-dropout-odds.md) — related

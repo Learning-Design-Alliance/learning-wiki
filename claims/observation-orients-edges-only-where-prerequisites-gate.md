@@ -69,3 +69,4 @@ estimator was fooled when abler learners chose the order.
 
 - [Learner records rarely establish that a prerequisite edge exists.](observation-cannot-establish-a-prerequisite-edge.md) — the existence limit
 - [Prior difficulty collections mostly lack fine-grained classification of student difficulties](prior-difficulty-collections-lack-fine-grained-classification.md)
+- [Learning-curve plateaus were caused by learners' failure to overcome specific difficulties at critical stages, not by the order in which habits developed](plateaus-caused-by-unovercome-difficulties.md) — related

@@ -52,3 +52,4 @@ Observation from the same two-student teaching experiment: in later sessions bot
 - Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues — related
 - A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity — related
 - [Collaboration aids learning of mathematical elaboration skills but not procedural skills](collaboration-aids-elaboration-not-procedural-skills.md) — related
+- [Acquired foveal fixation motives can transfer to the peripheral retina, forming a generalized retinal habit](foveal-fixation-transfer-to-peripheral-retina.md) — related

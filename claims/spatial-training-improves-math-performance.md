@@ -74,3 +74,4 @@ This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effe
 - [Working memory training shows short-term near-transfer gains but no compelling evidence of consistent long-term academic achievement gains](working-memory-training-no-long-term-academic-gains.md) — related
 - [Transfer-outcome format can favor symbolic controls over manipulative conditions (transfer-appropriate processing), potentially explaining inconsistent transfer findings](transfer-appropriate-processing-manipulatives-inconsistent-transfer.md) — related
 - [Trained students outperformed controls at selecting the more reliable of two contradictory texts, at both post-tests](sourcing-intervention-near-transfer-accuracy.md) — related
+- [The article argues that chemistry offers opportunities for mental training in manipulation, directed observation, correlation of ideas, and logical reasoning beyond its factual content.](chemistry-mental-training-opportunities.md) — related

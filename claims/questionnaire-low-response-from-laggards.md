@@ -45,3 +45,4 @@ Report on the questionnaire sent to the 127 laggard students and their high scho
 ## Related Claims
 - [A postal follow-up of 850 non-returning freshmen corroborated the earlier findings, with lack of money again the most common first-ranked cause (54 of 108 replies)](postal-followup-corroborates-money-cause.md) — related
 - [Freshmen rank lack of money as the leading cause of elimination, followed by ill-health; the authors attribute about 34 per cent of elimination to lack of means and 28 per cent to ill-health](money-and-health-leading-elimination-causes.md) — related
+- [Over 25 per cent of college students cannot spell common words, and 50 per cent fail on words such as accommodate and rhythm](college-students-fail-common-word-spelling.md) — related

@@ -133,3 +133,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](expanding-not-better-than-fixed-interval.md) — possibly the same claim (merge candidate)
 - [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](exposures-moderate-expanding-schedule-benefit.md) — related
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](expanding-uniform-spacing-retention-interval-moderator.md) — reports the opposite
+- [Attempted recall during vocabulary study showed no demonstrable superiority over mere reading and re-reading in adult learners](recall-no-superiority-vocabulary-learning-thorndike.md) — related

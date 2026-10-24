@@ -46,3 +46,4 @@ The review reports Dewey's normative claim about the goal of science teaching, q
 - [Dewey argues the scientific attitude is achieved by pupils taking a hand in the making of knowledge through inquiry](dewey-making-knowledge-through-inquiry.md) — a narrower finding that bears on this claim
 - [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](dewey-rejects-fixed-moral-stages.md) — related
 - [Dewey argues that science has not justified its early promises as part of the educational curriculum](dewey-science-not-justified-curriculum-promises.md) — related
+- [The article argues that continued simple, single-object experiments tend to make pupils unguarded and hasty in their conclusions, and that premise-testing experiments should correct this.](simple-experiments-hasty-judgments.md) — related

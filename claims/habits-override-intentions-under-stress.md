@@ -45,3 +45,4 @@ Theoretical claim attributed to Gardner et al. (2020a): habits negatively modera
 ## Related Claims
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — related
 - [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](reflective-scaffolding-habituation-deskilling.md) — related
+- [Practice when learners were nervous or tired was worthless for strengthening associations and positively injurious, favoring wrong habits](practice-when-tired-injurious.md) — related

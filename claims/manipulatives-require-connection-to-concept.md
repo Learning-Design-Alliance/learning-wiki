@@ -154,3 +154,5 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Transfer of a permutation algorithm succeeds for objects-assigned-to-people problems but fails for people-assigned-to-objects problems](bassok-transfer-objects-people-asymmetry.md) — related
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related
 - [Bilinguals may have a specific advantage in transferring understanding of novel symbolic rules to new contexts](bilingual-transfer-novel-symbolic-rules.md) — related
+- [The article argues that chemistry offers opportunities for mental training in manipulation, directed observation, correlation of ideas, and logical reasoning beyond its factual content.](chemistry-mental-training-opportunities.md) — related
+- [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](visual-presentation-limited-to-concrete-meanings.md) — related

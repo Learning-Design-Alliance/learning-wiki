@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (39 show a difference, 12 mixed, 5 no difference) · 32 studies (14 associational, 8 causal, 7 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 7 of 32 report an effect size · 55 claims rest on one study
+> **Evidence** · 57 claims (40 show a difference, 12 mixed, 5 no difference) · 33 studies (15 associational, 8 causal, 7 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 7 of 33 report an effect size · 56 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -92,6 +92,7 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Spatial abilities and in-class attention each uniquely predict mathematical competence from 6th to 9th grade, controlling general ability](../claims/spatial-and-attention-unique-predictors-math.md) [+W] — learners who differ on it differ in outcomes
 - [Spatial ability predicts algebra word problem performance above and beyond its general relation to mathematics ability](../claims/spatial-predicts-algebra-word-problems-specifically.md) [+W] — learners who differ on it differ in outcomes
 - [The spatial pathway to mathematical competence is relatively more important for boys and the in-class attention pathway for girls, confirming the differential contributions hypothesis](../claims/differential-contributions-pathways-confirmed.md) [~W] — learners who differ on it differ in outcomes
+- [Different domain-general factors uniquely account for variation in different arithmetic skills](../claims/domain-general-factors-skill-specific.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

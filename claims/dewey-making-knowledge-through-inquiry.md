@@ -45,3 +45,4 @@ The review quotes Dewey's account of how the scientific attitude is formed: pupi
 ## Related Claims
 - [Dewey holds the aim of science teaching should be to give pupils the scientific attitude and habit of mind](dewey-aim-scientific-attitude-habit-of-mind.md) — a broader claim this one bears on
 - [Dewey argues that science has not justified its early promises as part of the educational curriculum](dewey-science-not-justified-curriculum-promises.md) — related
+- [The article argues that continued simple, single-object experiments tend to make pupils unguarded and hasty in their conclusions, and that premise-testing experiments should correct this.](simple-experiments-hasty-judgments.md) — related

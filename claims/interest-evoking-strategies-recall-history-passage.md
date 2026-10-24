@@ -65,3 +65,4 @@ The review reports that the strategies' benefits were limited to concrete, speci
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall](passage-familiarity-correlates-with-recall.md) — related
 - [Expert revisers' improvements are inconsistent across texts, with only signaling-structure strategies reliably corresponding to improved retention](expert-revisers-strategies-inconsistent-signaling-works.md) — related
+- [The sixth-grade history course of the Committee of Eight is permeated with adult conceptions, raising unanswered questions about children's impressions](sixth-grade-history-adult-conceptions.md) — related

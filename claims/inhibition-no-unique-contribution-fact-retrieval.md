@@ -57,3 +57,4 @@ Simultaneous regression in 86 third graders with all predictors and confounds en
 - [Fourth graders' multiplication fact solving speed correlates significantly with both symbolic and nonsymbolic magnitude comparison speed](magnitude-comparison-correlates-multiplication-facts.md) — related
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [The inhibitory control–mathematical ability correlation does not differ across domains of mathematical ability](no-domain-moderation-inhibitory-control-math.md) — related
+- [Numeral comparison, but not quantity enumeration, uniquely accounts for variation in basic calculation fluency](numeral-comparison-unique-calculation-fluency.md) — related

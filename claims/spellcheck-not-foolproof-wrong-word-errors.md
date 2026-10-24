@@ -64,3 +64,4 @@ The review reports that "in some studies, the upper bound of spellcheck efficacy
 ## Related Claims
 - [AI scoring consistency approaches or exceeds 90% for most rubric items, but spelling is replaced by a deterministic LanguageTool-based approach achieving 68% accuracy with 100% consistency](ai-consistency-high-except-spelling-languagetool-replacement.md) — related
 - [LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement](llm-scoring-spanish-writing-60-80-accuracy-below-human-agreement.md) — related
+- [Only 155 of 2,005 misspellings occur in words on the Simplified Spelling Board's first recommended lists](few-errors-in-spelling-board-lists.md) — related

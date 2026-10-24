@@ -45,3 +45,4 @@ The review reports Dewey's address as chairman of Section L, A. A. A. S., at the
 ## Related Claims
 - [Dewey holds the aim of science teaching should be to give pupils the scientific attitude and habit of mind](dewey-aim-scientific-attitude-habit-of-mind.md) — related
 - [Dewey argues the scientific attitude is achieved by pupils taking a hand in the making of knowledge through inquiry](dewey-making-knowledge-through-inquiry.md) — related
+- [The article argues that continued simple, single-object experiments tend to make pupils unguarded and hasty in their conclusions, and that premise-testing experiments should correct this.](simple-experiments-hasty-judgments.md) — related

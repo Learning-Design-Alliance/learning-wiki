@@ -47,3 +47,4 @@ Case study analysis of the 11 copy-typed sessions. The article states "Copy-typi
 - [Product measures distinguish LLM-formulated text from classroom-formulated text regardless of how it was entered](product-view-reflects-who-formulated-text.md) — related
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — related
 - [In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements](teacher-pilot-thonny-log-visualizer-160-students.md) — related
+- [Neither the expert educational psychologist alone nor the expert empirical teacher alone can solve the problems of method; a combination is needed](combination-psychologist-teacher-needed.md) — possibly the same claim (merge candidate)

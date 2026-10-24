@@ -70,3 +70,4 @@ The review reports cross-language evidence, citing Portuguese and Hebrew studies
 - [Initial phonological awareness uniquely predicts growth in letter-name knowledge, most strongly via elision skill](initial-phonological-awareness-predicts-letter-name-growth.md) — related
 - [The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories](bidirectional-relation-independent-of-maturation.md) — related
 - [Prephonological spellers produce letter strings that statistically resemble the writing of their language rather than random strings](prephonological-spellers-match-language-letter-statistics.md) — related
+- [Silent-letter omission and insertion errors together comprise 55 per cent of real spelling errors](silent-letter-errors-55-percent.md) — related

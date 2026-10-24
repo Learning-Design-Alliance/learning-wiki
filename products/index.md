@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1891 entries** · 0 stable · 1891 in review · 0 drafts
+**1893 entries** · 0 stable · 1893 in review · 0 drafts
 
 ---
 
@@ -1164,6 +1164,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [NTool](ntool.md) - NTool is an online, newsgroup-reader-based asynchronous communication tool developed by Pieter J.
 * [Number Rockets](number-rockets.md) - Number Rockets is a scripted Tier 2 small-group mathematics tutoring program for first-grade students struggling in math, delivered by tutors in supplemental 40-minute sessions.
 * [Number Sets Test](number-sets-test.md) - A speeded assessment developed by Moore et al.
+* [Number system knowledge test (32 items)](number-system-knowledge-test-32-items.md) - A 32-item oral and written assessment developed by Cowan et al.
 * [NWEA COVID-19 MAP Growth data visualization](nwea-covid-19-map-growth-data-visualization.md) - An interactive NWEA Research dashboard that visualizes state-level MAP Growth achievement and projected proficiency data for the 2020–2021 school year to inform understanding of pandemic-related learning impacts and recovery.
 * [NWEA MAP Growth 2022–23 achievement dataset](nwea-map-growth-202223-achievement-dataset.md) - A dataset assembled by NWEA from MAP Growth assessments for approximately 6.7 million U.S.
 * [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-and-longitudinal-achievement-database.md) - A longitudinal database of student achievement and growth scores collected through NWEA's MAP Growth assessments and used for large-scale educational analysis.
@@ -1600,6 +1601,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Stanford Educational Data Archive (SEDA)](stanford-educational-data-archive-seda.md) - A Stanford Education Data Archive dataset providing district-level estimates of mathematics and ELA achievement and growth for Grades 3–8 across U.S.
 * [Stanford MOOC Posts](stanford-mooc-posts.md) - A corpus introduced by Liu et al.
 * [STAR](star.md) - A remedial reading programme for high-school students with serious literacy problems, offered within High School Redirection schools.
+* [Starch's 600-word dictionary-sampled spelling test in six comparable 100-word lists](starchs-600-word-dictionary-sampled-spelling-test-in-six-comparable-100-word-lists.md) - A standardized dictated spelling assessment developed by Edward L.
 * [STARI](stari.md) - A supplemental, multicomponent reading intervention for struggling middle-school readers, developed by the Strategic Education Research Partnership (SERP) and delivered through thematic units during the school day.
 * [StatBot](statbot.md) - StatBot is a retrieval-augmented GPT-4 chatbot developed and deployed by Yuan-Hsuan Lee et al.
 * [State Digital Equity and Opportunity Framework](state-digital-equity-and-opportunity-framework.md) - A cross-sector digital-equity planning framework developed in A Framework for Digital Equity that guides state education, housing, and workforce agencies in setting objectives, requirements, metrics, and funding priorities.

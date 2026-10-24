@@ -72,3 +72,4 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention](boys-black-students-more-likely-overage.md) — related
 - [Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts](cps-systemwide-first-year-on-track-percentages.md) — related
 - [Graduates spent more semesters in the grades and in the high school than non-graduates, and graduated girls spent longer than graduated boys](semesters-spent-graduates-nongraduates.md) — related
+- [A significant retention x ethnicity x gender interaction indicates the negative effect of retention is strongest for African American and Hispanic girls](retention-ethnicity-gender-interaction-girls.md) — related

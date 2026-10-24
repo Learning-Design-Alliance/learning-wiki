@@ -47,3 +47,4 @@ Rule-adherence comparison for the final-y word group across the two samples; the
 - [College students who recalled any spelling rule averaged 85 per cent on the whole test versus 81 per cent for those who recalled none](rule-recall-small-accuracy-advantage-college.md) — related
 - [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](rule-recall-miserable-half-known.md) — related
 - [The ie-ei rule's slight advantage is questionable because most citers relied on mnemonics covering only one or two of the eleven words](ie-ei-rule-advantage-questionable-mnemonics.md) — related
+- [Over 25 per cent of college students cannot spell common words, and 50 per cent fail on words such as accommodate and rhythm](college-students-fail-common-word-spelling.md) — related
