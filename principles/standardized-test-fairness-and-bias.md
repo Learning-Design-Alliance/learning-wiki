@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 47 claims (7 for, 38 mixed, 2 against) · 30 studies (10 associational, 7 causal, 7 review, 2 design, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 3 of 30 report an effect size · 46 claims rest on one study
+> **Evidence** · 48 claims (7 for, 38 mixed, 3 against) · 31 studies (11 associational, 7 causal, 7 review, 2 design, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 31 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Claims found while rewriting, used in the default design or the situation table 
 - [Higher trait or induced anxiety is associated with smaller testing effects](../claims/higher-anxiety-is-associated-with-smaller-testing-effects.md) [~M], [a revised low-stress TBL format produced higher iSAT scores](../claims/low-stress-tbl-higher-isat-scores.md) [~M] and [medical students in the high-stakes TBL format perceived questions as less fair](../claims/high-stakes-tbl-questions-seen-harder-less-fair.md) [~M]: retrieval practice and team-based learning in health-professions courses, carried here only as signs that stakes and anxiety change scores and perceived fairness.
 - [Math assessment items can be classified as high-quality or low-quality for students with visual impairments based on whether they measure achievement equally well for students with and without VI](../claims/map-growth-item-quality-vi-classification.md) [+W] — attached 2026-10-09 from Kang Xue (2022), which proposed "Assess item quality for accessible math tests by checking whether items measure achievement equally well for students with and without visual impairments"; tests this page's relationship.
 - [In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts](../claims/in-person-proctored-higher-hesi-than-remote.md) [+W] — attached 2026-10-11 from Harerimana A et al. (2026), which proposed "Implement context-sensitive, ethically grounded proctoring policies supported by integrity-by-design assessment approaches"; tests this page's relationship.
+- [Alpha predicts academic standing better in Agriculture (r = .54) than in Arts or Engineering, and subtest patterns vary by college](../claims/alpha-correlation-varies-by-college.md) [-M] — attached 2026-10-24 from Bridges (1920), which proposed "Intelligence tests used to predict college grades should be standardized separately for each college, with weak subtests improved or dropped"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

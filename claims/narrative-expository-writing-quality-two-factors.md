@@ -47,3 +47,4 @@ Confirmatory factor analysis of third-grade writing quality ratings (idea develo
 - [Preschool emergent writing skills are best described by three correlated but distinct factors: Conceptual Knowledge, Procedural Knowledge, and Generative Knowledge](three-factor-structure-emergent-writing-preschoolers.md) — related
 - [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — related
 - [Kindergarten oral language independently predicts third-grade narrative writing quality](kindergarten-oral-language-predicts-narrative-writing-quality.md) — related
+- [Written composition quality is best described as a single unidimensional construct across English and Spanish and across narrative and opinion genres for primary-grade dual language learners](writing-unidimensional-across-languages-and-genres.md) — reports the opposite

@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 201 claims (127 show a difference, 31 mixed, 43 no difference) · 144 studies (38 associational, 37 causal, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 33 of 144 report an effect size · 192 claims rest on one study
+> **Evidence** · 202 claims (128 show a difference, 31 mixed, 43 no difference) · 145 studies (39 associational, 37 causal, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 33 of 145 report an effect size · 193 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -252,6 +252,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Apart from one specimen, ability to read mirror-script shows little correlation with ability to read illegible writing.](../claims/mirror-reading-and-illegible-reading-largely-uncorrelated.md) [-W] — learners who differ on it differ in outcomes
 - [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](../claims/decoding-fluency-no-unique-prediction-grades-4-10.md) [-M] — learners who differ on it differ in outcomes
 - [School subjects intercorrelate lowly except reading comprehension with reading rate (0.85)](../claims/low-school-subject-intercorrelations.md) [+M] — learners who differ on it differ in outcomes
+- [Children's language use in writing tasks differs by instructional program, with English immersion students often writing in English when prompted to write in Spanish](../claims/writing-language-use-by-instructional-program.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

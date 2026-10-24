@@ -47,3 +47,4 @@ Partial correlations controlling for year group among 641 children's spelling sc
 - [Spelling accuracy for irregular words, regular words and pseudowords improves significantly with year group (spelling experience)](spelling-improves-with-year-group-all-word-types.md) — related
 - [Children spell regular words more accurately than pseudowords and irregular words, and irregular word accuracy falls below pseudoword accuracy until Yr 5](regular-words-spelled-better-than-irregular-pseudowords.md) — related
 - [Phonological awareness predicts irregular word spelling from Yr 2 onward but does not predict regular word or pseudoword spelling at any year group](pa-predicts-irregular-spelling-only.md) — related
+- [Results are not fully in line with current theories on the representation of orthographic knowledge](results-challenge-orthographic-knowledge-theories.md) — related

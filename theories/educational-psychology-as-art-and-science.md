@@ -50,7 +50,9 @@ Educational psychology is both. Researchers use the scientific method and resear
 - [Teach both the truth of the scientist and the truth of the poet, since neither paradigm of truth is sufficient alone](../principles/harmonize-opposites-in-educational-change.md)
 
 ## Examples
+
 - A teacher whose classroom-management approach draws on both a study of effective techniques and their own accumulated read of a specific group of students
+- [Establish a central agency or endowed fund devoted to systematic, thorough series of experiments on teaching, interpreted in light of known facts about the learning process.](../strategies/endowed-fund-for-systematic-teaching-experiments.md)
 
 ## Key Sources
 - Merriam-Webster Dictionary. (2020a). Art. Retrieved from https://www.merriam-webster.com/dictionary/art

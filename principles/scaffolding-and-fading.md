@@ -48,7 +48,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (21 for, 21 mixed, 2 against) · 45 studies (14 causal, 11 review, 8 theoretical, 4 associational, 4 qualitative, 3 quant-synthesis, 1 design), `q1`–`q4` · 5 of 45 report an effect size · 37 claims rest on one study
+> **Evidence** · 46 claims (21 for, 23 mixed, 2 against) · 46 studies (15 causal, 11 review, 8 theoretical, 4 associational, 4 qualitative, 3 quant-synthesis, 1 design), `q1`–`q4` · 6 of 46 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,8 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](../claims/contingency-not-necessary-condition-bilingual-education-scaffolding.md) [~W]
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](../claims/fading-out-prompts-beat-permanent-prompts.md) [+W]
 - [Self-selected scaffolding customization yields higher effects than fixed time interval and performance-adapted customization](../claims/self-selected-customization-highest-effect.md) [~W]
+- [The replication successfully reproduced the original study's execution of contingent instruction, with tutors applying the contingency rule in 68.9% of interventions versus 70% in 1978](../claims/tutor-adherence-contingency-rule-replicated.md) [~W]
+- [Tutor accuracy in applying the contingency rule showed no significant association with children's posttest outcome, efficiency, or autonomy, with near-zero correlations](../claims/tutor-accuracy-no-posttest-association.md) [~W]
 
 ## Related Principles
 - [Concreteness Fading](concreteness-fading.md)

@@ -100,3 +100,5 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Boys outperform girls on the final two-digit number test in this sample](gender-gap-final-math-test-first-graders.md) — a narrower finding that bears on this claim
 - [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](girls-stronger-asc-decrease-school-type-null.md) — related
 - [Boys outperform girls on algebra word problems, function mapping, equation memory, and arithmetic fluency, with no sex differences on other mathematics measures](sex-differences-specific-math-measures-geary-2023.md) — a narrower finding that bears on this claim
+- [Gender differences in mathematics and science achievement are negligible among top-performing math students, while female students show better reading achievement](achievement-gaps-top5-math-negligible-reading-female.md) — related
+- [Among top-performing math students, male students show strongly math-oriented math–reading achievement profiles whereas female students' profiles are more balanced](math-reading-profile-gender-tilt-top5.md) — related

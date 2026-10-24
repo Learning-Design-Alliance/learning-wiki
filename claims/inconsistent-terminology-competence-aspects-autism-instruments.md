@@ -71,3 +71,4 @@ As part of RQ1, the review coded disciplinary origin (first author's affiliation
 - Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely — a broader claim this one bears on
 - [Jingle-jangle fallacies fragment SR research in education and impede cumulative progress](jingle-jangle-fallacies-fragment-sr-research.md) — a broader claim this one bears on
 - [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related
+- [The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition](zirbes-1922-diagnosis-analysis-term-ambiguity.md) — possibly the same claim (merge candidate)

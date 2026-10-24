@@ -17,7 +17,7 @@ sources:
 # Criterion-referenced versus norm-referenced grading as two competing conceptions of grading
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article frames grading as a choice between two conceptions: grading students in competition with one another (norm-referenced, on a curve) versus grading in terms of how well they achieve the explicit standards set by the teacher (criterion-referenced). This distinction organizes the whole memo and motivates contract grading, which anchors grades to absolute criteria rather than relative rank. The article presents it as the first 'choice point' a teacher faces in designing grading.
@@ -37,7 +37,10 @@ The article frames grading as a choice between two conceptions: grading students
 - explicit achievement of course objectives rather than competitive ranking
 
 ### Claims
+
 - Criterion Grading Supports Cooperation [+M]
+- [Ranking marks have little meaning unless the percentage of students admitted to each rank accords with a recognized standard](../claims/ranking-marks-need-standard-percentages.md) [+W] — attached 2026-10-24 from Kohl et al. (1911), which proposed "The distinction between ranking marks and passing marks".
+- [After Michigan adopted a standard ranking scale, the percentage of failures remained below 3 per cent instead of approaching 10 per cent](../claims/michigan-scale-failures-below-3-percent.md) [~W]
 
 ## Related Theories
 

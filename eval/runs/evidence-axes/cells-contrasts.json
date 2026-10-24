@@ -41754,5 +41754,297 @@
  "test-format\tTest 2: questions and exercises\tTest 1: learning and reproduction": {
   "label": "Questions and exercises vs learning and reproduction",
   "treatment_is_a": true
+ },
+ "autonomy-support\tabsolute freedom in instruction\tnot stated": {
+  "label": "absolute freedom in instruction vs instruction not specified",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tfree-order classroom\tother children with the same amount of schooling": {
+  "label": "free-order instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tfreedom of instruction\tother children with the same amount of schooling": {
+  "label": "freedom of instruction vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tfreedom of instruction\tother regular classes": {
+  "label": "freedom of instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tfreedom of instruction\tregular classes": {
+  "label": "freedom of instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t1 SD decrease in executive function\tno 1 SD decrease in executive function": {
+  "label": "lower executive function vs no decrease in executive function",
+  "treatment_is_a": true
+ },
+ "learner-difference\t100 junior or 100 sophomore students\tno comparison group; correlations computed within class-standing groups": {
+  "label": "junior/sophomore students vs no comparison group",
+  "treatment_is_a": true
+ },
+ "learner-difference\t12-year-old children\tchildren aged 7–11": {
+  "label": "12-year-olds vs 7–11-year-olds",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021–22 fall–spring growth\t2018–19 fall–spring growth": {
+  "label": "2021–22 growth vs 2018–19 growth",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021–22 student cohort\ttypical-year pre-pandemic cohort": {
+  "label": "2021–22 student cohort vs typical pre-pandemic cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022-23 COVID-year student group\tpre-pandemic peers": {
+  "label": "2022–23 COVID-year students vs pre-pandemic peers",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022-23 school year\tpre-pandemic years": {
+  "label": "2022–23 school year vs pre-pandemic years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022–23 enrolled residents\t2010–11 enrolled residents": {
+  "label": "2022–23 residents vs 2010–11 residents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2022–23 student group\tpre-pandemic peers": {
+  "label": "2022–23 students vs pre-pandemic peers",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023 school staff survey\t2021 school staff survey": {
+  "label": "2023 staff survey vs 2021 staff survey",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023-24 growth\tpre-pandemic growth trends": {
+  "label": "2023–24 growth vs pre-pandemic growth",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023-24 student growth\tpre-pandemic growth trends": {
+  "label": "2023–24 student growth vs pre-pandemic growth",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023–24\t2021–22": {
+  "label": "2023–24 vs 2021–22",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2023–24\t2022–23": {
+  "label": "2023–24 vs 2022–23",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2024–25 school year\t2023–24 school year": {
+  "label": "2024–25 school year vs 2023–24 school year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2024–25 survey year\tprior survey years": {
+  "label": "2024–25 survey year vs prior survey years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2025 norms\t2020 norms": {
+  "label": "2025 norms vs 2020 norms",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2025–2026 U.S. reading trend\tprior years of post-COVID reading stagnation": {
+  "label": "2025–26 reading trend vs prior post-COVID stagnation",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2025–26 projected staffing needs\t2024–25 staffing needs": {
+  "label": "2025–26 staffing needs vs 2024–25 staffing needs",
+  "treatment_is_a": true
+ },
+ "learner-difference\t21–27 years of teaching experience\t5 years of teaching experience": {
+  "label": "21–27 years teaching experience vs 5 years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t24-month timepoint\t48-month timepoint": {
+  "label": "24-month timepoint vs 48-month timepoint",
+  "treatment_is_a": true
+ },
+ "learner-difference\t26 high-performing public institutions\t17 public institutions with widening gaps": {
+  "label": "high-performing institutions vs institutions with widening gaps",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3.0 unweighted GPA at four-year college entry\t2.5 unweighted GPA at four-year college entry": {
+  "label": "3.0 GPA vs 2.5 GPA at college entry",
+  "treatment_is_a": true
+ },
+ "learner-difference\t3.25–3.5 HSGPA at a school one SD below the mean school effect\t2.75–3.0 HSGPA at a typical school": {
+  "label": "higher HSGPA at below-average school effect vs lower HSGPA at typical school",
+  "treatment_is_a": true
+ },
+ "learner-difference\t30-month-olds\t18-month-olds": {
+  "label": "30-month-olds vs 18-month-olds",
+  "treatment_is_a": true
+ },
+ "learner-difference\t36 graduate students\tno comparison group; correlation computed within graduates": {
+  "label": "graduate students vs no comparison group",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4-to-5-year-old children\tadults": {
+  "label": "4–5-year-old children vs adults",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4.0 cumulative GPA\t26 ACT score": {
+  "label": "cumulative GPA vs ACT score",
+  "treatment_is_a": true
+ },
+ "learner-difference\t4th-grade students (GIV)\t1st-grade students (GI)": {
+  "label": "4th-grade students vs 1st-grade students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5 years exposed to court-ordered desegregation\tless than 5 years exposed to court-ordered desegregation": {
+  "label": "5 years desegregation exposure vs less than 5 years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5% lowest-growing schools\tother schools": {
+  "label": "lowest-growing schools vs other schools",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5-year-old girls\tsame-age boys": {
+  "label": "5-year-old girls vs same-age boys",
+  "treatment_is_a": true
+ },
+ "learner-difference\t50 public flagships\tnational average": {
+  "label": "public flagships vs national average",
+  "treatment_is_a": true
+ },
+ "learner-difference\t5th-grade word-reading group\t3rd-grade word-reading group": {
+  "label": "5th-grade word-reading group vs 3rd-grade word-reading group",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6- to 7-year-old girls\tsame-age boys": {
+  "label": "6–7-year-old girls vs same-age boys",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6th-grade LTEL7 students\t10th-grade LTEL7 students": {
+  "label": "6th-grade LTEL7 students vs 10th-grade LTEL7 students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6th-grade LTEL7 students\t12th-grade LTEL7 students": {
+  "label": "6th-grade LTEL7 students vs 12th-grade LTEL7 students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6th-grade SEL status\tSEL growth from 6th to 8th grade": {
+  "label": "6th-grade SEL status vs SEL growth through 8th grade",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6th-grade fractions comparison effect\t8th-grade central executive effect": {
+  "label": "6th-grade fractions effect vs 8th-grade central-executive effect",
+  "treatment_is_a": true
+ },
+ "learner-difference\t6–15 years of teaching experience\tmixed, neutral, or negative experience estimates": {
+  "label": "6–15 years teaching experience vs mixed/neutral/negative estimates",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7-year-old girls in South Korea and Japan\t7-year-old boys in South Korea and Japan": {
+  "label": "7-year-old girls vs same-age boys",
+  "treatment_is_a": true
+ },
+ "learner-difference\t7th-grade students designated as LTEL7\t12th-grade students designated as LTEL7": {
+  "label": "7th-grade LTEL7 students vs 12th-grade LTEL7 students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8th grade\t6th grade": {
+  "label": "8th grade vs 6th grade",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8th grade\t7th grade": {
+  "label": "8th grade vs 7th grade",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8th-grade credit risk indicator (fewer than six credits)\t8th-grade attendance risk indicator (attendance below 90 percent)": {
+  "label": "credit-risk indicator vs attendance-risk indicator",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8th-grade self-efficacy\t5th-grade self-efficacy": {
+  "label": "8th-grade self-efficacy vs 5th-grade self-efficacy",
+  "treatment_is_a": true
+ },
+ "learner-difference\t8th-grade semester-Fs risk indicator (one or more Fs)\t8th-grade low-GPA risk indicator (GPA below 2.0)": {
+  "label": "semester-Fs risk vs low-GPA risk",
+  "treatment_is_a": true
+ },
+ "learner-difference\t> 1 year of Gen AI use\t< 6 months of Gen AI use": {
+  "label": "more than 1 year GenAI use vs less than 6 months",
+  "treatment_is_a": true
+ },
+ "learner-difference\t>1 year of Gen AI use\t<6 months of Gen AI use": {
+  "label": "more than 1 year GenAI use vs less than 6 months",
+  "treatment_is_a": true
+ },
+ "learner-difference\tA friend, romantic partner, or sibling recently dropped out\tNo corresponding same-age intimate recently dropped out": {
+  "label": "intimate recently dropped out vs no corresponding intimate dropout",
+  "treatment_is_a": true
+ },
+ "practice-amount\tabout 40 hours of repeated visual-observation and reproduction practice\tinitial performance before practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\textended practice\tinitial performance": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\textended practice across approximately 30 series\tinitial five series": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfinal period after repeated practice\tinitial period": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated practice\tinitial performance before practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcontingent instruction\tdemonstration instruction": {
+  "label": "contingent instruction vs demonstration instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcontingent instruction\tdemonstration, verbal, and swing instruction": {
+  "label": "contingent instruction vs demonstration, verbal, and swing instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcontingent instruction\tdemonstration, verbal, or swing instruction": {
+  "label": "contingent instruction vs demonstration, verbal, or swing instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcontingent instruction\tswing instruction": {
+  "label": "contingent instruction vs swing instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcontingent instruction\tverbal instruction": {
+  "label": "contingent instruction vs verbal instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcontingent instruction in the replication\tcontingent instruction in the original 1978 study": {
+  "label": "replication vs original study (contingent instruction condition)",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdemonstration instruction\tswing and verbal instruction": {
+  "label": "demonstration instruction vs swing and verbal instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\treplication contingent-condition sample\t1978 contingent-condition sample": {
+  "label": "replication vs original study (contingent instruction condition)",
+  "treatment_is_a": true
+ },
+ "scaffolding\treplication demonstration-condition sample\t1978 demonstration-condition sample": {
+  "label": "replication vs original study (demonstration instruction condition)",
+  "treatment_is_a": true
+ },
+ "scaffolding\treplication swing-condition sample\t1978 swing-condition sample": {
+  "label": "replication vs original study (swing instruction condition)",
+  "treatment_is_a": true
+ },
+ "scaffolding\treplication verbal-condition sample\t1978 verbal-condition sample": {
+  "label": "replication vs original study (verbal instruction condition)",
+  "treatment_is_a": true
+ },
+ "test-format\tKansas Silent Reading Tests\tGray Silent Reading Tests": {
+  "label": "Kansas Silent Reading Tests vs Gray Silent Reading Tests",
+  "treatment_is_a": true
+ },
+ "test-format\tTest II administered in grade 6\tTest I administered in grade 5": {
+  "label": "Test II (grade 6) vs Test I (grade 5)",
+  "treatment_is_a": true
  }
 }

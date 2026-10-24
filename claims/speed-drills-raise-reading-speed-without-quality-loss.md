@@ -50,3 +50,4 @@ Quasi-experiment in Royersford, Pa. public schools, 1914-15: 207 pupils in grade
 - [An anomalous third-test result was attributed to urging all pupils to read as rapidly as possible, which spurred the no-drill group more](test-exhortation-unbalanced-groups.md) — related
 - [The experiment did not confirm that speed increase carries increased reading effectiveness within the same individual](speed-gain-does-not-carry-effectiveness-gain.md) — related
 - [Instructed slow reading ran about 40% below normal rate and rapid reading about 16% below normal time, fairly uniformly across groups except seventh graders](rate-manipulation-magnitude-groups.md) — related
+- [Rate of silent reading rises most rapidly in grades 2, 3 and 4, while quality of silent reading increases at about the same rate throughout the grades.](rate-versus-quality-progress-curves.md) — related

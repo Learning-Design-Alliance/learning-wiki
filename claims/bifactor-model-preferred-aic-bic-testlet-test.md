@@ -59,3 +59,5 @@ Empirical comparison fitting a unidimensional 2PL model, a second-order model, a
 - [Parceling over-fits models: at the testlet level, data from more complex models fit well with simpler models](parceling-overfits-factor-models.md) — related
 - [Bifactor-(S-1) models of teacher Big Five personality fit student and teacher data better than single-domain or three-facets models](bifactor-s1-teacher-personality-best-fit.md) — related
 - [A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th](bifactor-model-best-fit-grades-4-10.md) — related
+- [Higher order cognitive skills (inference, perspective taking, comprehension monitoring) fit a bifactor structure with a general cross-language factor and language-specific factors in English and Spanish](hocs-bifactor-general-and-language-specific-factors.md) — related
+- [Written composition quality is best described as a single unidimensional construct across English and Spanish and across narrative and opinion genres for primary-grade dual language learners](writing-unidimensional-across-languages-and-genres.md) — related

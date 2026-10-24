@@ -75,3 +75,4 @@ The research brief's own description announces an "examination of student diseng
 - [Content alignment between a test and its content domain represents key evidence for validating test score inferences](alignment-key-validation-evidence-score-inferences.md) — related
 - [Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity](cbt-unique-advantages-control-construct-irrelevant-factors.md) — related
 - [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related
+- [A test score represents a pupil's performance under given conditions, not the pupil's ability, and conditions vary with the examiner and the pupil.](score-measures-performance-not-ability.md) — related

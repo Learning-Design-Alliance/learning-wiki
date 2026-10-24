@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (80 show a difference, 22 mixed, 12 no difference) · 87 studies (23 associational, 21 causal, 19 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 15 of 87 report an effect size · 109 claims rest on one study
+> **Evidence** · 115 claims (81 show a difference, 22 mixed, 12 no difference) · 88 studies (23 associational, 21 causal, 20 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 15 of 88 report an effect size · 110 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -152,6 +152,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Prior mathematical competence by in-class attention interaction: attention benefits were strongest among students with stronger prior knowledge](../claims/prior-competence-by-attention-interaction-math-gains.md) [~W] — learners who differ on it differ in outcomes
 - [Spatial abilities and in-class attention each uniquely predict mathematical competence from 6th to 9th grade, controlling general ability](../claims/spatial-and-attention-unique-predictors-math.md) [+W] — learners who differ on it differ in outcomes
 - [Executive attention is a significant direct predictor of all arithmetic outcomes across formats and problem demands, as predicted by Encoding Complex Theory](../claims/executive-attention-predicts-all-arithmetic-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [The reviewer concludes the advantage of a wide attention span should be made available to young readers through special training in the early grades](../claims/wide-attention-span-training-early-grades.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

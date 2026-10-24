@@ -58,3 +58,4 @@ Three parallel structural equation models fitted to data from 350 Grade 2 childr
 
 ## Related Claims
 - [Inference, but not theory of mind, is independently related to writing quality after accounting for transcription skills and working memory](inference-independently-related-to-writing-quality-grade-1.md) — related
+- [Higher order cognitive skills (inference, perspective taking, comprehension monitoring) fit a bifactor structure with a general cross-language factor and language-specific factors in English and Spanish](hocs-bifactor-general-and-language-specific-factors.md) — related

@@ -51,3 +51,4 @@ The commentary reports that Dinsmore's (2017) systematic review examined 134 stu
 - The special issue's contributions divide between narrative-review and systematic-review methodologies — related
 - [S-SRL strategy use is dynamic over time, contexts and student characteristics, supporting an event-based conceptualization of self and socially regulated learning](ssrl-strategy-use-dynamic-event-based.md) — a narrower finding that bears on this claim
 - [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](log-data-engagement-inference-caution.md) — related
+- [The reviewer argues that the dynamic character of appetites and desires must be considered in any thoroughgoing character-development plan](appetites-desires-character-development.md) — related

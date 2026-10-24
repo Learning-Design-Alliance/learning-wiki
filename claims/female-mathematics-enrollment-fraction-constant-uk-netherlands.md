@@ -48,3 +48,4 @@ Descriptive secondary analysis (Figure S1) of public enrollment data from the Br
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [Female STEM majors report significantly lower sense of belonging than male majors](female-majors-report-less-belonging-than-male-majors.md) — related
+- [Gender equality indicators moderate gender differences among top-performing math students: tertiary enrollment ratios predict the share of female students and their achievement profiles](gender-equality-moderators-top5-math.md) — related

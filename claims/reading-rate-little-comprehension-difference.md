@@ -51,3 +51,4 @@ Controlled experiment in which each subject read two paragraphs at each of three
 - [Instructed slow reading ran about 40% below normal rate and rapid reading about 16% below normal time, fairly uniformly across groups except seventh graders](rate-manipulation-magnitude-groups.md) — related
 - [The new silent-reading test combines rate and comprehension scores into a single score via partial regression equations on teacher-rated reading ability](silent-reading-rate-combined-regression-score.md) — related
 - [Knowing that reproduction will be demanded slows reading rate across all readers and methods](reproduction-demand-slows-reading.md) — related
+- [Rate of silent reading rises most rapidly in grades 2, 3 and 4, while quality of silent reading increases at about the same rate throughout the grades.](rate-versus-quality-progress-curves.md) — related

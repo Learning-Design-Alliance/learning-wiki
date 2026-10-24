@@ -64,3 +64,4 @@ The same percentile-discrepancy computation identified 62 extreme cases; the art
 ## Related Claims
 - [Directional correlations between test scores and discrepancy direction are low but suggest tension tests track scholarship superiority and assimilation tests track intelligence superiority](low-directional-correlations-tension-versus-assimilation.md) — related
 - [The Rosanoff High Standard Frequency Test, but not writing-speed measures, diverges sharply between high-discrepancy and control students](rosanoff-frequency-test-diverges-between-discrepancy-groups.md) — related
+- [Selected academic groups differ in Alpha distributions, with Phi Beta Kappa electees concentrated in higher classes and probationers lower](alpha-distribution-honors-probation.md) — related
