@@ -5,6 +5,22 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-24 — evidence cells sharded by claim-slug prefix
+
+- **`eval/runs/evidence-axes/cells.ndjson` split into `cells/<prefix>.ndjson`**, one shard per first two
+  characters of the claim slug: 25,806 records in 509 shards, the largest 2.4 MB (`co`). The single file was
+  53 MB and grew about 0.15 MB a batch; GitHub warns at 50 MB and refuses 100 MB. The maintainer asked for
+  whatever is "easiest to search and maintain as it grows".
+- **Shards, not gzip.** Git cannot delta a compressed file, so every batch would have added a whole new
+  ~20 MB blob to history, and it could not be grepped or diffed. A shard is plain NDJSON, a claim's records
+  are always in one predictable file, and a batch rewrites only the shards of the claims it coded. Room for
+  about forty times the current corpus before any shard nears the 50 MB warning.
+- **`scripts/evidence_cells.py`** is the one reader and writer (`read`, `keys`, `append`, `write`,
+  `--migrate`, `--stats`); `code_evidence_axes.py` and `render_evidence_map.py` go through it. It still reads
+  a legacy single-file run, and `write` retires one. Verified: `render_evidence_map.load_cells()` returns an
+  identical result before and after the split (21,599 claims, 53,901 cells), and `--migrate` refuses to
+  finish if any record differs.
+
 ## 2026-10-21 — misfiled products and research methods; title variants
 
 - **31 review corpora removed from `products/`.** Batches had filed a review's or meta-analysis's set of

@@ -239,10 +239,14 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   no difference", never "for / against" (`evidence_rollup.POLARITY_LABELS`). `learning-style-preferences`
   opens with its bottom line: matching instruction to style is not supported; single studies listed there
   are not tests of matching.
-- **The coded evidence cells are committed** (`eval/runs/evidence-axes/cells.ndjson` and
+- **The coded evidence cells are committed** (`eval/runs/evidence-axes/cells/` and
   `cells-contrasts.json`; maintainer, 2026-10-13), the one folder under `eval/runs/` that is: every
   evidence map and report reads them, and the ignored store vanished with each container.
   `code_evidence_axes.py` refuses structurally broken replies, so a bad cell is retried, not stored.
+  **The store is sharded by the first two characters of the claim slug** (`cells/sp.ndjson`;
+  maintainer, 2026-10-24: "easiest to search and maintain as it grows"), read and written only through
+  `scripts/evidence_cells.py`. Do not gzip it or rejoin it into one file: the single file reached 53 MB
+  against GitHub's 100 MB limit, and a compressed file is a whole new blob in history on every batch.
 - **A fresh container needs `pip install -r requirements-eval.txt`** (without pypdf most PDFs fail).
 - **After a container restart the proxy port changes**; a process started before it keeps the
   old `HTTPS_PROXY` and every request fails. Compare `/proc/<pid>/environ` with the current
