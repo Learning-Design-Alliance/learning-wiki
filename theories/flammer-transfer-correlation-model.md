@@ -17,7 +17,7 @@ sources:
 # A conceptual model deriving transfer from all-or-none learned common and falsely-common task elements and the product-moment correlation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The model treats tasks as sets of mutually independent hypothetical elements whose extension corresponds to average mastery time. Transfer T is derived as proportional to the number of commonly identified elements minus falsely identified ones, and the product-moment correlation between tasks is derived under an all-or-none learning assumption, yielding T proportional to the unsquared correlation. The article argues this "does not require detailed task analyses, let alone a S-R decomposition" and makes psychometric research available to learning theory and instruction.
@@ -43,6 +43,7 @@ The model treats tasks as sets of mutually independent hypothetical elements who
 - [Where identical elements exist in two situations, training in one produces positive transfer to the other](../claims/identical-elements-positive-transfer.md) [+W] — attached 2026-10-24 from Poffenberger et al. (1915), which proposed "Specific stimulus-response bonds and identical elements as the mechanism of transfer of training"; tests this page's relationship.
 - [Where a test requires breaking previously formed bonds and forming new ones, training produces interference rather than transfer](../claims/bond-breaking-produces-interference.md) [+W] — attached 2026-10-24 from Poffenberger et al. (1915), which proposed "Specific stimulus-response bonds and identical elements as the mechanism of transfer of training"; tests this page's relationship.
 - [Where there are no identical bonds between stimulus and response in two processes, training in one produces neither transfer nor interference in the other](../claims/no-identical-bonds-no-transfer-or-interference.md) [+W] — attached 2026-10-24 from Poffenberger et al. (1915), which proposed "Specific stimulus-response bonds and identical elements as the mechanism of transfer of training"; tests this page's relationship.
+- [Practice effects in visual reproduction are specific: they transfer to new conditions only in proportion to identical ability-conditioning factors.](../claims/practice-effects-specific-to-conditions.md) [+W]
 
 ## Related Theories
 - 

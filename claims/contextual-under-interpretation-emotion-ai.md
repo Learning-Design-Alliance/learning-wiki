@@ -49,3 +49,4 @@ Conceptual argument in Section 2.1 (type e), citing psychological evidence that 
 - [Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use](prepost-changes-expressive-emotion-signals.md) — related
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
 - [Existing SLA emotion research methods cannot capture the dynamic nature of emotions in language learning situations](sla-emotion-methods-cannot-capture-dynamics.md) — related
+- [The article argues that interpreting the meaning and significance of presented data is the important problem, and that current emphasis on reporting conditions minimizes interpretation](interpretation-over-reporting-conditions.md) — related

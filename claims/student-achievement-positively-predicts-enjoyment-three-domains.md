@@ -70,3 +70,4 @@ Zero-order correlations across the whole sample using group-mean centering at th
 - [Class-average achievement negatively predicts student enjoyment across math, science, and reading (the Happy-Fish-Little-Pond Effect), with the reading effect trivially small](hflpe-class-average-achievement-negative-enjoyment.md) — related
 - [The effect of student achievement on enjoyment is largely consistently positive across 37 countries, while the size of the negative class-average effect varies from country to country](hflpe-cross-national-generalizability-enjoyment.md) — related
 - [Children's ability self-concepts and subjective task values are domain-specific and differentiated from first grade, with gender differences in math fading over time](cab-domain-specific-beliefs-first-grade.md) — related
+- [Freedom of instruction added remarkably to the interest and happiness of children in the Bruckner experiment](bruckner-freedom-increased-interest-happiness.md) — related

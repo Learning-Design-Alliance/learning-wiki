@@ -67,3 +67,4 @@ Disaggregated cohort analysis (Figure 16) shows sophomore gains "have not been e
 - [Class of 1997 outcomes differed by gender, with girls graduating at higher counts than boys within five years](kenwood-class-1997-gender-outcomes.md) — related
 - [In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](chicago-2006-2017-attainment-indicator-gains.md) — related
 - [Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy](gps-advising-equity-gap-narrowing.md) — related
+- [Grade-class membership relates to grade distributions, with failing-poor ratios rising sharply across the five lowest-to-highest Alpha classes](intelligence-class-gradedistribution.md) — related

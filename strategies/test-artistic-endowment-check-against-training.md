@@ -38,7 +38,8 @@ The editorial recommends that schools systematically assess children's artistic 
 - identification and development of artistic endowment and creative potential
 
 ## Related Strategies
-- 
+
+- [Establish a central agency or endowed fund devoted to systematic, thorough series of experiments on teaching, interpreted in light of known facts about the learning process.](endowed-fund-for-systematic-teaching-experiments.md)
 
 ## Examples
 -

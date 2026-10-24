@@ -2,13 +2,13 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**638 entries** · 0 stable · 638 in review · 0 drafts
+**639 entries** · 0 stable · 639 in review · 0 drafts
 
 ---
 
 ## In Review
 
-Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w)
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [Z](#letter-z)
 
 #### A {: #letter-a }
 
@@ -716,4 +716,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Workload dynamics framework: temporal metrics of workload variation, intensity, and distribution over a term](workload-dynamics-framework-temporal-metrics-of-workload-variation-intensity-and-distribut.md) - The article proposes analyzing workload beyond static or average time-on-task by quantifying its temporal patterns.
 * [WWC attrition model](wwc-attrition-model.md) - The WWC attrition model is a framework for limiting attrition bias in assessments of intervention effectiveness: it establishes a standard for acceptable levels of sample attrition in randomized controlled trials by deriving bounds on the bias attrition can induce.
 * [WWC effectiveness rating framework for intervention evidence](wwc-effectiveness-rating-framework-for-intervention-evidence.md) - The What Works Clearinghouse rates interventions per outcome domain by combining study design quality with the magnitude, statistical significance, and consistency of findings.
+
+#### Z {: #letter-z }
+
+* [Zirbes's periodical-search method for identifying educational research problems](zirbess-periodical-search-method-for-identifying-educational-research-problems.md) - The article describes a search procedure that reads recent issues of nine educational periodicals and extracts statements of unsolved research problems, which are usually mentioned incidentally in connection with practical situations.
 

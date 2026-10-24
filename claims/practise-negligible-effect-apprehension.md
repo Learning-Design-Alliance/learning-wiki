@@ -69,3 +69,6 @@ The article's qualification of the practise data: the seeming improvement with d
 - [Individual differences in quick visual apprehension are striking and material-specific, negating the notion of a general ability to apprehend visually](no-general-visual-apprehension-ability.md) — related
 - [Practise has a very slight effect on the range of attention, explicable by habituation and grouping tricks rather than any expansion of the range itself](practise-negligible-effect-range-of-attention.md) — related
 - [The average range of visual attention for isolated letters lies between 4 and 5 letters (4.82), with only slight individual differences](range-of-attention-4-to-5-letters.md) — related
+- [Practice gains are greater for nonsense material (average final gain 28%) than for sense-material (average final gain 10%).](nonsense-material-gains-exceed-sense-material.md) — related
+- [Practice effects in visual reproduction are specific: they transfer to new conditions only in proportion to identical ability-conditioning factors.](practice-effects-specific-to-conditions.md) — related
+- [Practice increases observers' ability to reproduce briefly exposed visual material, with final-over-initial gains ranging from 6% to 44% (average 22%).](practice-improves-visual-reproduction-6-44-percent.md) — related

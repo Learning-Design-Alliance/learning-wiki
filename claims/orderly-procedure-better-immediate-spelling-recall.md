@@ -45,3 +45,4 @@ Observational study of one six-and-one-half-year-old learner spelling 104 word g
 ## Related Claims
 - [Delayed-recall errors greatly exceeded immediate-recall errors, more so under the orderly procedure (4.33 times) than the random procedure (2.6 times)](delayed-errors-exceed-immediate-orderly-more-than-random.md) — related
 - [In delayed recall, the random procedure reversed the pattern, exceeding the orderly procedure by 16.4% fewer errors](random-procedure-better-delayed-spelling-recall.md) — related
+- [Practice gains are greater for nonsense material (average final gain 28%) than for sense-material (average final gain 10%).](nonsense-material-gains-exceed-sense-material.md) — related

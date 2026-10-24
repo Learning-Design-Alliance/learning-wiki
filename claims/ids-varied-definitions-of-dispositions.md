@@ -49,3 +49,4 @@ Interview findings (RQ1 definition category): participants defined dispositions 
 - [Soft skills play an equally important role in education investments and outcomes as cognitive skills](soft-skills-equally-important-as-cognitive-skills.md)
 - P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently — related
 - School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation — related
+- [The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition](zirbes-1922-diagnosis-analysis-term-ambiguity.md) — related

@@ -73,3 +73,4 @@ In the same regression set predicting teacher-assigned grades, "task value indic
 - [Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender](test-anxiety-varies-by-subject-and-gender.md) — related
 - [Cognitive strategy use was highest in social studies and lowest in mathematics, and females reported more use than males](cognitive-strategy-use-varies-by-subject-area.md) — related
 - [Academic self-concept relates most strongly to achievement, with achievement goals, achievement motivation, autonomous motivation, and effort beliefs each adding unique variance](academic-self-concept-strongest-motivational-predictor.md) — related
+- [Male top-performing math students report higher math self-efficacy and stronger math-oriented motivation than female top performers](math-self-efficacy-gender-gap-top5.md) — related

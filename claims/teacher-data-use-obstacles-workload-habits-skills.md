@@ -52,3 +52,4 @@ Open-ended interview question (Q10) in the think-aloud iteration with ten teache
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
 - [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — related
 - [An equity and personalization focus led teachers to apply elements of formative assessment without extensive formal training](equity-focus-drives-formative-assessment.md) — related
+- [Strayer devised new forms for collecting educational statistics in the Bureau of Education that the report judges more faithful to the actual educational situation](strayer-bureau-education-statistics-schedules-1911.md) — related

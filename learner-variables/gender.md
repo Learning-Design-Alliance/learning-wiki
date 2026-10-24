@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 253 claims (155 show a difference, 60 mixed, 38 no difference) · 182 studies (115 associational, 32 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 29 of 182 report an effect size · 245 claims rest on one study
+> **Evidence** · 258 claims (159 show a difference, 61 mixed, 38 no difference) · 183 studies (115 associational, 32 causal, 14 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 30 of 183 report an effect size · 250 claims rest on one study
 
 ## How to read this page
 
@@ -291,6 +291,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No significant gender differences in communal or agentic goal affordances, endorsements, or incongruity among Indigenous STEM students](../claims/no-gender-differences-goal-congruity-indigenous.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The effect of Tekster does not depend on student gender](../claims/tekster-effect-not-gender-dependent.md) [-M] — an instructional effect differs by group
 - [Application of the Stanford Revision to 1000 non-selected children found the intelligence quotient a valid expression of intelligence, practically no sex differences, and social status not a disturbing influence on mental-age estimates.](../claims/stanford-revision-1000-non-selected-children-iq-valid-no-sex-differences.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender differences in the math–science achievement profile of top-performing math students are small, with both genders tilted toward mathematics](../claims/math-science-profile-small-gender-difference.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender equality indicators moderate gender differences among top-performing math students: tertiary enrollment ratios predict the share of female students and their achievement profiles](../claims/gender-equality-moderators-top5-math.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students are overrepresented among top-performing math students, with a mean female-to-male ratio of 1:1.50 across 82 countries](../claims/male-overrepresentation-top5-math-pisa.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male top-performing math students report higher math self-efficacy and stronger math-oriented motivation than female top performers](../claims/math-self-efficacy-gender-gap-top5.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male top-performing math students show strongly science-oriented science–reading profiles while female students' profiles are more balanced](../claims/science-reading-profile-gender-tilt-top5.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -52,3 +52,4 @@ Within the same 48-student correlational study, Table II reports Juniors' IQ-gra
 - [Prior studies show low and variable correlations between mental tests and college grades, averaging from .09 to .44](caldwell-1919-prior-test-grade-correlations-low.md) — a broader claim this one bears on
 - [Directional correlations between test scores and discrepancy direction are low but suggest tension tests track scholarship superiority and assimilation tests track intelligence superiority](low-directional-correlations-tension-versus-assimilation.md) — related
 - [The Rosanoff High Standard Frequency Test, but not writing-speed measures, diverges sharply between high-discrepancy and control students](rosanoff-frequency-test-diverges-between-discrepancy-groups.md) — related
+- [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](alpha-grades-correlation-class-standing.md) — related

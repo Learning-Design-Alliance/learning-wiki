@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 86 claims (28 for, 52 mixed, 6 against) · 47 studies (29 associational, 8 review, 5 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 6 of 47 report an effect size · 85 claims rest on one study
+> **Evidence** · 90 claims (29 for, 55 mixed, 6 against) · 49 studies (31 associational, 8 review, 5 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 7 of 49 report an effect size · 89 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -137,6 +137,10 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Applying the Stanford revision to selected children in four California cities, Williams classified 32% feeble-minded, 20% borderline, 22% dull normal, and 26% normal or superior.](../claims/williams-stanford-revision-four-california-cities-classification.md) [~W]
 - [Woolley found 25.5% of 18-year-old industrial workers feeble-minded on the point scale and advised changing the definition of feeble-mindedness so tested deficiency better matched common-sense opinion.](../claims/woolley-18-year-industrial-workers-25-5-percent-feeble-minded.md) [~W]
 - [Within a grade, younger pupils score higher on the Alertness Quotient than older pupils](../claims/younger-pupils-higher-alertness-quotient.md) [~W]
+- [A test score represents a pupil's performance under given conditions, not the pupil's ability, and conditions vary with the examiner and the pupil.](../claims/score-measures-performance-not-ability.md) [~W]
+- [Selected academic groups differ in Alpha distributions, with Phi Beta Kappa electees concentrated in higher classes and probationers lower](../claims/alpha-distribution-honors-probation.md) [+W]
+- [Alpha subtests differ in predicting grades, with correlations from .17 (Test 3) to .37 (Test 7) among seniors](../claims/alpha-subtest-correlation-range.md) [~W]
+- [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](../claims/alpha-grades-correlation-class-standing.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

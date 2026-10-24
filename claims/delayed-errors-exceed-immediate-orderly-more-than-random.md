@@ -48,3 +48,4 @@ Comparison of immediate versus delayed error totals in the same 104-group study:
 ## Related Claims
 - [In delayed recall, the random procedure reversed the pattern, exceeding the orderly procedure by 16.4% fewer errors](random-procedure-better-delayed-spelling-recall.md) — related
 - [In immediate recall, an orderly (fixed spatial-temporal) procedure for spelling word groups produced fewer errors than a random procedure, by 9.4%](orderly-procedure-better-immediate-spelling-recall.md) — related
+- [Practice gains are greater for nonsense material (average final gain 28%) than for sense-material (average final gain 10%).](nonsense-material-gains-exceed-sense-material.md) — related

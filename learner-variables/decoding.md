@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 97 claims (65 show a difference, 17 mixed, 15 no difference) · 64 studies (19 associational, 17 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 24 of 64 report an effect size · 92 claims rest on one study
+> **Evidence** · 99 claims (67 show a difference, 17 mixed, 15 no difference) · 65 studies (20 associational, 17 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 24 of 65 report an effect size · 94 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -138,6 +138,8 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [The phonologically-weighted intervention increased children's mean reliance on O-P regularities from pre- to post-intervention, with no significant mean change in imageability reliance](../claims/intervention-increases-mean-op-reliance.md) [~W] — instruction changes it
 - [Word reading task measures of O-P and imageability reliance predict intervention gains beyond vocabulary, phonological awareness, rapid naming, and auditory attention](../claims/op-imageability-unique-predictors-of-gains.md) [+M] — learners who differ on it differ in outcomes
 - [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](../claims/decoding-fluency-no-unique-prediction-grades-4-10.md) [~M] — learners who differ on it differ in outcomes
+- [Set for Variability performance is strongly correlated with word identification, word attack, phonological awareness, and vocabulary in grades 2–5](../claims/sfv-strongly-correlated-word-reading-decoding-phonemic-awareness-vocabulary.md) [+W] — learners who differ on it differ in outcomes
+- [The impact of phonological competitors on SfV accuracy is greater for children with low decoding or low word reading skill](../claims/sfv-competitors-interactions-decoding-word-reading.md) [+M] — an instructional effect differs with it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.
@@ -159,6 +161,8 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Visual Processing](visual-processing.md): visual processing helps map written forms onto speech sounds and build orthographic knowledge.
 
 ## Examples
+
+- [Train lexical flexibility for irregular words through pronunciation-flexibility instruction building on decoding](../strategies/sfv-flexibility-training-strategy.md)
 
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Decoding (Building Literacy PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/literacy-pk-3/factors/decoding-literacy-pk-3/summary). Licensed CC BY-NC 4.0.

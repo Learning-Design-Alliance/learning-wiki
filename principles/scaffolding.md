@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (23 for, 43 mixed, 8 against) · 53 studies (26 causal, 11 review, 6 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 17 of 53 report an effect size · 67 claims rest on one study
+> **Evidence** · 76 claims (23 for, 44 mixed, 9 against) · 54 studies (27 causal, 11 review, 6 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 54 report an effect size · 69 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,8 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](../claims/fading-out-prompts-beat-permanent-prompts.md) [+W]
 - [Computer-based scaffolding improves cognitive outcomes in problem-based learning in STEM education with an overall effect of g = 0.385](../claims/cbs-pbl-stem-overall-effect-g-0-385.md) [+W]
 - [Metacognitive and strategic scaffolding show larger effects in PBL-STEM than conceptual scaffolding](../claims/scaffolding-intervention-type-moderator-bma.md) [~W]
+- [In the replication, children's posttest outcome scores did not significantly differ across the four instructional conditions, failing to replicate the contingent-instruction advantage of D. Wood et al. (1978)](../claims/contingent-instruction-no-outcome-advantage-replication.md) [-W]
+- [Tutor accuracy in applying the contingency rule showed no significant association with children's posttest outcome, efficiency, or autonomy, with near-zero correlations](../claims/tutor-accuracy-no-posttest-association.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

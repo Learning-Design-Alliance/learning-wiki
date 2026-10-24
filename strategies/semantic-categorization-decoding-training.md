@@ -47,7 +47,8 @@ In discussing implications, the authors point to work showing that "semantic cat
 - [Semantic abilities indirectly predict word decoding efficiency in children with dyslexia via phonological awareness and rapid naming](../claims/semantics-indirect-word-decoding-dyslexia.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Train lexical flexibility for irregular words through pronunciation-flexibility instruction building on decoding](sfv-flexibility-training-strategy.md)
 
 ## Examples
 -

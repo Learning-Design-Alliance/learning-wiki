@@ -13,7 +13,7 @@ generated:
 # Reinforcement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (5 for, 4 mixed, 3 against) · 12 studies (5 review, 3 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 11 claims rest on one study
+> **Evidence** · 14 claims (5 for, 4 mixed, 5 against) · 13 studies (5 review, 4 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size · 13 claims rest on one study
 
 ## Description
 Reinforcement is the contingent delivery of a consequence following a target behavior, making that behavior more likely to recur. Rooted in operant conditioning [Behaviorism](../theories/behaviorism.md), it encompasses positive reinforcement (adding a desirable outcome — points, praise, privileges), negative reinforcement (removing an undesirable condition), and the scheduling of these consequences (continuous vs. intermittent). In learning design, reinforcement overlaps with but is distinct from [Feedback](feedback.md): reinforcement strengthens behavior; feedback supplies information about performance quality.
@@ -64,6 +64,8 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 - [Go-trial accuracy was lower under reward conditions, an effect mediated by task version and administration order](../claims/reward-lowered-go-trial-accuracy-order-dependent.md) [~W]
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](../claims/targeted-support-feedback-reinforcers-dd.md) [+W]
 - [Rewards combined with feedback temporarily boosted reading performance, especially for struggling readers, with variable long-term effects](../claims/rewards-with-feedback-temporary-boost-struggling-readers.md) [+W]
+- [Children's activity scores did not significantly differ between instructional conditions in the replication, failing to replicate the higher activity of contingently taught children in 1978](../claims/activity-scores-no-condition-difference-replication.md) [-W]
+- [Posttest performance of the replication's contingent condition was far below the original study's contingent condition, a large unregistered difference not seen for the three control conditions](../claims/contingent-condition-mean-discrepancy-1978-replication.md) [-W]
 
 ## Related Elements
 - [Feedback](feedback.md) — informational counterpart; reinforcement changes probability, feedback changes understanding, and the two are most powerful combined

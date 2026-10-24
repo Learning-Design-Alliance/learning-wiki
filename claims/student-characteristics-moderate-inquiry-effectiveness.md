@@ -69,3 +69,4 @@ The review reports Richter et al. (2022) found direct instruction more successfu
 - [Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults](cognitive-factors-explain-half-inquiry-variance.md) — related
 - [Dispositional factors add little to predicting inquiry performance except physics self-concept, and extraneous load has a significant negative effect](dispositions-load-little-inquiry-prediction.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
+- [Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions](pre-learning-comparability-measures-signaling.md) — related

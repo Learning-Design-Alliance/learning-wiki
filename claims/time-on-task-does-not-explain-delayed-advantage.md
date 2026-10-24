@@ -50,3 +50,4 @@ Regression analyses with condition and time-on-task entered at Step 1 found "no 
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](liking-is-not-learning-decimals-tutor.md) — related
 - [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](errexs-vs-correx-mixed-benefit.md) — related
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](erroneous-examples-no-immediate-difference.md) — related
+- [Average instruction time differed significantly between conditions, with demonstration by far the shortest, replicating the original study's durations](instruction-time-condition-differences-replicated.md) — related

@@ -46,3 +46,4 @@ Mixed ANOVAs on global eye-tracking measures (Picture × Frequency × Group) acr
 - [Lexical simplification (high-frequency target words) substantially reduces word-level processing times in adult sentence reading](lexical-simplification-reduces-target-word-processing.md) — related
 - [Non-university adults are slower at sentence processing than university adults](non-university-adults-slower-sentence-processing.md) — related
 - [Accompanying sentences with an image improves comprehension accuracy, significantly so for sentences containing low-frequency words](visual-support-improves-sentence-comprehension-accuracy.md) — related
+- [Good readers in the lower grades show the eye-habits of mature readers, per laboratory studies of reading](young-good-readers-mature-eye-habits.md) — related

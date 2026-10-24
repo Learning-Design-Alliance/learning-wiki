@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (21 for, 21 mixed, 1 against) · 38 studies (13 causal, 10 theoretical, 9 review, 2 quant-synthesis, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 38 report an effect size · 39 claims rest on one study
+> **Evidence** · 44 claims (22 for, 21 mixed, 1 against) · 39 studies (14 causal, 10 theoretical, 9 review, 2 quant-synthesis, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 39 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -194,6 +194,7 @@ Performance during practice, unaided performance at the end of the unit, delayed
 - [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](../claims/cvs-level-difficulty-ordering.md) [+W]
 - [After reading the first text, embedded-source trustworthiness evaluations did not vary between sequences](../claims/es-evaluation-no-sequence-difference-position-one.md) [-W]
 - [The authors' data supports that Calculus 1 need not be a prerequisite for lower-level CS courses](../claims/calculus1-need-not-prerequisite-lower-level-cs.md) [~W]
+- [Arithmetic work in the Bruckner free-order experiment was distinctly inferior to that of children with the same amount of schooling](../claims/bruckner-arithmetic-inferior.md) [+W]
 
 ## Related Principles
 - [Holistic Learning](holistic-learning.md)

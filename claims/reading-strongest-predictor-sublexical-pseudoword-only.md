@@ -51,3 +51,4 @@ Partial correlations controlling for year group in the 641-child sample show rea
 - [RAN predicts irregular word spelling in Yrs 5–6, regular word spelling in Yrs 2 and 6, and pseudoword spelling in Yr 2, varying with spelling experience](ran-predicts-spelling-varies-by-year-and-word-type.md) — related
 - [Spelling accuracy for irregular words, regular words and pseudowords improves significantly with year group (spelling experience)](spelling-improves-with-year-group-all-word-types.md) — related
 - [Children spell regular words more accurately than pseudowords and irregular words, and irregular word accuracy falls below pseudoword accuracy until Yr 5](regular-words-spelled-better-than-irregular-pseudowords.md) — related
+- [Results are not fully in line with current theories on the representation of orthographic knowledge](results-challenge-orthographic-knowledge-theories.md) — related

@@ -24,7 +24,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (19 for, 10 mixed) · 31 studies (11 causal, 8 review, 5 theoretical, 4 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 31 report an effect size · 25 claims rest on one study
+> **Evidence** · 30 claims (19 for, 11 mixed) · 32 studies (12 causal, 8 review, 5 theoretical, 4 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 32 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 - [Variation-theory-based teaching significantly improves students' alternation of points of view on novel, untaught societal issues (transfer), with smaller effects than on the taught task](../claims/variation-theory-transfer-novel-issues.md) [+W]
 - [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](../claims/structure-emphasizing-cover-stories-categorization.md) [+W]
 - [A review of approximately 80 studies found cognitive training teaching both discrimination and generalization effective for inductive reasoning and problem-solving transfer](../claims/cognitive-training-discrimination-generalization-review.md) [+W]
+- [Practice effects in visual reproduction are specific: they transfer to new conditions only in proportion to identical ability-conditioning factors.](../claims/practice-effects-specific-to-conditions.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

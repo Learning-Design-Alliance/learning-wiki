@@ -65,3 +65,4 @@ The article's summary conclusion from the apprehension data: one may state only 
 - [Systematic practise gives little warrant for markedly improving adults' quick visual perception; the slight poetry gain is attributed to familiarity with the poem](practise-negligible-effect-apprehension.md) — related
 - [The average range of visual attention for isolated letters lies between 4 and 5 letters (4.82), with only slight individual differences](range-of-attention-4-to-5-letters.md) — related
 - [Practise has a very slight effect on the range of attention, explicable by habituation and grouping tricks rather than any expansion of the range itself](practise-negligible-effect-range-of-attention.md) — related
+- [Practice effects in visual reproduction are specific: they transfer to new conditions only in proportion to identical ability-conditioning factors.](practice-effects-specific-to-conditions.md) — related

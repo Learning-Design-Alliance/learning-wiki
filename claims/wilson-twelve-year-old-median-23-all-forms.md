@@ -47,3 +47,4 @@ Age-based re-analysis of the combined Sioux City and Duluth distributions: the s
 - [The three Wilson Language Error Tests (A, B, and C) approach equality across grades III to XII](wilson-language-error-tests-equal-value.md) — a broader claim this one bears on
 - [The twelve-year tests of the Binet-Simon scale were unsatisfactory, with several individual tests too difficult for the children tested](binet-simon-twelve-year-tests-unsatisfactory.md) — related
 - [Schuyten argues experimental study of children should be the basis for pupil classification that removes causes of inattention](schuyten-experimental-study-pupil-classification.md) — related
+- [Median scores on the Kansas Silent Reading Tests are available for more than 100,000 pupils across 160 cities, organized by grade and region.](kansas-silent-reading-norms-100000-pupils.md) — related

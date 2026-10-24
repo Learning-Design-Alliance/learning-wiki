@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (7 for, 11 mixed, 2 against) · 20 studies (5 causal, 5 quant-synthesis, 4 review, 3 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 20 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (8 for, 11 mixed, 2 against) · 21 studies (5 causal, 5 quant-synthesis, 4 review, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 21 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -82,6 +82,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
+- [The mark of failure is not a ranking mark but an indication that a student should not proceed without repeating the subject](../claims/failure-mark-not-a-ranking-mark.md) [+W] — attached 2026-10-24 from Kohl et al. (1911), which proposed "Design instruction and student progress so that no student needs to fail".
 
 ## Objective and learner-valued goal
 

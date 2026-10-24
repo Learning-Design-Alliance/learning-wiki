@@ -45,3 +45,4 @@ The author's interpretive discussion of the low correlation: possible factors na
 ## Related Claims
 - [Army Alpha intelligence standing correlates r = +.31 with one-term school standing among 153 normal-school students](army-alpha-school-standing-correlation-31.md) — related
 - [Robertson argues local conditions prevent general conclusions about training-school effects and calls for further investigation](robertson-training-school-further-investigation.md) — related
+- [Alpha predicts academic standing better in Agriculture (r = .54) than in Arts or Engineering, and subtest patterns vary by college](alpha-correlation-varies-by-college.md) — related

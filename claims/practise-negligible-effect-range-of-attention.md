@@ -69,3 +69,5 @@ The authors' interpretation of the practise data: the small gain is due to habit
 - [Systematic practise gives little warrant for markedly improving adults' quick visual perception; the slight poetry gain is attributed to familiarity with the poem](practise-negligible-effect-apprehension.md) — related
 - [The average range of visual attention for isolated letters lies between 4 and 5 letters (4.82), with only slight individual differences](range-of-attention-4-to-5-letters.md) — related
 - [Longer exposures barely increase apprehension of nonsense material and objects, but materially increase perception of quickly assimilable sense-material such as poetry](exposure-length-apprehension-material-type.md) — related
+- [Practice effects in visual reproduction are specific: they transfer to new conditions only in proportion to identical ability-conditioning factors.](practice-effects-specific-to-conditions.md) — related
+- [Practice increases observers' ability to reproduce briefly exposed visual material, with final-over-initial gains ranging from 6% to 44% (average 22%).](practice-improves-visual-reproduction-6-44-percent.md) — related

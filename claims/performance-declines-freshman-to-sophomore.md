@@ -68,3 +68,4 @@ Cohort comparison of attendance distributions (Figure 6, 2014-15 cohort) found a
 - [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
 - [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related
 - [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — reports the opposite
+- [Grade-class membership relates to grade distributions, with failing-poor ratios rising sharply across the five lowest-to-highest Alpha classes](intelligence-class-gradedistribution.md) — related

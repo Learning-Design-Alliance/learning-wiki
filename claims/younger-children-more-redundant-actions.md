@@ -50,3 +50,4 @@ In the Inefficient first condition generalized mixed effects model, "younger chi
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Children who first learned the efficient method switched to the observed inefficient method](children-switch-efficient-to-inefficient-method.md) — related
 - [Most 3–5-year-old children who first learned an inefficient puzzlebox method switched to a witnessed, more efficient alternative](children-switch-inefficient-to-efficient-puzzlebox.md) — related
+- [Older children (over 3.5 years) outperformed younger children on the posttest regardless of instructional condition](older-children-outperform-younger-regardless-of-instruction.md) — related

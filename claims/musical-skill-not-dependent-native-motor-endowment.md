@@ -45,3 +45,4 @@ The editorial reports, citing Baerwald's 1916 study of motor imagery, that findi
 ## Related Claims
 - [Musical comprehension that improves on second hearing was attributed to developing motor attitudes, with negative findings on native motor endowment](musical-illumination-attributed-motor-attitudes.md) — related
 - [Musical people react more by involuntary movements to unexpected stimuli, but strongly motor individuals are as common among non-musical as musical people](motor-individuals-equally-common-musical-nonmusical.md) — possibly the same claim (merge candidate)
+- [The editorial argues that fundamental questions about teaching music should be settled by controlled experiment rather than by trial and error.](music-teaching-questions-need-controlled-experiments.md) — a broader claim this one bears on
