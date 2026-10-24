@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: anna-h-miller-2025
     resource: "https://doi.org/10.1007/s10648-025-10070-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The interaction between outcome proximity and dosage was significant (β = 0.05, 95% CI [0.01, 0.10]), with a crossover such that distal outcomes outperform proximal outcomes at low dosages and proximal outcomes have higher effect sizes at higher dosages. [→ Anna H. Miller 2025](#anna-h-miller-2025)

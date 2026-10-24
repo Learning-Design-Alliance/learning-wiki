@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: huang-2026
     resource: "https://doi.org/10.1186/s40594-026-00652-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only the Group × GenAI experience interaction was statistically significant (β = -3.445, p = 0.034); the Group × SRL and Group × Pretest CSEM interactions were not. [→ Huang 2026](#huang-2026)

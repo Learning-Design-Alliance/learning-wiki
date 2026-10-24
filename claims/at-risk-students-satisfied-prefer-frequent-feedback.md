@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: wei-dai-2025
     resource: "https://doi.org/10.18608/jla.2025.8735"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Survey responses from 9.27% of at-risk students indicated general satisfaction with the feedback intervention, and 60% of respondents preferred receiving it more frequently than the twice-per-semester schedule implemented. [→ Wei Dai 2025](#wei-dai-2025)

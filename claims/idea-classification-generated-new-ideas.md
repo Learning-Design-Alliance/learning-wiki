@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: kowalski-2013
     resource: "https://doi.org/10.48550/arxiv.1308.2434"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Practicing the classification technique led students to combine categories and produce a new idea: measuring the volume of rock moved on a conveyer belt or truck bed using acoustic waves. [→ Kowalski 2013](#kowalski-2013)

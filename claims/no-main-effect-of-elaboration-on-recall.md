@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: floris-m-van-blankenstein-2013
     resource: "https://doi.org/10.1007/s11251-012-9252-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the immediate posttest, neither elaboration (F(1, 62) = 2.36, p = .13) nor prior knowledge (F(1, 62) = 1.81, p = .18) had a significant main effect on recall; the delayed-posttest elaboration effect was also non-significant (F(1, 62) = .69, p = .41). [→ Floris M. Van Blankenstein 2013](#floris-m-van-blankenstein-2013)

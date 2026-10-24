@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: li-2019
     resource: "https://www.nwea.org/research/publication/simulation-study-for-evaluating-map-growth-item-pools-with-grade-level-constraints/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In reading simulations, all SEMs were larger than 3; the all-grade pool had the lowest average SEM (3.4, the operational stopping rule), followed by the ±1-grade pool (3.41) and the on-grade pool (3.59), with the largest values at extreme scale ends. [→ Li 2019](#li-2019)

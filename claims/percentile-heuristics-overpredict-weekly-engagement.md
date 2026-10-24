@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: eric-s-qiu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.12788"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Adams-style P60 and P70 percentile predictors perform 4-33% worse than P50 across targets because their continuous-improvement assumption fails once growth slows. [→ Eric S. Qiu 2026](#eric-s-qiu-2026)

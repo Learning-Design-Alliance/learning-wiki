@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: yu-fanyi-2025
     resource: "https://doi.org/10.1037/edu0000967"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Communal goal incongruity (affordance–endorsement difference) indirectly reduces persistence intentions via belonging, with 13.5% of its effect mediated. [→ Yu Fanyi 2025](#yu-fanyi-2025)

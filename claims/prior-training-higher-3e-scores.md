@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: masum-hasan-2026
     resource: "https://doi.org/10.48550/arxiv.2609.22517"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants with previous communication-training experience (n=16) scored higher on overall 3E than those without (n=43) (0.468 versus 0.426; one-sided p=0.013). [→ Masum Hasan 2026](#masum-hasan-2026)

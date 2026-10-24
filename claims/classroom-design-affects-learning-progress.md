@@ -36,12 +36,14 @@ sources:
     rigour: "?"
 id: classroom-design-affects-learning-progress
 evidence_strength: moderate
+newest_evidence: 2015
 ---
 
 # Classroom Design Affects Learning Progress
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 associational `r2`, 1 review `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2015 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 The physical characteristics of a classroom — daylight, air quality, temperature, acoustics, layout flexibility, learner ownership of the space, and the amount of visual stimulation on its walls — account for a measurable share of the variation in how much pupils learn over a school year. The claim is about *progress attributable to the room*, holding teacher and intake constant; it is not a claim that design substitutes for instruction.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: gautam-biswas-2016
     resource: "https://doi.org/10.1007/s40593-015-0057-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Clustering students on six coherence measures identified five distinct behavior profiles among 98 students. [→ Gautam Biswas 2016](#gautam-biswas-2016)

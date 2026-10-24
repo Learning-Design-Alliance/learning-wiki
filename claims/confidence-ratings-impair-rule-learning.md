@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: kit-s-double-2025
     resource: "https://doi.org/10.1007/s11409-025-09413-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a pre-registered experiment (N = 710), the confidence rating group performed significantly worse on ambiguous transfer items than both the JOL group and the no-rating group. [→ Kit S. Double 2025](#kit-s-double-2025)

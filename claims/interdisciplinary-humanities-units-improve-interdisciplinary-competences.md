@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: novis-deutsch-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2346915"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium · n=586 students (380 intervention, 206 comparison) across 17 classes and 5 schools for the quantitative measure; n=128 students, 4 classes, 2 schools for the qualitative discourse substudy (from a broader project of 142 teachers and 1,109 students across 10 schools)
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Middle-school students who completed interdisciplinary humanities units (combining subjects like history, Bible, and literature around a shared theme) showed statistically significant, medium-sized gains in a novel measure of interdisciplinary competence — comprehension, integration, and synthesis across disciplines — compared to a non-randomized comparison group of students in the same schools, with knowledge-building and identity work appearing in classroom discourse in roughly equal measure.
 

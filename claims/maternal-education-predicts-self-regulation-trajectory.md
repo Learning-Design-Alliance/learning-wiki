@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: montroy-janelle-j-2016
     resource: "https://doi.org/10.1037/dev0000159"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Each additional level of maternal education raised odds of preschool-developer versus later-developer classification (OR = 1.30 MLSELD; OR = 1.23 Oregon) and of early versus intermediate classification (OR = 1.26 MLSELD). [→ Montroy Janelle J. 2016](#montroy-janelle-j-2016)

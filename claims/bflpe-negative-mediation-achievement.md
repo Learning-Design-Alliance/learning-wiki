@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: televantou-2023
     resource: "https://doi.org/10.1007/s10648-023-09816-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an exploratory mediation analysis, the effect of class-average achievement on subsequent mathematics achievement through mathematics self-concept was small, negative, and statistically significant in all three countries. [→ Televantou 2023](#televantou-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ger-ebru-2023
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` With each proceeding trial, the probability of a correct response decreased in the mixed block by 1% (p < .0001), while it did not significantly change in the flowers block (increasing trend of 0.8%, p = .11). [→ Ger Ebru 2023](#ger-ebru-2023)

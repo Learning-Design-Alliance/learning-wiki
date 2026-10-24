@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: richard-halverson-2012
     resource: "http://www.eriainteractive.com/index.php"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Far failures across all cycles were negatively correlated with learning as measured by pre-post tests (r = -.2788), while total failures, cycles started, successful collects, and cycles completed showed no correlation with gains. [→ Richard Halverson 2012](#richard-halverson-2012)

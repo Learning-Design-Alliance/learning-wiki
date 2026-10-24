@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: kartal-2018
     resource: "https://doi.org/10.5539/ies.v11n10p96"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adults' level of resorting to epistemic violence shows a significant, negative, weak correlation with both their past enjoyment of education-related epistemic freedom and their tendency toward it. [→ Kartal 2018](#kartal-2018)

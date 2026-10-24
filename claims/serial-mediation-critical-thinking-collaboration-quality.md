@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yin-s-2026
     title: Yin S 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The serial indirect effect through critical thinking then human–AI collaboration quality is significant for functional dependence (Ind3 = 0.0175, 95% CI [0.0072, 0.0301]). [→ Yin S 2026](#yin-s-2026)

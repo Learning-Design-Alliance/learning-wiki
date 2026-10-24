@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: dudovitz-2016
     resource: "https://doi.org/10.1007/s10995-015-1882-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All participant groups described stress from uncorrected poor vision: parents reported financial and emotional stress, teachers reported classroom-management stress, and students reported physical hardship and emotional stress. [→ Dudovitz 2016](#dudovitz-2016)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
+recheck_by: 2024
 sources:
   - id: soland-2019
     resource: "https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Being an ELL is associated with reading growth between 5th and 8th grade that is .13 standard deviations higher than among peers, while initial reading scores are .65 standard deviations lower; these are standardized SEM coefficients, so no effect-size impact is coded. [→ Soland 2019](#soland-2019)

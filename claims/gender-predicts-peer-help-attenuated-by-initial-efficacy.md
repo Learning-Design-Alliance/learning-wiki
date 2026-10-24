@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: aikens-2023
     resource: "https://doi.org/10.1187/cbe.22-04-0076"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When gender/sex was the lone predictor, female students had significantly higher odds of reporting Getting Help from Peers (B = 0.62, p = 0.03, odds ratio 1.87). [→ Aikens 2023](#aikens-2023)

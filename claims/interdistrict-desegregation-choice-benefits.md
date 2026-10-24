@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: darling-hammond-2017
     resource: "https://learningpolicyinstitute.org/product/expanding-high-quality-options"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A review of research on interdistrict desegregation choice programs found they decrease segregation, help close racial achievement gaps, improve racial attitudes especially among Whites, and lead to long-term mobility and further education for participating students of color. [→ Darling-Hammond 2017](#darling-hammond-2017)

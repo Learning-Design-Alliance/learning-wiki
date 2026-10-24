@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: habibullah-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29333"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Varying the adjective alone over verbatim policy sentences moves MAE by only 0.94–2.15, while a 2×2 crossing of sentences S1 and S2 takes three models to 20.26–26.04, with S2 alone producing outright refusal on Llama-3.1-8B and Mistral-Small-24B. [→ Habibullah 2026](#habibullah-2026)

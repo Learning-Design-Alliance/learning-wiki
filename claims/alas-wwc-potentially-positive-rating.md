@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: wwc-intervention-report-alas-2006
     resource: "https://www.alasdropoutprevention.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The WWC found ALAS to have potentially positive effects for staying in school and progressing in school, based on one study meeting evidence standards. [→ WWC Intervention Report: ALAS 2006](#wwc-intervention-report-alas-2006)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: high-quality-early-child-education-is-associated-with-2023
     resource: "https://ies.ed.gov/ncee/edlabs/regions/west"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend pre-kindergarten. [→ High-Quality Early Child Education is Associated With 2023](#high-quality-early-child-education-is-associated-with-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: kievit-2017
     resource: "https://doi.org/10.1177/0956797617710785"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Univariate LCS models showed significant change-score intercepts in both domains, negative self-feedback (higher Time 1 scores associated with less improvement), and significant variance in change scores. [→ Kievit 2017](#kievit-2017)

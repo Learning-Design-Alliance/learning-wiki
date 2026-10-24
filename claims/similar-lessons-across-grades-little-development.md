@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: julia-b-smith-1998
     resource: "https://consortium.uchicago.edu/publications/setting-pace-opportunities-learn-chicago-public-elementary-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Classroom observations found the same topics and skills taught again and again across grades with little to no development in content, depth, or complexity. [→ Julia B. Smith 1998](#julia-b-smith-1998)

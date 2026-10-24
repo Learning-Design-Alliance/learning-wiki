@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: lisa-barrow-2018
     resource: "https://consortium.uchicago.edu/publications/gocps-first-look-applications-and-offers"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Among applicants to points-based programs, no admitted student had a lower application score than a non-admitted student within the same priority group. [→ Lisa Barrow 2018](#lisa-barrow-2018)

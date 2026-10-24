@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: patrick-2023
     resource: "https://doi.org/10.54300/956.678"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 90% of responding completers rated their TPP as effective or very effective, and 90% or more felt at least adequately prepared in all TPE areas. [→ Patrick 2023](#patrick-2023)

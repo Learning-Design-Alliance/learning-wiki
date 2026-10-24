@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: summer-counseling-2018
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/693"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2`–`r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In New Mexico (Castleman et al., 2015a; 1,602 students), the enrollment effect was -0.01 (improvement index 0), not statistically significant. [→ Summer Counseling 2018](#summer-counseling-2018)

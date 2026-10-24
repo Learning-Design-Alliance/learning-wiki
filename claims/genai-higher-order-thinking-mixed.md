@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: wei-2026
     resource: "https://doi.org/10.1007/s40979-026-00217-x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reviewed studies describe GenAI supporting reflective thinking, pattern-finding and devil's-advocate challenge, but also report reduced critical engagement and homogenised ideas when over-relied on. [→ Wei 2026](#wei-2026)

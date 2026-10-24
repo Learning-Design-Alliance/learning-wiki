@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: loyens-2008
     resource: "https://doi.org/10.1007/s11251-008-9059-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' conceptions of constructivist learning are structurally related to their regulation and processing strategies, and students who doubt their own learning capacities seem at risk for adopting an inadequate regulation strategy. [→ Loyens 2008](#loyens-2008)

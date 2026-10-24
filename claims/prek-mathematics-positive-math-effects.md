@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: us-department-of-education-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/381"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3` · `i2` medium
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the Klein et al. (2008) RCT, differences between the intervention group and the comparison group on the Child Math Assessment were statistically significant, with an effect size of 0.52. [→ U.S. Department of Education 2013](#us-department-of-education-2013)

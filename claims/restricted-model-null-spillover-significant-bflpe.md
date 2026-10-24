@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: televantou-2023
     resource: "https://doi.org/10.1007/s10648-023-09816-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Under a restricted multi-group doubly latent model with equal compositional effects, the overall effect of class-average achievement on subsequent achievement was βcomp = -.041 (ES = -.152), non-significant, while the BFLPE was βcomp = -.336 (ES = -.693), significant. [→ Televantou 2023](#televantou-2023)

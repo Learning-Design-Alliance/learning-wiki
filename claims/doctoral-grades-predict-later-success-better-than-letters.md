@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: gates-1922
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i3` large
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Grades in the Ph.D. preliminary examination and Doctorate thesis ratings gave mean correlations of approximately 0.6 with criteria of success in later work. [→ Gates 1922](#gates-1922)

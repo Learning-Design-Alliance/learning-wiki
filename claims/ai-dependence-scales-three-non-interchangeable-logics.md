@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yan-d-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1827795"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Measurement instruments for AI dependence, attachment, and reliance follow three broad logics (addiction-component, attachment, reliance) with different item content; internal consistency within a scale does not show they measure one latent construct. [→ Yan D 2026](#yan-d-2026)

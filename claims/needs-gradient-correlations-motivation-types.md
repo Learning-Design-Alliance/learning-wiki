@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: bureau-2022
     resource: "https://doi.org/10.3102/00346543211042426"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Autonomy correlated negatively with amotivation (ρ = −.34), was unrelated to external regulation (ρ = −.04), and correlated positively with introjected (ρ = .23), identified (ρ = .48), and intrinsic motivation (ρ = .57); competence and relatedness showed the same ordering. [→ Bureau 2022](#bureau-2022)

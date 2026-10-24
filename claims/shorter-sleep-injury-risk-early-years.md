@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: chaput-jp-2017
     resource: "https://doi.org/10.1186/s12889-017-4850-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Sleep duration shorter than 8 h per day was associated with increased risk of accidental falls (OR = 2.7, 95% CI 1.2–6.1). [→ Chaput JP 2017](#chaput-jp-2017)

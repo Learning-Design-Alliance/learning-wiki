@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-17
 sources:
   - id: karp-2021
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/28"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Comprehensive, integrated advising interventions demonstrated statistically significant and positive average effects on progressing in college, academic achievement, and postsecondary degree attainment. [→ Karp 2021](#karp-2021)

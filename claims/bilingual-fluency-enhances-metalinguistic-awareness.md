@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: jimenez-et-al-1995
     resource: "https://journals.sagepub.com/home/aer"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 qualitative `r?`, 1 theoretical `r?` · `q2`
+> **Currency** · newest study 2006 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 <!-- title before 2026-10-15: Fluent bilingualism enhances metalinguistic awareness -->
 

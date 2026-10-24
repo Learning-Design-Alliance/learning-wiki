@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: meijuan-xie-2025
     resource: "https://doi.org/10.48550/arxiv.2503.13533"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean scores of experienced MTES were slightly higher than inexperienced MTES on every variable, but teaching experience did not significantly enhance AI-TPACK proficiency. [→ Meijuan Xie 2025](#meijuan-xie-2025)

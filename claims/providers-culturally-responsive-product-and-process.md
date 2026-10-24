@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: alexandra-merritt-johnson-2023
     resource: "https://doi.org/10.51388/20.500.12265/197"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Providers described cultural and contextual alignment both in end products reflecting diverse students and in R&D processes where those at the table reflect the diversity of targeted communities. [→ Alexandra Merritt Johnson 2023](#alexandra-merritt-johnson-2023)

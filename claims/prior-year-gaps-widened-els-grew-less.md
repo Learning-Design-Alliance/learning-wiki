@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: mccarthy-2020
     resource: "https://eric.ed.gov/?id=ED613373"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the prior-year cohort, the EL-Non-EL ATL-REG mean gap grew from 13 points in fall 2018 to 35 points in spring 2019, and regression showed ELs expected to grow less in all domains, significant only for PD. [→ McCarthy 2020](#mccarthy-2020)

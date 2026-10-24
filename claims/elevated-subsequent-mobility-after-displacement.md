@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: marisa-de-la-torre-2009
     resource: "https://consortium.uchicago.edu/publications/when-schools-close-effects-displaced-students-chicago-public-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` During their first year in a new school, nearly 11 percent of displaced students changed schools versus 5 percent of comparison students; the next summer, 30 percent versus 14 percent changed schools. [→ Marisa de la Torre 2009](#marisa-de-la-torre-2009)

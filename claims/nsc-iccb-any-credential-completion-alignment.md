@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: jenny-nagaoka-and-shelby-mahaffie-2020
     resource: "https://consortium.uchicago.edu/publications/tracking-two-year-college-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 3,660 students enrolled in both datasets, 18.6 percent completed any credential within four years per ICCB and 17.3 percent per NSC, with the datasets agreeing for 96 percent of students. [→ Jenny Nagaoka and Shelby Mahaffie 2020](#jenny-nagaoka-and-shelby-mahaffie-2020)

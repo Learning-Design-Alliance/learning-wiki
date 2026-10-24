@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: richard-e-mayer-2024
     resource: "https://doi.org/10.1007/s10648-023-09842-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Across 9 experimental tests, adding 3D immersive virtual reality did not improve learning over corresponding 2D desktop presentations, with a mean effect size of -0.10. [→ Richard E. Mayer 2024](#richard-e-mayer-2024)

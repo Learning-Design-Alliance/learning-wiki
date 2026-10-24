@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In SIGCSE TS, verified hallucinated references rose from 3 (2025 proceedings) to 17 (2026 proceedings), with the 17 appearing across seven 2026 publications; 2.3% of 2026 proceedings papers contained at least one hallucinated reference. [→ Paul Denny 2027](#paul-denny-2027)

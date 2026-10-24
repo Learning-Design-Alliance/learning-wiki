@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: weaver-2022
     resource: "https://doi.org/10.51388/20.500.12265/166"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Only 18 percent of schools strongly agree teachers are sufficiently trained in how to use technology, 50 percent report the steep learning curve is a moderate or large challenge, and 50 percent of teachers report lack of training as a greatest obstacle to integrating technology. [→ Weaver 2022](#weaver-2022)

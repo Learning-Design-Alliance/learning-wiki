@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: marsh-2025
     resource: "https://doi.org/10.1007/s10648-025-10079-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A 12-factor ESEM measurement model with the BPNSFS 3×2 structure, loading invariance and correlated uniquenesses showed excellent fit (RMSEA = .012; CFI = .991; TLI = .989) in 1,950 Australian school leaders. [→ Marsh 2025](#marsh-2025)

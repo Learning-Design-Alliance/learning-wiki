@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: yang-x-and-meng-x-2020
     title: Yang X and Meng X 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Visual processing at senior kindergarten significantly explained 4% of additional variance in grade-one character reading beyond initial reading, nonverbal IQ, sustained attention, inhibitory control, age, and gender. [→ Yang X and Meng X 2020](#yang-x-and-meng-x-2020)

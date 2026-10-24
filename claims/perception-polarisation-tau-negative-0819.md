@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ismail-şan-and-hanife-gülhan-orhan-karsak-2026
     resource: "https://doi.org/10.1186/s41239-026-00621-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Kendall's τ between Positive Perception and Negative Perception/Risk is −0.819 (p < .001), indicating evaluative bipolarity: activation of one is associated with suppression of the other. [→ İsmail Şan and Hanife Gülhan Orhan Karsak 2026](#ismail-san-and-hanife-gulhan-orhan-karsak-2026)

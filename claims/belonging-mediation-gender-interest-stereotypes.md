@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: master-2021
     resource: "https://doi.org/10.1073/pnas.2100030118"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For girls, lower sense of belonging mediated the negative relation between stereotype endorsement and interest (Study 1 conditional indirect effect = −0.14, 95% CI [−0.24, −0.03]); for boys the mediation ran in the opposite direction (0.10, CI [0.02, 0.18]). [→ Master 2021](#master-2021)

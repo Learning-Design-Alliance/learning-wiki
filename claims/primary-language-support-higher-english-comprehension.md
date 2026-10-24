@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: taboada-barber-2026
     title: Taboada Barber 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Grade 1 ELs receiving Spanish oral instructions achieved significantly higher English reading comprehension scores than the English-only instruction group, with both groups growing in English word reading. [→ ev-4](#taboada-barber-2026)

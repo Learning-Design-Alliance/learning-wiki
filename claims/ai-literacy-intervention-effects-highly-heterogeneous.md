@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: suya-liu-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100813"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Substantial heterogeneity exists in AI literacy intervention effects, with 71.361% of variance at the between-study level and a 95% prediction interval from -0.292 to 1.966. [→ Suya Liu 2026](#suya-liu-2026)

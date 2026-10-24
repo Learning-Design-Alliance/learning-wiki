@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: matthew-t-johnson-2015
     resource: "https://www.mathematica.org/publications/journal-article-sensitivity-of-teacher-valueadded-estimates-to-student-and-peer-control-variables"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Teacher effectiveness estimates are highly correlated across VAM specifications varying in background controls and double-lagged scores. [→ Matthew T. Johnson 2015](#matthew-t-johnson-2015)

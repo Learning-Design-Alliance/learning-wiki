@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: warr-2020
     resource: "https://doi.org/10.14434/ijpbl.v14i1.28590"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students were motivated by the nature of the problem to be solved rather than by course grades, rating personal motivation beyond a grade at 4.15 (SD = 1.00) and responsibility for their work at 4.45 (SD = 0.81). [→ Warr 2020](#warr-2020)

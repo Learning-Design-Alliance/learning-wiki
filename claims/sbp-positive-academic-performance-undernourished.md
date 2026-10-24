@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: adolphus-2013
     resource: "https://doi.org/10.3389/fnhum.2013.00425"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Twenty-one of twenty-two studies indicated habitual breakfast and SBPs positively affect academic performance, with three studies observing clearest effects on mathematics grades. [→ Adolphus 2013](#adolphus-2013)

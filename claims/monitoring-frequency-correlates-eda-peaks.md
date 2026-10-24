@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: jonna-malmberg-2019
     resource: "https://doi.org/10.1007/s11412-019-09311-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Students most active in monitoring had the most EDA peaks (r = .663, p < .005), and the least active students had the fewest peaks. [→ Jonna Malmberg 2019](#jonna-malmberg-2019)

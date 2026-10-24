@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: scerif-2023
     resource: "https://doi.org/10.1007/s10648-023-09824-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Isolated EF training improves the trained EF but shows poor near transfer and limited evidence of transfer to untrained functions such as mathematics, especially when computerised. [→ Scerif 2023](#scerif-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: korpershoek-2016
     resource: "https://doi.org/10.3102/0034654315626799"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Among the four coded strategy categories, focusing on students' social-emotional development appeared to have the largest contribution to intervention effectiveness, particularly on social-emotional outcomes. [→ Korpershoek 2016](#korpershoek-2016)

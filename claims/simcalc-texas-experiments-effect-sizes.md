@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2018
 sources:
   - id: roschelle-2018
     resource: "https://digitalpromise.dspacedirect.org/items/7a123d3c-22ec-46db-b7cf-709c3aa65583"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across two randomized experiments and one quasi-experiment in Texas, students in SimCalc classrooms showed greater pretest-to-posttest gains than control classrooms, with student-level effect sizes of .63, .50, and .56. [→ Roschelle 2018](#roschelle-2018)

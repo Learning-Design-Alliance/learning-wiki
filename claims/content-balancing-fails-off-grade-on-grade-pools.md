@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: li-2019
     resource: "https://www.nwea.org/research/publication/simulation-study-for-evaluating-map-growth-item-pools-with-grade-level-constraints/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For reading tests with off-grade simulees, using the on-grade item pool caused content balancing to drop from 99.8% to 82.3%, with unbalanced areas in specific grade-pool-by-ability conditions. [→ Li 2019](#li-2019)

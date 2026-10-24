@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mckinney-2026
     resource: "https://eric.ed.gov/?id=ED681343"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q4` · `i2`–`i3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In the same RCT, treatment students scored 0.21 SD lower than controls on the composite SEL measure (β = −0.21, p < 0.05), though predicted post-means remained above the scale midpoint. [→ McKinney 2026](#mckinney-2026)

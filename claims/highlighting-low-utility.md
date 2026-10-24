@@ -8,6 +8,7 @@ generated:
 id: highlighting-low-utility
 aliases: [highlighting-alone-is-ineffective, highlighting-alone-low-utility]
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: dunlosky-et-al-2013
     resource: "https://doi.org/10.1177/1529100612453266"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · n=multiple primary studies (narrative synthesis; individual samples span Air Force trainees, children and undergraduates)
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 Highlighting and underlining text is one of the most widely used study strategies, yet it shows little benefit for learning outcomes relative to simply reading.
 

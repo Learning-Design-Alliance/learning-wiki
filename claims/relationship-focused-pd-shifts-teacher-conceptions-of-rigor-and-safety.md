@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: chowning-2023
     resource: "https://doi.org/10.1080/07370008.2023.2180006"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · n=6 secondary science teachers (self-selected from a larger 21-teacher program cohort), 4 sessions (~3 hours each) across one school year (Oct 2017-May 2018), 25 written reflections
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 Over four collaborative-autoethnography sessions across a school year, six secondary science teachers converged on and progressively deepened the view that trust, vulnerability, and safety are foundational to productive scientific argumentation, and several explicitly reframed their conception of instructional "rigor" from difficulty/workload toward discourse-based, equity-oriented engagement.
 

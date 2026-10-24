@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: chen-y-2021
     resource: "https://doi.org/10.3389/fpsyg.2021.793000"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` More disturbed self-reported sleep is associated with worse inhibitory control, cognitive flexibility, and working memory in early primary school children. [→ Chen Y 2021](#chen-y-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wu-j-2026
     title: Wu J 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In full-sample adjusted OLS models of 210 undergraduates, learning motivation showed statistically significant positive associations with perceived usefulness, ease of use, behavioral intention, and satisfaction (all p < 0.001). [→ Wu J 2026](#wu-j-2026)

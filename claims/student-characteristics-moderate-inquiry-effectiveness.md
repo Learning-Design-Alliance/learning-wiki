@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-24
 sources:
   - id: de-jong-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100536"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports Kwon and Lawson (2000): high school students' inhibitory control predicted 29% of the variance in inquiry skills test scores and 28% of the variance in conceptual knowledge gains during a 14-lesson inquiry unit; this is a correlational association within inquiry, not a test of whether inhibitory control moderates inquiry's effect. [→ de Jong 2023](#de-jong-2023)

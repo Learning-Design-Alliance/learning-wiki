@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: nathan-mcjames-2023
     resource: "https://timssandpirls.bc.edu/timss2019/international-results"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In science, the treatment effect peaks at a frequency of three or four times per week, while every-day frequency does not show a significant increase relative to assigning homework up to one or two times per week. [→ Nathan McJames 2023](#nathan-mcjames-2023)

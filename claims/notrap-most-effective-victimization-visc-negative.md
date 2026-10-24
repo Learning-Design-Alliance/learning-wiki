@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-17
 sources:
   - id: hannah-gaffney-2019
     resource: "https://doi.org/10.1007/s42380-019-0007-4"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` NoTrap! was the most effective anti-bullying program for reducing bullying victimization, followed by Bully Proofing Your School. [→ Hannah Gaffney 2019](#hannah-gaffney-2019)

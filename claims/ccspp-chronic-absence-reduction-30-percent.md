@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: swain-2025
     resource: "https://doi.org/10.54300/541.498"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the first full year of CCSPP implementation, grantee schools improved chronic absence rates at least 30% more than matched comparison schools, varying by subgroup and school level. [→ Swain 2025](#swain-2025)

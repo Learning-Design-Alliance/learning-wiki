@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: eric-isenberg-2013
     resource: "https://www.mathematica.org/publications/elementary-school-data-issues-implications-for-research-using-valueadded-models"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Due to departmentalization of instruction in math and reading/English language arts in grades 4 and 5, about one in six teachers in these grades and subjects is linked in the unconfirmed data to a subject he or she does not teach. [→ Eric Isenberg 2013](#eric-isenberg-2013)

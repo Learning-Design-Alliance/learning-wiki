@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: kaakinen-2021
     resource: "https://doi.org/10.1007/s10648-020-09573-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A machine vision and machine learning analysis of eye gaze, head pose, and facial expression from classroom video correlated with manual coding and predicted self-reported cognitive engagement and involvement. [→ Kaakinen 2021](#kaakinen-2021)

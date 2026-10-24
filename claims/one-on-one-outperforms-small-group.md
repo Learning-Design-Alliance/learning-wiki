@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: anna-h-miller-2025
     resource: "https://doi.org/10.1007/s10648-025-10070-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The main effect of group size was significant (β = 0.50, 95% CI [0.06, 0.94]), favoring 1:1 over small-group interventions. [→ Anna H. Miller 2025](#anna-h-miller-2025)

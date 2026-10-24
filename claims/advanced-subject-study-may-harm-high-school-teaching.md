@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1914
 sources:
   - id: j-carleton-bell-1914
     resource: "https://doi.org/10.1037/h0067530"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The editorial asserts it is an open question whether advanced studies such as analytical geometry, calculus, intensive study of the Punic wars, or early English are not positively harmful to the high school teacher, setting up standards and habits of work that require painful effort to eradicate. [→ J. Carleton Bell 1914](#j-carleton-bell-1914)

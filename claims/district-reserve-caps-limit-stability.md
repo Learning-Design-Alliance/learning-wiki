@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: caparas-2025
     resource: "https://eric.ed.gov/?id=ED673492"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some states limit how much districts can set aside in reserves—California caps most districts at 10 percent of annual expenditures in certain years and New York caps reserves at 4 percent each year. [→ Caparas 2025](#caparas-2025)

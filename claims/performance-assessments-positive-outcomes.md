@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: cook-harvey-2016
     resource: "http://learningpolicyinstitute.org/product/equity-essa"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A body of research from the 1990s found that performance assessments produced positive instructional changes, increased student skill development, engagement and postsecondary success, and strengthened complex conceptual understandings. [→ Cook-Harvey 2016](#cook-harvey-2016)

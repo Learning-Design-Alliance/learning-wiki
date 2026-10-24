@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: fisher-2022
     resource: "https://eric.ed.gov/?id=ED621156"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Four studies using students as the unit of analysis found higher rates of exclusionary discipline in schools with SBLE but no differences for other outcome sets. [→ Fisher 2022](#fisher-2022)

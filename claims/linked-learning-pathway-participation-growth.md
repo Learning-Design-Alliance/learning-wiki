@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: klevan-2023
     resource: "https://doi.org/10.54300/784.361"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The percentage of Oakland Unified high school students enrolled in Linked Learning pathways increased from 49% in 2014 to 87.7% as of 2020–21, across 33 distinct career pathways in 16 high schools. [→ Klevan 2023](#klevan-2023)

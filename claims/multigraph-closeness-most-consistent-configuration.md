@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: mohammed-saqr-2020
     resource: "https://doi.org/10.1007/s11412-020-09322-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Multigraph closeness was positively and significantly correlated with performance in eleven of 12 courses (r = 0.57 to 0.74, except C8), while simplified and weighted closeness were significant in fewer courses and sometimes negative. [→ Mohammed Saqr 2020](#mohammed-saqr-2020)

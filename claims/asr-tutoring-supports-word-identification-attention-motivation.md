@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-18
 sources:
   - id: map-reading-fluency-with-coach-evidence-base-2024
     resource: "https://www.nwea.org/research/publication/map-reading-fluency-with-coach-evidence-base/"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r1` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-18 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Automated speech recognition software listens to students' miscues and provides immediate feedback on stuck or misread words, supporting word identification. [→ MAP Reading Fluency with Coach Evidence Base 2024](#map-reading-fluency-with-coach-evidence-base-2024)

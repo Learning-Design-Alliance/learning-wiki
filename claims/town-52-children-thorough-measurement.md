@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: pintner-1921
     resource: "https://www.google.com/search?q=%22New+Publications+in+Educational+Psychology+and+Related+Fields+of+Education%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Town's monograph reports unusually thorough physical, anthropometric and mental measurement of the 52 children studied during their first months of school life. [→ Pintner 1921](#pintner-1921)

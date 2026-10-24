@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: bellhäuser-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Group TDP showed statistically significant increases in SRL knowledge (β = 4.61; p < 0.001), the SRL overall score (β = 0.52; p < 0.001) and self-efficacy (β = 0.28; p < 0.01). [→ Bellhäuser 2022](#bellhauser-2022)

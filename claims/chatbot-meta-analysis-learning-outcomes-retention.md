@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: lasha-labadze-2023
     resource: "https://doi.org/10.1186/s41239-023-00426-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Deng and Yu (2023), that chatbot technology demonstrated a substantial impact on overall learning outcomes and significant enhancements in knowledge retention, with nonsignificant effects on critical thinking, learning engagement, and motivation. [→ Lasha Labadze 2023](#lasha-labadze-2023)

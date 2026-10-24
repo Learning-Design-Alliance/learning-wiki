@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: junjie-yu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.02661"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Models group into three phenotypes by tool-budget allocation: Claude Opus 4.6 read-first (41% of tool calls to file reading, exec-to-read ratio 0.92, highest score 71.9), Gemini 3.1 Pro execute-first (74.3% shell executions, lowest safety 74.9), and GPT-5.4 minimalist (fewest tool calls at 19, third-highest score 65.6). [→ Junjie Yu 2026](#junjie-yu-2026)

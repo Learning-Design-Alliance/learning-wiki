@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: daches-cohen-l-and-rubinsten-o-2017
     title: Daches Cohen L and Rubinsten O 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Lower math fluency scores are associated with higher levels of maternal help (r= −0.51), press for intellectual development (r= −0.39), and monitoring (r= −0.53). [→ Daches Cohen L and Rubinsten O 2017](#daches-cohen-l-and-rubinsten-o-2017)

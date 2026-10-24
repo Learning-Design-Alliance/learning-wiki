@@ -8,6 +8,7 @@ generated:
 id: spaced-practice-improves-retention
 aliases: [spaced-practice-improves-long-term-retention, spacing-improves-long-term-retention, spacing-improves-retention, distributed-practice-improves-retention, spacing-effect-robust-verbal-recall, spaced-repetition-improves-retention]
 evidence_strength:
+newest_evidence: 2022
 sources:
   - id: cepeda-et-al-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
@@ -60,6 +61,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 3 quant-synthesis `r?`, 2 causal `r2` · `q3`–`q4` · `i2`–`i3`
+> **Currency** · newest study 2022 · 3 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 Practicing or reviewing material across multiple sessions separated in time produces stronger long-term retention than concentrating the same amount of practice into a single session (massed practice).
 

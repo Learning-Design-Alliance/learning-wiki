@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: eva-erdosne-toth-2000
     resource: "https://doi.org/10.1207/s1532690xci1804_1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students achieving perfect domain knowledge scores rose from 79% before CVS instruction to 100% after, despite no expository instruction on the causal variables. [→ Eva Erdosne Toth 2000](#eva-erdosne-toth-2000)

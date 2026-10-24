@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: eberle-2021
     resource: "https://doi.org/10.1007/s11412-021-09345-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Having indicated another workshop participant as a (possibly unreciprocated) previous collaboration partner increased the likelihood of selecting them as a new potential collaboration partner. [→ Eberle 2021](#eberle-2021)

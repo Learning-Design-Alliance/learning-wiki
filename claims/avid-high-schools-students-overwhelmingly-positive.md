@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: jenny-nagaoka-2007
     resource: "http://ccsr.uchicago.edu/AVID"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 100% of students in highest-category schools and 81% in high-category schools reported becoming better writers since joining AVID, and 83% and 76% respectively said their AVID teacher made a big difference in their life. [→ Jenny Nagaoka 2007](#jenny-nagaoka-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shi-guochun-2026
     resource: "https://doi.org/10.1186/s40359-026-05038-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The reciprocal and forward-only (EF → ER) models fit almost indistinguishably, with the reciprocal model holding only a slender AIC edge (24812.4 versus 24816.1); reverse-only and correlated-factors models fit worse. [→ Shi Guochun 2026](#shi-guochun-2026)

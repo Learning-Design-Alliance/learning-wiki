@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: baaijen-galbraith-2018
     resource: "https://doi.org/10.1080/07370008.2018.1456431"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · n=78 university students (Groningen, native Dutch speakers), randomly assigned to outline vs. synthetic planning
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality -->
 
 When writers plan only a single overall goal before drafting (rather than a detailed outline), spontaneous, minimally-rehearsed sentence production predicts an increase in the writer's self-rated understanding of the topic — the opposite pattern from what occurs under detailed outline planning — while also predicting lower initial text quality; a separate process of revising the text's global structure independently predicts increased understanding regardless of planning condition, and the two together (text quality and understanding) are not simply positively related.

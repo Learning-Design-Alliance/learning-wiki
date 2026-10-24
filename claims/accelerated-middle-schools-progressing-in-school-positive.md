@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: what-works-clearinghouse-2008
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/11"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r1`–`r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All three studies found statistically significant and substantively important effects on progressing in school; the average improvement index was +35 percentile points, ranging from +15 to +44. [→ What Works Clearinghouse 2008](#what-works-clearinghouse-2008)

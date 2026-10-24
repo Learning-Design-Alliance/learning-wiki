@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2006
+recheck_by: 2009
 sources:
   - id: rouse-2006
     resource: "https://doi.org/10.1080/02796015.2006.12087971"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` In simultaneous regressions, Nonsense Word Fluency was not a significant predictor of first-grade Vocabulary, Language, or Reading, unlike in bivariate analyses. [→ Rouse 2006](#rouse-2006)

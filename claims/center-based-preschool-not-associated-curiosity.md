@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: shah-pe-2023
     resource: "https://doi.org/10.3389/fpsyg.2023.986221"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Enrollment in center-based preschool showed no statistically significant association with curiosity at kindergarten (β = 0.02, p = 0.42); equivalence was not tested. [→ Shah PE 2023](#shah-pe-2023)

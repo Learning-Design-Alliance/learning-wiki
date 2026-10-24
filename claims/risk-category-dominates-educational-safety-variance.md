@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: park-2026
     resource: "https://doi.org/10.48550/arxiv.2608.02024"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a binomial GLM of conversation-level attack success, risk category accounts for 77.4% of explained deviance and interaction setting 22.9%, while usage context (7.7%) and curriculum topic (0.9%) contribute relatively little. [→ Park 2026](#park-2026)

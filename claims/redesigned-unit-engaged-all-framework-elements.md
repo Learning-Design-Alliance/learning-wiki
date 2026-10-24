@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: pittaway-2014
     resource: "https://doi.org/10.14221/ajte.2014v39n7.10"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reported engagement across personal, academic, intellectual, social and professional elements, evidenced through posts, emails, web conference comments and assignments. [→ Pittaway 2014](#pittaway-2014)

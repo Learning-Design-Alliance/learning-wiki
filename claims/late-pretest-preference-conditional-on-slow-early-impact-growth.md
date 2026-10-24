@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-09
 sources:
   - id: peter-z-schochet-2008
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The preference for late-pretest-inclusive estimators holds as long as test score impacts do not grow very quickly early in the school year. [→ Peter Z. Schochet 2008](#peter-z-schochet-2008)

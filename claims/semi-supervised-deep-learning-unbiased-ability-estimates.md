@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: xue-2020
     resource: "https://educationaldatamining.org/EDM2020/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In simulation, the ability estimates from the semi-supervised deep learning architecture matched the true ability distribution more closely than estimates from directly fitting 2PL-IRT to anchor students' responses. [→ Xue 2020](#xue-2020)

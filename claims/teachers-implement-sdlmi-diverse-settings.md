@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: palmer-2003
     resource: "http://dx.doi.org/10.1177/07419325030240020601"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers used the model effectively across a variety of subjects and settings with students having diverse learning needs. [→ Palmer 2003](#palmer-2003)

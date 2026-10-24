@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ridwan-whitehead-andy-nguyen-sanna-järvelä-2026
     resource: "https://doi.org/10.1007/s11412-026-09478-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the prox_far context, mutual gaze is strikingly more frequent and forms the dominant pathway into monitoring, and prox_far states are dominated by behavioral challenges. [→ Ridwan Whitehead · Andy Nguyen · Sanna Järvelä 2026](#ridwan-whitehead-andy-nguyen-sanna-jarvela-2026)

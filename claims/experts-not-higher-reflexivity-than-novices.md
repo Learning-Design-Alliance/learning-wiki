@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: olga-vogel-2024
     resource: "https://doi.org/10.1007/s11251-023-09653-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Bivariate correlations showed the expertise–reflexivity relationship was non-significant in the full sample (rs = .057), unlike the remaining competencies. [→ Olga Vogel 2024](#olga-vogel-2024)

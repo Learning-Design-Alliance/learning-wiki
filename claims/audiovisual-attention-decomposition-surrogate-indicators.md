@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shixian-zhou-2026
     resource: "https://doi.org/10.48550/arxiv.2607.29413"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Attentional resource allocation across visual and auditory channels is computed via forward encoding and variance partitioning, separating explained variance into Visual, Auditory, and Shared Audiovisual Attention Contributions. [→ Shixian Zhou 2026](#shixian-zhou-2026)

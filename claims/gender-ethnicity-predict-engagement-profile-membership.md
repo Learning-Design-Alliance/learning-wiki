@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: symonds-2021
     resource: "https://doi.org/10.1037/edu0000605"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Being female predicted membership of the attentive disinterested profile (β = -2.79, OR = .06) and the attentive disaffected profile (β = -.90, OR = .41) but not the disengaged profile, compared to the engaged reference profile. [→ Symonds 2021](#symonds-2021)

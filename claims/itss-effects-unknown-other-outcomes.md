@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: other-domains-1
     title: other-domains-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No findings in the two studies met WWC group design standards for any adolescent literacy outcome domain other than comprehension, so effects on alphabetics, reading fluency, general literacy achievement, and writing outcomes are unknown. [→ other-domains-1](#other-domains-1)

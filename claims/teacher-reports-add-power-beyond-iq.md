@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: shuaizhang-feng-2022
     resource: "https://www.mathematica.org/publications/comparing-the-reliability-and-predictive-power-of-child-teacher-and-guardian-reports-of-noncognitive"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Teacher reports add predictive power beyond baseline measures of IQ for most outcomes in schools. [→ Shuaizhang Feng 2022](#shuaizhang-feng-2022)

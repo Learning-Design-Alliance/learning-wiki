@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: volkow-nd-2011
     resource: "https://doi.org/10.1038/mp.2010.97"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Achievement scale scores correlated negatively with CAARS A (r=-0.43, p<0.005), CAARS E (r=-0.43, p<0.005) and SWAN Attention (r=-0.44, p<0.005): the lower the motivation score, the greater the inattention. [→ Volkow ND 2011](#volkow-nd-2011)

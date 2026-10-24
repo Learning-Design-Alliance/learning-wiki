@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: mckenna-2023
     resource: "https://eric.ed.gov/?id=ED628907"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the 29 states studied, most SSSCs came into existence in response to a high-profile incident, with other common origins being legislative requirements or stakeholder need or advocacy. [→ McKenna 2023](#mckenna-2023)

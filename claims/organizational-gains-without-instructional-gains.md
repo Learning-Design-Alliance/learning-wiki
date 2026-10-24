@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-08
+recheck_by: 2014
 sources:
   - id: luppescu-2011
     resource: "https://consortium.uchicago.edu/publications/trends-chicagos-schools-across-three-eras-reform-full-report"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-08 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Improvements in leadership, parent/community ties, and teacher collaboration occurred at the start of one or more eras but often declined again toward the era's end and did not translate into better classroom instruction. [→ Luppescu 2011](#luppescu-2011)

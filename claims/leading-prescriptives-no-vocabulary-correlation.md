@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1991
 sources:
   - id: nameera-akhtar-1991
     resource: "https://doi.org/10.1017/S0305000900013283"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only FOLLOW-prescriptives showed a significant correlation with vocabulary; LEADING-prescriptives did not, indicating the attentional direction of the directive matters. [→ Nameera Akhtar 1991](#nameera-akhtar-1991)

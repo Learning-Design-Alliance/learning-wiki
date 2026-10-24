@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: e-m-mercier-2014
     resource: "https://doi.org/10.1007/s11412-014-9201-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In study one, there were groups that only had an intellectual leader, while there was no group that had an organizational but not an intellectual leader. [→ E. M. Mercier 2014](#e-m-mercier-2014)

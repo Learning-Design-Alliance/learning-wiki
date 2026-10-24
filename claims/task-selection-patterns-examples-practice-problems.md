@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020
     resource: "https://doi.org/10.1007/s10648-020-09544-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` University students given task choice selected worked examples about 40% versus practice problems about 60% on average, with example selection decreasing over time. [→ Tamara van Gog & Vincent Hoogerheide & Milou van Harsel 2020](#tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020)

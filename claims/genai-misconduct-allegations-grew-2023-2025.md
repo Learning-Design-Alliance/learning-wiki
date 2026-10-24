@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: albert-munoz-2026
     resource: "https://doi.org/10.1007/s40979-026-00235-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The proportion of misconduct cases that were GenAI-related increased significantly across 2023–2025 (χ²(2) = 320.93, p < .001; Cramér's V = 0.250), while total misconduct volume remained comparatively stable. [→ Albert Munoz 2026](#albert-munoz-2026)

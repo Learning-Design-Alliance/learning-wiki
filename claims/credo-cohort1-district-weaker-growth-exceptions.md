@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: margaret-e-raymond-2022
     resource: "https://credo.stanford.edu/city-studies/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` District schools in most of the studied cities show, on average, consistently weaker performance growth than corresponding state averages, though Denver district schools show continued positive growth and Baton Rouge, Camden, and San Antonio show positive late-window trends. [→ Margaret E. Raymond 2022](#margaret-e-raymond-2022)

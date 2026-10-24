@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: melissa-roderick-2013
     resource: "https://consortium.uchicago.edu/publications/high-school-future-challenge-senior-year-chicago-public-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` White and Asian American CPS graduates were substantially more likely than African American and Latino graduates to take four or more core academic courses, AP courses, and fourth-year math in senior year. [→ Melissa Roderick 2013](#melissa-roderick-2013)

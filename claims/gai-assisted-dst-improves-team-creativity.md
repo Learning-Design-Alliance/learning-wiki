@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: wei-2025
     resource: "https://doi.org/10.1186/s41239-025-00526-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The experimental group scored significantly higher on general TCP (F = 64.51, p < 0.001, partial η² = 0.86) and on all four TCP dimensions, with the largest effects in user experience (η² = 0.78) and novelty (η² = 0.68). [→ Wei 2025](#wei-2025)

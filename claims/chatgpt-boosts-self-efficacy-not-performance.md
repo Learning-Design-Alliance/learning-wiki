@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: urban-2024
     resource: "https://doi.org/10.1016/j.compedu.2024.105031"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 In the same experiment ChatGPT did improve actual performance (solution quality, elaboration and originality); the finding here is that the self-efficacy boost was larger than performance warranted, since self-efficacy correlated negligibly with performance and was associated with overestimation.
 

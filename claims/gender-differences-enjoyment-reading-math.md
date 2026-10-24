@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-23
 sources:
   - id: basarkod-2023
     resource: "https://osf.io/kb29h/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` There was a positive effect of gender (male = 2) on math enjoyment (β = .110) and a negative effect on reading enjoyment (β = -.323); girls had lower math enjoyment but higher reading enjoyment than boys. [→ Basarkod 2023](#basarkod-2023)

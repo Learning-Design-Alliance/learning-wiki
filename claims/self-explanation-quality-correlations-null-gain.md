@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: bichler-2022
     resource: "https://doi.org/10.1007/s11251-022-09579-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Self-explanation quality correlated significantly with prior knowledge (r = .24) and post-test knowledge (r = .37), but not with gain scores (r = .16, p = .188). [→ Bichler 2022](#bichler-2022)

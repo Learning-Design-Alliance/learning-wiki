@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: marsh-2007
     resource: "https://doi.org/10.3758/bf03194051"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Testing with either Level 1 or Level 3 questions increased lure answers on the final test, from 2% in the nontested condition to 9% and 11% respectively. [→ Marsh 2007](#marsh-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: aline-godfroid-2017
     resource: "https://doi.org/10.1017/S1366728917000219"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Number of exposures was the strongest predictor of vocabulary learning, for both word form and word meaning. [→ Aline Godfroid 2017](#aline-godfroid-2017)

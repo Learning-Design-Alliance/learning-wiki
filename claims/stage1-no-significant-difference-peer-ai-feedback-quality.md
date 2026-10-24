@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: li-2026
     resource: "https://doi.org/10.14742/ajet.11467"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Quantitative analyses indicated no significant difference between peer group and ChatGPT-4o feedback quality during the first assessment stage. [→ Li 2026](#li-2026)

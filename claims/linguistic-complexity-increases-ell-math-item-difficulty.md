@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-19
 sources:
   - id: maria-martiniello-2008
     resource: "https://doi.org/10.17763/haer.78.2.70783570r1111t32"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior research, as characterized in this article, shows greater linguistic complexity raises the difficulty of English-language math items more for ELLs than for non-ELLs of equivalent math proficiency. [→ Maria Martiniello 2008](#maria-martiniello-2008)

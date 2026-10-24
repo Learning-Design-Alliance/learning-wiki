@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: barrow-2019
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Black applicants and Tier 1 (lowest-SES) applicants ranked more programs on average but were less likely than other subgroups to list a program at a SQRP Level 1+/1 school at the top of their application (60 percent of Black vs. 94 percent of White applicants; 66 percent of Tier 1 vs. 90 percent of Tier 4 applicants). [→ Barrow 2019](#barrow-2019)

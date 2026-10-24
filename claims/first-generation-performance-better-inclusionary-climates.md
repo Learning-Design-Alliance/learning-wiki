@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: anatolia-batruch-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102303"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect of school diversity climate on performance is positive and significant for first-generation students, corresponding to a 6-point increase in mathematics, 10 in science, and 12 in reading per one-SD increase in climate. [→ Anatolia Batruch 2026](#anatolia-batruch-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: jan-d-vermunt-vincent-donche-2017
     resource: "https://doi.org/10.1007/s10648-017-9414-6"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A meta-analysis comparing factor analyses across eight samples from eight countries on three continents found meaning-directed, reproduction-directed and undirected patterns emerged in most studies. [→ Jan D. Vermunt & Vincent Donche 2017](#jan-d-vermunt-vincent-donche-2017)

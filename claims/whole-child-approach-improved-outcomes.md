@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: breaking-barriers-2022
     resource: "https://WestEd.org/permissions"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When schools adopt a whole child approach, they see improved outcomes for students including attendance, engagement, physical and emotional health, and academic performance. [→ Breaking Barriers 2022](#breaking-barriers-2022)

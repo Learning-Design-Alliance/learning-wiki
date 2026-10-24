@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: qian-shen-2026
     resource: "https://doi.org/10.48550/arxiv.2605.13709"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Stories from Rewarded SFT were almost entirely free of hallucinations, garbled text, story-irrelevant outputs, or null values, while other experiments had under 10% such outputs. [→ Qian Shen 2026](#qian-shen-2026)

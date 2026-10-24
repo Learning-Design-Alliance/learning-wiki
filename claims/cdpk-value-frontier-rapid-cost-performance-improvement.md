@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: lelièvre-2025
     resource: "https://doi.org/10.48550/arxiv.2506.18710"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The Pareto value frontier of CDPK accuracy versus inference cost has improved rapidly over 18 months, with performance at $0.10 per million tokens increasing from 50% to 70% to 82% between April 2024 and June 2025. [→ Lelièvre 2025](#lelievre-2025)

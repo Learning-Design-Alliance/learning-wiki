@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: stefansdottir-2020
     resource: "https://doi.org/10.1038/s41598-020-73774-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants with 7 h or less rest the night before testing had longer 3-back response times than those with more (551.7 ± 148.1 vs. 514.5 ± 138.2 ms, p = 0.04), and the same held for weekly averages (570.3 ± 135.7 vs. 511.3 ± 143.7 ms, p = 0.03). [→ Stefansdottir 2020](#stefansdottir-2020)

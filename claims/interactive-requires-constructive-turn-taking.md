@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: michelene-t-h-chi-ruth-wylie-2014
     resource: "https://doi.org/10.1080/00461520.2014.965823"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Dialogues are truly interactive only when both partners' utterances are primarily constructive and sufficient turn taking occurs. [→ Michelene T. H. Chi & Ruth Wylie 2014](#michelene-t-h-chi-ruth-wylie-2014)

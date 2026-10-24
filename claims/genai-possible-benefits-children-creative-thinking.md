@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: niu-t-2026
     title: Niu T 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Included primary studies report possible benefits for divergent thinking, narrative creativity, and creative self-efficacy, but heterogeneous designs preclude conclusions about confirmed efficacy. [→ Niu T 2026](#niu-t-2026)

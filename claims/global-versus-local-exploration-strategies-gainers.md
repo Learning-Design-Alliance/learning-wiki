@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: jauwairia-nasir-2021
     resource: "https://doi.org/10.1007/s11412-021-09358-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Expressive Explorers do more actions overall, more edge additions, higher add-to-delete ratio, and open history more, while Calm Tinkerers show more deletions and T1_T1/T1_T2 addition-deletion sequences (most log behaviors significant at p = 0.00*). [→ Jauwairia Nasir 2021](#jauwairia-nasir-2021)

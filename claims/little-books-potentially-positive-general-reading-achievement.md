@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: wwc-intervention-report-little-books-2007
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The home-only Little Books condition showed a positive effect on the Metropolitan Readiness Test versus comparison (effect size 0.31, not statistically significant after WWC clustering correction). [→ WWC Intervention Report: Little Books 2007](#wwc-intervention-report-little-books-2007)

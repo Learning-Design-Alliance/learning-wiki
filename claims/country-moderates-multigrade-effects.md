@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 1996
 sources:
   - id: simon-veenman-1996
     resource: "https://doi.org/10.2307/1170526"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Country of publication significantly predicted variance in multigrade cognitive effects: small positive effects for United States (d = .05) and Canadian (d = .08) studies and a small negative effect for European studies (d = -.05). [→ Simon Veenman 1996](#simon-veenman-1996)

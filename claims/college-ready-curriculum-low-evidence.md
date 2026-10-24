@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: tierney-2009
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/11"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` None of the studies examining the impact of offering a college-ready curriculum met WWC standards; six studies potentially met standards, two showing mixed evidence on rigorous curricula and four showing positive effects of AP courses. [→ Tierney 2009](#tierney-2009)

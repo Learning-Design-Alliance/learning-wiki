@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: delgado-2023
     resource: "https://consortium.uchicago.edu/publications/is-the-best-teacher-the-best-for-everyone"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A hypothetical policy replacing the lowest 5%-performing teachers with average teachers would generate $3,000 in additional student lifetime earnings per classroom if teachers' comparative advantage is considered relative to when it is not. [→ Delgado 2023](#delgado-2023)

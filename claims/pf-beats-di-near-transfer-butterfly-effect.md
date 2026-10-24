@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: jacobson-2017
     resource: "https://doi.org/10.1016/j.learninstruc.2017.03.007"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Being in the PF treatment had a significant positive impact on near transfer scores compared to DI (η² = .038), with no significant teacher experience effect or interaction. [→ Jacobson 2017](#jacobson-2017)

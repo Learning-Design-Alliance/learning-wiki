@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: rowe-meredith-l-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3440540/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Parent explanation utterances at 42 months marginally predict PPVT scores at 54 months after controlling for parent education, prior PPVT, and word tokens. [→ Rowe Meredith L 2012](#rowe-meredith-l-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: kole-norberg-2025
     resource: "https://doi.org/10.5281/zenodo.15870274"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Descriptive means showed word count M = 82 for non-flagged vs M = 70 for flagged problems, and sentence count M = 5.5 for flagged vs M = 4.8 for non-flagged problems. [→ Kole Norberg 2025](#kole-norberg-2025)

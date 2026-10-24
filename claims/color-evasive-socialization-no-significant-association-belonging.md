@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: christy-m-byrd-2026
     resource: "https://doi.org/10.1007/s10648-025-10078-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` In the meta-analysis, color-evasive socialization was the only coded climate dimension without a significant association with belonging. [→ Christy M. Byrd 2026](#christy-m-byrd-2026)

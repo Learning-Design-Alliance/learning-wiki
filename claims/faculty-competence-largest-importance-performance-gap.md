@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: zijing-wu-and-qiang-li-2026
     resource: "https://doi.org/10.1186/s41239-026-00604-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Faculty Professional Competence ranked third in weight (0.1976) but received the lowest fuzzy satisfaction score (3.2171), challenging the assumption that technological infrastructure is the primary barrier to AI education. [→ Zijing Wu and Qiang Li 2026](#zijing-wu-and-qiang-li-2026)

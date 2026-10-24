@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: knellesen-2024
     resource: "https://doi.org/10.1007/s11409-023-09371-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiment 1 preparatory analyses, the CLT text yielded higher overconfidence for application test performance than the CVT text (d = 0.54). [→ Knellesen 2024](#knellesen-2024)

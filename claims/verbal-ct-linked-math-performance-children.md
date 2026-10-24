@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: bruce-s-rawlings-sarah-j-cutting-2024
     resource: "https://doi.org/10.1007/s10648-024-09973-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children with stronger verbal convergent thinking performed better on single- and multi-solution mathematical problems than those with weaker CT performance. [→ Bruce S. Rawlings & Sarah J. Cutting 2024](#bruce-s-rawlings-sarah-j-cutting-2024)

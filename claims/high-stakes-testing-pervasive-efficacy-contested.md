@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: brian-p-gill-2015
     resource: "https://www.mathematica.org/publications/reimagining-accountability-in-k12-education-a-behavioral-science-perspective"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Since NCLB, accountability via high-stakes standardized testing has become pervasive in US K-12 education, even as debate over its effectiveness continues. [→ Brian P. Gill 2015](#brian-p-gill-2015)

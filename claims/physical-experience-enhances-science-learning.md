@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: physical-experience-enhances-science-learning
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: kontra-et-al-2015
     resource: "https://doi.org/10.1177/0956797615569355"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
+> **Currency** · newest study 2015 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Directly manipulating physical materials and enacting scientific phenomena with the body can support conceptual understanding in science, particularly when the physical experience is later linked to symbolic or abstract representations.
 

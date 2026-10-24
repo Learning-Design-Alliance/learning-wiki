@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: sempowicz-2011
     resource: "https://doi.org/10.14221/ajte.2011v36n8.4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The mentee's understanding of the school-wide approach to behaviour management, gained through delivering Program Achieve lessons, enabled her to confidently implement learned strategies in her other lessons. [→ Sempowicz 2011](#sempowicz-2011)

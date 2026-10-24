@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: madelon-van-den-boer-2022
     resource: "https://doi.org/10.1007/s10936-022-09856-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children with dyslexia and typical readers read equally fluently orally and silently, with no main effect of reading mode and no mode × group interaction. [→ Madelon van den Boer 2022](#madelon-van-den-boer-2022)

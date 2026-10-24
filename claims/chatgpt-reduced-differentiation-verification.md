@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: shravika-mittal-2026
     resource: "https://doi.org/10.48550/arxiv.2606.11669"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ChatGPT participants showed fewer differentiation instances, with zero entries filtering by credibility versus 30.71% for Google, and verified information via another source in only 3.06% of entries versus 19.29% for Google (verification via prior knowledge: 4.08% versus 2.86%). [→ Shravika Mittal 2026](#shravika-mittal-2026)

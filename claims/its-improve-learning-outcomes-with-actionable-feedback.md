@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: dongming-mei-2026
     resource: "https://doi.org/10.48550/arxiv.2605.09624"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meta-analytic evidence indicates intelligent tutoring systems can improve learning outcomes, particularly when systems provide immediate, actionable feedback aligned with clear learning objectives. [→ Dongming Mei 2026](#dongming-mei-2026)

@@ -8,6 +8,8 @@ generated:
 id: feedback-improves-learning
 aliases: [feedback-improves-learning-outcomes, feedback-use-improves-learning, fi-meta-analysis-mean-d-41-over-38-percent-negative]
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: wisniewski-et-al-2020
     resource: "https://doi.org/10.3389/fpsyg.2019.03087"
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Feedback Improves Learning -->
 
 Information provided to learners about their performance or understanding can improve subsequent learning, relative to practice without such information. This page covers the general claim; its strength depends heavily on the form, timing, and content of the feedback and on the learner's stage of expertise.

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: anna-riedmann-2025
     resource: "https://doi.org/10.1007/s40593-025-00494-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 35 papers testing for statistical significance, 18 found at least one RL policy significantly outperforming all baselines and two demonstrated a significant aptitude-treatment effect benefiting low-performing students. [→ Anna Riedmann 2025](#anna-riedmann-2025)

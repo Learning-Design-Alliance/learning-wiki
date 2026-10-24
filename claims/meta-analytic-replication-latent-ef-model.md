@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: nguyen-2019
     resource: "https://doi.org/10.1016/j.cedpsych.2019.04.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Replication across ten peer-reviewed studies of children aged 3–6 found the latent EF model preferred in most but not all samples. [→ Nguyen 2019](#nguyen-2019)

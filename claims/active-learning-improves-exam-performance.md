@@ -8,6 +8,8 @@ generated:
 id: active-learning-improves-exam-performance
 aliases: [active-learning-raises-stem-exam-performance-047-sd, active-engagement-higher-learning-gains-than-lecture]
 evidence_strength:
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: freeman-et-al-2014
     resource: "https://doi.org/10.1073/pnas.1319030111"
@@ -41,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r2`–`r3`, 1 theoretical `r2` · `q2`–`q4` · `i1`–`i2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 Students taught through active-learning approaches (e.g., in-class problem-solving, discussion, peer instruction) tend to perform better on examinations than students taught through traditional lecture alone.
 

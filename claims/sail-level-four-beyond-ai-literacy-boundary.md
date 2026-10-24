@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: maccallum-k-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100584"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Based on panel and community feedback, the original Level 4 was removed from the definition of AI literacy and renamed as a level beyond literacy, marking where expert AI knowledge begins. [→ MacCallum K. 2026](#maccallum-k-2026)

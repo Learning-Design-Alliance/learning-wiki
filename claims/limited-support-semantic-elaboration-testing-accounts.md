@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: meta-3
     title: meta-3
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The meta-analysis found only limited support for theories attributing the testing effect to enhanced semantic elaboration, warranting consideration of alternative mechanisms. [→ meta-3](#meta-3)

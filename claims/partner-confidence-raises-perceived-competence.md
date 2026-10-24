@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: schnaubert-2021
     resource: "https://doi.org/10.1007/s11409-021-09269-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Competence estimations rose linearly with the partner's confidence level (ηp² = 0.56 for the within-subjects effect; ηp² = 0.65 for the linear trend). [→ Schnaubert 2021](#schnaubert-2021)

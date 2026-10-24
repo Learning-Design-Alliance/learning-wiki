@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1979
 sources:
   - id: rickards-1979
     resource: "https://doi.org/10.1007/BF00054983"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The pattern of depressed recall under underlining and adjunct questions suggests a comprehension rather than a metacomprehension deficit in young readers. [→ Rickards 1979](#rickards-1979)

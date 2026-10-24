@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 1974
 sources:
   - id: dietzel-1974
     resource: "https://doi.org/10.1037/h0076731"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1974 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the middle ('work') stage of therapy, the successful outcome group showed significantly lower therapist complementarity than the unsuccessful group, supporting the anti-complementary stance hypothesis. [→ Dietzel 1974](#dietzel-1974)

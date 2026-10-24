@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: katharina-scheiter-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102417"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interleaving improved spelling for students with high and average prior knowledge but not for those with low prior knowledge. [→ Katharina Scheiter 2026](#katharina-scheiter-2026)

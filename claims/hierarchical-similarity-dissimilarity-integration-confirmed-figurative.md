@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The hierarchical model suggested by Christou and Papageorgiou fit the figurative-item data well, empirically demonstrating the three latent factors of Similarity, Dissimilarity, and Integration. [→ Pásztor 2022](#pasztor-2022)

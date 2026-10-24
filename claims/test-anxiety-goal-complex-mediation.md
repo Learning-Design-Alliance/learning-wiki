@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-22
 sources:
   - id: andrew-j-elliot-nicolas-sommet-2023
     resource: "https://doi.org/10.1007/s10648-023-09785-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Trait test anxiety positively predicted performance-avoidance and performance-approach goals, which negatively and positively predicted exam performance respectively, with state anxiety and worry (but not emotionality) negatively predicting exam performance. [→ Andrew J. Elliot · Nicolas Sommet 2023](#andrew-j-elliot-nicolas-sommet-2023)

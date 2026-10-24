@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: chai-rui-2026
     resource: "https://doi.org/10.1038/s41598-026-51608-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Sensitivity analysis over attention heads, hidden dimensions, and dropout rates showed relatively stable performance across moderate ranges, with 8 attention heads and hidden dimension 512 optimal. [→ Chai Rui 2026](#chai-rui-2026)

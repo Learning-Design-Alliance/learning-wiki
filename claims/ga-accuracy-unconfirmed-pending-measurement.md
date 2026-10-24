@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: lenka-schnaubert-2022
     resource: "https://doi.org/10.1007/s11412-022-09361-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article reports that there are so far no direct insights into GA accuracy based on current measurements, and that the role of GA accuracy is not confirmed yet, though tool research suggests its relevance indirectly. [→ Lenka Schnaubert 2022](#lenka-schnaubert-2022)

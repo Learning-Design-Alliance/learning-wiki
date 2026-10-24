@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: li-shenghui-2013
     resource: "https://doi.org/10.1371/journal.pone.0067928"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Penalized splines in generalized additive models showed a nonlinear association of sleep duration with school performance at follow-up (p = 0.04), shown in Figure 2. [→ Li Shenghui 2013](#li-shenghui-2013)

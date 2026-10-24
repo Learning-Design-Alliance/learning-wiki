@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: mccarthy-2020
     resource: "https://eric.ed.gov/?id=ED613373"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 97% of families attended at least one APTT meeting, 72% attended at least two, 92% participated in Ready4K, and 81% remained active throughout the year, with similar levels for EL and non-EL families. [→ McCarthy 2020](#mccarthy-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: öztürk-2023
     resource: "https://doi.org/10.29329/epasr.2023.600.13"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Location significantly moderated the effect (Q(3)=24.18, p<.01): China ES=2.03, Türkiye ES=.93, other countries ES=.80, mixed ES=.61. [→ Öztürk 2023](#ozturk-2023)

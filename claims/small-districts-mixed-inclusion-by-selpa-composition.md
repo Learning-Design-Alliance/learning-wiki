@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: doutre-2021
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PreK inclusion in small districts was greater in multidistrict SELPAs without a large district (68 versus 49 percent). [→ Doutre 2021](#doutre-2021)

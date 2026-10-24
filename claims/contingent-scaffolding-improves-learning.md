@@ -53,12 +53,14 @@ sources:
     rigour: "?"
 id: contingent-scaffolding-improves-learning
 evidence_strength: moderate
+newest_evidence: 2010
 ---
 
 # Contingent scaffolding improves learning more than fixed or absent support.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 2 causal `r1`, 1 quant-synthesis `r?`, 1 review `r2`, 1 qualitative `r?` · `q2`–`q4`
+> **Currency** · newest study 2010 · 1 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 Contingent scaffolding adjusts the type and level of support in real time based on the learner's demonstrated understanding, rather than providing a fixed or predetermined sequence of help. Evidence supports this approach over non-contingent or no support, though the evidence base is small and the mechanism is contested.
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: johnson-2022
     resource: "https://www.nwea.org/research-publication/the-forgotten-20-percent-achievement-and-growth-in-rural-schools-across-the-nation/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Analysis of data from over 2,300 rural US schools yields unique insight into rural students' math and reading achievement. [→ Johnson 2022](#johnson-2022)

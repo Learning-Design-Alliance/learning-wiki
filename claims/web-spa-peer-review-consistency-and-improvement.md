@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: luxton-reilly-2009
     resource: "https://doi.org/10.1080/08993400903384844"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A study of 76 high school students using Web-SPA found considerable consistency between instructor and peer marks, and that the quality of work improved after peer review activities. [→ Luxton-Reilly 2009](#luxton-reilly-2009)

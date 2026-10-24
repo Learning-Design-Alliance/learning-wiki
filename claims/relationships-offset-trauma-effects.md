@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: cookson-2022
     resource: "https://doi.org/10.54300/121.698"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Evidence from the science of learning indicates that strong relationships and supportive conditions can offset the effects of trauma on learning and behavior and can support growth. [→ Cookson 2022](#cookson-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: gönül-2021
     resource: "https://doi.org/10.1007/s11409-021-09262-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Gamma-based self-regulation performance increased across age groups, with adults highest and 10-year-olds lowest, while all groups' gammas differed significantly from zero. [→ Gönül 2021](#gonul-2021)

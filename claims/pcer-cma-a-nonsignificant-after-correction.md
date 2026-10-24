@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: us-department-of-education-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/381"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The WWC found the CMA-A Composite finding (effect size 0.35) not statistically significant after a multiple comparisons correction, reversing the original study's reported significance. [→ U.S. Department of Education 2013](#us-department-of-education-2013)

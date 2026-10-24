@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1993
+recheck_by: 1998
 sources:
   - id: bryk-1993
     resource: "https://consortium.uchicago.edu/publications/view-elementary-schools-state-reform-chicago"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1998**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Applying a five-or-more-positive-indicator criterion, 18 percent of school faculties would be classified as highly engaged, and schools with three to four positive indicators add another 33 percent. [→ Bryk 1993](#bryk-1993)

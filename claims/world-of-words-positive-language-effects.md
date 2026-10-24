@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: wwc-summary
     title: wwc-summary
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across four studies meeting WWC standards, the average effect of World of Words on language outcomes was statistically significant and positive (effect size 0.43, improvement index +16, p < 0.01). [→ wwc-summary](#wwc-summary)

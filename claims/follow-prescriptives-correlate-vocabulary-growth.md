@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1991
 sources:
   - id: nameera-akhtar-1991
     resource: "https://doi.org/10.1017/S0305000900013283"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The frequency of mothers' FOLLOW-prescriptives correlated significantly, highly, and positively with a productive vocabulary measure taken at 1;10. [→ Nameera Akhtar 1991](#nameera-akhtar-1991)

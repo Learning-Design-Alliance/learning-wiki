@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2005
+source_checked: 2026-10-15
 sources:
   - id: chwen-jen-chen-2005
     resource: "https://doi.org/10.1080/15391523.2005.10782453"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2005 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` After adjusting for pre-test scores, learning mode had a large main effect on assimilator learners' gain scores (η2 = 0.284), with guided VR highest. [→ Chwen Jen Chen 2005](#chwen-jen-chen-2005)

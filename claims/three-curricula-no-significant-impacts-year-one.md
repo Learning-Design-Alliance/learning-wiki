@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: susanne-james-burdumy-2012
     resource: "https://www.mathematica.org/publications/effectiveness-of-four-supplemental-reading-comprehension-interventions"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the first year of the trial, none of the other three curricula (Project CRISS, ReadAbout, Read for Real) produced significant impacts on reading comprehension. [→ Susanne James-Burdumy 2012](#susanne-james-burdumy-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-18
 sources:
   - id: gandolfi-2021
     resource: "https://doi.org/10.1007/s11145-021-10131-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Time 1 expressive vocabulary was a significant predictor of both phonological awareness and early orthographic knowledge in block 3, but lost significance when the two inhibitory control measures entered in block 4. [→ Gandolfi 2021](#gandolfi-2021)

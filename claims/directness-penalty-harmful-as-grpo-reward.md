@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: xiaokun-wang-2026
     resource: "https://doi.org/10.48550/arxiv.2607.22996"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding Rdir with γ=0.2 during GRPO reduces SE from 0.633 to 0.433 and raises leakage from 13.3% to 23.3% relative to γ=0. [→ Xiaokun Wang 2026](#xiaokun-wang-2026)

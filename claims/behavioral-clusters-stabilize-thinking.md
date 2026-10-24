@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: frank-2012
     resource: "https://doi.org/10.1103/physrevstper.8.020101"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students moved in and out of worksheet-oriented, strip-oriented, and mutual-attention behavioral clusters with remarkable synchrony, and feedback from spatial arrangement and orientation is proposed to stabilize local patterns of thinking. [→ Frank 2012](#frank-2012)

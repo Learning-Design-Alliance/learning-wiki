@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: herold-2025
     resource: "https://doi.org/10.1007/s10648-025-10031-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A systematic review of detraining studies in older adults reported that cessation of a physical activity intervention is accompanied by worsening of cognitive performance. [→ Herold 2025](#herold-2025)

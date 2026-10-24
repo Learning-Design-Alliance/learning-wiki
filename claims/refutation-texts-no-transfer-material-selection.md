@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: anja-prinz-2022
     resource: "https://doi.org/10.1007/s11251-021-09568-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` The refutation-texts conditions did not differ significantly from the standard-texts condition on the material-selection transfer test, not supporting Hypothesis 3a. [→ Anja Prinz 2022](#anja-prinz-2022)

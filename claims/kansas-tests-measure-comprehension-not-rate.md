@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: monroe-1917
     resource: "https://eric.ed.gov/?q=Kansas+Silent+Reading+Tests"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The shape of the Kansas test progress curve corresponds closely to the quality curve, suggesting the Kansas scores are measures of the quality of silent reading rather than the rate. [→ Monroe 1917](#monroe-1917)

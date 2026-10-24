@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: garon-carrier-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101615"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of eight tested interactions, household income and mother's work status significantly moderated the association between childcare arrangement and higher education enrollment. [→ Garon-Carrier 2022](#garon-carrier-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2005
 sources:
   - id: van-merriënboer-2005
     resource: "https://doi.org/10.1007/s10648-005-3951-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The real-life-tasks perspective on complex learning requires more advanced methods to measure expertise and cognitive load so instruction can be flexibly adapted to individual learners' needs. [→ van Merriënboer 2005](#van-merrienboer-2005)

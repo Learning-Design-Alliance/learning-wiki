@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Self-Before and Self-Both used KR requests predominantly on trials 1, 2 and 3; Self-After predominantly on trials 1, 3 and 4. [→ Carter 2014](#carter-2014)

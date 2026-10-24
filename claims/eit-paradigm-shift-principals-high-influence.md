@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: excellence-in-teaching-year-1-report-on-the-pilot-in-the-chicago-public-schools-working-draft-2006
     resource: "https://uei.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The paradigm-shift principal type is characterized by mostly positive framework and evaluation attitudes, high buy-in described as a paradigm shift, and a high rating for influence on instructional grouping, assessment, planning, and general instructional practice. [→ Excellence in Teaching: Year 1 Report on the Pilot in the Chicago Public Schools (working draft 2006](#excellence-in-teaching-year-1-report-on-the-pilot-in-the-chicago-public-schools-working-draft-2006)

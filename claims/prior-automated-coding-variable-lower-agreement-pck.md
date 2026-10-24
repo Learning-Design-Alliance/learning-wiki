@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: copur-gencturk-2026
     resource: "https://doi.org/10.1007/s11858-026-01796-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The review reports that Kersting et al. (2014) achieved quadratic weighted kappa values of .56 to .64 for mathematical content but .36 to .47 for student thinking and suggestions for improvement, and Wahlen et al. (2020) found automated–human agreement of .38 to .77 versus human–human agreement of .80 to .97. [→ Copur-Gencturk 2026](#copur-gencturk-2026)

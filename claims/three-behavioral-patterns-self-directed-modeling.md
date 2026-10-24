@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: sungeun-an-2025
     resource: "https://doi.org/10.1007/s40593-025-00506-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Activity sequence clustering of 822 modeling sequences identifies three behavior types: Observation (N=382), Construction (N=338), and Exploration (N=69), with distinct session lengths. [→ Sungeun An 2025](#sungeun-an-2025)

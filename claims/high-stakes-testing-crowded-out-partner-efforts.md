@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2004
+source_checked: 2026-10-20
 sources:
   - id: karin-sconzert-2004
     resource: "https://consortium.uchicago.edu/publications/working-school-improvement-reflections-chicago-annenberg-external-partners"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2004 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In some schools, high-stakes testing coupled with probation and retention policies pushed teachers and principals to prioritize quick test preparation over partners' ambitious, long-term instructional improvement efforts. [→ Karin Sconzert 2004](#karin-sconzert-2004)

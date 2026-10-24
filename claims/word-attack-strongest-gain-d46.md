@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: sabatini-john-p-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3269067/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The strongest pre-to-post effect was for basic decoding, d = .46, with fluency at d = .34 and other skills at d = .19 to .21. [→ Sabatini John P. 2011](#sabatini-john-p-2011)

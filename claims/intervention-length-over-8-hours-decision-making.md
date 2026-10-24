@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ray-breed-2025
     resource: "https://doi.org/10.3102/00346543241227236"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Miller (2015), that intervention length appeared important, with positive associations for decision-making and skill execution in interventions longer than 8 hours. [→ Ray Breed 2025](#ray-breed-2025)

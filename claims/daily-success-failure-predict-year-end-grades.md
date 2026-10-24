@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: neubauer-2022
     resource: "https://osf.io/gfvja/?view_only=b87fe179cf134471948726cb0e482a80"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children reporting more average daily academic success and less average daily failure during the four-week period received better Grade 5 grades, controlling for Grade 4 grades; achievement goals no longer accounted for unique variance after these controls. [→ Neubauer 2022](#neubauer-2022)

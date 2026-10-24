@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: judith-schoonenboom-2008
     resource: "https://doi.org/10.1007/s11412-008-9042-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` More scripted groups performed a discussion on differences among group members (printed as p=0.40, Cohen's d=0.7); none of the unscripted groups did so. [→ Judith Schoonenboom 2008](#judith-schoonenboom-2008)

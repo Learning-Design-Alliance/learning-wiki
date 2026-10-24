@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: marcovitch-s-2014
     resource: "https://doi.org/10.1016/j.cogdev.2014.07.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Income-to-needs at age 3 was significantly related to EF (β = .31, p < .001) and ToM (β = .23, p = .02), and continued to predict both at ages 4 and 5 via indirect effects. [→ Marcovitch S. 2014](#marcovitch-s-2014)

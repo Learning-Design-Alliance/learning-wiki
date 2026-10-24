@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: leung-gagné-2023
     resource: "https://doi.org/10.54300/109.432"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 59% of LEAs planned only English-only instruction with home-language support, 12% only dual language programs, 7% a mix, and 17% no language supports. [→ Leung-Gagné 2023](#leung-gagne-2023)

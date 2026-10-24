@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: sutcher-2016
     resource: "https://doi.org/10.54300/247.242"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Supply and demand modeling based on federal databases estimated a shortage of approximately 64,000 teachers in 2015–16, potentially rising to 112,000 annually by 2018 if trends continue. [→ Sutcher 2016](#sutcher-2016)

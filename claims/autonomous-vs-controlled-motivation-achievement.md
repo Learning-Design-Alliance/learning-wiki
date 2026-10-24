@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: detlef-urhahne-lisette-wijnia-2023
     resource: "https://doi.org/10.1007/s10648-023-09767-9"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2` · `q3` · `i0`–`i1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Intrinsic motivation (d = .27) and identified regulation (d = .35) are positively associated with school achievement. [→ Detlef Urhahne · Lisette Wijnia 2023](#detlef-urhahne-lisette-wijnia-2023)

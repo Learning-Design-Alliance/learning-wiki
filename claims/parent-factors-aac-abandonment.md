@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: byrnes-c-2026
     resource: "https://doi.org/10.12688/hrbopenres.14332.2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Parents describe lack of emotional readiness, feeling overwhelmed by home implementation, and perceiving AAC as an additional burden of care; unrealistic expectations and frustration with ongoing implementation efforts can result in device abandonment. [→ Byrnes C 2026](#byrnes-c-2026)

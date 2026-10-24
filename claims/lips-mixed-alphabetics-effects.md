@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: lindamood-phoneme-sequencing-lips-beginning-reading-2015
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/280"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across two studies, alphabetics effects were inconsistent: statistically significant positive in Torgesen et al. (2010) and substantively important negative in Gunn (1996); the cross-study domain average effect size was 0.15 (improvement index +6). [→ Lindamood Phoneme Sequencing® (LiPS®): Beginning Reading 2015](#lindamood-phoneme-sequencing-lips-beginning-reading-2015)

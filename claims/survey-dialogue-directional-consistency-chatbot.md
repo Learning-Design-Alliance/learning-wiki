@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: syed-furqan-abbas-hashmi-2025
     resource: "https://doi.org/10.48550/arxiv.2508.14778"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with higher Knowledge-Based survey scores often had above-average question specificity and higher grades, while those reporting lower confidence or motivation tended to ask more broad questions. [→ Syed Furqan Abbas Hashmi 2025](#syed-furqan-abbas-hashmi-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: samuel-tobler-2025
     resource: "https://doi.org/10.1007/s11251-025-09723-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Non-STEM-background students in the narrative group showed a trend of outperforming non-STEM students in the expository group in recall (d = 0.33, BF = 4.30) and understanding (d = 0.29, BF = 3.51), while STEM students showed a trend favoring expository materials (recall d = −0.30; understanding d = −0.20). [→ Samuel Tobler 2025](#samuel-tobler-2025)

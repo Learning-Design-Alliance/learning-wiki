@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: oberauer-2019
     resource: "https://doi.org/10.5334/joc.58"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Removing an entire memory set is rapid and seamless, but people find it difficult to remove a random subset of several items from a memory set unless the subset was clearly marked at encoding. [→ Oberauer 2019](#oberauer-2019)

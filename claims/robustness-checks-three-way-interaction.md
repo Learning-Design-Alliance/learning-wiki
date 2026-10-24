@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: rudmann-2023
     resource: "https://osf.io/qarxk/?view_only=e772332576a5421cbf61b3092e567ac9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Fixed-effect panel regression reproduced the gender × time × condition interactions more clearly than the main analysis (self-reported: χ²(2, N = 23,329) = 2.78, p = .025; utility: χ²(2, N = 23,329) = 3.65, p = .006). [→ Rudmann 2023](#rudmann-2023)

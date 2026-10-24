@@ -8,6 +8,7 @@ generated:
 id: positive-greetings-at-the-door-improve-engagement
 aliases: [positive-greetings-at-the-door-improve-engagement-and-behavior]
 evidence_strength:
+newest_evidence: 2018
 sources:
   - id: cook-et-al-2018
     resource: "https://doi.org/10.1177/1098300717753831"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q1`–`q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 Greeting each student individually and positively as they enter the classroom increases academic engaged time and reduces disruptive behavior.
 

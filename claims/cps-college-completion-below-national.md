@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: mahaffie-2025
     resource: "https://consortium.uchicago.edu/publications/the-educational-attainment-of-Chicago-Public-Schools-students-2024"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall college completion rates for CPS alumni (48%) are below national averages (64%). [→ Mahaffie 2025](#mahaffie-2025)

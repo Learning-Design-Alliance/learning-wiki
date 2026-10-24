@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: laura-dörrenbächer-ulrich-2021
     resource: "https://doi.org/10.1007/s11251-020-09533-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Within one assessment level, moderate correlations appear between SRL components, but across assessment methods within one component almost no correlations appear. [→ Laura Dörrenbächer-Ulrich 2021](#laura-dorrenbacher-ulrich-2021)

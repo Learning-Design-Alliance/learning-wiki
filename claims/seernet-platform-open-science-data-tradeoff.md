@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-09
 sources:
   - id: platform-tradeoff
     title: platform-tradeoff
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The design of eTrials prioritizes open science with little individual student data, while ASU L@S prioritizes extensive individual student data making open science harder to achieve. [→ platform-tradeoff](#platform-tradeoff)

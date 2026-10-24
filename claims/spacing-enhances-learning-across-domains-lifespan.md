@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: carpenter-2022
     resource: "https://doi.org/10.1038/s44159-022-00089-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spacing enhances learning in various domains across the lifespan, with an emphasis on research in applied educational settings. [→ Carpenter 2022](#carpenter-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: tatyana-ivanova-2026
     resource: "https://doi.org/10.3390/math14050808"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Classical DL is restricted to crisp knowledge representation, preventing direct modeling of vagueness, uncertainty, or partial truth. [→ Tatyana Ivanova 2026](#tatyana-ivanova-2026)

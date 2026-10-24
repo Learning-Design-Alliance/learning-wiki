@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: digital-promise-2021
     resource: "https://doi.org/10.51388/20.500.12265/133"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` ICCSD offered PLTW at two elementary and two middle schools in 2019-20 and expanded to five schools in 2020-21, but teachers reported implementing only individual PLTW units and COVID-19 challenges slowed progress. [→ Digital Promise 2021](#digital-promise-2021)

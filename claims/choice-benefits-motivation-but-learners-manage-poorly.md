@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: garvin-brod-2023
     resource: "https://doi.org/10.1007/s10648-023-09749-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Controlling even incidental aspects of the learning context benefits engagement and learning test scores, and perceived-but-not-actual control can improve memory for content. [→ Garvin Brod 2023](#garvin-brod-2023)

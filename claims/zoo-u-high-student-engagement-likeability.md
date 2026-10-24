@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: melissa-e-derosier-2012
     resource: "https://doi.org/10.1155/2012/654791"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students rated Zoo U very positively, with every area rated at least 3.8 on a four-point scale. [→ Melissa E. DeRosier 2012](#melissa-e-derosier-2012)

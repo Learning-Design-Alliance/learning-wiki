@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: ivar-bråten-helge-i-strømsø-2011
     resource: "https://doi.org/10.1007/s11409-011-9075-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding accumulation and cross-text elaboration to prior knowledge did not significantly increase explained variance in intratextual comprehension; only prior knowledge uniquely predicted it (β=.36, p=.002). [→ Ivar Bråten & Helge I. Strømsø 2011](#ivar-braten-helge-i-strms-2011)

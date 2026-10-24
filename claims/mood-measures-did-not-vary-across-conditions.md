@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: kidd-2013
     resource: "https://doi.org/10.1016/j.cognition.2012.08.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Analyses of apparent contentedness, smiling time, and fidgetiness found no systematic differences between conditions, arguing against a mood-based explanation of the wait-time effect. [→ Kidd 2013](#kidd-2013)

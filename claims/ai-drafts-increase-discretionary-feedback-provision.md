@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mahinpei-2026
     resource: "https://doi.org/10.48550/arxiv.2606.03095"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Treatment assignment increased feedback provision by 10.81 percentage points (SE = 1.10, p < 0.001) in a randomized field experiment where feedback was optional. [→ Mahinpei 2026](#mahinpei-2026)

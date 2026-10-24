@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: casey-inez-canfield-baruch-fischhoff-alex-davis-2019
     resource: "https://doi.org/10.1007/s11409-019-09197-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Cronbach's alpha for detection accuracy was higher for legitimate (α = 0.77) and phishing (α = 0.77) emails separately than for all emails (α = 0.59). [→ Casey Inez Canfield & Baruch Fischhoff & Alex Davis 2019](#casey-inez-canfield-baruch-fischhoff-alex-davis-2019)

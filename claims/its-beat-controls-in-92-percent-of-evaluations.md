@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2016
 sources:
   - id: kulik-2016
     resource: "https://doi.org/10.3102/0034654315581420"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Students receiving intelligent tutoring outperformed control students in 46 (92%) of 50 studies, and gains exceeded 0.25 standard deviations in 39 (78%) of studies. [→ Kulik 2016](#kulik-2016)

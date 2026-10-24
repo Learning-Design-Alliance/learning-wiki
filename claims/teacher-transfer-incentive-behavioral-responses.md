@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: ali-protik-2015
     resource: "https://doi.org/10.1162/edfp_a_00174"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Protik et al. examined how high-performing teachers responded to an incentive program offering $20,000 to transfer into the hardest-to-staff schools in their districts; the available summary does not report what the responses were. [→ Ali Protik 2015](#ali-protik-2015)

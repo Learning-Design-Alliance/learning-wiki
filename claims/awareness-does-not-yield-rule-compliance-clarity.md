@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: lasse-bischof-2026
     resource: "https://doi.org/10.48550/arxiv.2606.12436"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Cross-tabulation showed students unaware of the regulations were concentrated in the 'I do not know' compliance category, yet uncertainty about acceptable use persisted even among students who reported awareness of the rules. [→ Lasse Bischof 2026](#lasse-bischof-2026)

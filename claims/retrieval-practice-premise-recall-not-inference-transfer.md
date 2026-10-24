@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: van-gog-2015
     resource: "https://doi.org/10.1007/s10648-015-9310-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across Tran et al.'s experiments, retrieval practice on premise scenarios did not improve the ability to make deductive inferences on a delayed test, although the fourth experiment showed a testing effect for literal premise recall. [→ van Gog 2015](#van-gog-2015)

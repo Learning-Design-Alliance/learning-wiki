@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kristoffer-larsson-klas-andersson-2025
     resource: "https://doi.org/10.1007/s11251-025-09721-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a randomized field experiment, treatment students made on average 1.85 more alternations after the intervention versus 0.44 for controls on the voting-age task, with a significant group × time interaction (ηp2 = 0.39). [→ Kristoffer Larsson · Klas Andersson 2025](#kristoffer-larsson-klas-andersson-2025)

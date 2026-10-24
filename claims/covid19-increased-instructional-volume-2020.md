@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: gore-2021
     resource: "https://doi.org/10.1007/s13384-021-00436-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers reported more time spent on literacy in 2020 (x̄ = 9.52 h/week) compared to 2019 (x̄ = 8.48), and on reading for comprehension in 2020 (x̄ = 3.48) compared to 2019 (x̄ = 3.07). [→ Gore 2021](#gore-2021)

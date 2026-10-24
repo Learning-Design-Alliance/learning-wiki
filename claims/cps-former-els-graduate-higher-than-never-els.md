@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mahaffie-2024
     resource: "https://toandthrough.uchicago.edu/tool/cps/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students formerly classified as English Learners graduated at 89.0%, exceeding never-EL students at 84.1%, while students still classified as English Learners graduated at a slightly lower rate of 82.2%. [→ Mahaffie 2024](#mahaffie-2024)

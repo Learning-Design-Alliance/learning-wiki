@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: chun-wei-huang-2016
     resource: "https://eric.ed.gov/?id=ED567123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Over 80 percent of students predicted to succeed in algebra I based on one assessment were also predicted to succeed based on others, and students with disparate predictions across tests had only about a 50 percent probability of grade 8 success. [→ Chun-Wei Huang 2016](#chun-wei-huang-2016)

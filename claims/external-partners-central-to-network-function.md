@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
+recheck_by: 2001
 sources:
   - id: initial-accomplishments-of-implementation-networks-a-baseline-technical-report-of-the-chicago-annenberg-research-project-1998
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2001**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Nearly two-thirds of principals reported their schools were invited into networks by external partners, and most within-network interaction was with the external partner. [→ Initial Accomplishments of Implementation Networks: A Baseline Technical Report of the Chicago Annenberg Research Project 1998](#initial-accomplishments-of-implementation-networks-a-baseline-technical-report-of-the-chicago-annenberg-research-project-1998)

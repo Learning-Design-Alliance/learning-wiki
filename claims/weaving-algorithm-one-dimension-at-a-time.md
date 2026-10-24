@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: anna-keune-2024
     resource: "https://doi.org/10.1007/s11412-023-09412-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Youth-material collaborative intra-actions in weaving happened in one dimension at a time, and the repetition of these movements produced a baseline algorithm with reliable output. [→ Anna Keune 2024](#anna-keune-2024)

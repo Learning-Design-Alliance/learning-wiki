@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ouhao-chen-2022
     resource: "https://doi.org/10.1007/s10648-022-09678-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In Ostrow et al.'s study, interleaved practice showed no overall benefit over blocked practice (g = 0.22), but low-skilled students showed a large interleaving benefit (g = 0.60), consistent with the discriminative-contrast prediction. [→ Ouhao Chen 2022](#ouhao-chen-2022)

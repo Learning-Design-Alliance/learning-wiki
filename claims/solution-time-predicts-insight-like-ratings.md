@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: adam-chuderski-2021
     resource: "https://doi.org/10.1007/s11409-020-09236-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i1` The correlation of solution time with RAPM score differed between the easiest five items (r = −.126) and the hardest five items (r = .377). [→ Adam Chuderski 2021](#adam-chuderski-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: michelene-t-h-chi-ruth-wylie-2014
     resource: "https://doi.org/10.1080/00461520.2014.965823"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` To meet the criteria for constructive, outputs of generative behaviors must contain new ideas beyond what was provided in the learning materials; otherwise they are merely active. [→ Michelene T. H. Chi & Ruth Wylie 2014](#michelene-t-h-chi-ruth-wylie-2014)

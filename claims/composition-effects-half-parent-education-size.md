@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: benner-aprile-d-crosnoe-robert-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4554342/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Standardized coefficients for school composition on reading and math (.05, .04 for diversity; .05, .06 for matching) were roughly half the parent education coefficients (.09–.10). [→ Benner Aprile D.; Crosnoe Robert 2011](#benner-aprile-d-crosnoe-robert-2011)

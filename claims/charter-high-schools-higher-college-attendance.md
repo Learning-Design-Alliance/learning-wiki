@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: kevin-booker-2010
     resource: "https://www.mathematica.org/publications/the-unknown-world-of-charter-high-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students attending a charter high school are 8 to 10 percentage points more likely to attend college than comparable students attending traditional public high schools, controlling for key student characteristics. [→ Kevin Booker 2010](#kevin-booker-2010)

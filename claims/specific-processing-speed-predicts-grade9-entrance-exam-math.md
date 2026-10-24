@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: cheng-dazhi-2022
     resource: "https://doi.org/10.3390/jintelligence10010001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Word semantic, simple subtraction, and complex subtraction significantly predicted Grade 9 entrance examination mathematics, accounting for 4.4%, 5.4%, and 5.4% of variance. [→ Cheng Dazhi 2022](#cheng-dazhi-2022)

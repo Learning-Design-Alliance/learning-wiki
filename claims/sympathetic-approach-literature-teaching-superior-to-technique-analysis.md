@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: l-z-1921
     resource: "https://doi.org/10.1037/h0065371"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A literature-teaching approach that gave opportunity for picturing and imaging the experiences in the selection was found superior to an approach stressing technique, analysis and factual detail. [→ L. Z 1921](#l-z-1921)

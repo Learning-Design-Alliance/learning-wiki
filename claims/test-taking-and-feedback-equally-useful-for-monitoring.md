@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: nick-naujoks-2022
     resource: "https://doi.org/10.1007/s11409-022-09295-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Study 2, paired-samples comparison found no difference between perceived usefulness of practice-test taking and of receiving feedback for monitoring. [→ Nick Naujoks 2022](#nick-naujoks-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: kenneth-silseth-2024
     resource: "https://doi.org/10.1007/s11412-023-09413-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In collaborative reflection, students described feeling spoken to directly by people in the VR film and being participants in the conversations, an experience the authors interpret as co-presence and emancipatory immersion. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)

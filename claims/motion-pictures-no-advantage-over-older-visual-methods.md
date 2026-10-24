@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: frank-n-freeman-1922
     resource: "https://psycnet.apa.org/journals/edu/13/5/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the same comparison study, the newer motion picture methods had no advantage over the older visual methods such as slides. [→ Frank N. Freeman 1922](#frank-n-freeman-1922)

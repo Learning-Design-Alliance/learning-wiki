@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: yun-2008
     resource: "https://kuscholarworks.ku.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` German learners consulting text + picture annotations scored significantly higher on a vocabulary test than groups consulting text definitions or text + video, with no significant difference between the latter two. [→ Yun 2008](#yun-2008)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: eamon-worden-2026
     resource: "https://doi.org/10.48550/arxiv.2602.00070"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` All models achieve only 12-15% accuracy on select-all problems (baseline approximately 2.9%), and cognitive accuracy for incorrect answers drops as low as 3.7% (Llama-3.3-70B). [→ Eamon Worden 2026](#eamon-worden-2026)

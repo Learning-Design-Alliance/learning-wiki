@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+source_checked: 2026-10-20
 sources:
   - id: stadler-2021
     title: Stadler 2021
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When a domain knowledge test contains separate items designed for distinct, separable aspects, finding a high alpha coefficient indicates the test is failing its design intent. [→ alpha-1](#stadler-2021)

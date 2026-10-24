@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1912
 sources:
   - id: j-c-b-1912
     resource: "https://openlibrary.org/search?q=recent+literature+on+the+binet+tests"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Ayres complains the scale tests word use rather than performance; the reviewer observes this is true to a high degree but doubts it is a serious drawback since ordinary judgments of intelligence rest largely on linguistic ability. [→ J. C. B 1912](#j-c-b-1912)

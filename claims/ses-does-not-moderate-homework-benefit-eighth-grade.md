@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: nathan-mcjames-2023
     resource: "https://timssandpirls.bc.edu/timss2019/international-results"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Individual treatment effect estimates show no clear trend across parental education levels or number of books at home, in either subject or at either homework frequency. [→ Nathan McJames 2023](#nathan-mcjames-2023)

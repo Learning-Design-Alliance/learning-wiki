@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: emily-morton-2026
     resource: "https://www.nwea.org/research/publication/tech-appendix-for-from-loss-to-recovery-diverging-paths-and-uneven-gains-across-schools/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The brief examines two components of school recovery post-COVID pandemic in order to better understand recovery patterns, with the framing that paths diverge and gains are uneven across schools. [→ Emily Morton 2026](#emily-morton-2026)

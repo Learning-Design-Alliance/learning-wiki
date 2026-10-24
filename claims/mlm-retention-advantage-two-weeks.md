@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: stelzer-2008
     resource: "https://doi.org/10.48550/arxiv.0806.0405"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` On the 32-question Retention Test given about two weeks after the lessons, the MLM group scored about 13% higher than the Textbook group (adjusted effect size 0.7, p < 0.01). [→ Stelzer 2008](#stelzer-2008)

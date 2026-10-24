@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-17
 sources:
   - id: higgin-2025
     resource: "https://eric.ed.gov/?id=ED677594"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Effective feedback helps students understand mistakes and refine thinking, but large class sizes and tight grading deadlines limit faculty feedback, and dichotomous automated grading offers little insight and saps motivation. [→ Higgin 2025](#higgin-2025)

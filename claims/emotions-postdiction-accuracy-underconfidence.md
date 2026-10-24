@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: prinz-weiß-2023
     resource: "https://doi.org/10.1007/s11409-022-09331-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` With increasing positive emotions, postdictions became less underconfident; with increasing negative emotions (anxiety and shame), postdictions became more underconfident (small correlations). [→ Prinz-Weiß 2023](#prinz-wei-2023)

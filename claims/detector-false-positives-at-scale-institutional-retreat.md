@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: victor-angelier-2026
     resource: "https://doi.org/10.1007/s43681-026-01376-w"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Vanderbilt University calculated that applying the vendor's stated 1% false-positive rate to approximately 75,000 papers submitted in 2022 would imply around 750 papers potentially misidentified as AI-written, one documented rationale for disabling Turnitin's AI detector. [→ Victor Angelier 2026](#victor-angelier-2026)

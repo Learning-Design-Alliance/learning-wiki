@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: chan-2011
     resource: "https://doi.org/10.1007/s11412-011-9121-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Hong Kong government educational reforms since 2000, including three ICT 5-year strategies and the Learning to Learn document, provided readiness for CSCL innovation even though examination pressure persists. [→ Chan 2011](#chan-2011)

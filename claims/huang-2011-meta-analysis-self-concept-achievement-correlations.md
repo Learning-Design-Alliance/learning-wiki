@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: hübner-2023
     resource: "https://doi.org/10.1007/s10648-023-09724-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Average correlations ranged from r = .20 to .27 between prior self-concept and later achievement and from r = .19 to .25 between prior achievement and subsequent self-concept. [→ Hübner 2023](#hubner-2023)

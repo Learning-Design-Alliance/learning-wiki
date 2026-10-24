@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: cowan-2014
     resource: "https://doi.org/10.1037/a0034097"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the single point groups, 86% of MLD and 55% of LA children had multiple deficits; in the persistent subset, 91% of MLD and 50% of LA children had combinations of deficits. [→ Cowan 2014](#cowan-2014)

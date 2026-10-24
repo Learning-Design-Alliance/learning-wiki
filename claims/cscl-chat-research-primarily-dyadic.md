@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: jan-willem-strijbos-2007
     resource: "https://hal.science/hal-00703042"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In CSCL research, collaboration through chat has primarily been studied in dyadic settings. [→ Jan Willem Strijbos 2007](#jan-willem-strijbos-2007)

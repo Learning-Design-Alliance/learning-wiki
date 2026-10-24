@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: guido-makransky-gustav-bøg-petersen-2023
     resource: "https://doi.org/10.1007/s10648-023-09822-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis aggregating 115 effect sizes from 83 studies found immersion had a medium-sized effect on physical presence, with increased user tracking, stereoscopic visuals, and wider fields of view identified as the most important technological features. [→ Guido Makransky · Gustav Bøg Petersen 2023](#guido-makransky-gustav-bg-petersen-2023)

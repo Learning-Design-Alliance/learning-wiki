@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: handwriting-intervention-type-equivalence
 evidence_strength: unknown
+newest_evidence: 2016
 sources:
   - id: santangelo-graham-2016
     resource: "https://doi.org/10.1007/s10648-015-9335-1"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3`–`q4`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 This is an equivalence (null-difference) claim: it asserts that no intervention type is reliably superior, not that any type is effective. If it holds, program selection can rest on cost, feasibility, and learner fit rather than on efficacy differences between methods.
 

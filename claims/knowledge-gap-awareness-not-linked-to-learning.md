@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: christian-hartmann-2021
     resource: "https://doi.org/10.1007/s11251-020-09528-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Condition significantly affected self-reported awareness of knowledge gaps (F(2, 170) = 11.57, p < 0.001), with PF students reporting more awareness than both VF conditions. [→ Christian Hartmann 2021](#christian-hartmann-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: hagger-2016
     resource: "https://doi.org/10.3102/0034654315585005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Contrary to the expectation that subjective norms align with controlled motivation, autonomous motivation is a significant, positive predictor of subjective norms. [→ Hagger 2016](#hagger-2016)

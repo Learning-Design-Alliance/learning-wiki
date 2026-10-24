@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: mesenhöller-j-and-böhme-k-2026
     resource: "https://doi.org/10.3389/feduc.2026.1875856"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Teachers’ perceived ease of use of AI-based technologies increased significantly from pre- to post-test following INSIGHT, with a small effect (d = −0.25 as printed). [→ Mesenhöller J and Böhme K 2026](#mesenholler-j-and-bohme-k-2026)

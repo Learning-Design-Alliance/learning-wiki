@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hagger-2016
     resource: "https://doi.org/10.3102/0034654315585005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The path-analytic meta-analysis of correlations among model constructs supported the hypothesized relationships, but heterogeneity across studies was substantial and unattributed to sampling and measurement error. [→ Hagger 2016](#hagger-2016)

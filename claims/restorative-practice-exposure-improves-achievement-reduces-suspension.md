@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: darling-hammond-2023
     resource: "https://doi.org/10.54300/169.703"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Increasing exposure to restorative practices during the 5th-to-6th-grade transition improved ELA and math test performance and reduced suspension probability and days suspended. [→ Darling-Hammond 2023](#darling-hammond-2023)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-19
+recheck_by: 2030
 sources:
   - id: griffith-2025
     resource: "https://doi.org/10.54300/471.440"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Costing studies from Delaware, DC, Maryland, Michigan, and Nevada all recommended additional funding for ELs and at-risk students via weightings. [→ Griffith 2025](#griffith-2025)

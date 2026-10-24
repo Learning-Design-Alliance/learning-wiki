@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: charlott-sellberg-amit-sharma-2025
     resource: "https://doi.org/10.1007/s11412-024-09435-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Episode 1, the plotted course plan on the nautical chart made the intended crossing publicly available and assessable, and instructors used speech and hand gestures toward the chart to deliver assessment and positive feedback. [→ Charlott Sellberg · Amit Sharma 2025](#charlott-sellberg-amit-sharma-2025)

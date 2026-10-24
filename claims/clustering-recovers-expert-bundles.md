@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: muntasir-hoq-2026
     resource: "https://doi.org/10.48550/arxiv.2607.05409"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Agglomerative clustering reached a best bundle-level ARI of 0.605 with V-measure 0.933, and 76.4% of nearest-neighbor matches were same-bundle. [→ Muntasir Hoq 2026](#muntasir-hoq-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: andy-hegedus-2018
     resource: "https://www.nwea.org/research-data-galleries/poverty-and-school-performance"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Compared with schools where less than 10% of students are FRL-eligible, schools with more than 90% FRL have 15% more schools whose median growth is below the 50th percentile and 3% more whose growth is above the 82nd percentile. [→ Andy Hegedus 2018](#andy-hegedus-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: cookson-2022
     resource: "https://doi.org/10.54300/121.698"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Analyses of data prepared for school equity cases in more than 20 states found that on every tangible measure—from qualified teachers and reasonable class sizes to textbooks, computers, facilities, and curriculum offerings—schools serving large numbers of students of color and low-income students have significantly fewer resources. [→ Cookson 2022](#cookson-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: steven-glazerman-2013
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Retention of transferred high-performing teachers persisted beyond the incentive period: most TTI teachers remained on the job even after payments ended. [→ Steven Glazerman 2013](#steven-glazerman-2013)

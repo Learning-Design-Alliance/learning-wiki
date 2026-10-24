@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: zavhorodnia-2026
     resource: "https://doi.org/10.5964/ejop.17767"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Conscientiousness (r = –.21, p < .01) and tolerance for novelty (r = –.16, p < .05) correlated negatively with well-being decline, while tolerance for complexity, insolubility, and the general index showed no statistically significant associations. [→ Zavhorodnia 2026](#zavhorodnia-2026)

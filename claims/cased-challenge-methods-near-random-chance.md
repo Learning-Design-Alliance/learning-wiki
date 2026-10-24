@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All participating methods on the CASED classification and regression tracks perform near random chance, with the best method reaching F1 Macro 0.52 and all submissions obtaining near-zero or negative R2, Pearson, and CCC in regression. [→ leaderboard-1](#leaderboard-1)

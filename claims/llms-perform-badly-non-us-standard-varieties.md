@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: ugwuanyi-2025
     resource: "https://doi.org/10.48550/arxiv.2607.28505"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In the contributors' prompting experiments, LLMs performed very badly at generating national standard varieties of English other than US English, even failing to implement British spelling consistently. [→ Ugwuanyi 2025](#ugwuanyi-2025)

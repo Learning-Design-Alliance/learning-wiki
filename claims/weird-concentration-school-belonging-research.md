@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ronnel-b-king-2026
     resource: "https://doi.org/10.1007/s10648-026-10213-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across K-12, postsecondary, and racial-climate studies, the vast majority of empirical school belonging work is based in the United States and a small set of other WEIRD countries, with only a handful of studies from non-WEIRD contexts. [→ Ronnel B. King 2026](#ronnel-b-king-2026)

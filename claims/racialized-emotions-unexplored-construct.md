@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: jessica-t-decuir-gunby-paul-a-schutz-2024
     resource: "https://doi.org/10.1007/s10648-024-09873-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors identify racialized emotions, defined as emotions related to race experienced during interracial interaction, as an area educational psychologists have not yet theoretically explicated despite the field's interest in emotions. [→ Jessica T. DeCuir-Gunby · Paul A. Schutz 2024](#jessica-t-decuir-gunby-paul-a-schutz-2024)

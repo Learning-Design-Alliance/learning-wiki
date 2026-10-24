@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: stephanie-cawthon-2020
     resource: "https://www.nwea.org/research/publication/growth-patterns-and-distance-learning-tips-for-students-who-are-deaf-and-hard-of-hearing-webinar/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Multi-year growth trajectories of DHH students from grades 2-8 show continued literacy growth into middle school, differing from findings of studies limited to growth within a single year. [→ Stephanie Cawthon 2020](#stephanie-cawthon-2020)

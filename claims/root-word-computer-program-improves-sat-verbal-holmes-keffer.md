@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: actsat-test-preparation-and-coaching-programs-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/664"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In a randomized controlled trial of 70 students, intervention students scored statistically significantly higher than comparison students on the verbal portion of the SAT (effect size 0.49, improvement index +19). [→ ACT/SAT Test Preparation and Coaching Programs 2016](#actsat-test-preparation-and-coaching-programs-2016)

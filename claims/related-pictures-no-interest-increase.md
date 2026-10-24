@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: demian-scherer-2023
     resource: "https://doi.org/10.1007/s11251-023-09618-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In both experiments, triggered and maintained situational interest did not differ between the pictures and no-pictures conditions; in Experiment 2 maintained situational interest was significantly lower with pictures. [→ Demian Scherer 2023](#demian-scherer-2023)

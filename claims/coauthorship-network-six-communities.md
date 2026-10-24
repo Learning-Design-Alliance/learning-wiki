@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: coauth-1
     title: coauth-1
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The coauthorship network of 22 workshop organizers contained 2,197 authors and over 4,000 publications, with Louvain detection yielding six communities and 80% of nodes in the largest three. [→ coauth-1](#coauth-1)

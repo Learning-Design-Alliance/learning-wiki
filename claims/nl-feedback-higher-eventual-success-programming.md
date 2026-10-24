@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hasnain-heickal-and-andrew-lan-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08807"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Students receiving natural language feedback were more than twice as likely to eventually reach a correct submission (OR approximately 2.33). [→ Hasnain Heickal and Andrew Lan 2026](#hasnain-heickal-and-andrew-lan-2026)

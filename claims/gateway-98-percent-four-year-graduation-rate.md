@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: cook-harvey-2020
     resource: "http://learningpolicyinstitute.org/product/social-and-emotional-learning-case-study-gateway"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In spring 2017 and 2018, 98% of Gateway students who started high school 4 years earlier graduated, including 100% of African American and Latina/o students and 100% of students with disabilities. [→ Cook-Harvey 2020](#cook-harvey-2020)

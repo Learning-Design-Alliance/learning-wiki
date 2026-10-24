@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: banerjee-snigdha-2015
     resource: "https://doi.org/10.1111/ejn.12810"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The high motivation condition showed greater amplitude than the low motivation condition in all four 100-ms time periods between 700 and 1100 ms post-cue. [→ Banerjee Snigdha 2015](#banerjee-snigdha-2015)

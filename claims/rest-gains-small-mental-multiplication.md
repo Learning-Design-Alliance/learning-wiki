@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: edward-l-thorndike-1911
     resource: "https://archive.org/search?query=Journal+of+Educational+Psychology+Thorndike"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A 30-minute rest increased product per unit of time by about 5 percent and a night's rest by about 7 percent more, while accuracy remained almost exactly the same. [→ Edward L. Thorndike 1911](#edward-l-thorndike-1911)

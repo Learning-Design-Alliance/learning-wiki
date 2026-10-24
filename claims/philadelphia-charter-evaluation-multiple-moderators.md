@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: ron-zimmer-2008
     resource: "https://www.mathematica.org/publications/evaluating-the-performance-of-philadelphias-charter-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study examined effects of years of operation, grades served, mission, and demographics on student achievement, as well as the types of students charter schools attract and turnover rates. [→ Ron Zimmer 2008](#ron-zimmer-2008)

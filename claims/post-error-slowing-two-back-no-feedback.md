@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: satterthwaite-theodore-d-md-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3358426/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Response times are significantly greater on correct targets following errors than following correct responses in the 2-back condition. [→ Satterthwaite Theodore D. M.D. 2012](#satterthwaite-theodore-d-md-2012)

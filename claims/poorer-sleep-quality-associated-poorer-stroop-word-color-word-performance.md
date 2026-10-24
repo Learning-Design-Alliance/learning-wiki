@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: anderson-jason-r-2017
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7433257/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Poorer sleep quality was associated with poorer performance on the Stroop Word (r=-.40, p=.018) and Color-Word (r=-.41, p=.010) subtests after controlling for hypertension and carbohydrate intake, with a trend for Stroop Color (r=-.34, p=.053). [→ Anderson Jason R. 2017](#anderson-jason-r-2017)

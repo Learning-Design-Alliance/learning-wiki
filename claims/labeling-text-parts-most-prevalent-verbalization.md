@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: gonny-l-m-schellings-hein-broekkamp-2011
     resource: "https://doi.org/10.1007/s11409-010-9067-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Short utterances that merely valued text information (e.g., 'this is important') without clarifying why were the most common verbalization category, occurring 101 times across 27 of the 36 protocols. [→ Gonny L. M. Schellings & Hein Broekkamp 2011](#gonny-l-m-schellings-hein-broekkamp-2011)

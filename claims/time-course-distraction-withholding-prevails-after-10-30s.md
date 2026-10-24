@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: mulder-2019
     resource: "https://doi.org/10.1007/s11409-019-09199-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across both tasks, the probability of visual attention distraction alone and combined with hands withholding became the prevailing behavioural categories after about 10–30 seconds of delay. [→ Mulder 2019](#mulder-2019)

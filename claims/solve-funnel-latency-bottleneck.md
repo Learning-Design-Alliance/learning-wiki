@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students started 149 solve attempts and 84 completed successfully (56.4%), a funnel the authors treat as combining user behavior with a system-stability event. [→ solve-funnel](#solve-funnel)

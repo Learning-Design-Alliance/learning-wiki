@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mathias-mejeh-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102394"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Directive feedback marginally reduced the negative effect of anger in the pre-actional-to-actional transition but marginally weakened the positive satisfaction–hope link in the post-actional-to-pre-actional transition. [→ Mathias Mejeh 2026](#mathias-mejeh-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: jan-van-aalst-2009
     resource: "https://doi.org/10.1007/s11412-009-9069-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In every group, a large share of information items was described without being interpreted or evaluated, ranging from 35.4% (Group B) to 66.7% (Group C). [→ Jan van Aalst 2009](#jan-van-aalst-2009)

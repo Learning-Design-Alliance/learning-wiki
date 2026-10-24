@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-18
 sources:
   - id: castro-alonso-2021
     resource: "https://doi.org/10.1007/s10648-020-09587-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small
+> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` 2D agents (g+ = 0.38) tended to be more effective than 3D agents (g+ = 0.11), a pattern the authors attribute to the redundancy effect of cognitive load theory and the coherence principle of cognitive theory of multimedia learning. [→ Castro-Alonso 2021](#castro-alonso-2021)

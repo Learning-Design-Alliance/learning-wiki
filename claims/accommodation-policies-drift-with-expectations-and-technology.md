@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: elizabeth-barker-2019
     resource: "https://www.nwea.org/research/publication/the-changing-landscape-of-assessment-and-accommodation-policies/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Accommodations can drift in a new direction when public or industry expectations change or new technology arises. [→ Elizabeth Barker 2019](#elizabeth-barker-2019)

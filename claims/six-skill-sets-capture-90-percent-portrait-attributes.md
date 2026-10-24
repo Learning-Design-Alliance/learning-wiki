@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: synthesis-analysis-1
     title: synthesis-analysis-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across 69 analyzed district Portraits, six Skill Sets capture 90 percent of the attributes districts articulate for graduates, despite expectations of wide local variation. [→ synthesis-analysis-1](#synthesis-analysis-1)

@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: rainio-hofmann-2021
     resource: "https://doi.org/10.1080/10508406.2021.1936532"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q3` · `i2` medium · n=27 full-time teachers (21 female, 6 male) at one disadvantaged-area Finnish middle school (~300 students, ~30% recent immigrants/refugees), nine fortnightly 2-hour sessions across the 2000-2001 school year
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 Discourse analysis of nine whole-school intervention sessions over a school year found that teachers' stabilizing talk about students persisted even in the face of contrary evidence (surprises were usually reframed as exceptions), but that a specific discursive pattern — reflexive noticing — later emerged and correlated with a large, independently quantified increase in positive framing of students.
 

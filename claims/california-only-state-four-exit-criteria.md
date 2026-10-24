@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: faulkner-bond-2026
     resource: "https://eric.ed.gov/?id=ED681359"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A review of other states' policies found California was the only state using four exit criteria in 2023-24, and one of only seven states using any data sources beyond statewide ELP assessments for exit decisions. [→ Faulkner-Bond 2026](#faulkner-bond-2026)

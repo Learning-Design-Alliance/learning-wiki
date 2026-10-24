@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1988
 sources:
   - id: ross-1988
     resource: "http://www.jstor.org/stable/30218252"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1988 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` None of the comparisons between high- and low-density achievement means was significant across Knowledge, Calculation, Transfer, and delayed posttest measures. [→ Ross 1988](#ross-1988)

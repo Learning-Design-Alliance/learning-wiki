@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: alonso-carracedo-2026
     resource: "https://doi.org/10.48550/arxiv.2607.02432"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Human evaluators most often awarded either no credit or near-full credit per item, with the 0% bin (n = 334) and 90% bin (n = 521) dominating and intermediate deciles low. [→ Alonso-Carracedo 2026](#alonso-carracedo-2026)

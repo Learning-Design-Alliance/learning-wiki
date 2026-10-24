@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: first-year-persistence-and-retention-2017
     resource: "https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fall 2015 entrants aged 20 and under persisted at 78.2 percent, the over-20-to-24 group at 57.8 percent, and students over 24 at 52.7 percent. [→ First-Year Persistence and Retention 2017](#first-year-persistence-and-retention-2017)

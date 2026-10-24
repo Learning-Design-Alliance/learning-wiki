@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: ashlyn-pierson-2024
     resource: "https://doi.org/10.1007/s11251-024-09674-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the first Summer PD 2 workshop, debrief reflections reified rather than rearticulated monolingual language ideologies, maintaining an equity-as-access framing despite the immersive French activity. [→ Ashlyn Pierson 2024](#ashlyn-pierson-2024)

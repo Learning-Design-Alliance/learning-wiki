@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2000
 sources:
   - id: paul-r-pintrich-2000
     resource: "https://doi.org/10.1016/b978-012109890-2/50043-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Models of SRL assume self-regulatory activities mediate the relationships between personal and contextual characteristics and achievement or performance. [→ Paul R. Pintrich 2000](#paul-r-pintrich-2000)

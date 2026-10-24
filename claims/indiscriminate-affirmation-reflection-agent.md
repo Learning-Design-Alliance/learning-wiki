@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: validation-content
     resource: "https://doi.org/10.48550/arxiv.2609.19635"
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Validation rates barely moved with what the participant had just done (48–57% across participant move types, peaking at 67% after a commitment), so praise responded to the participant's presence rather than the content of the answer. [→ validation-content](#validation-content)

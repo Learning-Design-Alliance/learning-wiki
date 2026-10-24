@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-15
 sources:
   - id: scheiter-2007
     resource: "https://doi.org/10.1007/s10648-007-9046-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Usability problems, namely disorientation, distraction, and cognitive overload, make the potential effectiveness of self-controlled learning with hypermedia difficult to demonstrate. [→ Scheiter 2007](#scheiter-2007)

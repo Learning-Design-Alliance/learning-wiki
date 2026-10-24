@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: klevan-2023
     resource: "https://doi.org/10.54300/784.361"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers interviewed in the study reported that with integrated services and processes connecting students and families with resources, they could prioritize project-based learning, work-based opportunities, culturally affirming curriculum, and social-emotional learning. [→ Klevan 2023](#klevan-2023)

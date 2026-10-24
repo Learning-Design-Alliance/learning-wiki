@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: priniski-2019
     resource: "https://doi.org/10.1037/edu0000343"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The self-first variety condition produced higher articulated utility value (M = 8.45, SD = 2.68) than the other-first condition (M = 7.60, SD = 2.72; β = 0.08, p = .012), while the two same-type conditions did not differ (p = .10). [→ Priniski 2019](#priniski-2019)

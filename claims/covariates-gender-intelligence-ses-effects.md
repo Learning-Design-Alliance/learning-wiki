@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: reinhard-pekrun-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101626"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Male students reported more positive and less negative emotions in math than female students; gender showed no significant effects on grades. [→ Reinhard Pekrun 2022](#reinhard-pekrun-2022)

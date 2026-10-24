@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: joanne-eaves-2018
     resource: "https://figshare.com/s/230ee9491e0b67d9d3f3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adults who first solved 20 inversion problems ('a + b – b' and 'a + b – a') were more likely than a two-term arithmetic control group to self-report using an associativity shortcut on a subsequent 'a + b – c' test problem (phi = 0.29). [→ Joanne Eaves 2018](#joanne-eaves-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: melissa-roderick-2003
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-results-summer-bridge"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teachers who knew a large proportion of their Summer Bridge students beforehand were more likely to report adapting the curriculum to student needs and working with students outside of class; effects were most pronounced for older students. [→ Melissa Roderick 2003](#melissa-roderick-2003)

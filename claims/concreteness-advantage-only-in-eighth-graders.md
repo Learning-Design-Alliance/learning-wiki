@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: brian-mathias-2022
     resource: "https://doi.org/10.1007/s10648-021-09648-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A main effect of word type (χ2 = 44.45, v = 0.77) and a grade × word type interaction driven by eighth graders' significant concreteness advantage (d = 2.71) absent in sixth graders. [→ Brian Mathias 2022](#brian-mathias-2022)

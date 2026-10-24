@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2010
+recheck_by: 2013
 sources:
   - id: hanley-chiang-2010
     resource: "https://www.mathematica.org/publications/the-impacts-of-philadelphias-accelerated-schools-on-academic-progress-and-graduation"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The report evaluates the impacts of Philadelphia's accelerated schools on enrollees' graduation rates. [→ Hanley Chiang 2010](#hanley-chiang-2010)

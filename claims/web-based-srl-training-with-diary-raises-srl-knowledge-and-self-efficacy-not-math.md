@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: bellhäuser-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Group TD showed statistically significant increases in SRL knowledge (β = 3.95; p < 0.001), the SRL overall score (β = 0.31; p < 0.001) and self-efficacy (β = 0.20; p = 0.04) but not in mathematics scores. [→ Bellhäuser 2022](#bellhauser-2022)

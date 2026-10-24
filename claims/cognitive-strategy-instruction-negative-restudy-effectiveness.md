@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: mariëtte-h-van-loon-2021
     resource: "https://doi.org/10.1007/s11409-020-09248-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` When teachers more often talked about cognitive strategy use, children less accurately differentiated incorrect from correct responses in restudy selections (β = −.24, p = .010). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)

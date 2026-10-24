@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: cocuzza-2026
     resource: "https://doi.org/10.51388/20.500.12265/303"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students who are off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impact on Black and Latino students. [→ Cocuzza 2026](#cocuzza-2026)

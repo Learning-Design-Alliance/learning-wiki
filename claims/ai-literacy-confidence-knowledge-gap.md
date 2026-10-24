@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yifan-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08936"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior empirical work found students' perceived understanding of AI tools increased significantly after instruction, but actual knowledge improved minimally. [→ Yifan Liu 2026](#yifan-liu-2026)

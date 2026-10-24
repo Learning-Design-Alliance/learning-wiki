@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: mixed
+newest_evidence: 2014
 sources:
   - id: wenting-ma-2014
     resource: "https://doi.org/10.1037/a0037123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Under a random-effects model, model tracing, Bayesian network modeling, and other types of ITS produced statistically significant effect sizes while constraint-based modeling and expectation and misconception tailoring did not; the higher mean for Bayesian network modeling was significantly greater than model tracing and constraint-based modeling only under a fixed-effect model. [→ Wenting Ma 2014](#wenting-ma-2014)

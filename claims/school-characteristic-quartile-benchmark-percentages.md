@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: lemke-2023
     resource: "https://eric.ed.gov/?id=ED638519"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 82 percent of students in schools with the most high-need students were ever below benchmark versus 50 percent in schools with the least; schools with the fewest preschool attenders showed 81 versus 53 percent. [→ Lemke 2023](#lemke-2023)

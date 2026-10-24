@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hornstein-2025
     resource: "https://doi.org/10.1007/s10648-025-10017-3"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Instructional support has a medium-sized positive effect on the quality of feedback provision (g = 0.64). [→ Hornstein 2025](#hornstein-2025)

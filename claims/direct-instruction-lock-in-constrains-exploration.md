@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: manu-kapur-2016
     resource: "https://doi.org/10.1080/00461520.2016.1155457"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students taught by direct instruction tended to produce only the correct solution, whereas students who solved problems before instruction designed five to six solutions. [→ Manu Kapur 2016](#manu-kapur-2016)

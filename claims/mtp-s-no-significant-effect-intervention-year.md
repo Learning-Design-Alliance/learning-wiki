@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: intervention-year
     title: intervention-year
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` During the intervention year, the difference between the MTP-S group and the comparison group on SOL end-of-year scores was not statistically significant (effect size 0.04, improvement index +2, p > .05). [→ intervention-year](#intervention-year)

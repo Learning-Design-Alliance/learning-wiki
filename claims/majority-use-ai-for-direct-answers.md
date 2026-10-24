@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: grace-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2604.04721"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 61% of AI-condition participants in Experiment 2 reported using the AI primarily to get answers directly; 27% for hints or clarifications; 12% reported no usage. [→ Grace Liu 2026](#grace-liu-2026)

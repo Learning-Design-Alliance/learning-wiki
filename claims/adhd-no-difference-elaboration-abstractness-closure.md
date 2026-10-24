@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: gonzalez-carpio-2017
     resource: "https://doi.org/10.4236/psych.2017.83019"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant differences were found between ADHD children and controls for Elaboration, Abstractness of Titles or Resistance to premature closure. [→ Gonzalez-Carpio 2017](#gonzalez-carpio-2017)

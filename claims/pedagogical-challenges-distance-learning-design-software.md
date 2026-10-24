@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: abrami-2012
     resource: "https://doi.org/10.1007/978-1-4614-1785-9_4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that pedagogical challenges inherent in distance and online learning need to be considered in instructional design and software development. [→ Abrami 2012](#abrami-2012)

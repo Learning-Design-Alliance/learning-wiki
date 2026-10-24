@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ballard-2023
     resource: "https://doi.org/10.1007/s11251-023-09643-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The statistical messiness of Radon data, unlike canned textbook datasets, offered students a window into the scientists' world and a uniquely intense experience with scientific reasoning practices. [→ Ballard 2023](#ballard-2023)

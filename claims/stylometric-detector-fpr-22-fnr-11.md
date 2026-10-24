@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: rajesh-kumar-2026
     resource: "https://doi.org/10.48550/arxiv.2609.26687"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the held-out test set the False Positive Rate was 22.2% (4/18) and the False Negative Rate was 11.1% (2/18), with 95% Wilson confidence intervals of 9.0–45.2% and 3.1–32.8% respectively. [→ Rajesh Kumar 2026](#rajesh-kumar-2026)

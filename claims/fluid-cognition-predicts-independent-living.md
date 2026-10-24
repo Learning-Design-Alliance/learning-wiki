@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: salthouse-2012
     resource: "https://doi.org/10.1146/annurev-psych-120710-100328"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across assessment approaches for older adults' independent living, the strongest relations were found with novel problem-solving rather than knowledge measures. [→ Salthouse 2012](#salthouse-2012)

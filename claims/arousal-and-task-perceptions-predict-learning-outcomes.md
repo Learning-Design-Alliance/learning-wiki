@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: malmberg-2022
     resource: "https://doi.org/10.1007/s11409-022-09320-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` GEE models showed post-task understanding (p < .005), pre- and post-task difficulty (p < .05), and EDA peaks (p = < 0.000) positively predicted quiz learning outcomes. [→ Malmberg 2022](#malmberg-2022)

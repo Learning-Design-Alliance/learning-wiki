@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: pellicer-sánchez-2016
     resource: "https://doi.org/10.1017/S0272263115000224"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` L1 readers showed significant repetition effects earlier (from the first encounter in some measures) than L2 readers (third to fourth encounter), but there were no significant differences between L1 and L2 gains in reading times. [→ Pellicer-Sánchez 2016](#pellicer-sanchez-2016)

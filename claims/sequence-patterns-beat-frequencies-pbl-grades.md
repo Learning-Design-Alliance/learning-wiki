@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: mohammed-saqr-2023
     resource: "https://doi.org/10.1007/s11412-023-09385-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` An MLM predicting grades from frequencies of four session sequence clusters explained more variance (conditional R2 = 0.74) than frequency-based models (R2 total 0.65-0.71). [→ Mohammed Saqr 2023](#mohammed-saqr-2023)

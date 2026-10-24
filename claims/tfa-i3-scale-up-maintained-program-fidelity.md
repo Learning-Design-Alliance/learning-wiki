@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: zukiewicz-2015
     resource: "https://www.mathematica.org/publications/implementation-of-the-teach-for-america-investing-in-innovation-scaleup"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TFA generally maintained fidelity to its core program model during scale-up, with some small changes taking place in its pre-service training program. [→ Zukiewicz 2015](#zukiewicz-2015)

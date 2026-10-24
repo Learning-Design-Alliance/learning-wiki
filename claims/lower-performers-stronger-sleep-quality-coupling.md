@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: könen-2015
     resource: "https://doi.org/10.1111/jcpp.12296"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean performance level predicted the random effect of morning sleep quality on performance, indicating the sleep quality effect was particularly pronounced for children with lower average performance. [→ Könen 2015](#konen-2015)

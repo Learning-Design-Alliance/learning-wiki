@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1988
 sources:
   - id: ross-1988
     resource: "http://www.jstor.org/stable/30218252"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 1988 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For the high-density CBI group, reading comprehension was the first regression predictor of immediate posttest scores (simple r = .51, R2 = .26, p < .001), while pretest contributed weakly. [→ Ross 1988](#ross-1988)

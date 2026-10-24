@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: angela-johnson-2020
     resource: "https://www.nwea.org/research/publication/the-impact-of-english-learner-reclassification-on-high-school-reading-and-academic-progress/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reclassification in 8th grade had a fairly large negative effect on SAT reading, though the confidence interval of −0.27 to 0.05 SDs includes zero. [→ Angela Johnson 2020](#angela-johnson-2020)

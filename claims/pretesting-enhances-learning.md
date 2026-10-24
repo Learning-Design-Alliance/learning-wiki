@@ -8,6 +8,7 @@ generated:
 id: pretesting-enhances-learning
 aliases: [pretesting-improves-retention, retrieval-fails-without-encoding, pretesting-enhances-memory-tested-text]
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: richland-kornell-and-kao-2009
     resource: "https://doi.org/10.1037/a0016496"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r1`, 1 review `r3` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2023 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Attempting to answer questions about material before it has been taught — even when those attempts fail — improves later retention of that material relative to studying for the same time without a pretest, provided the attempt is followed by the answer or the instruction. The two multi-experiment laboratory studies recorded here (undergraduates; expository text, fictional trivia and word pairs) test retention, not transfer.
 <!-- deprecated wording (2026-10-05, overstated its evidence): ...improves retention and transfer of that material relative to studying without a pretest. --> The claim covers pre-instruction testing on *not-yet-learned* material; it is distinct from retrieval practice on already-learned material.

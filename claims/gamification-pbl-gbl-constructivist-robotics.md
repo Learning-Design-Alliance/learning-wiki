@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: syed-tanzim-mubarrat-2026
     resource: "https://doi.org/10.1145/3772318.3791338"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` PBL was more frequently used in gamified than in GBL studies (71.43% vs. 45.90%), a statistically significant association. [→ Syed Tanzim Mubarrat 2026](#syed-tanzim-mubarrat-2026)

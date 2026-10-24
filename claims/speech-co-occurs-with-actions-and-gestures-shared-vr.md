@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: wen-huang-2023
     resource: "https://doi.org/10.1007/s11412-023-09397-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 108 episodes of collaborative VR geometry work, actions on virtual objects and collaborative talk moves were intertwined, occurring simultaneously or sequentially. [→ Wen Huang 2023](#wen-huang-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: lemke-2023
     resource: "https://eric.ed.gov/?id=ED638519"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students in schools with the highest percentages of historically marginalized student groups were more likely to be ever below benchmark and to stay below benchmark from beginning to end of year than peers in schools with the lowest percentages. [→ Lemke 2023](#lemke-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: wenting-ma-2014
     resource: "https://doi.org/10.1037/a0037123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` Nine effect sizes from six publications comparing ITS to control groups receiving no instructional treatment showed a statistically significant weighted mean effect size of g = 1.23 under a random-effects model. [→ Wenting Ma 2014](#wenting-ma-2014)

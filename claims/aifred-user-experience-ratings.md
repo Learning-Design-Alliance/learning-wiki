@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: gregorio-orlando-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38737"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceived learning support was higher for AIfred (4.5/5 vs. 3.4/5, p<.001), as were innovation (4.5 vs. 3.5, p<.001) and user satisfaction (4.2 vs. 3.5, p=.04). [→ Gregorio Orlando 2026](#gregorio-orlando-2026)

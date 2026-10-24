@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: staci-wendt-2014
     resource: "https://nces.ed.gov/ccd/elsi/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the intent-to-treat analyses, second grades provided with ST Math had scale scores 8.09 points higher and significantly larger advanced and proficient-or-advanced proportions than matched comparison second grades; no statistically significant differences were found for grades 3, 4, or 5. [→ Staci Wendt 2014](#staci-wendt-2014)

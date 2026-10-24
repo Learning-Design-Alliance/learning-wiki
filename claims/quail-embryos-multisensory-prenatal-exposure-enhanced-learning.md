@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: wallace-2020
     resource: "https://doi.org/10.1146/annurev-psych-010419-051112"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Quail embryos exhibited enhanced learning and memory for a mother's call when prenatally exposed to synchronous multisensory but not asynchronous or unisensory information. [→ Wallace 2020](#wallace-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: shyjka-2022
     resource: "https://www.cps.edu/about/departments/talent/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Structures facilitating personalized, practice-focused collaboration around classroom observations were particularly impactful to teachers' practice improvement efforts, including peer observation paired with debriefing. [→ Shyjka 2022](#shyjka-2022)

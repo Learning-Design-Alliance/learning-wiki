@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-09
 sources:
   - id: steven-glazerman-2006
     resource: "https://www.mathematica.org/publications/school-principals-perspectives-on-the-passport-to-teaching"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a survey of their supervisors, administrators gave a generally positive assessment of American Board-certified teachers. [→ Steven Glazerman 2006](#steven-glazerman-2006)

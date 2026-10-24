@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: lipmann-1911
     resource: "https://doi.org/10.1037/h0070700"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Report-research shows reports are in general extremely unreliable, and misstatements increase markedly for children even when observers have no reason to lie. [→ Lipmann 1911](#lipmann-1911)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: frijters-2008
     resource: "https://doi.org/10.1016/j.learninstruc.2006.11.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Compared to the non-dialogic condition, the dialogic learning condition resulted in a more positive effect on students' critical-thinking competences in terms of generative fluency of reasoning. [→ Frijters 2008](#frijters-2008)

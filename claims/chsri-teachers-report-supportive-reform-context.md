@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2006
+recheck_by: 2009
 sources:
   - id: kahne-2006
     resource: "https://consortium.uchicago.edu/publications/small-schools-larger-scale-first-three-years-chicago-high-school-redesign-initiative"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: local conditions change quickly
 
 ## Subclaims
 `q2 i2` CHSRI teachers scored significantly higher on teacher-teacher trust (effect size = 0.37), collective responsibility (0.47), commitment to innovation (0.52), and teacher influence (0.83). [→ Kahne 2006](#kahne-2006)

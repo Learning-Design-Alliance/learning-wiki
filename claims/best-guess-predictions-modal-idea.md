@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: lyn-d-english-and-jane-m-watson-2015
     resource: "https://doi.org/10.1186/s40594-015-0016-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When choosing a best guess of the arm span and stating confidence, the most frequent response category (35%) was a modal idea, although the term mode was not used. [→ Lyn D English and Jane M Watson 2015](#lyn-d-english-and-jane-m-watson-2015)

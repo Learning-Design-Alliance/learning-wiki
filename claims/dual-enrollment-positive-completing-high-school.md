@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: what-works-clearinghouse-2017
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/671"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Two RCTs of early college high schools found statistically significant positive effects on high school graduation rates, including 5-year graduation rates. [→ What Works Clearinghouse 2017](#what-works-clearinghouse-2017)

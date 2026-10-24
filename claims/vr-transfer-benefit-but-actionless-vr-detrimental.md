@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: alexander-skulmowski-2024
     resource: "https://doi.org/10.1007/s10648-024-09869-y"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Makransky et al. (2019) found VR improved performance on movement-based transfer tests in security training compared to reading about security procedures, with positive effects on more tests than desktop VR. [→ Alexander Skulmowski 2024](#alexander-skulmowski-2024)

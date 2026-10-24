@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: luyao-zhu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.19088"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pairwise Spearman correlations across 30 models show coherent task groups (e.g., Object Count, Emotion Detection, and Scene Classification strongly correlated; Visual Clue Identification closely tracking Emotion Cause Inference), while Jigsaw Puzzle correlates weakly with most tasks, indicating MUSE captures related but non-redundant dimensions. [→ Luyao Zhu 2026](#luyao-zhu-2026)

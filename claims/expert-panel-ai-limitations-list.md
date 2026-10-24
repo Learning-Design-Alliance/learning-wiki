@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: roschelle-2020
     resource: "https://doi.org/10.51388/20.500.12265/106"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` A panel of 22 experts enumerated specific limitations of current AI in education, including dataset weaknesses, bias, lack of attention to equity and learner differences, tendency to fail non-gracefully, and difficulty integrating multiple AI capabilities. [→ Roschelle 2020](#roschelle-2020)

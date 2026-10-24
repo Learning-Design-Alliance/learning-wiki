@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: muthanna-2021
     resource: "https://doi.org/10.3390/ijerph18052209"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Children involved in bullying behaviour are significantly more likely to have low academic achievement (k = 14, OR = 0.61, 95% CI 0.47-0.79, p = 0.000). [→ Muthanna 2021](#muthanna-2021)

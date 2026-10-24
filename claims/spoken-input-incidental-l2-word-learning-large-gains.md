@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: de-vos-2018
     resource: "https://doi.org/10.1111/lang.12296"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 32 studies, meaning-focused exposure to spoken L2 input produced a significant mean learning gain of g = 1.05. [→ de Vos 2018](#de-vos-2018)

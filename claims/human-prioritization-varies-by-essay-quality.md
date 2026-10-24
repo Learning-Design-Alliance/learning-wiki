@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: steiss-2023
     resource: "https://eric.ed.gov/?q=Comparing+the+Quality+of+Human+and+ChatGPT+Feedback+on+Students+Writing"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Human raters showed a statistically significant difference in prioritization of essential features across essay quality levels (p = .002), with ratings of 4.44 for low-quality essays versus 3.79 and 3.84 for average- and high-scoring essays; other components did not vary. [→ Steiss 2023](#steiss-2023)

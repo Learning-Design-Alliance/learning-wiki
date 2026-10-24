@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: liu-2022
     resource: "https://doi.org/10.1007/s11251-021-09571-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A close relation was detected among scientific literacy post-test scores, critiquing performance, and inquiry performance in the inquiry activity. [→ Liu 2022](#liu-2022)

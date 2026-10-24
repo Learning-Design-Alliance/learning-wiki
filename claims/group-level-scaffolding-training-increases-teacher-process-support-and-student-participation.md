@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: calor-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2021.2024834"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · n=4 seventh-grade mathematics teachers (109 students, 14 groups per condition), 5 lessons each on Early Algebra, Amsterdam
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Mathematics teachers coached to use the Small-Group Scaffolding Tool diagnosed the group's collective understanding and handed responsibility back to the group significantly more often than untrained teachers, gave content support less often, and drew substantially more students into each small-group interaction — but did not improve the contingency (accuracy of calibration) of the content support they did give.
 

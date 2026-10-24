@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: bruzgulis-2019
     resource: "https://consortium.uchicago.edu/publications/challenges-facing-cps-administrators"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2017, 87 percent of administrators said mistrust between teachers and parents was only a partial roadblock or not a roadblock at all, while lack of parental support was a top roadblock for almost one-third of administrators. [→ Bruzgulis 2019](#bruzgulis-2019)

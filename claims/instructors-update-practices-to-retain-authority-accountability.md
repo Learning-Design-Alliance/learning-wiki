@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yanhong-zuo-2026
     resource: "https://doi.org/10.37074/jalt.2026.9.1.8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In response to power dynamics around Generative AI, many college instructors updated their teaching practices to retain their authority in class and promote student accountability for their own learning. [→ Yanhong Zuo 2026](#yanhong-zuo-2026)

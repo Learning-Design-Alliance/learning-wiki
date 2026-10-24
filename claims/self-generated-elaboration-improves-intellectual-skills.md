@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: xiong-2014
     resource: "https://doi.org/10.5539/jel.v3n4p1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy -->
 

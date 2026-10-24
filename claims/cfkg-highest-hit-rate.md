@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: bin-liu-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100678"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On offline hit rate, the CF–KG model outperforms all baselines, starting from 0.718 and reaching 0.751 at epoch 40, while MLP-DNN reaches 0.710 and DL 0.721. [→ Bin Liu 2026](#bin-liu-2026)

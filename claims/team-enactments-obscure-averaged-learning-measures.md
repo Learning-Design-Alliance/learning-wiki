@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: gerry-stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9148-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study combining algebra tutoring technology with scripting for small-group learning, different enactments by different teams can obscure statistical measures of learning that average across cases, so narrative analysis of specific cases provides incisive insight. [→ Gerry Stahl 2012](#gerry-stahl-2012)

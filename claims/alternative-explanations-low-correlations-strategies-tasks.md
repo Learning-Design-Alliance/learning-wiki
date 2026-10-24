@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-22
+recheck_by: 2014
 sources:
   - id: gonny-schellings-2011
     resource: "https://doi.org/10.1007/s11409-011-9069-5"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article argues that low correlations between questionnaires and think-aloud measures may arise because the compared methods target learning strategies different in content, or because a general questionnaire is compared with a think-aloud measure of one specific task. [→ Gonny Schellings 2011](#gonny-schellings-2011)

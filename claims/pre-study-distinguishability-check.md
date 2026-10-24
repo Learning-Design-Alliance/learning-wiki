@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: rolf-ploetzner-2021
     resource: "https://doi.org/10.1007/s11251-021-09541-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants correctly identified on average 18.53 of 20 moving links (92.65%) and 15.56 of 16 arrangements (97.25%). [→ Rolf Ploetzner 2021](#rolf-ploetzner-2021)

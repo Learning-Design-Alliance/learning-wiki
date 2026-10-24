@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: lindamood-phoneme-sequencing-lips-beginning-reading-2015
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/280"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Torgesen et al. (2010) found a statistically significant and substantively important positive effect of LiPS on WRMT-R Passage Comprehension compared to standard reading instruction alone (effect size 0.54, improvement index +20, p = .02). [→ Lindamood Phoneme Sequencing® (LiPS®): Beginning Reading 2015](#lindamood-phoneme-sequencing-lips-beginning-reading-2015)

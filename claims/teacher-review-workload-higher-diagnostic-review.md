@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yao-x-c-and-fan-l-2026
     title: Yao X-C and Fan L 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Review minutes were 10.06–10.79 per cycle in Diagnostic Review versus 7.82–8.28 in Control (g = 0.94–1.18), and review intensity g values reached 2.61–2.73. [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-08
+recheck_by: 2020
 sources:
   - id: hanley-chiang-2017
     resource: "https://ies.ed.gov/ncee/pubs"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Districts typically implemented most components of the performance-based compensation system throughout all four years of their programs, yet fewer than half the districts planned to keep offering performance bonuses after the grant ended. [→ Hanley Chiang 2017](#hanley-chiang-2017)

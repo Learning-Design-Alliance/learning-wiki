@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: s-vonschallen-2026
     resource: "https://doi.org/10.48550/arxiv.2602.12873"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most participants wanted the robot grounded in official lecturer-provided learning materials such as slides, exercises, podcasts, and literature. [→ S. Vonschallen 2026](#s-vonschallen-2026)

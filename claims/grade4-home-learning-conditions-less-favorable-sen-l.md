@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: rebecca-schneider-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102228"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Grade 4 SEN-L-R and SEN-L-S students had significantly less favorable home learning environments than non-SEN students, and parents of non-SEN students reported better support ability than parents of both SEN-L groups. [→ Rebecca Schneider 2025](#rebecca-schneider-2025)

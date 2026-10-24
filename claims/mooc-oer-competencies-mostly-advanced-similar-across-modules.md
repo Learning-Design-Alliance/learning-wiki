@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-18
+recheck_by: 2022
 sources:
   - id: garcía-lópez-2017
     resource: "https://doi.org/10.5539/ies.v10n4p78"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among 134 teachers completing the OER MOOC, advanced-level self-assessments ranged from 65.4% to 69.5% across the four modules, intermediate around 30.0%-31.5%, and basic between 0.5% and 3.9%. [→ García-López 2017](#garcia-lopez-2017)

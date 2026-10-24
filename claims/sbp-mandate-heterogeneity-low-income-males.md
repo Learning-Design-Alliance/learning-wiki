@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: frisvold-david-e-2015
     resource: "https://doi.org/10.1016/j.jpubeco.2014.12.003"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For low-income students with family income below $40,000, a binding mandate increases math achievement by 8.079 points (37.2 percent of a standard deviation), reading by 9.679 points (40.9 percent), and science by 7.148 points (52.5 percent), each larger than the all-student estimates. [→ Frisvold David E 2015](#frisvold-david-e-2015)

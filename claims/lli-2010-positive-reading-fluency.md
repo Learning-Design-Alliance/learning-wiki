@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: leveled-literacy-intervention-2017
     resource: "http://www.fountasandpinnell.com/intervention/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For the combined grades 1–2 sample on the DIBELS Oral Reading Fluency subtest, the WWC found a statistically significant positive difference favoring the LLI group, with effect size 0.27. [→ Leveled Literacy Intervention 2017](#leveled-literacy-intervention-2017)

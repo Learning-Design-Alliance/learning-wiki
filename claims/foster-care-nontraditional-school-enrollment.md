@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: barrat-2015
     resource: "http://www.azed.gov/research-evaluation/files/2013/11/2013-a-f-technical-manual.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across grades K–12, 11 percent of students in foster care attended nontraditional schools versus about 3 percent for other groups; in high school nearly a third did, versus 13 percent of low-SES and 9 percent of all students. [→ Barrat 2015](#barrat-2015)

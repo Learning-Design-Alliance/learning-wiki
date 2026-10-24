@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: sophie-oudman-2021
     resource: "https://doi.org/10.1007/s11409-021-09281-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On both multiplication and division tasks, skill group significantly predicted absolute monitoring accuracy before self-scoring, with high-performing students more accurate than low-performing students. [→ Sophie Oudman 2021](#sophie-oudman-2021)

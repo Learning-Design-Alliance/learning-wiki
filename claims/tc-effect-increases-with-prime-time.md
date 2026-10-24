@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: geng-yaoyao-2026
     resource: "https://doi.org/10.1007/s10936-026-10279-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The prime time × prime type interaction was significant, with the TC effect significantly larger in the 300 ms condition than in the 60 ms and 150 ms conditions. [→ Geng Yaoyao 2026](#geng-yaoyao-2026)

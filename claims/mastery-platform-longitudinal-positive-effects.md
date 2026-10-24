@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-18
 sources:
   - id: weatherholtz-2024
     resource: "https://doi.org/10.1007/978-3-031-72315-5_32"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using multi-year panel data with each student as their own control, platform usage showed positive treatment effects on standardized math test scores, replicating earlier cross-sectional findings. [→ Weatherholtz 2024](#weatherholtz-2024)

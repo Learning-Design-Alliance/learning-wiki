@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: bailey-drew-h-2014
     resource: "https://doi.org/10.1111/desc.12155"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After controlling for whole number magnitude knowledge and other first-grade variables, fraction arithmetic in middle school was uniquely predicted by whole number arithmetic in first grade, β = .29, p < .001. [→ Bailey Drew H. 2014](#bailey-drew-h-2014)

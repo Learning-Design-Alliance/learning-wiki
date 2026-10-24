@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: de-goede-2026
     resource: "https://doi.org/10.1371/journal.pone.0359553"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In debrief interviews, veterans reported the CIMI-M helped them express their experiences and its impact, and clinicians reported it fostered trust and informed treatment planning. [→ de Goede 2026](#de-goede-2026)

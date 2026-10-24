@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: linus-brunnström-lisa-palmqvist-2026
     resource: "https://doi.org/10.1080/02602938.2026.2731261"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In the authors' demonstration, the chatbot's initial essay-style answer met assignment criteria but organised relevant ideas without supporting relational understanding, remaining largely at the quantitative phase. [→ Linus Brunnström & Lisa Palmqvist 2026](#linus-brunnstrom-lisa-palmqvist-2026)

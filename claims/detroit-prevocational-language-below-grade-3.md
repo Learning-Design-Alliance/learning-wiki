@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: renshaw-1915
     resource: "https://www.jstor.org/journal/jeduapsy"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the Trabue Completion Test Language Scales, 75% of all pupils rated below the normal III grade level, and the lower quartile group rated below the median of the normal second grade. [→ Renshaw 1915](#renshaw-1915)

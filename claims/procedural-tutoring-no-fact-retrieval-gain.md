@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: powell-2009
     resource: "https://doi.org/10.1111/j.1540-5826.2008.01272.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Tutoring focused on two-digit procedural computation and estimation, though it embedded single-digit facts, did not promote automatic fact retrieval for either MD subtype. [→ Powell 2009](#powell-2009)

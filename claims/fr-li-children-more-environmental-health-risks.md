@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: dilnot-2017
     resource: "http://dx.doi.org/10.1017/S0954579416000134"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Family-risk (FR) and language-impaired (LI) status were each significantly associated with elevated risk indices, with no FR × LI interaction. [→ Dilnot 2017](#dilnot-2017)

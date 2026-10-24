@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fu-l-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1900061"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` All nine within-person cross-lagged paths from trust dimensions at Time 1 to fairness dimensions at Time 2 were statistically significant after partitioning out between-person trait variance. [→ Fu L 2026](#fu-l-2026)

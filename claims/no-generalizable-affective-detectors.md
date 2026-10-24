@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: affective-detectors
     title: affective-detectors
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Although affective detectors have been built for specific platforms, no generalizable approach exists to date for detecting students' affective states such as boredom in DLPs, per Baker's (2019) keynote challenge to the community. [→ affective-detectors](#affective-detectors)

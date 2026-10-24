@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zhao-qianhui-and-li-shuhui-2026
     resource: "https://doi.org/10.3390/bs16091626"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students mentioned 8 distinct GenAI roles (4 positive, 4 neutral); information retrieval/integration assistant and slide generation were mentioned by every student, but students expressed concerns about lack of achievement and engagement. [→ Zhao Qianhui and Li Shuhui 2026](#zhao-qianhui-and-li-shuhui-2026)

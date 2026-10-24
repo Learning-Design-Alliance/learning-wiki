@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-17
+recheck_by: 2029
 sources:
   - id: ilya-mikhelson-2026
     resource: "https://doi.org/10.48550/arxiv.2607.29624"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` A pilot engineering instructor reported the AI scaled cognitive burden dynamically, enabling differentiation at the D/F and A/B boundaries and presentation of stretch questions to the top quartile. [→ Ilya Mikhelson 2026](#ilya-mikhelson-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2007
 sources:
   - id: classwide-peer-tutoring-wwc-intervention-report-2007
     resource: "https://www.jgcp.ku.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The original study authors reported a statistically significant effect of CWPT on the Comprehensive Test of Basic Skills–Reading, but after WWC corrections for clustering the effect was not statistically significant, though the effect size of 0.35 remained substantively important. [→ ClassWide Peer Tutoring: WWC Intervention Report 2007](#classwide-peer-tutoring-wwc-intervention-report-2007)

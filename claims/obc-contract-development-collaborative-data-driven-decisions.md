@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-09
 sources:
   - id: f1-partnership
     title: f1-partnership
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-09 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Districts in the first edtech OBC cohort reported meaningful partnerships with providers that supported joint contract development. [→ f1-partnership](#f1-partnership)

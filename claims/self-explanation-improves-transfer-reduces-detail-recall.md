@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: bethany-rittle-johnson-abbey-m-loehr-2017
     resource: "https://doi.org/10.3758/s13423-016-1079-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prompting self-explanation improves transfer of general patterns to new tasks but reduces recall of item details, as shown in preschool causal-reasoning and adult category-learning experiments. [→ Bethany Rittle-Johnson & Abbey M. Loehr 2017](#bethany-rittle-johnson-abbey-m-loehr-2017)

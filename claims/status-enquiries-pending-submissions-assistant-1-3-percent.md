@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: gupta-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38967"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Status enquiries about the progress of a pending submission account for at least 20.4% of queries, and the retrieval-constrained AI assistant served only 1.3% of them because a stored answer cannot report an individual's current status. [→ Gupta 2026](#gupta-2026)

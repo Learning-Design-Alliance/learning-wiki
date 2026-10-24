@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: bialystok-ellen-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139691/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Language group differences in reaction time did not reach significance, though task effects showed the same patterns as accuracy data. [→ Bialystok Ellen 2011](#bialystok-ellen-2011)

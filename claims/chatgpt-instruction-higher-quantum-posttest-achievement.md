@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: saif-alneyadi-and-yousef-wardat-2024
     resource: "https://doi.org/10.18178/ijiet.2024.14.3.2061"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a quasi-experiment with 55 experimental and 57 control students, the ChatGPT group achieved significantly higher post-test scores than the control group on overall student achievement, with printed η² values the authors describe as large (exceeding 0.14). [→ Saif Alneyadi and Yousef Wardat 2024](#saif-alneyadi-and-yousef-wardat-2024)

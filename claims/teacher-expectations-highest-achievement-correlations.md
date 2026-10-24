@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: herbert-w-marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09768-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the preliminary correlation analysis, teacher expectations correlate 0.67 with test scores and 0.68 with GPA, more than other Year-10 expectation and aspiration variables. [→ Herbert W. Marsh 2023](#herbert-w-marsh-2023)

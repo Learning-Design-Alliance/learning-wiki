@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: evan-2019
     resource: "https://dcpcsb.egnyte.com/dl/hdsUO9pDbh/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Before turnaround one out of four Perry Street students were suspended, losing roughly 1,200 hours of instructional time; after turnaround the school reported not suspending a single student. [→ Evan 2019](#evan-2019)

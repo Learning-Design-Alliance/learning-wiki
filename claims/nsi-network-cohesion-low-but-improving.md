@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: evaluation-of-the-networks-for-school-improvement-initiative-interim-summary-report-2024
     resource: "https://www.rand.org/pubs/research_reports/RRA242-1.html"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Connections to intermediaries rose from 56 to 61 percent and school-to-school connections from 39 to 54 percent between 2020-21 and 2022-23, but density averaged 16 percent. [→ Evaluation of the Networks for School Improvement Initiative: Interim Summary Report 2024](#evaluation-of-the-networks-for-school-improvement-initiative-interim-summary-report-2024)

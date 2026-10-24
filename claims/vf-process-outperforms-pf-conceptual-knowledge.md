@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: christian-hartmann-2021
     resource: "https://doi.org/10.1007/s11251-020-09528-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who observed another student's complete problem-solving-and-failing process scored higher on the conceptual knowledge post-test than students who generated their own solution attempts. [→ Christian Hartmann 2021](#christian-hartmann-2021)

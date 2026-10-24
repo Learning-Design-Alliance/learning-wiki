@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: murray-2023
     resource: "https://osf.io/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Egger's regression test was significant for the course-embedded subset (t = -2.4, d.f. = 24, p = 0.025) but not for the isolated subset (t = 0.87, d.f. = 21, p = 0.394). [→ Murray 2023](#murray-2023)

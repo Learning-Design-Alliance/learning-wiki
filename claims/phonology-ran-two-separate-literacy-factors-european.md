@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: moll-2014
     resource: "https://doi.org/10.1016/j.learninstruc.2013.09.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Principal component analysis of the four predictor measures yielded a two-component solution separating phonological measures (phoneme deletion, digit span) from the two RAN measures. [→ Moll 2014](#moll-2014)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2030
 sources:
   - id: zachariah-2025
     resource: "https://doi.org/10.51388/20.500.12265/270"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the AAC&U survey, the biggest challenges college leaders identified were educator unfamiliarity with and resistance to GenAI tools, lack of training and support infrastructure, concerns about reduced learner learning, and security and safety concerns. [→ Zachariah 2025](#zachariah-2025)

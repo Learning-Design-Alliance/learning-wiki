@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: anderson-jason-r-2017
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7433257/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After controlling for carbohydrate intake and hypertension, proportion of Verrucomicrobia showed a positive association with Stroop Word performance (r=.36, p=.034) and trended toward a positive association with Stroop Color performance (rs=.31, p=.071). [→ Anderson Jason R. 2017](#anderson-jason-r-2017)

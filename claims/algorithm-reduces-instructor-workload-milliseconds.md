@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: brandon-pardi-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15572"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Creating teams manually took over 20 hours of instructor effort, whereas the algorithm produced higher-quality assignments in milliseconds. [→ Brandon Pardi 2026](#brandon-pardi-2026)

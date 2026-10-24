@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: vinicius-santana-gomes-2026
     resource: "https://doi.org/10.48550/arxiv.2606.01517"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` UCI/SEDET's 2024-to-2025 comparison shows average processing time falling from 34 to 17 days (−50%), cases processed rising from 256 to 336 (+31%), documents from 251 to 419 (+67%), technical reports from 66 to 122 (+85%), and dispatches from 102 to 163 (+60%). [→ Vinicius Santana Gomes 2026](#vinicius-santana-gomes-2026)

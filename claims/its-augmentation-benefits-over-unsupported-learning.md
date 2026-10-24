@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-22
 sources:
   - id: bauer-2025
     resource: "https://doi.org/10.1007/s10648-025-10020-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meta-analyses found medium to large learning benefits for ITS providing feedback and targeted hints compared to self-reliant learning without support, and small to medium gains compared to non-adaptive or less adaptive computer-assisted learning. [→ Bauer 2025](#bauer-2025)

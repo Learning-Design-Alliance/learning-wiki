@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1922
 sources:
   - id: gilliland-1922
     resource: "https://psycnet.apa.org/record/1922-02093-001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Combining speed and comprehension into ideas gained per second, rapid reading yielded 26 per cent more ideas per second than normal reading and slow reading 20 per cent fewer, a superiority shown by each of the four groups. [→ Gilliland 1922](#gilliland-1922)

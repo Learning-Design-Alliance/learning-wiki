@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2011
 sources:
   - id: sinopoli-2011
     resource: "https://doi.org/10.1037/a0024440"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Accuracy on the go task was significantly affected by reward, with greater percent correct in the NO condition relative to LOW and HIGH, but the effect was mediated by task version and order of administration. [→ Sinopoli 2011](#sinopoli-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: jiajia-song-2026
     resource: "https://doi.org/10.48550/arxiv.2603.26142"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a three-agent teachable-agent setting, coach-guided dialogue produces consistent and progressive accuracy gains, especially under moderate unlearning. [→ Jiajia Song 2026](#jiajia-song-2026)

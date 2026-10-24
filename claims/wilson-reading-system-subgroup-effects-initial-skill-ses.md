@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/546"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Subgroup analyses found statistically significant positive effects on WRMT-R word attack at posttest only for students with high initial word attack scores, students with high initial PPVT scores, and students not eligible for free/reduced lunch. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-21
 sources:
   - id: walls-2016
     resource: "https://doi.org/10.14434/josotl.v16i2.19217"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Bigatti et al. (2012) and Harper (2009), that adopting a multicultural approach has potential to increase cultural sensitivity among all students and reduce race-related stressors among ethnic minority students. [→ Walls 2016](#walls-2016)

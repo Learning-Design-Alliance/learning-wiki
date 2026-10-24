@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zaki-kurdya-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05842"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Across approximately 200 development-phase test inputs, interest guardrails rejected about 12% of submitted interests (including prompt injection attempts), assignment guardrails rejected about 8% of input documents, and output guardrails flagged about 3% of generated assignments. [→ Zaki Kurdya 2026](#zaki-kurdya-2026)

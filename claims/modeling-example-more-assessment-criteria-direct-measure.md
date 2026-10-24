@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: floris-m-van-blankenstein-2019
     resource: "https://doi.org/10.1007/s11251-019-09482-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the direct feedback measure, the modeling example condition generated significantly more feedback referring to assessment criteria than the practice condition (Mdn 7.00 vs 5.00). [→ Floris M. van Blankenstein 2019](#floris-m-van-blankenstein-2019)

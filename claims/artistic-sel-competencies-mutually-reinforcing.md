@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: camille-a-farrington-2018
     resource: "https://consortium.uchicago.edu/publications/arts-education-and-social-emotional-learning-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Social-emotional competencies affect and are affected by artistic competencies: art competency may depend on social-emotional competency, and social-emotional competencies contribute to developing artistic skills and knowledge. [→ Camille A. Farrington 2018](#camille-a-farrington-2018)

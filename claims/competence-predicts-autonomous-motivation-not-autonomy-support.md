@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: ahmed-a-and-sultan-a-2026
     title: Ahmed A and Sultan A 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a cross-sectional PLS-SEM model, perceived competence had a significant positive path to autonomous motivation for AI use (H4: β = 0.130, p < 0.05), an association that cannot show cause. [→ Ahmed A and Sultan A 2026](#ahmed-a-and-sultan-a-2026)

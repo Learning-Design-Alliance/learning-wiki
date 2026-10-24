@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: peter-reimann-2021
     resource: "https://doi.org/10.1007/s11412-021-09354-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A quasi-experimental within-subjects comparison with six teachers found that mirroring and guiding dashboards led to more teacher awareness and more targeted interventions than no dashboard. [→ Peter Reimann 2021](#peter-reimann-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: kunter-2008
     resource: "https://doi.org/10.1016/j.learninstruc.2008.06.008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Questionnaires assessed teachers' enthusiasm and instructional behaviours from both the teacher and the student perspective in a sample of 323 teachers and their 9th-grade classes. [→ Kunter 2008](#kunter-2008)

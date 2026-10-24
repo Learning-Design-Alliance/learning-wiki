@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: lisa-hasenbein-2024
     resource: "https://doi.org/10.1007/s11251-023-09646-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Compared with 20% hand-raising classmates, 65% (d = 0.60) and 80% (d = 1.24) conditions produced significantly higher perceived class performance levels, while 35% did not. [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

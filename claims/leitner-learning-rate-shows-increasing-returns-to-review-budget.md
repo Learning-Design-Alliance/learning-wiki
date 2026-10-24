@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The optimized learning rate plotted against review budget U (n = 5, θ = 0.01) is convex for low U, suggesting increasing returns as budget grows. [→ Reddy 2016](#reddy-2016)

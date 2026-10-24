@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: kenneth-r-koedinger-2012
     resource: "http://learnlab.org/datashop"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Geometry96-97 dataset, backward application of circle area (given the area, find the radius) showed lower performance (54%) than forward application (80%) and evidence of no transfer, unlike other area formulas. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)

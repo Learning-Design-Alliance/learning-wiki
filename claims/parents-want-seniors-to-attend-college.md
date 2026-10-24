@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
+recheck_by: 2011
 sources:
   - id: jenny-nagaoka-2006
     resource: "http://www.postsecondary.cps.k12.il.us/postsecond/opendoors.html"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Nearly 90 percent of seniors across Chicago public high schools reported their parents want them to go to college after graduation. [→ Jenny Nagaoka 2006](#jenny-nagaoka-2006)

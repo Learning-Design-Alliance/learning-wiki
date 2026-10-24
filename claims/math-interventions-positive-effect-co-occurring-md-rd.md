@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ellinor-waaland-2026
     resource: "https://doi.org/10.1007/s10648-026-10184-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The weighted mean treatment effect was large and significant (g = 0.47 with outliers; g = 0.52 without outliers). [→ Ellinor Waaland 2026](#ellinor-waaland-2026)

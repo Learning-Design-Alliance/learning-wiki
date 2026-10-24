@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: strohmaier-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102235"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only numerical problem difficulty significantly affected solution probability (OR = 0.30), while mathematical abilities (OR = 1.67) and linguistic abilities (OR = 1.35) were significantly associated with higher solution probabilities, with no significant ability interaction. [→ Strohmaier 2025](#strohmaier-2025)

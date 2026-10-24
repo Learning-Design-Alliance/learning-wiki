@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: the-appraisal-of-fear-appeals-as-a-challenge-or-a-threat-influences-a-subsequent-decline-or-increase-in-attainment-value-and-academic-self-efficacy-2014
     resource: "https://eric.ed.gov/?q=appraisal+of+fear+appeals+challenge+threat+attainment+value+academic+self-efficacy"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Gender was associated with challenge appraisal (β = .14), threat appraisal (β = .20), and T1 academic self-efficacy (β = -.13); year group was associated with threat appraisal (β = .13). [→ The appraisal of fear appeals as a challenge or a threat influences a subsequent decline or increase in attainment value and academic self-efficacy 2014](#the-appraisal-of-fear-appeals-as-a-challenge-or-a-threat-influences-a-subsequent-decline-or-increase-in-attainment-value-and-academic-self-efficacy-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: arthur-wwc-intervention-report-2006
     resource: "http://pbskids.org/arthur/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Arthur received the rating of potentially positive effects: at least one study showed a substantively important positive effect and no studies showed statistically significant or substantively important negative effects, but the criteria for positive effects were not met because there was only one study and it lacked a strong design. [→ Arthur (WWC Intervention Report) 2006](#arthur-wwc-intervention-report-2006)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: roderick-2021
     resource: "https://consortium.uchicago.edu/publications/the-preventable-failure"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High schools in the bottom quartile of Freshman OnTrack rates in 2005 improved from 45 percent on-track to 78 percent by 2013, an increase of 33 percentage points. [→ Roderick 2021](#roderick-2021)

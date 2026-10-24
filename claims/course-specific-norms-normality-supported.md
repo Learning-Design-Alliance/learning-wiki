@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-09
+recheck_by: 2022
 sources:
   - id: thum-2019
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-algebra-1-geometry-and-algebra-2-tests/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Normality was judged a reasonably good approximation for Algebra 1 from histograms, Q-Q plots, and CDFs, with similar graphs supporting Geometry and Algebra 2. [→ Thum 2019](#thum-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: moores-2011
     resource: "https://doi.org/10.1016/j.neuropsychologia.2011.10.005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average display durations differed significantly between the AwD and the control group, with AwD requiring longer durations (264ms vs. 246ms). [→ Moores 2011](#moores-2011)

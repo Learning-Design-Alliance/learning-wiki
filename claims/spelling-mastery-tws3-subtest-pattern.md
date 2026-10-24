@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: tws3-subtests
     title: tws3-subtests
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the supplemental findings for Darch et al. (2006), the TWS-3 Predictable Words subtest showed a larger effect (0.57, improvement index +22) than the Unpredictable Words subtest (0.11, +5), and the WWC-computed p-value of 0.07 for the Predictable Words subtest was not statistically significant. [→ tws3-subtests](#tws3-subtests)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mehelay-s-2026
     resource: "https://doi.org/10.1186/s12913-026-14964-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across successive advisory group meetings, feedback reshaped the framework: version 2 clarified actions using a gears metaphor, version 3 added the notion of disruption and emphasized white supremacy, and version 4 depicted oppression at internalized, interpersonal, and institutional levels. [→ Mehelay S 2026](#mehelay-s-2026)

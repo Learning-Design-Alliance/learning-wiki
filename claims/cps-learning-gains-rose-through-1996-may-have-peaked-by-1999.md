@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: john-q-easton-2000
     resource: "https://eric.ed.gov/?q=Annual+CPS+Test+Trend+Review+1999"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gains in all grades were consistently higher in 1996 than in 1994, indicating broad-based improvement in academic productivity in CPS elementary schools in that period. [→ John Q. Easton 2000](#john-q-easton-2000)

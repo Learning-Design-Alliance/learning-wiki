@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yizhou-zhou-2026
     resource: "https://doi.org/10.48550/arxiv.2605.08040"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The paper presents system design only, with no empirical results; profile accuracy against human experts and convergence to an accurate learner representation are untested. [→ Yizhou Zhou 2026](#yizhou-zhou-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ting-zhou-2026
     resource: "https://doi.org/10.1007/s10648-026-10160-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Some inhibition-word reading pairs show large associations, e.g., interference control with TOWRE word reading (r = .59). [→ Ting Zhou 2026](#ting-zhou-2026)

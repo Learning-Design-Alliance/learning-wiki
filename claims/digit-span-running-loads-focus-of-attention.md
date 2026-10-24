@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: gray-shelley-2016
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5157932/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the hybrid model allowing cross-loadings, digit span running was significantly and moderately related to the focus of attention factor but nonsignificantly and less strongly related to the phonological factor. [→ Gray Shelley 2016](#gray-shelley-2016)

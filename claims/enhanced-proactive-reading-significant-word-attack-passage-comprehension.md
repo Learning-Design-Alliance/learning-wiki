@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: enhanced-proactive-reading-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2006 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Statistically significant differences favoring the intervention group appeared on two of four reading measures, Word Attack (effect size 1.53) and Passage Comprehension (effect size 1.32). [→ Enhanced Proactive Reading 2006](#enhanced-proactive-reading-2006)

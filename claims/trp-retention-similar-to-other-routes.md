@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: tim-silva-2014
     resource: "https://www.mathematica.org/publications/teaching-residency-programs-a-multisite-look-at-a-new-model-to-prepare-teachers-for-highneed-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among novice teachers, TRP participants' retention in the same district (92 percent) was roughly the same as that of peers entering through different programs (90 percent). [→ Tim Silva 2014](#tim-silva-2014)

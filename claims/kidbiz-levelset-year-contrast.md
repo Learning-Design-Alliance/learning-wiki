@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: what-works-clearinghouse-2018
     resource: "https://whatworks.ed.gov"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a cluster randomized trial in grades 2–5, the LevelSet Lexile effect was statistically significant and negative in spring 2014 and statistically significant and positive in spring 2015; the two-year average was indeterminate. [→ What Works Clearinghouse 2018](#what-works-clearinghouse-2018)

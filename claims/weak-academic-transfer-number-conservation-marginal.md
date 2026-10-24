@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: honoré-n-2020
     title: Honoré N 2020
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant group×time interaction emerged for any academic task; a post-hoc t-test showed only a marginal difference in the Number Conservation Task (K3), t = 1.85, p = 0.067, favouring the experimental group. [→ Honoré N 2020](#honore-n-2020)

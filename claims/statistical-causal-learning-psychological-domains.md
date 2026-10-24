@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2017
 sources:
   - id: gopnik-2012
     resource: "https://doi.org/10.1037/a0028044"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Children as young as 20 months use statistical Bayesian reasoning to infer another person's desires. [→ Gopnik 2012](#gopnik-2012)

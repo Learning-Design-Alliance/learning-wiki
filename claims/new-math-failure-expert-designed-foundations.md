@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2001
 sources:
   - id: nathan-2001
     resource: "https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article attributes the failure of the 1950s New Math curriculum to mathematicians designing foundations around the logical organization of the domain, blinding them to the struggles of novice students and non-expert teachers. [→ Nathan 2001](#nathan-2001)

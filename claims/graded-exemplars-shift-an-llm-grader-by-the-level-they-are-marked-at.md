@@ -7,6 +7,8 @@ generated:
   at: 2026-10-19
 id: graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at
 evidence_strength:
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: porcaro-2026
     resource: "https://doi.org/10.5281/zenodo.23480844"
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
 Showing an LLM grader a small set of human-graded answers spanning the scale shifts its grade by the level those answers are marked at. On one model and draw that removed almost all of its generosity and left its agreement with the human grader unchanged; on a harsh second model the exemplars raised agreement (QWK +0.033 [+0.005, +0.068]) without resolvably moving bias. The shift comes from the grades attached to those answers, not from the extra context.

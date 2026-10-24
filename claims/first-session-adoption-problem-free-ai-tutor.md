@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shihao-yang-2026
     resource: "https://doi.org/10.48550/arxiv.2609.23958"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 14 of 52 AI-arm students who consented never held a single tutoring session, which the authors call a substantive finding about adoption rather than a nuisance. [→ Shihao Yang 2026](#shihao-yang-2026)

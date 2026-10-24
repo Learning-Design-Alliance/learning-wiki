@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
+recheck_by: 2012
 sources:
   - id: eric-j-isenberg-2007
     resource: "https://doi.org/10.1080/01619560701312996"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article surveys quantitative research on homeschooling spanning data availability, prevalence estimates, part-time homeschooling, and parental reasons. [→ Eric J. Isenberg 2007](#eric-j-isenberg-2007)

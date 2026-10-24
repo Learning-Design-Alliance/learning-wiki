@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: cui-2026
     resource: "https://doi.org/10.1186/s41239-026-00610-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Evaluation (M5) and Elaboration (M6) were significantly more prevalent in the intrinsic motivation group; Planning (M2) was significantly more frequent in the extrinsic group. [→ Cui 2026](#cui-2026)

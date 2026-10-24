@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-l-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1905037"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The indirect effect of social influence on AI dependence through perceived trust is significant (0.124, 95% CI 0.015–0.343), while the direct effect is not, supporting H7. [→ Liu L 2026](#liu-l-2026)

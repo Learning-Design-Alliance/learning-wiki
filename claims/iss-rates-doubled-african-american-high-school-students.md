@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2020
 sources:
   - id: stevens-2015
     resource: "https://consortium.uchicago.edu/publications/discipline-practices-chicago-schools-trends-use-suspensions-and-arrests"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` ISS rates for African American boys rose from 15 to 29 percent and for African American girls from 10 to 20 percent in high school, while other groups' rates stayed constant. [→ Stevens 2015](#stevens-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: gerry-stahl-2015
     resource: "https://doi.org/10.1007/s11412-015-9222-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Young children (about 8 years old) using the promising-ideas tool could identify and build upon promising ideas in their classroom knowledge-building discussions. [→ Gerry Stahl 2015](#gerry-stahl-2015)

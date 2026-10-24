@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: barbara-jones-2024
     resource: "https://csaa.wested.org/resource/introduction-to-the-extended-thinking-through-discourse-continuum/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Knowledge develops through social interaction, and English learners benefit from interacting meaningfully with English learner and monolingual English-speaking peers to build knowledge about intellectually rich content. [→ Barbara Jones 2024](#barbara-jones-2024)

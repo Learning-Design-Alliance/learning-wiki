@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: haataja-2021
     resource: "https://doi.org/10.1007/s10648-020-09538-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the three lessons, one-sided face-targeted gazes were more frequent than dyadic eye contacts, and student-started dyadic eye contacts were more common than teacher-started ones. [→ Haataja 2021](#haataja-2021)

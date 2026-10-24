@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-08
 sources:
   - id: owen-schochet-2026
     resource: "https://www.mathematica.org/publications/early-childhood-educator-pef-do-economic-returns-change-over-time"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although total program costs increased under the facility payment model adopted in FY 2024, the size and economic value of the program's benefits also increased. [→ Owen Schochet 2026](#owen-schochet-2026)

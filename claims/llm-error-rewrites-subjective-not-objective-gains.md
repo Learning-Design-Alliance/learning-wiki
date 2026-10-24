@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: alexandru-radu-moraru-2026
     resource: "https://doi.org/10.48550/arxiv.2608.20896"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants rated LLM-rewritten messages more favorably than standard interpreter messages, but objective outcomes such as fix rate, time-to-fix, and Fix@k did not provide strong evidence that rewritten messages improved repair performance. [→ Alexandru-Radu Moraru 2026](#alexandru-radu-moraru-2026)

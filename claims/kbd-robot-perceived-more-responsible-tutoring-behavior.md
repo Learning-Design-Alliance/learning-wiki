@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: stephan-vonschallen-2026
     resource: "https://doi.org/10.48550/arxiv.2607.22345"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a two-group between-subjects experiment, the KBD condition rated the robot significantly higher on perceived responsible behavior than the control condition (d = 0.930). [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)

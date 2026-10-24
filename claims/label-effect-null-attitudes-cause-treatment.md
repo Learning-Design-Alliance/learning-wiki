@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: franz-2023
     resource: "https://doi.org/10.1007/s10648-023-09716-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Label effects did not differ significantly from zero for attitudes toward the child (g = 0.21), evaluations of the cause of the student's problems (g = −0.23), and evaluations of treatment strategies (g = −0.20). [→ Franz 2023](#franz-2023)

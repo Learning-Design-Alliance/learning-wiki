@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: mosley-2022
     resource: "https://eric.ed.gov/?id=ED621228"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In a qualitative focus group and follow-up interviews, students described ways their home environments were more responsive than school environments to their needs as learners. [→ Mosley 2022](#mosley-2022)

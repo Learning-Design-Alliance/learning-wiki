@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: kollar-2006
     resource: "https://doi.org/10.1007/s10648-006-9007-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Learners' internal collaboration scripts are a further determinant of collaboration behavior that script research needs to consider. [→ Kollar 2006](#kollar-2006)

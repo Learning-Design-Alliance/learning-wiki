@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1980
+source_checked: 2026-10-20
 sources:
   - id: zechmeister-1980
     resource: "https://doi.org/10.3758/bf03329756"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1980 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean ratings of recall likelihood were significantly higher for twice-presented (DP) than once-presented (single) items, matching the direction of the recall advantage. [→ Zechmeister 1980](#zechmeister-1980)

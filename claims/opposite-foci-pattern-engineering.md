@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: iiskala-2021
     resource: "https://doi.org/10.1007/s11251-021-09558-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In engineering, the less successful group showed 73.2% high-level focus MR versus 50.7% in the more successful group, which equally regulated both high and low levels. [→ Iiskala 2021](#iiskala-2021)

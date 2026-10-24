@@ -8,6 +8,7 @@ generated:
 id: worked-example-problem-sequences
 aliases: [example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes, worked-examples-example-problem-sequences, example-problem-sequences-reduce-cognitive-load]
 evidence_strength: low
+newest_evidence: 2011
 sources:
   - id: van-gog-et-al-2011
     resource: "https://doi.org/10.1016/j.cedpsych.2010.10.004"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=96
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

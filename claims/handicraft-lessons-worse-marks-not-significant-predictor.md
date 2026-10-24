@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: olive-emil-wetter-2009
     resource: "https://doi.org/10.1007/s11251-008-9052-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Group 3 (handicraft, n=14) received significantly worse average marks than controls, t(79)=2.51, p<.05. [→ Olive Emil Wetter 2009](#olive-emil-wetter-2009)

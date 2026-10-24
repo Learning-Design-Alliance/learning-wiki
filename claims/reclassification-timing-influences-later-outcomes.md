@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: strengthening-english-learner-reclassification-in-california-2024
     resource: "https://nces.ed.gov/programs/coe/indicator/cgf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Numerous studies have illustrated that the timing of reclassification influences later outcomes, including high school graduation. [→ Strengthening English Learner Reclassification in California 2024](#strengthening-english-learner-reclassification-in-california-2024)

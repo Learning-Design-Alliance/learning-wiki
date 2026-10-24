@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: browning-2020
     resource: "https://eric.ed.gov/?id=ED610071"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r1`–`r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Educators may experience secondary traumatic stress from knowing about trauma experienced by students, and compassion fatigue from wanting to help traumatized students. [→ Browning 2020](#browning-2020)

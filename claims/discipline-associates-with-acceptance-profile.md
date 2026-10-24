@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: pei-hua-chen-2026
     resource: "https://doi.org/10.1186/s40594-026-00634-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i2` Profile membership differs by disciplinary background (χ²(3) = 36.20, p < .001, Cramer's V = 0.532), with STEM teachers concentrated in Technology Pioneers and non-STEM teachers overrepresented in Environmental Observers and Resistant Skeptics. [→ Pei-Hua Chen 2026](#pei-hua-chen-2026)

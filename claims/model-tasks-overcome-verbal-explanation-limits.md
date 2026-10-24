@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: saçkes-2015
     resource: "https://doi.org/10.12738/estp.2015.4.2741"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost half the children had difficulty providing verbal causal explanations, yet nearly all could give causal explanations during model manipulation and labeling tasks. [→ Saçkes 2015](#sackes-2015)

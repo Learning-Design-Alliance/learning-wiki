@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2020
 sources:
   - id: tino-endres-2020
     resource: "https://doi.org/10.1007/s11251-020-09526-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Free-recall practice led to better retention of non-targeted content sections than short-answer practice on the free-recall posttest, but not on the short-answer posttest. [→ Tino Endres 2020](#tino-endres-2020)

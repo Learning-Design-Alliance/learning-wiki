@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2000
+recheck_by: 2003
 sources:
   - id: national-board-for-professional-teaching-standards-national-teacher-certification-and-a-performance-based-assessment-system-2000
     resource: "https://eric.ed.gov/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: tool and model accuracy changes quickly
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 <!-- title before 2026-10-15: National Board certification identifies teachers who are more expert and whose students achieve deeper learning -->

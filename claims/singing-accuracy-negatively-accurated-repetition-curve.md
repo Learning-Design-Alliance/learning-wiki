@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wei-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1905847"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Mean correctness increased from 0.656 on the first practice of a pitch to 0.727 on the thirtieth, with the largest gains in the first ten repetitions; the article reports the standardized effect as small (Cohen's h ≈ 0.15). [→ Wei 2026](#wei-2026)

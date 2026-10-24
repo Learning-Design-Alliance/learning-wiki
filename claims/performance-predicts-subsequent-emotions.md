@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-24
 sources:
   - id: putwain-2021
     resource: "https://doi.org/10.1037/edu0000637"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` T2 mathematics test performance positively predicted T3 enjoyment and negatively predicted T3 boredom and anxiety, over and above autoregressive and cross-lagged relations; of the three emotions, only anxiety in turn predicted later performance. [→ Putwain 2021](#putwain-2021)

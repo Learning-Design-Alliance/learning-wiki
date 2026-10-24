@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: schildkraut-2019
     resource: "https://www.wested.org/resources/are-metal-detectors-effective-at-making-schools-safer"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Equipment costs range from $1,000 to $30,000 or more per unit, with devices best suited for schools at $4,000 to $5,000. [→ Schildkraut 2019](#schildkraut-2019)

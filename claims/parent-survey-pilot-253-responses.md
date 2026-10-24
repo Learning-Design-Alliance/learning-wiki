@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: ehrlich-2016
     resource: "http://consortium.uchicago.edu/surveys"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In the final spring 2015 pilot, the parent survey was administered on-site in seven school-based and nine center-based preschool sites, with 253 parents responding (139 in English and 114 in Spanish); 81 percent completed it online using tablets. [→ Ehrlich 2016](#ehrlich-2016)

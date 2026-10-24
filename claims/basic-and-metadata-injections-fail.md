@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: niklas-humble-2026
     resource: "https://doi.org/10.1007/s10805-026-09758-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Attempt 1 (instruction manipulation only) failed in all 9 iterations, with Copilot disabling the chat without reporting the attempt; attempt 2 changed the grade but referenced the hidden injection in its output; attempt 4 (metadata-hidden) failed in all 9 iterations. [→ Niklas Humble 2026](#niklas-humble-2026)

@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers showed strongly positive attitudes toward AI tools (mean = 4.92, SD = 0.86), low concern (mean = 2.14, SD = 0.89), high confidence in using AI tools (mean = 4.72, SD = 0.89), and strong institutional support (mean = 4.32, SD = 1.08). [→ descriptives](#descriptives)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: byrnes-c-2026
     resource: "https://doi.org/10.12688/hrbopenres.14332.2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Many children who require AAC do not have access to appropriate supports, and classroom implementation of AAC is challenging, creating barriers to meaningful participation, engagement and independence. [→ Byrnes C 2026](#byrnes-c-2026)

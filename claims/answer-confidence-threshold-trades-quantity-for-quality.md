@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the ablation study, raising the answer-confidence threshold from baseline to 95% halved retained MCQs (6,043 to about 2,856) while Phi-2–Gemini agreement on correct answers rose from kappa 0.67 to 0.91. [→ ablation-threshold-1](#ablation-threshold-1)

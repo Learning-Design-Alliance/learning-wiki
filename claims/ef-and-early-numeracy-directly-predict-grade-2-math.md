@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: mercader-j-2018
     title: Mercader J 2018
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a longitudinal SEM, latent Executive Functioning and latent Early Numeracy Skills both exert significant direct effects on latent Mathematical Performance two years later, with the model explaining R2 = 0.573 of its variance. [→ Mercader J 2018](#mercader-j-2018)

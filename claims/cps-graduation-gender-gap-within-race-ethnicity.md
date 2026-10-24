@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: mahaffie-2024
     resource: "https://toandthrough.uchicago.edu/tool/cps/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the 2019–20 ninth-grade cohort, young men graduated at lower rates than young women within each race/ethnicity group, with Black young men (78.2%) and Latino young men (82.8%) below the district average of 85.0%. [→ Mahaffie 2024](#mahaffie-2024)

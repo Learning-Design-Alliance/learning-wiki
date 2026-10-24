@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: taylor-2024
     resource: "https://files.eric.ed.gov/fulltext/ED593369.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After reviewing resource inequities related to English learners and students with disabilities, a district reallocated resources to allow differentiated professional learning emphasizing these specific areas. [→ Taylor 2024](#taylor-2024)

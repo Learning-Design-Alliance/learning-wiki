@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: yılmaz-2022
     resource: "https://doi.org/10.1016/j.compedu.2022.104548"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the whole sample and in the Turkish sample girls' SPSIC scores were significantly higher than boys', but no significant gender difference was found in the British sample. [→ Yılmaz 2022](#ylmaz-2022)

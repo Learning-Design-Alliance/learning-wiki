@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: nodine-2011
     resource: "http://knowledgecenter.completionbydesign.org/knowledge-center"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` First-year program entrants are more likely than peers who do not enter to complete a credential or transfer within five years of enrollment. [→ Nodine 2011](#nodine-2011)

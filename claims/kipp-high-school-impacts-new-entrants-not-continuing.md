@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: christina-clark-tuttle-2015
     resource: "https://www.mathematica.org/publications/executive-summary-understanding-the-effect-of-kipp-as-it-scales-volume-i-impacts-on-achievement"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For high school students new to the KIPP network, KIPP high schools have positive, statistically significant, and educationally meaningful impacts on achievement. [→ Christina Clark Tuttle 2015](#christina-clark-tuttle-2015)

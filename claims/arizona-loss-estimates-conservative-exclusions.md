@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: how-arizonas-dropout-crisis-affects-communities-2014
     resource: "https://eric.ed.gov/?id=ED559628"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The economic calculations exclude key impacts — broader health and psychological costs, family costs, community losses, and costs of inequality — making the estimates conservative. [→ How Arizona's Dropout Crisis Affects Communities 2014](#how-arizonas-dropout-crisis-affects-communities-2014)

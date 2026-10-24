@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: geary-david-c-2017
     resource: "https://doi.org/10.1037/edu0000159"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Overall domain-specific effects are more variable than domain-general effects, ranging from .315 to .551, with significant increases from grade 6 to 7 and 7 to 8 and a significant contrast between the smallest (grade 4) and largest (grade 8) effects. [→ Geary David C. 2017](#geary-david-c-2017)

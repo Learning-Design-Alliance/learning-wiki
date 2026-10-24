@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: map-growth-goal-explorer-user-guide-and-faq-2026
     resource: "https://www.nwea.org/research/publication/map-growth-goal-explorer-users-guide/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` In high school grades, particularly in reading, fall-to-spring growth rates are often close to zero and negative growth can be observed, so the tool may display negative average or aspirational growth. [→ MAP Growth Goal Explorer user guide and FAQ 2026](#map-growth-goal-explorer-user-guide-and-faq-2026)

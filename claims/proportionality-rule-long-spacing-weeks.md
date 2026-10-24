@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1980
+source_checked: 2026-10-19
 sources:
   - id: glenberg-1980
     resource: "https://doi.org/10.3758/bf03213772"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1980 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After a short retention interval, recall of between-lists repeated words with 0-day spacing (.42) exceeded recall of words with 7-day spacing (.24); after a 7-day retention interval this reversed, with .06 vs .14. [→ Glenberg 1980](#glenberg-1980)

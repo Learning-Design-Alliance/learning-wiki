@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: rogers-2025
     resource: "https://eric.ed.gov/?id=ED666666"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Job satisfaction and self-efficacy were consistently negatively related to principal burnout in quantitative analyses, and burnout tended to co-occur with stress. [→ Rogers 2025](#rogers-2025)

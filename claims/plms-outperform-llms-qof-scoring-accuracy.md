@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ivo-bueno-2026
     resource: "https://doi.org/10.48550/arxiv.2606.05180"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the NCTE Quality of Feedback scoring task, fine-tuned PLMs achieve lower error than prompted LLMs, but LLM predictions span the full 1–7 range while PLMs compress toward mid-scale scores. [→ Ivo Bueno 2026](#ivo-bueno-2026)

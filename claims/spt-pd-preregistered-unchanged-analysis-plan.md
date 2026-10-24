@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: hunter-gehlbach-2019
     resource: "https://osf.io/suhvj/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The analysis plan was registered prior to examination of the data or observing the outcomes, no changes were made to the preregistered primary confirmatory analysis, and all registered analyses are reported in the article. [→ Hunter Gehlbach 2019](#hunter-gehlbach-2019)

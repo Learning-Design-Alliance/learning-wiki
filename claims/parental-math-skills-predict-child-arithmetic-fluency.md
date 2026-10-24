@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: torppa-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102080"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mothers' and fathers' math skills significantly predicted children's Grade 1 arithmetic skills, and fathers' skills (but not mothers') remained a significant predictor of Grade 2 arithmetic fluency. [→ Torppa 2025](#torppa-2025)

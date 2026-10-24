@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: fong-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18274"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Independent t-tests showed raters scored significantly higher than AI on Emotional Support (mean difference .806, Cohen's d = 1.343, p < .001) and significantly lower on Instructional Support (mean difference -.284, d = .343, p = .043); Classroom Organization showed no significant difference (d = .019). [→ Fong 2026](#fong-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: prinz-weiß-2023
     resource: "https://doi.org/10.1007/s11409-022-09331-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Among high school students reading an expository text, greater anger, hopelessness, and negative emotions overall correlated with poorer text comprehension (small correlations), whereas none of the positive emotions were related to comprehension. [→ Prinz-Weiß 2023](#prinz-wei-2023)

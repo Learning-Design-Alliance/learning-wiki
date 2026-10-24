@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: bauer-2020
     resource: "https://doi.org/10.1016/j.learninstruc.2019.101271"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Open-ended self-derivation was strongly correlated with open-ended stem-fact recall within Session 1 in Experiment 1 (r = .66) and Experiment 2 (r = .79). [→ Bauer 2020](#bauer-2020)

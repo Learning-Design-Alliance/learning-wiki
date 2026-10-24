@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dongjie-yang-2026
     resource: "https://doi.org/10.48550/arxiv.2608.03952"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a blinded, within-participant Prolific study (n=50, 200 conversations), TACTutor achieved the highest mean score (5.54), within 0.09 points of both proprietary tutors, and was rated above its backbone across all four dimensions (+0.39 overall). [→ Dongjie Yang 2026](#dongjie-yang-2026)

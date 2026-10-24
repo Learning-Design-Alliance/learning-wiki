@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: jifan-yu-2024
     resource: "https://doi.org/10.48550/arxiv.2409.03512"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students tended to choose the continuous mode, in which agents conduct the class without interactive student input, to maintain their train of thought. [→ Jifan Yu 2024](#jifan-yu-2024)

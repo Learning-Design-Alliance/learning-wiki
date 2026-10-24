@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: kristin-reedy-2015
     resource: "https://eric.ed.gov/?id=ED559729"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among survey respondents, the share of schools at the initial implementation stage rose from 32.8% in 2012 to 72.4% in 2014, while the full implementation share remained stable at 8.3% in 2014. [→ Kristin Reedy 2015](#kristin-reedy-2015)

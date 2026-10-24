@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: gerry-stahl-2010
     resource: "https://doi.org/10.1007/s11412-010-9091-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Different factors interact with each other, complicating modeling of collaboration dimensions as independent factors, and moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation. [→ Gerry Stahl 2010](#gerry-stahl-2010)

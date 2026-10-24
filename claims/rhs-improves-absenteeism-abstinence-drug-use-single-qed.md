@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: hennessy-e-a-2018
     resource: "https://doi.org/10.4073/csr.2018.9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In the one included quasi‐experimental study, students in the RHS condition reported improvements in absenteeism (0.56, 95% CI [0.25, 0.87]), abstinence from alcohol/drugs (OR = 4.36), marijuana use (0.51), and other drug use (0.45) after adjusting for pretest values. [→ Hennessy E. A. 2018](#hennessy-e-a-2018)

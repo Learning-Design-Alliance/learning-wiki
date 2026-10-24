@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-10
 sources:
   - id: stereotype-threat
     title: stereotype-threat
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Stress from threats to emotional safety can cause stereotype threat, which interferes with working memory resources needed to think and learn, and in collaborative contexts may lead students to withdraw rather than contribute. [→ stereotype-threat](#stereotype-threat)

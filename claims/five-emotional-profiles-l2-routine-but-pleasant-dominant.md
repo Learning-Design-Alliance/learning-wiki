@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: peng-wang-2026
     resource: "https://doi.org/10.1007/s10648-026-10141-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Clustering momentary emotion reports from 92 adult L2 learners yielded five profiles: Stressful and Tedious (6.3%), Enjoyable and Relaxed (10.2%), Intense but Engaging (18.7%), Routine but Pleasant (57.8%), and Passive and Unengaging (7.0%). [→ Peng Wang 2026](#peng-wang-2026)

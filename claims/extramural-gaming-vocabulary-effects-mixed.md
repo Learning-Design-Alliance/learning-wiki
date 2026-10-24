@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: a-pradheepa-2025
     resource: "https://doi.org/10.29140/ajal.v8n1.2073"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Frequent gamers showed better L2 proficiency than moderate gamers and non-gamers, yet receptive extramural English activities negatively related to productive vocabulary scores. [→ A. Pradheepa 2025](#a-pradheepa-2025)

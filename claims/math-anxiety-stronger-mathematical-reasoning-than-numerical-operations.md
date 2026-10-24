@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: wu-ss-2012
     title: Wu SS 2012
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Math anxiety significantly and negatively correlated with Mathematical Reasoning (β = −0.34, p < 0.001) but not Numerical Operations (β = −0.18, p = 0.17) after controlling for trait anxiety and FSIQ. [→ Wu SS 2012](#wu-ss-2012)

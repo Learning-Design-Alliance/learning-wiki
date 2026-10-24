@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: schnaubert-2019
     resource: "https://doi.org/10.1007/s11412-018-9293-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Positive effects of cognitive group awareness tools are firmly established, but the awareness information used is inconsistent and rarely compared across types. [→ Schnaubert 2019](#schnaubert-2019)

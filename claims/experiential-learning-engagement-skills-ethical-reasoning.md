@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: patil-2020
     resource: "https://eric.ed.gov/?id=EJ1267932"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The literature review reports, citing Clem, Mennicke and Beasley (2014), that experiential learning increases student engagement, practical skill development and ethical reasoning and judgement in human services education. [→ Patil 2020](#patil-2020)

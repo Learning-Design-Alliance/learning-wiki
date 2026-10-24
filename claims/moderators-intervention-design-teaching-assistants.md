@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: donath-2025
     resource: "https://doi.org/10.1007/s10648-025-10081-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Intervention studies showed overall r = 0.35 versus r = 0.24 for cross-sectional studies, and a higher proportion of teaching assistants was associated with larger effects (β = 0.22). [→ Donath 2025](#donath-2025)

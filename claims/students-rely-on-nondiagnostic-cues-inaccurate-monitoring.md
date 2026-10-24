@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: van-de-pol-2024
     resource: "https://doi.org/10.1007/s11409-023-09349-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article (a conceptual and methodological framework with an explorative study) states in its background, citing Bol et al. (2010), Hacker et al. (2008), and Thiede et al. (2010), that students tend to rely on non-diagnostic cues such as text length, interest, or study effort rather than diagnostic performance cues, resulting in inaccurate judgments. [→ van de Pol 2024](#van-de-pol-2024)

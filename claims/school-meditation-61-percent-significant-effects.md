@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: lea-waters-2015
     resource: "https://doi.org/10.1007/s10648-014-9258-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of the effect sizes calculated across 15 peer-reviewed school meditation studies, 61% were statistically significant, with 67% small, 24% medium and 9% large effects. [→ Lea Waters 2015](#lea-waters-2015)

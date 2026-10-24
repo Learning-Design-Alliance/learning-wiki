@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: adama-2026
     resource: "https://doi.org/10.48550/arxiv.2606.18541"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` K-means analysis identified two clusters of 119 and 117 participants differing significantly on all three attitude factors (p<.0001): one less prepared, quite unconfident, and very interested in learning more; the other prepared, confident, and somewhat interested. [→ Adama 2026](#adama-2026)

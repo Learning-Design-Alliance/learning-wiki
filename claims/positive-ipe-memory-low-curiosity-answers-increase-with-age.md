@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: fandakova-yana-2021
     resource: "https://doi.org/10.1111/desc.13005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Trial-level mixed models showed IPE and curiosity each enhanced recall; for low-curiosity questions, the IPE effect on recall grew more pronounced with older age, while for high-curiosity questions no strong IPE or IPE-by-age effect emerged. [→ Fandakova Yana 2021](#fandakova-yana-2021)

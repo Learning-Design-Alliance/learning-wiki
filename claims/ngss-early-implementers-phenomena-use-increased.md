@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: tyler-2018
     resource: "https://eric.ed.gov/?id=ED596757"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percentage of surveyed teachers reporting weekly or more frequent use of phenomena rose from 17 percent in 2015-16 to 36 percent in 2016-17, while those using phenomena fewer than four times a year fell from 36 percent to 17 percent. [→ Tyler 2018](#tyler-2018)

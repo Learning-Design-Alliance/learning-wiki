@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: jarrar-hala-2026
     resource: "https://doi.org/10.1186/s12887-026-07161-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 70.7% of parents reported difficulty integrating AAC into the child's daily routine and 68.0% reported difficulty accessing AAC programs. [→ Jarrar Hala 2026](#jarrar-hala-2026)

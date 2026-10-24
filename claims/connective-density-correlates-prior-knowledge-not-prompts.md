@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: poquet-2026
     resource: "https://doi.org/10.48550/arxiv.2606.10434"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Across volume-based profiles, connective density varied significantly and correlated negatively with prior knowledge (r = -.30, p = 0.007) rather than with prompt count. [→ Poquet 2026](#poquet-2026)

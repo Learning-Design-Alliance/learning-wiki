@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 1995
+recheck_by: 1998
 sources:
   - id: eggleton-1995
     resource: "https://eric.ed.gov/?id=ED389592"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1998**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Over one year of preservice teacher education, Ken's philosophy of mathematics evolved subtly, adding problem solving, reasoning, and meaning to his original absolutist view rather than replacing it. [→ Eggleton 1995](#eggleton-1995)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: pierre-haritz-2026
     resource: "https://doi.org/10.48550/arxiv.2609.02453"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article reports, citing Chiang and Yin, that literacy interventions cause users to become more discerning rather than more trusting, relying on models when they perform well and withholding trust when outputs are uncertain or flawed. [→ Pierre Haritz 2026](#pierre-haritz-2026)

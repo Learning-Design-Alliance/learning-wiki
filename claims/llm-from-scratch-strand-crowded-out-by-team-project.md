@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yusuf-pisan-2026
     resource: "https://doi.org/10.48550/arxiv.2608.05175"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q1 i?` When class time ran short in the back half of the quarter, the time set aside for the LLM-from-scratch strand went to the team projects, and what survived of the strand was an optional reading. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)

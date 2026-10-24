@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: fuchs-2024
     resource: "https://doi.org/10.1037/edu0000911"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` WP.INT produced significant acquisition effects on both WP Solutions and WP Retell outcomes versus control, with g = 1.36 and 1.05. [→ Fuchs 2024](#fuchs-2024)

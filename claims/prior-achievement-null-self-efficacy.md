@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ramadoni-2022
     resource: "https://doi.org/10.47750/pegegog.12.03.17"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior achievement level showed no significant effect on self-efficacy, F(2,64)=1.59, p=.213, partial η2=.047. [→ Ramadoni 2022](#ramadoni-2022)

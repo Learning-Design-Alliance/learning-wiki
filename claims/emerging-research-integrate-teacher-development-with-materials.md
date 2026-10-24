@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: jane-choi-2017
     resource: "https://www.mathematica.org/publications/transforming-teachers-practice-the-impact-of-el-educations-english-language-arts-curriculum"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Emerging research suggests the need to integrate teachers' knowledge and skill development with instructional materials, and further evidence is necessary to support the effectiveness of such an approach. [→ Jane Choi 2017](#jane-choi-2017)

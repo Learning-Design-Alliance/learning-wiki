@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sidorkin-2026
     resource: "https://doi.org/10.55982/openpraxis.18.3.1141"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across five rated functions on a 4-point effectiveness scale, assignment support received the strongest rating (83% Effective/Very Effective; M = 3.38, SD = 0.77) and assessing knowledge and skills the weakest (71%), the only function with any Not effective selections. [→ Sidorkin 2026](#sidorkin-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: master-2021
     resource: "https://doi.org/10.1073/pnas.2100030118"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A 2 (stereotype presence) × 2 (gender) ANOVA on interest in a computer science activity showed a significant interaction, F(1,120) = 7.22, P = 0.008, ηp2 = 0.06. [→ Master 2021](#master-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: broadbent-2023
     resource: "https://doi.org/10.1007/s11409-022-09319-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` SRL-O self-efficacy correlated strongly and positively with MSLQ self-efficacy (r = .658), and SRL-O negative achievement emotion correlated positively with MSLQ test anxiety (r = .463) and negatively with most other MSLQ scales. [→ Broadbent 2023](#broadbent-2023)

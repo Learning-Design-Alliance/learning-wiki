@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1913
 sources:
   - id: winch-1913
     resource: "https://www.jstor.org/stable/1412810"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Standard II boys learning 30 words by a combined visual, motor-articulatory, and auditory method with directed attention spelled significantly more words correctly (average 17.6) than comparable boys learning 30 words by a predominantly visual silent method (average 15.8), with the difference 5 times its probable error. [→ Winch 1913](#winch-1913)

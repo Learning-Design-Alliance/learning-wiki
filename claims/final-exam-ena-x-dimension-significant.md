@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: raković-2023
     resource: "https://doi.org/10.18608/jla.2023.7843"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` t-tests showed a significant difference between final-exam performance groups on ENA dimension X (t = −2.163, p = 0.035, Cohen's d = −0.451) but not on dimension Y (d = −0.056). [→ Raković 2023](#rakovic-2023)

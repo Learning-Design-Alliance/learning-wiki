@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: michelle-l-rivers-2025
     resource: "https://doi.org/10.1007/s10648-025-10040-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` For participants who practiced and were tested on definitions, gains per minute were larger for covert retrieval than overt retrieval (gav = 1.30) and restudy (gav = 1.45). [→ Michelle L. Rivers 2025](#michelle-l-rivers-2025)

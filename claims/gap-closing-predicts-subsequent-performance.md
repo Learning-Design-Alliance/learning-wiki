@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: spitzer-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102181"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a linear regression controlling for baseline performance, closing knowledge gaps between the baseline and end periods positively predicted end performance (b = 0.11, p < .001). [→ Spitzer 2025](#spitzer-2025)

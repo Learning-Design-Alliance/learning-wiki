@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: benjamin-lira-2025
     resource: "https://doi.org/10.48550/arxiv.2502.02880"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Shown the Study 2 design, 64.7% of forecasters ranked practicing alone above practicing with AI, versus 35.3% the converse (χ²(1)=12.9, p<.001). [→ Benjamin Lira 2025](#benjamin-lira-2025)

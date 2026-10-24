@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: avvisati-2020
     resource: "https://doi.org/10.1007/s10648-020-09520-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students randomly assigned to practice tests with more mathematics content scored higher on a subsequent mathematics test, with 1 hour of additional mathematics practice improving scores by about 2% of a standard deviation (b = 2.29, SE = 0.84, p = 0.007). [→ Avvisati 2020](#avvisati-2020)

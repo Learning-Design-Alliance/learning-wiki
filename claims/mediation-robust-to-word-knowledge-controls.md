@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: weisleder-adriana-2013
     resource: "https://doi.org/10.1177/0956797613488145"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` After removing trials with words parents reported the child did not understand, the mediation pattern remained (CDS-efficiency r = 0.40; efficiency-vocabulary r = 0.53; path reduced from 12.61 to 8.75). [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

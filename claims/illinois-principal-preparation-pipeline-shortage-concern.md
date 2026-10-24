@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: klostermann-2015
     resource: "https://consortium.uchicago.edu/publications/restructuring-principal-preparation-illinois-perspectives-implementation-successes"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Lower enrollment in principal preparation programs is expected to eventually lead to more constriction of the principal pipeline than initially envisioned, leading to shortages of qualified candidates. [→ Klostermann 2015](#klostermann-2015)

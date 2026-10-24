@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: zhao-yan-2025
     resource: "https://doi.org/10.3390/jintelligence13120160"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The between-groups moderating effect of instructional method is non-significant (Q = 2.918, p = 0.232); subgroup effects are PBL ES = 0.717, blended ES = 0.525, lecture-based ES = 0.396 (non-significant). [→ Zhao Yan 2025](#zhao-yan-2025)

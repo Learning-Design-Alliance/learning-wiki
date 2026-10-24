@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: carolyn-rosé-2021
     resource: "https://doi.org/10.1007/s11412-021-09360-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The editors report an experimental manipulation of affordances through device-to-student ratio and scripting, with analysis across role emergence, role coordination, and group structure revealing a dichotomy between efficient collaboration and internal coordination and close interaction. [→ Carolyn Rosé 2021](#carolyn-rose-2021)

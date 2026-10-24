@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: fabian-wolff-2026
     resource: "https://doi.org/10.1007/s10648-026-10212-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that negative between-domain effects have been found particularly among secondary school students, whereas findings for primary school students in lower grades were less consistent. [→ Fabian Wolff 2026](#fabian-wolff-2026)

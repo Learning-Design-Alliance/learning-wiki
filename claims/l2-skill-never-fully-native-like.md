@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-20
+recheck_by: 2015
 sources:
   - id: bill-vanpatten-2010
     resource: "https://doi.org/10.6018/ijes/2010/1/113951"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 <!-- title before 2026-10-15: L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions -->
 
 ## Subclaims

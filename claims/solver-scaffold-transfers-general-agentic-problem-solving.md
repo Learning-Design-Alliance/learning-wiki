@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bingxi-zhao-2026
     resource: "https://doi.org/10.48550/arxiv.2604.26962"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` With the Hybrid Personalization Engine disabled, the solver-only pipeline improves all five backbone families across HLE, GPQA-Diamond, LiveBench, GAIA, and AA-LCR, with average relative gains ranging from 25.69% to 32.03%. [→ Bingxi Zhao 2026](#bingxi-zhao-2026)

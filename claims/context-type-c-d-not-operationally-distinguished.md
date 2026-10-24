@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: qiang-liu-and-chunyi-zhao-2026
     resource: "https://doi.org/10.48550/arxiv.2609.25504"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Despite intended definitions separating regionally situated (Type C) from both temporally and regionally situated (Type D) claims, the stored era and region fields cannot distinguish them, so the taxonomy part is provisional. [→ Qiang Liu and Chunyi Zhao 2026](#qiang-liu-and-chunyi-zhao-2026)

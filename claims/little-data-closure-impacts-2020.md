@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: megan-kuhfeld-2020
     resource: "https://www.nwea.org/research/publication/projecting-the-impact-of-the-covid-19-spring-school-closures-on-student-learning/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` As of spring 2020, education leaders had little data on the impacts of school closures on learning. [→ Megan Kuhfeld 2020](#megan-kuhfeld-2020)

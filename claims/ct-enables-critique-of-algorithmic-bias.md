@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: bias-critique
     title: bias-critique
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The report argues that CT skills equip students to discuss and critique how computing systems impact social equality, using authentic examples such as gender bias in Gmail Smart Compose and error rates for marginalized groups in facial and speech recognition. [→ bias-critique](#bias-critique)

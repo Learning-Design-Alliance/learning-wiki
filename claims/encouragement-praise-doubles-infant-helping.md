@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: dahl-a-2019
     resource: "https://doi.org/10.1177/0963721419830386"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among 13- and 14-month-olds, prior encouragement and praise made infants twice as likely to hand back a dropped object to an experimenter, demonstrating a causal influence of adult support on infant helping. [→ Dahl A. 2019](#dahl-a-2019)

@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: cognitive-flexibility-theory-multiple-cases
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: jacobson-spiro-1995
     resource: "https://doi.org/10.2190/4T1B-HBP0-3F7E-J4PN"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 Cognitive Flexibility Theory holds that ill-structured domains — where concepts vary unpredictably across situations — require learners to encounter the same content in multiple cases and from multiple conceptual perspectives, so knowledge is assembled flexibly rather than stored as a single oversimplified schema.
 

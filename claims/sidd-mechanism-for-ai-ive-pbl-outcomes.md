@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jin-2026
     resource: "https://doi.org/10.58459/rptel.2027.22029"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article attributes the AI-IVE-PBL model's enhanced learning outcomes to its fostering of sustained idea-developing discourse (SIDD). [→ Jin 2026](#jin-2026)

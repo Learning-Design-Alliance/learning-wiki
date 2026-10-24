@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: anna-ostrowska-2026
     resource: "https://doi.org/10.24963/ijcai.2026/984"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across both disciplines, Gemini Flash 2.0 was chosen for production due to its superior faithfulness and speed-to-cost ratio compared to GPT-4o-mini and Llama 3.1. [→ Anna Ostrowska 2026](#anna-ostrowska-2026)

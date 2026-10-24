@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: alexander-koch-2015
     resource: "https://doi.org/10.1016/j.jebo.2014.09.005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Having a high rank in class at age 11 predicts secondary achievement at age 14, controlling for prior test scores and school and pupil effects. [→ Alexander Koch 2015](#alexander-koch-2015)

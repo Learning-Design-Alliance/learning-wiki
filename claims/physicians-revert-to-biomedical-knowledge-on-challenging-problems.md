@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: woods-2007
     resource: "https://doi.org/10.1007/s10459-006-9054-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies of clinical reasoning find that physicians revert to use of basic biomedical knowledge when faced with challenging clinical problems. [→ Woods 2007](#woods-2007)

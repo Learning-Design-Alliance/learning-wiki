@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: blair-2015
     resource: "https://doi.org/10.1146/annurev-psych-010814-015221"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A large cluster randomized trial of the kindergarten Tools of the Mind curriculum found substantial effects (ES = 0.30–0.80) on vocabulary, reasoning, and attention in high-poverty schools, but a prekindergarten evaluation found no effects. [→ Blair 2015](#blair-2015)

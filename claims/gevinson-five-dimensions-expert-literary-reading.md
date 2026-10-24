@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 1992
+recheck_by: 1997
 sources:
   - id: smagorinsky-1992
     resource: "https://doi.org/10.3102/00346543062003279"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1992 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1997**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Despite differences in training, speciality, critical allegiance, age, and gender, expert readers shared a conception of literary understanding, and a follow-up analysis identified five dimensions of expert behavior: stance; sense of the whole; declarative knowledge base; procedural knowledge base; and attitudes, habits and beliefs. [→ Smagorinsky 1992](#smagorinsky-1992)

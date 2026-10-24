@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: arnold-2025
     resource: "https://eric.ed.gov/?id=ED673562"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Poor assessment practices can harm students through increased anxiety, lost learning time from over-testing, and damaging deficit-based messages, with particular impact on vulnerable students including those with disabilities. [→ Arnold 2025](#arnold-2025)

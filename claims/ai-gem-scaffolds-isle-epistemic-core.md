@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: eugenio-tufino-2026
     resource: "https://doi.org/10.48550/arxiv.2607.21349"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A purpose-configured AI facilitator named experiment types, demanded multiple explanations and predictions before tests, and in one case restored the epistemic order students had inverted. [→ Eugenio Tufino 2026](#eugenio-tufino-2026)

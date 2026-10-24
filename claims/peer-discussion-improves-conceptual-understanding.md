@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: peer-discussion-improves-conceptual-understanding
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: smith-et-al-2009
     resource: "https://doi.org/10.1126/science.1165919"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`
+> **Currency** · newest study 2011 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Structured discussion with peers — articulating reasoning, confronting alternative ideas, and negotiating shared understanding — deepens conceptual learning beyond what passive reception achieves. The claim is scoped to *conceptual* outcomes (explanations, transfer, misconception resolution), not procedural fluency or recall.
 

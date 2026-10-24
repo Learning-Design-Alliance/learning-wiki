@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: he-2020
     resource: "https://www.nwea.org/research/publication/map-growth-k-2-item-fit-analysis-study-a-follow-up-study/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The same fit findings were observed for both the AllYr sample (all exposure years Fall 2015–Fall 2020) and the LatestYr sample (Fall 2019–Fall 2020). [→ He 2020](#he-2020)

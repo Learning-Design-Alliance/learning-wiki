@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: blackburne-lk-2014
     title: Blackburne LK 2014
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The N170 group x condition interaction was significant; adults showed a more negative-going wave for reversed than typical letters, whereas children's conditions did not differ significantly. [→ Blackburne LK 2014](#blackburne-lk-2014)

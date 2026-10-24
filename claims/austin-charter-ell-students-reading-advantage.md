@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: credo-2022
     resource: "https://credo.stanford.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i0` negligible
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i0` Austin charter ELL students outgrew district ELL students by 0.06 SD (35 days) in reading, significant at p<0.05; the math difference (0.08 SD, 44 days) was not marked significant. [→ CREDO 2022](#credo-2022)

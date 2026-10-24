@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: davis-2010
     resource: "https://doi.org/10.1037/a0018428"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Study 2, the frequency of changing goals versus thoughts differed across emotions: changing goals was reported most for sadness and changing thoughts most for fear. [→ Davis 2010](#davis-2010)

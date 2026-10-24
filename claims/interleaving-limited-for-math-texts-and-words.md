@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2019
 sources:
   - id: brunmair-2019
     resource: "https://doi.org/10.1037/bul0000209"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q4` · `i1` small
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Mathematical tasks showed a small positive interleaving effect (g = 0.34), expository texts showed no significant effect, and words showed a negative effect favoring blocking (g = -0.39). [→ Brunmair 2019](#brunmair-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: yael-feldman-maggor-2025
     resource: "https://doi.org/10.1007/s40593-025-00486-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` For three of eleven think-aloud teachers, understandability alone did not establish trust; they reported that real classroom experience with results aligning with expectations is needed. [→ Yael Feldman-Maggor 2025](#yael-feldman-maggor-2025)

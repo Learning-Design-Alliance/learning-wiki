@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: melnick-2018
     resource: "https://learningpolicyinstitute.org/product/early-learning-ca"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` California's various ECE programs are held to very different quality standards, which the report says can mean that children of similar age and need receive very different early learning opportunities even within the publicly funded system. [→ Melnick 2018](#melnick-2018)

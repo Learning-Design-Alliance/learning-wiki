@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: arshad-a-2026
     title: Arshad A 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Critical thinking correlates negatively with cognitive load (r = −0.19, p < 0.01), and cognitive load correlates negatively with self-regulated learning (r = −0.16, p < 0.05), while critical thinking correlates positively with self-regulated learning (r = 0.62, p < 0.01). [→ Arshad A 2026](#arshad-a-2026)

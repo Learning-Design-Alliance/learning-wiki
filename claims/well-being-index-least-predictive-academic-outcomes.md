@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: marrone-2024
     resource: "https://doi.org/10.18608/jla.2024.8357"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` The Well-being index shows the smallest associations with academic outcomes of the three WEC indexes, with effect sizes in the hundredth of a standard deviation range. [→ Marrone 2024](#marrone-2024)

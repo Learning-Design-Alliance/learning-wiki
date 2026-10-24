@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: judith-schweppe-ralf-rummer-2015
     resource: "https://doi.org/10.1007/s10648-015-9336-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Involuntary attention allocation (driven by stimulus saliency or novelty) underlies the signaling and coherence principles, while voluntary allocation underlies the split-attention principle. [→ Judith Schweppe & Ralf Rummer 2015](#judith-schweppe-ralf-rummer-2015)

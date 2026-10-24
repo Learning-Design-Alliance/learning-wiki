@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: chen-x-2026
     title: Chen X 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Student-level bounded–open effect sizes at Week 8 were large for writing quality (g = 0.83), higher-order thinking (g = 1.07), argument depth (g = 1.21), and independent revision quality (g = 1.17). [→ Chen X 2026](#chen-x-2026)

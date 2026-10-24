@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: constance-steinkuehler-2008
     resource: "https://doi.org/10.1007/s10956-008-9120-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The only moderately strong and non-obvious relationship between scientific habits of mind codes and WoW content codes was between systems-based reasoning (and understanding feedback) and discussion of the priest talent tree (r = 0.48 and 0.42, respectively). [→ Constance Steinkuehler 2008](#constance-steinkuehler-2008)

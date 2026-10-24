@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: julia-a-gwynne-and-sarah-cashdollar-2018
     resource: "https://consortium.uchicago.edu/publications/changes-math-instruction-and-student-outcomes-implementation-common-core-state"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High schools with extensive PD improved about 0.15 standard deviations in rigor and teacher support, closing a preexisting gap with limited-PD schools. [→ Julia A. Gwynne and Sarah Cashdollar 2018](#julia-a-gwynne-and-sarah-cashdollar-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: den-heijer-2017
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` After 8 weeks of water aerobic and perceptual-motor exercise, children with ADHD showed improved no-go accuracy (d = 0.9) on a Go/No-Go Task, while the wait-list control group did not improve (d = -0.04). [→ Den Heijer 2017](#den-heijer-2017)

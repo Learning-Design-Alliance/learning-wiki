@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: davis-2010
     resource: "https://doi.org/10.1037/a0018428"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In Study 1, 52% of kindergarten children reported at least one metacognitive regulation strategy (changing thoughts or goals) for story protagonists. [→ Davis 2010](#davis-2010)

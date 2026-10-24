@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: buehler-2021
     resource: "https://doi.org/10.1007/s11409-021-09261-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Study 2, native speakers significantly outperformed non-native speakers on open-ended text comprehension questions, F(1, 70) = 11.36; p < 0.01; η2p = 0.14. [→ Buehler 2021](#buehler-2021)

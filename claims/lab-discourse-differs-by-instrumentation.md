@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: jonte-bernhard-2018
     resource: "https://doi.org/10.1007/s11251-018-9469-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Video analysis of the three labs shows discourse focused on reading numbers (photogates), interpreting dots (tape timer) or making sense of position, velocity and acceleration (probeware). [→ Jonte Bernhard 2018](#jonte-bernhard-2018)

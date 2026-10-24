@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: shusterman-anna-2016
     resource: "https://doi.org/10.1371/journal.pone.0153072"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Session x Jump Category interaction was significant: children who jumped from subset-knower to CP-knower showed the biggest change in w (Δw = -0.455) versus CP-Non-Mapper-to-Mapper (Δw = -0.069) and Subset-to-Subset (Δw = 0.001). [→ Shusterman Anna 2016](#shusterman-anna-2016)

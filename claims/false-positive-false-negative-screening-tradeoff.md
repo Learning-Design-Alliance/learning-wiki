@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: keles-2025
     resource: "https://doi.org/10.1007/s10648-025-10077-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that false positives (students incorrectly classified as at-risk) can lead to unnecessary Tier 2 or Tier 3 assignment, while false negatives (at-risk students classified as not-at-risk) may cause students to miss early intervention opportunities. [→ Keles 2025](#keles-2025)

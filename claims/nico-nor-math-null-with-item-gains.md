@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2023
+source_checked: 2026-10-18
 sources:
   - id: math-null-1
     title: math-null-1
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analyses of math data showed no significant difference overall between intervention and comparison children. [→ math-null-1](#math-null-1)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: mørch-2024
     resource: "https://doi.org/10.1007/s11412-024-09432-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When group members used different names for the same building block (cobblestone), reaching a shared understanding of the Minecraft items inventory let them distribute the work and build different parts of the building in parallel. [→ Mørch 2024](#mrch-2024)

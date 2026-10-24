@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: tongxi-liu-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100565"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Llama, GPT-4.1, Gemini, and Claude ranked lexical features first in cumulative effect size (0.366-1.194), whereas DeepSeek R1 prioritized syntactic complexity as its most influential domain (0.978). [→ Tongxi Liu 2026](#tongxi-liu-2026)

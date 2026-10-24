@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-16
 sources:
   - id: lin-j-and-al-hada-nm-2026
     title: Lin J and Al-Hada NM 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Sun et al. (2025), that primary school children tended to under-use external cognitive aids whereas secondary school students tended to over-rely on external aids at the expense of internal effort, with metacognitive-monitoring accuracy associated with offloading bias only in the younger group. [→ Lin J and Al-Hada NM 2026](#lin-j-and-al-hada-nm-2026)

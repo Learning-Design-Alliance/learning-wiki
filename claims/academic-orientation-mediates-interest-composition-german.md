@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-23
 sources:
   - id: kopatz-2025
     resource: "https://osf.io/n5xur/?view_only=48daea427ab44c9abd13b21b1e2b42f6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Class academic orientation transmitted the effect of class mean interest on students' subsequent individual interest in German. [→ Kopatz 2025](#kopatz-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: gwynne-2022
     resource: "https://www.cps.edu/about/departments/office-of-equity/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In spring 2020, 120 elementary schools (just under one-third) had no-credit rates of 20 percent or more, while 128 schools remained below 5 percent; among schools with over 90 percent free-lunch eligibility, rates ranged from 1 percent to nearly 40 percent. [→ Gwynne 2022](#gwynne-2022)

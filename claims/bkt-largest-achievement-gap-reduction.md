@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tithi-2026
     resource: "https://doi.org/10.48550/arxiv.2602.07308"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Achievement gaps between High and Low prior knowledge groups narrowed pre to post under all conditions: 55.9% for Control, 52.6% for DRL, and 77.1% for BKT. [→ Tithi 2026](#tithi-2026)

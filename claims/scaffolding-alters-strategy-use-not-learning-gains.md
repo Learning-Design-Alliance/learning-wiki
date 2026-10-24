@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: inge-molenaar-sanna-järvelä-2014
     resource: "https://doi.org/10.1007/s11409-014-9114-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Kinnebrew and colleagues (2014) compared two experimental scaffolding conditions (knowledge construction support or solution evaluation strategies) with a control condition; although the three conditions do not differ in learning gains, exploratory data mining showed differences in strategy use between the three conditions. [→ Inge Molenaar & Sanna Järvelä 2014](#inge-molenaar-sanna-jarvela-2014)

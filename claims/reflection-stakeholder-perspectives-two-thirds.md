@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: hingle-2025
     resource: "https://doi.org/10.1108/aiie-05-2025-0123"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` About two-thirds of participants acknowledged that the activity encouraged engagement with perspectives beyond their own, including peers, instructors, institutions, and potential employers. [→ Hingle 2025](#hingle-2025)

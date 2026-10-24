@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-17
 sources:
   - id: tara-hofkens-2022
     resource: "https://doi.org/10.1016/j.appdev.2022.101432"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Growth in children's task orientation across the pre-kindergarten year partially mediates the association between executive function and mathematics achievement. [→ Tara Hofkens 2022](#tara-hofkens-2022)

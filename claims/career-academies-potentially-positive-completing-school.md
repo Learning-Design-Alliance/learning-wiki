@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: completing-1
     title: completing-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students enrolled in Career Academies were more likely to earn a high school diploma or GED within 8 years of expected graduation, with a printed effect size of 0.27 that was not statistically significant but was substantively important. [→ completing-1](#completing-1)

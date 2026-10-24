@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: husain-et-al-2026
     resource: "https://doi.org/10.1002/brb3.71733"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The review reports that long-term Buddhist meditation training induced high-amplitude gamma oscillations (25–42 Hz) and large-scale phase synchrony, with gamma-to-slow-oscillation ratios correlating positively with cumulative practice hours (r = 0.79) and remaining elevated at resting baseline. [→ Husain et al. 2026](#husain-et-al-2026)

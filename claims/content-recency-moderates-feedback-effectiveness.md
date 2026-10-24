@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: tsvetomila-mihaylova-2026
     resource: "https://doi.org/10.48550/arxiv.2605.16933"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` All hint types showed improvement over the No Feedback baseline for both course parts, with Single-Issue Feedback statistically significant for Old Content; Diagnostic Feedback performed significantly better for New Content on time to success. [→ Tsvetomila Mihaylova 2026](#tsvetomila-mihaylova-2026)

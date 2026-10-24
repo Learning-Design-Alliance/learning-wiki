@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: elias-walsh-2014
     resource: "https://www.mathematica.org/publications/longitudinal-analysis-of-the-effectiveness-of-dcps-teachers"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The report analyzes how many teachers met IMPACT dismissal criteria and were dismissed, compares overall retention before IMPACT (2008–2009) to the first three IMPACT years, and compares retention of the most effective teachers and of teachers at individual schools over time. [→ Elias Walsh 2014](#elias-walsh-2014)

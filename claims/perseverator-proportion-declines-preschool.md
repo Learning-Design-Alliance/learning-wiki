@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2017
 sources:
   - id: chevalier-n-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Perseveration on a single task fell from 38% of children at age 3;9 to 18% at 4;6 and 8% at 5;3, with significant McNemar tests between adjacent ages. [→ Chevalier N. 2012](#chevalier-n-2012)

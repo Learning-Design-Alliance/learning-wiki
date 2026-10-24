@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: 2025-map-growth-norms-technical-manual-2025
     resource: "https://www.nwea.org/research/publication/2025-map-growth-norms-technical-manual/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Because the piecewise framework can model growth over two years and two consecutive years of data suffice for the required within-year and adjacent-year growth norms, the 2025 norms use a two-year piecewise model rather than the three-year designs of prior norms. [→ 2025 MAP Growth Norms Technical Manual 2025](#2025-map-growth-norms-technical-manual-2025)

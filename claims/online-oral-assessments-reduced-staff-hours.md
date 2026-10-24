@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: fenton-2025
     resource: "https://doi.org/10.3102/0013189X251333638"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Moving oral assessments for 742 students from on campus to an online format reduced required support staff hours from almost 8 days to 3 days by eliminating candidate check-in, workspace allocation, and invigilation. [→ Fenton 2025](#fenton-2025)

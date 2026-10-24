@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: ayanwale-2026
     resource: "https://doi.org/10.1016/j.chbah.2026.100263"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In the same quasi-experiment, the AI-PBL group showed a statistically significant main effect of instructional group on posttest academic achievement, F(1, 70) = 200.67, p < .001, partial η2 = .741, with adjusted means of 76.10 versus 49.98. [→ Ayanwale 2026](#ayanwale-2026)

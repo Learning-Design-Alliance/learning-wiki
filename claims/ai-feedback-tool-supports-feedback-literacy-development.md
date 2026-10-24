@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: laura-tubino-2022
     resource: "https://doi.org/10.14742/apubs.2022.39"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a university-wide pilot, student interactions with an AI automated feedback tool were interpreted as affording development of students' feedback literacy capabilities. [→ Laura Tubino 2022](#laura-tubino-2022)

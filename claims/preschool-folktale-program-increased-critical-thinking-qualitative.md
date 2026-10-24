@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-18
 sources:
   - id: papadopoulos-2020
     resource: "https://doi.org/10.46886/MAJESS/v8-i1/7263"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Through qualitative analysis of researcher journals, children in the program appeared to acquire ways of dealing with familiar issues and to identify gaps in problematic situations, generating critical thinking skills. [→ Papadopoulos 2020](#papadopoulos-2020)

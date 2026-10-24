@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-17
 sources:
   - id: barbara-harris-2019
     resource: "https://www.mathematica.org/publications/developing-math-skills-in-early-childhood"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Parents play an important role in their child's early development, including math development. [→ Barbara Harris 2019](#barbara-harris-2019)

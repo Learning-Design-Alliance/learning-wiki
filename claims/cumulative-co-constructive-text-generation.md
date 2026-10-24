@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: pifarré-2011
     resource: "https://www.springer.com/journal/11412"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In episode three, students shared new ideas with reasons, discussed arguments in the text without deleting others' ideas, and gave explicit reasons for changes, indicating cumulative orientation with co-construction. [→ Pifarré 2011](#pifarre-2011)

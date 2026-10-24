@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: bennett-js-2012
     resource: "https://doi.org/10.1186/1471-2318-12-30"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Literacy was associated with all three functional status measures in core models, but in fully adjusted models total literacy was only associated with instrumental activities of daily living and self-reported mobility disability. [→ Bennett JS 2012](#bennett-js-2012)

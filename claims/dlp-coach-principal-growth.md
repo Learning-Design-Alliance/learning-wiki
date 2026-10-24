@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: bakhshaei-2019
     resource: "https://doi.org/10.51388/20.500.12265/82"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 80 percent of coaches rated their coaching skills strong at year's end, up from 51 percent at the start; 85 percent of principals rated their coaching-leadership skills strong or very strong, up from 65 percent. [→ Bakhshaei 2019](#bakhshaei-2019)

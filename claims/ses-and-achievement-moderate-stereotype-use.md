@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: isabelle-regner-2002
     resource: "https://doi.org/10.1023/A:1016313908667"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two studies, students' SES and academic achievement level moderated use of the SES stereotype, with stereotype-consistent inferences appearing only among low-SES students. [→ Isabelle Regner 2002](#isabelle-regner-2002)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: terneusen-2024
     resource: "https://doi.org/10.1007/s11409-023-09350-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The 128 participants showed large variability across all metacognitive measures, and the authors interpret the pattern as online measures being associated with each other but not much with offline measures. [→ Terneusen 2024](#terneusen-2024)

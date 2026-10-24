@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: tillema-2011
     resource: "https://doi.org/10.1007/s11409-011-9072-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Lower reviser scorers read the assignment slightly more at the start, but from episode 2 onwards higher reviser scorers read the assignment more, with the gap growing towards the end. [→ Tillema 2011](#tillema-2011)

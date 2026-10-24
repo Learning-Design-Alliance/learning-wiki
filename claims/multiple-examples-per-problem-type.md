@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2000
 sources:
   - id: atkinson-2000
     resource: "https://doi.org/10.3102/00346543070002181"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students given both a simple and a complex work-rate example outperformed all other conditions on the entire posttest, including a single example and an example plus procedures. [→ Atkinson 2000](#atkinson-2000)

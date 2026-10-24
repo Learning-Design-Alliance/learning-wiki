@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: bruno-de-lièvre-2006
     resource: "https://doi.org/10.1007/s11251-005-6076-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i3` large
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` For lexical help, the correlation between promptings and activations was significant with pro-active HT tutoring (r=0.489, p=0.001) but not with pro-active CT tutoring (r=0.012, NS 0.860). [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

@@ -35,12 +35,14 @@ sources:
     rigour: "?"
 id: chunking-reduces-working-memory-load
 evidence_strength: strong
+newest_evidence: 2019
 ---
 
 # Chunking reduces working memory load by grouping information into fewer, more meaningful units.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 review `r?`, 1 causal `r?` · `q2`–`q3`
+> **Currency** · newest study 2019 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 By recoding discrete elements into larger units they already know (chunks), people hold more in immediate memory. The evidence here is from list-recall experiments: it shows that a chunk frees memory for other material held at the same time, not that it frees resources for comprehension or problem solving, which no study on this page tests.
 

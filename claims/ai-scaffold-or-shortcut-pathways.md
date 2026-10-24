@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: øby-2026
     resource: "https://doi.org/10.53761/5apqd333"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The framework proposes that cognitive, motivational, competence and value mechanisms influence whether generative AI is used as a scaffold supporting thinking and knowledge construction or as a shortcut bypassing essential cognitive processes. [→ Øby 2026](#by-2026)

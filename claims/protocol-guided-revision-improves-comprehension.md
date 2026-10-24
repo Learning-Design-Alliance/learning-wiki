@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1991
 sources:
   - id: mary-h-sawyer-1991
     resource: "https://doi.org/10.1080/10862969109547744"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Protocol-aided revisions of car insurance policies, though up to four times longer than the originals, were read more quickly and reduced comprehension error rates from 50% to 22%. [→ Mary H. Sawyer 1991](#mary-h-sawyer-1991)

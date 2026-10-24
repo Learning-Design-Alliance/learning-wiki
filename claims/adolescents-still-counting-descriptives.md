@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rhodes-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11360214/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Min-counting was used at least once on 20% of simple, 30% of mixed, and 44% of double-digit problems; retrieval was fastest (M = 1.60 seconds) and the addition algorithm slowest (M = 7.76 seconds). [→ Rhodes 2018](#rhodes-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: gupta-2026
     resource: "https://doi.org/10.48550/arxiv.2608.03531"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` On a 60 Hz panel the highest representable temporal frequency is 30 Hz, which sits below the critical flicker-fusion frequency and inside the photosensitivity band, so the mechanism must fall back on static spatial decoys alone with correspondingly weaker capture asymmetry. [→ Gupta 2026](#gupta-2026)

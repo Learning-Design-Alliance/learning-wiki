@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: frye-2013
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/18"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The evidence demonstrates that when all five recommendations are implemented together, students' math achievement improves. [→ Frye 2013](#frye-2013)

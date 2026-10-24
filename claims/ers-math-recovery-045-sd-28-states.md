@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: dan-dewey-2024
     resource: "https://www.nwea.org/research/publication/reconciling-recent-evidence-on-academic-recovery-in-the-us-from-2022-to-2023/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Between Spring 2022 and Spring 2023, grade 3-8 math scores in the 28 ERS states improved by .045 standard deviations, making up about a third of the pandemic-era decline. [→ Dan Dewey 2024](#dan-dewey-2024)

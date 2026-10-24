@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: riandi-riandi-2026
     resource: "https://doi.org/10.1038/s41598-025-34422-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` AI Knowledge (p = 0.466) and Attitude Toward AI in ESD (p = 0.343) showed no statistically significant effect on AI Integration Ability. [→ Riandi Riandi 2026](#riandi-riandi-2026)

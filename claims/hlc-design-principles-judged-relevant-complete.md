@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: cremers-2016
     resource: "https://doi.org/10.1007/s11251-016-9398-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 32 respondents almost unanimously found the set of design principles relevant for their HLC and complete, with only two suggested additions and one overlap comment. [→ Cremers 2016](#cremers-2016)

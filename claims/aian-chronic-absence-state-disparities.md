@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: chang-2024
     resource: "https://eric.ed.gov/?id=ED655926"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Chronic absence rates for Native students differ substantially across states, with Alaska at 60% Native versus 37% White and Idaho at 25% Native versus 16% White in 2022/23. [→ Chang 2024](#chang-2024)

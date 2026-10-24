@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: garrod-2026
     resource: "https://doi.org/10.48550/arxiv.2609.09425"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Two literacy-facing Edu-QuRater families trained with the same pipeline reached low validation losses, and a qualitative sanity check on external materials showed structured variation by education level and material type. [→ Garrod 2026](#garrod-2026)

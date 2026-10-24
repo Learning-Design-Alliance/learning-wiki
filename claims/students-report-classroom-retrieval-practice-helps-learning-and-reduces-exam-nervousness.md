@@ -9,6 +9,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r3`, 1 theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

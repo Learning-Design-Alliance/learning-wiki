@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: darch-simpson-1990
     title: darch-simpson-1990
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Darch and Simpson (1990), 28 fourth-grade students with learning disabilities randomly assigned to Spelling Mastery significantly outperformed the Visual Imagery comparison group on an author-created spelling test (effect size 1.42) and on the TWS Predictable and Unpredictable Words subtests (effect sizes 1.20 and 1.18). [→ darch-simpson-1990](#darch-simpson-1990)

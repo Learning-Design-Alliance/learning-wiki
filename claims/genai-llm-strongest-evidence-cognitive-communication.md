@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jiang-hongzhan-2026
     resource: "https://doi.org/10.2196/95167"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In subgroup synthesis, GenAI/LLM interventions provided the strongest evidence for cognitive and communication outcomes; AI-driven mannequins showed mixed psychomotor effects; AI-VR/MR was limited by technical challenges; chatbots served as adjuncts with weak independent effects. [→ Jiang Hongzhan 2026](#jiang-hongzhan-2026)

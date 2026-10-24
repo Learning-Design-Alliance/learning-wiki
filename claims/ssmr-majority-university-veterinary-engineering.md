@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: iiskala-2021
     resource: "https://doi.org/10.1007/s11251-021-09558-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In veterinary science, SSMR constituted 92.1% of less successful groups' MR turns and 91.6% of more successful groups' MR turns. [→ Iiskala 2021](#iiskala-2021)

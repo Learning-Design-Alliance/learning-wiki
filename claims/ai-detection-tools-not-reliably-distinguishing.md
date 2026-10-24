@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: craig-wright-2026
     resource: "https://doi.org/10.1007/s40979-026-00234-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A comparative study of fourteen commercially available AI detection tools concluded that no tool reliably distinguished human-written from AI-generated text across all conditions, with false positives a significant problem. [→ Craig Wright 2026](#craig-wright-2026)

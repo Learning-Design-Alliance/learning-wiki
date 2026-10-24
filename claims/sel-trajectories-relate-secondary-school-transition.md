@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-09
 sources:
   - id: james-soland-2019
     resource: "https://www.nwea.org/research/publication/identifying-students-who-are-off-track-academically-in-ninth-grade-the-role-of-social-emotional-learning-trajectories/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' initial SEL level in 6th grade and growth in SEL skills from 6th to 8th grade are related to successful transition to secondary school. [→ James Soland 2019](#james-soland-2019)

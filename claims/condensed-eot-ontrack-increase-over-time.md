@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: seeskin-2022
     resource: "https://toandthrough.uchicago.edu/middle-grades-network-improvement-community"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Districtwide, the percentage of third- through eighth-grade students in the On-Track category increased by 20 percentage points from 2009 to 2019, and Intensive Support decreased from 12 percent to 8 percent. [→ Seeskin 2022](#seeskin-2022)

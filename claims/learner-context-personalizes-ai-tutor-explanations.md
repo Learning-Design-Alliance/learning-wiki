@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2028
 sources:
   - id: naiming-liu-2025
     resource: "https://doi.org/10.48550/arxiv.2512.24362"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Given the same mathematics word problem, an AI tutor produced narrative-based instruction for a verbally strong learner and algebraic instruction for a math-strong learner. [→ Naiming Liu 2025](#naiming-liu-2025)

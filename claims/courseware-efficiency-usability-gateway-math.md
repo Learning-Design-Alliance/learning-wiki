@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: higgin-2025
     resource: "https://eric.ed.gov/?id=ED677594"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Faculty facing heavier loads and students with varied technology skills need courseware that is user-friendly, integrates with learning management systems, simplifies grading, and is mobile-friendly. [→ Higgin 2025](#higgin-2025)

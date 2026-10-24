@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: wwc-rating-1
     title: wwc-rating-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across three studies meeting WWC group design standards, Odyssey® Math showed a potentially positive effect rating on mathematics achievement: one statistically significant positive effect, one substantively important positive effect, and one indeterminate effect. [→ wwc-rating-1](#wwc-rating-1)

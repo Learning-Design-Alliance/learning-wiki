@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: matthew-johnson-2021
     resource: "https://www.mathematica.org/publications/time-to-lead-an-illustrative-look-at-how-elementary-school-principals-spend-their-workweek"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` On average, elementary principals devote more than one-third of their workweek to instructional support to teachers, divided fairly evenly between direct support and indirect support such as arranging resources. [→ Matthew Johnson 2021](#matthew-johnson-2021)

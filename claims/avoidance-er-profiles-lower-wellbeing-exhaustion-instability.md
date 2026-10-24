@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hilger-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102234"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Profiles characterized by avoidance strategies were linked to lower affective well-being and more emotional exhaustion, and displayed lower stability over time. [→ Hilger 2025](#hilger-2025)

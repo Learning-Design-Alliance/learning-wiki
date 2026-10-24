@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: fan-bu-and-wei-li-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1861072"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pilot EFA supported a four-factor solution and three items were removed: one for a weak primary loading (0.43), one for a cross-loading (0.52 and 0.39), and one for a low corrected item–total correlation (0.34) and content duplicating another item. [→ Fan Bu and Wei Li 2026](#fan-bu-and-wei-li-2026)

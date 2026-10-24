@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: li-2026
     resource: "https://doi.org/10.14742/ajet.11467"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis showed students viewed group feedback as contextually rich but sometimes subjective, and AI feedback as objective and well structured though occasionally lacking contextual sensitivity. [→ Li 2026](#li-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: ali-2016
     resource: "https://doi.org/10.14705/rpnet.2016.eurocall2016.530"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Kim's (2006) Fluspeak software, tested with 36 university students through a hybrid face-to-face plus software approach, worked well for beginners on phoneme production but poorly for advanced learners working on fluency. [→ Ali 2016](#ali-2016)

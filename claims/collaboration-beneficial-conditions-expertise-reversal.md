@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: kirschner-2018
     resource: "https://doi.org/10.1007/s11412-018-9277-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`–`q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Collaborative learning is beneficial when task complexity exceeds individual working memory capacity and members have prior experience working together, but unnecessary for learners who already have relevant knowledge structures. [→ Kirschner 2018](#kirschner-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: gershenson-2013
     resource: "http://www.bls.gov/tus/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Restricting the APSCC sample to married-parent households, low-income summer gaps in television viewing and conversation increase in magnitude, and the college-educated television gap more than doubles. [→ Gershenson 2013](#gershenson-2013)

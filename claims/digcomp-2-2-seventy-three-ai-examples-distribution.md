@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zemin-guo-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100679"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the 73 novel AI examples DigComp 2.2 adds across competence areas, most concern communication and collaboration (31.51%, n = 23), problem solving (27.40%, n = 20), and information and data literacy (19.18%, n = 14), with less attention to safety (12.33%, n = 9) and digital content creation (9.59%, n = 7). [→ Zemin Guo 2026](#zemin-guo-2026)

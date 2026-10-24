@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: hester-2022
     resource: "https://ies.ed.gov/ncee/edlabs/regions/southwest/rel_2023-145.asp"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Middle and high school indicators predicted postsecondary readiness, college enrollment, and college persistence with overall accuracy that did not vary substantially between students with different characteristics. [→ Hester 2022](#hester-2022)

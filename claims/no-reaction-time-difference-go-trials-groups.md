@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: bruce-2022
     resource: "https://doi.org/10.1017/S0954579420001819"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` A one-way ANOVA found no significant group difference in average reaction time on go trials. [→ Bruce 2022](#bruce-2022)

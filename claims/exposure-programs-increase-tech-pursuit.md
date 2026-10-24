@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: exposure-key-idea
     title: exposure-key-idea
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participation in technology exposure and exploration programs, services, and resources increases the likelihood of pursuing or enrolling in technology-related educational and training opportunities. [→ exposure-key-idea](#exposure-key-idea)

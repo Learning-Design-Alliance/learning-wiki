@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: yining-wang-2025
     resource: "https://doi.org/10.1007/s10648-025-10005-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Using Liu and Wang's t-test for floor effects, the tracing and pointing group reported lower extraneous load than controls (d = −0.52), supporting H3. [→ Yining Wang 2025](#yining-wang-2025)

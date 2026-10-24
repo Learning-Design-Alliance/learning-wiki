@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 1998
 sources:
   - id: vilma-mesa-1998
     resource: "https://eric.ed.gov/?id=ED428113"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that Moschkovich's situated framework, in which language use and its relation to math learning depend on the situation, offered a better understanding of meaning construction in a Geometry and an Algebra class than a discontinuity model treating everyday context as an obstacle. [→ Vilma Mesa 1998](#vilma-mesa-1998)

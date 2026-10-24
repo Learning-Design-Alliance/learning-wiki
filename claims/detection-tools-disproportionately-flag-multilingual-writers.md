@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: dozier-2026
     resource: "https://doi.org/10.1002/yd.70077"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article reports, citing Liang et al. (2023), that AI detection tools disproportionately flag multilingual writers, and the authors interpret reliance on such tools as a form of digital structural violence against multilingual and neurodiverse students. [→ Dozier 2026](#dozier-2026)

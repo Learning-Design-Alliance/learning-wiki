@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: hippolyte-gros-2020
     resource: "https://doi.org/10.1080/00461520.2019.1691004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Modifying the wording of problems sharing the same schema changed both difficulty and error types: the original start-unknown problem was solved by 36% of children, the reworded version by 55%. [→ Hippolyte Gros 2020](#hippolyte-gros-2020)

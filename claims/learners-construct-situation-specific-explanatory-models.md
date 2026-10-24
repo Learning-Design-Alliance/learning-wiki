@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1989
 sources:
   - id: schmidt-1989
     resource: "https://doi.org/10.1037//0022-0663.81.4.610"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Verbatim transcriptions of novices' discussions show subjects combined known objects, processes, and attributes into explanations unique to the problem situation. [→ Schmidt 1989](#schmidt-1989)

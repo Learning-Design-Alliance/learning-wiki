@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: xu-2023
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Subgroup analyses show significant intergroup differences for teaching type (chi2 = 7.20, P < 0.05), intervention duration (chi2 = 12.18, P < 0.01), subject area (chi2 = 13.36, P < 0.05), group size (chi2 = 8.77, P < 0.05), and learning scaffold (chi2 = 9.03, P < 0.01). [→ Xu 2023](#xu-2023)

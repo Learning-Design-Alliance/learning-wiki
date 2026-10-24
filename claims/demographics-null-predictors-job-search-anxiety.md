@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dağ-2026
     resource: "https://doi.org/10.1038/s41598-026-42030-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Age, gender, class level and voluntary department choice showed no statistically significant predictive power once other variables were controlled; the bivariate gender–AI anxiety correlation (r = 0.194) lost significance in regression. [→ Dağ 2026](#dag-2026)

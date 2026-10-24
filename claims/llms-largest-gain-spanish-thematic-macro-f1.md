@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: esteban-u-vega-barajas-2026
     resource: "https://doi.org/10.48550/arxiv.2607.11873"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the 233-comment Spanish held-out set, hosted LLM arms reach thematic macro F1 of roughly 0.82-0.86 versus 0.46 for TF-IDF and about 0.68 for frozen encoders. [→ Esteban U. Vega Barajas 2026](#esteban-u-vega-barajas-2026)

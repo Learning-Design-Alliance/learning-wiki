@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: maria-lombardi-2025
     resource: "https://doi.org/10.48550/arxiv.2508.02505"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across the validation trials the system was robust with an 88% success rate despite failures such as wrong sticker detection, microphone issues and LLM crashes. [→ Maria Lombardi 2025](#maria-lombardi-2025)

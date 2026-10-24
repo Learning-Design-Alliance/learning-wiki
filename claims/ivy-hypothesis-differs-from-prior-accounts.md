@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: bernardini-2004
     resource: "https://doi.org/10.1017/S1366728904001270"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Ivy Hypothesis differs from the Dominant Language Hypothesis in that it is conditioned by developmental stage and predicts hierarchically governed mixing applying to all phrase types, not only bound morphemes. [→ Bernardini 2004](#bernardini-2004)

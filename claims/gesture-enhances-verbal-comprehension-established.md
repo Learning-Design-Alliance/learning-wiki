@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: dargue-2020
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101331"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` It is well established that observing and producing gesture by a learner can enhance comprehension of verbal messages, including narratives. [→ Dargue 2020](#dargue-2020)

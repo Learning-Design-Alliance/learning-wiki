@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: jang-2020
     resource: "https://doi.org/10.15858/engtea.75.4.202012.33"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In this study, where metalinguistic CF contained no correct forms, its beneficial effects were equivalent to those of direct CF, contradicting prior findings of metalinguistic CF superiority. [→ Jang 2020](#jang-2020)

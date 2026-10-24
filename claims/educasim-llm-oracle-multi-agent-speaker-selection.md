@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cameron-mohne-2026
     resource: "https://doi.org/10.48550/arxiv.2603.11444"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Unlike GPTeach and prior versions of Character.ai, whose next-speaker choices used random selection or static heuristics, EducaSim selects the next speaker with an LLM-based oracle that can decide an individual, the whole class, or silence should respond. [→ Cameron Mohne 2026](#cameron-mohne-2026)

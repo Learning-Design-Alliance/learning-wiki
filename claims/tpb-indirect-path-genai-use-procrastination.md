@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: li-zilin-2026
     resource: "https://doi.org/10.3390/bs16071256"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The indirect associations from GenAI use to procrastination through attitude, norm, control, and intention were significant, with the total indirect association (standardized = −0.086, p < 0.01) accounting for approximately 30.9% of the total association (−0.278, p < 0.001). [→ Li Zilin 2026](#li-zilin-2026)

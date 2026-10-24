@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: freydis-vogel-2016
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The meta-analytic effect of CSCL scripts on collaboration skills is statistically significantly larger than their effect on domain-specific knowledge. [→ Freydis Vogel 2016](#freydis-vogel-2016)

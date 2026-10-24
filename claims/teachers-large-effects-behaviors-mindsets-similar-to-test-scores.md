@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: david-blazar-2015
     resource: "https://www.mathematica.org/publications/teacher-and-teaching-effects-on-students-academic-behaviors-and-mindsets"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Upper-elementary teachers produce large effects on students' self-reported behavior in class, self-efficacy in math, and happiness in class, comparable in magnitude to their effects on math test scores. [→ David Blazar 2015](#david-blazar-2015)

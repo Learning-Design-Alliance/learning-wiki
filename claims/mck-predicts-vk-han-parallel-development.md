@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mark-feng-teng-2024
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The intercept of MCK was significantly and positively correlated with both the intercept and the slope of VK breadth in the Han parallel development model. [→ Mark Feng Teng 2024](#mark-feng-teng-2024)

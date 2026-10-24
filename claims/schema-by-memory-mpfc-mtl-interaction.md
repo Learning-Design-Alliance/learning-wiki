@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: van-kesteren-2014
     resource: "https://doi.org/10.1162/jocn_a_00630"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A Schema × Subsequent Memory interaction showed greater mPFC subsequent memory effects for schema-related than schema-unrelated items, and the opposite pattern in bilateral MTL. [→ van Kesteren 2014](#van-kesteren-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: song-hongfeng-2026
     resource: "https://doi.org/10.3390/bs16091460"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` High-Perception High-Vigilance reported higher self-perceived employability than Anxious Acceptance and Low-Perception Detached but did not differ significantly from Positive Empowerment. [→ Song Hongfeng 2026](#song-hongfeng-2026)

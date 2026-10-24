@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: moort-2022
     resource: "https://doi.org/10.1037/edu0000769"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The combined pattern—goal effects on overall reading times and on memory for congruent but not incongruent targets, with no goal effects on validation-specific processing—suggests reading goals influence representation-building after inconsistency detection rather than validation itself. [→ Moort 2022](#moort-2022)

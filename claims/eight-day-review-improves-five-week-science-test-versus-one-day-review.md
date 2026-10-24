@@ -5,6 +5,7 @@ title: Eight-day review improved a five-week science test versus one-day review 
 description: In one simulated undergraduate science lecture, reviewing after eight days rather than one day improved delayed factual scores; the higher-level result depended on analysis choice.
 status: review
 evidence_strength: moderate
+newest_evidence: 2015
 generated:
   by: codex/unspecified
   at: 2026-09-29
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=169 analyzed (175 recruited)
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 The review gap mattered in this particular two-gap comparison with a five-week test delay. The experiment does not test a no-review group, a massed group, or a universal optimal eight-day schedule.
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: adam-palmquist-2025
     resource: "https://doi.org/10.1007/s40692-025-00354-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The C1 ethical concerns theme reports predicted issues such as algorithmic bias and exploitation of personal data, with calls for frameworks ensuring responsible AI design in education. [→ Adam Palmquist 2025](#adam-palmquist-2025)

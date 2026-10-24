@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2006
     resource: "http://crede.berkeley.edu/research/crede/research/llaa/1.5pubs.html"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Fifth-grade English language learners in the intervention program scored significantly higher than comparison students on performance assessment (effect size 0.94), while the CTBS Reading difference (effect size 0.63) was not statistically significant after WWC corrections. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

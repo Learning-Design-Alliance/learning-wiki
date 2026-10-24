@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under GRPO alignment, the MKT sentence rate collapses from 18.1% to 6.5% (a 64% relative drop), Interaction nearly triples (4.4% to 12.3%), and PIU climbs from 20.0% to 28.7%. [→ codebook-shift-1](#codebook-shift-1)

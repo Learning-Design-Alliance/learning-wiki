@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ouhao-chen-fred-paas-john-sweller-2023
     resource: "https://doi.org/10.1007/s10648-023-09782-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Tasks can be difficult because of many non-interacting elements without being complex, or difficult because few interacting elements must be processed simultaneously. [→ Ouhao Chen · Fred Paas · John Sweller 2023](#ouhao-chen-fred-paas-john-sweller-2023)

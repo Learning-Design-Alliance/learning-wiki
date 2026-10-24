@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: susan-e-sporte-2013
     resource: "https://consortium.uchicago.edu/publications/teacher-evaluation-practice-implementing-chicagos-reach-students"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In first-year REACH implementation, 76 percent of teachers said the evaluation process encouraged their professional growth and 76 percent of administrators believed the observation process would result in instructional improvement. [→ Susan E. Sporte 2013](#susan-e-sporte-2013)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: hayes-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1747702"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` NDW differences between bilingual and monolingual school-age children disappeared, which the authors attribute to sufficient English input and increasing translation equivalents. [→ Hayes 2026](#hayes-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: kate-place-2023
     resource: "https://www.mathematica.org/publications/measurement-and-evaluation-plan-template"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` For funders working with multiple organizations, using the template across plans allows streamlined review, improved understanding, and cross-solution comparisons. [→ Kate Place 2023](#kate-place-2023)

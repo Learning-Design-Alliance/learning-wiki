@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: theobald-elli-j-et-al-2020
     resource: "https://doi.org/10.1073/pnas.1916903117"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In 10 of 15 examination-score studies MGS students showed disproportionate gains under active learning, while in the remaining five studies active learning benefitted non-MGS students more; in 15 of 26 passing-rate studies MGS students showed disproportionate reduction in failure rates. [→ Theobald Elli J. et al 2020](#theobald-elli-j-et-al-2020)

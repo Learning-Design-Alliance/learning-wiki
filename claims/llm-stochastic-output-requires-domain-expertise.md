@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: huber-2024
     resource: "https://doi.org/10.1007/s10648-024-09868-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Because present LLMs sometimes choose a less likely continuation rather than the most likely one, their output can be misleading or erroneous and requires continuous supervision and critical evaluation. [→ Huber 2024](#huber-2024)

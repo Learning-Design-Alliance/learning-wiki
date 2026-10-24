@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-19
 sources:
   - id: li-y-2013
     title: Li Y 2013
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Faster first grade numeral RAN RT showed a trend toward higher fifth grade mathematics achievement (p = .0780), while fifth grade numeral RT, entered beyond first grade RT, was not significant (p = .0618); first grade letter RT predicted fifth grade word reading (p = .0183), and fifth grade letter RT predicted fifth grade word reading beyond first grade letter speed (p = .0087). [→ Li Y 2013](#li-y-2013)

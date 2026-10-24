@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: stephen-m-ponisciak-2005
     resource: "https://consortium.uchicago.edu/publications/understanding-prairie-state-achievement-exam-descriptive-report-analysis-student"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` The correlation between ACT science and ISBE-developed science scores was r = 0.74 in 2004, close to the maximum possible correlation of 0.87 given test reliabilities. [→ Stephen M. Ponisciak 2005](#stephen-m-ponisciak-2005)

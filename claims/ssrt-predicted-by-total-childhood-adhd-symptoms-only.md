@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: einziger-tzlil-2021
     resource: "https://doi.org/10.3390/brainsci11010100"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Total ADHD symptoms throughout childhood significantly predicted SSRT at 17 years (β = 0.28), but neither inattention nor hyperactivity-impulsivity uniquely predicted it. [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

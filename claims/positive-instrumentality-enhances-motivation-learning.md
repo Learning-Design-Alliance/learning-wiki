@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: phalet-2004
     resource: "https://hdl.handle.net/1874/23520"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Positive perceived instrumentality of school tasks for future career goals is associated with higher task motivation, more effective learning strategies, and better school performance. [→ Phalet 2004](#phalet-2004)

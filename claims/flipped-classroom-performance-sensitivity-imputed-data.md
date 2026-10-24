@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-18
 sources:
   - id: naing-2023
     resource: "https://doi.org/10.1002/cl2.1339"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In a sensitivity analysis excluding eleven studies with imputed data, academic performance in the flipped class method remained better than traditional class learning (SMD = 0.54, 33 studies, n = 5924). [→ Naing 2023](#naing-2023)

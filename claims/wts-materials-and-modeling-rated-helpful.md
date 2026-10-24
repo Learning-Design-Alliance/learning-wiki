@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: patrick-rich-2025
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/pilot-study-write-succeed-intervention-enhancing-writing-instruction-new-mexico"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At least three quarters of teachers rated the binder practice descriptions, templates, and curriculum-integration guidance helpful or very helpful (74-79%, N = 18). [→ Patrick Rich 2025](#patrick-rich-2025)

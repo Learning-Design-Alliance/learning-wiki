@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: gwynne-2024
     resource: "https://www.cps.edu/about/district-data/metrics/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Middle-grade students' reports of Parent Supportiveness declined by 0.17 s.d. from 2019 to 2021 and continued declining in 2021-22 and 2022-23, ending 0.17 s.d. below 2011 levels; high school students reported little change during remote learning but less parent support in the following two years. [→ Gwynne 2024](#gwynne-2024)

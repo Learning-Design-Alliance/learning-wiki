@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Civic action correlated positively with SLAM relationship variables: guidance (r = .32, p < .05), satisfaction (r = .33, p < .01), nurturance (r = .45, p < .01), reassurance of competence (r = .48, p < .01), and intimate disclosure (r = .31, p < .05). [→ Harkins 2020](#harkins-2020)

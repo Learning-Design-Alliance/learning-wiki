@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: learnlm-team-2024
     resource: "https://doi.org/10.48550/arxiv.2412.16429"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a hierarchical multiple regression, perceptions of warmth and competence strongly and positively predict participants' willingness to use a tutor in the future, replicating a known social-cognition pattern with AI systems. [→ LearnLM Team 2024](#learnlm-team-2024)

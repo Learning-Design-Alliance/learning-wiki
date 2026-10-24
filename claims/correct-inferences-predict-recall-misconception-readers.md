@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: kendeou-2007
     resource: "https://doi.org/10.3758/bf03193491"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Experiment 1, think-aloud responses accounted for 18% of recall variance in the misconception group, with correct inferences a significant predictor (β = .37, p < .05); no model was significant for the nonmisconception group. [→ Kendeou 2007](#kendeou-2007)

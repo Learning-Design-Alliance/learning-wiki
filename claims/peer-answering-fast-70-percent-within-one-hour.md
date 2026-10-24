@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: gupta-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38967"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Peer-answered queries closed far faster than administrator- or script-handled ones: 70.3% of peer-answered queries closed within one hour of raising, against 1.9% answered directly by an administrator and 14.8% closed by script. [→ Gupta 2026](#gupta-2026)

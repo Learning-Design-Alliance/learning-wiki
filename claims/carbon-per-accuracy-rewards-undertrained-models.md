@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: eimler-2026
     resource: "https://doi.org/10.48550/arxiv.2606.11215"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The proposed Carbon per Accuracy metric rests on a false assumption of linear accuracy scaling and will likely reward under-trained models rather than strong performance. [→ Eimler 2026](#eimler-2026)

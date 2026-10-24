@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-09
+recheck_by: 2023
 sources:
   - id: andy-hegedus-2018
     resource: "https://www.nwea.org/research-data-galleries/poverty-and-school-performance"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` About 50% of a school's median achievement is accounted for by the percentage of students eligible for FRL, with median achievement at the 29th percentile in schools where all students are FRL-eligible versus the 73rd percentile in schools with none. [→ Andy Hegedus 2018](#andy-hegedus-2018)

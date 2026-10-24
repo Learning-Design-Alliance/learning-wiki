@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: vosniadou-2024
     resource: "https://doi.org/10.1007/s11409-024-09374-1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 26% of the 107 identified lesson tasks involved Constructive or Interactive engagement, while 74% involved Passive, Active, or Active/Collaborative engagement. [→ Vosniadou 2024](#vosniadou-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1920
 sources:
   - id: a-i-g-1920
     resource: "https://eric.ed.gov/?id=none-in-text"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The quoted passage from the reviewed book predicts a third stage of test development in which standard tests will increasingly be used to diagnose individual pupils' weaknesses and to test the efficiency of methods of teaching. [→ A. I. G 1920](#a-i-g-1920)

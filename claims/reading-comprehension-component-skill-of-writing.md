@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: grace-kim-young-suk-graham-steve-2022
     resource: "https://doi.org/10.1037/edu0000564"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior longitudinal studies cited by the authors found reading predicted writing (word reading predicted spelling; reading comprehension predicted written composition), not the reverse. [→ Grace Kim Young-Suk & Graham Steve 2022](#grace-kim-young-suk-graham-steve-2022)

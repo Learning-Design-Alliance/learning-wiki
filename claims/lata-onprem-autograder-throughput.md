@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: jesse-a-rodríguez-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05410"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across eight homework assignments, LaTA graded the 200-student roster in 1–3 minutes of wall-clock time per submission, with per-assignment totals driven by problem count and solution length rather than class size. [→ Jesse A. Rodríguez 2026](#jesse-a-rodriguez-2026)

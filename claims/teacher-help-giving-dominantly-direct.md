@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: sabine-zorn-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101624"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More than 70% of help giving consisted of providing direct feedback, explaining, or instructing. [→ Sabine Zorn 2022](#sabine-zorn-2022)

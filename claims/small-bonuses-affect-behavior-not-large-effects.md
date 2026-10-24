@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: kevin-booker-2009
     resource: "https://www.mathematica.org/publications/effects-of-the-missouri-career-ladder-program-on-teacher-mobility"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Small bonuses can affect teacher behavior but do not necessarily lead to large effects. [→ Kevin Booker 2009](#kevin-booker-2009)

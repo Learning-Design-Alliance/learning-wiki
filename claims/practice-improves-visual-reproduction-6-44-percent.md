@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1910
 sources:
   - id: foster-1910
     resource: "https://doi.org/10.1037/h0075685"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Percentages correct on first reproduction were considerably higher in the final than the initial period for all observers and all kinds of material, with gains from 6% to 44%, average 22%. [→ Foster 1910](#foster-1910)

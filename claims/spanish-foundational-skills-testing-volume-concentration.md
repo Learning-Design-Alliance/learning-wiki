@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wei-he-2026
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-spanish-map-reading-fluency-foundational-skills-report/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across domains, grade 1 accounted for the largest share of test events (37.7%), followed by kindergarten (35.5%), grade 2 (20.9%), and grade 3 (5.9%), with kindergarten and grade 1 together representing more than 70% of all test events. [→ Wei He 2026](#wei-he-2026)

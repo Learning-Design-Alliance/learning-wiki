@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: kelly-quinn-2018
     resource: "https://doi.org/10.1177/2056305118787203"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Neither time nor the intervention produced significant differences in attention or working memory at the 4-week or 4-month assessments; no effect sizes were printed for these null findings. [→ Kelly Quinn 2018](#kelly-quinn-2018)

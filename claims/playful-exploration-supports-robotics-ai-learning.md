@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: g-mclaughlin-2026
     resource: "https://doi.org/10.1007/s11423-026-10651-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` By personalizing code, experimenting with sensors playfully, and extending tasks beyond given instructions, students explored how robotic and AI systems could behave under different conditions. [→ G. McLaughlin 2026](#g-mclaughlin-2026)

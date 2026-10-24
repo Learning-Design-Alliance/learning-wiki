@@ -8,6 +8,7 @@ generated:
 id: learners-misjudge-spacing-benefits
 aliases: [learners-misjudge-spacing]
 evidence_strength: 
+newest_evidence: 2009
 sources:
   - id: kornell-bjork-2008
     resource: "https://doi.org/10.1111/j.1467-9280.2008.02127.x"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q3`
+> **Currency** · newest study 2009 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Learners systematically predict that massed practice will serve them better than spaced practice, even though spacing reliably produces stronger long-term retention — a metacognitive error that leads them to choose study schedules that undermine their own learning.
 

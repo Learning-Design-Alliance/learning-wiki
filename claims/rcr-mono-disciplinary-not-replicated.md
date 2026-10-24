@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: johannes-katsarov-2021
     resource: "https://doi.org/10.1007/s10648-021-09630-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Courses offered to single-domain groups of learners were not more effective than courses offered to learners from multiple domains. [→ Johannes Katsarov 2021](#johannes-katsarov-2021)

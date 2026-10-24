@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: strong
+newest_evidence: 2024
 sources:
   - id: achraf-ammar-2024
     resource: "https://doi.org/10.1007/s10648-024-09892-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` An overall significant difference in Δ post-retention favors high CI practice, but the effect size (ES = −0.35) is small. [→ Achraf Ammar 2024](#achraf-ammar-2024)

@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: schwarz-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2344809"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · n=150 Grade 7 students across 4 Israeli schools, five out-of-school "focus days" (~30-35 hours total)
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Even after careful content, pedagogy, and organizational design, unguided student small-group discussion of interdisciplinary societal dilemmas stayed animated but "sterile" — students did not spontaneously integrate prior disciplinary learning into their reasoning. When a teacher noticed a student's partial, unprompted reference to disciplinary content and sharpened it with a targeted question, integration followed while dialogic quality was preserved; when a teacher instead interrupted with direct explanation, students resisted and talk shifted away from dialogic collaboration.
 

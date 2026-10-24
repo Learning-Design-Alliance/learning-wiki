@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: won-ik-cho-2026
     resource: "https://doi.org/10.48550/arxiv.2605.24688"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In educational settings, AI assistance that substitutes for learning activities may raise immediate performance metrics while impeding long-term skill development, creating tension between short-term productivity and capability building. [→ Won Ik Cho 2026](#won-ik-cho-2026)

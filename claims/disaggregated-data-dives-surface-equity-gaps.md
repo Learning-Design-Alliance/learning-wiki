@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-09
 sources:
   - id: datadive-1
     title: datadive-1
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In some RPP courses, students of color and Pell-eligible students passed at lower average rates than their peers, which faculty had often not seen before disaggregation. [→ datadive-1](#datadive-1)

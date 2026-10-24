@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: emily-morton-2022
     resource: "https://doi.org/10.3102/01623737221097420"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 4-day school week shows no detectable causal effect on disciplinary incident types other than bullying and fighting. [→ Emily Morton 2022](#emily-morton-2022)

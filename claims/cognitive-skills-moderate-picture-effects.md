@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: terhi-vessonen-2026
     resource: "https://doi.org/10.1007/s10648-025-10112-5"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students low in general mathematics performed better on text-only versions than with representational pictures, while students low in reading comprehension and visuospatial executive functioning performed better with representational pictures. [→ Terhi Vessonen 2026](#terhi-vessonen-2026)

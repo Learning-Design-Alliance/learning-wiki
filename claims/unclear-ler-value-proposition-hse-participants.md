@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: value-prop-1
     title: value-prop-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants expressed concern about how the LER differed from existing platforms like Indeed and LinkedIn, and participants with non-linear journeys were unable to include their experiences during onboarding. [→ value-prop-1](#value-prop-1)

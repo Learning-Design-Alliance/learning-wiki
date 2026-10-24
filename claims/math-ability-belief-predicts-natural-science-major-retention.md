@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: perez-felkner-l-2017
     title: Perez-Felkner L 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Perceived mathematics ability under challenge predicted retention in the natural sciences (PEMC/biology), with a one standard deviation increase in the 10th grade measure corresponding to 1.62 times higher risk of staying in versus never entering these fields. [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

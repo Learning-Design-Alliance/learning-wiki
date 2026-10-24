@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: alissa-fock-and-hans-stefan-siller-2025
     resource: "https://doi.org/10.1186/s40594-025-00589-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Wu and Yu (2024) and Zhu et al. (2025), that initial meta-analyses indicate lower effects of AI chatbots and generative AI on learning outcomes in secondary education than in higher education. [→ Alissa Fock and Hans-Stefan Siller 2025](#alissa-fock-and-hans-stefan-siller-2025)

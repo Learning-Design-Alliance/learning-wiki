@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: manu-kapur-2012
     resource: "https://doi.org/10.1007/s11251-012-9235-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Across the four studies, RSM generation processes may not lead to canonical solutions yet can still be germane for learning; success on the canonical solution is not considered necessary for learning. [→ Manu Kapur 2012](#manu-kapur-2012)

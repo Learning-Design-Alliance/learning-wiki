@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: white-2025
     resource: "https://www.wested.org/support/californias-state-educator-workforce-collaborative/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although CalSAAS produces annual and longitudinal assignment-monitoring dashboards, they exclude teacher turnover and retention data because those data are not captured in the CDE–CTC data-sharing agreement. [→ White 2025](#white-2025)

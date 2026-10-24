@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: means-2021
     resource: "https://doi.org/10.51388/20.500.12265/116"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 42% of surveyed students reported staying motivated to do well in the course as a major problem, double the next most frequent challenge (finding a quiet place to work, 20%). [→ Means 2021](#means-2021)

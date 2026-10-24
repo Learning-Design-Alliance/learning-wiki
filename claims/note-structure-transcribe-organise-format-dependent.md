@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: jansen-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.10.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bui et al. (2013) consistently found better memory with transcribed than organised notes across three experiments, while Bretzing and Kulhavy (1979) found summarisation and paraphrasing better than verbatim copying with a text. [→ Jansen 2017](#jansen-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: krieglstein-2025
     resource: "https://doi.org/10.1007/s10648-024-09980-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant differences between sequences on delayed ICL (t(98) = 1.04, p = 0.302), ECL (t(98) = 0.74, p = 0.462), or GCL (t(98) = 0.22, p = 0.827). [→ Krieglstein 2025](#krieglstein-2025)

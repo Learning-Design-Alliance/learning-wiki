@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: rossi-2019
     resource: "https://doi.org/10.5964/jnc.v5i3.197"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants were slower to compare common-denominator fractions (probe) after a common-numerator prime than after a denominator-numerator control prime, indicating the 'greater the whole number, the greater the fraction' strategy was inhibited on the prime and its reactivation was disrupted on the probe. [→ Rossi 2019](#rossi-2019)

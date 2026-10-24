@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: glaser-2022
     resource: "https://doi.org/10.1007/s10648-022-09659-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A significant main effect of uncertainty value on memory for the appearance of architectural elements favored certain over uncertain elements. [→ Glaser 2022](#glaser-2022)

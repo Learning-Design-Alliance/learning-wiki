@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: belland-2017
     resource: "https://doi.org/10.3102/0034654316670999"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Across 333 outcomes from 144 studies, students receiving computer-based scaffolding did better on cognitive tests than controls, with the overall mean effect greater than 0 at a statistically significant level, z = 18.19, p < .01. [→ Belland 2017](#belland-2017)

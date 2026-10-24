@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: porter-2026
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Consortium research found that school and teacher effects on students' school experiences, measured on surveys, influence trajectories from early childhood through adulthood even more than effects on academic achievement measures. [→ Porter 2026](#porter-2026)

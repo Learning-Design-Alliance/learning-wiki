@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: survey-2
     title: survey-2
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the post-convening survey, 96 percent of district leaders agreed they had formed new connections to colleagues in other districts, 96 percent planned to connect with a colleague from another district, and 46 percent had already been in contact. [→ survey-2](#survey-2)

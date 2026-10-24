@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: gerry-stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9142-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In his editorial, Stahl draws a common theme of teacher guidance from three papers in the issue: Greiffenhagen's single ethnomethodological case study of a teacher's classroom rounds (offered as insight, not as an effect on outcomes), Song and Looi's comparative study of two teachers, in whose summary he states that how teachers enact lessons "has a significant impact on the outcomes of student collaborative learning", and Onrubia and Engel's exploratory case study relating teacher assistance to group work and group performance. [→ Gerry Stahl 2012](#gerry-stahl-2012)

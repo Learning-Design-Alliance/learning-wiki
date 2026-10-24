@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: louise-david-2024
     resource: "https://doi.org/10.1007/s10648-024-09903-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The review reports, citing Baars et al. (2020), an overall negative medium-sized correlation between effort and monitoring judgments, no longer significant for studies with goal-driven manipulations. [→ Louise David 2024](#louise-david-2024)

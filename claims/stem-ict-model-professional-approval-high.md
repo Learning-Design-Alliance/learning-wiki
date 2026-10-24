@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: changpetch-seechaliao-2020
     resource: "https://doi.org/10.5539/ies.v13n1p69"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Professional assessment of the qualified model yielded an overall average arithmetic mean of 4.04 (S.D. 0.92), a high level of approval. [→ Changpetch & Seechaliao 2020](#changpetch-seechaliao-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-xu-2026
     resource: "https://doi.org/10.3390/bs16081378"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The estimated association of school-based intelligent environment support with innovative competence was stronger at medium-to-low levels of innovative competence and declined thereafter. [→ Liu Xu 2026](#liu-xu-2026)

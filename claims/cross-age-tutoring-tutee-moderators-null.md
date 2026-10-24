@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: chang-2025
     resource: "https://doi.org/10.1007/s10648-025-09997-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Tutee effects did not depend on number of sessions (b = −0.00, p > 0.05), tutor type (b = 0.09, p > 0.05), tutee risk type (b = 0.07, p > 0.05), or subject (b = −0.19, p > 0.05). [→ Chang 2025](#chang-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: ahmed-saz-p-2015
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6989808/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a lab-based reappraisal paradigm, regulation success, defined as percentage decrease in self-reported negative affect on decrease versus look trials for negative stimuli, improved with age across participants aged 10-23, following both linear and quadratic trends. [→ Ahmed Saz P. 2015](#ahmed-saz-p-2015)

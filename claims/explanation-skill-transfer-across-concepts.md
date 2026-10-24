@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: xiaojuan-ke-kristie-j-newton-2024
     resource: "https://doi.org/10.1007/s11251-024-09668-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Students who received Unit 1 intervention materials scored significantly higher on the Unit 2 pretest explanation part (Cohen's d = 0.424), suggesting transfer of written explanation skills across mathematical concepts. [→ Xiaojuan Ke · Kristie J. Newton 2024](#xiaojuan-ke-kristie-j-newton-2024)

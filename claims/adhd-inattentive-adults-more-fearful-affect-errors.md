@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: miller-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950374/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The ADHD-I group made significantly more fearful emotion errors than the control group (p = .018), with a large effect size (d = 0.93). [→ Miller 2011](#miller-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jacob-2026
     resource: "https://doi.org/10.51388/20.500.12265/294"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Committees that built in genuine instructional input produced guidelines faculty trusted and used; those that did not produced policies faculty ignored or worked around. [→ Jacob 2026](#jacob-2026)

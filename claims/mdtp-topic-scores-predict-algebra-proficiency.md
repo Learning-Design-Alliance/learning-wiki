@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-17
+recheck_by: 2019
 sources:
   - id: chun-wei-huang-2016
     resource: "https://eric.ed.gov/?id=ED567123"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Scores on five of the seven MDTP topics are significant predictors of students’ odds of achieving proficiency on the algebra I CST in grade 8, even after controlling for grade 6 CST scale score; a one percentage point increase on the integers topic is associated with a 26 percent increase in the odds. [→ Chun-Wei Huang 2016](#chun-wei-huang-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 1992
 sources:
   - id: smagorinsky-1992
     resource: "https://doi.org/10.3102/00346543062003279"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 1992 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Hillocks's meta-analysis of exemplary experimental composition studies from 1963-1983 concluded that instruction teaching task-specific composing procedures via an inquiry focus was most effective. [→ Smagorinsky 1992](#smagorinsky-1992)

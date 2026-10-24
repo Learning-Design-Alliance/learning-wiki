@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Children with ADHD are approximately four times more likely to be rejected by peers than typical children, and 52–82% score greater than 1 SD above the classroom mean in peer rejection. [→ Mikami 2015](#mikami-2015)

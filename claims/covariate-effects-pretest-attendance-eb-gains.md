@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: vadasy-2023
     resource: "https://doi.org/10.1080/02702711.2023.2166636"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Higher pretest early literacy skills predicted 10-12% lower growth on the three taught letter outcomes. [→ Vadasy 2023](#vadasy-2023)

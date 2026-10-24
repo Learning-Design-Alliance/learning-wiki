@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yao-x-c-and-fan-l-2026
     title: Yao X-C and Fan L 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Comprehension correlated with revision quality at r = 0.501, stronger than diagnostic accuracy (r = 0.445) and actionability (r = 0.480). [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

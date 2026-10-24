@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: rickles-2016
     resource: "https://www.air.org/CreditRecovery"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` About three of every four students who failed an Algebra I semester also failed three or more semesters of core courses, and only 13% were on track to graduate versus 91% of students who passed Algebra I. [→ Rickles 2016](#rickles-2016)

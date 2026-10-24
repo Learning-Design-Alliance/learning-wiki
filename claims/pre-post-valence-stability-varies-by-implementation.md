@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: hartikainen-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102474"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the flipped learning group the within-student association between pre- and post-event valence was not statistically significant, whereas the between-student association was weak and positive (τb = 0.12, p = .028). [→ Hartikainen 2026](#hartikainen-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: pontifex-2016
     resource: "https://doi.org/10.1038/srep38148"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Individuals who spent more time sedentary 0:56:20 to 1:51:20 following encoding exhibited a greater proportion of items maintained across the 12-hour retention interval. [→ Pontifex 2016](#pontifex-2016)

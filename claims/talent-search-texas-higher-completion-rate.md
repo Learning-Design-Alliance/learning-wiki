@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: talent-search-2006
     resource: "http://www.ed.gov/programs/triotalent/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i1` small
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In the Texas quasi-experimental study, Talent Search participants earned a diploma or GED at a significantly higher rate (86%) than propensity-matched comparison students (77%), with an effect size of 0.37. [→ Talent Search 2006](#talent-search-2006)

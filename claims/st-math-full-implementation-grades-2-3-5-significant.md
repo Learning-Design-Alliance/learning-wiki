@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2014
 sources:
   - id: staci-wendt-2014
     resource: "https://nces.ed.gov/ccd/elsi/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grades 2, 3, and 5 that fully implemented ST Math had significantly higher scale scores and larger advanced and proficient-or-advanced proportions than matched comparison grades; no statistically significant differences were found on any outcome for grade 4. [→ Staci Wendt 2014](#staci-wendt-2014)

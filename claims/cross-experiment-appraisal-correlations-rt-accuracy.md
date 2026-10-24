@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: emely-hoch-2023
     resource: "https://doi.org/10.1007/s10648-023-09779-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Averaged across experiments 1–3, mean within-participant appraisal-response time correlations were 0.49 (goal-driven effort), 0.46 (data-driven effort), 0.41 (difficulty), and −0.21 (confidence), all significant. [→ Emely Hoch 2023](#emely-hoch-2023)

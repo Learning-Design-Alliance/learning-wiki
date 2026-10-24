@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: leclercq-2010
     resource: "https://doi.org/10.1037/a0018540"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reverse-direction regressions predicting serial order STM at Age 5 from vocabulary at Age 4 were not significant after controls, supporting the directionality of the STM-to-vocabulary prediction. [→ Leclercq 2010](#leclercq-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: valentina-nachtigall-2021
     resource: "https://doi.org/10.1007/s11251-021-09556-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the eight OSL studies the review tabulates, effects of the authentic location on knowledge acquisition and achievement range from positive to null to negative, and motivational findings are likewise inconsistent. [→ Valentina Nachtigall 2021](#valentina-nachtigall-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1997
+recheck_by: 2002
 sources:
   - id: roderick-1997
     resource: "https://consortium.uchicago.edu/publications/habits-hard-break-new-look-truancy-chicagos-public-high-schools"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2002**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Half of entering ninth graders missed two or more weeks in at least one major subject in the first semester, and 89 percent of first-semester extreme truants ended the year with similar or worse attendance. [→ Roderick 1997](#roderick-1997)

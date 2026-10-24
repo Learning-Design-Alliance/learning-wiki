@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: margaret-ellis-2026
     resource: "https://doi.org/10.48550/arxiv.2606.30908"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Week 13 advice-to-future-students reflections, students predominantly recommended office hours and commented on how helpful the TAs were, while recommending LLMs for assistance tasks like test cases or documentation. [→ Margaret Ellis 2026](#margaret-ellis-2026)

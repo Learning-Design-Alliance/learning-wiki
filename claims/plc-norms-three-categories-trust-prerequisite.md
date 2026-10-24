@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: harvey-2022
     resource: "https://eric.ed.gov/?id=EJ1361397"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In schools where collaboration norms were established, productive norms belonged to three categories: supporting active participation, reflection and critical inquiry; supporting open communication and trust; and directing teachers' attention towards an object, with trust norms acting as prerequisites for critical inquiry. [→ Harvey 2022](#harvey-2022)

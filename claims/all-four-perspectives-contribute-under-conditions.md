@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: slavin-2014
     resource: "https://doi.org/10.6018/analesps.30.3.201201"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There are conditions under which methods derived from all four theoretical perspectives — motivational, social cohesion, developmental, and cognitive elaboration — contribute to achievement gain. [→ Slavin 2014](#slavin-2014)

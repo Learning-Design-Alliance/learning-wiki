@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: sherman-2020
     resource: "https://doi.org/10.22492/ije.8.3.05"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Instructors' coded responses for gain (140 segments) outnumbered beauty (77) and good (76), suggesting teachers value skill and knowledge outcomes over aesthetic or societal value. [→ Sherman 2020](#sherman-2020)

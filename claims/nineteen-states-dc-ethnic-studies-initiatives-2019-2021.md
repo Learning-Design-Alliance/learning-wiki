@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: sylvia-kwon-2021
     resource: "https://eric.ed.gov/?id=ED612757"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The scan summarizes recent legislative initiatives in 19 states plus DC that require ethnic studies incorporation in K-12 standards or curricula. [→ Sylvia Kwon 2021](#sylvia-kwon-2021)

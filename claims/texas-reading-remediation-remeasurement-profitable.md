@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1920
 sources:
   - id: a-i-g-1920
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Re-measurement and interpretation of final scores after four months of remedial work indicated that regular teacher use of the diagnosis procedures would prove profitable. [→ A. I. G 1920](#a-i-g-1920)

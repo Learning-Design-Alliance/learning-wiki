@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: donoghue-hattie-2021
     resource: "https://doi.org/10.3389/feduc.2021.581216"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium · n=242 studies
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 Whether the effects of the ten learning techniques fade with the delay between study and test.
 

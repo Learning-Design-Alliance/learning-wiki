@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lixiang-yan-2026
     resource: "https://doi.org/10.48550/arxiv.2605.23426"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across 1,572 identity judgments by 786 participants, signal detection sensitivity for distinguishing AI from human teammates was near chance (d' = 0.117). [→ Lixiang Yan 2026](#lixiang-yan-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: herbert-w-marsh-2022
     resource: "https://doi.org/10.1007/s10648-022-09662-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Ehm et al. (2019) found support for the reciprocal effects model with CLPMs but not RI-CLPMs for reading constructs in young primary school students, with no significant cross-paths in either direction. [→ Herbert W. Marsh 2022](#herbert-w-marsh-2022)

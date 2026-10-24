@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2005
 sources:
   - id: ginns-2005
     resource: "https://doi.org/10.1016/j.learninstruc.2005.07.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Across four within-subjects experiments, the weighted mean standardised mean gain of audio-visual over visual-only presentation was d = 0.73, with homogeneous effects. [→ Ginns 2005](#ginns-2005)

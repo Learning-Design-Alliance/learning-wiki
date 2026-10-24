@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: growth-mindset-interventions-2022
     resource: "https://whatworks.ed.gov"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q4` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` In a cluster RCT, the intervention group's course passing rate exceeded the laughter/stress comparison group's (64.8 vs 32.8, effect size 0.80, improvement index +29), but was not statistically significant (p = .17). [→ Growth Mindset Interventions 2022](#growth-mindset-interventions-2022)

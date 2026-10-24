@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: allen-2022
     resource: "https://doi.org/10.1007/s10648-021-09633-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The need to belong in human motivation is relevant across disciplines studying human behavior and is of immense importance to educational psychology. [→ Allen 2022](#allen-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: digital-promise-2020
     resource: "https://doi.org/10.51388/20.500.12265/99"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Baseline ratings on seven capacity dimensions averaged 1.92 to 2.75 on a 1-4 scale, with course redesign capacity lowest and leader support highest. [→ Digital Promise 2020](#digital-promise-2020)

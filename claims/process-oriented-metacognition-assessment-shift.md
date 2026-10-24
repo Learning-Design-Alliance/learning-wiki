@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: roger-azevedo-2020
     resource: "https://doi.org/10.1007/s11409-020-09231-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` There has been a recent surge in research using process-oriented methods such as combining concurrent think-louds, log files, eye tracking, and screen recordings, though researchers continue to grapple with validity, reliability, missing data, and temporally aligning data. [→ Roger Azevedo 2020](#roger-azevedo-2020)

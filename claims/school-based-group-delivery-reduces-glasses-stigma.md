@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: dudovitz-2016
     resource: "https://doi.org/10.1007/s10995-015-1882-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants reported students felt more comfortable wearing glasses when peers also wore them, and that choosing their own frames made children active partners in the decision to wear glasses. [→ Dudovitz 2016](#dudovitz-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "http://www.pearsondigital.com/pdfs/werp/researchsummary-werp.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The single study's one comprehension outcome (Stanford-Binet Vocabulary subtest) showed an effect size that was neither statistically significant nor substantively important, yielding a WWC rating of no discernible effects. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

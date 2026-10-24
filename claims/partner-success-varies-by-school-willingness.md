@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: fred-m-newmann-2000
     resource: "https://ccsr.uchicago.edu/sites/default/files/publications/ExternalPartners.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Partners' accomplishments differ meaningfully across schools within the same network, depending on local educators' receptiveness to working with external agents and implementing their ideas. [→ Fred M. Newmann 2000](#fred-m-newmann-2000)

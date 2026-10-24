@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: sara-riazi-and-pedram-rooshenas-2026
     resource: "https://doi.org/10.48550/arxiv.2610.00870"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In sampled trajectories, an inaccurate hidden diagnosis could remain hidden behind educator-authored conceptual content, be incorporated by the student, or coexist with correct recommendations that students selectively adopted; correct explicit feedback did not guarantee the intended artifact change. [→ Sara Riazi and Pedram Rooshenas 2026](#sara-riazi-and-pedram-rooshenas-2026)

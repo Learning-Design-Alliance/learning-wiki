@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hoyun-cho-2026
     resource: "https://doi.org/10.1007/s10648-026-10210-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Across summarizing, mapping, and self-explaining, AI reconfigures the learner's role from producer of meaning to evaluator of AI-generated meaning, and whether evaluation can approximate the cognitive demands of production is an open design question. [→ Hoyun Cho 2026](#hoyun-cho-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: stuart-luppescu-and-holly-hart-2005
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-sample-elementary-details-2005"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` At the reported school, 179 of 207 sixth- through eighth-grade students returned surveys (86.4 percent response rate), and 45 of 50 teacher surveys yielded an approximate 90 percent teacher response rate. [→ Stuart Luppescu and Holly Hart 2005](#stuart-luppescu-and-holly-hart-2005)

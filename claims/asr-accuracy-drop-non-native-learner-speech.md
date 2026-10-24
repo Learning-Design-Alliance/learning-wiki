@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: guo-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29672"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Dictation systems transcribed native speakers at 90.25% accuracy but Chinese-L1 speakers at 72.45%, and their accuracy did not correlate with human intelligibility judgments. [→ Guo 2026](#guo-2026)

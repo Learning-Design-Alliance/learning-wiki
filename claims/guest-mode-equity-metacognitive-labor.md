@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 5,155 filtered events (69.9%) occurred in guest mode versus 2,224 events (30.1%) from logged-in users, revealing tension between lightweight help and durable learning records. [→ guest-telemetry](#guest-telemetry)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: desoete-2019
     resource: "https://doi.org/10.1007/s11858-018-01020-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` More than half of the variance in January accuracy and less than one-fifth of the variance in January fluency predicted children's mathematics performances in June. [→ Desoete 2019](#desoete-2019)

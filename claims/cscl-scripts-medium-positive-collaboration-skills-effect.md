@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: radkowitsch-2020
     resource: "https://doi.org/10.1007/s11412-020-09316-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Learning with CSCL scripts yields a significant medium-sized positive summary effect on collaboration skills (Hedges' g = 0.72; g = 0.59 excluding two outlier studies). [→ Radkowitsch 2020](#radkowitsch-2020)

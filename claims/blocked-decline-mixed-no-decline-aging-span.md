@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: chiappe-2000
     resource: "https://doi.org/10.3758/bf03211570"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The blocked design showed span increasing until about age 20 then declining, whereas the mixed design showed increases across the life span with no adult decline except for poor readers. [→ Chiappe 2000](#chiappe-2000)

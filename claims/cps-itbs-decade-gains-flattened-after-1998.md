@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: todd-rosenkranz-2002
     resource: "https://consortium.uchicago.edu/publications/2001-cps-trend-review-iowa-tests-basic-skills"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` ITBS grade-equivalent trends from 1990 to 2001 show considerably higher scores for all age groups than at the start of the 1990s, but 2001 reading and math scores for ages nine through eleven were less than 0.1 GE higher than in 1998. [→ Todd Rosenkranz 2002](#todd-rosenkranz-2002)

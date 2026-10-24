@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2017
 sources:
   - id: geary-2012
     resource: "https://doi.org/10.1177/0022219410392046"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Group differences on the WMTB-C were significant for phonological loop (d = 2.17), visuospatial sketch pad (d = 1.25), and central executive (d = 2.67), with MLD children lowest on all measures. [→ Geary 2012](#geary-2012)

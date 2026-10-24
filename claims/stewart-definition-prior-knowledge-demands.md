@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: burgos-2021
     resource: "https://doi.org/10.17583/redimat.2021.6778"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The OSA analysis of Stewart's (2016) definition of the integral as the limit of Riemann sums shows the reader must relate many object types (functions, intervals, partitions, sample points) and recognize each one's role in the definition process. [→ Burgos 2021](#burgos-2021)

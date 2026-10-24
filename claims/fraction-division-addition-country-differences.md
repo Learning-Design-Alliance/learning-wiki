@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: torbeyns-2015
     resource: "https://doi.org/10.1016/j.learninstruc.2014.03.002"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Fraction division accuracy showed a large main effect of Country (partial eta² = .48), with Chinese > Belgian > U.S. students. [→ Torbeyns 2015](#torbeyns-2015)

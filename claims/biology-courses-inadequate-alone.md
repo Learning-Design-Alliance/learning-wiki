@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: foster-1911
     resource: "https://www.google.com/search?q=%22School+Instruction+in+Matters+of+Sex%22+Foster"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Courses in biology should be at least supplemented by more personal and direct means, because they come too late, are insufficient in content, and most teachers are unprepared. [→ Foster 1911](#foster-1911)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: mccorkle-2025
     resource: "https://doi.org/10.14434/ijdl.v16i2.41058"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author reports the design-based approach provides a transparent and equitable Generative AI policy for students and leads instructors to think deeply about what they are assessing. [→ McCorkle 2025](#mccorkle-2025)

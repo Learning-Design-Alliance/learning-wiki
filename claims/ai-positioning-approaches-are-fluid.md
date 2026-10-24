@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: hillary-greene-nolan-2024
     resource: "https://doi.org/10.51388/20.500.12265/226"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Convening teachers agreed the approaches were accurate but not static: a teacher could take one approach one day and another the next, or progress across approaches over time. [→ Hillary Greene Nolan 2024](#hillary-greene-nolan-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kaşarcı-ismail-2026
     resource: "https://doi.org/10.3390/bs16071050"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes -->
 
 ## Subclaims

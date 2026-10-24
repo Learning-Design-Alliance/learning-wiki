@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: breakstone-2021
     resource: "https://doi.org/10.37016/mr-2020-56"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On a task about climate-change denial websites, students leaving the original site to consult at least one other source rose from 3 of 87 at pretest to 67 of 87 at posttest. [→ Breakstone 2021](#breakstone-2021)

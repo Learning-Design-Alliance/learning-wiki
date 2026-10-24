@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nick-huntington-klein-2026
     resource: "https://doi.org/10.48550/arxiv.2605.08812"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Year-specific coefficients are 0.0100 (0.0066) in 2023, -0.0017 (0.0046) in 2024 and 0.0172 (0.0160) in 2025, none statistically distinguishable from zero. [→ Nick Huntington-Klein 2026](#nick-huntington-klein-2026)

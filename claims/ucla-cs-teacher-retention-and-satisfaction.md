@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: karen-hunter-quartz-2023
     resource: "https://eric.ed.gov/?id=ED642538"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Teacher retention exceeded the national average for high-poverty urban schools, with 90% of teachers retained between 2019-20 and 2020-21. [→ Karen Hunter Quartz 2023](#karen-hunter-quartz-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: progress-learning-evidence-summary-2024
     resource: "https://www.progresslearning.com/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grade 5 students using Progress Learning showed a statistically significant positive effect on NWEA MAP science scores (effect size = +0.11). [→ Progress Learning evidence summary 2024](#progress-learning-evidence-summary-2024)

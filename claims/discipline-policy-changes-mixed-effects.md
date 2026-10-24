@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: sartain-2014
     resource: "https://consortium.uchicago.edu/publications/suspending-chicagos-students-differences-discipline-practices-across-schools"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Shortening suspension length was associated with improved attendance but worse school climate, mostly affecting schools with the highest suspension rates. [→ Sartain 2014](#sartain-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: elaine-allensworth-2008
     resource: "https://consortium.uchicago.edu/publications/high-school-future-act-preparation-too-much-too-late"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The more schools develop a college-going culture—teachers preparing all students for college, students feeling pushed to prepare, and class work felt to prepare them for college—the higher their students' ACT scores. [→ Elaine Allensworth 2008](#elaine-allensworth-2008)

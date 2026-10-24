@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: daniel-j-mitchell-2018
     resource: "https://doi.org/10.1037/pag0000265"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reported uncertainty declined with age at loads 1 and 2 (load 1: r = -0.14, p < .001; load 2: r = -0.13, p < .01) but not at loads 3 through 4. [→ Daniel J. Mitchell 2018](#daniel-j-mitchell-2018)

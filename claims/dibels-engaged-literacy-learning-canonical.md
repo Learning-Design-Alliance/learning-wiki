@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: rouse-2006
     resource: "https://doi.org/10.1080/02796015.2006.12087971"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Canonical analysis yielded one significant variate pair, Engaged Literacy Learning (Rc = .26), with positive loadings for Play Interaction and negative loadings for Play Disconnection. [→ Rouse 2006](#rouse-2006)

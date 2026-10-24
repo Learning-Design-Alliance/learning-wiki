@@ -7,6 +7,8 @@ generated:
   at: 2026-10-19
 id: course-context-helps-sparse-items-and-dilutes-rich-ones
 evidence_strength:
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: porcaro-2026
     resource: "https://doi.org/10.5281/zenodo.23480844"
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
 In this release's evidence records and interpretation (the finding is not in its article), course context — the other questions or skills a course covers — raised an LLM grader's agreement on one corpus of terse answers (by 0.022–0.035 in quadratic-weighted kappa) and lowered it on one of long answers (by 0.028–0.034), each in a single run at the edge of the instrument's ±0.02 resolution. The release offers signal density as a candidate reading, a hypothesis to test rather than a finding: surrounding material helps terse answers that carry little signal and dilutes long ones that already carry plenty. Relatedness was not detected to matter. The observation leads; the mechanism is a candidate.

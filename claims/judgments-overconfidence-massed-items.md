@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1980
 sources:
   - id: zechmeister-1980
     resource: "https://doi.org/10.3758/bf03329756"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 1980 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Ratings of recall likelihood were consistently greater for MP than DP items in each study block, though the overall mean difference was not statistically significant. [→ Zechmeister 1980](#zechmeister-1980)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ouhao-chen-fred-paas-john-sweller-2021
     resource: "https://doi.org/10.1007/s10648-021-09613-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a systematic review, all 48 studies classified as spacing studies obtained the spacing effect and used rest-from-deliberate-learning periods ranging from 30 s to days or months. [→ Ouhao Chen & Fred Paas & John Sweller 2021](#ouhao-chen-fred-paas-john-sweller-2021)

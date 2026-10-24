@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-17
 sources:
   - id: elke-peters-and-stuart-webb-2018
     resource: "https://doi.org/10.1017/S0272263117000407"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning from viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness. [→ Elke Peters and Stuart Webb 2018](#elke-peters-and-stuart-webb-2018)

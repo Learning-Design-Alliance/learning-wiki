@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: yun-hwa-noh-hee-jeong-kim-2026
     resource: "https://doi.org/10.63311/mathedu.26.6525"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Content and ethical roles appeared together in AI-correcting and AI-mediating episodes, where the teacher judged AI feedback against curriculum standards and fostered students' critical acceptance. [→ Yun Hwa Noh & Hee-jeong Kim 2026](#yun-hwa-noh-hee-jeong-kim-2026)

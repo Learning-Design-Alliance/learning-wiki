@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: bagale-2025
     resource: "https://doi.org/10.48550/arxiv.2607.12295"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Negative peaks clustered around identifiable controversies: the collapse of Google's AI Ethics Board (April 2019), the firing of Timnit Gebru (February 2021), and post-ChatGPT academic-integrity concerns (February 2023). [→ Bagale 2025](#bagale-2025)

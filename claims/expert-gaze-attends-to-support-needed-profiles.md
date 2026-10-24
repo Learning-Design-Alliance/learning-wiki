@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-22
 sources:
   - id: seidel-2021
     resource: "https://doi.org/10.1007/s10648-020-09532-2"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2021 · checked against its sources 2026-10-22 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the seatwork scene, experts showed significantly more fixations on the uninterested, underestimating, and struggling students than novices did. [→ Seidel 2021](#seidel-2021)

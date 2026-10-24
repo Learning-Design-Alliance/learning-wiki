@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: heinonen-2023
     resource: "https://doi.org/10.1007/s11251-022-09603-7"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Prospective teachers had more misconceptions than current faculty at pre-test (Z = −2.048, p = 0.041) and at post-test (Z = −3.108, p = 0.002). [→ Heinonen 2023](#heinonen-2023)

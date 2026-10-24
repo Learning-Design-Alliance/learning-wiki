@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: imagine-im-evidence-rating-2024
     resource: "https://evidenceforessa.org/program/imagine-learning-illustrative-mathematics/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` A study of over 700 students in grades K-5 in a rural fringe public school district in Maryland found significant impacts on Acadience Math (effect size = +0.26) and Grade 2 NWEA MAP Growth Math (effect size = +0.39), while effects on the state MCAP assessment (Grades 4-5) were positive but not statistically significant. [→ Imagine IM: Evidence Rating 2024](#imagine-im-evidence-rating-2024)

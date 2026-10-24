@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cameron-mohne-2026
     resource: "https://doi.org/10.48550/arxiv.2603.11444"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Using GPT 4.1-mini for text generation and Whisper-1 for transcription, per-session costs ranged from $0.05 to $0.10, with total hosting and API costs under $5 for 150 users. [→ Cameron Mohne 2026](#cameron-mohne-2026)

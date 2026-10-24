@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: robles-chella-2026
     resource: "https://doi.org/10.5964/sotrap.17345"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some prior studies found more punitive attitudes under stigmatizing labels (Harris & Socia, 2016; Imhoff, 2015; Lowe & Willis, 2020), while Snape and Fido (2022) found no significant relationship between labels and public perceptions. [→ Robles Chella 2026](#robles-chella-2026)

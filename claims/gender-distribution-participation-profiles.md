@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: sedova-2023
     resource: "https://doi.org/10.1007/s11251-022-09609-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Profile membership differed by gender (χ²(4) = 12.14, p = 0.02), with more boys than expected among disconnected students and more girls than expected among diligent students. [→ Sedova 2023](#sedova-2023)

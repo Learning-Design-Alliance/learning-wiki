@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: clear-structure-improves-learning
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: alpizar-et-al-2020
     resource: "https://doi.org/10.1007/s11423-020-09748-7"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 Presenting learning content with an explicit, predictable organization — clear goals, logical sequencing, signposting, and consistent formatting — reduces extraneous processing and helps learners build coherent mental models.
 

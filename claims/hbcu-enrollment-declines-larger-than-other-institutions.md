@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: matthew-t-johnson-2019
     resource: "https://doi.org/10.55504/0884-9153.1627"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` HBCUs experienced larger declines in enrollment than other institutions, particularly for first-year students, after the tightened PLUS credit standards. [→ Matthew T. Johnson 2019](#matthew-t-johnson-2019)

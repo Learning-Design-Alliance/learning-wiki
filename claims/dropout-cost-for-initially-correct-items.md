@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: pyc-2007
     resource: "https://link.springer.com/article/10.3758/BF03193420"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Final test performance for initially correct items was significantly lower in the 23-drop group than in the 23-23-23 group. [→ Pyc 2007](#pyc-2007)

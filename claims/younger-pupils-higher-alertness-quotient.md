@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: l-w-sackett-1917
     resource: "https://books.google.com/books?q=%22Tests+for+Mental+Alertness%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the one large city system, age-grade analysis showed a general downward trend of alertness quotients as pupils' age within the same grade increased, for both boys and girls and on both tests. [→ L. W. Sackett 1917](#l-w-sackett-1917)

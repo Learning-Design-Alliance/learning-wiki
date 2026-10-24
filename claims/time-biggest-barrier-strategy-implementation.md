@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: medha-tare-2022
     resource: "https://doi.org/10.51388/20.500.12265/157"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 91 percent, 83 percent, and 75 percent of educators said they had some or all of the tools, training, and time they needed, respectively, suggesting time is the biggest barrier. [→ Medha Tare 2022](#medha-tare-2022)

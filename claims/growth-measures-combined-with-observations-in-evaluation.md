@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: jeffrey-terziev-2018
     resource: "https://www.mathematica.org/publications/measuring-progress-in-the-classroom-how-do-different-student-growth-measures-compare-fact-sheet"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Growth measures can be combined with other educator performance measures, such as classroom observation scores, to help states, districts, and schools identify the highest- and lowest-performing teachers. [→ Jeffrey Terziev 2018](#jeffrey-terziev-2018)

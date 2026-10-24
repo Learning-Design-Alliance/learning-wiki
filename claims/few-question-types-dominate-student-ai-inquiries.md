@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: matin-amoozadeh-and-amin-alipour-2026
     resource: "https://doi.org/10.48550/arxiv.2608.17919"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Assertion prompts were the most frequent question category in both sessions (S1 = 86, S2 = 82), reflecting students' tendency to report issues or express uncertainty rather than formulate explicit questions. [→ Matin Amoozadeh and Amin Alipour 2026](#matin-amoozadeh-and-amin-alipour-2026)

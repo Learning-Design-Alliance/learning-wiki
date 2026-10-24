@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: jeff-archer-2018
     resource: "https://www.mathematica.org/publications/implementing-online-professional-learning-communities-insights-from-westeds-blended-professional"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article asserts that online professional development lets teachers in different locations meet without traveling, reducing costs, increasing convenience, and supporting community building among participants. [→ Jeff Archer 2018](#jeff-archer-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-19
 sources:
   - id: literacy-express-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/288"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-19 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Farver, Lonigan, and Eppe (2009) found a statistically significant positive effect size of 0.57 on oral language across two vocabulary measures. [→ Literacy Express 2010](#literacy-express-2010)

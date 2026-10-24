@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: moira-mccullough-2016
     resource: "https://www.mathematica.org/publications/do-principals-professional-practice-ratings-reflect-their-contributions-to-student-achievement"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Correlations between FFL scores and principals' contributions to math achievement are higher than correlations with contributions to achievement in other subjects. [→ Moira McCullough 2016](#moira-mccullough-2016)

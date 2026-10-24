@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: nuria-vita-barrull-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101946"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Time and time-group effects were found in all three academic tasks, with the experimental group experiencing the most significant improvement in Reading Fluency, Maths Fluency and Calculus. [→ Nuria Vita-Barrull 2024](#nuria-vita-barrull-2024)

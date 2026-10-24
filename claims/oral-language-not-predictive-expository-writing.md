@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-19
 sources:
   - id: kim-young-suk-2015
     resource: "https://doi.org/10.1016/j.lindif.2014.11.009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For expository writing quality, among the kindergarten skill predictors only lexical literacy was uniquely related; oral language, attention and letter writing automaticity were not (ps ≥ .18). The kindergarten treatment-status control was negatively related (β = −.23, p = .009). [→ Kim Young-Suk 2015](#kim-young-suk-2015)

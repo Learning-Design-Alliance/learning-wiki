@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-08
+recheck_by: 2023
 sources:
   - id: seeskin-2020
     resource: "https://consortium.uchicago.edu/publications/the-forgotten-year"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Together, off-track status, a course failure in any course, and freshman attendance below 85 percent flag most (70 percent) of incoming sophomores who did not go on to graduate. [→ Seeskin 2020](#seeskin-2020)

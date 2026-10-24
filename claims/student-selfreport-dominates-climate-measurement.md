@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: castro-2026
     resource: "https://doi.org/10.1007/s10648-026-10192-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 97.97% of included studies used a questionnaire or survey format, and students were respondents in 68.7% of studies, with families involved in only 1.7%. [→ Castro 2026](#castro-2026)

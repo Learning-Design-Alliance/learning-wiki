@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: xinming-yang-2025
     resource: "https://doi.org/10.48550/arxiv.2508.05979"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Except for the more expensive gpt-4o, the models used cost very little, and gpt-4o itself consumed only $169.90 across the deployment. [→ Xinming Yang 2025](#xinming-yang-2025)

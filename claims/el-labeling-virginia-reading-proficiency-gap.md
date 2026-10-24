@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: rolla-2024
     resource: "https://csaa.wested.org/resource/kindergarten-entry-assessments-an-examination-of-best-practices-national-trends-and-recommendations/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Hispanic/Latino children labeled English Learners who began kindergarten with low literacy scores and received interventions were 20 percent less likely to achieve reading proficiency by grade 3 compared with non-Hispanic/Latino white and socioeconomically advantaged peers with similar initial skills. [→ Rolla 2024](#rolla-2024)

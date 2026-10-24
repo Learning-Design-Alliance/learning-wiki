@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: espinoza-2018
     resource: "https://learningpolicyinstitute.org/product/long-view"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Graduates of the national Pathways to Teaching Careers Program stayed in teaching longer than typical beginning teachers and taught in high-need urban and rural schools at a very high rate. [→ Espinoza 2018](#espinoza-2018)

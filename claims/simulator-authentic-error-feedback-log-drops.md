@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: giulia-messina-dahlberg-susanne-gustavsson-2025
     resource: "https://doi.org/10.1007/s11251-025-09714-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In Excerpt 2 Sequence 7, when the student opened the grapple to position a log, another log fell from the cargo space, and the simulator responded in an authentic manner to the student's handling. [→ Giulia Messina Dahlberg · Susanne Gustavsson 2025](#giulia-messina-dahlberg-susanne-gustavsson-2025)

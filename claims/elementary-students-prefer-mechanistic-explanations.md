@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: shtechman-ergazaki-haskel-ittah-2025
     resource: "https://doi.org/10.1080/10508406.2024.2432682"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium · n=53 students, grades 2-6
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 Elementary-age children, across grades 2-6, accept and prefer [mechanistic explanations](../theories/mechanistic-reasoning.md) of biological phenomena over non-mechanistic (teleological or circular) ones significantly more often, applying an explanatory-power criterion tied to "how" question framing and an information-accuracy criterion grounded in their existing biological knowledge.
 

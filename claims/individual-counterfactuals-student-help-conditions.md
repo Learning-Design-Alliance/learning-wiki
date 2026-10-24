@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: francesca-mangili-2026
     resource: "https://doi.org/10.48550/arxiv.2608.24632"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For a student who solved Q5 at the 2D level with scheme help, the counterfactual probability of solving Q5 at 2D without help is one; for Q12 solved at 1D with scheme help, the counterfactual probability of reaching 2D with feedback help is between 0 and 0.76, indicating uncertainty. [→ Francesca Mangili 2026](#francesca-mangili-2026)

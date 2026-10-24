@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-23
 sources:
   - id: oudman-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101907"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Before self-scoring, students reported high confidence in their monitoring judgments (means between 4 and 5 out of 6) and regulation judgments (means around 5), and even more confidence after self-scoring (means between 5 and 6). [→ Oudman 2024](#oudman-2024)

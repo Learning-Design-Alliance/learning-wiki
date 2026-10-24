@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: aydinbek-c-2022
     resource: "https://doi.org/10.5897/ERR2022.4230"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The role of attention in learning is major, since a task-relevant knowledge base will be built up in memory through attention to an object or event. [→ Aydinbek C 2022](#aydinbek-c-2022)

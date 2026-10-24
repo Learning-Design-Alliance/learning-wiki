@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: josmario-albuquerque-2026
     resource: "https://doi.org/10.18608/jla.2026.8905"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Verb ratio and aggressiveness showed statistically significant positive correlations with the bias score (r = 0.193, p < 0.001), while target ethnic and disc arts showed negative correlations. [→ Josmario Albuquerque 2026](#josmario-albuquerque-2026)

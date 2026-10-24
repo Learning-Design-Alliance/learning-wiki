@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: means-2009
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 51 independent effect sizes from experimental or controlled quasi-experimental studies, mean student learning outcomes favored online conditions over face-to-face instruction, with an average effect size of +0.24, statistically significant at p < .01. [→ Means 2009](#means-2009)

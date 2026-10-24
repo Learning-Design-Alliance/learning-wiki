@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: radkowitsch-2020
     resource: "https://doi.org/10.1007/s11412-020-09316-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` For domain learning, scripts prompting coordination alone (g = 0.46) or negotiation and information sharing (g = 0.43) showed significant positive effects, whereas information sharing alone (g = 0.34) was marginally significant and three-way combinations smaller (g = 0.20). [→ Radkowitsch 2020](#radkowitsch-2020)

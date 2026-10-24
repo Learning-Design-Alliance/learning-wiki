@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: summer-learning-and-beyond-opportunities-for-creating-equity-2021
     resource: "https://learningpolicyinstitute.org/product/summer-learning-creating-equity"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Positive developmental relationships are key to learning; anxiety, fear, or trauma impede it. [→ Summer Learning and Beyond: Opportunities for Creating Equity 2021](#summer-learning-and-beyond-opportunities-for-creating-equity-2021)

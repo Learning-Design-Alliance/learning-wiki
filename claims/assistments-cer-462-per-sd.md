@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: feng-2024
     resource: "https://eric.ed.gov/?id=ED655721"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Combining the $46.23 per-participant cost with the 0.10 SD effect yields an approximate cost of $462.30 per student per standard deviation difference on the long-term EOG math assessment. [→ Feng 2024](#feng-2024)

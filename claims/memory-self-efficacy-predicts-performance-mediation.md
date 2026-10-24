@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-19
 sources:
   - id: hastings-2011
     resource: "https://doi.org/10.1080/13825585.2011.575926"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2011 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In a cross-sectional structural equation model, higher memory self-efficacy was associated with better memory performance (β = .16, p<.05). [→ Hastings 2011](#hastings-2011)

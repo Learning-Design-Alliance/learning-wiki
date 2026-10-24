@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: mariann-lemke-2024
     resource: "https://eric.ed.gov/?id=ED663754"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Some benchmarks shift from higher to lower (or vice versa) on the MCAS scale within and across grades, meaning changes in identified percentages over time may partly reflect benchmark changes. [→ Mariann Lemke 2024](#mariann-lemke-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-17
 sources:
   - id: what-works-clearinghouse-2015
     resource: "http://www.acf.hhs.gov/programs/ohs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For the 3-year-old cohort at the end of the intervention year, statistically significant positive effects were confirmed on one social-emotional subscale and on two comparisons based on subgroups formed by mothers' race/ethnicity. [→ What Works Clearinghouse 2015](#what-works-clearinghouse-2015)

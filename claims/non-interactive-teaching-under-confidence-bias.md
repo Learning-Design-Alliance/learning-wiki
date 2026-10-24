@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: lachner-2025
     resource: "https://doi.org/10.1007/s10648-025-10060-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Non-interactive teaching led to stronger under-confidence compared to restudy, measured as bias (predicted minus actual score). [→ Lachner 2025](#lachner-2025)

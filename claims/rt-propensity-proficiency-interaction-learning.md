@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: interaction-1
     title: interaction-1
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There is a significant RT propensity × prior proficiency interaction predicting learning rate (β = 0.11, p = .004), with longer RT propensities associated with steeper opportunity slopes among higher-proficiency students and weakly negative among lower-proficiency students. [→ interaction-1](#interaction-1)

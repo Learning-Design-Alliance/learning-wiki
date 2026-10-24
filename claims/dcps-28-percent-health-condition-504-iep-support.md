@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: martha-bleeker-2021
     resource: "https://ies.ed.gov/ncee/rel/regions/midatlantic.asp"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Among students with a reported health condition in DCPS, 28 percent receive support through a Section 504 plan or an individualized education program. [→ Martha Bleeker 2021](#martha-bleeker-2021)

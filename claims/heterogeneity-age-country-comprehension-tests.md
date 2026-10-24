@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: baker-2022
     resource: "https://doi.org/10.1007/s10648-022-09694-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A large heterogeneity across studies in component–comprehension effect sizes is explained in part by learner age, the country where the study was conducted, and the reading comprehension tests used. [→ Baker 2022](#baker-2022)

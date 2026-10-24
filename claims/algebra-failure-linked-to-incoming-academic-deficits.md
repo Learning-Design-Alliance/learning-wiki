@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: rickles-2016
     resource: "https://www.air.org/CreditRecovery"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students who failed Algebra I were more likely to have entered high school with math achievement in the bottom quintile (30% vs. 17%) and lower average prior percentiles, but 23% of them were in the top two mathematics quintiles. [→ Rickles 2016](#rickles-2016)

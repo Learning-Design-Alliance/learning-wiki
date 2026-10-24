@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: reed-2026
     resource: "https://doi.org/10.1007/s10805-026-09757-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Undergraduate students demonstrated generally high levels of ethical judgment when classifying six GenAI scenarios, with 57.6% correctly identifying all six scenarios. [→ Reed 2026](#reed-2026)

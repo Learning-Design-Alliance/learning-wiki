@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: frank-n-freeman-1922
     resource: "https://psycnet.apa.org/journals/edu/13/5/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Freeman argues that the popular claim that 90 per cent of sensory experience comes through the eye cannot justify visual education, because sensation does not possess the immediate significance the argument implies and the initiating sense is of minor importance in total experience. [→ Frank N. Freeman 1922](#frank-n-freeman-1922)

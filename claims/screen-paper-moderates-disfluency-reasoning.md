@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: tim-kühl-alexander-eitel-2016
     resource: "https://doi.org/10.1007/s11409-016-9154-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Sidi et al.'s Experiment 2, an interaction between medium and disfluency showed disfluency on screen led to more accurate calibration and better performance, which did not hold on paper. [→ Tim Kühl & Alexander Eitel 2016](#tim-kuhl-alexander-eitel-2016)

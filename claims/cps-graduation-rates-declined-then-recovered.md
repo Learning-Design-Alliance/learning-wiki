@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: montgomery-2010
     resource: "https://consortium.uchicago.edu/publications/passing-through-science-effects-raising-graduation-requirements-science-course-taking"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Graduation rates declined four percentage points in the first year of the policy and another percentage point the next year, after adjusting for student backgrounds and prior achievement, before recovering. [→ Montgomery 2010](#montgomery-2010)

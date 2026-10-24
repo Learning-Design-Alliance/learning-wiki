@@ -26,12 +26,14 @@ sources:
     rigour: "?"
 id: worked-examples-with-practice-improve-transfer
 evidence_strength: moderate
+newest_evidence: 2011
 ---
 
 # Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 theoretical `r?` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence): Pairing worked examples with practice or fading supports transfer better than examples alone. -->
 
 Examples are most instructionally useful when they are followed by opportunities to apply the same structure independently or with gradually reduced support.

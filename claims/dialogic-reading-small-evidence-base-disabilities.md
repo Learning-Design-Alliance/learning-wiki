@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: dialogic-reading-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/136"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 59 reviewed studies, only two met WWC evidence standards (52 students total), and no studies meeting standards examined cognitive development, literacy, math, social-emotional, functional, or physical outcomes. [→ Dialogic Reading 2010](#dialogic-reading-2010)

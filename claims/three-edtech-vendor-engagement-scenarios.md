@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: scenarios-1
     title: scenarios-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Districts encounter edtech mainly via requests for proposals, vendor sales pitches to decision-making roles, and peer recommendations, with a newer scenario of deciding which tools to keep as funding lessens. [→ scenarios-1](#scenarios-1)

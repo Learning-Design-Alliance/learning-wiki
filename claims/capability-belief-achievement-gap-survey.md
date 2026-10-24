@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: digital-promise-global-2019
     resource: "https://doi.org/10.51388/20.500.12265/66"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 77 percent of Americans, 75 percent of parents, and 89 percent of teachers say most students can achieve at high levels with appropriate supports, while only 19 to 29 percent say most students currently do so. [→ Digital Promise Global 2019](#digital-promise-global-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: anna-h-miller-2025
     resource: "https://doi.org/10.1007/s10648-025-10070-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The main effect of instructional focus was not significant (β = −0.01; 95% CI [−0.44, 0.43]), and its interaction with dosage was not significant (β = 0.01, 95% CI [−0.04, 0.06]). [→ Anna H. Miller 2025](#anna-h-miller-2025)

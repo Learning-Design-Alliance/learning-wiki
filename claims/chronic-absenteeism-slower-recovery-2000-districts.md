@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: megan-kuhfeld-2022
     resource: "https://www.nwea.org/research/publication/technical-appendix-for-the-widening-achievement-divide-during-covid-19/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` As described on this page, NWEA researchers analyzed whether persistently high absenteeism rates were associated with slower recovery in math and reading, using MAP Growth data from 2,000 US school districts. [→ Megan Kuhfeld 2022](#megan-kuhfeld-2022)

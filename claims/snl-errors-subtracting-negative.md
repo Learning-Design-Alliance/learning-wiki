@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: jacqueline-anton-2025
     resource: "https://doi.org/10.1007/s11251-025-09707-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among pilot participants, breakdowns on the desk-scale number line occurred particularly on problems involving subtracting a negative number, with other errors on subtracting a positive from a negative (n = 4) and adding a negative to a positive (n = 1). [→ Jacqueline Anton 2025](#jacqueline-anton-2025)

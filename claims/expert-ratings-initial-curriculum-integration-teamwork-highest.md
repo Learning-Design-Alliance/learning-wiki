@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yuanzhe-dong-2026
     resource: "https://doi.org/10.48550/arxiv.2609.25674"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a structured-interview expert review (n=5), integration of AI/robotics content and teamwork were the highest-rated dimensions (both M=4.60, SD=0.89), while assessment (M=3.60) and communication (M=3.40) were comparatively weaker. [→ Yuanzhe Dong 2026](#yuanzhe-dong-2026)

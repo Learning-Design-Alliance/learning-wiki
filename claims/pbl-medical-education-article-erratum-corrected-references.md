@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: marilla-d-svinicki-2007
     resource: "https://doi.org/10.1007/s10648-007-9043-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The publisher issued an erratum correcting the Reference section of the article, supplying corrected references to works on problem-based learning research. [→ Marilla D. Svinicki 2007](#marilla-d-svinicki-2007)

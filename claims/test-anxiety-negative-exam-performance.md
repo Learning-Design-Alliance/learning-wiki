@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-19
 sources:
   - id: conijn-2022
     resource: "https://doi.org/10.1111/jcal.12651"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exam grades were negatively associated with test anxiety (β = -0.30, SE = 0.09, p < 0.001); neither proctoring (p = 0.79) nor the test anxiety × proctoring interaction (p = 0.72) was significant, which shows no detected effect or moderation rather than an absent one. [→ Conijn 2022](#conijn-2022)

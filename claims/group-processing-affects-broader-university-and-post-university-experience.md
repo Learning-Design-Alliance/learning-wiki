@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: lachowsky-2021
     resource: "https://doi.org/10.5278/ojs.jpblhe.v9i2.2883"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants agreed that group processing affected the rest of their university experience (mean=8.1) and their experiences after university (mean=7.9), and believed it impacted their EBL experience (mean=8.3) and learning more broadly (mean=8.5). [→ Lachowsky 2021](#lachowsky-2021)

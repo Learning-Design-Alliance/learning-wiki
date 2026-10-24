@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: li-2025
     resource: "https://doi.org/10.3390/info16100882"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Paired t-tests on ICS across 30 cross-validation folds yield p-values < 0.01 with Cohen's d from 1.2 to 1.8; the Wilcoxon signed-rank test on ExpScore shows p < 0.001, and results withstand Bonferroni correction. [→ Li 2025](#li-2025)

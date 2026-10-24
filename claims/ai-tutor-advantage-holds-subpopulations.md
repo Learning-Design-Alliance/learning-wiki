@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kestin-2025
     resource: "https://doi.org/10.1038/s41598-025-97652-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students both below and above 40% on pre-instruction FCI scores showed significantly better post-test performance with AI tutoring (p < 0.001), as did students below and above the 65% CLASS benchmark. [→ Kestin 2025](#kestin-2025)

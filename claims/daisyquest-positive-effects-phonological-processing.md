@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: daisyquest-for-preschool-children-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across two RCTs meeting WWC evidence standards, DaisyQuest produced statistically significant positive effects on phonological processing, with a domain-average effect size of 0.68 and an average improvement index of +25 percentile points. [→ DaisyQuest for Preschool Children 2006](#daisyquest-for-preschool-children-2006)

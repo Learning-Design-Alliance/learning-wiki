@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: klevan-2026
     resource: "https://doi.org/10.54300/677.130"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participating CCSPP schools reduced chronic absence by approximately 9% more and improved math proficiency rates by approximately 10% more than similar high-need schools without CCSPP grants. [→ Klevan 2026](#klevan-2026)

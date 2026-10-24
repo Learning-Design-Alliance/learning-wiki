@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: paul-ginns-jimmie-leppink-2019
     resource: "https://doi.org/10.1007/s10648-019-09474-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Physically moving with an index finger along a poster displaying a cycle such as the water cycle can reduce extraneous cognitive load and result in better learning outcomes. [→ Paul Ginns & Jimmie Leppink 2019](#paul-ginns-jimmie-leppink-2019)

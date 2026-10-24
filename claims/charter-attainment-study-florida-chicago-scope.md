@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-09
+recheck_by: 2014
 sources:
   - id: kevin-booker-2011
     resource: "https://www.mathematica.org/publications/the-effects-of-charter-high-schools-on-educational-attainment"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` The article analyzes the relationship between charter high school attendance and educational attainment in Florida and Chicago. [→ Kevin Booker 2011](#kevin-booker-2011)

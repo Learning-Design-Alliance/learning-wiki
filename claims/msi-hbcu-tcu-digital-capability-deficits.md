@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: msi-1
     title: msi-1
@@ -21,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Minority-Serving Institutions, HBCUs, and TCUs are historically lower-resourced than other institutions, resulting in stark capability deficits in new hardware, software, and digital technologies and struggles to pay for reliable broadband. [→ msi-1](#msi-1)

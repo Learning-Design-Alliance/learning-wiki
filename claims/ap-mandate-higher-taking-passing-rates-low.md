@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: alyson-burnett-2021
     resource: "https://ies.ed.gov/ncee/projects/region/mid-atlantic"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In three of the four high schools that adopted an AP enrollment mandate during the study period, AP exam taking and passing rates were higher after the mandate went into place. [→ Alyson Burnett 2021](#alyson-burnett-2021)

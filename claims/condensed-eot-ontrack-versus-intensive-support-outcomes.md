@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: seeskin-2022
     resource: "https://toandthrough.uchicago.edu/middle-grades-network-improvement-community"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Students in grades 3-8 in the On-Track category graduated high school at 93 percent versus 39 percent for Intensive Support students, and enrolled in college at 72 percent versus 16 percent. [→ Seeskin 2022](#seeskin-2022)

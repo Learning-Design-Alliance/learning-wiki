@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: tiina-leino-lindell-2026
     resource: "https://doi.org/10.1007/s12528-025-09488-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students view mastering GenAI as crucial as acquiring other engineering skills, a shift driven by traditional tools' inadequacies and appreciation of changing labour-market requirements. [→ Tiina Leino Lindell 2026](#tiina-leino-lindell-2026)

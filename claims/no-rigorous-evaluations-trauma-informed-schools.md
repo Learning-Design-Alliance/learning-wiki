@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: maynard-br-2019
     resource: "https://doi.org/10.1002/cl2.1018"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A comprehensive systematic review found no RCT or quasi-experimental studies evaluating trauma-informed approaches in PreK-12 schools, indicating a lack of evidence of effectiveness. [→ Maynard BR 2019](#maynard-br-2019)

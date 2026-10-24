@@ -8,6 +8,8 @@ generated:
 id: manipulatives-require-connection-to-concept
 aliases: [hands-on-without-conceptual-integration-insufficient, fading-advantages-beyond-sum]
 evidence_strength:
+newest_evidence: 2014
+source_checked: 2026-10-14
 sources:
   - id: fyfe-et-al-2014
     resource: "https://doi.org/10.1007/s10648-014-9249-3"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q3` · n=N/A (review)
+> **Currency** · newest study 2014 · checked against its sources 2026-10-14 (automated, 1 of 1 entry) · not reviewed by a person
 
 <!-- title before 2026-10-14: Manipulatives Require Connection To Concept -->
 

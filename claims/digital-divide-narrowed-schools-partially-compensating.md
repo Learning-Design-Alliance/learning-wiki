@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-20
+recheck_by: 2012
 sources:
   - id: vanessa-coca-2007
     resource: "https://consortium.uchicago.edu/publications/trends-access-computing-technology-and-its-use-chicago-public-schools-2001-2005"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Gaps in home computer use across school racial composition and poverty levels decreased by 2003, and the largest school-use increases occurred in predominantly African-American and Latino schools. [→ Vanessa Coca 2007](#vanessa-coca-2007)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: rantavuori-2016
     resource: "http://dx.doi.org/10.14786/flr.v4i3.174"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Although the succession of actions looked like a near-perfect mini-cycle, the newly articulated object of making a choice was not mentioned again after its examination; examining and implementing referred to the transitional object of the theater play. [→ Rantavuori 2016](#rantavuori-2016)

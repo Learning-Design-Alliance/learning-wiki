@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: melnick-2022
     resource: "https://doi.org/10.54300/826.674"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Additional lead TK teacher demand through 2025–26 is projected at 11,900–15,600 above the estimated 4,100 baseline, roughly quadrupling the TK teaching force. [→ Melnick 2022](#melnick-2022)

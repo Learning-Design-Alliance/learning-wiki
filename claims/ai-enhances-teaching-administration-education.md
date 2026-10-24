@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: gerasimos-kalogeratos-2026
     resource: "https://doi.org/10.62225/2583049X.2026.6.3.6209"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-driven technologies enhance teaching and learning processes through personalization and data analytics. [→ Gerasimos Kalogeratos 2026](#gerasimos-kalogeratos-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ahana-biswas-2026
     resource: "https://doi.org/10.48550/arxiv.2608.19616"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Strong verification visibility (sV = 1.0) triggers a counter-cascade to near-complete verification (overreliance 0.00, verification 1.00) and lowers regret to 0.07. [→ Ahana Biswas 2026](#ahana-biswas-2026)

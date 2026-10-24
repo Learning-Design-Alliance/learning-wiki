@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-23
 sources:
   - id: bauer-2020
     resource: "https://doi.org/10.1016/j.learninstruc.2019.101271"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Second-grade children recalled self-derived integration facts at high levels one week after classroom learning, with open-ended recall increasing significantly from Session 1 to Session 2 (d = .40). [→ Bauer 2020](#bauer-2020)

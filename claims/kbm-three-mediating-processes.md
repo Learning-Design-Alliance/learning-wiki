@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: dina-soliman-2026
     resource: "https://doi.org/10.1007/s11412-026-09493-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article identifies (1) idea generation and improvement through collaborative discourse, (2) analytics used for meta-reflection and conceptual reorganization, and (3) model construction for system expansion and refinement. [→ Dina Soliman 2026](#dina-soliman-2026)

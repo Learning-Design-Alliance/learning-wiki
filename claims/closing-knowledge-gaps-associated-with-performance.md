@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: spitzer-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102181"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In a psychological network analysis, Knowledge gaps closed correlated with Performance at r = 0.17, the only partial correlation above .1 with Performance, and significantly stronger than all other variables' associations with Performance. [→ Spitzer 2025](#spitzer-2025)

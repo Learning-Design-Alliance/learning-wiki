@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-09
 sources:
   - id: wise-2019
     resource: "https://www.nwea.org/research/publication/the-relationship-between-test-taking-disengagement-and-performance-on-map-growth-retests/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across initial-to-retest disengagement combinations, reduced rapid guessing on retest was associated with RIT score gains and increased rapid guessing with declines, sometimes exceeding 10 RIT points. [→ Wise 2019](#wise-2019)

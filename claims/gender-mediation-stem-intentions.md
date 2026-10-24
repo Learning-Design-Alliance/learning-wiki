@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: jansen-2020
     resource: "https://nbn-resolving.org/urn:nbn:de:0111-pedocs-220459"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The mediation processes through self-concept and value account partly, but not fully, for gender differences in STEM study intentions, indicating a need for further research. [→ Jansen 2020](#jansen-2020)

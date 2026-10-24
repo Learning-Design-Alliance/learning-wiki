@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1928
 sources:
   - id: greene-1928
     resource: "https://psycnet.apa.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 1928 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In arranging exercises into the two standardized forms, exercises of closely the same value were paired across forms, the ten exercises per form were selected to have the same total values and closely the same inter-exercise interval, and unit values were converted so the total possible score is 100 points. [→ Greene 1928](#greene-1928)

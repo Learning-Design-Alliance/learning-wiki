@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1996
+source_checked: 2026-10-20
 sources:
   - id: goldstone-1996
     resource: "https://doi.org/10.3758/bf03201087"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 1996 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Discriminate-group concepts became significantly more interrelated with practice, with nondiagnostic feature influence dropping from 33% to 10% of diagnostic influence. [→ Goldstone 1996](#goldstone-1996)

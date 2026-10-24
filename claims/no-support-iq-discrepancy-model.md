@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: ozernov-palchik-2017
     resource: "https://doi.org/10.1111/desc.12471"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Deficit groups did not show average IQ with low language skills; instead non-verbal IQ was significantly positively correlated with all Year 1 measures (e.g., PA r = .344). [→ Ozernov-Palchik 2017](#ozernov-palchik-2017)

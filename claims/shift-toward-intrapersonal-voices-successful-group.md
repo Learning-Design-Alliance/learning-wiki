@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: aaron-j-peltoniemi-2025
     resource: "https://doi.org/10.1007/s11412-025-09447-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Group B's dialogue shifted toward intrapersonal voices in the latter part of its collaboration as it negotiated values inputted into the computer and elaborated results, whereas group A consulted the computer or personal self without negotiating inputs among members. [→ Aaron J. Peltoniemi 2025](#aaron-j-peltoniemi-2025)

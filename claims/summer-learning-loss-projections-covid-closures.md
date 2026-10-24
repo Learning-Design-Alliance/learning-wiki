@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-09
+recheck_by: 2025
 sources:
   - id: megan-kuhfeld-2020
     resource: "https://www.nwea.org/research/publication/technical-appendix-for-the-covid-19-slide-what-summer-learning-loss-can-tell-us-about-the-potential-impact-of-school-closures-on-student-academic-achievement/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article's projections of the potential impact of COVID-19 school closures on student academic achievement are derived from summer learning loss patterns. [→ Megan Kuhfeld 2020](#megan-kuhfeld-2020)

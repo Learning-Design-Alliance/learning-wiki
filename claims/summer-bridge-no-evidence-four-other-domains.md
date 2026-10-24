@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: summer-bridge-programs-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/661"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The single study meeting standards reported findings only in the degree attainment (college) domain; the four other postsecondary outcome domains have no studies that meet standards. [→ Summer Bridge Programs 2016](#summer-bridge-programs-2016)

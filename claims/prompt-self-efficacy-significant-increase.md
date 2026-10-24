@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: deliang-wang-and-cunling-bian-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28630"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Paired-sample t-test on 71 students with complete pre- and post-test data showed post-test prompt self-efficacy (M = 3.991, SD = 0.589) was significantly higher than pre-test (M = 3.757, SD = 0.654). [→ Deliang Wang and Cunling Bian 2026](#deliang-wang-and-cunling-bian-2026)

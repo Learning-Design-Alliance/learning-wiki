@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: christ-2026
     resource: "https://doi.org/10.3390/aieduc2030028"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A large-scale German pre–post evaluation found teachers reported more positive school perceptions and reduced pressure, and students reported improved social competence promotion, but overall effects were modest with indications of negative impacts on learning motivation. [→ Christ 2026](#christ-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-18
 sources:
   - id: accelerated-reader-2010
     resource: "http://www.renlearn.com/ar/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized controlled trial across grades 4 and 5, Accelerated Reader showed no statistically significant effect on the DIBELS Oral Reading Fluency subtest, and the WWC-calculated average effect size fell below the 0.25 substantively-important threshold. [→ Accelerated Reader™ 2010](#accelerated-readertm-2010)

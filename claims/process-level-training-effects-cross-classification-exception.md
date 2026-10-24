@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` For the experimental group, all inductive reasoning processes except Cross classification developed significantly; corrected effect sizes were largest for Differentiating relationships (.53) and Recognizing relationships (.42), while Cross classification was .03. [→ Pásztor 2022](#pasztor-2022)

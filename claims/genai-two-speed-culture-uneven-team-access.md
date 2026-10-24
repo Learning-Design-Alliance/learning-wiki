@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: rana-abou-khamis-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28650"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When some teams are restricted from GenAI use, the non-GenAI team may appear less productive despite equally demanding work, creating undue pressure and a two-tier work environment. [→ Rana Abou Khamis 2026](#rana-abou-khamis-2026)

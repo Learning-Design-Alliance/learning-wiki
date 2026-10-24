@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: nakamoto-2022
     resource: "https://eric.ed.gov/?id=ED621271"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Lied treatment students in grade 6 attempted and completed just over one third more STEM credits than comparison students, and grade 7-8 treatment students attempted and completed approximately one more STEM credit, all statistically significant. [→ Nakamoto 2022](#nakamoto-2022)

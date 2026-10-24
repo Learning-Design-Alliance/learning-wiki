@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: raccanello-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101629"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a SEM of 17019 students, e-learning and computer self-efficacy mediated relations between environmental antecedents (class/teacher organization, workload, peer support) and positive and negative achievement emotions, with exceptions for teacher support. [→ Raccanello 2022](#raccanello-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: andreas-widmann-2025
     resource: "https://doi.org/10.1016/j.edurev.2025.100736"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Quantitative studies focused on frequency and mostly identified minor change at macro/meso time levels with up to three measurement points, while qualitative studies identified dynamics, developments and patterns, focused on quality and duration, and used up to 44 measurement points. [→ Andreas Widmann 2025](#andreas-widmann-2025)

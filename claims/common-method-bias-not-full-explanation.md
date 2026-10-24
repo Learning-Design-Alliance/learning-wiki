@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: donker-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101414"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The association between teacher/student perceptions and teacher/student emotions cannot be completely attributed to common-method bias, because overlap between perspectives also accounted for part of the variance. [→ Donker 2021](#donker-2021)

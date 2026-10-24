@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: preiss-david-d-2022
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9500634/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Metacognition might limit creativity during the generative stage by constraining spontaneous new associations, while facilitating creativity during the exploratory stage by enabling assessment of appropriateness. [→ Preiss David D 2022](#preiss-david-d-2022)

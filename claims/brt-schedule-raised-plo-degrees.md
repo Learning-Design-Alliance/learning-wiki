@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: sözen-2024
     resource: "https://doi.org/10.19128/turje.1495965"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The proposal's program-outcomes matrix raises the planned rating of the studio course's contribution from 3 to 4 (on a 0–5 scale) for program learning outcomes 1, 2, 3, 10, 14 and 15, the outcomes the authors intend the new schedule to affect; no outcome was measured. [→ Sözen 2024](#sozen-2024)

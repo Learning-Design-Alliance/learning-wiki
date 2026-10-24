@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: yvonne-m-hemmler-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100629"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Operationalization of variables, setting, and work-relatedness were identified as moderators of the relationships between SRL strategies and associated factors in CE. [→ Yvonne M. Hemmler 2024](#yvonne-m-hemmler-2024)

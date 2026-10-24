@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: dumontheil-iroise-2016
     resource: "https://doi.org/10.1016/j.neuropsychologia.2016.05.001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Participants were less accurate in the Relational (90.3%) than Control (96.3%) condition, F(1,31)=22.98, p<0.001, ηp2=.426. [→ Dumontheil Iroise 2016](#dumontheil-iroise-2016)

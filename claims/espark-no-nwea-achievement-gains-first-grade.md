@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: gadgil-2016
     resource: "https://digitalpromise.dspacedirect.org/items/5364ec3a-0d6d-4252-8885-4484e657fde7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` First-grade students' NWEA reading percentile means declined from fall (76.43) to winter (71.42) and stayed roughly steady in spring (70.74) during eight months of eSpark use, with no pattern of increasing achievement. [→ Gadgil 2016](#gadgil-2016)

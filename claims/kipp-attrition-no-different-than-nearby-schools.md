@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: ira-nichols-barrer-2016
     resource: "https://www.mathematica.org/publications/student-selection-attrition-and-replacement-in-kipp-middle-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student attrition at KIPP middle schools is typically no different from attrition at nearby comparison schools. [→ Ira Nichols-Barrer 2016](#ira-nichols-barrer-2016)

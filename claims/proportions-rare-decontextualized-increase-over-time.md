@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2017
 sources:
   - id: rowe-meredith-l-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3440540/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The proportion of parent word types that were rare and the proportion of utterances that were decontextualized both increased significantly from 18 to 42 months. [→ Rowe Meredith L 2012](#rowe-meredith-l-2012)

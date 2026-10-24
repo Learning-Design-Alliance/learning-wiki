@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: max-2014
     resource: "https://www.mathematica.org/publications/evaluation-of-the-teacher-incentive-fund-implementation-and-early-impacts-of-payforperformance-after"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most teachers and principals are satisfied with their professional opportunities, school environment, and the TIF program. [→ Max 2014](#max-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: meyer-2023
     resource: "https://doi.org/10.1007/s10648-023-09736-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q4` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i0` Neuroticism shows more negative correlations in STEM (ρ = –0.09) than language (ρ = –0.03) domains and with test scores (ρ = –0.10) than grades (ρ = –0.03). [→ Meyer 2023](#meyer-2023)

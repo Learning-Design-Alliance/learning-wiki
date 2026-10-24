@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1997
+recheck_by: 2000
 sources:
   - id: anthony-bryk-1997
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-millard-fillmore-school"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2000**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In spring 1997 the surveys were administered to sixth, eighth, and tenth grade students and to elementary and high school teachers, with 308 elementary schools and 62 high schools receiving individual reports. [→ Anthony Bryk 1997](#anthony-bryk-1997)

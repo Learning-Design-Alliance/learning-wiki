@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mcmahon-2024
     resource: "https://doi.org/10.51388/20.500.12265/211"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 11 survey items about UDL affordances, on average approximately 22% of respondents reported using Equatio to support a given UDL-based practice. [→ McMahon 2024](#mcmahon-2024)

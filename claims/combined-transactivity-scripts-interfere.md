@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: gerry-stahl-2013
     resource: "https://doi.org/10.1007/s11412-013-9171-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a laboratory experiment with dyads of different expertise, an expertise-awareness script and an argument-analysis script each seemed beneficial for joint and individual problem solutions, but in combination the scripts apparently got in each other's way. [→ Gerry Stahl 2013](#gerry-stahl-2013)

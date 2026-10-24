@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: evgeny-chukharev-hudilainen-and-tatiana-a-klepikova-2016
     resource: "https://doi.org/10.1558/cj.v33i3.26055"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Posttest credit rose significantly from active-acquisition items (P, 16.3%) to short-term-memory items (S, 28.7%, p < 0.01, one-tailed) and again to long-term-memory items (L, 50.1%, p < 0.001, one-tailed), but control-group items did not differ significantly from P items. [→ Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova 2016](#evgeny-chukharev-hudilainen-and-tatiana-a-klepikova-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: jemstedt-2017
     resource: "https://doi.org/10.1007/s11409-017-9172-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 2, with EOL task manipulated between groups, mean gamma did not reliably differ between the difficulty task (M = .82) and TTL task (M = .76), p = .226. [→ Jemstedt 2017](#jemstedt-2017)

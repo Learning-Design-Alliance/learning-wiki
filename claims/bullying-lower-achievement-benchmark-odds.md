@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: rothon-catherine-2011
     resource: "https://doi.org/10.1016/j.adolescence.2010.02.007"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adolescents bullied in the survey term had approximately half the odds of reaching the achievement benchmark (adjusted OR 0.46) compared with those not bullied. [→ Rothon Catherine 2011](#rothon-catherine-2011)

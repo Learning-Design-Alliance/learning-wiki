@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: vogel-2022
     resource: "https://doi.org/10.1007/s11412-022-09363-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Actual regulation (frequency of choosing maximal scaffolding) correlated negatively and significantly with post-test socio-discursive MAS (r = -0.36). [→ Vogel 2022](#vogel-2022)

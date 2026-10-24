@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-07
 sources:
   - id: ragonis-2026
     resource: "https://doi.org/10.15388/infedu.2506.019"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Field of specialization was significantly associated with developing inquiry-based simulations (X2=20.05; p<0.001; Cramer's V=0.21), with 57% vs. 30% of science vs. humanities/social-science scripts enabling exploration. [→ Ragonis 2026](#ragonis-2026)

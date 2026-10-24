@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: thomas-c-braas-2025
     resource: "https://doi.org/10.1007/s11251-025-09706-x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Overall quality measured as canonical components present in PF solutions showed a strong positive correlation with conceptual knowledge scores (r =.418, p =.009). [→ Thomas C. Braas 2025](#thomas-c-braas-2025)

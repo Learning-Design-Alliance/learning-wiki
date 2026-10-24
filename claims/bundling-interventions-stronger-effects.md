@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: bailey-2016
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/23"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The panel reports that bundling interventions—such as full-time enrollment, enhanced advising, tutoring, accelerated coursework, a cohort model, or student financial incentives—is associated with relatively strong effects in developmental students' outcomes. [→ Bailey 2016](#bailey-2016)

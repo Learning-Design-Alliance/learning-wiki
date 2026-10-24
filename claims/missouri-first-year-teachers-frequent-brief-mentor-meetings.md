@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: brodersen-2025
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/examining-mentoring-experiences-first-year-teachers-missouri"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over 70 percent of teachers who met with mentors reported meeting several times a month, over 80 percent reported meetings lasting less than 30 minutes on average, and 56 percent met several times a month for less than 30 minutes each time. [→ Brodersen 2025](#brodersen-2025)

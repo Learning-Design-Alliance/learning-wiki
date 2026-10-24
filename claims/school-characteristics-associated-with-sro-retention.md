@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: arneson-2024
     resource: "https://consortium.uchicago.edu/publications/removing-police-officers-from-Chicago-schools"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the 29 high schools with the highest suspension rates, 22 had an SRO presence, versus 8 of the 29 with the lowest suspension rates. [→ Arneson 2024](#arneson-2024)

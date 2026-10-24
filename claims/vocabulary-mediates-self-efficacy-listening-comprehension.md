@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: e-de-bree-2021
     resource: "https://doi.org/10.1177/0142723720941680"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Bias-corrected bootstrap procedures indicated vocabulary mediated the association between academic self-efficacy and listening comprehension. [→ E. de Bree 2021](#e-de-bree-2021)

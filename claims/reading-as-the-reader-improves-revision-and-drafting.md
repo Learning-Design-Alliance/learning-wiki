@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: holliway-2004
     resource: "https://doi.org/10.1007/978-94-007-1048-1_6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both 9th and 5th graders showed consistent significant improvement under the reading-as-the-reader condition, both when revising their essays and when drafting anew. [→ Holliway 2004](#holliway-2004)

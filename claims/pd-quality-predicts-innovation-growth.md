@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: mark-a-smylie-2001
     resource: "https://consortium.uchicago.edu/publications/teacher-professional-development-chicago-supporting-effective-practice"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schools whose teachers reported higher quality professional development in 1997 showed increases in orientation toward innovation over the next two years, holding constant change in quality. [→ Mark A. Smylie 2001](#mark-a-smylie-2001)

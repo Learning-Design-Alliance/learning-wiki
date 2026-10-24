@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xin-xia-2026
     resource: "https://doi.org/10.1007/s11251-026-09800-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` None of the grade × understandable-science-instruction interactions is significant (χ² = 15.685, df = 9, p = 0.07), so the main effect does not vary by grade level. [→ Xin Xia 2026](#xin-xia-2026)

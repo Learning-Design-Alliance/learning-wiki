@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: marloes-l-nederhand-2021
     resource: "https://doi.org/10.1007/s11409-020-09228-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ANOVAs with SOJ as dependent variable and performance quartile as independent variable were non-significant for university students and for secondary students in all three subjects. [→ Marloes L. Nederhand 2021](#marloes-l-nederhand-2021)

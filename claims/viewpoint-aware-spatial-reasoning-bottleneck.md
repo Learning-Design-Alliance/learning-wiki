@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: luyao-zhu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.19088"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On a Relative Position failure case, 90.0% of models predict a definite lateral relation and 73.3% predict a definite vertical relation despite ground truth specifying none; only 43.3% correctly identify depth, and no model resolves all three dimensions correctly. [→ Luyao Zhu 2026](#luyao-zhu-2026)

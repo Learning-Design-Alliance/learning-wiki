@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: mutlu-cukurova-2025
     resource: "https://doi.org/10.48550/arxiv.2511.19580"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one reviewed study, feedback co-produced by teachers and AI showed quality comparable to manual feedback and statistically significant learning gains, with significant reductions in feedback production time and perceived workload. [→ Mutlu Cukurova 2025](#mutlu-cukurova-2025)

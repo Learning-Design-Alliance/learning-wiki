@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: read-naturally-2010
     resource: "https://www.readnaturally.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 43 studies reviewed for students with learning disabilities, only one randomized controlled trial (Chenault et al., 2006; 20 students in grades 4–6 at one parochial school) met WWC evidence standards; the remaining 42 did not meet standards or eligibility screens, so the extent of evidence is small for reading fluency and writing and no studies cover seven other domains. [→ Read Naturally® 2010](#read-naturally-2010)

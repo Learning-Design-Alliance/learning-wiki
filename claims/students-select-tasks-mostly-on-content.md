@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: nugteren-2018
     resource: "https://doi.org/10.1007/s11251-018-9448-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students based a median of 6.00 of 8 selections on content, 2.00 on difficulty level, and 1.00 on support level, and only 2 of 118 selections took all three into account. [→ Nugteren 2018](#nugteren-2018)

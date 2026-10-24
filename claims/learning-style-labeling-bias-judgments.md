@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: john-hattie-2025
     resource: "https://doi.org/10.1007/s10648-025-10002-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across three studies, parents, teachers, and children judged children described as visual learners as more intelligent than children described as hands-on learners, and expected them to excel in core subjects. [→ John Hattie 2025](#john-hattie-2025)

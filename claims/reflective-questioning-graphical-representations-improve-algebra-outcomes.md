@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: star-2015
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/20"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reflective questioning showed positive effects on procedural and conceptual knowledge compared to studying solved problems in small groups, and on procedural knowledge compared to regular instruction. [→ Star 2015](#star-2015)

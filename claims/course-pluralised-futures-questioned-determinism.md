@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: tapio-rasa-2022
     resource: "https://doi.org/10.1007/s11251-021-09572-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most prevalent theme (76%) was a generally broadening or pluralising perception of the future, recalling the Futures Cone and plurality of futures. [→ Tapio Rasa 2022](#tapio-rasa-2022)

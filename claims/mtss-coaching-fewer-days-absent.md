@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: gage-2024
     resource: "https://eric.ed.gov/?id=ED655758"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Treatment-school students had significantly fewer days absent than PSM comparison students in both 2021/22 (g = 0.86) and 2022/23 (g = 0.91). [→ Gage 2024](#gage-2024)

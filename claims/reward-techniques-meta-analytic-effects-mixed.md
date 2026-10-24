@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-21
 sources:
   - id: eitel-2025
     resource: "https://doi.org/10.1007/s10648-025-10045-z"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2` · `i0` negligible
+> **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meta-analyses revealed positive effects of gamified learning on motivation and learning outcomes. [→ Eitel 2025](#eitel-2025)

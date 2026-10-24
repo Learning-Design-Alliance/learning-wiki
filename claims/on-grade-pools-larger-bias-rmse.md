@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: li-2019
     resource: "https://www.nwea.org/research/publication/simulation-study-for-evaluating-map-growth-item-pools-with-grade-level-constraints/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In mathematics simulations, biases for on-grade simulees were consistently larger with the on-grade pool (ranging from -0.4 to 1) and average RMSE dropped from 2.53 (on-grade) to 2.39 (±1-grade) and 2.36 (all-grade). [→ Li 2019](#li-2019)

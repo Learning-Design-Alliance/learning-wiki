@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: valentina-nachtigall-2021
     resource: "https://doi.org/10.1007/s11251-021-09556-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Individual interest in the subject showed small positive correlations with both catch and hold situational interest, justifying its use as covariate. [→ Valentina Nachtigall 2021](#valentina-nachtigall-2021)

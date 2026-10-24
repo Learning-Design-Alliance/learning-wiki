@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: clark-2017
     resource: "https://www.mathematica.org/publications/impacts-of-the-teach-for-america-investing-in-innovation-scaleup"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` TFA teachers in grades 1 and 2 had a positive effect on student math achievement of 0.16 standard deviations, about 1.5 additional months of learning, a difference that was almost statistically significant at conventional levels (p-value = 0.054). [→ Clark 2017](#clark-2017)

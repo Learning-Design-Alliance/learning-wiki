@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: espinoza-2018
     resource: "https://learningpolicyinstitute.org/product/long-view"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Residents are more racially diverse than other new teachers and much more likely to stay in teaching, especially in high-need sponsoring districts. [→ Espinoza 2018](#espinoza-2018)

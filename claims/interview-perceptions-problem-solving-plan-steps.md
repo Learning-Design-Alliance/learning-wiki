@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 1994
 sources:
   - id: zambo-1994
     resource: "https://eric.ed.gov/?id=ED375005"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q1`
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Males in the unformatted-to-formatted sequence reported the formatted test required more work, thinking, or time; three of four felt they did better because the steps required more thinking or validated each other. [→ Zambo 1994](#zambo-1994)

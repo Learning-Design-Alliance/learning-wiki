@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: espinoza-2023
     resource: "https://doi.org/10.54300/546.264"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The estimated 4-year graduation rate for students experiencing homelessness was 68% in 2018–19, versus 86% for all students and 80% for economically disadvantaged students. [→ Espinoza 2023](#espinoza-2023)

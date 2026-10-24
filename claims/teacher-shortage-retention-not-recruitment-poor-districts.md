@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-20
+recheck_by: 2011
 sources:
   - id: steven-glazerman-2006
     resource: "https://www.mathematica.org/publications/design-of-an-impact-evaluation-of-teacher-induction-programs"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Researchers argue the shortage of highly qualified teachers in poor school districts may have less to do with attracting new teachers than with retaining them. [→ Steven Glazerman 2006](#steven-glazerman-2006)

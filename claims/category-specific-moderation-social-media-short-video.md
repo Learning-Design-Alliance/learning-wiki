@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shi-guochun-2026
     resource: "https://doi.org/10.1186/s40359-026-05038-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In exploratory, unadjusted category-specific SEMs, social media (EF × Category β = −0.18, p = .001) and short-form video (β = −0.21, p < .001) showed significant negative moderation, while gaming and educational apps did not. [→ Shi Guochun 2026](#shi-guochun-2026)

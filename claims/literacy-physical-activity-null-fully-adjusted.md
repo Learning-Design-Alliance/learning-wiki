@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: bennett-js-2012
     resource: "https://doi.org/10.1186/1471-2318-12-30"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Higher literacy was associated with more frequent physical activity in the core model, but the association was no longer significant in the fully adjusted model, and financial literacy was not associated with physical activity. [→ Bennett JS 2012](#bennett-js-2012)

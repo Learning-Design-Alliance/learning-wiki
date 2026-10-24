@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xiaoxuan-li-julia-chatain-fan-wang-manu-kapur-2026
     resource: "https://doi.org/10.1007/s10648-026-10194-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In between-subject designs, embodied learning produced a moderate, significant positive effect on vocabulary learning (g = 0.65, 95% CI [0.45, 0.85]). [→ Xiaoxuan Li · Julia Chatain · Fan Wang · Manu Kapur 2026](#xiaoxuan-li-julia-chatain-fan-wang-manu-kapur-2026)

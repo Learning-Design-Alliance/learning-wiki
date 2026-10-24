@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: gripshover-2022
     resource: "https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A positive change of two scale points in learning conditions was associated with approximately 17% higher likelihood of a B or better in Quarter 3 than no change. [→ Gripshover 2022](#gripshover-2022)

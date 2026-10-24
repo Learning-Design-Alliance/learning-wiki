@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: maaike-e-prangsma-2008
     resource: "https://doi.org/10.1007/s11251-007-9026-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Visual condition's post-test means were 1.75 points higher than the Text condition's, but the difference was not significant (p = .58). [→ Maaike E. Prangsma 2008](#maaike-e-prangsma-2008)

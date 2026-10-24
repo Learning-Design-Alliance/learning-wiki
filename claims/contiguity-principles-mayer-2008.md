@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: richard-e-mayer-2008
     resource: "https://doi.org/10.1037/0003-066x.63.8.760"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3` · `i3` large
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In 5 of 5 tests, learners who received integrated presentations (words near corresponding graphics) performed better on transfer tests than students who received separated presentations, effect size 1.12. [→ Richard E. Mayer 2008](#richard-e-mayer-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mahaffie-2024
     resource: "https://consortium.uchicago.edu/publications/measuring-patterns-of-immediate-and-continued-college-enrollment-among-CPSs-graduates"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among bachelor's degree enrollees, 76% of 2019 graduates were enrolled in the third semester while 66% remained continuously enrolled through semester four, a 10 percentage point difference. [→ Mahaffie 2024](#mahaffie-2024)

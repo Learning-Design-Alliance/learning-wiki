@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mark-feng-teng-2024
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the Yao parallel development model, the MCK intercept correlated significantly with the VK intercept, and the MCK slope correlated significantly with the VK slope. [→ Mark Feng Teng 2024](#mark-feng-teng-2024)

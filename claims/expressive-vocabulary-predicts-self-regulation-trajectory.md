@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-18
 sources:
   - id: montroy-janelle-j-2016
     resource: "https://doi.org/10.1037/dev0000159"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i1` small
+> **Currency** · newest study 2016 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Each 1 SD increase in expressive vocabulary raised odds of preschool-developer versus later-developer classification (OR = 1.40 MLSELD; OR = 1.23 Oregon) and of early versus intermediate classification (OR = 1.68 MLSELD; OR = 1.63 Oregon). [→ Montroy Janelle J. 2016](#montroy-janelle-j-2016)

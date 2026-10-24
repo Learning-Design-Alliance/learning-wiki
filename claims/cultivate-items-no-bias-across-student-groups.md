@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: porter-2025
     resource: "https://consortium.uchicago.edu/publications/early-insights-from-the-revalidation-of-the-cultivate-survey"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Differential item functioning analyses found no systematic bias in how Cultivate items functioned across the tested student groups. [→ Porter 2025](#porter-2025)

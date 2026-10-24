@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: bauer-2020
     resource: "https://doi.org/10.1016/j.learninstruc.2019.101271"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A main effect of statement type on endorsement (η² = .65) showed children endorsed old statements above chance and rejected both new and hybrid statements below chance, indicating episode boundaries were preserved rather than blended. [→ Bauer 2020](#bauer-2020)

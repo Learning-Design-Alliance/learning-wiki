@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: buehler-2021
     resource: "https://doi.org/10.1007/s11409-021-09261-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two studies and two task types, monitoring resolution did not differ between native and non-native speakers, leading the authors to conclude monitoring deficits are not the primary source of performance differences. [→ Buehler 2021](#buehler-2021)

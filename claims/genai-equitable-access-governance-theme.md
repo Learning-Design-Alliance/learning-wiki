@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: crompton-2026
     resource: "https://doi.org/10.1186/s41239-026-00602-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Panelists voiced concern that without deliberate action GenAI could exacerbate digital divides or create new inequities, with one-third of the panel explicitly mentioning equity or inclusion. [→ Crompton 2026](#crompton-2026)

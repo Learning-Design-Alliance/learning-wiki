@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: fawns-2026
     resource: "https://doi.org/10.1007/s10734-026-01730-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Even within one institutional setting, three analysed students responded differently: John wanted the university to embrace GenAI, Vivian rejected it as inauthentic, and Howard used it while concealing his use. [→ Fawns 2026](#fawns-2026)

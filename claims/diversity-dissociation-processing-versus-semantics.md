@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: johns-2016
     resource: "https://doi.org/10.3758/s13423-015-0980-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Diverse contexts aid recognition speed and accuracy, while redundant contexts support better semantic representation, revealing a dissociation between ease of processing and semantic representation. [→ Johns 2016](#johns-2016)

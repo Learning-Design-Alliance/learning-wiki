@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: constantakis-2016
     resource: "https://digitalpromise.dspacedirect.org/items/52ffa633-226c-445f-8113-54cc83dc76c7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 14 program sites, several different blended learning implementation models were used, including within the same program, ranging from instructor-led to product-delivered instruction. [→ Constantakis 2016](#constantakis-2016)

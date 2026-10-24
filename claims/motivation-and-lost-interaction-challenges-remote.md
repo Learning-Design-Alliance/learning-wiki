@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-15
+recheck_by: 2025
 sources:
   - id: means-2020
     resource: "https://doi.org/10.51388/20.500.12265/98"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Seventy-nine percent of students cited staying motivated as a problem (42 percent major, 37 percent minor); other common challenges were finding a quiet place (55 percent), home/family responsibilities (54 percent), and not knowing where to get help (54 percent). [→ Means 2020](#means-2020)

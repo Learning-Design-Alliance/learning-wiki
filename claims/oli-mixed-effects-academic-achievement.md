@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2020
 sources:
   - id: lovett-caos
     title: lovett-caos
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 causal `r2`–`r3` · `q2`–`q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` One RCT found a statistically significant positive effect of OLI on CAOS statistics scores (effect size 0.55, improvement index +21). [→ lovett-caos](#lovett-caos)

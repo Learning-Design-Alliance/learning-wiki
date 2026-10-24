@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: pau-benazet-i-montobbio-2026
     resource: "https://doi.org/10.48550/arxiv.2607.20047"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the experiential group, MRC improved reliably from pre-test to five weeks (∆M = +0.16, d = 0.37, BH-corrected p = .048), while the instructional group plateaued. [→ Pau Benazet i Montobbio 2026](#pau-benazet-i-montobbio-2026)

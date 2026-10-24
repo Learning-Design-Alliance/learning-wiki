@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lee-2026
     resource: "https://doi.org/10.1007/s10648-026-10186-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The majority of reviewed studies (22, 58%) involved sample sizes of fewer than 45 participants, and most samples (28, 74%) consisted of young adults or adults. [→ Lee 2026](#lee-2026)

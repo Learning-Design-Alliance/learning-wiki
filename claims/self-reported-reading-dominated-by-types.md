@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: jan-van-der-meij-2017
     resource: "https://doi.org/10.1007/s11251-017-9425-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 63% of participants self-reported studying the diagram primarily based on the personality disorder types, 19.8% based on categories, 13.6% based on both, and 3.7% in random order. [→ Jan van der Meij 2017](#jan-van-der-meij-2017)

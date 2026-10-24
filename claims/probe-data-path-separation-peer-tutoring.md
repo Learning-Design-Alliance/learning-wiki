@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: mackiewicz-2011
     resource: "https://doi.org/10.1177/0741932510362507"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For four participants all data paths separated clearly; three others showed separation on nine of ten probes; one participant outperformed on incidental words for a single probe. [→ Mackiewicz 2011](#mackiewicz-2011)

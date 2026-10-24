@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: steven-wise-2020
     resource: "https://doi.org/10.1080/08957347.2020.1732386"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When students give disengaged responses to some test items, the degree to which the remaining engaged responses maintain the intended content representation becomes an open validity question. [→ Steven Wise 2020](#steven-wise-2020)

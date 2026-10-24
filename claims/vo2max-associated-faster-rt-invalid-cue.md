@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: wengaard-e-2017
     title: Wengaard E 2017
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a cross-sectional study of 54 male high-school students, higher VO2max was associated with faster reaction time for stimuli following invalid cue (Estimate = -2.69, SE = 1.03, p = 0.011). [→ Wengaard E 2017](#wengaard-e-2017)

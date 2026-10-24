@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liao-2026
     resource: "https://doi.org/10.1007/s10639-026-13958-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The teacher prompted significantly higher absolute numbers of Facts (t(11)=−5.11, p<.001), Feelings (t(11)=−3.45, p=.005), Findings (t(11)=−3.88, p=.003), and Future statements (t(11)=−4.92, p<.001) than the AI. [→ Liao 2026](#liao-2026)

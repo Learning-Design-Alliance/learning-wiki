@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: saniya-vahedian-movahed-and-fred-martin-2025
     resource: "https://doi.org/10.48550/arxiv.2502.14217"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some of the 63 K-8 students who used the chatbot at one school posed questions to AMA for which they already knew the answers, which the authors interpret as first-hand experimentation that potentially reinforced their trust in the chatbot when it answered correctly. [→ Saniya Vahedian Movahed and Fred Martin 2025](#saniya-vahedian-movahed-and-fred-martin-2025)

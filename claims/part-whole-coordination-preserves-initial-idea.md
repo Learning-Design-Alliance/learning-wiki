@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: frank-2012
     resource: "https://doi.org/10.1103/physrevstper.8.020101"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When students shifted attention between total strip length and spacing between dots, they saw the same information and maintained their understanding that shorter strips take less time. [→ Frank 2012](#frank-2012)

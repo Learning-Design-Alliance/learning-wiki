@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: md-zabirul-islam-2026
     resource: "https://doi.org/10.48550/arxiv.2606.20608"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Disabling the engagement module reduces the LLM-judge engagement score from 5.00 to 1.20, the adaptive score from 4.80 to 3.40, and Flesch reading ease from 38.0 to 19.8, while analogy and retrieval-prompt counts fall to near zero. [→ Md Zabirul Islam 2026](#md-zabirul-islam-2026)

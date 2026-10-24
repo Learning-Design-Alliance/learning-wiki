@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: haozhe-jiang-2026
     resource: "https://doi.org/10.1186/s40594-026-00628-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1`–`r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The 24 studies were evenly distributed between K-12 and higher education (12 each), with undergraduates the largest participant group (n = 10) and no study focused on elementary school students. [→ Haozhe Jiang 2026](#haozhe-jiang-2026)

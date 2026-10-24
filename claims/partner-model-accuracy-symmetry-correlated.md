@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: dillenbourg-2016
     resource: "https://doi.org/10.1007/s11412-016-9235-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across five experiments on collaborative problem solving or collaborative learning, in four studies the accuracy of the model that A built about B was correlated with the accuracy of the model that B built about A. [→ Dillenbourg 2016](#dillenbourg-2016)

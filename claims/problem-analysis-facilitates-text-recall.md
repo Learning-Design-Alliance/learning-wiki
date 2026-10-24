@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1989
 sources:
   - id: schmidt-1989
     resource: "https://doi.org/10.1037//0022-0663.81.4.610"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 2, problem analysis before text study produced a significant overall difference in free recall, F(1, 82) = 6.15, p < .05, with no significant treatment-by-expertise interaction, F(1, 82) = .01, p < .93. [→ Schmidt 1989](#schmidt-1989)

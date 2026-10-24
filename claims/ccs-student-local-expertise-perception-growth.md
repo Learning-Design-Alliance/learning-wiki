@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: rikke-magnussen-2023
     resource: "https://doi.org/10.1007/s11251-023-09641-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After participating in the City at Play CCS project, the share of students who felt they had knowledge about their neighborhood that the redeveloping architects did not have rose from 9% to 45%. [→ Rikke Magnussen 2023](#rikke-magnussen-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: janis-2025
     resource: "https://doi.org/10.69772/jes.8.3.1"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q1` · n=3
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Across three bachelor's-level secondary social-studies teacher candidates at one US university, followed through a twelve-week clinical, the authors observed growth in describing student learning, analyzing teaching moves and connecting instructional decisions to student understanding, which they suggest structured prompts, aligned feedback and repeated reflection contributed to; there was no comparison condition. [→ Janis 2025](#janis-2025)

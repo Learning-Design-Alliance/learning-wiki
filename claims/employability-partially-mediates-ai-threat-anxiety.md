@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chen-h-2026
     title: Chen H 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The indirect effect of AI employment threat perception on career decision-making anxiety through perceived employability was significant, and the direct effect remained significant, indicating partial mediation. [→ Chen H 2026](#chen-h-2026)

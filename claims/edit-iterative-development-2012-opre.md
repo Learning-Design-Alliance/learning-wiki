@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: monahan-2015
     resource: "https://www.mathematica.org/publications/developing-a-tool-to-examine-teachers-use-of-ongoing-child-assessment-to-individualize-instruction"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` OPRE engaged Mathematica Policy Research and its partners in 2012 to conduct iterative development of the EDIT measure. [→ Monahan 2015](#monahan-2015)

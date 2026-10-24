@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: merideth-2021
     resource: "https://www.nwea.org/research/publication/family-perceptions-of-participating-in-a-structured-summer-kindergarten-transition-program/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Respondents reported that meeting education staff early during the summer, familiarizing themselves with school layout and routines, and building stronger social connections with other families were of particular value in preparing for kindergarten. [→ Merideth 2021](#merideth-2021)

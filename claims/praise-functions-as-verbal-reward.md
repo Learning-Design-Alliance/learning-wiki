@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1994
+source_checked: 2026-10-20
 sources:
   - id: kohn-1994
     resource: "https://eric.ed.gov/?id=ED376990"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 1994 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Most praise is tantamount to verbal reward: it makes approval conditional, can create dependence on securing someone else's approval, and devalues learning as a prerequisite for teacher approval. [→ Kohn 1994](#kohn-1994)

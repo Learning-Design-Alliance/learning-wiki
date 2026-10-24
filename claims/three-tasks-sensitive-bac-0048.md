@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: dry-mj-2012
     title: Dry MJ 2012
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` At BAC 0.048% only SOPT, IT and SART-CO showed significant effects, with large effect sizes d = 0.76, 0.65 and 1.06 respectively. [→ Dry MJ 2012](#dry-mj-2012)

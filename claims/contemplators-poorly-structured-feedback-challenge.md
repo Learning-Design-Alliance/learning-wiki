@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: flora-ji-yoon-jin-2025
     resource: "https://doi.org/10.1007/s11251-025-09744-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Feedback Contemplators with High Emotional Strain class, students perceived poorly structured feedback content as the biggest challenge in making sense of feedback. [→ Flora Ji-Yoon Jin 2025](#flora-ji-yoon-jin-2025)

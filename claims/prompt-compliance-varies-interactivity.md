@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: rebecca-pape-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102294"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The prioritize prompt was responded to appropriately in 17 of 17 cases, while the set goal prompt was responded to appropriately in only 3 of 17 cases. [→ Rebecca Pape 2026](#rebecca-pape-2026)

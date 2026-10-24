@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: dietrichson-2021
     resource: "https://doi.org/10.1002/cl2.1152"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Peer-assisted instruction and small-group instruction by adults had large and statistically significant average effect sizes (ES around 0.35–0.45) robust across specifications in subgroup analyses; no standardised effect size statistic beyond the reported ES range is printed. [→ Dietrichson 2021](#dietrichson-2021)

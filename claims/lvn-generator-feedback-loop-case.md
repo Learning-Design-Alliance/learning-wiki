@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: lvn-case
     title: lvn-case
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Engaging in feedback loops within a generator structure created synergistic effects that produced organically generated outputs supporting the LVP team's goals, and the authors suggest the outputs may have been significantly different had the team relied on simple survey responses. [→ lvn-case](#lvn-case)

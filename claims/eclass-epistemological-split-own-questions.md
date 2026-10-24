@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: zwickl-2013
     resource: "https://doi.org/10.48550/arxiv.1307.5760"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only about 30% of students in an introductory calculus-based lab and similar-level courses agree they think up their own questions, while students expect researchers to think up their own questions. [→ Zwickl 2013](#zwickl-2013)

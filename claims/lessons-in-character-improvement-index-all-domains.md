@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: lessons-in-character-2006
     resource: "https://ies.ed.gov/ncee/WWC/InterventionReport/270"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The average improvement index for academic achievement is +16 percentile points (range +12 to +18), for knowledge, attitudes, and values +6 (range +4 to +12), and for behavior +8. [→ Lessons in Character 2006](#lessons-in-character-2006)

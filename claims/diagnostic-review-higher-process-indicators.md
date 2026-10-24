@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yao-x-c-and-fan-l-2026
     title: Yao X-C and Fan L 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Diagnostic accuracy means were 0.696, 0.721, and 0.775 in Diagnostic Review versus 0.590, 0.619, and 0.619 in Control, with Hedges' g of 1.35, 1.17, and 1.71 (all p < 0.001). [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

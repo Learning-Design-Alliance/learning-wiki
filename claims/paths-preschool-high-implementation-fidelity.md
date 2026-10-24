@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: domitrovich-2007
     resource: "https://doi.org/10.1007/s10935-007-0081-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Monthly coordinator ratings showed high overall means for fidelity, generalization, and openness to consultation, indicating teachers delivered the curriculum as designed. [→ Domitrovich 2007](#domitrovich-2007)

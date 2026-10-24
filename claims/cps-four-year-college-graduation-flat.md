@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: nagaoka-2017
     resource: "https://toandthrough.uchicago.edu/data"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among CPS graduates who immediately enrolled in four-year colleges, bachelor's completion within six years changed little, remaining about 20 points below the national rate of 60 percent. [→ Nagaoka 2017](#nagaoka-2017)

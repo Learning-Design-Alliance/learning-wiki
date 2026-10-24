@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: schachner-2025
     resource: "https://edworkingpapers.com/ai25-1153"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gaps in engagement and achievement between high- and low-pre-pandemic-GPA students widened more among participants than among otherwise similar eligible non-participants. [→ Schachner 2025](#schachner-2025)

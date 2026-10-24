@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: hayo-reinders-and-sorada-wattana-2015
     resource: "https://doi.org/10.1017/S0958344014000226"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gameplay affected the participants' perceptions of themselves as learners and, through this, their learning practice. [→ Hayo Reinders and Sorada Wattana 2015](#hayo-reinders-and-sorada-wattana-2015)

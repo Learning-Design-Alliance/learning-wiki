@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: jiang-2014
     resource: "https://consortium.uchicago.edu/publications/teacher-evaluation-practice-year-2-teacher-and-administrator-perceptions-reach"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Sixty-five percent of teachers agreed or strongly agreed their evaluation relies too heavily on student growth, and only half said the assessments used to measure student growth are fair assessments of their students' learning. [→ Jiang 2014](#jiang-2014)

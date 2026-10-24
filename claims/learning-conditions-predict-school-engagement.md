@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: porter-2025
     resource: "https://consortium.uchicago.edu/publications/early-insights-from-the-revalidation-of-the-cultivate-survey"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning condition experiences significantly predicted students' self-reported engagement in school in a related set of analyses. [→ Porter 2025](#porter-2025)

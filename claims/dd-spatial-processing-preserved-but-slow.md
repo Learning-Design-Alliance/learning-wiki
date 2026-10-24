@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: szucs-denes-2013
     resource: "https://doi.org/10.1016/j.cortex.2013.06.007"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` DD children matched controls on spatial symmetry and mental rotation accuracy but were slower on trail-making A and mental rotation. [→ Szucs Denes 2013](#szucs-denes-2013)

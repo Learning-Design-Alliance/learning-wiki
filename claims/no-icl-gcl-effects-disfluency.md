@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: janina-lehmann-2015
     resource: "https://doi.org/10.1007/s11409-015-9149-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Neither disfluency nor the disfluency × WMC interaction significantly predicted intrinsic or germane cognitive load, as expected. [→ Janina Lehmann 2015](#janina-lehmann-2015)

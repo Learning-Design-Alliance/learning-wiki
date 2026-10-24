@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: amzalag-m-2026
     title: Amzalag M 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Clusters differed significantly in GenAI critical verification, F(2, 820) = 47.20, η2 = 0.10, with Cluster 1 highest (M = 4.02). [→ Amzalag M 2026](#amzalag-m-2026)

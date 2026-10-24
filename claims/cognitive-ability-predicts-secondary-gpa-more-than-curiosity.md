@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: mussel-2022
     resource: "https://doi.org/10.3390/jintelligence10020023"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Secondary GPA at T3 was significantly predicted by both cognitive ability (r = 0.39) and curiosity (r = 0.20), with a larger coefficient for cognitive ability. [→ Mussel 2022](#mussel-2022)

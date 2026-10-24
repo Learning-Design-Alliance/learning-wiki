@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: sudarshan-vk-2025
     resource: "https://doi.org/10.48550/arxiv.2605.14266"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Functional fragmentation of AI systems persists in higher education: systems specialize in discrete tasks such as feedback generation, scheduling, or content delivery with limited integration across learning processes. [→ Sudarshan VK 2025](#sudarshan-vk-2025)

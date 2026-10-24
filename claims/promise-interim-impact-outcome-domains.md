@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: arif-mamun-2019
     resource: "https://www.mathematica.org/publications/promoting-readiness-of-minors-in-supplemental-security-income-promise-technical-appendix"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The interim report presents estimated impacts of the six PROMISE programs on service receipt, education, employment, expectations, health insurance coverage, income, youth self-determination, and public assistance participation. [→ Arif Mamun 2019](#arif-mamun-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhanxin-hao-2026
     resource: "https://doi.org/10.48550/arxiv.2603.21288"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Agglomerative hierarchical clustering on coded dialogue proportions yielded three student-AI interaction profiles, labeled Delegated Reasoning (DR), Concerted Interpretation (CI), and Delegated Elaboration (DE). [→ Zhanxin Hao 2026](#zhanxin-hao-2026)

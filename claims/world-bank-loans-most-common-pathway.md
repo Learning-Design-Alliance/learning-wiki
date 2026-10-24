@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: edwards-jr-2023
     resource: "https://doi.org/10.3102/00346543231194725"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the 70 reviewed studies, loans were the most common pathway of World Bank influence on education policy formation, and the scale of lending (e.g., more than $8 billion for Brazil and India in 1987-2012) gives it impact beyond its share of sector funding. [→ Edwards Jr. 2023](#edwards-jr-2023)

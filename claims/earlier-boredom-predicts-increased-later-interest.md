@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-22
 sources:
   - id: katharina-luisa-boehme-2025
     resource: "https://doi.org/10.1007/s10648-025-09991-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Individuals with higher boredom relative to others on average increased in interest at later waves, an unexpected positive cross-lagged effect of negligible printed magnitude at T1→T2. [→ Katharina Luisa Boehme 2025](#katharina-luisa-boehme-2025)

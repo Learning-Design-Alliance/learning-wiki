@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hung-yue-suen-and-kuo-en-hung-2026
     resource: "https://doi.org/10.1109/TLT.2026.3693864"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Paired-samples tests revealed reliable pre–post differences across facial, vocal, and lexical emotion signals (e.g., facial anger and surprise; vocal anger and happiness; all p < .05), not confined to any single emotion. [→ Hung-Yue Suen and Kuo-En Hung 2026](#hung-yue-suen-and-kuo-en-hung-2026)

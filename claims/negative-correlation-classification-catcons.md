@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Models with higher classification accuracy tend to exhibit lower category consistency under CoT prompting, an inverse relationship the authors attribute to a generation-understanding asymmetry. [→ negative-corr](#negative-corr)

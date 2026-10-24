@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: robles-chella-2026
     resource: "https://doi.org/10.5964/sotrap.17345"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` A second MANOVA on the three treatment amenability subscales found no statistically significant main effects or interaction. [→ Robles Chella 2026](#robles-chella-2026)

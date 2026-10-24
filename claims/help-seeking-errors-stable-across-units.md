@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: koedinger-2008
     resource: "https://learnlab.org/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i3` large
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The correlation between students' frequency of help-seeking errors in a geometry angles unit and a data-analysis scatterplot unit was 0.89. [→ Koedinger 2008](#koedinger-2008)

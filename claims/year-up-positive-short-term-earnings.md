@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: wwc-short-term-earnings
     title: wwc-short-term-earnings
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r3`, 1 quant-synthesis `r1` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Based on two RCTs meeting WWC standards, Year Up has positive effects on short-term earnings, with an improvement index of +28 percentile points. [→ wwc-short-term-earnings](#wwc-short-term-earnings)

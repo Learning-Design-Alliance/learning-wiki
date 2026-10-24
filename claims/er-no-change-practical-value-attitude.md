@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: junko-yamashita-2013
     resource: "https://doi.org/10.64152/10125/66872"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Extensive reading showed no significant difference for Practical Value, with a negligible effect size (r = .09), despite grades depending on reading amount. [→ Junko Yamashita 2013](#junko-yamashita-2013)

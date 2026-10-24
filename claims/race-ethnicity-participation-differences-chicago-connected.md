@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: de-la-torre-2023
     resource: "https://consortium.uchicago.edu/publications/exploring-chicago-connected"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Latinx students had the highest participation rate (32%), followed by Black (26%), Asian (24%), and White students (18%). [→ de la Torre 2023](#de-la-torre-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: frank-reinhold-2024
     resource: "https://doi.org/10.1007/s10648-024-09845-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A study showing a positive effect of a digital tool (virtual frog dissection) could not evaluate the effect within its theoretical framework because no hypotheses about implemented instructional features and their relation to learning activities were stated. [→ Frank Reinhold 2024](#frank-reinhold-2024)

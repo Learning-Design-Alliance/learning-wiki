@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: chernikova-2025
     resource: "https://doi.org/10.1016/j.edurev.2024.100662"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For low prior knowledge learners, adaptable scaffolding with non-personalized task progression was descriptively the least effective condition (g = 0.27, ns), while non-personalized scaffolding with adaptable task progression yielded g = 1.37. [→ Chernikova 2025](#chernikova-2025)

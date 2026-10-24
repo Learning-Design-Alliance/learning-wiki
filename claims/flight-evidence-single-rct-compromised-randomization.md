@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: what-works-clearinghouse-2019
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/694"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The one study meeting WWC group design standards (with reservations) is an RCT whose random assignment was compromised because one student was not randomly assigned and unequal assignment probabilities were not accounted for in the analysis. [→ What Works Clearinghouse 2019](#what-works-clearinghouse-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: social-skills-training-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/578"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across two randomized controlled trials including 103 children, social skills training produced statistically significant positive effects on social-emotional development and behavior, with a domain-average effect size of 0.47 and an improvement index of +18 percentile points. [→ Social Skills Training 2013](#social-skills-training-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: matlen-2013
     resource: "https://doi.org/10.1007/s11251-012-9248-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sequencing low guidance before high guidance (LH or HL) showed no advantage over other orderings for children's acquisition of CVS. [→ Matlen 2013](#matlen-2013)

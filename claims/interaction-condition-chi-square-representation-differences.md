@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sagnik-nath-2026
     resource: "https://doi.org/10.1007/978-3-032-30860-3_11"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` After Bonferroni correction, baseline versus code-augmented differences were significant for story problems (χ² = 13.14, p = 0.00029) and symbolic problems (χ² = 8.44, p = 0.0037) but not word-equation problems (χ² = 2.63, p = 0.105), with small Cramér's V effect sizes (Vstory = 0.073, Vsymbolic = 0.058, Vwordeq = 0.032). [→ Sagnik Nath 2026](#sagnik-nath-2026)

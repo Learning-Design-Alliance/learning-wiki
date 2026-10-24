@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: vincent-hoogerheide-2016
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither model gender nor observer gender produced significant main effects or interactions on learning or near transfer scores. [→ Vincent Hoogerheide 2016](#vincent-hoogerheide-2016)

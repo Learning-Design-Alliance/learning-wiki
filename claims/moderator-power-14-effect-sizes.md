@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bicakci-2026
     resource: "https://doi.org/10.1007/s10648-026-10172-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Under the planning scenario (g = 0.38, τ² = 0.24, α = 0.05), achieving 80% power for a two-sided test of the random-effects mean required approximately 14 moderator effect sizes. [→ Bicakci 2026](#bicakci-2026)

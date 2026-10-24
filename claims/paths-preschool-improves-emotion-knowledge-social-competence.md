@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-16
 sources:
   - id: domitrovich-2007
     resource: "https://doi.org/10.1007/s10935-007-0081-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After exposure to PATHS, intervention children had higher emotion knowledge skills than peers. [→ Domitrovich 2007](#domitrovich-2007)

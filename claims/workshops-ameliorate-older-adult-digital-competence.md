@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: martínez-alcalá-ci-2018
     title: Martínez-Alcalá CI 2018
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pre-post comparisons within each group showed the workshops ameliorated older adult digital competence in both the face-to-face and blended groups. [→ Martínez-Alcalá CI 2018](#martinez-alcala-ci-2018)

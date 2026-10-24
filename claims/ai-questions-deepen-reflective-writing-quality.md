@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sora-kang-2026
     resource: "https://doi.org/10.48550/arxiv.2607.24751"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Entries written with AI assistance exhibited significantly higher lexical diversity and increased negative and positive emotion-word usage than unassisted entries. [→ Sora Kang 2026](#sora-kang-2026)

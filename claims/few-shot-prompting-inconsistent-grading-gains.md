@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: jerin-george-mathew-2026
     resource: "https://doi.org/10.48550/arxiv.2603.23714"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Prompt variants including a student-grade variant and a few-shot variant with two example essays produced modest, inconsistent improvements in agreement with human scores. [→ Jerin George Mathew 2026](#jerin-george-mathew-2026)

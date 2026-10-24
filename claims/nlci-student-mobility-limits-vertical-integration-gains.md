@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: elaine-m-allensworth-and-andrew-zou-2020
     resource: "https://consortium.uchicago.edu/publications/supporting-neighborhood-schools-from-pre-k-through-high-school"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Only about one-third of the 2014-15 NLCI pre-k cohort was still enrolled at NLCI schools in second grade in 2017-18, reducing any expected carryover of full-day pre-k benefits to second-grade outcomes. [→ Elaine M. Allensworth and Andrew Zou 2020](#elaine-m-allensworth-and-andrew-zou-2020)

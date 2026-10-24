@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: knechtel-2017
     resource: "https://www.mathematica.org/publications/pre-kindergarten-impacts-over-time-an-analysis-of-kipp-charter-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` KIPP Pre-K students maintain an academic advantage on one of two measures of reading achievement through grade 2, while impacts on reading comprehension largely dissipate by grade 2. [→ Knechtel 2017](#knechtel-2017)

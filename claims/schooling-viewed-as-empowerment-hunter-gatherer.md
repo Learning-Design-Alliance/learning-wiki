@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: ninkova-2025
     resource: "https://doi.org/10.3102/00346543241255614"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Parents view schooling as necessary for claiming rights and as a route out of poverty; in one surveyed study 96% of San parents saw education as an important opportunity. [→ Ninkova 2025](#ninkova-2025)

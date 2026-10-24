@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-19
 sources:
   - id: bos-2018
     resource: "https://evidenceforessa.org/program/families-and-schools-together-fast/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the school-level RCT, the report summarises FAST as having no meaningful, enduring effects on parental social support, parent-child relationship building, parent-school engagement, the home environment, student academic learning, or student social and behavioral development; two isolated small effects (more family conflict in Cohort 2 at the end of Grade 1, .26 SD; higher parent-teacher Joining in Cohort 1 at the end of kindergarten, .28 SD) did not recur and may be spurious. [→ Bos 2018](#bos-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: clinton-2017
     resource: "https://doi.org/10.4018/978-1-5225-1005-5.ch010"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was an interaction between condition and prior knowledge group on average fixation length while reading text, F(2, 51) = 47.27, p < .001, with low prior knowledge students showing longer fixations in the original condition and middle prior knowledge students showing longer fixations in the revised condition. [→ Clinton 2017](#clinton-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: nancy-law-2017
     resource: "https://doi.org/10.1007/s11412-017-9253-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In museum tabletop exploration, boundary spanning perceptions (observing others' spaces) and boundary spanning actions (interacting in others' spaces) were identified as critical mechanisms for productive divergent collaboration. [→ Nancy Law 2017](#nancy-law-2017)

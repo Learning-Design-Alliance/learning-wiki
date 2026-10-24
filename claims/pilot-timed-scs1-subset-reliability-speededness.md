@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the pilot, the SCS1 12-item subset showed Cronbach's alpha = 0.83 with minimal speededness (9/10 finished; 96% of items answered). [→ pilot-scs1](#pilot-scs1)

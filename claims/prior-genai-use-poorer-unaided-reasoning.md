@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: dawid-ratajczyk-2026
     resource: "https://doi.org/10.31234/osf.io/83jum_v1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Within the no-incentive condition, participants with prior genAI access had lower odds of answering a Stage 2 network-reasoning question correctly than participants who had worked without genAI. [→ Dawid Ratajczyk 2026](#dawid-ratajczyk-2026)

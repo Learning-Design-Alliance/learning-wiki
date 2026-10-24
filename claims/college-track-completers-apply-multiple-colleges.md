@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: naihobe-gonzalez-2019
     resource: "https://www.mathematica.org/publications/college-track-postsecondary-outcomes-benchmarking-the-performance-of-the-9th-grade-cohort-of-2009"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` College Track completers applied to multiple colleges at higher rates than similar students in the same 9th grade cohort of 2009. [→ Naihobe Gonzalez 2019](#naihobe-gonzalez-2019)

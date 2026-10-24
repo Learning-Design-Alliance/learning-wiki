@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: oer-case
     title: oer-case
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The Center for Inclusive Innovation's OER for Racial Justice initiative did not align with any generalized structure and was best represented as a combination of catalyzer and generator structures, identified through validation with the parties and several rounds of iteration. [→ oer-case](#oer-case)

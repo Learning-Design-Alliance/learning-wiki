@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: elias-walsh-2015
     resource: "https://doi.org/10.1080/2330443x.2015.1034390"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Replacing value-added teacher scores with Colorado Growth Model median growth percentiles would have changed evaluation consequences for 14% of DCPS teachers. [→ Elias Walsh 2015](#elias-walsh-2015)

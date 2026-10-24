@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: alissa-fock-and-hans-stefan-siller-2025
     resource: "https://doi.org/10.1186/s40594-025-00589-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 73% of author affiliations are in the Global North; the United States leads with 30% of global publications, and the concentration is even stronger for conference publications (88% Global North, 48% US). [→ Alissa Fock and Hans-Stefan Siller 2025](#alissa-fock-and-hans-stefan-siller-2025)

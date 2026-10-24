@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: komatsu-et-al-2024
     resource: "https://doi.org/10.1080/07370008.2023.2293695"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3` · n=2 fully analyzed episodes (38 grade-9 students; 22 grade-5 students), from 5 classes across 3 design cycles over 3 years, Japan
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Both grade 5 and grade 9 students, given a task with a deliberately unspecified local assumption, produced genuinely divergent, individually defensible answers, and through structured discussion and a task-revision sub-task, articulated both that a conclusion's truth depends on unstated assumptions and that reaching a shared answer requires making those assumptions explicit.
 

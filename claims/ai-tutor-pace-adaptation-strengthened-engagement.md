@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both K-12 participants reported that engagement was sustained because the system adapted explanations to their prior knowledge, pace, and responses, providing relevant examples. [→ engagement-1](#engagement-1)

@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: rivkin-2023
     resource: "https://consortium.uchicago.edu/publications/training-retaining-effective-school-leaders"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2`–`q3`
+> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

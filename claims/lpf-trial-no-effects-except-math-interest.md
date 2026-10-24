@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: nicolas-hübner-2026
     resource: "https://doi.org/10.1007/s10648-026-10156-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Aside from math interest, no statistically significant differences emerged between trial-school and control-school students by the end of Grade 3 after accounting for baseline differences. [→ Nicolas Hübner 2026](#nicolas-hubner-2026)

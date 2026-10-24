@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: nelson-barber-2015
     resource: "https://eric.ed.gov/?id=ED570362"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Standardized test scores of Navajo students taught through highly scripted English programs declined as much as 50 percent over the three-year period studied, per research the report cites. [→ Nelson-Barber 2015](#nelson-barber-2015)

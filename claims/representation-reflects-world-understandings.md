@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: alexandra-list-2023
     resource: "https://doi.org/10.1080/00461520.2023.2266028"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The cognitive representation learners construct from a text reflects both the text's content and the individual's understandings of the real world as described in texts. [→ Alexandra List 2023](#alexandra-list-2023)

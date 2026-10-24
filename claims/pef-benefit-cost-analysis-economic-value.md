@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-08
 sources:
   - id: under-3-dc-2024
     resource: "https://www.mathematica.org/publications/public-investments-in-early-childhood-education"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A benefit-cost analysis determined the economic value of the Pay Equity Fund, a pioneering initiative to address pay gaps between child care and early education educators and K-12 teachers. [→ Under 3 DC 2024](#under-3-dc-2024)

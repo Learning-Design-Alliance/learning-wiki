@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: nick-huntington-klein-2026
     resource: "https://doi.org/10.48550/arxiv.2605.08812"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Re-estimating the local-calendar specification on 2025 alone gives a response of 0.135 (0.015), comparable to 0.127 (0.017) in 2023 and 2024. [→ Nick Huntington-Klein 2026](#nick-huntington-klein-2026)

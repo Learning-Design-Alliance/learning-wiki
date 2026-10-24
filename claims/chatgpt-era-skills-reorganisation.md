@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: dwivedi-2023
     title: Dwivedi 2023
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Venkatesh proposes that technology-driven disruption reorganises which skills are in demand, so the skills required in a ChatGPT-powered world will differ. [→ Dwivedi 2023](#dwivedi-2023)

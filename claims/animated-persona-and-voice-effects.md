@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-18
 sources:
   - id: w-lewis-johnson-james-c-lester-2015
     resource: "https://doi.org/10.1007/s40593-015-0065-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Baylor et al. (2003) and Mayer and DaPra (2012) found subjects learned more with an animated than a static persona, while Moreno et al. (2001) and Baylor et al. (2003) found the agent's voice contributes significantly to learning, sometimes more than the animated persona. [→ W. Lewis Johnson & James C. Lester 2015](#w-lewis-johnson-james-c-lester-2015)

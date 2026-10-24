@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09726-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article argues that apparently positive school-average achievement effects on subsequent achievement can reflect failure to control measurement error and preexisting differences, citing Harker and Tymms (2004) and recent doubly-latent studies. [→ Marsh 2023](#marsh-2023)

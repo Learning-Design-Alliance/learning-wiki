@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yuan-hsuan-lee-and-jiun-yu-wu-2026
     resource: "https://doi.org/10.1186/s41239-026-00615-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Chatbot engagement was long-tailed and zero-inflated: mean use was 29.20 interactions (SD = 52.14) and about 27% of students never used StatBot. [→ Yuan-Hsuan Lee and Jiun-Yu Wu 2026](#yuan-hsuan-lee-and-jiun-yu-wu-2026)

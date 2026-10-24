@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: tapio-rasa-2022
     resource: "https://doi.org/10.1007/s11251-021-09572-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students self-reported a generally more optimistic outlook or mitigation of previous fears after the course (theme identified in 52% of interviews). [→ Tapio Rasa 2022](#tapio-rasa-2022)

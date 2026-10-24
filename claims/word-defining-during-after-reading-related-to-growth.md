@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: hanley-chiang-2017
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Title I schools from prekindergarten through grade 3, engaging students in defining new words during or after reading is one of the practices most consistently related to student growth in language and comprehension outcomes. [→ Hanley Chiang 2017](#hanley-chiang-2017)

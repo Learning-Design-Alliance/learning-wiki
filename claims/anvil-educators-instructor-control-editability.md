@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: noviello-2026
     resource: "https://doi.org/10.48550/arxiv.2605.16295"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In two focus groups (n=5 and n=4), educators described ANVIL's core value as providing an initial metaphorical framing for early-stage lesson planning, and emphasized that adoption depends on editability and instructor control, including adjusting objects, text, pacing, and terminology without learning manim. [→ Noviello 2026](#noviello-2026)

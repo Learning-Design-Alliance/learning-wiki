@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1911
 sources:
   - id: graves-1911
     resource: "https://www.jstor.org/journal/jeduapsych"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` By average deviations, back-hand is the least dependable in both tests; medium slant has the least deviation in the one-minute test. [→ Graves 1911](#graves-1911)

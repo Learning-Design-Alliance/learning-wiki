@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2010
+recheck_by: 2013
 sources:
   - id: de-jong-2010
     resource: "https://doi.org/10.1007/s11251-009-9110-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The extraneous/germane distinction is tautological (good load is good, bad load is bad) and depends on learner expertise and learning goal, so the same process can be germane for a novice and extraneous for an expert. [→ de Jong 2010](#de-jong-2010)

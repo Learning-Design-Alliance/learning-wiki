@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: tinsley-2022
     title: Tinsley 2022
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meyer et al. found that combining micro-credentials that build on one another increases employment by four percent and quarterly wages by seven percent, with larger increases for people whose first credential was a short-term certificate. [→ Tinsley 2022](#tinsley-2022)

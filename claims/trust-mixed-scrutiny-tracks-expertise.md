@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some participants trusted tailored analogies more while others scrutinized them more closely or distrusted the tailoring itself. [→ trust-mixed](#trust-mixed)

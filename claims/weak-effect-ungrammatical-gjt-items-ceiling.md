@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: rod-ellis-2006
     resource: "https://doi.org/10.1017/S0272263106060141"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There were no group differences on ungrammatical grammaticality judgment items at either posttest, which the authors attribute to learners' high pretest explicit knowledge of the structure. [→ Rod Ellis 2006](#rod-ellis-2006)

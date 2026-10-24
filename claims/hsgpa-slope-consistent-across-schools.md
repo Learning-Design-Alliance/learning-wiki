@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: allensworth-2019
     resource: "https://consortium.uchicago.edu/publications/are-gpas-inconsistent-measure-achievement-across-high-schools-examining-assumptions"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The strong linear HSGPA–graduation trend (coefficient 0.703) does not vary significantly by high school; only the small quadratic term varies slightly (0.103). [→ Allensworth 2019](#allensworth-2019)

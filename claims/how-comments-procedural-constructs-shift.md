@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When logic involved multiple steps or repeated actions, students shifted from describing intended outcomes to describing procedures, with How comments at 94.3% for Multi-Step-Block and 57.3% for Loop-Iteration. [→ rq1-shift](#rq1-shift)

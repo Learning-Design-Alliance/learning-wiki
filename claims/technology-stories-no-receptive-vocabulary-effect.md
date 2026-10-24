@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: takacs-2015
     resource: "https://doi.org/10.3102/0034654314566989"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 9 contrasts, technology-enhanced stories did not significantly improve receptive vocabulary over traditional presentations. [→ Takacs 2015](#takacs-2015)

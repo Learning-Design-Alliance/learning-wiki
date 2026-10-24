@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: alqassab-2023
     resource: "https://doi.org/10.1007/s10648-023-09723-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost half of the reviewed studies assessed a written assignment (45.76%), and the most commonly studied outcome was beliefs and perceptions (n = 275; 38.46%), followed by performance and skills (n = 154; 21.54%) and content of peer feedback (n = 126; 17.62%). [→ Alqassab 2023](#alqassab-2023)

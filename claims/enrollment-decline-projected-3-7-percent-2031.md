@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2030
 sources:
   - id: caparas-2025
     resource: "https://eric.ed.gov/?id=ED673492"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Thirty-five states and Washington, DC use student-based funding formulas whose allocations decline with enrollment, and U.S. public school enrollment is projected to decline 3.7 percent by 2031 to 46.9 million students. [→ Caparas 2025](#caparas-2025)

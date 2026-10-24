@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: mindell-jodi-a-2018
     resource: "https://doi.org/10.1016/j.smrv.2017.10.007"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A meta-analytic review of 34 studies of massage in full-term infants ages 0-6 mo found no evidence of positive associations between massage and sleep, while several small-scale studies with older infant, toddler, and preschooler samples showed some positive effects. [→ Mindell Jodi A. 2018](#mindell-jodi-a-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: bromp-correlations
     title: bromp-correlations
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The BROMP protocol established correlations between observable student experiences (e.g., frustration) and clickstream data in ASSISTments. [→ bromp-correlations](#bromp-correlations)

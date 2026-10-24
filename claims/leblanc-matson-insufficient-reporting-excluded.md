@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: social-skills-training-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/578"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study analyzed two observed outcomes and found a significant positive effect on one and no significant difference on the other, but effect sizes could not be calculated from the reported statistics. [→ Social Skills Training 2013](#social-skills-training-2013)

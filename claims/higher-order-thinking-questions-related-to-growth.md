@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: hanley-chiang-2017
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Asking questions that require students to analyze information, explain their thinking, and develop new ideas is one of the practices most consistently related to student growth in language and comprehension outcomes in Title I schools, prekindergarten through grade 3. [→ Hanley Chiang 2017](#hanley-chiang-2017)

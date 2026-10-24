@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: sanchez-2006
     resource: "https://link.springer.com/journal/13421"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` High-WMC readers made significantly more distant (greater than one line) regressions within the text (η2 = .43). [→ Sanchez 2006](#sanchez-2006)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-09
 sources:
   - id: margaret-sullivan-2015
     resource: "https://www.mathematica.org/publications/implementing-the-virginia-rethinks-health-sciences-education-taaccct-grant"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Career coaches strengthened collaboration between colleges and the workforce development system to better serve clients. [→ Margaret Sullivan 2015](#margaret-sullivan-2015)

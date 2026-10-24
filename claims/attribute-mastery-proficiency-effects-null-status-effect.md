@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 1993
 sources:
   - id: katz-1993
     resource: "https://doi.org/10.21236/ada273789"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Repeated-measures ANOVA of attribute mastery probabilities showed clearly significant effects of proficiency group, attribute, and the attribute by proficiency group interaction. [→ Katz 1993](#katz-1993)

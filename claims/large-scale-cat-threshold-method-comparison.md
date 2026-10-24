@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: james-soland-2021
     resource: "https://doi.org/10.1186/s40536-021-00100-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study compares response time threshold-setting methods using reading test scores from over 728,923 3rd–8th-grade students in 2,056 schools taking a CAT of nearly 12,000 items. [→ James Soland 2021](#james-soland-2021)

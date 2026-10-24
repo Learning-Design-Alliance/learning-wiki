@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: scheibe-2009
     resource: "https://doi.org/10.1037/a0013807"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When instructed to down-regulate disgust, young adults' N-Back performance dropped from T1 to T2 while older adults' performance continued to increase, yielding a significant Time × Age × Condition effect. [→ Scheibe 2009](#scheibe-2009)

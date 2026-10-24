@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: williams-2017
     resource: "https://doi.org/10.14786/flr.v5i3.267"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Positive changes in process may not be immediately reflected in outcome measures; the authors call for process-tracing measures (e.g., gaze, verbal reports, kinematics, neurophysiology) alongside outcome measures in skill acquisition research. [→ Williams 2017](#williams-2017)

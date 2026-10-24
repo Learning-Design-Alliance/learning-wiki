@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among changed comments, Multi-Step-Block is the clearest hotspot, followed by Conditional-Return, Output-Formatting, Conditional, and Arithmetic-Update, and the widest flows end in Heavy Modification, suggesting students more often needed substantial restructuring than minor edits. [→ fig2-flows](#fig2-flows)

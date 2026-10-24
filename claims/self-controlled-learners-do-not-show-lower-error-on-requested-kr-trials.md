@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: mixed
+newest_evidence: 2014
 sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`–`q3` · `i1`–`i3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` A Choice × Type interaction (F(1,42) = 5.80, p= 0.021, ηp2 = 0.12): Yoked groups had lower AE on no-KR than KR trials, with no KR versus no-KR differences for the self-controlled groups. [→ Carter 2014](#carter-2014)

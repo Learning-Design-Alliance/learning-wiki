@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: phonological-awareness-training-2012
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a matched-pairs randomized design with 16 US children ages 3 to 5 with co-occurring speech and language impairments, a phonemic awareness intervention with integrated direct speech focus showed no statistically significant differences versus a morphosyntactic intervention. [→ Phonological Awareness Training 2012](#phonological-awareness-training-2012)

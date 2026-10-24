@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: doutre-2021
     resource: "https://eric.ed.gov/?id=ED616106"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Average additional per-student cost was 20.9 percent below the cross-category average for Speech or Language Impairment and 41.1 percent above it for Orthopedic Impairment. [→ Doutre 2021](#doutre-2021)

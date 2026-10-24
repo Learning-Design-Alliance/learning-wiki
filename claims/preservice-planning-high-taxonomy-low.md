@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: kaygısız-2020
     resource: "https://doi.org/10.33828/sei.v31.i1.12"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Descriptive statistics showed self-efficacy belief toward science teaching (X = 70.50) and total TSMTDF score (X = 3.70) were relatively high, while determining taxonomy was low (X = 0.51) and determining strategy (X = 1.58) and method-technique (X = 1.60) were high. [→ Kaygısız 2020](#kaygsz-2020)

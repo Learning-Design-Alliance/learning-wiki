@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: davis-2010
     resource: "https://doi.org/10.1037/a0018428"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Study 2, 69% of children reported using at least one metacognitive strategy, and an emotion × strategy interaction showed metacognitive strategies were used more for sadness and fear than for anger. [→ Davis 2010](#davis-2010)

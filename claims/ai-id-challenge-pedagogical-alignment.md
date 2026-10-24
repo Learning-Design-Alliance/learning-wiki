@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: pınar-nuhoğlu-kibar-hale-ilgaz-2026
     resource: "https://doi.org/10.1007/s11423-026-10624-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Pedagogical Alignment — difficulty ensuring coherence between instructional goals and AI-generated outputs — was the most reported challenge (n = 14), followed by Teacher/Designer Readiness (n = 12), Trust & Reliability (n = 11), Prompting Iteration Workload (n = 10), Ethical Uncertainty (n = 8), and Organizational Barriers (n = 7). [→ Pınar Nuhoğlu Kibar & Hale Ilgaz 2026](#pnar-nuhoglu-kibar-hale-ilgaz-2026)

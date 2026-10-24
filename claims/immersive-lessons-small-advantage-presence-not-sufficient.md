@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: guido-makransky-gustav-bøg-petersen-2023
     resource: "https://doi.org/10.1007/s10648-023-09822-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`–`q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-analyses found a small effect size advantage for immersive lessons compared to less immersive technology, yet immersive environments can increase presence without necessarily leading to more learning. [→ Guido Makransky · Gustav Bøg Petersen 2023](#guido-makransky-gustav-bg-petersen-2023)

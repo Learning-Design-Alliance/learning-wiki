@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: roberto-agodini-2008
     resource: "https://www.mathematica.org/publications/design-for-the-evaluation-of-early-elementary-school-mathematics-curricula"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students from poor families lag behind students from more affluent families in math performance at elementary school entry. [→ Roberto Agodini 2008](#roberto-agodini-2008)

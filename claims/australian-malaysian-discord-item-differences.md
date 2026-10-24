@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: ian-robottom-and-sharifah-norhaidah-2008
     resource: "https://doi.org/10.1177/1475240908091302"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The three easiest-to-agree items for Australian learners (ITEMS 95, 72, 67) differed from the Malaysian study's easiest items (ITEMS 84, 90, 86), and the most difficult items also differed between the two samples. [→ Ian Robottom and Sharifah Norhaidah 2008](#ian-robottom-and-sharifah-norhaidah-2008)

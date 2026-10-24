@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: sara-berti-2023
     resource: "https://doi.org/10.1007/s10648-023-09773-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Most included studies targeted reduction of violent behaviors such as bullying, cyberbullying and dating violence; only two studies targeted positive emotional and relational school climate. [→ Sara Berti 2023](#sara-berti-2023)

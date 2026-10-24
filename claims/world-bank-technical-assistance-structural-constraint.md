@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: edwards-jr-2023
     resource: "https://doi.org/10.3102/00346543231194725"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The reviewed literature portrays World Bank technical assistance as having a material and structural dimension, indicating what must happen for processes to move forward, and as embedding World Bank frameworks in governments' strategy development. [→ Edwards Jr. 2023](#edwards-jr-2023)

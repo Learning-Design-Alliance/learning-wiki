@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: stevens-main-idea
     title: stevens-main-idea
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r3` · `q3` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Third- and fourth-grade students in CIRC classrooms significantly outperformed comparison classrooms on Main Idea Questions (effect size 0.85, improvement index +30, p < 0.01). [→ stevens-main-idea](#stevens-main-idea)

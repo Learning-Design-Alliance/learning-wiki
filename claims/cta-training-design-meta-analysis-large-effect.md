@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: olivia-brown-2024
     resource: "https://doi.org/10.1177/10944281241271216"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` A meta-analysis of 20 studies reviewing the use of CTA in training design reported a large effect size of Hedges' g = 0.871. [→ Olivia Brown 2024](#olivia-brown-2024)

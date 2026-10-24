@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-19
 sources:
   - id: lindamood-phoneme-sequencing-lips-beginning-reading-2015
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/280"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Torgesen et al. (2010) found statistically significant and substantively important positive effects of LiPS on alphabetics outcomes versus the basal reading program alone (domain average effect size 0.63, improvement index +24). [→ Lindamood Phoneme Sequencing® (LiPS®): Beginning Reading 2015](#lindamood-phoneme-sequencing-lips-beginning-reading-2015)

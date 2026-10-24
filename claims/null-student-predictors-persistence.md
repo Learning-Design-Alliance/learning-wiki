@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: rahimi-2021
     resource: "https://doi.org/10.46328/ijtes.118"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gaming frequency, gender, physics knowledge, and posttest scores did not significantly predict persistence, contrary to the authors' hypotheses. [→ Rahimi 2021](#rahimi-2021)

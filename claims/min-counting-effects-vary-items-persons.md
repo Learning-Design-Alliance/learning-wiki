@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rhodes-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11360214/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Min-counting slowed solving by about 2.59 seconds on average, but slope variances for items and persons were significant, and the person-level intercept-slope covariance (r = -.89) indicated slower solvers were relatively fast with min-counting. [→ Rhodes 2018](#rhodes-2018)

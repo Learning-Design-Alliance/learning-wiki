@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-13
 sources:
   - id: layton-jaramillo-2025
     resource: "https://doi.org/10.3926/jotse.3115"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-13 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Inductive content analysis of final project reports identified common interests, communication systems, mutual learning, collaborative work, and UNAL values as factors contributing to PLC formation. [→ Layton-Jaramillo 2025](#layton-jaramillo-2025)

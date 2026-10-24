@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: strong
+newest_evidence: 2016
 sources:
   - id: kini-2016
     resource: "https://doi.org/10.54300/625.642"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 30 reviewed studies, 28 found teaching experience positively and significantly associated with teacher effectiveness. [→ Kini 2016](#kini-2016)

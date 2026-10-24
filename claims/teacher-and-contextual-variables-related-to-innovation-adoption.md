@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: chang-zhu-2010
     resource: "https://doi.org/10.1080/02619761003631849"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers favouring collaboration, the facilitator/delegator roles, and social-constructivist principles tend to be more willing to adopt online collaborative learning; perceived need of innovation, computer competence, infrastructure, institutional impetus, and training relate to e-learning adoption. [→ Chang Zhu 2010](#chang-zhu-2010)

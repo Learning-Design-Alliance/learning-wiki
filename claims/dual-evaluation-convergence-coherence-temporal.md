@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite being conducted independently with different samples and instruments, both evaluations identified coherence and temporal alignment as the dimensions most significantly enhanced by the PedaCo pipeline. [→ convergence-1](#convergence-1)

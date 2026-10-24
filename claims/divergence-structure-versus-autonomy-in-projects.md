@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: reshaping-undergraduate-computer-science-education-in-the-generative-ai-era-2026
     resource: "https://doi.org/10.48550/arxiv.2606.07545"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The workshops differed not on whether to use real-world projects but on the degree of structure and instructor direction: faculty proposed instructor-driven formats such as prompt-first courses and reverse-engineering modules, while students favored greater autonomy in selecting problems and pathways. [→ Reshaping Undergraduate Computer Science Education in the Generative AI Era 2026](#reshaping-undergraduate-computer-science-education-in-the-generative-ai-era-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: chenguang-pan-2026
     resource: "https://doi.org/10.48550/arxiv.2608.21165"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Under severe imbalance with an X-learner, the mentee recommends treatment for every harmed student (UnsafeTreat = 1.000), where the mentor already recommends treatment for 0.926 of them. [→ Chenguang Pan 2026](#chenguang-pan-2026)

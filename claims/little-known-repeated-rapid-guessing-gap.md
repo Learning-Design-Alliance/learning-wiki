@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: james-soland-2019
     resource: "https://doi.org/10.1080/10627197.2019.1645592"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Prior to this study, research on rapid guessing had not examined students who rapidly guess repeatedly across several tests. [→ James Soland 2019](#james-soland-2019)

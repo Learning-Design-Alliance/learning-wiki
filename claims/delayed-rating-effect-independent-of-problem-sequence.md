@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-21
 sources:
   - id: schmeck-2015
     resource: "https://doi.org/10.1007/s11251-014-9328-3"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Experiment 2's increasing-complexity group, delayed mental effort (d = 0.88) and perceived difficulty (d = 0.81) ratings exceeded immediate averages. [→ Schmeck 2015](#schmeck-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: wouters-2007
     resource: "https://doi.org/10.1007/s10648-007-9045-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A study found that reflection prompts combined with tutor feedback had positive effects on the development of students' self-regulated learning competence. [→ Wouters 2007](#wouters-2007)

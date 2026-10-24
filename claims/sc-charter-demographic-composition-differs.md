@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: credo-2019
     resource: "https://credo.stanford.edu/reports/item/charter-school-performance-in-south-carolina-2019-2/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Charter schools have larger shares of white students and smaller proportions of black and Hispanic students, students in poverty, ELLs, and special education students than TPS and feeder schools. [→ CREDO 2019](#credo-2019)

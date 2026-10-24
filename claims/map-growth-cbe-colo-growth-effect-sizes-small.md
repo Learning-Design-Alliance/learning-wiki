@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-09
 sources:
   - id: bo-2020
     resource: "https://www.nwea.org/research/publication/comparability-of-map-growth-tests-administered-through-different-technology-and-psychometric-infrastructure-an-engine-evaluation-study-based-on-empirical-data/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2020 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Hedges' g effect sizes for winter-minus-fall RIT growth between engines exceed 0.2 in absolute value only for Reading Grades K and 1 (CBE higher) and Mathematics Grade 8 (COLO higher), all small by Cohen's guidelines. [→ Bo 2020](#bo-2020)

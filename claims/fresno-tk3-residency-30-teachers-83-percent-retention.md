@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: cathy-yun-2022
     resource: "https://doi.org/10.54300/139.797"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 2017 and 2019, Fresno Unified placed 30 new teachers in early-grade classrooms, 10 in TK or kindergarten, with an 83% retention rate as of spring 2022. [→ Cathy Yun 2022](#cathy-yun-2022)

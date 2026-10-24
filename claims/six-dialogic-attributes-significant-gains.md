@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: benzi-slakmon-2024
     resource: "https://doi.org/10.1007/s11412-024-09423-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Significant changes after the intervention occurred in persuasive interaction, one leads and another is led, agreement and collective attention, dialogic gap, monologue, and students with equal status (all p < 0.05 in Table 2). [→ Benzi Slakmon 2024](#benzi-slakmon-2024)

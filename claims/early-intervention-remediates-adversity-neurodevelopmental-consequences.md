@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: bick-2016
     resource: "https://doi.org/10.1038/npp.2015.252"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Emerging data indicate that early intervention is effective in remediating neurodevelopmental consequences of maltreatment or institutional rearing. [→ Bick 2016](#bick-2016)

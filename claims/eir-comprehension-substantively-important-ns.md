@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: early-intervention-in-reading-2008
     resource: "http://www.earlyinterventioninreading.com"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` On the Gates-MacGinitie reading test, the EIR® effect size was 0.47 (improvement index +18 percentile points), not statistically significant but meeting the WWC substantively-important threshold of 0.25. [→ Early Intervention in Reading® 2008](#early-intervention-in-reading-2008)

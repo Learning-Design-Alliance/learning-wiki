@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: daniel-long-2025
     resource: "https://doi.org/10.18356/9788865220696c011"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The brief's title frames school offerings and placement practices as mechanisms limiting opportunity for 8th-grade algebra access. [→ Daniel Long 2025](#daniel-long-2025)

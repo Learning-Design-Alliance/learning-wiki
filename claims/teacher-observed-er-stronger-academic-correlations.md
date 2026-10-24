@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ivcevic-zorana-eggers-catherine-2021
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teacher-observed emotion regulation showed higher zero-order correlations with GPA (r = 0.33) and academic honors (r = 0.38) than performance-tested ERA did (both r = 0.28). [→ Ivcevic Zorana; Eggers Catherine 2021](#ivcevic-zorana-eggers-catherine-2021)

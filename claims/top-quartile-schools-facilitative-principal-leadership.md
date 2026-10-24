@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1995
 sources:
   - id: sebring-1995
     resource: "https://consortium.uchicago.edu/publications/charting-reform-asbury-school-results-student-and-teacher-surveys"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In top-quartile schools, almost 90 percent of teachers agree or strongly agree that the principal is a facilitative, inclusive, committed leader, with 15 percent registering very high regard. [→ Sebring 1995](#sebring-1995)

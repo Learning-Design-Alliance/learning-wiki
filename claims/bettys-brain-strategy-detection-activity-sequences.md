@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: azevedo-2014
     resource: "https://doi.org/10.1007/s11409-014-9123-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` With 73 seventh-grade students using Betty's Brain to learn science topics such as climate change, analysis of activity sequences under different categories of adaptive scaffolding showed it is possible to detect and interpret students' learning strategies. [→ Azevedo 2014](#azevedo-2014)

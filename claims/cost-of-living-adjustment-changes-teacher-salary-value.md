@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: carver-thomas-2022
     resource: "https://doi.org/10.54300/443.847"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Because purchasing power is not equivalent across states, the report adjusts starting salaries for state cost of living to make cross-state comparisons more meaningful. [→ Carver-Thomas 2022](#carver-thomas-2022)

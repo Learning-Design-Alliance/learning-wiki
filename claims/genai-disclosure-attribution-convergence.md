@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: qian-2026
     resource: "https://doi.org/10.1007/s40979-026-00233-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When AI is permitted, institutions commonly instruct students to acknowledge, cite, or otherwise document AI assistance rather than present AI-generated work as entirely their own. [→ Qian 2026](#qian-2026)

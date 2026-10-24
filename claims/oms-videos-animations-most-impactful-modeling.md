@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: michele-d-dickey-2007
     resource: "https://doi.org/10.1080/09687760701482218"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Observations of student performances and email interactions revealed that the OMS videos and animations had the most impact in modeling techniques and skills, and students referenced them when requesting assistance. [→ Michele D. Dickey 2007](#michele-d-dickey-2007)

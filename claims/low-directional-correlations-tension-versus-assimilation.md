@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1924
 sources:
   - id: stone-1924
     resource: "https://psycnet.apa.org"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q1`–`q2`
+> **Currency** · newest study 1924 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Normal speed of writing correlated 0.131±0.100 and tension 0.185 with scholarship superiority; perseverance 0.055±0.101; high standard frequency 0.131±0.101 with intelligence superiority; aggressiveness 0.016 with scholarship superiority. [→ Stone 1924](#stone-1924)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: how-arizonas-dropout-crisis-affects-communities-2014
     resource: "https://eric.ed.gov/?id=ED559628"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The lifetime fiscal loss per dropout is $54,350 to Arizona state/local governments and $81,380 to the federal government, totaling $135,730 and $2.5 billion per cohort. [→ How Arizona's Dropout Crisis Affects Communities 2014](#how-arizonas-dropout-crisis-affects-communities-2014)

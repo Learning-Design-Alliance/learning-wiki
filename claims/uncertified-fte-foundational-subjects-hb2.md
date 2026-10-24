@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: patrick-2026
     resource: "https://doi.org/10.54300/301.563"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` As of 2024–25 there were more than 8,500 uncertified FTE teachers in K–5 English language arts and math positions (including self-contained), and approximately 23,000 uncertified FTE in all foundational subjects required to be certified by 2027–28 under House Bill 2. [→ Patrick 2026](#patrick-2026)

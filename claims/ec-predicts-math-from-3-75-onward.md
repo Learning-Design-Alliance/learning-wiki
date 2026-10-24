@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: clark-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.00107"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Latent EC at 3 years did not predict mathematics achievement, whereas higher latent EC at 3.75 years was associated with higher concurrent TEMA-3 and Applied Problems performance independent of processing speed and language. [→ Clark 2014](#clark-2014)

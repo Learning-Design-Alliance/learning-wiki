@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hou-2025
     resource: "https://doi.org/10.1007/s11409-025-09442-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` An ANOVA showed exam scores differed significantly across the four quartile groups (F(3, 478) = 1174.49, η² = 0.88), with each group's mean significantly higher than the next in the expected order. [→ Hou 2025](#hou-2025)

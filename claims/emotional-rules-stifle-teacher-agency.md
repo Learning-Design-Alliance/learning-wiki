@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: chen-2026
     resource: "https://doi.org/10.1007/s11251-026-09777-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Emotional rules encountered by veteran mathematics teachers in their workplaces not only create emotional labor but can also stifle their epistemic and relational agency, and thus their ability to learn. [→ Chen 2026](#chen-2026)

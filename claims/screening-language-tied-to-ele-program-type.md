@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: soo-ping-chow-2025
     resource: "https://eric.ed.gov/?id=ED677598"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` English learners in structured English immersion programs were mostly screened in English, sometimes with additional Spanish screening, whereas those in dual language bilingual education programs were more often screened in Spanish or assessed alternately between languages. [→ Soo Ping Chow 2025](#soo-ping-chow-2025)

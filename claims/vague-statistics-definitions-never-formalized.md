@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: chu-2022
     resource: "https://eric.ed.gov/?id=ED625747"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Go Math! defines a cluster as "a set of closely grouped data" and an outlier as "a data point that is very different from the rest of the data in the set," before any examples, and formal criteria are never developed in the reviewed textbooks. [→ Chu 2022](#chu-2022)

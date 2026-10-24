@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: ger-ebru-2023
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Intelligence was positively correlated with verbal WM (r = 0.16, p = .049) but not with visuospatial WM, despite the intelligence measure being nonverbal and visuospatial in nature. [→ Ger Ebru 2023](#ger-ebru-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sukjaitham-2026
     resource: "https://doi.org/10.31234/osf.io/t2eac_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Children rated LLM adaptive feedback as significantly more helpful (r = .67) and more motivating (r = .74) than generic guidance. [→ Sukjaitham 2026](#sukjaitham-2026)

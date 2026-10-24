@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: veit-kubik-2022
     resource: "https://doi.org/10.1007/s11409-022-09307-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect of practice type on final cumulative recall was modulated by list (Practice Type × List interaction, F(12, 628) = 4.61, p < .001, ω²p = 0.02). [→ Veit Kubik 2022](#veit-kubik-2022)

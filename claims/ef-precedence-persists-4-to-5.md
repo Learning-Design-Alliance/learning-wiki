@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: marcovitch-s-2014
     resource: "https://doi.org/10.1016/j.cogdev.2014.07.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` EF at 4 years predicted ToM at 5 years (β = .41, p = .009), extending the asymmetric longitudinal pattern into the fifth year. [→ Marcovitch S. 2014](#marcovitch-s-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: kevin-booker-2008
     resource: "https://www.mathematica.org/publications/achievement-and-attainment-in-chicago-charter-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The large positive attainment results suggest that evaluations limited to test scores may fail to capture important benefits of charter schools. [→ Kevin Booker 2008](#kevin-booker-2008)

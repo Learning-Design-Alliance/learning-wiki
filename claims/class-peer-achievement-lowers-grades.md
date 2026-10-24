@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: elaine-m-allensworth-and-stuart-luppescu-2016
     resource: "https://consortium.uchicago.edu"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Each standard deviation increase in classroom peers' average prior achievement is associated with grades lower by 0.173 points, controlling for subject and Honors/AP status. [→ Elaine M. Allensworth and Stuart Luppescu 2016](#elaine-m-allensworth-and-stuart-luppescu-2016)

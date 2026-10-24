@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: bidzan-bluma-ilona-2018
     resource: "https://doi.org/10.3390/ijerph15040800"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Girls engaging in sport for at least one hour per week had significantly better math and reading results than girls who did not; the relationship was not found for boys. [→ Bidzan-Bluma Ilona 2018](#bidzan-bluma-ilona-2018)

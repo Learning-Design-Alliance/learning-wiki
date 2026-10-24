@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: looney-2026
     resource: "https://doi.org/10.48550/arxiv.2608.20733"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Gemini often corrects obvious board-written physics or math errors on its own, with correction logs appended as comments, yet in the v6m transcription of video 1 it consistently used uppercase V rather than lowercase v for velocity despite an explicit contextual case-consistency directive. [→ Looney 2026](#looney-2026)

@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: self-assessment-accuracy-is-low-without-training
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: kostons-et-al-2012
     resource: "https://doi.org/10.1016/j.learninstruc.2011.08.004"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2012 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Untrained learners systematically misjudge their own performance — typically overestimating it — and self-assessment only becomes reasonably accurate after explicit training, practice with feedback, and access to clear criteria.
 

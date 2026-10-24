@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-15
+recheck_by: 2011
 sources:
   - id: kevin-booker-2008
     resource: "https://www.mathematica.org/publications/measuring-charter-school-effectiveness-across-states"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2011**: local conditions change quickly
 
 <!-- title before 2026-10-15: A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year. -->
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: pain-points-1
     title: pain-points-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` CICS educators spent 2-3 hours per intervention plan because data and tools were fragmented, making planning slow, inconsistent, and hard to act on. [→ pain-points-1](#pain-points-1)

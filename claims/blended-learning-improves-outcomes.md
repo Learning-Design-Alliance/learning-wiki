@@ -8,6 +8,7 @@ generated:
 id: blended-learning-improves-outcomes
 aliases: [blended-larger-advantage-than-pure-online]
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: means-et-al-2013
     resource: "https://doi.org/10.1177/016146811311500307"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3` · `i1`–`i2` · n=23 contrasts
+> **Currency** · newest study 2013 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Blended learning — instruction that combines face-to-face teaching with online learning activities — is widely claimed to produce better learning outcomes than fully face-to-face or fully online formats. This page concerns that comparative-outcome claim. One synthesis is recorded: Means et al. (2013), whose 23 blended-versus-face-to-face contrasts favoured blended instruction (g+ = 0.35) but confounded the blend with extra learning time and resources; no entry here compares blended with fully online instruction directly. <!-- deprecated (2026-10-05, stale: an entry had been added): This page concerns that comparative-outcome claim; it does not yet have curated evidence entries. -->
 

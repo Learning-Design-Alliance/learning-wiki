@@ -8,6 +8,8 @@ generated:
 id: peer-feedback-improves-writing
 aliases: [peer-feedback-improves-writing-outcomes]
 evidence_strength:
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: huisman-et-al-2019
     resource: "https://doi.org/10.1080/02602938.2018.1545896"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i3` large · n=24 studies
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 Formative peer feedback improves higher-education students' academic writing performance: in one meta-analysis of 24 studies, students who gave and/or received peer feedback improved more than no-feedback controls (g = 0.91) and than students who only self-assessed (g = 0.33), and about as much as with teacher feedback (an interval crossing zero). The recorded evidence pools giving and receiving, so it does not show that giving feedback by itself strengthens the giver's own writing; that route is a proposed mechanism (see Discussion). The pooled studies were formative peer-feedback interventions with varying levels of guidance and structure, rather than informal comment exchange.
 

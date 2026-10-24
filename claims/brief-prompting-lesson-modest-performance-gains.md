@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: keith-tran-2026
     resource: "https://doi.org/10.48550/arxiv.2606.30547"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students in the experimental prompting lesson improved more on Promptly problem solving from pre- to post-test than the control group (B = 0.756, 95% CI [-0.020, 1.533], p = 0.056), an effect that was not statistically significant. [→ Keith Tran 2026](#keith-tran-2026)

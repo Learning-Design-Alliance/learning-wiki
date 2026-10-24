@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: daniel-r-espinas-2024
     resource: "https://doi.org/10.1007/s10648-024-09889-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across five studies of verbal working memory, correlations with intertextual integration ranged from r = 0.06 (non-significant) to r = 0.538, with secondary-level studies generally stronger than elementary-level ones. [→ Daniel R. Espinas 2024](#daniel-r-espinas-2024)

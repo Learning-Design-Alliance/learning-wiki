@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: manufacturing-use
     title: manufacturing-use
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Independent analyses of BTOS data put manufacturing-sector AI use at roughly 12–14% as of early-to-mid 2026, and the survey's stricter measure of AI used specifically in producing goods or services was approximately 10% nationally as of late 2025. [→ manufacturing-use](#manufacturing-use)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: haigh-sarah-m-2018
     resource: "https://doi.org/10.1007/s10803-018-3515-z"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The correlation between processing speed and SAS-II scores in the ASD group was not significant. [→ Haigh Sarah M. 2018](#haigh-sarah-m-2018)

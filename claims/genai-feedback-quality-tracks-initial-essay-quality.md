@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: farrokhnia-2026
     resource: "https://doi.org/10.1186/s41239-026-00579-9"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Zero-shot GenAI feedback quality showed a moderate significant correlation with initial essay quality (r = 0.53). [→ Farrokhnia 2026](#farrokhnia-2026)

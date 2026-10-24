@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: inga-glogger-frey-2022
     resource: "https://doi.org/10.1007/s11251-022-09577-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Bayesian tests found no evidence that inventing raised situational interest or that the worked example raised self-efficacy after learning. [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)

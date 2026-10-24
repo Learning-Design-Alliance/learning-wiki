@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: f-egert-2018
     resource: "https://doi.org/10.3102/0034654317751918"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Variance in child-level effect sizes was significantly related to in-service effects on quality ratings, with 53% explained variance; no standardized effect size is printed for this relation. [→ F. Egert 2018](#f-egert-2018)

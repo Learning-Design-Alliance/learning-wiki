@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: julián-méndez-2026
     resource: "https://doi.org/10.48550/arxiv.2607.18864"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average UEQ-S assessments were positive for all tasks and items except usual/leading edge on Task 1, and pragmatic qualities scored particularly positively. [→ Julián Méndez 2026](#julian-mendez-2026)

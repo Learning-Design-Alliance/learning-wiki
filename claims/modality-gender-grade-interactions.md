@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: haavisto-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102200"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The modality-by-gender interaction showed videos were more effective for boys in retention (ΔR2mar = .014, p = .012). [→ Haavisto 2025](#haavisto-2025)

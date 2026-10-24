@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: shudong-wang-2013
     resource: "https://www.nwea.org/research/publication/the-effect-of-nonignorable-missing-data-in-computerized-adaptive-test-on-item-fit-statistics-for-polytomous-item-response-models/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Item fit statistics research has been conducted almost entirely in the context of linear testing, under regular fixed-form assumptions such as no missing responses. [→ Shudong Wang 2013](#shudong-wang-2013)

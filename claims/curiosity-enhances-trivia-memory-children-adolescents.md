@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: fandakova-yana-2021
     resource: "https://doi.org/10.1111/desc.13005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` High-curiosity trivia questions were better recalled than low-curiosity questions, with no age-group difference in the effect. [→ Fandakova Yana 2021](#fandakova-yana-2021)

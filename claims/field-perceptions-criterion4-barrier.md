@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: faulkner-bond-2026
     resource: "https://eric.ed.gov/?id=ED681359"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In virtual listening sessions, there were over 75 references to Criterion 4, with many educators describing it as a barrier to exit and expressing skepticism about English-only students' ability to meet local standards. [→ Faulkner-Bond 2026](#faulkner-bond-2026)

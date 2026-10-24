@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+source_checked: 2026-10-20
 sources:
   - id: exclusion-type
     title: exclusion-type
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Less severe exclusion outcomes (in-school exclusion, general suspensions) show greater potential for reduction than severe sanctions (permanent exclusions, out-of-school suspensions). [→ exclusion-type](#exclusion-type)

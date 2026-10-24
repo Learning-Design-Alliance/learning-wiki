@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: castro-alonso-2021
     resource: "https://doi.org/10.1007/s10648-020-09587-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across 32 effect sizes (N = 2104), learning with multimedia pedagogical agents was more effective than learning without these agents, with a small pooled effect of g+ = 0.20. [→ Castro-Alonso 2021](#castro-alonso-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2014
 sources:
   - id: freeman-s-2014
     resource: "https://doi.org/10.1073/pnas.1319030111"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Fail-safe numbers were high (114 studies for examination performance, 438 for failure rate), and effect sizes showed no heterogeneity by quality of controls over student or instructor equivalence. [→ Freeman S 2014](#freeman-s-2014)

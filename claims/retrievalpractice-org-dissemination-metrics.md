@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: pooja-k-agarwal-2024
     resource: "https://doi.org/10.1007/s10648-023-09839-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The retrievalpractice.org website receives approximately 15,000 visitors per month, practice guides have been downloaded by at least 250,000 educators, and the site has had more than one million unique visitors since inception. [→ Pooja K. Agarwal 2024](#pooja-k-agarwal-2024)

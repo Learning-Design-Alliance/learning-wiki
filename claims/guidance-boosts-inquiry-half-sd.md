@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: de-jong-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100536"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a meta-analysis of 72 randomized or quasi-experimental studies, guidance increased the positive effect of inquiry-based approaches on learning outcomes by half a standard deviation. [→ de Jong 2023](#de-jong-2023)

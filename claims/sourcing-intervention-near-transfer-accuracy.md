@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ana-pérez-2018
     resource: "https://doi.org/10.1016/j.learninstruc.2018.04.006"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the near transfer question, the trained group outperformed the control group at post-test 1 and post-test 2, with no group difference at pre-test. [→ Ana Pérez 2018](#ana-perez-2018)

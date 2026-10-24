@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: neuschafer-2022
     resource: "https://doi.org/10.9743/jeo.2023.20.2.8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The current study found that Duolingo discussion boards can also provide emotional support, extending prior findings about instrumental and informational support. [→ Neuschafer 2022](#neuschafer-2022)

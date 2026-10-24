@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: flora-ji-yoon-jin-2025
     resource: "https://doi.org/10.1007/s11251-025-09744-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` LCA on 26 retained survey items identified four latent classes with estimated proportions 0.143, 0.331, 0.297, and 0.228, labelled Information Seekers with Low Emotional Strain, Feedback Contemplators with High Emotional Strain, Inconsistent Action Takers with Low Challenge Awareness, and Feedback Appreciators with Action Struggles. [→ Flora Ji-Yoon Jin 2025](#flora-ji-yoon-jin-2025)

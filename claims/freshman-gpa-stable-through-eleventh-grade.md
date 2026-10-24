@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: easton-2017
     resource: "https://consortium.uchicago.edu/publications/predictive-power-ninth-grade-gpa"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The correlation between ninth- and eleventh-grade GPA is r = 0.87, and most students retain the same GPA category two years later (e.g., 75 percent of B students kept a B average). [→ Easton 2017](#easton-2017)

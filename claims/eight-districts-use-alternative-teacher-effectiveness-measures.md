@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: brian-gill-2014
     resource: "https://www.mathematica.org/publications/alternative-student-growth-measures-for-teacher-evaluation-profiles-of-early-adopting-districts-executive-summary"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Eight early-adopting school districts have been using alternative measures for teacher evaluations or performance-related compensation systems. [→ Brian Gill 2014](#brian-gill-2014)

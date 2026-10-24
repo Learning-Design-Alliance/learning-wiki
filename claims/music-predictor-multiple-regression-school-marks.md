@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: olive-emil-wetter-2009
     resource: "https://doi.org/10.1007/s11251-008-9052-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grade (partial correlation -.466), parent's income (.395) and music (.339) each significantly predicted overall average marks; music retained significance (t=3.950, p<.001) with other predictors held constant. [→ Olive Emil Wetter 2009](#olive-emil-wetter-2009)

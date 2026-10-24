@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: listening-deeply-and-responding-accordingly-r15cc-facilitates-a-community-of-practice-rooted-in-the-perspectives-of-american-indian-education-directors-2024
     resource: "https://www.wested.org/resources/working-respectfully-with-indigenous-communities-around-data-and-evidence-a-resource-for-state-education-agencies/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AIE Directors from four states reported that the CoP was a space to share authentic problems of practice and to break down silos and combat the isolation of their roles. [→ Listening Deeply and Responding Accordingly: R15CC Facilitates a Community of Practice Rooted in the Perspectives of American Indian Education Directors 2024](#listening-deeply-and-responding-accordingly-r15cc-facilitates-a-community-of-practice-rooted-in-the-perspectives-of-american-indian-education-directors-2024)

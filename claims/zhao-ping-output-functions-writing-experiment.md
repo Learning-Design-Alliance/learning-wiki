@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: honglan-wei-2018
     resource: "https://doi.org/10.5430/wje.v8n5p198"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article reports, citing Zhao Ping's experiment with 35 sophomores and four writing tasks, that output performed noticing and hypothesis-testing functions but showed no apparent metalinguistic function in second language writing. [→ Honglan Wei 2018](#honglan-wei-2018)

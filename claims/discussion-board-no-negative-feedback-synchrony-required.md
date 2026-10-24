@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: sarré-2011
     resource: "https://dx.doi.org/10.14705/rpnet.2011.9781908416001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Discussion board interactions produced zero occurrences of explicit correction, recasts and self-correction, and the authors suggest the asynchronous nature of the mode accounts for this total absence. [→ Sarré 2011](#sarre-2011)

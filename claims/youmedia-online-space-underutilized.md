@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: kimberly-austin-2011
     resource: "https://youmediachicago.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The online space, designed to motivate production and critique, was not well utilized during Year 1. [→ Kimberly Austin 2011](#kimberly-austin-2011)

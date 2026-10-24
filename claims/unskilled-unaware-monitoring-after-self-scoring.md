@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: sophie-oudman-2021
     resource: "https://doi.org/10.1007/s11409-021-09281-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On multiplication, high-performing students still made significantly more accurate monitoring judgments after self-scoring than low-performing students, though the difference was only 0.07 on a seven-point scale; on division the difference was not significant. [→ Sophie Oudman 2021](#sophie-oudman-2021)

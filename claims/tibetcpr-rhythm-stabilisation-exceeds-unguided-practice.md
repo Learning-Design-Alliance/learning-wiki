@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yibo-meng-2026
     resource: "https://doi.org/10.48550/arxiv.2606.07765"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The experimental group's pre-to-post reduction in compression rate deviation substantially exceeded the control group's change (Cohen's d = −1.52), and gains transferred to an unscaffolded one-minute post-test. [→ Yibo Meng 2026](#yibo-meng-2026)

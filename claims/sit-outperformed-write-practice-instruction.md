@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: margina-ruiter-sofie-loyens-fred-paas-2015
     resource: "https://doi.org/10.1007/s10648-015-9324-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A Gabriel post hoc test indicated the two control groups differed significantly on instruction score (p=0.04, η2=0.13), with sit children performing better during training than write children. [→ Margina Ruiter & Sofie Loyens & Fred Paas 2015](#margina-ruiter-sofie-loyens-fred-paas-2015)

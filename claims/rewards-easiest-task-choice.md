@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1994
 sources:
   - id: kohn-1994
     resource: "https://eric.ed.gov/?id=ED376990"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At least ten studies show people offered a reward generally choose the easiest possible task; without rewards, children pick tasks just beyond their current level of ability. [→ Kohn 1994](#kohn-1994)

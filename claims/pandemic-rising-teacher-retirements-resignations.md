@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: carver-thomas-2021
     resource: "https://doi.org/10.54300/987.779"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Five districts reported more teachers resigning or retiring this year compared to recent years, citing distance learning as the primary reason. [→ Carver-Thomas 2021](#carver-thomas-2021)

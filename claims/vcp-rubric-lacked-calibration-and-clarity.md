@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
+recheck_by: 2022
 sources:
   - id: perry-2019
     resource: "https://www.wested.org/project/math-in-common-evaluation/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Rubric scores were challenging to interpret over time or across districts because the VCP rubric lacked a standardized calibration and scoring system, and the distinction between process and content was unclear to many district leaders. [→ Perry 2019](#perry-2019)

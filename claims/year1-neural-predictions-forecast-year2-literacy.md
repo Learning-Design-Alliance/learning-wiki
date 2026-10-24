@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: white-schwoch-t-2015
     title: White-Schwoch T 2015
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Year 1 consonants-in-noise model predictions predicted Year 2 phonological processing (r[32] = 0.543), a second phonological test (r[32] = 0.575), rapid naming (r[32] = -0.663), and sentence memory (r[32] = 0.458). [→ White-Schwoch T 2015](#white-schwoch-t-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: tim-silva-2014
     resource: "https://www.mathematica.org/publications/teaching-residency-programs-a-multisite-look-at-a-new-model-to-prepare-teachers-for-highneed-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` New participants in all TRPs could accept a stipend for committing to teach in the same district for at least three years. [→ Tim Silva 2014](#tim-silva-2014)

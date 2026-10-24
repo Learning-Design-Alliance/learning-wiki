@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ethan-dickey-2026
     resource: "https://doi.org/10.48550/arxiv.2607.27586"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Within-student difference scores on the GenAI-graded problem differed significantly between groups (Mann-Whitney U=7,046, p=.035, r=.14; t(218)=2.90, p=.004, d=.39). [→ Ethan Dickey 2026](#ethan-dickey-2026)

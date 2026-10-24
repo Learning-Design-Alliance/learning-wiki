@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: high-quality-early-child-education-is-associated-with-2023
     resource: "https://ies.ed.gov/ncee/edlabs/regions/west"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pre-kindergarten attendance predicts two-year college enrollment across all racial and ethnic groups and strongly predicts four-year enrollment, particularly among Black and Hispanic students. [→ High-Quality Early Child Education is Associated With 2023](#high-quality-early-child-education-is-associated-with-2023)

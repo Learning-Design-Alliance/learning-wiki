@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: khan-abdus-salam-2025
     resource: "https://doi.org/10.7759/cureus.94133"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning in mixed groups of doctors and nurses promoted mutual respect, role understanding, and appreciation of teamwork, per the qualitative theme. [→ Khan Abdus Salam 2025](#khan-abdus-salam-2025)

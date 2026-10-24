@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-08
 sources:
   - id: agodini-2009
     resource: "https://www.mathematica.org/publications/achievement-effects-of-four-early-elementary-school-math-curricula-findings-from-first-graders-in-39-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The federal evaluation of early math curricula is described as the largest study of its kind using an experimental design, with 110 schools in total and this report covering the first cohort of 39 schools from the 2006-2007 school year. [→ Agodini 2009](#agodini-2009)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: popenici-2017
     resource: "https://doi.org/10.1186/s41039-017-0062-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In one Georgia Tech online KBAI course, an AI teaching assistant based on IBM Watson was valued by students and revealed as a teacherbot only at the end of the course. [→ Popenici 2017](#popenici-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: ard-w-lazonder-2009
     resource: "https://doi.org/10.1007/s11251-008-9055-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The concrete condition had a significantly lower percentage of exploratory experiments than the intermediate condition (r = .52). [→ Ard W. Lazonder 2009](#ard-w-lazonder-2009)

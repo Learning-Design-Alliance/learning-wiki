@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: clinton-2016
     resource: "https://doi.org/10.1080/00220973.2015.1048847"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the read-twice condition, lessons with diagrams yielded better posttest performance than lessons without diagrams; diagram presence did not affect posttest performance in the embedded questioning or elaborative interrogation conditions. [→ Clinton 2016](#clinton-2016)

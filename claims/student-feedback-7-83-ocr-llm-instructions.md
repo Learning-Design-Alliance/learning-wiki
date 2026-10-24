@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: patel-2025
     resource: "https://doi.org/10.48550/arxiv.2509.02998"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Undergraduate and graduate students in a university cybersecurity course rated the perceived usefulness of OCR-based LLM-assisted instructions at an average of 7.83 across 42 submissions on a 1-10 scale. [→ Patel 2025](#patel-2025)

@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: van-de-pol-et-al-2019
     resource: "https://doi.org/10.1080/10508406.2018.1522258"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · n=7 eighth-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 A mediation analysis of 35 secondary lessons found that students who applied (rather than ignored or merely copied) a teacher's scaffolding went on to give significantly more accurate answers in subsequent small-group work, but how well-calibrated (contingent) the teacher's support was did not itself predict whether students applied it; an exploratory qualitative analysis suggested untimely fading (withdrawing before students' understanding was checked or shown) as a possible explanation.
 

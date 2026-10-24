@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: dor-abrahamson-franz-mechsner-2022
     resource: "https://doi.org/10.1007/s10648-022-09668-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using a picture-sorting task, Schack showed that basic action concepts for tennis-serve sub-movements are present in players' long-term memory and, in skilled players, integrated into a coherent memory network. [→ Dor Abrahamson · Franz Mechsner 2022](#dor-abrahamson-franz-mechsner-2022)

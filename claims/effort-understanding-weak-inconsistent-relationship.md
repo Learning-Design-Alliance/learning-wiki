@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: katrin-schuessler-2026
     resource: "https://doi.org/10.1007/s10648-025-10105-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` 57% of the measurement-point correlations between invested mental effort and self-assessed understanding were not significant, with mostly negative coefficients (r = −.04 to −.19) and only one significant positive correlation. [→ Katrin Schuessler 2026](#katrin-schuessler-2026)

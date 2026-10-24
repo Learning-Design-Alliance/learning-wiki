@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: saba-2025
     resource: "https://doi.org/10.1007/s11251-025-09726-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Task 1, the two conditions differed significantly on the four MVC-strategy components, with a large effect size, driven by Instruction-first students spending significantly less time exploring. [→ Saba 2025](#saba-2025)

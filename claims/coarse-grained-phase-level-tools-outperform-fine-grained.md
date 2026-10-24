@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: younghoon-jeon-2026
     resource: "https://doi.org/10.48550/arxiv.2602.10620"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A 5 phase-level-tool agent (React-ADDIE) scored higher than the same-theory 14-tool agent (ADDIE-Agent: 82.96). [→ YoungHoon Jeon 2026](#younghoon-jeon-2026)

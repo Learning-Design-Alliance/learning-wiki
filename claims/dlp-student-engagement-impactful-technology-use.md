@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: bakhshaei-2019
     resource: "https://doi.org/10.51388/20.500.12265/82"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` DLP teachers reported higher rates of technology used for small-group collaboration (75 vs 62 percent), creating unique products (51 vs 38 percent), and student-chosen learning activities (46 vs 35 percent). [→ Bakhshaei 2019](#bakhshaei-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: fuan-xiao-2026
     resource: "https://doi.org/10.1186/s41239-026-00618-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Evaluating six LLMs on the RiceChem long-answer grading task, GLM-4-9B-chat leads across Accuracy, Precision, Recall, and F1 (Accuracy = 0.6492, F1 = 0.6054), with Mistral-7B-Instruct-v0.2 ranking second (Accuracy = 0.6167, F1 = 0.5681). [→ Fuan Xiao 2026](#fuan-xiao-2026)

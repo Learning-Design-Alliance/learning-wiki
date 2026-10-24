@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: rey-2019
     resource: "https://doi.org/10.1007/s10648-018-9456-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Prior knowledge moderates the segmenting effect for retention: learners with high prior knowledge benefited more from segmenting than learners with no or low prior knowledge. [→ Rey 2019](#rey-2019)

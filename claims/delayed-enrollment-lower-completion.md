@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: nagaoka-2021
     resource: "https://consortium.uchicago.edu/publications/navigating-the-maze"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 8 percent of students who delayed college enrollment completed a degree or credential within six years. [→ Nagaoka 2021](#nagaoka-2021)

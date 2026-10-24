@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: spain-2018
     resource: "https://consortium.uchicago.edu/publications/community-effort-support-transition-pre-k-kindergarten"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Parents who participated in PKTP activities did not necessarily understand that there was a focus on the importance of transition, and teachers from both grades indicated that more explicit integration of transition into activities would help clarify goals. [→ Spain 2018](#spain-2018)

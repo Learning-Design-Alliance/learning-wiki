@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: iordanou-2022
     resource: "https://doi.org/10.1007/s11409-021-09289-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A repeated-measures ANOVA on multiple-choice knowledge scores showed a significant Time X Condition interaction favoring the experimental (A&R) condition. [→ Iordanou 2022](#iordanou-2022)

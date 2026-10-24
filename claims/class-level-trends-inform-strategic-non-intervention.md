@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: osama-swidan-2026
     resource: "https://doi.org/10.1007/s11858-026-01810-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The teacher consulted the class-level emotion display, which showed a decline in negative alerts and an increase in positive ones, and judged intervention unnecessary. [→ Osama Swidan 2026](#osama-swidan-2026)

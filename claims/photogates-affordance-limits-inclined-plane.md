@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: jonte-bernhard-2018
     resource: "https://doi.org/10.1007/s11251-018-9469-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In the photogate lab, only speed and not the sign of velocity is directly determined, the equipment cannot provide data showing zero velocity but non-zero acceleration at the turning point, and Δv/Δx is afforded while Δv/Δt is not. [→ Jonte Bernhard 2018](#jonte-bernhard-2018)

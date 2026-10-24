@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+source_checked: 2026-10-16
 sources:
   - id: experience-null
     title: experience-null
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pooled effects on frustration, cognitive load, and situational interest were small and did not survive FDR correction across both deployments. [→ experience-null](#experience-null)

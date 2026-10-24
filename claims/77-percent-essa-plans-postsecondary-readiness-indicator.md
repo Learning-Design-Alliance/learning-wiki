@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: mitchell-p-herz-2023
     resource: "https://eric.ed.gov/?id=ED633301"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 41 out of 53 ESSA plans (77%) included a postsecondary readiness indicator as a scoring element contributing to school support identification. [→ Mitchell P. Herz 2023](#mitchell-p-herz-2023)

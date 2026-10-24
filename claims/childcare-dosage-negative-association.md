@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: garon-carrier-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101615"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the matched logit model, childcare dosage (weekly hours) was negatively associated with higher education enrollment (coefficient -.038, p= .001). [→ Garon-Carrier 2022](#garon-carrier-2022)

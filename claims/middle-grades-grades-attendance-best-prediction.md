@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-13
+recheck_by: 2021
 sources:
   - id: allensworth-2018
     resource: "https://ncs.uchicago.edu/freshman-on-track-toolkit"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The combination of grades and attendance indicators provided the best prediction of high school on-track rates, and additional information including test scores and measures of student grit did not further improve the prediction. [→ Allensworth 2018](#allensworth-2018)

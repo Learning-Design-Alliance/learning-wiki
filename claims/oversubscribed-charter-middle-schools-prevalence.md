@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: christina-clark-tuttle-2011
     resource: "https://doi.org/10.1016/j.econedurev.2011.07.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A national study of charter schools found that oversubscribed charter middle schools are prevalent enough to support lottery-based research. [→ Christina Clark Tuttle 2011](#christina-clark-tuttle-2011)

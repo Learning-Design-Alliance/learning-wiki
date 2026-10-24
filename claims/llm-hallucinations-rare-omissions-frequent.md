@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jansen-2026
     resource: "https://doi.org/10.1007/s10648-026-10136-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Hallucinations ranged from 3 to 4 cases among the 55 meta-analyses lacking the information in the full text, for all coder sources. [→ Jansen 2026](#jansen-2026)

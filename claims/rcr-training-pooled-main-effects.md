@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: strong
+newest_evidence: 2022
 sources:
   - id: johannes-katsarov-2021
     resource: "https://doi.org/10.1007/s10648-021-09630-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 75 effect sizes from 30 studies, the overall weighted mean effect size of RCR training was Mg = 0.52 (95% CI [0.43, 0.61]). [→ Johannes Katsarov 2021](#johannes-katsarov-2021)

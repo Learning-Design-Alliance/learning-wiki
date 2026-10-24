@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: dileo-1
     title: dileo-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a cluster randomized trial of fifth-grade classrooms, the Odyssey® Math group outscored the Odyssey® Language Arts comparison group on the PSSA math scale, but WWC-computed calculations found the difference not statistically significant. [→ dileo-1](#dileo-1)

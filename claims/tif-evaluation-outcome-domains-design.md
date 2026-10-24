@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: steven-glazerman-2011
     resource: "https://www.mathematica.org/publications/impacts-of-performance-pay-under-the-teacher-incentive-fund-study-design-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The planned TIF evaluation design specifies student achievement, educator attitudes toward and awareness of TIF, and educator mobility and recruitment as outcome domains. [→ Steven Glazerman 2011](#steven-glazerman-2011)

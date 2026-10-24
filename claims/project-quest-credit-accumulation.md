@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/723"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` One RCT meeting WWC standards without reservations showed a positive, statistically significant effect of Project QUEST on credit accumulation within 24 months of randomization (effect size 0.35). [→ Project QUEST (Quality Employment through Skills Training) Intervention Report | Postsecondary Career and Technical Education Topic Area 2021](#project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021)

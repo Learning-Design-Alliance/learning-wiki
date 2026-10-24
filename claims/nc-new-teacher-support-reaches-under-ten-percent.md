@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: wested-2019
     resource: "https://eric.ed.gov/?id=ED606141"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The New Teacher Support Program supports fewer than 10% of beginning teachers, a much smaller proportion than the statewide mentoring program that reached all beginning teachers in the 1990s. [→ WestEd 2019](#wested-2019)

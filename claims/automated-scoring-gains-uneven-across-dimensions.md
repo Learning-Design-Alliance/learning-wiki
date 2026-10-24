@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: chen-c-and-liu-t-2026
     title: Chen C and Liu T 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The time × group interaction was significant for linguistic accuracy (η2ₚ = 0.231) and logical coherence (η2ₚ = 0.109) but not for information fidelity or delivery fluency. [→ Chen C and Liu T 2026](#chen-c-and-liu-t-2026)

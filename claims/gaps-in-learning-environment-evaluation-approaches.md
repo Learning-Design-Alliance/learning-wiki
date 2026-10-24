@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: benjamin-cleveland-kenn-fisher-2014
     resource: "https://doi.org/10.1007/s10984-013-9149-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of existing evaluative approaches for physical learning environments reveals gaps that current methods do not address. [→ Benjamin Cleveland & Kenn Fisher 2014](#benjamin-cleveland-kenn-fisher-2014)

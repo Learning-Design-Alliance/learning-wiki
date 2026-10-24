@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: noortje-janssen-ard-w-lazonder-2024
     resource: "https://doi.org/10.1007/s10648-024-09936-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i1` small
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Intervention types whole task (g = 0.38), metacognitive knowledge (g = 0.45), and external standard (g = 0.28) significantly improved students' monitoring accuracy in problem-solving tasks. [→ Noortje Janssen · Ard W. Lazonder 2024](#noortje-janssen-ard-w-lazonder-2024)

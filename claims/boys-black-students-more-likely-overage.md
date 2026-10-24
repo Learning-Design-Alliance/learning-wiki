@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
+recheck_by: 2028
 sources:
   - id: irsheid-2023
     resource: "https://consortium.uchicago.edu/publications/beyond-the-student"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among students in the same census tracts and the same schools, boys (vs. girls) and Black students (vs. peers of other races/ethnicities) were more likely to be overage for grade. [→ Irsheid 2023](#irsheid-2023)

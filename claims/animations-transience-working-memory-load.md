@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-22
 sources:
   - id: björn-b-de-koning-huib-k-tabbers-2011
     resource: "https://doi.org/10.1007/s10648-011-9173-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Animations often do not result in more effective learning than static visualizations, and their transient nature is proposed as one reason, because learners must process new information while remembering and integrating earlier information. [→ Björn B. de Koning & Huib K. Tabbers 2011](#bjorn-b-de-koning-huib-k-tabbers-2011)

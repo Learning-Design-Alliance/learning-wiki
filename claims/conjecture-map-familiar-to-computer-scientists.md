@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: chang-2022
     resource: "https://doi.org/10.51388/20.500.12265/156"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Computer scientists who were first-time users of conjecture maps found the format familiar, with inputs/outputs feeling familiar from an engineering perspective, and the map served as a bridge connecting their ideas to learning scientists' claims. [→ Chang 2022](#chang-2022)

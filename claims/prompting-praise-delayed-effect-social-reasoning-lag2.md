@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: nagpal-2025
     resource: "https://doi.org/10.1007/s11251-025-09718-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` At Lag-2 but not Lag-3, high-level prompting (OR = 1.86) and specific praise (OR = 6.30) remained significant predictors of students' social reasoning, which the authors suggest may reflect a vicarious reinforcing experience. [→ Nagpal 2025](#nagpal-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: stephenson-2025
     resource: "https://doi.org/10.51388/20.500.12265/258"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across districts, educators identified the Science of Reading as a priority while reporting competing efforts, curriculum changes, and inconsistent support for English language learners. [→ Stephenson 2025](#stephenson-2025)

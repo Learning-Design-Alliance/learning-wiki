@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tang-j-2026
     title: Tang J 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study's quantitative patterns support characterizing teacher feedback as an expert dynamic scaffold and AI-assisted peer feedback as a technology-mediated, socially collaborative scaffold, neither of which alone addresses the multidimensional ZPD. [→ Tang J 2026](#tang-j-2026)

@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: wagh-et-al-2025
     resource: "https://doi.org/10.1080/07370008.2024.2427400"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1` · n=18 consented students (of 29 in the class), one sixth-grade classroom, one experienced teacher, 6-day unit
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 When a sixth-grade class's computational simulation of particle diffusion could not visually distinguish between a correct theory and a plausible but incorrect "infect" theory, a physical evaporation experiment that directly tested the underlying particle-level claim shifted a substantial share of students away from the incorrect theory.
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: kenzhebayeva-z-2026
     title: Kenzhebayeva Z 2026
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants reported that changing roles helped them understand how analysis, intervention, and reflection connect, and later-cycle observations showed more evenly distributed participation. [→ Kenzhebayeva Z 2026](#kenzhebayeva-z-2026)

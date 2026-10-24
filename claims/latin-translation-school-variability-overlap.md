@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: henmon-1917
     resource: "https://eric.ed.gov/?q=Henmon+Measurement+of+Ability+in+Latin+Sentence+Tests"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` First-year pupils in School O did better on Test A than third- and fourth-year pupils in three other schools and second-year pupils in seven. [→ Henmon 1917](#henmon-1917)

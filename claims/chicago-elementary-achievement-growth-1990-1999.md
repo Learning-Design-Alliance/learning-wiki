@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: penny-bender-sebring-and-anthony-s-bryk-2000
     resource: "https://consortium.uchicago.edu/publications/school-leadership-and-bottom-line-chicago"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 1990 and 1999, the proportion of Chicago students in grades three through eight reaching national norms grew from about a quarter to 35 percent in reading and 43 percent in math. [→ Penny Bender Sebring and Anthony S. Bryk 2000](#penny-bender-sebring-and-anthony-s-bryk-2000)

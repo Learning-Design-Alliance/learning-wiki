@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-09
 sources:
   - id: naep-1
     title: naep-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2020 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In one RCT meeting WWC standards without reservations, Fraction Face-Off! produced a positive and statistically significant effect on general mathematics achievement measured by NAEP selected items (effect size 0.64, improvement index +24, 1,152 students). [→ naep-1](#naep-1)

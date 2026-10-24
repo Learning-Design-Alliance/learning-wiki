@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: staci-wendt-2014
     resource: "https://nces.ed.gov/ccd/elsi/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Pooled across grades 2-5, grades provided with ST Math had a significantly larger proportion of students at the advanced level (effect size 0.17) and at the proficient or advanced level (effect size 0.16) than comparison grades; both printed effect sizes fall below d = 0.2. [→ Staci Wendt 2014](#staci-wendt-2014)

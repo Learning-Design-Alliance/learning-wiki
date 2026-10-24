@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: keenan-tiarnán-d-2020
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328271/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Significant protective associations with cognitive function were observed for vegetable intake in both cohorts, and for nut intake and moderate alcohol intake in AREDS2. [→ Keenan Tiarnán D. 2020](#keenan-tiarnan-d-2020)

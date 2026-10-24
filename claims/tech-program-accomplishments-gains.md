@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: bria-carter-2024
     resource: "https://doi.org/10.51388/20.500.12265/219"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants reported accomplishments including career transitions, certifications (e.g., Google IT, CompTIA), networking leading to advancement, increased salaries, and personal and social gains. [→ Bria Carter 2024](#bria-carter-2024)

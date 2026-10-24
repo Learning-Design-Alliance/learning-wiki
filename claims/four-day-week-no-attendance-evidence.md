@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: m-rebecca-kilburn-2021
     resource: "https://doi.org/10.7249/rr-a373-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study found no quantitative evidence that the 4dsw improved student attendance, despite advocates' claims. [→ M. Rebecca Kilburn 2021](#m-rebecca-kilburn-2021)

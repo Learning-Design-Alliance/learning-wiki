@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-21
 sources:
   - id: brunmair-2019
     resource: "https://doi.org/10.1037/bul0000209"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Between-category similarity positively influenced the interleaving effect, whereas within-category similarity negatively influenced it, as predicted by the attentional bias framework. [→ Brunmair 2019](#brunmair-2019)

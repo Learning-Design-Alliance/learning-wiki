@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: mcmanus-bm-2019
     resource: "https://doi.org/10.1001/jamanetworkopen.2018.7529"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An additional hour per month of all EI services was associated with a 3-point gain in functional outcomes scores (b, 3.0; 95% CI, 1.5-5.9) among children with complete outcomes information (n = 448), consistent across all 3 subscales and described as a clinically meaningful 0.6 SD gain. [→ McManus BM 2019](#mcmanus-bm-2019)

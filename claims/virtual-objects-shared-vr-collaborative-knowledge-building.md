@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-19
 sources:
   - id: jacob-fortman-2023
     resource: "https://doi.org/10.1007/s11412-023-09404-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups of in-service teachers collaboratively explored geometric conjectures in a shared VR environment, and virtual objects functioned as an effective medium for collaborative knowledge building. [→ Jacob Fortman 2023](#jacob-fortman-2023)

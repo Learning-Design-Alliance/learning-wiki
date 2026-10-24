@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: hernández-2023
     resource: "https://doi.org/10.54300/621.856"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Youth-led action research including a survey of 2,000 students found that more than 40% of surveyed 9th- and 11th-graders reported it was not at all true or only a little true that a teacher or other adult really cared about them, with lower assessments among Black and Pacific Islander students. [→ Hernández 2023](#hernandez-2023)

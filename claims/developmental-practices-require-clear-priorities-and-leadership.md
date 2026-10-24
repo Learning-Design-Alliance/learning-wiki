@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
+recheck_by: 2009
 sources:
   - id: stevens-2006
     resource: "https://consortium.uchicago.edu/publications/professional-communities-and-instructional-improvement-practices-study-small-high"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Efforts to collectively improve instructional practices were unlikely to happen spontaneously but were facilitated by well-defined instructional priorities and explicit efforts to lead and coordinate them. [→ Stevens 2006](#stevens-2006)

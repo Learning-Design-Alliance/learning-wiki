@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: madigan-2019
     resource: "https://doi.org/10.1007/s10648-019-09484-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-regression found gender did not moderate either dimension's relationship with achievement, and subgroup analyses found no differences by academic level. [→ Madigan 2019](#madigan-2019)

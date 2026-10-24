@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2014
 sources:
   - id: umaña-taylor-2014
     resource: "https://doi.org/10.1111/cdev.12196"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one study of Latino early adolescents, higher levels of affirmation were associated with decreases in academic adjustment from seventh to eighth grade, suggesting the adjustment link of positive affect depends on context. [→ Umaña-Taylor 2014](#umana-taylor-2014)

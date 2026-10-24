@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-08
 sources:
   - id: andria-shyjka-2021
     resource: "https://consortium.uchicago.edu/publications/student-experience-with-the-high-school-choice-process-in-Chicago-Public-Schools"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-08 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All students in the sample reported relying heavily on online sources to research potential high schools, with counselors facilitating use of these resources. [→ Andria Shyjka 2021](#andria-shyjka-2021)

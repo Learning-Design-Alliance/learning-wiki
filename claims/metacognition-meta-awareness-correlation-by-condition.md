@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: ines-zeitlhofer-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.102001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the gradually increasing complexity group, metacognitive regulation and knowledge each correlated positively with meta-awareness in Round 2 (r = 0.44). [→ Ines Zeitlhofer 2024](#ines-zeitlhofer-2024)

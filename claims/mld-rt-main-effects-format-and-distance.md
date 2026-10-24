@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: peters-2014
     resource: "https://doi.org/10.1016/j.learninstruc.2013.11.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Problems were solved faster in the subtraction format (9916 ms) than the addition format (10623 ms), and large-distance problems (8235 ms) faster than small-distance problems (12304 ms); the magnitude main effect was not significant, F(1, 43) = 1.42, p = .24. [→ Peters 2014](#peters-2014)

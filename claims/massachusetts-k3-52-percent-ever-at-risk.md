@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
+recheck_by: 2028
 sources:
   - id: mariann-lemke-2023
     resource: "https://eric.ed.gov/?id=ED638580"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across all time periods combined, 52 percent of students were ever classified as below benchmark or at any level of risk, 27 percent at the highest risk levels, and 12–18 percent as potentially at risk of dyslexia on assessments providing such measures. [→ Mariann Lemke 2023](#mariann-lemke-2023)

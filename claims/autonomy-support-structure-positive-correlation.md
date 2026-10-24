@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: alexandra-patzak-2025
     resource: "https://doi.org/10.1007/s10648-025-09994-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 110 effect sizes, teacher autonomy support and provision of structure show a statistically significant positive correlation (r = 0.53). [→ Alexandra Patzak 2025](#alexandra-patzak-2025)

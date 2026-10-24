@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1912
+source_checked: 2026-10-24
 sources:
   - id: william-h-metzler-1912
     resource: "https://doi.org/10.1037/h0070947"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 1912 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author enumerates ten desired results of geometry study, including logical thinking, clear expression, concentration, constructive imagination, rational memory, liberal-mindedness, esthetic ability, honesty, and will power, and argues these powers are the chief aim while content is the occasion for acquiring them. [→ William H. Metzler 1912](#william-h-metzler-1912)

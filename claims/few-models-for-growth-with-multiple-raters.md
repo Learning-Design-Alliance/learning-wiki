@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: james-soland-2021
     resource: "https://doi.org/10.1080/00273171.2021.1925076"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` While models addressing multi-rater measurement issues exist, including some for longitudinal data, few if any estimate growth with multiple raters. [→ James Soland 2021](#james-soland-2021)

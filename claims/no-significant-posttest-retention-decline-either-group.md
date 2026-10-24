@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: mustafa-metin-2022
     resource: "https://doi.org/10.17509/jsl.v5i1.33190"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test versus retention-test differences were not significant in the experimental group (tNOSS = 1.411; tSKS = 1.300; p > 0.05) or the control group (tNOSS = 1.539; tSKS = 1.707; p > 0.05). [→ Mustafa Metin 2022](#mustafa-metin-2022)

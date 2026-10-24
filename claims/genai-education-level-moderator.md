@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: zhao-yan-2025
     resource: "https://doi.org/10.3390/jintelligence13120160"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The between-groups difference for educational level did not reach significance (Q = 3.353, p = 0.067), but subgroup effects differ: K-12 ES = 0.857 versus post-secondary ES = 0.539. [→ Zhao Yan 2025](#zhao-yan-2025)

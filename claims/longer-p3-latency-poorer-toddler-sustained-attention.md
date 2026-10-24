@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: hoyniak-2015
     resource: "https://doi.org/10.1080/87565641.2015.1016162"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Toddlers with longer target P3 latencies during an auditory Oddball task demonstrate less sustained attention during free play (r[16]=−.51). [→ Hoyniak 2015](#hoyniak-2015)

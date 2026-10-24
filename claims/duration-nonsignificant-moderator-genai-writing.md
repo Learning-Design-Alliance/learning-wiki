@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mark-feng-teng-2026
     resource: "https://doi.org/10.1186/s40862-026-00444-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Intervention duration in weeks did not significantly predict effect size (β = 0.05, p = 0.430) and explained virtually none of the between-study variance (Pseudo R2 = 0.00). [→ Mark Feng Teng 2026](#mark-feng-teng-2026)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-19
+recheck_by: 2022
 sources:
   - id: steven-wise-2019
     resource: "https://doi.org/10.1080/08957347.2019.1577248"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When computer-based tests are used, disengagement can be detected through occurrences of rapid-guessing behavior. [→ Steven Wise 2019](#steven-wise-2019)

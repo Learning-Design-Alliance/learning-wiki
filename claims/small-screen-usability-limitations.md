@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: daniel-churchill-2011
     resource: "https://www.worldcat.org/issn/1436-4522"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article reports, citing Albers and Kim (2001), three issues affecting user access to information via handheld devices: harder text reading than on paper, limited size and complexity of graphical presentation, and compromised interactivity due to lack of keyboard and mouse and limited display space. [→ Daniel Churchill 2011](#daniel-churchill-2011)

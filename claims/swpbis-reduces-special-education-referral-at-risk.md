@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: bradshaw-2015
     resource: "https://doi.org/10.1037/a0037630"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` At-risk children in SWPBIS schools were significantly less likely than at-risk children in comparison schools to have been referred to special education (23.2% vs. 27.0%, d = -0.12). [→ Bradshaw 2015](#bradshaw-2015)

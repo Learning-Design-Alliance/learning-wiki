@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: maier-2026
     resource: "https://doi.org/10.48550/arxiv.2605.04779"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The pooled productivity effect size was robust to the exclusion of individual studies (range: g = 0.24–0.38, all p < 0.05), remaining positive and statistically significant across all iterations. [→ Maier 2026](#maier-2026)

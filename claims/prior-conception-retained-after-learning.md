@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: ramsburg-2015
     resource: "https://www.google.com/search?q=%22Category+Change+in+the+Absence+of+Cognitive+Conflict%22"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In Experiment 1, the Confirmatory-Only condition rated nuclei marginally more important than the Complete condition after learning, ηp2 = .011. [→ Ramsburg 2015](#ramsburg-2015)

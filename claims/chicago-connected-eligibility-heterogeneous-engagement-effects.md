@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: schachner-2025
     resource: "https://edworkingpapers.com/ai25-1153"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eligibility was associated with an increase in fall 2020 remote learning engagement for high pre-pandemic GPA students (by 0.04 SD) and a decrease for low pre-pandemic GPA students (by 0.10 SD). [→ Schachner 2025](#schachner-2025)

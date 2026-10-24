@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: fronius-2019
     resource: "https://eric.ed.gov/?id=ED595733"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior to SWPRD implementation, Black students and LGBTQ students were more likely than their White and straight peers to indicate bullying; after implementation, perceptions were similar across these groups. [→ Fronius 2019](#fronius-2019)

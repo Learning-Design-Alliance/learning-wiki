@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rice-2018
     resource: "https://ies.ed.gov/ncee/edlabs/regions/west"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Each year, rural districts had a higher proportion of economically disadvantaged students than non-rural districts (e.g., a 17.1 percentage point difference in 2017) and a slightly higher proportion of students with disabilities. [→ Rice 2018](#rice-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: bernstein-brian-o-2021
     resource: "https://doi.org/10.1037/edu0000500"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In Study 2 (N = 478), bivariate correlations between acceleration indices and well-being ranged from .02 to .10, and the acceleration composite correlated r(452) = .11, p = .02 with general well-being — a small positive relation. [→ Bernstein Brian O. 2021](#bernstein-brian-o-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: viki-m-young-2026
     resource: "https://doi.org/10.51388/20.500.12265/286"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students view prerequisites and core course requirements as barriers to accessing courses they are interested in, especially freshmen whose schedules are filled by requirements. [→ Viki M. Young 2026](#viki-m-young-2026)

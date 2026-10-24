@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-09
 sources:
   - id: blyth-2019
     resource: "https://consortium.uchicago.edu/publications/ten-criteria-for-describing-and-selecting-SEL-frameworks"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Frameworks that emphasize only one type of competency are less balanced than those covering intrapersonal, interpersonal, and cognitive competencies and including a mix of skills, knowledge, and attitudes. [→ Blyth 2019](#blyth-2019)

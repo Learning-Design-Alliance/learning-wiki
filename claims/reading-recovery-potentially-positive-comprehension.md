@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2013
 sources:
   - id: reading-recovery-2013
     resource: "http://www.readingrecovery.org"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Two RCTs reported findings in the comprehension domain—one statistically significant positive effect (vocabulary) and one indeterminate effect—with an average improvement index of +14 percentile points. [→ Reading Recovery® 2013](#reading-recovery-2013)

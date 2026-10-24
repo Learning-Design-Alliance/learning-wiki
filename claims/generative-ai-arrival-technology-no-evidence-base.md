@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: perl-nussbaum-2026
     resource: "https://doi.org/10.1186/s40594-026-00649-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Unlike prior IE innovations, generative AI spread through widespread spontaneous student and teacher use before institutions could respond or evidence could accumulate. [→ Perl-Nussbaum 2026](#perl-nussbaum-2026)

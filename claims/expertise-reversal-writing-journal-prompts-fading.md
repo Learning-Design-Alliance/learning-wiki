@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: slava-kalyuga-2010
     resource: "https://doi.org/10.1007/s11251-009-9102-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In two longitudinal field studies of journal writing (Nückles et al., summarized in this special-issue introduction), prompted students in Experiment 1 applied more strategies and learned more than an unprompted control in the first half of the term but performed worse and were less motivated by its end; in Experiment 2, prompts faded adaptively sustained strategy use and gave substantially better end-of-term learning than permanently presented prompts. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)

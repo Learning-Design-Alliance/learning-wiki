@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: double-2018
     resource: "https://doi.org/10.1007/s11409-018-9186-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The group × prospective confidence interaction on mean response time was significant: high-confidence CR participants spent longer per item, low-confidence CR participants answered more quickly than controls. [→ Double 2018](#double-2018)

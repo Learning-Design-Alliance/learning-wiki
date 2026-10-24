@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: hwang-2014
     resource: "https://doi.org/10.1007/s11423-013-9320-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students learning with the peer assessment-based game development approach showed more favorable perceptions of the use of educational computer games than the comparison condition. [→ Hwang 2014](#hwang-2014)

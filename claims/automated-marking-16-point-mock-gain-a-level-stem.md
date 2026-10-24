@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: matey-yordanov-2026
     resource: "https://doi.org/10.48550/arxiv.2607.23566"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Controlling for Z-scored pre-test baselines, the intervention group achieved an adjusted post-test mean of 81.2% versus 64.4% for the control group (F(1,139) = 24.32, p<.001, η²p = .149). [→ Matey Yordanov 2026](#matey-yordanov-2026)

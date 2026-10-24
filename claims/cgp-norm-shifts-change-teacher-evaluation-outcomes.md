@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hashim-2026
     resource: "https://www.nwea.org/research/publication/how-post%e2%80%91covid-norm-shifts-change-the-meaning-of-map-growth-metrics-for-school-accountability/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r1`–`r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In reading, lower national growth among lower-achieving readers can raise teachers' CGPs even when absolute RIT gains are unchanged (e.g., a 3-point gain moving from the 19th to the 22nd CGP percentile). [→ Hashim 2026](#hashim-2026)

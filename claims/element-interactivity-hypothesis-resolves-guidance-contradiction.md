@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: chen-2016
     resource: "https://hdl.handle.net/1959.4/55865"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The materials used to demonstrate the generation effect were hypothesised to be low in element interactivity, whereas the materials used for the worked example effect were hypothesised to be high in element interactivity. [→ Chen 2016](#chen-2016)

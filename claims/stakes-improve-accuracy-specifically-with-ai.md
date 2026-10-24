@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: chiara-marcoccia-2026
     resource: "https://doi.org/10.31234/osf.io/5y6m4_v1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 3, the stakes × AI interaction on correctness was significant: stakes raised correctness with AI advice (0.11 vs. 0.16) but not without it (0.28 vs. 0.27). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)

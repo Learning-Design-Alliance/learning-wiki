@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: elaine-m-allensworth-and-andrew-zou-2020
     resource: "https://consortium.uchicago.edu/publications/supporting-neighborhood-schools-from-pre-k-through-high-school"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` K-8 attendance and grade 6-8 school climate survey measures improved at NLCI schools, but the schools were not significantly different from matched comparison schools on these outcomes. [→ Elaine M. Allensworth and Andrew Zou 2020](#elaine-m-allensworth-and-andrew-zou-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: siddhartha-pradhan-2026
     resource: "https://doi.org/10.48550/arxiv.2605.23048"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Posterior contrasts showed credible reductions in the guess parameter under incongruent spacing (-0.058, 95% CrI [-0.093, -0.024]) and incongruent color (-0.082, 95% CrI [-0.121, -0.040]) relative to neutral conditions. [→ Siddhartha Pradhan 2026](#siddhartha-pradhan-2026)

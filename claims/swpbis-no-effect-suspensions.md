@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: catherine-p-bradshaw-2012
     resource: "https://doi.org/10.1542/peds.2012-0243"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There were no significant differences between SWPBIS and comparison schools in children's receipt of out-of-school suspensions. [→ Catherine P. Bradshaw 2012](#catherine-p-bradshaw-2012)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: goetz-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101349"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` T1 positive emotional experience predicted T2 academic achievement (β = 0.060, p < .001), but T1 relationship quality did not significantly predict T2 achievement (β = 0.033, p = .095). [→ Goetz 2021](#goetz-2021)

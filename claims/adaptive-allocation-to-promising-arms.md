@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: mariel-mckenzie-finucane-2015
     resource: "https://www.mathematica.org/publications/what-works-for-whom-a-bayesian-approach-to-channeling-big-data-streams-for-policy-analysis"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over the course of a trial, more study subjects are allocated to treatment arms that are more promising for the specific subgroup from which each subject comes. [→ Mariel McKenzie Finucane 2015](#mariel-mckenzie-finucane-2015)

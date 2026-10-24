@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: alison-cheng-2025
     resource: "https://doi.org/10.18608/jla.2025.8761"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Removing race from the balanced dataset produced only a slight, non-significant drop in model performance at Stage 1, with small effect sizes. [→ Alison Cheng 2025](#alison-cheng-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: gilmore-camilla-k-2010
     resource: "https://doi.org/10.1016/j.cognition.2010.02.002"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 1 there was no effect of socioeconomic status on non-symbolic addition performance between subgroups (t(39) < 1) or versus a more privileged community (F(1, 55) = 2.00, p = .164), but the wealthier community group performed better on the mathematics achievement test (F(1,58) = 5.45, p = .023). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

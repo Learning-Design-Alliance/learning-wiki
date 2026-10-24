@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhao-qianhui-and-li-shuhui-2026
     resource: "https://doi.org/10.3390/bs16091626"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Direct retrieval/review prompts and spontaneous inquiry were more frequent in the M-A module, while optimization engagement was more frequent in the M-E module; satisfaction was slightly higher in M-E (M = 4.65, SD = 0.43) than M-A (M = 4.54, SD = 0.50). [→ Zhao Qianhui and Li Shuhui 2026](#zhao-qianhui-and-li-shuhui-2026)

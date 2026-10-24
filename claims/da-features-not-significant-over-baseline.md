@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding broad and specific dialogue act count features increased mean R² substantially, but F-tests did not indicate statistically significant improvements for most assessments. [→ reg-null](#reg-null)

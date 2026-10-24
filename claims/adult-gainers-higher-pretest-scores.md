@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: mary-beth-calhoon-2013
     resource: "https://doi.org/10.1007/s11145-013-9442-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gainers (46% of the sample) had higher pretest scores than non-gainers on measures of reading and phonological awareness, and included fewer adults with a history of special education. [→ Mary Beth Calhoon 2013](#mary-beth-calhoon-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: rienties-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100607"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Combining knowledge tests across two courses, learning gain was higher in the experimental AIDA group (n = 33) than the control group (n = 17), F = 4.796, p < .05. [→ Rienties 2026](#rienties-2026)

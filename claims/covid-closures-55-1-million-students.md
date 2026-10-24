@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: beth-tarasawa-2020
     resource: "https://www.nwea.org/research/publication/covid-19-closures-learning-loss/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` As the pandemic closed schools across the nation, schools and districts were working to meet the needs of 55.1 million students. [→ Beth Tarasawa 2020](#beth-tarasawa-2020)

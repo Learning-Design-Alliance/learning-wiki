@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jiawen-tao-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28109"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Full improves 19 of 28 benchmarks over Natural Books with a +1.09 overall mean, improving all four category means. [→ Jiawen Tao 2026](#jiawen-tao-2026)

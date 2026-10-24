@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: heimbuch-2018
     resource: "https://doi.org/10.1007/s11412-018-9283-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Conditional-effect models showed significant moderation of contribution frequency by metacognitive strategies (p = .028, R² = .13) and intrinsic motivation (p = .026, R² = .29), with NCC marginal (p = .060, R² = .10); no standardized effect size for the moderation is printed. [→ Heimbuch 2018](#heimbuch-2018)

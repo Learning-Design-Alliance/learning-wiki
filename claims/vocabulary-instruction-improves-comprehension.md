@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength:
+newest_evidence: 2017
 sources:
   - id: elleman-et-al-2009
     resource: "https://doi.org/10.1080/19345740802539200"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r3` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Direct and indirect vocabulary instruction improves learners' text comprehension, with effects strongest when instruction targets high-utility words and includes multiple encounters in varied contexts. Scope covers both explicit teaching of word meanings and indirect buildup through rich contextual encounters during reading.
 

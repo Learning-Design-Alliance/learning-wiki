@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: femke-van-der-wilt-2019
     resource: "https://doi.org/10.1007/s10648-019-09479-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rejected and neglected children exhibited lower levels of oral communicative competence than average children; popular and controversial children did not differ from average children. [→ Femke van der Wilt 2019](#femke-van-der-wilt-2019)

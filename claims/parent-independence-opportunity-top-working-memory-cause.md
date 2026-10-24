@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: uraipong-2024
     resource: "https://doi.org/10.5539/hes.v14n2p88"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q1 i?` In fishbone-diagram cause analysis, the most significant ranked cause for working memory was that parents do not provide opportunities for children to do things by themselves, followed by predominance of academic activities and teachers' heavy workload. [→ Uraipong 2024](#uraipong-2024)

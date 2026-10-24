@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: city-study-2022-fort-worth-2022
     resource: "https://credo.stanford.edu/reports/item/fort-worth-tx-2022/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i2` Within Fort Worth, charter school students significantly outperformed other district school students in reading growth (0.07 SD, 38 days of learning), while the math difference (0.05 SD, 26 days) was not statistically significant. [→ City Study 2022: Fort Worth 2022](#city-study-2022-fort-worth-2022)

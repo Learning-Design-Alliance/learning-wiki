@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-15
 sources:
   - id: spanish-map-reading-fluency-technical-report-2026
     resource: "https://www.nwea.org/research/publication/spanish-map-reading-fluency-technical-report/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks -->
 
 ## Subclaims

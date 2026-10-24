@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-15
 sources:
   - id: roschelle-j-2021
     resource: "https://doi.org/10.1007/978-3-030-77857-6_17"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In practice, collaborative situations often fail to be productive; it is never as simple as telling students to work together. [→ Roschelle J 2021](#roschelle-j-2021)

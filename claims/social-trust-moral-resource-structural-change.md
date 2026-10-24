@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1996
+recheck_by: 2001
 sources:
   - id: bryk-1996
     resource: "https://consortium.uchicago.edu/publications/social-trust-moral-resource-school-improvement"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2001**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Beyond documented efficiency benefits (less conflict, self-regulation), the authors argue relational trust is a significant resource during major structural change, when ambiguity and social tensions would otherwise frustrate reform. [→ Bryk 1996](#bryk-1996)

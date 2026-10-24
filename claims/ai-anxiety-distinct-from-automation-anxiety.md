@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: kim-2025
     resource: "https://doi.org/10.1007/s43681-025-00686-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` AI Anxiety and Automation Anxiety are distinct constructs with AI-specific psychological impacts, per the authors' comparative analysis. [→ Kim 2025](#kim-2025)

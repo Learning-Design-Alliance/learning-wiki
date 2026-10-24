@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: pooja-k-agarwal-2024
     resource: "https://doi.org/10.1007/s10648-023-09839-w"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers' lessons that included retrieval practice, compared to re-reading statements or lessons without retrieval practice, benefitted students' long-term learning and raised course grades from a C to an A level (Roediger et al., 2011). [→ Pooja K. Agarwal 2024](#pooja-k-agarwal-2024)

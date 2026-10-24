@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: illinois-workforce-and-education-research-collaborative-iwerc-2024
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The district's 32 CTE programs of study across 12 career clusters vary across high schools, with some schools offering one or none and others five or more, and are more commonly offered on the historically disinvested south and west sides. [→ Illinois Workforce and Education Research Collaborative (IWERC) 2024](#illinois-workforce-and-education-research-collaborative-iwerc-2024)

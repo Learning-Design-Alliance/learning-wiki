@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-22
 sources:
   - id: pöysä-2018
     resource: "https://doi.org/10.1016/j.learninstruc.2017.07.007"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Behavioral/cognitive engagement, emotional engagement, and disaffection varied most strongly between lessons and somewhat between students. [→ Pöysä 2018](#poysa-2018)

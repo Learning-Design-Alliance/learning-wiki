@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: sophia-c-weissgerber-2024
     resource: "https://doi.org/10.1007/s11409-023-09366-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The literature contains one experiment showing the disfluency effect restricted to high-span subjects (Lehmann et al., 2016), one showing it restricted to low-span subjects (Miyakawa & Hattori, 2017), and two showing null moderation (Strukelj et al., 2016; the present study). [→ Sophia C. Weissgerber 2024](#sophia-c-weissgerber-2024)

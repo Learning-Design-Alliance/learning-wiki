@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-18
 sources:
   - id: albardía-ms-2025
     title: Albardía MS 2025
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Daily or almost-daily news consumers report higher capacity to manage information (48.5%) than occasional consumers (40.6%), and higher perceived ability to critically analyze media content (48.5% vs 34.4%). [→ Albardía MS 2025](#albardia-ms-2025)

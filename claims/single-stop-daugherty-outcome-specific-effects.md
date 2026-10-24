@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One-year persistence was 54.90% for the intervention group versus 51.80% for comparison students (effect size 0.08, p < .01), while college-level credits earned after two semesters showed a mean difference of 0.40 (effect size 0.04, p = .07). [→ daugherty-table4](#daugherty-table4)

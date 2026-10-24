@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: louise-maddens-2023
     resource: "https://doi.org/10.1007/s11251-022-09606-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i0`–`i1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Autonomous motivation fell significantly from pretest (M = 2.81, SD = 0.81) to posttest (M = 2.64, SD = 0.82), d = 0.254. [→ Louise Maddens 2023](#louise-maddens-2023)

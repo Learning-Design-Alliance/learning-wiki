@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: de-wever-2007
     resource: "https://doi.org/10.1016/j.learninstruc.2007.04.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared to the four-level model, unilevel regression p-values vary from 1.60 times smaller to 1.76 times larger, which might have led to erroneous conclusions. [→ De Wever 2007](#de-wever-2007)

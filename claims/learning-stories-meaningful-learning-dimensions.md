@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: jan-visser-2006
     resource: "https://www.learndev.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of learning stories found that advance towards meaningful learning focuses on felt ownership of knowledge, emotional integration in lifespan development, generative learning, real-life context, interaction with others' learning, positive self-perception, and persistence. [→ Jan Visser 2006](#jan-visser-2006)

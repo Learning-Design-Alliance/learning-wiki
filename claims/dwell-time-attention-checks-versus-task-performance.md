@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-10
 sources:
   - id: jessica-hutchison-2026
     resource: "https://doi.org/10.1145/3803400.3809394"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Average dwell time negatively correlated with failed attention check rate (rho = -0.26), meaning more time on a suggestion was associated with passing more attention checks. [→ Jessica Hutchison 2026](#jessica-hutchison-2026)

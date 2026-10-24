@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: david-carless-david-boud-2018
     resource: "https://doi.org/10.1080/02602938.2018.1463354"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A literature synthesis found students report awareness of strategies for tackling issues identified in feedback comments but have difficulty carrying them out. [→ David Carless & David Boud 2018](#david-carless-david-boud-2018)

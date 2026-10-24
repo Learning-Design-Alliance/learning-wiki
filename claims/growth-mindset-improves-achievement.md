@@ -8,6 +8,8 @@ generated:
 id: growth-mindset-improves-achievement
 aliases: [growth-mindset-interventions-improve-achievement, growth-mindset-interventions-small-effects]
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: yeager-et-al-2019
     resource: "https://doi.org/10.1038/s41586-019-1466-y"
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r3`, 1 quant-synthesis `r?` · `q4` · `i0` negligible
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Growth mindset improves achievement -->
 
 Teaching learners that abilities are malleable (a "growth mindset") has weak effects on academic achievement on average. The recorded evidence is one preregistered national trial, which found a statistically reliable but negligible GPA gain (standardized mean difference 0.11) for lower-achieving ninth-graders, larger in schools whose peer norms supported the message, and two meta-analyses that found weak overall effects, with some support for larger benefits among low-SES or academically at-risk students.

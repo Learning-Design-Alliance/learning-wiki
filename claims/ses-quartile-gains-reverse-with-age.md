@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: m-danish-shakeel-paul-e-peterson-2022
     resource: "https://doi.org/10.1007/s10648-021-09657-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among younger students, the lowest SES quartile advances more steeply than the highest quartile (difference in m: 0.08sd, in rd: 0.15sd), but this advantage attenuates and reverses at older ages for white, black, and to a lesser extent Hispanic students, though not Asian students. [→ M. Danish Shakeel · Paul E. Peterson 2022](#m-danish-shakeel-paul-e-peterson-2022)

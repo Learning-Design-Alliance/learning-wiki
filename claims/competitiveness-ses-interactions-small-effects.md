@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nathalie-aerts-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102414"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The SES-by-competitiveness interactions were statistically significant, but the article characterizes their effect sizes as small; no numeric effect size is printed in the supplied text. [→ Nathalie Aerts 2026](#nathalie-aerts-2026)

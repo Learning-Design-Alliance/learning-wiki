@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: bauer-2020
     resource: "https://doi.org/10.1016/j.learninstruc.2019.101271"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Second-grade children (7-9 years) successfully self-derived new factual knowledge through integration of separately taught stem facts in classroom sessions, performing significantly above chance in both open-ended and forced-choice formats. [→ Bauer 2020](#bauer-2020)

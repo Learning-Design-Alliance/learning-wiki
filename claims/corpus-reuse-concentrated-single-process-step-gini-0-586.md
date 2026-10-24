@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: gupta-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38967"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reuse of the 114-entry FAQ corpus is highly concentrated: entries 4, 3 and 1, all concerning certificate submission and offer letter issuance, account for 56.8% of the 871 corpus-mediated resolutions, and the Gini coefficient of reuse across the 113 well-formed entries is 0.586. [→ Gupta 2026](#gupta-2026)

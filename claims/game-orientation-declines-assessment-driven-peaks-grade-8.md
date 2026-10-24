@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: er-2024
     resource: "https://doi.org/10.18608/jla.2024.8133"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The game-oriented profile was most popular in Grades 1–2 with decreasing prevalence as grade level increased, while the assessment-driven profile reached its highest percentage in Grade 8 (12.81%). [→ Er 2024](#er-2024)

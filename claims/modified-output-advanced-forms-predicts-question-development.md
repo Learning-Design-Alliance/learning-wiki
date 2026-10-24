@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: kim-mcdonough-2005
     resource: "https://doi.org/10.1017/S0272263105050047"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Logistic regression identified production of modified output with developmentally advanced question forms in response to negative feedback as the only significant predictor of ESL question development. [→ Kim McDonough 2005](#kim-mcdonough-2005)

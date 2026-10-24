@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: jacob-2004
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-response-teachers-and-students"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost 90 percent of principals and 75 percent of teachers agreed or strongly agreed that the policy had made parents more concerned about their child's progress. [→ Jacob 2004](#jacob-2004)

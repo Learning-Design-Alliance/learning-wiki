@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hongfei-yan-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07523"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i2` In the 106-problem CS101 sample, the problem-level correlation weakened to Spearman rho = -0.552, and the exam-level correlation across 16 examinations was near zero. [→ Hongfei Yan 2026](#hongfei-yan-2026)

@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: spang-greisel-kollar-2026
     resource: "https://doi.org/10.1080/10508406.2025.2553543"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3` · `i0` negligible · n=136 (heterogeneous groups only, from the larger n=311 sample)
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 Even when a group member accurately recognizes that peers perceive a collaboration problem differently than they do, that awareness alone is not associated with higher satisfaction, perceived regulation success, subjective learning gain, or objective knowledge — contrary to theoretical predictions that awareness should enable groups to resolve disagreement.
 

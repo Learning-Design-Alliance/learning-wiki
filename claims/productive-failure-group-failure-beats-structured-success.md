@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: gerry-stahl-2008
     resource: "https://doi.org/10.1007/s11412-008-9055-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Indian high school students who were in groups that failed to solve ill-structured physics problems later outperformed students who had been in groups that succeeded in solving well-structured problems. [→ Gerry Stahl 2008](#gerry-stahl-2008)

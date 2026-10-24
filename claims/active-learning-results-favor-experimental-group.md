@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: amedee-marchand-martella-2023
     resource: "https://doi.org/10.1007/s10648-023-09826-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall, 64.8% of the Freeman et al. (2014) articles showed only the experimental (active learning) group to be more effective than the control group, and 4.0% showed only the control group to be more effective. [→ Amedee Marchand Martella 2023](#amedee-marchand-martella-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: firdausi-2026
     resource: "https://doi.org/10.22266/ijies2026.0831.09"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` CV-selected configurations matched best test performance only for Situation and Clarity; remaining dimensions showed misalignment attributed to severe class imbalance and limited training samples. [→ Firdausi 2026](#firdausi-2026)

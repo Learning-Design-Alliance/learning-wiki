@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nguyen-2026
     resource: "https://doi.org/10.1007/s10648-026-10218-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` In mixed-effects models of CASEL domains, teachers' responsible decision-making showed the largest observed relationship with overall students' SEC, while students' relationship skills showed the strongest observed association with overall teachers' SEC. [→ Nguyen 2026](#nguyen-2026)

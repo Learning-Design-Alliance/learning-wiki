@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 1991
 sources:
   - id: benard-1991
     resource: "https://eric.ed.gov/?id=ED335781"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two meta-analyses of more than 200 studies concluded peer programs, including cooperative learning strategies, are the single most effective school-based approach for reducing youth alcohol and drug use. [→ Benard 1991](#benard-1991)

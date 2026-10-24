@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: delgado-2023
     resource: "https://consortium.uchicago.edu/publications/is-the-best-teacher-the-best-for-everyone"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experienced teachers and those with a master's degree increased everyone's test scores but much less for Black students; gender, race, and tenure status were not strongly related to differential effectiveness. [→ Delgado 2023](#delgado-2023)

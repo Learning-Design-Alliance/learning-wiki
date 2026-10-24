@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: wested-2024
     resource: "https://eric.ed.gov/?id=ED655967"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among secondary students in grades 7, 9, and 11, the share reporting high levels of school connectedness on the California Healthy Kids Survey rose from 32 percent in 2021/22 to 36 percent in 2022/23. [→ WestEd 2024](#wested-2024)

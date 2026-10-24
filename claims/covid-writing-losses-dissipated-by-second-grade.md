@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: skar-2023
     resource: "https://doi.org/10.1007/s10648-023-09729-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` By the end of second grade, the During COVID-19 cohort did not differ statistically significantly from the Before COVID-19 cohort on any of the three writing measures. [→ Skar 2023](#skar-2023)

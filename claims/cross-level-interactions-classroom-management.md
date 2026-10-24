@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: holzberger-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2021.101513"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cross-level interactions predicting classroom management were (marginally) significant for collective efficacy in classroom management (B = –0.30), collaboration (B = –0.09), and participation (B = –0.12 for efficacy in instruction; B = 0.08 marginal for efficacy in classroom management). [→ Holzberger 2021](#holzberger-2021)

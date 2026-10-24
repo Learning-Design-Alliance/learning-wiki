@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: walkington-2025
     resource: "https://doi.org/10.1007/978-3-032-29770-9_5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` No instances of teachers identifying mathematical errors in final versions were seen, but teachers made 25 moves requesting mathematical clarification or vocabulary adjustment and critiqued number choice in 16 cases. [→ Walkington 2025](#walkington-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: martha-bleeker-2021
     resource: "https://ies.ed.gov/ncee/rel/regions/midatlantic.asp"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with any reported health condition generally had poorer education outcomes than students without a health condition. [→ Martha Bleeker 2021](#martha-bleeker-2021)

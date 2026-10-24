@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yves-karlen-charlotte-dignath-2026
     resource: "https://doi.org/10.1007/s10648-026-10171-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The synthesized evidence suggests teachers hold partial, unevenly developed SRL knowledge across CK-SRL, PCK-SRL, and AK-SRL, with limited and inconsistent associations with professional competence and practice. [→ Yves Karlen · Charlotte Dignath 2026](#yves-karlen-charlotte-dignath-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: berkeley-j-dietvorst-2014
     resource: "https://doi.org/10.1037/xge0000033"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Binary mediation analyses showed confidence in the model's forecasts, but not confidence in the human's forecasts, mediated the effect of seeing the model perform on choosing the model. [→ Berkeley J. Dietvorst 2014](#berkeley-j-dietvorst-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: tricia-m-van-rhijn-donna-s-lero-2014
     resource: "http://dx.doi.org/10.1080/02601370.2014.884178"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Being partnered was positively associated with school satisfaction (.11, t = 2.33, p = .02) and family satisfaction (.14, t = 3.36, p = .001). [→ Tricia M. van Rhijn & Donna S. Lero 2014](#tricia-m-van-rhijn-donna-s-lero-2014)

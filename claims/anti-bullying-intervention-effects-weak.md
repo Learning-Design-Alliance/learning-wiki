@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: herbert-w-marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09765-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` An updated meta-analysis found weak intervention effects (mean odds ratio = 1.22, CI = 1.09–1.38), marginally worse than in 2009. [→ Herbert W. Marsh 2023](#herbert-w-marsh-2023)

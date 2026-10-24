@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: casey-inez-canfield-baruch-fischhoff-alex-davis-2019
     resource: "https://doi.org/10.1007/s11409-019-09197-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Proportion correctly identifying phishing emails ranged from 15% to 85%, while mean confidence ranged only from 80 to 90% across individual emails in both categories. [→ Casey Inez Canfield & Baruch Fischhoff & Alex Davis 2019](#casey-inez-canfield-baruch-fischhoff-alex-davis-2019)

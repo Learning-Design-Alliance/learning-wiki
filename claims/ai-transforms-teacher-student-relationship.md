@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: miao-2024
     resource: "https://doi.org/10.54675/zjte2084"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In education, AI has shifted the traditional teacher-student relationship into a teacher-AI-student dynamic, requiring re-examination of teachers' roles and needed competencies. [→ Miao 2024](#miao-2024)

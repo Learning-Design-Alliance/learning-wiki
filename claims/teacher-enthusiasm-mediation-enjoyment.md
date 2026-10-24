@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-24
 sources:
   - id: frenzel-2009
     resource: "https://doi.org/10.1037/a0014695"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the between-classes level, teacher enjoyment predicted perceived enthusiasm (β = .42, p < .01), which predicted student enjoyment (β = .37, p < .01); the direct path from teacher enjoyment to student enjoyment was no longer significant (β = .22, p = .08), and the indirect effect was significant (p < .05). [→ Frenzel 2009](#frenzel-2009)

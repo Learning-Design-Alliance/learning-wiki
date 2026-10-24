@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: weiqi-xu-and-fan-ouyang-2022
     resource: "https://doi.org/10.1186/s40594-022-00377-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 22 studies reporting learning performance effects, 20 showed significantly positive influence of AI techniques on students' learning performances, while two reported insignificant results. [→ Weiqi Xu and Fan Ouyang 2022](#weiqi-xu-and-fan-ouyang-2022)

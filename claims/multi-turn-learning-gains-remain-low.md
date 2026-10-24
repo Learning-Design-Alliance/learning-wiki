@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rima-hazra-2026
     resource: "https://doi.org/10.48550/arxiv.2603.17373"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In multi-turn conversations, Learns More scores range from 5.51 for Qwen2.5-7B in Physics to 13.08 for Mistral-7B in Mathematics, and misconception reduction peaks around 24-25%. [→ Rima Hazra 2026](#rima-hazra-2026)

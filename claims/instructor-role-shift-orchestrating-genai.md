@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: moganadas-sr-2026
     title: Moganadas SR 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In GenAI-mediated higher education, instructors remain responsible for designing meaningful tasks, validating outputs, modelling ethical use, supporting AI literacy, and sustaining relational trust, while their role shifts toward orchestration and regulation. [→ Moganadas SR 2026](#moganadas-sr-2026)

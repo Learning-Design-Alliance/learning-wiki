@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: joshi-u-2026
     resource: "https://doi.org/10.1186/s12909-026-10080-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both centres improved in the higher-order (Application+Analysis) domain, with gains of 2.4 points at Centre 1 and 4.0 at Centre 2, both statistically significant. [→ Joshi U 2026](#joshi-u-2026)

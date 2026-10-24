@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: huang-q-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1889053"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The indirect effect of teacher support on learning burnout through AI dependency is significant, with the direct effect becoming non-significant (full mediation pattern). [→ Huang Q 2026](#huang-q-2026)

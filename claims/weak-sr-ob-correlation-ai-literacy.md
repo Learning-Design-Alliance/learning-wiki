@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Correlations between the three objective-based factors and the four self-report factors were consistently weak, ranging from r = 0.07 to r = 0.24, indicating perceptions and demonstrated competence are weakly associated. [→ corr-1](#corr-1)

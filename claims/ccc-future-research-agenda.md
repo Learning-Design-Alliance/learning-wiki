@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: kristen-l-granger-2025
     resource: "https://doi.org/10.1007/s10648-025-09999-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors enumerate five future directions: testing indices of CCC, examining change in resource and limiting factors over time, testing applications in implementation science frameworks, testing applications in teacher training, and evaluating extensions for broader representation and addressing systemic inequities. [→ Kristen L. Granger 2025](#kristen-l-granger-2025)

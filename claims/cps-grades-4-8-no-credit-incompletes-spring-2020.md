@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: gwynne-2022
     resource: "https://www.cps.edu/about/departments/office-of-equity/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In spring 2020, 41 percent of grades 4-8 students received at least one Incomplete, a 30-percentage-point decline in students earning credit in all classes (from 89 percent to 59 percent); by spring 2021, 80 percent passed all classes versus 89 percent pre-pandemic. [→ Gwynne 2022](#gwynne-2022)

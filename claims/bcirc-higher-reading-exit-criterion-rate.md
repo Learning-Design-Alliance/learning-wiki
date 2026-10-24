@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: bilingual-cooperative-integrated-reading-and-composition-2007
     resource: "https://eric.ed.gov/?id=ED405428"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i3` large
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` 32% of BCIRC third graders scored above the 40th percentile on the NAPT reading test, qualifying to exit bilingual education, versus 10% of comparison students; the reported effect size was 0.87 and statistically significant. [→ Bilingual Cooperative Integrated Reading and Composition 2007](#bilingual-cooperative-integrated-reading-and-composition-2007)

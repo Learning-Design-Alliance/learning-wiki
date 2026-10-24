@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: juliette-c-désiron-2026
     resource: "https://doi.org/10.1007/s10648-026-10138-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A total of 23 articles (66%) implemented anthropomorphism in their materials, making it the most common emotional design feature in the sample. [→ Juliette C. Désiron 2026](#juliette-c-desiron-2026)

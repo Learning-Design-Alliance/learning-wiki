@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1998
 sources:
   - id: julia-b-smith-1998
     resource: "https://consortium.uchicago.edu/publications/setting-pace-opportunities-learn-chicago-public-elementary-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Demands for improved grade and test outcomes slow instruction as teachers stop introducing new material to review for mandated tests, and this test prep season began earlier each successive year. [→ Julia B. Smith 1998](#julia-b-smith-1998)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: davor-i-2026
     resource: "https://doi.org/10.3389/feduc.2026.1855869"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The model accounted for 51.7% of variance in critical thinking, 50.8% in technical problem-solving, and 30.7% in metacognitive self-regulation. [→ Davor I 2026](#davor-i-2026)

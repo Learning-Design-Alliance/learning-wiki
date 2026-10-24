@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: swanson-2010
     resource: "https://doi.org/10.1002/pits.20484"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Off-grade-level ORF scores increased significantly from pre- to posttest (t = 2.48), while on-grade-level ORF differences were not significant (t = 2.10, ns). [→ Swanson 2010](#swanson-2010)

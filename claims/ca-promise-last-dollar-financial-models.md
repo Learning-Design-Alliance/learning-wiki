@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rauner-2018
     resource: "https://californiacollegepromise.WestEd.org/wp-content/uploads/2018/11/College-Promise-Landscape-Scan-2018.pdf"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most common financial support structure is the last-dollar model, used by 33 of the 42 programs, with varying coverage of tuition, fees, and books. [→ Rauner 2018](#rauner-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: parker-2010
     resource: "https://www.edgefoundation.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nearly all participants described a growing use of self-talk they attributed to coaching, using it to remind themselves of goals, stay on task, and counter self-critical doubts. [→ Parker 2010](#parker-2010)

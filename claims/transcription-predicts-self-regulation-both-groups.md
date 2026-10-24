@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: limpo-2013
     resource: "https://doi.org/10.1037/a0031391"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Paths from transcription to planning (β = .33/.39), revision (β = .57/.58), and self-efficacy (β = .39/.69) were significant in Grades 4-6 and Grades 7-9 respectively. [→ Limpo 2013](#limpo-2013)

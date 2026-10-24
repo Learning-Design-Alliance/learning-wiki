@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-20
+recheck_by: 2019
 sources:
   - id: graesser-2016
     resource: "https://doi.org/10.1007/s40593-015-0086-4"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` AutoTutor implemented nearly all conversational mechanisms of human tutors except handling most student questions; the relevance and correctness of answers to student questions is disappointing, so diversionary tactics were implemented and student question frequency extinguishes quickly. [→ Graesser 2016](#graesser-2016)

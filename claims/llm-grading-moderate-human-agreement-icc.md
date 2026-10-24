@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: marcin-jukiewicz-2025
     resource: "https://doi.org/10.48550/arxiv.2509.26483"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The highest human-model agreement was claude-haiku-3.5 at ICC(2,1) = 0.470 (moderate); the lowest was gpt-4.1-nano at 0.204 (slight); all values below 0.5 formally indicate poor reliability. [→ Marcin Jukiewicz 2025](#marcin-jukiewicz-2025)

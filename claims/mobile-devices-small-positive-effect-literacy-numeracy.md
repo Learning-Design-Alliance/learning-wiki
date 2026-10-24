@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: dorris-2024
     resource: "https://doi.org/10.1002/cl2.1417"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the included RCTs, children undertaking maths or literacy interventions using mobile devices achieved higher numeracy or literacy outcomes than those using an alternative device or no device, with a pooled Cohen's d = 0.24. [→ Dorris 2024](#dorris-2024)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: ives-robert-a-2026
     resource: "https://doi.org/10.1021/acscentsci.6c00822"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` First-generation chemists lack mentors and role models from similar backgrounds, reducing relatable guidance and leaving them disadvantaged in navigating careers due to limited awareness of opportunities, not lack of ability. [→ Ives Robert A. 2026](#ives-robert-a-2026)

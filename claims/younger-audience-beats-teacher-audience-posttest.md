@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: kingir-2013
     resource: "https://doi.org/10.12973/eurasia.2013.922a"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students writing to younger students performed significantly better on the posttest than students writing to the teacher (d = 0.33), but younger-student vs peer and peer vs teacher contrasts were not significant at the Bonferroni-adjusted threshold. [→ Kingir 2013](#kingir-2013)

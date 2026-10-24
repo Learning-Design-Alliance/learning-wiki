@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: haozhe-jiang-2026
     resource: "https://doi.org/10.1186/s40594-026-00628-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` From a teaching and learning process standpoint, ChatGPT was credited with enhancing student engagement, improving teaching efficiency, and enabling flexible instructional designs. [→ Haozhe Jiang 2026](#haozhe-jiang-2026)

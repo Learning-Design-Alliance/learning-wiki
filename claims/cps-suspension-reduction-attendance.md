@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: rebecca-hinze-pifer-and-lauren-sartain-2015
     resource: "https://consortium.uchicago.edu"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On average all students attended school more often, about one additional day per year, net of suspension days. [→ Rebecca Hinze-Pifer and Lauren Sartain 2015](#rebecca-hinze-pifer-and-lauren-sartain-2015)

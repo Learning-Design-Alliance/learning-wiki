@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: stefan-a-schreder-2025
     resource: "https://doi.org/10.1007/s11251-025-09716-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 42 participants, the largest group (20) preferred high-tech VAD, citing superior audio and video quality, two camera angles, and timestamps that made the debriefing more focused. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)

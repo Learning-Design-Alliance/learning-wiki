@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: jonathan-firth-2021
     resource: "https://doi.org/10.1002/rev3.3266"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Blocked presentation led to better outcomes for rule-based learning of abstract shapes, while interleaving was better without a clear verbal rule; supplying a definition on screen disrupted the interleaving benefit. [→ Jonathan Firth 2021](#jonathan-firth-2021)

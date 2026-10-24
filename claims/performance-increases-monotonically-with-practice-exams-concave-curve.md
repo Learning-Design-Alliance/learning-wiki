@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: strong
+newest_evidence: 2013
 sources:
   - id: glöckner-2013
     resource: "https://doi.org/10.1007/s11251-013-9266-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Grades increase almost monotonically with the number of exams written, following a slightly concave pattern without significant kinks. [→ Glöckner 2013](#glockner-2013)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: theobald-elli-j-et-al-2020
     resource: "https://doi.org/10.1073/pnas.1916903117"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` With low-intensity active learning the examination gap is −0.48 SDs (a 22% reduction versus lecturing) and the passing-rate gap −9.6% (a 16% increase versus lecturing); with high-intensity active learning the gaps are −0.36 SDs (42% reduction) and −2.0% (76% reduction). [→ Theobald Elli J. et al 2020](#theobald-elli-j-et-al-2020)

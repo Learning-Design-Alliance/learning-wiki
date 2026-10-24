@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: melissa-roderick-2008
     resource: "https://consortium.uchicago.edu/publications/high-school-future-potholes-road-college"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Sakaarah's case shows a qualified, well-supported student conducting extensive independent research to find a college that was a good fit, not merely a match. [→ Melissa Roderick 2008](#melissa-roderick-2008)

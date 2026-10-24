@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: oakes-2020
     resource: "https://learningpolicyinstitute.org/product/improving-education-new-mexico-way"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Learning Policy Institute's review of 143 research studies found community schools can improve student attendance, academic achievement, and behavior and provide more positive school climates in high-poverty schools. [→ Oakes 2020](#oakes-2020)

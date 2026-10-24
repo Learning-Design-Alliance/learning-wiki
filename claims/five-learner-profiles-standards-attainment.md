@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: abhinava-barthakur-2026
     resource: "https://doi.org/10.18608/jla.2026.9035"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Clustering the attainment probabilities of 178 pre-service teachers yielded five groups — Well-rounded (71), Knowledgeable and strategic (23), Student-centred (34), Novice (23), and Engaging and effective (27) — each with a distinct pattern across the four standards. [→ Abhinava Barthakur 2026](#abhinava-barthakur-2026)

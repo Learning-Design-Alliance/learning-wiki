@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: christina-clark-tuttle-2013
     resource: "https://www.mathematica.org/publications/kipp-middle-schools-impacts-on-achievement-and-other-outcomes-full-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The findings are the latest from Mathematica's multiyear study of KIPP middle schools, prepared for Arnold Ventures under a project running 2007-2017. [→ Christina Clark Tuttle 2013](#christina-clark-tuttle-2013)

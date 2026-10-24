@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2021
+source_checked: 2026-10-17
 sources:
   - id: latimier-2021
     resource: "https://doi.org/10.1007/s10648-020-09572-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i0` negligible
+> **Currency** · newest study 2021 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i0` Across 54 effect sizes, there was no significant difference between expanding and uniform spacing schedules of retrieval practice, g = 0.034, a negligible printed effect size. [→ Latimier 2021](#latimier-2021)

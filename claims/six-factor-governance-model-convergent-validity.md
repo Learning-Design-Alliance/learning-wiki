@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: truong-2025
     resource: "https://doi.org/10.22521/edupij.2025.19.605"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis extracted six factors matching the theoretical framework, with loadings from 0.61 to 0.84 and 85.2% total variance explained, supporting the measurement structure. [→ Truong 2025](#truong-2025)

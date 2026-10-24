@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: ron-zimmer-2009
     resource: "https://doi.org/10.7249/mg869"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across eight study sites, charter schools on average produce test-score impacts that are neither substantially better nor substantially worse than those of conventional public schools. [→ Ron Zimmer 2009](#ron-zimmer-2009)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: strauß-2021
     resource: "https://doi.org/10.1007/s11412-021-09340-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across GAT and GAT + Prompt conditions, students' reported use of the support was higher for individual self-regulation than for group-level shared regulation, and the conditions did not differ significantly in either use. [→ Strauß 2021](#strau-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: shazia-rafiullah-miller-2002
     resource: "https://consortium.uchicago.edu/publications/student-performance-course-taking-test-scores-and-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No particular type of school (neighborhood, vocational, charter or small, extended elementary, or selective admissions) was especially effective at improving TAP performance, with individual schools from each category standing out; however, charter schools had substantially lower dropout rates after controlling for incoming student characteristics, and selective admissions schools also did well. [→ Shazia Rafiullah Miller 2002](#shazia-rafiullah-miller-2002)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: robert-dekeyser-2010
     resource: "https://doi.org/10.6018/ijes/2010/1/114021"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Limited evidence exists that practice and feedback effectiveness depends on learner aptitudes and form characteristics, but no research has addressed the interaction of all three variables (aptitudes, form characteristics, practice modalities). [→ Robert DeKeyser 2010](#robert-dekeyser-2010)

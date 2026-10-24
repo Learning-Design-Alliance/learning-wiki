@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: russell-scheinberg-2026
     resource: "https://doi.org/10.48550/arxiv.2606.22225"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Participants took roughly twice as long to begin speaking after the AI (d=0.90), held the floor for a smaller share of session time (d=−1.14), and paused less within their own turns (d=−0.53) than with a human partner. [→ Russell Scheinberg 2026](#russell-scheinberg-2026)

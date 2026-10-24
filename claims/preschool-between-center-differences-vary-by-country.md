@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: martin-brunner-2025
     resource: "https://doi.org/10.1007/s10648-024-09981-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Integrating prior large-scale studies, the article reports mostly small between-center differences in US preschool outcomes (e.g., Mdn ρCenter = 0.03 for cognitive outcomes with standardized tests) that were (much) more pronounced in Germany and the United Kingdom (Mdn ρCenter = 0.13/0.17 for cognitive outcomes). [→ Martin Brunner 2025](#martin-brunner-2025)

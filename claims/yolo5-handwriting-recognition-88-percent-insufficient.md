@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hartwig-grabowski-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08855"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A domain-specifically trained YOLO-5-based method achieved 88.28% recognition performance on handwritten examination entries, which the authors consider insufficient because roughly one error per ten letters would risk legally relevant misgrading. [→ Hartwig Grabowski 2026](#hartwig-grabowski-2026)

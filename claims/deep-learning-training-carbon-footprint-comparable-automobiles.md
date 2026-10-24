@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ben-kei-daniel-2026
     resource: "https://doi.org/10.1007/s10791-025-09861-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing prior research, that the carbon footprint of training a single deep learning model may be comparable to that of several automobiles over their entire lifespan. [→ Ben Kei Daniel 2026](#ben-kei-daniel-2026)

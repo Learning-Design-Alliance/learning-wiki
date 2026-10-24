@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: fukuda-2018
     resource: "https://doi.org/10.25256/PAAL.22.1.4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Self-efficacy (r = .304), intrinsic goal orientation (r = .263), and test anxiety (r = -.193) correlated significantly with proficiency. [→ Fukuda 2018](#fukuda-2018)

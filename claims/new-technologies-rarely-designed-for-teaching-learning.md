@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: diana-laurillard-2009
     resource: "https://hal.science/hal-00592750"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` New technologies generate many ideas for teaching and learning, although the technologies themselves are rarely designed with teaching and learning in mind. [→ Diana Laurillard 2009](#diana-laurillard-2009)

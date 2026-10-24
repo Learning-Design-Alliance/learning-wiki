@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hanchen-david-wang-2026
     resource: "https://doi.org/10.48550/arxiv.2602.13280"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Cross-backbone: all six frontier backbones clear the strongest baseline on DKL, Debug, Lang, and Realism; on P_recur two exceed and four sit within ~1.5%. [→ Hanchen David Wang 2026](#hanchen-david-wang-2026)

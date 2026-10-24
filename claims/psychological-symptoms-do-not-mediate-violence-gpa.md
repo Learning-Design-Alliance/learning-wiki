@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: borofsky-larissa-a-2013
     resource: "https://doi.org/10.1037/a0034121"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` None of the three symptom types was significantly associated with GPA, so none met criteria for mediating the violence-to-GPA relationship. [→ Borofsky Larissa A. 2013](#borofsky-larissa-a-2013)

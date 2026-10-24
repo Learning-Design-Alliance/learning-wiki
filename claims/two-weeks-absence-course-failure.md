@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: freshman-year-the-make-it-or-break-it-year-2007
     resource: "http://ccsr.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Missing more than two weeks of school per semester is associated with failing at least two classes on average, whether students arrived with top or below-average test scores. [→ Freshman Year: The Make-it or Break-it Year 2007](#freshman-year-the-make-it-or-break-it-year-2007)

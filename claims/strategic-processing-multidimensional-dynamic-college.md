@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: patricia-a-alexander-2017
     resource: "https://doi.org/10.1007/s10648-017-9409-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A systematic review of 134 studies supports the argument that any theoretical model of strategic processing among college students must embrace its multidimensional and dynamic nature. [→ Patricia A. Alexander 2017](#patricia-a-alexander-2017)

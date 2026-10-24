@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2012
 sources:
   - id: daniel-c-humphrey-2009
     resource: "https://eric.ed.gov/?q=High+School+Reform+in+Chicago+Public+Schools+An+Overview"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Amalgamated ratings from all observations indicate 46% of ratings were at the unsatisfactory or basic level. [→ Daniel C. Humphrey 2009](#daniel-c-humphrey-2009)

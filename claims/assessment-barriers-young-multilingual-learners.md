@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: burr-2022
     resource: "https://eric.ed.gov/?id=ED655645"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research widely recommends nonstandardized assessments such as portfolios, language samples, holistic observations, and authentic performance-based assessments, conducted across varied content areas and contexts. [→ Burr 2022](#burr-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: mohamed-farrag-ahmed-badawi-2019
     resource: "https://doi.org/10.5539/elt.v12n4p166"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i1` small
+> **Currency** · newest study 2019 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 <!-- title before 2026-10-15: Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum) -->
 
 ## Subclaims

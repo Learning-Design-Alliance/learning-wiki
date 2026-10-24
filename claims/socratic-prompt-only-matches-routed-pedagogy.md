@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shuyi-fan-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28128"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Socratic prompt-only variant outscores the full routed policy on judged pedagogy (paired difference +0.565, δ=+0.96, ten of ten replicate pairs). [→ Shuyi Fan 2026](#shuyi-fan-2026)

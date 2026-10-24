@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09726-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Marsh et al. (2020) reviewed four PISA data collections with 1.25 million students and found negative school-average achievement effects on ASC in all but one of 191 samples, significant in 181. [→ Marsh 2023](#marsh-2023)

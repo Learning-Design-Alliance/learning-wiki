@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: ouhao-chen-fred-paas-john-sweller-2023
     resource: "https://doi.org/10.1007/s10648-023-09782-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In four experiments on learning computer programs, the split-attention and redundancy effects were obtained with large effect sizes for high element interactivity information but disappeared entirely for low element interactivity information. [→ Ouhao Chen · Fred Paas · John Sweller 2023](#ouhao-chen-fred-paas-john-sweller-2023)

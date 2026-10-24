@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sutedjo-a-2026
     title: Sutedjo A 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Pearson correlations showed TK correlated with TPK (r = .76), TCK (r = .67), and TPACK (r = .67), all significant at p < .001; overall TPACK correlated most strongly with TPK (r = .91) and TCK (r = .85). [→ Sutedjo A 2026](#sutedjo-a-2026)

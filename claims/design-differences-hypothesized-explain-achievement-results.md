@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: janine-t-remillard-2014
     resource: "https://www.mathematica.org/publications/the-influence-of-curriculum-material-design-on-opportunities-for-student-learning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors hypothesize, rather than demonstrate, that the observed differences in curricular designs could explain the achievement results of the experimental study. [→ Janine T. Remillard 2014](#janine-t-remillard-2014)

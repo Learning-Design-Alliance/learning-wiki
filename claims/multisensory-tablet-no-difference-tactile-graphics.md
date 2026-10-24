@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: steinbach-2022
     resource: "https://www.nwea.org/research/publication/looking-beyond-vision-supports-for-students-who-are-blind-or-visually-impaired-in-mathematics/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 22 BVI students asked questions about graphics, there was no significant difference in the number of correct answers between those using a tablet with tonal and vibration feedback and those using tactile representations. [→ Steinbach 2022](#steinbach-2022)

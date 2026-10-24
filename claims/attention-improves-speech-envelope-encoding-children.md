@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: jacqueline-phelps-2022
     resource: "https://doi.org/10.1038/s41598-022-09989-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Attended streams were reconstructed more accurately than unattended streams from children's EEG, overall and in each interference condition separately. [→ Jacqueline Phelps 2022](#jacqueline-phelps-2022)

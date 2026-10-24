@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yanjia-li-2026
     resource: "https://doi.org/10.48550/arxiv.2606.24694"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Participants in semi-structured interviews reported five challenges: limited contextual cues, insufficient timely feedback, constrained alternative-decision exploration, opaque agent reasoning, and inadequate visualizations. [→ Yanjia Li 2026](#yanjia-li-2026)

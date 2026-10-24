@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: janneke-m-frambach-2014
     resource: "https://doi.org/10.1080/03075079.2012.754865"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Hong Kong, continuous assessment of participation helped first-year students overcome anxiety and become keen to participate, debate and challenge peers. [→ Janneke M. Frambach 2014](#janneke-m-frambach-2014)

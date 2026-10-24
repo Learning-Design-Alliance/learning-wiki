@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: bakhshaei-2018
     resource: "https://doi.org/10.51388/20.500.12265/48"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 89 percent of coaches rated their general coaching skills as high or extremely high at year end, versus 62 percent at the beginning of the year. [→ Bakhshaei 2018](#bakhshaei-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: bos-2018
     resource: "https://evidenceforessa.org/program/families-and-schools-together-fast/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The evaluation concluded FAST is unlikely to meaningfully contribute to school turnaround in this context, while noting a possible reading benefit for children whose families choose to participate. [→ Bos 2018](#bos-2018)

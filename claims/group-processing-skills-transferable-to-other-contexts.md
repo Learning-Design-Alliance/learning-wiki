@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: lachowsky-2021
     resource: "https://doi.org/10.5278/ojs.jpblhe.v9i2.2883"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 70.3% of participants reported experience with group processing after their course, and strong agreement that it was transferable to other contexts (mean=8.4), including other courses, clubs, volunteering, and personal relationships. [→ Lachowsky 2021](#lachowsky-2021)

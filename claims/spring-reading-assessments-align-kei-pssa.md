@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: jessica-f-harding-2019
     resource: "https://ies.ed.gov/ncee/edlabs/regions/mid-atlantic/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher scores on SDP's annual spring reading assessments in kindergarten through grade 3 were associated with higher KEI scores and higher grade 3 PSSA in ELA scores. [→ Jessica F. Harding 2019](#jessica-f-harding-2019)

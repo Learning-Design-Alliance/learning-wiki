@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TEI@4 raises ΔSol from .180 to .184, lowers Leak from .583 to .572, and improves R_total from .272 to .280, while DTR@4 moves these only marginally (+.000/−.002/+.002). [→ tei4-vs-dtr4-1](#tei4-vs-dtr4-1)

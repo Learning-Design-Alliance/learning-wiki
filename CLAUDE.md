@@ -284,6 +284,17 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 - **The load-bearing check** (`check_load_bearing.py`, runbook `eval/load-bearing/README.md`)
   runs in every batch; read a judge's failure before acting on it, and `--dismiss` a checked one.
 - Markers are capped by the claim's recorded evidence (`strength_cap`).
+- **A claim states how current it is** (maintainer, 2026-10-24, after the wiki's first outside feedback:
+  "there is no expiry for research but agents need to know how stale it is"). `scripts/add_currency.py`
+  writes `newest_evidence` (year of the newest study cited), `source_checked` (the latest date the
+  load-bearing judge found every entry faithful to its source; absent while any entry is unchecked) and,
+  only for fast-ageing kinds from the claim sort (`component`, `context-local`, `context-general`),
+  `recheck_by` (newest study's year plus 3, 3 or 5), and a `> **Currency** ·` header line saying the same
+  and that no person has reviewed the page. **Never give a design finding a recheck date or an expiry**:
+  research does not expire on a calendar. Past `recheck_by` the line says overdue; it never hides the
+  claim. It runs in every batch after the load-bearing judge; `--overdue` lists the claims past due. The
+  judge's verdicts are not committed, so the script only sets `source_checked` from verdicts that still
+  match the page and leaves a page alone when it cannot tell: the field on the page is the record.
 
 **Principle and pattern pages** (conditional-model format, `principle-pattern-authoring.md`;
 waves 1–7 in `eval/page-triage/`):
@@ -1344,6 +1355,7 @@ Every content page (principle, element, pattern, design, product, strategy, proc
 | `verified` | Optional | List of `{ by: <actor>, at: <date> }` confirmation events — see Trust tiers below. Absent on every page until someone explicitly reviews it; never set this yourself just because a page looks complete |
 | `id` | On identified kinds | Equal to the filename slug, on elements/principles/patterns/claims/learner-variables — the stable name design documents resolve by (see Page identity below) |
 | `aliases` | After a rename | Every former slug of this page, retained forever, so a document naming the old one still resolves |
+| `newest_evidence`, `source_checked`, `recheck_by` | Claims | How current the claim is: newest study's year, last automated check against sources, and a recheck year for fast-ageing kinds only (`scripts/add_currency.py`; see Evidence on claim pages) |
 | `evidence_strength`, `author`, `grain_size` | Type-specific | Extra scalar fields kept as-is per page type (see templates below); OKF tolerates extra frontmatter keys |
 
 **Actor convention** for `generated.by` (and any other identity field): `<tool>/unspecified` for an agent/tool (e.g. `claude/unspecified`, `codex/unspecified`), `human:<id>` for a person, `process:<id>` for an unattended batch job (e.g. `process:wiki-ingest`). Never invent a specific model version you're not certain of — `unspecified` is fine.
@@ -1530,6 +1542,7 @@ ld-wiki/
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
     evidence_rollup.py ← distinct-study roll-ups behind the evidence profiles and evidence.md
     add_evidence_profile.py ← the `> **Evidence** ·` line on pages that cite claims
+    add_currency.py    ← the `> **Currency** ·` line and currency fields on claims: newest study, source check, recheck year
     build_evidence_report.py ← evidence.md, the state of the wiki's evidence (generated)
     search_index.py    ← SQLite FTS5 index of the wiki in .cache/, used by search and linking
     link_claims.py     ← labels and writes Related Claims links between claims

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: dillon-h-murphy-2023
     resource: "https://doi.org/10.1007/s11409-023-09332-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` To-be-remembered items judged metacognitively beat randomly chosen items (d = 0.32), while to-be-forgotten items fell below them (d = 0.84). [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)

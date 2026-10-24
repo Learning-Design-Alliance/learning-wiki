@@ -9,6 +9,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-19
+recheck_by: 2020
 sources:
   - id: matthew-johnson-2016
     resource: "https://www.mathematica.org/publications/ewing-marion-kauffman-school-evaluation-impact-report-year-3"
@@ -32,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 

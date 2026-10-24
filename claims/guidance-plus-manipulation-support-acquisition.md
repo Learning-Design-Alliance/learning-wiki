@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2002
+source_checked: 2026-10-20
 sources:
   - id: tessa-eysink-2002
     resource: "https://doi.org/10.1023/A:1016018210897"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2002 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The results support the authors' view that guidance in combination with the possibility to manipulate objects in a domain supports the acquisition of knowledge and skills in that domain. [→ Tessa Eysink 2002](#tessa-eysink-2002)

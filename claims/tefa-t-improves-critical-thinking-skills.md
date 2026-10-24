@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: maksum-2022
     resource: "https://doi.org/10.36681/tused.2022.161"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After ten weeks, TEFA-T students had better critical thinking skills on all indicators (analysis, evaluation, inference, deductive and inductive reasoning) than students in conventional classes. [→ Maksum 2022](#maksum-2022)

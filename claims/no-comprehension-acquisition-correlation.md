@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1994
 sources:
   - id: lester-loschky-1994
     resource: "https://doi.org/10.1017/S0272263100013103"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no correlation found between differences in moment-to-moment comprehension and gains in vocabulary recognition and acquisition of structures. [→ Lester Loschky 1994](#lester-loschky-1994)

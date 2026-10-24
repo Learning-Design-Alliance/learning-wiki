@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: melnick-2017
     resource: "https://learningpolicyinstitute.org/product/ca-ece-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` During the Great Recession, publicly funded ECE programs experienced over $1 billion in budget cuts, approximately 25% of child care slots were cut between 2008 and 2013, and despite increases from 2013–2017 overall funding remains below pre-recession levels. [→ Melnick 2017](#melnick-2017)

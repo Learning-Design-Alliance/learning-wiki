@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-21
 sources:
   - id: tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020
     resource: "https://doi.org/10.1007/s10648-020-09544-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Giving students the correct answer or solution procedure as a comparison standard while making monitoring judgments improves retrospective monitoring accuracy. [→ Tamara van Gog & Vincent Hoogerheide & Milou van Harsel 2020](#tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020)

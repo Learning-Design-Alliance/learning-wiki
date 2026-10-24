@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: lorenz-weise-2024
     resource: "https://doi.org/10.1007/s11409-024-09411-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In free-choice schemes where wins increase with wager size and losses mirror wins, only the lowest and highest wagering categories are ever optimal strategies, encouraging under- or overstating of confidence. [→ Lorenz Weise 2024](#lorenz-weise-2024)

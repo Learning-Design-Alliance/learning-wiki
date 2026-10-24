@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: victoria-f-sisk-2018
     resource: "https://doi.org/10.1177/0956797617739704"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The second meta-analysis (k = 43, N = 57,155) found overall intervention effects on achievement were weak, though results supported possible benefits for low-SES or academically at-risk students. [→ Victoria F. Sisk 2018](#victoria-f-sisk-2018)

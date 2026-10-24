@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: strong
+newest_evidence: 2023
+source_checked: 2026-10-17
 sources:
   - id: greenberg-2023
     resource: "https://doi.org/10.54300/928.269"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Fostering social-emotional competencies facilitates positive prosocial behaviors (effect sizes 0.13 to 0.33) and SEL programs reduce disruptive behavior problems and emotional distress (effect sizes 0.13 to 0.33 and 0.10 to 0.31, respectively). [→ Greenberg 2023](#greenberg-2023)

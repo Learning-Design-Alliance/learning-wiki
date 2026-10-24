@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: tim-kühl-alexander-eitel-2016
     resource: "https://doi.org/10.1007/s11409-016-9154-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the special issue's 13 experiments with more than 1000 participants, disfluent fonts did not produce overall better learning performance. [→ Tim Kühl & Alexander Eitel 2016](#tim-kuhl-alexander-eitel-2016)

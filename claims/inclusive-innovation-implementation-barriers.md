@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-09
+recheck_by: 2027
 sources:
   - id: barrier-themes
     title: barrier-themes
@@ -21,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Four barrier themes emerged: communication challenges among students, communication challenges among adults, school and district leadership turnover, and teacher and staff engagement. [→ barrier-themes](#barrier-themes)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-19
 sources:
   - id: adesope-2017
     resource: "https://doi.org/10.3102/0034654316689306"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2017 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Practice tests were effective regardless of the time lag between practice and final tests, with the highest effect at 1–6 days, significantly higher than under 1 day. [→ Adesope 2017](#adesope-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: leonard-ja-2015
     title: Leonard JA 2015
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Planned post-hoc comparisons showed no significant difference between lower-SES (M = 0.08) and higher-SES (M = 0.06) groups on procedural memory learning score (p = 0.76). [→ Leonard JA 2015](#leonard-ja-2015)

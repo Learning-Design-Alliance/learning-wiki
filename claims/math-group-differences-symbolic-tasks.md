@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: nurit-viesel-nordmeyer-2023
     resource: "https://doi.org/10.1007/s10648-023-09735-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For C-RDMD and MD-RDMD comparisons, effect sizes were higher in symbolic verbal-auditory and symbolic visual processing tasks than in non-symbolic approximate magnitude tasks. [→ Nurit Viesel-Nordmeyer 2023](#nurit-viesel-nordmeyer-2023)

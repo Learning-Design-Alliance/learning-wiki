@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-20
+recheck_by: 2022
 sources:
   - id: how-the-organization-of-schools-and-local-communities-shape-educational-improvement-2017
     resource: "https://consortium.uchicago.edu/publications/how-organization-schools-and-local-communities-shape-educational-improvement"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Teachers' ability to deliver strong instruction is dependent to a great extent on the school context in which they work, as well as the resources and challenges of the families they serve and the larger community. [→ How the Organization of Schools and Local Communities Shape Educational Improvement 2017](#how-the-organization-of-schools-and-local-communities-shape-educational-improvement-2017)

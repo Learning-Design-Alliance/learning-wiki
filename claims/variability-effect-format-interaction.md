@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: sweller-2019
     resource: "https://doi.org/10.1007/s10648-019-09465-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In geometrical problem solving, the expected interaction between problem format (worked examples, conventional problems) and variability (low, high) was found, with high variability positive under low load and negative under high load. [→ Sweller 2019](#sweller-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: wiss-2025
     resource: "https://doi.org/10.24059/olj.v29i3.5096"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study reports findings on introducing controversial viewpoints by a genAI agent as a mechanism to counter groupthink. [→ Wiss 2025](#wiss-2025)

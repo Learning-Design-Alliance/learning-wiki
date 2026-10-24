@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: walter-r-miles-w-s-smiley-1915
     resource: "https://books.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The great majority of high-school students made rapid or at least normal progress in elementary school, while most high-school students fail in some of their work. [→ Walter R. Miles; W. S. Smiley 1915](#walter-r-miles-w-s-smiley-1915)

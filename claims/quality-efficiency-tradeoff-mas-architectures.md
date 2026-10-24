@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: jiayi-wang-2025
     resource: "https://doi.org/10.48550/arxiv.2508.16659"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` SAS was fastest and lightest (25±16 s; ~3.4k tokens; one request), MAS-Roles required roughly 3× the time and ~7× the tokens, and MAS-CMD used 272±168 s, ~71.6k tokens, and 13 requests. [→ Jiayi Wang 2025](#jiayi-wang-2025)

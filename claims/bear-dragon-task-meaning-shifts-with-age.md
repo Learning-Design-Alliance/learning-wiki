@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: petersen-2016
     resource: "https://doi.org/10.1016/j.dr.2016.02.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` In the authors' longitudinal Bird/Alligator variant data, no-go inhibition had a different meaning at 30 months than at later ages, with go/no-go correlations shifting from r[137] = −.67 at 30 months to r[127] = .12 at 42 months. [→ Petersen 2016](#petersen-2016)

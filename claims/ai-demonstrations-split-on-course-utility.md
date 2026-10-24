@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shuang-geng-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28710"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 60 demo-section respondents, 28 attended all nine demonstrations, most reported slight or moderate engagement, and feedback split between direct course utility (10) and lacking course utility (11), with the dominant suggestion being to increase course utility (13). [→ Shuang Geng 2026](#shuang-geng-2026)

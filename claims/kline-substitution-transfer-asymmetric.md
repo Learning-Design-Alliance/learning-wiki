@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1909
 sources:
   - id: linus-w-kline-1909
     resource: "https://www.google.com/search?q=%22Some+experimental+evidence+in+regard+to+formal+discipline%22+Kline"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Transfer from digit-for-letter practice was regularly positive to the symbols-for-digits task but frequently negative to the digits-for-symbols task. [→ Linus W. Kline 1909](#linus-w-kline-1909)

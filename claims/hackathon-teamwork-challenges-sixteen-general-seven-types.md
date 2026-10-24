@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: sanna-järvelä-2022
     resource: "https://doi.org/10.1007/s11412-022-09373-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Analyses of a hackathon CSCL setting revealed sixteen general challenges and seven types of challenges that hamper teamwork. [→ Sanna Järvelä 2022](#sanna-jarvela-2022)

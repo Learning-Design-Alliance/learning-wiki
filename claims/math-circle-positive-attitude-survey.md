@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-17
 sources:
   - id: eugene-kennedy-lawrence-smolinsky-2016
     resource: "https://doi.org/10.12973/eurasia.2016.1223a"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an end-of-semester survey, most respondents indicated mathematics was important (9 of 10), liked math (9 of 10), and felt confident in their ability to solve mathematics problems (6 of 9). [→ Eugene Kennedy & Lawrence Smolinsky 2016](#eugene-kennedy-lawrence-smolinsky-2016)

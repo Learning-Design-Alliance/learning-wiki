@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: christian-greiffenhagen-2011
     resource: "https://doi.org/10.1007/s11412-011-9134-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pupils' omission of the caption box reflected a difference in orientation to what was important, not unawareness of the requirement. [→ Christian Greiffenhagen 2011](#christian-greiffenhagen-2011)

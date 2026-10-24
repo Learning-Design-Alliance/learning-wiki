@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: nagaoka-2017
     resource: "https://toandthrough.uchicago.edu/data"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The Bachelor's DAI, which counts all pathways to a bachelor's degree within 10 years, increased from an estimated 11 percent to 18 percent between 2006 and 2016. [→ Nagaoka 2017](#nagaoka-2017)

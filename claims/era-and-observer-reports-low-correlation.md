@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: ivcevic-zorana-eggers-catherine-2021
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8003666/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i2` ERA and teacher-observed emotion regulation were significantly correlated at r = 0.22 (p = 0.001), a low correlation indicating the two measures capture somewhat distinct attributes. [→ Ivcevic Zorana; Eggers Catherine 2021](#ivcevic-zorana-eggers-catherine-2021)

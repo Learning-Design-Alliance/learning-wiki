@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: what-works-clearinghouse-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/279"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Neither the study nor the WWC found a statistically significant effect on the WJ–R Calculation subtest, but the effect was positive (effect size 0.30) and large enough to be considered substantively important under WWC criteria. [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)

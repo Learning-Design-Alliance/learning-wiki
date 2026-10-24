@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: lavigne-2021
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/exploring-implementation-attendance-supports-reduce-chronic-absenteeism-providence-public-school"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The proportion of secondary schools using the text-messaging platform with moderate or high fidelity (88 percent) was more than twice the proportion of elementary schools (41 percent). [→ Lavigne 2021](#lavigne-2021)

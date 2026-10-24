@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: sascha-schneider-2021
     resource: "https://doi.org/10.1007/s10648-021-09626-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` How strong and fast social schemata are activated depends on the strength and number of social cues and on the degree of development of the social schemata. [→ Sascha Schneider 2021 (2)](#sascha-schneider-2021-2)

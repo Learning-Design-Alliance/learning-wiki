@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-08
 sources:
   - id: gripshover-2022
     resource: "https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q1`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-08 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In 2021–22 Elevate data, learning conditions did not improve under ad hoc implementations or two planned cycles, but improved markedly with four or more cycles. [→ Gripshover 2022](#gripshover-2022)

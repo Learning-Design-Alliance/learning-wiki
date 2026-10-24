@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: maier-2026
     resource: "https://doi.org/10.48550/arxiv.2605.04779"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Study setting significantly moderates the productivity effect of GenAI (Q_M(2) = 10.51, p = 0.005), accounting for approximately 36% of heterogeneity across studies. [→ Maier 2026](#maier-2026)

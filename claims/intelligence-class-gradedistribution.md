@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1920
 sources:
   - id: bridges-1920
     resource: "https://doi.org/10.1037/h0071462"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The percentage of students with point-hour ratios below 1.00 rises from 25.1% in the top Alpha class to 88.3% in the bottom class, while the percentage at 1.20 or higher falls from 42.7% to 3.3%. [→ Bridges 1920](#bridges-1920)

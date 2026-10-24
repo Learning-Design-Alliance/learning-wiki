@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: bracco-2021
     resource: "http://csustudentsuccess.org/multiple-measures"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Students in QR Category III in 2018 earned on average 4.4 more baccalaureate units in their first year than students designated 'not college ready' in the 2017 cohort. [→ Bracco 2021](#bracco-2021)

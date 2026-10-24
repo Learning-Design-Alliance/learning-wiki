@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: jake-renzella-2026
     resource: "https://doi.org/10.48550/arxiv.2606.14718"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Males were significantly more likely to have shared a deepfake (23.2% vs. 10.0%, OR=0.34, p=.010), while females were significantly more likely to have reported one (14.1% vs. 24.0%, OR=2.14, p=.046). [→ Jake Renzella 2026](#jake-renzella-2026)

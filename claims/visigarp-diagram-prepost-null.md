@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: anders-bouwer-2010
     resource: "https://doi.org/10.1007/s11251-008-9083-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean diagram-test scores rose slightly from pre-test to post-test but the difference was not significant. [→ Anders Bouwer 2010](#anders-bouwer-2010)

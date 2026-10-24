@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: matthew-johnson-2017
     resource: "https://www.mathematica.org/publications/ja-the-educational-and-behavioral-impacts-of-the-ewing-marion-kauffman-charter-school"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Qualitative data showed the school's hallmarks being implemented faithfully and stakeholders believing the methods positively influenced students' attitudes and performance. [→ Matthew Johnson 2017](#matthew-johnson-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jessica-hutchison-2026
     resource: "https://doi.org/10.1145/3803400.3809394"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 71 slow accept events, 10 were slow tab accepts and 53 were slow accept then modify events, together 75% of slow accepts; slow accept then delete was not observed. [→ Jessica Hutchison 2026](#jessica-hutchison-2026)

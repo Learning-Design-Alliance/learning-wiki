@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: transfer-funnel
     resource: "https://doi.org/10.48550/arxiv.2607.01692"
@@ -28,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 93 transfer-card exposures, students opened 8 cards (8.6%) and launched 4 practice questions (4.3%), a timing mismatch with homework completion goals. [→ transfer-funnel (2)](#transfer-funnel-2)

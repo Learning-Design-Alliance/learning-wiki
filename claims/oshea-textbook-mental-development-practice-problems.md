@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: new-publications-1921
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r?` · `q1`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The reviewer reports that O'Shea's textbook is written around two questions: how the individual normally responds at different developmental periods to typical physical, intellectual, esthetic and social situations, and how he can best appropriate the materials and benefits of education for use in daily life. [→ New Publications 1921](#new-publications-1921)

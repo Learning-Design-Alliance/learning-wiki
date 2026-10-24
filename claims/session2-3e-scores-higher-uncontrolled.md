@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: masum-hasan-2026
     resource: "https://doi.org/10.48550/arxiv.2609.22517"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean overall 3E performance increased from Session 1 to Session 2 (0.403 to 0.471; one-sided p<0.001), as did Empower and Empathize, while the Be Explicit difference was not significant. [→ Masum Hasan 2026](#masum-hasan-2026)

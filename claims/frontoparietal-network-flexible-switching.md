@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: dajani-2015
     resource: "https://doi.org/10.1016/j.tins.2015.07.003"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Meta-analyses of neuroimaging studies in neurotypical adults identify a distributed network of frontoparietal regions involved in flexible switching. [→ Dajani 2015](#dajani-2015)

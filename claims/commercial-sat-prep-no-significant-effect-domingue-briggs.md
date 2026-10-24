@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: actsat-test-preparation-and-coaching-programs-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/664"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In a quasi-experimental propensity-score-matched comparison of 706 students from the Educational Longitudinal Survey of 2002, participation in commercial SAT preparation courses showed no statistically significant difference on SAT scores (domain average effect size 0.10, improvement index +4). [→ ACT/SAT Test Preparation and Coaching Programs 2016](#actsat-test-preparation-and-coaching-programs-2016)

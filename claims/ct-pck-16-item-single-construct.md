@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: witherspoon-2026
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/developing-measure-middle-school-math-teachers-pedagogical-content-knowledge-computational-thinking"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exploratory analyses supported 16 of 25 items as a single-construct measure of CT–PCK, and alternative two-, three-, and four-construct structures revealed no meaningful groupings. [→ Witherspoon 2026](#witherspoon-2026)

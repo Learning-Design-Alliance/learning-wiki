@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: wisniewski-b-2020
     title: Wisniewski B 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Oral, written, and video/audio/computer-assisted feedback channels did not differ significantly in average effect, so prior findings that written feedback outperforms oral were not confirmed. [→ Wisniewski B 2020](#wisniewski-b-2020)

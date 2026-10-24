@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: ali-protik-2015
     resource: "https://doi.org/10.1162/edfp_a_00174"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The incentive program was selective on teacher performance and targeted transfers into the hardest-to-staff schools in the same districts. [→ Ali Protik 2015](#ali-protik-2015)

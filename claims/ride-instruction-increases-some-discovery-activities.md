@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2007
 sources:
   - id: saab-2007
     resource: "https://doi.org/10.1007/s11251-006-9003-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group used describing and recognizing of relations, concluding, and regulative evaluation/total regulation significantly more often than the control group. [→ Saab 2007](#saab-2007)

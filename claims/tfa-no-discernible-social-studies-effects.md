@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: teach-for-america-2016
     resource: "https://www.teachforamerica.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the one qualifying study, the estimated impact of TFA teachers on social studies achievement was neither statistically significant nor large enough to be substantively important. [→ Teach For America 2016](#teach-for-america-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 1995
 sources:
   - id: goodson-1994
     resource: "https://doi.org/10.1080/0951839950080109"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Storying rapidly becomes a form of social and political prioritizing, a particular way of telling stories which privileges some storylines and silences others, displacing unwanted social and political realities. [→ Goodson 1994](#goodson-1994)

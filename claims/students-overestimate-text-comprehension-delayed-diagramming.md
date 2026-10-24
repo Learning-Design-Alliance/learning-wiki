@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: hepner-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101922"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On average, judgments of learning exceeded test performance at time 1, t(257) = 5.10, p < 0.001, despite 71% of judgments being highly accurate (deviation of 0 or 1). [→ Hepner 2024](#hepner-2024)

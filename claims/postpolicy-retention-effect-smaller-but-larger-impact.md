@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: allensworth-2004
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-dropout-rates-chicago-after-implementation-eighth-grade"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prepolicy retained students' dropout rates were 25.3 percentage points larger than similar nonretained prepolicy students, a much stronger relationship than the postpolicy retention effect. [→ Allensworth 2004](#allensworth-2004)

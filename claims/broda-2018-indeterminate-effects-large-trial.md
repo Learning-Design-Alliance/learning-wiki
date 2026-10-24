@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: growth-mindset-interventions-2022
     resource: "https://whatworks.ed.gov"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q4`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` In an RCT with 4,357 students in the analytic sample, effects were indeterminate across all three domains: GPA (effect size 0.05, p = .09), full-time enrollment rate (0.00, p > .99), and college credits completed (0.03, p = 0.41), none statistically significant. [→ Growth Mindset Interventions 2022](#growth-mindset-interventions-2022)

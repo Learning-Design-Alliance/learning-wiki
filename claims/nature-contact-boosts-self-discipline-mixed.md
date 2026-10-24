@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: kuo-m-2019
     title: Kuo M 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Impulse control is generally better during or after children's contact with nature, but impulse-control effects are not always statistically significant across studies. [→ Kuo M 2019](#kuo-m-2019)

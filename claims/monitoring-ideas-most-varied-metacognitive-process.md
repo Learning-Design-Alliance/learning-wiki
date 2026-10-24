@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: yurttaş-kumlu-2023
     resource: "https://doi.org/10.33200/ijcer.1082537"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The variety and frequency of strategies and products for monitoring ideas were higher in the reading strategy instruction groups, especially peer tutoring, than in the no-instruction group. [→ Yurttaş-Kumlu 2023](#yurttas-kumlu-2023)

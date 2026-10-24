@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: nero-2021
     resource: "https://doi.org/10.24191/ajue.v17i4.16222"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students randomly assigned to a short-retention (immediate) or long-retention (three-week delay) final test showed no statistically significant difference in reading comprehension (F(1, 98) = 1.30, p = .257). [→ Nero 2021](#nero-2021)

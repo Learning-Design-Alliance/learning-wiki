@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: bakhshaei-2019
     resource: "https://doi.org/10.51388/20.500.12265/82"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More than 70 percent of DLP teachers reported using technology more hours and days each week than the previous year, compared to 57 and 60 percent of non-DLP teachers. [→ Bakhshaei 2019](#bakhshaei-2019)

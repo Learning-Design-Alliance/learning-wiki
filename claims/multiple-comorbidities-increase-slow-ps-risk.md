@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: braaten-eb-2020
     resource: "https://doi.org/10.1007/s00787-019-01455-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among diagnosed youth, two or more comorbid disorders elevated risk for slow PS (OR = 2.20, p < .001) while one comorbid disorder did not (OR = 1.19, p = .42). [→ Braaten EB 2020](#braaten-eb-2020)

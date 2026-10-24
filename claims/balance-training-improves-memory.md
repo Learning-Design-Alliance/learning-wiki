@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: rogge-2017
     resource: "https://doi.org/10.1038/s41598-017-06071-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` After 12 weeks, the balance group showed higher adjusted memory scores than the relaxation group (d = 0.47). [→ Rogge 2017](#rogge-2017)

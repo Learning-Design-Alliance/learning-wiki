@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: joep-van-der-graaf-2015
     resource: "https://doi.org/10.1007/s11251-015-9344-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` K2 children showed better CVS scores than K1 children, with Cohen's d of 1.21 for experiment correct and 1.22 for variable correct scores. [→ Joep van der Graaf 2015](#joep-van-der-graaf-2015)

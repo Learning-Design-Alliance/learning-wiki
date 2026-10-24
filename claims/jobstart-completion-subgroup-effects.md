@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: what-works-clearinghouse-2008
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The diploma-or-GED effect was statistically significant for men (effect size 0.37), women living with own children at baseline (effect size 0.42; improvement index +16), and women not living with own children (effect size 0.27; improvement index +11). [→ What Works Clearinghouse 2008](#what-works-clearinghouse-2008)

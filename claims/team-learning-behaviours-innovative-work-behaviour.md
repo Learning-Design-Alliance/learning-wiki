@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: andreas-widmann-2025
     resource: "https://doi.org/10.1016/j.edurev.2025.100736"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Team reflection, sharing, and boundary crossing each show positive relationships with innovative work behaviour over time, with differences across the parts of innovative work behaviour. [→ Andreas Widmann 2025](#andreas-widmann-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: houichi-2020
     resource: "https://dx.doi.org/10.24093/awej/vol11no4.8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of responses revealed that teachers use some CLT principles in instructional design as part of their attitudes and experiences, such as removing redundant support as students gain experience. [→ Houichi 2020](#houichi-2020)

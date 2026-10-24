@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1921
 sources:
   - id: wallin-1921
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparisons of neurotics (155), psychopaths (22) and delinquents (352) with all subjects and with normal groups reverse direction depending on the scale and criterion used. [→ Wallin 1921](#wallin-1921)

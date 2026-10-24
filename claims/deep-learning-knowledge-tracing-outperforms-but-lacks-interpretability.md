@@ -8,6 +8,9 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: mixed
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2024
 sources:
   - id: shuanghong-shen-2021
     resource: "https://doi.org/10.48550/arxiv.2105.15106"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review asserts deep learning KT models exhibit superior performance compared to Bayesian and logistic models while leaving significant room for improvement in interpretability and explainability. [→ Shuanghong Shen 2021](#shuanghong-shen-2021)

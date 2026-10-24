@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: zou-2019
     resource: "https://doi.org/10.5539/elt.v12n12p39"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`–`q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Advanced-level students achieved a greater number of words through reading than intermediate and upper-intermediate students, and higher reading proficiency predicted larger gains. [→ Zou 2019](#zou-2019)

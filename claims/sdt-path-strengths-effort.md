@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: takahashi-2020
     resource: "https://doi.org/10.14746/ssllt.2020.10.4.2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Intrinsic motivation predicted intended effort most strongly (standardized coefficient = .58), followed by identified regulation (.33) and introjected regulation (.13). [→ Takahashi 2020](#takahashi-2020)

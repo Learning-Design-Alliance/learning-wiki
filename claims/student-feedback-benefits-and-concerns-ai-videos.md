@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: tomlinson-2026
     resource: "https://doi.org/10.1038/s41598-026-52798-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students described personalized AI videos as engaging, relevant, direct, and concise, but also as monotone, robotic, unsettling, and sometimes untrustworthy. [→ Tomlinson 2026](#tomlinson-2026)

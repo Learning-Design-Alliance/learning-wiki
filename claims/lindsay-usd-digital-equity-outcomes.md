@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: weaver-2022
     resource: "https://doi.org/10.51388/20.500.12265/166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After equipping every learner with a device and achieving full connectivity, Lindsay Unified's graduation rate reached 91 percent in 2016 and more than 94 percent in 2020, with college enrollment rising to 75 percent. [→ Weaver 2022](#weaver-2022)

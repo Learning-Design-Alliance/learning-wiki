@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: moore-2011
     resource: "https://doi.org/10.48550/arxiv.1110.2764"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A test class with explicit reasoning intervention achieved an average normalized LCTSR gain of 68% (n=14) versus 11% (n=42) in prior similar courses, with DIRECT and TUG-K gains also higher. [→ Moore 2011](#moore-2011)

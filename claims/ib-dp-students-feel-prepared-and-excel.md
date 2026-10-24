@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: international-baccalaureate-diploma-program-students-in-chicagos-neighborhood-high-schools-more-likely-to-go-to-college-2007
     resource: "http://www.ccsr.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` IB DP students in college report feeling prepared to succeed and excel in coursework, often stating the IB DP taught them the specific skills and behaviors demanded in college. [→ International Baccalaureate Diploma Program students in Chicago's neighborhood high schools more likely to go to college 2007](#international-baccalaureate-diploma-program-students-in-chicagos-neighborhood-high-schools-more-likely-to-go-to-college-2007)

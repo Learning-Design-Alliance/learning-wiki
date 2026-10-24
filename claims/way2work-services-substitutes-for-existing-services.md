@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: david-mann-2021
     resource: "https://www.mathematica.org/publications/way2work-maryland-demonstration-impacts-24-months-after-enrollment"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost half of control group members used vocational rehabilitation agency services, though at lower intensity than the treatment group. [→ David Mann 2021](#david-mann-2021)

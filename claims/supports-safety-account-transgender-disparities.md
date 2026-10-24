@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: hanson-2019
     resource: "https://eric.ed.gov/?id=ED601909"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After statistical adjustment so transgender students perceived schools as equally safe and supportive as non-transgender students, disparities in school connectedness were eliminated and disparities in mental health, academic motivation, and middle school academic performance were reduced by 50 percent. [→ Hanson 2019](#hanson-2019)

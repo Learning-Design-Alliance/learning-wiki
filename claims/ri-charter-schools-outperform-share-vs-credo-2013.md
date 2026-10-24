@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: charter-school-performance-in-rhode-island-2023
     resource: "https://eric.ed.gov/?q=Charter+School+Performance+in+Rhode+Island"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q3 i?` 43% of RI charter schools outperform local options in reading and 57% in math, exceeding the 25% and 29% national rates in the 2013 CREDO Study. [→ Charter School Performance in Rhode Island 2023](#charter-school-performance-in-rhode-island-2023)

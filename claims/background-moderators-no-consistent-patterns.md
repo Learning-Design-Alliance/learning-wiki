@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-22
 sources:
   - id: emely-hoch-2023
     resource: "https://doi.org/10.1007/s10648-023-09779-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exploratory moderator analyses of background variables yielded few significant results and no consistent patterns across the three experiments. [→ Emely Hoch 2023](#emely-hoch-2023)

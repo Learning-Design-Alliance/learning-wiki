@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: alina-deriyeva-2025
     resource: "https://doi.org/10.1007/978-3-031-99261-2_16"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The ITS records fine-grained keystroke-level data and supports testing different learner models, outer-loop task selection models, and feedback generation strategies, and has already supported data collection for published learner model and feedback research. [→ Alina Deriyeva 2025](#alina-deriyeva-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: meule-a-2017
     resource: "https://doi.org/10.3389/fpsyg.2017.00352"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` As n increases, reaction times usually increase and accuracy decreases; the two measures are usually negatively correlated. [→ Meule A 2017](#meule-a-2017)

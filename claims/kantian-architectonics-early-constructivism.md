@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: dennis-2020
     resource: "https://doi.org/10.19173/irrodl.v21i3.4718"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Kant's architectonics — the art of constructing systems in which diverse modes of knowledge form a system — is claimed by Hawkins to be one of the earliest articulations of constructivism, with Piaget tracing constructivism's epistemological roots to Kant. [→ Dennis 2020](#dennis-2020)

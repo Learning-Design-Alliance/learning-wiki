@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: tzirides-2025
     resource: "https://doi.org/10.35542/osf.io/s8hqe_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors report that the AI Helper's rubric-based feedback let teachers scaffold students' learning effectively while also reducing their workload, and that immediate feedback motivated deeper engagement with revision. [→ Tzirides 2025](#tzirides-2025)

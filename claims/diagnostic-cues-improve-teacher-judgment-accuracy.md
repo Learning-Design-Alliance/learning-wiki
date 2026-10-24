@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: janneke-van-de-pol-2024
     resource: "https://doi.org/10.1007/s11409-024-09383-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Judgment accuracy was significantly higher in the diagnostic-cues-only condition (B = -2.06, p < 0.001, R2 = 0.997) and the mixed-cues condition (B = -0.92, p < 0.001, R2 = 0.995) than in the non-diagnostic-cues-only condition. [→ Janneke van de Pol 2024](#janneke-van-de-pol-2024)

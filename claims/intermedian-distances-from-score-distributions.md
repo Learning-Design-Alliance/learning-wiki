@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1919
 sources:
   - id: herring-1919
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The distance between the medians of grades III and IV was computed as 115.3 pupils, or .318 of the 362 third-grade measures, corresponding to 1.346 P.E., with all intermedian intervals averaged across direct and indirect measures. [→ Herring 1919](#herring-1919)

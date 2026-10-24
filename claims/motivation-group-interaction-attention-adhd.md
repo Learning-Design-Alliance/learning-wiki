@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: sebastian-skalski-2021
     resource: "https://doi.org/10.1007/s10578-020-01042-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A multidimensional group × motivation interaction effect was obtained for the attention dependent variables. [→ Sebastian Skalski 2021](#sebastian-skalski-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ernesto-lee-2026
     resource: "https://doi.org/10.35542/osf.io/u6xef_v2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across 60 condition cells, frontier strategy means span J = 0.806-0.877 while Llama 3.2 3B Instruct reaches 0.552 and GPT-2 small 0.497, and the tier gap is significant under an exact permutation test (p = 0.005). [→ Ernesto Lee 2026](#ernesto-lee-2026)

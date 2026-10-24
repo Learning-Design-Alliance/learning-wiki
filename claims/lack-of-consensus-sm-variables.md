@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: davis-2016
     resource: "https://doi.org/10.1007/s40489-016-0076-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite substantial research supporting self-monitoring in schools, there is a lack of consensus regarding the student-, intervention-, and setting-level variables that support the intervention. [→ Davis 2016](#davis-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: amy-bennett-2018
     resource: "https://doi.org/10.1037/edu0000318"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiment 3, the multiple-concrete group scored significantly lower than both the abstract and single-concrete groups, which did not differ from each other. [→ Amy Bennett 2018](#amy-bennett-2018)

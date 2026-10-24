@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: matthew-barr-2017
     resource: "https://doi.org/10.1016/j.compedu.2017.05.016"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Fisher's exact tests found significant group differences in the proportion improving on adaptability (p = 0.03) and resourcefulness (p = 0.014), but not communication (p = 0.24). [→ Matthew Barr 2017](#matthew-barr-2017)

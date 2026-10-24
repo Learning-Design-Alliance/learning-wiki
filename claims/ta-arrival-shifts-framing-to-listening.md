@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: rachel-e-scherr-and-david-hammer-2007
     resource: "https://scholar.google.com/scholar?q=Student+Behavior+and+Epistemological+Framing"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When the TA arrived at the table, group A's behavior shifted to the red cluster (eye contact with the TA, still bodies, minimal speech), and their minimal speech consisted of acknowledgments of the TA's remarks, indicating framing of the activity as listening to the TA. [→ Rachel E. Scherr and David Hammer 2007](#rachel-e-scherr-and-david-hammer-2007)

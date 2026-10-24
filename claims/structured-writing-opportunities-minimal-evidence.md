@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: baker-2014
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/19"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only two studies met WWC standards for the writing recommendation, both at the secondary level, so the evidence level is minimal. [→ Baker 2014](#baker-2014)

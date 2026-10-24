@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: mok-2022
     resource: "https://doi.org/10.1016/j.edurev.2023.100552"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q3` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Providing feedback on lesson plans was the only individual support activity moderator close to the .05 significance level, showing a large effect (g = 1.033, p = .056). [→ Mok 2022](#mok-2022)

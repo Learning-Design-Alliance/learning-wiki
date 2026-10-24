@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: daches-cohen-l-and-rubinsten-o-2017
     title: Daches Cohen L and Rubinsten O 2017
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Correlations between the AMAS self-report questionnaire and the congruency effect in the numerical dot-probe task were non-significant; equivalence was not tested. [→ Daches Cohen L and Rubinsten O 2017](#daches-cohen-l-and-rubinsten-o-2017)

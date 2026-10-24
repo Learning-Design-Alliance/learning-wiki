@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: knellesen-2024
     resource: "https://doi.org/10.1007/s11409-023-09371-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the pretest phase of Experiment 1, students showed statistically significant overconfidence regarding application performance bias for both texts (CLT d = 1.12; CVT d = 0.49). [→ Knellesen 2024](#knellesen-2024)

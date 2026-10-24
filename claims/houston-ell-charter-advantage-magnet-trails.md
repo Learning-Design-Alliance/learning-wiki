@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: credo-2022
     resource: "https://credo.stanford.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Compared with ELL students in other Houston district schools, Houston charter ELL students gained 0.11 SD (67 days) more in reading and 0.11 SD (65 days) more in math, while Houston magnet ELL students were behind by 0.05 (-28 days) in reading and 0.03 (-16 days) in math. [→ CREDO 2022](#credo-2022)

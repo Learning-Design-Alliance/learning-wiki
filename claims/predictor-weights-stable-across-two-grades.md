@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: alberto-quilez-robres-2020
     resource: "https://doi.org/10.1016/j.stueduc.2021.101020"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A path-model comparison of the two grade-level regressions found no statistically significant difference between regression coefficients across grades (DF=5; CMIN= 5.189; p=.393), indicating stable predictor weights over two consecutive years. [→ Alberto Quilez-Robres 2020](#alberto-quilez-robres-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: charlotte-e-wolff-2020
     resource: "https://doi.org/10.1007/s10648-020-09542-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Expert teachers assign deeper meaning to classroom events and focus on learning quality, whereas novices describe events in detail with little deeper analysis and attribute problems to student behavior. [→ Charlotte E. Wolff 2020](#charlotte-e-wolff-2020)

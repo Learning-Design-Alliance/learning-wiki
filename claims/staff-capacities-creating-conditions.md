@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: white-2026
     resource: "https://doi.org/10.51388/20.500.12265/314"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Digital Promise researcher capacities were characterized by relational groundwork, facilitation, emergent programmatic knowledge, and curiosity rather than technical control. [→ White 2026](#white-2026)

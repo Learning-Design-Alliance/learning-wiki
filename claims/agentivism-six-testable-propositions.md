@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lixiang-yan-and-dragan-gašević-2026
     resource: "https://doi.org/10.48550/arxiv.2604.07813"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Learning should be stronger when AI support preserves learner responsibility for problem framing, criteria setting, and justification than when AI support collapses these processes into direct answer delivery. [→ Lixiang Yan and Dragan Gašević 2026](#lixiang-yan-and-dragan-gasevic-2026)

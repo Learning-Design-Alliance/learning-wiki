@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: center-on-school-turnaround-at-wested-2018
     resource: "https://eric.ed.gov/?id=ED592986"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In the 2017–18 school year more than 150 schools in nine states implemented Opportunity Culture, impacting more than 1,400 teachers and over 41,000 students. [→ Center on School Turnaround at WestEd 2018](#center-on-school-turnaround-at-wested-2018)

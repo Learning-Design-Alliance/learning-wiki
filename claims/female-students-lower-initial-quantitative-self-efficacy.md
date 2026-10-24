@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: aikens-2023
     resource: "https://doi.org/10.1187/cbe.22-04-0076"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Mean initial self-efficacy scores were significantly lower for female students than male students on both tasks (r = 0.14 and r = 0.19). [→ Aikens 2023](#aikens-2023)

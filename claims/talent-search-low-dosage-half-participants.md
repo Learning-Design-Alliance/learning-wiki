@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: talent-search-2006
     resource: "http://www.ed.gov/programs/triotalent/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A 2000 survey of Talent Search project directors indicated that nearly half of participants received 10 or fewer hours of services per year. [→ Talent Search 2006](#talent-search-2006)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: leung-gagné-2023
     resource: "https://doi.org/10.54300/109.432"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` About one fifth of LEAs (23%) reported having enough Multiple Subject credential holders, and 21% reported enough teachers meeting ECE coursework requirements; the remainder reported shortages. [→ Leung-Gagné 2023](#leung-gagne-2023)

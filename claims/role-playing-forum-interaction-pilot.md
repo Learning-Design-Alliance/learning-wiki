@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: gerry-stahl-friedrich-w-hesse-nancy-law-2011
     resource: "https://doi.org/10.1007/s11412-011-9128-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Pozzi's small-scale pilot study examines how a variety of roles affect interaction in a discussion forum and participants' awareness of role-based group discourse processes. [→ Gerry Stahl & Friedrich W. Hesse & Nancy Law 2011](#gerry-stahl-friedrich-w-hesse-nancy-law-2011)

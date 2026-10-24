@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-22
 sources:
   - id: molly-grant-2023
     resource: "https://doi.org/10.1007/s10648-023-09734-4"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 22 studies, transient exposure (movement in and out of circumstances) was revealed to have implications for educational and cognitive outcomes relative to stable trajectories. [→ Molly Grant 2023](#molly-grant-2023)

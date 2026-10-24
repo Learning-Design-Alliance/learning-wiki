@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: kennedy-2026
     resource: "https://github.com/OxCGRT/covid-policy-dataset"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Results for legal protest activities with stringency and trust in civic institutions with closure duration were consistent across samples; other coefficients were susceptible to outliers. [→ Kennedy 2026](#kennedy-2026)

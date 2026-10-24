@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: greenberg-daphne-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3237050/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` At pretest, participants' mean standard and scale scores were at least one standard deviation below the mean on every measure, and two standard deviations below on measures of receptive vocabulary, phonological awareness, and oral reading fluency. [→ Greenberg Daphne 2011](#greenberg-daphne-2011)

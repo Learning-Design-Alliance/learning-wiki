@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: safa-a-elgamal-2011
     resource: "https://doi.org/10.5770/cgj.v14i3.17"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In ANCOVA models, processing speed significantly affected both fluency measures, but the effect of full-scale IQ (NART) was not significant for either fluency measure. [→ Safa A. Elgamal 2011](#safa-a-elgamal-2011)

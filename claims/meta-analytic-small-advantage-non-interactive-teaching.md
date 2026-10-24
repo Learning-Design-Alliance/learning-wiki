@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: lachner-2025
     resource: "https://doi.org/10.1007/s10648-025-10060-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Ribosa and Duran (2022), a small but significant advantage (SMD = 0.17) for non-interactive teaching over control across 23 studies and 62 comparisons, with considerable between-study variance. [→ Lachner 2025](#lachner-2025)

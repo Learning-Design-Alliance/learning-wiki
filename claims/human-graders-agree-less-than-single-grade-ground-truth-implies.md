@@ -8,6 +8,8 @@ generated:
 id: human-graders-agree-less-than-single-grade-ground-truth-implies
 aliases: [expert-human-graders-agree-with-each-other-far-less-than-assumed]
 evidence_strength:
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: porcaro-2026
     resource: "https://doi.org/10.5281/zenodo.23480844"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
 Two graders applying the same scheme to the same open-ended work agree with each other considerably less than the treatment of human grades as ground truth implies: pooled agreement below 0.52 in quadratic-weighted kappa on two corpora, with pairs from 0.035 to 0.730. How much less depends on the task, and the level depends on the statistic. Neither corpus records whether its graders were experts or trained.

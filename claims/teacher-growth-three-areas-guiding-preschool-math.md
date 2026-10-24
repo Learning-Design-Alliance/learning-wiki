@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2002
 sources:
   - id: kirova-2002
     resource: "http://ecrp.uiuc.edu/v4n1/kirova.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Professional growth in three areas was identified as critical in teachers' learning to guide young children's learning of mathematical concepts. [→ Kirova 2002](#kirova-2002)

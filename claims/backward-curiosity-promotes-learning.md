@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: shin-2019
     resource: "https://doi.org/10.1007/s10648-019-09497-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Because incongruity spurs prediction, causal search, and conceptual change, the review argues backward curiosity is a promising starting point for learning, though students undervalue it. [→ Shin 2019](#shin-2019)

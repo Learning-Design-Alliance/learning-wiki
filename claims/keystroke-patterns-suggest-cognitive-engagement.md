@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ahmad-d-suleiman-2026
     resource: "https://doi.org/10.48550/arxiv.2607.11032"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students showed mean initial planning latencies of 167.2s (Breached!) and 114.6s (Touchalytics), revision ratios of 12-16 deletions per 100 characters typed, and about 15 pauses per session longer than 10 seconds. [→ Ahmad D. Suleiman 2026](#ahmad-d-suleiman-2026)

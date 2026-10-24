@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: marrs-2004
     resource: "https://doi.org/10.1187/cbe.03-11-0022"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 16% of A students reported cramming for Contemporary Biology versus 44% in other courses; B and C students also crammed less, but ~70% of D and F students still crammed regardless of course. [→ Marrs 2004](#marrs-2004)

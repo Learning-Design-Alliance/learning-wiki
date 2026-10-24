@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: milou-van-harsel-2022
     resource: "https://doi.org/10.1007/s11251-022-09589-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Applying the example-first-principle positively correlated with average self-efficacy in the learning phase (r = .183), while applying the lowest-level-first-principle negatively correlated with self-efficacy (r = −.257; r = −.268 after learning), perceived competence (r = −.219), and procedural transfer performance (r = −.235). [→ Milou van Harsel 2022](#milou-van-harsel-2022)

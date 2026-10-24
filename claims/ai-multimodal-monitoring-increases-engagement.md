@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: kovari-2025
     resource: "https://doi.org/10.1016/j.ssaho.2025.101335"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Multimodal AI approaches using emotional and physiological monitoring have been shown to increase student engagement and motivation in collaborative learning environments. [→ Kovari 2025](#kovari-2025)

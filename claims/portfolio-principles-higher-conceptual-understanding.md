@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: eddy-yc-lee-2006
     resource: "https://doi.org/10.1007/s11412-006-8997-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` ANCOVA controlling for academic achievement favored the Knowledge Forum with portfolios and principles class over the other classes on the conceptual understanding writing task. [→ Eddy Y.C. Lee 2006](#eddy-yc-lee-2006)

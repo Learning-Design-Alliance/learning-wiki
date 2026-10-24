@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: anu-kajamaa-kristiina-kumpulainen-2020
     resource: "https://doi.org/10.1007/s11412-020-09337-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' uses of laser pens for play redirected attention away from the challenge and fragmented joint activity during making. [→ Anu Kajamaa & Kristiina Kumpulainen 2020](#anu-kajamaa-kristiina-kumpulainen-2020)

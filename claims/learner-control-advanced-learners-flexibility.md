@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: slava-kalyuga-2010
     resource: "https://doi.org/10.1007/s10648-010-9132-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors claim advanced learners may significantly benefit from environments giving students freedom in selecting and structuring learning tasks or the level of generality considered, fostering metacognitive and self-regulation skills. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)

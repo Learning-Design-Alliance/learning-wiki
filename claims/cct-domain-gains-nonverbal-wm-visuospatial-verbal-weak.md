@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-16
 sources:
   - id: lampit-a-2014
     title: Lampit A 2014
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i1` small
+> **Currency** · newest study 2014 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Nonverbal memory (g = 0.24), working memory (g = 0.22), and visuospatial skills (g = 0.22) showed small significant effects; verbal memory was very small (g = 0.08) under a conservative fixed-effects model. [→ Lampit A 2014](#lampit-a-2014)

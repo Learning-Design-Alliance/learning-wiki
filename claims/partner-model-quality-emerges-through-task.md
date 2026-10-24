@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: ludvigsen-2016
     resource: "https://doi.org/10.1007/s11412-016-9236-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across five collaborative problem-solving experiments, the quality of mutual modelling emerged through the task and was sensitive to awareness tools and media richness, partly contradicting the starting hypothesis that partner modelling is an improvable individual skill. [→ Ludvigsen 2016](#ludvigsen-2016)

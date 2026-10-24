@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In subgroup LPAs, overestimation (high self-reports with lower performance) appeared only among teachers with prior AI literacy experience (n = 186), whereas a low–low profile appeared only among teachers without such experience (n = 102). [→ lpa-sub](#lpa-sub)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2006
+recheck_by: 2011
 sources:
   - id: jan-visser-2006
     resource: "https://www.learndev.org"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` According to the World Education Report 2000, progress toward the right to education has concerned access, while the qualitative vision of Article 26 concerning purposes and contents of education remains unrealized. [→ Jan Visser 2006](#jan-visser-2006)

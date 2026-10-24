@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: yildiz-2021
     resource: "https://doi.org/10.31014/aior.1993.04.01.185"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Academics' opinions on Web 2.0 tools for self-actualisation were mixed: 'creativity skills' was the most repeated positive expression and 'spending too much time, business disruption' the most repeated negative expression. [→ YILDIZ 2021](#yildiz-2021)

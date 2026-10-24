@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: meijuan-xie-2025
     resource: "https://doi.org/10.48550/arxiv.2503.13533"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` MTES AI-TPACK is at a basic, preliminary stage: means are at medium level, teaching beliefs highest (M=5.18) and AI-TK lowest (M=4.18). [→ Meijuan Xie 2025](#meijuan-xie-2025)

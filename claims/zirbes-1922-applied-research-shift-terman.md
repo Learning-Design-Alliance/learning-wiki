@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: zirbes-1922
     resource: "https://doi.org/10.1037/h0074413"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Of researches in which the 306 members of the American Psychological Association were engaged, 48.5 per cent were in pure psychology and 51.5 per cent in applied fields, indicating a shift toward applied research since 1900. [→ Zirbes 1922](#zirbes-1922)

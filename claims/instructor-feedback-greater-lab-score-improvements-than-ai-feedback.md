@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-17
 sources:
   - id: er-2024
     resource: "https://doi.org/10.1111/bjet.13558"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomised controlled trial, students who received instructor feedback improved their lab scores significantly more than students who received AI feedback, controlling for midterm scores (group coefficient −4.97, p = 0.04). [→ Er 2024](#er-2024)

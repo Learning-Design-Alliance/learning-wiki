@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: sailer-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101620"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Automatic adaptive feedback did not facilitate pre-service teachers' diagnostic accuracy compared with static feedback. [→ Sailer 2022](#sailer-2022)

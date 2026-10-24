@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: teacher-guided-inquiry-outperforms-student-led
 evidence_strength: low
+newest_evidence: 2012
 sources:
   - id: furtak-et-al-2012
     resource: "https://doi.org/10.3102/0034654312457206"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2012 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 The claim concerns the comparison between teacher-guided (scaffolded) forms of inquiry and minimally guided, student-led discovery: guidance from a teacher or instructional materials tends to produce stronger learning outcomes, particularly for novices.
 

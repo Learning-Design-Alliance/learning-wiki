@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: pamela-davis-kean-2021
     resource: "https://doi.org/10.1002/icd.2281"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children's mastery of counting, concrete representational arithmetic, and abstract arithmetic operations can be measured at 54 months of age in a large longitudinal cohort. [→ Pamela Davis-Kean 2021](#pamela-davis-kean-2021)

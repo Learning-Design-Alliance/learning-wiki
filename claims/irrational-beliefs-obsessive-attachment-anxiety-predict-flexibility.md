@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-15
 sources:
   - id: bülent-gündüz-2013
     resource: "https://doi.org/10.12738/estp.2013.4.1702"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 <!-- title before 2026-10-15: Irrational beliefs, obsessive attachment and anxiety are the strongest stepwise predictors of cognitive flexibility, together explaining 30% of variance -->
 

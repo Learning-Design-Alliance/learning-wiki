@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: schnaubert-2019
     resource: "https://doi.org/10.1007/s11412-018-9293-y"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r?` · `q2`–`q3` · `i0`–`i1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Providing group awareness information did not have the expected impact on learning outcomes even though learners gained knowledge and confidence during collaboration. [→ Schnaubert 2019](#schnaubert-2019)

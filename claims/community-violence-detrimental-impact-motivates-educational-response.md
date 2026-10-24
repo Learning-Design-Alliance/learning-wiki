@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review characterizes rates of community violence as alarming and its impact on youth and communities as detrimental, stressing the need for a well-founded response. [→ van Dijk 2026](#van-dijk-2026)

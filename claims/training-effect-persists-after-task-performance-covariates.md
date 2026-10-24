@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: hyde-2014
     resource: "https://doi.org/10.1016/j.cognition.2013.12.007"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The critical main effect of Training Condition on speed remained significant after accounting for training task reaction time (F (3, 91) = 8.680, p < .001) and accuracy (F (3, 91) = 4.285, p < .01) as covariates. [→ Hyde 2014](#hyde-2014)

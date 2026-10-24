@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 1993
 sources:
   - id: hulsebosch-1993
     resource: "https://eric.ed.gov/?id=ED403553"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Developing instructional programs that incorporate students' life experiences, language, and skills improves students' academic performance -->
 
 ## Subclaims

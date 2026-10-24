@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: arán-filippetti-2020
     resource: "https://doi.org/10.1080/09297049.2019.1711034"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 2, hierarchical regressions and SEM models consistently showed that the flexibility component related to creativity is spontaneous flexibility. [→ Arán Filippetti 2020](#aran-filippetti-2020)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: li-shenghui-2013
     resource: "https://doi.org/10.1371/journal.pone.0067928"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Children with sleep duration <9 hours at follow-up had increased risk for poor academic achievement (OR = 1.20, p = 0.049). [→ Li Shenghui 2013](#li-shenghui-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zambrano-2026
     resource: "https://doi.org/10.35542/osf.io/4wyqc_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` If not prompted toward specific theory, GPT may implicitly apply sensitizing concepts drawn from non-neutral training data, and such implicit theoretical choices may go unnoticed by researchers. [→ Zambrano 2026](#zambrano-2026)

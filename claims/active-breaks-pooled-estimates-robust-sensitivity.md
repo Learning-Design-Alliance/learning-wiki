@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: melguizo-ibáñez-2026
     resource: "https://doi.org/10.1007/s10648-026-10146-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Leave-one-study-out analyses changed pooled effect sizes by at most 0.02–0.04 across outcomes, and estimates were stable across assumed within-study correlations ρ = 0 to 0.8. [→ Melguizo-Ibáñez 2026](#melguizo-ibanez-2026)

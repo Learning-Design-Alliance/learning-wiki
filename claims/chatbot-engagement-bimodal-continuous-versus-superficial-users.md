@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: hilliger-2026
     resource: "https://doi.org/10.18608/jla.2026.9143"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interaction-log analysis in the third cycle showed a small subset of students (8 out of 15) interacted continuously, averaging 23.6 messages and 10.9 conversational runs, while the rest averaged 1.3 messages and almost no conversational runs. [→ Hilliger 2026](#hilliger-2026)

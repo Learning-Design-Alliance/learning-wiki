@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: knellesen-2024
     resource: "https://doi.org/10.1007/s11409-023-09371-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 1 (CLT text), the application instruction group did not differ in overestimation from the other two conditions, contrary to H2.4. [→ Knellesen 2024](#knellesen-2024)

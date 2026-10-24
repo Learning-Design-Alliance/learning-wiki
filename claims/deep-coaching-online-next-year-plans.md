@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: mahsa-bakhshaei-2020
     resource: "https://doi.org/10.51388/20.500.12265/101"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 70 percent of coaches plan to provide deep coaching online in the coming school year; majorities expect modeling/co-teaching (85 percent), observing lessons (80 percent), and developing implementation plans (78 percent) to change moderately or significantly. [→ Mahsa Bakhshaei 2020](#mahsa-bakhshaei-2020)

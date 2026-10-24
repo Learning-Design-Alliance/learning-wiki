@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: koedinger-2008
     resource: "https://learnlab.org/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both conditions improved significantly pre- to post-test in geometry, but no differences between conditions were found; no lasting effect on help-seeking procedural knowledge was found either. [→ Koedinger 2008](#koedinger-2008)

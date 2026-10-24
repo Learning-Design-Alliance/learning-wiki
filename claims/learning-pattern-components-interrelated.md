@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: jan-d-vermunt-vincent-donche-2017
     resource: "https://doi.org/10.1007/s10648-017-9414-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` New-sample studies confirm the interrelations among processing and regulation strategies, learning conceptions, and learning orientations that form the core of the learning patterns model. [→ Jan D. Vermunt & Vincent Donche 2017](#jan-d-vermunt-vincent-donche-2017)

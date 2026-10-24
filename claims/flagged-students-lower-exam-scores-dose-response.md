@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: david-racovan-2026
     resource: "https://doi.org/10.48550/arxiv.2609.36073"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Flagged students averaged 61.9% across the three exams versus 73.5% for non-flagged students, and means declined from 69.4% with one flagged assignment to 53.5% with six. [→ David Racovan 2026](#david-racovan-2026)

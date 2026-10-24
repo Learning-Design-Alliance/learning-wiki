@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 1991
+source_checked: 2026-10-20
 sources:
   - id: mary-h-sawyer-1991
     resource: "https://doi.org/10.1080/10862969109547744"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 1991 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Structural signals (previews, headings, logical connectives) produced significant effects on problem-solving tests but no significant differences on recall and recognition tests. [→ Mary H. Sawyer 1991](#mary-h-sawyer-1991)

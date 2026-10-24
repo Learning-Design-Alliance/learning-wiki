@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: umaña-taylor-adriana-j-2013
     resource: "https://doi.org/10.1037/a0031105"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Multi-group cross-lagged models showed significant differences by family nativity status in the cross-lag paths between family ethnic socialization and ethnic identity. [→ Umaña-Taylor Adriana J. 2013](#umana-taylor-adriana-j-2013)

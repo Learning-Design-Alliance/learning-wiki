@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: hart-2006
     resource: "https://consortium.uchicago.edu/publications/principal-and-teacher-leadership-chicago-continuing-analysis-three-initiatives"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers in elementary schools with NLNS principals reported greater innovation and reflective dialogue and less use of traditional literacy practices and assessment than teachers in other schools. [→ Hart 2006](#hart-2006)

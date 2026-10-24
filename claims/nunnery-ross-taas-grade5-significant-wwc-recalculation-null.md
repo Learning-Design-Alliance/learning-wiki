@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2010
 sources:
   - id: accelerated-reader-2010
     resource: "http://www.renlearn.com/ar/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The quasi-experiment's authors reported positive, statistically significant effects for grade 5 students but not for grade 8 students on the TAAS reading subtest. [→ Accelerated Reader™ 2010](#accelerated-readertm-2010)

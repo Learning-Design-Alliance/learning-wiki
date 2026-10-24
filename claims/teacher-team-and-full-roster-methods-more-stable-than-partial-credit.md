@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
+recheck_by: 2015
 sources:
   - id: hock-2012
     resource: "https://www.mathematica.org/publications/methods-for-accounting-for-coteaching-in-valueadded-models"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Compared with the Partial Credit Method, the Teacher Team Method and the Full Roster Method yield more stable estimates of teacher effects on student achievement in co-teaching settings. [→ Hock 2012](#hock-2012)

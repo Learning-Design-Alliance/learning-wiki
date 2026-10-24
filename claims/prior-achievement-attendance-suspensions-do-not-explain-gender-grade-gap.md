@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: easton-2023
     resource: "https://consortium.uchicago.edu/publications/lasting-differences"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Young women scored 0.27 standard deviation units above young men in ninth-grade math grades, and controlling for prior test scores, attendance, and suspensions left the difference essentially unchanged. [→ Easton 2023](#easton-2023)

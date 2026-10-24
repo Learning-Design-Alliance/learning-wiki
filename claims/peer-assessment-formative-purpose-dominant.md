@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: alqassab-2023
     resource: "https://doi.org/10.1007/s10648-023-09723-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most studies had a formative purpose of assessment (n = 257; 59.08%), while summative assessment was used relatively often in information and communication technologies (54.29%), engineering, manufacturing, and construction (52.63%), and health and welfare (54.72%). [→ Alqassab 2023](#alqassab-2023)

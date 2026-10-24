@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: first-step-to-success-wwc-intervention-report-2012
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/179"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i1` small
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Walker et al. (1998) found no statistically significant difference on the CBCL-TRF Withdrawn Subscale, but the positive effect size of 0.26 was substantively important by WWC criteria. [→ First Step to Success: WWC Intervention Report 2012](#first-step-to-success-wwc-intervention-report-2012)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: woodrow-1915
     resource: "https://scholar.google.com/scholar?q=%22Practice+and+Transference+in+Normal+and+Feeble-Minded+Children%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The linear correlation between initial ability and percentage of improvement is negative in both groups: r = -.36 (P.E. .13) for the feeble-minded group and r = -.40 (P.E. .14) for the normal group. [→ Woodrow 1915](#woodrow-1915)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: yusuke-sato-2023
     resource: "https://doi.org/10.52598/jpll/5/1/4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the regression models, pretest scores were generally a significant predictor of posttest scores irrespective of CF type or outcome measure. [→ Yusuke Sato 2023](#yusuke-sato-2023)

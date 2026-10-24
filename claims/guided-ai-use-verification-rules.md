@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-yj-2026
     resource: "https://doi.org/10.1186/s12909-026-09608-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructors permitted AI for information retrieval, outline generation, and concept explanation but prohibited direct submission of AI-generated content; students had to verify, modify, and integrate AI outputs and bore full responsibility for accuracy and originality. [→ Liu YJ 2026](#liu-yj-2026)

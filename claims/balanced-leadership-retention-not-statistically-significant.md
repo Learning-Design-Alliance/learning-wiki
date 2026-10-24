@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: what-works-clearinghouse-2020
     resource: "https://whatworks.ed.gov"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC summary of the Jacob et al. (2015) finding marks the school leader retention result as not statistically significant, with a p-value of .10. [→ What Works Clearinghouse 2020](#what-works-clearinghouse-2020)

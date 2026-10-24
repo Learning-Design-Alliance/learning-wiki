@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2007
+recheck_by: 2010
 sources:
   - id: de-laat-2007
     resource: "https://doi.org/10.1007/s11251-006-9007-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In NLC1 everybody was involved in the communication and no sub-groups or cliques formed, whereas NLC2 was directed by three central participants in the beginning phase. [→ de Laat 2007](#de-laat-2007)

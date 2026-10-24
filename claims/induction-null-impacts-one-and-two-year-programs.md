@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: eric-isenberg-2009
     resource: "https://www.mathematica.org/publications/impacts-of-comprehensive-teacher-induction-results-from-the-second-year-of-a-randomized-controlled-study"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Comprehensive induction produced no measurable improvements in test scores, retention, or retained-teacher qualifications under either one-year or two-year programs; no test of a difference between the two durations is reported. [→ Eric Isenberg 2009](#eric-isenberg-2009)

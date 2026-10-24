@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: tarik-buli-2025
     resource: "https://doi.org/10.51388/20.500.12265/262"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Educators perceived FH2T's mathematics content as effectively incorporating the Standards for Mathematical Practice, encouraging abstract reasoning, precision, perseverance, and use of structure, which they saw as a significant advantage over other digital math tools. [→ Tarik Buli 2025](#tarik-buli-2025)

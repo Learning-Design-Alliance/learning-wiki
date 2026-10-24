@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: janneke-van-de-pol-2021
     resource: "https://doi.org/10.1007/s11409-021-09268-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers in the diagram-only condition used fabricated student cues for 50% of the students despite not knowing student identity. [→ Janneke van de Pol 2021](#janneke-van-de-pol-2021)

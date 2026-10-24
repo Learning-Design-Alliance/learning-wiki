@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: doğan-yunus-2026
     resource: "https://doi.org/10.3390/jintelligence14060109"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` The moderator analysis by educational level found the highest effect size at high school (g = 1.099) versus lower effects at elementary (g = 0.465), middle school (g = 0.392), and university (g = 0.578), with significant between-group heterogeneity. [→ Doğan Yunus 2026](#dogan-yunus-2026)

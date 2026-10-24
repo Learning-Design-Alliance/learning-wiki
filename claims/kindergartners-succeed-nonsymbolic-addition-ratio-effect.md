@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
+recheck_by: 2015
 sources:
   - id: gilmore-camilla-k-2010
     resource: "https://doi.org/10.1016/j.cognition.2010.02.002"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In Experiment 1 children performed non-symbolic addition at 62.0% (chance 50%, t(40) = 7.20, p < .001) with a ratio effect (F(1, 40) = 15.37, p < .001); in Experiment 2 at 66.6% (t(61) = 12.12, p < .001) with a ratio effect (F(1, 61) = 45.80, p < .001). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

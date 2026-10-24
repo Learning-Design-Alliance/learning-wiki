@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: mid-atlantic-regional-educational-laboratory-2018
     resource: "https://www.mathematica.org/publications/research-review-impacts-and-implementation-of-blended-learning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research has yet to identify strategies for implementing blended learning that increase the likelihood of positive effects on students. [→ Mid-Atlantic Regional Educational Laboratory 2018](#mid-atlantic-regional-educational-laboratory-2018)

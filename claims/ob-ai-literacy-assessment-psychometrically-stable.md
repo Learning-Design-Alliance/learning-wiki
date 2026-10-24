@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A 1PL Rasch analysis of the 25-item objective-based AI literacy assessment with 288 teachers showed high internal consistency (KR-20 = 0.862), acceptable item fit after removing five misfitting items, and approximate unidimensionality. [→ rasch-1](#rasch-1)

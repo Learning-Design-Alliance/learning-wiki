@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a within-subject study with 23 educators, the review-based approach raised mean ratings from 3.07 to 3.86 on a 5-point scale (+0.79, p<.01), with statistically significant improvements across every principle. [→ educator-study-1](#educator-study-1)

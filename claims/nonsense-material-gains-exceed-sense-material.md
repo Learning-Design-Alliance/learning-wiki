@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1910
 sources:
   - id: foster-1910
     resource: "https://doi.org/10.1037/h0075685"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average final gain with nonsense material was 28% versus 10% with sense-material, attributed to repetition to faultless reproduction, repeated elements, and more opportunities for counting, naming and orderly methods. [→ Foster 1910](#foster-1910)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: stewart-1917
     resource: "https://doi.org/10.1037/h0070804"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Heavy boys developing early, average boys developing at medium periods, and light boys developing late rank well in scholarship in eight cases and poor in three; heavy-late and light-early-or-medium boys rank well in no case and poor in four. [→ Stewart 1917](#stewart-1917)

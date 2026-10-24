@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: rentz-2024
     resource: "https://ies.ed.gov/ncee/rel/Products/Region/pacific/Publication/108210"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with prior college experience took at least 0.9 years on average to graduate after re-enrolling, while students without prior college experience were expected to take at least 4.8 years, exceeding the 3.3 years PCC expects for part-time students. [→ Rentz 2024](#rentz-2024)

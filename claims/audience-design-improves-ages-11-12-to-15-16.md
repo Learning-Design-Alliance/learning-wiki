@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: arvidsson-c-2022
     resource: "https://doi.org/10.1098/rsos.220305"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` 15- to 16-year-olds adapted referential expressions to assumed addressee knowledge significantly more than 11- to 12-year-olds (AGE GROUP significant, p < 0.001). [→ Arvidsson C. 2022](#arvidsson-c-2022)

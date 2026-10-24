@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: leclercq-2010
     resource: "https://doi.org/10.1037/a0018540"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Serial order reconstruction performance at Age 4 accounted for significant variance in vocabulary at Age 5 after controlling for age, nonverbal reasoning and initial vocabulary (12% of variance), and a further 7% of independent variance once variance shared with nonword repetition was removed. [→ Leclercq 2010](#leclercq-2010)

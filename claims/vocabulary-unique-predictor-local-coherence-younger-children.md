@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2015
+source_checked: 2026-10-19
 sources:
   - id: currie-2015
     resource: "https://doi.org/10.1016/j.jecp.2015.03.005"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For 6- and 8-year-olds, only vocabulary was a significant unique predictor of local coherence inference making once memory measures were taken into account. [→ Currie 2015](#currie-2015)

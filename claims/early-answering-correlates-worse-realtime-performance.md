@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: george-boateng-2026
     resource: "https://doi.org/10.48550/arxiv.2605.07051"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Claude Opus 4.6's tendency to answer early correlates with its worse real-time proxy performance relative to other models, despite strong offline performance; GPT-OSS-120B behaves similarly. [→ George Boateng 2026](#george-boateng-2026)

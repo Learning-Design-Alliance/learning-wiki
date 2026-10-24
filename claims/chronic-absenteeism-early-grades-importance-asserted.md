@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-08
+recheck_by: 2024
 sources:
   - id: bleeker-2019
     resource: "https://www.mathematica.org/publications/improving-the-school-attendance-of-new-jerseys-youngest-learners-chronic-absenteeism-in-the-early"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article states that chronic absenteeism in pre-kindergarten and kindergarten is important, without printing supporting data or argument in the supplied text. [→ Bleeker 2019](#bleeker-2019)

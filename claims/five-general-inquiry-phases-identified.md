@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: constantinos-c-manoli-2015
     resource: "https://telearn.hal.science/hal-01206700"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of 32 selected articles resulted in the identification of five distinct general inquiry phases. [→ Constantinos C. Manoli 2015](#constantinos-c-manoli-2015)

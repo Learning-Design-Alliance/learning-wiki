@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: arens-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2015.11.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Math achievement is positively related to perceived instructional quality in math classes (β = .446) and to relations with math teachers (β = .109), but negatively related to perceived instructional quality in language classes (β = -.097) and relations with language teachers (β = -.108). [→ Arens 2016](#arens-2016)

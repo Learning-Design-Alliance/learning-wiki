@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-16
+recheck_by: 2011
 sources:
   - id: duncan-chaplin-2006
     resource: "https://www.mathematica.org/publications/impacts-of-a-summer-learning-program-a-random-assignment-study-of-building-educated-leaders-for-life-bell"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A growing body of evidence indicates low-income children's test scores decline relative to higher-income counterparts over the summer. [→ Duncan Chaplin 2006](#duncan-chaplin-2006)

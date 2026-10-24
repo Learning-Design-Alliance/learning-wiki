@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: guillén-gámez-2026
     resource: "https://doi.org/10.1007/s11423-026-10647-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the IPMA, behavioural intention combines the highest importance and performance for predicting digital competence, while PU and PE show secondary roles and AOU shows low relevance. [→ Guillén-Gámez 2026](#guillen-gamez-2026)

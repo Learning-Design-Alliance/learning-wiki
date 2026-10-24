@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: strong
+newest_evidence: 2024
 sources:
   - id: jens-möller-2024
     resource: "https://doi.org/10.1007/s10648-024-09918-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3` · `i0`–`i3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The average correlation between math and verbal achievement is highly positive (r = 0.56) while the average self-concept correlation is remarkably lower (r = 0.07). [→ Jens Möller 2024](#jens-moller-2024)

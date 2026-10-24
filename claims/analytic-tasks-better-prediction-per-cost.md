@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: e-l-thorndike-and-l-m-terman-1921
     resource: "https://archive.org/search?query=Journal+of+Educational+Psychology+1921"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Tasks requiring efficiency in analyzing situations into elements, selecting and weighting elements, and organizing many things together give better results per dollar or hour of cost. [→ E. L. Thorndike and L. M. Terman 1921](#e-l-thorndike-and-l-m-terman-1921)

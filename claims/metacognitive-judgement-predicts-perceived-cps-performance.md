@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-19
 sources:
   - id: çini-2023
     resource: "https://doi.org/10.1007/s11409-023-09358-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Situated metacognitive judgement has a positive direct effect on perceived individual performance (β = 0.65, p < 0.01) and an indirect effect on perceived group performance via perceived individual performance. [→ Çini 2023](#cini-2023)

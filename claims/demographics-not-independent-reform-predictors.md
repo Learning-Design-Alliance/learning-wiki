@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1991
+source_checked: 2026-10-20
+recheck_by: 1996
 sources:
   - id: easton-1991
     resource: "https://consortium.uchicago.edu/publications/charting-reform-teachers-turn"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1991 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1996**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among schools of similar size, racial composition, student mobility, and the concentration of low-income students do not predict how school reform is being implemented. [→ Easton 1991](#easton-1991)

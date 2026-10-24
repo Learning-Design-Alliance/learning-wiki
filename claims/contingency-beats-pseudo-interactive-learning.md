@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-24
 sources:
   - id: ying-xu-2023
     resource: "https://osf.io/j7upd"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
+> **Currency** · newest study 2023 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Children in the interactive condition scored 0.16 standard deviations higher than those in the pseudo-interactive condition (p = .04), showing that contingent feedback itself, not merely being asked questions, improved learning. [→ Ying Xu 2023](#ying-xu-2023)

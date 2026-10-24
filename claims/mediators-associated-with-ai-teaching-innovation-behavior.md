@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: bai-x-and-hsieh-t-s-2026
     title: Bai X and Hsieh T-S 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TSE, PI, and AIL were each significantly associated with AI-TIB; PI and AIL were also associated with TSE, and AIL was associated with PI (H2–H4, H6, H9, H12 supported). [→ Bai X and Hsieh T-S 2026](#bai-x-and-hsieh-t-s-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: yun-2021
     resource: "https://learningpolicyinstitute.org/product/high-quality-kea"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Assessments focused narrowly on reading and math are linked to less time for other domains and more teacher-led instruction, whereas holistic observational assessment can drive developmentally appropriate teaching. [→ Yun 2021](#yun-2021)

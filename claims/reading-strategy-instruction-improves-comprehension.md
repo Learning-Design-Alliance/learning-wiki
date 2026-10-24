@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: reading-strategy-instruction-improves-comprehension
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ueno-et-al-2025
     resource: "https://doi.org/10.64152/10125/67505"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i0`–`i2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 Explicit teaching of reading strategies — planning, monitoring, and evaluating one's understanding of text — improves learners' comprehension beyond what general reading practice produces.
 

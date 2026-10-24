@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: l-w-sackett-1917
     resource: "https://books.google.com/books?q=%22Tests+for+Mental+Alertness%22"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teacher-designated accelerated pupils made a superior showing, with only one grade record below standard; age-grade selection of exceptional pupils likewise showed the tests differentiating accelerated and retarded groups. [→ L. W. Sackett 1917](#l-w-sackett-1917)

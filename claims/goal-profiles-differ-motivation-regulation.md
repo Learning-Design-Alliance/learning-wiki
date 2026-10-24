@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: jianhua-zhang-2025
     resource: "https://doi.org/10.1007/s11409-025-09434-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The four profiles differed significantly in all three motivation regulation strategies, with η² of 0.196 (interest enhancement), 0.294 (motivational self-talk), and 0.225 (emotional control). [→ Jianhua Zhang 2025](#jianhua-zhang-2025)

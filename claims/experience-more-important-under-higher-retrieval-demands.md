@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: krebs-2012
     resource: "https://doi.org/10.1007/s11409-011-9079-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Under higher retrieval demands, experience seems to play the more important role in children's metacognitive processes. [→ Krebs 2012](#krebs-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-19
 sources:
   - id: elizondo-garcía-me-2025
     title: Elizondo-García ME 2025
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Items Q11, Q12, and Q13, addressing evaluation and validation of information provided by ChatGPT, received the lowest scores across both courses; for example Q12 scored 8.62 ± 2.20 in biology and 8.43 ± 2.31 in mathematics. [→ Elizondo-García ME 2025](#elizondo-garcia-me-2025)

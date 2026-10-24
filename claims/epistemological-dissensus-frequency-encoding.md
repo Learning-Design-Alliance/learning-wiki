@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: huyen-n-nguyen-2026
     resource: "https://doi.org/10.48550/arxiv.2606.18692"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Theme 4 was a genuine disagreement about whether a frequency-based encoding can carry qualitative meaning, with skeptics citing loss of context and rare-but-critical responses and enthusiasts treating frequency as a productive entry point. [→ Huyen N. Nguyen 2026](#huyen-n-nguyen-2026)

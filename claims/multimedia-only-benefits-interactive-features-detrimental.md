@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-19
 sources:
   - id: takacs-2015
     resource: "https://doi.org/10.3102/0034654314566989"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2`–`r3` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Stories including only multimedia features had a positive additional effect on story comprehension (g+ = 0.39), while stories including both multimedia and interactive features showed no significant effect (g+ = -0.14). [→ Takacs 2015](#takacs-2015)

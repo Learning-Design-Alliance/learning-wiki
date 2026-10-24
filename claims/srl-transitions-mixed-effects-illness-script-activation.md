@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: cloude-2025
     resource: "https://doi.org/10.1007/s11251-025-09729-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ordinal logistic regressions showed significant relations between illness script activation and SRL phase frequencies, transitions, complexity and entropy within each case, but the direction of effects varied by case. [→ Cloude 2025](#cloude-2025)

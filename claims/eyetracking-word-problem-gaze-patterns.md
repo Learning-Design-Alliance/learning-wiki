@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: ritter-2007
     resource: "https://doi.org/10.3758/bf03194060"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q1`–`q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students looked at the problem scenario but not the expression about 13% of the time, at the expression 54% of the time, and at neither almost 34% of the time. [→ Ritter 2007](#ritter-2007)

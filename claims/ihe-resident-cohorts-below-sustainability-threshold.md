@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: brannegan-2024
     resource: "https://www.wested.org/support/formative-evaluation-of-the-california-teacher-residency-grant-program"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only one quarter (6 of 24) of IHEs participating in the TRGP enrolled at least 20 TRGP-funded residents in 2022-23; even counting all self-reported residents, only 10 of 24 reached 20. [→ Brannegan 2024](#brannegan-2024)

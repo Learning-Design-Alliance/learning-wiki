@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-09
 sources:
   - id: kang-xue-2022
     resource: "https://www.nwea.org/resources/using-artificial-intelligence-ai-to-improve-math-accessibility-for-students-with-visual-impairments/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using MAP Growth math assessment data, researchers identified high-quality items that measured achievement for students with and without VI equally well, and low-quality items that showed differences between the two groups. [→ Kang Xue 2022](#kang-xue-2022)

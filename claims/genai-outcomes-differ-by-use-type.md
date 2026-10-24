@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zara-contractor-and-germán-reyes-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08849"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of treated AI users, 61 percent are classified as augmentation users, 9 percent as automation users, and 27 percent as mixed users; augmentation and mixed users show positive test-score differences relative to control in both sessions, and automation users' higher-rated Session One essays do not carry over to their unaided Session Two essays. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)

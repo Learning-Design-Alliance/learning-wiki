@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: wouters-2007
     resource: "https://doi.org/10.1007/s10648-007-9045-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a dart-throwing study, peer models made key errors but promptly corrected them, and observers of peer models learned to identify and eliminate such errors while observers of expert models missed the error-correction information. [→ Wouters 2007](#wouters-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: van-gog-2015
     resource: "https://doi.org/10.1007/s10648-015-9310-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In van Gog et al.'s experiment 3, university students who had studied four examples invested much less mental effort in restudy than in testing; this result did not appear in experiment 4 with vocational education students. [→ van Gog 2015](#van-gog-2015)

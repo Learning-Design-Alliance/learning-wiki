@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-22
 sources:
   - id: fiorella-2023
     resource: "https://doi.org/10.1007/s10648-023-09769-7"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who self-explained provided diagrams generated more inferences and performed better on a comprehension test than students who explained text only (Ainsworth & Loizou, 2003, as reported by the review). [→ Fiorella 2023](#fiorella-2023)

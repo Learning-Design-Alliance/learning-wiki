@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2005
+source_checked: 2026-10-18
 sources:
   - id: mooney-2005
     resource: "https://doi.org/10.1007/s10864-005-6298-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
+> **Currency** · newest study 2005 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Interventions targeted improvement in math calculation skills more than any other academic area; mean ES by academic area were math 1.97, writing 1.13, reading 2.28, and social studies 2.66. [→ Mooney 2005](#mooney-2005)

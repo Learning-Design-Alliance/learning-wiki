@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: knoth-2024
     resource: "https://doi.org/10.1016/j.caeai.2024.100225"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with higher-quality prompt engineering skills produce higher-quality LLM output, indicating prompt engineering is a required skill for goal-directed use of generative AI. [→ Knoth 2024](#knoth-2024)

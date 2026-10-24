@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-08
 sources:
   - id: melissa-a-clark-2013
     resource: "https://www.mathematica.org/publications/the-effectiveness-of-secondary-math-teachers-from-teach-for-america-and-the-teaching-fellows-programs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a large-scale random assignment study, secondary math teachers from Teach For America and the Teaching Fellows programs were as effective as traditionally certified math teachers. [→ Melissa A. Clark 2013](#melissa-a-clark-2013)

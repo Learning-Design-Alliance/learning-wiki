@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-22
 sources:
   - id: de-bruin-2020
     resource: "https://doi.org/10.1007/s10648-020-09576-4"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis finds a medium-sized negative correlation between mental effort and judgments of learning, which approaches zero/the positive range as learners engage more in goal-driven regulation. [→ de Bruin 2020](#de-bruin-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: leclercq-2010
     resource: "https://doi.org/10.1037/a0018540"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Serial order reconstruction performance at Age 4 predicted 10% of independent variance in Raven's matrices scores at Age 5 after controls, while nonword repetition did not independently predict later Raven's scores. [→ Leclercq 2010](#leclercq-2010)

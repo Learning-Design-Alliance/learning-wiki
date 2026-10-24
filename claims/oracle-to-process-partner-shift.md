@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+source_checked: 2026-10-20
 sources:
   - id: shift-1
     resource: "https://doi.org/10.48550/arxiv.2608.19164"
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Semi-structured interviews with five Layer 2 clients and two tutors suggested that before sessions clients framed AI in passive, oracle-like terms, while after sessions they described AI as a collaborative tool requiring human direction. [→ shift-1](#shift-1)

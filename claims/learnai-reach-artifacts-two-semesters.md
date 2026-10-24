@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across Fall 2025 through Spring 2026, the Wide-Exposure layer reached 18 courses with 293 enrolled students, and the Co-Creation layer enrolled 35 clients who co-created 36 portfolio websites and over 20 deployed applications. [→ reach-1](#reach-1)

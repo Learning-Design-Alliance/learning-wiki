@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: janneke-van-de-pol-2024
     resource: "https://doi.org/10.1007/s11409-024-09383-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Calibration was higher (better aligned) after the intervention than before (B = -0.53, p = 0.001, R2 = 0.097, which the article labels a small effect). [→ Janneke van de Pol 2024](#janneke-van-de-pol-2024)

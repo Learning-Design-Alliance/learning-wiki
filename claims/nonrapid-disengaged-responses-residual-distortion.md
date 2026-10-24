@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-09
+recheck_by: 2023
 sources:
   - id: steven-wise-2020
     resource: "https://doi.org/10.1111/jedm.12275"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The inability of E-M scoring to remove all score distortion suggests additional nonrapid item responses reflect less-than-full engagement by some test takers. [→ Steven Wise 2020](#steven-wise-2020)

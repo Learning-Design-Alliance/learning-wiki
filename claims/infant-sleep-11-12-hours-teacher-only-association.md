@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: taveras-elsie-m-md-2017
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545152/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Infants sleeping 11 to <12 hours/day (vs ≥12) had worse teacher-reported BRIEF (2.02 points; 95% CI: 0.55, 3.48) and SDQ (1.06; 95% CI: 0.19, 1.92) at age 7, but not mother-reported scores. [→ Taveras Elsie M. MD 2017](#taveras-elsie-m-md-2017)

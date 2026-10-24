@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: kim-young-suk-2015
     resource: "https://doi.org/10.1016/j.lindif.2014.11.009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Kindergarten lexical literacy skill predicted narrative writing quality (β = .23, p = .01) and expository writing quality (β = .43, p < .001). [→ Kim Young-Suk 2015](#kim-young-suk-2015)

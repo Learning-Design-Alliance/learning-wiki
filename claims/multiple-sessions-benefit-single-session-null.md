@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: clark-2016
     resource: "https://doi.org/10.3102/0034654315582065"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Game conditions involving multiple sessions showed significantly better outcomes than nongame conditions (g = 0.44), while single-session conditions did not differ from nongame conditions (g = 0.08); the difference was significant (b = −0.37, p = .03). [→ Clark 2016](#clark-2016)

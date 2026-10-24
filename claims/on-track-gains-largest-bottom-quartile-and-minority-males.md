@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: pitcher-2016
     resource: "https://consortium.uchicago.edu/publications/network-college-success-capacity-building-model-school-improvement"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1`–`r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bottom-quartile schools' On-Track rates rose 37 percentage points, from 46 to 83 percent, by 2015. [→ Pitcher 2016 (2)](#pitcher-2016-2)

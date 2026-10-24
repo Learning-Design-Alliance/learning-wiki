@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: sanchez-2006
     resource: "https://link.springer.com/journal/13421"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q2` · `i3` large
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` High-WMC individuals spent less overall time viewing the seductive illustrations (η2 = .48). [→ Sanchez 2006](#sanchez-2006)

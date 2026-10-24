@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2020
+source_checked: 2026-10-17
 sources:
   - id: theobald-elli-j-et-al-2020
     resource: "https://doi.org/10.1073/pnas.1916903117"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Students from MGS pass at lower rates than non-MGS students by 7.1% under traditional lecturing, reduced to −3.9% under active learning, a 45% reduction in the gap. [→ Theobald Elli J. et al 2020](#theobald-elli-j-et-al-2020)

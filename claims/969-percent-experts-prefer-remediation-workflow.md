@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xinchen-ma-2026
     resource: "https://doi.org/10.48550/arxiv.2609.24083"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 96.9% of participating experts reported that the workflow of instructional video, assessment, and targeted remediation provides a more effective learning experience than instructional videos alone. [→ Xinchen Ma 2026](#xinchen-ma-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: angela-johnson-2020
     resource: "https://www.nwea.org/research/publication/catching-up-or-falling-behind-measuring-middle-school-achievement-trajectories-for-college-readiness/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In math, 73% of students did not change on-track/off-track status between 6th and 8th grade (54% always off-track; 19% always on-track), with only 15% switching status. [→ Angela Johnson 2020](#angela-johnson-2020)

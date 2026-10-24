@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: mary-c-english-2013
     resource: "https://doi.org/10.7771/1541-5015.1339"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article presents research-driven guidelines on how to promote student responsibility for learning in PBL, alongside its theoretical model. [→ Mary C. English 2013](#mary-c-english-2013)

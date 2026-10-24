@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: fast-track-elementary-school-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/628"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The study found a positive and statistically significant difference on the Spache Diagnostic Reading Scale but no statistically significant difference on the Woodcock-Johnson Letter-Word Identification subtest; domain average improvement index +8. [→ Fast Track: Elementary School 2014](#fast-track-elementary-school-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: h-chad-lane-2026
     resource: "https://doi.org/10.1145/3770761.3777333"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Within the 11-model sample, qwen3.5 at 9B parameters (79%) outperformed the 120B nemotron-3-super (73%), and deepseek-r1 at 8B (77%) scored well above the 30B qwen3-coder (52%), suggesting family-level differences influence tutoring quality better than size alone. [→ H. Chad Lane 2026](#h-chad-lane-2026)

@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nwea-research-2026
     resource: "https://www.nwea.org/research/"
@@ -52,6 +53,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 5 associational `r?` · `q1`–`q2`
+> **Currency** · newest study 2026 · 3 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

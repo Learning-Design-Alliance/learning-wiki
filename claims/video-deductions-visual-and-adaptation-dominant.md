@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lin-2026
     resource: "https://doi.org/10.48550/arxiv.2608.08852"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Deduction analysis attributes the largest share of quality deficits to visual delivery and learner adaptation rather than content correctness. [→ Lin 2026](#lin-2026)

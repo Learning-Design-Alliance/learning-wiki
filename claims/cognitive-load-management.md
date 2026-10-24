@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: cognitive-load-management
 evidence_strength:
+newest_evidence: 2023
 sources:
   - id: rey-et-al-2019
     resource: "https://doi.org/10.1007/s10648-018-9456-4"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 Managing intrinsic, extraneous, and germane cognitive load — by controlling element interactivity, removing unnecessary processing demands, and scaffolding complex content — protects limited working-memory capacity and improves learning outcomes.
 

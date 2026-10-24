@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-09
 sources:
   - id: evaluation-of-the-networks-for-school-improvement-initiative-interim-summary-report-2024
     resource: "https://www.rand.org/pubs/research_reports/RRA242-1.html"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nearly three-quarters of schools conducted a root cause analysis, but only 58 percent chose change ideas explicitly related to their theory of practice improvement. [→ Evaluation of the Networks for School Improvement Initiative: Interim Summary Report 2024](#evaluation-of-the-networks-for-school-improvement-initiative-interim-summary-report-2024)

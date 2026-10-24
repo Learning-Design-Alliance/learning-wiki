@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: pautz-stephenson-2023
     resource: "https://doi.org/10.51388/20.500.12265/196"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Both SEERNet practitioner-voice initiatives were more reflective of Attygalle's definition of buy-in than ownership, since SEERNet leadership developed the ideas, made decisions, designed the action plan, and then asked for context-expert input. [→ Pautz Stephenson 2023](#pautz-stephenson-2023)

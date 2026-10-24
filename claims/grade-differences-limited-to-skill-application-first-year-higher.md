@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: song-yafeng-2026
     resource: "https://doi.org/10.3390/bs16071166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One-way ANOVA showed no significant grade differences in knowledge mastery, competency development, or overall outcomes, but skill application differed significantly, with first-year students scoring higher than second-year students (p = 0.02). [→ Song Yafeng 2026](#song-yafeng-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: hilger-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102234"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The article proposes that as teachers gain job experience, they may select different, more adaptive ER strategies, consistent with the finding that less experienced teachers were more likely to be in avoidance-characterized profiles. [→ Hilger 2025](#hilger-2025)

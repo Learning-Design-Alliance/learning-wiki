@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: beebe-2010
     resource: "https://doi.org/10.1016/j.jadohealth.2010.03.005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Sleep-deprived adolescents tended to have higher theta power, indicating lower tonic arousal, than when healthy-slept; the difference was marginal (p=.08). [→ Beebe 2010](#beebe-2010)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: vg-kremen-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100648"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` LCA identified six provisional classes, including the largest Competency-constrained class (25.6%) and Barrier-free skeptics (10.6%) who showed the highest readiness yet the highest AI distrust. [→ V.G. Kremen 2026](#vg-kremen-2026)

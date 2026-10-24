@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: strong
+newest_evidence: 2021
 sources:
   - id: wwc-domain-dev-ed
     title: wwc-domain-dev-ed
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across three studies meeting WWC standards (46,012 students), DCMP shows strong evidence of a positive effect on progressing in developmental education, with an outcome average effect size of 0.55 and improvement index of +21. [→ wwc-domain-dev-ed](#wwc-domain-dev-ed)

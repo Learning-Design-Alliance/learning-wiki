@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: l-z-1921
     resource: "https://eric.ed.gov/?q=Empirical+Studies+in+School+Reading"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Neither a random sampling of Chicago teachers nor their pupils used the study helps suggested in the readers, despite methods similar to those outlined in the books. [→ L. Z 1921](#l-z-1921)

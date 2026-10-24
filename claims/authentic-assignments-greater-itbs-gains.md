@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-15
 sources:
   - id: fred-m-newmann-2001
     resource: "https://consortium.uchicago.edu/publications/authentic-intellectual-work-and-standardized-tests-conflict-or-coexistence"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 associational `r2`, 1 theoretical `r2` · `q2`–`q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

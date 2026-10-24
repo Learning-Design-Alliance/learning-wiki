@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: angela-johnson-2020
     resource: "https://www.nwea.org/research/publication/within-year-achievement-gains-for-english-learners/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Ever-ELs, current-ELs, and dually-identified students each show lower mean math and reading achievement in kindergarten than the average of all students. [→ Angela Johnson 2020](#angela-johnson-2020)

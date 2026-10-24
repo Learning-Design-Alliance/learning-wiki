@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: morales-chicas-jessica-2017
     resource: "https://doi.org/10.1111/jora.12292"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` School belonging and GPA were correlated (r = .20), and most predictors and covariates were modestly correlated with the outcomes in the expected direction. [→ Morales-Chicas Jessica 2017](#morales-chicas-jessica-2017)

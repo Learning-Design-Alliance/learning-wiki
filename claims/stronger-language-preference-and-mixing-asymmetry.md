@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2004
+recheck_by: 2009
 sources:
   - id: bernardini-2004
     resource: "https://doi.org/10.1017/S1366728904001270"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` With the Swedish interlocutor, children spoke Swedish almost 100% of the time and mixed almost not at all; in Romance-language interactions, over 50% of utterances were in Swedish and mixing was relatively frequent. [→ Bernardini 2004](#bernardini-2004)

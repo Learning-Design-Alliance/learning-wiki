@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: zhaozhe-wang-2025
     resource: "https://doi.org/10.1016/j.compcom.2025.102933"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Asuka adopted an anthropomorphic positionality, using the inclusive pronoun we and framing AI as a collaborator, suggesting internalization of a posthumanist ontology. [→ Zhaozhe Wang 2025](#zhaozhe-wang-2025)

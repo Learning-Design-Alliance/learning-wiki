@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: silverman-2026
     resource: "https://doi.org/10.1037/edu0000993"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Strength-based learning groups support educators to create equitable learning environments for economically marginalized students. [→ Silverman 2026](#silverman-2026)

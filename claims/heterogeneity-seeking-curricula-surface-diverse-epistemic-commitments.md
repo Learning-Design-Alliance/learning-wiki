@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: pierson-et-al-2023
     resource: "https://doi.org/10.1080/07370008.2022.2111431"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2` · n=105 sixth graders across 6 implementations (33 focal students interviewed), one US public suburban middle school, 2018-2020
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 Interviews with 33 focal sixth-graders in a heterogeneity-seeking ecosystems modeling unit found that most students expressed one or more of four epistemic commitments (real-world connection, seeing/showing, controlling variables, caring for), including a "caring for" commitment with no direct analog in prior epistemic-cognition research, and that these commitments shaped model design decisions in ways the curriculum had not anticipated.
 

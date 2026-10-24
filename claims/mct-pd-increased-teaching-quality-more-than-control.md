@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: j-van-de-pol-2014
     resource: "https://doi.org/10.1080/10508406.2013.805300"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the experimental study, teachers who worked with the MCT increased their teaching quality more than the teachers who did not participate, especially with regard to the steps of contingent teaching. [→ J. van de Pol 2014](#j-van-de-pol-2014)

@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: expressive-writing-improves-exam-performance
 evidence_strength: 
+newest_evidence: 2026
 sources:
   - id: ramirez-and-beilock-2011
     resource: "https://doi.org/10.1126/science.1199427"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r3` · `q3`–`q4` · `i0`–`i2`
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 <!-- title before 2026-10-15: Expressive Writing Improves Exam Performance -->
 

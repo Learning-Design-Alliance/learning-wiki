@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: erfan-entezami-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28483"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2`–`i3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Both models show significant bias toward light-skinned individuals in single-person images (GPT Image 2: p<0.001, V=0.57; Imagen 4: p<0.001, V=0.61). [→ Erfan Entezami 2026](#erfan-entezami-2026)

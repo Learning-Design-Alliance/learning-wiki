@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: barhorst-cates-erica-m-2017
     resource: "https://doi.org/10.1007/s00221-017-5063-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A regression with age predicting the unguided-minus-guided pointing error difference score showed the guidance advantage grows with increasing age. [→ Barhorst-Cates Erica M. 2017](#barhorst-cates-erica-m-2017)

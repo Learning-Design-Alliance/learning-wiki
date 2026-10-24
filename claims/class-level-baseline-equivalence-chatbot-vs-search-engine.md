@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: dai-2026
     resource: "https://doi.org/10.1186/s40594-026-00631-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Before the intervention, the chatbot class and the search engine class did not differ significantly on prior science learning ability and knowledge, supporting class-level condition allocation. [→ Dai 2026](#dai-2026)

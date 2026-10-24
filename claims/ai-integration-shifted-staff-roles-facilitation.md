@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yim-2026
     resource: "https://doi.org/10.1021/acs.jchemed.5c01311"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Staff reported their role changed from demonstrating established procedures to guiding students through unexpected issues, with a significant increase in workload. [→ Yim 2026](#yim-2026)

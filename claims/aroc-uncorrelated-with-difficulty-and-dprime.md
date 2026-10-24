@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: weil-lg-2013
     resource: "https://doi.org/10.1016/j.concog.2013.01.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Aroc showed no significant correlation with mean stimulus contrast (r = −.09, p = .50) or with d′ (r = .21, p = .12). [→ Weil L.G. 2013](#weil-lg-2013)

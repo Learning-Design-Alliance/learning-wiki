@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: reed-2026
     resource: "https://doi.org/10.1007/s10805-026-09757-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the adjusted binomial model, the Non-Ethics GLAT score was significantly and positively associated with classification accuracy, OR = 1.14, 95% CI [1.07, 1.22]. [→ Reed 2026](#reed-2026)

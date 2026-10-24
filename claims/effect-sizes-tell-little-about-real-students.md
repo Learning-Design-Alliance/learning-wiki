@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: zitzmann-2023
     resource: "https://doi.org/10.1007/s10648-023-09776-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` From a teacher's perspective, an effect size computed as an average across many students yields one value that may not match any individual student, so it may be perceived as uninformative about real students' changes. [→ Zitzmann 2023](#zitzmann-2023)

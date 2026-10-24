@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: richard-halverson-2012
     resource: "http://www.eriainteractive.com/index.php"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Cell-cycle starts (r = -.2965) and cell-cycle destroys (r = -.3390) correlated negatively with pre-post learning gains; total cycle starts of all types showed no significant correlation. [→ Richard Halverson 2012](#richard-halverson-2012)

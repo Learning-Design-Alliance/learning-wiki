@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lixiang-yan-and-dragan-gašević-2026
     resource: "https://doi.org/10.48550/arxiv.2604.07813"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Generative AI can reorganize externally available knowledge into immediately usable explanations, plans, drafts, examples, and action sequences, so the key learning variable is what happens when external knowledge is assembled into performance with minimal delay. [→ Lixiang Yan and Dragan Gašević 2026](#lixiang-yan-and-dragan-gasevic-2026)

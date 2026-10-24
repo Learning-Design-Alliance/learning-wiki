@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: bol-l-and-hacker-dj-2012
     title: "Narrative review attributing the finding to Pressley and Ghatala (1990) and Maki and Serra (1992). The review states \"postdictions are typically more accurate than predictions\" and explains this by familiarity and exposure to the completed task. No effect sizes are printed."
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Judgments made after task completion (postdictions) are typically more accurate than judgments made before it (predictions). [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)

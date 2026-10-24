@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: seo-s-m-2018
     resource: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Stepwise multiple regression identified fine motor precision (adjusted R² = 0.60) and Functional Dexterity Test time (adjusted R² = 0.04) as factors affecting handwriting legibility. [→ Seo S-M 2018](#seo-s-m-2018)

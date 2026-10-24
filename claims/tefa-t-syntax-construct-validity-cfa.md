@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: maksum-2022
     resource: "https://doi.org/10.36681/tused.2022.161"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the results, CFA of the nine TEFA-T syntax constructs gave Chi-Square = 98.79, p = 0.99 and RMSEA = 0.00, which the authors read as fulfilling goodness-of-fit criteria; the abstract and conclusion instead report Chi-Square and x2/df values of 219.76 and 0.8292 for the CFA/SEM validity testing, without saying which model or sample they come from. [→ Maksum 2022](#maksum-2022)

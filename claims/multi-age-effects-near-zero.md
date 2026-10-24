@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 1996
 sources:
   - id: simon-veenman-1996
     resource: "https://doi.org/10.2307/1170526"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Weighted average effect sizes for multi-age versus single-age classes were small and non-significant for both cognitive (d = -.05) and noncognitive (d = +.08) outcomes, with confidence intervals including zero. [→ Simon Veenman 1996](#simon-veenman-1996)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: fisher-2022
     resource: "https://eric.ed.gov/?id=ED621156"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 27 studies using schools as the unit of analysis, SBLE presence was associated with higher levels of crime and behavior, apparently driven by increased exclusionary discipline such as suspension. [→ Fisher 2022](#fisher-2022)

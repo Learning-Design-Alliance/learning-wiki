@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: smith-2021
     resource: "https://www.bettermathteachingnetwork.org/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 20 of 24 interviewed teachers indicated networking opportunities played the greatest role in changing their instruction, citing new perspectives and access to ideas and materials. [→ Smith 2021](#smith-2021)

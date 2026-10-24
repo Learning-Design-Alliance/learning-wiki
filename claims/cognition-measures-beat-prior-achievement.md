@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: geary-david-c-2017
     resource: "https://doi.org/10.1037/edu0000159"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The combination of number sets, retrieval, decomposition, and number line measures explains substantively more variance in subsequent achievement (mean R2 = .822) than prior Numerical Operations scores (mean R2 = .682). [→ Geary David C. 2017](#geary-david-c-2017)

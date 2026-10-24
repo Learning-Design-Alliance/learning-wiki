@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: brunmair-2019
     resource: "https://doi.org/10.1037/bul0000209"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The meta-regression found no moderating effect of retention interval, retention vs. transfer test format, simultaneous vs. successive presentation, or publication status on the interleaving effect. [→ Brunmair 2019](#brunmair-2019)

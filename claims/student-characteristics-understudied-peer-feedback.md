@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: xingshi-gao-2024
     resource: "https://doi.org/10.1016/j.edurev.2023.100588"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Less than a quarter of the reviewed studies evaluated the role of individual student characteristics; students' ability level (n = 9) and gender (n = 3) were the most explored factors. [→ Xingshi Gao 2024](#xingshi-gao-2024)

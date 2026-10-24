@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: krstić-2025
     resource: "https://osf.io/rstwe/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The analysis plan was registered prior to examination of the data or observing the outcomes, and no changes were made to the preregistered plan for the primary confirmatory analysis. [→ Krstić 2025](#krstic-2025)

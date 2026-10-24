@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: akkerman-bruining-2016
     resource: "https://doi.org/10.1080/10508406.2016.1147448"
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 A five-year case study of a school-university research partnership found that boundary-crossing mechanisms (coordination, identification, reflection, transformation) emerged in sequence rather than in parallel across institutional, interpersonal, and intrapersonal levels, that research topics needed visible connection to school priorities to sustain teacher engagement, and that the brokers who made the partnership work also, through their own centrality, limited broader involvement.
 

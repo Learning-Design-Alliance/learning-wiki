@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: lelièvre-2025
     resource: "https://doi.org/10.48550/arxiv.2506.18710"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Running the 899 CDPK questions 20 times on a subset of 8 models yielded a maximum standard deviation of accuracy of 0.43%, indicating the test procedure and scores are robust and repeatable. [→ Lelièvre 2025](#lelievre-2025)

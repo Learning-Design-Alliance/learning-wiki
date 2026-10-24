@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: daniusevičiūtė-brazaitė-l-2026
     title: Daniusevičiūtė-Brazaitė L 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Participants rated envisioned futures as plausible (M = 5.21, SD = 1.32), requiring active effort (M = 5.88, SD = 1.58), expressed high concern (M = 6.00, SD = 1.15), and associated AI with human progress (M = 5.41, SD = 1.97). [→ Daniusevičiūtė-Brazaitė L 2026](#daniuseviciute-brazaite-l-2026)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-19
+recheck_by: 2015
 sources:
   - id: frith-chris-d-2012
     resource: "https://doi.org/10.1098/rstb.2012.0123"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` People have little or no direct conscious access to higher order cognitive processes and can justify choices they did not actually make. [→ Frith Chris D 2012](#frith-chris-d-2012)

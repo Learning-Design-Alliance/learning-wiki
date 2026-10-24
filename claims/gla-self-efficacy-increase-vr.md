@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: valdemar-stenberdt-2025
     resource: "https://doi.org/10.1007/s10648-025-10096-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Self-efficacy increased significantly over time in both groups (re-experiencing d = 0.94; self-explaining d = 1.04), with no condition difference or interaction. [→ Valdemar Stenberdt 2025](#valdemar-stenberdt-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: voight-2013
     resource: "http://www.wested.org/cs/we/view/rs/1310"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Smaller student bodies predict a greater likelihood of beating the odds, and the demographic association with BTO probability is not significantly different from that with school climate. [→ Voight 2013](#voight-2013)

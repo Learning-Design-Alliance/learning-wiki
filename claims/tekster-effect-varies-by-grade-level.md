@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: bouwer-2018
     resource: "https://doi.org/10.1037/edu0000206"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The intervention × grade level interaction was statistically significant; Grade 4 gained 4.86 points (ES 0.34), Grade 5 gained 5.00 points (ES 0.35), and Grade 6 gained 4.23 points (ES 0.30). [→ Bouwer 2018](#bouwer-2018)

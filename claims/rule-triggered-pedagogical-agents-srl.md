@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: joep-van-der-graaf-2023
     resource: "https://doi.org/10.1007/s11409-023-09364-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learners scaffolded by rule-triggered pedagogical agents showed higher frequencies of SRL activities, less repetitive SRL activities, and higher learning outcomes than learners with access to untriggered agents. [→ Joep van der Graaf 2023](#joep-van-der-graaf-2023)

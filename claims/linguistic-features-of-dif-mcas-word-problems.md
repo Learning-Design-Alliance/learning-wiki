@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: maria-martiniello-2008
     resource: "https://doi.org/10.17763/haer.78.2.70783570r1111t32"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Textual analyses of the DIF-flagged 2003 MCAS math word problems describe the linguistic features that made them disproportionately difficult for ELLs. [→ Maria Martiniello 2008](#maria-martiniello-2008)

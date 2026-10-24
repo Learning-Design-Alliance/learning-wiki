@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1993
 sources:
   - id: innwoo-park-and-michael-j-hannafin-1993
     resource: "http://www.jstor.org/stable/30218388"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Related prior knowledge is the single most powerful influence in mediating subsequent learning, implying that interactive multimedia should layer information to accommodate multiple levels of complexity and differences in prior knowledge. [→ Innwoo Park and Michael J. Hannafin 1993](#innwoo-park-and-michael-j-hannafin-1993)

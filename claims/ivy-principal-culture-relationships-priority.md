@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: elaine-allensworth-2019
     resource: "https://consortium.uchicago.edu/publications/how-do-principals-influence-student-achievement"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Ivy's principal describes maintaining a caring, nurturing culture and building relationships with teachers, students, and the community as the number-one job of a principal supporting student learning. [→ Elaine Allensworth 2019](#elaine-allensworth-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: myers-1913
     resource: "https://www.google.com/search?q=%22Some+correlations+between+learning+and+recall%22+Myers"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author attributes variation in learning and recall times to factors the figures fail to show, including desire not to seem slow, over-certainty of having learned, and persistence in trying to recall. [→ Myers 1913](#myers-1913)

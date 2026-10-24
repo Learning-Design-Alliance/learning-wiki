@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-17
 sources:
   - id: browning-2020
     resource: "https://californias3.wested.org/wp-content/uploads/Mindfulness-Based-Practices-for-Schools.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Research has linked mindfulness-based practices with cultivation of compassion and empathy, increased well-being and friendship, and improved self-regulation, citing Birnie et al. (2010), Miners (2008), and Flook et al. (2010). [→ Browning 2020](#browning-2020)

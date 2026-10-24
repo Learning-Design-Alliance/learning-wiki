@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Study 2 used concurrent think-aloud protocols and retrospective interviews to explore why discrepancies were noticed or not noticed and how they were resolved. [→ study2-method](#study2-method)

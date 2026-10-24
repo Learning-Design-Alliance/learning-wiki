@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: woo-2009
     resource: "https://doi.org/10.1111/j.1365-2729.2008.00299.x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An APA with its gestures imposes heavy demand on the visual channel (written words, agent image, background pictures), creating cognitive overload that compromises learning efficiency. [→ Woo 2009](#woo-2009)

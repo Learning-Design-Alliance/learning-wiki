@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: manjeet-singh-usma-2025
     resource: "https://doi.org/10.18608/jla.2025.8447"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the review's synthesis of 59 studies, tracking interaction is the most frequently reported effectiveness factor of AR enhanced analytics, ahead of context awareness, behaviour monitoring, multimodal interactions, and better learning outcome measures. [→ Manjeet Singh Usma 2025](#manjeet-singh-usma-2025)

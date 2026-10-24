@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: wenting-ma-2014
     resource: "https://doi.org/10.1037/a0037123"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Under a random-effects model, ITS comparisons produced moderate, statistically significant mean effect sizes over large-group human instruction (g = .44), individual CBI (g = .57), and individual textbook or workbook use (g = .36). [→ Wenting Ma 2014](#wenting-ma-2014)

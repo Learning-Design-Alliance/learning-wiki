@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: hardy-2021
     resource: "https://doi.org/10.51388/20.500.12265/113"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Novices may see the past through the lens of the present, believing people in the past shared the same values and belief systems as contemporary humans. [→ Hardy 2021](#hardy-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: cathy-yun-2022
     resource: "https://doi.org/10.54300/139.797"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` By 2025–26, TK will require an additional 11,900 to 15,600 credentialed teachers with early childhood expertise, based on an LPI analysis projecting 291,000 to 358,000 enrolled children. [→ Cathy Yun 2022](#cathy-yun-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: thum-2019
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-algebra-1-geometry-and-algebra-2-tests/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The norming sample comprised 747,936 course-specific test events from 342,821 students, including 452,942 Algebra 1 events, 190,292 Geometry events, and 104,702 Algebra 2 events. [→ Thum 2019](#thum-2019)

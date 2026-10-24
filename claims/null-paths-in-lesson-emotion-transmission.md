@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sorkkila-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102298"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers' positive emotions showed no effect on students' emotions, teachers' emotions showed no effect on students' negative emotions, and students' emotions did not predict teachers' positive emotions. [→ Sorkkila 2026](#sorkkila-2026)

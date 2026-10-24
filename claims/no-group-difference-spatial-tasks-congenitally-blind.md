@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: occelli-valeria-2017
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436932/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ANCOVA showed no significant effect of visual status on spatial imagery performance between blind and sighted groups. [→ Occelli Valeria 2017](#occelli-valeria-2017)

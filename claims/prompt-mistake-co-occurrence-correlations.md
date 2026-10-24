@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: victor-alexandru-pădurean-2026
     resource: "https://doi.org/10.1145/3765964.3811639"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Correlational analysis of coded prompts found significant correlations between prompts failing to describe Appropriate Required Input(s), Specified Argument Names, Specified Function Return Type, and a Correct Order of Arguments across the majority of problems. [→ Victor-Alexandru Pădurean 2026](#victor-alexandru-padurean-2026)

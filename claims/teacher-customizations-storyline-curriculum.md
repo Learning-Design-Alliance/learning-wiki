@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: mcelhaney-2024
     resource: "https://doi.org/10.51388/20.500.12265/231"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Teachers make frequent small customizations to OpenSciEd materials, mainly for practical needs, student ideas, and equity goals -->
 

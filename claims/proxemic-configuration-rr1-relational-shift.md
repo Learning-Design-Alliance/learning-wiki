@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ridwan-whitehead-andy-nguyen-sanna-järvelä-2026
     resource: "https://doi.org/10.1007/s11412-026-09478-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Mann–Whitney testing showed prox_close groups occupied higher relational scores than prox_far groups along RR1 (U = 77.00, p = 0.01, r = 0.52), with no difference along SVD2 (U = 138.00, p = 0.46, r = 0.15). [→ Ridwan Whitehead · Andy Nguyen · Sanna Järvelä 2026](#ridwan-whitehead-andy-nguyen-sanna-jarvela-2026)

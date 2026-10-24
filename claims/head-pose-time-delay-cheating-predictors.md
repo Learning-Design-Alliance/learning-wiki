@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: malhotra-2026
     resource: "https://doi.org/10.1007/s44217-026-01224-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a study of 42 undergraduates, time delay and head pose variations relative to the computer screen significantly predicted cheating, and the final logistic regression model achieved 75.6% average accuracy. [→ Malhotra 2026](#malhotra-2026)

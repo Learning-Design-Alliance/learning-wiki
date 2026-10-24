@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: bjork-2016
     resource: "https://doi.org/10.1007/s11409-016-9156-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors speculate that to the degree responding to disfluency exercises useful processes, positive effects would most likely show on a later perceptual task such as reading a new hard-to-read typeface, not on remembering text content. [→ Bjork 2016](#bjork-2016)

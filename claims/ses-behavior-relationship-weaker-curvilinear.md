@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: mollborn-2014
     resource: "https://doi.org/10.1016/j.alcr.2014.03.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The SES–behavior relationship peaked around age 4–4½ like the cognitive relationship, but its magnitude was smaller (peak ≈ 0.06 SD for income; ≈ 0.08 SD for maternal education). [→ Mollborn 2014](#mollborn-2014)

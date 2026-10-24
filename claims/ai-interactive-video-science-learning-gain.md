@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: ying-xu-2023
     resource: "https://osf.io/j7upd"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In a randomized controlled trial, children in the interactive condition outperformed children in the non-interactive condition on the science post-test by 0.32 standard deviations (p < .001), controlling for age, baseline science knowledge, and language proficiency. [→ Ying Xu 2023](#ying-xu-2023)

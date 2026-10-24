@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: kate-cain-2001
     resource: "https://doi.org/10.3758/bf03196414"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Skilled comprehenders made more inferences in general than less skilled comprehenders when knowledge-base recall was conditionalized, with no significant effect of inference type and no interaction. [→ Kate Cain 2001](#kate-cain-2001)

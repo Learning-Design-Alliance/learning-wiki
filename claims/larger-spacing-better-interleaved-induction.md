@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: monica-s-birnbaum-2013
     resource: "https://doi.org/10.3758/s13421-012-0272-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The large-spacing condition (lag of 15 other-species exemplars) outperformed the small-spacing condition (lag of 3), d = 0.752, with juxtaposition held constant. [→ Monica S. Birnbaum 2013](#monica-s-birnbaum-2013)

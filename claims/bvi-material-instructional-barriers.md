@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: steinbach-2022
     resource: "https://www.nwea.org/research/publication/looking-beyond-vision-supports-for-students-who-are-blind-or-visually-impaired-in-mathematics/"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` About 85% of surveyed middle and high school BVI students reported STEM materials arrived late at least some of the time. [→ Steinbach 2022](#steinbach-2022)

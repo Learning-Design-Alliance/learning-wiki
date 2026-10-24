@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: udeshi-2026
     resource: "https://doi.org/10.1007/978-3-032-29755-6_14"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Providing an AFPM mastery estimate decreased tutor giving away the final answer by 55.16% ± 7.42%, increased behavioral engagement by 2.83% ± 1.73%, and decreased text complexity (reading level) by 5.59% ± 1.57%. [→ Udeshi 2026](#udeshi-2026)

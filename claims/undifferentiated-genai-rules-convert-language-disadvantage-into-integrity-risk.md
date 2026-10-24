@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: grace-li-2026
     resource: "https://doi.org/10.1007/s10805-026-09760-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Integrity rules that treat GenAI as a single category of unauthorised assistance systematically disadvantage multilingual cohorts by imposing higher compliance burdens, increasing suspicion of newly fluent prose, and enabling selective enforcement on weak evidence. [→ Grace Li 2026](#grace-li-2026)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
+recheck_by: 2021
 sources:
   - id: mattingly-jameson-k-md-2018
     resource: "https://doi.org/10.1097/MAO.0000000000001998"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Subset RPM scores (12 items that differentiated low- vs. high-PRESTO CI performers) correlated with Harvard Standard whole sentences (r = .40) and PRESTO whole sentences (r = .48), with correlations similar in magnitude to the 48-item version. [→ Mattingly Jameson K MD 2018](#mattingly-jameson-k-md-2018)

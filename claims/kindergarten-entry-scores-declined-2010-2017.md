@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: kuhfeld-2019
     resource: "http://www.edworkingpapers.com/ai19-137"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Median math scores at kindergarten entry dropped approximately four RIT points (0.24 SDs) and median reading scores dropped two RIT points (0.14 SD) between 2010 and 2017, with scores slightly lower at all five selected percentiles in 2017 than 2010. [→ Kuhfeld 2019](#kuhfeld-2019)

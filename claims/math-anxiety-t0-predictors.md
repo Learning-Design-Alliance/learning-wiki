@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: szczygieł-m-szűcs-d-toffalini-e-2024
     resource: "https://dx.doi.org/10.1016/j.learninstruc.2024.101906"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` MA at T0 was predicted by general anxiety and symbolic numerical representation. [→ Szczygieł M.; Szűcs D.; Toffalini E 2024](#szczygie-m-szucs-d-toffalini-e-2024)

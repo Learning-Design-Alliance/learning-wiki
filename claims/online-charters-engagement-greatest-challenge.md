@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: brian-gill-2015
     resource: "https://www.mathematica.org/publications/inside-online-charter-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Maintaining student engagement in the limited-interaction environment is the greatest challenge, identified by principals nearly three times as often as any other challenge. [→ Brian Gill 2015](#brian-gill-2015)

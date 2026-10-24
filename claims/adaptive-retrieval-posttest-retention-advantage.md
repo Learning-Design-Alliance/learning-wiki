@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: mahir-akgun-and-sacip-toker-2026
     resource: "https://doi.org/10.48550/arxiv.2606.22328"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` ANCOVA revealed a significant effect of condition on posttest performance; G1 significantly outperformed G3, while G1–G2 and G2–G3 differences did not reach the adjusted significance threshold. [→ Mahir Akgun and Sacip Toker 2026](#mahir-akgun-and-sacip-toker-2026)

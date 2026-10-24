@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: rafelski-2010
     resource: "https://doi.org/10.48550/arxiv.1009.5404"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors report from their teaching experience that pairs work better than groups of three in this inquiry because individuals can become disconnected in larger groups. [→ Rafelski 2010](#rafelski-2010)

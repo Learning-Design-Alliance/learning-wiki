@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: chang-zhu-2010
     resource: "https://doi.org/10.1080/02619761003631849"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers perceiving larger power distance more likely take up expert and authority roles; higher collaboration perception associates with facilitator and delegator roles; competition perception is positively associated with all five roles. [→ Chang Zhu 2010](#chang-zhu-2010)

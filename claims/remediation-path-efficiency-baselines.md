@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: feng-z-and-huang-k-2026
     title: Feng Z and Huang K 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Compared to full-coverage learning paths of 5 steps, algorithm-generated personalized paths averaged 3.82 steps, a 23.6% efficiency improvement (d = 0.98); compared to random valid paths (4.92 steps) the improvement was 22.4% (d = 0.96). [→ Feng Z and Huang K 2026](#feng-z-and-huang-k-2026)

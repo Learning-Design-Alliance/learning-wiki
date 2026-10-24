@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: slepkov-2013
     resource: "https://doi.org/10.48550/arxiv.1308.4365"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the four-option final exam, the top fifteen scorers earned 65% ± 23% of the partial credit available to them while the bottom 15 students earned only 39% ± 10%, a difference the author reports as statistically significant by t-test. [→ Slepkov 2013](#slepkov-2013)

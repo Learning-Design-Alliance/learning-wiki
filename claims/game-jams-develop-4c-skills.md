@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: contreras-espinosa-2022
     resource: "https://doi.org/10.3390/su14042246"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants in three game jams reported increased creativity, collaboration, communication and critical thinking, but outcomes of skill evaluation may vary and are difficult to verify. [→ Contreras-Espinosa 2022](#contreras-espinosa-2022)

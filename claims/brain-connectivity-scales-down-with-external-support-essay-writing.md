@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: nataliya-kosmyna-2025
     resource: "https://doi.org/10.48550/arxiv.2506.08872"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` EEG connectivity across groups scaled with external support: Brain-only showed the strongest networks, Search Engine intermediate engagement, and LM assistance the weakest overall coupling. [→ Nataliya Kosmyna 2025](#nataliya-kosmyna-2025)

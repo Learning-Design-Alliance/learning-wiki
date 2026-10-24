@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: matey-yordanov-2026
     resource: "https://doi.org/10.48550/arxiv.2607.23566"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` System telemetry showed turnaround of 11.2 days (SD=2.4) for human grading versus 0.1 days (SD=0.2) for the automated system, with 4.1 times the practice volume completed. [→ Matey Yordanov 2026](#matey-yordanov-2026)

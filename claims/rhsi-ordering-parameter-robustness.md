@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: oluseyi-olukolaa-2026
     resource: "https://doi.org/10.48550/arxiv.2604.04237"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` EO has the strictly highest RHSI in all 20 of 20 grid cells and MO is consistently second worst; ST beats MAS at δmin≤0.40 (12 of 12 cells) but MAS edges out ST at δmin≥0.45 (8 of 8 cells). [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)

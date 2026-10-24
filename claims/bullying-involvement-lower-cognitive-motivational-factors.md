@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: muthanna-2021
     resource: "https://doi.org/10.3390/ijerph18052209"
@@ -47,6 +48,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · quant-synthesis `r1`–`r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Bullying-involved children are less likely to be academically engaged (k = 4, OR = 0.571, p = 0.000), less motivated (k = 7, OR = 0.82, p = 0.021) and have lower self-esteem (k = 1, OR = 0.12, p = 0.000). [→ Muthanna 2021](#muthanna-2021)

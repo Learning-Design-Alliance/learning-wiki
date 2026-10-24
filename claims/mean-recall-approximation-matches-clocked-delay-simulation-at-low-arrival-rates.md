@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Simulations of 500 reviews over 50 items show the mean-recall approximation performs well for small arrival rates. [→ Reddy 2016](#reddy-2016)

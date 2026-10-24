@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: simkins-2008
     resource: "https://doi.org/10.1177/1555412008317313"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More participants expressed frustration about lack of rich in-game social context than any other topic, because computer RPGs often lack sufficiently rich social context. [→ Simkins 2008](#simkins-2008)

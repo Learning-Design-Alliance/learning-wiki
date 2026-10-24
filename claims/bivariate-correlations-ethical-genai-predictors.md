@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tabares-cruz-yb-2026
     title: Tabares-Cruz YB 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Bivariate correlations between the six predictors and ethical GenAI use ranged from r = 0.370 (data protection) to r = 0.507 (academic integrity and transparency), all p < 0.001. [→ Tabares-Cruz YB 2026](#tabares-cruz-yb-2026)

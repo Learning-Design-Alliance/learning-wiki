@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: mariann-lemke-2024
     resource: "https://eric.ed.gov/?id=ED663754"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Roughly 60 percent of students starting the year significantly below benchmark stayed there; about 30 percent met benchmark by EOY and 16 percent moved up one level. [→ Mariann Lemke 2024](#mariann-lemke-2024)

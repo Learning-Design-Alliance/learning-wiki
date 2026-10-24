@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: catherine-p-bradshaw-2012
     resource: "https://doi.org/10.1542/peds.2012-0243"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children who began the trial in kindergarten fared better in SWPBIS schools on prosocial behavior and emotion regulation than kindergarten children in comparison schools. [→ Catherine P. Bradshaw 2012](#catherine-p-bradshaw-2012)

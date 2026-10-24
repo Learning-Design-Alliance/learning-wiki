@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: itbs-null
     title: itbs-null
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The WWC found no statistically significant or substantively important difference between CIRC and comparison groups on the Iowa Test of Basic Skills Reading Achievement (effect size 0.02, improvement index +1). [→ itbs-null](#itbs-null)

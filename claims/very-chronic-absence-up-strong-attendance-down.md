@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: allensworth-2026
     resource: "https://consortium.uchicago.edu/publications/connection-trust-and-learning"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In 2023-24, 8% of sixth-graders were absent 20% or more of days (rare pre-pandemic), over one-fifth of ninth-graders were, and only 44% of sixth-graders and 30% of ninth-graders missed less than 5%. [→ Allensworth 2026](#allensworth-2026)

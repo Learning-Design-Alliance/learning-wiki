@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: harsh-kumar-2026
     resource: "https://doi.org/10.48550/arxiv.2604.02677"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The tutor effect over Control was significant (χ²(1)=8.27, p=.004), while the peers-only effect did not reach significance (χ²(1)=0.88, p=.347). [→ Harsh Kumar 2026](#harsh-kumar-2026)

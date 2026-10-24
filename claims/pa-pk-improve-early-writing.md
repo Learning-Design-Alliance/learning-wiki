@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: sarah-herrera-2021
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Interventions teaching early writing, phonological awareness, and print knowledge significantly improved early writing performance (weighted effect size 0.41). [→ Sarah Herrera 2021](#sarah-herrera-2021)

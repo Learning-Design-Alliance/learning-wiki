@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: jo-lunn-brownlee-2017
     resource: "https://doi.org/10.1080/00461520.2017.1333430"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies by Deniz (2011) and Güven, Sülün, and Çam (2014) reported changes in student teachers' epistemic beliefs after reflection during science units. [→ Jo Lunn Brownlee 2017](#jo-lunn-brownlee-2017)

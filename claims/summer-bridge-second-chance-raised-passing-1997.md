@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1999
 sources:
   - id: melissa-roderick-1999
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-results-first-two-years"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Retesting at the end of Summer Bridge 1997 raised the proportion of included students meeting the promotional cutoff from 51% to 68% in third grade, 65% to 79% in sixth, and 72% to 83% in eighth. [→ Melissa Roderick 1999](#melissa-roderick-1999)

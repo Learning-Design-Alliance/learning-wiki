@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-19
 sources:
   - id: tozadore-2025
     resource: "https://doi.org/10.48550/arxiv.2508.16706"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Year 2-1 (storytelling) students enjoyed the Monday and Tuesday activities significantly more than Year 2-2 (explanation) students. [→ Tozadore 2025](#tozadore-2025)

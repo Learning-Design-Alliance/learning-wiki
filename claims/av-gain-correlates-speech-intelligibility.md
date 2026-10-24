@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: lorin-lachs-2001
     resource: "https://www.ncbi.nlm.nih.gov/pmc/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Speech intelligibility scores correlated significantly with Ra scores (r(21) = +0.42, p < 0.05) and with Rv scores (r(17) = +0.54, p < 0.01). [→ Lorin Lachs 2001](#lorin-lachs-2001)

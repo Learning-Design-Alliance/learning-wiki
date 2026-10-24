@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: gardner-2019
     resource: "https://learningpolicyinstitute.org/product/preparing-diverse-high-quality-early-childhood-workforce"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Common barriers include financial burdens, protracted degree completion, general education and remedial requirements, and lack of articulation between institutions. [→ Gardner 2019](#gardner-2019)

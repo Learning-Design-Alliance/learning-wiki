@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: alicia-demers-2023
     resource: "https://www.mathematica.org/publications/long-term-impacts-of-kipp-middle-and-high-schools-on-college-enrollment-persistence-and-attainment"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who attended both a KIPP middle school and a KIPP high school showed large, positive impacts on college enrollment and college persistence rates relative to comparison students. [→ Alicia Demers 2023](#alicia-demers-2023)

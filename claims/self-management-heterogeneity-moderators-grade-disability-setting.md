@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: briesch-2019
     resource: "https://doi.org/10.1007/s10864-018-9303-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors propose that heterogeneity in self-management intervention effect sizes may be explained by who the intervention was carried out with (grade level, disability status) and in what setting (general versus special education). [→ Briesch 2019](#briesch-2019)

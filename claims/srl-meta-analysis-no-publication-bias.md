@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: guntur-2024
     resource: "https://doi.org/10.24059/olj.v28i3.4025"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Egger's regression intercept test (intercept = 0.691) suggested publication bias is unlikely to account for the observed consistency in effect sizes. [→ Guntur 2024](#guntur-2024)

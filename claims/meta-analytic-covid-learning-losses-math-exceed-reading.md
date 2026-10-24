@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: kraus-2024
     resource: "https://osf.io/bu2ad/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Betthäuser et al. (2023), that average learning loss across 42 studies in 15 countries was more pronounced in mathematics (-0.18 SD) than in reading (-0.09 SD). [→ Kraus 2024](#kraus-2024)

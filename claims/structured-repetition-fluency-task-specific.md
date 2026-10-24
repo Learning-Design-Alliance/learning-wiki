@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: joshua-wedlock-christopher-binnie-2025
     resource: "https://doi.org/10.55593/ej.29115a5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Structured speech repetition led to oral fluency gains that were maintained only when learners repeated the same speech multiple times. [→ Joshua Wedlock & Christopher Binnie 2025](#joshua-wedlock-christopher-binnie-2025)

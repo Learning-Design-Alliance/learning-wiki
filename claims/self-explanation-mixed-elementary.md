@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2021
 sources:
   - id: garvin-brod-2021
     resource: "https://doi.org/10.1007/s10648-020-09571-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A meta-analysis of self-explanation found a mean effect of 0.55 SDs, reduced to 0.41 SDs when time on task was equated, with slightly smaller effects for elementary (0.48) and high-school (0.43) than university (0.61) students. [→ Garvin Brod 2021](#garvin-brod-2021)

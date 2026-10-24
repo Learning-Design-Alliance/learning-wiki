@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: jiayi-wang-2025
     resource: "https://doi.org/10.48550/arxiv.2505.08083"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Interviews and pre-surveys showed teachers struggled with the time commitment of authentically knowing students, authenticity concerns, and variable institutional support for CRP. [→ Jiayi Wang 2025](#jiayi-wang-2025)

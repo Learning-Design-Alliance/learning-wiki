@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: roberto-agodini-2010
     resource: "https://www.mathematica.org/publications/an-experimental-evaluation-of-four-elementary-school-math-curricula"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` An average-performing first-grader's percentile rank in math would be 9 to 12 points higher if the school used Math Expressions or Saxon instead of Investigations or SFAW. [→ Roberto Agodini 2010](#roberto-agodini-2010)

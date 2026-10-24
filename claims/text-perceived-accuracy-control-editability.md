@@ -33,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 qualitative `r2`, 1 associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The dominant qualitative category was input accuracy and control, heavily favouring text, with transcription errors widely cited. [→ accuracy-category](#accuracy-category)

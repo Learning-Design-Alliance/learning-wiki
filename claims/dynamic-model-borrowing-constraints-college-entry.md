@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: matthew-t-johnson-2013
     resource: "https://www.mathematica.org/publications/borrowing-constraints-college-enrollment-and-delayed-entry"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article specifies a dynamic model of high school graduates' education, borrowing, and work decisions to ascertain how increasing permitted government loan amounts would affect educational attainment. [→ Matthew T. Johnson 2013](#matthew-t-johnson-2013)

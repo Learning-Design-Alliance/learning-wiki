@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: ollesch-2021
     resource: "https://doi.org/10.1007/s11412-021-09346-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that cognitive and behavioral GA information could complement each other positively when presented simultaneously, because each type addresses a different wiki challenge. [→ Ollesch 2021](#ollesch-2021)

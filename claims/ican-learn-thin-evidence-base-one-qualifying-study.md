@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: wwc-research-summary
     title: wwc-research-summary
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The WWC identified seven eligible studies; no study met group design standards without reservations, one met them with reservations, and the remaining six did not meet standards. [→ wwc-research-summary](#wwc-research-summary)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: sommet-2015
     resource: "https://doi.org/10.1037/a0037240"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` With goals experimentally induced, the goals × partner competence interaction on model preference was significant (β = .28, p < .03, partial η² = .08); performance-approach goals predicted more preference for the confirmation model than performance-avoidance goals when the partner was more competent (β = .39, p < .03, partial η² = .07) but not when equal (β = −.17, p = .28). [→ Sommet 2015](#sommet-2015)

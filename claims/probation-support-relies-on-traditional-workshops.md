@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
+source_checked: 2026-10-15
+recheck_by: 2006
 sources:
   - id: kara-finnigan-and-jennifer-oday-2003
     resource: "https://doi.org/10.1037/e565292006-001"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2003 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2006**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Most professional development provided by external partners took the form of traditional half-day or full-day workshops, with limited one-on-one assistance and modeling in classrooms. [→ Kara Finnigan and Jennifer O'Day 2003](#kara-finnigan-and-jennifer-oday-2003)

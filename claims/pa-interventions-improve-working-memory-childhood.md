@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: vasilopoulos-2023
     resource: "https://doi.org/10.1007/s10648-023-09760-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 30 studies, physical activity interventions showed a small significant summary effect on children's working memory (g = 0.18). [→ Vasilopoulos 2023](#vasilopoulos-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: price-2024
     resource: "https://doi.org/10.54300/496.998"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among all ever-EL students, the proportion designated as LTEL7 was progressively smaller in every grade after 6th grade, from about 30% in 7th grade to about 17% in 12th grade. [→ Price 2024](#price-2024)

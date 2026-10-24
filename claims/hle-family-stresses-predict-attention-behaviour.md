@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: dilnot-2017
     resource: "http://dx.doi.org/10.1017/S0954579416000134"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Home literacy environment and family stresses accounted for 11% of variance in attention and behaviour, with family-risk adding no further variance. [→ Dilnot 2017](#dilnot-2017)

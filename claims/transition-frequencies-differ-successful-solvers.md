@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: joachim-funke-2009
     resource: "https://doi.org/10.1007/s10339-009-0345-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analyses of transition frequencies between questions and decisions show significant differences between successful and unsuccessful problem solvers in complex simulated situations. [→ Joachim Funke 2009](#joachim-funke-2009)

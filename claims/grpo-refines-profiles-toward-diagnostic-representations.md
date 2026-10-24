@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: zhangqi-duan-2026
     resource: "https://doi.org/10.48550/arxiv.2605.30051"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In a qualitative case study, the GRPO-refined profile preserves KC-level knowledge state while adding fine-grained misconception, dialogue-act, and linguistic-style evidence, with a higher ground-truth turn log-likelihood reward (-1.953 vs -2.056 for the GPT profile). [→ Zhangqi Duan 2026](#zhangqi-duan-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-13
 sources:
   - id: barzanji-and-loitsch-2025
     resource: "https://doi.org/10.1007/s44163-025-00521-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Four studies explicitly integrate pedagogical theories into their chatbot designs to align with cognitive and motivational needs of novice programmers, including the Vygotskian perspective, the 4C/ID model, scaffolding techniques, and gamification elements. [→ Barzanji and Loitsch 2025](#barzanji-and-loitsch-2025)

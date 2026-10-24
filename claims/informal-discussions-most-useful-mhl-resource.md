@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: alexandra-marinucci-2023
     resource: "https://doi.org/10.1007/s10648-023-09725-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Informal discussions were rated the most useful resource for mental health education, and this did not differ between school staff (53.8%) and allied health professionals (52.3%). [→ Alexandra Marinucci 2023](#alexandra-marinucci-2023)

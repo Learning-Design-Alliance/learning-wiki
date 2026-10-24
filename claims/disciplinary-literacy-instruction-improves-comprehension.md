@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: disciplinary-literacy-instruction-improves-comprehension
 evidence_strength: unrated
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: goldman-et-al-2019
     resource: "https://doi.org/10.3102/0002831219831041"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 Teaching students the specialized ways of reading, writing, and thinking within a discipline — rather than generic comprehension strategies alone — improves their ability to comprehend discipline-specific texts.
 

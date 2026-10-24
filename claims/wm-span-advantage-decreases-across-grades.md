@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: ineke-imbo-andré-vandierendonck-2008
     resource: "https://doi.org/10.1007/s00426-007-0112-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Working-memory span significantly predicted retrieval frequency for second graders but not for fourth and sixth graders, and predicted retrieval efficiency for second and fourth graders but not sixth graders. [→ Ineke Imbo · André Vandierendonck 2008](#ineke-imbo-andre-vandierendonck-2008)

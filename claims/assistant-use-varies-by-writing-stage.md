@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: divyansh-chandarana-2026
     resource: "https://doi.org/10.48550/arxiv.2609.36544"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students whose first prompt came in the first quarter sought clarification or direct help, while students who first used the assistant in the last quarter almost always sought verification of their answers. [→ Divyansh Chandarana 2026](#divyansh-chandarana-2026)

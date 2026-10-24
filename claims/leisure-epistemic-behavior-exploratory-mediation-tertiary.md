@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: mussel-2022
     resource: "https://doi.org/10.3390/jintelligence10020023"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In exploratory indicator-specific models, the indirect effect of cognitive ability on tertiary GPA was mediated by leisure epistemic behavior (β = 0.02, p < 0.001), a very small post hoc effect. [→ Mussel 2022](#mussel-2022)

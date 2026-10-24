@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: anna-riedmann-2025
     resource: "https://doi.org/10.1007/s40593-025-00494-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning gain, particularly normalized learning gain, appeared to be an effective reward source and was used in over half of the 18 papers with statistically outperforming RL approaches (n = 10). [→ Anna Riedmann 2025](#anna-riedmann-2025)

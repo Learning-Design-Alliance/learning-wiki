@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: results-from-the-2019-mathematics-and-reading-assessments-2020
     resource: "https://www.nationsreportcard.gov"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Grade 4 reading scores decreased across the performance distribution except for the 90th percentile compared to 2017, with the average 1 point higher than 2017 and 4 points higher than 1992. [→ Results from the 2019 Mathematics and Reading Assessments 2020](#results-from-the-2019-mathematics-and-reading-assessments-2020)

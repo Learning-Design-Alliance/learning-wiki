@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nizamani-2026
     resource: "https://doi.org/10.48550/arxiv.2610.01158"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A Kruskal–Wallis test confirmed prompt count distributions differed significantly across assignments (H = 71.18, df = 6, p<0.001). [→ Nizamani 2026](#nizamani-2026)

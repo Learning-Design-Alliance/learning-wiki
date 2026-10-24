@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: utah-1
     title: utah-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The associate superintendent reports deaf students need more intentional and direct SEL teaching, and since the convening she has used the Victoria-developed curriculum in direct instruction and trained school directors to use it. [→ utah-1](#utah-1)

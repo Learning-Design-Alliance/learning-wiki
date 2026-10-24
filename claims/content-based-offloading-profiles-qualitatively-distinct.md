@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: poquet-2026
     resource: "https://doi.org/10.48550/arxiv.2606.10434"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Content-based clustering of the same 97 students' prompts (active/passive by local/global comprehension plus prior knowledge) produced five profiles representing qualitatively distinct patterns of distributed cognitive activity with significant differences in learning strategies. [→ Poquet 2026](#poquet-2026)

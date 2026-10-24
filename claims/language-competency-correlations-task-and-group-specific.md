@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: buehler-2021
     resource: "https://doi.org/10.1007/s11409-021-09261-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` For native speakers, teacher-rated language competencies correlated with text comprehension performance (r = 0.63) but with no monitoring measures; for non-native speakers, language competencies correlated with both performance (r = 0.47) and Gamma correlations (r = 0.41) in the text task. [→ Buehler 2021](#buehler-2021)

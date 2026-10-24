@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: yael-sidi-rakefet-ackerman-2024
     resource: "https://doi.org/10.1007/s10648-024-09879-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Opting out is barely used when not explicitly offered; explicitly presenting the option raises use rates but they remain relatively low. [→ Yael Sidi · Rakefet Ackerman 2024](#yael-sidi-rakefet-ackerman-2024)

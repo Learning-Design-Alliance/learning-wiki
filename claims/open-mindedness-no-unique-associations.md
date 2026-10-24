@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: burić-2023
     title: Burić 2023
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite positive bivariate correlations of open-mindedness, aesthetic sensitivity, and creative imagination with student support and teacher enthusiasm, the bifactor-(S-1) model failed to reveal any significant unique associations between these facets and the criteria. [→ Burić 2023](#buric-2023)

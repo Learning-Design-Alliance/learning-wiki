@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+source_checked: 2026-10-16
+recheck_by: 2010
 sources:
   - id: allensworth-2005
     resource: "https://consortium.uchicago.edu/publications/graduation-and-dropout-trends-chicago-look-cohorts-students-1991-2004"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2005 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2010**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among boys, 39 percent of African-Americans graduated by age 19, compared to 51 percent of Latinos, 58 percent of whites, and 76 percent of Asians; girls' rates were higher in every group. [→ Allensworth 2005](#allensworth-2005)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: ioanna-taouki-2022
     resource: "https://doi.org/10.1007/s11409-022-09292-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Time-1 metacognitive efficiency also significantly predicted improvement in the non-linguistic emotion recognition task (OLS p=0.035; robust regression p=0.018; BF inclusion=1.386). [→ Ioanna Taouki 2022](#ioanna-taouki-2022)

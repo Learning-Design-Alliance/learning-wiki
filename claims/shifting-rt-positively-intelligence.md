@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ger-ebru-2023
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Mean RT in the mixed (shifting) block of HF was positively correlated with intelligence (r = 0.23, p < .01), even after controlling for accuracy in that block. [→ Ger Ebru 2023](#ger-ebru-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: ineke-imbo-andré-vandierendonck-2008
     resource: "https://doi.org/10.1007/s00426-007-0112-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Percentage retrieval use significantly predicted retrieval latency in all grades but did not predict procedural efficiency in any grade, supporting Siegler's prediction. [→ Ineke Imbo · André Vandierendonck 2008](#ineke-imbo-andre-vandierendonck-2008)

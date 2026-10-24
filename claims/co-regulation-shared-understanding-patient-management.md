@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: nadira-saab-2012
     resource: "https://doi.org/10.1007/s11409-011-9085-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Lajoie and Lu's study of collaborative decision-making in simulated medical emergencies, co-regulation led to shared understandings with effective patient management as a result. [→ Nadira Saab 2012](#nadira-saab-2012)

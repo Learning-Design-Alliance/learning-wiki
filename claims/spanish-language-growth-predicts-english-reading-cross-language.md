@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: davison-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3138808/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Growth in Spanish oral comprehension (PLS-3) positively predicted English letter-word identification (t = 18.38) and English passage comprehension (t = 13.70), with no group differences. [→ Davison 2011](#davison-2011)

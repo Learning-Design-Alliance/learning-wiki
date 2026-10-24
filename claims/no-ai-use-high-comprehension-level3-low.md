@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hidetake-tanaka-2026
     resource: "https://doi.org/10.48550/arxiv.2608.30572"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students at AI usage level 0 maintained consistently high code comprehension levels throughout all periods, whereas students at AI level 3 implemented code with very little comprehension, especially during lec09–10. [→ Hidetake Tanaka 2026](#hidetake-tanaka-2026)

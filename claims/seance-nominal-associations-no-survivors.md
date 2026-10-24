@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bivariate within-person mixed-effects models yielded 21 nominally significant associations (p<.05, uncorrected) out of 243 tests, spanning seven of nine outcomes. [→ seance-count](#seance-count)

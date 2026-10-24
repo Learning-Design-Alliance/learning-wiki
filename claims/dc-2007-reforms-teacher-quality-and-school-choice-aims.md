@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: dallas-dotter-2021
     resource: "https://www.mathematica.org/publications/measuring-the-impacts-of-school-reforms-in-the-district-of-columbia-on-student-achievement"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The reforms pursued achievement improvement through two levers: teacher quality hiring/retention and expanded public school choice. [→ Dallas Dotter 2021](#dallas-dotter-2021)

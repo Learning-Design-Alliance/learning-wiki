@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: jonathan-nakamoto-2015
     resource: "https://eric.ed.gov/?id=ED560945"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In years 1 and 2 the program impact was substantially higher for ELL students (effect sizes 0.87 and 0.69) than for non-ELL students (0.23 and 0.31); the difference was not significant in year 3. [→ Jonathan Nakamoto 2015](#jonathan-nakamoto-2015)

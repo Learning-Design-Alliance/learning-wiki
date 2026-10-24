@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student member checks revealed misalignments between how students understood their own talk and how the LLM and coding scheme classified it, with students contesting Off-task and Claim labels by foregrounding their intentions. [→ Liliana Santos-Deonizio 2027](#liliana-santos-deonizio-2027)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: gilliland-1922
     resource: "https://psycnet.apa.org/record/1922-02093-001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article reports, citing Romanes, Abell, and Quantz, that rapid readers were equal or superior to slow readers in reproducing what they had read, with Quantz's rapid readers about 37% superior in quality of work. [→ Gilliland 1922](#gilliland-1922)

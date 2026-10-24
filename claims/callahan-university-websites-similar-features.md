@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: patricia-a-young-2008
     resource: "https://doi.org/10.1111/j.1467-8535.2007.00699.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Callahan's (2005) study of university websites across cultures found similar technical features across cultures and culturally significant emphases such as religion in Malaysia and Ecuador and the performing arts in Sweden and Denmark. [→ Patricia A. Young 2008](#patricia-a-young-2008)

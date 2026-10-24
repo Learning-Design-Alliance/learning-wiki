@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2012
+source_checked: 2026-10-20
+recheck_by: 2015
 sources:
   - id: denton-carolyn-a-2012
     resource: "https://doi.org/10.1177/0022219412442155"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Schatschneider et al. (2008) found ORF status at the end of Grade 1 contributed largely to concurrent and future prediction of reading comprehension, while slope made little independent contribution beyond status. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: chakrabartty-2021
     resource: "https://dx.doi.org/10.52380/ijpes.2021.8.3.190"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Discriminating value of a test is defined as tan∅, which equals the ratio of SD to mean of test scores, i.e. the coefficient of variation, bounded 0 ≤ DiscT ≤ 1. [→ Chakrabartty 2021](#chakrabartty-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: moira-mccullough-2015
     resource: "https://www.mathematica.org/publications/seeking-common-ground-early-lessons-in-districtcharter-school-collaboration"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Establishing purposeful school partnerships, particularly among co-located schools, spurred collaboration when leaders were invested in all students in the building, not just those from their own schools. [→ Moira McCullough 2015](#moira-mccullough-2015)

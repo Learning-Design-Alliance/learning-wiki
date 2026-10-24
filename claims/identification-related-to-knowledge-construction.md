@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: ludvigsen-2016
     resource: "https://doi.org/10.1007/s11412-016-9236-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Öztok's case study of online group discussions, participants' use of identification categories shaped discourse sequences and participation trajectories, and identification was closely related to how and what knowledge students constructed. [→ Ludvigsen 2016](#ludvigsen-2016)

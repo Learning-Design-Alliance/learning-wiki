@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Conflict between student and community partner negatively correlated with social justice (r = -.38, p < .01) and diversity (r = -.36, p < .01) attitudes; antagonism negatively correlated with social justice (r = -.41, p < .001) and diversity (r = -.36, p < .01) attitudes. [→ Harkins 2020](#harkins-2020)

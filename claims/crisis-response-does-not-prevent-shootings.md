@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: langman-2018
     resource: "https://www.wested.org/resources/five-misconceptions-about-school-shootings/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Emergency response protocols are reactive measures activated after a gunman is present and do not prevent attacks; proactive threat assessment addresses prevention. [→ Langman 2018](#langman-2018)

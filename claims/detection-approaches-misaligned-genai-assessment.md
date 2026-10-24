@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: sunaina-sharma-2026
     resource: "https://doi.org/10.1007/s40979-026-00216-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The paper argues that detection and verification-based approaches are increasingly untenable in GenAI-augmented assessment because generative text is probabilistic and shaped through iterative human prompting, making definitive attribution unreliable. [→ Sunaina Sharma 2026](#sunaina-sharma-2026)

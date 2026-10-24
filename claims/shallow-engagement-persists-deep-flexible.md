@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: youjie-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2602.00447"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` First-Order Markov Model transition probabilities show shallow engagement repeats at TP = 0.47 with limited transitions out, while deep engagement repeats at TP = 0.24 and transitions flexibly to routine-learning (TP = 0.43) and exam-driven (TP = 0.21) engagement. [→ Youjie Chen 2026](#youjie-chen-2026)

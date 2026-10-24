@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
+source_checked: 2026-10-20
 sources:
   - id: anthony-s-bryk-2000
     resource: "https://consortium.uchicago.edu/publications/chicago-classroom-demands-authentic-intellectual-work-trends-1997-1999"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 1999, 48 percent of sixth grade, 56 percent of eighth grade, and 64 percent of third grade writing assignments showed moderate or extensive intellectual challenge. [→ Anthony S. Bryk 2000](#anthony-s-bryk-2000)

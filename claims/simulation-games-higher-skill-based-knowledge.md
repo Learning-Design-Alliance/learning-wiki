@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kelly-mcneil-2026
     resource: "https://doi.org/10.51388/20.500.12265/284"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A meta-analysis of 65 studies cited by the review found significantly higher skill-based knowledge outcomes for simulation conditions than non-game conditions. [→ Kelly McNeil 2026](#kelly-mcneil-2026)

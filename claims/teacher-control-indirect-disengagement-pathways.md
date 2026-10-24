@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-23
 sources:
   - id: stephen-r-earl-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2016.12.001"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-23 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teacher psychological control negatively predicted pupils' subjective vitality through competence frustration (β = -.38, p < .001). [→ Stephen R. Earl 2016](#stephen-r-earl-2016)

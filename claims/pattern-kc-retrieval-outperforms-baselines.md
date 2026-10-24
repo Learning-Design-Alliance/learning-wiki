@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: muntasir-hoq-2026
     resource: "https://doi.org/10.48550/arxiv.2607.05409"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For worked-example retrieval, the pattern-based KC approach achieved Top-5 accuracy of 0.89, MRR 0.81, and mAP 0.82, outperforming code2vec, ontology-based KCs, and remaining baselines. [→ Muntasir Hoq 2026](#muntasir-hoq-2026)

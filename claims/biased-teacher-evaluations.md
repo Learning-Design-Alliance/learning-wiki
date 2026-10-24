@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: gold-2020
     resource: "https://doi.org/10.51388/20.500.12265/96"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` From 2012 to 2016 in Michigan, 19 percent of Black teachers received a low evaluation rating vs. 7 percent of white teachers; within the same schools Black teachers were 50 percent more likely to get a low rating. [→ Gold 2020](#gold-2020)

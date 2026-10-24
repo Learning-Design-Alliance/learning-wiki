@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: tozadore-2025
     resource: "https://doi.org/10.48550/arxiv.2508.16706"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More Year 2-1 students (7 of 13, 53.8%) provided a drawing than Year 2-2 students (4 of 14, 28.5%). [→ Tozadore 2025](#tozadore-2025)

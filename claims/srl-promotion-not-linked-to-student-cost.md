@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: johannes-jud-2024
     resource: "https://doi.org/10.1007/s11409-024-09393-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The authors report the hypothesised negative relation between teachers' SRL promotion and students' perceived cost as not confirmed; for student-reported SRL promotion, at the class level it was nonsignificant, and at the student level the bivariate correlation was negligible (r = −.04), though marked significant in Table 1. [→ Johannes Jud 2024](#johannes-jud-2024)

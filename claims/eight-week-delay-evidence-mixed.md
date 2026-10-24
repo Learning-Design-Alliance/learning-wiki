@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-23
 sources:
   - id: katharina-scheiter-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102417"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-23 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spacing showed no evidence of lasting learning at an 8-week interval in a long-multiplication study with fourth graders. [→ Katharina Scheiter 2026](#katharina-scheiter-2026)

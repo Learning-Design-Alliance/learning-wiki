@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: dupéré-2014
     resource: "https://eric.ed.gov/?q=Stressors+and+Turning+Points+in+High+School+and+Dropout"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Survey and interview studies of dropouts find many left school with passing grades shortly before graduation and cite outside events; qualitative narratives identify pivotal precipitating events in almost 50% of cases. [→ Dupéré 2014](#dupere-2014)

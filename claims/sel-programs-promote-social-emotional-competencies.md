@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: strong
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: greenberg-2023
     resource: "https://doi.org/10.54300/928.269"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` SEL programs, usually taught by classroom teachers, promote the development of social and emotional competencies, with meta-analytic effect sizes ranging from 0.23 to 0.58. [→ Greenberg 2023](#greenberg-2023)

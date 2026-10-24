@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: charles-atta-koduah-2025
     resource: "https://doi.org/10.21203/rs.3.rs-11239563/v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In a direct sequential pathway, LMS quality proved significant (β = .263, p < .001), supporting serial mediation through LMS quality and blended-learning satisfaction. [→ Charles Atta Koduah 2025](#charles-atta-koduah-2025)

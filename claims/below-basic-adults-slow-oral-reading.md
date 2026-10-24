@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: sabatini-john-p-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3269067/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Adults scoring Below Basic on NAAL Prose Literacy read significantly fewer words correctly per minute than adults at Basic, Intermediate, or Proficient levels. [→ Sabatini John P. 2011](#sabatini-john-p-2011)

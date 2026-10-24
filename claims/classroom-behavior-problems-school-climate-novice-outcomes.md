@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2010
 sources:
   - id: lura-forcum-and-william-harms-2005
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers working in classrooms with a higher percentage of students with behavior problems are less likely to report a good teaching experience, to intend to continue teaching, and to plan to remain in the same school. [→ Lura Forcum and William Harms 2005](#lura-forcum-and-william-harms-2005)

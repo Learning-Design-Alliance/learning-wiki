@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: padhy-2026
     resource: "https://doi.org/10.70593/deepsci.0202038"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` AI integration in academic settings has moved faster than regulatory frameworks, so ethical practices, assessment, and institutional reactions are inconsistent. [→ Padhy 2026](#padhy-2026)

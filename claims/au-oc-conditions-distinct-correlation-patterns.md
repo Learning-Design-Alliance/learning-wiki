@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: kleibeuker-2013
     resource: "https://doi.org/10.3389/fnhum.2013.00905"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` AU-score correlated significantly with AUT-brick fluency (r = 0.54) and flexibility (r = 0.36) but not verbal fluency, while OC-score correlated with both fluency measures but not flexibility or originality. [→ Kleibeuker 2013](#kleibeuker-2013)

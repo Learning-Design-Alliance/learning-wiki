@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: jacobson-2025
     resource: "https://eric.ed.gov/?id=ED673563"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Primary data from six case study districts point to potential underinvestment in family support and engagement; the majority of these districts reported having no English Learner program family/community liaisons. [→ Jacobson 2025](#jacobson-2025)

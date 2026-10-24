@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: dos-santos-kawata-kh-2021
     title: dos Santos Kawata KH 2021
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A one-way ANOVA revealed a significant difference between surveys in CMS metacognition, with survey 3 (youngest sample) showing a significantly higher score (lower metacognitive ability) than surveys 1 and 2. [→ dos Santos Kawata KH 2021](#dos-santos-kawata-kh-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bly-2026
     resource: "https://doi.org/10.1007/s10648-026-10215-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Professional-development and intervention studies targeting educator behaviours were effective in changing educator behaviour but produced negligible effects on children's developmental outcomes. [→ Bly 2026](#bly-2026)

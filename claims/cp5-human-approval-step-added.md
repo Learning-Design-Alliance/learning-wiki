@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: amin-jalali-2026
     resource: "https://doi.org/10.48550/arxiv.2610.06207"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups that had modeled a fraud-screening path in BPMN introduced an explicit human-approval step in their n8n implementation once they encountered the structured-output reliability limitations of the local LLM. [→ Amin Jalali 2026](#amin-jalali-2026)

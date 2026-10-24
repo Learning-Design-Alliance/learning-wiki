@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: diaz-2021
     resource: "https://consortium.uchicago.edu/publications/CPS-gradebook-technical-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only about 2 percent of ninth-grade math sections used exclusively default category titles; in 98 percent teachers altered titles or created new ones, yielding 709 unique titles across 1,804 sections. [→ Diaz 2021](#diaz-2021)

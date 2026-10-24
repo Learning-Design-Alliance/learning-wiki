@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: sumeracki-2024
     resource: "https://doi.org/10.1007/s10648-024-09854-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that for science of learning research to have greater impact on education, the field must systematically identify educators' concerns about applying the research and systematically evaluate effective ways to communicate the science to overcome those concerns. [→ Sumeracki 2024](#sumeracki-2024)

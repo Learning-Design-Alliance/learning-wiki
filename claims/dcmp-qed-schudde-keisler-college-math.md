@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: schudde-keisler-qed
     title: schudde-keisler-qed
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the Schudde & Keisler (2019) quasi-experimental design (9,752 students), DCMP students were far more likely than students in a two-to-three-semester developmental sequence to ever pass a college-level math class (70.20% vs. 34.20%, effect size 0.92) and earned more cumulative college-level credits after three years (32.75 vs. 26.88, effect size 0.25). [→ schudde-keisler-qed](#schudde-keisler-qed)

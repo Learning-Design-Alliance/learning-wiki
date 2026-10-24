@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: wijekumar-1
     title: wijekumar-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a multisite cluster randomized controlled trial of 122 fourth-grade teachers, classroom-level TerraNova Basic Battery math scores did not differ significantly between Odyssey® Math and comparison classrooms, and the effect was not substantively important. [→ wijekumar-1](#wijekumar-1)

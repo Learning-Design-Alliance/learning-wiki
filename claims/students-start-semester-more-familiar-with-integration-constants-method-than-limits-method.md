@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: black-2009
     resource: "https://perlnet.umaine.edu/imt/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students at the start of instruction on air resistance are more familiar with the +C method than the limits method, and preference for +C persists after instruction for at least one student. [→ Black 2009](#black-2009)

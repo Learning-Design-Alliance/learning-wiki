@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: said-metwaly-2019
     resource: "https://scholar.google.com/scholar?q=Does+the+Fourth-Grade+Slump+in+Creativity+Actually+Exist"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Egger's three-level regression test indicated significant publication bias for the overall analysis (t = -2.33, df = 140, p = .02) but not for fluency, flexibility, or originality taken separately. [→ Said-Metwaly 2019](#said-metwaly-2019)

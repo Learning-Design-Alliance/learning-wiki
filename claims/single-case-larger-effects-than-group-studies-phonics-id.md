@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: sermier-dessemontet-2019
     resource: "https://doi.org/10.1016/j.edurev.2019.01.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i3` large
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` Within the meta-analysis, single-case experimental studies yielded a larger average effect size (g = 1.94, 95% CI: 1.10, 2.78) than group studies (g = 0.41, 95% CI: 0.13, 0.69). [→ Sermier Dessemontet 2019](#sermier-dessemontet-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ariyan-hossain-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15914"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Biased-condition participants had nearly four times the odds of recommending a gender-congruent occupation compared to neutral-condition participants (OR=3.91, p=.004). [→ Ariyan Hossain 2026](#ariyan-hossain-2026)

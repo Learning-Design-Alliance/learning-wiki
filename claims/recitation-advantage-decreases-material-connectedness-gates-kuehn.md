@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: van-gog-2015
     resource: "https://doi.org/10.1007/s10648-015-9310-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` As reported by the review, citing Gates (1917) summarizing Kühn (1914), the advantage of recitation over reading differs considerably according to the kind of material, being greater for less connected material. [→ van Gog 2015](#van-gog-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: jiao-chen-and-chunhui-liu-2023
     resource: "https://doi.org/10.3389/fpsyg.2023.1110944"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the unconditional parallel process model, maternal initial growth mindset positively predicted children's growth mindset at Time 5 (β = 0.127, p = 0.03); after demographic controls the path was marginally significant (β = 0.109, p = 0.064). [→ Jiao Chen and Chunhui Liu 2023](#jiao-chen-and-chunhui-liu-2023)

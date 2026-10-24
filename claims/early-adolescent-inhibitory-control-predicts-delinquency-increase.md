@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: fosco-2019
     resource: "https://doi.org/10.1016/j.adolescence.2019.08.008"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Worse task-based inhibitory control (higher SSRT) at age 11 predicted increases in delinquency from middle adolescence to emerging adulthood. [→ Fosco 2019](#fosco-2019)

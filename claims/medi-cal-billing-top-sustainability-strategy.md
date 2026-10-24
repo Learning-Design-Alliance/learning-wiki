@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: caparas-2024
     resource: "https://eric.ed.gov/?id=ED655746"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although LEAs rarely named Medi-Cal billing infrastructure as a priority in needs assessments, their project plans identified Medi-Cal billing as the most frequent strategy for sustaining new behavioral health investments. [→ Caparas 2024](#caparas-2024)

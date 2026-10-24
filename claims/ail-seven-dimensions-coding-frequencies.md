@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: veronika-hackl-2025
     resource: "https://doi.org/10.48550/arxiv.2509.18900"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 27 analyzed sources, Technical Knowledge and Skills appeared in 24/27, Application Proficiency in 26/27, Critical Thinking Ability in 23/27, Ethical Awareness and Reasoning in 20/27, Integration Skills in 18/27, Social Impact Understanding in 11/27, and Legal and Regulatory Knowledge in only 2/27. [→ Veronika Hackl 2025](#veronika-hackl-2025)

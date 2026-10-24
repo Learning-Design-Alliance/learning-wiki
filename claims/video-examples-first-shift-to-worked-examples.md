@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: milou-van-harsel-2022
     resource: "https://doi.org/10.1007/s11251-022-09589-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants selected more video modeling examples (36.9%) than worked examples (25.8%) on average, and the proportion of video modeling examples depended on task order, decreasing as the learning phase progressed while worked-example selection increased. [→ Milou van Harsel 2022](#milou-van-harsel-2022)

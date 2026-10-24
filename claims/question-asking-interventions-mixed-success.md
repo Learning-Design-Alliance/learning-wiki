@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-19
 sources:
   - id: azzurra-ruggeri-2022
     resource: "https://doi.org/10.1177/09637214221112114"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Direct training on constraint-seeking questions achieved only moderate success with benefits that did not generalize or persist, but prompting children to explain previous observations promoted more effective question asking without extensive training. [→ Azzurra Ruggeri 2022](#azzurra-ruggeri-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: victor-alexandru-pădurean-2026
     resource: "https://doi.org/10.1145/3765964.3811639"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Pearson correlations between number of mistakes and number of messages were non-significant (B1-2 r = .01, B1-3 r = -.02, B2-3 r = .10) or weak (B1-1 r = .19, B2-1 r = .17, B2-2 r = .17), indicating little evidence that the number of mistakes influenced the number of prompts needed. [→ Victor-Alexandru Pădurean 2026](#victor-alexandru-padurean-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: matthew-p-steinberg-and-lauren-sartain-2015
     resource: "https://doi.org/10.1162/EDFP_a_00173"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Pilot schools one standard deviation above the mean in prior reading achievement improved by 0.09 SD more than lower-performing pilot schools in year 1; the interaction was not significant in later years. [→ Matthew P. Steinberg and Lauren Sartain 2015](#matthew-p-steinberg-and-lauren-sartain-2015)

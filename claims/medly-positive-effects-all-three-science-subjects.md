@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wayne-harrison-2026
     resource: "https://doi.org/10.48550/arxiv.2609.14789"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Positive intention-to-treat effects were observed in all three subjects: Physics g = 0.31, Chemistry g = 0.32, Biology g = 0.52, with no evidence of a subject-by-treatment interaction. [→ Wayne Harrison 2026](#wayne-harrison-2026)

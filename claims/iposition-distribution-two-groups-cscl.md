@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: aaron-j-peltoniemi-2025
     resource: "https://doi.org/10.1007/s11412-025-09447-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across 34 dialogues and 121 utterances, group A's two most common I-positions were I–it (16 utterances) and I–me (16 utterances), whereas group B's were I–me (26 utterances) and I–we (24 utterances). [→ Aaron J. Peltoniemi 2025](#aaron-j-peltoniemi-2025)

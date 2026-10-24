@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: li-c-2025
     resource: "https://doi.org/10.1007/s44163-025-00401-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` DMO-GRU minimizes prediction errors better than the compared models and has the highest R2 score, indicating it accounts for a greater amount of variance in student performance outcomes. [→ Li C 2025](#li-c-2025)

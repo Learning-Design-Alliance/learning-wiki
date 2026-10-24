@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mahinpei-2026
     resource: "https://doi.org/10.48550/arxiv.2606.03095"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average ROUGE-L F1 similarity between draft and final feedback was 0.60 at course level, suggesting TAs use drafts as starting points and adapt them. [→ Mahinpei 2026](#mahinpei-2026)

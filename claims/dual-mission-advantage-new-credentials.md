@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: sean-gallagher-2019
     resource: "https://www.mathematica.org/publications/community-colleges-and-the-new-era-of-work-and-learning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The dual mission to offer both traditional degrees and workforce development programs gives community colleges a competitive advantage in piloting new credential types, especially those embeddable in degrees. [→ Sean Gallagher 2019](#sean-gallagher-2019)

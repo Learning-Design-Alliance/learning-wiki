@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: graesser-2016
     resource: "https://doi.org/10.1007/s40593-015-0086-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a direct comparison between AutoTutor and 1-to-1 human tutoring with experienced tutors in computer-mediated conversations, learning gains on Newtonian physics were virtually equivalent. [→ Graesser 2016](#graesser-2016)

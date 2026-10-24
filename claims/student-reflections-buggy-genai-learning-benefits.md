@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students framed the activity as learning by diagnosing and recovering from failure, reporting practice in reading, tracing, and repairing plausible programs. [→ rq3-reflections](#rq3-reflections)

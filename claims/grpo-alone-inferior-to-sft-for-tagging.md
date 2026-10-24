@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhiwei-yang-2026
     resource: "https://doi.org/10.48550/arxiv.2609.36982"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` LLMs trained with GRPO alone obtain F1 scores of only 0.6600, 0.5674, and 0.5388 on S Math, S Bio, and S Phy, significantly inferior to the same LLMs trained with SFT. [→ Zhiwei Yang 2026](#zhiwei-yang-2026)

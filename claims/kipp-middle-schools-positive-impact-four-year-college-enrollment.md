@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: thomas-coen-2019
     resource: "https://www.mathematica.org/publications/an-impact-that-lasts-kipp-middle-schools-boost-college-enrollment"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Attending a KIPP middle school produced a positive and statistically significant increase in enrollment in four-year colleges, per a randomized controlled trial of admissions lotteries. [→ Thomas Coen 2019](#thomas-coen-2019)

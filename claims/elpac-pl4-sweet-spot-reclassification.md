@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: faulkner-bond-2026
     resource: "https://eric.ed.gov/?id=ED681358"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across multiple statistical methods and all grade levels, scoring at ELPAC overall PL 4 remains the most robust indicator that language is no longer the primary driver of academic achievement differences. [→ Faulkner-Bond 2026](#faulkner-bond-2026)

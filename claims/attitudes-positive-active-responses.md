@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: dawes-2024
     resource: "https://doi.org/10.1007/s10648-024-09951-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Teachers with stronger antibullying attitudes reported more frequently disciplining/punishing bullies (r = 0.16), supporting victims (r = 0.16), involving parents (r = 0.10), and involving peer bystanders (r = 0.20). [→ Dawes 2024](#dawes-2024)

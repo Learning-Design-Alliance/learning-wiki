@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1922
 sources:
   - id: wilson-1922
     resource: "https://doi.org/10.1037/h0064444"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When the 12-year-old group was separated, the median was 23 on each of Tests A, B, and C, with quartiles on the same point or one step removed. [→ Wilson 1922](#wilson-1922)

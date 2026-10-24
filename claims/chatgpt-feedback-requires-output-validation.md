@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: xie-2025
     resource: "https://doi.org/10.3390/bs15070884"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Students receiving ChatGPT feedback developed hard evaluative judgement by validating procedural accuracy and interpretive soundness of AI outputs, and recognised that prompt quality influenced responses. [→ Xie 2025](#xie-2025)

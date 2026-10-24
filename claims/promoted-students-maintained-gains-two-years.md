@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: roderick-2000
     resource: "https://www.consortium-chicago.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who passed after Summer Bridge gained 3.0 GEs over three years versus 2.7 GEs for 1995 social promotes, suggesting Summer Bridge produced a one-time increase that kept them on track. [→ Roderick 2000](#roderick-2000)

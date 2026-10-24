@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-19
 sources:
   - id: hernández-2022
     resource: "https://doi.org/10.54300/165.102"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Accumulating evidence indicates restorative practices, with robust supports for adults, reduce exclusionary discipline, yielding fewer and less racially disparate suspensions and expulsions and improving school climate, relationships, and achievement. [→ Hernández 2022](#hernandez-2022)

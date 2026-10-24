@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: vasilopoulos-2023
     resource: "https://doi.org/10.1007/s10648-023-09760-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Significant mathematics benefits were observed for PA with academic instruction (g = 0.32), three sessions per week, 7–10-week duration and 20–44-min sessions, while enriched PA benefits were driven by language outcomes (g = 0.10). [→ Vasilopoulos 2023](#vasilopoulos-2023)

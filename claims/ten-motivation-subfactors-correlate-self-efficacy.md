@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: roshandel-2018
     resource: "https://doi.org/10.12973/iji.2018.11123a"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Each of the ten motivation sub-factors shows a significant positive correlation with self-efficacy, ranging from r = 0.19 (integrativeness) to r = 0.37 (criterion measures). [→ Roshandel 2018](#roshandel-2018)

@@ -8,6 +8,8 @@ generated:
 id: redundancy-principle
 aliases: [redundancy-harms-learning, redundancy-hurts-multimedia-learning, redundancy-principle-hurts-learning, redundancy-principle-on-screen-text-hurts-learning, redundant-on-screen-text-hurts-learning, redundancy-effect-impairs-learning]
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: trypke-et-al-2023
     resource: "https://doi.org/10.3389/fpsyg.2023.1148035"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q3` · n=63 studies (44 in the narration+on-screen-text "scenario 4")
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 Adding on-screen text that duplicates narration to a narrated animation or diagram, or adding redundant text to an already comprehensible graphic, is thought to overload working memory and has typically lowered learning outcomes relative to narration-plus-graphics alone. Without a visualization, written text added to narration is the opposite case: the review below reports positive effects there.
 

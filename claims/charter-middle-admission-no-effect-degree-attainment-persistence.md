@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: kate-place-2019
     resource: "https://www.mathematica.org/publications/do-charter-middle-schools-improve-students-college-outcomes-study-highlights"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Charter school admission did not affect degree attainment or students' chances of remaining enrolled in college. [→ Kate Place 2019](#kate-place-2019)

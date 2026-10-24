@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: jenny-nagaoka-2013
     resource: "https://consortium.uchicago.edu/publications/readiness-college-role-noncognitive-factors-and-context"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Evidence for social skills' effect on academic performance is unclear, while the clearest evidence is that poor social skills are associated with negative outcomes. [→ Jenny Nagaoka 2013](#jenny-nagaoka-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: moort-2022
     resource: "https://doi.org/10.1037/edu0000769"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No interactions between reading goal and congruency or accuracy were observed on target or spill-over reading times, providing no evidence that reading for study results in more extensive validation processes online. [→ Moort 2022](#moort-2022)

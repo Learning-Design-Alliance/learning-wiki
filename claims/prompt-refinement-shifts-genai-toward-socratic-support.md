@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across four weekly revisions informed by learner feedback, the SocratiCode prompt evolved from adaptive explanatory tutorialing toward a dialogic tutoring flow with pauses, reflection, learner response requirements, and hard stopping points. [→ evolution-1](#evolution-1)

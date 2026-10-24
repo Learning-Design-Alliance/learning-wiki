@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: stoet-g-2013
     title: Stoet G 2013
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The relation between the fraction of female mathematics students as a proportion of all female students and the corresponding male fraction has remained constant over the last 20 years in the Netherlands and the last 10 years in the United Kingdom. [→ Stoet G 2013](#stoet-g-2013)

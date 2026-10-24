@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: remy-m-j-p-rikers-2008
     resource: "https://doi.org/10.1007/s11251-008-9067-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gijbels and colleagues showed students changed their perception of assessment toward more deep-level demands but did not shift their actual learning approach toward a deeper one, and developed more surface approaches during the course. [→ Remy M. J. P. Rikers 2008](#remy-m-j-p-rikers-2008)

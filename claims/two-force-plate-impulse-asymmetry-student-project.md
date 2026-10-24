@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: barber-et-al-2007
     resource: "https://doi.org/10.48550/arXiv.0706.2717"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1`–`r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Kristina's jumps, the takeoff impulse was dominated by the left foot while the right foot dominated the landing, suggesting tilting during the jump. [→ Barber et al. 2007](#barber-et-al-2007)

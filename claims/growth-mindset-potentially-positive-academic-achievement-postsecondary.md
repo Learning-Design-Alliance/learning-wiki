@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: growth-mindset-interventions-2022
     resource: "https://whatworks.ed.gov"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Based on five studies with 5,301 students, Growth Mindset interventions show potentially positive effects on academic achievement, with an improvement index of +13 percentile points. [→ Growth Mindset Interventions 2022](#growth-mindset-interventions-2022)

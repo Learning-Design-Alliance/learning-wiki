@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: j-patrick-meyer-2023
     resource: "https://www.nwea.org/research/publication/content-proximity-spring-2022-pilot-study-research-report/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Math RMSDs between observed spring RIT and norms-predicted scores were consistently larger for the pilot group, while reading predictions were similar across groups. [→ J. Patrick Meyer 2023](#j-patrick-meyer-2023)

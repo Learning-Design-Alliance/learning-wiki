@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: rolf-ploetzner-2021
     resource: "https://doi.org/10.1007/s11251-021-09541-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the main study, the Animation group significantly outperformed both the Picture group (d = 2.33) and the Four Pictures group (d = 2.41) on identification of motions. [→ Rolf Ploetzner 2021](#rolf-ploetzner-2021)

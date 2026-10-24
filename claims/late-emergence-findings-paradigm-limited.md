@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: azzurra-ruggeri-2022
     resource: "https://doi.org/10.1177/09637214221112114"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Prior research found children generate the most effective questions from scratch only around age 7 and show adult-like inquiry patterns closer to age 10, but the author argues these paradigms were too complicated, abstract, or assumption-laden to capture early competence. [→ Azzurra Ruggeri 2022](#azzurra-ruggeri-2022)

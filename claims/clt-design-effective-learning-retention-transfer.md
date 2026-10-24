@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kala-2023
     resource: "https://doi.org/10.36681/tused.2023.027"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experimental-group effective learning scores (E = PZ - CLZ/√2) were higher than control scores at retention (E = .39 vs -.37) and transfer (E = .38 vs -.36). [→ Kala 2023](#kala-2023)

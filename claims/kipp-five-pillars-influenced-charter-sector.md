@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: joshua-furgeson-2014
     resource: "https://www.mathematica.org/publications/kipp-leadership-practices-through-2010-2011-technical-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Key elements of KIPP's model, the Five Pillars underlying the No Excuses model, have strongly influenced the charter school community and even traditional public schools. [→ Joshua Furgeson 2014](#joshua-furgeson-2014)

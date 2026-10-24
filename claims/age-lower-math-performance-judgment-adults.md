@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: maximilian-seitz-2025
     resource: "https://doi.org/10.1007/s11409-025-09416-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In a linear model controlling for education, age had a small negative effect on performance judgment in mathematical competence (β = −0.10, p < .01). [→ Maximilian Seitz 2025](#maximilian-seitz-2025)

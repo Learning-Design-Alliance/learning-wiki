@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: fitz-2025
     resource: "https://doi.org/10.54300/910.329"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When well implemented and well attended, summer academic, enrichment, and employment programs have demonstrated positive outcomes including reading and math achievement, social development, mental health, school engagement, and reduced risk-taking behaviors. [→ Fitz 2025](#fitz-2025)

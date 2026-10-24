@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: de-jonge-2015
     resource: "https://doi.org/10.1007/s10648-015-9300-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The average sentence-to-sentence cosine of the scrambled text was significantly lower than that of the coherent text, confirming the coherence manipulation. [→ de Jonge 2015](#de-jonge-2015)

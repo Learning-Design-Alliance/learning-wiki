@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2013
 sources:
   - id: doors-to-discovery-wwc-intervention-report-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/153"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In one study the print knowledge effect was positive and substantively important (Get Ready to Read! 1.01; Concepts of Print 0.37) but not statistically significant, while a second larger study found an indeterminate effect (0.08). [→ Doors to Discovery™ WWC Intervention Report 2013](#doors-to-discoverytm-wwc-intervention-report-2013)

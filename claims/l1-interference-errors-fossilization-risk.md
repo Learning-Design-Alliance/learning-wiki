@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 1990
 sources:
   - id: yu-liming-1990
     resource: "https://doi.org/10.18806/tesl.v8i1.575"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
+> **Currency** · newest study 1990 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Most of the author's errors came from L1 interference, such as "from your behind" produced by subconscious translation from Chinese. [→ Yu Liming 1990](#yu-liming-1990)

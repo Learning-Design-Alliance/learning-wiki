@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: stoelinga-2008
     resource: "https://consortium.uchicago.edu/publications/work-chicago-public-schools-principals"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Pressure to get test scores up quickly, social problems in the school's community, difficulty removing ineffective teachers, and apathetic or irresponsible parents remained the top four roadblocks in every survey year; bottom quartile principals stressed community problems while top quartile principals stressed test-score pressure. [→ Stoelinga 2008](#stoelinga-2008)

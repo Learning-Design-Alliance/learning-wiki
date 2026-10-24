@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: ouhao-chen-fred-paas-john-sweller-2023
     resource: "https://doi.org/10.1007/s10648-023-09782-w"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A worked a priori analysis counts the interacting elements a novice must process, e.g. 28 elements for solving a/b = c, versus an element interactivity count of 1 for an expert who holds the solution in long-term memory. [→ Ouhao Chen · Fred Paas · John Sweller 2023](#ouhao-chen-fred-paas-john-sweller-2023)

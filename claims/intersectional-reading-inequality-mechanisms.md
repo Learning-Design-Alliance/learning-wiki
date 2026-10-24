@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: keller-2023
     resource: "https://doi.org/10.1007/s10648-023-09733-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The literature documents that SES, immigrant background, and gender operate simultaneously and are mutually constitutive in explaining reading achievement inequalities. [→ Keller 2023](#keller-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: dahl-leonard-2025
     resource: "https://doi.org/10.1007/s10648-025-09985-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` For group design studies, the mean effect for meaning-focused outcomes (vocabulary, listening comprehension, reading comprehension) was g = 0.41, larger than the mean effect for code-focused outcomes (PA, decoding/word reading, spelling, text reading) of g = 0.28, both significant. [→ Dahl-Leonard 2025](#dahl-leonard-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: elaine-m-allensworth-2000
     resource: "https://consortium.uchicago.edu/publications/access-magnet-schools-chicago"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The share of magnet elementary enrollment from within 1.5 miles remained 33.4 percent between fall 1997 and fall 1999, and the share from beyond six miles dropped only from 10.9 to 10.2 percent. [→ Elaine M. Allensworth 2000](#elaine-m-allensworth-2000)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: nicolas-rodriguez-alvarez-2026
     resource: "https://doi.org/10.48550/arxiv.2605.26010"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within-pathway tests found no significant gender difference in active creation confidence in Arts and Humanities (n=48, p=0.841) or Sciences (n=75, p=0.142), but a significant gap in the Technology pathway (n=111, p=0.046). [→ Nicolas Rodriguez-Alvarez 2026](#nicolas-rodriguez-alvarez-2026)

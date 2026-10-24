@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hong-qu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18505"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Wilcoxon signed-rank tests indicated statistically significant pre–post increases for Innovation and Motivation (p = 0.0072) and Self-Directed Learning Ability (p = 0.0058). [→ Hong Qu 2026](#hong-qu-2026)

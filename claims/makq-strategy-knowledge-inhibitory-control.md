@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: mulvihill-2025
     resource: "https://doi.org/10.1007/s11409-025-09433-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Students reporting more strategies made fewer commission errors (r = −.40) and showed lower reaction-time variability/Tau (r = −.34) on Go-No-Go; control and monitoring subscales were not associated with behavioural task performance. [→ Mulvihill 2025](#mulvihill-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-22
 sources:
   - id: fusco-2025
     resource: "https://doi.org/10.51388/20.500.12265/252"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Formative assessment may help increase student motivation by providing students with choices (autonomy), opportunities for success (competence), and a sense of belonging (relatedness). [→ Fusco 2025](#fusco-2025)

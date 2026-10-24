@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: ramsburg-2015
     resource: "https://www.google.com/search?q=%22Category+Change+in+the+Absence+of+Cognitive+Conflict%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Limón's (2001) review found cognitive conflict benefits typically smaller than expected and no measurable benefit in most studies. [→ Ramsburg 2015](#ramsburg-2015)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
+recheck_by: 2018
 sources:
   - id: stoet-g-2013
     title: Stoet G 2013
@@ -27,6 +30,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The overall average reading sex difference increased from 32.0 points in 2000 to 38.8 points in 2009, t(32) = 26.25, p < .001. [→ Stoet G 2013](#stoet-g-2013)

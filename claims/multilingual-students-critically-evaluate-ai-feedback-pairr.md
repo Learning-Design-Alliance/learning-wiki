@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: macarthur-m-2025
     title: MacArthur M 2025
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` All three focal multilingual international students critically evaluated AI feedback, e.g., criticizing ChatGPT's feasibility-study feedback as too general and disagreeing with suggested memo additions. [→ MacArthur M 2025](#macarthur-m-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: andrew-c-butler-shana-k-carpenter-2015
     resource: "https://doi.org/10.1007/s10648-015-9344-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The overwhelming majority of laboratory and classroom studies support that long-term learning is maximized when instruction is distributed rather than massed. [→ Andrew C. Butler & Shana K. Carpenter 2015](#andrew-c-butler-shana-k-carpenter-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the O'Connor et al. (1993a, b, c) and Slocum et al. (1993a, b) studies, effects on measures more aligned with the nature of the training (blending, segmenting) were larger than effects on less aligned measures. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

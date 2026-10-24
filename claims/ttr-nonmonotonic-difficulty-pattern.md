@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: kole-norberg-2025
     resource: "https://doi.org/10.5281/zenodo.15870274"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both very low and very high lexical diversity appeared to increase text difficulty, suggesting some lexical variation may support reading comprehension of MWPs. [→ Kole Norberg 2025](#kole-norberg-2025)

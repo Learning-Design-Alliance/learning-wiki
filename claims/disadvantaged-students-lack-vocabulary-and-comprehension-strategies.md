@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
+source_checked: 2026-10-16
 sources:
   - id: james-burdumy-2009
     resource: "https://www.mathematica.org/publications/pr-effectiveness-of-selected-supplemental-reading-comprehension-interventions-impacts"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Children from disadvantaged backgrounds may have difficulty comprehending text because they often lack general vocabulary and strategies for organizing information and gleaning knowledge from text. [→ James-Burdumy 2009](#james-burdumy-2009)

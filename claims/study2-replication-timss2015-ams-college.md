@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: núñez-regueiro-2024
     resource: "https://doi.org/10.1007/s10648-024-09905-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Study 2 probed robustness of Study 1 findings by cross-validating with TIMSS 2015 data and a college SDT dataset measured with the Academic Motivation Scale. [→ Núñez-Regueiro 2024](#nunez-regueiro-2024)

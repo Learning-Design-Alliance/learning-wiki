@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: bernardini-2004
     resource: "https://doi.org/10.1017/S1366728904001270"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The weaker-language parts of code-mixed utterances show the same syntactic structure as pure utterances in that language in the same recording session. [→ Bernardini 2004](#bernardini-2004)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: what-works-clearinghouse-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/714"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` In the RCT, Bottom Line participants were continuously enrolled for the three semesters following high school at higher rates than comparison students (effect size 0.33, improvement index +13, p < .01). [→ What Works Clearinghouse 2021](#what-works-clearinghouse-2021)

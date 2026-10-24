@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2018
 sources:
   - id: lara-hulsey-2015
     resource: "https://www.mathematica.org/publications/promise-neighborhood-site-profile-buffalo-promise-neighborhood"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The Buffalo Promise Neighborhood serves a community that is 76 percent minority, where 38 percent of residents live below the federal poverty level and 88 percent of students qualify for free or reduced-price school meals. [→ Lara Hulsey 2015](#lara-hulsey-2015)

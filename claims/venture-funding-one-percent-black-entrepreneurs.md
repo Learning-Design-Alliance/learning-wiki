@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: vc-stat
     title: vc-stat
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In an analysis of 10,000 tech entrepreneurs and 135 venture capital firms, only 1% of tech projects receiving venture funding were Black individuals. [→ vc-stat](#vc-stat)

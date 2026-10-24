@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: martinez-roig-2026
     resource: "https://doi.org/10.1007/s44322-026-00072-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In seven of the thirteen studies (53.8%), frequent supervision by teaching staff or researchers was needed, mainly because of voice recognition issues, programming difficulties and technical glitches. [→ Martinez-Roig 2026](#martinez-roig-2026)

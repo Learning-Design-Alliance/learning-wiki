@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: gunderson-2018
     resource: "https://doi.org/10.1037/dev0000444"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Boys received a larger proportion of process praise as toddlers than girls (d = 0.90) and had higher 4th grade math scores (d = 0.82); indirect paths from gender through praise and frameworks to achievement were significant. [→ Gunderson 2018](#gunderson-2018)

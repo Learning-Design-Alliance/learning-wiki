@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: meg-guerreiro-2017
     resource: "https://www.nwea.org/research/publication/the-impact-of-a-technology-enhanced-math-performance-task-on-student-cognitive-engagement-in-mathematics/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Qualitative interview data indicated students preferred using technology to take tests and favored the technology-enhanced task's interactivity and animations. [→ Meg Guerreiro 2017](#meg-guerreiro-2017)

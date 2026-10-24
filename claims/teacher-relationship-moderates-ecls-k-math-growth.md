@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: blair-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2015.10.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Teacher–child relationship quality significantly moderated the association between preschool and kindergarten math on the ECLS-K Math measure (β = −0.08, p < .001), but not on the Applied Problems subtest. [→ Blair 2016](#blair-2016)

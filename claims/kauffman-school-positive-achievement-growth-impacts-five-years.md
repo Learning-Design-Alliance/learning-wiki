@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-08
+recheck_by: 2020
 sources:
   - id: matthew-johnson-2017
     resource: "https://www.mathematica.org/publications/ewing-marion-kauffman-school-evaluation-impact-report-year-5-executive-summary"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In each of its first five years, the Kauffman School had positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, English language arts and science, beyond the growth achieved by students in other Kansas City public schools. [→ Matthew Johnson 2017](#matthew-johnson-2017)

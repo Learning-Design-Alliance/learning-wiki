@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: leadership-1
     title: leadership-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At least 90 percent of panelist and moderator respondents agreed or strongly agreed that the role increased their expertise in the topic, their confidence to support peers, and their confidence as a leader. [→ leadership-1](#leadership-1)

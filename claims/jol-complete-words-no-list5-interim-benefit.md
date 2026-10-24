@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: veit-kubik-2022
     resource: "https://doi.org/10.1007/s11409-022-09307-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` JOLs with complete words did not significantly improve interim List-5 recall relative to restudy (d = 0.25, p = .264); equivalence was not tested. [→ Veit Kubik 2022](#veit-kubik-2022)

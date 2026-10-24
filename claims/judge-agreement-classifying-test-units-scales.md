@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1923
 sources:
   - id: herring-1923
     resource: "https://psycnet.apa.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1923 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The uniformity of judgment among the five judges, indicated by average judge-with-judge correlation, is 0.542 ± 0.019. [→ Herring 1923](#herring-1923)

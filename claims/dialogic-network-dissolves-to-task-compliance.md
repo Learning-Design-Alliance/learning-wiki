@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: baruch-b-schwarz-2025
     resource: "https://doi.org/10.1007/s11251-024-09669-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After about six minutes of collaborative argumentation, a student's call to start working shifted the group from dialogic argumentation to a less dialogic network of reading and classifying cards, ending their collaborative argumentation. [→ Baruch B. Schwarz 2025](#baruch-b-schwarz-2025)

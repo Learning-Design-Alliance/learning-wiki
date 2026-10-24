@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: regional-educational-laboratory-central-at-mathematica-2026
     resource: "https://ies.ed.gov/ncee/rel/algebra-middle-and-high-school/intro"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Implementation requires one facilitator per toolkit PLC, an educational leader who provides support, guidance, and coordination for sessions within each module and prepares for and leads the sessions. [→ Regional Educational Laboratory Central at Mathematica 2026](#regional-educational-laboratory-central-at-mathematica-2026)

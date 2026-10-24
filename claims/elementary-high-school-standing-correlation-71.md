@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: walter-r-miles-w-s-smiley-1915
     resource: "https://books.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i3` large
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The correlation between average elementary school standing and average high school standing was r = +.71, with Dearborn's similar coefficient about +.80. [→ Walter R. Miles; W. S. Smiley 1915](#walter-r-miles-w-s-smiley-1915)

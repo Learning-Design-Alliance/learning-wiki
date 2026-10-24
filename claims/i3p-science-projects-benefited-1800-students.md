@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: layton-jaramillo-2025
     resource: "https://doi.org/10.3926/jotse.3115"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` According to project reports and I3P monitoring, the 15 science projects benefited approximately 1,800 students from different courses. [→ Layton-Jaramillo 2025](#layton-jaramillo-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: de-bruin-2017
     resource: "https://doi.org/10.1007/s11409-016-9159-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 71.4% of students who failed the exam predicted a passing score three days before the exam, down from 91.1% at course start. [→ de Bruin 2017](#de-bruin-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dohn-2026
     resource: "https://doi.org/10.1007/s42438-026-00671-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`–`q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Taxonomic representation across five examples revealed clear differences between apparently similar activities (Examples 1 and 2) regarding teacher pre-configuring of GenAI and student reflection on GenAI decision-making. [→ Dohn 2026](#dohn-2026)

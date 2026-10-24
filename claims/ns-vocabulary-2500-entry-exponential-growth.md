@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2006
+recheck_by: 2011
 sources:
   - id: roessingh-2006
     resource: "https://doi.org/10.18806/tesl.v23i2.57"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Citing Moskowitz (1978), the author reports native-speaker 6-year-olds have around 2,500 words at school entry, gain about 3,000 words a year, and that vocabulary growth appears exponential once independent reading begins around GE 4-5. [→ Roessingh 2006](#roessingh-2006)

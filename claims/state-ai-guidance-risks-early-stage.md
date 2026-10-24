@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: roschelle-2024
     resource: "https://doi.org/10.51388/20.500.12265/204"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All seven states describe risks of AI entering education, including bias and inaccuracy, data privacy, plagiarism, bullying, overreliance, and digital divides, but the work to manage these risks appears to be at an early stage. [→ Roschelle 2024](#roschelle-2024)

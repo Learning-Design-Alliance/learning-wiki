@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: ginns-2006
     resource: "https://doi.org/10.1016/j.learninstruc.2006.10.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Meta-analytic moderation testing shows one-on-one testing yields larger effects (d = .89) than group testing (d = .65), yet group-tested effects still exceed benchmarks for educational significance. [→ Ginns 2006](#ginns-2006)

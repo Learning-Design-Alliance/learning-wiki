@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: grugan-2021
     resource: "https://doi.org/10.1007/s10648-021-09597-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across seven group-based studies, healthy perfectionist groups reported more positive outcomes (happiness, positive adjustment, self-esteem) and fewer negative outcomes than unhealthy perfectionist groups. [→ Grugan 2021](#grugan-2021)

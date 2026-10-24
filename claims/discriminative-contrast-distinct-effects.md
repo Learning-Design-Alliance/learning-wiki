@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ouhao-chen-2022
     resource: "https://doi.org/10.1007/s10648-022-09678-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The discriminative-contrast hypothesis assumes spacing and interleaving are distinct effects because the interleaving effect is more likely to be obtained using more similar than less similar interleaved tasks. [→ Ouhao Chen 2022](#ouhao-chen-2022)

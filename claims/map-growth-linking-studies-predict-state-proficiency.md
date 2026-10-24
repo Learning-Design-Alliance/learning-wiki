@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-09
+recheck_by: 2029
 sources:
   - id: map-growth-technical-report-for-20242025-2026
     resource: "https://www.nwea.org/research/publication/map-growth-technical-report/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` NWEA linking studies connect MAP Growth scores to state summative assessments and, combined with the norms model, predict proficiency on state assessments from fall, winter, or spring scores. [→ MAP Growth Technical Report for 2024–2025 2026](#map-growth-technical-report-for-20242025-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1980
 sources:
   - id: zechmeister-1980
     resource: "https://doi.org/10.3758/bf03329756"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 1980 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For singles, MP items, and DP items alike, items rated high (6-7) were recalled more often than items rated low or intermediate. [→ Zechmeister 1980](#zechmeister-1980)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hilit-maizel-2026
     resource: "https://doi.org/10.3390/educsci16071123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The full regression model was significant and accounted for 27.3% of variance, exceeding the 22.1% obtained when AI literacy was modeled as one aggregate score. [→ Hilit Maizel 2026](#hilit-maizel-2026)

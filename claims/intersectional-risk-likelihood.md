@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: mariann-lemke-2024
     resource: "https://eric.ed.gov/?id=ED663754"
@@ -39,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Students belonging to more historically underserved groups have a greater chance of being identified as at risk; students in all three groups have an even higher likelihood. [→ Mariann Lemke 2024](#mariann-lemke-2024)

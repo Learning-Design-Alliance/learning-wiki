@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: math-180-evidence-rating-summary-2017
     resource: "https://www.hmhco.com/math-180"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In a 2016-2017 matched comparison study of intervention-eligible students in grades 5 through 8, Math 180 students demonstrated significantly greater gains on the NWEA MAP mathematics assessment than comparison students after baseline equivalence was established, with an effect size of +0.23. [→ Math 180® Evidence Rating Summary 2017](#math-180-evidence-rating-summary-2017)

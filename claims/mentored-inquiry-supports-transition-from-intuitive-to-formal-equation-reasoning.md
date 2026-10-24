@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: kapon-schvartzer-2024
     resource: "https://doi.org/10.1080/07370008.2023.2197232"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1` · n=1 high-school student and 1 mentor, one academic year (October 2016-September 2017)
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Over a year-long mentored physics research project, one student's reasoning about a wave-velocity equation progressed from purely intuitive mechanistic explanation to increasingly sophisticated, mathematically-grounded interpretation, moving through the equation's meaning at increasing depth and shifting from passively following instructions to autonomous, self-directed investigation.
 

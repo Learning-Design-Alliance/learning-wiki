@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-18
 sources:
   - id: smith-2024
     resource: "https://doi.org/10.51388/20.500.12265/202"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over 90 percent of teachers who participated in the student-led mental health professional development sessions reported that they agreed or strongly agreed that they are more conscious of the experiences of students of color in school. [→ Smith 2024](#smith-2024)

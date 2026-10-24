@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: kevin-booker-2008
     resource: "https://www.mathematica.org/publications/going-beyond-test-scores-evaluating-charter-school-impact-on-educational-attainment-in-chicago-and-florida"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study found substantial positive charter high school effects on both high school completion and college attendance in Florida and Chicago. [→ Kevin Booker 2008](#kevin-booker-2008)

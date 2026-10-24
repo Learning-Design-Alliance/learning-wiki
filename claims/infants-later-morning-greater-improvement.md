@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1911
 sources:
   - id: w-h-winch-1911
     resource: "https://eric.ed.gov/?q=Mental+Adaptation+During+the+School+Day+as+Measured+by+Arithmetical+Reasoning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 10.25 A.M. group improved 14.5 per cent on its preliminary record while the 9.40 A.M. group improved 8.7 per cent. [→ W. H. Winch 1911](#w-h-winch-1911)

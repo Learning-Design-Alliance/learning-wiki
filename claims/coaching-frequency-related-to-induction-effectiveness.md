@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: wechsler-2024
     resource: "https://doi.org/10.54300/636.224"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most completers received weekly or more frequent coaching field support, but a substantial minority received it once per month or less, and frequency of field support is positively related to ratings of program effectiveness. [→ Wechsler 2024](#wechsler-2024)

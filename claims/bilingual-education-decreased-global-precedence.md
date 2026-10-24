@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: ik-christoffels-2015
     resource: "https://doi.org/10.1007/s00426-014-0575-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The bilingually educated group showed a decreased global precedence effect relative to the regular group, which the authors interpret as a bias towards a more focused scope of attention. [→ I.K. Christoffels 2015](#ik-christoffels-2015)

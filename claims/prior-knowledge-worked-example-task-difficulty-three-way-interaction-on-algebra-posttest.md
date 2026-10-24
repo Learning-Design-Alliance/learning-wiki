@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant three-way interaction of prior knowledge, worked-example type and task difficulty was found on the simultaneous-equation posttest (F1, 107 = 4.61, p < .05, ŋ2 = .04), while no significant three-way interaction was detected for types of cognitive load. [→ Gupta 2020](#gupta-2020)

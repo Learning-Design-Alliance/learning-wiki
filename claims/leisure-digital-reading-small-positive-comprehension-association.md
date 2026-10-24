@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: altamura-2023
     resource: "https://doi.org/10.3102/00346543231216463"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 39 effect sizes from 26 studies, the overall association between leisure digital reading habits and reading comprehension is small, positive, and statistically significant (r = .055). [→ Altamura 2023](#altamura-2023)

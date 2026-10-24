@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: borofsky-larissa-a-2013
     resource: "https://doi.org/10.1037/a0034121"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The relationship between time 1 community violence and GPA was reduced but remained significant after adding time 2 school engagement, indicating significant partial mediation. [→ Borofsky Larissa A. 2013](#borofsky-larissa-a-2013)

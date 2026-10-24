@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chen-2026
     resource: "https://doi.org/10.1007/s10648-025-10092-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Across 137 effect sizes from 41 studies, females outperform males in L2 learning achievement with a small pooled effect (g = 0.17). [→ Chen 2026](#chen-2026)

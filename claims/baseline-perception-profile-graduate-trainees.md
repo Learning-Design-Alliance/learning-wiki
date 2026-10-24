@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: yongkyung-oh-2026
     resource: "https://doi.org/10.48550/arxiv.2606.18548"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Pre-instruction responses show high endorsement of critical-thinking risk and training interest, moderate distinguishing capability, and more cautious complex-task trust than accuracy trust. [→ Yongkyung Oh 2026](#yongkyung-oh-2026)

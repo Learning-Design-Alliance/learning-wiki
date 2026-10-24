@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: karavi-2022
     resource: "https://doi.org/10.29333/ejmste/12173"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Lew et al.'s (2016) study as reviewed, students did not recognize the identified key points of a proof on convergence of Cauchy sequences, possibly because they attended only to the blackboard or to algebraic manipulations rather than the lecturer's verbal delivery. [→ Karavi 2022](#karavi-2022)

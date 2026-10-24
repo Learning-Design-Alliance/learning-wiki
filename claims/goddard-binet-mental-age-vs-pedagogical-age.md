@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1912
 sources:
   - id: j-c-b-1912
     resource: "https://openlibrary.org/search?q=recent+literature+on+the+binet+tests"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Goddard finds that mental age on the Binet scale corresponds to grade placement for only about half of over-age and under-age pupils, who are therefore said to be improperly graded. [→ J. C. B 1912](#j-c-b-1912)

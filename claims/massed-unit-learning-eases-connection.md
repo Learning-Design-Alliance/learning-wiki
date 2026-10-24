@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1921
 sources:
   - id: pechstein-1921
     resource: "https://doi.org/10.1037/h0070137"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rats that learned the four short sections under massed conditions all effected the serial connections, several without a single error. [→ Pechstein 1921](#pechstein-1921)

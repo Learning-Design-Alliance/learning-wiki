@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: schochet-2009
     resource: "https://www.mathematica.org/publications/do-typical-rcts-of-education-interventions-have-sufficient-statistical-power-for-linking-impacts-on-teacher-practice-and-student-achievement-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Measurement error reduces the non-centrality parameter, and hence statistical power, by lowering the model R2 values. [→ Schochet 2009](#schochet-2009)

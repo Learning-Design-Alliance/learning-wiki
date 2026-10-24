@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 1987
+recheck_by: 1992
 sources:
   - id: kaplan-and-dove-1987
     resource: "https://doi.org/10.1037//0012-1649.23.2.190"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · n=unreported in secondary source
+> **Currency** · newest study 1987 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1992**: baselines and conditions change
 
 Standard motor-milestone charts (e.g., typical walking age) are often treated as universal biological timetables. Cross-cultural evidence shows the *timing* of milestones is substantially shaped by childcare practice, even though the eventual, functional motor competence converges across cultures by around age 9.
 

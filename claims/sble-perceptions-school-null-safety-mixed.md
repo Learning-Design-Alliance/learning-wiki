@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: fisher-2022
     resource: "https://eric.ed.gov/?id=ED621156"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1`–`r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analyses of four perception studies (two school-level, two student-level) found no statistically significant relationship between SBLE and perceptions of school. [→ Fisher 2022](#fisher-2022)

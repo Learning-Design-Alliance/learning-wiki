@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1911
 sources:
   - id: irving-king-and-hugo-gold-1911
     resource: "https://eric.ed.gov/?q=A+Tentative+Standardization+of+Certain+Opposites+Tests"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The authors offer standardized easy stimulus-word lists consisting only of words to which ninety percent or more of the 100 subjects gave the correct opposite. [→ Irving King and Hugo Gold 1911](#irving-king-and-hugo-gold-1911)

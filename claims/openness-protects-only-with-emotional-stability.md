@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zavhorodnia-2026
     resource: "https://doi.org/10.5964/ejop.17767"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A significant openness × emotional stability interaction (β = –.007, p = .010) showed openness predicted higher well-being at high (β = –.297, p < .001) and average (β = –.163, p = .004) emotional stability, but not at low levels (β = –.475, p = .635). [→ Zavhorodnia 2026](#zavhorodnia-2026)

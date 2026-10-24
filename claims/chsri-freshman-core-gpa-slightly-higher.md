@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: susan-sporte-2010
     resource: "https://consortium.uchicago.edu/publications/chicago-high-school-redesign-initiative-schools-students-and-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Core GPAs of first-time freshmen at CHSRI schools were slightly higher than those of similar students at similar non-CHSRI schools, statistically significant in most years, but averaged between about 1.7 and 1.9, below a C. [→ Susan Sporte 2010](#susan-sporte-2010)

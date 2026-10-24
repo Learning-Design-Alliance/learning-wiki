@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yoonsu-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2504.00843"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Three authors coded 372 sampled error cases (13.2% of 2,816) into five error types with substantial inter-rater reliability (Fleiss' κ= 0.74). [→ Yoonsu Kim 2026](#yoonsu-kim-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: adams-2017
     resource: "https://learningpolicyinstitute.org/product/next-generation-accountability"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` FRL students in A and B schools scored approximately .47 standard deviation units lower than Non-FRL students in 2012 and 2013, increasing to .54 standard deviation units in 2014. [→ Adams 2017](#adams-2017)

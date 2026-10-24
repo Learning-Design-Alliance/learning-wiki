@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: albert-lionelle-2024
     title: Albert Lionelle 2024
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 60 CS degree programs grouped by representation of women graduates, structural complexity differed significantly across groups, with higher complexity correlated with lower representation of women. [→ Albert Lionelle 2024](#albert-lionelle-2024)

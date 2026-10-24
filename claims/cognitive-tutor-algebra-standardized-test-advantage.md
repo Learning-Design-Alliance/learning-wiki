@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: ritter-2007
     resource: "https://doi.org/10.3758/bf03194060"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Pittsburgh and Milwaukee studies, Cognitive Tutor students significantly outscored peers on standardized tests by about 0.3 SDs, with effect sizes of 0.7 to 1.2 SDs on problem solving and multiple representations. [→ Ritter 2007](#ritter-2007)

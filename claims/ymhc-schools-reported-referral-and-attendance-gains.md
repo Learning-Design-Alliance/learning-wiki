@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: wested-2025
     resource: "https://www.wested.org/resource/building-a-model-of-student-centered-support-through-the-youth-mental-health-corps/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schools where YMHC members worked reported reduced behavioral referrals and improved attendance, and students began proactively seeking mental health support. [→ WestEd 2025](#wested-2025)

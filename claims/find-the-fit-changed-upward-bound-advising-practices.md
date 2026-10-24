@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: martinez-2018
     resource: "https://www.mathematica.org/publications/study-of-enhanced-college-advising-in-upward-bound-impacts-on-steps-toward-college-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Find the Fit led to some changes in the advising within Upward Bound and in students' actions related to enrolling in a more selective college. [→ Martinez 2018](#martinez-2018)

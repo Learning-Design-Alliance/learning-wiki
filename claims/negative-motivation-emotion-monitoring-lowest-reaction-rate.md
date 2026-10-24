@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: sobocinski-2020
     resource: "https://doi.org/10.1007/s11409-020-09224-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q1`–`q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A reaction followed 84.5% of all monitoring events, and negative-valence monitoring of motivation or emotion was followed by a reaction least often (57.14% of such events). [→ Sobocinski 2020](#sobocinski-2020)

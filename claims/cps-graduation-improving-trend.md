@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: allensworth-2005
     resource: "https://consortium.uchicago.edu/publications/graduation-and-dropout-trends-chicago-look-cohorts-students-1991-2004"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Graduation rates improved steadily since the early 1990s, excepting the first two cohorts under the eighth-grade promotion standards. [→ Allensworth 2005](#allensworth-2005)

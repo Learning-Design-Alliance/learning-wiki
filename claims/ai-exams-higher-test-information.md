@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: calvin-isley-2025
     resource: "https://doi.org/10.48550/arxiv.2508.08314"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Averaged over class exams, AI-generated exams achieved higher maximum test information and conditional reliability than standardized-test-composed exams. [→ Calvin Isley 2025](#calvin-isley-2025)

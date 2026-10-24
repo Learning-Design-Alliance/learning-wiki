@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1920
 sources:
   - id: arthur-i-gates-1920
     resource: "https://eric.ed.gov/?q=true-false+test+as+a+measure+of+achievement+in+college+courses+gates"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Average correlations with intelligence are .406 for true-false, .344 for essays, and .255 for written work; the true-false-essay difference (.062) is about equal to its standard error (.067). [→ Arthur I. Gates 1920](#arthur-i-gates-1920)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-xu-2026
     resource: "https://doi.org/10.3390/bs16081378"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI technological support had standardized path coefficients of 0.128 to innovative competence, 0.609 to AI self-efficacy, and 0.423 to self-regulated learning; school-based intelligent environment support had coefficients of 0.251, 0.176, and 0.338 respectively. [→ Liu Xu 2026](#liu-xu-2026)

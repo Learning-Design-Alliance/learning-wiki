@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: stoet-g-2013
     title: Stoet G 2013
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across nations, countries with a smaller sex difference in mathematics have a larger sex difference in reading, with Pearson's r ranging from −0.60 to −0.78 (ps < .001) in all four assessments. [→ Stoet G 2013](#stoet-g-2013)

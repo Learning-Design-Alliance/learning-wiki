@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: randall-et-al-2025
     resource: "https://doi.org/10.1080/10508406.2025.2574311"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=13 children across two tasks (9 bus task, 4 healthcare task), from a majority Hispanic and Black, low-income school district
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Funds-of-knowledge-grounded tasks reveal computational thinking that decontextualized assessment misses -->
 
 When formative assessment tasks for young children were built around specific household and community practices identified through family interviews, children showed computational thinking (sequencing, abstraction, data reasoning, algorithmic logic) in them. Whether standard, decontextualized computational-thinking assessments would miss that competence was not tested: the study compared no such assessment with the same children.

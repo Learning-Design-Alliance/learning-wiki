@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: harvey-j-ginsburg-2016
     resource: "https://eric.ed.gov/?id=EJ1123456"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article reports, citing Cottena, Ford, Ford and Halea (2013), that Internet use among senior citizens reduced depressive symptoms by 30% compared to non-users. [→ Harvey J. GINSBURG 2016](#harvey-j-ginsburg-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: theobald-2021
     resource: "https://doi.org/10.1016/j.cedpsych.2021.101976"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Meta-analytic effect sizes by outcome were: metacognitive strategies g = .40, resource management strategies g = .39, academic performance g = .37, motivational outcomes g = .35, cognitive strategies g = .32. [→ Theobald 2021](#theobald-2021)

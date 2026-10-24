@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: madeleine-eastwood-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29995"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Query volume differed significantly across conditions (χ²(3)=13.28, p=.004); Socratic + No Context students sent the most queries per problem (μ=11.1) versus 5.1, 4.1, and 4.7 in the other conditions. [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)

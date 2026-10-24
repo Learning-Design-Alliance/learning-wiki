@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: dang-2026
     resource: "https://doi.org/10.48550/arxiv.2610.07097"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In interviews and feedback from 36 students, accounts followed a sequence of scepticism, reassurance from the named-verifier label, and use patterns; the label prompted scrutiny rather than replacing it. [→ Dang 2026](#dang-2026)

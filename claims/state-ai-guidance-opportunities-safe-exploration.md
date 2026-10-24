@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: roschelle-2024
     resource: "https://doi.org/10.51388/20.500.12265/204"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The state documents describe opportunities including personalized learning and feedback, lesson plan development, translation, critical thinking support, assistive technology, administrative automation, and new learning experiences, with an overall encouraging tone recommending safe exploration. [→ Roschelle 2024](#roschelle-2024)

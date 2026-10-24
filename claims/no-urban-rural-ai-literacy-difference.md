@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: liu-qingqi-2026
     resource: "https://doi.org/10.3390/bs16071110"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An independent-samples t-test found no statistically significant difference in AI literacy scores between urban and rural participants (t = 1.90, p = 0.06; Cohen's d = 0.12). [→ Liu Qingqi 2026](#liu-qingqi-2026)

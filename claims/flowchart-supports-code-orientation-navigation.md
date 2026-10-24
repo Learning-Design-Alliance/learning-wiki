@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tseng-2026
     resource: "https://doi.org/10.48550/arxiv.2607.06721"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the lab study, 8/9 participants used the flowchart, 5/9 cited it for orientation, 5/9 cited its cross-file highlighting, and users clicked nodes an average of 10.8 times (SD=6.8). [→ Tseng 2026](#tseng-2026)

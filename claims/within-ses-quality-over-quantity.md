@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: schwab-jessica-f-2016
     resource: "https://doi.org/10.1002/wcs.1393"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 60 low-income families, measures of communication quality (joint engagement, routines, fluency) accounted for more variance in expressive language at 36 months than maternal words per minute. [→ Schwab Jessica F. 2016](#schwab-jessica-f-2016)

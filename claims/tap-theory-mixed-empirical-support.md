@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: rowland-2014
     resource: "https://doi.org/10.1037/a0037559"
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Empirical support for TAP theory is mixed: some studies fit its predictions while others produced results problematic for it. [→ Rowland 2014](#rowland-2014)

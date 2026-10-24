@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: nagaoka-2018
     resource: "https://consortium.uchicago.edu/publications/educational-attainment-chicago-public-schools-students-2017"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 2017 Bachelor's DAI for CPS ninth-graders is estimated at 19 percent, an increase from 11 percent in 2006 and 18 percent in 2016, driven primarily by a 3-percentage-point improvement in four-year college enrollment. [→ Nagaoka 2018](#nagaoka-2018)

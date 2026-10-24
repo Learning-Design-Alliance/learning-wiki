@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Top-10% usage students had higher minimum assignment and exam scores and smaller variance than low and medium users, while group membership added only borderline-significant explanatory power. [→ usage-groups](#usage-groups)

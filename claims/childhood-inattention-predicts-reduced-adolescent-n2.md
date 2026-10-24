@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: einziger-tzlil-2021
     resource: "https://doi.org/10.3390/brainsci11010100"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Inattention symptoms measured at 54 months and 7 years uniquely predicted N2 amplitude at 17 years, above and beyond hyperactivity-impulsivity symptoms and mothers' education. [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

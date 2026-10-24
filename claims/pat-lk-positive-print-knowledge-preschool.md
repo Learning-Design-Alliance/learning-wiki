@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://ies.ed.gov/ncee/WWC/InterventionReport/376"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across three studies, the intervention showed statistically significant positive effects on print knowledge in two studies and indeterminate effects in one, with a domain average effect size of 0.74 and an average improvement index of +27 percentile points. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

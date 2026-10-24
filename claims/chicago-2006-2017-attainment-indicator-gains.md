@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
+recheck_by: 2021
 sources:
   - id: moeller-2018
     resource: "https://consortium.uchicago.edu/publications/practice-driven-data-lessons-chicagos-approach-research-data-and-practice-education"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Between 2006 and 2017, the proportion of CPS freshmen on-track to graduate rose 28 percentage points, with the greatest increases among Black and Latino males. [→ Moeller 2018](#moeller-2018)

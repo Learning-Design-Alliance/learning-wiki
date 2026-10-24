@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ramadoni-2022
     resource: "https://doi.org/10.47750/pegegog.12.03.17"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Majors' background significantly affected conceptual understanding, F(2,63)=5.77, p=.005, partial η2=.155, with natural science highest. [→ Ramadoni 2022](#ramadoni-2022)

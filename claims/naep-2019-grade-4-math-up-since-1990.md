@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: results-from-the-2019-mathematics-and-reading-assessments-2020
     resource: "https://www.nationsreportcard.gov"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Grade 4 mathematics average score increased 1 point compared to 2017 and 27 points compared to 1990, with percentile increases at the 25th and 50th percentiles. [→ Results from the 2019 Mathematics and Reading Assessments 2020](#results-from-the-2019-mathematics-and-reading-assessments-2020)

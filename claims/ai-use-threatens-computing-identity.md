@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kate-hamilton-2026
     resource: "https://doi.org/10.48550/arxiv.2606.14920"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students described feeling like 'cheaters' for using AI even in courses where AI was permitted, and internalized AI use as evidence of incompetence, contributing to imposter syndrome. [→ Kate Hamilton 2026](#kate-hamilton-2026)

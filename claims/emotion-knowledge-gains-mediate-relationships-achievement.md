@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: torres-2015
     resource: "https://doi.org/10.1016/j.appdev.2015.04.008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` With emotion knowledge gains in the model, the direct relationship–achievement path dropped to non-significance (β = –.06, p = .49) and the indirect effect was statistically significant (95% CI 0.009–0.265). [→ Torres 2015](#torres-2015)

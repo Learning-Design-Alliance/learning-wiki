@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2020
 sources:
   - id: bradshaw-2015
     resource: "https://doi.org/10.1037/a0037630"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` LPA on TOCA-C subscales revealed four latent classes: high-risk (6.6%), at-risk (23.3%), normative (36.5%), and socially-emotionally skilled (33.6%). [→ Bradshaw 2015](#bradshaw-2015)

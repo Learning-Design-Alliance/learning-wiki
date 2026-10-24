@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: umaña-taylor-adriana-j-2013
     resource: "https://doi.org/10.1037/a0031105"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among U.S.-born youth with immigrant parents, perceptions of family ethnic socialization in late adolescence predicted significantly greater ethnic identity exploration and resolution in emerging adulthood, while youth ethnic identity did not significantly predict future perceptions of family ethnic socialization. [→ Umaña-Taylor Adriana J. 2013](#umana-taylor-adriana-j-2013)

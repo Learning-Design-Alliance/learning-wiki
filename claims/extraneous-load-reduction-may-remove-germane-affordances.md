@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: de-jong-2010
     resource: "https://doi.org/10.1007/s11251-009-9110-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Designs that seem to elicit extraneous processes may simultaneously stimulate germane processes, so reducing extraneous load may remove affordances for germane processes such as relating multiple representations. [→ de Jong 2010](#de-jong-2010)

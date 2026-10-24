@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: liang-2025
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Among two video-recorded groups with distinct fitness values, the group with more heterogeneous yellow markers and shared red markers completed content-based reading earlier and showed more meta-cognitive activity, yet both groups earned identical summary scores. [→ Liang 2025](#liang-2025)

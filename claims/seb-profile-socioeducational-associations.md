@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: collie-2018
     resource: "https://doi.org/10.1037/edu0000262"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Profile membership was associated with socioeducational characteristics (gender, age group, language background, neighborhood SES, learning disability status) in different ways. [→ Collie 2018](#collie-2018)

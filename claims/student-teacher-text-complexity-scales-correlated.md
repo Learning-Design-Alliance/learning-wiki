@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: j-fitzgerald-et-al-2014
     resource: "https://doi.org/10.1037/a0037289"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The student and teacher logit scales for text complexity were strongly associated (r = .79, p < .01), supporting their equating onto one scale. [→ J. Fitzgerald et al 2014](#j-fitzgerald-et-al-2014)

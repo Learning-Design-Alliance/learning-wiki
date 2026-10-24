@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: kurvers-2009
     resource: "https://doi.org/10.1007/s11145-008-9129-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Logos with additional visual features such as the yellow arches of McDonald's were significantly better recognized by the two groups of non-readers than logos with only color and typeface as distinctive features (t(39) = 6.83, p < 0.00). [→ Kurvers 2009](#kurvers-2009)

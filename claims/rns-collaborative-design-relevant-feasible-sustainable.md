@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: joke-voogt-2015
     resource: "https://doi.org/10.1007/s11251-014-9340-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Based on multi-iteration design-based research results, the article concludes teacher collaborative design in the RNS initiative proved relevant, feasible, and sustainable. [→ Joke Voogt 2015](#joke-voogt-2015)

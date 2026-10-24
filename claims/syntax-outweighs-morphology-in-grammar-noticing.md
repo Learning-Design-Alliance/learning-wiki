@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: monika-geist-2017
     resource: "https://doi.org/10.14746/ssllt.2017.7.3.6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All ten learners encountered syntactical issues whereas only five encountered morphological issues, suggesting greater concern with syntax. [→ Monika Geist 2017](#monika-geist-2017)

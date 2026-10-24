@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: torbeyns-2015
     resource: "https://doi.org/10.1016/j.learninstruc.2014.03.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Strong correlations between number line estimation and magnitude comparison appeared only for U.S. 6th and 8th graders and, to a lesser extent, Belgian 6th graders. [→ Torbeyns 2015](#torbeyns-2015)

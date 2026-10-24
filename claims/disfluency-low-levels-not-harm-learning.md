@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: alexander-skulmowski-kate-man-xu-2022
     resource: "https://doi.org/10.1007/s10648-021-09624-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across three text-legibility levels, low legibility descriptively increased learning performance versus a legible control, and the only significant recall difference favored medium over high disfluency. [→ Alexander Skulmowski & Kate Man Xu 2022](#alexander-skulmowski-kate-man-xu-2022)

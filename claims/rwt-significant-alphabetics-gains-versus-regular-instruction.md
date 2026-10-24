@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "http://www.fcrr.org/TechnicalReports/RWTfullrept.pdf"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Compared with regular classroom instruction/support, Read, Write & Type!™ produced statistically significant positive effects on phoneme segmenting (effect size 0.80) and word attack (effect size 0.65). [→ What Works Clearinghouse 2007 (2)](#what-works-clearinghouse-2007-2)

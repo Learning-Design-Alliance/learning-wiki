@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 1996
 sources:
   - id: biemans-1996
     resource: "https://doi.org/10.1007/BF00120487"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The effectiveness of the CONTACT-2 strategy appeared not to depend on the degree of conceptual resemblance between the performance test questions and the central concepts from the texts. [→ Biemans 1996](#biemans-1996)

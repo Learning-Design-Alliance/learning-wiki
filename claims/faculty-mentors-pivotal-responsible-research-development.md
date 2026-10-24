@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: janice-ballou-2009
     resource: "https://www.mathematica.org/publications/training-phds-the-views-of-faculty-on-their-role-and-their-institutions-role-in-promoting-the-development-of-responsible-researchers"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Faculty who serve as mentors and advisors are regarded as being in a pivotal position to promote young scientists' responsible and ethical research skills. [→ Janice Ballou 2009](#janice-ballou-2009)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: emhardt-2023
     resource: "https://doi.org/10.1007/s10648-023-09731-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Descriptively, about 72% of studies with learners with no prior knowledge found positive EMME effects on immediate learning versus 60% of studies with learners with higher prior knowledge, but the literature is inconsistent and meta-analytic moderator tests did not reach significance. [→ Emhardt 2023](#emhardt-2023)

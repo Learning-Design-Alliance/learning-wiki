@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: kaffenberger-2021
     resource: "https://doi.org/10.1016/j.ijedudev.2020.102326"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Without remediation, the shock places children outside the range of instruction so they learn nothing, with nearly three-quarters (72 percent) of in-school grade 10 children making no learning gains. [→ Kaffenberger 2021](#kaffenberger-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: chevalère-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101799"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Enjoyment at T1 predicted engagement at T6 (β = .26), but boredom at T1 did not predict later engagement (p = .45), and emotions at T1 were unrelated to later raw performance (ps > .22). [→ Chevalère 2023](#chevalere-2023)

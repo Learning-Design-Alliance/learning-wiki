@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: martha-bleeker-2012
     resource: "https://www.mathematica.org/publications/findings-from-a-randomized-experiment-of-playworks-selected-results-from-cohort-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Overall, most teachers, students, and principals reported positive perceptions of the Playworks program. [→ Martha Bleeker 2012](#martha-bleeker-2012)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: mellor-2021
     resource: "https://orcid.org/0000-0002-3125-5888"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over 95% of surveyed researchers agreed that science should proceed with collective possession of scientific goods, yet a widespread sense exists that others act on counternorms of secrecy, dogmatism, and valuing quantity over quality. [→ Mellor 2021](#mellor-2021)

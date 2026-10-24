@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: ponniah-2011
     resource: "https://doi.org/10.26634/jelt.1.2.1452"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Intermediate, upper-intermediate and advanced EFL readers of 'The Golden Fleece' showed significant lexical gains on post-test, with gains proportionate to comprehensibility of the text and current vocabulary knowledge (i+1). [→ Ponniah 2011](#ponniah-2011)

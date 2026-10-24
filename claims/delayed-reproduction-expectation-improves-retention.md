@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1912
 sources:
   - id: peters-1912
     resource: "https://eric.ed.gov/?q=Pedagogy+at+the+Berlin+Psychological+Congress"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Stories and other memory materials are retained better when subjects expect to reproduce them after a considerable interval (four weeks) than when they expect reproduction within a short time (the next day). [→ Peters 1912](#peters-1912)

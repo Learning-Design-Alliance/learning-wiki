@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-09
 sources:
   - id: barbara-harris-2021
     resource: "https://www.mathematica.org/publications/math-corps-successfully-replicated"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Math Corps summer camp was replicated in three cities in summers 2017, 2018, and 2019 under an NSF AISEL grant, with Mathematica contracted for an independent study. [→ Barbara Harris 2021](#barbara-harris-2021)

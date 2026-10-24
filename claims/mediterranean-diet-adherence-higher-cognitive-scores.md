@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: keenan-tiarnán-d-2020
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328271/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In AREDS, aMED tertile 3 participants scored higher on 3MS and composite measures than tertile 1 participants (regression estimates +1.3 and +1.0, P < .0001). [→ Keenan Tiarnán D. 2020](#keenan-tiarnan-d-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: ioana-alexandra-iuga-oana-alexandra-david-2024
     resource: "https://doi.org/10.1007/s10648-024-09930-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` ER difficulties correlate positively with cynicism (r = 0.28), emotional exhaustion (r = 0.27), and lack of efficacy (r = 0.17). [→ Ioana Alexandra Iuga · Oana Alexandra David 2024](#ioana-alexandra-iuga-oana-alexandra-david-2024)

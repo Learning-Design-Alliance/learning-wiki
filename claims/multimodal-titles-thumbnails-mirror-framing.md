@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: shayla-sharmin-2025
     resource: "https://doi.org/10.48550/arxiv.2607.08698"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning-oriented title language appeared in 68.0% of G1 and 70.0% of G2 titles versus 29.4% of G3; productivity language appeared in 76.5% of G3 titles versus 12.0% (G1) and 40.0% (G2); G1 showed the highest learning imagery (64.0%) and G3 the highest productivity imagery (29.4%). [→ Shayla Sharmin 2025](#shayla-sharmin-2025)

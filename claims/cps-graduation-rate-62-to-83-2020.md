@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: malone-2021
     resource: "http://toandthrough.uchicago.edu/tool/cps/hs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The four-year high school graduation rate increased significantly since 2008, from 62.3 percent to 83.2 percent, with more gradual gains (about 1 percentage point per year) since 2014. [→ Malone 2021](#malone-2021)

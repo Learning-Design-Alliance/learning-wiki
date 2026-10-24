@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: joep-van-der-graaf-2023
     resource: "https://doi.org/10.1007/s11409-023-09361-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Students who executed scaffold 3 option 1 (review annotations) after the next scaffold showed higher essay scores than those who did not, d = 1.220. [→ Joep van der Graaf 2023](#joep-van-der-graaf-2023)

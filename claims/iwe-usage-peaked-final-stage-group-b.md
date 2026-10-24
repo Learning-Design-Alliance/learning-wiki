@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: aaron-j-peltoniemi-2025
     resource: "https://doi.org/10.1007/s11412-025-09447-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` I–we usage gradually increased in both groups but only peaked in the final stage of group B, during which critical evaluation of evidence was done. [→ Aaron J. Peltoniemi 2025](#aaron-j-peltoniemi-2025)

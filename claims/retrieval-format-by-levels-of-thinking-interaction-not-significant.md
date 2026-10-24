@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: nero-2021
     resource: "https://doi.org/10.24191/ajue.v17i4.16222"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No statistically significant interaction was found between type of retrieval practice and levels of thinking (F(1, 98) = 0.02, p = .877). [→ Nero 2021](#nero-2021)

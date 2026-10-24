@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: song-yafeng-2026
     resource: "https://doi.org/10.3390/bs16071166"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Overall GenAI usage behavior averaged 3.75 (SD = 0.67), with usage habits highest (M = 3.95) and usage frequency lowest (M = 3.59). [→ Song Yafeng 2026](#song-yafeng-2026)

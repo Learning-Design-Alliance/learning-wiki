@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: gendo-kumoi-2026
     resource: "https://doi.org/10.48550/arxiv.2607.12235"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across two lessons the educator issued twelve revision instructions over five rounds, organized into seven criteria including completeness, technical viability, factual accuracy, provenance, fit to delivery mode, fit to the learner, and audio continuity. [→ Gendo Kumoi 2026](#gendo-kumoi-2026)

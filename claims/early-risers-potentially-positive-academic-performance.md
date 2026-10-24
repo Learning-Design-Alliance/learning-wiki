@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2012
 sources:
   - id: early-risers-2012
     resource: "http://www.med.umn.edu/psychiatry/research/earlyrisers/home.html"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i0`–`i1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` August et al. (2002) found a positive, statistically significant effect on the Academic Achievement Composite (effect size 0.30) but not on the Concentration Problems Composite. [→ Early Risers 2012](#early-risers-2012)

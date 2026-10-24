@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: moeller-2017
     resource: "https://scholar.google.com/scholar?q=High+school+students%E2%80%99+feelings+Moeller+Brackett+Ivcevic+White"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Mentioning a feeling in open-ended responses was strongly associated with ratings of that feeling and its opposite, with effect sizes from 0.44 to 1.50. [→ Moeller 2017](#moeller-2017)

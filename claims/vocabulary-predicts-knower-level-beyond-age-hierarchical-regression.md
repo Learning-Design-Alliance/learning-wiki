@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-19
 sources:
   - id: negen-2012
     resource: "https://doi.org/10.1111/j.1467-8624.2012.01815.x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In hierarchical regression, both vocabulary scores added significantly to fit when entered after age, while age did not contribute significantly when entered after vocabulary. [→ Negen 2012](#negen-2012)

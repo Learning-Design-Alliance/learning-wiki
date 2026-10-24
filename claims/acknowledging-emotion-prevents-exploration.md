@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-19
 sources:
   - id: dana-vedder-weiss-2025
     resource: "https://doi.org/10.1007/s11251-025-09737-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Publicly acknowledging an emotion to prevent it from occupying more discursive space recognizes it to a relatively high extent but does not allow exploration of the displayed emotion. [→ Dana Vedder-Weiss 2025](#dana-vedder-weiss-2025)

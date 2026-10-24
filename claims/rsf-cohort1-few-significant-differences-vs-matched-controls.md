@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: young-2008
     resource: "https://consortium.uchicago.edu/publications/renaissance-schools-fund-supported-schools-early-outcomes-challenges-and-opportunities"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing RSF Cohort 1 students with matched comparison students from sending schools after 2 years yielded few statistically significant differences: School 4 scored 11 points higher in reading, while Schools 2 and 6 scored significantly below their controls in both reading and mathematics. [→ Young 2008](#young-2008)

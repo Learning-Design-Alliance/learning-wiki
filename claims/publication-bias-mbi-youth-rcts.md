@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: dunning-2019
     resource: "https://doi.org/10.1111/jcpp.12980"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Egger's tests showed publication bias for Negative Behaviour and Anxiety/Stress among all 33 RCTs, and for the Mindfulness category among the 17 active-control RCTs. [→ Dunning 2019](#dunning-2019)

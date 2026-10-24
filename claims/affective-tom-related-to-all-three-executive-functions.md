@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: vetter-2013
     resource: "https://doi.org/10.1080/87565641.2012.733786"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Affective theory of mind relates positively to each of the three measured executive-function subcomponents: inhibition, updating, and shifting. [→ Vetter 2013](#vetter-2013)

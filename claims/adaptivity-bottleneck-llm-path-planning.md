@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: yu-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18861"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Models perform relatively well on Validity (DeepSeek-V3.1 at 90.9%) but no model exceeds 44.7% on Adaptivity in Basic Education. [→ Yu Liu 2026](#yu-liu-2026)

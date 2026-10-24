@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shihao-wang-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29874"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After adjustment for task, attempt count, consecutive failures, and edit fraction, the natural-language condition was associated with lower odds of persistent failure than no feedback (odds ratio = 0.234, 95% CI [0.091, 0.602]). [→ Shihao Wang 2026](#shihao-wang-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: academy-breaks-the-isolation-of-special-education-directors-2014
     resource: "https://eric.ed.gov/?id=ED559625"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The Academy's co-director credits it with helping special education directors feel more empowered and improving the likelihood that they stay on the job. [→ Academy Breaks the Isolation of Special Education Directors 2014](#academy-breaks-the-isolation-of-special-education-directors-2014)

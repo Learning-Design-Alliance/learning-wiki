@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2004
+source_checked: 2026-10-15
 sources:
   - id: renkl-2004
     resource: "https://doi.org/10.1023/B:TRUC.0000021815.74806.f6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2004 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Successively fading out worked solution steps is effective in facilitating the transition from learning from worked examples in earlier stages of skill acquisition to problem solving in later stages, in comparison to the traditional method of employing example-problem pairs. [→ Renkl 2004](#renkl-2004)

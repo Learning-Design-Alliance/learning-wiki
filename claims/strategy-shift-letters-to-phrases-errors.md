@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: baldwin-1913
     resource: "https://doi.org/10.1037/h0069968"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Subjects first read by letters, then better subjects read two or three letters, a word, or a phrase at a time, and some eventually claimed to read by sentences; this transition was frequently accompanied by more errors, which disappeared as the new procedure became fixed. [→ Baldwin 1913](#baldwin-1913)

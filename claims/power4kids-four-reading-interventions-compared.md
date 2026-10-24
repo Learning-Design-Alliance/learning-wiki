@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: joseph-torgesen-2006
     resource: "https://www.mathematica.org/publications/closing-the-reading-gap-first-year-findings-from-a-randomized-trial-of-four-reading-interventions-for-striving-readers"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The evaluation assessed the effectiveness of substantial parts or all of Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading for elementary students with reading problems. [→ Joseph Torgesen 2006](#joseph-torgesen-2006)

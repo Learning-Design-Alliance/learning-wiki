@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: carolyn-baer-2021
     resource: "https://doi.org/10.1007/s11409-021-09263-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children at all age groups selected the easier of two paired trials more than 50% of the time across area, number, and emotion dimensions. [→ Carolyn Baer 2021](#carolyn-baer-2021)

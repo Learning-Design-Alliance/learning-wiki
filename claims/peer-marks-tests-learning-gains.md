@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: keith-topping-1998
     resource: "https://doi.org/10.3102/00346543068003249"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Catterall's study of 120 marketing students, 88% reported learning gains from peer assessment and 76% reported an impact on ability to self-assess. [→ Keith Topping 1998](#keith-topping-1998)

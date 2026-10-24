@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: hu-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101943"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Performance-approach goal instructions raised mental effort (t = 2.31, p = 0.021, d = 0.08) and lowered posttest performance (t = -1.99, p = 0.047, d = -0.19) relative to no performance-approach instructions. [→ Hu 2024](#hu-2024)

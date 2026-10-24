@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: sophia-c-weissgerber-2024
     resource: "https://doi.org/10.1007/s11409-023-09366-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Prior knowledge was the only significant predictor of comprehension (β = 9.19, p = 0.002) and transfer (β = 14.06, p < 0.001); motivation during learning was the only significant predictor of retention (β = 7.32, p = 0.026). [→ Sophia C. Weissgerber 2024](#sophia-c-weissgerber-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: sofia-jusslin-2022
     resource: "https://doi.org/10.1016/j.edurev.2022.100480"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learning of English was mostly represented (56%) among the included studies, and L2 teaching was represented in 22 studies, FL teaching in 12 studies, and L1 teaching in seven studies. [→ Sofia Jusslin 2022](#sofia-jusslin-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2012
+recheck_by: 2017
 sources:
   - id: nodine-2012
     resource: "https://eric.ed.gov/?id=ED541651"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Non-completers welcomed outreach encouraging re-enrollment and information about how to return. [→ Nodine 2012](#nodine-2012)

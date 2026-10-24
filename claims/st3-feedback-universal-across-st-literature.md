@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: namsoo-shin-2022
     resource: "https://doi.org/10.1007/s11251-022-09590-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the authors' integrative review, the ST aspect of identifying interconnections and feedback was proposed by all 27 reviewed manuscripts, making it the most consistently reported ST aspect. [→ Namsoo Shin 2022](#namsoo-shin-2022)

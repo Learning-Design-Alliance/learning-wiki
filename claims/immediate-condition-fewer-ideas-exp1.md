@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: ritter-2012
     resource: "https://doi.org/10.1016/j.tsc.2011.12.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In Experiment 1, participants in the immediate condition generated fewer ideas than participants in the conscious thought and unconscious thought conditions. [→ Ritter 2012](#ritter-2012)

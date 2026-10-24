@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: wwc-intervention-report-alas-2006
     resource: "https://www.alasdropoutprevention.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On-track-to-graduate differences at 11th grade (33% vs 26%) and on-time graduation at 12th grade (32% vs 27%) favored ALAS but were not statistically significant. [→ WWC Intervention Report: ALAS 2006](#wwc-intervention-report-alas-2006)

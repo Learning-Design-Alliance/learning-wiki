@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: slotnik-2016
     resource: "https://eric.ed.gov/?id=ED589981"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 62% of teachers in top-quartile districts agree they receive at least five SLO support strategies, versus 42% in the weakest-quartile districts, a 20-point difference. [→ Slotnik 2016](#slotnik-2016)

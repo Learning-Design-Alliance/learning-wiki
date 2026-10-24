@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: john-deke-2006
     resource: "https://www.mathematica.org/publications/expanding-beyond-academics-who-benefits-and-how"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Many high school competencies beyond academic achievement appear to predict later postsecondary educational attainment and earnings. [→ John Deke 2006](#john-deke-2006)

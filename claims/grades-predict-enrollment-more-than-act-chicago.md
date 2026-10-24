@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: jenny-nagaoka-2008
     resource: "https://consortium.uchicago.edu/publications/barriers-college-attainment-lessons-chicago"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among students with similar ACT scores, Chicago students with higher GPAs were significantly more likely to enroll in college, in four-year colleges, and in selective or very selective four-year colleges. [→ Jenny Nagaoka 2008](#jenny-nagaoka-2008)

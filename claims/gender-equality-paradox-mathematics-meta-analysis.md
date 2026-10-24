@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: sara-caviola-2026
     resource: "https://doi.org/10.1007/s10648-026-10125-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The GGGI coefficient was positive (B = 0.921, p = .051), suggesting a tendency toward somewhat larger sex differences in more gender-equal countries when controlling for region. [→ Sara Caviola 2026](#sara-caviola-2026)

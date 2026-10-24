@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: harvey-j-ginsburg-2016
     resource: "https://eric.ed.gov/?id=EJ1123456"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` University students' estimated success helping others learn Facebook significantly decreased with the learner's age (20, 40, 60), with a large main effect of age. [→ Harvey J. GINSBURG 2016](#harvey-j-ginsburg-2016)

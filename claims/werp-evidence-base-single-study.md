@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "http://www.pearsondigital.com/pdfs/werp/researchsummary-werp.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 36 studies reviewed, only Hecht & Close (2002), a quasi-experimental design, met WWC evidence standards with reservations; the remaining 35 did not meet WWC evidence screens, and the extent of evidence was small for alphabetics and comprehension. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

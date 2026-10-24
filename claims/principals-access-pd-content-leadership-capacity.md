@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: levin-2020
     resource: "http://learningpolicyinstitute.org/product/professional-learning-principals"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the NAESP-LPI survey, the topics most available were using student or school data for continuous school improvement (98%), supporting social-emotional development (95%), and helping teachers improve through cycles of observation and feedback (95%), with little variation by school characteristics or experience. [→ Levin 2020](#levin-2020)

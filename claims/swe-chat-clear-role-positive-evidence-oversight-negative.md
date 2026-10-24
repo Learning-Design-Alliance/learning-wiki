@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hunter-mcnichols-2026
     resource: "https://doi.org/10.48550/arxiv.2608.11460"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Significant SWE-Chat traits show workflow control/delegation positively correlated with outcomes (β +0.025 p<.001 lens pool; +0.022 p<.001 generic pool) while delegation specificity and evidence-driven quality oversight are negatively correlated (β −0.017 p=.003; β −0.027 p<.001). [→ Hunter McNichols 2026](#hunter-mcnichols-2026)

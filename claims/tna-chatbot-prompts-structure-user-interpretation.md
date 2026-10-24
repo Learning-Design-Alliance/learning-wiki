@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: marques-2026
     resource: "https://doi.org/10.48550/arxiv.2610.07205"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most prominent chatbot-coded nodes were RI.Reflection (46 times), RI.Interpretation (20), PI.Explanation (26), and A.Validation (40), while the most prominent user-coded node was PI.SharingInsight (84), including a self-loop showing users remained in an interpretive mode. [→ Marques 2026](#marques-2026)

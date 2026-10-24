@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: amrita-ganguly-2026
     resource: "https://doi.org/10.48550/arxiv.2607.12296"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` About three in five institutions caution instructors about privacy concerns with GenAI, while 34% of syllabi mention use implications including veracity of output, privacy, hindering learning, and skill development. [→ Amrita Ganguly 2026](#amrita-ganguly-2026)

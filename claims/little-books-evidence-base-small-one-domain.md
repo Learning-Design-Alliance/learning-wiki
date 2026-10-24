@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: wwc-intervention-report-little-books-2007
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The WWC considers the extent of evidence for Little Books to be small for general reading achievement, and no studies meeting WWC standards addressed alphabetics, fluency, or comprehension. [→ WWC Intervention Report: Little Books 2007](#wwc-intervention-report-little-books-2007)

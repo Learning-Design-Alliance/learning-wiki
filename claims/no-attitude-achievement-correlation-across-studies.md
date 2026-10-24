@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: savelsbergh-2016
     resource: "https://doi.org/10.1016/j.edurev.2016.07.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the 42 experiments measuring both outcomes, the correlation between attitude effect and achievement effect was nonsignificant, countering the assumed tradeoff. [→ Savelsbergh 2016](#savelsbergh-2016)

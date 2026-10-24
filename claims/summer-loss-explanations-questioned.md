@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: megan-kuhfeld-2019
     resource: "https://www.nwea.org/research/publication/rethinking-summer-slide-the-more-you-gain-the-more-you-lose/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The usual explanations for summer learning loss, such as access to summer programs and length of the school year, are called into question by the new findings. [→ Megan Kuhfeld 2019](#megan-kuhfeld-2019)

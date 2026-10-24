@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: john-f-pane-2015
     resource: "https://doi.org/10.7249/rr1365"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' ability to work at their own pace and advance upon mastery was limited by a perceived need to emphasize grade-level content, driven by standards and standardized testing constraints. [→ John F. Pane 2015](#john-f-pane-2015)

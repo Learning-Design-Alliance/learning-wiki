@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: steven-glazerman-2007
     resource: "https://www.mathematica.org/publications/evaluation-of-the-teacher-advancement-program-tap-in-the-chicago-public-schools-study-design-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teacher quality is a critical component in student achievement, per recent evidence cited by the authors. [→ Steven Glazerman 2007](#steven-glazerman-2007)

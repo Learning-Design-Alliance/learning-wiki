@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: brankaer-2017
     resource: "https://doi.org/10.3758/s13428-016-0792-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` In a subsample with both standardized tests, SYMP Test correlations with mathematics achievement were moderate and significant across all grades (one-digit r = .28; two-digit r = .30). [→ Brankaer 2017](#brankaer-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: chan-2023
     resource: "https://orcid.org/0000-0001-6451-2417"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Simpson's D maximum values differ by group count (0.5 for two groups, 0.75 for four, 0.8 for five), and decomposing one group into several changes the index value (0.50 to .58). [→ Chan 2023](#chan-2023)

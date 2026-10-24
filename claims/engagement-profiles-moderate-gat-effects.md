@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Engagement profiles significantly moderated immediate learning performance (p=.005, padj=.024), with GATs benefiting low- and high-engagement profiles and a small performance decrement for the mid-engagement profile. [→ profile-moderation](#profile-moderation)

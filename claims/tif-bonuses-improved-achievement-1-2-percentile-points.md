@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: hanley-chiang-2017
     resource: "https://ies.ed.gov/ncee/pubs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Performance bonuses under TIF improved reading and math achievement by 1 to 2 percentile points by the second year of implementation, equivalent to about four weeks of additional learning. [→ Hanley Chiang 2017](#hanley-chiang-2017)

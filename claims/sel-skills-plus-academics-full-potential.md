@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-19
 sources:
   - id: stephanie-m-jones-2017
     resource: "https://www.mathematica.org/publications/the-evidence-base-for-how-we-learn-supporting-students-social-emotional-and-academic-development"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students who have a sense of belonging and purpose, can work well with peers to solve problems, can plan and set goals, and can persevere through challenges—in addition to being literate, numerate, and versed in scientific concepts—are more likely to maximize opportunities and reach their full potential. [→ Stephanie M. Jones 2017](#stephanie-m-jones-2017)

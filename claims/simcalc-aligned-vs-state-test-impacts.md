@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: roschelle-2021
     resource: "https://doi.org/10.4324/9781315685779-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the Scaling Up SimCalc study, students showed significant positive impacts on assessment items aligned to the environment's conceptual skills, while performance on state test items showed no significant difference. [→ Roschelle 2021](#roschelle-2021)

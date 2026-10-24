@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: avivit-arvatz-2025
     resource: "https://doi.org/10.1007/s11409-025-09415-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Comparison of high and low self-assessed SRL skills shows teachers and students differ except for a common insufficiency in reflection: teachers lack critical-level reflection and students struggle with reflection, especially reflection for action. [→ Avivit Arvatz 2025](#avivit-arvatz-2025)

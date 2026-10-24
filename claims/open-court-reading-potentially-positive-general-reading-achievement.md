@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: open-court-reading-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/347"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One quasi-experimental study (Skindrud & Gersten, 2006; 434 students in grades 2–3) showed a substantively important positive effect of Open Court Reading© on general reading achievement, but the WWC-corrected result was not statistically significant. [→ Open Court Reading© 2014](#open-court-reading-2014)

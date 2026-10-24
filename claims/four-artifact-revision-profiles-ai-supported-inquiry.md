@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kilinc-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100683"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Crossing initial artifact quality with criterion-aligned revision produced four profiles: high achievers, perfectionists, most improved, and struggling groups. [→ Kilinc 2026](#kilinc-2026)

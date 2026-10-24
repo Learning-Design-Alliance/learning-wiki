@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ann-kathrin-krause-2025
     resource: "https://doi.org/10.1007/s10648-025-10087-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a proof-of-concept study, strategy effectiveness significantly predicted habit strength, with ineffective strategies (rereading, highlighting) associated with higher habit strength than effective strategies (self-testing, concept mapping). [→ Ann-Kathrin Krause 2025](#ann-kathrin-krause-2025)

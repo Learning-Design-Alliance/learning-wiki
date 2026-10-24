@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: walkington-2025
     resource: "https://doi.org/10.1007/978-3-032-29770-9_5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 9 of 422 student response sets contained meta comments critiquing how personalization was implemented, including requests for student-chosen interests and objections to personalization itself. [→ Walkington 2025](#walkington-2025)

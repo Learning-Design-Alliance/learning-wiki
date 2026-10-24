@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: megan-kuhfeld-2021
     resource: "https://www.nwea.org/research/publication/understanding-the-initial-educational-impacts-of-covid-19-on-communities-of-color/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Math percentile rank for BIPOC student groups fell across nearly all grades between fall 2019 and fall 2020, with the largest drops (3 to 13 percentile points) in the earliest grades examined. [→ Megan Kuhfeld 2021](#megan-kuhfeld-2021)

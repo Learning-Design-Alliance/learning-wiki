@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: murayama-2025
     resource: "https://doi.org/10.1080/00461520.2025.2473894"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The dominant theories in the academic motivation field remained the same between a 2000 special issue and a 2020 special issue of the same journal. [→ Murayama 2025](#murayama-2025)

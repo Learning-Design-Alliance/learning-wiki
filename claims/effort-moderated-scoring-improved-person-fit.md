@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: modeling-student-test-taking-motivation-in-the-context-of-an-adaptive-achievement-test-2016
     resource: "https://www.nwea.org/research/publication/modeling-student-test-taking-motivation-in-the-context-of-an-adaptive-achievement-test/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Effort-moderated scoring showed improved person fit statistics. [→ Modeling student test-taking motivation in the context of an adaptive achievement test 2016](#modeling-student-test-taking-motivation-in-the-context-of-an-adaptive-achievement-test-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: phalet-2004
     resource: "https://hdl.handle.net/1874/23520"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among African American youth, studies repeatedly find low school achievement in spite of high motivation to achieve upward mobility through schooling. [→ Phalet 2004](#phalet-2004)

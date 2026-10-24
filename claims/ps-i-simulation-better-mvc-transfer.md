@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: katharina-loibl-2025
     resource: "https://doi.org/10.1007/s11251-025-09751-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Saba et al. (2025), I-PS showed immediate gains in applying multivariable causality but PS-I demonstrated better transfer of MVC strategy and reasoning to a new context. [→ Katharina Loibl 2025](#katharina-loibl-2025)

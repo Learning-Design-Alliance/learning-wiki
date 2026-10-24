@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: kendeou-2007
     resource: "https://doi.org/10.3758/bf03193491"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Experiment 2, reading times of Newton's law sentences showed a text structure × prior knowledge interaction (F(1,44) = 8.3, p = .006, η² = .16); the misconception group read law sentences slower than the nonmisconception group only in refutation texts. [→ Kendeou 2007](#kendeou-2007)

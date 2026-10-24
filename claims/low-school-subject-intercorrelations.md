@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1923
+source_checked: 2026-10-24
 sources:
   - id: arthur-i-gates-1923
     resource: "https://doi.org/10.1037/h0066477"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 1923 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Mean intercorrelations among reading, arithmetic, spelling and writing are low, with reading comprehension and reading rate correlating 0.85. [→ Arthur I. Gates 1923](#arthur-i-gates-1923)

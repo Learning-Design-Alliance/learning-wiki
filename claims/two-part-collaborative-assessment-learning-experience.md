@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: fusco-2025
     resource: "https://doi.org/10.51388/20.500.12265/252"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In collaborative assessment students first answer questions individually, then answer the same or similar questions in groups; used summatively it transforms the assessment into a learning experience. [→ Fusco 2025](#fusco-2025)

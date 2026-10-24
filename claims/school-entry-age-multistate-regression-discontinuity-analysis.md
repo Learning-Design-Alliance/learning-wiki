@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: angela-johnson-2020
     resource: "https://www.nwea.org/research-publications/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study used a multi-state regression discontinuity design to estimate impacts of school entry age on growth through second grade. [→ Angela Johnson 2020](#angela-johnson-2020)

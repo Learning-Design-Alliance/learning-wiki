@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: roy-2014
     resource: "https://doi.org/10.1037/a0036984"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Recent studies cited by the article provide support for the experiential canalization framework: preschoolers living in poverty are almost five times as likely to demonstrate disrupted patterns of diurnal cortisol as their nonpoor counterparts, and increased exposure to economic hardship is associated with significantly lower levels of cognitive self-regulation. [→ Roy 2014](#roy-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: franz-2023
     resource: "https://doi.org/10.1007/s10648-023-09716-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Label effects on behavioral evaluations (g = −0.45), personality evaluations (g = −0.46), and other evaluations (g = −0.37) are smaller but still significantly negative. [→ Franz 2023](#franz-2023)

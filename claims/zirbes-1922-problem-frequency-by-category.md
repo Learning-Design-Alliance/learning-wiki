@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1922
 sources:
   - id: zirbes-1922
     resource: "https://doi.org/10.1037/h0074413"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Counting references under seven headings, mental tests (16) and curriculum studies (15) are the most frequently mentioned problem areas, while statistical devices (2) are the least. [→ Zirbes 1922](#zirbes-1922)

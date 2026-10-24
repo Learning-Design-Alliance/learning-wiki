@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: penny-bender-sebring-2004
     resource: "https://consortium.uchicago.edu/publications/principal-and-teacher-leadership-chicago-early-evidence-two-initiatives"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Principals rated board-certified teachers more highly than other teachers with similar experience on instructional competence, managing behavior, diagnosing needs, setting standards, pacing instruction, using professional development strategies, and helping other teachers. [→ Penny Bender Sebring 2004](#penny-bender-sebring-2004)

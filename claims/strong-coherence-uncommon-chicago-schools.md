@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
+recheck_by: 2004
 sources:
   - id: newmann-2001
     resource: "https://eric.ed.gov/?id=ED"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2004**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Field ratings showed substantial variation in coherence, with eight of 11 schools rated 33 or below on a scale where the highest possible score is 52. [→ Newmann 2001](#newmann-2001)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: sanna-järvelä-2023
     resource: "https://doi.org/10.1007/s11412-023-09415-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Process indicators (time-on-task, actions-on-task, and three CPS process skills) yield four profiles — Disengaged, Struggling, Adaptive, and Excellent — which relate to demographics, motivation, and CPS performance. [→ Sanna Järvelä 2023](#sanna-jarvela-2023)

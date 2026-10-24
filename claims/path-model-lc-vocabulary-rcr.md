@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-23
 sources:
   - id: lefèvre-2024
     resource: "https://osf.io/fzyeh/?view_only=84fc51248a0d48ba9a505835e525efdc"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-23 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Listening comprehension was associated with RCR (β = 0.23, p = .024) and vocabulary was associated with listening comprehension (β = 0.27, p = .007). [→ Lefèvre 2024](#lefevre-2024)

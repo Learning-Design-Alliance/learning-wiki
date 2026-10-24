@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lases-mitch-n-2026
     resource: "https://doi.org/10.2196/83948"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the pilot RCT, exploratory effect sizes were small negative for mental health confidence (Cohen d=−0.32), hope (d=−0.45), and self-stigma (d=−0.33), and medium negative for personal recovery (d=−0.53), all with CIs crossing zero. [→ Lases Mitch N 2026](#lases-mitch-n-2026)

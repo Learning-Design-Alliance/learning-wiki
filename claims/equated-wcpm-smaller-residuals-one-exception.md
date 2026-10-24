@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: chen-2020
     resource: "https://www.nwea.org/research/publication/equating-words-correct-per-minute-wcpm-scores-across-passages-of-map-reading-fluency/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Mean residual sum of squares between scores on the final reference passage and scores from a non-reference passage are smaller for equated than raw WCPM scores for 21 of 22 passages, with Passage WGK_11001 the exception. [→ Chen 2020](#chen-2020)

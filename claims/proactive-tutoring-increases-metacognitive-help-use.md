@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: bruno-de-lièvre-2006
     resource: "https://doi.org/10.1007/s11251-005-6076-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learners in the pro-active tutoring condition activated the metacognitive help significantly more than learners in the reactive condition (F=92.33, p=0.000). [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

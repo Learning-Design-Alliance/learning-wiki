@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: johannes-jud-2024
     resource: "https://doi.org/10.1007/s11409-024-09393-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the model including only teacher-reported SRL promotion, no indirect relations between teachers' motivation and students' motivation were found. [→ Johannes Jud 2024](#johannes-jud-2024)

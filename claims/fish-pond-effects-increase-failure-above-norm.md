@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: takako-nomi-and-elaine-m-allensworth-2013
     resource: "https://doi.org/10.3102/0002831212469997"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The likelihood of passing decreases if students have substantially lower initial skills than their classroom peers (coefficient of –.25), while it increases if students have stronger skills than classmates (coefficient of .28). [→ Takako Nomi and Elaine M. Allensworth 2013](#takako-nomi-and-elaine-m-allensworth-2013)

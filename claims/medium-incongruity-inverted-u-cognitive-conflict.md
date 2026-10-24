@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: ulrike-cress-joachim-kimmerle-2008
     resource: "https://doi.org/10.1007/s11412-007-9035-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Following Hunt (1965), the article proposes an inverted u-shaped relation between incongruity and cognitive conflict: very small incongruity leaves no need for equilibration, very large incongruity reduces that need because the wiki and the learner's knowledge are hardly perceived as one topic, and medium incongruity motivates assimilation or accommodation. [→ Ulrike Cress & Joachim Kimmerle 2008](#ulrike-cress-joachim-kimmerle-2008)

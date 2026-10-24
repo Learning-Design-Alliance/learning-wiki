@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 1989
+recheck_by: 1994
 sources:
   - id: kemper-1989
     resource: "https://doi.org/10.1017/S0142716400008419"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1994**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Adults aged 60-92 produced oral and written statements with lower syntactic complexity than adults aged 18-28, driven by fewer left-branching clauses in all three language samples. [→ Kemper 1989](#kemper-1989)

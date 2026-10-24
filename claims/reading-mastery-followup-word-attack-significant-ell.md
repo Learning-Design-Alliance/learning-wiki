@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: wwc-intervention-report-reading-mastery-sramcgraw-hill-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` At one-year follow-up, the word attack effect was statistically significant (effect size 1.02, improvement index +35), while oral reading fluency, letter-word identification, reading vocabulary, and passage comprehension showed positive but non-significant differences. [→ WWC Intervention Report: Reading Mastery SRA/McGraw-Hill 2006](#wwc-intervention-report-reading-mastery-sramcgraw-hill-2006)

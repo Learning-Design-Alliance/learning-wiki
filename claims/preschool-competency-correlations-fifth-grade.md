@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: nguyen-2016
     resource: "https://doi.org/10.1016/j.ecresq.2016.02.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Counting and cardinality correlated r = 0.62 and patterning r = 0.51 with overall fifth grade achievement; geometry (r = 0.43) and measurement and data (r = 0.34) correlations were lower but positive and significant. [→ Nguyen 2016](#nguyen-2016)

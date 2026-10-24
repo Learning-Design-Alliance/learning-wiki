@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: copur-gencturk-2026
     resource: "https://doi.org/10.1007/s11858-026-01796-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Notable κ–QWK differences (e.g., Δ = .18 for knowledge of mathematical tasks Item 1; Δ = .13 to .19 for knowledge of teaching mathematics items) indicate partial agreement through adjacent-category coding. [→ Copur-Gencturk 2026](#copur-gencturk-2026)

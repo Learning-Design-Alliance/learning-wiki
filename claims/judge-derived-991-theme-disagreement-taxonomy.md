@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yubo-li-2026
     resource: "https://doi.org/10.48550/arxiv.2607.22606"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Clustering 16,113 deduplicated divergence topics yields 991 themes, 237 with at least 10 distinct variants; mycophenolate–pregnancy timing is rated high significance in 95% of rated instances and pregnancy recommendations in 91%. [→ Yubo Li 2026](#yubo-li-2026)

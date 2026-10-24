@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hornung-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07965"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Across 74 recorded student interactions, the LLM-as-judge assigned the highest scores to Domain Relevance and Cybersecurity Grounding (4.46) and Agent Role Fidelity (4.35) on a 1-5 scale. [→ Hornung 2026](#hornung-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: johnmarshall-reeve-2025
     resource: "https://doi.org/10.1007/s10648-025-09989-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Region moderated the engagement-achievement relation for behavioral and emotional engagement, the engagement-social support relation for all four types, and the engagement-motivation relation for all four types, with Eastern students showing higher relations than Western students. [→ Johnmarshall Reeve 2025](#johnmarshall-reeve-2025)

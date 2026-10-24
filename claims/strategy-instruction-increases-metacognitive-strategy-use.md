@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: yurttaş-kumlu-2023
     resource: "https://doi.org/10.33200/ijcer.1082537"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both the explicit and peer tutoring instruction groups used metacognitive strategies and produced metacognitive process products more diversely and frequently than the group receiving no strategy instruction. [→ Yurttaş-Kumlu 2023](#yurttas-kumlu-2023)

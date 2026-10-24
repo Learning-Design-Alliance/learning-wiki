@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: kirschner-2015
     resource: "https://doi.org/10.1007/s11251-015-9346-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` From the viewpoint of teacher competences, there is no need for specific attention to TEL; TEL is an artefact of the times and the newest tool in the teacher's arsenal. [→ Kirschner 2015](#kirschner-2015)

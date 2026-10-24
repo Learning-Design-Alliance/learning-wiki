@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: barbara-harris-2022
     resource: "https://www.mathematica.org/publications/participation-in-math-corps-increases-college-enrollment"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Math Corps participation produced a large, statistically significant increase in college enrollment among students who attended from 2004 to 2009. [→ Barbara Harris 2022](#barbara-harris-2022)

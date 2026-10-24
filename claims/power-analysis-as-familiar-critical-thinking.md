@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: angelica-paz-ortiz-2019
     resource: "https://doi.org/10.5325/jgeneeduc.67.1-2.0109"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Positionality work can be framed for hesitant students as critical thinking tasks they already know how to do. [→ Angelica Paz Ortiz 2019](#angelica-paz-ortiz-2019)

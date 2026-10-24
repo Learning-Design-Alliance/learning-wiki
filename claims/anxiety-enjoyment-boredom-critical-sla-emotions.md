@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: peng-wang-2024
     resource: "https://doi.org/10.1007/s10648-024-09946-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that anxiety, enjoyment, and boredom are three critical emotions in language learning, with enjoyment often bringing a positive influence while boredom and anxiety often have negative effects on learners' language outcomes and engagement. [→ Peng Wang 2024](#peng-wang-2024)

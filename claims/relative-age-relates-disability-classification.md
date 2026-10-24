@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: elizabeth-dhuey-2010
     resource: "https://doi.org/10.1016/j.econedurev.2010.03.006"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' relative age among their peers is related to their probability of disability classification. [→ Elizabeth Dhuey 2010](#elizabeth-dhuey-2010)

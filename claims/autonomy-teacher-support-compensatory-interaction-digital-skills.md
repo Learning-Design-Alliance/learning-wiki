@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: popa-2026
     resource: "https://doi.org/10.48550/arxiv.2605.27391"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In country-level PISA data, the association of school autonomy with digital skills is stronger where teacher support is lower and weaker where it is high; the authors suggest, without testing, that autonomy may compensate for low teacher support. The data are observational and cannot show that autonomy causes digital skills. [→ Popa 2026](#popa-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: hochberg-n-and-waitzman-r-2026
     resource: "https://doi.org/10.3389/feduc.2026.1905833"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers described asking learners to identify inaccuracies, contradictions, bias, and misinformation in AI outputs and using imperfect responses as prompts for evidence evaluation, making critical AI literacy both a design goal and a condition of professional mediation. [→ Hochberg N and Waitzman R 2026](#hochberg-n-and-waitzman-r-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 1993
+recheck_by: 1996
 sources:
   - id: katz-1993
     resource: "https://doi.org/10.21236/ada273789"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1996**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The cognitive model's categories sufficed to encode 71% of the verbalizations of the three think-aloud subjects, supporting the validity of attributes derived from the model. [→ Katz 1993](#katz-1993)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: bondebjerg-2023
     resource: "https://doi.org/10.1002/cl2.1345"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students and staff in the included qualitative studies preferred smaller class sizes for individualised instruction time and teacher attention to diverse needs. [→ Bondebjerg 2023](#bondebjerg-2023)

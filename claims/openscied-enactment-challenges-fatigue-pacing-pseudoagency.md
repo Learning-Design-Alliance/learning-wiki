@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2023
+source_checked: 2026-10-17
 sources:
   - id: mcelhaney-et-al-2023
     title: McElhaney et al. 2023
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some teachers reported students' interest in the anchoring phenomenon declines over time (project fatigue). [→ McElhaney et al. 2023](#mcelhaney-et-al-2023)

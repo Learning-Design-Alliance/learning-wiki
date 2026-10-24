@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yang-2026
     resource: "https://doi.org/10.48550/arxiv.2609.10939"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Correct initial diagnosis rates did not differ significantly between groups (86% control vs 84% multi-agent), nor did worksheet completion; equivalence was not tested, so this does not show the scaffolding had no effect. [→ Yang 2026](#yang-2026)

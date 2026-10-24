@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: julia-b-smith-1998
     resource: "https://consortium.uchicago.edu/publications/setting-pace-opportunities-learn-chicago-public-elementary-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Strong professional community among teachers is associated with instructional pacing aligned with ITBS math content standards, an effect that persists in high-poverty schools and appears from fifth grade onward. [→ Julia B. Smith 1998](#julia-b-smith-1998)

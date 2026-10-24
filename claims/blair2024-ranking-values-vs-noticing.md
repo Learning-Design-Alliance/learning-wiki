@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: blair-2024
     resource: "https://doi.org/10.1007/s11251-024-09661-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Pairs uniformly ranked Dialog E (completely student-led) best, followed by Dialog C (extensive teacher eliciting). [→ Blair 2024](#blair-2024)

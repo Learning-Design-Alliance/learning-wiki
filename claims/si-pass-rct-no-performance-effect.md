@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: puttaert-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2024.102042"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` First-year students randomly assigned to SI-PASS did not perform significantly better at the final statistics exam than randomly assigned control students (Hedges' g = .03). [→ Puttaert 2025](#puttaert-2025)

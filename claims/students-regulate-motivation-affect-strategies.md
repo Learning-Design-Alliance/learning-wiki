@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2000
+recheck_by: 2005
 sources:
   - id: paul-r-pintrich-2000
     resource: "https://doi.org/10.1016/b978-012109890-2/50043-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` College students intentionally use motivation-regulation strategies such as evoking extrinsic goals, making tasks more interesting, increasing task value, self-reward, positive self-talk, and emotion control. [→ Paul R. Pintrich 2000](#paul-r-pintrich-2000)

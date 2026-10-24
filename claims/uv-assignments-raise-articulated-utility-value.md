@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: canning-2018
     resource: "https://doi.org/10.1037/edu0000244"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i0`–`i3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Students in UV conditions articulated higher-quality UV connections in their essays than controls (M = 1.96 vs. .45; t(571) = 14.78, β = 0.52, p < .001). [→ Canning 2018](#canning-2018)

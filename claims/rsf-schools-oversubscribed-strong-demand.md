@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: young-2008
     resource: "https://consortium.uchicago.edu/publications/renaissance-schools-fund-supported-schools-early-outcomes-challenges-and-opportunities"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Cohort 1 schools averaged 1.19 applications per available space (all but two oversubscribed) and Cohort 2 schools averaged 1.27 applications per space, though recruiting variation limits this as a demand measure. [→ Young 2008](#young-2008)

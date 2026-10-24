@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-17
 sources:
   - id: oscar-a-barbarin-2015
     resource: "https://doi.org/10.1037/ort0000060"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children from low socioeconomic backgrounds are compared to children with higher socioeconomic status on access to academically auspicious environments, as part of a review of data on learning-environment aspects tied to early academic competence. [→ Oscar A. Barbarin 2015](#oscar-a-barbarin-2015)

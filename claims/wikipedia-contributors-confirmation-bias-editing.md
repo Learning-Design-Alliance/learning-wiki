@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: peter-holtz-joachim-kimmerle-ulrike-cress-2018
     resource: "https://doi.org/10.1007/s11412-018-9285-y"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the study the review reports, Wikipedia contributors primarily edited those articles that were consistent with their own view on alternative versus conventional medicine, mirroring lab findings on confirmation bias. [→ Peter Holtz & Joachim Kimmerle & Ulrike Cress 2018](#peter-holtz-joachim-kimmerle-ulrike-cress-2018)

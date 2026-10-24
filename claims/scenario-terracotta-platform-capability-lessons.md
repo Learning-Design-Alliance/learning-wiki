@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-09
 sources:
   - id: scenario-lessons
     title: scenario-lessons
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Considering the scenario relative to the Terracotta DLP yielded three lessons: researchers may need awareness of how to add additional measures, direct human observation will remain important and needs connection to platform data, and platforms support districtwide variation studies. [→ scenario-lessons](#scenario-lessons)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: bi-t-2026
     title: Bi T 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i2` At baseline, the Kazakhstani sample scored higher on all seven readiness dimensions, with small-to-moderate effect sizes largest for disciplinary transfer (d = -0.480), prompt design (d = -0.462), basic understanding (d = -0.433), and assessment (d = -0.406). [→ Bi T 2026](#bi-t-2026)

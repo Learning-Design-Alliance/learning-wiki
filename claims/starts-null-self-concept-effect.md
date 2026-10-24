@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kimmo-sorjonen-2025
     resource: "https://doi.org/10.1007/s10648-025-10008-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the STARTS model, prior within-individual achievement positively predicted subsequent within-individual self-concept, while prior self-concept had no effect on subsequent achievement. [→ Kimmo Sorjonen 2025](#kimmo-sorjonen-2025)

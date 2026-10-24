@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: natalia-reich-stiebert-2023
     resource: "https://doi.org/10.1007/s11412-023-09411-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In exploratory moderated regression, first-language heterogeneity had a stronger positive effect on perceived group heterogeneity when groups spent more time getting to know each other (H × G: F(1, 1513) = 4.43, p = .04). [→ Natalia Reich-Stiebert 2023](#natalia-reich-stiebert-2023)

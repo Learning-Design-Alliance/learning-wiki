@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: nagaoka-2016
     resource: "http://consortium.uchicago.edu/publications/educational-attainment-chicago-public-schools-students-2015-focus-four-year-college"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Selective enrollment and charter schools saw larger four-year college enrollment increases than other schools: selective enrollment rose from 68 percent in 2006 to 78 percent in 2014, and charter graduates from 43 percent in 2009 to 57 percent in 2014, while other schools hovered around 31 percent. [→ Nagaoka 2016](#nagaoka-2016)

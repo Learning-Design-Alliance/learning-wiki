@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: jacob-2019
     resource: "https://aspredicted.org/sv3zv.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A significant indirect effect via number of personal references → number of concepts emerged (a1 × d21 × b2 = .09, 95% CI [.010, .313]), with no direct effects via social presence or comprehensiveness alone. [→ Jacob 2019](#jacob-2019)

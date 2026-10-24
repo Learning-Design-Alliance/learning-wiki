@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/104"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Elementary school student survey parts 1 and 2 showed no statistically significant differences between intervention and comparison groups (effect sizes 0.27 and 0.25, both ns). [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

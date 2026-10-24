@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: kirst-2024
     resource: "https://doi.org/10.54300/647.623"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` During the No Child Left Behind era, a focus on targets and sanctions without attention to educator capacity-building or alignment among reform components was a key barrier to implementing the new standards. [→ Kirst 2024](#kirst-2024)

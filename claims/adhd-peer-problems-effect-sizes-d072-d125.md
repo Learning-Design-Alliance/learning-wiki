@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i2` A meta-analysis reported peer problem effect sizes of d=.72 for children with ADHD without comorbidities and d=1.25 for those with comorbid conduct problems, relative to typically developing youth. [→ Mikami 2015](#mikami-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: suzanne-fikrat-wevers-2021
     resource: "https://doi.org/10.3102/0034654321998075"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` FLPs show a medium average effect of d = 0.50 on immediate posttests of emergent literacy skills in low-SES children. [→ Suzanne Fikrat-Wevers 2021](#suzanne-fikrat-wevers-2021)

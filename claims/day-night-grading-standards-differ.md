@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: j-l-zerbe-1917
     resource: "https://doi.org/10.1037/h0074694"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The distributions of grades for day and night courses were closely similar within each group across years but differed between groups, supporting separate standards. [→ J. L. Zerbe 1917](#j-l-zerbe-1917)

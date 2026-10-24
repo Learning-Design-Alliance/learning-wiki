@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: margaret-sullivan-2015
     resource: "https://www.mathematica.org/publications/implementing-the-virginia-rethinks-health-sciences-education-taaccct-grant"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Colleges are adopting new technology platforms to increase efficiencies for students, faculty, and administrators. [→ Margaret Sullivan 2015](#margaret-sullivan-2015)

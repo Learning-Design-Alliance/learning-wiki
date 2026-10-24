@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: hardy-2023
     resource: "https://doi.org/10.51388/20.500.12265/111"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Scoring activities and student work with the rubrics makes it possible to answer whether a learning activity provides opportunities for historical thinking, how lessons could be modified, and whether students demonstrated the skills. [→ Hardy 2023](#hardy-2023)

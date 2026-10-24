@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhu-z-2026
     title: Zhu Z 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` After 300 training iterations the PPO mechanism's cumulative expected return remained stable at 95.12 ± 1.23 (about 0.79 per step), while a random policy baseline yielded 12.3 ± 4.7 under the same evaluation conditions. [→ Zhu Z 2026](#zhu-z-2026)

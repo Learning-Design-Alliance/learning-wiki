@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: university-of-chicago-school-mathematics-project-2016
     resource: "https://ucsmp.uchicago.edu"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thompson et al. (2006) found a positive and statistically significant difference between UCSMP Algebra and comparison groups in the algebra domain, confirmed by the WWC after correction for clustering. [→ University of Chicago School Mathematics Project 2016](#university-of-chicago-school-mathematics-project-2016)

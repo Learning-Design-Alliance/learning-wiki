@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: cilia-ricarda-rücker-2025
     resource: "https://doi.org/10.1016/j.caeo.2025.100315"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` RM-ANOVA on pre-post performance showed a significant main effect of time (ges = 0.22) and of group (ges = 0.03), but no significant group-by-time interaction (p = 0.094). [→ Cilia Ricarda Rücker 2025](#cilia-ricarda-rucker-2025)

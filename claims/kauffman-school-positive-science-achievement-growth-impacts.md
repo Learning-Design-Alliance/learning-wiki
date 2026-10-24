@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: matthew-johnson-2014
     resource: "https://www.mathematica.org/publications/kauffman-school-evaluation-longterm-outcomes-report-year-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` During the 2011-2012 and 2012-2013 school years, the Kauffman School produced positive, statistically significant, educationally meaningful impacts on student achievement growth in science. [→ Matthew Johnson 2014](#matthew-johnson-2014)

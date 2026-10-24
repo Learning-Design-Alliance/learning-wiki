@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ganganath-2026
     resource: "https://doi.org/10.48550/arxiv.2606.22349"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across similar topic complexity levels with interaction duration controlled, curiosity-modulated interactions produced roughly 2.4× more conversational turns than Baseline (overall means 6.66 vs 16.12), with turn counts increasing by approximately 2–3× throughout. [→ Ganganath 2026](#ganganath-2026)

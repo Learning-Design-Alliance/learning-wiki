@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: steacy-lm-2020
     resource: "https://doi.org/10.1007/s11881-020-00198-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Longer words and words introduced at higher vocabulary grades required more exposures, while more imageable words required fewer exposures. [→ Steacy LM 2020](#steacy-lm-2020)

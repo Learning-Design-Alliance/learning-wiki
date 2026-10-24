@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: danna-2021
     resource: "https://orcid.org/0000-0002-3596-880X"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` K-means clustering of duration, velocity, stops and size separated eleven consonants into an easy cluster and a difficult cluster containing b, f, g and p. [→ Danna 2021](#danna-2021)

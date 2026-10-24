@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: national-guard-youth-challenge-program-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/329"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` One randomized controlled trial met WWC evidence standards, randomly assigning 3,074 youth in 10 sites located in 10 states. [→ National Guard Youth ChalleNGe Program 2010](#national-guard-youth-challenge-program-2010)

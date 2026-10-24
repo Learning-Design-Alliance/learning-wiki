@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ronnie-videla-2025
     resource: "https://doi.org/10.1145/3759257"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article reports, citing research on generative AI and creative production, that GenAI use tends to produce regression to the mean in creative output quality across skill levels. [→ Ronnie Videla 2025](#ronnie-videla-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: todd-rosenkranz-2002
     resource: "https://consortium.uchicago.edu/publications/2001-cps-trend-review-iowa-tests-basic-skills"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The percent of students at or above national norms in math fell from 46.4 percent in 2000 to 43.6 percent in 2001, and an equated Rasch score analysis replicated the GE decline for all cohorts except fourteen-year-olds. [→ Todd Rosenkranz 2002](#todd-rosenkranz-2002)

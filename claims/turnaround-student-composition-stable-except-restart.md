@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: de-la-torre-2013
     resource: "https://consortium.uchicago.edu/publications/turning-around-low-performing-schools-chicago-full-report"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Except under Closure and Restart, schools reenrolled 55 to 89 percent of eligible students, similar to prior year-to-year reenrollment rates, and student composition by race/ethnicity, socioeconomic status, and special education status was similar before and after reform. [→ de la Torre 2013](#de-la-torre-2013)

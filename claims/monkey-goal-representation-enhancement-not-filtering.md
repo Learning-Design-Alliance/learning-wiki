@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: constantinidis-christos-2019
     resource: "https://doi.org/10.1016/j.tins.2019.07.004"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Neuronal activity representing the correct eye-movement target is greater in adult monkey PFC, with the change localized in prefrontal rather than posterior parietal cortex. [→ Constantinidis Christos 2019](#constantinidis-christos-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: krajewski-2009
     resource: "https://doi.org/10.1016/j.jecp.2009.03.009"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` QNC Level I accounted for about 18% of variance in subsequent QNC Level II/III, which predicted about 32% of differences in Grade 3 math achievement. [→ Krajewski 2009](#krajewski-2009)

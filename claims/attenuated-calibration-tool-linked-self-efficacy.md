@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: liu-2026
     resource: "https://doi.org/10.1186/s40594-025-00592-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fourteen of 24 AI-user students described growing pride in prompt craft, sometimes conflating Tool Mastery with programming competence. [→ Liu 2026](#liu-2026)

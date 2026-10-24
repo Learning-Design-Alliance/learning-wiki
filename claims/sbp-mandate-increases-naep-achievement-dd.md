@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: frisvold-david-e-2015
     resource: "https://doi.org/10.1016/j.jpubeco.2014.12.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In NAEP difference-in-differences estimates, a binding state mandate increases math achievement by 2.2 points (7.7 percent of a standard deviation) and reading achievement by 2.0 points (5.4 percent of a standard deviation). [→ Frisvold David E 2015](#frisvold-david-e-2015)

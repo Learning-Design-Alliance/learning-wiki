@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: syed-tanzim-mubarrat-2026
     resource: "https://doi.org/10.1145/3772318.3791338"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Across 95 reviewed studies, instructional approach was significantly associated with learning context: gamification was overwhelmingly tied to formal contexts (85.29%) while GBL was more evenly distributed (45.90% formal, 54.10% informal). [→ Syed Tanzim Mubarrat 2026](#syed-tanzim-mubarrat-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: evgeny-chukharev-hudilainen-and-tatiana-a-klepikova-2016
     resource: "https://doi.org/10.1558/cj.v33i3.26055"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On an end-of-semester paper-based posttest, vocabulary items the spaced-repetition tutor counted as fully learned received some credit at almost three times the rate of items taught only through conventional class and homework activities (50.1% vs. 16.9%, p < 0.001, one-tailed); across all experimental-group items the rate was 49.9%. [→ Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova 2016](#evgeny-chukharev-hudilainen-and-tatiana-a-klepikova-2016)

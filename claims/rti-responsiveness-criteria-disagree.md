@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: denton-carolyn-a-2012
     resource: "https://doi.org/10.1177/0022219412442155"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Methods of determining instructional response differ on four dimensions, and approaches differing on these dimensions are likely to identify different students as adequate and inadequate responders. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

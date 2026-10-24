@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-19
 sources:
   - id: linsen-2014
     resource: "https://doi.org/10.1016/j.actpsy.2013.10.008"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In cross-sectional partial correlational analyses, the association between number line estimation and subtraction disappeared while the association with numerical magnitude comparison remained significant, specifically for response times on indirect-addition (IA) items; the data do not allow causal interpretation. [→ Linsen 2014](#linsen-2014)

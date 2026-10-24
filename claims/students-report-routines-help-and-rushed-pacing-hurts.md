@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: viki-m-young-2026
     resource: "https://doi.org/10.51388/20.500.12265/286"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Knowing the instructional routines of their classes helps students learn effectively by providing clear teacher expectations and helping them manage time and workload. [→ Viki M. Young 2026](#viki-m-young-2026)

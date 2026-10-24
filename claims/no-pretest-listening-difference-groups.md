@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: ali-panahi-2012
     resource: "https://doi.org/10.5539/elt.v5n2p148"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Before treatment, the IELTS-Instructed and TOEFL-Instructed groups did not differ significantly on a listening pre-test, supporting group comparability at entry. [→ Ali Panahi 2012](#ali-panahi-2012)

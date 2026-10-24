@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1987
 sources:
   - id: rod-ellis-1987
     resource: "https://doi.org/10.1017/S0272263100006483"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1987 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Accuracy orders for regular and irregular past differed across the three conditions, suggesting the so-called natural order may not be a stable phenomenon. [→ Rod Ellis 1987](#rod-ellis-1987)

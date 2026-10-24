@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: sidney-shapiro-and-joshua-lindemann-2026
     resource: "https://doi.org/10.48550/arxiv.2610.02510"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The structured Qwen mixture-of-experts response had a faster warm median (3.00 s versus 3.47 s for 8B) but review found three regressions across twelve fixed-evidence cases. [→ Sidney Shapiro and Joshua Lindemann 2026](#sidney-shapiro-and-joshua-lindemann-2026)

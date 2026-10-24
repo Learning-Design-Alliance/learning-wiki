@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: ninth-grade-course-performance-found-to-be-the-strongest-predictor-of-high-school-graduation-for-chicago-english-language-learners-2012
     resource: "http://www.betterhighschools.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ELL students who were newcomers to CPS after age 12 were less likely to graduate than other students with the same grades and attendance. [→ Ninth Grade Course Performance Found to Be the Strongest Predictor of High School Graduation for Chicago English Language Learners 2012](#ninth-grade-course-performance-found-to-be-the-strongest-predictor-of-high-school-graduation-for-chicago-english-language-learners-2012)

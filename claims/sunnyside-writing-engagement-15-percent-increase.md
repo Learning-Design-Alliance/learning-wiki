@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: smith-2024
     resource: "https://doi.org/10.51388/20.500.12265/202"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who participated in the Sunnyside Compact Writing Assignments pilot completed and returned quarterly research papers at a rate more than 15 percent higher than students not participating. [→ Smith 2024](#smith-2024)

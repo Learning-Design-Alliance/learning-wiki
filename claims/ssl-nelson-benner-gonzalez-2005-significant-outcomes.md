@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://www.steppingstonestoliteracy.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` SSL students outperformed comparison students on three phonological awareness measures, one letter knowledge measure, and one phonics measure, all statistically significant. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

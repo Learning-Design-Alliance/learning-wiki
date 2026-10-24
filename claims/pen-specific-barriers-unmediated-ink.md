@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r3` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Study 1 participants lacked visual feedback to confirm whether their intended targets were accurately captured, occasionally producing irrelevant responses. [→ ref-feedback](#ref-feedback)

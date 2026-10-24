@@ -8,6 +8,7 @@ generated:
 id: split-attention-effect-degrades-learning
 aliases: [contiguity-principle-improves-learning, spatial-contiguity-improves-learning, split-attention-effect-impairs-learning, split-attention-effect-integration-improves-learning, spatial-contiguity-meta-analysis-36-studies]
 evidence_strength: none
+newest_evidence: 2018
 sources:
   - id: schroeder-cenkci-2018
     resource: "https://doi.org/10.1007/s10648-018-9435-9"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=2426 (58 independent comparisons)
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 When learners must mentally integrate information that is physically or temporally separated — such as a diagram and its explanatory text presented apart — working memory resources are consumed by search-and-match processes, degrading learning relative to integrated presentations.
 

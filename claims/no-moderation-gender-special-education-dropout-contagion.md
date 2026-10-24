@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: dupéré-2021
     resource: "https://doi.org/10.1037/edu0000484"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Interaction tests for gender and for education sector on the Table 3 models yielded no significant interactions. [→ Dupéré 2021](#dupere-2021)

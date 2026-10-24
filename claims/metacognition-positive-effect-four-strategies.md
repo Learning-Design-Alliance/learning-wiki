@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: anneke-vrugt-frans-j-oort-2008
     resource: "https://doi.org/10.1007/s11409-008-9022-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Metacognition had medium-sized effects on metacognitive (β=.41), deep cognitive (β=.39) and resource management (β=.38) strategies and a small effect on surface cognitive strategies (β=.24) among effective self-regulators. [→ Anneke Vrugt & Frans J. Oort 2008](#anneke-vrugt-frans-j-oort-2008)

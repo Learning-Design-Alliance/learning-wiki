@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: xenia-vamvakoussi-2004
     resource: "https://telearn.hal.science/hal-00190233"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Understanding rational numbers is not indiscriminately difficult: difficulty depends on which aspect of rational numbers is at stake. [→ Xenia Vamvakoussi 2004](#xenia-vamvakoussi-2004)

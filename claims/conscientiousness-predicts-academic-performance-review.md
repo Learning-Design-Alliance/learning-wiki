@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-22
 sources:
   - id: hayley-k-jach-2023
     resource: "https://doi.org/10.1007/s10648-023-09807-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Conscientiousness is robustly associated with academic performance across education levels, and openness to experience is the next strongest predictor of academic performance. [→ Hayley K. Jach 2023](#hayley-k-jach-2023)

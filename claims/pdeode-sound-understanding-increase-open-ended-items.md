@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: bayram-costu-2011
     resource: "https://doi.org/10.1007/s11251-011-9169-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The proportion of sound understanding (SU) responses on open-ended items increased after the intervention, declined slightly at delayed post-test, and remained above pre-test levels. [→ Bayram Costu 2011](#bayram-costu-2011)

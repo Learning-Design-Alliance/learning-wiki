@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tomlinson-2026
     resource: "https://doi.org/10.1038/s41598-026-52798-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a direct comparison, students ranked AI-generated personalized videos as more preferred than human-recorded non-personalized videos (mean rank 2.26 vs. 2.69; Wilcoxon signed-rank test, p<0.001). [→ Tomlinson 2026](#tomlinson-2026)

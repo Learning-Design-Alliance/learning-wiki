@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: michael-j-weiss-2017
     resource: "https://doi.org/10.1080/19345747.2017.1300719"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article considers the implications of cross-site impact variation for the statistical precision of multisite trials. [→ Michael J. Weiss 2017](#michael-j-weiss-2017)

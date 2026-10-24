@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: julia-schindler-tobias-richter-2023
     resource: "https://doi.org/10.1007/s10648-023-09758-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In studies with expository texts, sentence unscrambling yielded significantly stronger generation effects (g = 0.77) than letter completion (g = 0.23), while in narrative texts letter completion descriptively outperformed sentence unscrambling (g = 0.57 vs. 0.36, not significant). [→ Julia Schindler · Tobias Richter 2023](#julia-schindler-tobias-richter-2023)

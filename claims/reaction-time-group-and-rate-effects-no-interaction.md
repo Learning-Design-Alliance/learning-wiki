@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: christodoulou-ja-2014
     title: Christodoulou JA 2014
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The typical reader group was faster to respond than the dyslexic group, responses were slower as presentation rates increased, and the Group X Condition interaction was not significant for reaction time. [→ Christodoulou JA 2014](#christodoulou-ja-2014)

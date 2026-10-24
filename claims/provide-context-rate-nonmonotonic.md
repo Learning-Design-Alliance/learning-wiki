@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: suhyeon-lee-2026
     resource: "https://doi.org/10.48550/arxiv.2608.22993"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Provide-context rates by scaffolding level were 14.0% after L0, 34.0% after L1, 23.3% after L2, 13.6% after L3, and 20.6% after L4; within conceptual questions, provide-context turns occurred at similar rates after Prompting and Solving responses. [→ Suhyeon Lee 2026](#suhyeon-lee-2026)

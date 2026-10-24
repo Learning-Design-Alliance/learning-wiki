@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1923
 sources:
   - id: herring-1923
     resource: "https://psycnet.apa.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1923 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Averaged across grades, intelligence correlates 0.27 with non-verbal tests and 0.54 with the abstract (verbal-end) tests of scale N. [→ Herring 1923](#herring-1923)

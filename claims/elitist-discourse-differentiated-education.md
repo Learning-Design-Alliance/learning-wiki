@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: edda-sant-2019
     resource: "https://doi.org/10.3102/0034654319862493"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within the elitist discourse, educational practices are differentiated by the social role each student will pursue, with cosmopolitan curricula for elites and reduced participation for the masses. [→ Edda Sant 2019](#edda-sant-2019)

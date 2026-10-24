@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: anabela-caetano-santos-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100535"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Studies cluster on self-management (43 studies, 52.17%), relationship skills (33, 40.22%) and self-awareness (33, 35.87%), with far fewer on responsible decision-making (22, 26.09%) and social awareness (7, 7.69%). [→ Anabela Caetano Santos 2023](#anabela-caetano-santos-2023)

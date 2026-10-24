@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shangchao-min-2026
     resource: "https://doi.org/10.21203/rs.3.rs-8820245/v1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The whole item bank shows mean item difficulty 0.486 and mean discrimination index 0.324, indicating appropriate difficulty and satisfactory discriminative power. [→ Shangchao Min 2026](#shangchao-min-2026)

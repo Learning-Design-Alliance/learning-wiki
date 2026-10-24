@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-24
 sources:
   - id: rosenzweig-2021
     resource: "https://doi.org/10.1037/edu0000456"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who left biomedical fields had significantly lower end-of-semester interest, prior achievement, and biology course grades than students who remained. [→ Rosenzweig 2021](#rosenzweig-2021)

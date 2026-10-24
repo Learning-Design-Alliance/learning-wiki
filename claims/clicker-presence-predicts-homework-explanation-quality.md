@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: dana-l-kirkwood-watts-2022
     resource: "https://doi.org/10.1128/jmbe.00038-22"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students present for the targeted clicker question were more likely to provide homework explanations demonstrating understanding than absent students. [→ Dana L. Kirkwood-Watts 2022](#dana-l-kirkwood-watts-2022)

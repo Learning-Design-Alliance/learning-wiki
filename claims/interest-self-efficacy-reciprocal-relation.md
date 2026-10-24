@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-22
 sources:
   - id: renninger-2026
     resource: "https://doi.org/10.1007/s10648-025-10102-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies examining both variables report that developing interest in disciplinary content leads to beliefs about ability to succeed, and that self-efficacy in turn informs interest. [→ Renninger 2026](#renninger-2026)

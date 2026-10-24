@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: darling-hammond-2017
     resource: "https://learningpolicyinstitute.org/product/expanding-high-quality-options"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies of magnet schools in California, Connecticut, and elsewhere found positive effects on student achievement, graduation rates, motivation and satisfaction, intergroup relationships, teacher morale, and parent satisfaction. [→ Darling-Hammond 2017](#darling-hammond-2017)

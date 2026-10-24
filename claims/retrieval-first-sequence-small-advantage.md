@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: julian-roelle-2023
     resource: "https://doi.org/10.1007/s10648-023-09810-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Empirical observations favor a retrieval-practice-first sequence over generative-first in some conditions, though the effect sizes were very small, and the review concludes there is probably no one optimal sequence. [→ Julian Roelle 2023](#julian-roelle-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1993
 sources:
   - id: bill-vanpatten-and-teresa-cadierno-1993
     resource: "https://doi.org/10.1017/S0272263100011979"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learners experiencing traditional instruction (explanation and output practice) made significant gains on the production task only, with no reported comprehension gains. [→ Bill VanPatten and Teresa Cadierno 1993](#bill-vanpatten-and-teresa-cadierno-1993)

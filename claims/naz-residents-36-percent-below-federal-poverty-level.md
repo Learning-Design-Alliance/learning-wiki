@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: lara-hulsey-2015
     resource: "https://www.mathematica.org/publications/promise-neighborhood-site-profile-northside-achievement-zone"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` 36 percent of NAZ residents live in households with incomes below the federal poverty level. [→ Lara Hulsey 2015](#lara-hulsey-2015)

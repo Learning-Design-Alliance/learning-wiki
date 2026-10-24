@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: meijuan-xie-2025
     resource: "https://doi.org/10.48550/arxiv.2503.13533"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` AI-TK positively predicts AI-TPK (β = 0.62) and AI-TCK (β = 0.35), but its direct path to AI-TPACK (H3c) was deleted as insignificant. [→ Meijuan Xie 2025](#meijuan-xie-2025)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-16
+recheck_by: 2027
 sources:
   - id: weaver-2022
     resource: "https://doi.org/10.51388/20.500.12265/166"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` A 2020 Common Sense Media and Boston Consulting Group analysis found approximately 30 percent of students — 15 to 16 million — lacked access to adequate internet or devices, and Native American, Black, and Latino students were far more likely to lack access than white students. [→ Weaver 2022](#weaver-2022)

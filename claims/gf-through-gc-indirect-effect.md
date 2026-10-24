@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: angel-blanch-2015
     resource: "http://hdl.handle.net/10459.1/48328"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Model E showed a significant indirect effect of Gf through Gc on the intercept but not on the slope factor. [→ Angel Blanch 2015](#angel-blanch-2015)

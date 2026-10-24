@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: wolf-2012
     resource: "https://doi.org/10.1007/s11606-012-2079-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Health literacy measures (REALM, TOFHLA, NVS) were strongly correlated with fluid and crystallized cognitive abilities (r = 0.57 to 0.77, all p < 0.001). [→ Wolf 2012](#wolf-2012)

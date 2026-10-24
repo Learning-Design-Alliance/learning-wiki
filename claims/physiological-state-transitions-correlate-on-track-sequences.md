@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: sobocinski-2020
     resource: "https://doi.org/10.1007/s11409-020-09224-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` A Spearman rank-order correlation showed a positive correlation between physiological state transitions and on-track sequences (rs = .23, p = .041). [→ Sobocinski 2020](#sobocinski-2020)

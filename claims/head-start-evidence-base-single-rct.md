@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: what-works-clearinghouse-2015
     resource: "http://www.acf.hhs.gov/programs/ohs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 40 eligible studies, only the DHHS ACF (2010) randomized controlled trial met WWC group design standards without reservations; 39 studies did not meet design standards. [→ What Works Clearinghouse 2015](#what-works-clearinghouse-2015)

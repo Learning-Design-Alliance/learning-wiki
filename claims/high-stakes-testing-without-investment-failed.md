@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: oakes-2020
     resource: "https://learningpolicyinstitute.org/product/improving-education-new-mexico-way"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` New Mexico's accountability strategy of high-stakes testing with sanctions, unaccompanied by investment or support, did not have its intended impact; 8th-grade reading and math score progress stalled and some scores declined. [→ Oakes 2020](#oakes-2020)

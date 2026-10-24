@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: pieter-wouters-2008
     resource: "https://doi.org/10.1007/s11251-008-9079-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learners in conditions without illusion of control performed better on transfer than learners in conditions with illusion of control (F(1,84)=4.29, p=0.041, ω²=4%). [→ Pieter Wouters 2008](#pieter-wouters-2008)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shwetha-singaravelu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.23322"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Neither raw volume expansion nor aggressive curation improved model-level judge scores relative to the moderately sized v1.1 dataset. [→ Shwetha Singaravelu 2026](#shwetha-singaravelu-2026)

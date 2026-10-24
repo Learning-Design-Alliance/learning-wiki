@@ -8,6 +8,7 @@ generated:
 id: advance-organizers-improve-learning
 aliases: [advance-organizers-improves-learning]
 evidence_strength: weak
+newest_evidence: 1983
 sources:
   - id: luiten-et-al-1980
     resource: "https://doi.org/10.3102/00028312017002211"
@@ -42,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r?` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 1983 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence by omitting its scope): Advance Organizers Improve Learning -->
 
 An advance organizer is introductory material presented before the main instruction that is pitched at a higher level of abstraction, inclusiveness, and generality than the learning content itself, providing an anchoring framework for new material (Ausubel, 1960). The claim is rated **weak**. Three syntheses are recorded, all read from abstracts or a conference version: two meta-analyses (Luiten et al. 1980; Stone 1983) report a small average benefit (mean ES 0.21 on learning in Luiten et al.), larger for high-ability learners (0.23) than for low-ability learners (0.13), with no special benefit for low-ability or low-knowledge learners in Stone (1983); a narrative review (Mayer 1979) argues organizers help only in appropriate situations. No primary experiment or modern pooled estimate is recorded.

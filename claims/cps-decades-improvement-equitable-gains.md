@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: sharon-greenberg-anthony-s-bryk-2024
     resource: "https://consortium.uchicago.edu/publications/change-that-matters"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` By 2017, elementary students gained 1.2 years of learning per year of instruction, graduation rates rose from 50% to 80%, and students of color and low-income students made the biggest gains. [→ Sharon Greenberg & Anthony S. Bryk 2024](#sharon-greenberg-anthony-s-bryk-2024)

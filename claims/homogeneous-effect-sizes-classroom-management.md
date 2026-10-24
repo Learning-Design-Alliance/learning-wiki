@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: oliver-2011
     resource: "https://doi.org/10.4073/csr.2011.4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The test for homogeneity was not statistically significant for either ICC=.05 (Q= 13.72, df = 11, p = .25) or ICC=.10 (Q= 10.67, df = 11, p = .47), so variability was likely due to sampling error and no moderator analyses were justified. [→ Oliver 2011](#oliver-2011)

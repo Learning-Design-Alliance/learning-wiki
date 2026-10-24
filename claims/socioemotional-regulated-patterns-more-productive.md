@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mohammed-saqr-2026
     resource: "https://doi.org/10.1007/s11412-025-09464-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups using interactive socioemotional or regulated constructive regulatory patterns showed greater cognitive and knowledge productivity than other patterns. [→ Mohammed Saqr 2026](#mohammed-saqr-2026)

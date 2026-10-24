@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: ashley-chen-2024
     resource: "https://doi.org/10.1007/s10648-024-09917-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a four-group experiment, one-way ANOVA found no significant effect of playback speed (1x, 1.5x, 2x, 2.5x) on comprehension test performance for audio-only clips, and Tukey post-hoc comparison of 1x vs 2.5x approached but did not reach significance. [→ Ashley Chen 2024](#ashley-chen-2024)

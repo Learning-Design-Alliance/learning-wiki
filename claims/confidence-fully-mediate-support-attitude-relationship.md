@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When confidence was included in the model, the direct effect of institutional support on attitudes became non-significant (V = 0.03, p = .385), indicating full mediation; the indirect effect was significant (a× b = 0.4961, Sobel z = 12.63, p < .001). [→ mediation](#mediation)

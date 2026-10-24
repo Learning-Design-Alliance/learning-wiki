@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-22
 sources:
   - id: hijzen-2007
     resource: "https://doi.org/10.1016/j.learninstruc.2007.09.020"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In interview statements, type of task, the teacher, and group composition were the most frequently mentioned aspects of the learning environment explaining effective or ineffective CL instances. [→ Hijzen 2007](#hijzen-2007)

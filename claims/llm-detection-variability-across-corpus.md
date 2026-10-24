@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: laurent-brisson-2026
     resource: "https://doi.org/10.48550/arxiv.2607.22598"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the synthetic corpus the pattern detector achieved the highest F1 macro (65.59), not significantly different from gemini-2.0-flash (60.19, p=0.1741), but on the real corpus gemini-2.0-flash achieved the highest F1 macro (80.59, p<0.001 vs pattern 62.46). [→ Laurent Brisson 2026](#laurent-brisson-2026)

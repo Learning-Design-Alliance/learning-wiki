@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: meyer-2026
     resource: "https://doi.org/10.3386/w35397"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Treatment-assigned Microeconomics students were five percentage points more likely to complete practice quizzes and earned practice quiz grades 3.59 points higher; no treatment differences in assignment completion or performance appeared in Government. [→ Meyer 2026](#meyer-2026)

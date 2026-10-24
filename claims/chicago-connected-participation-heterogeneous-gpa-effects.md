@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: schachner-2025
     resource: "https://edworkingpapers.com/ai25-1153"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participation was associated with a 0.06 point higher fall 2020 GPA and 0.05 point higher spring 2021 GPA for high pre-pandemic GPA students, and 0.05 point lower GPAs in both terms for low pre-pandemic GPA students. [→ Schachner 2025](#schachner-2025)

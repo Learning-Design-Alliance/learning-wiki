@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: yuchen-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2606.09831"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across all spatial pedagogy behavioural categories, high-experience teachers exhibited higher values in RC2 (voice quality and spectral structure) and RC3 (loudness dynamics), while low-experience teachers showed higher values in RC1, RC4 and RC5. [→ Yuchen Liu 2026](#yuchen-liu-2026)

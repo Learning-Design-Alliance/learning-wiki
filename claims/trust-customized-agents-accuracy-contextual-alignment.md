@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: han-xue-2026
     resource: "https://doi.org/10.3390/bs16071069"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Clearer and more contextually aligned feedback from customized agents was often associated with stronger perceptions of trust and credibility. [→ Han Xue 2026](#han-xue-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: biotteau-m-2019
     resource: "https://doi.org/10.2147/NDT.S120514"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Estimated DCD prevalence varies by study (1.8% to 6.9%) depending on definition, cut-off score, and population, with a male predominance ranging from 2:1 to 3:1. [→ Biotteau M 2019](#biotteau-m-2019)

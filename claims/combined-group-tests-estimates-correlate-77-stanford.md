@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: chassell-1921
     resource: "https://doi.org/10.1037/h0068285"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The correlation of .77 between the Stanford Revision and group tests combined with teachers' estimates (30 cases) raised the question whether individual psychological examination is necessary for classification and promotion, though the authors still regard it as indispensable. [→ Chassell 1921](#chassell-1921)

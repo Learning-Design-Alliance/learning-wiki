@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: liu-xu-2026
     resource: "https://doi.org/10.3390/bs16081378"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under AI technological support, AI self-efficacy showed a larger mediating association than self-regulated learning; under intelligent environment support, the opposite pattern emerged. [→ Liu Xu 2026](#liu-xu-2026)

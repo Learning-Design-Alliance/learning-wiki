@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: germain-2025
     resource: "https://learningpolicyinstitute.org/product/new-mexico-community-schools-outcomes-brief"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At University High School, suspensions dropped from 274 to 61 in 2024 and the graduation rate increased by nearly 20 percentage points; substance abuse infractions dropped by 80% at both University High and Sierra Middle. [→ Germain 2025](#germain-2025)

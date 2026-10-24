@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: rosário-2013
     resource: "https://doi.org/10.1007/s11409-013-9095-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Approaches to teaching and approaches to studying are related, per the article's stated focus. [→ Rosário 2013](#rosario-2013)

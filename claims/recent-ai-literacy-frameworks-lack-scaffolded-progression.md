@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: maccallum-k-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100584"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 13 frameworks published in 2023-2024 plus the UNESCO frameworks, most contained no explicit descriptions of scaffolded progression, and most were developed for a specific educational level or context. [→ MacCallum K. 2026](#maccallum-k-2026)

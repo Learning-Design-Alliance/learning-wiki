@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: doors-to-discovery-wwc-intervention-report-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/153"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In one randomized controlled trial meeting standards without reservations, Doors to Discovery™ had a substantively important but statistically non-significant positive effect on oral language (effect size 0.27). [→ Doors to Discovery™ WWC Intervention Report 2013](#doors-to-discoverytm-wwc-intervention-report-2013)

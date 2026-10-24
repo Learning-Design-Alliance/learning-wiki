@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: patrick-rich-2025
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/pilot-study-write-succeed-intervention-enhancing-writing-instruction-new-mexico"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average self-reported CLRI use rose from 3.14 to 3.44 over the year, while collaboration averaged 3.28, 3.30 and 3.14 at the beginning, middle and end of the year, which the report describes as unchanged overall (N = 20). [→ Patrick Rich 2025](#patrick-rich-2025)

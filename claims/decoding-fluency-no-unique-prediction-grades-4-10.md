@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-24
 sources:
   - id: foorman-barbara-r-2015
     resource: "https://doi.org/10.1037/edu0000026"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the presence of the oral language factor, decoding fluency was not significantly associated with reading comprehension in any grade, despite factor correlations of .47 to .74. [→ Foorman Barbara R. 2015](#foorman-barbara-r-2015)

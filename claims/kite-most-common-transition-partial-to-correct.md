@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mragisha-jain-2026
     resource: "https://doi.org/10.48550/arxiv.2605.12988"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the simulated student evaluation, the most frequent expert-judged transition was from Partially Correct to Correct (14 cases, 31.82%), and six cases (13.63%) remained Partially Correct but improved in quality. [→ Mragisha Jain 2026](#mragisha-jain-2026)

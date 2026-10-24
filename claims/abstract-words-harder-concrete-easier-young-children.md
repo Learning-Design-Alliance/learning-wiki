@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: cobb-1921
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The larger changes in word-difficulty order appear due to abstract terms being relatively more difficult at these early ages. [→ Cobb 1921](#cobb-1921)

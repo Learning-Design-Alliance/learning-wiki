@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: olvet-dm-2026
     resource: "https://doi.org/10.1007/s40670-026-02638-2"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` After rubric refinement across iterations, weighted kappa between faculty and GPT-4 reached almost perfect agreement for questions 1A (kw=0.94) and 2A (kw=0.88) with the analytic rubric and question 2H (kw=0.89) with the holistic rubric. [→ Olvet DM 2026](#olvet-dm-2026)

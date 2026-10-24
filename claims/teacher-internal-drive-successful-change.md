@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: wei-2023
     resource: "https://doi.org/10.5430/wje.v13n6p35"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: Internal drive from teachers, rather than top-down curriculum prescriptions, leads to the most successful change in educational practices -->
 
 ## Subclaims

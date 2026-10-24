@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: quesen-2026
     resource: "https://eric.ed.gov/?id=ED681368"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Five of six teacher concern terms rose in per-year average mentions from 2005–2014 to 2022–2025, with mental health up 670 percent, technology/AI up 145 percent, chronic absenteeism up 743 percent, student behavior up 19 percent, and teacher retention up 14 percent. [→ Quesen 2026](#quesen-2026)

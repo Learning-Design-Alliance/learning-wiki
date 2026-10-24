@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-22
 sources:
   - id: holzberger-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2021.101513"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teachers reporting higher self-efficacy in instruction report higher cognitive activation, and teachers reporting higher self-efficacy in classroom management report better classroom management (standardized β = .30 and β = .28). [→ Holzberger 2021](#holzberger-2021)

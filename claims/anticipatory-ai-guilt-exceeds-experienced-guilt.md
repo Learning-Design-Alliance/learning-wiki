@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: diane-vassallo-2026
     resource: "https://doi.org/10.1007/s10805-026-09726-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Descriptive survey data show worry about diminished credibility (M = 2.68) and feeling like cheating (M = 2.46) were endorsed more than remorse after AI use (M = 2.02), indicating anticipatory guilt substantially exceeds experienced guilt. [→ Diane Vassallo 2026](#diane-vassallo-2026)

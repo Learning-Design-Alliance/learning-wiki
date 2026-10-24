@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: zakani-2019
     resource: "https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` None of the collected physics and calculus exam questions required the analyze, evaluate, or create cognitive processes, nor the last levels of depth of analysis or interdependence. [→ Zakani 2019](#zakani-2019)

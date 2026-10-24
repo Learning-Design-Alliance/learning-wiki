@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across four cohorts, 77.0% of analyzed comments were What comments, 21.0% How comments, and only 0.4% Why comments. [→ rq1-dist](#rq1-dist)

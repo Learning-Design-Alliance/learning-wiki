@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: okeke-2009
     resource: "https://doi.org/10.1177/0095798409333615"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In both samples students endorsed relatively traditional stereotypes (Study 1 M = 11.3; Study 2 M = 10.3 on a scale where 0 indicates no race differences) and reported high academic self-concept (M = 17.0 and 16.6 on a 25-point scale). [→ Okeke 2009](#okeke-2009)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: macedo-rouet-2024
     resource: "https://doi.org/10.1007/s11251-024-09676-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Online reading for academic purposes involves analysing task requirements, assessing information needs, accessing relevant contents, and evaluating the relevance and reliability of information given the task at hand. [→ Macedo-Rouet 2024](#macedo-rouet-2024)

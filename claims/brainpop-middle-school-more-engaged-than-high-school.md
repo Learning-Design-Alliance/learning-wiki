@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: luke-2017
     resource: "https://doi.org/10.51388/20.500.12265/26"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Middle school students logged into BrainPOP ESL more than twice as frequently on average (182 logins) as high school students (74 logins), and completed 109 versus 60 learning activities on average. [→ Luke 2017](#luke-2017)

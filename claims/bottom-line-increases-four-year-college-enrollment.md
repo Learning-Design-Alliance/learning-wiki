@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/714"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i1` small
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` In an RCT, Bottom Line participants enrolled in a four-year college at higher rates than comparison students (effect size 0.34, improvement index +13, p < .01). [→ What Works Clearinghouse 2021](#what-works-clearinghouse-2021)

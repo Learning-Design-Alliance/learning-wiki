@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: xiaoqi-wang-2026
     resource: "https://doi.org/10.1007/s11409-026-09481-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Cronbach's alpha ranged from 0.761 to 0.943, composite reliability exceeded 0.70, AVE exceeded 0.50, and all HTMT ratios fell below 0.85. [→ Xiaoqi Wang 2026](#xiaoqi-wang-2026)

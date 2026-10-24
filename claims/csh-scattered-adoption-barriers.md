@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: lewallen-tc-2015
     resource: "https://doi.org/10.1111/josh.12310"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` CSH adoption across the United States was scattered, with school health coordinating councils' work often not included in School Improvement Plans and budget declines and punitive accountability measures negatively affecting administrator adoption. [→ Lewallen TC 2015](#lewallen-tc-2015)

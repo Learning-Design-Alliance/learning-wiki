@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: lachowsky-2021
     resource: "https://doi.org/10.5278/ojs.jpblhe.v9i2.2883"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Self-rated effectiveness at delivering feedback improved from 7.1 to 8.0 (p=0.001), at receiving feedback from 7.2 to 8.0 (p=0.004), and at implementing feedback from 7.7 to 8.2 (p=0.01). [→ Lachowsky 2021](#lachowsky-2021)

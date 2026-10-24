@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ramirez-gerardo-2018
     resource: "https://doi.org/10.1177/2332858418756052"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teacher math anxiety was negatively related to students' reports of process-oriented teaching practices, and the indirect effect on perceived teacher fixed mindset through these practices was significant (b = .08, p = .007). [→ Ramirez Gerardo 2018](#ramirez-gerardo-2018)

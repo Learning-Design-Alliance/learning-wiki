@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: guba-2026
     resource: "https://doi.org/10.1007/s11251-025-09773-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Chi-square analyses revealed that use of the targeted comparison strategy did not vary by condition at first draft or revision for Tasks A, B, and C. [→ Guba 2026](#guba-2026)

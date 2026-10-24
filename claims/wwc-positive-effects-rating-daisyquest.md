@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: daisyquest-for-preschool-children-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The WWC assigned DaisyQuest the rating of positive effects, defined as strong evidence of a positive effect with no overriding contrary evidence, because both studies met evidence standards with statistically significant positive effects and no negative effects were found. [→ DaisyQuest for Preschool Children 2006](#daisyquest-for-preschool-children-2006)

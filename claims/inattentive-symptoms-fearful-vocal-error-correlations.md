@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: miller-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950374/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Inattentive symptoms significantly predicted fearful errors (β = .47, p = .033) and vocal channel errors (β = .46, p = .036) in regression analyses. [→ Miller 2011](#miller-2011)

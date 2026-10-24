@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: joshi-u-2026
     resource: "https://doi.org/10.1186/s12909-026-10080-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Listening to 5–6 episodes (>50% completion) predicted greater learning gain (β 5.15, p = 0.005) controlling for baseline score and centre. [→ Joshi U 2026](#joshi-u-2026)

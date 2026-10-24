@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: bracco-2021
     resource: "http://csustudentsuccess.org/multiple-measures"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` About 73 percent of the 2018 cohort completed the B4 requirement in their first year versus about 60 percent of the 2017 cohort; among students needing support, completion rose from 25 percent ('not college ready', 2017) to 59 percent (Category III) and 49 percent (Category IV). [→ Bracco 2021](#bracco-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: h-chad-lane-2026
     resource: "https://doi.org/10.1145/3770761.3777333"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Moving from the initial prompt (Trial 1) to the revised prompt (Trial 2) improved 10 of 11 models by 6.6–16.2 percentage points (mean 11.2); qwen3-coder:30b was the sole exception, decreasing by 1.5 points. [→ H. Chad Lane 2026](#h-chad-lane-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: pauker-2010
     resource: "https://doi.org/10.1111/j.1467-8624.2010.01511.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Reasoning type changed across age groups for both judgments of the self (χ2(9, n = 68) = 21.68, p = .01, ϕ = .56) and others (χ2(9, n = 68) = 31.04, p < .001, ϕ = .68), with older children primarily using essentialist reasoning. [→ Pauker 2010](#pauker-2010)

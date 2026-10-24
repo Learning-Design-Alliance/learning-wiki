@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: wwc-rating
     title: wwc-rating
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Based on one study meeting WWC standards without reservations, the WWC assigned GEMS® Space Science Sequence a rating of potentially positive effects on general science achievement, with a small extent of evidence. [→ wwc-rating](#wwc-rating)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: stea-th-2014
     resource: "https://doi.org/10.1186/1471-2458-14-829"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Smokers had lower odds of high achievement (girls AOR 0.18, boys AOR 0.37), as did snuffers (girls AOR 0.25, boys AOR 0.51). [→ Stea TH 2014](#stea-th-2014)

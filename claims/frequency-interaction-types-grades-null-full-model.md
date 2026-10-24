@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: mohammed-saqr-2023
     resource: "https://doi.org/10.1007/s11412-023-09385-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Argue and Discuss were significant in the cognitive model, Argue and Evaluate in the high-cognitive model, and Socialize in the off-task model; none of the variables reached significance in the full model. [→ Mohammed Saqr 2023](#mohammed-saqr-2023)

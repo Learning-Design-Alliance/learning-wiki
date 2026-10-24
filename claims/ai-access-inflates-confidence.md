@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: chiara-marcoccia-2026
     resource: "https://doi.org/10.31234/osf.io/5y6m4_v1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` AI advice nearly doubled reported confidence on a 0–100 scale (29.6 vs. 75.9 without stakes; 37.7 vs. 73.5 with stakes). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: elisabet-pladevall-ballester-2020
     resource: "http://dx.doi.org/10.14746/ssllt.2020.10.3.3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the L2, other-repetition prevails (M = 2.25) and negative feedback is significantly less used than the rest (χ2(5) = 23.429, p < .001). [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)

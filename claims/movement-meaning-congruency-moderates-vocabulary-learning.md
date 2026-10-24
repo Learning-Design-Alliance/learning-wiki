@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: xiaoxuan-li-julia-chatain-fan-wang-manu-kapur-2026
     resource: "https://doi.org/10.1007/s10648-026-10194-9"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In between-subject designs, congruent movements yielded larger effects (g = 0.74) than non-congruent movements (g = 0.38). [→ Xiaoxuan Li · Julia Chatain · Fan Wang · Manu Kapur 2026](#xiaoxuan-li-julia-chatain-fan-wang-manu-kapur-2026)

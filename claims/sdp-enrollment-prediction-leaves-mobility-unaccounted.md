@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: sean-tanner-2021
     resource: "https://www.mathematica.org/publications/predicting-early-fall-student-enrollment-in-the-school-district-of-philadelphia"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The statistical techniques leave much student mobility unaccounted for, and under the best approach 22 percent of incoming grade levels within schools might require reassignment of students and teachers. [→ Sean Tanner 2021](#sean-tanner-2021)

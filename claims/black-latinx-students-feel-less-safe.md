@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: trout-2022
     resource: "https://eric.ed.gov/?id=ED628885"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Black and Latinx students generally feel less safe at school than White peers, and Black students feel consistently less safe in the classroom than White and Asian classmates. [→ Trout 2022](#trout-2022)

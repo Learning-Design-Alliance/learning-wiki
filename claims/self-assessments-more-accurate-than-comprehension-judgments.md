@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: pijeira-díaz-2023
     resource: "https://doi.org/10.1007/s11409-023-09343-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Self-assessments of correct diagram boxes were significantly more accurate than comprehension judgments for causal relations, and the two judgment types correlated strongly (r = .64). [→ Pijeira-Díaz 2023](#pijeira-diaz-2023)

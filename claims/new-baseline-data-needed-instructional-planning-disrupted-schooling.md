@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: considerations-for-supporting-a-successful-start-to-the-2020-2021-school-year-for-students-with-disabilities-2020
     resource: "https://eric.ed.gov/?id=ED609257"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The guidance asserts that new baseline data will be needed to support instructional planning for individual students and student groups. [→ Considerations for supporting a successful start to the 2020-2021 school year for students with disabilities 2020](#considerations-for-supporting-a-successful-start-to-the-2020-2021-school-year-for-students-with-disabilities-2020)

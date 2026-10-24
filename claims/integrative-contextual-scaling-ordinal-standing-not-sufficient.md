@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-23
 sources:
   - id: herbert-w-marsh-2026
     resource: "https://doi.org/10.1007/s10648-026-10200-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The study's integrative interpretation holds that ordinal standing is relevant but not sufficient: contextual means, ordinal standing, and distributional structure jointly shape comparative self-evaluation. [→ Herbert W. Marsh 2026](#herbert-w-marsh-2026)

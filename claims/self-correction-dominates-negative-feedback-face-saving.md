@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: sarré-2011
     resource: "https://dx.doi.org/10.14705/rpnet.2011.9781908416001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 119 negative feedback occurrences, 112 were unprompted self-corrections, with only 1 explicit correction and 6 recasts; learners prefer self-initiated, self-completed repairs as less face-threatening. [→ Sarré 2011](#sarre-2011)

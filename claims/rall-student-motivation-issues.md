@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: van-den-berghe-2019
     resource: "https://doi.org/10.3102/0034654318821286"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Beyond learning gains, the RALL studies reviewed raise general issues concerning students' motivation in learning situations with robots. [→ van den Berghe 2019](#van-den-berghe-2019)

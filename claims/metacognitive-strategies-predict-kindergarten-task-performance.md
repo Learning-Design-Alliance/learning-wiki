@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: heyi-zhang-2014
     resource: "https://www.repository.cam.ac.uk"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among cognitive, metacognitive, and motivational strategic behaviours, only metacognitive strategic behaviours significantly predicted children's task performance (t(124)=11.24, p<.001). [→ Heyi Zhang 2014](#heyi-zhang-2014)

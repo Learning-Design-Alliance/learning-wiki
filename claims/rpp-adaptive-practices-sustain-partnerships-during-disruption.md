@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: popa-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2253529"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1` · n=21 contributors across 15 think-pieces, drawing on multiple named RPPs (e.g., Boston P-3 RPP, Houston Education Research Consortium)
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 When an acute disruption (e.g., a pandemic) hits, research-practice partnerships (RPPs) that had already built relational trust and embedded-researcher relationships could pivot to rapid, practically useful work — even at the cost of publishable rigor — and partners reported this strengthened rather than weakened the partnership.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fong-2026
     resource: "https://eric.ed.gov/?id=ED681370"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The positive short-term effects observed on district benchmark assessments in the 2025 evaluation did not persist through the following spring's statewide math assessments, even among students who received the recommended dosage. [→ Fong 2026](#fong-2026)

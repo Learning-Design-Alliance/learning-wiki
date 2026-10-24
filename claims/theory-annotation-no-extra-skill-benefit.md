@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sam-sims-2026
     resource: "https://doi.org/10.1007/s11251-026-09779-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no statistically significant difference in skill improvement between the model with theory arm and the model arm (p = 0.477). [→ Sam Sims 2026](#sam-sims-2026)

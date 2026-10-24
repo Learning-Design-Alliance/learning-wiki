@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: cardichon-2020
     resource: "https://learningpolicyinstitute.org/product/crdc-teacher-access"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Schools with high student of color enrollment had a greater share of first- or second-year teachers (17.2% vs 9.1% in 2016), and the proportion grew from 15.0% to 17.2% while remaining about 9% in low-enrollment schools. [→ Cardichon 2020](#cardichon-2020)

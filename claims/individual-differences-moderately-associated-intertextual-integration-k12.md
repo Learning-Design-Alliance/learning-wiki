@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: daniel-r-espinas-2024
     resource: "https://doi.org/10.1007/s10648-024-09889-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Systematic review of 25 studies found individual difference factors generally positively and moderately correlated with intertextual integration in K-12 samples. [→ Daniel R. Espinas 2024](#daniel-r-espinas-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cogevol-team-2026
     resource: "https://doi.org/10.48550/arxiv.2608.30968"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the quality-judges-only configuration over 128 rated pages, the current prompts raise Pearson r from 0.609 to 0.715 and Spearman ρ from 0.672 to 0.741; the full pipeline raises ρ further to 0.749. [→ CogEvol Team 2026](#cogevol-team-2026)

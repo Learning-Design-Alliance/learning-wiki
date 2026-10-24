@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yuan-an-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27063"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In-class deployment of LLM-generated MCQs succeeded logistically, with approximately 70% of items achieving a 100% correct response rate. [→ Yuan An 2026](#yuan-an-2026)

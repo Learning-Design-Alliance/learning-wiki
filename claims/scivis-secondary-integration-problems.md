@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 1995
 sources:
   - id: douglas-n-gordin-1995
     resource: "https://telearn.hal.science/hal-00190593"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article identifies students' need to learn basic scientific practices, incompatibilities between the traditional high-school classroom format and scientific inquiry, and the need for additional school infrastructure as potential problems for integrating scientific visualization into secondary education. [→ Douglas N. Gordin 1995](#douglas-n-gordin-1995)

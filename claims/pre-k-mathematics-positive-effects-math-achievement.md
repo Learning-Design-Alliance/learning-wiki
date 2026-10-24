@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: math-summary-1
     title: math-summary-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across five studies meeting WWC standards, Pre-K Mathematics produced a statistically significant positive average effect on mathematics achievement (effect size 0.38, improvement index +15). [→ math-summary-1](#math-summary-1)

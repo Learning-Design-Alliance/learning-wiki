@@ -8,6 +8,8 @@ generated:
 id: peer-assessment-improves-performance
 aliases: [peer-assessment-improves-academic-performance, peer-assessment-improves-achievement, peer-feedback-improves-work-quality]
 evidence_strength: unverified
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: double-et-al-2020
     resource: "https://doi.org/10.1007/s10648-019-09510-3"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small · n=54 studies (k=141 effect sizes)
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Peer Assessment Improves Performance -->
 
 When learners evaluate one another's work, their subsequent academic performance improves by a small average amount (g = 0.31 against no assessment in one meta-analysis of 54 control-group studies). The claim covers both directions of the exchange — assessing peers and being assessed by peers — and the recorded evidence does not separate them. <!-- deprecated (2026-10-05, stale and overstated: an entry had been added, and it does not test the mechanism): When learners evaluate one another's work against explicit criteria, the act of judging quality deepens their own understanding and can improve subsequent performance. The claim covers both directions of the exchange — gains from assessing peers and gains from being assessed by peers — and is currently unverified pending Evidence entries. -->

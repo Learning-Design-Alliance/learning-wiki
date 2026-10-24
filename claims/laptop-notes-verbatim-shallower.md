@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: laptop-notes-verbatim-shallower
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: mueller-oppenheimer-2014
     resource: "https://doi.org/10.1177/0956797614524581"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Laptop note-taking tends toward verbatim transcription and shallower learning than longhand note-taking -->
 
 The proposed mechanism is that laptops, being faster than handwriting, invite learners to transcribe lectures word-for-word rather than summarizing, paraphrasing, and selecting — encoding processes that support comprehension. The claim concerns the *style* of note-taking that each medium tends to induce, not an inherent property of the devices themselves. Of the two studies recorded, the original experiments support the performance cost and the direct replication does not, so the learning cost is fragile rather than established.

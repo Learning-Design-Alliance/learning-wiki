@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-17
 sources:
   - id: van-rijthoven-r-2018
     resource: "https://doi.org/10.1002/dys.1597"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In children with dyslexia, semantics was indirectly related to word decoding efficiency through phonological awareness and rapid naming, with a significant total indirect effect. [→ van Rijthoven R 2018](#van-rijthoven-r-2018)

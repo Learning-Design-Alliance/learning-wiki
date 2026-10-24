@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hao-liang-2026
     resource: "https://doi.org/10.48550/arxiv.2605.09635"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On Qwen3-4B-Base, K12-Train-Text achieves the highest GaokaoBench total (1009.96), improving over the strongest baseline DataFlow (985.91) by +24.1; on Llama3.1-8B-Base it again obtains the highest total (625.49), outperforming WizardLM (593.08) by +32.4. [→ Hao Liang 2026](#hao-liang-2026)

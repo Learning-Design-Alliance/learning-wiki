@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: de-jonge-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102422"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A match between recording angle and expected angle yielded significantly better task performance than a mismatch (interaction η2 = 0.27). [→ de Jonge 2026](#de-jonge-2026)

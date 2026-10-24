@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-22
 sources:
   - id: katharina-luisa-boehme-2025
     resource: "https://doi.org/10.1007/s10648-025-09991-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In latent cross-lagged models, higher interest at earlier waves was related to decreases in boredom at later waves in both domains, supporting H1, except for German between T3 and T4, where the path was not significant (p = 0.101); the design is correlational and cannot show that interest causes the change. [→ Katharina Luisa Boehme 2025](#katharina-luisa-boehme-2025)

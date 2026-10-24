@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1998
 sources:
   - id: keith-topping-1998
     resource: "https://doi.org/10.3102/00346543068003249"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Peer influence on students' self-concept reached significance for the final speech relative to control, while instructor influence was nonsignificant across all four speeches. [→ Keith Topping 1998](#keith-topping-1998)

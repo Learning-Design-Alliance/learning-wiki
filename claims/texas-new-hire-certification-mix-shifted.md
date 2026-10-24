@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: patrick-2026
     resource: "https://doi.org/10.54300/301.563"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` New hires holding standard certificates fell from 11,300 in 2014–15 to 5,391 in 2024–25, and intern-certificate hires fell from 12,271 to 3,987, while uncertified hires surpassed all other categories after 2021–22. [→ Patrick 2026](#patrick-2026)

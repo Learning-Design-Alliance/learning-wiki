@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: jannet-van-drie-carla-van-boxtel-2008
     resource: "https://doi.org/10.1007/s10648-007-9056-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Based on studies including 320 students aged seven to fourteen, Lee and Ashby identified six steps in students' ideas about accounts and their relation to the past, from the past as given to the past as (re-)constructed in answer to questions in accordance with criteria. [→ Jannet van Drie & Carla van Boxtel 2008](#jannet-van-drie-carla-van-boxtel-2008)

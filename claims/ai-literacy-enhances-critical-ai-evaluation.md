@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: gao-l-2026
     title: Gao L 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a time-lagged survey of university students using generative AI, AI literacy was strongly and positively associated with critical AI evaluation (β = 0.893, f² = 3.916); the survey design cannot show that literacy causes the evaluation. [→ Gao L 2026](#gao-l-2026)

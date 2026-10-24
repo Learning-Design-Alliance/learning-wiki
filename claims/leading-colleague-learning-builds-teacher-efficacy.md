@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: lotan-2019
     resource: "https://learningpolicyinstitute.org/product/instructional-leadership-corps-teachers-leading"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Realizing they are helping to shape other teachers' practice increases ILC teacher leaders' sense of professional efficacy and broadens their professional reach beyond their classrooms. [→ Lotan 2019](#lotan-2019)

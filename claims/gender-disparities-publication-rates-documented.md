@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: kucirkova-2023
     resource: "https://doi.org/10.1007/s10648-023-09727-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Publication rates favour men in individual countries and in historical comparisons covering 83 countries and 13 disciplines. [→ Kucirkova 2023](#kucirkova-2023)

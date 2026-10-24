@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-07
 sources:
   - id: numops-1
     title: numops-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i3` large
+> **Currency** · newest study 2020 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i3` In one RCT meeting WWC standards without reservations, Fraction Face-Off! produced a positive and statistically significant effect on number and operations (average effect size 0.89, improvement index +31, 1,152 students). [→ numops-1](#numops-1)

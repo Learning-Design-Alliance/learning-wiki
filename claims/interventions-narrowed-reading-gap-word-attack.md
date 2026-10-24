@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: torgesen-2007
     resource: "https://www.mathematica.org/publications/national-assessment-of-title-i-final-report-volume-ii-closing-the-reading-gap-findings-from-a-randomized-trial-of-four-reading-interventions-for-striving-readers"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Relative gap reduction was largest on Word Attack: about two-thirds for the third-grade cohort and one-half for the fifth-grade cohort, with smaller reductions on other word-level tests and comprehension. [→ Torgesen 2007](#torgesen-2007)

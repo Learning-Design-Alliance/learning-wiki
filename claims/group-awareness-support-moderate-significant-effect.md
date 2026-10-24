@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: michael-j-baker-2024
     resource: "https://doi.org/10.1007/s11412-024-09419-2"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · theoretical `r2`–`r3` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The meta-analysis of group awareness support in CSCL found a moderate significant positive effect on learning performance, with a greater influence on cognitive development. [→ Michael J. Baker 2024](#michael-j-baker-2024)

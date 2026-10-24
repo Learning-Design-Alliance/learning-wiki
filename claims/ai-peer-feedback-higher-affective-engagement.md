@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-w-2026
     title: Liu W 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` After controlling for pretest scores, the AI-peer integrated feedback group reported significantly higher posttest affective engagement than the peer-feedback-only control group (partial η2 = 0.29). [→ Liu W 2026](#liu-w-2026)

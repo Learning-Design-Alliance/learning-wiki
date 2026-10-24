@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: sun-dl-2015
     title: Sun DL 2015
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The peer assessment effect size of .122 represents about 40% of the gender achievement gap and about 20% of the racial achievement gap in this population. [→ Sun DL 2015](#sun-dl-2015)

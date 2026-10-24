@@ -7,6 +7,8 @@ generated:
   at: 2026-10-19
 id: surface-formatting-changes-shift-llm-grades-without-penalising-them
 evidence_strength:
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: porcaro-2026
     resource: "https://doi.org/10.5281/zenodo.23480844"
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
 In this release's evidence records and interpretation (the finding is not in its article), reformatting an answer without changing its words moved the grade a level in about two cases in five on matched answers (39%, against 25% for re-grading identical text; 17–37% across seven variants at n = 30 each), with no consistent direction across variants and no intervals. The release reads it as a shift in where the grader settles rather than a penalty for any particular style, and on matched cases it was larger than the noise of simply grading the same text twice. One model, single runs; no penalty was detected, which is not the same as showing there is none.

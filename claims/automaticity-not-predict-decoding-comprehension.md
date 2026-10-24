@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: roembke-tanja-c-2019
     resource: "https://doi.org/10.1037/edu0000279"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Masked task versions captured negligible, non-significant variance in decoding (WRMT) and none in comprehension (GMRT). [→ Roembke Tanja C. 2019](#roembke-tanja-c-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: unggi-lee-2026
     resource: "https://doi.org/10.48550/arxiv.2605.30670"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The DI We-Do move (lead) jumps from 9.1-14.3% in generic-prompted groups to 21.4-23.6% in SPED-prompted groups, with the I-Do modeling move shrinking by roughly a third. [→ Unggi Lee 2026](#unggi-lee-2026)

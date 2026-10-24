@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-08
+recheck_by: 2029
 sources:
   - id: alice-xu-2026
     resource: "https://doi.org/10.18608/jla.2026.9099"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-08 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A system designed with modelability in mind can produce predictive models that generalize effectively across diverse educational contexts. [→ Alice Xu 2026](#alice-xu-2026)

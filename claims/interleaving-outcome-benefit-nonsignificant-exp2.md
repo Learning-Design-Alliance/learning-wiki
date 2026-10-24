@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: janssen-2023
     resource: "https://doi.org/10.1007/s10648-023-09797-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Actual learning outcomes were numerically higher for interleaved than blocked studying (d = -0.23) but the difference was not statistically significant. [→ Janssen 2023](#janssen-2023)

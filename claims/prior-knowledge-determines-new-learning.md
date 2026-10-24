@@ -8,6 +8,7 @@ generated:
 id: prior-knowledge-determines-new-learning
 aliases: [prior-knowledge-gains-near-zero-meta-analysis]
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: simonsmeier-et-al-2022
     resource: "https://doi.org/10.1080/00461520.2021.1939700"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r3`, 1 review `r3` · `q4` · `i3` large · n=8,776 effect sizes
+> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 New learning is built on what the learner already knows: existing knowledge structures determine what can be understood, how new information is organized, and where misconceptions will interfere. This is a foundational premise of [cognitive load theory](../theories/cognitive-load-theory.md) and schema-based accounts of learning rather than a single experimental finding — its Evidence section therefore awaits a dedicated synthesis of the supporting literature.
 

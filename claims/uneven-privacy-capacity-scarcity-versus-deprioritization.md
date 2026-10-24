@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: meghna-manoj-nair-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28137"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Larger organizations could maintain dedicated privacy or security staff while smaller ones assigned those responsibilities alongside other roles; in some commercial settings, behavioral tracking was tied to product value. [→ Meghna Manoj Nair 2026](#meghna-manoj-nair-2026)

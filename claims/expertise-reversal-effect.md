@@ -51,12 +51,14 @@ sources:
 id: expertise-reversal-effect
 aliases: [expertise-reversal-guidance-hurts-experts, expertise-reversal-effect-redundant-support-harms-experts, multimedia-principles-benefit-novices, expertise-reversal-effect-dynamic-aptitudes, expertise-reversal-effect-definition]
 evidence_strength: moderate
+newest_evidence: 2021
 ---
 
 # Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 3 review `r2`, 1 causal `r?`, 1 theoretical `r2` · `q1`–`q3`
+> **Currency** · newest study 2021 · 2 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 The expertise reversal effect describes a recurring pattern in instructional research: scaffolds, explanations, and worked examples that reduce cognitive load for novices lose value once learners have already internalized the underlying schema.
 

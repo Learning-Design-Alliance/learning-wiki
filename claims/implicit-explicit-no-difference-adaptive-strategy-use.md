@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: aiso-heinze-2018
     resource: "https://doi.org/10.1007/s11251-018-9457-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized experiment with 73 third-graders, neither the interaction effect time*group nor the main effect of learning environment reached statistical significance for adaptive use of strategies. [→ Aiso Heinze 2018](#aiso-heinze-2018)

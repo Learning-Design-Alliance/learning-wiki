@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: rubinsten-o-2010
     resource: "http://www.behavioralandbrainfunctions.com/content/6/1/46"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the control group, response latencies were significantly shorter after positive than negative affective primes for all four arithmetic operations. [→ Rubinsten O 2010](#rubinsten-o-2010)

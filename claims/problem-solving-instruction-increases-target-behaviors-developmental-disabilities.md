@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2002
+source_checked: 2026-10-18
 sources:
   - id: agran-2002
     resource: "https://doi.org/10.1177/07419325020230050301"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2002 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the training condition, there was a marked increase in target performance for all participating students, with a mean of 2.3 training sessions to achieve 80% mastery. [→ Agran 2002](#agran-2002)

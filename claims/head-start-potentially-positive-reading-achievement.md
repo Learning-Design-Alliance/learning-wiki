@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: what-works-clearinghouse-2015
     resource: "http://www.acf.hhs.gov/programs/ohs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Head Start produced a statistically significant positive effect on children's PELS ratings for both the 3-year-old and 4-year-old cohorts at the end of the intervention year. [→ What Works Clearinghouse 2015](#what-works-clearinghouse-2015)

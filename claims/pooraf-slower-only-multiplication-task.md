@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: mussolin-2008
     resource: "https://doi.org/10.2174/1874350100801010026"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The PoorAF group had slower average RTs (2762 ms) than the control group (1759 ms) on the multiplication selection task, with no significant group differences on the other five tasks. [→ Mussolin 2008](#mussolin-2008)

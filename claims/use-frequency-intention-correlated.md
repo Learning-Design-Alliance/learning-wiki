@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ortiz-bonnin-2025
     resource: "https://doi.org/10.1007/s11218-025-10080-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Use frequency and intention to use ChatGPT are strongly and positively related (ρ = 0.52, p <.001). [→ Ortiz-Bonnin 2025](#ortiz-bonnin-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: sally-atkins-burnett-2007
     resource: "https://www.mathematica.org/publications/measuring-childrens-progress-from-preschool-through-third-grade"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Relying solely on traditional, on-demand standardized tests to assess achievement of young children is problematic. [→ Sally Atkins-Burnett 2007](#sally-atkins-burnett-2007)

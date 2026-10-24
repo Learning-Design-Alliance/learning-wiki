@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: tabares-cruz-yb-2026
     title: Tabares-Cruz YB 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 24.2% of students reported clearly knowing institutional AI policies and 17.1% had received no formal AI training, while AI use was widespread. [→ Tabares-Cruz YB 2026](#tabares-cruz-yb-2026)

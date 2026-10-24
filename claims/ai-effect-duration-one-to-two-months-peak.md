@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: doğan-yunus-2026
     resource: "https://doi.org/10.3390/jintelligence14060109"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q4` · `i1`–`i3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i3` The highest effect size by intervention duration occurred for interventions lasting more than 1 month and up to 2 months (g = 0.833). [→ Doğan Yunus 2026](#dogan-yunus-2026)

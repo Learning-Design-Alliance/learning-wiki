@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: strong
+newest_evidence: 2013
 sources:
   - id: j-a-anguera-2013
     resource: "https://doi.org/10.1038/nature12486"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Only the multitasking training group significantly improved its multitasking performance index from pre- to post-training, with a session × group interaction favouring MTT over both control groups. [→ J. A. Anguera 2013](#j-a-anguera-2013)

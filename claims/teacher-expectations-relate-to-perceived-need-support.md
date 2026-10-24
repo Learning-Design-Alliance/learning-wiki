@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: lisette-hornstra-2023
     resource: "https://doi.org/10.1007/s10648-023-09788-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students for whom teachers reported higher expectations perceived their teacher as more supportive of their needs for autonomy, competence, and relatedness. [→ Lisette Hornstra 2023](#lisette-hornstra-2023)

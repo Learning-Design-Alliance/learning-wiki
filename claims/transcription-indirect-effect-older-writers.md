@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: limpo-2013
     resource: "https://doi.org/10.1037/a0031391"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Indirect effects of transcription on text generation via planning (β = .15, Sobel z = 2.55, p = .01) and self-efficacy (β = .21, Sobel z = 2.05, p = .04) were significant in Grades 7-9 but not in Grades 4-6 (β = .03 for both mediators). [→ Limpo 2013](#limpo-2013)

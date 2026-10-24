@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: royel-m-johnson-2026
     resource: "https://doi.org/10.1007/s10648-025-10104-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Black and Latinx undergraduates were significantly more likely than their white peers to report declines in belonging and confidence following widely publicized incidents of police violence. [→ Royel M. Johnson 2026](#royel-m-johnson-2026)

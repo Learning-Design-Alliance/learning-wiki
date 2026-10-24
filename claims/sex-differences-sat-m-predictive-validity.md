@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1992
+source_checked: 2026-10-20
+recheck_by: 1995
 sources:
   - id: howard-wainer-1992
     resource: "https://doi.org/10.17763/haer.62.3.1p1555011301r133"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1992 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1995**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The data provide evidence of sex differences in the validity of the SAT-M as a predictor of college math performance, but do not allow conclusions about the cause of the score differences. [→ Howard Wainer 1992](#howard-wainer-1992)

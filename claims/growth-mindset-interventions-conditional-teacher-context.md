@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-17
 sources:
   - id: fitz-2025
     resource: "https://doi.org/10.54300/967.472"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a nationally representative double-blind clinical trial with 8,775 9th-graders and 223 math teachers, the growth mindset intervention lowered fixed-mindset beliefs for all intervention students, but only students taught by growth-mindset teachers showed significant math-grade improvements. [→ Fitz 2025](#fitz-2025)

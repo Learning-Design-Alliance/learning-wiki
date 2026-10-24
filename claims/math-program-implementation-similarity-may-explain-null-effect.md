@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: catherine-nelson-2007
     resource: "https://www.mathematica.org/publications/elementarygrade-math-programs-in-the-pittsburgh-public-schools-a-comparison-of-everyday-mathematics-and-harcourt-math"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret the absence of an achievement-effect difference as possibly related to the two programs' similar classroom implementation in Pittsburgh. [→ Catherine Nelson 2007](#catherine-nelson-2007)

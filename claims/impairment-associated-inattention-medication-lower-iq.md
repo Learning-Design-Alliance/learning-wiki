@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: s-dovis-2015
     resource: "https://doi.org/10.1007/s00787-014-0612-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Having an impairment on WM, STM, and/or motivation was associated with more inattention symptoms, medication-use, and lower IQ scores. [→ S. Dovis 2015](#s-dovis-2015)

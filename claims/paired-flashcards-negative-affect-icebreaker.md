@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: imundo-2024
     resource: "https://link.springer.com/journal/11409/articles"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i0`–`i2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiment 1, Paired learners reported significantly higher negative affect than Individual learners (d = 0.50). [→ Imundo 2024](#imundo-2024)

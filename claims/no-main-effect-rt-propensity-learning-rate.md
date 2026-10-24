@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the full practice period, RT propensity has no reliable main effect on learning rate (β = −0.02, p = .534), whereas prior proficiency positively predicts learning rate (β = 0.10, p = .009). [→ main-effect-1](#main-effect-1)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: walter-r-miles-w-s-smiley-1915
     resource: "https://books.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The rural advantage is attributed to lack of correlation between the urban community and the school and to inflexibility of the grade system, indicating inferiority of city schools rather than superiority of rural schools. [→ Walter R. Miles; W. S. Smiley 1915](#walter-r-miles-w-s-smiley-1915)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
+source_checked: 2026-10-18
 sources:
   - id: sporte-2004
     resource: "https://consortium.uchicago.edu/publications/notes-ground-teachers-principals-and-students-perspectives-chicago-high-school-redesign"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2004 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers and students report less violence than before the breakup into small schools. [→ Sporte 2004](#sporte-2004)

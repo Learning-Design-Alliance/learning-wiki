@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: enrico-sella-monica-bolognesi-emma-bergamini-lucia-mason-francesca-pazzaglia-2023
     resource: "https://doi.org/10.1007/s10648-023-09750-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Nine of 16 reviewed studies (53%) were judged at high risk of bias and 7 (47%) at moderate risk, with JBI scores ranging 0 to 9 (mean 4). [→ Enrico Sella · Monica Bolognesi · Emma Bergamini · Lucia Mason · Francesca Pazzaglia 2023](#enrico-sella-monica-bolognesi-emma-bergamini-lucia-mason-francesca-pazzaglia-2023)

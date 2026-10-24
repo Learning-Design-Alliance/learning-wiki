@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: stormark-km-2019
     title: Stormark KM 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Concurrent DIMS was associated with poor academic performance in the crude model (OR 2.11, 95% CI 1.50–2.97) but not in the fully adjusted model (OR 1.19, 95% CI 0.82–1.73). [→ Stormark KM 2019](#stormark-km-2019)

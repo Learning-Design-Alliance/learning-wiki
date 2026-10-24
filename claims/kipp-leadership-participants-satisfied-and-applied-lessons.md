@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-08
 sources:
   - id: elias-walsh-2022
     resource: "https://www.mathematica.org/publications/findings-from-an-evaluation-of-kipp-school-leadership-programs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Based on survey responses, former program participants expressed satisfaction with the programs and generally reported applying the lessons in their own settings. [→ Elias Walsh 2022](#elias-walsh-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: remy-m-j-p-rikers-2008
     resource: "https://doi.org/10.1007/s11251-008-9067-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Using a pretest/posttest design, Baeten and colleagues found portfolio-based learning environments did not change students' assessment preferences and did not lead to deeper learning, while surface approaches increased significantly. [→ Remy M. J. P. Rikers 2008](#remy-m-j-p-rikers-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: charlotte-dignath-2021
     resource: "https://doi.org/10.1007/s11409-021-09271-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The review reports, citing Wagner et al. (2014) and Perels and Otto (2009), that only students who personally participated in an SRL intervention improved, while students of trained teachers did not. [→ Charlotte Dignath 2021](#charlotte-dignath-2021)

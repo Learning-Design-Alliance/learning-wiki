@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: dennis-condron-2021
     resource: "https://doi.org/10.1177/00380407211041542"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article characterizes the most persuasive prior seasonal studies as focusing primarily on skill gaps between social categories and being restricted to early grades, limiting knowledge of whether patterns extend to later grades and overall inequality. [→ Dennis Condron 2021](#dennis-condron-2021)

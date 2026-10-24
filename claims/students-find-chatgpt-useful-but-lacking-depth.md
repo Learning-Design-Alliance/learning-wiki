@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: m-said-doğru-emily-k-faulconer-2026
     resource: "https://doi.org/10.1007/s11165-025-10271-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In qualitative responses, students described ChatGPT's answers as useful, short and simple, but insufficient when seeking more detailed information. [→ M. Said Doğru & Emily K. Faulconer 2026](#m-said-dogru-emily-k-faulconer-2026)

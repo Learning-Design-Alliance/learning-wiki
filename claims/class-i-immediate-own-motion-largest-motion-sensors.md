@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: carolien-duijzer-2019
     resource: "https://doi.org/10.1007/s10648-019-09471-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Class I — Immediate Own Motion was the largest of the four classes, containing 34 of the 62 learning environments, while Class III — Non-immediate Own Motion was the smallest with 4. [→ Carolien Duijzer 2019](#carolien-duijzer-2019)

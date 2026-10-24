@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: putwain-2021
     resource: "https://doi.org/10.1037/edu0000637"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The fully forward reciprocal relations model showed significantly better fit than baseline and unidirectional models via Satorra–Bentler scaled χ2 difference tests and lower AIC. [→ Putwain 2021](#putwain-2021)

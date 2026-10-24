@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: polly-k-lai-2026
     resource: "https://doi.org/10.1007/s11251-025-09776-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The ABM group improved significantly in explanatory nanoscience knowledge from pre- to post-test whereas the video group showed minimal change, with a significant Group × Time interaction (η2 =.15). [→ Polly K. Lai 2026](#polly-k-lai-2026)

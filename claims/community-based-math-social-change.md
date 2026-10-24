@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-17
 sources:
   - id: maura-varley-gutiérrez-2011
     resource: "http://education.gsu.edu/JUME"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students expressed confidence in their ability to collect, organize, and represent data to inform and convince others of community problems, linking mathematics to transformative resistance. [→ Maura Varley Gutiérrez 2011](#maura-varley-gutierrez-2011)

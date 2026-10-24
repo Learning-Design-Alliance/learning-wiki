@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: shute-2016
     resource: "https://doi.org/10.1016/j.chb.2016.05.047"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` In a multiple regression with Raven's entered first and MicroDYN second, R2 = 0.22; MicroDYN explained an additional 5.7% unique variance (p = 0.08). [→ Shute 2016](#shute-2016)

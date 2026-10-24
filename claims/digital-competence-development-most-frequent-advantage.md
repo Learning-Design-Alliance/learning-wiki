@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: patiño-hernández-jf-2026
     resource: "https://doi.org/10.3389/feduc.2026.1949296"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Digital competence development was the most frequently reported primary advantage in the RQ1/RQ2 subset (n = 118; 76.1%), including gains in technological knowledge, pedagogical integration and digital confidence. [→ Patiño Hernández JF 2026](#patino-hernandez-jf-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: tanmay-sinha-and-manu-kapur-2021
     resource: "https://doi.org/10.3102/00346543211019105"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` Bias-corrected estimation of true effect sizes suggested a strong effect favoring PS-I (Hedge's g = 0.87), larger than the observed pooled estimate. [→ Tanmay Sinha and Manu Kapur 2021](#tanmay-sinha-and-manu-kapur-2021)

@@ -7,6 +7,8 @@ generated:
   at: 2026-10-19
 id: pooling-repeated-llm-grades-does-not-improve-agreement
 evidence_strength:
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: porcaro-2026
     resource: "https://doi.org/10.5281/zenodo.23480844"
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
 In this release's evidence records and interpretation (the finding is not in its article), taking the median or mean of several LLM grades for the same short free-text answer did not detectably improve agreement with a human grader in kappa, error or correlation, did not remove the grader's systematic bias, and only marginally reduced how often the same work received a different mark (25% to 20% of re-grades, within the standard error). Measured on one model (Gemini 3.5 Flash Lite; the cross-model pool added one call of a stronger Gemini tier) and one corpus of short answers, mostly in single runs; whether pooling helps on long, noisier work was not tested in this release, so the claim is scoped to short answers.

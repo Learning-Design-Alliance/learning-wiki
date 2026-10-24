@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: hanson-2019
     resource: "https://eric.ed.gov/?id=ED601909"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students 'not sure' about being transgender or 'not sure yet' about sexual orientation reported lower supports and well-being than straight and non-transgender peers but higher than transgender, gay/lesbian, and bisexual peers. [→ Hanson 2019](#hanson-2019)

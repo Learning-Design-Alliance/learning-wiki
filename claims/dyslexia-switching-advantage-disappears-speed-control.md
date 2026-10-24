@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: doyle-c-2018
     title: Doyle C 2018
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Dyslexia showed a significantly lower switching z-mean reaction time cost than controls (Cohen's d = -0.60). [→ Doyle C 2018](#doyle-c-2018)

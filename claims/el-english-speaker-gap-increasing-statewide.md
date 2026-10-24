@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
+recheck_by: 2024
 sources:
   - id: perry-2019
     resource: "https://eric.ed.gov/?id=ED601900"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The statewide English learner–English speaker score gap grew each year (scale-score differences of 41.5, 57.8, and 74.7), and the increasing pattern held in all MiC districts except Oceanside, where the gap closed. [→ Perry 2019](#perry-2019)

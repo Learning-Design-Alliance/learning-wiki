@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: mayer-2009
     resource: "https://doi.org/10.1007/s10648-009-9102-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` During its 20 years, Educational Psychology Review became a respected and valued member of the educational psychology community and invigorated the field with new ideas within a scientific research-based context. [→ Mayer 2009](#mayer-2009)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: treiman-rebecca-2013
     resource: "https://doi.org/10.1080/15475441.2013.812016"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In a nonword spelling study of U.S. children aged about 6 to 13, influences of the following consonant on vowel spelling appeared from around age 8 and reached a maximum around age 11. [→ Treiman Rebecca 2013](#treiman-rebecca-2013)

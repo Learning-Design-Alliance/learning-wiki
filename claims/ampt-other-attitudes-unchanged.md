@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: norberg-2025
     resource: "https://doi.org/10.1007/978-3-031-98465-5_24"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Other measured attitudes towards mathematics besides sense of belonging showed no change after the AMPT session. [→ Norberg 2025](#norberg-2025)

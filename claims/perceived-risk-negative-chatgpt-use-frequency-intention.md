@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ortiz-bonnin-2025
     resource: "https://doi.org/10.1007/s11218-025-10080-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Perceived risk is significantly and negatively associated with frequency of ChatGPT use (β = −0.20, p <.001). [→ Ortiz-Bonnin 2025](#ortiz-bonnin-2025)

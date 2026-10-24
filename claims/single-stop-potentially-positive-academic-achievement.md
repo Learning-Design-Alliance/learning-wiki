@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i0`–`i1`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In Zhu et al. (2018), the percentage of attempted college credits completed was 52.80% for Single Stop students versus 46.50% for comparison students (effect size 0.18, p = .03), and cumulative GPA was 2.59 versus 2.41 (effect size 0.16, p = .05). [→ zhu-achievement](#zhu-achievement)

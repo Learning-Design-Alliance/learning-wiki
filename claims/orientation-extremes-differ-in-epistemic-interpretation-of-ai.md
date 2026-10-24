@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: t-j-atherton-2026
     resource: "https://doi.org/10.48550/arxiv.2605.18140"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Respondents with the most negative factor scores described limited, cautious, peripheral AI use coupled with strong epistemic concerns about impacts on learning, while those with the most positive scores described extensive, integrated use treating risks as manageable constraints. [→ T. J. Atherton 2026](#t-j-atherton-2026)

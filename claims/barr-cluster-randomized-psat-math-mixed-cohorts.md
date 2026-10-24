@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: building-assets-reducing-risks-barr-evidence-rating-2023
     resource: "https://www.barrcenter.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q4`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` A large multi-site cluster randomized study across two cohorts of high schools in 12 states and the District of Columbia found a positive effect on PSAT/NMSQT math scores in one cohort (effect size = +0.14), while the second cohort performed similarly to the comparison students. [→ Building Assets Reducing Risks (BARR) — Evidence Rating 2023](#building-assets-reducing-risks-barr-evidence-rating-2023)

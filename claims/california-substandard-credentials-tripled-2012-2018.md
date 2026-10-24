@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: carver-thomas-2020
     resource: "https://learningpolicyinstitute.org/product/sharp-divide-california-teacher-shortages"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In 2017–18, California issued more than 13,000 intern credentials, permits, and waivers, nearly triple the number issued in 2012–13, indicating teacher supply is insufficient to meet demand. [→ Carver-Thomas 2020](#carver-thomas-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: linkow-2021
     resource: "http://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students in Find the Fit projects were 3 percentage points more likely than those in regular UB advising projects to attend colleges that were at least very competitive in the first fall after graduation (about 16 vs. 13.1 percent), a statistically significant difference. [→ Linkow 2021](#linkow-2021)

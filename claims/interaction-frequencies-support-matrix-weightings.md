@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 1974
+recheck_by: 1977
 sources:
   - id: dietzel-1974
     resource: "https://doi.org/10.1037/h0076731"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1974 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1977**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The greatest proportion of client-therapist interactions (55%) fell in cells weighted 3, 29% in cells weighted 2, and 16% in cells weighted 1, supporting the weightings and the complementarity principle. [→ Dietzel 1974](#dietzel-1974)

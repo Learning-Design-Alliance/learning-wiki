@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: matthew-barr-2017
     resource: "https://doi.org/10.1016/j.compedu.2017.05.016"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Intervention-group students showed significantly greater positive change on the Resourcefulness Scale than control students (Cohen's d 0.9, p = 0.013). [→ Matthew Barr 2017](#matthew-barr-2017)

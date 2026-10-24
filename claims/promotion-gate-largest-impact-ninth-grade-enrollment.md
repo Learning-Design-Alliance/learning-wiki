@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: elaine-m-allensworth-shazia-rafiullah-miller-2002
     resource: "https://consortium.uchicago.edu/publications/declining-high-school-enrollment-exploration-causes"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Between 1996 and 2000, the eighth-grade promotion gate was the factor with by far the most significant impact on ninth-grade enrollment, strongest in fall 1998 when almost 2,900 fewer students advanced than at the 1995 promotion rate. [→ Elaine M. Allensworth & Shazia Rafiullah Miller 2002](#elaine-m-allensworth-shazia-rafiullah-miller-2002)

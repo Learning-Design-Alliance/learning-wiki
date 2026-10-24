@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: micky-c-nnamdi-2026
     resource: "https://doi.org/10.48550/arxiv.2503.16558"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student-level exploratory OLS found each additional year of coding experience associated with +1.88 points on course score (95% CI [+0.30,+3.46]; p= 0.022). [→ Micky C. Nnamdi 2026](#micky-c-nnamdi-2026)

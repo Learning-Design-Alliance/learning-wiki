@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2004
+source_checked: 2026-10-20
 sources:
   - id: hmelo-silver-2004
     resource: "https://doi.org/10.1023/B:EDPR.0000034022.16470.f3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2004 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Psychological research and theory suggest that learning through the experience of solving problems can help students learn both content and thinking strategies. [→ Hmelo-Silver 2004](#hmelo-silver-2004)

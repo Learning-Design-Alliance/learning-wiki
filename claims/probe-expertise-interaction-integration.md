@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1995
 sources:
   - id: boshuizen-1995
     resource: "https://www.sciencedirect.com/journal/learning-and-instruction"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sixth-year students and interns produced far more enabling conditions when describing a prototypical patient than when describing the clinical picture, unlike students and physicians. [→ Boshuizen 1995](#boshuizen-1995)

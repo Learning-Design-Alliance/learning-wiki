@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: nathan-dwyer-daniel-d-suthers-2006
     resource: "https://doi.org/10.1007/s11412-006-9001-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants used three conventions to manage awareness: moving materials to the partner's side, contributing temporally proximal to the partner's contribution, and getting attention before contributing. [→ Nathan Dwyer & Daniel D. Suthers 2006](#nathan-dwyer-daniel-d-suthers-2006)

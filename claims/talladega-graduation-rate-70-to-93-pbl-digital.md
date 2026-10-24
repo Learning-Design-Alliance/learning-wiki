@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: brizard-2023
     resource: "https://doi.org/10.51388/20.500.12265/176"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After Talladega County Schools transitioned to PBL pedagogies with integrated digital technologies, its district graduation rate rose from a shade above 70 percent in 2008 to 93 percent, and Winterboro High School reached 100 percent by the end of 2018-19. [→ Brizard 2023](#brizard-2023)

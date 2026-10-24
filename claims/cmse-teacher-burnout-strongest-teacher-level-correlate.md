@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: duan-2024
     resource: "https://doi.org/10.1007/s10648-024-09881-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Diminished personal accomplishment has the strongest positive correlation with CMSE (r=0.415), and emotional exhaustion (r=-0.289) and depersonalization (r=-0.281) correlate negatively, based on 13-14 studies each. [→ Duan 2024](#duan-2024)

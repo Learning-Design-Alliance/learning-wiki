@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: maura-varley-gutiérrez-2011
     resource: "http://education.gsu.edu/JUME"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students compared the after-schools favorably to their regular mathematics classrooms, noting limited activity diversity in class and freedom to move around and consult peers in the after-school. [→ Maura Varley Gutiérrez 2011](#maura-varley-gutierrez-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: khalifeh-2026
     resource: "https://doi.org/10.1186/s40561-026-00440-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In introductory programming courses, CS students tended to develop more efficient learning strategies over time, while Mathematics students often displayed high engagement without corresponding achievement, with complex but inefficient work and greater susceptibility to learning avoidance. [→ Khalifeh 2026](#khalifeh-2026)

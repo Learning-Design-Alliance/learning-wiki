@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: adeeb-obaid-alsuhaymi-and-fouad-ahmed-atallah-2026
     resource: "https://doi.org/10.3390/su18031257"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In culturally and religiously grounded educational contexts, AI adoption has disproportionate effects on the perceived authority of educators and the normative status of knowledge, making conditional dynamics visible that remain less explicit elsewhere. [→ Adeeb Obaid Alsuhaymi and Fouad Ahmed Atallah 2026](#adeeb-obaid-alsuhaymi-and-fouad-ahmed-atallah-2026)

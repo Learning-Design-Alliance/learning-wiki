@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-21
 sources:
   - id: tuononen-2023
     resource: "https://doi.org/10.1007/s11409-022-09314-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Knowledge about cognition and regulation of cognition each correlate positively with deep approach (r = .527 and r = .552) and organized studying (r = .434 and r = .478), and negatively with unreflective approach (r = -.541 and r = -.223). [→ Tuononen 2023](#tuononen-2023)

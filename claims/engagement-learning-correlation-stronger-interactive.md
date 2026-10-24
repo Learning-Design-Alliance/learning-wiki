@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: ying-xu-2023
     resource: "https://osf.io/j7upd"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The correlation between response rate and science learning outcomes was significantly stronger in the interactive condition (r = .485, p < .001) than in the pseudo-interactive condition (r = .193, p = .09), with a statistically significant difference between correlations (p = .005). [→ Ying Xu 2023](#ying-xu-2023)

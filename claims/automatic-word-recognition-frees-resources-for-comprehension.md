@@ -7,6 +7,7 @@ generated:
   at: 2026-08-30
 id: automatic-word-recognition-frees-resources-for-comprehension
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: laberge-samuels-1974
     resource: "https://doi.org/10.1016/0010-0285(74)90015-2"
@@ -30,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 sources · `q1`–`q2` theoretical model and review · `i?` · mechanism, not outcome
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 When word-level decoding becomes automatic, working-memory resources that would otherwise be consumed by decoding are released for higher-level comprehension processes such as integrating ideas and building a situation model.
 

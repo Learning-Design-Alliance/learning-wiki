@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-16
 sources:
   - id: hannah-gaffney-2019
     resource: "https://doi.org/10.1007/s42380-019-0007-4"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q4`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Across 12 evaluations, OBPP was the most effective program for reducing bullying perpetration, including when evaluated in Norway and in the USA separately. [→ Hannah Gaffney 2019](#hannah-gaffney-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: cookson-2018
     resource: "https://learningpolicyinstitute.org/product/tapestry-american-public-education"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Model schools with positive achievement effects share small size and personalized structures, positive student-faculty-leadership relationships, and a culture of educator collaboration and professional development. [→ Cookson 2018](#cookson-2018)

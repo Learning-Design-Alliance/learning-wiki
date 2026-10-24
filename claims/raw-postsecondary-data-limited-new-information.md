@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: luke-heinkel-2015
     resource: "https://www.mathematica.org/publications/making-effective-use-of-postsecondary-data-in-k-12-education-settings"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Raw postsecondary data alone may not provide educators with substantial new information beyond what high school indicators such as student achievement already show. [→ Luke Heinkel 2015](#luke-heinkel-2015)

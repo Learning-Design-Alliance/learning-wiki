@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: joke-voogt-2015
     resource: "https://doi.org/10.1007/s11251-014-9340-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All three design-research studies of teacher design teams found increases in teachers' knowledge and skills, and Ghana and Ethiopia also found changes in teachers' beliefs. [→ Joke Voogt 2015](#joke-voogt-2015)

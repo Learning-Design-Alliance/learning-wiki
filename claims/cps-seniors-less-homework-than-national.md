@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: jenny-nagaoka-2006
     resource: "http://www.postsecondary.cps.k12.il.us/postsecond/opendoors.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nationally 21 percent of seniors report 10 or more homework hours per week, compared to only 10 percent of seniors in Chicago public high schools. [→ Jenny Nagaoka 2006](#jenny-nagaoka-2006)

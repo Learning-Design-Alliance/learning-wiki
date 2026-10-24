@@ -26,12 +26,14 @@ sources:
 id: specific-difficult-goals-lead-to-higher-performance
 aliases: [clear-specific-challenging-goals-linked-to-task-performance]
 evidence_strength: strong
+newest_evidence: 2014
 ---
 
 # Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r?`, 1 theoretical `r?` · `q1`–`q2` · n=N/A
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 Setting clear, measurable, and challenging targets helps focus attention, increase effort and persistence, and encourages the development of effective task strategies.
 

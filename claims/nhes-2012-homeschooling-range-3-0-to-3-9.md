@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: eric-isenberg-2016
     resource: "https://www.mathematica.org/publications/using-survey-data-sets-to-study-homeschooling"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The 2012 NHES estimates suggest the percentage of schoolchildren who are homeschooled is likely within a range from 3.0% to 3.9%, and should not be treated as a census count. [→ Eric Isenberg 2016](#eric-isenberg-2016)

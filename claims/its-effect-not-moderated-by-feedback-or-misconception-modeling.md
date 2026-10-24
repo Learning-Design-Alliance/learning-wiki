@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: wenting-ma-2014
     resource: "https://doi.org/10.1037/a0037123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Effect sizes were not moderated by whether the ITS provided feedback or modeled misconceptions; use of ITS produced moderate, statistically significant effect sizes in both cases. [→ Wenting Ma 2014](#wenting-ma-2014)

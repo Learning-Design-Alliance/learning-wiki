@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: engzell-p-2021
     resource: "https://doi.org/10.1073/pnas.2022376118"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Adjusting for time-invariant confounding at the school and family level, social inequalities in learning loss grow, with the largest gap between educational backgrounds found in the within-family analysis, estimated at 60%. [→ Engzell P. 2021](#engzell-p-2021)

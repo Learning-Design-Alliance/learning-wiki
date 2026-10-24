@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: means-2020
     resource: "https://doi.org/10.51388/20.500.12265/102"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students from minoritized race/ethnicity groups, females, and lower-income students were more likely to rate their online course experience as just as good as, or better than, in person despite experiencing more challenges. [→ Means 2020](#means-2020)

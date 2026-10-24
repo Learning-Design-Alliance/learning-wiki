@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: fosco-2019
     resource: "https://doi.org/10.1016/j.adolescence.2019.08.008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In exploratory analyses, child IQ, child sex, and parental income did not predict the intercept or linear slope of task-based inhibitory control. [→ Fosco 2019](#fosco-2019)

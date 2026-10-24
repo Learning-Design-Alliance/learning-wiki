@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-08
+recheck_by: 2021
 sources:
   - id: early-education-essentials-testing-measurement-validity-of-an-organizational-conditions-and-practices-tool-for-early-childhood-education-settings-2018
     resource: "https://consortium.uchicago.edu/publications/early-education-essentials-validation-surveys-measuring-early-education-organizational"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Site-level essential scores, created with multilevel models accounting for individual measurement error, distinguished between ECE sites. [→ Early Education Essentials: Testing Measurement Validity of an Organizational Conditions and Practices Tool for Early Childhood Education Settings 2018](#early-education-essentials-testing-measurement-validity-of-an-organizational-conditions-and-practices-tool-for-early-childhood-education-settings-2018)

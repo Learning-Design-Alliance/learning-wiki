@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: dowdall-2020
     resource: "https://doi.org/10.1111/cdev.13225"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Compared to individually delivered interventions, group-based interventions were associated with more improvement in expressive (B=0.47, p<0.01) and receptive (B=0.30, p=0.02) language. [→ Dowdall 2020](#dowdall-2020)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: ellen-b-goldring-2020
     resource: "https://doi.org/10.59656/el-ls5579.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` PSI districts' principal supervisor role differed from that in other urban districts in several key ways, but supervisors' work with principals also showed important similarities across the two types of districts. [→ Ellen B. Goldring 2020](#ellen-b-goldring-2020)

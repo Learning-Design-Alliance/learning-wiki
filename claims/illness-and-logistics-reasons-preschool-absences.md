@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: ehrlich-2014
     resource: "https://consortium.uchicago.edu/publications/preschool-attendance-chicago-public-schools-relationships-learning-outcomes-and-reasons"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` More than half of all days missed in preschool were due to children being sick, and another 18 percent were due to logistical obstacles such as transportation, child care, and family matters. [→ Ehrlich 2014](#ehrlich-2014)

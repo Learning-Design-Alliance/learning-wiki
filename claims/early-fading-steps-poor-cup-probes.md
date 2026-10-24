@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: groff-2011
     resource: "https://doi.org/10.1901/jaba.2011.44-949"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the first four cup probes, acceptance was variable and mouth clean was low; performance improved only after the fifth fading step. [→ Groff 2011](#groff-2011)

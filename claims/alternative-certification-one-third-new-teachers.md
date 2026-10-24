@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: steven-glazerman-2008
     resource: "https://www.mathematica.org/publications/passport-to-teaching-career-choices-and-experiences-of-american-board-certified-teachers"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Alternative certification programs account for about one-third of all new teachers certified annually, having grown since their inception in the 1980s. [→ Steven Glazerman 2008](#steven-glazerman-2008)

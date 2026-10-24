@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: inie-2026
     resource: "https://doi.org/10.1080/10447318.2026.2722522"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Nickerson (1988), that critical thinking education tends to be more successful for transfer when taught alongside academic content in another course than as a standalone subject. [→ Inie 2026](#inie-2026)

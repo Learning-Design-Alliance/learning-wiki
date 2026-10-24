@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: jionghao-lin-2025
     resource: "https://doi.org/10.48550/arxiv.2506.17356"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Both lesson designers identified time savings in drafting scenario sections and creating multiple-choice questions as a significant advantage of LLM-facilitated lesson generation. [→ Jionghao Lin 2025](#jionghao-lin-2025)

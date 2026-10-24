@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2022
+source_checked: 2026-10-21
 sources:
   - id: alexander-skulmowski-kate-man-xu-2022
     resource: "https://doi.org/10.1007/s10648-021-09624-7"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Immersive VR did not significantly affect retention compared to written instruction but increased transfer scores, enjoyment, and motivation. [→ Alexander Skulmowski & Kate Man Xu 2022](#alexander-skulmowski-kate-man-xu-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: orna-heaysman-2026
     resource: "https://doi.org/10.1007/s11251-026-09787-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The SRL-AIDE group had higher gains than the comparison group in both explicitness levels and duration of MCS and KC practices (group × time interaction, ηp2 = .57 omnibus). [→ Orna Heaysman 2026](#orna-heaysman-2026)

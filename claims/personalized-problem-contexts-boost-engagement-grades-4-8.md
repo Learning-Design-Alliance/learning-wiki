@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-19
 sources:
   - id: preparing-problems-for-classroom-instruction-2012
     title: Preparing Problems for Classroom Instruction 2012
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 <!-- title before 2026-10-14: Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests -->
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1912
 sources:
   - id: peters-1912
     resource: "https://eric.ed.gov/?q=Pedagogy+at+the+Berlin+Psychological+Congress"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using Grünbaum's figure-recognition method, Bühler found a striking increase in abstraction ability in earlier school years, a less marked increase in later years, and striking individual differences in mental endowment. [→ Peters 1912](#peters-1912)

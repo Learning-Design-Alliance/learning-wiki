@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: saqib-shouqi-2026
     resource: "https://doi.org/10.48550/arxiv.2608.03166"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Transitioning from single-strategy (Role Drift only) to multi-strategy adversarial evaluation produced a consistent decline in overall robustness scores for all three evaluated personas, with the Healthcare Assistant declining most (0.837 to 0.634). [→ Saqib Shouqi 2026](#saqib-shouqi-2026)

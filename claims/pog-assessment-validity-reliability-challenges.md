@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: kyle-dunbar-2025
     resource: "https://doi.org/10.51388/20.500.12265/266"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Districts struggle to ensure validity and reliability of locally designed tools, find scores incomparable across districts, and experience tension with state and national accountability systems. [→ Kyle Dunbar 2025](#kyle-dunbar-2025)

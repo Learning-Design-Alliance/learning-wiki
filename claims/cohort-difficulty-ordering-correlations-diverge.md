@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: oliveira-2026
     resource: "https://doi.org/10.48550/arxiv.2607.05411"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i1`–`i3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The Spearman correlation between academics and students was r = 0.188 with a 95% CI spanning zero, indicating no stable shared developmental hierarchy. [→ Oliveira 2026](#oliveira-2026)

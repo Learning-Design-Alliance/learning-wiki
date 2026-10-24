@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: emilyn-ruble-whitesell-2016
     resource: "https://doi.org/10.3102/0162373716661242"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mid-year entry of classmates produces small negative effects on both math and English language arts test scores of stable students in the short run. [→ Emilyn Ruble Whitesell 2016](#emilyn-ruble-whitesell-2016)

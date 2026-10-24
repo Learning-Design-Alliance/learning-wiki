@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lortie-forgues-2017
     title: Lortie-Forgues 2017
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 associational `r1` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Operation-and-operand explanations, though stated on only 26% of multiplication and 16% of division trials with operands below one, accompanied 65% of correct multiplication and 54% of correct division judgments. [→ Lortie-Forgues 2017](#lortie-forgues-2017)

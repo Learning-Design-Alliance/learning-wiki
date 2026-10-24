@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: chokri-barhoumi-pier-giuseppe-rossi-2013
     resource: "https://doi.org/10.30935/cedtech/6109"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The t-test for equality of means on student attitudes was 4.723 (df 144), exceeding the critical value of 1.962, so Hypothesis 2 was rejected at the 0.05 alpha level. [→ Chokri Barhoumi; Pier Giuseppe Rossi 2013](#chokri-barhoumi-pier-giuseppe-rossi-2013)

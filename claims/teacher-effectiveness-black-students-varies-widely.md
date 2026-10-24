@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: delgado-2023
     resource: "https://consortium.uchicago.edu/publications/is-the-best-teacher-the-best-for-everyone"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The difference between a teacher at about the 80th percentile of effectiveness for Black students and one at about the 20th percentile ranged from 0.2 SD in middle school English to 0.5 SD in elementary school math. [→ Delgado 2023](#delgado-2023)

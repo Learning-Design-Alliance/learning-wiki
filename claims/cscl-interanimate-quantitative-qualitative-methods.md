@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: gerry-stahl-friedrich-hesse-2007
     resource: "https://doi.org/10.1007/s11412-007-9010-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The editorial's own synthesis of the issue's methodology articles (a quantitative rating-scheme paper, an SNA-plus-content-analysis paper, and a qualitative case-study paper) concludes that complementary perspectives should inter-animate rather than one method dominate. [→ Gerry Stahl & Friedrich Hesse 2007](#gerry-stahl-friedrich-hesse-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: smits-van-der-nat-2024
     resource: "https://doi.org/10.1007/s10648-024-09884-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effect sizes were not significantly larger for studies with low risk of bias compared to medium or high risk (estimated effect 0.20, p = 0.171). [→ Smits-van der Nat 2024](#smits-van-der-nat-2024)

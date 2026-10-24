@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: zhihua-luo-and-rabail-tahir-2025
     resource: "https://doi.org/10.1007/s40593-025-00513-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers reported three AI-assisted planning methods (A: outline then refine; B: complete plan then optimize; C: fully AI-generated then adapt), with 60% choosing A, 20% B, and 20% C. [→ Zhihua Luo and Rabail Tahir 2025](#zhihua-luo-and-rabail-tahir-2025)

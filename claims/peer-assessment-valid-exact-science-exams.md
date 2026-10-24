@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: bouzidi-2009
     resource: "https://www.ifets.info/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teacher and peer marks did not differ significantly (t-tests, H0 accepted at 5%) and correlated highly (Pearson 0.88-0.91) across two exams. [→ Bouzidi 2009](#bouzidi-2009)

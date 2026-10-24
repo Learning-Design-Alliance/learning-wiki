@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: scaling-career-pathways-statewide-a-blueprint-for-creating-k-12-postsecondary-industry-pathways-2026
     resource: "https://doi.org/10.51388/20.500.12265/287"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article asserts K-12 school systems can provide foundational competencies and skills that advance students directly into entry-level career credentials and employment opportunities, given supportive policy, technology, and data infrastructure. [→ Scaling career pathways statewide: A blueprint for creating K-12 + postsecondary + industry pathways 2026](#scaling-career-pathways-statewide-a-blueprint-for-creating-k-12-postsecondary-industry-pathways-2026)

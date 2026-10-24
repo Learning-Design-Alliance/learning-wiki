@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: jacobs-2024
     resource: "https://doi.org/10.51388/20.500.12265/222"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rural participants reported lengthy commutes, safety concerns, limited first-come-first-served stipends, class times conflicting with work, unreliable internet, and unclear registration processes. [→ Jacobs 2024](#jacobs-2024)

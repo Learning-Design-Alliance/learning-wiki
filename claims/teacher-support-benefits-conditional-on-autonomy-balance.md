@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: hansol-lee-2026
     resource: "https://doi.org/10.1186/s40561-026-00461-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teacher support mainly contributed to motivation while effects on cognitive outcomes were limited, and students' independent thinking tended to be more promoted without teacher support. [→ Hansol Lee 2026](#hansol-lee-2026)

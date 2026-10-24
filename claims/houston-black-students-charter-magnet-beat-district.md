@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: credo-2022
     resource: "https://credo.stanford.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared with Black students in other Houston district schools, Houston charter Black students gained 0.08 SD (49 days) more in reading and 0.07 SD (40 days) more in math; Houston magnet Black students gained 0.19 SD (113 days) more in reading and 0.12 SD (69 days) more in math. [→ CREDO 2022](#credo-2022)

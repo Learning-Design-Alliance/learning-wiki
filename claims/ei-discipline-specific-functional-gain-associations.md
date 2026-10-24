@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: mcmanus-bm-2019
     resource: "https://doi.org/10.1001/jamanetworkopen.2018.7529"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An additional hour per month of developmental intervention was associated with a 1.6-point gain in social-emotional function scores (difference, 1.6; 95% CI, 1.2-2.1), and an additional hour per month of speech therapy was associated with a nearly 1-point gain (difference, 0.9; 95% CI, 0.74-1.0) in taking appropriate action to meet needs. [→ McManus BM 2019](#mcmanus-bm-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: jaeseok-yang-2013
     resource: "https://doi.org/10.5539/elt.v6n7p19"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A handheld augmented-reality English learning system using QR codes let students explore a map and retrieve context-aware learning material wirelessly while visiting learning zones. [→ Jaeseok Yang 2013](#jaeseok-yang-2013)

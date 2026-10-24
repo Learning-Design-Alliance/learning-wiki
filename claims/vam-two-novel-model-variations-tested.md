@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: matthew-johnson-2013
     resource: "https://www.mathematica.org/publications/sensitivity-of-teacher-valueadded-estimates-to-student-and-peer-control-variables"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The paper tests two model variations not previously evaluated: replacing classroom average peer characteristics with teacher-year level averages, and allowing the relationship between current and lagged achievement scores to vary by student demographic characteristics, to determine whether they affect VAM estimates. [→ Matthew Johnson 2013](#matthew-johnson-2013)

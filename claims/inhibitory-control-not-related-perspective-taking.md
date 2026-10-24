@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-17
 sources:
   - id: nilsen-2017
     resource: "https://doi.org/10.1016/j.adolescence.2017.01.004"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither interference control nor response inhibition significantly related to communicative perspective-taking performance in this adolescent sample. [→ Nilsen 2017](#nilsen-2017)

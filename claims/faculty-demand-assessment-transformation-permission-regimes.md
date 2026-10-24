@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: sangwa-2025
     resource: "https://doi.org/10.35542/osf.io/kj4vt_v1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 54% of faculty believe student evaluation methods require either significant changes soon (41%) or an urgent complete revamp (13%). [→ Sangwa 2025](#sangwa-2025)

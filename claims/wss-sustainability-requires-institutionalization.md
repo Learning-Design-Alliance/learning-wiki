@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-09
 sources:
   - id: johnson-2026
     resource: "https://consortium.uchicago.edu/publications/co-designing-new-approaches-to-school-safety"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors' interpretive summary contends that sustaining authentic partnership through leadership turnover and shifting priorities is the defining challenge for WSS, and that replicability requires deep organizational commitment and cultural change beyond the model itself. [→ Johnson 2026](#johnson-2026)

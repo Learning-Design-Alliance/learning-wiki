@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: slepkov-2013
     resource: "https://doi.org/10.48550/arxiv.1308.4365"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the final exam (mean score 67%), removing partial credit lowered the average by only 5 points to 62%, yet as many as 10 of 49 students would have failed without partial credit, each gaining less than 8 percentage points from it. [→ Slepkov 2013](#slepkov-2013)

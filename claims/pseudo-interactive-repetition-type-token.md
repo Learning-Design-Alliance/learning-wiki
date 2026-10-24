@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: ying-xu-2023
     resource: "https://osf.io/j7upd"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Responses in the pseudo-interactive condition showed a significantly lower type-token ratio than those in the interactive condition (t = 3.371, p = .001), reflecting children repeating answers during the programmed pause. [→ Ying Xu 2023](#ying-xu-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: sanna-järvelä-2022
     resource: "https://doi.org/10.1007/s11412-022-09373-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Detailed analysis of cross-classroom Super Talk documented that students constructed a multifaceted understanding built on diverse ideas from each classroom that subsequently enriched discourse within each individual classroom. [→ Sanna Järvelä 2022](#sanna-jarvela-2022)

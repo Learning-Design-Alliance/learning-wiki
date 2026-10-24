@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: haley-noh-2026
     resource: "https://doi.org/10.48550/arxiv.2605.21613"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the equation-solving dataset, Weakness Targeting and Maximize Usual Case Improvement performed slightly better than other strategies, yielding the lowest overpractice, at 1.26 and 1.29 average practice opportunities respectively. [→ Haley Noh 2026](#haley-noh-2026)

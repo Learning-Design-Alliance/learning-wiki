@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: steffen-p-schmidgall-2020
     resource: "https://doi.org/10.1007/s11251-020-09513-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Both the no support and the local support drawing conditions outperformed the control condition on the transfer test, with a significant overall condition effect (partial η2 = 0.05). [→ Steffen P. Schmidgall 2020](#steffen-p-schmidgall-2020)

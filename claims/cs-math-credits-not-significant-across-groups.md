@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Differences in total required CS credits across the three groups were not statistically significant (F = 2.225, p = 0.117), and math credit differences were also not significant. [→ Albert Lionelle 2024](#albert-lionelle-2024)

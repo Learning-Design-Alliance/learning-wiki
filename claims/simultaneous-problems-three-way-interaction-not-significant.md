@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: nadine-melzner-markus-dresel-ingo-kollar-2022
     resource: "https://doi.org/10.1007/s11409-022-09316-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Contrary to Hypothesis H2, the three-way interaction of motivational problems, comprehension-related problems, and strategy type was not significant (η2 = 0.003), so simultaneous problems did not yield the highest combined strategy frequencies. [→ Nadine Melzner · Markus Dresel · Ingo Kollar 2022](#nadine-melzner-markus-dresel-ingo-kollar-2022)

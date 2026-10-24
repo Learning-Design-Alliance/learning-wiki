@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: jonathan-firth-2021
     resource: "https://doi.org/10.1002/rev3.3266"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Interleaved presentation improved learners' classification of novel items from learned categories more than blocking, consistent with the prediction that transfer benefits particularly. [→ Jonathan Firth 2021](#jonathan-firth-2021)

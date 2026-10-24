@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: sophia-c-weissgerber-2024
     resource: "https://doi.org/10.1007/s11409-023-09366-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The disfluency × WMC interaction did not significantly predict transfer performance (β = -1.57, p = 0.804), aligning with the primary study's null result and negative coefficient. [→ Sophia C. Weissgerber 2024](#sophia-c-weissgerber-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: anahita-golrang-2026
     resource: "https://doi.org/10.48550/arxiv.2605.02703"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a within-subjects study with 26 dyads, debugging success was significantly higher in the ProPACT feedback condition than in the control condition. [→ Anahita Golrang 2026](#anahita-golrang-2026)

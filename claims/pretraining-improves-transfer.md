@@ -8,6 +8,7 @@ generated:
 id: pretraining-improves-transfer
 aliases: [pretraining-principle-increased-learning-outcomes]
 evidence_strength:
+newest_evidence: 2024
 sources:
   - id: delgado-and-mayer-2024
     resource: "https://doi.org/10.1111/jcal.13099"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r1` · `q2`–`q3` · n=93
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Pretraining Improves Transfer -->
 
 Learners who receive instruction on key concepts, terms, or characteristics of a system *before* the main instruction are expected to learn and transfer better than learners who go straight into it. One randomised experiment recorded here (Delgado & Mayer 2024, n = 93, immersive VR) found this against no pretraining; neither recorded source compares pretraining with the same content given during or after the lesson.

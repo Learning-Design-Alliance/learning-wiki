@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: manikonda-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18676"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceived instructor policy was associated with differences in task use, confidence in GenAI reliability, cognitive reliance, perceived learning and benefits, and course-supported GenAI learning, with effect sizes from ϵ2 = 0.06 to 0.19. [→ Manikonda 2026](#manikonda-2026)

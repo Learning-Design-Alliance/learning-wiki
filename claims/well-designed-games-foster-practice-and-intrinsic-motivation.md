@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-16
 sources:
   - id: huber-2024
     resource: "https://doi.org/10.1007/s10648-024-09868-z"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Well-designed games can promote both the persistence needed for practice and the quality of engagement that fosters deep learning, drawing on SDT-based research showing autonomy, competence, and relatedness satisfactions affect intrinsic motivation and sustained engagement. [→ Huber 2024](#huber-2024)

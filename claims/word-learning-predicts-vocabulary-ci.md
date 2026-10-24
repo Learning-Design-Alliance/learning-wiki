@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: derek-m-houston-2012
     resource: "https://doi.org/10.1111/j.1467-7687.2012.01140.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Word-learning performance correlated significantly with PPVT vocabulary size at two years post-CI, and the correlation at four years approached significance. [→ Derek M. Houston 2012](#derek-m-houston-2012)

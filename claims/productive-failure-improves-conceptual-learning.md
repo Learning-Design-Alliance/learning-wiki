@@ -8,6 +8,7 @@ generated:
 id: productive-failure-improves-conceptual-learning
 aliases: [productive-failure-improves-learning, productive-failure-problem-solving-before-instruction-effect, problem-solving-before-instruction-boosts-conceptual-transfer]
 evidence_strength: unrated
+newest_evidence: 2026
 sources:
   - id: sinha-kapur-2021
     resource: "https://doi.org/10.3102/00346543211019105"
@@ -49,6 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 theoretical `r2`–`r3`, 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4` · `i1` small
+> **Currency** · newest study 2026 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 When learners attempt to solve novel problems *before* receiving canonical instruction, they often perform worse on those attempts but learn more from the subsequent instruction than learners who receive instruction first.
 

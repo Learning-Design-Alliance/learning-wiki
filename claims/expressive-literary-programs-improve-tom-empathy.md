@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: luciano-gasser-yvonne-dammert-p-karen-murphy-2022
     resource: "https://doi.org/10.1007/s10648-022-09667-4"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` RORI significantly enhanced ToM skills in second- and third-grade students with social difficulties. [→ Luciano Gasser · Yvonne Dammert · P. Karen Murphy 2022](#luciano-gasser-yvonne-dammert-p-karen-murphy-2022)

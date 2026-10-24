@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: milou-van-harsel-2022
     resource: "https://doi.org/10.1007/s11251-022-09589-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The proportion of selected level 1 tasks depended on task order, decreasing as the learning phase progressed, yet almost one third of the sample still selected lowest-level tasks during the second half of the learning phase. [→ Milou van Harsel 2022](#milou-van-harsel-2022)

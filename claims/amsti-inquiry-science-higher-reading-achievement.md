@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: equal-access-to-content-instruction-for-english-learners-an-example-from-science-2012
     resource: "https://eric.ed.gov/?id=ED580362"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An IES evaluation of Alabama's Math, Science, and Technology Initiative found that engaging, hands-on, inquiry-based science and math lessons applying higher-order thinking skills led to higher English reading achievement on the Stanford Achievement Test. [→ Equal Access to Content Instruction for English Learners: An Example from Science 2012](#equal-access-to-content-instruction-for-english-learners-an-example-from-science-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/259"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Four studies meeting WWC standards with reservations examined alphabetics, and Ladders to Literacy was rated as having potentially positive effects; the average improvement index of +25 percentile points (range +8 to +47) and the domain average effect size of 0.69 come from the three studies with computable effect sizes (the fourth, Fuchs et al. 2001, had none). [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

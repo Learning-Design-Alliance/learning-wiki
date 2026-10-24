@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: harvey-j-ginsburg-2016
     resource: "https://eric.ed.gov/?id=EJ1123456"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article reports, citing Cruwys, Dingle et al. (2013), that among 60-95 year-old vulnerable adults, learning Internet social media increased self-efficacy, social interactions, and cognitive abilities. [→ Harvey J. GINSBURG 2016](#harvey-j-ginsburg-2016)

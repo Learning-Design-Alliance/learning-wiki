@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: paiheng-xu-2024
     resource: "https://aclanthology.org/volumes/2024.naacl-long/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the SimSE dataset, PLMs achieve Spearman correlations over 0.8 for low-expertise components (Objective, Ending) but notably worse performance for high-expertise components (Unpacking, Self-Instruction, Self-Regulation), though still comparable to human-rater agreement levels. [→ Paiheng Xu 2024](#paiheng-xu-2024)

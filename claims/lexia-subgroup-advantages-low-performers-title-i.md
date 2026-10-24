@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: what-works-clearinghouse-2009
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/274"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In Macaruso, Hook, and McCabe (2006), Title I students showed a statistically significant advantage on Letter-Sound Correspondences (effect size 0.88, improvement index +31), and in Macaruso and Walker (2008), kindergarten low performers showed a statistically significant composite advantage (effect size 1.51, improvement index +43). [→ What Works Clearinghouse 2009](#what-works-clearinghouse-2009)

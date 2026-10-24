@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1918
 sources:
   - id: dearborn-1918
     resource: "https://psycnet.apa.org/journals/edu/9/2/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the digit-letter substitution test the practiced group's final gain (12%) was slightly smaller than the control group's, indicating the effect of code practice on that ability was practically nil. [→ Dearborn 1918](#dearborn-1918)

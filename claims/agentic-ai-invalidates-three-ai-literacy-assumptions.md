@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nama-2026
     resource: "https://doi.org/10.48550/arxiv.2605.27396"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Existing AI literacy assumes evaluation is possible, that bad decisions are reversible, and that the user remains the agent of action; agentic systems break all three at once. [→ Nama 2026](#nama-2026)

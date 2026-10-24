@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: ansari-2024
     resource: "https://doi.org/10.1007/s10639-023-12223-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Concerns related to accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted in many studies. [→ Ansari 2024](#ansari-2024)

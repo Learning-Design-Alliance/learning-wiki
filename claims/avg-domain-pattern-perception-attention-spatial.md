@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: benoit-bediou-2023
     resource: "https://doi.org/10.1037/tmb0000102"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across cognitive domains in the cross-sectional meta-analysis, the largest effects were for perception (g = 0.71), multitasking (g = 0.86), spatial cognition (g = 0.67), and top-down attention (g = 0.63), with significant effects in all tested domains. [→ Benoit Bediou 2023](#benoit-bediou-2023)

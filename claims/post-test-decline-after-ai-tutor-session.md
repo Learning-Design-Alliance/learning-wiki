@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rania-abdelghani-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08568"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A paired Wilcoxon test showed a significant decrease from pre-test (67.5%) to post-test (56.9%, p=.014). [→ Rania Abdelghani 2026](#rania-abdelghani-2026)

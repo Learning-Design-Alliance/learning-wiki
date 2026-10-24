@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: joshua-haimson-2008
     resource: "https://www.mathematica.org/publications/infusing-academics-into-career-and-technical-education"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Incorporating academic learning into CTE requires substantial time, effort, and other resources. [→ Joshua Haimson 2008](#joshua-haimson-2008)

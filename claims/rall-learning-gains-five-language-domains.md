@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-21
 sources:
   - id: van-den-berghe-2019
     resource: "https://doi.org/10.3102/0034654318821286"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies of robot-assisted language learning report learning gains attained in RALL situations across vocabulary, reading, speaking, grammar, and sign language. [→ van den Berghe 2019](#van-den-berghe-2019)

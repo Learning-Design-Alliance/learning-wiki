@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: walker-2023
     resource: "https://doi.org/10.14434/ijpbl.v17i2.35844"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Outcomes range from LeJeune (2002) at g = -1.26 to Ceconi (2006) at g = 1.91, alongside an overall modest effect of g = 0.27. [→ Walker 2023](#walker-2023)

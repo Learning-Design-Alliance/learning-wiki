@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: xu-2023
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Group sizes of 2–3 persons had the biggest overall effect size (ES = 0.99), and improvement fell to a lower-middle level (ES < 0.5) when group size exceeded 7 people. [→ Xu 2023](#xu-2023)

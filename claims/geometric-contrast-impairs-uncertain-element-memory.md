@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: glaser-2022
     resource: "https://doi.org/10.1007/s10648-022-09659-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For uncertain elements, memory of appearance was lower with geometric contrast than in the without, stop light colors, and both conditions. [→ Glaser 2022](#glaser-2022)

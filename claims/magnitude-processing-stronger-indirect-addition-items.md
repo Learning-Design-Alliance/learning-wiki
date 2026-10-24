@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: linsen-2014
     resource: "https://doi.org/10.1016/j.actpsy.2013.10.008"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Partial correlations controlling for performance on the other item type showed numerical magnitude processing uniquely explained performance on indirect addition items more than direct subtraction items. [→ Linsen 2014](#linsen-2014)

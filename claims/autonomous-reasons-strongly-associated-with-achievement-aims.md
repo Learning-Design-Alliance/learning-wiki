@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: janke-2024
     resource: "https://doi.org/10.1007/s10648-024-09968-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In studies assessing reasons after aims, the mean association between any kind of aim and autonomous reasons was r = 0.54, indicating a strong bond. [→ Janke 2024](#janke-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: kleibeuker-2013
     resource: "https://doi.org/10.3389/fnhum.2013.00905"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A mixed-model ANOVA revealed an interaction of condition × number with more solutions in OC than AU (η2 = 0.56), and an interaction of number × age group with more answers by adults (η2 = 0.12). [→ Kleibeuker 2013](#kleibeuker-2013)

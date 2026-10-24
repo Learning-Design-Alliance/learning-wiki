@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: pontifex-2016
     resource: "https://doi.org/10.1038/srep38148"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After controlling for age, sex, and aerobic fitness, neither percent time sedentary nor percent time in moderate-to-vigorous physical activity over the whole day related to the proportion of paired-associate items maintained across 12 hours. [→ Pontifex 2016](#pontifex-2016)

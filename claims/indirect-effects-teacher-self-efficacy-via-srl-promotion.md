@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: johannes-jud-2024
     resource: "https://doi.org/10.1007/s11409-024-09393-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only teachers' self-efficacy showed significant indirect effects on students' SRL motivation via both SRL promotion reports (β = [0.11, 0.19]); teachers' attainment value showed no significant indirect relations. [→ Johannes Jud 2024](#johannes-jud-2024)

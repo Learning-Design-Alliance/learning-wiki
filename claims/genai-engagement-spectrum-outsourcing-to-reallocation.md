@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yan-2026
     resource: "https://doi.org/10.14742/ajet.11725"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative analysis of 38 undergraduates' GenAI use in after-class assessments shows engagement is not uniform but spans a spectrum from cognitive outsourcing to cognitive reallocation, adapting surface and deep approaches to learning. [→ Yan 2026](#yan-2026)

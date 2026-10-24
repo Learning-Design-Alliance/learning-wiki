@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: rod-ellis-2002
     resource: "https://doi.org/10.1017/S0272263102002073"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A review of 11 studies examining the effect of form-focused instruction on learners' free production suggests that FFI can contribute to the acquisition of implicit knowledge. [→ Rod Ellis 2002](#rod-ellis-2002)

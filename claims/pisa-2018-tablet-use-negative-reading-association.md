@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: salmerón-2023
     resource: "https://dx.doi.org/10.1037/edu0000830"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Bryant et al. (2020), that students' use of tablets in the classroom was negatively associated with reading comprehension performance after controlling for SES, school type, and country, while teacher-only use showed a positive relationship. [→ Salmerón 2023](#salmeron-2023)

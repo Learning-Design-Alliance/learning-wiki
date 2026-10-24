@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nie-j-2026
     title: Nie J 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 1 (n = 486), exploratory factor analysis of the 18 retained items supported a five-factor solution corresponding to the hypothesized dimensions, explaining 67.82% of the total variance. [→ Nie J 2026](#nie-j-2026)

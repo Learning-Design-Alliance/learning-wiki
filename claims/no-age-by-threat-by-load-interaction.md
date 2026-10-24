@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: patel-nilam-2016
     resource: "https://doi.org/10.1111/psyp.12582"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The three-way Condition by Load by Group interaction was not significant for accuracy (ηp2 = .009) or for RT (ηp2 = .01). [→ Patel Nilam 2016](#patel-nilam-2016)

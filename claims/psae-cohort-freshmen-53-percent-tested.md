@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: stephen-m-ponisciak-2005
     resource: "https://consortium.uchicago.edu/publications/understanding-prairie-state-achievement-exam-descriptive-report-analysis-student"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` About 51 percent of the 2000-01 first-time freshman cohort remained in CPS and took the PSAE in 2003, with about 2 percent more taking it in 2004, totaling 53 percent; 32 percent were no longer enrolled in CPS. [→ Stephen M. Ponisciak 2005](#stephen-m-ponisciak-2005)

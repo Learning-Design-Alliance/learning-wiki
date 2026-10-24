@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: wwc-main-finding
     title: wwc-main-finding
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students whose teachers participated in STeLLA® scored significantly higher on a researcher-developed science content knowledge test than students whose teachers received content-only professional development (effect size 0.68, improvement index +25). [→ wwc-main-finding](#wwc-main-finding)

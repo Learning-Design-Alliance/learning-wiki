@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-22
 sources:
   - id: leonard-tetzlaff-2021
     resource: "https://doi.org/10.1007/s10648-020-09570-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-analyses show ITS effectiveness across domains and contexts, supporting dynamic student modeling plus adaptation as an effective mechanism for learning gains. [→ Leonard Tetzlaff 2021](#leonard-tetzlaff-2021)

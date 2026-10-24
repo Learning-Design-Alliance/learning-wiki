@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2014
 sources:
   - id: kent-2014
     resource: "https://doi.org/10.1007/s11145-013-9480-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Letter-writing fluency was uniquely and positively related to kindergarten composition fluency (γ = .13, p = .047) but exhibited no statistically significant relationship to first-grade fluency or quality (γ = −.05 and −.03, ps > .41). [→ Kent 2014](#kent-2014)

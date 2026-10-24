@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-17
 sources:
   - id: bruce-2022
     resource: "https://doi.org/10.1017/S0954579420001819"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2022 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Nonmaltreated adolescents displayed a higher percentage of correct responses than maltreated adolescents on both go and no go trials, with the difference more pronounced on no go trials. [→ Bruce 2022](#bruce-2022)

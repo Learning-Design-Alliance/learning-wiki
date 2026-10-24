@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: peters-2019
     resource: "https://doi.org/10.3758/s13421-019-00953-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Measures of generation and elaboration specificity were more strongly correlated across tasks for older adults than younger adults, which the authors attribute to greater reliance on semantic processes. [→ Peters 2019](#peters-2019)

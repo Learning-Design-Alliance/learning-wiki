@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: syed-furqan-abbas-hashmi-and-n-sanjay-rebello-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07373"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 221 independent sessions with no prescribed dialogue path, student discourse converges on a small number of recurring moves, with the top 25 of 357 consolidated categories covering roughly half of all student turns. [→ Syed Furqan Abbas Hashmi and N. Sanjay Rebello 2026](#syed-furqan-abbas-hashmi-and-n-sanjay-rebello-2026)

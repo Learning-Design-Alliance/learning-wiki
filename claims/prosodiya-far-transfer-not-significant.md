@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: holz-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101771"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The training effect on spelling of inflected training words (far transfer) was marginal and not significant, and not robust across estimation panels. [→ Holz 2023](#holz-2023)

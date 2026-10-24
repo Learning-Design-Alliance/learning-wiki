@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: micky-c-nnamdi-2026
     resource: "https://doi.org/10.48550/arxiv.2503.16558"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Intervention-period offerings (2021–2023) had a higher proportion of A grades (66.4% vs 39.1%) and fewer low grades (6.1% vs 22.4%) than control offerings (2016–2017, 2020). [→ Micky C. Nnamdi 2026](#micky-c-nnamdi-2026)

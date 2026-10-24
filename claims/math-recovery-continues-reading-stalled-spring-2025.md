@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2030
 sources:
   - id: specialty-schools-national-dashboard-2025
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-tables-for-private-schools/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Trend snapshots of MAP Growth data indicated math recovery continued while reading remained stalled in spring 2025. [→ Specialty Schools National Dashboard 2025](#specialty-schools-national-dashboard-2025)

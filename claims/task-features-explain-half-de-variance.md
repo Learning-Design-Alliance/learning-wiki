@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rogat-2026
     resource: "https://doi.org/10.1007/s11251-025-09772-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Model 2, adding time-varying task features as contemporaneous predictors, explained about half of the variance in DE ratings (within-group R2 = 0.51), up from 0.34 in Model 1. [→ Rogat 2026](#rogat-2026)

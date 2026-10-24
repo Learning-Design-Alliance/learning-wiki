@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xiaojing-duan-2026
     resource: "https://doi.org/10.48550/arxiv.2604.03926"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Concept alignment exhibited the highest human-validated success rate at 98.6%, with 0.3% failure and 1.0% inefficiency. [→ Xiaojing Duan 2026](#xiaojing-duan-2026)

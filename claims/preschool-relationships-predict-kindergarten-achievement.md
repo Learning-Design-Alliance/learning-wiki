@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: torres-2015
     resource: "https://doi.org/10.1016/j.appdev.2015.04.008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Positive interpersonal relationships in fall of preschool predicted kindergarten achievement (β = .19, p < .05) controlling for preschool achievement and cognitive ability. [→ Torres 2015](#torres-2015)

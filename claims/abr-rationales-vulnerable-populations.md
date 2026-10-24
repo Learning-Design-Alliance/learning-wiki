@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: sara-coemans-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.08.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most frequently cited rationale was challenging the limitations of conventional language-oriented research methods; other rationales included overcoming power imbalances, giving participants voice, exploring issues difficult to verbalize, heightening interest, and communicating findings beyond academic communities. [→ Sara Coemans 2017](#sara-coemans-2017)

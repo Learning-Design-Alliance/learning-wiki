@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: ton-de-jong-1998
     resource: "https://telearn.hal.science/hal-00190680v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across comparison studies in biology, economics, mechanics, and electrical circuits, some found favorable results for simulations, some no difference, and some found simulations underperforming tutorials. [→ Ton de Jong 1998](#ton-de-jong-1998)

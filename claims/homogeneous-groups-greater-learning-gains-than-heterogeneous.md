@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: sanna-järvelä-2023
     resource: "https://doi.org/10.1007/s11412-023-09415-y"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in homogeneous groups made significantly greater learning gains than students in heterogeneous groups in small-group compost simulations. [→ Sanna Järvelä 2023](#sanna-jarvela-2023)

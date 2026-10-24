@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: roohani-2022
     resource: "https://doi.org/10.58837/chula.pasaa.63.1.12"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Differences in negotiation strategy use between unfocused and focused tasks were not significantly affected by the decision-making vs. opinion-exchange condition. [→ Roohani 2022](#roohani-2022)

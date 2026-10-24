@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: dave-neale-deborah-pino-pasternak-2016
     resource: "https://doi.org/10.1007/s10648-016-9376-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that analysis of 400 hours of naturally occurring preschool dialog found open-ended questions encouraged children to think and respond individually and more often led to sustained dialog episodes. [→ Dave Neale & Deborah Pino-Pasternak 2016](#dave-neale-deborah-pino-pasternak-2016)

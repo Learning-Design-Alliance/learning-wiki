@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: william-j-rothwell-2026
     resource: "https://doi.org/10.46787/ijaipil.v2i1.8053"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The framework proposes that outcome-aligned ownership performances will predict later individual transfer performance beyond the prediction provided by AI-assisted product quality alone. [→ William J. Rothwell 2026](#william-j-rothwell-2026)

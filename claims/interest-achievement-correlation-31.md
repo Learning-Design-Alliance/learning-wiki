@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: belland-brian-r-2013
     resource: "https://doi.org/10.1080/00461520.2013.838920"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across studies synthesized in a meta-analysis cited by the review, interest and academic achievement show a mean correlation of r = .31. [→ Belland Brian R. 2013](#belland-brian-r-2013)

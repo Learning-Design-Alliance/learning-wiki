@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: roy-2014
     resource: "https://doi.org/10.1037/a0036984"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The interaction between residential mobility and baseline neighborhood poverty was significantly related to children's Hearts and Flowers performance; moving out of a low poverty neighborhood was associated with a 189-ms (1.17-SD) increase in response time (t(288) = 2.59, p = .01), while moving out of a high poverty neighborhood was related to reductions in response time that were only marginally statistically significant (t(288) = −1.86, p = .06). [→ Roy 2014](#roy-2014)

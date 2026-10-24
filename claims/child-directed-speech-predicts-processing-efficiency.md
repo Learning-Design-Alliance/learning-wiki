@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: weisleder-adriana-2013
     resource: "https://doi.org/10.1177/0956797613488145"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Amount of child-directed speech was correlated with processing efficiency at 19 months (r = 0.44) and 24 months (r = 0.51), and predicted gains in efficiency from 19 to 24 months (r = 0.47 controlling for 19-month processing). [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

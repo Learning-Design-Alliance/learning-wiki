@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1919
 sources:
   - id: herring-1919
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In averaging each problem's position across grades, entries within 1 P.E. of the median receive weight 2, entries from 1 to less than 3 P.E. receive weight 1, and entries 3 P.E. or more are omitted; only three measures were omitted. [→ Herring 1919](#herring-1919)

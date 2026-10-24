@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: little-2021
     resource: "https://doi.org/10.1037/edu0000635"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` TOWRE PDE-pseudo word decoding showed significant growth variance in both early and late elementary school, indicating persistent individual differences. [→ Little 2021](#little-2021)

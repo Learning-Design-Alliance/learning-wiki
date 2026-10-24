@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: martin-andrew-j-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101712"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Self-efficacy significantly predicted participation (β = 0.20), aspirations (β = 0.73), and enjoyment (β = 0.45), and inversely predicted disengagement (β = −0.34). [→ Martin Andrew J. 2023](#martin-andrew-j-2023)

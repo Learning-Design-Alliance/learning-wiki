@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shangchao-min-2026
     resource: "https://doi.org/10.21203/rs.3.rs-8820245/v1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Few-shot prompting can slightly degrade subskill mastery, particularly for phonology, in enhanced models such as Qwen2.5-VL CrossAttn. [→ Shangchao Min 2026](#shangchao-min-2026)

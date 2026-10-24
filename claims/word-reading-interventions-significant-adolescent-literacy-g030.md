@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: julia-j-yi-2026
     resource: "https://doi.org/10.1007/s10648-026-10124-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 200 effects from 34 studies, word-reading interventions produced a statistically significant positive summary effect on adolescent literacy outcomes (g = 0.30, SE = 0.11, p = .009). [→ Julia J. Yi 2026](#julia-j-yi-2026)

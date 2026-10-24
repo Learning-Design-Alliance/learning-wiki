@@ -25,12 +25,14 @@ sources:
     rigour: "?"
 id: self-efficacy-predicts-academic-persistence
 evidence_strength: strong
+newest_evidence: 1997
 ---
 
 # Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r?` · `q2`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 Self-efficacy is not global confidence — it is the learner's judgment that they can execute the specific actions required to accomplish a specific task. High self-efficacy for a task produces higher goals, more effort, longer persistence under obstacles, and faster recovery from failure. Low self-efficacy produces avoidance, reduced effort, and attribution of difficulty to stable inability rather than insufficient strategy.
 

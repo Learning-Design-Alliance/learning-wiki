@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: carver-thomas-2018
     resource: "https://doi.org/10.54300/559.310"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` North Carolina k–5 data (2006–2010) showed students with teachers of another race had more unexcused absences and greater likelihood of chronic absenteeism than race-matched students, with boys of color taught by White teachers most affected. [→ Carver-Thomas 2018](#carver-thomas-2018)

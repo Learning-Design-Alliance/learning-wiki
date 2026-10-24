@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: building-a-national-early-childhood-education-system-that-works-2021
     resource: "https://eric.ed.gov/?id=ED614493"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Multiple federal agencies oversee ECE program administration, and state programs add their own eligibility, quality, and monitoring rules, producing a fragmented system that inhibits efforts to address access and quality. [→ Building a National Early Childhood Education System That Works 2021](#building-a-national-early-childhood-education-system-that-works-2021)

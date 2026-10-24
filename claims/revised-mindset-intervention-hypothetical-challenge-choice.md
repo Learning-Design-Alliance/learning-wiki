@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: yeager-2016
     resource: "https://doi.org/10.1037/edu0000098"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The revised intervention reduced the proportion choosing the easy extra-credit assignment versus the hard one from 60% to 51% compared with the original intervention (d=.19). [→ Yeager 2016](#yeager-2016)

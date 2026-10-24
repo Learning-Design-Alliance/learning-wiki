@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ahmed-a-and-sultan-a-2026
     title: Ahmed A and Sultan A 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The model's predictors account for 70% of the variance in student engagement, which the article classifies as substantial. [→ Ahmed A and Sultan A 2026](#ahmed-a-and-sultan-a-2026)

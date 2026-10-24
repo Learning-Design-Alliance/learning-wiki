@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2018
+source_checked: 2026-10-19
 sources:
   - id: kraft-2018
     resource: "https://doi.org/10.3102/0034654318759268"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q4` · `i0` negligible
+> **Currency** · newest study 2018 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i0` Across causal studies, coaching raised student performance on standardized tests by 0.18 SD, with substantial between-program variation (random-effect SD 0.18). [→ Kraft 2018](#kraft-2018)

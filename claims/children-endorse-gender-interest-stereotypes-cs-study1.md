@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: master-2021
     resource: "https://doi.org/10.1073/pnas.2100030118"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i0` Children in grades 3–7 endorsed gender-interest stereotypes favoring boys in computer science (d = 0.18, a negligible-to-small printed effect), with boys endorsing significantly more strongly than girls (d = 0.23). [→ Master 2021](#master-2021)

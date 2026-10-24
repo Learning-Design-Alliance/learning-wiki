@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: lorenz-weise-2022
     resource: "https://doi.org/10.1007/s11409-021-09286-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A significant three-way interaction of condition, selection and confidence level occurred because decision weights were reversed for low-confidence info-seeking trials (generalized eta squared = 0.08). [→ Lorenz Weise 2022](#lorenz-weise-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: karatas-2012
     resource: "http://dx.doi.org/10.5539/ies.v5n6p131"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Locus of control correlated negatively with subjective well-being (r = -.26) and, in gradual regression, contributed 3.3% of variance after self-esteem (Beta = -.184). [→ Karatas 2012](#karatas-2012)

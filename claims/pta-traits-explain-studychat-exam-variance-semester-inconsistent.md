@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hunter-mcnichols-2026
     resource: "https://doi.org/10.48550/arxiv.2608.11460"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Adding 10 PTA traits to a prior-outcome regression significantly improves explanatory R2 for exam scores in Fall 2024 (generic pool, ΔR2 +0.102, p=.030) but not in Spring 2025. [→ Hunter McNichols 2026](#hunter-mcnichols-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: new-york-charter-schools-remote-instruction-during-covid-crisis-spring-2020-results-for-all-authorizers-2020
     resource: "https://credo.stanford.edu/reports/item/report-3/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schools that had not provided devices prior to closure were disproportionately high-poverty and largely primary-grade schools. [→ New York Charter Schools: Remote Instruction During COVID Crisis (Spring 2020) – Results for All Authorizers 2020](#new-york-charter-schools-remote-instruction-during-covid-crisis-spring-2020-results-for-all-authorizers-2020)

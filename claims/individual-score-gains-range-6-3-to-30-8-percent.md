@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: arifani-2016
     resource: "https://doi.org/10.5539/ies.v9n2p111"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Every student's score improved from cycle one to cycle two, with improvement percentages from 6.3% to 30.8% and an average improvement of 16.5%; students with lower first-cycle scores tended to improve more. [→ Arifani 2016](#arifani-2016)

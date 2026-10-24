@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yimeng-sun-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14330"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Markov chain analysis of Days 4-5 logs showed redundant design-implementation switching decreased while optimization-related transitions increased, indicating more efficient problem-solving and systematic refinement; no effect size is printed for these transition-probability changes. [→ Yimeng Sun 2026](#yimeng-sun-2026)

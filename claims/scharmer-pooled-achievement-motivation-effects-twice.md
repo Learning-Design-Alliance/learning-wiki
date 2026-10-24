@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: vu-2021
     resource: "https://doi.org/10.1007/s10648-021-09616-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a recent meta-analysis of longitudinal studies, the pooled effect of achievement on motivation (β = .12) was twice the pooled effect of motivation on achievement (β = .06), both small. [→ Vu 2021](#vu-2021)

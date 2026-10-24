@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: li-2019
     resource: "https://eric.ed.gov/?id=ED608115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students receiving the intervention improved beyond comparison peers on five ScienceQuest items tied to the Changing Motion and Classifying Matter playlists, with one item significant at p = 0.006. [→ Li 2019](#li-2019)

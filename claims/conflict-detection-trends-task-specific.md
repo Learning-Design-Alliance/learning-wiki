@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: nina-franiatte-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101845"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The conflict detection index rose from pre- to post-intervention on bat-and-ball and base-rate tasks in the training group, but not in control, and showed the opposite trend for conjunction fallacy problems. [→ Nina Franiatte 2024](#nina-franiatte-2024)

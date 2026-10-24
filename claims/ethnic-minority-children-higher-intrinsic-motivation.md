@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: gillen-oneel-2011
     resource: "https://doi.org/10.1111/j.1467-8624.2011.01621.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` African-American, Chinese, Dominican, and Russian children all reported higher intrinsic motivation than European-American children. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)

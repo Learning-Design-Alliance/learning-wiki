@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: chen-c-and-liu-t-2026
     title: Chen C and Liu T 2026
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Execution-and-Monitoring and Evaluation-and-Reflection subscales scored comparatively high, while Pre-learning Planning and Emotional Motivation hovered around the scale midpoint. [→ Chen C and Liu T 2026](#chen-c-and-liu-t-2026)

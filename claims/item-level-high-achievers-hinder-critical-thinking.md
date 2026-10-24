@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jason-zagami-2026
     resource: "https://doi.org/10.1186/s41239-026-00625-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` At item level, GPA band correlates negatively with feeling more autonomous when using AI (ρ = −0.285) and actively using AI for academic tasks (ρ = −0.269), and positively with agreeing that relying on AI hinders critical thinking and independent problem solving (ρ = 0.252). [→ Jason Zagami 2026](#jason-zagami-2026)

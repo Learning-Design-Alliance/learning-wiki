@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: walkington-2025
     resource: "https://doi.org/10.1007/978-3-032-29770-9_5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing 32 unique original IM curriculum problems to 156 final personalized versions, the PPB maintained relatively comparable reading levels on three of four measures and increased Flesch-Kincaid from 4.38 to 6.62, more aligned with grade 7. [→ Walkington 2025](#walkington-2025)

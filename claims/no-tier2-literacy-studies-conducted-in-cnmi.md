@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-09
+recheck_by: 2029
 sources:
   - id: porowski-2024
     resource: "https://ies.ed.gov/use-work/resource-library/reports/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` All eligible studies were conducted in the United States, and the review did not identify which interventions were culturally relevant for CNMI. [→ Porowski 2024](#porowski-2024)

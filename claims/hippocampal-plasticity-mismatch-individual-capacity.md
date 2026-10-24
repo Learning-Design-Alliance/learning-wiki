@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: fandakova-2016
     resource: "https://doi.org/10.1111/mbe.12123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Wenger and Lövdén argue that malleability of hippocampal structure and processing efficiency results from a mismatch between available resources and environmental demands, so students would gain most from practices challenging them at their individual capacity. [→ Fandakova 2016](#fandakova-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: donald-williams-2021
     resource: "https://doi.org/10.3758/s13428-021-01646-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In cognitive inhibition tasks, within-person variance is heterogeneous across individuals; in one task the largest-to-smallest within-person variance ratio exceeded 20, translating into a tenfold difference in person-specific reliability. [→ Donald Williams 2021](#donald-williams-2021)

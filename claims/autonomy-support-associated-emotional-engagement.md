@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hospel-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2015.09.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Autonomy support was associated with emotional engagement, a complementary role relative to structure. [→ Hospel 2016](#hospel-2016)

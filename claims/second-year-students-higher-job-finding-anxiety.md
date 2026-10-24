@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: üstün-2026
     resource: "https://doi.org/10.17275/per.26.23.13.2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i1` Second-year students reported significantly higher job finding anxiety than first-year students (d=–.22), with small eta-squared effects (.007–.011). [→ Üstün 2026](#ustun-2026)

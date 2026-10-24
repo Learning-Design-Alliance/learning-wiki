@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: jones-2024
     resource: "https://eric.ed.gov/?id=ED673605"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Research shows teachers' attention easily gets diverted to English learners' grammar, vocabulary, and pronunciation even when these are not associated with the day's learning goal. [→ Jones 2024](#jones-2024)

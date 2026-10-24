@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: tim-r-sass-2016
     resource: "https://www.mathematica.org/publications/ja-charter-high-schools-effects-on-longterm-attainment-and-earnings"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Florida students attending charter high schools are more likely to graduate from high school and enroll in college than comparable students. [→ Tim R. Sass 2016](#tim-r-sass-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: luxton-reilly-2009
     resource: "https://doi.org/10.1080/08993400903384844"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An evaluation of the Sitthiworachart and Joy system showed peer ratings correlate significantly with instructor ratings, and that students are better able to make accurate objective judgements than subjective ones. [→ Luxton-Reilly 2009](#luxton-reilly-2009)

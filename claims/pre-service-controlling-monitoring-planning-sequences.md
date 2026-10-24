@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: faisal-channa-2026
     resource: "https://doi.org/10.1007/s11251-026-09818-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Process models showed pre-service teachers had stronger transitions between controlling and monitoring (f = 176, 180 vs. 124, 114) and between controlling and planning (f = 178, 178 vs. 84, 96). [→ Faisal Channa 2026](#faisal-channa-2026)

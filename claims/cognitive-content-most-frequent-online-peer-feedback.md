@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: xingshi-gao-2024
     resource: "https://doi.org/10.1016/j.edurev.2023.100588"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 73 reviewed studies, cognitive content was the most frequently identified feedback content (n = 29; 39%), while metacognitive content was identified less often (n = 8; 10%). [→ Xingshi Gao 2024](#xingshi-gao-2024)

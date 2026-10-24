@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xin-tian-2026
     resource: "https://doi.org/10.1186/s41239-026-00613-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Hedonic motivation (β = 0.210) and habit (β = 0.220) were particularly strong predictors of behavioral intention, and habit also had a substantial direct effect on use behavior (β = 0.210). [→ Xin Tian 2026](#xin-tian-2026)

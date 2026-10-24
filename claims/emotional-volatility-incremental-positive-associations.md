@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: burić-2023
     title: Burić 2023
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Emotional volatility showed small, marginally significant incremental value in explaining cognitive activation (β = .097), classroom management (β = .106), and teacher enthusiasm (β = .112) over the general anxiety reference factor. [→ Burić 2023](#buric-2023)

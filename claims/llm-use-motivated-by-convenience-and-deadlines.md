@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: jake-obrien-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21037"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students strongly agreed that convenience (71% agreement) and deadline pressure (65% agreement) would motivate LLM use, and 60% self-reported using LLMs at least weekly for guidance/hints. [→ Jake O'Brien 2026](#jake-obrien-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: wang-2025
     resource: "https://doi.org/10.1007/s10639-025-13557-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` SRL abilities were significantly improved in the experimental group, which the authors read as efficacy of GPT feedback in promoting self-reflection, goal setting, and strategy adjustment. [→ Wang 2025](#wang-2025)

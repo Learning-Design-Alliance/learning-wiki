@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: pardos-za-2024
     title: Pardos ZA 2024
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Session times differed significantly by condition (p < 0.001); both hint conditions had higher times than control (p < 0.001) but were not separable from one another (p = 0.614). [→ Pardos ZA 2024](#pardos-za-2024)

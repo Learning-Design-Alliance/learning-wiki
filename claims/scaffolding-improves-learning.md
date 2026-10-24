@@ -8,6 +8,8 @@ generated:
 id: scaffolding-improves-learning
 aliases: [scaffolding-improves-learning-outcomes]
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: belland-et-al-2017
     resource: "https://doi.org/10.3102/0034654316670999"
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 Learners who receive support — hints, prompts, models, or structured tools — during instruction show better learning outcomes than those given no support or less contingent support. Whether the support is faded did not change the effect in the one meta-analysis recorded here (Belland et al. 2017), so fading is a design recommendation from scaffolding theory, not a condition these entries show the benefit depends on.
 <!-- deprecated (2026-10-05, the Belland entry found no difference by fading): Learners who receive temporary, adaptive support — hints, prompts, models, or structured tools — during instruction show better learning outcomes than those left to unsupported discovery, provided the support is faded as competence develops. -->

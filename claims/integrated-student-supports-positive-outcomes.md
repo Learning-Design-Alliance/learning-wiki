@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: maier-2017
     resource: "https://learningpolicyinstitute.org/product/community-schools-effective-school-improvement-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students receiving integrated supports such as counseling, medical care, dental services, and transportation assistance often show significant improvements in attendance, behavior, social functioning, and academic achievement. [→ Maier 2017](#maier-2017)

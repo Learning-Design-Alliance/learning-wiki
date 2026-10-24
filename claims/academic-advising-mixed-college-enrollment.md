@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2009
 sources:
   - id: tierney-2009
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/11"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Six programs with studies meeting standards provide evidence on academic advising; two had a positive impact on college enrollment, whereas the other four programs had no impact. [→ Tierney 2009](#tierney-2009)

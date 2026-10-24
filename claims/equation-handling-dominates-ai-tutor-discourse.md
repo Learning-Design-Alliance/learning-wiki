@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: syed-furqan-abbas-hashmi-and-n-sanjay-rebello-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07373"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The single largest band in the top 20 categories is equation-handling, including Writing Energy Equation (8.3%), Velocity Solving (2.8%), and Solving for Height (2.4%), with roughly a third of top-20 turns engaging in equation tasks. [→ Syed Furqan Abbas Hashmi and N. Sanjay Rebello 2026](#syed-furqan-abbas-hashmi-and-n-sanjay-rebello-2026)

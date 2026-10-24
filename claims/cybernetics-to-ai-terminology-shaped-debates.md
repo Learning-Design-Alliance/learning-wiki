@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: mishra-2025
     resource: "https://doi.org/10.1007/s11528-025-01064-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that early conceptual and terminological choices in AI, including the shift from cybernetics to artificial intelligence, shaped current situations and debates in education. [→ Mishra 2025](#mishra-2025)

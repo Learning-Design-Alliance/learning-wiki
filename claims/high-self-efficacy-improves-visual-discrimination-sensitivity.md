@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: zacharopoulos-g-2014
     title: Zacharopoulos G 2014
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` High self-efficacy groups exhibited significantly greater changes in visual discrimination thresholds than low self-efficacy groups in both the orientation task (d = 20.68) and the contrast task (d = 20.86). [→ Zacharopoulos G 2014](#zacharopoulos-g-2014)

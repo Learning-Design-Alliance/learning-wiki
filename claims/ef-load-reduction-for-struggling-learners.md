@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: scerif-2023
     resource: "https://doi.org/10.1007/s10648-023-09824-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The review cites evidence that reducing working memory demands helps struggling learners, while proposing the opposite approach for beginning learners. [→ Scerif 2023](#scerif-2023)

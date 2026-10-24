@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: connor-carol-mcdonald-2010
     resource: "https://doi.org/10.1016/j.jsp.2010.06.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among treatment teachers, the more time spent using A2i software, the less time students spent in disruption and discipline events. [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)

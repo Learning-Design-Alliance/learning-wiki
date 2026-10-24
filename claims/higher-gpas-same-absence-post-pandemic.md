@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: allensworth-2026
     resource: "https://consortium.uchicago.edu/publications/connection-trust-and-learning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sixth-graders with 10% absence had average GPAs of 2.9 pre-pandemic versus 3.2 post-pandemic; the GPA increase at the same absence level appears at all grade levels. [→ Allensworth 2026](#allensworth-2026)

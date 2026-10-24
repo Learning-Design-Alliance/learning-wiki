@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: steffen-zitzmann-2021
     resource: "https://doi.org/10.1007/s10648-021-09635-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Applying the fixed-budget procedure to the Arens and Morin (2016) parameter values yielded optimal numbers of 395 classes and 12 students per class, with 73% power to detect a standardized between slope of .1. [→ Steffen Zitzmann 2021](#steffen-zitzmann-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: lee-2024
     resource: "https://doi.org/10.1186/s41239-024-00447-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Control-group students outperformed treatment-group students on intrinsic motivation (MEG = 18.9 > MCG = 16.1; partial η² = 0.228) and on amotivation in the adverse direction (MEG = 8.53 < MCG = 12.0; partial η² = 0.298). [→ Lee 2024](#lee-2024)

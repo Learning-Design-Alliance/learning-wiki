@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: mohammed-saqr-2020
     resource: "https://doi.org/10.1007/s11412-020-09322-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Weighting network ties by post size produced less robust correlations, and the article interprets that incoming interactions (indegree) reflect a post's value better than its sheer size. [→ Mohammed Saqr 2020](#mohammed-saqr-2020)

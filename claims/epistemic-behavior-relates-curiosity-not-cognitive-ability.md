@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: mussel-2022
     resource: "https://doi.org/10.3390/jintelligence10020023"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Epistemic behavior at T2 was significantly correlated with curiosity but not with cognitive ability, at odds with the environmental enrichment account. [→ Mussel 2022](#mussel-2022)

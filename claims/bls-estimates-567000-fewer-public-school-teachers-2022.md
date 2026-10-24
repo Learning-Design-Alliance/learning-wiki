@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: regional-educational-laboratory-rel-central-2024
     resource: "https://www.mathematica.org/publications/seven-questions-to-consider-about-teacher-apprenticeship-programs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Nationally, there were 567,000 fewer teachers in public schools in 2022 than prior to the COVID-19 pandemic, according to a U.S. Bureau of Labor estimate reported by REL Central. [→ Regional Educational Laboratory (REL) Central 2024](#regional-educational-laboratory-rel-central-2024)

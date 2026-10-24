@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: park-2026
     resource: "https://doi.org/10.48550/arxiv.2608.02024"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Education-specific defenses outperform general-purpose defenses, with taxonomy-augmented classifiers SG+T (-30.1 pp), GOS+T (-25.6 pp), and LG3+T (-22.2 pp) achieving the largest ASR reductions. [→ Park 2026](#park-2026)

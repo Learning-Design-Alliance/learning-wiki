@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: matthew-p-steinberg-and-lauren-sartain-2015
     resource: "https://doi.org/10.1162/EDFP_a_00173"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The pilot effect on reading remained significant in year 2 (0.115 SD), but the year 3 effect was not statistically significant. [→ Matthew P. Steinberg and Lauren Sartain 2015](#matthew-p-steinberg-and-lauren-sartain-2015)

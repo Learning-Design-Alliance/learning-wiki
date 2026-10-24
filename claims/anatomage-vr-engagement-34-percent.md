@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: long-dy-2026
     resource: "https://doi.org/10.3389/feduc.2025.1648661"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-enhanced VR dissection raised medical student engagement by 34% relative to cadaver-based practice, with high equipment costs as a constraint. [→ Long DY 2026](#long-dy-2026)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2030
 sources:
   - id: daniel-long-2025
     resource: "https://www.nwea.org/research/publication/unequal-access-to-8th-grade-algebra-how-school-offerings-and-placement-practices-limit-opportunity/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In NWEA data from 162,000 eighth graders across 22 states, access to early Algebra is highly inequitable; the brief describes this as the situation across the United States. [→ Daniel Long 2025](#daniel-long-2025)

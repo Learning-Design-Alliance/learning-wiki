@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: arad-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2022.2154158"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · `i2` medium · n=158 8th-grade students across two Pacific Northwest middle schools, 65% Black, Brown, or Indigenous
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 Middle-school students in a redesigned physics unit centering racial bias in light-related technologies showed increased emotional and critical engagement with anti-racist source material, synthesized readings into systemic (not individual) accounts of injustice, and produced transdisciplinary speculative artifacts — including, in one case, through intergenerational collaboration with a family member.
 

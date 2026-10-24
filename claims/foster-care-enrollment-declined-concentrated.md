@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: ximenes-barrat-2025
     resource: "https://www.wested.org/resource/revisiting-californias-invisible-achievement-gap/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Census Day enrollment of students in foster care dropped by over 13,000 students across the study period, reaching 31,722 in 2022–23. [→ Ximenes Barrat 2025](#ximenes-barrat-2025)

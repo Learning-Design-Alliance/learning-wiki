@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: inga-glogger-frey-2022
     resource: "https://doi.org/10.1007/s11251-022-09577-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The inventing group showed more metacognitive regulation than the worked example group (BF−0 = 3.844, d = −.70), contrary to Hypothesis 3b. [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)

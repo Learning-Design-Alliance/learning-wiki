@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: haft-stephanie-l-2023
     resource: "https://doi.org/10.1177/00222194221087383"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across six studies pooling nine effect sizes, greater endorsement of SLD stigma was significantly associated with less reported self-esteem (r = −.39, 95% CI [−.60, −.24], p = .002), with moderate heterogeneity (I2 = 42.2%). [→ Haft Stephanie L. 2023](#haft-stephanie-l-2023)

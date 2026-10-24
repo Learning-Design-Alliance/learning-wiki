@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shuyan-huang-2026
     resource: "https://doi.org/10.48550/arxiv.2605.01097"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` DKT achieves comparable performance to complex architectures such as SAINT and AKT on both datasets, suggesting simpler architectures may generalize better with fewer than 2,500 dialogues. [→ Shuyan Huang 2026](#shuyan-huang-2026)

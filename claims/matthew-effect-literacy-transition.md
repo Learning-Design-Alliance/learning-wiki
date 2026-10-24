@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: pamela-c-snow-2021
     resource: "https://doi.org/10.1044/2020_PERSP-20-00120"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children who do not make the transition to literacy in the first 3 years of school fall disproportionately further behind peers over time (Matthew effect). [→ Pamela C. Snow 2021](#pamela-c-snow-2021)

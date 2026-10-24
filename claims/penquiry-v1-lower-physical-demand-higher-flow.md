@@ -34,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 design `r3`, 1 causal `r1` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` V1 imposed significantly lower physical demand than the baseline (4.06 vs. 2.31, p<0.001). [→ tlx-physical](#tlx-physical)

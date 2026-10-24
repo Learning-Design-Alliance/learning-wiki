@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: kim-2026
     resource: "https://doi.org/10.48550/arxiv.2605.29090"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Some participants who believed their AI use was acceptable still hid it or managed detection risk, and chat-log comparison revealed two students had copy-pasted AI text while claiming they had not. [→ Kim 2026](#kim-2026)

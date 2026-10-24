@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: janssen-2023
     resource: "https://doi.org/10.1007/s10648-023-09797-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Among feedback recipients who performed better with interleaved studying (n = 42 of 75), blocked studying was no longer considered significantly more effective (d = -0.30) or more desirable (d = -0.23), though interleaved was not significantly favored either. [→ Janssen 2023](#janssen-2023)

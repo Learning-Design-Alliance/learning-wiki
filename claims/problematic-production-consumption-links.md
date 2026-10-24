@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: huatong-sun-2006
     resource: "https://doi.org/10.1207/s15427625tcq1504_3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the fieldwork, production processes rarely responded to use patterns emerging from consumption, regulation, representation, and identity; the only exception was manufacturer Amoi adding female-oriented applications to a phone model popular with female users. [→ Huatong Sun 2006](#huatong-sun-2006)

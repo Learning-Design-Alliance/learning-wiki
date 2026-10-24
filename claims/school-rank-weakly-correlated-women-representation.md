@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` A correlation test across all 60 programs between school rank and percentage of women produced a correlation coefficient of -0.36, which the authors describe as indicating little correlation. [→ Albert Lionelle 2024](#albert-lionelle-2024)

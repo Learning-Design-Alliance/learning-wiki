@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: james-soland-2022
     resource: "https://doi.org/10.1080/19345747.2021.2018744"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Longitudinal interim achievement data display distinctly seasonal patterns, and few statistical models exist that can approximate them. [→ James Soland 2022](#james-soland-2022)

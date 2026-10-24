@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: gregory-kwk-chung-2015
     resource: "https://doi.org/10.1007/978-3-319-05834-4_3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who had difficulty identifying the unit size were less likely to learn from the game than students who had difficulty identifying the fractional piece size. [→ Gregory K.W.K. Chung 2015](#gregory-kwk-chung-2015)

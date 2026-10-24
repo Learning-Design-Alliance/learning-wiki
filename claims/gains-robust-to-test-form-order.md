@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: breakstone-2021
     resource: "https://doi.org/10.37016/mr-2020-56"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Scores improved significantly in both counterbalanced sections: Section 1 rose from 3.59 to 7.7 points and Section 2 from 4.3 to 6.49 points. [→ Breakstone 2021](#breakstone-2021)

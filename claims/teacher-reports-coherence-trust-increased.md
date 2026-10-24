@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-08
+recheck_by: 2027
 sources:
   - id: sharon-greenberg-anthony-s-bryk-2024
     resource: "https://consortium.uchicago.edu/publications/change-that-matters"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Longitudinal teacher surveys tracked from 1994 to 2017 show increasing coherence in program improvement efforts and higher levels of trust in principals, attesting to the impact of principal development investments. [→ Sharon Greenberg & Anthony S. Bryk 2024](#sharon-greenberg-anthony-s-bryk-2024)

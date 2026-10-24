@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: panadero-2016
     resource: "https://doi.org/10.1007/s10648-015-9350-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SSA research and practice should take into account students' expectations about their learning, alongside teacher and curricular expectations. [→ Panadero 2016](#panadero-2016)

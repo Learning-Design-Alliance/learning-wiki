@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: marie-josée-bisson-2014
     resource: "https://doi.org/10.1111/lang.12085"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Participants performed better on old words than new words in the translation recognition task in both block 1 and block 2 of explicit learning. [→ Marie-Josée Bisson 2014](#marie-josee-bisson-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: jie-cao-2026
     resource: "https://doi.org/10.48550/arxiv.2604.07469"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The average number of tasks with three or more submissions negatively predicted post-test scores (B = −0.33, p = .001) and carried a significant negative indirect effect (Ind = −0.19). [→ Jie Cao 2026](#jie-cao-2026)

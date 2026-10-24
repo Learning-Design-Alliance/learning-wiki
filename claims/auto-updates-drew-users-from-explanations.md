@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: tseng-2026
     resource: "https://doi.org/10.48550/arxiv.2607.06721"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the pilot, automatic flowchart updates and code insertion caused flowcharts to grow unwieldy and led participants to skip reviewing explanations in favor of editing code directly. [→ Tseng 2026](#tseng-2026)

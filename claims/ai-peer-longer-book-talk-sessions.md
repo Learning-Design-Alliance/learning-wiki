@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liao-2026
     resource: "https://doi.org/10.1007/s10639-026-13958-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students spent significantly more time on average interacting with the AI than with their human teacher, for Grade 4 (t(11)=2.58, p=.026) and Grade 5 (t(6)=3.97, p=.007). [→ Liao 2026](#liao-2026)

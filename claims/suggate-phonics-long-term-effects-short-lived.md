@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: jeffrey-s-bowers-2021
     resource: "https://doi.org/10.1007/s10648-021-09602-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Suggate (2016) found systematic phonics had the smallest delayed effect size among teaching methods, dropping from d = 0.29 to d = 0.07 after a mean delay of around 1 year. [→ Jeffrey S. Bowers 2021](#jeffrey-s-bowers-2021)

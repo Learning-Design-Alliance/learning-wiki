@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: suleiman-2026
     resource: "https://doi.org/10.48550/arxiv.2607.11129"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructor feedback suggests FORAP packaging reduced the initial effort required to design, organize, adopt, and adapt PjBL activities, though preparation time was not directly measured. [→ Suleiman 2026](#suleiman-2026)

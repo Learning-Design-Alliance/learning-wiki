@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: walsh-2022
     resource: "https://doi.org/10.1016/j.ijcci.2022.100474"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Although the Framework was viewed as a universal intervention, stakeholders argued specific groups had been underserved in digital environments and online safety education, including children in early primary years, children with literacy-level challenges, culturally and linguistically diverse children, children with disability, and Aboriginal and Torres Strait Islander children. [→ Walsh 2022](#walsh-2022)

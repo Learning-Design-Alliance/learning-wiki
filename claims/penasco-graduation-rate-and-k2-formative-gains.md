@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: germain-2025
     resource: "https://learningpolicyinstitute.org/product/new-mexico-community-schools-outcomes-brief"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` After community schools implementation began in 2021-22, Peñasco High's graduation rate increased to over 90% compared to 76% statewide, and elementary K-2 students outpaced state peers on formative reading and math assessments. [→ Germain 2025](#germain-2025)

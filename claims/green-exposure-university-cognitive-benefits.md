@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2022
+source_checked: 2026-10-21
 sources:
   - id: lucia-mason-2022
     resource: "https://doi.org/10.1007/s10648-021-09631-8"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-21 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Hartig et al. (1991, Study 2), university students detected more proofreading errors after walking in a park than after relaxing in a lab or walking in an urban area. [→ Lucia Mason 2022](#lucia-mason-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: graham-2023
     resource: "https://doi.org/10.24059/olj.v27i3.4001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` A confirmatory factor analysis of the three-dimension academic engagement model met all fit-statistic cutoffs (CFI 0.966, TLI 0.956, RMSEA 0.067, SRMR 0.024), supporting the ACE framework's ABC structure. [→ Graham 2023](#graham-2023)

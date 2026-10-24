@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: considerations-for-supporting-a-successful-start-to-the-2020-2021-school-year-for-students-with-disabilities-2020
     resource: "https://eric.ed.gov/?id=ED609257"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The guidance asserts that progress monitoring will be needed to guide next steps in planning and providing instruction and interventions. [→ Considerations for supporting a successful start to the 2020-2021 school year for students with disabilities 2020](#considerations-for-supporting-a-successful-start-to-the-2020-2021-school-year-for-students-with-disabilities-2020)

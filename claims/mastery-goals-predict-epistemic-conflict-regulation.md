@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: darnon-2006
     resource: "https://doi.org/10.1037/0022-0663.98.4.766"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Among French introductory psychology students, mastery goals significantly and positively predicted reported epistemic regulation of a sociocognitive conflict (η² = .27), whereas performance goals did not. [→ Darnon 2006](#darnon-2006)

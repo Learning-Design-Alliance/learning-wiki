@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2003
+source_checked: 2026-10-20
 sources:
   - id: r-schoonen-2003
     resource: "https://doi.org/10.1111/1467-9922.00213"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2003 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study included metacognitive knowledge as one of three components whose relative importance in L1 and L2 writing was modeled and compared. [→ R. Schoonen 2003](#r-schoonen-2003)

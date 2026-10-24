@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: kenneth-r-koedinger-2012
     resource: "http://learnlab.org/datashop"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across eleven datasets, the best machine-generated Q-matrix model achieved lower cross-validated RMSE than both the original in-use model and the best hand-generated model, though the overall improvement was small. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)

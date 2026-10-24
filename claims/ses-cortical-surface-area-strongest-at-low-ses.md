@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: martha-j-farah-2017
     resource: "https://doi.org/10.1038/s41583-018-0023-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Structural MRI studies of children and youth identify regionally specific differences in cortical surface area as a function of family income and parental education, with the SES-surface area relationship strongest at the lowest SES levels. [→ Martha J. Farah 2017](#martha-j-farah-2017)

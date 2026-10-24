@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: tiago-ferreira-2018
     resource: "https://doi.org/10.1037/dev0000458"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Fathers' initial engagement levels and their positive linear growth in engagement both positively predicted children's behavioral self-control at T3, controlling for child age, gender, and T1 self-control. [→ Tiago Ferreira 2018](#tiago-ferreira-2018)

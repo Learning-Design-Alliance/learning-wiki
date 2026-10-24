@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: kohl-1911
     resource: "https://eric.ed.gov/?q=Journal+of+Educational+Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Ranking marks are meaningful only when the percentage of men admitted to each rank follows a recognized standard, such as A 10 per cent and C 40 to 50 per cent. [→ Kohl 1911](#kohl-1911)

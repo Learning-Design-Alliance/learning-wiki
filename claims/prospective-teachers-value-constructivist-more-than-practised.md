@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: eren-2010
     resource: "https://doi.org/10.14221/ajte.2010v35n3.3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Prospective teachers significantly valued constructivist conceptions, making learning explicit, and promoting learning autonomy more than they practised (d = .90, .43, .49). [→ Eren 2010](#eren-2010)

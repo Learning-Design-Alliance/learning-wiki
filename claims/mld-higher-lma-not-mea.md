@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: lai-y-2015
     title: Lai Y 2015
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` ANCOVA on learning mathematics anxiety showed a group effect approaching significance (F(3,90) = 2.67, p = .05, ηp2 = .08), with the MLD group (M = 1.97) significantly higher than LA (M = 1.66), TA (M = 1.55), and HA (M = 1.54) groups. [→ Lai Y 2015](#lai-y-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: pashler-2009
     resource: "https://journals.sagepub.com/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a replicated set of experiments, learners who received help screens matched to their verbal/visual preferences showed no performance advantage, across nearly 20 individual-difference measures. [→ Pashler 2009](#pashler-2009)

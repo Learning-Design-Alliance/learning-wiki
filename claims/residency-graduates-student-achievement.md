@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: guha-2016
     resource: "https://learningpolicyinstitute.org/product/teacher-residency"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A 2015 study of the New Visions Hunter College UTR found students of residents and graduates outperformed those taught by other novice teachers on 16 of 22 comparisons of state Regents exam scores. [→ Guha 2016](#guha-2016)

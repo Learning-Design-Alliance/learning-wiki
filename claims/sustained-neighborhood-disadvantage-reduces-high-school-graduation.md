@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: wodtke-2011
     resource: "https://doi.org/10.1177/0003122411420816"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` IPT-weighted estimates indicate continuous exposure to the least disadvantaged quintile would yield 96% graduation for black children versus 76% under sustained exposure to the most disadvantaged quintile. [→ Wodtke 2011](#wodtke-2011)

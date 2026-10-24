@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: mette-brandt-eriksen-2018
     resource: "https://doi.org/10.5195/jmla.2018.345"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one observational comparison across CINAHL, Embase, and MEDLINE, PICO searches retrieved higher sensitivity and lower precision than PICOS and SPIDER searches, but the models used different numbers of search blocks (PICO: 3, PICOS: 4, SPIDER: 6), so the results are expected on that basis. [→ Mette Brandt Eriksen 2018](#mette-brandt-eriksen-2018)

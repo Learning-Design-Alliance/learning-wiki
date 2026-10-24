@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: feyisa-mulisa-and-tesfa-mezgebu-2026
     resource: "https://doi.org/10.1007/s40979-026-00231-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Participants' views on originality ranged from claiming GenAI-assisted work as their original creation to declaring it did not represent their critical thinking and creativity, with some later coming to view GenAI as a co-author. [→ Feyisa Mulisa and Tesfa Mezgebu 2026](#feyisa-mulisa-and-tesfa-mezgebu-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: anniken-furberg-2016
     resource: "https://doi.org/10.1007/s11412-016-9229-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In post-experiment group work, 73.8% of 122 student help requests concerned cognitive activities; 45.1% were conceptual and 28.7% concerned regulation of cognitive activities. [→ Anniken Furberg 2016](#anniken-furberg-2016)

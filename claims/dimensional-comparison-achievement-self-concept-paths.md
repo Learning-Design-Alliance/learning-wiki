@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: jansen-2020
     resource: "https://nbn-resolving.org/urn:nbn:de:0111-pedocs-220459"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Grades showed strong positive within-domain paths to self-concept (math β = 0.85; German β = 0.75) and negative cross-domain effects on self-concept and value in the other domain. [→ Jansen 2020](#jansen-2020)

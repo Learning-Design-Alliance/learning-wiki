@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: manyee-wong-2015
     resource: "https://doi.org/10.1080/19345747.2013.878011"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Added design elements collectively provide a strong causal warrant when the predictions they engender are complex, the results cohere with the predictions, and no alternative can fit the same pattern of predictions even if it can fit some of them. [→ Manyee Wong 2015](#manyee-wong-2015)

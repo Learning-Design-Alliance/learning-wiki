@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: lampit-a-2014
     title: Lampit A 2014
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i1` small
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across 52 RCTs, CCT versus control yielded a small significant pooled effect (g = 0.22, 95% CI 0.15 to 0.29) after removal of one outlier. [→ Lampit A 2014](#lampit-a-2014)

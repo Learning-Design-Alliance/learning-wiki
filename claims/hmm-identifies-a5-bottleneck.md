@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: feng-z-and-huang-k-2026
     title: Feng Z and Huang K 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The HMM identified A5 (Analytical Thinking) as a learning bottleneck, with a forward transition probability of only 0.31. [→ Feng Z and Huang K 2026](#feng-z-and-huang-k-2026)

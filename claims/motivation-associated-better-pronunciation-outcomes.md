@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: md-abdul-qader-2024
     resource: "https://doi.org/10.5430/wje.v14n3p137"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The review reports, citing Smit (2022), that positive attitudes towards English and high motivation levels are associated with better pronunciation outcomes. [→ Md. Abdul Qader 2024](#md-abdul-qader-2024)

@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research suggests children's reactions to peers with mental health problems relate to the maintenance and outcomes of these problems. [→ ev-background-reactions](#swords-2011)

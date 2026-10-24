@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: thevenot-2018
     resource: "https://eric.ed.gov/?id=ED"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For addition in older adults, presenting the sign before the operands significantly facilitated large (43 ms), small (55 ms), and +1 (34 ms) problems, but not tie (24 ms, p = .31) or +0 (25 ms, F < 1) problems. [→ Thevenot 2018](#thevenot-2018)

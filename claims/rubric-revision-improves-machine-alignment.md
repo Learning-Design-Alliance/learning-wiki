@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: pei-yu-tseng-2026
     resource: "https://doi.org/10.48550/arxiv.2606.23629"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Under the revised rubric with direct evaluation, openness agreement rose from 55.7% to 83.3% and depth agreement from 70.5% to 95.0%. [→ Pei-Yu Tseng 2026](#pei-yu-tseng-2026)

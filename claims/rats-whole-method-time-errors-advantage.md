@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: pechstein-1917
     resource: "https://doi.org/10.1037/h0071944"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rats showed neither advantage nor disadvantage for number of trials under the whole method, but a decided advantage of 13 and 44% respectively for time and errors. [→ Pechstein 1917](#pechstein-1917)

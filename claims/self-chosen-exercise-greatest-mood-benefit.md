@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: basso-julia-c-2017
     resource: "https://doi.org/10.3233/BPL-160040"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In a study comparing fixed low, moderate, and high intensities to self-chosen intensity, the self-chosen condition produced the greatest mood benefits via high enjoyment scores. [→ Basso Julia C. 2017](#basso-julia-c-2017)

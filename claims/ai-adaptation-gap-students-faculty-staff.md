@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: braun-2026
     resource: "https://doi.org/10.48550/arxiv.2608.25063"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i2` Students had significantly higher current AI-use intensity than faculty (g = 0.79) and administrative staff (g = 0.98), and higher perceived usefulness than both groups. [→ Braun 2026](#braun-2026)

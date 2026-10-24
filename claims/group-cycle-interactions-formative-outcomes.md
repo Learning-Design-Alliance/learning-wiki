@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yao-x-c-and-fan-l-2026
     title: Yao X-C and Fan L 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mixed-effects models with student random intercepts yielded significant Group × Cycle interactions for diagnostic accuracy (F(2,188.4) = 3.57, p = 0.030), comprehension (F(2,188.3) = 3.18, p = 0.044), revision quality (F(2,188.6) = 4.02, p = 0.019), and self-assessment accuracy (F(2,187.9) = 10.31, p < 0.001). [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hasnain-heickal-and-andrew-lan-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08807"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At any given attempt, students receiving natural language feedback were approximately 9% more likely to succeed than those receiving no feedback (HR = 1.09, p = 0.03). [→ Hasnain Heickal and Andrew Lan 2026](#hasnain-heickal-and-andrew-lan-2026)

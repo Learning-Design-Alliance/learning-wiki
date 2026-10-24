@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: roembke-tanja-c-2019
     resource: "https://doi.org/10.1037/edu0000279"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Communality analysis showed masked performance uniquely predicted fluency while unmasked performance uniquely predicted decoding. [→ Roembke Tanja C. 2019](#roembke-tanja-c-2019)

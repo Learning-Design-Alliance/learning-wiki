@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: cook-1913
     resource: "https://www.google.com/search?q=%22The+problem+of+sex+education%22+Cook+1913"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The problem of sex is already in the normal child's mind before the fourth grade, so a long indirect approach through nature study achieves neither of a method's technical purposes. [→ Cook 1913](#cook-1913)

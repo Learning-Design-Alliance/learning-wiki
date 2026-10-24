@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: m-danish-shakeel-paul-e-peterson-2022
     resource: "https://doi.org/10.1007/s10648-021-09657-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` TIMSS-PIRLS trends in other countries show larger cohort advances in math (0.24sd) than reading (0.05sd) at grade 4, and in specific countries progress is with one exception always greater in math. [→ M. Danish Shakeel · Paul E. Peterson 2022](#m-danish-shakeel-paul-e-peterson-2022)

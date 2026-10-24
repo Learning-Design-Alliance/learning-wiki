@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Receiving training on effective AI interaction strategies slightly increased teachers' cognitive load while designing with AI. [→ Pishtari 2027](#pishtari-2027)

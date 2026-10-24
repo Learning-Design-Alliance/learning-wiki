@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: soland-2019
     resource: "https://www.nwea.org/research/publication/school-effectiveness-summer-loss-and-federal-accountability-applying-the-compound-polynomialmodel-in-a-program-evaluation-context/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Correlations between school-level fall-to-spring and spring-to-spring growth estimates range from .399 in reading to .705 in math (centered at 2nd grade), all below the .90 threshold Koedel and Betts (2010) identify as consequential for school rankings. [→ Soland 2019](#soland-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: corrective-readingwhat-works-clearinghouse-intervention-report-2007
     resource: "https://www.ed.gov/rschstat/eval/disadv/title1interimreport/index.html"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Significant positive effects appeared on the WRMT–R word identification subtest (ES 0.22) and TOWRE sight word efficiency subtest (ES 0.30), while phonetic decoding efficiency and word attack were not significant. [→ Corrective Reading—What Works Clearinghouse Intervention Report 2007](#corrective-readingwhat-works-clearinghouse-intervention-report-2007)

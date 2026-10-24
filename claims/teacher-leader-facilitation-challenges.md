@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: jeff-archer-2019
     resource: "https://www.mathematica.org/publications/preparing-teacher-leaders-to-lead-professional-learning-insights-from-the-national-writing-project"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Teacher leaders facilitating professional learning may not be familiar with the instructional strategies their colleagues are learning, or may lack the skills needed to support other teachers in learning how to apply them. [→ Jeff Archer 2019](#jeff-archer-2019)

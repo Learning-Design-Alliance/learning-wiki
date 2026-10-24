@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: lovett-2026
     resource: "https://doi.org/10.1177/15344843261470602"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` In an experiment on biased AI recommendations, 80.7% of participants detected errors, demonstrating functional surface validation, but they continued following the erroneous advice, indicating that detecting a problem and overriding an algorithmic recommendation require different cognitive capacities. [→ Lovett 2026](#lovett-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jin-guo-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2606.23315"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across twelve weekly tests, every weekly median reached at least the 100-point credit cap and 201 of 251 observations were at least 100 raw points. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)

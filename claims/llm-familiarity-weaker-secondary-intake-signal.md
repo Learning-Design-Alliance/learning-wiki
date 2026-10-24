@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yongkyung-oh-2026
     resource: "https://doi.org/10.48550/arxiv.2606.18548"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Self-rated familiarity survives Holm correction for distinguishing capability (ρ=.294), complex-task trust (ρ=.278), and critical-thinking risk (ρ=−.254), but not for accuracy trust or training interest. [→ Yongkyung Oh 2026](#yongkyung-oh-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1916
 sources:
   - id: henry-1916
     resource: "https://psycnet.apa.org/journals/edu/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The school's neglect of the emotional side of life is attributed to a mistaken conception of schooling as intellectual training, undervaluation of the emotions, and the absence of any applicable method. [→ Henry 1916](#henry-1916)

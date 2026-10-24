@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: brady-d-lund-and-zoë-abbie-teel-2026
     resource: "https://doi.org/10.48550/arxiv.2607.27547"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A technically sophisticated user operating within AI-as-productivity-tool logic remains a consumer, while a user with modest technical skills who can interrogate AI outputs' assumptions exercises epistemic agency the competency model does not capture. [→ Brady D. Lund and Zoë Abbie Teel 2026](#brady-d-lund-and-zoe-abbie-teel-2026)

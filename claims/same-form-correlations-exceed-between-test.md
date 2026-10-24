@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: geyer-1921
     resource: "https://www.jstor.org/journal/jeduapsy"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reported correlations between two forms of the same test (Otis Forms A and B from 0.74 to 0.94; Snarr 0.79; Colvin averaging 0.83) are much higher than correlations between different tests, leading the author to doubt the tests measure the same element. [→ Geyer 1921](#geyer-1921)

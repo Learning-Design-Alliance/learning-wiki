@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: mixed
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: bates-2013
     resource: "https://doi.org/10.48550/arxiv.1308.2202"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` A chi-squared test found a statistically significant difference (p=0.022) between Physics 1A explanation-quality distributions for 2010 and 2011, with 2011 explanations slightly lower quality. [→ Bates 2013](#bates-2013)

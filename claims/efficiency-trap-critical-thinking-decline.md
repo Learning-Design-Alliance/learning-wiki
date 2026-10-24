@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: wood-2026
     resource: "https://doi.org/10.65201/CJHS2205"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` As AI efficiency increases, human critical thinking may decline when AI performs most of the cognitive work, positioning learners as passive recipients rather than active evaluators. [→ Wood 2026](#wood-2026)

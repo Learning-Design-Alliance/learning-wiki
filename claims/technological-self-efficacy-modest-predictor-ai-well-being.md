@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-2026
     resource: "https://doi.org/10.3390/bs16071168"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Technological self-efficacy positively predicts AI well-being (β = 0.082, p < 0.05), a comparatively modest effect secondary to AI literacy. [→ Liu 2026](#liu-2026)

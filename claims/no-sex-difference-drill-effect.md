@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: brown-1915
     resource: "https://psycnet.apa.org/journals/edu/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The data indicate that boys are neither more nor less influenced by drill than girls; the effect of the drill was practically the same. [→ Brown 1915](#brown-1915)

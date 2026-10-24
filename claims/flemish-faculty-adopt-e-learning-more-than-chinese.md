@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: chang-zhu-2010
     resource: "https://doi.org/10.1080/02619761003631849"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` About 95% of Flemish faculty adopted e-learning versus about 30% of Chinese faculty, and 27% of Flemish versus 8% of Chinese faculty adopted online collaborative learning. [→ Chang Zhu 2010](#chang-zhu-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: pandey-a-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6059379/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Meta-analysis of 19 studies measuring SR via task performance scores found a statistically significant pooled effect favoring intervention (d = 0.42; 95% CI, 0.32-0.53). [→ Pandey A 2018](#pandey-a-2018)

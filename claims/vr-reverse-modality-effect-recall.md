@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-19
 sources:
   - id: patrick-albus-2023
     resource: "https://doi.org/10.1007/s11251-022-09611-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Participants learning in VR with visual-only text scored significantly higher on recall than those with audio-visual text. [→ Patrick Albus 2023](#patrick-albus-2023)

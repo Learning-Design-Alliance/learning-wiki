@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: laura-desiree-di-paolo-2026
     resource: "https://doi.org/10.1038/s44271-026-00522-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Awareness of hallucination can itself become a pedagogical resource, making verification, source-checking and collaborative fact evaluation integral rather than optional components of AI-supported learning. [→ Laura Desiree Di Paolo 2026](#laura-desiree-di-paolo-2026)

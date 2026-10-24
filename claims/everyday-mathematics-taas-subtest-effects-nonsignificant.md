@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: waite-subtests
     title: waite-subtests
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Supplemental TAAS subtest analyses showed effect sizes of 0.25 (Concepts), 0.26 (Operations), and 0.31 (Problem Solving), all favoring the intervention group, with WWC-computed p-values of .34, .32, and .25 after clustering correction. [→ waite-subtests](#waite-subtests)

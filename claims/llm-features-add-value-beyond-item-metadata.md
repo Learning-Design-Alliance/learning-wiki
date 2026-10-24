@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: pooya-razavi-2026
     resource: "https://doi.org/10.1016/j.ijaied.2026.100015"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Full models combining metadata with LLM-rated features improved on metadata-only models: reading RF cut RMSE 17.6% and math GBM cut RMSE 11.2% versus the strongest metadata-only baselines, on average. [→ Pooya Razavi 2026](#pooya-razavi-2026)

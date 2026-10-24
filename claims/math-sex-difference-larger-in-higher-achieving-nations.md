@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: stoet-g-2013
     title: Stoet G 2013
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Economically developed countries with strong gender-equality scores tended to have a larger sex difference in mathematics than less economically developed countries (5.4 vs 10.5 points for non-OECD vs OECD countries, t(73) = −2.5, p = .02). [→ Stoet G 2013](#stoet-g-2013)

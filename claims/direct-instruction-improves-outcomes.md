@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: direct-instruction-improves-outcomes
 evidence_strength:
+newest_evidence: 2018
 sources:
   - id: stockard-et-al-2018
     resource: "https://doi.org/10.3102/0034654317751919"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=328 studies / ~4,000 effects
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence): Direct instruction improves learning outcomes -->
 
 Explicit, teacher-led instruction — clear objectives, modeling, guided practice with feedback, and independent practice — produces stronger learning outcomes than discovery-only approaches, particularly for novices and structured domains.

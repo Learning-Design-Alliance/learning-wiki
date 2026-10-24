@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-08
 sources:
   - id: project-criss-creating-independence-through-student-owned-strategies-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/388"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2010 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In a randomized controlled trial across ten low-income districts, Project CRISS® showed no statistically significant effects on the GRADE passage comprehension subtest or on ETS science or social studies comprehension assessments in grade 5. [→ Project CRISS® (CReating Independence through Student-owned Strategies) 2010](#project-criss-creating-independence-through-student-owned-strategies-2010)

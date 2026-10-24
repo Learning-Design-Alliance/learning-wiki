@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: kristin-hallgren-2017
     resource: "https://www.mathematica.org/publications/the-atlanta-public-schools-turnaround-strategy-after-one-year-high-impact-tutoring-and-the-purpose"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The first interim annual report of the APS Turnaround Strategy evaluation presents implementation and impact findings from 2016-17, with in-depth analysis of High Impact Tutoring and the Purpose Built Schools partnership's operation of Thomasville Heights Elementary. [→ Kristin Hallgren 2017](#kristin-hallgren-2017)

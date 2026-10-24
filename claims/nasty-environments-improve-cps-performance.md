@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: joachim-funke-2009
     resource: "https://doi.org/10.1007/s10339-009-0345-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a Tailorshop experiment, nasty environments (hard to increase capital, mostly negative feedback) increased negative and decreased positive affect, and led to higher information retrieval and better CPS performance than nice environments. [→ Joachim Funke 2009](#joachim-funke-2009)

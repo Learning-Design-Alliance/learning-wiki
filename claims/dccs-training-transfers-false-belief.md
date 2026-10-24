@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: buttelmann-f-and-karbach-j-2017
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children trained on the DCCS showed larger improvements on the DCCS and a false-belief task than control children, and outperformed controls on a novel DCCS version. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)

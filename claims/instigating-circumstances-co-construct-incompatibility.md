@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: kennedy-2024
     resource: "https://doi.org/10.3102/00346543231202509"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Loaded moments emerge when specific instigating circumstances are co-constructed, referring to incompatibilities between teacher and student(s). [→ Kennedy 2024](#kennedy-2024)

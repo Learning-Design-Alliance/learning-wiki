@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: 5essentials-survey-new-insights-for-school-leaders-2026
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The brief reports that when Supportive Environment improves, the other essential supports often improve. [→ 5Essentials Survey: New insights for school leaders 2026](#5essentials-survey-new-insights-for-school-leaders-2026)

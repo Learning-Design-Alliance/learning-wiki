@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: hou-2025
     resource: "https://doi.org/10.1007/s11409-025-09442-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Correct submissions were positively correlated with exam 1 scores (r = .28), incorrect submissions were negatively correlated with exam scores (r = −.40), and incorrect submissions were negatively correlated with accessing solutions (r = −.21). [→ Hou 2025](#hou-2025)

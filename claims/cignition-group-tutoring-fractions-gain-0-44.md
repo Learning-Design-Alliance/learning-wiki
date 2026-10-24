@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: catherine-pratt-2023
     resource: "https://www.mathematica.org/publications/impacts-of-cignition-group-tutoring-on-students-math-knowledge-and-perceptions"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students who participated in Cignition virtual group tutoring scored 9 percentage points higher on the Cignition fractions assessment than control group students, an effect size of 0.44 standard deviations. [→ Catherine Pratt 2023](#catherine-pratt-2023)

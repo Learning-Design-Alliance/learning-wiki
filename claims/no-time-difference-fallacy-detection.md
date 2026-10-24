@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: felix-sachs-1913
     resource: "https://www.jstor.org/journal/jeducpsyc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average time per example was 2.21 minutes for the tutored group and 2.05 minutes for the class group, from which the author draws no conclusions. [→ Felix Sachs 1913](#felix-sachs-1913)

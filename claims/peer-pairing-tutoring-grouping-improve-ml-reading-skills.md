@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: kittle-2024
     resource: "https://doi.org/10.1007/s10648-024-09942-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Peer pairing, peer tutoring, and small collaborative/cooperative groupings were effective in improving MLs' English PA across grade levels, regardless of language of instruction, and also improved English decoding and fluency compared to teacher-mediated comparison conditions. [→ Kittle 2024](#kittle-2024)

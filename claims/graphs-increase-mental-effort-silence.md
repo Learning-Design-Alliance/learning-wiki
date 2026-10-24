@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: ögren-2017
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants spoke less when problems included a graph; the proportion of silence rose from 62.3% to 66.3% in the multimedia condition. [→ Ögren 2017](#ogren-2017)

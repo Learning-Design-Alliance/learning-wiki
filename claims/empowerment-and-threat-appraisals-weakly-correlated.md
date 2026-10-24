@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zhu-k-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1940317"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` The correlation between perceived AI empowerment and perceived AI threat is weak and non-significant (r = 0.030). [→ Zhu K 2026](#zhu-k-2026)

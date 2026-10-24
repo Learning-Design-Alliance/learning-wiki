@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: grayson-2026
     resource: "https://eric.ed.gov/?id=ED681323"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Local pilot data revealed that some BLA educators did not choose bilingual instructional roles and others left bilingual roles while remaining in the same school or district. [→ Grayson 2026](#grayson-2026)

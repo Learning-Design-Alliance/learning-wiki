@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: stevens-courtney-2009
     resource: "https://doi.org/10.1111/j.1467-7687.2009.00807.x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In its discussion, this ERP study's review of earlier work attributes to several studies that attention can be trained and that effective interventions exist for improving attention in children of all ages. [→ Stevens Courtney 2009](#stevens-courtney-2009)

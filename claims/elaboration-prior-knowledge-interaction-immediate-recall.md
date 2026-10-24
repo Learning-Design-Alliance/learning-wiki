@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: floris-m-van-blankenstein-2013
     resource: "https://doi.org/10.1007/s11251-012-9252-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` On the immediate posttest, the interaction between elaboration and relevant prior knowledge approached significance, F(1, 62) = 3.79, p = .06, η² = .06 (medium effect). [→ Floris M. Van Blankenstein 2013](#floris-m-van-blankenstein-2013)

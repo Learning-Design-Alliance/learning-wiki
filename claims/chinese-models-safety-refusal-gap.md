@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yilin-jiang-2026
     resource: "https://doi.org/10.48550/arxiv.2608.09548"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` U.S.-developed systems decline 39.5–50.4% of refusable requests while three of four Chinese-developed general models decline 94.7–99.0% and the safety-specialized variant declines 99.7%. [→ Yilin Jiang 2026](#yilin-jiang-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: erica-l-snow-2016
     resource: "https://doi.org/10.1007/s40593-015-0085-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Shuffled surrogate series produced smaller Hurst exponents than intact series (t(39) = 156.90, p < .001), supporting the reliability of the observed exponents. [→ Erica L. Snow 2016](#erica-l-snow-2016)

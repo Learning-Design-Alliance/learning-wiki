@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: bellon-e-2016
     title: Bellon E 2016
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Inhibition skills did not significantly predict arithmetic fact retrieval in a simultaneous regression controlling for numerical magnitude processing, intellectual ability and motor reaction time. [→ Bellon E 2016](#bellon-e-2016)

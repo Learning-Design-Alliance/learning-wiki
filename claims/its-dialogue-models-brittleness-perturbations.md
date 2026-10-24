@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: meriem-zerkouk-2025
     resource: "https://doi.org/10.48550/arxiv.2507.18882"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review reports that small perturbations such as minor spelling errors or input phrasing can reduce response accuracy by over 30%, exposing brittleness of dialogue and assessment models outside their training distribution. [→ Meriem Zerkouk 2025](#meriem-zerkouk-2025)

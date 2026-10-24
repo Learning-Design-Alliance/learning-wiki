@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: andrew-j-martin-2023
     resource: "https://doi.org/10.1007/s10648-023-09774-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Longitudinal analysis of Wheel data supports a cyclical process in which prior motivation is an impetus for subsequent engagement, and prior engagement also predicts subsequent motivation. [→ Andrew J. Martin 2023](#andrew-j-martin-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: abdelghani-2026
     resource: "https://doi.org/10.48550/arxiv.2606.28472"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the static block was included, temporal features increased explained variance from R2 = .185 to R2 = .281 (∆R2 = .096, F(2,81) = 5.43, p = .006). [→ Abdelghani 2026](#abdelghani-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: corrective-readingwhat-works-clearinghouse-intervention-report-2007
     resource: "https://www.ed.gov/rschstat/eval/disadv/title1interimreport/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 25 studies reviewed, only one randomized controlled trial met WWC evidence standards; the extent of evidence is rated small for alphabetics, fluency, and comprehension, and no eligible studies addressed general reading achievement. [→ Corrective Reading—What Works Clearinghouse Intervention Report 2007](#corrective-readingwhat-works-clearinghouse-intervention-report-2007)

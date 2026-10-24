@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Confirmatory factor analysis showed the 6-dimensional model defined by Klauer's theory fitted significantly better than the 1-dimensional model (chi-squared difference test chi2 = 2317.05, p < .01). [→ Pásztor 2022](#pasztor-2022)

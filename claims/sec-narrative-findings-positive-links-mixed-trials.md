@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nguyen-2026
     resource: "https://doi.org/10.1007/s10648-026-10218-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among quantitative cross-sectional and mixed-method studies, 45 studies (68%) found positive links between teachers' and students' SEC domains. [→ Nguyen 2026](#nguyen-2026)

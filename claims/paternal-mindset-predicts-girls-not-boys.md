@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: jiao-chen-and-chunhui-liu-2023
     resource: "https://doi.org/10.3389/fpsyg.2023.1110944"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In multiple-group analyses, the path from fathers' growth mindset intercept to children's intercept differed by child gender (χ2(1) = 4.154, p < 0.042): significant for girls (β = 0.253, p = 0.014) but not boys (β = −0.038, p = 0.709). [→ Jiao Chen and Chunhui Liu 2023](#jiao-chen-and-chunhui-liu-2023)

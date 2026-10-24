@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: peer-assessment-benefits-assessor
 evidence_strength:
+newest_evidence: 2020
 sources:
   - id: li-et-al-2020
     resource: "https://doi.org/10.1080/02602938.2019.1620679"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 associational `r2` · `q2`–`q4` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Peer Assessment Benefits Assessor -->
 
 The act of assessing peers' work is proposed to produce learning gains for the assessor, not only for the assessee; the evidence recorded here is a correlational study of the assessor side and a meta-analysis that pools both roles. This page concerns the assessor-side benefit: reviewing, judging, and giving feedback on another learner's work as a learning activity in its own right.

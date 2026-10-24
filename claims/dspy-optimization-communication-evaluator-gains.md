@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ethan-chew-2026
     resource: "https://doi.org/10.48550/arxiv.2606.18319"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` After DSPy optimization, evaluator performance improved for accuracy (83.8 to 91.7%), brevity (85.5 to 89.7%), and completeness (81.5 to 88.1%), measured by inverted MAE on held-out sets. [→ Ethan Chew 2026](#ethan-chew-2026)

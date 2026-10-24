@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: authentic-audiences-improve-student-work
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: cohen-riel-1989
     resource: "https://doi.org/10.3102/00028312026002143"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r2`, 1 review `r?` · `q2`–`q3`
+> **Currency** · newest study 2019 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 When students write, present, or create for a real audience beyond the teacher — community members, experts, online publics, or peers with a genuine stake — the quality, effort, and revision of their work improves. The mechanism is motivational and rhetorical: a genuine recipient changes what students believe their work is *for*.
 

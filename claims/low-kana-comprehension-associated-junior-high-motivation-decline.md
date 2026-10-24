@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: mizuno-k-2011
     resource: "https://doi.org/10.1186/1744-9081-7-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In multivariate logistic regression adjusted for grade and gender, lower story comprehension scores on the kana pick-out test were positively correlated with prevalence of decrease in intrinsic academic motivation (p for trend = .006). [→ Mizuno K 2011](#mizuno-k-2011)

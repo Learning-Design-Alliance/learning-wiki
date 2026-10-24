@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: ishari-amarasinghe-davinia-hernández-leo-h-ulrich-hoppe-2021
     resource: "https://doi.org/10.1007/s11412-021-09351-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-activity questionnaire ratings on a 1–20 scale showed the lowest average perceived cognitive load in the mirroring condition, contrary to the expectation that guiding would yield lower load. [→ Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe 2021](#ishari-amarasinghe-davinia-hernandez-leo-h-ulrich-hoppe-2021)

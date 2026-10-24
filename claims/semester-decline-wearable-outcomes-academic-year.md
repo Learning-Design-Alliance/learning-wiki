@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` RMSSD declined from 66.9 ms at Week 1 to 63.4 ms at Week 33, a 5.2% reduction in cardiac autonomic function. [→ semester-rmssd](#semester-rmssd)

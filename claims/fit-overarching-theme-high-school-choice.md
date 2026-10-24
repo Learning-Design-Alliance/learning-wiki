@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: andria-shyjka-2021
     resource: "https://consortium.uchicago.edu/publications/student-experience-with-the-high-school-choice-process-in-Chicago-Public-Schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Consideration of fit—the specific alignment between student and school—was an overarching theme in all focus groups across all phases of the choice process. [→ Andria Shyjka 2021](#andria-shyjka-2021)

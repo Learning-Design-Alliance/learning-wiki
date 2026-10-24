@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2004
+source_checked: 2026-10-20
 sources:
   - id: marrs-2004
     resource: "https://doi.org/10.1187/cbe.03-11-0022"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2004 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over 94% of N100 students (n = 184) reported cooperative learning exercises were highly or very useful for promoting understanding. [→ Marrs 2004](#marrs-2004)

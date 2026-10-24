@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: lemke-2025
     resource: "https://eric.ed.gov/?id=ED677571"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` School-level factors like higher concentrations of students from low income backgrounds correlated with increased likelihood of repeated risk identification, and historically underserved students in more racially segregated districts were slightly more likely to be identified as significantly below benchmark multiple times. [→ Lemke 2025](#lemke-2025)

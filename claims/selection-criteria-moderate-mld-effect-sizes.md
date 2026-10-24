@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kroesbergen-2023
     resource: "https://doi.org/10.3102/00346543221132773"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For mathematics, samples with a one-SD cutoff showed smaller discrepancies from controls than two-SD-cutoff samples, and specificity-selected samples showed larger mathematics discrepancies (p = .002). [→ Kroesbergen 2023](#kroesbergen-2023)

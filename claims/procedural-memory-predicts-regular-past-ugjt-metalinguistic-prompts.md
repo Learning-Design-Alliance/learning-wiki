@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: yusuke-sato-2023
     resource: "https://doi.org/10.52598/jpll/5/1/4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Among learners receiving metalinguistic prompts, procedural memory (SRT) significantly predicted immediate UGJT posttest scores for regular past tense forms (β = .33, p = .00), but was not a significant predictor for the recast or explicit correction groups. [→ Yusuke Sato 2023](#yusuke-sato-2023)

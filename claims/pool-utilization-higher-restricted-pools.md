@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: li-2019
     resource: "https://www.nwea.org/research/publication/simulation-study-for-evaluating-map-growth-item-pools-with-grade-level-constraints/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In mathematics tests, item use was higher with the on-grade pool (mean 53.7%) than the ±1-grade (46.3%) or all-grade (39.5%) pools, and use rates were relatively lower in simulations with off-grade simulees. [→ Li 2019](#li-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: li-2019
     resource: "https://www.nwea.org/research/publication/simulation-study-for-evaluating-map-growth-item-pools-with-grade-level-constraints/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SEMs were uniformly larger for off-grade simulees than on-grade simulees across all pool types, with the largest increase for the on-grade pool (SEM range 2.98–5.8 versus 2.95–3.39 for the all-grade pool in mathematics). [→ Li 2019](#li-2019)

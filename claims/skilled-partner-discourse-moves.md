@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: song-2023
     resource: "https://academiccommons.columbia.edu/doi/Song_columbia_0054D_18218"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The more skilled adult partner displayed skilled forms of counterargument and use of evidence, frequent questioning of the partner's statements, and meta-talk about the discourse itself. [→ Song 2023](#song-2023)

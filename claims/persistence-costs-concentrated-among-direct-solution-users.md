@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-15
 sources:
   - id: grace-liu-2026
     resource: "https://arxiv.org/abs/2604.04721"
@@ -48,6 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (4 entries) · 1 causal `r2`, 1 theoretical `r3` · `q2` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 4 of 4 entries) · not reviewed by a person
 
 ## Subclaims
 

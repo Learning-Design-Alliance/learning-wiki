@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: cancela-j-2019
     resource: "https://www.jstage.jst.go.jp/article/jpts/31/7/31_17-478/_article"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Multivariate regression shows inhibition/interference associated with resistance strength (β=0.22) and balance (β=−0.87), working memory with flexibility, cognitive flexibility with resistance strength (β=−0.39) and agility (β=−0.31), and social skills only with resistance strength (β=0.36). [→ Cancela J 2019](#cancela-j-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: slepkov-2013
     resource: "https://doi.org/10.48550/arxiv.1308.4365"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an anonymous post-midterm survey, of 26 responders thirteen were highly positive, ten positive, two neutral, one negative, and none highly negative about the IF-AT technique. [→ Slepkov 2013](#slepkov-2013)

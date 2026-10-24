@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: puranik-2014
     resource: "https://doi.org/10.1002/rrq.79"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In confirmatory factor analysis of 372 preschoolers, the hypothesized three-factor model fit the emergent writing data better than one-factor and two-factor alternative models. [→ Puranik 2014](#puranik-2014)

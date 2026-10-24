@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1993
+recheck_by: 1998
 sources:
   - id: bryk-1993
     resource: "https://consortium.uchicago.edu/publications/view-elementary-schools-state-reform-chicago"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1998**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Adversarial politics is considerably less likely in schools with fewer than 350 students. [→ Bryk 1993](#bryk-1993)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: marisa-de-la-torre-2009
     resource: "https://consortium.uchicago.edu/publications/changing-schools-look-student-mobility-trends-chicago-public-schools-1995"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The summer in-mobility gap between African American elementary students and other students grew from about 2 points in 2000 to almost 7 points by 2007, driven largely by within-district transfer rate differences. [→ Marisa de la Torre 2009](#marisa-de-la-torre-2009)

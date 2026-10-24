@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: grayson-2026
     resource: "https://eric.ed.gov/?id=ED681323"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under the Local Control Funding Formula, class-size incentives end after grade 3, making it difficult to fund full bilingual classes as cohorts advance to grade 4 and causing unintended program attrition. [→ Grayson 2026](#grayson-2026)

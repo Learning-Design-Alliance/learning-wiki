@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: what-works-clearinghouse-2018
     resource: "https://whatworks.ed.gov"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the comprehension domain, Tracey and Young reported a substantively important positive effect while Hill and Lenard reported an indeterminate effect. [→ What Works Clearinghouse 2018](#what-works-clearinghouse-2018)

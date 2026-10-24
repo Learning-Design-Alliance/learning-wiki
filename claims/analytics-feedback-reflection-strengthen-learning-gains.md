@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-16
 sources:
   - id: kelly-mcneil-2026
     resource: "https://digitalpromise.dspacedirect.org/items/5b9d16cb-7253-49d0-9d95-e510b6951d4b"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Embedded analytics, timely feedback, and structured reflection in games and simulations strengthen conceptual consolidation and learning gains. [→ Kelly McNeil 2026](#kelly-mcneil-2026)

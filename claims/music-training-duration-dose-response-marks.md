@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: olive-emil-wetter-2009
     resource: "https://doi.org/10.1007/s11251-008-9052-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In grade 3, music children (M=5.42, SD=.31) did not differ significantly from controls (M=5.33, SD=.37), t(43)=.88, p=.383; in grade 6, music children (M=5.21, SD=.41) scored significantly higher than controls (M=4.80, SD=.45), t(25)=2.48, p<.05. [→ Olive Emil Wetter 2009](#olive-emil-wetter-2009)

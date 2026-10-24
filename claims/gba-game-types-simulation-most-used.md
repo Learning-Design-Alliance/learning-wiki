@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: su-2024
     resource: "https://doi.org/10.34105/j.kmel.2024.16.021"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Simulation games constituted the highest usage among reviewed GBA studies (N = 7, 33%), followed by immersive (N = 6, 29%) and video games (N = 5, 24%); gamification, board, and puzzle games were each applied once (N = 1, 5%). [→ Su 2024](#su-2024)

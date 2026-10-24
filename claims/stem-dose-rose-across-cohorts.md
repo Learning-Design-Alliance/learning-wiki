@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: wai-2004
     resource: "https://scholar.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Median STEM dose level increased from 1 in the 1972-74 talent search cohort, to 3 in the 1976-78 cohort, to 5 in the 1980-83 cohort. [→ Wai 2004](#wai-2004)

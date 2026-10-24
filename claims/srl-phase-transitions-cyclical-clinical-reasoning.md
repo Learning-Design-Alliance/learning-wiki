@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: cloude-2025
     resource: "https://doi.org/10.1007/s11251-025-09729-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most frequent SRL phase dyad was Forethought→Performance (25%), followed by Performance→Forethought (21%), Performance→Self-reflection (14%), and Self-reflection→Performance (11%). [→ Cloude 2025](#cloude-2025)

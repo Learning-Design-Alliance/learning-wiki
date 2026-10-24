@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: andrea-boyle-2014
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Teacher survey respondents in all 11 schools reported participating in ELL-related PD during 2011–12, with ELL-related PD on average less than 20 percent of total PD hours. [→ Andrea Boyle 2014](#andrea-boyle-2014)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: md-abdul-qader-2024
     resource: "https://doi.org/10.5430/wje.v14n3p137"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Scarcity of language labs, audio-visual aids and pronunciation software, together with large class sizes, limits individualized attention and personalized feedback for pronunciation teaching in Bangladesh. [→ Md. Abdul Qader 2024](#md-abdul-qader-2024)

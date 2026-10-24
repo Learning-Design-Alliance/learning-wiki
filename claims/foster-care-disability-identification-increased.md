@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: ximenes-barrat-2025
     resource: "https://www.wested.org/resource/revisiting-californias-invisible-achievement-gap/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The percentage of California students in foster care identified with at least one disability rose from 23 percent in 2014–15 to 31 percent in 2022–23, nearly three times the rate for all students. [→ Ximenes Barrat 2025](#ximenes-barrat-2025)

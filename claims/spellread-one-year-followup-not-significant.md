@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: followup-findings
     title: followup-findings
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Supplemental one-year follow-up findings from Torgesen et al. (2007) showed small, non-significant effect sizes, including –0.06 for WRMT-R Passage Comprehension and –0.07 for the Oral Reading Fluency test. [→ followup-findings](#followup-findings)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1918
 sources:
   - id: e-b-skaggs-1918
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author finds the low correlation difficult to explain, ruling out the grading system and noting that conflicting results are reported across schools and investigators. [→ E. B. Skaggs 1918](#e-b-skaggs-1918)

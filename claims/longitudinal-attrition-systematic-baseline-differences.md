@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: john-t-e-richardson-2017
     resource: "https://doi.org/10.1007/s10648-017-9410-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Watkins and Hattie's longitudinal survey, first-year questionnaire scores differed systematically and significantly among students who continued and participated, those who dropped out, and those who declined the follow-up. [→ John T. E. Richardson 2017](#john-t-e-richardson-2017)

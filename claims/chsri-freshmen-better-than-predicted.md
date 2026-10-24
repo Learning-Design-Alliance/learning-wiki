@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: david-stevens-2008
     resource: "https://consortium.uchicago.edu/publications/lessons-high-performing-small-high-schools-chicago"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The three sampled schools were selected because their freshmen outperformed similar students at similar schools on on-track rates and/or GPAs in 2005-06 and 2006-07, even though CHSRI freshmen entered with lower prior achievement than the CPS average. [→ David Stevens 2008](#david-stevens-2008)

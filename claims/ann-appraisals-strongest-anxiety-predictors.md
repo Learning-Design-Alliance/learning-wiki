@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jiang-h-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1951992"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In cross-validated ANN prediction, self-efficacy was the most important predictor of AI learning anxiety, followed by perceived usefulness. [→ Jiang H 2026](#jiang-h-2026)

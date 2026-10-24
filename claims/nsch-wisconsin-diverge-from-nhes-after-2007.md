@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: eric-isenberg-2016
     resource: "https://www.mathematica.org/publications/using-survey-data-sets-to-study-homeschooling"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` NSCH and Wisconsin data track the NHES estimates closely until 2007 and then diverge, showing a flat or slightly downward trend from 2007 to 2012. [→ Eric Isenberg 2016](#eric-isenberg-2016)

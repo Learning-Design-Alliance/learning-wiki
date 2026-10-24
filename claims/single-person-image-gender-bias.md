@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: erfan-entezami-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28483"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Single-person images show significant gender bias with strong effect sizes (GPT Image 2: p<0.001, V=0.64; Imagen 4: p<0.001, V=0.65), with the majority of depicted individuals being men. [→ Erfan Entezami 2026](#erfan-entezami-2026)

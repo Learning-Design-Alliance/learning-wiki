@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: kuhfeld-2019
     resource: "http://www.edworkingpapers.com/ai19-137"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In every year since 2010, female students scored higher than males in both math and reading at school entry; the 2017 reading gap (0.16 SD) did not differ significantly from 2010, while the math gap narrowed from 0.09 to 0.05 SD. [→ Kuhfeld 2019](#kuhfeld-2019)

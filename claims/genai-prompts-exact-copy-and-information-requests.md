@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: zhao-qianhui-and-li-shuhui-2026
     resource: "https://doi.org/10.3390/bs16091626"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of 310 prompts, 47.1% were exact copies of instructions and 97.7% were information requests, while only 1.6% were review requests. [→ Zhao Qianhui and Li Shuhui 2026](#zhao-qianhui-and-li-shuhui-2026)

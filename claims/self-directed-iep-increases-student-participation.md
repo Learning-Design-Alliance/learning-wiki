@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: self-directed-iep-increases-student-participation
 evidence_strength:
+newest_evidence: 2006
 sources:
   - id: martin-et-al-2006
     resource: "https://doi.org/10.1177/001440290607200303"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1` · `q1`–`q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 When students with disabilities lead their own Individualized Education Program (IEP) meetings — preparing materials, setting goals, and presenting to the team — they participate more actively in special education planning than students whose IEPs are run entirely by adults.
 

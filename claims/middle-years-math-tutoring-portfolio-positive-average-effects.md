@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: conroy-2023
     resource: "https://www.mathematica.org/publications/selecting-and-supporting-math-tutoring-programs-recommendations-for-school-districts"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The eight tutoring programs evaluated in the Middle Years Math project had positive and meaningful average effects on student knowledge, perceptions, and beliefs about math. [→ Conroy 2023](#conroy-2023)

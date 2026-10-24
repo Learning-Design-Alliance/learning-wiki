@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: julia-a-gwynne-and-jennifer-r-cowhy-with-r-steven-quispe-2018
     resource: "https://consortium.uchicago.edu/publications/getting-ready-common-core-state-standards-experiences-cps-teachers-and-administrators"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 20 to 25 percent of teachers felt being accountable for unaligned tests was a great-extent barrier, versus nearly 50 percent of administrators in 2015. [→ Julia A. Gwynne and Jennifer R. Cowhy with R. Steven Quispe 2018](#julia-a-gwynne-and-jennifer-r-cowhy-with-r-steven-quispe-2018)

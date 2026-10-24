@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: blackburne-lk-2014
     title: Blackburne LK 2014
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the P1 component (100–150 ms), the group x condition interaction was significant; adults showed a significantly more positive-going amplitude for reversed than typical letters, whereas children showed no reliable difference. [→ Blackburne LK 2014](#blackburne-lk-2014)

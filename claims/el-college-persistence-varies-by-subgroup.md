@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: de-la-torre-2024
     resource: "https://consortium.uchicago.edu/publications/english-learners-in-chicago-public-schools-a-spotlight-on-high-school-students"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Late-arriving English Learners had a 78% two-year persistence rate in four-year colleges and former English Learners 74%, compared to a 70% district average. [→ de la Torre 2024](#de-la-torre-2024)

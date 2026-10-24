@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: norah-almousa-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28026"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the composition course, the teacher shows significant feedback focus changes across draft stages in five types (Task Constraints, Elaboration, Clarification, Mistakes, Praise), while the closest model, Mistral-24B, shows significant changes in only three, and some models show none. [→ Norah Almousa 2026](#norah-almousa-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: samantha-a-marshall-2025
     resource: "https://doi.org/10.1007/s11251-025-09740-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the focal teacher called himself a 'shitty teacher' and persisted in negative self-critique, the conversation evolved into a discussion of how students' parents lack authority. [→ Samantha A. Marshall 2025](#samantha-a-marshall-2025)

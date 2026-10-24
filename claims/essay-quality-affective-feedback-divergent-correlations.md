@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: banihashem-2024
     resource: "https://doi.org/10.1186/s41239-024-00455-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` As essay quality improves, ChatGPT tends to provide more affective feedback while peers tend to provide less affective feedback. [→ Banihashem 2024](#banihashem-2024)

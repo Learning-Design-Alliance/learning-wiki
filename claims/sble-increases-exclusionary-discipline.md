@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: fisher-2023
     resource: "https://doi.org/10.1002/cl2.1360"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Schools with SBLE had higher rates of crime and behavior problems than schools without SBLE, primarily driven by higher exclusionary discipline, with no detectable improvements to school crime or violence. [→ Fisher 2023](#fisher-2023)

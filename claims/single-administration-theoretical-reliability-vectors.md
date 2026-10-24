@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: chakrabartty-2021
     resource: "https://dx.doi.org/10.52380/ijpes.2021.8.3.190"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using an iterative parallel-half split and the lengths of the two subtest score vectors and the angle between them, error variance and theoretically defined reliability (rtt = ST²/SX²) can be estimated from a single administration. [→ Chakrabartty 2021](#chakrabartty-2021)

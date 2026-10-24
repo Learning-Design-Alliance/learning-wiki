@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shahin-hossain-2026
     resource: "https://doi.org/10.48550/arxiv.2606.28749"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 13.0% of SUR361 respondents reported principled non-use of AI for ethical reasons, and this abstention-mode population is not detectable through scale scores alone. [→ Shahin Hossain 2026](#shahin-hossain-2026)

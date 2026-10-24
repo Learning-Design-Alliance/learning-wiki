@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-18
 sources:
   - id: yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022
     resource: "https://doi.org/10.1007/s11412-022-09380-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across four classes, joy was the most frequently manifested emotion (53.16%) in Knowledge Building inquiry threads, followed by confusion (15.53%), anxiety (10.93%), and curiosity (9.07%), while surprise (2.17%) and boredom (1.41%) were less frequent. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022)

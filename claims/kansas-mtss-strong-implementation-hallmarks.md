@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: reedy-2015
     resource: "http://www.kansasmtss.org/pdf/ex_eval/2015_KS_MTSS_Eval_Report.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schools implementing MTSS demonstrate strong leadership, high-quality core curriculum, instruction, and assessment, an empowering culture with increased teacher collaboration, data use, ongoing professional development, and alignment of school improvement initiatives. [→ Reedy 2015](#reedy-2015)

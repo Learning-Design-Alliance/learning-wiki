@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: greenberg-anastasia-2013
     resource: "https://doi.org/10.1016/j.cogdev.2012.10.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Bilingual children obtained higher proportion-correct scores than monolingual children on the perspective-taking task across observer positions. [→ Greenberg Anastasia 2013](#greenberg-anastasia-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: gunderson-elizabeth-a-2011
     resource: "https://doi.org/10.1111/j.1467-7687.2011.01050.x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a model with SES, small-set and large-set present-object talk as predictors, large-set talk remained significant (β=.37, p<.05) while small-set talk did not (β=.07, n.s.). [→ Gunderson Elizabeth A. 2011](#gunderson-elizabeth-a-2011)

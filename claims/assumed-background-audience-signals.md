@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants flagged explanations that assumed prior knowledge or domain familiarity (e.g., sports and gaming references) the student did not have. [→ assumed-background](#assumed-background)

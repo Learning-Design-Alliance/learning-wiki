@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: charlotte-zenner-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.00603"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies identified factors facilitating successful implementation (teaching with colleagues, administrative and parental support, children's enthusiasm) and hindering factors (lack of time, students failing to engage). [→ Charlotte Zenner 2014](#charlotte-zenner-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: jacob-2019
     resource: "https://aspredicted.org/sv3zv.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Oral explanations contained more personal references than written explanations, t(77) = 2.20, p = .033, d = 0.50. [→ Jacob 2019](#jacob-2019)

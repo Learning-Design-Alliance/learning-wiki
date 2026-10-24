@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kate-place-2023
     resource: "https://www.mathematica.org/publications/testing-new-approaches-to-math-tutoring-lessons-from-eight-evaluations"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Programs with moderate to large effects had high student attendance, necessary staffing, and logistics such as scheduling in place, while programs with smaller effects faced implementation challenges and lower attendance. [→ Kate Place 2023](#kate-place-2023)

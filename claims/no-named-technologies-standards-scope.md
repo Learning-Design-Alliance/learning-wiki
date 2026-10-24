@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: helen-crompton-2026
     resource: "https://doi.org/10.1186/s41239-026-00584-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Requests to list specific technologies or focus the standards on artificial intelligence were declined because the standards are for any digital technology and naming technologies can quickly leave documents dated. [→ Helen Crompton 2026](#helen-crompton-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: istation-reading-2024
     resource: "https://www.istation.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In a quasi-experimental study in a small-city South Carolina district, Istation students had significantly greater growth on NWEA MAP Reading than matched comparison students, with an effect size of +0.06. [→ Istation Reading 2024](#istation-reading-2024)

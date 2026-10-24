@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "http://www.fcrr.org/TechnicalReports/RWTfullrept.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither the comparison with Auditory Discrimination in Depth® nor the comparison with regular instruction showed a statistically significant effect on passage comprehension or estimated verbal IQ. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

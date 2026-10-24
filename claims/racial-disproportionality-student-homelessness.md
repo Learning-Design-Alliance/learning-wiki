@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: levin-2022
     resource: "https://doi.org/10.54300/557.894"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Black students are 80% more likely to experience homelessness than expected from their enrollment share, Latino/a students are 36% and Native American students 60% overrepresented, English learners 70% overrepresented, and special education students 25% overrepresented. [→ Levin 2022](#levin-2022)

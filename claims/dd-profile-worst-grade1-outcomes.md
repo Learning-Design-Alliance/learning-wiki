@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: ozernov-palchik-2017
     resource: "https://doi.org/10.1111/desc.12471"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` At Year 2 the double-deficit profile performed worse than all other profiles on all measures except PA, with medium-to-large effect sizes; the PA risk group showed specific phonological decoding weaknesses while the RAN risk group showed specific fluency weaknesses. [→ Ozernov-Palchik 2017](#ozernov-palchik-2017)

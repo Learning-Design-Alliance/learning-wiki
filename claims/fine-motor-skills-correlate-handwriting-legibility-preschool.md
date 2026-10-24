@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-19
 sources:
   - id: seo-s-m-2018
     resource: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q3` · `i3` large
+> **Currency** · newest study 2018 · checked against its sources 2026-10-19 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Handwriting legibility correlates significantly with fine motor precision (r=0.78). [→ Seo S-M 2018](#seo-s-m-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: melguizo-ibáñez-2026
     resource: "https://doi.org/10.1007/s10648-026-10146-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Exploratory RVE meta-regression found moderate-to-vigorous intensity, compared to moderate intensity, was associated with a small but significant improvement in working memory (β = 0.25). [→ Melguizo-Ibáñez 2026](#melguizo-ibanez-2026)

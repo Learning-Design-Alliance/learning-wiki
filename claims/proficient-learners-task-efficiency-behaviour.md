@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tanya-chichekian-2026
     resource: "https://doi.org/10.18608/jla.2026.9077"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q2` · `i2`–`i3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Proficient learners completed tasks faster than Novice and Developing learners (L_Time: F(2, 96) = 10.45, p < .001, η² = .18). [→ Tanya Chichekian 2026](#tanya-chichekian-2026)

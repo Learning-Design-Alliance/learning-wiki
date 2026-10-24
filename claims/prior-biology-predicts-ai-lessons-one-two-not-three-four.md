@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: shenghua-zha-2025
     resource: "https://doi.org/10.1007/s40593-025-00476-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Lesson-level regressions showed significant impact of prior biology knowledge on new AI knowledge in Lessons 1 and 2, but no significant impact in Lessons 3 or 4. [→ Shenghua Zha 2025](#shenghua-zha-2025)

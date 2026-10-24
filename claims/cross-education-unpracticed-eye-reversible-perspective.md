@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1905
 sources:
   - id: j-e-wallace-wallin-1905
     resource: "https://archive.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1905 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Occasional tests with the unused eye during the latter third of the series yielded corresponding successes, showing practice with one eye afforded practice for the other. [→ J. E. Wallace Wallin 1905](#j-e-wallace-wallin-1905)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: jinwen-tang-2026
     resource: "https://doi.org/10.48550/arxiv.2605.10804"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In controlled evaluations, AURA showed a statistically significant improvement in composite response quality over non-adaptive baselines (p = 0.044, d = 0.66), driven by a 63% reduction in specification prompts and a 10x increase in validation behavior. [→ Jinwen Tang 2026](#jinwen-tang-2026)

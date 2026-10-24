@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: lisi-wang-2023
     resource: "https://doi.org/10.1037/edu0000813"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Declarative metacognitive knowledge did not differ between versions at T1 (d = 0.16) or T2; the only detectable effect was a decline over time (η 2 p = .045). [→ Lisi Wang 2023](#lisi-wang-2023)

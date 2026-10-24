@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: kirschner-2015
     resource: "https://doi.org/10.1007/s11251-015-9346-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Participatory design may yield increased ownership, but at the cost of time and energy that could be invested elsewhere, and may cause blindness for problems users encounter. [→ Kirschner 2015](#kirschner-2015)

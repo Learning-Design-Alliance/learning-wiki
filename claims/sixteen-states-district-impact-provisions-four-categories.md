@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: chait-2022
     resource: "https://eric.ed.gov/?id=ED620722"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A review of all state charter statutes and relevant regulations found 16 states with district impact provisions, whose requirements fall into four primary categories of impact: fiscal, demographic, programmatic, and general. [→ Chait 2022](#chait-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hochberg-n-and-waitzman-r-2026
     resource: "https://doi.org/10.3389/feduc.2026.1905833"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Lesson plans and reflections included dilemmas, unfamiliar scenarios, multiple explanations, differentiated tasks, and enrichment opportunities, interpreted as designs intended to support transfer, flexibility, and adaptive application; no student performance in unfamiliar contexts was assessed. [→ Hochberg N and Waitzman R 2026](#hochberg-n-and-waitzman-r-2026)

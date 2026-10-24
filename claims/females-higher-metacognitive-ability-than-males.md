@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: weil-lg-2013
     resource: "https://doi.org/10.1016/j.concog.2013.01.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Females tended to have greater Aroc than males (females mean 0.71, SD 0.051; males mean 0.68, SD 0.034; t(54) = 2.2, p = .032). [→ Weil L.G. 2013](#weil-lg-2013)

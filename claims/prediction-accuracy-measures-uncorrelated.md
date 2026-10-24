@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: de-bruin-2017
     resource: "https://doi.org/10.1007/s11409-016-9159-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Absolute accuracy at t=0 did not correlate significantly with absolute accuracy during the Monitoring Exercise (r = .15, p = .18). [→ de Bruin 2017](#de-bruin-2017)

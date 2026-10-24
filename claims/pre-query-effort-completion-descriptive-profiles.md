@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cold Start learners completed the task at high rates (97%) despite no observable programming attempt, whereas Struggling learners invested the most time (165 s average) and errors (2.5) but completed at the lowest rate (67%). [→ w1-2](#w1-2)

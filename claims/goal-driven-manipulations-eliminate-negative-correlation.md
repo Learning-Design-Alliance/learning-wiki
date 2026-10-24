@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: martine-baars-lisette-wijnia-anique-de-bruin-fred-paas-2020
     resource: "https://doi.org/10.1007/s10648-020-09569-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` With any goal-driven manipulation present, the negative effort–monitoring correlation was weaker but still significant (r = −.193, 95% CI [−.332, −.046], k = 21, against r = −.385 without); it became nonsignificant when incentives (r = −.174) or time pressure (r = −.117) were analysed separately, and self-agency effort ratings gave a nonsignificant positive association (r = .283, k = 3). [→ Martine Baars & Lisette Wijnia & Anique de Bruin & Fred Paas 2020](#martine-baars-lisette-wijnia-anique-de-bruin-fred-paas-2020)

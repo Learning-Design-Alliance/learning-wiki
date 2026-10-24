@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhang-jun-2026
     resource: "https://doi.org/10.3390/bs16071114"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` After controlling for pretest scores, adjusted posttest AI readiness did not differ significantly between the experimental and control groups, with a negligible effect size. [→ Zhang Jun 2026](#zhang-jun-2026)

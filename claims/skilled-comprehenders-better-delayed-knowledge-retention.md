@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2001
 sources:
   - id: kate-cain-2001
     resource: "https://doi.org/10.3758/bf03196414"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A skill group x test session ANOVA on knowledge-base recall showed a significant interaction: groups were comparable immediately, but skilled comprehenders retained more over a week. [→ Kate Cain 2001](#kate-cain-2001)

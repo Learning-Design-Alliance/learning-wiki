@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: bill-vanpatten-2010
     resource: "https://doi.org/10.6018/ijes/2010/1/113951"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In on-line processing research comparing native and mid-level non-native Spanish speakers, learners showed sensitivity to untaught syntactic violations but not to subject-verb agreement violations they had explicitly learned and practiced. [→ Bill VanPatten 2010](#bill-vanpatten-2010)

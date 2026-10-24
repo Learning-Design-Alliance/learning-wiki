@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: collie-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101656"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A bifactor ESEM with a global perceived-SEC factor and five specific factors (assertiveness, tolerance, social regulation, emotion regulation, emotional awareness) fit better than CFA and ESEM alternatives. [→ Collie 2022](#collie-2022)

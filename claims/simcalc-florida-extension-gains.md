@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: roschelle-2018
     resource: "https://digitalpromise.dspacedirect.org/items/7a123d3c-22ec-46db-b7cf-709c3aa65583"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Florida 7th-grade classrooms using the adapted Texas unit showed pretest-to-posttest gains of ES = 1.09, and an HLM found posttest scores significantly higher than Texas-control-based predictions (contrast coefficient 6.96, p < .001). [→ Roschelle 2018](#roschelle-2018)

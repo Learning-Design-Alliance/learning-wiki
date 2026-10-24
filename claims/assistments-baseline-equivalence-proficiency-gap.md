@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: feng-2023
     resource: "https://osf.io/exqpn"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Intervention and comparison groups performed equivalently at baseline (Hedges' g = 0.08, not significant), and after the intervention both remained about 8 points below the Level 3 proficiency cut score. [→ Feng 2023](#feng-2023)

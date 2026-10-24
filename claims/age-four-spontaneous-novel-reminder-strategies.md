@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-19
 sources:
   - id: armitage-2023
     resource: "https://doi.org/10.1037/dev0001562"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Many children aged 4 years and older spontaneously devised more than one previously unseen reminder-setting strategy across six transfer trials. [→ Armitage 2023](#armitage-2023)

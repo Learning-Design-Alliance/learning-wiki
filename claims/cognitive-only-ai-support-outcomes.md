@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: heng-zhang-2025
     resource: "https://doi.org/10.1007/s10648-025-10086-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` AI-based cognitive-only support has a medium effect on knowledge acquisition (g = 0.52, k = 12) and near-medium effects on skill acquisition (g = 0.44, k = 11). [→ Heng Zhang 2025](#heng-zhang-2025)

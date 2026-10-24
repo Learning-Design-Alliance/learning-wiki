@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: ron-zimmer-2012
     resource: "https://www.mathematica.org/publications/examining-charter-student-achievement-effects-across-seven-states"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Previous charter school research has shown mixed results for student achievement, which could be the consequence of different policy environments or methodological approaches with differing assumptions across studies. [→ Ron Zimmer 2012](#ron-zimmer-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: brian-p-gill-2019
     resource: "https://www.mathematica.org/publications/a-life-lesson-in-civics-how-democracy-prep-charter-schools-boost-student-voting"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Democracy Prep charter schools increase their students' voting behavior. [→ Brian P. Gill 2019](#brian-p-gill-2019)

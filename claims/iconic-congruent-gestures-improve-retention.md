@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-22
 sources:
   - id: manuela-macedonia-2026
     resource: "https://doi.org/10.1007/s10648-026-10222-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Macedonia et al. (2011), that retention was significantly higher for words accompanied by iconic, semantically congruent gestures than by meaningless gestures. [→ Manuela Macedonia 2026](#manuela-macedonia-2026)

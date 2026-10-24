@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: dell-1911
     resource: "https://doi.org/10.1037/h0074801"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two forms taught the bud lesson with fact groups in different orders, correct answers were greatest for Section II, next for Section I, least for Section III, regardless of each group's position. [→ Dell 1911](#dell-1911)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: matthew-p-steinberg-2011
     resource: "https://consortium.uchicago.edu/publications/student-and-teacher-safety-chicago-public-schools-roles-community-context-and-school"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The degree to which a school enrolls high-achieving versus low-achieving students is a stronger determinant of school safety than neighborhood crime or poverty; after controlling for incoming achievement, crime and poverty show no relationship with safety. [→ Matthew P. Steinberg 2011](#matthew-p-steinberg-2011)

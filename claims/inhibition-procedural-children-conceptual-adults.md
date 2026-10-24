@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: camilla-gilmore-2015
     resource: "https://doi.org/10.1007/s11858-014-0659-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At age 11–14 years only procedural skill was significantly related to inhibition skill, whereas for young adults only conceptual understanding was significantly related. [→ Camilla Gilmore 2015](#camilla-gilmore-2015)

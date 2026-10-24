@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: deiglmayr-2011
     resource: "https://doi.org/10.1016/j.learninstruc.2010.06.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Differences in solution correctness between conditions were not statistically significant, though correctness increased from Control to Tutored Training with the exception of the Instructed Training condition. [→ Deiglmayr 2011](#deiglmayr-2011)

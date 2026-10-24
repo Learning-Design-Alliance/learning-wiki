@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: metacognitive-prompts-improve-learning
 evidence_strength:
+newest_evidence: 2022
 sources:
   - id: guo-2022
     resource: "https://doi.org/10.1111/jcal.12650"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Prompts that direct learners' attention to planning, monitoring, and evaluating their own thinking can improve learning outcomes, particularly when embedded in structured learning tasks.
 

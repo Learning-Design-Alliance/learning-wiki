@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: emel-saritaş-2016
     resource: "https://doi.org/10.5897/ERR2016.2787"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Experimentalism correlates most strongly with the personal style (r = 0.571) and also with facilitator (r = 0.532) and delegator (r = 0.479); existentialism correlates most strongly with facilitator (r = 0.579) and delegator (r = 0.579). [→ Emel Saritaş 2016](#emel-saritas-2016)

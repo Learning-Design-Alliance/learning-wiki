@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sebastian-maier-2026
     resource: "https://doi.org/10.48550/arxiv.2609.20143"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` AI-only participants did not have significantly lower odds of answering a final test item correctly than control participants (OR = 0.80, p = .244). [→ Sebastian Maier 2026](#sebastian-maier-2026)

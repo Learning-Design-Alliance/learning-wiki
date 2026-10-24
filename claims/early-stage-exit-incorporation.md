@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sara-riazi-and-pedram-rooshenas-2026
     resource: "https://doi.org/10.48550/arxiv.2610.00870"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most responding episodes ended after Stage 1 or Stage 2, and among 109 target-level changes following these early exits, 80 (73.4%) incorporated at least part of the hidden target, suggesting some students revised after conceptual or requirement-level support alone. [→ Sara Riazi and Pedram Rooshenas 2026](#sara-riazi-and-pedram-rooshenas-2026)

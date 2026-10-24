@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ahmad-d-suleiman-2026
     resource: "https://doi.org/10.48550/arxiv.2607.11032"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` The reasoning-oriented LLM scored significantly higher than the standard LLM on scenario quality (0.97 vs. 0.77, p<0.001, d=0.88) and feasibility (1.00 vs. 0.94, p=0.018, d=0.55). [→ Ahmad D. Suleiman 2026](#ahmad-d-suleiman-2026)

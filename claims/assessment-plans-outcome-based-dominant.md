@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: quang-nhat-nguyen-dung-thi-hue-doan-2025
     resource: "https://doi.org/10.29140/lea.v8n1.103000"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an examination of 52 assessment plans from higher-education institutions, most reviewed plans structured even dynamic practices (formative components, oral exams) through an accumulatively summative lens. [→ Quang Nhat Nguyen & Dung Thi Hue Doan 2025](#quang-nhat-nguyen-dung-thi-hue-doan-2025)

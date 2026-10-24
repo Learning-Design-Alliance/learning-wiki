@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: giasemi-n-vavoula-and-mike-sharples-2007
     resource: "https://doi.org/10.1007/s11412-007-9026-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The second and third pilots yielded very general, non-functional requirements rather than detailed functional ones, so the method was modified to tie requirements to specific models and follow-up workshops. [→ Giasemi N. Vavoula and Mike Sharples 2007](#giasemi-n-vavoula-and-mike-sharples-2007)

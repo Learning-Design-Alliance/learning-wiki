@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: garver-2023
     resource: "https://doi.org/10.54300/387.446"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Alabama and New Jersey require state-funded preschool teachers in non-LEA settings to receive salaries commensurate with LEA peers and provide funding to meet this requirement. [→ Garver 2023](#garver-2023)

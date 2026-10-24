@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: hasnain-heickal-and-andrew-lan-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08807"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Submissions receiving valid test cases had the highest average pass rates, but valid test cases were not associated with fewer subsequent submissions; the analyses are associational, because feedback was triggered by incorrect submissions. The authors suggest introductory students lack the debugging skills to efficiently exploit counterexamples. [→ Hasnain Heickal and Andrew Lan 2026](#hasnain-heickal-and-andrew-lan-2026)

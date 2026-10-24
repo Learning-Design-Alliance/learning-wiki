@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: alave-mamani-2026
     resource: "https://doi.org/10.1186/s40359-026-05450-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Servant leadership had the strongest effect on self-efficacy (β=0.505), and self-efficacy predicted life satisfaction (β=0.429; R2=0.393). [→ Alave Mamani 2026](#alave-mamani-2026)

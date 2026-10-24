@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: steffen-zitzmann-2021
     resource: "https://doi.org/10.1007/s10648-021-09635-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The higher the ICC(1) of student achievement, the larger the optimal number of classes, the smaller the optimal number of students per class, and the lower the maximum power to detect the between slope. [→ Steffen Zitzmann 2021](#steffen-zitzmann-2021)

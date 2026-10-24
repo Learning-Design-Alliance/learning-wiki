@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: de-greeff-2018
     resource: "https://doi.org/10.1016/j.jsams.2017.09.595"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Single bouts of acute physical activity improve attention in preadolescent children, with a pooled effect of g = 0.43 across 6 studies. [→ de Greeff 2018](#de-greeff-2018)

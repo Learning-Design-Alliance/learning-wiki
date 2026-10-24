@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: carmen-yot-domínguez-and-carlos-marcelo-2017
     resource: "https://doi.org/10.1186/s41239-017-0076-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 74.1% of students frequently interact with classmates outside the classroom using instant messaging apps and 63.4% regularly share material via the cloud for studying or working together. [→ Carmen Yot-Domínguez and Carlos Marcelo 2017](#carmen-yot-dominguez-and-carlos-marcelo-2017)

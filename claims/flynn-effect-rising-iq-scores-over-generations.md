@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 1999
+recheck_by: 2004
 sources:
   - id: flynn-1999
     resource: "https://doi.org/10.1037/0003-066X.54.1.5"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 review `r?` · `q2`–`q3`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2004**: baselines and conditions change
 
 Known as the **Flynn effect**: raw scores on standardized intelligence tests have increased across successive generations in most countries where they have been tracked, at an average rate of roughly 3 IQ points per decade — a rate large enough that intelligence tests must be periodically re-standardized against a new population sample, or older norms will systematically overstate a test-taker's relative intelligence.
 

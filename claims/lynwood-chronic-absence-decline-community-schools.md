@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: germain-2026
     resource: "https://doi.org/10.54300/947.934"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Districtwide chronic absence declined by just over one third (37.1% to 24.5%) and average daily attendance increased (87.4% to 91.5%) between 2021–22 and 2024–25. [→ Germain 2026](#germain-2026)

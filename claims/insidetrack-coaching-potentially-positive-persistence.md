@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-18
 sources:
   - id: persistence-rct
     title: persistence-rct
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
+> **Currency** · newest study 2019 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the Bettinger & Baker (2014) randomized controlled trial, students receiving InsideTrack© Coaching were retained at 66.4% versus 61.4% in the comparison group at 12 months, an effect size of 0.13 and improvement index of +5 (p < .01). [→ persistence-rct](#persistence-rct)

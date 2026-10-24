@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: vincent-hoogerheide-2016
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The Test Moment x Gender Model interaction on perceived competence was significant (gp 2 = .029), with larger gains under a male model irrespective of observer gender. [→ Vincent Hoogerheide 2016](#vincent-hoogerheide-2016)

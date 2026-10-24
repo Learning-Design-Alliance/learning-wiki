@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: kelly-mcneil-2026
     resource: "https://digitalpromise.dspacedirect.org/items/5b9d16cb-7253-49d0-9d95-e510b6951d4b"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who learn with serious games often perform better on content knowledge assessments than those in traditional settings, per meta-analyses the review cites. [→ Kelly McNeil 2026](#kelly-mcneil-2026)

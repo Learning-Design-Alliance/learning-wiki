@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: puttaert-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2024.102042"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Among SI-PASS participants, the number of meetings attended correlated positively with exam performance (r = .28). [→ Puttaert 2025](#puttaert-2025)

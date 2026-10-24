@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: dallas-study-cited-in-bracey-2004
     resource: "https://www.heinemann.com/products/e00594.aspx"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · n=low-achieving 4th-grade cohort, Dallas Independent School District
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 Teacher effectiveness, tracked as a growth or value-added measure rather than a single-year snapshot, produces large downstream differences in student outcomes — and the students most likely to benefit from an effective teacher are, on average, less likely to actually get one across consecutive years.
 

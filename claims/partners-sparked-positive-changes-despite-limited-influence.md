@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2000
+source_checked: 2026-10-20
 sources:
   - id: fred-m-newmann-2000
     resource: "https://ccsr.uchicago.edu/sites/default/files/publications/ExternalPartners.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2000 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The report documents examples of partners sparking positive changes in classroom practice, parent participation, or school climate in particular schools among the 18 studied (two in each of nine networks); its sampling does not support conclusions about a partner's overall effectiveness across its schools or about relative effectiveness. [→ Fred M. Newmann 2000](#fred-m-newmann-2000)

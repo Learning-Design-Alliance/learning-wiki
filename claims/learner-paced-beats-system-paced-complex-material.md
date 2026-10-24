@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: learner-paced-beats-system-paced-complex-material
 evidence_strength: low
+newest_evidence: 2014
 sources:
   - id: hasler-et-al-2007
     resource: "https://doi.org/10.1002/acp.1345"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i0` negligible
+> **Currency** · newest study 2014 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-09-30, did not say it rests on one experiment): Learner Paced Beats System Paced Complex Material -->
 
 In one experiment with primary-school students, learner-paced animations (segmented, or with stop/play control) produced better performance than a fixed, system-paced animation on difficult, high-element-interactivity questions only; the proposed reason is that pacing control lets learners manage cognitive load. A meta-analysis of learner control in educational technology generally found an overall effect near zero (g = 0.05).

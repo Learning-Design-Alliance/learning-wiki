@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: philip-oreopoulos-2024
     resource: "https://doi.org/10.3386/w32388"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers able to achieve high-dosage practice are characterized by a high degree of initial buy-in, a clear implementation strategy for when practice occurs, and willingness to closely monitor progress and follow up with struggling students. [→ Philip Oreopoulos 2024](#philip-oreopoulos-2024)

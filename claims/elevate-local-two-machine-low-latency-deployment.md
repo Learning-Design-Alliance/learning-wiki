@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lorenzo-stacchio-2026
     resource: "https://doi.org/10.48550/arxiv.2606.30662"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the reported hardware configuration, the system ran on two local consumer machines (one for LLM generation and orchestration, one for TTS) and kept both models fully resident in memory while performing low-latency inference. [→ Lorenzo Stacchio 2026](#lorenzo-stacchio-2026)

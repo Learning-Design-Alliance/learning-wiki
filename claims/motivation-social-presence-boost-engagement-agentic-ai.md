@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dhanya-pramod-and-kanchan-pranay-patil-2026
     resource: "https://doi.org/10.1007/s44217-026-02168-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning motivation (β = 0.533) and perceived social presence (β = 0.493) both increased learner engagement in the structural model. [→ Dhanya Pramod and Kanchan Pranay Patil 2026](#dhanya-pramod-and-kanchan-pranay-patil-2026)

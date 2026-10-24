@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-19
 sources:
   - id: nückles-2020
     resource: "https://doi.org/10.1007/s10648-020-09541-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In two experiments by Roelle et al. (2017), tenth-graders prompted to engage in metacognitive processes before organization and elaboration outperformed the cognitive-first group on quality of organization and metacognitive processes and on a conceptual knowledge test. [→ Nückles 2020](#nuckles-2020)

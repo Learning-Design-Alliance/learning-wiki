@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: simon-baradziej-2026
     resource: "https://doi.org/10.1016/j.ssaho.2026.103418"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In a graduate Cloud Computing course where an LLM-driven agent served as primary instructor, engagement shifted from broad conceptual exploration in early weeks to deeper, more focused inquiry in later weeks. [→ Simon Baradziej 2026](#simon-baradziej-2026)

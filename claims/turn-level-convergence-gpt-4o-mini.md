@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: pascal-riachi-2026
     resource: "https://doi.org/10.48550/arxiv.2606.17786"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In partial-transcript evaluation, GPT-4o mini's MAE decreased from 12.76 at turn 5 to 6.12 at turn 20, whereas GPT-5.1, GPT-5.2, and Claude Sonnet 4.5 showed increasing or stable error with additional context. [→ Pascal Riachi 2026](#pascal-riachi-2026)

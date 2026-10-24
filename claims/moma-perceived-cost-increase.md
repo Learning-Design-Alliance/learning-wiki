@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: gaspard-2021
     resource: "https://dx.doi.org/10.1037/edu0000663"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students in both intervention conditions reported higher perceived cost than control students after the intervention, an unexpected effect. [→ Gaspard 2021](#gaspard-2021)

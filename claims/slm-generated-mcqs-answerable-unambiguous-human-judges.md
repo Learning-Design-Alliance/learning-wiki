@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Seven middle-school science teachers showed substantial agreement on the correct answers to 64 generated MCQs, and only 1.6% of the MCQs were deemed unanswerable by majority vote. [→ human-answers-1](#human-answers-1)

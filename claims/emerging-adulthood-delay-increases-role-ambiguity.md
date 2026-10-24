@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: nagaoka-2014
     resource: "https://consortium.uchicago.edu/publications/framework-developing-young-adult-success-21st-century"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The delay of adulthood in Western industrialized societies has produced greater role ambiguity and a greater emphasis on individuality in identity development, per the emerging adulthood literature the paper cites. [→ Nagaoka 2014](#nagaoka-2014)

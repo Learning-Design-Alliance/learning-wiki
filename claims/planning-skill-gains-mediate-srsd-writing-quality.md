@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: jonathan-fernandez-2024
     resource: "https://doi.org/10.1007/s11409-024-09398-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mediation analyses indicated progress in producing high-quality texts was explained by improvements in students' planning skills, which enabled better-structured stories containing more ideas. [→ Jonathan Fernandez 2024](#jonathan-fernandez-2024)

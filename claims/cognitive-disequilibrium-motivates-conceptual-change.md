@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: cognitive-disequilibrium-motivates-conceptual-change
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: pacaci-et-al-2024
     resource: "https://doi.org/10.1002/tea.21887"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r1` · `q3`–`q4` · `i3` large
+> **Currency** · newest study 2024 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Cognitive disequilibrium motivates conceptual change -->
 
 Instruction that confronts learners with evidence or ideas conflicting with their existing conceptions produces large gains in science learning in meta-analyses, and a small experiment found staged contradictions helped only when learners reported being confused. The recorded studies measure learning outcomes, not the disequilibrium itself, so the Piagetian account that disequilibrium is what drives the reorganisation (see Discussion) is the claim's proposed mechanism, not something its evidence isolates.

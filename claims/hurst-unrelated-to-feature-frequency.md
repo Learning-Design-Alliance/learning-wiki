@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: erica-l-snow-2016
     resource: "https://doi.org/10.1007/s40593-015-0085-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Hurst exponents were not significantly related to frequency of interactions with generative practice games (r = .25, p = .11), identification mini-games (r = −.12, p = .45), personalizable features (r = −.06, p = .70), or achievement screen views (r = −.24, p = .13). [→ Erica L. Snow 2016](#erica-l-snow-2016)

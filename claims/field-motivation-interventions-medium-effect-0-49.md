@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: linnenbrink-garcia-2026
     resource: "https://doi.org/10.1007/s10648-026-10177-w"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · theoretical `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` A meta-analysis of 74 field-based motivation intervention studies found a medium average effect size of 0.49 across outcomes. [→ Linnenbrink-Garcia 2026](#linnenbrink-garcia-2026)

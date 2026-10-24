@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: allensworth-2005
     resource: "https://consortium.uchicago.edu/publications/graduation-and-dropout-trends-chicago-look-cohorts-students-1991-2004"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` For the 1998 age-13 cohort, 54 percent of CPS students graduated from CPS by age 19 in 2004, and 54 percent of 1999 freshmen graduated four years later. [→ Allensworth 2005](#allensworth-2005)

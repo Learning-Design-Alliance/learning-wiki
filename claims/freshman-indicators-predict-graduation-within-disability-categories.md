@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: julia-gwynne-2009
     resource: "https://consortium.uchicago.edu/publications/what-matters-staying-track-and-graduating-chicago-public-schools-focus-students"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with a 2.5 GPA or higher graduate at high rates in all categories (89 percent without disabilities, 78 percent below grade level, 86 percent learning disabilities, 83 percent mild cognitive disabilities), while only one-quarter to one-third of students with a 1.0 average graduate in five years. [→ Julia Gwynne 2009](#julia-gwynne-2009)

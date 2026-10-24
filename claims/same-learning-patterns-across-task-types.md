@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: azevedo-2014
     resource: "https://doi.org/10.1007/s11409-014-9123-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite the assumption that different task types call for different strategies, the twelve students illustrated the same types of learning patterns across the two tasks. [→ Azevedo 2014](#azevedo-2014)

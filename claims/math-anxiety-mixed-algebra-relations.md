@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: silla-2026
     resource: "https://doi.org/10.1007/s10648-025-10111-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reviewed studies report both negative and null relations between mathematics anxiety and algebraic thinking, depending on the study and measure. [→ Silla 2026](#silla-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: ricker-timothy-j-2014
     resource: "https://doi.org/10.1037/a0034301"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When the full array was presented three times with unmasked gaps, only the Retention-Interval Duration main effect was significant; no presentation-method effects approached significance. [→ Ricker Timothy J. 2014](#ricker-timothy-j-2014)

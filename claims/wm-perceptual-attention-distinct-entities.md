@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: oberauer-2019
     resource: "https://doi.org/10.5334/joc.58"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The extreme position that WM and perceptual attention are the same is almost certainly wrong, as attended stimuli can leave little trace in WM and perceptual attention to stimuli during retention leads to less interference than adding them to WM. [→ Oberauer 2019](#oberauer-2019)

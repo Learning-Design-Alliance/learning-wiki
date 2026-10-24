@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: hu-2015
     resource: "https://doi.org/10.5539/hes.v5n4p30"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When using adversative, causal or resultive DCs, L1 and Thai students are more informal than Hong Kong and Singaporean students, who favour formal forms such as however, nevertheless and hence. [→ Hu 2015](#hu-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2005
+recheck_by: 2010
 sources:
   - id: paul-decker-2005
     resource: "https://www.mathematica.org/publications/the-evaluation-of-teacher-preparation-models"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The scale of entry into teaching involves thousands of new teachers annually passing through hundreds of different teacher preparation programs. [→ Paul Decker 2005](#paul-decker-2005)

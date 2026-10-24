@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: palmer-ec-2014
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154452/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The age–perceptual metacognition relationship remained significant after controlling for Trail Making Test performance (β = −0.0058, p = 0.02), and executive function itself was not associated with metacognition (β = 0.0042, p = 0.26). [→ Palmer E.C. 2014](#palmer-ec-2014)

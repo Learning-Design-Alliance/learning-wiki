@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yijia-yuan-yiran-du-2026
     resource: "https://doi.org/10.1007/s10648-026-10227-3"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 33 studies and 94 effect sizes, technology-supported interventions showed a positive pooled association with metacognitive outcomes, g = 0.653, 95% CI [0.520, 0.786]. [→ Yijia Yuan & Yiran Du 2026](#yijia-yuan-yiran-du-2026)

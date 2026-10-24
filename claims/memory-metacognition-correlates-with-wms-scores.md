@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: palmer-ec-2014
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154452/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Memory metacognitive efficiency correlated significantly with WMS immediate (r = .37), delayed (r = .59) and recognition (r = .37) scores, whereas perceptual metacognition showed no such relationships. [→ Palmer E.C. 2014](#palmer-ec-2014)

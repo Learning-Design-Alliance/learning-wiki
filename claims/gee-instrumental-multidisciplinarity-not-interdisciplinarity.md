@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: kirk-m-lundblade-2025
     resource: "https://www.jstor.org/stable/jj.31913371.9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The 2007 revised edition added game studies sources without substantive chapter changes, serving the instrumental purpose of legitimizing games research. [→ Kirk M. Lundblade 2025](#kirk-m-lundblade-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: lee-2017
     resource: "https://doi.org/10.15858/engtea.72.2.201706.29"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The majority (90%) of the pictorial group reported that pictorial elucidation helped improve their accurate use of vocabulary, citing clearer meaning contrasts and increased enjoyment and concentration. [→ Lee 2017](#lee-2017)

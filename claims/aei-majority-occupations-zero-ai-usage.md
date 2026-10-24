@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: aei-zero-usage
     title: aei-zero-usage
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` As of the AEI's most recent release, 54% of the 756 occupations it tracks show zero observed AI usage, concentrated almost entirely in hands-on physical occupations such as skilled trades, transportation, agriculture, and food service. [→ aei-zero-usage](#aei-zero-usage)

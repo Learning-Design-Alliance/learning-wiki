@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: gold-2020
     resource: "https://doi.org/10.51388/20.500.12265/96"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pairing African American students with a same-race teacher decreased suspension rates for African American males by as much as 15 to 18 percent. [→ Gold 2020](#gold-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: praveen-pathak-2026
     resource: "https://doi.org/10.48550/arxiv.2608.20521"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the refined QM Q3b Grover-diagram question, refinement reduced MAD from 1.1 to 0.4 marks, raised Pearson's r from 0.70 to 0.82, and raised exact agreement from 15% to 45%. [→ Praveen Pathak 2026](#praveen-pathak-2026)

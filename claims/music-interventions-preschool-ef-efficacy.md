@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: rosalyn-a-muir-steven-j-howard-lisa-kervin-2023
     resource: "https://doi.org/10.1007/s10648-023-09740-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Music interventions produced at least one significant outcome in all studies, with 52.2% of evaluated effects significant, and showed the most consistent effects for IC. [→ Rosalyn A. Muir · Steven J. Howard · Lisa Kervin 2023](#rosalyn-a-muir-steven-j-howard-lisa-kervin-2023)

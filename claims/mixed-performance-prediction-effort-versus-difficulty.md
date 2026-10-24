@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: schmeck-2015
     resource: "https://doi.org/10.1007/s11251-014-9328-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In Experiment 1, immediate and delayed mental effort ratings significantly predicted performance while difficulty ratings did not; in Experiment 2 this pattern reversed. [→ Schmeck 2015](#schmeck-2015)

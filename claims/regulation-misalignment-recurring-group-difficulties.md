@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: piia-näykki-2026
     resource: "https://doi.org/10.1007/s11251-026-09815-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Micro-level interaction analysis of one high-challenge group showed emotional challenges grew stronger over the task and regulation attempts ultimately failed to address them sufficiently. [→ Piia Näykki 2026](#piia-naykki-2026)

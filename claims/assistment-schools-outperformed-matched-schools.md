@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: shute-2013
     resource: "https://doi.org/10.1007/978-1-4614-3185-5_25"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a study by Koedinger and colleagues (2010), schools using ASSISTment significantly outperformed matched schools on the state mathematics test. [→ Shute 2013](#shute-2013)

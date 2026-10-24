@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2021
 sources:
   - id: sascha-schneider-2021
     resource: "https://doi.org/10.1007/s10648-021-09626-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Personalized (colloquial, directly addressing) text formulations improve learning outcomes compared to formal expressions. [→ Sascha Schneider 2021](#sascha-schneider-2021)

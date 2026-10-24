@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-21
 sources:
   - id: alternate-contrast
     title: alternate-contrast
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the Stevens et al. (1991) trial, the CIRC (direct instruction with cooperative learning) group versus the direct instruction without cooperative learning group showed an effect size of 0.33 on Main Idea Questions with p = 0.09, not statistically significant; direct instruction alone also significantly outperformed comparison (effect size 0.53, p < 0.01). [→ alternate-contrast](#alternate-contrast)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: pınar-nuhoğlu-kibar-hale-ilgaz-2026
     resource: "https://doi.org/10.1007/s11423-026-10624-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` GenAI is most frequently used to support pre-instructional planning, analysis, and decision-making in ID, with Supporting Teaching Delivery (n = 17), Assessment Design (n = 14), Innovating in Instructional Strategies (n = 9), Multimedia Content Creation (n = 7), and Facilitating Accessibility (n = 4) as further themes. [→ Pınar Nuhoğlu Kibar & Hale Ilgaz 2026](#pnar-nuhoglu-kibar-hale-ilgaz-2026)

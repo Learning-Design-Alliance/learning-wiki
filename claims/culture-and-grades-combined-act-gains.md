@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: john-q-easton-2008
     resource: "https://consortium.uchicago.edu/publications/high-school-future-pathway-20"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among students starting with EXPLORE 17, those in strong-culture schools with GPA 3.0+ gained 3.7 points to an average ACT of 20.7, versus 1.4 points to 18.4 for weak-culture, lower-grade peers; the pattern held at EXPLORE 14 and 19. [→ John Q. Easton 2008](#john-q-easton-2008)

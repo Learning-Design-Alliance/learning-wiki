@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: henrique-mohallem-paiva-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07364"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` No conceptual or mathematical hallucinations were identified during human-in-the-loop review across the 28 project contexts. [→ Henrique Mohallem Paiva 2026](#henrique-mohallem-paiva-2026)

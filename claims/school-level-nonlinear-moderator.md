@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: martine-baars-lisette-wijnia-anique-de-bruin-fred-paas-2020
     resource: "https://doi.org/10.1007/s10648-020-09569-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` School level is a significant categorical moderator, with grades 7–12 showing a more negative correlation than grades 1–6 or higher education; mean age is not a significant predictor. [→ Martine Baars & Lisette Wijnia & Anique de Bruin & Fred Paas 2020](#martine-baars-lisette-wijnia-anique-de-bruin-fred-paas-2020)

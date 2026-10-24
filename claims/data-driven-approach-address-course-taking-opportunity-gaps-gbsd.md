@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: teresa-ketelsen-2020
     resource: "https://www.nwea.org/research/publication/how-to-promote-equity-in-advanced-coursework-participation-three-strategies-for-closing-the-gaps-and-retaining-students/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gresham-Barlow School District administrators used a data-driven approach to understand and address opportunity gaps in course-taking. [→ Teresa Ketelsen 2020](#teresa-ketelsen-2020)

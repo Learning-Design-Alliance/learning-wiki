@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: abramson-sl-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1932655"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One reviewed study found text-based systems were associated with higher trust due to ease of information processing, and across both interface studies participants preferred text-based conversational user interfaces over speech or embodied formats. [→ Abramson SL 2026](#abramson-sl-2026)

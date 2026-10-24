@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: raaijmakers-2018
     resource: "https://doi.org/10.1007/s11251-017-9434-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both heuristic-trained and algorithmic-trained students showed significantly better task-selection accuracy on math transfer scenarios than control students. [→ Raaijmakers 2018](#raaijmakers-2018)

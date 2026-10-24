@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: gollwitzer-2006
     resource: "https://doi.org/10.1016/s0065-2601(06)38002-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q1`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Holding a strong goal intention does not guarantee goal achievement, because people may fail to deal effectively with self-regulatory problems during goal striving. [→ Gollwitzer 2006](#gollwitzer-2006)

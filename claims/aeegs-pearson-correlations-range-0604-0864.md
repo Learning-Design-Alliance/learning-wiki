@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: olaoye-dd-2026
     resource: "https://doi.org/10.3389/feduc.2026.1669504"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pearson correlation coefficients between each human rater and AEEGS ranged from 0.604 (Rater 12) to 0.864 (Rater 2), all significant at the 0.01 level. [→ Olaoye DD 2026](#olaoye-dd-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mendonça-pc-2026
     title: Mendonça PC 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the response level, only accuracy differed across contexts, with accuracy rated higher in secondary education (M = 4.63) and undergraduate education (M = 4.42) than in CTeSP (M = 4.20). [→ Mendonça PC 2026](#mendonca-pc-2026)

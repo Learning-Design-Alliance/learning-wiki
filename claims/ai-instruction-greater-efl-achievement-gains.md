@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: wei-l-2023
     title: Wei L 2023
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` After a 10-week intervention, the experimental group's post-test L2 achievement (M = 73.86) significantly exceeded the control group's (M = 61.11), with a significant Group × Time interaction. [→ Wei L 2023](#wei-l-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1918
 sources:
   - id: buford-johnson-1918
     resource: "https://www.google.com/search?q=The+Use+of+Tests+in+the+Evaluation+of+Methods+of+Instruction+Johnson+1918"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the standardized tests administered, grammar tests showed the greatest deficiency relative to norms. [→ Buford Johnson 1918](#buford-johnson-1918)

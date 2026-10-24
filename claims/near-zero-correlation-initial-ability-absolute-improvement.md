@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: woodrow-1915
     resource: "https://scholar.google.com/scholar?q=%22Practice+and+Transference+in+Normal+and+Feeble-Minded+Children%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The correlation between initial ability and absolute improvement changes from -.36 to -.13 (P.E. .15) for the feeble-minded group and from -.40 to -.11 (P.E. .17) for the normal group, remaining negative but becoming very small and unreliable. [→ Woodrow 1915](#woodrow-1915)

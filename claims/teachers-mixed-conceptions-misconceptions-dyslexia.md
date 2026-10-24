@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: erin-k-washburn-2022
     resource: "https://doi.org/10.1007/s11145-022-10264-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` For some dyslexia concepts teachers mostly held scientific conceptions or misconceptions, while for other concepts responses were distributed across scientific conceptions, misconceptions, and uncertainty. [→ Erin K. Washburn 2022](#erin-k-washburn-2022)

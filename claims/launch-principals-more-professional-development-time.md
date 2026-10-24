@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
+recheck_by: 2007
 sources:
   - id: penny-bender-sebring-2004
     resource: "https://consortium.uchicago.edu/publications/principal-and-teacher-leadership-chicago-early-evidence-two-initiatives"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` LAUNCH elementary school principals reported more time on their own professional development (4.1 hours weekly) and on planning and conducting staff development (5.5 hours) than other new and veteran principals. [→ Penny Bender Sebring 2004](#penny-bender-sebring-2004)

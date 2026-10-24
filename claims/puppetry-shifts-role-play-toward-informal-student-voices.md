@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: mochizuki-2022
     resource: "https://doi.org/10.1007/s11412-022-09382-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` After tangible puppetry role-play, discourse patterns shifted from linkages to Student-Formal codes toward Student-Informal and Teacher-Informal codes (Session #1 vs #2, d = 0.36), and the difference from Session #1 remained in Session #3 (d = 0.40). [→ Mochizuki 2022](#mochizuki-2022)

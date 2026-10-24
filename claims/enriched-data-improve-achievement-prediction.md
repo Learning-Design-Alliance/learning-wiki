@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: prediction-accuracy
     title: prediction-accuracy
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article asserts, citing the learning analytics literature, that prediction algorithms can predict student achievement with small windows of data intake, that they are more accurate when raw data are enriched to reflect instructional design and learning processes, and that predictions can be made within days when context-responsive temporal coding is applied. [→ prediction-accuracy](#prediction-accuracy)

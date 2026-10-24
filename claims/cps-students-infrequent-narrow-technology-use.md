@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: holly-m-hart-2002
     resource: "https://consortium.uchicago.edu/publications/educational-technology-its-availability-and-use-chicagos-public-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Only 19 percent of students in grades 6 through 10 use technology intensively at school, while 17 percent never use it for the surveyed activities. [→ Holly M. Hart 2002](#holly-m-hart-2002)

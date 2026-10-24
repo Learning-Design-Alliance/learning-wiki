@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: dweck-2019
     resource: "https://doi.org/10.1177/1745691618804166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Relative to a no-treatment control and a coping-skills control, an in-person growth-mindset-of-personality workshop substantially reduced the amount of hot sauce students allocated to a peer who excluded them, and increased prosocial notes, with teacher ratings confirming the findings. [→ Dweck 2019](#dweck-2019)

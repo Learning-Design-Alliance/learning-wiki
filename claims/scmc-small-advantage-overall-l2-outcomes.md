@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: nicole-ziegler-2016
     resource: "https://doi.org/10.1017/S027226311500025X"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the meta-analyzed studies, SCMC interaction showed a small advantage for overall L2 learning outcomes relative to FTF interaction. [→ Nicole Ziegler 2016](#nicole-ziegler-2016)

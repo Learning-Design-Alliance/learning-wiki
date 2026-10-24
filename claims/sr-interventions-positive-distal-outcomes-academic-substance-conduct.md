@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: pandey-a-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6059379/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Positive associations were reported in 11 of 13 studies (85%) on academic achievement, 4 of 5 studies on substance abuse (80%), and in all studies reporting on conduct disorders (n = 3), social skills (n = 2), depression (n = 2), behavioral problems (n = 2), and school suspensions (n = 1). [→ Pandey A 2018](#pandey-a-2018)

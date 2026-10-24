@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
+source_checked: 2026-10-24
 sources:
   - id: pechstein-1917
     resource: "https://doi.org/10.1037/h0071944"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1917 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When new learners were taught a single section and rested for the intervals part learners established, disintegration measured by relearning expenditure was practically nothing, with only slightly slower speed on first relearning trials. [→ Pechstein 1917](#pechstein-1917)

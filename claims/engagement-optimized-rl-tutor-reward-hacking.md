@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: oluseyi-olukolaa-2026
     resource: "https://doi.org/10.48550/arxiv.2604.04237"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The engagement-only agent systematically selects low-demand actions (mean demand 0.281, below the 0.4 threshold) with a C3 violation rate of 70.8%, producing mean mastery gains of only 0.011–0.013. [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)

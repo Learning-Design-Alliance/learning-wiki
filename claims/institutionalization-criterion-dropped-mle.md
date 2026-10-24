@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: felini-2014
     resource: "https://doi.org/10.23860/jmle-6-1-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All teachers interviewed expressed strong doubts about including MLE institutionalization (e.g., in the POF) as a quality criterion, and the criterion was dropped from the final framework. [→ Felini 2014](#felini-2014)

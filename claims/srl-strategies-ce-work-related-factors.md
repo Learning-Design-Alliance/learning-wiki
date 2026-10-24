@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: yvonne-m-hemmler-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100629"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` SRL strategies show moderate positive relationships with organizational learning culture (r = .26) and job control (r = .28), and a weak to moderate relationship with job demands (r = .21) in CE. [→ Yvonne M. Hemmler 2024](#yvonne-m-hemmler-2024)

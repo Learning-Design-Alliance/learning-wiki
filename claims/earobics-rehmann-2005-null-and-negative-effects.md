@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2009
     resource: "https://www.earobics.com"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2` · `i1` small
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rehmann (2005) found the overall Earobics® effect across three of four alphabetics measures was not statistically significant. [→ What Works Clearinghouse 2009](#what-works-clearinghouse-2009)

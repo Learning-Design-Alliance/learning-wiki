@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/541"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In head-to-head comparison, differences between Waterford Early Reading Level One™ and Let's Begin with the Letter People® were not statistically significant for any oral language or print knowledge measure as calculated by the WWC. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

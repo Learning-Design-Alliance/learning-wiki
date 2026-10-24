@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: key-questions-how-important-are-course-grades-as-predictors-of-students-future-success-2025
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Divergent conclusions about the predictive power of grades are often attributable to restricted samples (e.g., high-GPA students at very selective schools) and to weighted or self-reported GPAs, which are less accurate. [→ Key Questions: How important are course grades as predictors of students' future success? 2025](#key-questions-how-important-are-course-grades-as-predictors-of-students-future-success-2025)

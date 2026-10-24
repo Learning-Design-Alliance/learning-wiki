@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: zacharopoulos-g-2014
     title: Zacharopoulos G 2014
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Partial correlations between SE change and VDS change were statistically significant in both tasks (contrast r =2.403, N = 38, p = .012; orientation r =2.342, N = 42, p = .027). [→ Zacharopoulos G 2014](#zacharopoulos-g-2014)

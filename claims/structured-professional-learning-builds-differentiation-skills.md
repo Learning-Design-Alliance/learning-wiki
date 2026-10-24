@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-15
 sources:
   - id: marks-2021
     resource: "https://doi.org/10.29333/iejme/11198"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Citing earlier research, the article reports that conferences and short workshops can help teachers develop skills and knowledge, but that professional learning that is sporadic and disconnected is ineffective in the long term; it reports Valiandes and Neophytou (2018), not a study of its own, as finding that teachers in a well-planned and systematic program connected theory with practice and differentiated instruction successfully. [→ Marks 2021](#marks-2021)

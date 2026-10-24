@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: fv-kowalski-and-se-kowalski-2013
     resource: "https://doi.org/10.48550/arxiv.1308.1110"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The proportion of questions per category differed markedly by simulation: the inductance calculator drew 100% CONGRUOUS responses, while the moving-charge and quantum harmonic oscillator simulations drew 40% INCONGRUOUS responses. [→ F.V. Kowalski and S.E. Kowalski 2013](#fv-kowalski-and-se-kowalski-2013)

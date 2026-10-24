@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: brian-gill-2021
     resource: "https://www.mathematica.org/publications/hybrid-instructional-approaches-and-covid-19-infection-trends-in-a-sample-of-pennsylvania-school"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mathematica identified seven Pennsylvania school districts using hybrid instruction and compared student and staff COVID-19 incidence trends to local community trends in fall 2020. [→ Brian Gill 2021](#brian-gill-2021)

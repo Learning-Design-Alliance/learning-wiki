@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: capellini-2017
     resource: "https://doi.org/10.4236/psych.2017.82015"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Likelihood Ratio Tests on the standardized classification categories (very low to very high) showed no significant between-group difference for VMI (p = 0.468), VP (p = 0.246) or MC (p = 0.733), and no group reached the very high classification. [→ Capellini 2017](#capellini-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: lazonder-2016
     resource: "https://doi.org/10.3102/0034654315627366"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across the synthesized studies, guidance had a facilitative overall effect on performance success, d = 0.71, 95% CI [0.52, 0.90]. [→ Lazonder 2016](#lazonder-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: knowledge-is-power-program-kipp-2018
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/688"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One of two studies showed a statistically significant positive effect on social studies achievement while the other showed an indeterminate effect (average improvement index +5, range +1 to +9). [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)

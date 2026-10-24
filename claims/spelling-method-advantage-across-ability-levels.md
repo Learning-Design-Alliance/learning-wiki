@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1913
 sources:
   - id: winch-1913
     resource: "https://www.jstor.org/stable/1412810"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When boys were grouped by preliminary spelling ability, the combined directed method outperformed the visual silent method in every ability group from highest to lowest, showing the advantage was not confined to strong or weak spellers. [→ Winch 1913](#winch-1913)

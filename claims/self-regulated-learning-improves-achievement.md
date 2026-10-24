@@ -8,6 +8,7 @@ generated:
 id: self-regulated-learning-improves-achievement
 aliases: [self-regulated-learning-improves-academic-outcomes, self-regulated-learning-improves-outcomes, self-regulated-learning-strategies-improve-achievement, self-regulated-learning-strategies-improve-performance, self-regulated-learning-strategy-instruction-improves-achievement, self-regulation-strategy-instruction-improves-academic-performance, self-regulation-strategy-instruction-improves-achievement]
 evidence_strength:
+newest_evidence: 2019
 sources:
   - id: dignath-büttner-2008
     resource: "https://doi.org/10.1007/s11409-008-9029-x"
@@ -42,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r3` · `q3`–`q4` · `i1`–`i2`
+> **Currency** · newest study 2019 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Learners who plan, monitor, and evaluate their own learning — and who are explicitly taught to do so — achieve better outcomes than learners who study the same material without these self-regulatory processes.
 

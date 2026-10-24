@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rowe-anna-d-fitness-julie-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836010/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Faculty perceived that the extent to which emotions promoted or hindered learning was mediated by gender, age and life experience, emotion intensity, personality factors, and the nature of learning tasks. [→ Rowe Anna D.; Fitness Julie 2018](#rowe-anna-d-fitness-julie-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2009
+recheck_by: 2012
 sources:
   - id: rijmen-2009
     resource: "https://doi.org/10.1002/j.2333-8504.2009.tb02160.x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For a multidimensional IRT model in which all dependencies between first-order dimensions are explained by a second-order dimension, the efficient EM algorithm's E-step involves a sequence of two-dimensional integrals over (zk, zg). [→ Rijmen 2009](#rijmen-2009)

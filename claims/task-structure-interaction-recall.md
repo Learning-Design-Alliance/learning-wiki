@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: amante-2026
     resource: "https://doi.org/10.1007/s11251-025-09764-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The 3 × 4 ANOVA on recall detected a task × structure interaction (F(6, 223) = 2.71, p =.019, η² = 0.18); self-construction was especially useful in I+C and ceased to be more useful when students worked individually throughout. [→ Amante 2026](#amante-2026)

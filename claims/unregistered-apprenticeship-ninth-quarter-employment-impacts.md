@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: jonah-deutsch-2026
     resource: "https://www.mathematica.org/publications/the-impact-of-registered-and-unregistered-apprenticeship"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The impact of unregistered apprenticeship on ninth-quarter employment ranged from 3.9 percentage points (College analysis) to 4.8 percentage points (Wagner-Peyser analysis). [→ Jonah Deutsch 2026](#jonah-deutsch-2026)

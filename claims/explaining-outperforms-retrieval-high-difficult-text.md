@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: jacob-2019
     resource: "https://aspredicted.org/sv3zv.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students who generated explanations outperformed students who retrieved the material, t(111) = 1.90, p = .030, d = 0.36. [→ Jacob 2019](#jacob-2019)

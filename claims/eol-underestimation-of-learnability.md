@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: jemstedt-2017
     resource: "https://doi.org/10.1007/s11409-017-9172-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiment 1, participants judged they would need more study trials than they actually did, and this was reliably more pronounced for the low-variability list (M = −.85) than the high-variability list (M = −.58), d = 0.51. [→ Jemstedt 2017](#jemstedt-2017)

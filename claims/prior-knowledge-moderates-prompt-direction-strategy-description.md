@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: meier-2024
     resource: "https://doi.org/10.1007/s11251-023-09651-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant three-way interaction of timepoint, prompt condition, and DRC prior-knowledge score on strategy description test scores; for mean-centered DRC scores above 1.68 anticipatory prompts had beneficial effects and retrospective prompts detrimental effects. [→ Meier 2024](#meier-2024)

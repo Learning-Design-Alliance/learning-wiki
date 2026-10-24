@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: alexander-skulmowski-2023
     resource: "https://doi.org/10.1007/s10648-023-09818-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Generative AI tools that easily generate content could lead users to overestimate their skills, and habitual use may diminish learners' competency in foundational skills AI can support. [→ Alexander Skulmowski 2023](#alexander-skulmowski-2023)

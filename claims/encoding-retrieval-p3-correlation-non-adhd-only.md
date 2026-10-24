@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: ortega-2020
     resource: "https://doi.org/10.1038/s41598-020-64678-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Encoding early-P3 amplitude correlated with retrieval P3 amplitude across trial types, with the significant correlations driven by the non-ADHD group (r = 0.51 Same; r = 0.50 Different); ADHD correlations were not significant. [→ Ortega 2020](#ortega-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: peters-2014
     resource: "https://doi.org/10.1016/j.learninstruc.2013.11.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For children with MLD, the Switch-Model (reaction times predicted by the minimum of subtrahend and difference) provided the best fit to reaction times on subtraction-format problems, explaining 47 % of the variance. [→ Peters 2014](#peters-2014)

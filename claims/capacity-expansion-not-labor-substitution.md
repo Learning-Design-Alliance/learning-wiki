@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: anas-h-alzahrani-2026
     resource: "https://doi.org/10.48550/arxiv.2605.26870"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` As the environment accumulated memory, tools, and procedures, the scope of delegated work expanded; the article reports capacity expansion, not proven labor substitution, and proposes artifact-level efficiency as the testable hypothesis for future work. [→ Anas H. Alzahrani 2026](#anas-h-alzahrani-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: sander-de-jong-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27726"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` LLMs improved task performance but made users overconfident about their own accuracy, and most participants relied on single prompts without further follow-up. [→ Sander de Jong 2026](#sander-de-jong-2026)

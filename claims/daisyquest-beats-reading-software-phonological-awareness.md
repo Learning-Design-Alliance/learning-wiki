@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: daisyquest-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Barker and Torgesen (1995), when DaisyQuest was compared with Hint and Hunt (short-vowel software), the WWC found two of five phonological awareness effects statistically significant and one more substantively important. [→ DaisyQuest 2006](#daisyquest-2006)

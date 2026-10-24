@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: building-a-national-early-childhood-education-system-that-works-2021
     resource: "https://eric.ed.gov/?id=ED614493"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Child care and preschool educators, disproportionately women of color, earn one third to one half of the wages of k-12 educators, and over half rely on public assistance. [→ Building a National Early Childhood Education System That Works 2021](#building-a-national-early-childhood-education-system-that-works-2021)

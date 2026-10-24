@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: rajan-kadel-2026
     resource: "https://doi.org/10.48550/arxiv.2609.03413"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The literature survey indicates existing reflection models do not have clear strategies for the problems GenAI introduces, and no new reflection model had been introduced to tackle them. [→ Rajan Kadel 2026](#rajan-kadel-2026)

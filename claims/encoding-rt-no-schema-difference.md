@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: van-kesteren-2014
     resource: "https://doi.org/10.1162/jocn_a_00630"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reaction times during encoding were not significantly different for schema-related versus schema-unrelated trials, suggesting equal attentional processing. [→ van Kesteren 2014](#van-kesteren-2014)

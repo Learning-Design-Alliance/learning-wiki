@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: gerry-stahl-2010
     resource: "https://doi.org/10.1007/s11412-010-9091-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Triads in the experimental condition, in which each participant displayed a concept map representing their own knowledge to collaborators, proved more efficient in collaborative problem solving than triads without such access. [→ Gerry Stahl 2010](#gerry-stahl-2010)

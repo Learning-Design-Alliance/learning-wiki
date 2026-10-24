@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2010
+source_checked: 2026-10-19
 sources:
   - id: cooperative-integrated-reading-and-composition-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/111"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Stevens and Slavin (1995), CIRC produced a statistically significant positive effect on the CAT Language Expression subtest but not on the CAT Language Mechanics subtest. [→ Cooperative Integrated Reading and Composition® 2010](#cooperative-integrated-reading-and-composition-2010)

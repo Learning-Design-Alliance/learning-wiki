@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: yining-wang-2025
     resource: "https://doi.org/10.1007/s10648-025-10005-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The tracing and pointing condition answered more terminology questions correctly (d = 0.39, one-tailed p = 0.041), but the difference was no longer statistically significant in an ANCOVA controlling self-reported prior knowledge (d = 0.30). [→ Yining Wang 2025](#yining-wang-2025)

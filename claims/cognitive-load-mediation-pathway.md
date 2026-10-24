@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: feng-z-and-huang-k-2026
     title: Feng Z and Huang K 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Personalized paths significantly reduced cognitive load (β = −0.72), and higher cognitive load was associated with poorer post-test performance (β = −0.48), supporting a mediation pathway; the abstract reports an indirect effect of 0.28, 95% CI (0.19, 0.37). [→ Feng Z and Huang K 2026](#feng-z-and-huang-k-2026)

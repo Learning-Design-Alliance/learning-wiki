@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: de-jong-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100536"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an analysis of the 10 highest and 10 lowest performing PISA 2015 regions, guided inquiry was positively associated with science achievement in all 16 regions where it was applied. [→ de Jong 2023](#de-jong-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: zirbes-1922
     resource: "https://doi.org/10.1037/h0074413"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The meanings of 'diagnosis' and 'analysis' are so often inadequately stated that it is difficult to tell whether diagnosis refers to individual cases, class conditions, or larger organizational units. [→ Zirbes 1922](#zirbes-1922)

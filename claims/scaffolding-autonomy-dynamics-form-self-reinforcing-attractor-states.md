@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: kupers-et-al-2017
     resource: "https://doi.org/10.1080/10508406.2016.1259624"
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 Eighteen months of video-coded individual music lessons across three teacher-student dyads showed each pair converging on a distinct, self-reinforcing interaction pattern (a directive/entrenched pattern, an unsettled pattern, or a positive "flow" pattern), with a student's initially low autonomy need predicting a more directive trajectory and a sudden large increase in teacher autonomy support failing to stick when it was too far outside the dyad's established pattern.
 

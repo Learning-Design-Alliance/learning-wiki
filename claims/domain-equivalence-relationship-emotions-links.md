@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: goetz-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101349"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Allowing the emotion-to-relationship effect to vary across domains did not improve fit (∆χ²(3) = 2.89, p = .408), and allowing the relationship-to-emotion effect to vary across domains likewise did not improve fit (∆χ²(3) = 6.93, p = .074). [→ Goetz 2021](#goetz-2021)

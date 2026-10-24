@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: neubauer-2022
     resource: "https://osf.io/gfvja/?view_only=b87fe179cf134471948726cb0e482a80"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Performance-approach goals (β = -.028) and performance-avoidance goals (β = .050) showed no statistically meaningful same-day association with academic success; only the mastery-goal link held, so Hypothesis 1 was only partially supported. [→ Neubauer 2022](#neubauer-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: jiang-2014
     resource: "https://consortium.uchicago.edu/publications/teacher-evaluation-practice-year-2-teacher-and-administrator-perceptions-reach"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers with five or fewer years of district experience were more positive: 71 percent of beginning teachers said they were satisfied with the system, compared with 58 percent of veteran teachers. [→ Jiang 2014](#jiang-2014)

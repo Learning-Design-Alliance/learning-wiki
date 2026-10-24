@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: alexandra-merritt-johnson-2023
     resource: "https://doi.org/10.51388/20.500.12265/197"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 100% of responding solution providers were satisfied or very satisfied with facilitator preparedness, networking opportunities, and solution mapping, while at least one provider indicated dissatisfaction with Lightning Talks, Root Cause Analysis, and Co-Design. [→ Alexandra Merritt Johnson 2023](#alexandra-merritt-johnson-2023)

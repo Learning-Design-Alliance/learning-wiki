@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: benner-aprile-d-crosnoe-robert-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4554342/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the joint model, racial/ethnic match was significantly associated with fewer teacher-rated externalizing symptoms (ß = −.03) and marginally associated with stronger interpersonal skills (ß = .03). [→ Benner Aprile D.; Crosnoe Robert 2011](#benner-aprile-d-crosnoe-robert-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-13
 sources:
   - id: price-2026
     resource: "https://doi.org/10.54300/810.406"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers identified district-level structures such as pacing calendars and standardized assessments as impediments to positive classroom conditions when these pressured them to rush through material with little regard for student mastery. [→ Price 2026](#price-2026)

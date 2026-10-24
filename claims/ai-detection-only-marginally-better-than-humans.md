@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: sandra-leaton-gray-2025
     resource: "https://doi.org/10.1007/s10805-025-09642-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Machine detection of AI-generated text succeeds only marginally more often than human review, at around 80% versus 78.4%. [→ Sandra Leaton Gray 2025](#sandra-leaton-gray-2025)

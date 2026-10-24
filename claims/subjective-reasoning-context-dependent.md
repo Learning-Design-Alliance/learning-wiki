@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: elbehary-2021
     resource: "https://doi.org/10.4102/pythagoras.v42i1.630"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` About 60% of PSMTs (41 of 68) reasoned subjectively in the giving-birth context, but no subjective reasoning appeared in the die task; in this qualitative comparison of responses to two items, subjective reasoning appeared in the realistic-context item and not in the die item, which the author reads as suggesting the fruitfulness of realistic contexts for displaying subjective probability (other realistic contexts and randomising devices were not tested). [→ Elbehary 2021](#elbehary-2021)

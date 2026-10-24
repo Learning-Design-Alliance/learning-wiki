@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: eldredge-c-2026
     resource: "https://doi.org/10.1093/jamia/ocag150"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A 4-topic LDA solution identified coherent clusters covering academic integrity and student AI use, generative AI tools in courses, AI and data tools in research, and student engagement with ChatGPT. [→ Eldredge C 2026](#eldredge-c-2026)

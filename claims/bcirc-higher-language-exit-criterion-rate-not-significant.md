@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: bilingual-cooperative-integrated-reading-and-composition-2007
     resource: "https://eric.ed.gov/?id=ED405428"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` 39% of BCIRC third graders scored above the 40th percentile on the NAPT language test versus 21% of comparison students; the reported effect size was 0.53 and not statistically significant. [→ Bilingual Cooperative Integrated Reading and Composition 2007](#bilingual-cooperative-integrated-reading-and-composition-2007)

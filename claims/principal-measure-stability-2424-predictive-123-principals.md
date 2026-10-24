@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: hanley-chiang-2016
     resource: "https://eric.ed.gov/?id=ED570000"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The study examined rating stability using data on 2,424 principals and examined the relationship between the stable part of ratings and future contributions using data on 123 principals. [→ Hanley Chiang 2016](#hanley-chiang-2016)

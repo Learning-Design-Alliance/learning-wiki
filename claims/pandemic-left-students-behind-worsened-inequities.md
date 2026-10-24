@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: megan-kuhfeld-2022
     resource: "https://doi.org/10.1177/23328584221099306"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The authors state the findings support a theory of across-the-board academic setbacks combined with widening inequities. [→ Megan Kuhfeld 2022](#megan-kuhfeld-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: early-intervention-in-reading-2008
     resource: "http://www.earlyinterventioninreading.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of seven studies reviewed, only Taylor, Frye, Short, & Shearer (1991), a randomized controlled trial with 59 first-grade students, met WWC evidence standards; the other six failed eligibility screens or standards. [→ Early Intervention in Reading® 2008](#early-intervention-in-reading-2008)

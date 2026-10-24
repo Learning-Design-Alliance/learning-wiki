@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: daniel-long-2025
     resource: "https://www.nwea.org/research/publication/unequal-access-to-8th-grade-algebra-how-school-offerings-and-placement-practices-limit-opportunity/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Significant gaps in Algebra access are tied to school poverty levels, geography, and race/ethnicity. [→ Daniel Long 2025](#daniel-long-2025)

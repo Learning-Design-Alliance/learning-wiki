@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2007
+recheck_by: 2012
 sources:
   - id: halpern-2007
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2004 women earned 25 percent of computer science, 22 percent of physics, and 21 percent of engineering bachelor's degrees, versus 51 percent in chemistry and 46 percent in mathematics. [→ Halpern 2007](#halpern-2007)

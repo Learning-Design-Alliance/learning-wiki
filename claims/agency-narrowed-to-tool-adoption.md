@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shahin-hossain-2026
     resource: "https://doi.org/10.48550/arxiv.2608.01705"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`–`q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Reviewed frameworks define agency as adopting tools, writing effective prompts, and making individual use decisions, which the authors argue misses ethical and civic demands. [→ Shahin Hossain 2026](#shahin-hossain-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shihao-wang-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29874"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` After repair and deterministic reference gating, 519 of 544 newly generated messages (95.4%) contained all required components, while 25 required further structural review. [→ Shihao Wang 2026](#shihao-wang-2026)

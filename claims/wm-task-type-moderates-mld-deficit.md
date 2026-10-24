@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kroesbergen-2023
     resource: "https://doi.org/10.3102/00346543221132773"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Inhibition tasks yielded smaller MLD-control effect sizes than verbal updating (p = .041) and visuospatial updating (p = .015) tasks; processing-speed measures yielded larger effect sizes than all other working-memory measures except visuospatial updating. [→ Kroesbergen 2023](#kroesbergen-2023)

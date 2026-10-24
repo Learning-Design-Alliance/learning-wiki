@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: mariann-lemke-2023
     resource: "https://eric.ed.gov/?id=ED638580"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fewer kindergarten and grade 3 students were identified at any level of risk than grade 1 and 2 students, and more students in several disadvantaged groups were identified at risk than their peers. [→ Mariann Lemke 2023](#mariann-lemke-2023)

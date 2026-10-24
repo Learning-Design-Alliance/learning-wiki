@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 1979
 sources:
   - id: eylon-1979
     resource: "https://eric.ed.gov/?id=ED171804"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` College physics subjects trained with a hierarchical organization scored significantly higher on composite complex-task scores than subjects trained with a single-level organization presented once or twice. [→ Eylon 1979](#eylon-1979)

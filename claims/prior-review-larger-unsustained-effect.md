@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2` · `i1` small
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The original 2018 review of RCTs found a small but statistically significant short-term reduction in exclusion (SMD = 0.30) that was not sustained in longer-term follow-ups. [→ prior-review](#prior-review)

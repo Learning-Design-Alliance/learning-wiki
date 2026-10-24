@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: stephen-colbran-2026
     resource: "https://doi.org/10.1186/s41239-026-00605-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Users rated the chatbots easy to use, clear, relevant and accurate, but reported occasional errors, and the intrusive automatic pop-up was the biggest usability complaint among both users and non-users. [→ Stephen Colbran 2026](#stephen-colbran-2026)

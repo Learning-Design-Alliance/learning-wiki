@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nikolai-maurer-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100376"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The single significant correlation was for never using AI for preparation/follow-up because of no subject-specific relevance (Cramer's V = 0.437), mentioned most often by chemistry teachers. [→ Nikolai Maurer 2026](#nikolai-maurer-2026)

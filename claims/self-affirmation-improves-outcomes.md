@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: self-affirmation-improves-outcomes
 evidence_strength: unverified
+newest_evidence: 2017
 sources:
   - id: cohen-et-al-2006
     resource: "https://doi.org/10.1126/science.1128317"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Self-affirmation improves outcomes -->
 
 Self-affirmation — briefly reflecting on personally important values before an evaluative or threatening task — reduces defensiveness and stress, which in turn can improve performance and persistence.

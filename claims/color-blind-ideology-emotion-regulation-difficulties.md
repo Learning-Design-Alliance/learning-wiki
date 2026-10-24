@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: jessica-t-decuir-gunby-paul-a-schutz-2024
     resource: "https://doi.org/10.1007/s10648-024-09873-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In DeCuir-Gunby et al. (2020), pre-service teachers who scored higher on color-blind racial ideology scales tended to have difficulties regulating their emotions in racial situations and changing negative thoughts about other racial groups. [→ Jessica T. DeCuir-Gunby · Paul A. Schutz 2024](#jessica-t-decuir-gunby-paul-a-schutz-2024)

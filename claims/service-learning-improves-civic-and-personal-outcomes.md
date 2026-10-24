@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: naval-2022
     resource: "https://doi.org/10.3390/educsci12040240"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in integrated quality projects using service-learning reported improvements in self-efﬁcacy, self-esteem, positive attitudes towards school, and increased community-participation behaviors. [→ Naval 2022](#naval-2022)

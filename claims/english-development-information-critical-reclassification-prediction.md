@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-09
+recheck_by: 2021
 sources:
   - id: tyler-matta-2018
     resource: "https://doi.org/10.3102/1076998618791259"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The authors conclude that information about English-language development is critical for accurately predicting the grade at which an English learner will reclassify. [→ Tyler Matta 2018](#tyler-matta-2018)

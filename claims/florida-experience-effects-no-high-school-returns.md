@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: kini-2016
     resource: "https://doi.org/10.54300/625.642"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Experience effects reached as much as 0.16 SD in achievement gains for teachers with 15–24 years of experience relative to a first-year teacher in elementary and middle school. [→ Kini 2016](#kini-2016)

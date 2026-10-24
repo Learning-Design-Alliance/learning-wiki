@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: depaoli-2023
     resource: "https://doi.org/10.54300/701.445"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`–`q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A national study of more than 36,000 secondary students found school connectedness was the strongest protective factor against school absenteeism, substance abuse, and violence. [→ dePaoli 2023](#depaoli-2023)

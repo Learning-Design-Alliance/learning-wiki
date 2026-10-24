@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-22
 sources:
   - id: de-bruin-2025
     resource: "https://doi.org/10.1007/s10648-025-10042-2"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An editorial reports that, in Evans et al.'s (2024) survey, teachers' use of load-reducing strategies correlated with lower cognitive load and higher autonomous motivation, engagement, and achievement among high-school students. [→ de Bruin 2025](#de-bruin-2025)

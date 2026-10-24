@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: jenna-howard-terrell-2023
     resource: "https://eric.ed.gov/?id=ED633310"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Case-study states combine performance assessments with, rather than replace, standardized multiple-choice testing, embedding them in broader assessment systems such as Virginia's Balanced Assessment Plan and Colorado's Graduation Menu of Options. [→ Jenna Howard Terrell 2023](#jenna-howard-terrell-2023)

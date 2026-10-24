@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1914
 sources:
   - id: heck-1914
     resource: "https://www.jstor.org/stable/1412814"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 150 marked compositions, home compositions were 0.4 percent better in form and 0.9 percent better in content than school compositions — differences the author calls negligible in school practice. [→ Heck 1914](#heck-1914)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: geary-david-c-2023
     resource: "https://doi.org/10.1037/edu0000763"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Boys scored higher than girls on the Algebra Word problem test (d = .51), Function Mapping (d = .28), Equation Memory (d = .23), and Arithmetic Fluency (d = .26), with no other mathematics-measure sex differences. [→ Geary David C. 2023](#geary-david-c-2023)

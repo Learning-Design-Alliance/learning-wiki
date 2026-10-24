@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: coogan-p-2020
     resource: "https://doi.org/10.1002/dad2.12067"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The multivariable OR for three positive responses compared to none in the highest compared to the lowest quartile of daily racism was 2.50 (95% CI 2.09 to 2.98) for the first three memory questions and 2.50 (95% CI 1.37 to 4.56) for the last three non-memory questions. [→ Coogan P 2020](#coogan-p-2020)

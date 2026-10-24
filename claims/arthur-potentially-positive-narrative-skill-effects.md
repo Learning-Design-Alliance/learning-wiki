@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: arthur-wwc-intervention-report-2006
     resource: "http://pbskids.org/arthur/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Kindergarten English language learners who watched Arthur showed greater improvement in narrative skill development than comparison-group students watching Between the Lions, with a WWC-calculated effect size of 0.44 on the combined narrative measure that was not statistically significant but substantively important. [→ Arthur (WWC Intervention Report) 2006](#arthur-wwc-intervention-report-2006)

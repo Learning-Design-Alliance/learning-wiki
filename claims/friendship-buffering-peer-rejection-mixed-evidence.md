@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some studies found having at least one good friend buffers the negative effects of peer rejection on maladjustment and victimization, but an ADHD-sample study found only peer rejection, not friendship, contributed to later depression. [→ Mikami 2015](#mikami-2015)

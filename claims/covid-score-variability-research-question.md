@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: megan-kuhfeld-2022
     resource: "https://www.nwea.org/research/publication/technical-appendix-for-the-widening-achievement-divide-during-covid-19/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` One of the brief's two main research questions asked to what degree students' reading and math test scores became more variable as a result of the COVID-19 pandemic. [→ Megan Kuhfeld 2022](#megan-kuhfeld-2022)

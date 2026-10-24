@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: elaine-m-allensworth-and-andrew-zou-2020
     resource: "https://consortium.uchicago.edu/publications/supporting-neighborhood-schools-from-pre-k-through-high-school"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Across Illinois schools in 2019, the percentage of low-income students was strongly negatively correlated with school ELA proficiency (r = -.77) and math proficiency (r = -.79). [→ Elaine M. Allensworth and Andrew Zou 2020](#elaine-m-allensworth-and-andrew-zou-2020)

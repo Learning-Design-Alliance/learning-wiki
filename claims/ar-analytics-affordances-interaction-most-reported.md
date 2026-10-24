@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: manjeet-singh-usma-2025
     resource: "https://doi.org/10.18608/jla.2025.8447"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the review's coding of affordances, interaction (14) and projection of contextual information (11) are the most frequently reported, followed by sensory (10), spatial portability (8), and 3D visual overlay (7). [→ Manjeet Singh Usma 2025](#manjeet-singh-usma-2025)

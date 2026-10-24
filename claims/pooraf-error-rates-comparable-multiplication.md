@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: mussolin-2008
     resource: "https://doi.org/10.2174/1874350100801010026"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The group effect on error rates was not significant and did not interact with task; PoorAF children's multiplication error rates were low and comparable to controls. [→ Mussolin 2008](#mussolin-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: cl-1
     title: cl-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In two engagement approaches (a district research project and design thinking workshops), Carnegie Learning received positive practitioner feedback, attributed to emphasizing research goals, connecting with participants' needs, making time commitments clear, lowering effort barriers, and compensating practitioners. [→ cl-1](#cl-1)

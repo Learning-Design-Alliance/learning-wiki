@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: coca-2017
     resource: "https://toandthrough.uchicago.edu/tool"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Black and Latino graduates in 2015 had overall enrollment rates 15 to 25 percentage points lower than their White and Asian counterparts, a wider gap than seen nationally. [→ Coca 2017](#coca-2017)

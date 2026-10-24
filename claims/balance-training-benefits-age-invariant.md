@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: rogge-2017
     resource: "https://doi.org/10.1038/s41598-017-06071-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Age did not correlate with pre-to-post change in any physical or cognitive variable (all r < 0.12, p > 0.250). [→ Rogge 2017](#rogge-2017)

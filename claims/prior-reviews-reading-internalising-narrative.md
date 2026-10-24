@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: francis-2019
     resource: "https://doi.org/10.1016/j.cpr.2018.09.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Mugnaini et al., that poor readers of all ages are at risk for internalising problems, that poor reading is specifically associated with both anxiety and depression, and that poor readers with attention problems are at higher risk than those without. [→ Francis 2019](#francis-2019)

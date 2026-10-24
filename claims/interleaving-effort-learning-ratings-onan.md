@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: anique-b-h-de-bruin-2023
     resource: "https://doi.org/10.1007/s10648-023-09766-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learners perceived more effort and less learning for interleaving than for blocking, but these differences decreased with experience, mostly because effort diminished and perceived learning increased for interleaving. [→ Anique B. H. de Bruin 2023](#anique-b-h-de-bruin-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jochen-kuhn-2026
     resource: "https://doi.org/10.48550/arxiv.2601.13812"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that whether students who complete AIRIS-structured tasks retain the capacity to generate, evaluate, and coordinate representations once AI support is removed is the decisive open empirical question, requiring comparisons of AI-supported and AI-withdrawn performance at sufficient scale. [→ Jochen Kuhn 2026](#jochen-kuhn-2026)

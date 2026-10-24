@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: national-guard-youth-challenge-program-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/329"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 14 studies reviewed, only one met WWC evidence standards; the remaining 13 did not meet standards or eligibility screens. [→ National Guard Youth ChalleNGe Program 2010](#national-guard-youth-challenge-program-2010)

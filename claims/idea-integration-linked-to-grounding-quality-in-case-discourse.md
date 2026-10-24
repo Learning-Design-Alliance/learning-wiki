@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: esther-tan-2018
     resource: "https://doi.org/10.1007/s11251-018-9460-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Where the group did not successfully integrate individuals' ideas or reached quick consensus without sound verification, forging common ground was hindered and low-level inquiry outcomes followed. [→ Esther Tan 2018](#esther-tan-2018)

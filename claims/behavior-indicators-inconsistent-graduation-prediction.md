@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: allensworth-2018
     resource: "https://ncs.uchicago.edu/freshman-on-track-toolkit"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Differences in how behavior data is collected, in behavioral expectations and discipline policies across places, or in study methodologies may explain why behavior predicts dropout more strongly in some places than others. [→ Allensworth 2018](#allensworth-2018)

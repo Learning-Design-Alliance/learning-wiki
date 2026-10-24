@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-17
 sources:
   - id: star-2015
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/20"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The practices in Recommendation 3 are most effective in improving procedural flexibility. [→ Star 2015](#star-2015)

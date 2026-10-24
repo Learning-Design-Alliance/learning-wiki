@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: megan-kuhfeld-2025
     resource: "https://www.nwea.org/research/publication/technical-appendix-for-boys-regain-the-advantage-in-middle-school-stem-skills-post-covid-trends-in-gender-achievement-gaps/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The study leverages data from three national assessments, as well as enrollment in Algebra, to examine trends in gender gaps in 8th grade STEM skills over the course of the pandemic. [→ Megan Kuhfeld 2025](#megan-kuhfeld-2025)

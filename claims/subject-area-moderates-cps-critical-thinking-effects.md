@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: xu-2023
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Mathematics had the greatest overall impact (ES = 1.68, P < 0.01), followed by science (ES = 1.25) and medical science (ES = 0.87); programming technology was least effective (ES = 0.39). [→ Xu 2023](#xu-2023)

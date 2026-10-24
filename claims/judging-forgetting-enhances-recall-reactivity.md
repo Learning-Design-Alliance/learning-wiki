@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: dillon-h-murphy-2023
     resource: "https://doi.org/10.1007/s11409-023-09332-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiment 1a (fixed 30-s study), words predicted to be forgotten were recalled better than words not given a prediction (d = 0.70). [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)

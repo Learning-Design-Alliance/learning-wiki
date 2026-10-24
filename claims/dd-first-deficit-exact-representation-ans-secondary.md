@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: noël-m-p-and-rousselle-l-2011
     title: Noël M-P and Rousselle L 2011
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The first deficit in DD is a basic dysfunction in building the exact representation of symbolic numbers; reduced ANS acuity appears later as its consequence. [→ Noël M-P and Rousselle L 2011](#noel-m-p-and-rousselle-l-2011)

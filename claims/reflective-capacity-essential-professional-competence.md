@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: mann-2009
     resource: "https://doi.org/10.1007/s10459-007-9090-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Reflective capacity is widely regarded in the literature as an essential characteristic for professional competence. [→ Mann 2009](#mann-2009)

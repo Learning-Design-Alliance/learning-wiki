@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: leung-gagné-2023
     resource: "https://doi.org/10.54300/109.432"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 59% of LEAs planned to offer TK at all sites offering kindergarten, and 68% planned to offer only full-day TK with 11% offering both full- and part-day. [→ Leung-Gagné 2023](#leung-gagne-2023)

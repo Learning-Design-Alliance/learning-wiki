@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: du-2025
     resource: "https://doi.org/10.1016/j.edurev.2025.100688"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a meta-analysis of k = 39 studies, children's agreeableness, conscientiousness, extraversion, and openness were positively associated with positive parent–child relationships (e.g., warmth) and negatively associated with negative parent–child relationships (e.g., conflict). [→ Du 2025](#du-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: daniell-difrancesca-2025
     resource: "https://doi.org/10.1007/s11251-025-09741-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Absolute monitoring accuracy showed a significant group-by-time interaction, but with opposite directions at different time points (HC < LC at Kahoot 2; LC < HC at Kahoot 5), which the authors interpret as no meaningful difference. [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

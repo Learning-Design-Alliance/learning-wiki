@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: daiki-nakamura-2026
     resource: "https://doi.org/10.1007/s10648-026-10224-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` A three-level meta-analysis of GenAI and critical thinking reports a positive mean association (g = 0.544) with a 95% prediction interval from −0.588 to 1.677 and unexplained heterogeneity. [→ Daiki Nakamura 2026](#daiki-nakamura-2026)

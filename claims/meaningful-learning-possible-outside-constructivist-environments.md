@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: david-gijbels-2009
     resource: "https://doi.org/10.1007/s11251-009-9100-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Learning in lectures can be a constructive process leading to meaningful learning; meaningful learning does not exclusively occur in environments explicitly designed on constructivist theories. [→ David Gijbels 2009](#david-gijbels-2009)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: burns-2021
     resource: "https://learningpolicyinstitute.org/product/students-experiencing-homelessness"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2015–16, 29% of students experiencing homelessness met or exceeded ELA standards and 19% met mathematics standards, compared with 48% and 37% of all students statewide. [→ Burns 2021](#burns-2021)

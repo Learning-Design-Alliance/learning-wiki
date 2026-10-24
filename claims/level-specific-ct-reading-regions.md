@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: xia-zhichao-2018
     resource: "https://doi.org/10.1177/0165025417727872"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` None of the four word-reading ROIs correlated significantly with sentence comprehension after FDR correction, and the word-reading correlations remained significant when comprehension was covaried (e.g., LSTG: r = 0.712, p = 0.001). [→ Xia Zhichao 2018](#xia-zhichao-2018)

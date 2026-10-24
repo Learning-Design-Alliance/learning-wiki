@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: jacobs-2024
     resource: "https://doi.org/10.51388/20.500.12265/222"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among TECTA entrants, 17.3% completed a CDA, 4.9% an associate degree, and 1.8% a bachelor's degree or higher after orientation. [→ Jacobs 2024](#jacobs-2024)

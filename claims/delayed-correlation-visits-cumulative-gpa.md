@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: cooper-2010
     resource: "https://doi.org/10.1080/10790195.2010.10850328"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` For the 200740F cohort, fall quarter TC usage correlated significantly with spring quarter cumulative GPA (r=0.127, p=.021) and winter usage with the following fall GPA (r=0.149, p=.023); no significant correlation appeared for the 200740X cohort. [→ Cooper 2010](#cooper-2010)

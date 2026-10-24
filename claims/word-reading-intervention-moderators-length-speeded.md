@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: verhoeven-2022
     resource: "https://doi.org/10.1016/j.edurev.2022.100486"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effect sizes of computer-assisted word reading interventions were moderated by treatment length, subword level as criterion variable, and speeded tests. [→ Verhoeven 2022](#verhoeven-2022)

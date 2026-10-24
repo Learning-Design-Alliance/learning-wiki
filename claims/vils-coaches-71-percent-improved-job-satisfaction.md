@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: survey-coaches
     title: survey-coaches
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In a 2024 survey of Miami-Dade County coaches, 71% said program participation improved their job satisfaction extensively (50%) or moderately (21%). [→ survey-coaches](#survey-coaches)

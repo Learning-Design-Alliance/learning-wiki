@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: said-metwaly-2019
     resource: "https://scholar.google.com/scholar?q=Does+the+Fourth-Grade+Slump+in+Creativity+Actually+Exist"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For originality, the Grade 3–4 SMD was significant for WKCT (-0.54, p = .02) but not for TTCT (0.09) or other tests (-0.23); no standardized effect size is printed for the moderation itself. [→ Said-Metwaly 2019](#said-metwaly-2019)

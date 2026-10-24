@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: perry-2019
     resource: "https://eric.ed.gov/?id=ED601900"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In both 2016 and 2017, a higher percentage of MiC middle schools performed better than predicted than middle schools in similar non-selected districts, significant at p < .05. [→ Perry 2019](#perry-2019)

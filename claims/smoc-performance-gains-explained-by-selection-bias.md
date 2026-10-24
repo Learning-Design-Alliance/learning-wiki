@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: robinson-2021
     resource: "https://doi.org/10.1007/s10648-020-09588-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A major-weighted GPA difference of 0.11 between the 2011 online-testing and 2008 traditional groups matches the reported advantages of 0.11 and 0.12, so selection bias accounts for the apparent effect. [→ Robinson 2021](#robinson-2021)

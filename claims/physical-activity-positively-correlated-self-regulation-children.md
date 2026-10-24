@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: lópez-gil-2020
     resource: "https://doi.org/10.3390/ijerph17165676"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` After adjustment for age, sex, BMI z-score and sleep quality, physical activity positively correlated with self-regulation (r = 0.265). [→ López-Gil 2020](#lopez-gil-2020)

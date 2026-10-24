@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: wells-1915
     resource: "https://www.google.com/search?q=%22An+Apparatus+for+the+Mirror-Drawing+Test%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` By defining an error as lateral movement of the stylus off the inscribed star, the apparatus makes an error mean the same thing to all students and from day to day. [→ Wells 1915](#wells-1915)

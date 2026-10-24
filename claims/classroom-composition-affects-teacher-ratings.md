@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: delgado-2026
     resource: "https://consortium.uchicago.edu/publications/classroom-composition-affects-teacher-performance-ratings"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD -->
 

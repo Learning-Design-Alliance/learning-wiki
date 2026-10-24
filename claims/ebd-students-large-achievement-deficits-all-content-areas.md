@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2004
+recheck_by: 2009
 sources:
   - id: nelson-2004
     title: Nelson 2004
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Students with emotional/behavioral disorders showed large academic achievement deficits across all content areas in a random sample of 155 K-12 students. [→ Nelson 2004](#nelson-2004)

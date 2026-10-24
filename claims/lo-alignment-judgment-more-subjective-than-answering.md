@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: lo-alignment-agreement-1
     title: lo-alignment-agreement-1
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2` · `q3`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Human judges reached only moderate agreement on whether MCQs test a given learning objective (Fleiss' kappa = 0.58), lower than their agreement on correct answers (0.70). [→ lo-alignment-agreement-1](#lo-alignment-agreement-1)

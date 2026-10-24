@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: grazia-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101826"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The protective association of perceived teacher justice remained significant when gender, nationality, motivation and perceived learning difficulty were included as controls. [→ Grazia 2024](#grazia-2024)

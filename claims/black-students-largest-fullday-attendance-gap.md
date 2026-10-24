@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ehrlich-2021
     resource: "https://consortium.uchicago.edu/publications/meeting-families-needs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 2012-13 and 2015-16, the attendance difference between full-day and half-day programs was about 4-5 percentage points among Black students, larger than for other racial/ethnic groups. [→ Ehrlich 2021](#ehrlich-2021)

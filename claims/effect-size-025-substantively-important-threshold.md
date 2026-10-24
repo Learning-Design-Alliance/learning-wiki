@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: gersten-2007
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In accordance with What Works Clearinghouse criteria, the panel describes an effect size of +0.25 or higher as substantively important. [→ Gersten 2007](#gersten-2007)

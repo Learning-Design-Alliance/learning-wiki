@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: iva-i-hrastinski-2023
     resource: "https://doi.org/10.5937/specedreh22-37415"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Total PSP-1 scores differed significantly across the four age groups, with each older group performing significantly better than the previous one. [→ Iva I. Hrastinski 2023](#iva-i-hrastinski-2023)

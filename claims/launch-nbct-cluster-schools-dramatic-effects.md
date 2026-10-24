@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-20
+recheck_by: 2009
 sources:
   - id: hart-2006
     resource: "https://consortium.uchicago.edu/publications/principal-and-teacher-leadership-chicago-continuing-analysis-three-initiatives"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2009**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The two elementary schools with both a LAUNCH principal and a cluster of at least three national-board-certified teachers showed significantly positive differences on 8 of 16 measures compared to schools with similarly experienced principals. [→ Hart 2006](#hart-2006)

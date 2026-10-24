@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ratinho-2026
     resource: "https://doi.org/10.1007/s10648-025-10108-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 11 studies with 29 effect sizes, gamified instruction significantly increased motivation relative to traditional instruction, g = .383, 95% CI [.11, .66], p = .0218. [→ Ratinho 2026](#ratinho-2026)

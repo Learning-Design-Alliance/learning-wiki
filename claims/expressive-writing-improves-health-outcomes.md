@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: expressive-writing-improves-health-outcomes
 evidence_strength: pending
+newest_evidence: 2006
 sources:
   - id: frattaroli-2006
     resource: "https://doi.org/10.1037/0033-2909.132.6.823"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q3`–`q4` · `i0` negligible
+> **Currency** · newest study 2006 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Writing about emotional experiences improves physical and psychological health outcomes relative to writing about neutral topics.
 

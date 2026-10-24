@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: luo-2026
     resource: "https://doi.org/10.53761/887m5346"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Interest in AI for feedback in higher education is attributed mainly to its potential to reduce teachers' workload and enhance feedback timeliness in response to the massification of university education. [→ Luo 2026](#luo-2026)

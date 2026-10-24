@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: new-research-chicago-showed-instructional-improvements-under-standards-reform-2022
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In schools where students and teachers reported frequently using standards-aligned practices in math and science classes, assessment gains were stronger than in schools where few students or teachers reported frequent use. [→ New research: Chicago showed instructional improvements under standards reform 2022](#new-research-chicago-showed-instructional-improvements-under-standards-reform-2022)

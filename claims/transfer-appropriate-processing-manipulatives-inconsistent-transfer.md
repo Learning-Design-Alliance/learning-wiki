@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: scott-c-marley-kira-j-carbonneau-2014
     resource: "https://doi.org/10.1007/s10648-014-9259-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When transfer of learning is measured with symbolic-format tasks, symbolic control conditions tend to outperform manipulative-based treatment conditions; the reverse may occur when transfer tasks require manipulating objects, a phenomenon the commentary identifies as transfer-appropriate processing. [→ Scott C. Marley & Kira J. Carbonneau 2014](#scott-c-marley-kira-j-carbonneau-2014)

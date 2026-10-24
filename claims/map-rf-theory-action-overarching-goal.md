@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: mary-ann-simpson-2021
     resource: "https://www.nwea.org/research/publication/map-reading-fluency-theory-of-action/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The MAP Reading Fluency theory of action posits hypothesized mechanisms of change and intermediate goals leading to the overarching goal of helping all students read fluently with comprehension. [→ Mary Ann Simpson 2021](#mary-ann-simpson-2021)

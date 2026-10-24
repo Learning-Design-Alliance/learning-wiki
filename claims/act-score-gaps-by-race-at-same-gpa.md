@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-20
+recheck_by: 2011
 sources:
   - id: elaine-allensworth-2008
     resource: "https://consortium.uchicago.edu/publications/high-school-future-act-preparation-too-much-too-late"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Among students with GPAs of 3.5 or higher, African American students scored on average five points below white students and Latino students three to four points below white students. [→ Elaine Allensworth 2008](#elaine-allensworth-2008)

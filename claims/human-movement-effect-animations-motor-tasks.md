@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-22
 sources:
   - id: fred-paas-john-sweller-2011
     resource: "https://doi.org/10.1007/s10648-011-9179-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A theoretical review reports two studies of human motor skills (origami; knot-tying and puzzle rings) in which observing a dynamic animation and imitating it led to better performance than a static representation, and concludes that animations showing human movement can be superior to static graphics despite their transient information. [→ Fred Paas & John Sweller 2011](#fred-paas-john-sweller-2011)

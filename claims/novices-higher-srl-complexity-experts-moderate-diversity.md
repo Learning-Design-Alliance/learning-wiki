@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: cloude-2025
     resource: "https://doi.org/10.1007/s11251-025-09729-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Novices demonstrated more complexity in SRL phase sequences (Med = 0.83) than experts (Med = 0.78), a marginal difference (W = 140, p = 0.0539). [→ Cloude 2025](#cloude-2025)

@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: papendieck-clarke-2024
     resource: "https://doi.org/10.1080/10508406.2024.2347597"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium · n=96 students (62 undergraduate, 34 graduate) across 6 cohorts; 65 interviewed; 57 survey respondents
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Organizing an interdisciplinary Course-Based Research Experience around a shared scientific-paper boundary object — that shifts function from compelling, to concrete, to normative, to novel across the term — helped disciplinarily diverse students integrate disciplinary differences and connected them to authentic research networks beyond the classroom, though students used varied and sometimes divergent tactics to cope with unresolved disciplinary disagreements.
 

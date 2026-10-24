@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: johannes-katsarov-2021
     resource: "https://doi.org/10.1007/s10648-021-09630-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q1`–`q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the pooled meta-regression, courses that did not teach ethical guidelines showed a significant positive effect (coefficient 0.35, p < .05) relative to superficial coverage. [→ Johannes Katsarov 2021](#johannes-katsarov-2021)

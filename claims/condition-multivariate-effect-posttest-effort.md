@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: mahir-akgun-and-sacip-toker-2026
     resource: "https://doi.org/10.48550/arxiv.2606.22328"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` MANCOVA revealed a statistically significant multivariate effect of condition on the combined outcomes, with approximately 18.5% of variance attributable to condition after adjusting for baseline. [→ Mahir Akgun and Sacip Toker 2026](#mahir-akgun-and-sacip-toker-2026)

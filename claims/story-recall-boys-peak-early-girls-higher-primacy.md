@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1909
 sources:
   - id: patterson-1909
     resource: "https://books.google.com"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Boys remembered 43 per cent in the second year of high school, the highest for boys; girls remembered 43 per cent in the seventh grade and 47 per cent in each high school grade; overall girls remembered 4 per cent more than boys. [→ Patterson 1909](#patterson-1909)

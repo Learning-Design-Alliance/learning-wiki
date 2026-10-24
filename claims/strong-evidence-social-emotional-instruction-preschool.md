@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2022
 sources:
   - id: burchinal-2022
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/30"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` A systematic WWC review found five studies meeting standards without reservations supporting intentional, engaging instruction and practice focused on social-emotional skills in preschool. [→ Burchinal 2022](#burchinal-2022)

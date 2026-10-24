@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: accelerated-reader-2010
     resource: "http://www.renlearn.com/ar/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the same randomized controlled trial, Accelerated Reader showed no statistically significant effects on the STAR reading test across grades 4 and 5 or on the 4J Vocabulary test for grade 4. [→ Accelerated Reader™ 2010](#accelerated-readertm-2010)

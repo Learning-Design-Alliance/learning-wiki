@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: susanne-james-burdumy-2006
     resource: "https://www.mathematica.org/publications/the-national-evaluation-of-reading-comprehension-interventions"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The design report lays out an evaluation assessing supplemental reading comprehension programs for fifth-grade students. [→ Susanne James-Burdumy 2006](#susanne-james-burdumy-2006)

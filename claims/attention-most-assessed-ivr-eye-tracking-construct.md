@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lee-2026
     resource: "https://doi.org/10.1007/s10648-026-10186-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 38 studies, attention was the most frequently assessed construct (19 studies, 43%), followed by visual strategy (11, 25%), social attention (6, 14%), cognitive load (5, 11%), emotion (2, 5%), and usability (1, 2%). [→ Lee 2026](#lee-2026)

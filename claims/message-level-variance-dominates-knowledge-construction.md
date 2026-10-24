@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: de-wever-2007
     resource: "https://doi.org/10.1016/j.learninstruc.2007.04.001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the three-level null model, 94.53% of total variance in knowledge construction is between messages, 2.84% between students within groups, and 2.63% between groups. [→ De Wever 2007](#de-wever-2007)

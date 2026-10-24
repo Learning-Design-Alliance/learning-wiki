@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: cognitive-overload-degrades-learning
 evidence_strength:
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: noetel-et-al-2022
     resource: "https://doi.org/10.3102/00346543211052329"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q3`–`q4` · `i1` small
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 When the demands of a learning task exceed the capacity of working memory, learning suffers. This claim covers the general mechanism; specific load-reduction techniques are treated in their own pages.
 

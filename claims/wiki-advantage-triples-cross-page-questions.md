@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: brian-wright-2026
     resource: "https://doi.org/10.48550/arxiv.2609.25303"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Splitting 59 questions by class, the wiki arm was nearly indifferent to question class (9.96 vs. 9.93 score) while vector RAG dropped from 9.33 on topic-page to 8.14 on cross-page questions, widening the score gap from 0.62 to 1.79 points and the groundedness gap from 87% vs. 98% to 64% vs. 100%. [→ Brian Wright 2026](#brian-wright-2026)

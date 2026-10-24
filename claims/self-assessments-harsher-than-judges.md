@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: jones-christopher-r-2012
     resource: "https://doi.org/10.1177/1948550611430166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants consistently rated themselves harshly relative to judges (M's of 3.02 versus 4.66, t(60) = 5.90, p < .001). [→ Jones Christopher R. 2012](#jones-christopher-r-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: menken-miriam-s-2023
     resource: "https://doi.org/10.1016/j.dcn.2023.101247"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i1` Bullied children had larger cortical volumes in the left entorhinal (d = 0.39), left superior parietal (d = 0.51), and right fusiform (d = 0.60) regions than non-bullied children. [→ Menken Miriam S. 2023](#menken-miriam-s-2023)

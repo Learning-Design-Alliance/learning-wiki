@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: badrinarayan-2025
     resource: "https://doi.org/10.54300/411.469"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The report asserts that participating in scoring activities supports facilitated professional learning on standards, practice analyzing student work, cross-classroom collaboration, and disrupting deficit narratives about students. [→ Badrinarayan 2025](#badrinarayan-2025)

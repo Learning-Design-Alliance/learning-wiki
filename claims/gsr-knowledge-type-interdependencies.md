@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: s-vonschallen-2026
     resource: "https://doi.org/10.48550/arxiv.2602.12873"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The identified design requirements are interdependent: assertiveness depends on educational strategies, learning goals and progress, learning type, and course deadlines; friendliness depends on emotional-state information; conscientiousness depends on learning materials. [→ S. Vonschallen 2026](#s-vonschallen-2026)

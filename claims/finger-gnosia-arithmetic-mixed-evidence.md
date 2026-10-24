@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: maëlle-neveu-2023
     resource: "https://doi.org/10.1007/s10648-023-09722-8"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a non-randomized controlled trial, finger gnosia training based on fine motor activities produced concurrent improvement in both finger gnosia and arithmetic skills specific to the training group. [→ Maëlle Neveu 2023](#maelle-neveu-2023)

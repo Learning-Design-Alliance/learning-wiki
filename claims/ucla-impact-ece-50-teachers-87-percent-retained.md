@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: cathy-yun-2022
     resource: "https://doi.org/10.54300/139.797"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over four cohorts, IMPACT prepared 50 new fully licensed teachers, 72% of whom identified as teachers of color, with 87% retained in the district for at least 3 years. [→ Cathy Yun 2022](#cathy-yun-2022)

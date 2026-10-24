@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: melnick-2018
     resource: "https://learningpolicyinstitute.org/product/early-learning-ca"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` California collects enrollment and supply data from multiple sources but does not centrally aggregate them, and counties lack the staff, technological capacity, and funding to collect, share, and analyze data. [→ Melnick 2018](#melnick-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: jenny-nagaoka-2013
     resource: "https://consortium.uchicago.edu/publications/readiness-college-role-noncognitive-factors-and-context"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students' likelihood of attaining a degree depends on the institutional characteristics of the colleges they attend and the fit between student needs and the college environment, not just on individual preparation. [→ Jenny Nagaoka 2013](#jenny-nagaoka-2013)

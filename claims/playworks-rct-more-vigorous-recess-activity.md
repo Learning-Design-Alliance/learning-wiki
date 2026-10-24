@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-17
 sources:
   - id: mathematica-policy-research-2014
     resource: "https://www.mathematica.org/publications/2014-facts-and-findings-print"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Accelerometer data showed children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools. [→ Mathematica Policy Research 2014](#mathematica-policy-research-2014)

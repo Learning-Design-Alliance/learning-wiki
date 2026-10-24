@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2012
 sources:
   - id: luxton-reilly-2009
     resource: "https://doi.org/10.1080/08993400903384844"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i3` large
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` A validity study of PeerWise found correlations between student ratings and instructor ratings of 0.5 and 0.58, leading authors to conclude students are reasonably effective at determining quality of peer-created MCQs. [→ Luxton-Reilly 2009](#luxton-reilly-2009)

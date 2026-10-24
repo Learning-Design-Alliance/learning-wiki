@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-19
 sources:
   - id: pijeira-díaz-2023
     resource: "https://doi.org/10.1007/s11409-023-09343-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Contrary to hypotheses, no significant differences were found between the two diagramming conditions in cue utilization or in relative or absolute metacomprehension accuracy for causal relations. [→ Pijeira-Díaz 2023](#pijeira-diaz-2023)

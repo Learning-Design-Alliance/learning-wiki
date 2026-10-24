@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: simon-baradziej-2026
     resource: "https://doi.org/10.1016/j.ssaho.2026.103418"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In an industry-reported evaluation of the Agent Laboratory framework, human oversight in co-pilot mode improved output quality ratings from an average of 3.8/10 to 4.38/10, suggesting structured human-AI collaboration outperforms fully autonomous operation. [→ Simon Baradziej 2026](#simon-baradziej-2026)

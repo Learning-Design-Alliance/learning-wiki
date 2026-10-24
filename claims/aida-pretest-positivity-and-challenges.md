@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rienties-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100607"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At pre-test, 82% of 209 participants were positive about having an AIDA in general and 89% thought an OU-developed AIDA would be useful, while 62% indicated challenges such as ethics and integrity; those with more GenAI experience were more positive about AIDA's affordances. [→ Rienties 2026](#rienties-2026)

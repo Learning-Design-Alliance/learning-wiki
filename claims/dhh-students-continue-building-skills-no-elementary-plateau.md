@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-10
+recheck_by: 2027
 sources:
   - id: stephanie-cawthon-2022
     resource: "https://doi.org/10.1093/deafed/enac033"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Both DHH and hearing students continue to build skills in grades 2 to 8 across seven reading and mathematics domains. [→ Stephanie Cawthon 2022](#stephanie-cawthon-2022)

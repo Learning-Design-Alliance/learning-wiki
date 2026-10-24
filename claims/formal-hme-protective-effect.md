@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: torppa-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102080"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of nine latent interaction models, seven suggested significant negative interaction effects between parental skills and formal HME, indicating the risk from lower parental skills was weaker when more formal HME was provided. [→ Torppa 2025](#torppa-2025)

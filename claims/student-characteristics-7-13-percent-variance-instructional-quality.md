@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bly-2026
     resource: "https://doi.org/10.1007/s10648-026-10215-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studying the same teacher working with different math classes, Heinschel et al. (2024) quantified the relative contribution of class composition against teacher instructional quality, reporting student characteristics contributed 7–13% of variance in instructional quality across lessons. [→ Bly 2026](#bly-2026)

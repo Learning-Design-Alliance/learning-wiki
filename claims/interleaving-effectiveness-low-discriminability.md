@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: ouhao-chen-fred-paas-john-sweller-2021
     resource: "https://doi.org/10.1007/s10648-021-09613-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Kang and Pashler (2012) and Zulkiply and Burt (2013) found interleaved practice more effective for materials with a low degree of discriminability, supporting the discriminative-contrast hypothesis. [→ Ouhao Chen & Fred Paas & John Sweller 2021](#ouhao-chen-fred-paas-john-sweller-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shuang-geng-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28710"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-guided step-by-step workflows nearly tripled (7 to 20), concept explanation requests more than doubled (12 to 28), and markers of sophistication — prompt constraint setting (8 to 15), explicit skepticism (4 to 11), and diagram-interpretation awareness (1 to 8) — all grew. [→ Shuang Geng 2026](#shuang-geng-2026)

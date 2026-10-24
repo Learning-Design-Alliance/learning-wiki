@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: annette-kujawski-taylor-2011
     resource: "https://doi.org/10.1177/0098628311421330"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Quiz comprehension did not differ significantly between students reading a digital versus paperbound text, at either immediate or 1-week delayed testing. [→ Annette Kujawski Taylor 2011](#annette-kujawski-taylor-2011)

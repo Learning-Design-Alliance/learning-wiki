@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1996
 sources:
   - id: t-sima-paribakht-and-marjorie-wesche-1996
     resource: "https://doi.org/10.1017/CBO9781139524643.013"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The process of incidental vocabulary acquisition through reading is slow, and which words will be learned, when, and to what degree cannot be predicted. [→ T. Sima Paribakht and Marjorie Wesche 1996](#t-sima-paribakht-and-marjorie-wesche-1996)

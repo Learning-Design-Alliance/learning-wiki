@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: parks-2026
     resource: "https://doi.org/10.1007/s11251-026-09816-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Four groups engaged in exploring the problem (P1) at the start of the scaffolded task but not the non-scaffolded task; four groups engaged in planning (P2) during the first half of the scaffolded task but not the non-scaffolded task. [→ Parks 2026](#parks-2026)

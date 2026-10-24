@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: johnson-2023
     resource: "https://doi.org/10.54300/529.194"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` LCFF significantly improved math and reading achievement in all tested grades (3rd–8th and 11th), with students in districts receiving concentration grants showing the largest achievement boost. [→ Johnson 2023](#johnson-2023)

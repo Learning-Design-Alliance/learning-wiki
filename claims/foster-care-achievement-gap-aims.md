@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: barrat-2015
     resource: "http://www.azed.gov/research-evaluation/files/2013/11/2013-a-f-technical-manual.pdf"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 40 percent of students in foster care met or exceeded mathematics standards (versus 63 percent of all and 54 percent of low-SES students) and 61 percent met reading standards (versus 79 and 71 percent). [→ Barrat 2015](#barrat-2015)

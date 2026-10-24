@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: gerry-stahl-friedrich-hesse-2011
     resource: "https://doi.org/10.1007/s11412-011-9112-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In the PISA 2009 results, Shanghai ranked first in reading, science, and mathematics, and five of the six top-placing countries were Asian. [→ Gerry Stahl & Friedrich Hesse 2011](#gerry-stahl-friedrich-hesse-2011)

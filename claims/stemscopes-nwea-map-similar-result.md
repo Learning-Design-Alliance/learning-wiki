@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: stemscopes-evidence-rating-summary-2024
     resource: "https://www.stemscopes.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` On the NWEA MAP Growth science assessment, a smaller number of students showed results similar to the STAAR finding, with an effect size of +0.17. [→ STEMscopes evidence rating summary 2024](#stemscopes-evidence-rating-summary-2024)

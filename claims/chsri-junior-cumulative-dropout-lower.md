@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: kahne-2006
     resource: "https://consortium.uchicago.edu/publications/small-schools-larger-scale-first-three-years-chicago-high-school-redesign-initiative"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The cumulative three-year dropout rate was 20 percent in first-cohort CHSRI schools versus 27 percent in comparable non-CHSRI schools, a marginally significant difference; freshman-year dropout rates did not differ significantly in any year. [→ Kahne 2006](#kahne-2006)

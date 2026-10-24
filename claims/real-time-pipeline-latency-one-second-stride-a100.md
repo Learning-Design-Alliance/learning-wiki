@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: christoforos-fragkiadakis-2026
     resource: "https://doi.org/10.48550/arxiv.2609.02232"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On an NVIDIA A100-SXM4-40GB GPU, the warm end-to-end pipeline averaged 50.65 ms per prediction window (19.7 predictions per second), and the temporal fairness model (402,531 trainable parameters) required 1.02 ms on average for prediction. [→ Christoforos Fragkiadakis 2026](#christoforos-fragkiadakis-2026)

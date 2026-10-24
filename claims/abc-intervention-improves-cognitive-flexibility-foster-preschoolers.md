@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: lewis-morrarty-2012
     resource: "https://doi.org/10.1016/j.jadohealth.2012.05.005"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a randomized clinical trial follow-up, foster children who received the ABC intervention scored significantly higher on the post-switch card sort than foster children who received the control intervention (d = 1.06). [→ Lewis-Morrarty 2012](#lewis-morrarty-2012)

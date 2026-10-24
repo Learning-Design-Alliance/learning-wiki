@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: gupta-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38967"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Of 2,664 person-resolved queries with no corpus link, 8.0% matched existing corpus-linked queries at a cosine similarity threshold of 0.70, at a manually validated match precision of 14 of 15; the estimate falls to 6.5% at threshold 0.85. [→ Gupta 2026](#gupta-2026)

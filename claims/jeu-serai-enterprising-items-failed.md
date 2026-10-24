@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: guardiola-2015
     resource: "https://doi.org/10.1007/978-3-319-05834-4_16"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Mini game ranking correlations were significant except for the Enterprising mini game Sand and Sweat, and most Enterprising elements did not work correctly. [→ Guardiola 2015](#guardiola-2015)

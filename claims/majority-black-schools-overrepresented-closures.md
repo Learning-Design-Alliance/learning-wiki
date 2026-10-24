@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: isaacs-2025
     resource: "https://www.nwea.org/research/publication/post-pandemic-school-closure-trends-schools-serving-black-students-disproportionately-closed/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2024-25, majority-Black schools made up about one quarter of closed schools but less than 10% of open schools. [→ Isaacs 2025](#isaacs-2025)

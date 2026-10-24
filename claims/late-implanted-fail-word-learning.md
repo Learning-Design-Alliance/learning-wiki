@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: derek-m-houston-2012
     resource: "https://doi.org/10.1111/j.1467-7687.2012.01140.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Paired t-tests showed significant target preferences for the early implanted group (Cohen's d = 1.41), their NH peers (d = .68), and the late group's NH peers (d = 1.17), but not for the late implanted group. [→ Derek M. Houston 2012](#derek-m-houston-2012)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: rolla-2024
     resource: "https://csaa.wested.org/resource/kindergarten-entry-assessments-an-examination-of-best-practices-national-trends-and-recommendations/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` EL classification in kindergarten negatively impacts teachers' perceptions of students' academic abilities across subjects and grade levels, though the negative effect is reduced in bilingual classroom settings. [→ Rolla 2024](#rolla-2024)

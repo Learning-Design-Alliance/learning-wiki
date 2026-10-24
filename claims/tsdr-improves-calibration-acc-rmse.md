@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: peilin-zhan-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05958"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On Linux and Database, where AUC gains plateau, TSDR frequently reduces RMSE and improves ACC, including a 1.70% RMSE reduction for SparseKT on Linux. [→ Peilin Zhan 2026](#peilin-zhan-2026)

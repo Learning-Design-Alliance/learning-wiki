@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: hammer-2014
     resource: "https://doi.org/10.1016/j.ecresq.2014.05.008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` French-English DLLs aged two to six had better syntactic awareness than monolingual peers, and Urdu-English five- and six-year-old DLLs were better at identifying grammatically incorrect utterances than Urdu- and English-speaking monolinguals. [→ Hammer 2014](#hammer-2014)

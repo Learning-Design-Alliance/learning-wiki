@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: yun-2008
     resource: "https://kuscholarworks.ku.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` University students of Japanese using a multiple-choice gloss with both English and Japanese outperformed students using a single English translation gloss on a vocabulary posttest. [→ Yun 2008](#yun-2008)

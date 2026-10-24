@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: alexandru-radu-moraru-2026
     resource: "https://doi.org/10.48550/arxiv.2608.20896"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the full sample, intrinsic load was lower for Pragmatic vs. Standard (p=0.0017) and Contingent vs. Standard (p=0.0431), and extraneous load differed only for Pragmatic vs. Standard (p=0.0064). [→ Alexandru-Radu Moraru 2026](#alexandru-radu-moraru-2026)

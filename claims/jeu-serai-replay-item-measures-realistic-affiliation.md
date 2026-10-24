@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: guardiola-2015
     resource: "https://doi.org/10.1007/978-3-319-05834-4_16"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Only two mini games out of 18 had their best replay correlation with the right RIASEC type, contrary to the preference hypothesis. [→ Guardiola 2015](#guardiola-2015)

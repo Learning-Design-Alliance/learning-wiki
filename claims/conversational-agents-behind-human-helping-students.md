@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: kasneci-2023
     resource: "https://doi.org/10.1016/j.lindif.2023.102274"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Blender and GPT-3 replied adequately and conveyed an impression of understanding the learner, but were well behind human performance in helping the student. [→ Kasneci 2023](#kasneci-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: venetsanos-2026
     resource: "https://doi.org/10.3390/aieduc2030026"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Current AI systems cannot reliably exercise the situated professional judgment required for valid evaluative feedback, and the normative commitment to human professional judgment should hold regardless of technical progress. [→ Venetsanos 2026](#venetsanos-2026)

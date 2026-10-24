@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: gibson-2025
     resource: "https://doi.org/10.48550/arxiv.2605.24142"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Analysis of Scenario 7 shows existing theories do not specify how learners coordinate internal monitoring of processing dynamics with external self-monitoring of output quality. [→ Gibson 2025](#gibson-2025)

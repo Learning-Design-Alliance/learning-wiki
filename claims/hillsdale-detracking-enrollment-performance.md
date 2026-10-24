@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: hernández-2024
     resource: "https://learningpolicyinstitute.org/product/cultivating-relationships-secondary-schools-brief"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three years into Hillsdale's redesign, 100% of African American and Latinx 9th-grade students were enrolled in biology, compared to only 18% in 2002–03, and District Common Assessment performance was equivalent to schools enrolling only high-track students. [→ Hernández 2024](#hernandez-2024)

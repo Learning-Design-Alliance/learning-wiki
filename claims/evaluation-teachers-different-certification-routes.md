@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: jill-constantine-2009
     resource: "https://doi.org/10.1108/978-1-61735-022-120251031"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The study evaluates teachers who were trained through different routes to certification, comparing outcomes across those routes. [→ Jill Constantine 2009](#jill-constantine-2009)

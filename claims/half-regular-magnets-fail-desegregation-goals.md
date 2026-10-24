@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
+recheck_by: 2003
 sources:
   - id: elaine-m-allensworth-2000
     resource: "https://consortium.uchicago.edu/publications/access-magnet-schools-chicago"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Of the 15 regular magnet schools subject to desegregation goals, only eight have white enrollment between 15 and 35 percent; the seven failing schools fell from 17.4 percent white in 1991-92 to 7.0 percent in 1999-2000. [→ Elaine M. Allensworth 2000](#elaine-m-allensworth-2000)

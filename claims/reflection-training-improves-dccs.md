@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: buttelmann-f-and-karbach-j-2017
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Training with corrective feedback and instructions to reflect on the task led to substantial DCCS improvements in 2- to 4-year-olds, greater untrained-DCCS gains than controls, reduced N2 amplitude and increased reaction time. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants evaluated the AI interaction training positively, rating it as useful and relevant and indicating positive adoption intentions. [→ Pishtari 2027](#pishtari-2027)

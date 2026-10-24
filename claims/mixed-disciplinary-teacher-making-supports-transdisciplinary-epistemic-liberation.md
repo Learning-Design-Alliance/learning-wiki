@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: finch-et-al-2021
     resource: "https://doi.org/10.1080/07370008.2021.1945064"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3` · n=6 core K-12 teachers plus 2 engineer co-participants, spanning art, science, and math/computing, one 5-day workshop plus subsequent classroom implementation
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 When art, science, and computing teachers jointly built programmable sculptural lanterns representing a shared classroom garden, all participating teachers raised evaluative criteria from disciplines outside their own — evidence that hands-on, mixed-disciplinary making can expand (not just apply) teachers' sense of what makes a representation "good."
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: daniel-l-schwartz-and-dylan-arena-2013
     resource: "http://www.macfound.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an initial study with sixth-grade children, children who chose to look at the catalog of charts learned much more about mixing additive color, and their catalog engagement time predicted about 35 percent of the variation in their mathematics grades. [→ Daniel L. Schwartz and Dylan Arena 2013](#daniel-l-schwartz-and-dylan-arena-2013)

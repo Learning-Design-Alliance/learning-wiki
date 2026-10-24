@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-08
 sources:
   - id: teach-for-america-2016
     resource: "https://www.teachforamerica.org"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the Clark et al. (2013) randomized controlled trial, students assigned to TFA math teachers scored significantly higher than students assigned to non-TFA comparison teachers in the same schools. [→ Teach For America 2016](#teach-for-america-2016)

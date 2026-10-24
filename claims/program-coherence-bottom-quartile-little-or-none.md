@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2010
 sources:
   - id: stuart-luppescu-and-holly-hart-2005
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-sample-elementary-details-2005"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers in bottom-quartile schools are markedly more negative about program coherence than those in top-quartile schools, with more than half describing little or no coherence and 42 percent describing moderate coherence. [→ Stuart Luppescu and Holly Hart 2005](#stuart-luppescu-and-holly-hart-2005)

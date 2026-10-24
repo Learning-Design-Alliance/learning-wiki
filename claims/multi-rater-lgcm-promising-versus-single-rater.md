@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: james-soland-2021
     resource: "https://doi.org/10.1080/00273171.2021.1925076"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The model shows promise for use with longitudinal multi-rater data, having been examined relative to cruder approaches such as single-rater growth estimation. [→ James Soland 2021](#james-soland-2021)

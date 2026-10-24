@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1995
+source_checked: 2026-10-20
 sources:
   - id: schunk-1995
     resource: "http://www.taylorandfrancis.com/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 1995 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On a difficult fractions task, observing a coping model enhanced self-efficacy, motivation, and posttest outcomes more than a mastery model. [→ Schunk 1995](#schunk-1995)

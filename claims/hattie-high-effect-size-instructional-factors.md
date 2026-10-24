@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: center-on-school-turnaround-at-wested-2018
     resource: "https://eric.ed.gov/?id=ED592990"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Lesson study (effect size 0.90), formative evaluation of teaching (0.90), discussion of learning (0.82), and providing feedback (0.80) are among the instructional factors with the greatest impact on student learning outcomes. [→ Center on School Turnaround at WestEd 2018](#center-on-school-turnaround-at-wested-2018)

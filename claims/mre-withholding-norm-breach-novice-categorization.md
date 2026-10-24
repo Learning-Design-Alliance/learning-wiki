@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: alena-seredko-2025
     resource: "https://doi.org/10.1007/s11412-025-09451-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In Thread 2, an OP's offer to upload an entire project instead of an MRE was corrected with reference to official guidelines, and delayed compliance coincided with thread removal. [→ Alena Seredko 2025](#alena-seredko-2025)

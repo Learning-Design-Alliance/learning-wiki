@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nicolas-hübner-2026
     resource: "https://doi.org/10.1007/s10648-026-10156-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across joy of learning, motivation, self-concept, and performance from Grade 2 to 4, the only difference was joy of learning in mathematics, which decreased for graded students between Grades 3 and 4. [→ Nicolas Hübner 2026](#nicolas-hubner-2026)

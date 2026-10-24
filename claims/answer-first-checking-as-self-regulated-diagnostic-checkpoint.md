@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a high-stakes homework environment, answer-first behavior can function as a rational self-regulation strategy for calibrating cognitive investment. [→ field-theme1 (2)](#field-theme1-2)

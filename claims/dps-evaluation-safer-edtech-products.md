@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: noakes-2025
     resource: "https://doi.org/10.51388/20.500.12265/267"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rigorous consideration of privacy and accessibility in the evaluation process reduced risks of data breaches and legal concerns, though the messaging has not fully resonated with all staff. [→ Noakes 2025](#noakes-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ana-pérez-2018
     resource: "https://doi.org/10.1016/j.learninstruc.2018.04.006"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` After the intervention, trained students made more references to the features of the more reliable source in their justifications than controls, while groups did not differ for the less reliable source. [→ Ana Pérez 2018](#ana-perez-2018)

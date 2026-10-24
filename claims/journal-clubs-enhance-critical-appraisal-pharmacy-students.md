@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kapu-h-2026
     resource: "https://doi.org/10.1136/bmjopen-2026-119283"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Journal club activities are adopted as an effective strategy to enhance critical appraisal skills among pharmacy and other healthcare students, demonstrating positive outcomes by improving students' ability to address drug-related queries and confidence. [→ Kapu H 2026](#kapu-h-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shaowen-lu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.13918"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The paired bootstrap 95% confidence interval for ROUGE-1 improvement crossed zero at 7B-r4, unlike most other settings. [→ Shaowen Lu 2026](#shaowen-lu-2026)

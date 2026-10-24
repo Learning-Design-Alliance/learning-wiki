@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: new-york-charter-schools-remote-instruction-during-covid-crisis-spring-2020-results-for-all-authorizers-2020
     resource: "https://credo.stanford.edu/reports/item/report-3/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Device access was a larger gap than internet access for students, whereas nearly all schools reported teachers had the devices and internet access needed (97.8% on average for each). [→ New York Charter Schools: Remote Instruction During COVID Crisis (Spring 2020) – Results for All Authorizers 2020](#new-york-charter-schools-remote-instruction-during-covid-crisis-spring-2020-results-for-all-authorizers-2020)

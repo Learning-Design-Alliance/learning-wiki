@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: nagaoka-2018
     resource: "https://consortium.uchicago.edu/publications/educational-attainment-chicago-public-schools-students-2017"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` If underlying rates do not change, 10 percent of Black young men and 13 percent of Latino young men who were ninth-graders in 2017 are predicted to earn a bachelor's degree in 10 years, compared to the 19 percent district average; within each racial group young women outpace young men, by 9 percentage points among Black students and 10 among Latino students (Table 2 shows 19 among White and 13 among Asian students). [→ Nagaoka 2018](#nagaoka-2018)

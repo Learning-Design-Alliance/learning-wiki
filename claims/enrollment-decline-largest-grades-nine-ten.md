@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: elaine-m-allensworth-shazia-rafiullah-miller-2002
     resource: "https://consortium.uchicago.edu/publications/declining-high-school-enrollment-exploration-causes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ninth- and tenth-grade enrollment each declined about 15 percent between 1995-96 and 1998-99, with smaller declines in grades eleven and twelve. [→ Elaine M. Allensworth & Shazia Rafiullah Miller 2002](#elaine-m-allensworth-shazia-rafiullah-miller-2002)

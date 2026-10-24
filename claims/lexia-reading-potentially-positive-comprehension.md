@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2009
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/274"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2` · `i1` small
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The WWC rates Lexia Reading as having potentially positive effects on comprehension, based on a single outcome with an improvement index of +11 percentile points and an effect size of 0.27 that was not statistically significant. [→ What Works Clearinghouse 2009](#what-works-clearinghouse-2009)

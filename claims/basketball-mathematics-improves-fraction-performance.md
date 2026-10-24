@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jensen-2026
     resource: "https://doi.org/10.1007/s10648-026-10175-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The BM group showed a significantly greater pre-to-post improvement on fraction questions than the combined control group (Group × Time: F(1, 388) = 31.20, p < .001). [→ Jensen 2026](#jensen-2026)

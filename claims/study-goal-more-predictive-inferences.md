@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: p-van-den-broek-2001
     resource: "https://link.springer.com/journal/13414"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` College students instructed to read expository text for study produced more predictive inferences than students reading for entertainment. [→ P. van den Broek 2001](#p-van-den-broek-2001)

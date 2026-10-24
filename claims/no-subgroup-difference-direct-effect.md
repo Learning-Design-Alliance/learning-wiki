@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: zhang-2023
     resource: "https://doi.org/10.1037/edu0000797"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Multi-group path analyses showed no significant subgroup difference in the magnitude of the direct effect of MA on reading comprehension for language status or age/grade moderators. [→ Zhang 2023](#zhang-2023)

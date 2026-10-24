@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: rolf-ploetzner-2021
     resource: "https://doi.org/10.1007/s11251-021-09541-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The re-analysis by Ploetzner et al. (2020) found significant advantages for animations when simple (g = 0.340) or complex (g = 0.647) features of change had to be learned, but not otherwise (g = 0.043). [→ Rolf Ploetzner 2021](#rolf-ploetzner-2021)

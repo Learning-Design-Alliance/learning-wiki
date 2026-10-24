@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fong-2026
     resource: "https://eric.ed.gov/?id=ED681370"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` For students who received at least 24 hours of tutoring (about 80 percent of the intended 30-hour dosage), the pooled effect on spring 2025 statewide math scores was small and not statistically significant (effect size = –0.012, p = .804). [→ Fong 2026](#fong-2026)

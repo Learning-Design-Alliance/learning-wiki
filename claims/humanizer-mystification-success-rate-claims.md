@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: roe-2026
     resource: "https://doi.org/10.48550/arxiv.2605.02649"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sites cite advanced algorithms, parameter counts, and success rates (e.g., 99%) without explaining how humanization works, obscuring the underlying mechanism. [→ Roe 2026](#roe-2026)

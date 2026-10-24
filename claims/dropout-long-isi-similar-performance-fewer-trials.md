@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: pyc-2007
     resource: "https://link.springer.com/article/10.3758/BF03193420"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 1, the 23-drop group achieved the same level of final test performance as conventional 5-5-5 and 1-5-9 groups using significantly fewer than 72 trials. [→ Pyc 2007](#pyc-2007)

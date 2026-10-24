@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: blumenfeld-henrike-k-marian-viorica-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3582323/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Bilinguals fixated targets more than monolinguals between 1099 and 2734 ms post-stimulus onset. [→ Blumenfeld Henrike K.; Marian Viorica 2011](#blumenfeld-henrike-k-marian-viorica-2011)

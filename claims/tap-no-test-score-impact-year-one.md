@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-08
 sources:
   - id: steven-glazerman-2009
     resource: "https://www.mathematica.org/publications/an-evaluation-of-the-teacher-advancement-program-tap-in-chicago-year-one-impact-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Through March of the start-up year, TAP's school-level changes did not produce measurable impacts on student test scores in Chicago K-8 schools. [→ Steven Glazerman 2009](#steven-glazerman-2009)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: clair-hughes-and-simon-barrie-2010
     resource: "https://doi.org/10.1080/02602930903221485"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Knight and Page argue graduate attributes are a mix of dispositions, understandings, attributes and practices, rarely fully specifiable, the product of years of learning, and usually context-dependent, making them potentially not amenable to assessment as conventionally understood. [→ Clair Hughes and Simon Barrie 2010](#clair-hughes-and-simon-barrie-2010)

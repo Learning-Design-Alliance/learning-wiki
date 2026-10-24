@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-19
 sources:
   - id: van-de-pol-2015
     resource: "https://doi.org/10.1007/s11251-015-9351-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Average independent working time per group increased significantly more in the scaffolding condition than in the nonscaffolding condition, with a large effect size. [→ van de Pol 2015](#van-de-pol-2015)

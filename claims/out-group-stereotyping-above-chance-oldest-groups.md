@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: pauker-2010
     resource: "https://doi.org/10.1111/j.1467-8624.2010.01511.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Children in the 7–10-year-old group utilized out-group stereotypes above chance, t(15) = 5.17, p < .0001, r = .80. [→ Pauker 2010](#pauker-2010)

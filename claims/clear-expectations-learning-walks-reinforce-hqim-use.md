@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hannan-2026
     resource: "https://eric.ed.gov/?id=ED681318"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Half of interviewed district leaders reported initial teacher resistance centered on autonomy, productive struggle, and whether the curriculum would meet student needs. [→ Hannan 2026](#hannan-2026)

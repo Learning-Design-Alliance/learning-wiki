@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: sapliyan-2023
     resource: "https://doi.org/10.5539/jel.v12n4p81"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A panel of five experts rated the appropriateness of the developed constructionism imagineering learning model via metaverse at the highest level overall (Mean = 4.74, S.D. = 0.05). [→ Sapliyan 2023](#sapliyan-2023)

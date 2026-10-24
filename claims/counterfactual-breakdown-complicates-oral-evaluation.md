@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: muhammad-sajjad-akbar-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27842"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In AI-leveraged project courses, a student's inability to explain a system may reflect weak understanding, weak communication skills, or both, and participants observed students failing counterfactual questions despite having done the work. [→ Muhammad Sajjad Akbar 2026](#muhammad-sajjad-akbar-2026)

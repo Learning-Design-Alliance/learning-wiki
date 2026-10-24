@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: marloes-l-nederhand-2021
     resource: "https://doi.org/10.1007/s11409-020-09228-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pairwise comparisons showed the 25% best performing students had higher miscalibration (M = 1.70, SD = 0.80) than the 25% lowest performing students (M = 0.79, SD = 0.54), p < .001. [→ Marloes L. Nederhand 2021](#marloes-l-nederhand-2021)

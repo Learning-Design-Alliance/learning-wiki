@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: negen-2012
     resource: "https://doi.org/10.1111/j.1467-8624.2012.01815.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a 10,000-iteration simulation, knower-level analysis detected a significant correlation about 12% more often than percent-correct analysis of the same data. [→ Negen 2012](#negen-2012)

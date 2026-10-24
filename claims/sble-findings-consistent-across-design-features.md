@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: fisher-2023
     resource: "https://doi.org/10.1002/cl2.1360"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-regression moderators (cross-sectional vs longitudinal, lagged controls, publication status, SSOCS data source, number of controls) showed no meaningful relationships with effect sizes. [→ Fisher 2023](#fisher-2023)

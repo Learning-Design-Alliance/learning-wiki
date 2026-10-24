@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: rel-central-2023
     resource: "https://ies.ed.gov/ncee/rel/regions/central/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When IPS are implemented with adult support and regular review, research on associated practices suggests they may increase academic engagement, sense of agency, career-relevant knowledge and skills, and drive to accomplish college and career goals. [→ REL Central 2023](#rel-central-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: fan-ouyang-2023
     resource: "https://doi.org/10.1007/s11412-023-09387-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` HMMs fitted per pattern type (5-state for Type 1, 7-state for Type 2, 5-state for Type 3, chosen by BIC) revealed a regular transition pattern from communication states to behaviour states and back to communication, with each type characterised by a distinct orientation. [→ Fan Ouyang 2023](#fan-ouyang-2023)

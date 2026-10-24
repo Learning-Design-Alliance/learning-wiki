@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: malikova-z-2026
     resource: "https://doi.org/10.3389/feduc.2026.1964629"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 11 included empirical studies, AI served distinct pedagogical purposes spanning tutoring, feedback, collaboration, simulation, instructional design, and AI literacy. [→ Malikova Z 2026](#malikova-z-2026)

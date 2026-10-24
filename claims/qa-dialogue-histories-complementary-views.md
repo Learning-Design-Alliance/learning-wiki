@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhangqi-duan-2026
     resource: "https://doi.org/10.48550/arxiv.2605.30051"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Question-answering records help knowledge metrics but also dialogue-act prediction, and dialogue histories add fine-grained knowledge information beyond linguistic style. [→ Zhangqi Duan 2026](#zhangqi-duan-2026)

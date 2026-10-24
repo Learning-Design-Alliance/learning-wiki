@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mark-feng-teng-2026
     resource: "https://doi.org/10.1186/s40862-026-00444-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 11 study-level effects, GenAI-enhanced writing instruction shows a statistically significant pooled advantage over comparison conditions (g = 0.80, 95% CI [0.37, 1.22]), with substantial between-study heterogeneity (I2 = 92.21%). [→ Mark Feng Teng 2026](#mark-feng-teng-2026)

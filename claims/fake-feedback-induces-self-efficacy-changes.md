@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: zacharopoulos-g-2014
     title: Zacharopoulos G 2014
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Positive fake feedback significantly elevated self-efficacy scores relative to negative fake feedback in both tasks, with large effect sizes (orientation d = 2.16; contrast d = 2.11). [→ Zacharopoulos G 2014](#zacharopoulos-g-2014)

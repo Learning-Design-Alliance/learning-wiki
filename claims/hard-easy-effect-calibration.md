@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: bol-l-and-hacker-dj-2012
     title: Bol L and Hacker DJ 2012
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Task difficulty influences calibration accuracy: students tend to be more accurate but underconfident on easy items and less accurate but overconfident on difficult items. [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)

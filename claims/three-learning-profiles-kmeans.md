@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: tuononen-2023
     resource: "https://doi.org/10.1007/s11409-022-09314-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` K-means cluster analysis of approaches to learning identified three profiles: organized students applying a deep approach (n = 230), unorganized students applying a deep approach (n = 113), and a dissonant profile scoring high on all approaches (n = 119). [→ Tuononen 2023](#tuononen-2023)

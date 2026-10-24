@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: helen-weixu-chen-2026
     resource: "https://doi.org/10.1145/3834566"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Midterm preparation time distributions differed significantly by cheat sheet type, with self-created users reporting longer preparation. [→ Helen Weixu Chen 2026](#helen-weixu-chen-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: gehlbach-2021
     resource: "https://osf.io/suhvj/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Treatment teachers perceived more positive teacher-student relationships with their focal students than control teachers (Cohen's d = 0.41, 95% CI 0.01-0.86). [→ Gehlbach 2021](#gehlbach-2021)

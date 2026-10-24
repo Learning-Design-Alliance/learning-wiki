@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: peer-assisted-learningliteracy-strategies-2012
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/364"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` McMaster et al. (2005) reported a negative mean difference between the PALS group and the comparison group on the CRAB Comprehension subtest for grade 1; the WWC-calculated effect of –0.31 (improvement index –12) was not statistically significant but was substantively important. [→ Peer-Assisted Learning/Literacy Strategies 2012](#peer-assisted-learningliteracy-strategies-2012)

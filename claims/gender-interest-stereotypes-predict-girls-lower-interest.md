@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: master-2021
     resource: "https://doi.org/10.1073/pnas.2100030118"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Girls' endorsement of gender-interest stereotypes correlated negatively with their own interest in computer science (r = −0.26 in Study 1; r = −0.25 in Study 2) and engineering (r = −0.32). [→ Master 2021](#master-2021)

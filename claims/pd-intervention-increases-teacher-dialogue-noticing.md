@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: benzi-slakmon-2024
     resource: "https://doi.org/10.1007/s11412-024-09423-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the intervention, teachers noticed dialogic attributes significantly more than before (total noticing rose from 107 to 241 cases, p < 0.05). [→ Benzi Slakmon 2024](#benzi-slakmon-2024)

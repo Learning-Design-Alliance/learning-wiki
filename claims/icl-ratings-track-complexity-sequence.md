@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2028
 sources:
   - id: krieglstein-2025
     resource: "https://doi.org/10.1007/s10648-024-09980-0"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` In the increasing complexity condition, ICL ratings rose significantly across the three learning units (F(2, 104) = 111.81, ηp² = 0.68). [→ Krieglstein 2025](#krieglstein-2025)

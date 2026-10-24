@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kalyuga-2026
     resource: "https://doi.org/10.1007/s10648-026-10135-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The worked example effect was demonstrated for acquiring domain-specific schemas, but for goals such as motivating and engaging learners or influencing emotional states, other instructional means could be more effective. [→ Kalyuga 2026](#kalyuga-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: kulkarni-2015
     resource: "https://doi.org/10.1007/978-3-319-06823-7_9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rubrics using parallel sentence structure, unambiguous wording and well-specified dimensions showed lower variance in peer grading. [→ Kulkarni 2015](#kulkarni-2015)

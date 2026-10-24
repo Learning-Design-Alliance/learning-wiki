@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-09
 sources:
   - id: user-guide-for-interpreting-the-nwea-state-dashboard-exploring-the-educational-impacts-of-covid-19-2021
     resource: "https://www.nwea.org/research/publication/user-guide-for-interpreting-the-nwea-state-dashboard-exploring-the-educational-impacts-of-covid-19/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The dashboard's first metric summarizes median achievement percentiles by grade, subject, and term relative to NWEA 2020 norms, which reflect typical achievement and growth prior to COVID-related disruptions. [→ User guide for interpreting the NWEA state dashboard: Exploring the educational impacts of COVID-19 2021](#user-guide-for-interpreting-the-nwea-state-dashboard-exploring-the-educational-impacts-of-covid-19-2021)

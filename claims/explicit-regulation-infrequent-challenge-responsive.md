@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mohammed-saqr-2026
     resource: "https://doi.org/10.1007/s11412-025-09464-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Explicit group regulation occurred rarely and was triggered by challenges, questions, or disagreements, frequently with teacher coregulation. [→ Mohammed Saqr 2026](#mohammed-saqr-2026)

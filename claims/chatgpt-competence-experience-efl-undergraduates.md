@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: annamalai-n-2026
     title: Annamalai N 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students experienced greater competence handling English-language tasks, including essay writing with idea generation, editing and proofreading, conversational practice, and translation from Malay to English. [→ Annamalai N 2026](#annamalai-n-2026)

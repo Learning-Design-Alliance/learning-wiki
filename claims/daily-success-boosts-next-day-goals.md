@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: neubauer-2022
     resource: "https://osf.io/gfvja/?view_only=b87fe179cf134471948726cb0e482a80"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Days with more academic success than usual were followed by higher mastery goals the next morning (β = .256), supporting Hypothesis 3. [→ Neubauer 2022](#neubauer-2022)

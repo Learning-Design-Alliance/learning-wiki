@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-18
 sources:
   - id: digital-promise-2021
     resource: "https://doi.org/10.51388/20.500.12265/121"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The usefulness of the different app components depended on the child's interest or age; conversation starters were seen as too advanced for some younger children yet very helpful by families with older children. [→ Digital Promise 2021](#digital-promise-2021)

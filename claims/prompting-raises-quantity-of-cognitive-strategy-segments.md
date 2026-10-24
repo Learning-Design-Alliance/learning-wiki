@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-18
 sources:
   - id: nadja-m-gentner-2024
     resource: "https://doi.org/10.1007/s11251-024-09671-x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The number of segments coded as cognitive strategy use significantly increased over the prompted unit, F(2.35,133.97)=14.78, p<.001, ηp²=0.21. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

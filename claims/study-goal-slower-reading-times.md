@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2001
 sources:
   - id: p-van-den-broek-2001
     resource: "https://link.springer.com/journal/13414"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reading times differed significantly as a function of reading goal, with study-goal readers reading considerably more slowly than entertainment-goal readers. [→ P. van den Broek 2001](#p-van-den-broek-2001)

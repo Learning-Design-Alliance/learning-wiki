@@ -8,6 +8,7 @@ generated:
 id: generative-processing-improves-learning
 aliases: [generative-learning-improves-retention, generative-learning-improves-comprehension, self-explanation-prompts-meta-analysis-g-055, elaborative-encoding-improves-retention]
 evidence_strength:
+newest_evidence: 2018
 sources:
   - id: bisra-et-al-2018
     resource: "https://doi.org/10.1007/s10648-018-9434-x"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=69 effect sizes (64 research reports)
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Generative processing improves learning -->
 
 Generative processing means learners actively construct connections between new material and their prior knowledge, by summarizing, self-explaining, mapping or generating answers. The one entry recorded, a meta-analysis of 64 reports (Bisra et al. 2018), tests self-explanation prompts only, and finds a moderate average benefit (g = 0.55) over conditions without them; whether summarizing, mapping or generating answers do the same is not shown here. <!-- deprecated (2026-10-05, overstated its evidence): Learners who actively construct connections between new material and their prior knowledge — by summarizing, self-explaining, mapping, or generating answers — learn more than learners who passively receive the same material. --> The claim concerns the *act of generation itself*; comparisons must control for study time, since generative activities typically take longer than passive study.

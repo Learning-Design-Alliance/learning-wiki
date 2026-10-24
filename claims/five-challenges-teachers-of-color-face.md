@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: davis-dixon-2019
     resource: "https://doi.org/10.3102/1445541"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Focus groups with 88 Black and Latino teachers across five states surfaced five challenges: antagonistic work culture, feeling undervalued, deprivation of agency and autonomy, unfavorable working conditions, and the high financial and psychological cost of being a teacher of color. [→ Davis Dixon 2019](#davis-dixon-2019)

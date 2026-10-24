@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: alqassab-2023
     resource: "https://doi.org/10.1007/s10648-023-09723-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the 77 studies investigating moderators/mediators, ability and skills (n = 35; 34.31%) and gender (n = 28; 27.45%) were most commonly studied; all other categories occurred only in a relatively small number of studies. [→ Alqassab 2023](#alqassab-2023)

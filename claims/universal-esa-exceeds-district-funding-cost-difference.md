@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: griffith-2024
     resource: "https://doi.org/10.54300/682.951"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In 2022–23 the elementary Universal ESA ($6,764) exceeded average per-pupil district funding ($6,339), so each elementary student leaving a district school for a Universal ESA adds $425 in state cost. [→ Griffith 2024](#griffith-2024)

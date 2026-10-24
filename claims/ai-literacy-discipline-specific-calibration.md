@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: moganadas-sr-2026
     title: Moganadas SR 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI literacy encompasses recognizing hallucinations and biases, critically evaluating outputs, responsible disclosure, privacy protection, and accountability for academic judgment, and requires discipline-specific calibration because academic fields vary in epistemological standards. [→ Moganadas SR 2026](#moganadas-sr-2026)

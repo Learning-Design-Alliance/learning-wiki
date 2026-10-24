@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: anders-bouwer-2010
     resource: "https://doi.org/10.1007/s11251-008-9083-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percentage of correct answers on the 27 treatment questions was generally high and did not differ between the simple and complex scenarios. [→ Anders Bouwer 2010](#anders-bouwer-2010)

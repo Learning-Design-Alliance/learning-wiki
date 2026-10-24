@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: najem-2026
     resource: "https://doi.org/10.1007/s44217-026-02181-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A sensitivity analysis over λ ∈ {0.10, 0.20, 0.30, 0.40, 0.50} selected λ = 0.30, which maximized intra-list diversity while keeping mean reciprocal affinity rank at 1.4 and intra-list cosine similarity at 0.41. [→ Najem 2026](#najem-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: kittle-2024
     resource: "https://doi.org/10.1007/s10648-024-09942-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reviews identified explicit instruction in individual words, rich and in-depth vocabulary instruction, visuals/realia/gesture, careful word and text selection, L1 use, and word-learning strategies as effective for improving MLs' English vocabulary. [→ Kittle 2024](#kittle-2024)

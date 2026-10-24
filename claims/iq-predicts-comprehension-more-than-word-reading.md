@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: christopher-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360115/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Full-scale IQ significantly predicted both reading outcomes over and above the four cognitive factors, with a much larger standardized loading on comprehension (.78) than word reading (.27). [→ Christopher 2012](#christopher-2012)

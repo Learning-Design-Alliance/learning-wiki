@@ -8,6 +8,7 @@ generated:
 id: feedback-most-effective-at-task-and-process-levels
 aliases: [high-information-feedback-d099-versus-reinforcement-d024, feedback-addressing-task-improves-learning, feedback-improves-learning-when-it-addresses-task-goals]
 evidence_strength:
+newest_evidence: 2020
 sources:
   - id: wisniewski-et-al-2020
     resource: "https://doi.org/10.3389/fpsyg.2019.03087"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q4` · `i2`–`i3`
+> **Currency** · newest study 2020 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Feedback directed at the task (how well the work meets the goal) and at the process (the strategies used to do the work) supports learning more than feedback directed at the person (praise or criticism of the self).
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: philip-a-higham-2020
     resource: "https://osf.io/nx4va/?view_only=049ee04aab4f420e9fa0091b3b69b9d0"
@@ -47,6 +48,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · causal `r2` · `q2` · `i1`–`i3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` VAS anxious affect ratings showed main effects of session and practice task qualified by a session × practice task interaction. [→ Philip A. Higham 2020](#philip-a-higham-2020)

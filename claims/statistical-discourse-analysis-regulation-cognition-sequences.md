@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: inge-molenaar-sanna-järvelä-2014
     resource: "https://doi.org/10.1007/s11409-014-9114-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Molenaar and Chiu (2014) found remarkably long lasting (6 lags) positive effects of both low and high cognition on itself; planning, monitoring and evaluation immediately aided low cognition, while planning and evaluation supported high cognition with a lag of 2 or 3 events, and orientation reduced the likelihood of high cognition. [→ Inge Molenaar & Sanna Järvelä 2014](#inge-molenaar-sanna-jarvela-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2020
+source_checked: 2026-10-21
 sources:
   - id: tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020
     resource: "https://doi.org/10.1007/s10648-020-09544-y"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In primary education, solving a practice problem after worked example study reduced overestimations of future test performance but did not improve regulation accuracy. [→ Tamara van Gog & Vincent Hoogerheide & Milou van Harsel 2020](#tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020)

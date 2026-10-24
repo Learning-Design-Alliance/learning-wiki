@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: barzanji-and-loitsch-2025
     resource: "https://doi.org/10.1007/s44163-025-00521-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of the 23 reviewed studies, only seven originated from English-speaking countries, yet 17 prototypes relied exclusively on English, creating accessibility barriers for non-native English speakers. [→ Barzanji and Loitsch 2025](#barzanji-and-loitsch-2025)

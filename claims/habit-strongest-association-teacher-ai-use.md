@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: feng-2026
     resource: "https://doi.org/10.1016/j.chbah.2026.100402"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Habit was significantly associated with pedagogical AI competence (β = 0.31, p < .001) and with AI use directly (β = 0.28, p = .005) and indirectly via competence (β = 0.14, p = .011). [→ Feng 2026](#feng-2026)

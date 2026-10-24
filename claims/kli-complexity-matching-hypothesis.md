@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: kenneth-r-koedinger-2010
     resource: "http://learnlab.org/research/wiki"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The KLI framework hypothesizes that an instructional principle at a particular complexity level is effective for knowledge components of similar or greater complexity, but not for less complex ones. [→ Kenneth R. Koedinger 2010](#kenneth-r-koedinger-2010)

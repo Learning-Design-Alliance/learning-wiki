@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kokarida-2026
     resource: "https://doi.org/10.1007/s11251-026-09780-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students aged 9–12 report that having a voice in what and how they learn, personalization to class interests, self-directed performance, and completing invested tasks directly contribute to fun and engagement in learning. [→ Kokarida 2026](#kokarida-2026)

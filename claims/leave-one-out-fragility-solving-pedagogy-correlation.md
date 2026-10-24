@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: junyi-yao-2026
     resource: "https://doi.org/10.48550/arxiv.2606.16206"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A leave-one-out robustness check yields positive Pearson correlations in every seven-model subset (0.251–0.887), and removing Qwen2.5-Math-7B-Instruct raises the Pearson correlation to 0.887. [→ Junyi Yao 2026](#junyi-yao-2026)

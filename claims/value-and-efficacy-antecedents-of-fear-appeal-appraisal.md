@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-22
 sources:
   - id: the-appraisal-of-fear-appeals-as-a-challenge-or-a-threat-influences-a-subsequent-decline-or-increase-in-attainment-value-and-academic-self-efficacy-2014
     resource: "https://eric.ed.gov/?q=appraisal+of+fear+appeals+challenge+threat+attainment+value+academic+self-efficacy"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i3` large
+> **Currency** · newest study 2014 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` A stronger challenge appraisal followed from higher attainment value (β = .53) and higher academic self-efficacy (β = .25). [→ The appraisal of fear appeals as a challenge or a threat influences a subsequent decline or increase in attainment value and academic self-efficacy 2014](#the-appraisal-of-fear-appeals-as-a-challenge-or-a-threat-influences-a-subsequent-decline-or-increase-in-attainment-value-and-academic-self-efficacy-2014)

@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Student identities show higher KL divergence from the population prior (mean KL=14.32) than instructors (mean KL=13.12), and student clip count correlates strongly and negatively with KL divergence (r=-0.748, p=0.001). [→ kl-1](#kl-1)

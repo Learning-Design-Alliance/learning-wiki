@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: what-works-clearinghouse-2009
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/274"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Gale (2006), the WWC found no statistically significant effect of Lexia Early Reading versus Earobics on the DIBELS alphabetics subtests, and judged three negative effects substantively important (Initial Sounds Fluency kindergarten, Phoneme Segmentation Fluency grade 1, Nonsense Words Fluency grade 1). [→ What Works Clearinghouse 2009](#what-works-clearinghouse-2009)

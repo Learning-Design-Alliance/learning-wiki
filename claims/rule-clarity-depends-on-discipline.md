@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: martin-lnenicka-and-petr-coufal-2026
     resource: "https://doi.org/10.1186/s40594-026-00637-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rule clarity is significantly dependent on academic discipline (χ2 = 101.65, df = 12, p < .001); in mathematics 37.3% and in natural sciences 40.9% reported a complete lack of clarity. [→ Martin Lnenicka and Petr Coufal 2026](#martin-lnenicka-and-petr-coufal-2026)

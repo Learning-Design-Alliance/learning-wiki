@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2007
+recheck_by: 2010
 sources:
   - id: shogren-2007
     title: Shogren 2007
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Significant differences emerged in the pattern of predictive relationships depending on the measure of self-determination utilized. [→ Shogren 2007](#shogren-2007)

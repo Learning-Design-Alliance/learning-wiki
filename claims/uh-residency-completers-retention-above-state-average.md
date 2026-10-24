@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: bland-2025
     resource: "https://doi.org/10.54300/871.327"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 93% of 2023 UH program completers stayed in teaching after their first year versus 89% of all newly certified Texas teachers; the 2019 cohort exceeded state 3- and 5-year retention by 10 and 7 percentage points. [→ Bland 2025](#bland-2025)

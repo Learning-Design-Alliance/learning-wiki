@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: i-putu-yoga-laksana-2026
     resource: "https://doi.org/10.29140/tltl.2026.103616"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis of 27 semi-structured interviews identified seven themes of students' feedback literacy experience in CEA: digital feedback orchestration, systemic feedback information construction, adaptive learning strategy development, digital peer synergy, digital confidence scaffolding, tech-enhanced autonomy, and metacognitive awareness enhancement. [→ I Putu Yoga Laksana 2026](#i-putu-yoga-laksana-2026)

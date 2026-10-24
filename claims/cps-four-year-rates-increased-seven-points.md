@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: nagaoka-2023
     resource: "https://consortium.uchicago.edu/publications/the-four-years-fallacy"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` From 2004 to 2014, CPS graduates' four-year completion rates increased by 7 percentage points as enrollees grew from 4,588 to 8,893, while six-year rates rose 3 percentage points. [→ Nagaoka 2023](#nagaoka-2023)

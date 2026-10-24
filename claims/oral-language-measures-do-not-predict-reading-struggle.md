@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-16
 sources:
   - id: gersten-2007
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Oral proficiency measures do not predict who is likely to struggle with learning to read, whereas early reading measures administered in English screen effectively even for children who know little English. [→ Gersten 2007](#gersten-2007)

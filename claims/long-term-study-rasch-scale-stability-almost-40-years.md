@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: a-large-scale-2016
     resource: "https://www.nwea.org/research/publication/a-large-scale-long-term-study-of-scale-drift-the-micro-view-and-the-macro-view/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The study examined the measurement stability of a set of Rasch measurement scales that had been in place for almost 40 years. [→ A large-scale 2016](#a-large-scale-2016)

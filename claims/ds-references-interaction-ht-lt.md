@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: franco-londra-2025
     resource: "https://doi.org/10.1007/s11409-025-09427-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` DS references showed a significant Sequence Type × Position interaction; first-position HT-LT texts were mentioned more than texts of other sequence types. [→ Franco Londra 2025](#franco-londra-2025)

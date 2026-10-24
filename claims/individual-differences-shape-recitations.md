@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1916
 sources:
   - id: j-d-heilman-1916
     resource: "https://doi.org/10.1037/h0073918"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teachers who do not know that some children have good temporary and permanent memories while others have good temporary but poor permanent memories are unlikely to conduct recitations efficiently; the latter should be questioned primarily on previous lessons. [→ J. D. Heilman 1916](#j-d-heilman-1916)

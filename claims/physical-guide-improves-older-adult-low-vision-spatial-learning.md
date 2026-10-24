@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: barhorst-cates-erica-m-2017
     resource: "https://doi.org/10.1007/s00221-017-5063-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Older adults with simulated degraded vision showed significantly greater pointing error when walking unguided than when walking with a physical guide. [→ Barhorst-Cates Erica M. 2017](#barhorst-cates-erica-m-2017)

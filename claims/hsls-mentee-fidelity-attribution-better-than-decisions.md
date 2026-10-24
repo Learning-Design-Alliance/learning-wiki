@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: chenguang-pan-2026
     resource: "https://doi.org/10.48550/arxiv.2608.21165"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` On the held-out test split of 1,834 students, the mentee's estimates correlate with the mentor's at r = 0.71 with slope 0.55; top-cited covariates match the mentor's for 80.6% of students with an intersection-over-union of 0.77, but the mentee recommends treatment for all students while the mentor recommends 1,800 of 1,834. [→ Chenguang Pan 2026](#chenguang-pan-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2001
+recheck_by: 2006
 sources:
   - id: ingersoll-2001
     resource: "https://eric.ed.gov/?q=Teacher+Turnover+and+Teacher+Shortages+Ingersoll"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2006**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Schools that report difficulties filling their openings are almost twice as likely to have above-average turnover rates compared to schools reporting no difficulties. [→ Ingersoll 2001](#ingersoll-2001)

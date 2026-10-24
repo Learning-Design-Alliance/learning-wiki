@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: julie-bruch-2022
     resource: "https://www.mathematica.org/publications/menu-of-measures-high-quality-measures-of-middle-years-math-student-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Understanding how to measure the impact of math instruction and interventions is key to improving students' overall math performance. [→ Julie Bruch 2022](#julie-bruch-2022)

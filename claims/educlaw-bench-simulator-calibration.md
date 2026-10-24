@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lee-2026
     resource: "https://doi.org/10.48550/arxiv.2608.03206"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Binning all 176,187 (run, day) pairs by predicted mastery against observed accuracy gives an Expected Calibration Error of 0.049 and Brier score of 0.033 over 1.19M item attempts. [→ Lee 2026](#lee-2026)

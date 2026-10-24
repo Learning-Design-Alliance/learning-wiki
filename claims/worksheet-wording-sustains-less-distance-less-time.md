@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: frank-2012
     resource: "https://doi.org/10.1103/physrevstper.8.020101"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The worksheet question's phrasing emphasizes distance features, and the everyday flexibility of short and long for both distance and time supports the intuition that less distance implies less time. [→ Frank 2012](#frank-2012)

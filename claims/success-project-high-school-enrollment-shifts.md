@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: cowhy-2017
     resource: "https://consortium.uchicago.edu/publications/success-project-implementation-and-early-outcomes-middle-grade-program"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eighth-grade graduates' enrollment shifted away from career academies and neighborhood high schools toward charter schools, but the changes were no different from comparison groups. [→ Cowhy 2017](#cowhy-2017)

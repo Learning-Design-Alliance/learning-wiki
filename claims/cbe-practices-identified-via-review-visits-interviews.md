@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: ann-person-2015
     resource: "https://www.mathematica.org/publications/best-practices-in-competencybased-education-lessons-from-three-colleges"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The practices highlighted in the brief were identified through document review, site visits, and interviews with stakeholders at the participating institutions. [→ Ann Person 2015](#ann-person-2015)

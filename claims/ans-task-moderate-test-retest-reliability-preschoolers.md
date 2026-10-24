@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: shusterman-anna-2016
     resource: "https://doi.org/10.1371/journal.pone.0153072"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Pearson correlation between w at S2 and S5 was r(38) = .46, p < .001, which the authors say indicates a need to improve the stability of this ANS acuity measure in young children. [→ Shusterman Anna 2016](#shusterman-anna-2016)

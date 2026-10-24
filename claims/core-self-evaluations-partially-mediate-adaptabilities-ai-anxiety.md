@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wang-x-2026
     title: Wang X 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The indirect effect of career adapt-abilities on AI anxiety via core self-evaluation was significant (−0.111, 95% CI [−0.208, −0.007]), accounting for 24% of the total effect, with the direct effect remaining significant. [→ Wang X 2026](#wang-x-2026)

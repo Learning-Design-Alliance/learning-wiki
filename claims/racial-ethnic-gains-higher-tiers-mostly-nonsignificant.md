@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: sussman-2022
     resource: "https://doi.org/10.54300/422.974"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All racial/ethnic groups were projected to experience more months of learning and development in Tier 4 and 5 programs versus Tier 3, but results were statistically significant only for Hispanic/Latino/a children and, for a few domains, Multiracial children. [→ Sussman 2022](#sussman-2022)

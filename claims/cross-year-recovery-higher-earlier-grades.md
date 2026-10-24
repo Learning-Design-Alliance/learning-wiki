@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: lemke-2023
     resource: "https://eric.ed.gov/?id=ED638614"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of students at risk at BOY, 38 percent of kindergartners were still at risk at the end of grade 1, versus 54 percent for grade 1 students at the end of grade 2 and 69 percent for grade 2 students at the end of grade 3. [→ Lemke 2023](#lemke-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: city-study-2022-fort-worth-2022
     resource: "https://credo.stanford.edu/reports/item/fort-worth-tx-2022/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Fort Worth charter school Black students showed positive growth relative to the statewide Black average (0.01 SD reading, 0.02 SD math) while district-school Black students were significantly below it in reading (-0.06 SD, -35 days); the charter-vs-district contrast of 0.01 SD was not statistically significant. [→ City Study 2022: Fort Worth 2022](#city-study-2022-fort-worth-2022)

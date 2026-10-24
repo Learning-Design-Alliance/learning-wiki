@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: bindman-2015
     resource: "https://doi.org/10.1037/edu0000017"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Significant indirect effects emerged through all executive function indicators (Zs > 2.10, p < .05) except the Stroop task (Zs < 1.18, ns). [→ Bindman 2015](#bindman-2015)

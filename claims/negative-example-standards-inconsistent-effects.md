@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: linda-froese-2023
     resource: "https://doi.org/10.1007/s11409-023-09347-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Negative example standards showed no statistically significant main effect on bias or absolute accuracy. [→ Linda Froese 2023](#linda-froese-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: gonny-l-m-schellings-hein-broekkamp-2011
     resource: "https://doi.org/10.1007/s11409-010-9067-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across all three selection tasks, linguistic reasons for selecting text parts were the most frequent (45 of 72 definite reasons), suggesting students use default selection strategies corresponding with the linguistic approach. [→ Gonny L. M. Schellings & Hein Broekkamp 2011](#gonny-l-m-schellings-hein-broekkamp-2011)

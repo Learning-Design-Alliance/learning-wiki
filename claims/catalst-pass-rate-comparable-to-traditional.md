@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: peters-2022
     resource: "https://doi.org/10.51388/20.500.12265/162"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The CATALST course averaged a 91.92% pass rate between Spring 2016 and Fall 2021 and was judged as effective as or more effective than the traditional course. [→ Peters 2022](#peters-2022)

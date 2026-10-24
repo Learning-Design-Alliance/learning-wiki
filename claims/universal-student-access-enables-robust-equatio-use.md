@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: mcmahon-2024
     resource: "https://doi.org/10.51388/20.500.12265/211"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers whose students all had Equatio on their devices incorporated it into more workflows, including implementing assessments, receiving digital submissions, and providing timely feedback, than teachers where only some students had access. [→ McMahon 2024](#mcmahon-2024)

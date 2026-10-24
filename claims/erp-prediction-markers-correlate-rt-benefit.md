@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: thillay-a-2015
     title: Thillay A 2015
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` The predictability effect on CNV amplitude preceding targets and on target-P3 latency each correlated with the predictability benefit in reaction time. [→ Thillay A 2015](#thillay-a-2015)

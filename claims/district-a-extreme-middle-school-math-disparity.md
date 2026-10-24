@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: steven-glazerman-and-jeffrey-max-2011
     resource: "https://ies.ed.gov/ncee/pubs/20114016/pdf/20114016_app.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` In District A middle school math, prevalence of highest-performing teachers ranged from about 5 percent in the two highest-poverty quintiles to about 60 percent in the lowest-poverty quintile, a statistically significant divergence from equal access. [→ Steven Glazerman and Jeffrey Max 2011](#steven-glazerman-and-jeffrey-max-2011)

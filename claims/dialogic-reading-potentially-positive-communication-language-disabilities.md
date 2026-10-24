@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-17
 sources:
   - id: dialogic-reading-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/136"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Based on two RCTs, the WWC rated dialogic reading as having potentially positive effects on communication and language competencies for children with disabilities, with an average improvement index of +11 percentile points (range –2 to +45). [→ Dialogic Reading 2010](#dialogic-reading-2010)

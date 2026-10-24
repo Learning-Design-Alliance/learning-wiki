@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: bichler-2022
     resource: "https://doi.org/10.1007/s11251-022-09579-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The direct effect of worked examples on learning gains was moderated by shifting ability (b = 0.005, p = .002), with worked examples particularly beneficial for learners with lower shifting ability. [→ Bichler 2022](#bichler-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: de-bruin-2020
     resource: "https://doi.org/10.1007/s10648-020-09576-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During both memory-based and problem-solving tasks, students generally experience retrieval practice as more effortful than restudy, leading to avoidance in self-regulated learning contexts for memory-based tasks but less so for problem-solving tasks. [→ de Bruin 2020](#de-bruin-2020)

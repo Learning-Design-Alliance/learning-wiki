@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: saadet-korucu-kış-2026
     resource: "https://doi.org/10.1007/s11251-026-09783-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` While-practicum focus group interviews yielded 17 new positive reflections from 10 of 11 participants (91%), compared with only six positive comments from 6 of 11 participants (54.4%) before the practicum, with no negative views recorded pre-practicum. [→ Saadet Korucu-Kış 2026](#saadet-korucu-ks-2026)

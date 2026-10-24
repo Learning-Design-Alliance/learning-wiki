@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: allensworth-2026
     resource: "https://consortium.uchicago.edu/publications/connection-trust-and-learning"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Adjusting for neighborhood barely changed school differences (high schools: 9.2 to 8.7 points post-pandemic), suggesting school attended mattered more than neighborhood. [→ Allensworth 2026](#allensworth-2026)

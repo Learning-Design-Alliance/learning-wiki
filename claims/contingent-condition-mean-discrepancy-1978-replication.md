@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: smit-2025
     resource: "https://doi.org/10.1037/edu0000965"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Outcome scores of the replication's contingent condition differed greatly from the 1978 contingent condition (d = 1.55), while verbal, swing, and demonstration means matched. [→ Smit 2025](#smit-2025)

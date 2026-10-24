@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: kiewra-2023
     resource: "https://doi.org/10.1007/s10648-023-09747-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interviews with seven highly productive individuals in their wisdom years reveal how and why they shun retirement and remain productive. [→ Kiewra 2023](#kiewra-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2001
 sources:
   - id: newmann-2001
     resource: "https://eric.ed.gov/?id=ED"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At Wilson school, a shared goal of raising test scores was the only common understanding; teachers used different materials and dealt with frustrations independently, showing how weak coherence can impair sustained improvement efforts. [→ Newmann 2001](#newmann-2001)

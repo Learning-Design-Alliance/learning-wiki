@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: apoyos-deseados
     title: apoyos-deseados
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Los participantes desearon más de 70 apoyos agrupados en 24 categorías; los cinco principales fueron más información, herramientas o servicios de traducción de competencias entre contextos, adiestramiento laboral, tutoría o consejería, y dinero. [→ apoyos-deseados](#apoyos-deseados)

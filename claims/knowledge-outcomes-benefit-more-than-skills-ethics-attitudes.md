@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: suya-liu-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100813"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learning outcome is a significant moderator (F(4, 167) = 5.728, p < .001); knowledge and understanding of AI (g = 0.965) showed larger effects than attitudes (g = 0.676), skills (g = 0.672), and ethics (g = 0.635). [→ Suya Liu 2026](#suya-liu-2026)

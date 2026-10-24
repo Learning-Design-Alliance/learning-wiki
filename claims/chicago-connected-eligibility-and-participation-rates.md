@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: schachner-2025
     resource: "https://edworkingpapers.com/ai25-1153"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Roughly 70% of continuously enrolled non-charter CPS grade 5-8 students were deemed eligible in summer or fall 2020, and about 30% of eligible students participated. [→ Schachner 2025](#schachner-2025)

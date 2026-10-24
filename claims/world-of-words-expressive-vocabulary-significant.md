@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: eowpvt
     title: eowpvt
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the Neuman et al. (2021) scale-up study, children receiving World of Words scored significantly higher than comparison children on the Expressive One-Word Picture Vocabulary Test - 4th Edition (effect size 0.43, improvement index +17, p < 0.01). [→ eowpvt](#eowpvt)

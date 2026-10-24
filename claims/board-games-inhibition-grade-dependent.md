@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: nuria-vita-barrull-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101946"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the first-grade sample, inhibition time-group effects were found, with average reaction time reducing in the experimental group but increasing in the control group. [→ Nuria Vita-Barrull 2024](#nuria-vita-barrull-2024)

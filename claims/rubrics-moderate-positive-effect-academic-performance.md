@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: panadero-2023
     resource: "https://doi.org/10.1007/s10648-023-09823-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 21 studies (54 effect sizes), rubric use improves academic performance relative to control groups, with a corrected pooled effect of g = 0.45. [→ Panadero 2023](#panadero-2023)

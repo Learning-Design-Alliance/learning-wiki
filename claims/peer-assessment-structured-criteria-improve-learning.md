@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: peer-assessment-structured-criteria-improve-learning
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: double-et-al-2020
     resource: "https://doi.org/10.1007/s10648-019-09510-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i0` negligible · n=54 studies, k=141 effect sizes
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence): Peer Assessment Structured Criteria Improve Learning -->
 
 The one meta-analysis recorded here (Double et al. 2020, 54 control-group studies) found that giving peer reviewers a specific script or rubric did not significantly change peer assessment's effect on academic performance compared with freeform review (structured g = 0.29, freeform g = 0.42, difference not significant; the freeform subgroup is small). Whether structured criteria make peer *judgments* more reliable is a separate question this evidence does not test. The proposed mechanism, that criteria direct reviewers to specific dimensions of quality rather than general impressions, remains a hypothesis here.

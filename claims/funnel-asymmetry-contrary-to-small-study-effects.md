@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: donath-2025
     resource: "https://doi.org/10.1007/s10648-025-10081-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Egger's test among published studies was significant, but asymmetry ran contrary to small-study effects: smaller standard errors were associated with larger effect sizes (r = −0.14) and longer training durations (r = −0.19). [→ Donath 2025](#donath-2025)

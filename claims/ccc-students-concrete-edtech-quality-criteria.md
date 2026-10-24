@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2030
 sources:
   - id: van-nostrand-2025
     resource: "https://doi.org/10.51388/20.500.12265/279"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students wanted technology to prove claims with evidence, to support varying digital skills and device access, to be user-friendly and accessible, and to connect them with peers and faculty. [→ Van Nostrand 2025](#van-nostrand-2025)

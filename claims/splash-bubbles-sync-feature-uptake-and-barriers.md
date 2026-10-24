@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: leones-2021
     resource: "https://doi.org/10.51388/20.500.12265/120"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 64.3% of families reported using sync in the survey, but only 44.83% reported being able to use it at interview; 55.17% did not use it. [→ Leones 2021](#leones-2021)

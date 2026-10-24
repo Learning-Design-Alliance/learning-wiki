@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: allensworth-2018
     resource: "https://consortium.uchicago.edu/page/presentations"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Missing just five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points. [→ Allensworth 2018](#allensworth-2018)

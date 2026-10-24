@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: saunders-2024
     resource: "https://doi.org/10.54300/358.825"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a 2023 study of more than 12,000 California teacher education completers, 91% of residents rated their preparation as effective or very effective, more than completers from any other pathway. [→ Saunders 2024](#saunders-2024)

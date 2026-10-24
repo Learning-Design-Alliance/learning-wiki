@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: giulia-messina-dahlberg-susanne-gustavsson-2025
     resource: "https://doi.org/10.1007/s11251-025-09714-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructional processes in this VET context involve designing activities aimed at volume training rather than handling specific high-stakes and risky situations. [→ Giulia Messina Dahlberg · Susanne Gustavsson 2025](#giulia-messina-dahlberg-susanne-gustavsson-2025)

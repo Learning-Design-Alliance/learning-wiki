@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: cheng-2009
     resource: "https://doi.org/10.64152/10125/66828"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reading comprehension scores showed no significant difference between any gloss condition and the no-gloss control (L1-gloss-L2-ex p = .270, L1-in-text-gloss p = .082, L1-MG-gloss p = .705). [→ Cheng 2009](#cheng-2009)

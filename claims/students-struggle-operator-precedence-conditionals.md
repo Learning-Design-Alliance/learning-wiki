@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: shile-zhang-and-shuhan-zhang-2026
     resource: "https://doi.org/10.1186/s40594-026-00623-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` 36.9% of students selected an incorrect option on a conditional-logic item, appearing to apply the 'not' operator as a final step after reading conditions left to right, indicating misunderstanding of operator precedence. [→ Shile Zhang and Shuhan Zhang 2026](#shile-zhang-and-shuhan-zhang-2026)

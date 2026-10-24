@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: khalifeh-2026
     resource: "https://doi.org/10.1186/s40561-026-00440-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nine studies defined ITS as computer-based environments emulating human tutoring through step-by-step guidance, adaptive feedback, and individualized practice, employing AI techniques such as rule-based reasoning, Bayesian networks, recommender algorithms, and natural language processing. [→ Khalifeh 2026](#khalifeh-2026)

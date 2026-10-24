@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 1974
 sources:
   - id: dietzel-1974
     resource: "https://doi.org/10.1037/h0076731"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1974 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the early stage, all therapists responded at a moderate complementarity level with no significant outcome-group difference (t = 0.716, p > .05). [→ Dietzel 1974](#dietzel-1974)

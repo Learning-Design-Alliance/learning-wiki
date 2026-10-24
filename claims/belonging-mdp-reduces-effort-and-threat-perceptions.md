@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-17
 sources:
   - id: harris-2023
     resource: "https://eric.ed.gov/?id=ED638504"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructional practices aligned to the Belonging MDP were associated with significant declines in students' perceptions that studying science required too much effort and was too threatening to self-esteem. [→ Harris 2023](#harris-2023)

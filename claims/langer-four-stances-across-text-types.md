@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 1992
 sources:
   - id: smagorinsky-1992
     resource: "https://doi.org/10.3102/00346543062003279"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1992 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In both literary and nonliterary reading, readers employed four stances—being out and stepping into an envisionment, being in and moving through it, stepping back and rethinking, and stepping out and objectifying—supporting the view that these stances underlie developing understandings regardless of text type. [→ Smagorinsky 1992](#smagorinsky-1992)

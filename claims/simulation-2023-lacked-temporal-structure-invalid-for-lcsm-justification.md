@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: núñez-regueiro-2026
     resource: "https://doi.org/10.1007/s10648-026-10179-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 2023 simulation data were generated without temporal structure, so they do not demonstrate that AR effects distort LCSM parameters; they show only that dynamic parameters are uninterpretable for non-temporal data. [→ Núñez-Regueiro 2026](#nunez-regueiro-2026)

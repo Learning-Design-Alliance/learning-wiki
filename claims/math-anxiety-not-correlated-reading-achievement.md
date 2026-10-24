@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: wu-ss-2012
     title: Wu SS 2012
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After controlling for trait anxiety and FSIQ, math anxiety was not significantly correlated with the WIAT-II Reading Composite, Reading Comprehension, or Word Reading scores. [→ Wu SS 2012](#wu-ss-2012)

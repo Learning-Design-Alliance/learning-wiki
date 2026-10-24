@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: leonardo-bevilacqua-2021
     resource: "https://doi.org/10.1016/j.chiabu.2020.104890"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Parental discord (β= 0.125) and parental depression (β= 0.113) were the individual ACEs most strongly associated with internalizing problems by age 3, with trajectories increasing over time for parental depression. [→ Leonardo Bevilacqua 2021](#leonardo-bevilacqua-2021)

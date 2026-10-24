@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: a-focused-look-at-rural-schools-receiving-school-improvement-grants-2014
     resource: "https://ies.ed.gov/ncee/pubs/20144013/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Principals and district administrators from eight rural schools reported at least one rural-setting factor hampering staffing, most commonly teacher commutes (six schools), followed by isolated communities (four schools). [→ A Focused Look at Rural Schools Receiving School Improvement Grants 2014](#a-focused-look-at-rural-schools-receiving-school-improvement-grants-2014)

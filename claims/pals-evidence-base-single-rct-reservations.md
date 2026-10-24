@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: peer-assisted-learning-strategies-2012
     resource: "https://kc.vanderbilt.edu/pals/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 97 studies reviewed, only Fuchs et al. (1997) met WWC evidence standards (with reservations); the remaining 96 did not meet standards or eligibility screens. [→ Peer-Assisted Learning Strategies 2012](#peer-assisted-learning-strategies-2012)

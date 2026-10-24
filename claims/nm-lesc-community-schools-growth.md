@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: oakes-2020
     resource: "https://learningpolicyinstitute.org/product/improving-education-new-mexico-way"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study of community schools in Albuquerque, Las Cruces, and Santa Fe, the Legislative Education Study Committee found that schools operating more than 5 years with fully implemented pillars showed better-than-average growth in student achievement scores. [→ Oakes 2020](#oakes-2020)

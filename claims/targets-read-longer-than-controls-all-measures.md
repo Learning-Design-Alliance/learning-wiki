@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: pellicer-sánchez-2016
     resource: "https://doi.org/10.1017/S0272263115000224"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For L2 readers, mean reading times for target nonwords were significantly longer than for controls in first fixation duration, gaze duration, number of fixations, and total reading time. [→ Pellicer-Sánchez 2016](#pellicer-sanchez-2016)

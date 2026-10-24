@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhu-z-2026
     title: Zhu Z 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group's learning trajectory was significantly steeper than the control group's, evidenced by a significant group × time interaction [β = 0.52, 95% CI (0.31, 0.73)]. [→ Zhu Z 2026](#zhu-z-2026)

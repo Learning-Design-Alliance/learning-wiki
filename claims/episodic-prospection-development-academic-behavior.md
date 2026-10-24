@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: fandakova-2016
     resource: "https://doi.org/10.1111/mbe.12123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Episodic prospection—the ability to form a mental representation of a personal future event—shows prolonged development supported by memory ability, the hippocampus, and self-concept, and may promote academic behaviors such as completing homework and studying for exams. [→ Fandakova 2016](#fandakova-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: de-la-torre-2023
     resource: "https://consortium.uchicago.edu/publications/exploring-chicago-connected"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 36% of English Learners participated vs. 26% of non-English Learners, a statistically significant difference in multilevel models. [→ de la Torre 2023](#de-la-torre-2023)

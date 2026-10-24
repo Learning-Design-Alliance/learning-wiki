@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: tang-j-2026
     title: Tang J 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the first task the AI-assisted peer feedback class significantly outperformed the teacher feedback class on lexical diversity (F(1,59)=12.288, p < .001; group main effect ηp² = .200), but in the second task the group effect was non-significant (F(1,59)=1.084, p = .303). [→ Tang J 2026](#tang-j-2026)

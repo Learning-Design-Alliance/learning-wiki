@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: shg-van-der-ven-2015
     resource: "https://doi.org/10.1016/j.lindif.2015.08.013"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Child analyses of multiplication ability indicated three groups: single digit problem solvers, multidigit problem solvers, and high performers. [→ S.H.G. van der Ven 2015](#shg-van-der-ven-2015)

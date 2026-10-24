@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: keravnos-2025
     resource: "https://doi.org/10.12973/eujem.8.4.219"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A two-round Delphi study with ten field experts established consensus at 80% or higher on all major components of the CSM-SU model. [→ Keravnos 2025](#keravnos-2025)

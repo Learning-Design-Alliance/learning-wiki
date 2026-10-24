@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: burton-2021
     resource: "https://doi.org/10.1177/17470218211008895"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Task type significantly moderated the reward effect on IC (χ2(5) = 16.79, p = .005), with significant positive effects in every task and the largest pooled effect in Stroop tasks (SMD = 1.029). [→ Burton 2021](#burton-2021)

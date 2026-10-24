@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: palacios-2022
     resource: "https://eric.ed.gov/?id=ED625797"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across districts there is no consistent terminology for English Learner programs; offices are known by different names such as Student/Pupil Services, ESOL, ESL, ENL, Bilingual or Multilingual Programs, World Languages, and Title III. [→ Palacios 2022](#palacios-2022)

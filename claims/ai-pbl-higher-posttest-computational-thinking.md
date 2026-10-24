@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ayanwale-2026
     resource: "https://doi.org/10.1016/j.chbah.2026.100263"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In a quasi-experiment with 103 first-year Nigerian undergraduates, the AI-PBL group showed a statistically significant main effect of instructional group on posttest computational thinking, F(1, 70) = 149.23, p < .001, partial η2 = .681, with adjusted means of 3.81 (AI-PBL) versus 2.40 (control). [→ Ayanwale 2026](#ayanwale-2026)

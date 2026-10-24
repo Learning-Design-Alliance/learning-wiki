@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: knowledge-is-power-program-kipp-2018
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/688"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the third follow-up year after random assignment, KIPP lottery winners outperformed lottery losers on state standardized mathematics (+7 improvement index, 455 students) and reading (+6, 458 students) tests. [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)

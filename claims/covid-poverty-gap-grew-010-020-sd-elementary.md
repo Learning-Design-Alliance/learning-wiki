@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: megan-kuhfeld-2022
     resource: "https://doi.org/10.3102/0013189X221109178"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The achievement gap between students in low-poverty and high-poverty elementary schools widened by .10–.20 SD, mainly during the 2020–2021 school year; the article prints this SD growth but no standardized effect-size statistic, so no magnitude code is assigned. [→ Megan Kuhfeld 2022](#megan-kuhfeld-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: élisabeth-bélanger-2026
     resource: "https://doi.org/10.1007/s10648-026-10198-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 23 negative priming experiments, larger NP effects are generally observed in mathematics (M = 216 ms), particularly in arithmetic tasks (M = 537 ms), where word problems and proportional reasoning tend to yield higher effects. [→ Élisabeth Bélanger 2026](#elisabeth-belanger-2026)

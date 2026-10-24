@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-08
+recheck_by: 2024
 sources:
   - id: martha-bleeker-2019
     resource: "https://ies.ed.gov/ncee/edlabs/regions/mid-atlantic"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Attendance in pre-kindergarten and kindergarten matters for young learners, and schools can act on identified risk factors for chronic absenteeism in the early grades. [→ Martha Bleeker 2019](#martha-bleeker-2019)

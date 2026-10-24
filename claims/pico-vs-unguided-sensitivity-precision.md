@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: mette-brandt-eriksen-2018
     resource: "https://doi.org/10.5195/jmla.2018.345"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among 14 residents and 8 specialists in vascular medicine, PICO-guided searching produced higher average sensitivity (13.62 vs 12.27) and lower average precision (3.44 vs 4.02) than unguided searching, though the difference was not statistically significant at p<0.05. [→ Mette Brandt Eriksen 2018](#mette-brandt-eriksen-2018)

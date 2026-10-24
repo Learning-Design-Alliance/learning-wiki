@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: compagnoni-2019
     resource: "https://doi.org/10.1007/s11409-019-09190-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Analysis of variance showed a significant main effect of trait beliefs on CBSR with a small-to-medium effect size (partial η² = .034), with no main effect of goal orientation. [→ Compagnoni 2019](#compagnoni-2019)

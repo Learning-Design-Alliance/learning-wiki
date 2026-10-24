@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: frisvold-david-e-2015
     resource: "https://doi.org/10.1016/j.jpubeco.2014.12.003"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A binding state mandate increases milk consumption by 2.7 servings per week (26 percent of the mean), fruit consumption by 1.2 servings per week (16 percent of the mean), and decreases soda consumption by 0.8 servings per week (13 percent of the mean). [→ Frisvold David E 2015](#frisvold-david-e-2015)

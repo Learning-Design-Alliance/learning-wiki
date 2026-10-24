@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: wu-y-2026
     title: Wu Y 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Learners in the positive adaptation profile were most likely to remain in it (84.6% T1→T2, 83.6% T2→T3), whereas maladaptive adaptation stability was 51.8% and 59.2%. [→ Wu Y 2026](#wu-y-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: houck-2011
     resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ANOVA revealed no significant differences between ethnic groups on CBCL internalizing or externalizing scores, and only a slight trend on self-concept scores (F(3, 141) = 2.106, p ≤ .10), with Caucasian children obtaining the lowest mean self-concept scores. [→ Houck 2011](#houck-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: sean-gallagher-2019
     resource: "https://www.mathematica.org/publications/community-colleges-and-the-new-era-of-work-and-learning"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The credentialing market has become a complex, multilayered ecosystem with demand for shorter, competency-focused credentials. [→ Sean Gallagher 2019](#sean-gallagher-2019)

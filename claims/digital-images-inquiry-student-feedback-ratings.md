@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: morzinski-2010
     resource: "https://doi.org/10.48550/arxiv.1009.3297"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a five-point student feedback survey, poster session and synthesis lecture scored highest (mean 4.5), followed by image decoding (4.4), with homework file creation lowest (3.6). [→ Morzinski 2010](#morzinski-2010)

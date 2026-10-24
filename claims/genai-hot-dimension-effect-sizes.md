@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: zhao-yan-2025
     resource: "https://doi.org/10.3390/jintelligence13120160"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Problem-solving shows the largest effect (ES = 0.745), critical thinking the second highest (ES = 0.691), and creativity the lowest (ES = 0.444), all statistically significant. [→ Zhao Yan 2025](#zhao-yan-2025)

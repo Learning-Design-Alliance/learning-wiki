@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: james-soland-2018
     resource: "https://doi.org/10.1080/08957347.2018.1495213"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article poses the question of whether observed gaps reflect achievement differences or differences in test motivation (engagement), and investigates the sensitivity of gap estimates to test motivation. [→ James Soland 2018](#james-soland-2018)

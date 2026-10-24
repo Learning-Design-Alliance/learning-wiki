@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wu-j-2026
     title: Wu J 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Humanities students also reported higher perceived ease of use (Welch's F = 5.91, p = 0.016, η2 = 0.029) and higher behavioral intention (F = 6.09, p = 0.014, η2 = 0.028) than STEM students. [→ Wu J 2026](#wu-j-2026)

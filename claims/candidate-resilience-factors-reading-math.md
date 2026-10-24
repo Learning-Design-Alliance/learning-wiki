@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-23
 sources:
   - id: slomowitz-r-f-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102090"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The paper's brief review labels many reading resilience factors (e.g., verbal reasoning, grammar, morphology, executive functioning, coping skills, growth mindset, teacher support) as undetermined, offering them for hypothesis generation. [→ Slomowitz R. F. 2025](#slomowitz-r-f-2025)

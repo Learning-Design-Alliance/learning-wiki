@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: zachariou-2023
     resource: "https://doi.org/10.1007/s11409-023-09342-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` An age × metacognitive regulation interaction (η²p = .08) showed metacognitive regulation decreased slightly for the lower age group and increased for older children. [→ Zachariou 2023](#zachariou-2023)

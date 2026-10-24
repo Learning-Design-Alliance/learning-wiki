@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mario-brcic-2026
     resource: "https://doi.org/10.48550/arxiv.2606.26181"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a randomized undergraduate physics study reported by Kestin et al. (2025), a carefully engineered AI tutor produced more than twice the learning of a strong active-learning class in less time. [→ Mario Brcic 2026](#mario-brcic-2026)

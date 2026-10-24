@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: veronika-hackl-2025
     resource: "https://doi.org/10.48550/arxiv.2509.18900"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In expert-led mapping of an AI Engineering and a Media Pedagogy curriculum, technical programs emphasized Technical Knowledge and Skills and Application Proficiency, while the humanities-oriented program focused more on Ethical Awareness and Reasoning and Social Impact Understanding. [→ Veronika Hackl 2025](#veronika-hackl-2025)

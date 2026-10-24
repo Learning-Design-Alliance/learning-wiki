@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: alqassab-2023
     resource: "https://doi.org/10.1007/s10648-023-09723-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Three design elements were not statistically significant at the 0.05 level and had very small effect sizes: alignment (p = 1.000; R² = 0.003), rewards (p = 0.130; R² = 0.007), and setting (p = 0.210; R² = 0.027). [→ Alqassab 2023](#alqassab-2023)

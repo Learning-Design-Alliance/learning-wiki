@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1996
+source_checked: 2026-10-08
+recheck_by: 2001
 sources:
   - id: bryk-1996
     resource: "https://consortium.uchicago.edu/publications/social-trust-moral-resource-school-improvement"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1996 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2001**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The study hypothesizes that schools with high levels of trust produce conditions conducive to broad-based school improvement, measured through four teacher survey scales: commitment, orientation to innovation, outreach to parents, and collective responsibility for student welfare. [→ Bryk 1996](#bryk-1996)

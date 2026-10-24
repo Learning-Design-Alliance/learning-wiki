@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 1989
 sources:
   - id: dillenbourg-1989
     resource: "https://doi.org/10.1007/BF00053359"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite discovering conditions for five of nine strategies, the new knowledge did not lead to greater student performance efficiency. [→ Dillenbourg 1989](#dillenbourg-1989)

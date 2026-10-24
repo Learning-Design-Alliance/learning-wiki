@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: eric-p-bettinger-2017
     resource: "https://doi.org/10.1257/aer.20151193"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Taking a course online, instead of in-person, reduces student success and progress in college, estimated via instrumental variables. [→ Eric P. Bettinger 2017](#eric-p-bettinger-2017)

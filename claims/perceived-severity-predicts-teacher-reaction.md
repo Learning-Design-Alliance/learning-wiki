@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: grădinariu-2021
     resource: "https://doi.org/10.35923/JES.2021.2.03"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Strong positive correlations were obtained between perceived severity and probability of reaction towards aggressors and victims in all three bullying types; for victims of relational aggression, r = .557. [→ Grădinariu 2021](#gradinariu-2021)

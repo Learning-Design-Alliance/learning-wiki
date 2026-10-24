@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chen-2026
     resource: "https://doi.org/10.48550/arxiv.2607.17643"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructing was positive in coding but negative in writing, whereas modelling was approximately null in coding but strongly positive in writing. [→ Chen 2026](#chen-2026)

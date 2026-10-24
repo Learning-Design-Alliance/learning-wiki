@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: smylie-2006
     resource: "https://consortium.uchicago.edu/publications/promoting-instructional-improvement-strategic-human-resource-management-perspective"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Chicago Annenberg studies relate three supports to student achievement gains: academic press and social support together (gains where students experienced high levels of both, not separate effects of each), interactive teaching practices, and instructional program coherence. [→ Smylie 2006](#smylie-2006)

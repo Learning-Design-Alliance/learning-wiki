@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-16
 sources:
   - id: wwc-intervention-report-dialogic-reading-2007
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across five studies meeting WWC standards, Dialogic Reading showed statistically significant positive effects on oral language in three studies and indeterminate effects in two. [→ WWC Intervention Report: Dialogic Reading 2007](#wwc-intervention-report-dialogic-reading-2007)

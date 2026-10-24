@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: nakamoto-2017
     resource: "https://eric.ed.gov/?id=ED582976"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among respondents no longer in high school, 58 percent were currently attending college and 21 percent had graduated from college; 91 percent of those who finished college completed a four-year degree or higher. [→ Nakamoto 2017](#nakamoto-2017)

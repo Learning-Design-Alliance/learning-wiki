@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: dweck-2019
     resource: "https://doi.org/10.1177/1745691618804166"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across six studies, praise for children's intelligence (versus effort or outcome praise) was more likely to induce a fixed mindset, performance goals, low-ability attributions, and impaired performance after failure. [→ Dweck 2019](#dweck-2019)

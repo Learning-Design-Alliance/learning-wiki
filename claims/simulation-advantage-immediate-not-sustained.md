@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-13
 sources:
   - id: malikova-z-2026
     resource: "https://doi.org/10.3389/feduc.2026.1964629"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ben-Zion et al. (2026) found higher immediate conceptual-assessment scores in AI-generated and prebuilt simulation conditions than in the physical-laboratory condition, with no persistence in midterm and final examinations. [→ Malikova Z 2026](#malikova-z-2026)

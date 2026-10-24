@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-16
 sources:
   - id: manu-kapur-2016
     resource: "https://doi.org/10.1080/00461520.2016.1155457"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Kapur (2011), guided problem-solving students achieved problem-solving success, yet productive failure students outperformed both guided-generation and direct instruction conditions on posttest measures. [→ Manu Kapur 2016](#manu-kapur-2016)

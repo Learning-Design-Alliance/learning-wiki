@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: marsh-2025
     resource: "https://doi.org/10.1007/s10648-025-10079-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Convergent validity (same facet across waves) averaged r = .704, exceeding cross-time discriminant (r = .333) and same-wave discriminant (r = .436) block means. [→ Marsh 2025](#marsh-2025)

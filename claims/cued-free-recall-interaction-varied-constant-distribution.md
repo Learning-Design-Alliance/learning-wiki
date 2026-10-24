@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1979
 sources:
   - id: glenberg-1979
     resource: "https://doi.org/10.3758/bf03197590"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
+> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The three-way interaction between type of recall, varied-constant repetition, and distribution was statistically significant, supporting the prediction that descriptive cues eliminate the massed-distributed effect in varied conditions while contextual cues preserve it in free recall. [→ Glenberg 1979](#glenberg-1979)

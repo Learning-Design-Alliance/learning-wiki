@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
+recheck_by: 2016
 sources:
   - id: houck-2011
     resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i2` Age yields a significant negative relationship with total self-concept score (r = -.23, p = .01), with older children having lower scores. [→ Houck 2011](#houck-2011)

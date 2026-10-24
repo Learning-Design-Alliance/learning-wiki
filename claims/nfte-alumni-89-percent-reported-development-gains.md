@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: nakamoto-2017
     resource: "https://eric.ed.gov/?id=ED582976"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The vast majority of alumni respondents (89 percent) reported NFTE contributed to their knowledge, skills, and/or personal development, and the most commonly reported areas overlapped with entrepreneurial mindset domains such as Initiative and Self-Reliance. [→ Nakamoto 2017](#nakamoto-2017)

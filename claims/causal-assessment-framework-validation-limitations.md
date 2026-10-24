@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: francesca-mangili-2026
     resource: "https://doi.org/10.48550/arxiv.2608.24632"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors state the learner model's structure and parameterisation are not really validated, having been tested only on a small dataset, against a BN learned directly from data, and only for predictive accuracy. [→ Francesca Mangili 2026](#francesca-mangili-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: ton-de-jong-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100623"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q4`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` A randomized-control evaluation with more than 4000 students showed project-based chemistry and physics programs outperformed traditional teaching by close to 0.2 standard deviations. [→ Ton de Jong 2024](#ton-de-jong-2024)

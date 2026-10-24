@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: gregory-chojnacki-2023
     resource: "https://www.mathematica.org/publications/examining-student-and-teacher-math-learning-lessons-from-three-summer-programs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers made use of new instructional practices they had learned while delivering the programs, suggesting summer programs can serve as learning labs for new practices. [→ Gregory Chojnacki 2023](#gregory-chojnacki-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: femke-van-der-wilt-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102217"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` For children with above-median teacher-child conflict, peer rejection T1 correlated significantly negatively with language competence T2 (r = .19, p = .012); for below-median conflict the correlation was non-significant (r = .01, p = .888). [→ Femke van der Wilt 2025](#femke-van-der-wilt-2025)

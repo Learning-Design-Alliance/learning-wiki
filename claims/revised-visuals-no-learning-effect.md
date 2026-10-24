@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: clinton-2017
     resource: "https://doi.org/10.4018/978-1-5225-1005-5.ch010"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Condition did not affect post-lesson test scores, F(1, 56) = .00, p = .96, and there was no condition by prior knowledge interaction, F(2, 56) = .14, p = .87. [→ Clinton 2017](#clinton-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1914
 sources:
   - id: winch-1914
     resource: "https://books.google.com/books?q=%22When+Should+a+Child+Begin+School%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Winch reports finding the same result in schools presenting very different educational attitudes toward young children's training, for the ages he dealt with. [→ Winch 1914](#winch-1914)

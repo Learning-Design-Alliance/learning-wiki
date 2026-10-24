@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Concerns did not significantly moderate the relationship between support and confidence (V = 0.021, p = 0.661) and had no significant direct effect on confidence (V = −0.104, p = 0.625). [→ mmr-model1-moderation](#mmr-model1-moderation)

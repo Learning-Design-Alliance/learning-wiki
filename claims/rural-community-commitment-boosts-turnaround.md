@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: rural-turnaround-challenges-and-opportunities-2014
     resource: "https://centeronschoolturnaround.org/journeys"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The CST handbook chapter holds that the strength and commitment of local community members can provide one of the biggest boosts to rural turnaround, since strong connections among staff, parents, and community members support the school and its students' motivation and success. [→ Rural Turnaround: Challenges and Opportunities 2014](#rural-turnaround-challenges-and-opportunities-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: julia-kienzler-2023
     resource: "https://doi.org/10.1007/s11251-023-09627-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Posttest knowledge correlated with belief change for classification (r = 0.15, p = .02) and explanation (r = 0.19, p < .01), but not significantly for definition (r = 0.14, p = .07). [→ Julia Kienzler 2023](#julia-kienzler-2023)

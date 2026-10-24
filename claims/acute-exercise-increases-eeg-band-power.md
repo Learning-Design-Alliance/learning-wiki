@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: basso-julia-c-2017
     resource: "https://doi.org/10.3233/BPL-160040"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` A review of 18 acute exercise EEG studies found significant increases in alpha, delta, theta, and beta activity with effect sizes of 0.38 to 0.75 standard deviations across cortical regions. [→ Basso Julia C. 2017](#basso-julia-c-2017)

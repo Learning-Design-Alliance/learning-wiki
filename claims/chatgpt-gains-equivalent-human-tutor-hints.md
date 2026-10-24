@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: pardos-za-2024
     title: Pardos ZA 2024
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ChatGPT hint gains and human tutor hint gains were not statistically significantly separable (p = 0.416), despite ChatGPT hints producing 46.30% higher learning gains overall. [→ Pardos ZA 2024](#pardos-za-2024)

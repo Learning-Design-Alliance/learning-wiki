@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: champion-solomon-lammey-2025
     resource: "https://doi.org/10.1080/10508406.2025.2569583"
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 When formative assessment centers embodied, creative, and culturally familiar modes of expression (movement, music, vernacular language) and is framed as ongoing dialogue rather than performance evaluation, youth engage more openly with developing ideas and are more willing to share exploratory or incomplete thinking.
 

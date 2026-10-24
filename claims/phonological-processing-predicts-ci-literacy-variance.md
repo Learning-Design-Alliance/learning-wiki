@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: geers-ann-e-hayes-heather-2011
     resource: "https://doi.org/10.1097/AUD.0b013e3181fa41fa"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In step 3 of the hierarchical regression, phonological processing accounted for 38.3% of added variance in literacy, and the full model accounted for 76.7% of variance including early reading level. [→ Geers Ann E.; Hayes Heather 2011](#geers-ann-e-hayes-heather-2011)

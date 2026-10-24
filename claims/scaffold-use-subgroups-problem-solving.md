@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: joep-van-der-graaf-2023
     resource: "https://doi.org/10.1007/s11409-023-09364-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Person-centered analysis identified four scaffold-use subgroups; the metacognitive and strategic subgroups solved more problems correctly, and the metacognitive subgroup had better efficacy and confidence scores than the moderate and low scaffold-use subgroups. [→ Joep van der Graaf 2023](#joep-van-der-graaf-2023)

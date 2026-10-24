@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2003
+source_checked: 2026-10-20
 sources:
   - id: kalyuga-2003
     resource: "https://doi.org/10.1207/S15326985EP3801_4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2003 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Imagining procedures and relations benefitted more knowledgeable spreadsheet learners compared with studying worked examples, whereas for less knowledgeable students imagining had a negative effect relative to studying. [→ Kalyuga 2003](#kalyuga-2003)

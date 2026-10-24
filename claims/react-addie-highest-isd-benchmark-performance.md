@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: younghoon-jeon-2026
     resource: "https://doi.org/10.48550/arxiv.2602.10620"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On 1,017 test scenarios evaluated with three LLMs, React-ADDIE achieves the highest mean score (86.49) versus ADDIE-Agent (82.96) and Baseline (84.07). [→ YoungHoon Jeon 2026](#younghoon-jeon-2026)

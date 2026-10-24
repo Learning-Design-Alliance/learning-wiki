@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: luxton-reilly-2009
     resource: "https://doi.org/10.1080/08993400903384844"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Kali and Ronen report that grading students on the quality of reviews rather than peer-assessed marks for assignments reduced tensions and produced higher correlations between student and instructor marks. [→ Luxton-Reilly 2009](#luxton-reilly-2009)

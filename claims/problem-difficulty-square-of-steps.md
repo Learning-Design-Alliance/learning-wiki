@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: locke-1913
     resource: "https://www.google.com/books/search?q=%22Inspector+Winch%27s+Experiments+on+Transfer%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Problem difficulty in arithmetic may increase directly as the square of the number of steps, a more probable hypothesis than difficulty rising directly with step count. [→ Locke 1913](#locke-1913)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: hilit-maizel-2026
     resource: "https://doi.org/10.3390/educsci16071123"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Stronger effort regulation is associated with lower AI dependency, more frequent general academic help seeking with higher dependency, and time/study environment management shows no significant association. [→ Hilit Maizel 2026](#hilit-maizel-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-21
 sources:
   - id: tamara-van-gog-liesbeth-kester-kim-dirkx-vincent-hoogerheide-joris-boerboom-peter-p-j-l-verkoeijen-2015
     resource: "https://doi.org/10.1007/s10648-015-9297-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 2 (n=124), a 2x2x2 ANOVA on delayed final test performance showed no main effect of instruction condition (restudy vs. identical problem solving). [→ Tamara van Gog & Liesbeth Kester & Kim Dirkx & Vincent Hoogerheide & Joris Boerboom & Peter P. J. L. Verkoeijen 2015](#tamara-van-gog-liesbeth-kester-kim-dirkx-vincent-hoogerheide-joris-boerboom-peter-p-j-l-verkoeijen-2015)

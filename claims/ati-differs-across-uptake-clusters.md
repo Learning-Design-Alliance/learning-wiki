@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026
     resource: "https://doi.org/10.1007/s11412-026-09470-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` ATI scores were significantly higher for text integrators (M = 3.88, SD = 0.96) than text reconstructors (M = 3.36, SD = 0.80), t(119) = −3.21, p = 0.002, d = 0.59; reproducers had the highest ATI (M = 4.08). [→ Teresa Luther · Kate Belcher · Joachim Kimmerle · Detmar Meurers · Ulrike Cress 2026](#teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026)

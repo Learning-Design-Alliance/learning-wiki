@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: vg-kremen-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100648"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i2` Personal readiness (M = 3.83) significantly exceeded system readiness (M = 3.15), a 0.68-point gap with a large effect size (d = 0.73). [→ V.G. Kremen 2026](#vg-kremen-2026)

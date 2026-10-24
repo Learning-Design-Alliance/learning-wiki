@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: kirkpatrick-2020
     resource: "https://doi.org/10.5334/cie.5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Diagnostic status moderated the relation between perceived belonging and on-time completion: each unit increase in belonging was associated with a 63% increase in the odds of on-time graduation for students with a chronic medical condition (OR = 1.629, p = .003). [→ Kirkpatrick 2020](#kirkpatrick-2020)

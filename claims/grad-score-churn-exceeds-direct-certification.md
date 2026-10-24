@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: tanner-2025
     resource: "https://eric.ed.gov/?id=ED677573"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Between 2022/23 and 2023/24, 27 percent of students lost and 30 percent gained At-risk eligibility due to GRAD score changes, versus 12 percent and 9 percent under a hypothetical direct certification measure, though net changes were similar (–3.6 percent vs. –4.0 percent). [→ Tanner 2025](#tanner-2025)

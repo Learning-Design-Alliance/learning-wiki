@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: rolla-2024
     resource: "https://csaa.wested.org/resource/kindergarten-entry-assessments-an-examination-of-best-practices-national-trends-and-recommendations/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across three aggregated studies, Spanish–English bilinguals who knew more Spanish at entry to the educational system were more likely to have higher English skills at the end of the school year. [→ Rolla 2024](#rolla-2024)

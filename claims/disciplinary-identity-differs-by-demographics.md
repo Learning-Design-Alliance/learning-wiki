@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: shannon-n-davis-2019
     resource: "https://www.mathematica.org/publications/research-motivations-and-undergraduate-researchers-disciplinary-identity"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Disciplinary identity among undergraduate researchers differs by demographic characteristics. [→ Shannon N. Davis 2019](#shannon-n-davis-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bergh-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21194"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` AI-Assisted students scored lower on the 48-hour delayed retention quiz (M=0.39 vs M=0.52, Hedges' g = 0.77), and a mixed ANOVA found no group×time interaction, indicating no difference in the rate of forgetting. [→ Bergh 2026](#bergh-2026)

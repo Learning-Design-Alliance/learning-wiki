@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: melnick-2022
     resource: "https://doi.org/10.54300/826.674"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Projected TK enrollment in 2025–26 ranges from 291,000 to 358,000 children depending on uptake assumptions, compared with 89,000 enrolled in 2019–20. [→ Melnick 2022](#melnick-2022)

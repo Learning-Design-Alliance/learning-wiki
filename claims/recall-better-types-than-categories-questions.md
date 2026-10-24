@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: jan-van-der-meij-2017
     resource: "https://doi.org/10.1007/s11251-017-9425-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Type of header content significantly affected scores on type-focused questions but not category-focused questions; arrow orientation had no significant effect on either. [→ Jan van der Meij 2017](#jan-van-der-meij-2017)

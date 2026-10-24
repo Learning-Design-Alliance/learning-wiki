@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: francis-geng-2026
     resource: "https://doi.org/10.48550/arxiv.2608.05898"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 14 conventional percentage-based courses, every course included participation or engagement, most included a project/capstone, and proctored assessment appeared in only a small minority. [→ Francis Geng 2026](#francis-geng-2026)

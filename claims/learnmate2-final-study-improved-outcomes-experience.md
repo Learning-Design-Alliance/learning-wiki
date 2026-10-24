@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: final-study
     title: final-study
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a user study with 16 participants, LearnMate2 improved both learning outcomes and user experience compared to a workflow combining a state-of-the-art online learning platform and an LLM for learning support. [→ final-study](#final-study)

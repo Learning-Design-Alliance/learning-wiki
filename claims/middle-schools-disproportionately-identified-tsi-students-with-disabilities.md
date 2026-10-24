@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: kevin-kelly-2020
     resource: "https://www.mathematica.org/publications/schools-targeted-for-improvement-are-small-sample-sizes-masking-poor-school-performance"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one state, middle schools with low-performing students with disabilities accounted for 67% of all TSI schools in the state. [→ Kevin Kelly 2020](#kevin-kelly-2020)

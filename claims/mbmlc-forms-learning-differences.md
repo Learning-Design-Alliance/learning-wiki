@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: inge-molenaar-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2019.05.003"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Students learned significantly during the four lessons overall, t(85) = 12.54, p < 0.001, r = 0.35, a medium effect. [→ Inge Molenaar 2021](#inge-molenaar-2021)

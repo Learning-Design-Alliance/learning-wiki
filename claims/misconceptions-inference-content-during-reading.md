@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: kendeou-2007
     resource: "https://doi.org/10.3758/bf03193491"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The misconception group generated significantly fewer correct inferences (M = 7.5 vs. 13.9) and significantly more incorrect inferences (M = 3.8 vs. 0.5) than the nonmisconception group (incorrect-inference η² = .33). [→ Kendeou 2007](#kendeou-2007)

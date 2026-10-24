@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: schenke-2017
     resource: "https://doi.org/10.1037/edu0000165"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the whole sample, teacher confidence and enthusiasm correlated with post mathematics achievement (r = .18, p < .001) and expectations and responsiveness to developmental needs did so as well (r = .09, p < .01), while support for mathematical discourse did not (r = −.03, p = .29). [→ Schenke 2017](#schenke-2017)

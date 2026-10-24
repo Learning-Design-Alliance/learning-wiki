@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-22
 sources:
   - id: martin-andrew-j-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101712"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Lockdown significantly predicted disengagement (β = 0.12, p = .01) but did not significantly predict self-efficacy. [→ Martin Andrew J. 2023](#martin-andrew-j-2023)

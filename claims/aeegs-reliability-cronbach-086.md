@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: olaoye-dd-2026
     resource: "https://doi.org/10.3389/feduc.2026.1669504"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Trial testing with twenty examinees' essay responses yielded a Cronbach alpha of 0.86, above the article's stated 0.75 benchmark, and three software experts examined the software for face and content validity. [→ Olaoye DD 2026](#olaoye-dd-2026)

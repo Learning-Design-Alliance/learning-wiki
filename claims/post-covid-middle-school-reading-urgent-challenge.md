@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: megan-kuhfeld-2026
     resource: "https://www.nwea.org/research/publication/tech-appendix-for-struggling-adolescent-readers-left-behind-evidence-of-post-covid-19-declines-and-pathways-forward/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The brief highlights middle school reading as an urgent challenge in academic recovery following COVID-19. [→ Megan Kuhfeld 2026](#megan-kuhfeld-2026)

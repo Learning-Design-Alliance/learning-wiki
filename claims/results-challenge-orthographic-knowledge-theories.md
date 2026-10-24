@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: van-den-boer-2015
     resource: "https://doi.org/10.1037/a0037101"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The finding that parallel processing emerges for words before nonwords does not fully fit current theories that frame orthographic knowledge as either word-specific lexical knowledge or a sublexical associative network. [→ van den Boer 2015](#van-den-boer-2015)

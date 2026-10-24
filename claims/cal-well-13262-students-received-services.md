@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: project-cal-well-building-sustainable-school-based-mental-health-systems-2024
     resource: "https://eric.ed.gov/?id=ED655927"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` From 2019 through 2023, Cohort 2 Project Cal-Well LEAs reported that 13,262 students received mental health services through school-based or community-based providers after a referral. [→ Project Cal-Well: Building Sustainable School-Based Mental Health Systems 2024](#project-cal-well-building-sustainable-school-based-mental-health-systems-2024)

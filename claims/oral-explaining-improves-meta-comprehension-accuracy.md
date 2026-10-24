@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-23
 sources:
   - id: jacob-2019
     resource: "https://aspredicted.org/sv3zv.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A main effect of learning activity on meta-comprehension accuracy emerged, F(2, 111) = 9.05, p < .001, η²p = .032; oral explainers judged their comprehension more accurately than written explainers (p < .001) and retrievers (p = .026). [→ Jacob 2019](#jacob-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: griffith-2025
     resource: "https://doi.org/10.54300/471.440"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Later rigorous studies show increased spending leads to higher educational attainment, higher graduation rates, greater earnings, and lower incidences of poverty. [→ Griffith 2025](#griffith-2025)

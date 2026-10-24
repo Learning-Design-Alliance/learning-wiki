@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: yoon-2020
     resource: "https://doi.org/10.1007/s11412-020-09326-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Surveys and interviews showed high satisfaction with the quality and usability of the PD and positive beliefs about the social capital elements of tie quality, depth of interaction, and access to expertise. [→ Yoon 2020](#yoon-2020)

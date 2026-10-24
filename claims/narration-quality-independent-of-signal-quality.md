@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chenguang-pan-2026
     resource: "https://doi.org/10.48550/arxiv.2608.21165"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Narration faithfulness metrics (grounding audit, self-closure, uniqueness) remain near 1 across all simulation conditions regardless of whether the upstream signal is true or noisy, showing that fluent, internally consistent text does not indicate correct predictions. [→ Chenguang Pan 2026](#chenguang-pan-2026)

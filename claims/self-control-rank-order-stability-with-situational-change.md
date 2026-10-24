@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: duckworth-2013
     resource: "https://doi.org/10.3389/fpsyg.2012.00608"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` One-year test-retest stability of composite self-control was r=0.59 (Study 2) and r=0.81 (Study 3), and r=0.70 across grades 4–6 in Study 1, yet life events still predicted change. [→ Duckworth 2013](#duckworth-2013)

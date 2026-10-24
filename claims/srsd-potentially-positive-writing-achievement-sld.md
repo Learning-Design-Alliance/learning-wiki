@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-15
 sources:
   - id: self-regulated-strategy-development-wwc-intervention-report-2017
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/680"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 17 single-case design experiments in the writing achievement domain, 15 (88%) documented a positive effect and 0 documented a negative effect, yielding a WWC rating of potentially positive effects. [→ Self-Regulated Strategy Development: WWC Intervention Report 2017](#self-regulated-strategy-development-wwc-intervention-report-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1993
+recheck_by: 1996
 sources:
   - id: bryk-1993
     resource: "https://consortium.uchicago.edu/publications/view-elementary-schools-state-reform-chicago"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1996**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` When seven indicators of a functional LSC are examined across Chicago elementary schools, 19 percent of LSCs fall into the nonfunctional category. [→ Bryk 1993](#bryk-1993)

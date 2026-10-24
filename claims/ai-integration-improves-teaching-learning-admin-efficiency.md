@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nyamboga-to-2026
     title: Nyamboga TO 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 155 reviewed studies, AI significantly enhances teaching, learning, and administrative efficiency when supported by adequate infrastructure. [→ Nyamboga TO 2026](#nyamboga-to-2026)

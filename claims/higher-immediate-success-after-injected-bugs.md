@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Immediate success for any action is 89.92% for i:first vs 51.16% for n:first, with the same contrast holding within prompt and edit actions. [→ rq1-success](#rq1-success)

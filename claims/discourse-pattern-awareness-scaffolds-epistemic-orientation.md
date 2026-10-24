@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: sten-ludvigsen-2016
     resource: "https://doi.org/10.1007/s11412-016-9247-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When teachers are aware of different discourse patterns, they can work systematically to scaffold students toward an epistemic orientation and stance, using these insights when planning work in and across subjects. [→ Sten Ludvigsen 2016](#sten-ludvigsen-2016)

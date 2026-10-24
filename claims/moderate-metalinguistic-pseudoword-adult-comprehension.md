@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-17
 sources:
   - id: tighe-2016
     resource: "https://doi.org/10.1177/0022219414555415"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2016 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Pseudoword decoding, orthographic knowledge, and phonological awareness yielded moderate relationships with reading comprehension (rs between .34 and .42). [→ Tighe 2016](#tighe-2016)

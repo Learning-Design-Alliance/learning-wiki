@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: miriam-rivero-contreras-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101731"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Sentences accompanied by an image showed shorter total fixation durations, gaze durations, and lower probability of regressions at the sentence level. [→ Miriam Rivero-Contreras 2023](#miriam-rivero-contreras-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2005
 sources:
   - id: arievitch-2005
     resource: "https://doi.org/10.1207/s15326985ep4003_2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children taught to identify indices of letter shapes transferred the acquired analysis method to a variety of new tasks. [→ Arievitch 2005](#arievitch-2005)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: ahlquist-2020
     resource: "https://doi.org/10.17161/jomr.v6i1.12051"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reducing the presentation group and letting each child describe differences and similarities between shapes allowed the teacher to identify how the children perceived the phenomenon. [→ Ahlquist 2020](#ahlquist-2020)

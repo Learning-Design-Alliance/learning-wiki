@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: brian-p-gill-2020
     resource: "https://www.mathematica.org/publications/operating-schools-in-a-pandemic-predicted-effects-of-opening-and-quarantining-strategies"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Hybrid approaches where smaller masked groups attend in person part-time dramatically reduce the total number of likely infections in a school. [→ Brian P. Gill 2020](#brian-p-gill-2020)

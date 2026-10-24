@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-18
+recheck_by: 2029
 sources:
   - id: germán-arroyo-2026
     resource: "https://doi.org/10.48550/arxiv.2606.05929"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a pilot evaluation with 19 active students on a Raspberry Pi 5, the platform recorded 1,880 discrete API events over approximately 57 active student-hours. [→ Germán Arroyo 2026](#german-arroyo-2026)

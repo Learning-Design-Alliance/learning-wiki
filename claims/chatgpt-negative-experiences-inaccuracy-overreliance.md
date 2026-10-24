@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: annamalai-n-2026
     title: Annamalai N 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants encountered inappropriate responses, inaccurate references, incorrect results, and illogical answers, reducing confidence in the tool and requiring extra verification effort. [→ Annamalai N 2026](#annamalai-n-2026)

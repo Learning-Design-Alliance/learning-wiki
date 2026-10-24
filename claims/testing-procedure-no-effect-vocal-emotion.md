@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: grosbras-2018
     resource: "https://doi.org/10.1038/s41598-018-32868-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no effect of testing procedure and no interaction with age or sex, and model fits did not differ when the factor was removed. [→ Grosbras 2018](#grosbras-2018)

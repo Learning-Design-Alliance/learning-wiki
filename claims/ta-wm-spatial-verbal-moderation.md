@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: caviola-2022
     resource: "https://doi.org/10.1007/s10648-021-09618-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Test anxiety correlates weakly with working memory (r = −.18), and material type moderates this link, with a much stronger correlation for spatial than verbal material (B = .30, p = .001). [→ Caviola 2022](#caviola-2022)

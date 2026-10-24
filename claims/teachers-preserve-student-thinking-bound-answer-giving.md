@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: riahi-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29993"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Approximately 12 teachers discussed the need to balance student access to AI support with teacher control, expressing concern that chatbots should scaffold thinking rather than complete work for students. [→ Riahi 2026](#riahi-2026)

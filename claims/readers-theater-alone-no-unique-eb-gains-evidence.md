@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: taboada-barber-2026
     title: Taboada Barber 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review finds no evidence of unique, reliable, or EL-specific gains in prosody, fluency, or comprehension attributable to readers' theater as a single practice; its benefits derive almost entirely from the embedded repeated readings. [→ ev-6](#taboada-barber-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: reigal-2020
     resource: "https://doi.org/10.3389/fpsyg.2020.01777"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In stepwise linear regression, VO2max was the single predictor for most criteria; anxiety and insomnia was predicted by horizontal jump and life satisfaction by fat mass percentage. [→ Reigal 2020](#reigal-2020)

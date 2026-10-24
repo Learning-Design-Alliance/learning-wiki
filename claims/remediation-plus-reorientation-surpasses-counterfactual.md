@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: kaffenberger-2021
     resource: "https://doi.org/10.1016/j.ijedudev.2020.102326"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Combining grade 4 remediation with an optimised curricular pace from grade 5 onward produces grade 10 learning of 259 on the PISA-like scale, 1.27 years ahead of the no-shock counterfactual. [→ Kaffenberger 2021](#kaffenberger-2021)

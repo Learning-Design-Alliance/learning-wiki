@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: cowan-nelson-2014
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207727/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Barrouillet and colleagues found that the effect of cognitive load on memory span is a negative linear (deleterious) effect, supporting attentional refreshing of items. [→ Cowan Nelson 2014](#cowan-nelson-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: maria-martiniello-2008
     resource: "https://doi.org/10.17763/haer.78.2.70783570r1111t32"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Math word problems on the 2003 MCAS fourth-grade math test showed DIF between ELLs and non-ELLs, indicating disproportionate difficulty for ELLs. [→ Maria Martiniello 2008](#maria-martiniello-2008)

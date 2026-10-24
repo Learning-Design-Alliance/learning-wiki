@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: pooja-k-agarwal-2012
     resource: "https://doi.org/10.1007/s10648-012-9212-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spacing research includes a strand focused on individual learners' self-awareness or metacognition of spaced practice. [→ Pooja K. Agarwal 2012](#pooja-k-agarwal-2012)

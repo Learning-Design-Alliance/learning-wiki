@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: hanley-chiang-2016
     resource: "https://doi.org/10.1162/edfp_a_00184"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In theory, school value added reflects not only principals' effectiveness but also other school-specific influences on student achievement growth beyond principals' control. [→ Hanley Chiang 2016](#hanley-chiang-2016)

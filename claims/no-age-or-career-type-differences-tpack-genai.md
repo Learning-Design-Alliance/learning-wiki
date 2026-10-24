@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sutedjo-a-2026
     title: Sutedjo A 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One-way ANOVAs found no statistically significant differences across any TPACK domain by age group (all p > .05, η² ≤ .05) or by career type (all p > .05, η² ≤ .01). [→ Sutedjo A 2026](#sutedjo-a-2026)

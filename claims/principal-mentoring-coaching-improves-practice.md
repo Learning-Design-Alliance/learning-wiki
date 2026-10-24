@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: darling-hammond-2026
     resource: "https://doi.org/10.54300/644.197"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Principals who participated in mentoring or coaching programs had higher teacher ratings, greater student achievement outcomes, and stronger practices than non-participants. [→ Darling-Hammond 2026](#darling-hammond-2026)

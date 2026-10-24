@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: coppe-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100818"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The social network perspective is rooted in three assumptions: individuals are interdependent through relationships, relationships are vectors of resource exchanges (social capital), and social structure can both help and limit access to those resources. [→ Coppe 2026](#coppe-2026)

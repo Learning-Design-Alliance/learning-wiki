@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Guideline G1 (data practices) was derived mainly from student concerns about not knowing what data is collected, how it is stored, and who can access it, and was not assigned a Community of Inquiry component. [→ g1-data-1](#g1-data-1)

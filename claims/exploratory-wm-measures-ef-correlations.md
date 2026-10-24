@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ger-ebru-2023
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143737/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Accuracy in the incongruent HF block correlated positively with correct colors in the verbal WM task (ρ = 0.24, p < .01); PES in the mixed block correlated with the verbal WM span score (ρ = 0.19, p = .025); the congruency effect correlated negatively with correct locations in the visuospatial WM task (r = −0.16, p = .049). [→ Ger Ebru 2023](#ger-ebru-2023)

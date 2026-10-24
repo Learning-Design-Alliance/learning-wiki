@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: mnguni-l-2026
     title: Mnguni L 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` If the H12 and H13 interaction terms are repeatedly indistinguishable from zero in adequately powered studies, the model reduces to TPB with a re-labelled antecedent; if facilitating conditions predict outcomes directly while paths through SN and PBC are null, context should be modelled as a direct determinant as in UTAUT. [→ Mnguni L 2026](#mnguni-l-2026)

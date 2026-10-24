@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: hallgren-2019
     resource: "https://www.mathematica.org/publications/year-2-report-of-the-atlanta-public-schools-turnaround-strategy"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Turnaround partnership schools are producing improvements in math performance. [→ Hallgren 2019](#hallgren-2019)

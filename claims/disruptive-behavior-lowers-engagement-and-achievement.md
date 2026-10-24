@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: oliver-2011
     resource: "https://doi.org/10.4073/csr.2011.4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Classrooms with frequent disruptive behaviors have less academic engaged time, and students in disruptive classrooms tend to have lower grades and do poorer on standardized tests. [→ Oliver 2011](#oliver-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: kapu-h-2026
     resource: "https://doi.org/10.1136/bmjopen-2026-119283"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Despite positive attitudes towards applying evidence to practice, inadequate evidence synthesis skills resulted in nearly 70% of pharmacy students and practitioners reporting a lack of confidence in applying evidence in patient care. [→ Kapu H 2026](#kapu-h-2026)

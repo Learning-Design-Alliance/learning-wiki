@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: naiming-liu-2025
     resource: "https://doi.org/10.48550/arxiv.2512.24362"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In a closed-loop generation-recovery pipeline, anxiety was recovered from simulated dialogue with 100% accuracy while conscientiousness (68.6%) and language proficiency (60%) were substantially harder to infer. [→ Naiming Liu 2025](#naiming-liu-2025)

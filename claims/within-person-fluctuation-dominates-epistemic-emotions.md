@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ketonen-2026
     resource: "https://doi.org/10.1007/s11251-025-09771-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Intraclass correlations ranged from 0.182 to 0.367, indicating positive emotions were more often reported than negative and most variance was within-person. [→ Ketonen 2026](#ketonen-2026)

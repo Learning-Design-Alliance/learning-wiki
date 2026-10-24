@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: soland-2019
     resource: "https://www.nwea.org/research/publication/identifying-students-who-are-off-track-academically-in-9th-grade-the-role-of-social-emotional-learning-trajectories/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither intercept nor growth for growth mindset, self-efficacy, or self-management was significantly associated with chronic absenteeism in 9th grade. [→ Soland 2019](#soland-2019)

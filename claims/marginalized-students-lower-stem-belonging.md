@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: jessica-t-decuir-gunby-2026
     resource: "https://doi.org/10.1007/s10648-026-10220-w"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Racially marginalized students report less belonging in STEM, partly due to social exclusion and microaggressions in STEM learning environments. [→ Jessica T. DeCuir-Gunby 2026](#jessica-t-decuir-gunby-2026)

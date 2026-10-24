@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: frisvold-david-e-2015
     resource: "https://doi.org/10.1016/j.jpubeco.2014.12.003"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Schools where the percent of FRP students exceeds the state threshold are 33 percentage points more likely to offer breakfast through the SBP. [→ Frisvold David E 2015](#frisvold-david-e-2015)

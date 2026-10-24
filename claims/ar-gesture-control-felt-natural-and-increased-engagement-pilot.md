@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ofek-levy-2026
     resource: "https://www.google.com/search?q=%22From+Prompt+to+Embodied+Simulation%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 93% of the 29 students reported that controlling the wave in the air felt natural, and 86% reported feeling more engaged and focused than in regular learning. [→ Ofek Levy 2026](#ofek-levy-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: delgado-2026
     resource: "https://consortium.uchicago.edu/publications/classroom-composition-affects-teacher-performance-ratings"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Composition effects were not reflected in outcome-based measures of teacher productivity (student growth measures), suggesting evaluator bias. [→ Delgado 2026](#delgado-2026)

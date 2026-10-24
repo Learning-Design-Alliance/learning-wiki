@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: metropolitan-area-child-study-research-group-2002
     resource: "https://doi.org/10.1037/0022-006x.70.1.179"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the late intervention period, Level B participants were more aggressive at posttest than controls, with a printed effect size of 0.62 SD. [→ Metropolitan Area Child Study Research Group 2002](#metropolitan-area-child-study-research-group-2002)

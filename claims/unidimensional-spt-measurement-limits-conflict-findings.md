@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: gehlbach-2004
     resource: "https://doi.org/10.1023/B:EDPR.0000034021.12899.11"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Self-reported SPT propensity correlates moderately with mutually focused conflict resolution styles, but without measuring ability these correlations are difficult to interpret. [→ Gehlbach 2004](#gehlbach-2004)

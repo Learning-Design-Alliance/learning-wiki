@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: döhla-d-and-heim-s-2016
     resource: "https://doi.org/10.3389/fpsyg.2015.02045"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` German sixth-graders with isolated writing deficits showed good RAN results but significantly worse PA results, unlike children with isolated reading deficits. [→ Döhla D and Heim S 2016](#dohla-d-and-heim-s-2016)

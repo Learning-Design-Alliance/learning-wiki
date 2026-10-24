@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: jessica-t-decuir-gunby-paul-a-schutz-2024
     resource: "https://doi.org/10.1007/s10648-024-09873-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that as a construct becomes race-reimaged and evidence accumulates, it ceases to be the original construct and develops into a race-focused construct; the goal of race-reimaging is the creation of race-focused constructs. [→ Jessica T. DeCuir-Gunby · Paul A. Schutz 2024](#jessica-t-decuir-gunby-paul-a-schutz-2024)

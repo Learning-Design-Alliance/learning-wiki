@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: brian-harrington-2025
     resource: "https://doi.org/10.1145/3776558"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across eight scenarios, Canadian students rated the actor as having acted unethically more than Korean students (mean 2.6 vs 1.78 on a five-point Likert scale), with statistically significant differences on all but one scenario. [→ Brian Harrington 2025](#brian-harrington-2025)

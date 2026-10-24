@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: van-de-pol-2015
     resource: "https://doi.org/10.1007/s11251-015-9351-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The hypothesized contingency effect on knowledge assignment scores was not confirmed; interactions were non-significant, with and without task effort as covariate. [→ van de Pol 2015](#van-de-pol-2015)

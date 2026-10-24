@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: a-committee-of-five-representing-the-association-of-teachers-of-psychology-in-iowa-1911
     resource: "https://www.apa.org/pubs/journals/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Professor W. P. Dearborn's study of pupils' relative standing in high school and university demonstrated that students maintain to a marked degree the same relative ranking they held in the high school. [→ A committee of five representing the Association of Teachers of Psychology in Iowa 1911](#a-committee-of-five-representing-the-association-of-teachers-of-psychology-in-iowa-1911)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: adesope-2017
     resource: "https://doi.org/10.3102/0034654316689306"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Effects of practice tests were larger when used only once than when used twice or more, with a significant between-levels difference. [→ Adesope 2017](#adesope-2017)

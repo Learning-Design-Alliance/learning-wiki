@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: sofia-magalhães-2020
     resource: "https://doi.org/10.1080/09297049.2020.1740188"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Grade 2, fluid intelligence and inhibitory control predicted literacy, while fluid intelligence, attention, and inhibitory control predicted mathematics. [→ Sofia Magalhães 2020](#sofia-magalhaes-2020)

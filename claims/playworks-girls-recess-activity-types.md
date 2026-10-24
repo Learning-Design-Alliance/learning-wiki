@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: martha-bleeker-2015
     resource: "https://www.mathematica.org/publications/the-impact-of-playworks-on-boys-and-girls-physical-activity-during-recess"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Recess observations showed girls in the treatment group were less likely than controls to be sedentary and more likely to engage in jumping, tag, and playground games. [→ Martha Bleeker 2015](#martha-bleeker-2015)

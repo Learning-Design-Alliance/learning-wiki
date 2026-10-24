@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: hahnel-2026
     resource: "https://eric.ed.gov/?id=ED681594"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A Bellwether analysis identifies falling birth rates as the primary overall driver of declining enrollment, with immigration slowdown and growth of private school and homeschool options as contributing factors. [→ Hahnel 2026](#hahnel-2026)

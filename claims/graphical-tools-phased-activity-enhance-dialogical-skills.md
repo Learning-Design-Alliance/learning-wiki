@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: muller-mirza-2007
     resource: "https://doi.org/10.1007/s11412-007-9021-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A phased activity that incorporates a graphical tool (Digalo) is reported as enhancing dialogical skills. [→ MULLER MIRZA 2007](#muller-mirza-2007)

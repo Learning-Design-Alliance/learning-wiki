@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: steinert-2024
     resource: "https://doi.org/10.1186/s40561-024-00354-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors report that having the teacher supply the correct solution and pre-prompt the AI strongly reduces erroneous output and hallucinations, though this is an asserted design rationale rather than a measured comparison. [→ Steinert 2024](#steinert-2024)

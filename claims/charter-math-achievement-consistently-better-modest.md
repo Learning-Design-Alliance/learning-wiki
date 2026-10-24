@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: beth-tarasawa-2015
     resource: "https://doi.org/10.1080/15582159.2015.1028862"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Charter school students perform consistently better on standardized mathematic achievement measures, although the differences are modest. [→ Beth Tarasawa 2015](#beth-tarasawa-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: strong
+newest_evidence: 2013
 sources:
   - id: glöckner-2013
     resource: "https://doi.org/10.1007/s11251-013-9266-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The marginal effects of practicing law exams in general and practicing exams in the specific area of law are about equally sized (test for differences between coefficients: p = 0.67). [→ Glöckner 2013](#glockner-2013)

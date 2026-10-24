@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: reinhard-pekrun-2024
     resource: "https://doi.org/10.1007/s10648-024-09846-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In contrast to cognitive variables like intelligence or prior knowledge, motivational variables rarely explain more than 10% of variance in behavior and outcomes. [→ Reinhard Pekrun 2024](#reinhard-pekrun-2024)

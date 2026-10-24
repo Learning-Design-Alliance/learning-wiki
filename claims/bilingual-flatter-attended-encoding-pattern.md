@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: jacqueline-phelps-2022
     resource: "https://doi.org/10.1038/s41598-022-09989-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Monolinguals encoded attended streams more strongly than bilinguals in the Single talker and English–MuR conditions, with no group difference in the two linguistic interference conditions. [→ Jacqueline Phelps 2022](#jacqueline-phelps-2022)

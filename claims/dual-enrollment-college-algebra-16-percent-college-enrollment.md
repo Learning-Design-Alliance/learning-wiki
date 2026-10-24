@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: cecilia-speroni-2011
     resource: "https://www.mathematica.org/publications/high-school-dual-enrollment-programs-are-we-fast-tracking-students-too-fast"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students near the eligibility cut-off who took a rigorous dual enrollment college algebra class were 16 percent more likely to go to college than similar students who did not take the class. [→ Cecilia Speroni 2011](#cecilia-speroni-2011)

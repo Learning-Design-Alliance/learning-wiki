@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: esposito-2026
     resource: "https://doi.org/10.48550/arxiv.2604.27618"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Emotional tone in LLM interview responses is influenced by priming, with positive scores under the Math Lover condition and reversal under the Math Hater condition for some models. [→ Esposito 2026](#esposito-2026)

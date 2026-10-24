@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: michael-lawrence-castanares-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27749"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` TFPOS-IDF ML models reach macro F1 around 0.88 on IID data but drop to 0.48 (Scaria) and 0.18-0.20 (AF) on OOD AI-generated questions. [→ Michael Lawrence Castanares 2026](#michael-lawrence-castanares-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: erkens-2008
     resource: "https://doi.org/10.1007/s11412-008-9052-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Comparing automatically coded dialogue acts to a human coder's coding of the same 1,000 chat messages yields 79.0% overall agreement and Cohen's kappa of 0.75 (85.6% and 0.84 when InfStm? codes are excluded). [→ Erkens 2008](#erkens-2008)

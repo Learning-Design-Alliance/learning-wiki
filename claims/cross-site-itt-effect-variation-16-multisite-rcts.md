@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: michael-j-weiss-2017
     resource: "https://doi.org/10.1080/19345747.2017.1300719"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The study estimates the cross-site standard deviation of ITT effects for a broad range of education and workforce development interventions using 16 large multisite randomized controlled trials. [→ Michael J. Weiss 2017](#michael-j-weiss-2017)

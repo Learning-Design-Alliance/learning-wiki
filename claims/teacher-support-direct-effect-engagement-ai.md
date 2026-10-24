@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yongliang-wang-yaobo-wang-2026
     resource: "https://doi.org/10.1057/s41599-026-07636-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teacher support exerted a significant direct positive effect on engagement (β = 0.372, p < 0.001). [→ Yongliang Wang & Yaobo Wang 2026](#yongliang-wang-yaobo-wang-2026)

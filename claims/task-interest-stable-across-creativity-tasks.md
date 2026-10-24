@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-19
 sources:
   - id: kamila-urban-2025
     resource: "https://doi.org/10.1007/s11409-025-09421-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an observational SEM, perceived interest in Task 1 was strongly associated with interest in Task 2 (β = 0.52) with no significant mediation through task experience, and person-level value of creativity was associated with Task 1 interest mostly directly (β = 0.49), task experience mediating only 6% of that effect. [→ Kamila Urban 2025](#kamila-urban-2025)

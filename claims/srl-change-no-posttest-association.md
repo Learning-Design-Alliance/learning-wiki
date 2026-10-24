@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: abdelghani-2026
     resource: "https://doi.org/10.48550/arxiv.2606.28472"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No association was detected for the SRL change score (β = .14, 95% CI [-.05, .33], p = .155). [→ Abdelghani 2026](#abdelghani-2026)

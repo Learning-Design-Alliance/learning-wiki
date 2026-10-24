@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: pashler-2009
     resource: "https://journals.sagepub.com/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sensing learners did not benefit more from problem-first instruction, nor intuitive learners from content-first instruction, in an internal medicine residency module study. [→ Pashler 2009](#pashler-2009)

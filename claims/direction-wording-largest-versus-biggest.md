@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: lowell-1917
     resource: "https://psycnet.apa.org/journals/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When the direction said "Make a cross in the LARGEST square," children crossed the smallest square as often as the largest, but after rewording to "BIGGEST square" the test succeeded for that age group. [→ Lowell 1917](#lowell-1917)

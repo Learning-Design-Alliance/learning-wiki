@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: occelli-valeria-2017
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436932/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Across all participants, verbal memory tended to decline with age, significantly so at the T3 timepoint. [→ Occelli Valeria 2017](#occelli-valeria-2017)

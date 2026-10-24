@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: tsvetomila-mihaylova-2026
     resource: "https://doi.org/10.48550/arxiv.2605.16933"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For Advanced Students (reference group), all hint types reduced attempts relative to No Feedback (β=−0.20 to −0.22, 94% HDIs fully below zero); the Single-Issue × Novice interaction was positive (β=0.174, HDI [0.030, 0.316]). [→ Tsvetomila Mihaylova 2026](#tsvetomila-mihaylova-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: chevalier-n-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At all three ages, neither Go/No-Go nor Nebraska Barnyard performance significantly interacted with trial type in local-cost models (the GNG interaction at 5;3 was near significance, p = .059); nonsignificance does not establish that they are unrelated. [→ Chevalier N. 2012](#chevalier-n-2012)

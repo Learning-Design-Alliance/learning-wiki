@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ilya-mikhelson-2026
     resource: "https://doi.org/10.48550/arxiv.2607.29624"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author argues that granting students authority to challenge AI premises, with instructor adjudication on a four-point scale, structurally addresses student anxieties about algorithmic error and builds trust. [→ Ilya Mikhelson 2026](#ilya-mikhelson-2026)

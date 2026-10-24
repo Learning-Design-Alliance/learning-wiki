@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: lin-2016
     resource: "https://doi.org/10.5539/elt.v9n10p1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The repeated-measures ANOVA on RC MICS pre- and post-tests showed a significant main effect for Test but non-significant effects for Group and the Group x Test interaction. [→ Lin 2016](#lin-2016)

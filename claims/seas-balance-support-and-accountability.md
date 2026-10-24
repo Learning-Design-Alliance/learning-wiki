@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: dunn-2019
     resource: "https://eric.ed.gov/?id=ED602966"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SEA leaders report providing both support and accountability to districts, a balance made harder as the SEA role has shifted from monitoring outcomes to providing resources and technical assistance. [→ Dunn 2019](#dunn-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: detlev-leutner-johanna-biele-2025
     resource: "https://doi.org/10.1007/s10648-025-10067-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Heterogeneity is significant for comprehension (Q(15) = 37.99, p < 0.001) and transfer (Q(6) = 28.33, p < 0.001) outcomes. [→ Detlev Leutner · Johanna Biele 2025](#detlev-leutner-johanna-biele-2025)

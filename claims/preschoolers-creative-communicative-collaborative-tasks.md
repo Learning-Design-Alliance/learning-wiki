@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: papadopoulos-2020
     resource: "https://doi.org/10.46886/MAJESS/v8-i1/7263"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Journal analysis indicated children thought and worked creatively on collaborative tasks that supported their communicative behaviour, and developed attitudes of respect and valuing others' perspectives. [→ Papadopoulos 2020](#papadopoulos-2020)

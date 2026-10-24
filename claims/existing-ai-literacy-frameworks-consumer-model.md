@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: brady-d-lund-and-zoë-abbie-teel-2026
     resource: "https://doi.org/10.48550/arxiv.2607.27547"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Across four publicly available AI literacy frameworks (U.S. Department of Labor, Penn State, UNESCO, EC/OECD), competencies are organized around operational proficiency, output evaluation, and responsible use, omitting training data politics, governance participation, and structural conditions of AI knowledge production. [→ Brady D. Lund and Zoë Abbie Teel 2026](#brady-d-lund-and-zoe-abbie-teel-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: grădinariu-2021
     resource: "https://doi.org/10.35923/JES.2021.2.03"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the preliminary analysis, a larger share of teachers perceived verbal aggression as serious than perceived relational aggression as very serious. [→ Grădinariu 2021](#gradinariu-2021)

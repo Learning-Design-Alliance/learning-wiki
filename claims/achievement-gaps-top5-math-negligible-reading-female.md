@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: strong
+newest_evidence: 2021
 sources:
   - id: keller-2021
     resource: "http://dx.doi.org/10.1037/edu0000685"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r3` · `q4` · `i0`–`i1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i0` The mean gender gap in mathematics achievement among top-performing math students is negligible (d = 0.05) and homogeneous across countries. [→ Keller 2021](#keller-2021)

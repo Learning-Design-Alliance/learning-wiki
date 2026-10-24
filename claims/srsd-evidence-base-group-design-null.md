@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: self-regulated-strategy-development-wwc-intervention-report-2017
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/680"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the eligible studies, none met group design standards and none met pilot single-case design standards without reservations; 10 met pilot single-case design standards with reservations, covering 43 children ages 7 to 16 with a specific learning disability. [→ Self-Regulated Strategy Development: WWC Intervention Report 2017](#self-regulated-strategy-development-wwc-intervention-report-2017)

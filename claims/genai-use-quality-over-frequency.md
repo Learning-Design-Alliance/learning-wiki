@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fan-y-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1969217"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Capability-oriented familiarity is associated with greater perceived cognitive facilitation and lower integrity-related risk, whereas exposure-oriented frequency shows weaker and less stable associations. [→ Fan Y 2026](#fan-y-2026)

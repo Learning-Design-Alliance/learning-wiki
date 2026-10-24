@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: keravnos-2025
     resource: "https://doi.org/10.12973/eujem.8.4.219"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SWOT implementation in educational contexts frequently remains superficial, episodic, and disconnected from continuous improvement cycles, deteriorating into compliance-driven exercises. [→ Keravnos 2025](#keravnos-2025)

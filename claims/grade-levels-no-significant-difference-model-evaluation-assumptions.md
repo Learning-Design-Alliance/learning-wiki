@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: lee-2021
     resource: "https://doi.org/10.1007/s11251-021-09534-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within the same context, chi-square analysis showed no statistically significant relationship between educational level and students' epistemic views of model evaluation, despite higher percentages of 11th graders choosing evaluatist assumptions. [→ Lee 2021](#lee-2021)

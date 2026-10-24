@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: yeomans-2017
     title: Yeomans 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the same natural field experiment, students who received open-ended planning prompts paid for certificates at a 40% higher rate than students who did not. [→ Yeomans 2017](#yeomans-2017)

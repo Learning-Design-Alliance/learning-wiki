@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: koster-2019
     resource: "https://doi.org/10.18546/FEJ.02.2.04"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Watching, analysing and interpreting films with existential themes, then relating them to one's own experiences, is one possible way to fulfil the aims of Bildung. [→ Koster 2019](#koster-2019)

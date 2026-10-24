@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: day-2017
     resource: "https://doi.org/10.1177/1534508416670367"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The 'wait for go' score was not a significant predictor in any of the academic models, though it was correlated with SWAN hyperactivity ratings. [→ Day 2017](#day-2017)

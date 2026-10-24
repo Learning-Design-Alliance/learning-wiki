@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: zohal-shah-2024
     resource: "https://doi.org/10.51388/20.500.12265/224"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PLA use is associated with cost and time savings and higher credential completion, but engagement remains low due to cumbersome application processes and faculty hesitation. [→ Zohal Shah 2024](#zohal-shah-2024)

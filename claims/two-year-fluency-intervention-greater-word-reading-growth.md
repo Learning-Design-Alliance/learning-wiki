@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: taboada-barber-2026
     title: Taboada Barber 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students receiving two years of intervention showed more growth than both the one-year group and controls on WJ-III Letter/Word Identification and TOWRE Sight Word Efficiency, while the three groups did not differ on reading comprehension. [→ ev-5](#taboada-barber-2026)

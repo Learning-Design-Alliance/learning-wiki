@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: hartshorne-joshua-k-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6559801/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Native speakers did not reach asymptote until around 30 years old, though most learning occurs in the first 10-20 years. [→ Hartshorne Joshua K. 2018](#hartshorne-joshua-k-2018)

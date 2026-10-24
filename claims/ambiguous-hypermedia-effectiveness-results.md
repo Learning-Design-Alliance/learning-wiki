@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: scheiter-2007
     resource: "https://doi.org/10.1007/s10648-007-9046-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies aiming to determine the effectiveness of hypermedia learning have yielded ambiguous results, according to the review's analysis. [→ Scheiter 2007](#scheiter-2007)

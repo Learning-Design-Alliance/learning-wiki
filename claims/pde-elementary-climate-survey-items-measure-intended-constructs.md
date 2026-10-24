@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: whitney-kozakowski-2024
     resource: "https://www.mathematica.org/publications/assessing-the-validity-and-reliability-of-the-pennsylvania-school-climate-survey"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study found that the items in each of the three domains of the PDE elementary school student survey measured the constructs that they intended to measure. [→ Whitney Kozakowski 2024](#whitney-kozakowski-2024)

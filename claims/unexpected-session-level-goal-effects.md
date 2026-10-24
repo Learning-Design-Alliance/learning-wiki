@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: daumiller-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2021.101458"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Task goals positively predicted students' experiences of joy, and four unexpected goal associations emerged at the session level. [→ Daumiller 2021](#daumiller-2021)

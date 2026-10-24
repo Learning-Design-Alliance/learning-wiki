@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: wiboonwachara-2022
     resource: "https://doi.org/10.61508/refl.v29i3.262658"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Procedural writing post-test mean (13.55) exceeded the pre-test mean (7.83 out of 20), and descriptive writing post-test mean (12.98) exceeded the pre-test mean (9.06 out of 20), both significant at p < 0.05. [→ Wiboonwachara 2022](#wiboonwachara-2022)

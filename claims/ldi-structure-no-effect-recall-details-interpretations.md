@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: manuela-glaser-2022
     resource: "https://doi.org/10.1007/s11251-022-09593-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cued recall of descriptions of picture details showed no significant difference between LDI integrated and LDI separated conditions. [→ Manuela Glaser 2022](#manuela-glaser-2022)

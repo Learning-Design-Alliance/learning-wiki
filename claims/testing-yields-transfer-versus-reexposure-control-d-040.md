@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: steven-c-pan-and-timothy-c-rickard-2018
     resource: "http://dx.doi.org/10.1037/bul0000151"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 192 transfer effect sizes from 122 experiments and 67 articles, a random-effects model showed testing yields transferrable learning relative to a nontesting reexposure control, d = 0.40, 95% CI [0.31, 0.50]. [→ Steven C. Pan and Timothy C. Rickard 2018](#steven-c-pan-and-timothy-c-rickard-2018)

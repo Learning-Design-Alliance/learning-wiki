@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: clair-hughes-and-simon-barrie-2010
     resource: "https://doi.org/10.1080/02602930903221485"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A narrow range of quality assurance strategies is used for graduate attributes in Australia; student survey data are infrequently used to inform assessment, and multiple complementary data forms remain largely underutilised. [→ Clair Hughes and Simon Barrie 2010](#clair-hughes-and-simon-barrie-2010)

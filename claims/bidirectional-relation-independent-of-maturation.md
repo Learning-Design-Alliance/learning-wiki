@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: lerner-matthew-d-2016
     resource: "https://doi.org/10.1016/j.jecp.2015.09.023"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Initial letter-name knowledge predicted phonological awareness growth, and initial phonological awareness predicted letter-name growth, even after accounting for age and common rate of growth across the two skills. [→ Lerner Matthew D. 2016](#lerner-matthew-d-2016)

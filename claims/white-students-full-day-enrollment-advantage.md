@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: ehrlich-2020
     resource: "https://consortium.uchicago.edu/publications/closer-to-home"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A White student living nearly a mile from full-day pre-k was still more likely to enroll than a Black or Latinx student living next door to a school with full-day pre-k. [→ Ehrlich 2020](#ehrlich-2020)

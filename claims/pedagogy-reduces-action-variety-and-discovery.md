@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: bonawitz-elizabeth-2011
     resource: "https://doi.org/10.1016/j.cognition.2010.10.001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children in the Pedagogical condition performed fewer different kinds of actions on the toy than children in the Interrupted, Naive, or Baseline conditions. [→ Bonawitz Elizabeth 2011](#bonawitz-elizabeth-2011)

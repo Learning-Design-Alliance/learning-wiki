@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mohammad-aniq-amdan-2026
     resource: "https://doi.org/10.55197/qjssh.v7i1.787"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-based assessment practices within PBL contexts remain underdeveloped, indicating a lack of robust empirical evidence on automated feedback, formative assessment, and learning analytics integration. [→ MOHAMMAD ANIQ AMDAN 2026](#mohammad-aniq-amdan-2026)

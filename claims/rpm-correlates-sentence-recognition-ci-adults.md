@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: mattingly-jameson-k-md-2018
     resource: "https://doi.org/10.1097/MAO.0000000000001998"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In adult CI users, the number of items answered correctly on the 48-item RPM significantly correlated with sentence recognition measures (r = .35 to .47). [→ Mattingly Jameson K MD 2018](#mattingly-jameson-k-md-2018)

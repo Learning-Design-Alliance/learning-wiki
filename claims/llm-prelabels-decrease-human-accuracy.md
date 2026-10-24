@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: thomas-2026
     resource: "https://doi.org/10.48550/arxiv.2603.29141"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Demonstrated research shows that providing LLM pre-labels can decrease human accuracy when the model is incorrect, as annotators may uncritically adopt the AI's suggestion. [→ Thomas 2026](#thomas-2026)

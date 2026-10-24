@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: schneider-wolfgang-2017
     resource: "https://doi.org/10.3390/jintelligence5020026"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For mathematics at the beginning of elementary school, neither IQ nor WMC were significant predictors when both entered the same model, together explaining about 5% of variance. [→ Schneider Wolfgang 2017](#schneider-wolfgang-2017)

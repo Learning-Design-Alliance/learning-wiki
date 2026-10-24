@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: viljaranta-2017
     resource: "https://scholar.google.com/scholar?q=Maternal+Homework+Assistance+and+Children%E2%80%99s+Task-Persistent+Behavior+in+Elementary+School"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Mothers' Grade 2 help had a marginally significant negative indirect effect on Grade 4 performance via task persistence (β = –.01, p = .08). [→ Viljaranta 2017](#viljaranta-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: mario-carretero-floor-van-alphen-2014
     resource: "https://doi.org/10.1080/07370008.2014.919298"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 67% of 8th graders demonstrated an essentialist nation concept versus 25% of 11th graders, a significant difference, χ²(1, N = 38) = 6.653, p < .05. [→ Mario Carretero & Floor van Alphen 2014](#mario-carretero-floor-van-alphen-2014)

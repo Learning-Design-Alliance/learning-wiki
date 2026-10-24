@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: gesa-fee-komar-2025
     resource: "https://doi.org/10.1007/s11409-025-09436-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In both validation experiments, masked speech was rated significantly more difficult to listen to than pure speech on a single-item disfluency scale (both η²p = .98). [→ Gesa Fee Komar 2025](#gesa-fee-komar-2025)

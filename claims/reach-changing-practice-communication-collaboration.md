@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: jiang-2014
     resource: "https://consortium.uchicago.edu/publications/teacher-evaluation-practice-year-2-teacher-and-administrator-perceptions-reach"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eighty-six percent of teachers agreed or strongly agreed the observation process changed their teaching, and over 80 percent of principals said teachers changed instruction to do better on REACH. [→ Jiang 2014](#jiang-2014)

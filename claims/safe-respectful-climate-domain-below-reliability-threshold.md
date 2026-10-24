@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: whitney-kozakowski-2024
     resource: "https://www.mathematica.org/publications/assessing-the-validity-and-reliability-of-the-pennsylvania-school-climate-survey"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` One domain, safe and respectful school climate, fell short of the established threshold for internal consistency reliability based on correlations among items within the domain. [→ Whitney Kozakowski 2024](#whitney-kozakowski-2024)

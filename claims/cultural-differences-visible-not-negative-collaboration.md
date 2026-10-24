@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: liu-2010
     resource: "https://www.jstor.org/stable/jeductechsoci.13.3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` International students in an online MBA program noted different cultural patterns in online collaboration but indicated these differences did not negatively affect their learning. [→ Liu 2010](#liu-2010)

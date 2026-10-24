@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: henderson-2020
     resource: "https://educationaldatamining.org/EDM2020/proceedings/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` A paired t-test revealed significant improvement from pre-test (M = 14.41, SD = 5.826) to post-test (M = 19.33, SD = 6.131) with a large effect size (Cohen's d = 0.823). [→ Henderson 2020](#henderson-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: lopera-oquendo-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101992"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 40.7% of total variance in grades was attributed to differences between pre-service teachers. [→ Lopera-Oquendo 2024](#lopera-oquendo-2024)

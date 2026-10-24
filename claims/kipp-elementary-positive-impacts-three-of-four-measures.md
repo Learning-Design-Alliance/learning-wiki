@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: tuttle-2015
     resource: "https://www.mathematica.org/publications/going-to-scale-as-kipp-network-grows-positive-impacts-are-sustained"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` KIPP elementary schools produce positive, statistically significant, and educationally meaningful impacts on three of four measures of reading and mathematics skills. [→ Tuttle 2015](#tuttle-2015)

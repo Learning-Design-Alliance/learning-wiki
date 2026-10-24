@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: stacy-dale-2011
     resource: "https://www.mathematica.org/publications/estimating-the-return-to-college-selectivity-over-the-career-using-administrative-earning-data"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Using longer-horizon administrative earnings data (1983–2007) and a 1989 college-entry cohort, estimates of the return to college selectivity fell substantially, often to near zero. [→ Stacy Dale 2011](#stacy-dale-2011)

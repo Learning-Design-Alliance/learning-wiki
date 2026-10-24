@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: alonso-carracedo-2026
     resource: "https://doi.org/10.48550/arxiv.2607.00140"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A LinearSVC trained on AST structural features achieves 0.6632±0.0421 cross-validation accuracy and 0.6689±0.0444 macro-F1 on the 585-command dataset, well above the 0.25 random baseline, with Levels 1–3 mutually confused and L4 achieving perfect precision. [→ Alonso-Carracedo 2026](#alonso-carracedo-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-21
 sources:
   - id: slava-kalyuga-2010
     resource: "https://doi.org/10.1007/s10648-010-9132-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` System-controlled adaptive dynamic approaches do not necessarily lead to higher transfer performance than nonadaptive static approaches, and may deprive learners of self-regulation development opportunities. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)

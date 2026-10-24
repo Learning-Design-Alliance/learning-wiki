@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: john-maurice-gayed-2026
     resource: "https://doi.org/10.48550/arxiv.2606.12801"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` With identical training data (120 essays) and identical LoRA hyperparameters, Gemma-3-27B achieves lower RMSE (0.474 vs. 0.512), lower MAE (0.335 vs. 0.379), higher QWK (0.828 vs. 0.777), and higher ±0.5 agreement (90.56% vs. 87.22%) than LLaMA-3.3-70B. [→ John Maurice Gayed 2026](#john-maurice-gayed-2026)

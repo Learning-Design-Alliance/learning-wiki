@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: losen-2020
     resource: "https://eric.ed.gov/?id=ED608537"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2015-16, secondary students lost 37 days of instruction per 100 enrolled due to out-of-school suspensions, compared with 7 days per 100 elementary students. [→ Losen 2020](#losen-2020)

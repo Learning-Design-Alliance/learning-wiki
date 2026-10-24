@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: camille-a-farrington-2019
     resource: "https://consortium.uchicago.edu/publications/do-classroom-environments-matter-for-noncognitive-aspects-of-student-performance-and-students-course-grades"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two of their core classes, students earned higher grades in the class where they reported better belonging, motivation, self-regulation, participation, delay of gratification, learning strategies, and less performance avoidance (β=0.067 to 0.111). [→ Camille A. Farrington 2019](#camille-a-farrington-2019)

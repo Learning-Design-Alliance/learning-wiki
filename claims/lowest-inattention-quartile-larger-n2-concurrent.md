@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: einziger-tzlil-2021
     resource: "https://doi.org/10.3390/brainsci11010100"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A quartile-based ANCOVA on concurrent inattention symptoms showed a main effect for group on N2 amplitude (η2p = 0.14), with the lowest quartile showing larger negative amplitudes than the other three quartiles combined (η2p = 0.13). [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

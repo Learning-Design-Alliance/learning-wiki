@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: curtis-northcutt-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28470"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After adjustment for pre-test score, AI tutoring outperformed the control condition by 6.15 percentage points combined (6.86 Quantitative, 5.47 Verbal), with human tutoring also exceeding control in both sections. [→ Curtis Northcutt 2026](#curtis-northcutt-2026)

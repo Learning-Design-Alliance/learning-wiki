@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1909
 sources:
   - id: gilbert-1909
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Section B's zoology average was 4.26% above its average in other subjects, versus 1.18% for Section A, suggesting a somewhat greater advantage for the applied approach on semester grades. [→ Gilbert 1909](#gilbert-1909)

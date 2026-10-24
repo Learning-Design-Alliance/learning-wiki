@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ikram-m-2026
     title: Ikram M 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The review reports, citing prior meta-analyses, that AI-enabled adaptive learning systems produce medium to large positive effects on learner cognitive outcomes, with effect sizes from g = 0.50 to g = 0.70. [→ Ikram M 2026](#ikram-m-2026)

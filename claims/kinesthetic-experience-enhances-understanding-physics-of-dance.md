@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: barber-et-al-2007
     resource: "https://doi.org/10.48550/arXiv.0706.2717"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors are convinced that the kinesthetic experience enhances student understanding and makes encountering the scientific process more fruitful, citing a student-conceived project as evidence. [→ Barber et al. 2007](#barber-et-al-2007)

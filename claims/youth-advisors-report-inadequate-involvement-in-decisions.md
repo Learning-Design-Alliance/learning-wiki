@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: ojetunde-2024
     resource: "https://eric.ed.gov/?id=ED655789"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q1 i?` High school students and recent graduates serving as climate advisors shared experiences in which students were not adequately involved in school decision-making, with surveys the most common feedback mechanism and unclear follow-through on feedback. [→ Ojetunde 2024](#ojetunde-2024)

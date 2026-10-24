@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2013
 sources:
   - id: connor-carol-mcdonald-2010
     resource: "https://doi.org/10.1016/j.jsp.2010.06.003"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Higher fall and spring HTKS scores were associated with higher SSRS Social Skills scores and lower Problem Behavior scores, supporting the HTKS as a measure of self-regulation for first graders. [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: vogt-p-2026
     resource: "https://doi.org/10.1186/s12909-026-10410-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Item difficulty and student-perceived curricular alignment showed a strong association: easier items were seen as better aligned. [→ Vogt P 2026](#vogt-p-2026)

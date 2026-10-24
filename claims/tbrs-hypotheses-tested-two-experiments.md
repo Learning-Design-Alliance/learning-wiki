@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: sébastien-puma-2018
     resource: "https://doi.org/10.1007/s10648-018-9438-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In two experiments, hypotheses allowed by the TBRS model were tested, and results showed the model can assist investigation of information presentation pace effects during learning as long as prior knowledge is taken into account. [→ Sébastien Puma 2018](#sebastien-puma-2018)

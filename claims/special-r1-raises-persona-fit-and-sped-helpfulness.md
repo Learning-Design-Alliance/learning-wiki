@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: unggi-lee-2026
     resource: "https://doi.org/10.48550/arxiv.2605.30670"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On a persona-augmented test set of 690 multi-turn dialogues, the full model (M7) raises persona-aware Fit from 6.75 (generic baseline) to 8.40 and SPED-rubric Helpfulness from 0.720 to 0.768. [→ Unggi Lee 2026](#unggi-lee-2026)

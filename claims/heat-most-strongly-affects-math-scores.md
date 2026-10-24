@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: sofia-postell-2025
     resource: "https://www.nwea.org/research/publication/hot-test-days-lower-math-scores-how-heat-affects-student-achievement/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher temperatures most strongly affect math scores relative to other subjects. [→ Sofia Postell 2025](#sofia-postell-2025)

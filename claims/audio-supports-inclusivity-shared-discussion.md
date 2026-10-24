@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: tare-2018
     resource: "https://doi.org/10.51388/20.500.12265/67"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teachers reported that audio supports led to greater inclusivity because all students could come together to discuss content they had accessed in different ways. [→ Tare 2018](#tare-2018)

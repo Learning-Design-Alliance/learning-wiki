@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: mixed
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In follow-up analysis, lower-prior-knowledge learners performed better on the posttest with full-worked than completion-worked examples (t(1,26) = 1.98, p = .05, 2-tailed). [→ Gupta 2020](#gupta-2020)

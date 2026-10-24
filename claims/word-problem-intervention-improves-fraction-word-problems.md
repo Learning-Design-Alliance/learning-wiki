@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: fuchs-2016
     resource: "https://doi.org/10.1037/edu0000073"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` WP outscored EXP (ES = 1.48) and CON (ES = 1.20) on word problems; EXP and CON did not differ significantly (ES = 0.12). [→ Fuchs 2016](#fuchs-2016)

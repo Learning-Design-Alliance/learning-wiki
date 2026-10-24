@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: rahimi-2021
     resource: "https://doi.org/10.46328/ijtes.118"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Problems with conservation of momentum and properties of torque as primary concepts showed 27% and 7% lower persistence than energy-can-transfer problems, while energy-can-dissipate problems showed 34% higher persistence. [→ Rahimi 2021](#rahimi-2021)

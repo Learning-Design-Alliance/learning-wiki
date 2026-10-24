@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: noetel-2021
     resource: "https://doi.org/10.3102/0034654321990713"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Providing students with videos in addition to existing content produced a strong, significant pooled effect (g = 0.88), with 88% of true effects expected to be helpful. [→ Noetel 2021](#noetel-2021)

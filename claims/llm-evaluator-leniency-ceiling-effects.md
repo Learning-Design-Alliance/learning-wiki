@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhang-hui-2026
     resource: "https://doi.org/10.2196/96819"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Claude, DeepSeek, and Qwen agreed broadly on agent rankings (Spearman ρ=0.64 and 0.71) but Qwen scored above 90% of dialogues at ceiling on three dimensions, yielding low discrimination (agent-total SD 4.0 and 7.3 vs Claude's 11.6). [→ Zhang Hui 2026](#zhang-hui-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: niels-j-de-ruig-2023
     resource: "https://doi.org/10.1007/s10648-023-09795-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with higher conflict in their teacher relationships displayed lower levels of specific metacognitive skills (independent participation, task-orientation), while closer relationships were associated with better metacognitive abilities; in one of the two studies, students' own perception of conflict was not associated with their overall metacognition. [→ Niels J. de Ruig 2023](#niels-j-de-ruig-2023)

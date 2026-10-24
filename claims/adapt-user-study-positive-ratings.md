@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yanjie-zhang-2026
     resource: "https://doi.org/10.48550/arxiv.2606.17633"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the evaluation study (9 teachers and 3 education specialists, ~60-minute sessions), 7-point Likert questionnaire means exceeded the neutral baseline of 4 across all dimensions, where scores above 4 indicated AdaPT outperformed a ChatGPT baseline. [→ Yanjie Zhang 2026](#yanjie-zhang-2026)

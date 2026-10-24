@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-19
 sources:
   - id: sanna-järvelä-2023
     resource: "https://doi.org/10.1007/s11412-023-09415-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a quasi-experiment with teachers (N = 24) in three conditions, a mirroring dashboard helped teachers' situational awareness and the alerting (guiding) dashboard decreased their workload and frustration. [→ Sanna Järvelä 2023](#sanna-jarvela-2023)

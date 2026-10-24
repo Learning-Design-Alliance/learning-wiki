@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1999
+recheck_by: 2002
 sources:
   - id: dorothy-shipps-1999
     resource: "https://consortium.uchicago.edu/publications/chicago-annenberg-challenge-first-three-years"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2002**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Forty-three Annenberg network schools were on the initial list of 109 schools put on academic probation, and about 30 percent of principals in Challenge schools reported conflicts between network priorities and central-office priorities. [→ Dorothy Shipps 1999](#dorothy-shipps-1999)

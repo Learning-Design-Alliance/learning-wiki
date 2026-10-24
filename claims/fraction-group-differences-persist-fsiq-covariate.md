@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: mazzocco-2013
     resource: "https://doi.org/10.1016/j.jecp.2013.01.005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All significant main effects and two-way interactions re-emerged in ANCOVAs with FSIQ as a covariate; only the four-way interaction dropped below significance. [→ Mazzocco 2013](#mazzocco-2013)

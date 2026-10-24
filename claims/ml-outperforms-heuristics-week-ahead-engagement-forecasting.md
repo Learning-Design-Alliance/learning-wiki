@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: eric-s-qiu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.12788"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Supervised feature-based models substantially outperform heuristic baselines on week-ahead engagement forecasting, reducing error by 22% for minutes and 33% for skills. [→ Eric S. Qiu 2026](#eric-s-qiu-2026)

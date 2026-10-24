@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: malone-amelia-s-2017
     resource: "https://doi.org/10.1016/j.lindif.2017.05.007"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Language comprehension, nonverbal reasoning, and concept formation were positively correlated with place value label use and language comprehension and nonverbal reasoning negatively with whole number label use. [→ Malone Amelia S. 2017](#malone-amelia-s-2017)

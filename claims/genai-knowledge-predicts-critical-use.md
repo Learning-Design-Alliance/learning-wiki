@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: markus-h-hefter-2026
     resource: "https://doi.org/10.3390/aieduc2030027"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Self-reported knowledge about genAI correlates positively with critical use of genAI (r = 0.55). [→ Markus H. Hefter 2026](#markus-h-hefter-2026)

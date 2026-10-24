@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: weintraub-2025
     resource: "http://doi.org/10.35847/LWeintraub.7.1.37"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Younger, more resilient students often overcome barriers without modifications, while older beginners and other vulnerable learners may find it impossible to access instruction without them. [→ Weintraub 2025](#weintraub-2025)

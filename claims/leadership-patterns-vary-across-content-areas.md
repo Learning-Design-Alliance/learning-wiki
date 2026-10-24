@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: e-m-mercier-2014
     resource: "https://doi.org/10.1007/s11412-014-9201-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants showed different amounts of leadership in different disciplines; for example, one child made no leadership moves during the history task but nine effective moves during the mathematics task. [→ E. M. Mercier 2014](#e-m-mercier-2014)

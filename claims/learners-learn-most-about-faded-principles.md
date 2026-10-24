@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2004
+source_checked: 2026-10-14
 sources:
   - id: renkl-2004
     resource: "https://doi.org/10.1023/B:TRUC.0000021815.74806.f6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2004 · checked against its sources 2026-10-14 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Individuals learned most about those principles that were faded in the learning environment. [→ Renkl 2004](#renkl-2004)

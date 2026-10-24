@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: runlong-ye-2026
     resource: "https://doi.org/10.48550/arxiv.2610.00863"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across LLM–year combinations, mean instructor-test scores for generated solutions ranged from 98.93% to 99.99%, far above student means of 76.37–88.03%, and LLM full-pass rates ranged from 86.97% to 99.95%. [→ Runlong Ye 2026](#runlong-ye-2026)

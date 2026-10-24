@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: debby-r-e-cotton-2024
     title: Debby R. E. Cotton 2024
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Search interest peaked on 12 December 2022 across data from 87 countries, and plagiarism ranked in two of the top five related queries. [→ Debby R. E. Cotton 2024](#debby-r-e-cotton-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: the-federal-role-in-advancing-education-equity-and-excellence-2020
     resource: "https://eric.ed.gov/?id=ED610926"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Economists have shown benefits of early education investments generating $2 to $17 for every dollar invested, with greater returns evident as children are followed further in life. [→ The Federal Role in Advancing Education Equity and Excellence 2020](#the-federal-role-in-advancing-education-equity-and-excellence-2020)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2030
 sources:
   - id: christina-a-bauer-2025
     resource: "https://doi.org/10.1007/s10648-025-10034-2"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Members of fields with more brilliance-oriented FABs rated their fields as less welcoming to women, and this perception explained approximately 35% of the gender gap in entry. [→ Christina A. Bauer 2025](#christina-a-bauer-2025)

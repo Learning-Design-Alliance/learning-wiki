@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: jacqueline-leybaert-and-marie-noëlle-van-cutsem-2002
     resource: "https://doi.org/10.1006/jecp.2002.2660"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Hearing children's mean abstract counting (strict and lenient scores) was higher than deaf children's, and the deaf group's highest number did not increase linearly with age. [→ Jacqueline Leybaert and Marie-Noëlle Van Cutsem 2002](#jacqueline-leybaert-and-marie-noelle-van-cutsem-2002)

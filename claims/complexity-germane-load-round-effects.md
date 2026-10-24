@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: ines-zeitlhofer-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.102001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i0`–`i3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Consistently high complexity had a strong effect on GCL in Round 1 (η2 = 0.19) and a small effect in Round 2 (η2 = 0.05). [→ Ines Zeitlhofer 2024](#ines-zeitlhofer-2024)

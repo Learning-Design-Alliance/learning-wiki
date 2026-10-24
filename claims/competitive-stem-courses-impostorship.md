@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: harris-thomas-2026
     resource: "https://doi.org/10.1007/s10648-026-10181-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Canning et al. (2019), that perceiving STEM courses as competitive was associated with feelings of impostorship, which in turn was associated with lower engagement and grades, particularly for first-generation students. [→ Harris-Thomas 2026](#harris-thomas-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: pennings-2017
     resource: "https://doi.org/10.29173/cmplct29338"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ethan faced no hostile student behavior during observation, and Sam was unable to refrain from hostile behavior, so the refraining hypothesis was not supported in this study. [→ Pennings 2017](#pennings-2017)

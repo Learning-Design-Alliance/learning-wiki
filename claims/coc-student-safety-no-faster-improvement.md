@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: rachel-levenstein-2011
     resource: "https://consortium.uchicago.edu/publications/findings-investigation-culture-calm-initiative"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 2009 and 2011, student perceptions of Safety improved at the same rate in CoC and non-CoC schools; the difference in change was not statistically significant. [→ Rachel Levenstein 2011](#rachel-levenstein-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: iwatani-2020
     resource: "https://doi.org/10.51388/20.500.12265/93"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Challenge based lessons scored significantly higher than typical lessons on real-world engagement, self-direction, science and engineering practice, critical research, collaboration, and communication opportunity dimensions. [→ Iwatani 2020](#iwatani-2020)

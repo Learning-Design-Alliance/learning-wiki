@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: satterthwaite-theodore-d-md-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3358426/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Discrimination (Pr) decreases and response times increase at higher n-back load levels. [→ Satterthwaite Theodore D. M.D. 2012](#satterthwaite-theodore-d-md-2012)

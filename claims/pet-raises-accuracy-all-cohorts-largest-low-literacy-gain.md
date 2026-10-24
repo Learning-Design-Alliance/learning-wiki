@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lier-jin-2026
     resource: "https://doi.org/10.48550/arxiv.2608.08942"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All user cohorts benefit from PET, with the largest improvement for the Low Literacy cohort, whose accuracy increases from 82.4% to 83.4%. [→ Lier Jin 2026](#lier-jin-2026)

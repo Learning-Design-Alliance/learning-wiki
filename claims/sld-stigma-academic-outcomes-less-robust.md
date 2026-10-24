@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: haft-stephanie-l-2023
     resource: "https://doi.org/10.1177/00222194221087383"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only three studies (five effect sizes) examined SLD stigma and academic performance; one found no significant association and two found small negative associations, so the review concludes it cannot establish robust stigma–academic-performance associations. [→ Haft Stephanie L. 2023](#haft-stephanie-l-2023)

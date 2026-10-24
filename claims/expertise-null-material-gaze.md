@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: mcintyre-2019
     resource: "https://doi.org/10.1016/j.learninstruc.2017.12.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Expertise did not predict attentional student material gaze (p = .30), attentional teacher material gaze (p = .12), communicative student material gaze (p = .80), or communicative teacher material gaze (p = .23). [→ McIntyre 2019](#mcintyre-2019)

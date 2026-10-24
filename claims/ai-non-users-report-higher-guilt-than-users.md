@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: diane-vassallo-2026
     resource: "https://doi.org/10.1007/s10805-026-09726-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Non-users (n = 8) reported significantly higher anticipated remorse (M = 3.00) than users (M = 1.94), t(7.79) = 2.44, p = .041, and higher guilt for research paper writing (M = 2.77 vs M = 2.19), t(65.9) = 2.92, p = .005. [→ Diane Vassallo 2026](#diane-vassallo-2026)

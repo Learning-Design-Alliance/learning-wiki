@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: john-maurice-gayed-2026
     resource: "https://doi.org/10.48550/arxiv.2606.12801"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the same 360-essay held-out test set, the fine-tuned Gemma model achieves RMSE 0.474, QWK 0.828, and 90.56% agreement within ±0.5, surpassing the fine-tuned GPT-3.5 baseline (RMSE 0.573, QWK 0.78, agreement 84.72%). [→ John Maurice Gayed 2026](#john-maurice-gayed-2026)

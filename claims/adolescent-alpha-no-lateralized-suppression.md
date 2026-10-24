@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: banerjee-snigdha-2015
     resource: "https://doi.org/10.1111/ejn.12810"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Alpha power was higher over the right than left parieto-occipital ROI in both cue conditions, and significantly higher for cue-left than cue-right over the right ROI. [→ Banerjee Snigdha 2015](#banerjee-snigdha-2015)

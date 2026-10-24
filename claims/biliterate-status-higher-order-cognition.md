@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: kim-young-suk-grace-2022
     resource: "https://doi.org/10.1037/edu0000516"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Being biliterate was significantly associated with higher order cognitive skills in both programs (.22, p = .028 in English immersion; .19, p = .004 in dual immersion). [→ Kim Young-Suk Grace 2022](#kim-young-suk-grace-2022)

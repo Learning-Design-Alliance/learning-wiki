@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: stahl-aimee-e-2019
     resource: "https://doi.org/10.1111/tops.12389"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Infants and children taught about an entirely new object immediately after a violation were no better at learning than those taught after an expected event, arguing against a diffuse arousal account. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

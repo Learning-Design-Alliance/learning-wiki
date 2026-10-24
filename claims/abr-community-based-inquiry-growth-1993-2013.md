@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: sara-coemans-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.08.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interest in arts-based research steadily increased over the twenty-year review window, with 90% of included studies published in 2004-2013 and 10% in 1994-2003. [→ Sara Coemans 2017](#sara-coemans-2017)

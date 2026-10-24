@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: julia-a-gwynne-and-sarah-cashdollar-2018
     resource: "https://consortium.uchicago.edu/publications/changes-math-instruction-and-student-outcomes-implementation-common-core-state"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both NWEA and ACT scores improved significantly more in Deep Support schools, though differences were quite small. [→ Julia A. Gwynne and Sarah Cashdollar 2018](#julia-a-gwynne-and-sarah-cashdollar-2018)

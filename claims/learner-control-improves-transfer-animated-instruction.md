@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: huib-k-tabbers-2010
     resource: "https://doi.org/10.1007/s11251-009-9119-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants with learner control scored higher on a transfer test than participants without learner control (d = 0.50). [→ Huib K. Tabbers 2010](#huib-k-tabbers-2010)

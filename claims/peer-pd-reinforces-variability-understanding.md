@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: medha-tare-2022
     resource: "https://doi.org/10.51388/20.500.12265/157"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 100 percent of Task 2 participants reported that explaining learner variability to peers helped them understand it better themselves. [→ Medha Tare 2022](#medha-tare-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1924
 sources:
   - id: stone-1924
     resource: "https://psycnet.apa.org"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1924 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 600 students, over half had discrepancies of less than 20 percentile points between Alpha intelligence rating and first-semester scholarship percentile. [→ Stone 1924](#stone-1924)

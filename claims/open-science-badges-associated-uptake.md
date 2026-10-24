@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: mellor-2021
     resource: "https://orcid.org/0000-0002-3125-5888"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Offering visible badges for data sharing, materials sharing, or preregistration is associated with uptake of those behaviors during a period when overall data sharing rates were not rising. [→ Mellor 2021](#mellor-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hosseini-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05472"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pre/post assessment scores improved from a mean of 4.25 to 6.83 out of 7, a highly significant increase (t(12)≈5.10, p < .001) with a mean score increase of 2.58 points. [→ Hosseini 2026](#hosseini-2026)

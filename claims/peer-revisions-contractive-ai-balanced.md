@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: zhao-h-and-ji-j-2026
     title: Zhao H and Ji J 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant Draft Type × Heteroglossic category interaction shows peer-feedback revisions raised Contract (M = 3.602) and lowered Expand (M = 2.380) relative to first drafts, while AI revisions stayed more balanced. [→ Zhao H and Ji J 2026](#zhao-h-and-ji-j-2026)

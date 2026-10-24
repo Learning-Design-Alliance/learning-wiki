@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: leonard-ja-2015
     title: Leonard JA 2015
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exploratory within-group analyses found associations such as greater right hippocampal volume predicting greater working memory in the higher-SES group, but no models reached significance after FDR correction for 12 comparisons. [→ Leonard JA 2015](#leonard-ja-2015)

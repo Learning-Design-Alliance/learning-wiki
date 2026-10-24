@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-17
 sources:
   - id: roschelle-2021
     resource: "https://doi.org/10.4324/9781315685779-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The chapter conjectures that inquiry environments are challenging to scale because they are Ambitious Learning Activity Systems: ambitious relative to existing practice, dependent on active learner engagement that cannot be distributed as resources alone, and requiring coherent change across many system factors. [→ Roschelle 2021](#roschelle-2021)

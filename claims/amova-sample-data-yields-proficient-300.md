@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: osler-2015
     resource: "https://doi.org/10.26634/jet.12.3.3742"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` A hypothetical sample dataset from an investigation into the efficacy of faculty training produced an accumulative AMOVA value of 3.00, indicating a Proficient level of instrumentation efficacy and acceptance of the alternative hypothesis. [→ Osler 2015](#osler-2015)

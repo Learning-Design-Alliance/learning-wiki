@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1995
 sources:
   - id: schunk-1995
     resource: "http://www.taylorandfrancis.com/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Correlational studies report significant positive correlations between self-efficacy and later performance, with printed ranges such as rs = .27–.84 after instruction. [→ Schunk 1995](#schunk-1995)

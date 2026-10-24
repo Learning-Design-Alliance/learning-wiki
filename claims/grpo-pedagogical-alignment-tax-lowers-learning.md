@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` GRPO alignment of DeepSeek-R1-8B drops Δ Solve Rate from +.180 to −.012, cuts thinking length by −93.3%, and reduces OpenLearnLM CK/PK accuracy by −71%/−80% relative, while judge-rated helpfulness rises from .220 to .416. [→ alignment-tax-1](#alignment-tax-1)

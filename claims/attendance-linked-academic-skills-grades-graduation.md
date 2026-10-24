@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: uchicago-consortium-on-school-research-2024
     resource: "https://consortium.uchicago.edu/events-and-resources"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Attendance from pre-K through high school is linked with academic skills, grades, and graduation likelihood. [→ UChicago Consortium on School Research 2024](#uchicago-consortium-on-school-research-2024)

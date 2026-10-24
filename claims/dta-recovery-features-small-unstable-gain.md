@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: wang-s-and-zhao-j-2026
     title: Wang S and Zhao J 2026
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the untouched held-out split, Baseline + Reflective increased final-success Macro-F1 from 0.725 to 0.743 and changed the Brier score from 0.177 to 0.175; the article states these differences are small and not educationally important. [→ Wang S and Zhao J 2026](#wang-s-and-zhao-j-2026)

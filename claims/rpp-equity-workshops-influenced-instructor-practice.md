@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-09
 sources:
   - id: workshop-1
     title: workshop-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Timely workshops featuring concrete equity mechanisms such as Equitizing the Syllabus and Soliciting Early Student Feedback influenced instructor practice in the fall term and spring 2022 plans. [→ workshop-1](#workshop-1)

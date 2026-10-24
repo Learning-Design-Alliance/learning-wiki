@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: contreras-espinosa-2022
     resource: "https://doi.org/10.3390/su14042246"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Shared individual and teamwork challenges were identified across the three events, affecting creativity, collaboration, communication and critical thinking. [→ Contreras-Espinosa 2022](#contreras-espinosa-2022)

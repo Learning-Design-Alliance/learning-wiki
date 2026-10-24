@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: song-yafeng-2026
     resource: "https://doi.org/10.3390/bs16071166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pearson correlations between GenAI usage sub-dimensions and perceived learning outcome sub-dimensions range from 0.106 to 0.418, and usage habits exhibit the strongest correlation with perceived learning outcomes. [→ Song Yafeng 2026](#song-yafeng-2026)

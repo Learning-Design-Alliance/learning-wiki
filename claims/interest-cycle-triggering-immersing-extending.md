@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-17
 sources:
   - id: roschelle-2019
     resource: "https://doi.org/10.1186/s41039-019-0107-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The IDC interest cycle's action words of triggering, immersing, and extending require educators to use existing interests as launching points for student-centered learning leading to deeper immersion. [→ Roschelle 2019](#roschelle-2019)

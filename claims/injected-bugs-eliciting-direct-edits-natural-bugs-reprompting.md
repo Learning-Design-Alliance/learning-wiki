@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students are more likely to edit code directly after injected bugs (67.57% i:first vs 45.42% n:first) and more likely to reprompt after natural bugs (51.71% n:first vs 31.46% i:first). [→ rq1-actions](#rq1-actions)

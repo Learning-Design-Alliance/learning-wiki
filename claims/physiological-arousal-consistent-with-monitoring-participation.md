@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: shihui-feng-2025
     resource: "https://doi.org/10.1007/s11412-025-09450-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In one reviewed study, individuals' participation in metacognitive monitoring was consistent with their physiological arousal, which the review says suggested an observable indicator for assessing individual participation in group regulation. [→ Shihui Feng 2025](#shihui-feng-2025)

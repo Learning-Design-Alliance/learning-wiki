@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: king-2020
     resource: "https://www.nwea.org/research/publication/looking-back-how-prior-year-attendance-impacts-starting-achievement/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Highly absent students who did not meet the chronic definition still showed significant, persistent starting-achievement deficits in math across all grade levels. [→ King 2020](#king-2020)

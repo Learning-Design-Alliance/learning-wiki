@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Theoretical conceptualizations of domain knowledge treat it as formed from distinct aspects that define the construct, so the manifest observations chosen form the latent construct. [→ formative-dk-1](#stadler-2021)

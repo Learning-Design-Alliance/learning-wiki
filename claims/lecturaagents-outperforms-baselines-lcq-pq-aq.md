@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jaward-sesay-2026
     resource: "https://doi.org/10.48550/arxiv.2606.16428"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a comparative evaluation on 20 shared lectures, LecturaAgents obtained higher scores than Instructional Agents, GenMentor, and Learn Your Way across LCQ, PQ, and AQ, with the most notable difference in personalization quality. [→ Jaward Sesay 2026](#jaward-sesay-2026)

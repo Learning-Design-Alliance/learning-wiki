@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: janine-t-remillard-2014
     resource: "https://www.mathematica.org/publications/the-influence-of-curriculum-material-design-on-opportunities-for-student-learning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Documentary analysis of four commonly used US mathematics curricula revealed substantially different types of opportunities to learn across the four programs. [→ Janine T. Remillard 2014](#janine-t-remillard-2014)

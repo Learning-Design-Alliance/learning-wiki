@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: fesler-2022
     resource: "https://www.mathematica.org/publications/no-deadlines-synthetic-control-and-exploratory-outcomes-analysis-and-recommendations-for-a-future"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The two GEO NDL programs requested $265,000 to $294,000 more funding, required 0.9 to 1.8 fewer reviewers, and were less likely to be rated fair (by 4 to 9 percentage points) or underperforming (by one percentage point) relative to counterfactuals. [→ Fesler 2022](#fesler-2022)

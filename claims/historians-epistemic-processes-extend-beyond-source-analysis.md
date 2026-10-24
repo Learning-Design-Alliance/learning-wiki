@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: kainulainen-et-al-2025
     resource: "https://doi.org/10.1080/07370008.2025.2503193"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium · n=26 Finnish academic historians (~11% of Finnish history professors/lecturers), average interview length 90 minutes
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 Interviews with 26 academic historians identified 107 distinct epistemic processes across 14 categories, including five categories — archival collection, tool/language mediation, epistemic virtues and affect, broad methodological choices, and explicitly social processes — that are largely absent from prior empirical research on historians' practices and from inquiry-based-learning design in history.
 

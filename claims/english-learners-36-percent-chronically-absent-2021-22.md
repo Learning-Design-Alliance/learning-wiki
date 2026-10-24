@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: gisela-ariza-2024
     resource: "https://eric.ed.gov/?id=ED663795"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` By 2021–22, 36 percent of English learners were chronically absent compared with 30 percent of students overall, whereas before the pandemic English learners were 1.2 times less likely to be chronically absent than non–English learners. [→ Gisela Ariza 2024](#gisela-ariza-2024)

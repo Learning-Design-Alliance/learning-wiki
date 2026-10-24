@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: castro-alonso-2021
     resource: "https://doi.org/10.1007/s10648-020-09587-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` As predicted by the computers are social actors hypothesis, most of the agents' characteristics, including nonverbal communication, motion, and voice, appeared not to moderate their effectiveness. [→ Castro-Alonso 2021](#castro-alonso-2021)

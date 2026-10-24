@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effects on conduct problems and delinquency were negligible or non-significant, and the impact on substance use was small and not statistically significant. [→ secondary-outcomes](#secondary-outcomes)

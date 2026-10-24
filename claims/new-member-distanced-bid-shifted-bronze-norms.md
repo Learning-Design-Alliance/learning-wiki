@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: conlin-2012
     resource: "https://eric.ed.gov/?q=Making+Space+to+Sensemake"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Britte, unfamiliar with the group's dismissive approach, asked "Are we, um, allowed to discuss now?" with hedging, rising pitch, and physical distancing, opening space for the group's first collaborative sensemaking discussion. [→ Conlin 2012](#conlin-2012)

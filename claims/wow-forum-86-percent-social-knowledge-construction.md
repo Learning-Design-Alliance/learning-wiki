@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: constance-steinkuehler-2008
     resource: "https://doi.org/10.1007/s10956-008-9120-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a random sample of 1,984 posts from the WoW priest forum, 86% of discussion posts were social knowledge construction, 8% were social banter, and 6% were uncodable. [→ Constance Steinkuehler 2008](#constance-steinkuehler-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: irsheid-2023
     resource: "https://consortium.uchicago.edu/publications/beyond-the-student"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared to students in the most-resourced census tracts, odds of being retained were 67% higher where most families spent 30%+ of income on housing, 56% higher where fewest families owned homes, and 37% higher where green space was least, holding student achievement measures similar. [→ Irsheid 2023](#irsheid-2023)

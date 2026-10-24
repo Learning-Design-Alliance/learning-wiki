@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: kowalski-2013
     resource: "https://doi.org/10.48550/arxiv.1308.2434"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors report that anonymous sharing addresses evaluation apprehension, unbiased evaluation of ideas, and accountability, while retaining the positive aspects of group interaction. [→ Kowalski 2013](#kowalski-2013)

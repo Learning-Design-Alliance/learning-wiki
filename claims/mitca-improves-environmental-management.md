@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: tania-vieites-2024
     resource: "https://doi.org/10.1007/s11409-024-09376-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` At post-test, the MITCA group scored significantly higher than the control group on environment management (d = 0.22), the largest between-group difference reported. [→ Tania Vieites 2024](#tania-vieites-2024)

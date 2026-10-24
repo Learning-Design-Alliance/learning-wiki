@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: nagaoka-2023
     resource: "https://consortium.uchicago.edu/publications/the-four-years-fallacy"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Student groups with different GPAs and ACT scores had four- to six-year gaps of 15 to 25 percentage points, and racial/ethnic and gender groups showed generally similar gaps of roughly 20 to 31 points. [→ Nagaoka 2023](#nagaoka-2023)

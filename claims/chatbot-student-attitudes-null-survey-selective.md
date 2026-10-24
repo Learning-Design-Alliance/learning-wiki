@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-22
 sources:
   - id: meyer-2026
     resource: "https://doi.org/10.3386/w35397"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among Government students who completed the end-of-course survey, there were no consistent treatment effects on a suite of attitudinal measures, and survey response was differentially selective by demographics; 82 percent of respondents recommended continued use. [→ Meyer 2026](#meyer-2026)

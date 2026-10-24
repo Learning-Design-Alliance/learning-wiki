@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: marcovitch-s-2014
     resource: "https://doi.org/10.1016/j.cogdev.2014.07.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ToM at 3 did not predict EF at 4 (β = −.10, p = .60), and ToM at 4 did not predict EF at 5 (β = −.12, p = .58). [→ Marcovitch S. 2014](#marcovitch-s-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: wendt-2019
     resource: "https://eric.ed.gov/?id=ED601907"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the fidelity subsample (239 schools, 14 states), combined-grade proficiency effects were 0.35 SD and scale-score effects 0.31 SD, significant after BH correction. [→ Wendt 2019](#wendt-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: james-2010
     resource: "https://doi.org/10.1111/j.1467-7687.2009.00883.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Letter recognition showed only a trend toward a training-group by pre/post interaction (F(1,5) = 5.0, p < .07, partial eta squared = .50); the sensori-motor group improved (M = 7.5 to 8.0) while the control group stayed the same. [→ James 2010](#james-2010)

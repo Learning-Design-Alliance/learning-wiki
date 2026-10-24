@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1992
+source_checked: 2026-10-18
 sources:
   - id: howard-wainer-1992
     resource: "https://doi.org/10.17763/haer.62.3.1p1555011301r133"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1992 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When the same data were analyzed prospectively with regression, sex differences in SAT-M scores were somewhat larger than in the matched-sample analysis and pointed in the same direction. [→ Howard Wainer 1992](#howard-wainer-1992)

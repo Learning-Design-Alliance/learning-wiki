@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: fan-2025
     resource: "https://doi.org/10.1111/bjet.13544"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only the checklist group showed a significant increase in Evaluation processes during revision; the AI and HE groups did not. [→ Fan 2025](#fan-2025)

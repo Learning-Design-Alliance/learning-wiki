@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: sutcher-2017
     resource: "https://learningpolicyinstitute.org/product/supporting-principals-learning"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research shows a positive link between instructional leadership practices and student achievement, and high-quality programs focus curricula on instruction and school improvement. [→ Sutcher 2017](#sutcher-2017)

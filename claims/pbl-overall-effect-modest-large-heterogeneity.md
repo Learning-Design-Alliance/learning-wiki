@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: walker-2023
     resource: "https://doi.org/10.14434/ijpbl.v17i2.35844"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall heterogeneity is significant (Q(352) = 1756.83, p = 0.01), Tau2 = 0.13 is large relative to the overall effect size g = 0.27, and I2 = 80.0% of observed variability is attributable to heterogeneity. [→ Walker 2023](#walker-2023)

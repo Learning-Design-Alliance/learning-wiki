@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: felix-sachs-1913
     resource: "https://www.jstor.org/journal/jeducpsyc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The inductively tutored group averaged 42 correct validity decisions out of 45 test examples versus 35.3 for the class-taught group, and no class-taught observer matched the poorest tutored observer. [→ Felix Sachs 1913](#felix-sachs-1913)

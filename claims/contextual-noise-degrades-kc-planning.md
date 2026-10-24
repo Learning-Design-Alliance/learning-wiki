@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yu-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18861"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding irrelevant textbook titles costs Qwen3-30B-A3B (CoT) 54.9 percentage points in Validity and 35.7 points in Efficiency in Basic Education. [→ Yu Liu 2026](#yu-liu-2026)

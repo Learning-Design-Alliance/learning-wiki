@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: douglas-h-clements-2013
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 2nd grade, lower achievement was associated with teachers' higher frequency of eliciting multiple strategies and solutions, prompting a student to lead the class in a routine, and students more frequently asking each other questions. [→ Douglas H. Clements 2013](#douglas-h-clements-2013)

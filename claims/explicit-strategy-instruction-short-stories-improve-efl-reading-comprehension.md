@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: üstündağ-algın-2025
     resource: "https://doi.org/10.61871/mj.v49n4-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a 16-week intervention, experimental group students who received explicit instruction of questioning, visualization, making connections, and summarizing scored significantly higher on a reading comprehension post-test than control group students who followed the regular syllabus. [→ Üstündağ-Algın 2025](#ustundag-algn-2025)

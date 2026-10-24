@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: karen-l-bierman-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102082"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors state that parents' STEM talk has been linked to better STEM outcomes in prior research. [→ Karen L. Bierman 2025](#karen-l-bierman-2025)

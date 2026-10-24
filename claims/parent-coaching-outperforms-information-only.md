@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: parent-coaching-outperforms-information-only
 evidence_strength:
+newest_evidence: 2008
 sources:
   - id: kaminski-et-al-2008
     resource: "https://doi.org/10.1007/s10802-007-9201-9"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 Coaching parents through active practice with feedback produces larger gains in parent skills and child outcomes than providing information alone (e.g., written materials, lectures, or psychoeducation without guided practice).
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: peichen-hu-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1900190"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The serial indirect path from AI literacy through trust and then self-efficacy to continued use is significant (indirect effect = 0.07, 95% CI 0.04–0.10). [→ Peichen Hu 2026](#peichen-hu-2026)

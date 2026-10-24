@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: baldwin-1913
     resource: "https://doi.org/10.1037/h0069968"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The range of individual differences was very noticeable: the smallest first-day output among the reported white girls was eight letters and the largest forty-four, and by the sixteenth trial eight girls exceeded one hundred forty substitutions with the best completing two hundred fourteen. [→ Baldwin 1913](#baldwin-1913)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: schildkraut-2020
     resource: "https://www.wested.org/resources/schools-lockdown-drills/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 95 percent of U.S. schools perform lockdown drills each year as part of their emergency response plans, with the number required varying by state. [→ Schildkraut 2020](#schildkraut-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: alphabetics-summary
     title: alphabetics-summary
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across two RCTs including 137 adolescent readers, SpellRead™ received a WWC rating of potentially positive effects in the alphabetics domain, with improvement indices ranging from –9 to +49 and a domain-average effect size of 0.61. [→ alphabetics-summary](#alphabetics-summary)

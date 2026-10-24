@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: rivkin-2023
     resource: "https://consortium.uchicago.edu/publications/training-retaining-effective-school-leaders"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Residency-completer principals had similar rates of transfer to other CPS schools and exit from the district as other principals—no more likely to stay, but also no evidence the training led them to leave. [→ Rivkin 2023](#rivkin-2023)

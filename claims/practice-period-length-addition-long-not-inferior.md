@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1914
 sources:
   - id: h-h-hahn-and-e-l-thorndike-1914
     resource: "https://www.google.com/search?q=Hahn+Thorndike+1914+Some+Results+of+Practice+in+Addition+Under+School+Conditions"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparison of A groups (double-length periods) with B groups (shorter periods), equated for initial ability, showed the short periods were certainly not much more favorable than the longer periods. [→ H. H. Hahn and E. L. Thorndike 1914](#h-h-hahn-and-e-l-thorndike-1914)

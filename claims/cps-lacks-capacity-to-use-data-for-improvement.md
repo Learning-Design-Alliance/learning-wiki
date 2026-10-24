@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: laurence-stanton-and-john-q-easton-2002
     resource: "https://consortium.uchicago.edu/publications/research-and-evaluation-chicago-public-schools-plan-future"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` As currently resourced, the Chicago Public Schools' research office cannot provide the information needed to advance instruction and evaluate initiatives. [→ Laurence Stanton and John Q. Easton 2002](#laurence-stanton-and-john-q-easton-2002)

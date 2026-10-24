@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: partnership-activities-building-pathways-for-student-success-bpss-2026
     resource: "https://ies.ed.gov/ncee/edlabs/regions/southwest/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Medium-term outcomes include increasing ADE staff capacity to use data for program improvement and to conduct formative evaluation activities, and supporting districts' use of THRIVE and AIIM resources. [→ Partnership Activities — Building Pathways for Student Success (BPSS) 2026](#partnership-activities-building-pathways-for-student-success-bpss-2026)

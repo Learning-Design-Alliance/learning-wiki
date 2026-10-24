@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: nan-maxwell-2017
     resource: "https://www.mathematica.org/publications/outcomes-from-a-certification-program-for-early-career-professionals-in-supply-chain-management"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The study compared outcomes of students who completed a certification track course at Broward College in 2015 with students who took an SCM course at the college in 2014 without LINCS, and states it cannot assess longer-term employment and earnings increases. [→ Nan Maxwell 2017](#nan-maxwell-2017)

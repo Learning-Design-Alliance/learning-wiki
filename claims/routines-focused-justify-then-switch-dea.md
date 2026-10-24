@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: smith-2021
     resource: "https://www.bettermathteachingnetwork.org/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 54 finalized first-year routines, 29 focused on Justify, 14 on Connect, and 11 on Solve. [→ Smith 2021](#smith-2021)

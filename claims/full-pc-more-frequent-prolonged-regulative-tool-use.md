@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: sarah-manlove-2007
     resource: "https://doi.org/10.1007/s11409-007-9012-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` PC+ dyads used the Process Coordinator significantly longer than PC− dyads (d=1.21) and more frequently (d=0.66). [→ Sarah Manlove 2007](#sarah-manlove-2007)

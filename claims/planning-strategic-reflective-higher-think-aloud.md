@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: li-shijin-liu-junjian-2026
     resource: "https://doi.org/10.3390/bs16081365"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For planning units, higher-depth evidence was 9.9 percentage points higher in the think-aloud record than in the interaction-log record. [→ Li Shijin & Liu Junjian 2026](#li-shijin-liu-junjian-2026)

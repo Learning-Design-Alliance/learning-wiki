@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-17
 sources:
   - id: krumm-2018
     resource: "http://dx.doi.org/10.1016/j.tsc.2018.07.006"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Prior research indicates intelligence and executive functions play an important role in creative thinking, with most research focused on adults rather than children. [→ Krumm 2018](#krumm-2018)

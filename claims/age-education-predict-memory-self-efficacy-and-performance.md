@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: hastings-2011
     resource: "https://doi.org/10.1080/13825585.2011.575926"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Older age group predicted lower memory self-efficacy (β = −.38, p<.01) and more education predicted higher memory self-efficacy (β = .22, p<.01). [→ Hastings 2011](#hastings-2011)

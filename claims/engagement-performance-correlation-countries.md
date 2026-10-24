@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: steven-wise-2019
     resource: "https://www.nwea.org/research/publication/the-nonimpact-of-differential-test-taker-engagement-on-aggregated-scores/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Prior research has found a meaningful correlation between the mean engagement and mean performance of countries on assessments such as PISA and TIMSS, raising questions about the validity of their aggregated scores. [→ Steven Wise 2019](#steven-wise-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: lomos-2011
     resource: "https://doi.org/10.1080/09243453.2010.550467"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Meta-analytic synthesis of studies on professional community and student achievement yields a small but significant summary effect of d=.25. [→ Lomos 2011](#lomos-2011)

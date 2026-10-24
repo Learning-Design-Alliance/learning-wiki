@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: krieglstein-2023
     resource: "https://doi.org/10.1007/s10648-023-09738-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Study 1 (n = 69), parallel analysis indicated three components, and after removing two GCL items the final solution consisted of 15 items underlying three components explaining 74.3% of the total variance. [→ Krieglstein 2023](#krieglstein-2023)

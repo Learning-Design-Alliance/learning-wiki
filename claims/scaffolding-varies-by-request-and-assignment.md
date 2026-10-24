@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: suhyeon-lee-2026
     resource: "https://doi.org/10.48550/arxiv.2608.22993"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Mean scaffolding level differed across assignments (Kruskal–Wallis H = 336.9, p < .001), e.g. 3.58 for the pandas assignment a3 versus 2.91 for the search-algorithm assignment a1, and ranged from 3.27 for contextual questions to 3.72 for writing requests. [→ Suhyeon Lee 2026](#suhyeon-lee-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yilmaz-a-2026
     title: Yilmaz A 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Conditional indirect effect analyses showed cheating tendency mediated the effects of academic procrastination, learned helplessness, and academic self-efficacy on AI-assisted academic dishonesty, and these indirect effects became stronger at higher levels of AI use. [→ Yilmaz A 2026](#yilmaz-a-2026)

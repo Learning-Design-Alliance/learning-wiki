@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: howard-ziyu-han-2026
     resource: "https://doi.org/10.48550/arxiv.2608.04166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No deletions occurred in the Self Reflection group despite explicit permission, while a few participants in the guided conditions deleted ideas after encountering pushback. [→ Howard Ziyu Han 2026](#howard-ziyu-han-2026)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+source_checked: 2026-10-20
+recheck_by: 2005
 sources:
   - id: todd-rosenkranz-2002
     resource: "https://consortium.uchicago.edu/publications/2001-cps-trend-review-iowa-tests-basic-skills"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2005**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Using average yearly grade-cohort gain scores as a productivity measure, the brief concludes CPS improved student learning through much of the 1990s but that improvements stalled after 1997, with 2001 math gains significantly lower than previous years for most grades. [→ Todd Rosenkranz 2002](#todd-rosenkranz-2002)

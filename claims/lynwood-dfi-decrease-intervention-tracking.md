@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-09
 sources:
   - id: liberman-2025
     resource: "https://doi.org/10.51388/20.500.12265/255"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Since implementing its comprehensive data tracking system three years ago, Lynwood Unified reports a significant decrease in high school D/F rates of over 8% and 593 high school interventions entered in the AIMS tool during 2024-2025. [→ Liberman 2025](#liberman-2025)

@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: reinhard-pekrun-2024
     resource: "https://doi.org/10.1007/s10648-024-09846-5"
@@ -40,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 theoretical `r2`–`r3`, 1 associational `r2` · `q2`–`q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 

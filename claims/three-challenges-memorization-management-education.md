@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-11
+recheck_by: 2031
 sources:
   - id: shi-2026
     resource: "https://doi.org/10.65170/jtip.v2i1.53"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-11 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Three challenges characterize memorization-centered management education: disconnection between theory instruction and business practice, lag between textbook content and contemporary needs, and divide between classroom simulations and real-world contexts. [→ Shi 2026](#shi-2026)

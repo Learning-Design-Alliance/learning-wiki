@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: edda-sant-2019
     resource: "https://doi.org/10.3102/0034654319862493"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Liberal democratic educators advocate education for democratic citizenship based on knowledge of democratic institutions, values, rights, and history, plus critical thinking abilities developed across all curricular areas. [→ Edda Sant 2019](#edda-sant-2019)

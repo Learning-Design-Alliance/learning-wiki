@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: su-chi-nagashima-2026
     resource: "https://doi.org/10.1080/10508406.2025.2546471"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · n=50 (24 PAIR-C, 26 control)
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 Explicitly scaffolding the contrast between emergent (decentralized, collective) and sequential (individualistic, cumulative) causal structure — the [PAIR-C framework](../patterns/pair-c-framework.md) — produced a statistically significant advantage on near-transfer tasks, a non-significant trend on deep-understanding questions, and no far transfer, in one study of 50 undergraduates randomly assigned to two conditions. The authors' abstract states the stronger reading: that PAIR-C "significantly improves students' deep understanding of natural selection, more effectively reducing misconceptions compared to the traditional method."
 

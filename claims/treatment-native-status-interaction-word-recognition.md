@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: alamprese-2011
     resource: "https://doi.org/10.1080/19345747.2011.555294"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Significant treatment-by-native-status interactions were found for the WJR Letter-Word Identification and WRAT3 Word Reading tests, with a positive but non-significant impact for native learners (0.24) and a negative but non-significant impact for non-native learners (-0.21) on Word Reading. [→ Alamprese 2011](#alamprese-2011)

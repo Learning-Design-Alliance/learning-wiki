@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: fred-paas-2015
     resource: "https://doi.org/10.1007/s10648-015-9347-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The current editorial board comprises 50 members from 10 countries in 4 continents, and the incoming editor states that more geographic diversity would be valuable. [→ Fred Paas 2015](#fred-paas-2015)

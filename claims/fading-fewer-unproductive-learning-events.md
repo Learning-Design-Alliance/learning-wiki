@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: renkl-2004
     resource: "https://doi.org/10.1023/B:TRUC.0000021815.74806.f6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fading is associated with fewer unproductive learning events and, thereby, lends itself to better learning outcomes. [→ Renkl 2004](#renkl-2004)

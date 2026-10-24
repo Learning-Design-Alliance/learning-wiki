@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: pandey-a-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6059379/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Social and personal skills interventions showed a higher mean effect size (d = 0.64; 95% CI, 0.42-0.86) compared with the overall pooled effect size (d = 0.42; 95% CI, 0.32-0.53). [→ Pandey A 2018](#pandey-a-2018)

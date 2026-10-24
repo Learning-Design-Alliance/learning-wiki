@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: james-tanton-2022
     resource: "https://www.nwea.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The paper derives that any two quantities in a proportional relationship satisfy y = rx for some fixed number r, and that data from any equation y = rx scales in tandem. [→ James Tanton 2022](#james-tanton-2022)

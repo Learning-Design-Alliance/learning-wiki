@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: daniel-j-madigan-2026
     resource: "https://doi.org/10.1007/s10648-026-10191-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 37 effect sizes from studies of dropout intentions, burnout showed a significant positive pooled association with dropout intentions (r+ = .46, 95% CI = .44 to .55). [→ Daniel J. Madigan 2026](#daniel-j-madigan-2026)

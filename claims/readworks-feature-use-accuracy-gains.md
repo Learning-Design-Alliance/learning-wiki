@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: tare-2019
     resource: "https://doi.org/10.51388/20.500.12265/81"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At average Lexile levels, students' multiple choice accuracy was around 2.5% higher when they used any feature (t = 3.6, df = 9,788, p < .001), with significant interactions showing larger effects for lower-Lexile students (t = -2.7, p < .01) and lower difficulty (t = -2.1, p < .05). [→ Tare 2019](#tare-2019)

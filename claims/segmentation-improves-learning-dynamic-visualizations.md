@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: spanjers-2010
     resource: "https://doi.org/10.1007/s10648-010-9135-6"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Moreno (2007), as this review reports it, participants studying segmented video or animation of modeled teaching skills remembered more of the modeled behaviour and reported lower mental effort and difficulty than participants with non-segmented versions. [→ Spanjers 2010](#spanjers-2010)

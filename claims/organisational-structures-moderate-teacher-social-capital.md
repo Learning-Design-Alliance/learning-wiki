@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: demir-2021
     resource: "https://doi.org/10.1016/j.edurev.2021.100391"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A synthesis of enablers and barriers identifies organisational structures as pervasively moderating the relationship between social capital among teachers and the outcomes reviewed. [→ Demir 2021](#demir-2021)

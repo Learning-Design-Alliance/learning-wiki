@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: challenges-1
     title: "The report's challenge section cites statistics including that \"Almost 40% of high school learners report persistent sadness or hopelessness\" and a suicide-rate increase of 85.3% between 2001 and 2017, attributing them to Woolf (2025). It also cites 2024 NAEP results showing most learners have yet to recover pre-pandemic proficiency."
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The report identifies three obstacles for learners: widening achievement gaps, isolation and disengagement alongside a youth mental health crisis, and future-ready skill sets shifting as AI automates discrete technical tasks. [→ challenges-1](#challenges-1)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhi-y-2026
     title: Zhi Y 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Exploratory and confirmatory factor analyses with 308 graduate students validated the five first-order dimensions and 15 second-order indicators, with the scale demonstrating acceptable reliability and validity. [→ Zhi Y 2026](#zhi-y-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: timmenga-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102369"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Many teachers regarded their pedagogies as potentially transformative, while others expressed ambivalence toward transformative education, associating it with political or religious indoctrination. [→ Timmenga 2026](#timmenga-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: project-cal-well-building-sustainable-school-based-mental-health-systems-2024
     resource: "https://eric.ed.gov/?id=ED655927"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` During the grant period, Cohort 2 partners trained more than 155,000 Californians not in the mental health workforce and nearly 25,000 in the workforce in best practices for identifying students needing mental health interventions and strategies to address their needs. [→ Project Cal-Well: Building Sustainable School-Based Mental Health Systems 2024](#project-cal-well-building-sustainable-school-based-mental-health-systems-2024)

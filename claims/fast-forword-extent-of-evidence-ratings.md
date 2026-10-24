@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: fast-forword-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/173"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC categorizes the extent of evidence as small in two domains and medium to large in the other two. [→ Fast ForWord® 2010](#fast-forword-2010)

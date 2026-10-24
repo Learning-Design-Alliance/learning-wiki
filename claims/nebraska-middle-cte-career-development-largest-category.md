@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: torre-gibney-2024
     resource: "https://eric.ed.gov/?id=ED673552"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In AY 2023/24, career development courses represented the single largest course-taking category among Nebraska grades 6–8 CTE enrollments, accounting for about 23 percent of all enrollments. [→ Torre Gibney 2024](#torre-gibney-2024)

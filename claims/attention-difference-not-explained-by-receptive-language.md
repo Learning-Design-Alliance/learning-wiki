@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: stevens-courtney-2009
     resource: "https://doi.org/10.1111/j.1467-7687.2009.00807.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Even when controlling for children's receptive language scores, the two maternal education groups differed significantly in the attention effect on neural processing. [→ Stevens Courtney 2009](#stevens-courtney-2009)

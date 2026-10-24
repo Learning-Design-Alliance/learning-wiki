@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: mindsets-skillsets-1
     title: mindsets-skillsets-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Digital Promise's prior research has shown significant alignment across industry, education, and governments in identifying four mindsets and six skill sets that are vital to lifelong success in learning, work, and life. [→ mindsets-skillsets-1](#mindsets-skillsets-1)

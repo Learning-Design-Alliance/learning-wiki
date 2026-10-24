@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At N=8, TEI@N reaches an 81.9% improvement rate versus Greedy's 59.0% (+22.9pp) on pre-incorrect scenarios, with no training and no external judge. [→ tei-selection-1](#tei-selection-1)

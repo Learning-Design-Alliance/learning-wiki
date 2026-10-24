@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
+recheck_by: 2029
 sources:
   - id: ke-yang-2026
     resource: "https://doi.org/10.48550/arxiv.2609.01591"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across chess, L2, and math, the trained simulators outperform every baseline on aggregate R, and the gap is largest on open-ended guidance modes. [→ Ke Yang 2026](#ke-yang-2026)

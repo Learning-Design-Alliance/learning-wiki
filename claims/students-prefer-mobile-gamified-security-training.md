@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: bingjun-li-2025
     resource: "https://doi.org/10.65879/3070-5789.2025.01.07"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 92% of general students (46/50) agreed or strongly agreed that they preferred the short, mobile-friendly game format over long desktop training or videos, with 72% selecting Strongly Agree. [→ Bingjun Li 2025](#bingjun-li-2025)

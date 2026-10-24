@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: kole-norberg-2025
     resource: "https://doi.org/10.5281/zenodo.15870274"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` After 'Lesson', word count had the highest variable importance (28.99), and traditional readability metrics were not important, with SMOG the highest of these but below most other features. [→ Kole Norberg 2025](#kole-norberg-2025)

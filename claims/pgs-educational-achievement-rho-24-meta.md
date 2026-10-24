@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: strong
+newest_evidence: 2024
 sources:
   - id: wilding-2024
     resource: "https://doi.org/10.1007/s10648-024-09928-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 19 estimates from 10 samples, polygenic scores are positively associated with educational achievement with a pooled ρ = 0.24 (95% CI 0.18–0.30). [→ Wilding 2024](#wilding-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fabian-wolff-2026
     resource: "https://doi.org/10.1007/s10648-026-10212-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a reanalysis of PISA 2000 data across 26 countries, within-domain effects in the classic I/E model increased after adding achievement in the other domain as a predictor when between-domain effects were negative. [→ Fabian Wolff 2026](#fabian-wolff-2026)

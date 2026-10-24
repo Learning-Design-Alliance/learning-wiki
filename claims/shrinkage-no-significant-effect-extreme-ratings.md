@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
+recheck_by: 2016
 sources:
   - id: herrmann-2013
     resource: "https://www.mathematica.org/publications/shrinkage-of-valueadded-estimates-and-characteristics-of-students-with-hardtopredict-achievement-levels"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Shrinkage has no statistically significant effect on the relative probability that teachers of hard-to-predict students receive value-added estimates in the extremes of the distribution. [→ Herrmann 2013](#herrmann-2013)

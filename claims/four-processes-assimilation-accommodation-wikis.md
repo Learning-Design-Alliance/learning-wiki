@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: ulrike-cress-joachim-kimmerle-2008
     resource: "https://doi.org/10.1007/s11412-007-9035-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The model distinguishes internal assimilation (quantitative individual learning), internal accommodation (qualitative individual learning), external assimilation (quantitative knowledge building), and external accommodation (qualitative knowledge building). [→ Ulrike Cress & Joachim Kimmerle 2008](#ulrike-cress-joachim-kimmerle-2008)

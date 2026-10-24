@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: angxuan-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2606.00040"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The LG network showed strong AGC–FQ and AGC–CHQ connections, which the authors read as reliance on GenAI as a search engine or black-box generator. [→ Angxuan Chen 2026](#angxuan-chen-2026)

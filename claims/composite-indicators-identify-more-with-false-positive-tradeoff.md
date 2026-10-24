@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: snipes-2016
     resource: "https://eric.ed.gov/?id=ED573499"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The composite indicator for attendance, credits, or Fs identified 75 percent of off-track students (29 percent false-positive); adding low GPA raised identification to 77 percent (30 percent false-positive). [→ Snipes 2016](#snipes-2016)

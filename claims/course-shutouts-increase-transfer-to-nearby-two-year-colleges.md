@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: silvia-robles-2021
     resource: "https://doi.org/10.1016/j.jpubeco.2021.104409"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Shutouts increased transfer rates to nearby, but potentially less-desirable two-year colleges. [→ Silvia Robles 2021](#silvia-robles-2021)

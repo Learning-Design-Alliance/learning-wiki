@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: dozier-2026
     resource: "https://doi.org/10.1002/yd.70077"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Units differed in AI adoption and policy implementation: Copley Library showed very high adoption with the highest policy implementation, while CAS showed low adoption and low policy implementation, with professional schools' adoption influenced by external industry practice. [→ Dozier 2026](#dozier-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: daniel-m-oppenheimer-2025
     resource: "https://doi.org/10.1007/s40593-025-00521-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret the initial-argument improvement as a skill gain that appeared prior to LLM interaction in each assignment cycle. [→ Daniel M. Oppenheimer 2025](#daniel-m-oppenheimer-2025)

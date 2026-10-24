@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: cantlon-jessica-f-2009
     resource: "https://doi.org/10.1162/jocn.2008.21159"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Adults showed significant numerical ratio effects in precentral gyrus and superior parietal cortex; children showed ratio-dependent activity in IFG, precentral gyrus, and thalamus but not superior parietal cortex. [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

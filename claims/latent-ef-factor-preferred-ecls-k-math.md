@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: nguyen-2019
     resource: "https://doi.org/10.1016/j.cedpsych.2019.04.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across fall kindergarten, spring kindergarten, and spring first grade, the latent EF model (Model 1) was preferred over the component-specific model (Model 2) by BIC and fit the data exceptionally well. [→ Nguyen 2019](#nguyen-2019)

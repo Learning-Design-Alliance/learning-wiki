@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: david-racovan-2026
     resource: "https://doi.org/10.48550/arxiv.2609.36073"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across five semesters, 96 withdrawn students averaged an H-score of 9.9 versus 3.9 among 2,974 completers, a difference the Kolmogorov-Smirnov test found significant. [→ David Racovan 2026](#david-racovan-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shen-x-2026
     title: Shen X 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` DeepSeek-MoE (Ours) consumes 1.8 mWh per query (1.8 Wh per 1,000 queries), 43.8% less than the Qwen-7B FP16 baseline of 3.2 mWh/query. [→ Shen X 2026](#shen-x-2026)

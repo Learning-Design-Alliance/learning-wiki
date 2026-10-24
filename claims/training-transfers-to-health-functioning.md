@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: owsley-cynthia-2012
     resource: "https://doi.org/10.1016/j.visres.2012.11.014"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Increases in processing speed from training lead to reductions in motor vehicle collision risk, improved on-road driving, decreased reaction time to road signs, reduced time for daily visual activities, slowing of health-related quality-of-life reductions over 24 months, and reduced depression risk. [→ Owsley Cynthia 2012](#owsley-cynthia-2012)

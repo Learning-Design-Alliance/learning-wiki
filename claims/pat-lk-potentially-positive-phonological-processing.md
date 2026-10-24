@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://ies.ed.gov/ncee/WWC/InterventionReport/376"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3` · `i2` medium
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across three studies the phonological processing domain average effect size was 0.78 with an average improvement index of +30 percentile points, but only one study's effects were statistically significant and WWC-confirmed. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

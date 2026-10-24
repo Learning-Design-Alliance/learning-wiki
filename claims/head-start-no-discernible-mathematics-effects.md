@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2015
     resource: "http://www.acf.hhs.gov/programs/ohs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No statistically significant or substantively important difference was found between the Head Start and comparison groups on the Counting Bears Test for the 4-year-old cohort. [→ What Works Clearinghouse 2015](#what-works-clearinghouse-2015)

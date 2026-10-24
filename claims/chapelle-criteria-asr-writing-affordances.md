@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: johnson-2021
     resource: "https://doi.org/10.14705/rpnet.2021.54.1327"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interpreting the TAM results via Chapelle's (2001) criteria, the authors report participants found ASR useful and authentic, that it fostered a focus on meaning rather than form, and that it offered learner fit by letting them work at their level of English. [→ Johnson 2021](#johnson-2021)

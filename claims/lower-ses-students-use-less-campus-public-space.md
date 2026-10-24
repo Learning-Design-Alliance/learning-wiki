@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: bart-plange-2025
     resource: "https://doi.org/10.1007/s10648-025-10061-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared with higher-SES students, lower-SES students drew shorter daily trajectories on campus and circled fewer spaces where they felt they belonged, and students of color showed a similar pattern. [→ Bart-Plange 2025](#bart-plange-2025)

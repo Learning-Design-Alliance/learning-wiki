@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: van-ryzin-2018
     resource: "https://doi.org/10.1037/edu0000265"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In intervention schools, bullying at follow-up was significantly lower among low-engagement students, with a significant intervention-by-engagement interaction (effect size .37). [→ Van Ryzin 2018](#van-ryzin-2018)

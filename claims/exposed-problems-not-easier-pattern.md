@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hongfei-yan-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07523"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 12 item-bank-exposed problems had slightly higher mean raw AI difficulty (2.667 vs 2.582), lower student mean pass rate (36.6% vs 42.8%), and higher mean non-attempt rate (49.6% vs 35.4%) than non-exposed problems. [→ Hongfei Yan 2026](#hongfei-yan-2026)

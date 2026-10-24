@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: dai-2024
     resource: "https://doi.org/10.1016/j.caeai.2024.100299"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` 90.10% of GPT-4 feedback comments on aspects instructors did not cover obtained assessor agreement, versus 73.33% for GPT-3.5. [→ Dai 2024](#dai-2024)

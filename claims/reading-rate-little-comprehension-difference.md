@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1922
 sources:
   - id: gilliland-1922
     resource: "https://psycnet.apa.org/record/1922-02093-001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across four groups (fourth grade, seventh grade, high school, college), the number of ideas reproduced was about the same whether paragraphs were read slowly, at normal rate, or rapidly. [→ Gilliland 1922](#gilliland-1922)

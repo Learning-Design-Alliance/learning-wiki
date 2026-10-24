@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: toscano-2019
     resource: "https://doi.org/10.29333/iejme/5748"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Norms about transmitting, validating, following sequence and devaluing communication relate to characteristics of a traditional perspective; SDMN 4 relates to a perception-based perspective. [→ Toscano 2019](#toscano-2019)

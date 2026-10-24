@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: michael-hardy-2026
     resource: "https://doi.org/10.48550/arxiv.2603.00883"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Models more aligned to expert observation ratings are not correspondingly aligned to value-added learning gains, and in many cases are negatively associated with them. [→ Michael Hardy 2026](#michael-hardy-2026)

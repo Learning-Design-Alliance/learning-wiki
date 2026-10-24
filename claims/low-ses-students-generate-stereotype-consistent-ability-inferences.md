@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2007
 sources:
   - id: isabelle-regner-2002
     resource: "https://doi.org/10.1023/A:1016313908667"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In both studies only the low-SES students generated stereotype-consistent inferences: in Study 1 when inferring targets' memory ability from social class information, and in Study 2 when inferring targets' possessions and cultural activities (SES indicators) from memory-performance information. [→ Isabelle Regner 2002](#isabelle-regner-2002)

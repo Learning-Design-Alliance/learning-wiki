@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: nakamoto-2025
     resource: "https://eric.ed.gov/?id=ED673580"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Intentions to engage in sexual intercourse in the next year declined from 3.2 to 3.0 on a 1-to-4 scale, a marginally significant difference (p = .08) equivalent to an effect size of -0.16. [→ Nakamoto 2025](#nakamoto-2025)

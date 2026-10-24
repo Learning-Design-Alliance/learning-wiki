@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: equal-access-to-content-instruction-for-english-learners-an-example-from-science-2012
     resource: "https://eric.ed.gov/?id=ED580362"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teachers in the Montebello K-4 science and academic-language program found that sentence frames often limit student responses, yielding similar responses that do not show a range of conceptual understanding. [→ Equal Access to Content Instruction for English Learners: An Example from Science 2012](#equal-access-to-content-instruction-for-english-learners-an-example-from-science-2012)

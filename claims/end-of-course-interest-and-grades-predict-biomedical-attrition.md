@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: rosenzweig-2021
     resource: "https://doi.org/10.1037/edu0000456"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Higher interest in biology at the end of the introductory course predicted lower likelihood of attrition (OR = 0.57), as did higher course grades (OR = 0.54). [→ Rosenzweig 2021](#rosenzweig-2021)

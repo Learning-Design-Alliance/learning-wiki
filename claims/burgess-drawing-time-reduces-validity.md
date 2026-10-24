@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1921
 sources:
   - id: arthur-i-gates-1921
     resource: "https://doi.org/10.1037/h0068367"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Individual timing of Burgess test paragraphs showed about one quarter of total time is spent drawing, and drawing time varies greatly across paragraphs (grade IV range 3.3 to 23.5 seconds), which the authors argue reduces the test's validity. [→ Arthur I. Gates 1921](#arthur-i-gates-1921)

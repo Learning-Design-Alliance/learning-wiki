@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: lura-forcum-and-william-harms-2005
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For novice elementary school teachers, being male, having prior work experience, and being a graduate of CPS are associated with reporting a good teaching experience. [→ Lura Forcum and William Harms 2005](#lura-forcum-and-william-harms-2005)

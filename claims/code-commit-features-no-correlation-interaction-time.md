@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: z-gao-2024
     resource: "https://doi.org/10.5281/zenodo.12729866"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Pearson correlations between commit frequency, last-commit elapsed time, last-commit LOC and interaction time are negligible and non-significant. [→ Z. Gao 2024](#z-gao-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: carmen-yot-domínguez-and-carlos-marcelo-2017
     resource: "https://doi.org/10.1186/s41239-017-0076-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A high-SRL profile comprises 84 students (11.86%) with the greatest mean frequency of implementation in all factors, including low-use factors such as sharing information and monitoring and feedback. [→ Carmen Yot-Domínguez and Carlos Marcelo 2017](#carmen-yot-dominguez-and-carlos-marcelo-2017)

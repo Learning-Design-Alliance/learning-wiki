@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ruqi-sun-2026
     resource: "https://doi.org/10.48550/arxiv.2608.09698"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` CSI Total was higher under VeriForge (M=81.47 vs M=69.31; r=.804) and remained significant after FDR correction; Exploration and Expressiveness subscales also survived correction. [→ Ruqi Sun 2026](#ruqi-sun-2026)

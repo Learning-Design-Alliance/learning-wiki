@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: roshandel-2018
     resource: "https://doi.org/10.12973/iji.2018.11123a"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Ideal L2 self correlates significantly with self-efficacy (r = 0.34, p < 0.05), confirming on a quantitative basis the association reported qualitatively in prior Japanese EFL research. [→ Roshandel 2018](#roshandel-2018)

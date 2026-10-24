@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: karyn-lewis-2021
     resource: "https://www.nwea.org/research/publication/learning-during-covid-19-an-update-on-student-achievement-and-growth-at-the-start-of-the-2021-22-school-year/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Student gains across the pandemic period lagged pre-pandemic norms in reading and math. [→ Karyn Lewis 2021](#karyn-lewis-2021)

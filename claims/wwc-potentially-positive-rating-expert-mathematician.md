@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://ies.ed.gov/ncee/WWC/InterventionReport/513"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The WWC assigned the rating "potentially positive effects" because the single reviewed study showed a substantively important positive effect and no contrary evidence, but the study did not show statistically significant positive effects. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

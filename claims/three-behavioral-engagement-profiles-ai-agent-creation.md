@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: haiyang-xin-2026
     resource: "https://doi.org/10.48550/arxiv.2605.12934"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Hierarchical clustering identified three engagement profiles: High-Creation-High-Browsing (10.6%, n=23), Low-Creation-High-Browsing (33.5%, n=73), and Low-Creation-Low-Browsing (56.0%, n=122). [→ Haiyang Xin 2026](#haiyang-xin-2026)

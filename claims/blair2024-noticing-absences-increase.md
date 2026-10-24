@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: blair-2024
     resource: "https://doi.org/10.1007/s11251-024-09661-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants were significantly more likely to notice the absence of students building on each other's ideas (McNemar p = .03; 6% pre to 41% post). [→ Blair 2024](#blair-2024)

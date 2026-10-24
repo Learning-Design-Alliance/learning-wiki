@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-24
 sources:
   - id: goetz-2023
     resource: "https://osf.io/ftr4g/?view_only=beac4ca87987492294aeac4a1bb96c86"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q3` · `i0`–`i2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` State boredom correlated significantly negatively with the difficult-part test score (r = -.22). [→ Goetz 2023](#goetz-2023)

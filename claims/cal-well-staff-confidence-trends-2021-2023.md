@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: project-cal-well-building-sustainable-school-based-mental-health-systems-2024
     resource: "https://eric.ed.gov/?id=ED655927"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percentage of staff reporting they were very confident in referring a student in need to mental health supports rose from 49 percent (2021) to 57 percent (2023), and in recognizing a student in emotional distress rose from 39 percent to 44 percent. [→ Project Cal-Well: Building Sustainable School-Based Mental Health Systems 2024](#project-cal-well-building-sustainable-school-based-mental-health-systems-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: sidorkin-2026
     resource: "https://doi.org/10.55982/openpraxis.18.3.1141"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In three selected logs (B, C, I), comprehension-triggered responses showed 3.4x to 8.7x higher definitional density than non-triggered responses (Log B: 0.69 versus 0.17; Log I: 0.61 versus 0.07; Log C: 0.37 versus 0.11). [→ Sidorkin 2026](#sidorkin-2026)

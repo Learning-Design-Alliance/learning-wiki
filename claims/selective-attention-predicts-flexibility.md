@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: van-dijk-2020
     resource: "https://doi.org/10.3390/jintelligence8040037"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Selective attention showed a significant main effect on flexibility, with no effect of stimulus condition and no interaction. [→ van Dijk 2020](#van-dijk-2020)

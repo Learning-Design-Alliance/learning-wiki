@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: annette-kujawski-taylor-2011
     resource: "https://doi.org/10.1177/0098628311421330"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean quiz scores did not differ significantly between the clean reading condition and the annotated reading condition. [→ Annette Kujawski Taylor 2011](#annette-kujawski-taylor-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: jiayi-wang-2025
     resource: "https://doi.org/10.48550/arxiv.2505.08083"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pilot teachers praised streamlined integration of student demographics, content customization, and rubric-based feedback, and three of four strongly agreed CulturAIEd saved time and inspired new ideas. [→ Jiayi Wang 2025](#jiayi-wang-2025)

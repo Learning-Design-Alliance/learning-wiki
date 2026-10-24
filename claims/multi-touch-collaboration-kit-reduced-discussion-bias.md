@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: sten-ludvigsen-2018
     resource: "https://doi.org/10.1007/s11412-018-9274-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Groups working with the joint/private multi-touch kit adjusted their use of task-relevant interaction processes and showed less biased communication than the other groups. [→ Sten Ludvigsen 2018](#sten-ludvigsen-2018)

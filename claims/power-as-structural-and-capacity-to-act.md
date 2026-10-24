@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mehelay-s-2026
     resource: "https://doi.org/10.1186/s12913-026-14964-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors report, from their co-development experience and engagement with literature, that conceptualizing power as finite and transactional implies it must be given or shared in simplistic ways, and that power is better understood as structural and as the capacity of people to act even under social and structural constraints. [→ Mehelay S 2026](#mehelay-s-2026)

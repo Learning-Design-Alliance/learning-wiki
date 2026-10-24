@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The main effect of task difficulty was significant (Wilks' Lambda = .86, p < .05, ŋ2 = .14) on intrinsic (ŋ2 = .07) and extraneous cognitive load (ŋ2 = .09). [→ Gupta 2020](#gupta-2020)

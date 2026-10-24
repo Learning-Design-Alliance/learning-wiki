@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: cecilia-speroni-2015
     resource: "https://www.mathematica.org/publications/bridging-the-gap-in-workforce-and-education-services-career-coaching-in-the-virginia-rethinks-health"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who participated in coaching were more likely than other students to obtain career studies certificates and associate degrees, even though participants had characteristics typically associated with lower educational attainment. [→ Cecilia Speroni 2015](#cecilia-speroni-2015)

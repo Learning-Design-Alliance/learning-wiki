@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: liu-s-2020
     title: Liu S 2020
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For chronic exercise, adolescents aged 12–18 show a larger inhibitory control effect (SMD = −0.81) than children aged 5–12 (SMD = −0.19). [→ Liu S 2020](#liu-s-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1920
 sources:
   - id: a-i-g-1920
     resource: "https://eric.ed.gov/?id=none-in-text"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The reviewer assesses the book as a clear and interesting popular account written in an optimistic spirit, noting that technical matters such as the validity of the Intelligence Quotient are omitted and that charts suggest a constant-growth assumption the reviewer questions. [→ A. I. G 1920](#a-i-g-1920)

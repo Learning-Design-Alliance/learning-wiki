@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: noetel-2021
     resource: "https://doi.org/10.3102/0034654321990713"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Relative interactivity significantly moderated effects: video showed no benefit when the control condition was more interactive (g = -0.07, a negligible printed effect), moderate benefit when interactivity was equivalent (g = 0.33), and large benefit when video was presented in a more interactive context (g = 0.62). [→ Noetel 2021](#noetel-2021)

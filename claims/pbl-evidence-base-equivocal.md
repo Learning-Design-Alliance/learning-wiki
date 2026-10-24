@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: michael-rowe-2026
     resource: "https://doi.org/10.35542/osf.io/haet3_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The essay reports, citing Norman and Schmidt (1992), that PBL's evidence base shows equivocal results for knowledge acquisition and clinical reasoning, and cites Norman and Schmidt (2000) attributing mixed findings to curriculum implementation failures. [→ Michael Rowe 2026](#michael-rowe-2026)

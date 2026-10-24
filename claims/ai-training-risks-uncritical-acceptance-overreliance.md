@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: pinto-f-2026
     title: Pinto F 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Included studies report conceptual errors produced by ChatGPT not identified by pre-service teachers, uncritical acceptance of generated content, and increased delegation of problem solving to the tool when tasks became more complex. [→ Pinto F 2026](#pinto-f-2026)

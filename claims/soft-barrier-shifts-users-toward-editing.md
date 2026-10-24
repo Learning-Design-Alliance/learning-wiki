@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Group A (barrier) reported less direct copying and more code modification than Group B (4.00 vs. 1.00 for Task 1; 3.67 vs. 1.00 for Task 2), with higher understanding and low frustration. [→ human-pilot](#human-pilot)

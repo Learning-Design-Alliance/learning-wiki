@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: what-works-clearinghouse-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/641"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two studies totaling 225 students, the algebra domain showed one statistically significant positive effect and one indeterminate effect, with an average improvement index of +7 (range –6 to +20). [→ What Works Clearinghouse 2016](#what-works-clearinghouse-2016)

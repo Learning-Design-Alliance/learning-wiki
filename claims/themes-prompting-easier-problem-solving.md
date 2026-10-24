@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: victor-alexandru-pădurean-2026
     resource: "https://doi.org/10.1145/3765964.3811639"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In coded reflections on Ref1 and Ref2, the most frequently reported advantage of prompt-based tasks was that they were Easier/Simpler/Faster than traditional code writing, with students also reporting the tasks support analyzing and solving problems. [→ Victor-Alexandru Pădurean 2026](#victor-alexandru-padurean-2026)

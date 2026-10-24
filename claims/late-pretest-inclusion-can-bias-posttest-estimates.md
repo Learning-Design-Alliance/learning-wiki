@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: peter-z-schochet-2010
     resource: "https://www.mathematica.org/publications/journal-article-the-late-pretest-problem-in-randomized-control-trials-of-education-interventions"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
+> **Currency** · newest study 2010 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

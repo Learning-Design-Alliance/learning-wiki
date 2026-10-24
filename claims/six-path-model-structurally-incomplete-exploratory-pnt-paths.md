@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yang-z-2026
     title: Yang Z 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Adding a direct PNT → ACS path substantially improved fit (Δχ2(1) = 52.87, p < 0.001), and PNT showed an independent association with ACS (β = 0.304) while the LOU → ACS coefficient fell from 0.504 to 0.311. [→ Yang Z 2026](#yang-z-2026)

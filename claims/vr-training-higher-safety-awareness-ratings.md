@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kakimoto-akihiro-2026
     resource: "https://doi.org/10.2196/104397"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Students rated medical safety awareness and radiation protection higher after VR-based training (mean 4.35, SD 0.46) than conventional training (mean 3.07, SD 0.57), r=0.856, P<.001. [→ Kakimoto Akihiro 2026](#kakimoto-akihiro-2026)

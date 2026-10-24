@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: vernex-2009
     resource: "https://www.mathematica.org/publications/state-and-local-implementation-of-the-no-child-left-behind-act-volume-vii-title-i-school-choice-and-supplemental-educational-services"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Public school choice options were limited at middle and high school levels because large numbers of school districts have only one middle school and one high school. [→ Vernex 2009](#vernex-2009)

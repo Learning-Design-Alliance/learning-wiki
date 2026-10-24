@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-18
+recheck_by: 2029
 sources:
   - id: norah-almousa-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28026"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Gemini 2.0 Flash passed three reliability evaluations as an automatic annotator of feedback focus types: Cohen's Kappa of 0.78 with human annotators, the Alt-Test, and consistency of conclusions with human annotations. [→ Norah Almousa 2026](#norah-almousa-2026)

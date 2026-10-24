@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: carver-thomas-2022
     resource: "https://doi.org/10.54300/899.809"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The number of substandard credentials and permits issued in California nearly tripled from 2012–13 to 2019–20, numbering more than 13,000 annually. [→ Carver-Thomas 2022](#carver-thomas-2022)

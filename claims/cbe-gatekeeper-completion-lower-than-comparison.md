@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-15
 sources:
   - id: person-2016
     resource: "https://www.mathematica.org/publications/implementation-and-outcomes-of-competencybased-education-in-three-community-colleges-findings"
@@ -40,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 causal `r1`, 1 associational `r?` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-15 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 

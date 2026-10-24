@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: escalante-2023
     resource: "https://doi.org/10.1186/s41239-023-00425-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis found preferring students cited clarity, understandability, consistency, and specificity of AI feedback, especially for academic writing style and vocabulary, plus no time constraints. [→ Escalante 2023](#escalante-2023)

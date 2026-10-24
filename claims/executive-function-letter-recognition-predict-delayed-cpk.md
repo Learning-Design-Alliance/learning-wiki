@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-24
 sources:
   - id: geary-david-c-2019
     resource: "https://doi.org/10.1037/edu0000277"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A 1 SD decrease in executive function yields a 5.7-fold increase in odds of delayed CPK status; a 1 SD decrease in letter recognition yields a 9-fold increase. [→ Geary David C. 2019](#geary-david-c-2019)

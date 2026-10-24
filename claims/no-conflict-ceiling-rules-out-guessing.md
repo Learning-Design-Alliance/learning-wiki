@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: nina-franiatte-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101845"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Initial and final accuracy on no-conflict control problems was consistently high in both groups and blocks, ruling out systematic guessing or distrust of all intuitive responses. [→ Nina Franiatte 2024](#nina-franiatte-2024)

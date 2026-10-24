@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1995
 sources:
   - id: stuart-luppescu-1995
     resource: "https://consortium.uchicago.edu/publications/school-reform-retention-policy-and-student-achievement-gains"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Birth month significantly predicts retention at every grade, yet its connection with achievement is substantial only in the lower primary grades, after which the achievement-versus-birth-month plot is flat. [→ Stuart Luppescu 1995](#stuart-luppescu-1995)

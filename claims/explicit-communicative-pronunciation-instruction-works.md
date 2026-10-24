@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: darcy-2018
     resource: "https://doi.org/10.5070/b5.35963"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · `i2`–`i3`
+> **Currency** · newest study 2019 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence once the syntheses were added): Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus -->
 
 ## Subclaims

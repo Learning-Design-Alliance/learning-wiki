@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: andrew-j-elliot-nicolas-sommet-2023
     resource: "https://doi.org/10.1007/s10648-023-09785-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Integration within the hierarchical model extends beyond competence-based constructs: approach/avoidance temperament, attachment dimensions, social motives, autonomy variables, and structural socioeconomic variables such as local income inequality have been linked to achievement goals. [→ Andrew J. Elliot · Nicolas Sommet 2023](#andrew-j-elliot-nicolas-sommet-2023)

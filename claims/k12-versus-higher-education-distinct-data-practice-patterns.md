@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: jina-kang-2026
     resource: "https://doi.org/10.1007/s11251-026-09803-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Association analyses revealed distinct sets of co-occurring data practices in K–12 and higher education with no overlapping association rules: higher education emphasized second-hand data analysis, while K–12 focused on first-hand data production with hypothesis development, argumentation, and sharing. [→ Jina Kang 2026](#jina-kang-2026)

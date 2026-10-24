@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: literacy-express-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/288"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Lonigan et al. (2005) found no statistically significant or substantively important differences on three cognition measures. [→ Literacy Express 2010](#literacy-express-2010)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: faulkner-bond-2026
     resource: "https://eric.ed.gov/?id=ED681359"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The decision consistency method found the highest level of consistent classification decisions (proficient on both assessments or neither) occurs at ELPAC overall PL 4 in both years and all grades. [→ Faulkner-Bond 2026](#faulkner-bond-2026)

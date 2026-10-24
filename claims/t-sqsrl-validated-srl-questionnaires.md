@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: avivit-arvatz-2025
     resource: "https://doi.org/10.1007/s11409-025-09415-3"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The teacher questionnaire TQsrl reduced 42 items to 31 across six factors with high internal consistency (Cronbach's alpha 0.94 in EFA and 0.93 in CFA). [→ Avivit Arvatz 2025](#avivit-arvatz-2025)

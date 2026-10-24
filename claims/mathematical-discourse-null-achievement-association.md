@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: schenke-2017
     resource: "https://doi.org/10.1037/edu0000165"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The path from support for mathematical discourse to achievement was non-significant for both non-African American (b = −0.11, p = .24) and African American (b = 0.16, p = .13) students, and mediation was non-significant for both groups. [→ Schenke 2017](#schenke-2017)

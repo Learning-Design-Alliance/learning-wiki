@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: qi-zhu-2026
     resource: "https://doi.org/10.1007/978-3-032-29788-4_37"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Cognitive Maturity dimension score experienced a significant decline (t=2.358, p=0.019); the authors interpret this as correction of initial epistemic overestimation rather than regression. [→ Qi Zhu 2026](#qi-zhu-2026)

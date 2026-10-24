@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yin-s-2026
     title: Yin S 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` GenAI dependence positively predicts critical thinking (β = 0.492, p < 0.001), human–AI collaboration quality (β = 0.538, p < 0.001), and research creativity (β = 0.064, p < 0.05); critical thinking strongly predicts research creativity (β = 0.731, p < 0.001). [→ Yin S 2026](#yin-s-2026)

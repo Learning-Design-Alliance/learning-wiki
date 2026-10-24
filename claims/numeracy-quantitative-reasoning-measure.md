@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: dan-m-kahan-2017
     resource: "https://doi.org/10.1017/bpp.2016.2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The experiment operationalized skill as numeracy, described as the ability and disposition to make use of quantitative information, and presented subjects a difficult problem requiring valid causal inference from empirical data. [→ DAN M. KAHAN 2017](#dan-m-kahan-2017)

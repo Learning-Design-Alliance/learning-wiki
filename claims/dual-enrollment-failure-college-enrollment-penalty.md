@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: terrell-2026
     resource: "https://eric.ed.gov/?id=ED681344"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Statistically matched students who did not pass at least one dual enrollment course show an 11-12 percentage point lower probability of college enrollment than matched students who passed, after controlling for prior preparation and demographics. [→ Terrell 2026](#terrell-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hongfei-yan-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07523"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` In the 26-problem longitudinal Data Structures and Algorithms B sample from the same instructor, AI overall difficulty correlated with student problem-level pass rate at Spearman rho = -0.829 and with non-attempt rate at Spearman rho = 0.883. [→ Hongfei Yan 2026](#hongfei-yan-2026)

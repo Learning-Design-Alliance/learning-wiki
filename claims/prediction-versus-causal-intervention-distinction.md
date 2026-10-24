@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kaushik-dutta-2026
     resource: "https://doi.org/10.48550/arxiv.2608.06322"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A model can predict attrition with high accuracy yet provide no guidance about what to do, because the best-predicting features are often unchangeable; intervention requires causal questions answered with uplift modeling, randomized encouragement designs, and quasi-experiments. [→ Kaushik Dutta 2026](#kaushik-dutta-2026)

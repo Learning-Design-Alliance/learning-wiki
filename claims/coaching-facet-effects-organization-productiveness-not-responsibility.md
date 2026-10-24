@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: melanie-turner-2025
     resource: "https://doi.org/10.1007/s10648-025-10016-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Coaching increased facets of organization (post-test/follow-up d = 0.42/0.49) and productiveness (d = 0.64/0.93) but not responsibility (d = −0.09/0.19; p = 0.920/0.148). [→ Melanie Turner 2025](#melanie-turner-2025)

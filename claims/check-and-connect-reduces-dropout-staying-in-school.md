@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: dropout-prevention-intervention-report-check-connect-2015
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/78"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the 1998 RCT, ninth-graders enrolled in Check & Connect were statistically significantly less likely to have dropped out by the end of ninth grade (ES = 0.89, improvement index +31). [→ Dropout Prevention intervention report: Check & Connect 2015](#dropout-prevention-intervention-report-check-connect-2015)

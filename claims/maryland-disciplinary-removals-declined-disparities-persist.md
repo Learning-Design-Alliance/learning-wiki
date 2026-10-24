@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: johanna-lacoe-2019
     resource: "https://ies.ed.gov/ncee/edlabs/regions/midatlantic"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Out-of-school suspensions and expulsions in Maryland declined over the past 10 years. [→ Johanna Lacoe 2019](#johanna-lacoe-2019)

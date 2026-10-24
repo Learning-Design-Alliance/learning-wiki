@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: lanqin-zheng-2016
     resource: "https://doi.org/10.1007/s12564-016-9426-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i1` small
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Individual treatment (ES = 0.496) significantly outperformed group treatment (ES = 0.116; Q = 7.079, df = 1, p = 0.008), and delivery form significantly moderated effects (Q = 10.43, df = 2, p = 0.005), with combined direct-and-indirect delivery highest (ES = 1.200). [→ Lanqin Zheng 2016](#lanqin-zheng-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: amanda-j-rockinson-szapkiw-2013
     resource: "https://doi.org/10.1080/08923647.2013.796230"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Students who chose and used e-textbooks scored higher on the MSLQ cognitive strategy use subscale than students who chose and used traditional print textbooks, with eta squared = .07. [→ Amanda J. Rockinson-Szapkiw 2013](#amanda-j-rockinson-szapkiw-2013)

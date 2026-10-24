@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 1975
 sources:
   - id: a-ginton-1975
     resource: "https://doi.org/10.3758/bf03336682"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1975 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Preexposure to the nonmonitored ear produced latent inhibition equivalent to preexposure to the monitored ear; the difference between the two PE groups was not significant. [→ A. Ginton 1975](#a-ginton-1975)

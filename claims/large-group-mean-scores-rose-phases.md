@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: tatiana-íñiguez-berrozpe-2025
     resource: "https://doi.org/10.1007/s11412-025-09460-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` G1's mean answer score rose continually during the session, with notable increases from phase 4 on questions 1 and 2 and in question 4 in phase 5, while question 3 rose only slightly and stagnated in phase 7. [→ Tatiana Íñiguez-Berrozpe 2025](#tatiana-iniguez-berrozpe-2025)

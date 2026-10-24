@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: evan-2019
     resource: "https://dcpcsb.egnyte.com/dl/hdsUO9pDbh/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Perry Street earned 60.9 of 100 PMF points at its 2017–18 twenty-year review and reached Tier I status in 2018–19, after scoring 40.5 at its 2013–14 renewal. [→ Evan 2019](#evan-2019)

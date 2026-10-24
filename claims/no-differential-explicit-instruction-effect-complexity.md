@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1997
 sources:
   - id: rick-de-graaff-1997
     resource: "https://doi.org/10.1017/S0272263197002064"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study found no evidence for a differential effect of explicit instruction depending on the variable complexity. [→ Rick de Graaff 1997](#rick-de-graaff-1997)

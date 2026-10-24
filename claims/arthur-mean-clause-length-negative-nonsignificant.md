@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: arthur-wwc-intervention-report-2006
     resource: "http://pbskids.org/arthur/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i0` negligible
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` On the mean clause length outcome, the Arthur group's change-score mean difference was –0.22 (effect size –0.11, ns), numerically favoring the comparison group. [→ Arthur (WWC Intervention Report) 2006](#arthur-wwc-intervention-report-2006)

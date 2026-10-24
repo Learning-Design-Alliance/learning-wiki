@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: themes
     title: themes
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r2`–`r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Thematic analysis across all four initiatives identified five themes: partnerships, employer recognition, program sustainability, program appeal, and potential for learning/higher education attainment. [→ themes](#themes)

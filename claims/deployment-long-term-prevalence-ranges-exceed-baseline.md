@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: bøg-m-2018
     resource: "https://doi.org/10.4073/csr.2018.6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Based on baseline prevalence in comparison samples and the pooled odds ratios, the review expects long-term post-deployment prevalence of 6.1–14.9% for PTSD, 7.6–18% for depression, 2.4–17.5% for substance use and 10–23% for common mental disorder. [→ Bøg M 2018](#bg-m-2018)

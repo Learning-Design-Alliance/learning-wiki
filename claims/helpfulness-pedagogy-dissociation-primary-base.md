@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shuyi-fan-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28128"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Under Opus, a helpfulness contrast that does not differ significantly (Cliff's |δ|=0.10) sits beside a maximal pedagogy contrast (|δ|=1.0) on the same turns. [→ Shuyi Fan 2026](#shuyi-fan-2026)

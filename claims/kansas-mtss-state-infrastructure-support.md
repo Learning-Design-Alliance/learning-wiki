@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: reedy-2015
     resource: "http://www.kansasmtss.org/pdf/ex_eval/2015_KS_MTSS_Eval_Report.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Survey respondents reported that KSDE has established the necessary infrastructure to sustain and extend MTSS (77.4%), disseminates information effectively (75.9%), provides sufficient resources (76.0%), and aligns MTSS with other initiatives (79.3%). [→ Reedy 2015](#reedy-2015)

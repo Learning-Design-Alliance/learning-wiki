@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dawei-xie-2026
     resource: "https://doi.org/10.48550/arxiv.2605.17259"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 21 matched query pairs rated by four blind expert raters, the full agent outperformed the transcript-only baseline overall (r=.792, p=.001; means 4.24 vs 3.67 on a 5-point scale), with the largest effects on helpfulness (r=.737), analytical depth (r=.723), and groundedness (r=.693). [→ Dawei Xie 2026](#dawei-xie-2026)

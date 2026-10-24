@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 1999
 sources:
   - id: alison-mackey-1999
     resource: "https://doi.org/10.1017/S0272263199004027"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The developmental level of the learner was a considered factor in the developmental outcomes of interaction. [→ Alison Mackey 1999](#alison-mackey-1999)

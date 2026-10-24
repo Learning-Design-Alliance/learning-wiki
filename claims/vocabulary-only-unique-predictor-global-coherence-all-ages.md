@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: currie-2015
     resource: "https://doi.org/10.1016/j.jecp.2015.03.005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For each age group, only vocabulary significantly predicted unique variance in global coherence inference making when memory measures were also in the model. [→ Currie 2015](#currie-2015)

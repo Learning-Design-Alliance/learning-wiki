@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: wang-s-and-zhao-j-2026
     title: Wang S and Zhao J 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Technology acceptance did not significantly predict RUItext (b = 0.690, p = 0.118), and RUItext did not significantly predict productive engagement (b = 0.149, p = 0.202) or project score; the text-based indirect effect was not significant. [→ Wang S and Zhao J 2026](#wang-s-and-zhao-j-2026)

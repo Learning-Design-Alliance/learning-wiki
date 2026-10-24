@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: schroder-hans-s-2017
     resource: "https://doi.org/10.1016/j.dcn.2017.01.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an exploratory regression, growth mindset was significantly related to post-error accuracy for children with small Pe difference amplitudes (b = 0.04, p = 0.001) but not large amplitudes (b = −0.001, p = 0.92). [→ Schroder Hans S. 2017](#schroder-hans-s-2017)

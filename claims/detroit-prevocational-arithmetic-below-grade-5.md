@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: renshaw-1915
     resource: "https://www.jstor.org/journal/jeduapsy"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On Starch's Arithmetical Scale A (Reasoning), fully 80% of all cases lay below the normal V grade level, and 124 of the 270 pupils tested rated below or equal to the normal III grade standard. [→ Renshaw 1915](#renshaw-1915)

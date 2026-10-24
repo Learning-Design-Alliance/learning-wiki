@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: tim-kühl-2022
     resource: "https://doi.org/10.1007/s10648-021-09650-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Performance did not differ between static and dynamic visual designs for the low-span group (d = 0.09) or the high-span group (d = 0.03). [→ Tim Kühl 2022](#tim-kuhl-2022)

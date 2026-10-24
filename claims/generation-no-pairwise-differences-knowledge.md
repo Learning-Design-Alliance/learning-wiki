@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: john-duplice-2025
     resource: "https://doi.org/10.29140/vli.v14n1.102482"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post hoc pairwise analyses with Bonferroni correction found no significant treatment effects at pre-test (z = 0.44, p = 1.00), post-test 1 (z = –1.85, p = .972), or post-test 2 (z = –1.03, p = 1.00). [→ John Duplice 2025](#john-duplice-2025)

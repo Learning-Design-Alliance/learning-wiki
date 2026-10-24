@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: tanner-2025
     resource: "https://eric.ed.gov/?id=ED677573"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` LEA-level At-risk counts changed widely from 2022/23 to 2023/24: Washoe lost over a third of its 5,057 At-risk students, Douglas lost close to half of 171, and Lincoln gained nearly two-thirds of 43; in small districts, mobility and program eligibility drove more change than GRAD scores. [→ Tanner 2025](#tanner-2025)

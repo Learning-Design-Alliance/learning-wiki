@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: paiheng-xu-2024
     resource: "https://aclanthology.org/volumes/2024.naacl-long/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Preliminary analysis shows the relevant utterances retrieved by ChatGPT as a zero-shot summarization model are not helpful; it falsely identified leading questions as relevant to REMED regardless of whether they addressed student errors at a conceptual level. [→ Paiheng Xu 2024](#paiheng-xu-2024)

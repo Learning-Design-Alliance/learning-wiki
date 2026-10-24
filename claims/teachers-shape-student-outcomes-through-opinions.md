@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: james-soland-2015
     resource: "https://doi.org/10.1177/0031721714561450"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teacher influence on students is driven in part by teacher opinions of each child, making educational analytics use riskier than industrial use. [→ James Soland 2015](#james-soland-2015)

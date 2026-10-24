@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: marie-line-bosse-2015
     resource: "https://doi.org/10.1111/j.1467-9817.2012.01551.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The whole-word presentation effect was significant and stable across third, fourth and fifth grades. [→ Marie-Line Bosse 2015](#marie-line-bosse-2015)

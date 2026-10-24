@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: laura-desiree-di-paolo-2026
     resource: "https://doi.org/10.1038/s44271-026-00522-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The goal gap is the misalignment between the aims implicitly promoted by current technologies — measurable outcomes, assessment efficiency, standardised achievement — and the broader developmental goals education is meant to serve, such as socialisation and individual agency. [→ Laura Desiree Di Paolo 2026](#laura-desiree-di-paolo-2026)

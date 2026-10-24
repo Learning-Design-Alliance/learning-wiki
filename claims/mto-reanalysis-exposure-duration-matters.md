@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: roy-2014
     resource: "https://doi.org/10.1037/a0036984"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A reanalysis of Moving to Opportunity data found that positive program impacts on girls' mental health and behavior were related to length of time spent exposed to low-poverty neighborhoods. [→ Roy 2014](#roy-2014)

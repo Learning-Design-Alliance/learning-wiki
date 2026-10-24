@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: charlotte-dignath-marcel-v-j-veenman-2021
     resource: "https://doi.org/10.1007/s10648-020-09534-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Dignath and colleagues showed that teachers overestimated their SRL practice compared to observations and student ratings. [→ Charlotte Dignath & Marcel V. J. Veenman 2021](#charlotte-dignath-marcel-v-j-veenman-2021)

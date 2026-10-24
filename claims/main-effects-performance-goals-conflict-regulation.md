@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: sommet-2015
     resource: "https://doi.org/10.1037/a0037240"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across Studies 1 and 3, performance-approach goals showed a main positive effect on self-reported competitive regulation. [→ Sommet 2015](#sommet-2015)

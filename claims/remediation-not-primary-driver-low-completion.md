@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: thomas-j-kane-2021
     resource: "https://doi.org/10.1002/pam.22306"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Although alternatives to pre-requisite remediation produced modest gains for students and taxpayers, the authors conclude remediation requirements are not a primary driver of low degree completion rates. [→ Thomas J. Kane 2021](#thomas-j-kane-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: lucia-mason-2022
     resource: "https://doi.org/10.1007/s11251-022-09591-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` As a covariate, reading comprehension uniquely adjusted processing time (η²p = 0.036) and response length (η²p = 0.039), indicating better comprehenders were more engaged. [→ Lucia Mason 2022](#lucia-mason-2022)

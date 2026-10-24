@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: rashotte-findings
     title: rashotte-findings
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a randomized trial with 33 fifth- and sixth-grade students, the authors reported statistically significant positive effects on seven of eight alphabetics outcomes and on both reading fluency outcomes, with domain-average effect sizes of 1.03 (alphabetics) and 0.65 (fluency). [→ rashotte-findings](#rashotte-findings)

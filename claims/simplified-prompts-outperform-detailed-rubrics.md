@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: olga-manakina-2026
     resource: "https://doi.org/10.48550/arxiv.2608.23814"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The Multi-Step with Examples recipe without explicit rubrics achieved MAE 0.862 and QWK 0.566, outperforming its rubric-enhanced counterpart (MAE 0.965, QWK 0.485) while consuming fewer tokens. [→ Olga Manakina 2026](#olga-manakina-2026)

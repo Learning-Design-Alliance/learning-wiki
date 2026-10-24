@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-16
 sources:
   - id: breit-et-al-2025
     resource: "https://doi.org/10.1016/j.lindif.2024.102621"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i3` large · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
+> **Currency** · newest study 2025 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 Across 66 learner characteristics, the strongest correlates of mathematics achievement are knowledge and skills (verbal achievement, prior knowledge, reading, mathematics vocabulary) and cognitive abilities (intelligence, language, creativity, executive functions); personality, goals and emotions correlate less and more variably. These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

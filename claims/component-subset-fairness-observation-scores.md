@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: elias-walsh-2013
     resource: "https://www.mathematica.org/publications/classroom-observations-from-phase-2-of-the-pennsylvania-teacher-evaluation-pilot-assessing-internal-consistency-score-variation-and-relationships-with-value-added"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The report's findings suggest the fairness of overall scores might not be compromised substantially when principals use different sets of the 22 components. [→ Elias Walsh 2013](#elias-walsh-2013)

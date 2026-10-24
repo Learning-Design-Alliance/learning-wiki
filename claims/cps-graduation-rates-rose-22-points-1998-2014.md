@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: allensworth-2016
     resource: "https://www.cps.edu/SchoolData/Pages/SchoolData.aspx"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Graduation rates calculated by age cohort rose 22.4 percentage points between the 1998 and 2014 cohorts, with the largest yearly increases occurring after 2009. [→ Allensworth 2016](#allensworth-2016)

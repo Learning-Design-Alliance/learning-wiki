@@ -9,6 +9,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: espinoza-2018
     resource: "https://learningpolicyinstitute.org/product/long-view"
@@ -56,6 +59,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies (5 entries) · 3 review `r2`, 1 associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 5 of 5 entries) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 

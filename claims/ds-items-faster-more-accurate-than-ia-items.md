@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: linsen-2014
     resource: "https://doi.org/10.1016/j.actpsy.2013.10.008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A repeated measures ANOVA showed significantly higher accuracy and faster response times for DS-items than IA-items. [→ Linsen 2014](#linsen-2014)

@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: choo-esther-m-2026
     resource: "https://doi.org/10.1371/journal.pone.0358775"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Caregivers with MUAC tapes felt empowered to monitor their child's nutritional status and shared skills and advice with neighbors and friends. [→ Choo Esther M. 2026](#choo-esther-m-2026)

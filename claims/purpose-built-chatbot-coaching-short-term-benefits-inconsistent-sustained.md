@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: potel-2026
     resource: "https://doi.org/10.3390/bs16081431"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review finds purpose-built chatbot coaching is well received and supports short-term motivation and selected behavior change, while evidence for sustained, meaningful outcomes is inconsistent. [→ Potel 2026](#potel-2026)

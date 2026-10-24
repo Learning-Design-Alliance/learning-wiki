@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: rafael-ferreira-mello-2024
     resource: "https://doi.org/10.18608/jla.2024.8403"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across reviewed studies reporting metrics, mean performance reached 0.54 in kappa and 0.79 in accuracy. [→ Rafael Ferreira Mello 2024](#rafael-ferreira-mello-2024)

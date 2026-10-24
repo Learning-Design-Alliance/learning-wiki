@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: flegr-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101778"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Students' conceptual understanding improved significantly from pre-test to immediate post-test after guided inquiry learning with virtual and video experiments during remote schooling, with a large time effect. [→ Flegr 2023](#flegr-2023)

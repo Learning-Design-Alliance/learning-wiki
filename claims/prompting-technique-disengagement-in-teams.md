@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sehrish-basir-nizamani-2026
     resource: "https://doi.org/10.48550/arxiv.2606.30860"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The prompting-technique distribution differed significantly between contexts (Cramer's V = 0.324, medium effect); no-technique reports rose 22.4 percentage points to 29.7%. [→ Sehrish Basir Nizamani 2026](#sehrish-basir-nizamani-2026)

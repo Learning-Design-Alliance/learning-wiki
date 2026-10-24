@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1995
+source_checked: 2026-10-20
+recheck_by: 2000
 sources:
   - id: sebring-1995
     resource: "https://consortium.uchicago.edu/publications/charting-reform-asbury-school-results-student-and-teacher-surveys"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1995 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2000**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In top-quartile schools almost two-thirds of students report moderate or great parental support, while in bottom-quartile schools the largest group, about 45 percent, reports only limited support. [→ Sebring 1995](#sebring-1995)

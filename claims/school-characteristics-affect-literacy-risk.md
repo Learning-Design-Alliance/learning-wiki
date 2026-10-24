@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: lemke-2024
     resource: "https://eric.ed.gov/?id=ED663858"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in schools with above-average percentages of low income students, below-average teacher retention rates, and below-average student attendance have a higher likelihood of being identified as at significant risk. [→ Lemke 2024](#lemke-2024)

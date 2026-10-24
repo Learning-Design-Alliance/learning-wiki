@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: whitney-kozakowski-2023
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The study found no significant decline in school climate scores from pre-pandemic 2018/19 to 2021/22, suggesting no lasting negative pandemic effect in this sample. [→ Whitney Kozakowski 2023](#whitney-kozakowski-2023)

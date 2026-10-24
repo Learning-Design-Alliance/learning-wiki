@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: burić-2023
     title: Burić 2023
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In bifactor-(S-1) MSEM, the general sociability reference factor was positively related to classroom management (β = .167), student support (β = .123), and teacher enthusiasm (β = .099). [→ Burić 2023](#buric-2023)

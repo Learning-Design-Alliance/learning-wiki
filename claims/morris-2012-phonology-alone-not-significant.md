@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: jeffrey-s-bowers-2021
     resource: "https://doi.org/10.1007/s10648-021-09602-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The phonological intervention did not significantly improve any reading outcomes versus a no-instruction control (positive but nonsignificant g = 0.06 to 0.32). [→ Jeffrey S. Bowers 2021](#jeffrey-s-bowers-2021)

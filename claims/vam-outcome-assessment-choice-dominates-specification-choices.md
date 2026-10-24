@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: matthew-t-johnson-2015
     resource: "https://www.mathematica.org/publications/journal-article-sensitivity-of-teacher-valueadded-estimates-to-student-and-peer-control-variables"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Selecting the outcome assessment is more important than control-variable modeling choices for value-added estimates. [→ Matthew T. Johnson 2015](#matthew-t-johnson-2015)

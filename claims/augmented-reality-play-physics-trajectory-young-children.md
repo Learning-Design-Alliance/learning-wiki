@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9155-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the editors' summary of Enyedy et al., young children (6–8 years old) in a CSCL classroom combining computer support (augmented reality) and collaborative learning (socio-dramatic play) made significant progress along the trajectory from embodied cognition to explicit discourse about forces and motion. [→ Stahl 2012](#stahl-2012)

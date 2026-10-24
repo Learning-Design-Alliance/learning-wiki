@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: gisela-ariza-2024
     resource: "https://eric.ed.gov/?id=ED663795"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The chronic absenteeism rate for kindergarten English learners in California nearly tripled from 14.5 percent to 43.1 percent between 2018 and 2022, then declined gradually to 37.1 percent in 2022–23, affecting 53,655 multilingual learners. [→ Gisela Ariza 2024](#gisela-ariza-2024)

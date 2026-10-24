@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: strong
+newest_evidence: 2021
 sources:
   - id: li-2021
     resource: "https://doi.org/10.3102/0034654320979160"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across 68 studies and 278 effect sizes (N = 57,798), school discipline shows a small-to-medium positive association with student self-control (r = .190). [→ Li 2021](#li-2021)

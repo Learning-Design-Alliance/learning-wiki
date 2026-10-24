@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-17
 sources:
   - id: kuo-m-2019
     title: Kuo M 2019
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A window view of vegetation from a high school classroom yields systematic decreases in heart rate and self-reported stress, whereas built views do not. [→ Kuo M 2019](#kuo-m-2019)

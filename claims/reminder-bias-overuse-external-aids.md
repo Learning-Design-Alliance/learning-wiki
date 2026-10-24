@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yufei-guo-qun-ye-2026
     resource: "https://doi.org/10.1057/s41599-026-06621-5"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In optimal offloading paradigms, individuals typically use more reminders than necessary compared to the optimal level, even when incentives are introduced. [→ Yufei Guo & Qun Ye 2026](#yufei-guo-qun-ye-2026)

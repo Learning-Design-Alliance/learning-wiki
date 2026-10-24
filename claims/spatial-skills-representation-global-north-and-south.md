@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bobrowicz-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102308"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Representation of spatial skills in early childhood curricula was diverse and widespread around the world, in both the Global North and the Global South. [→ Bobrowicz 2026](#bobrowicz-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: m-said-doğru-emily-k-faulconer-2026
     resource: "https://doi.org/10.1007/s11165-025-10271-z"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` All ChatGPT responses to the eight laboratory questions scored at or above the neutral point of a 7-point Likert accuracy scale, but none reached the strongest ratings of 6 or 7. [→ M. Said Doğru & Emily K. Faulconer 2026](#m-said-dogru-emily-k-faulconer-2026)

@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: mnemonic-instruction-improves-recall-for-students-with-disabilities
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: scruggs-and-mastropieri-2000
     resource: "https://doi.org/10.1023/A:1016640214368"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3` · `i3` large
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 Mnemonic instruction — keyword, acrostic, and letter-strategy techniques that link new content to familiar, easily retrieved cues — improves recall of factual material for students with mild disabilities and other struggling learners.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: janssen-2023
     resource: "https://doi.org/10.1007/s10648-023-09797-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Blocked-study students perceived the study phase as less effortful (d = -1.05) and made higher concurrent judgments of learning (d = 1.03) than interleaved-study students. [→ Janssen 2023](#janssen-2023)

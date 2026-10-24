@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experimental studies find cognitive improvements through brain games in areas including executive functioning, processing speed, planning, memory, verbal fluency, and reasoning, but do not detect improvements compared to control tasks. [→ Kurt Squire 2023](#kurt-squire-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-18
 sources:
   - id: arnold-2012
     resource: "https://doi.org/10.1016/j.ecresq.2011.12.009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teacher-rated attention problems were associated with both lower preliteracy and lower language scores controlling for aggression and social skills. [→ Arnold 2012](#arnold-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 1998
+recheck_by: 2003
 sources:
   - id: wolters-1998
     resource: "https://doi.org/10.1023/a:1003035929216"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Test anxiety showed main effects of subject area and gender plus a gender by subject area interaction. [→ Wolters 1998](#wolters-1998)

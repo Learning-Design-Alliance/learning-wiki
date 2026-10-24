@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: darcy-2018
     resource: "https://doi.org/10.5070/b5.35963"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the survey, more than half of teacher responses (56%) about reasons preventing pronunciation improvement concerned the amount and effectiveness of instruction, practice, and interaction, while another 40% blamed the learner. [→ Darcy 2018](#darcy-2018)

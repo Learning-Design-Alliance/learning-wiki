@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: boal-2025
     resource: "https://ies.ed.gov/ncee/rel/Products/RWR/Publication/108318"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` After controlling for school characteristics, a higher percentage of students in foster care was statistically significantly associated with a higher likelihood of being in a higher implementation group; most other school characteristics did not vary by implementation level. [→ Boal 2025](#boal-2025)

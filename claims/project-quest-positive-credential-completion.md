@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2021
 sources:
   - id: project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/723"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Two RCTs meeting WWC standards without reservations showed a positive, statistically significant effect of Project QUEST on industry-recognized credential, certificate, or license completion. [→ Project QUEST (Quality Employment through Skills Training) Intervention Report | Postsecondary Career and Technical Education Topic Area 2021](#project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021)

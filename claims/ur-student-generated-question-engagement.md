@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: fischer-2021
     resource: "https://doi.org/10.14434/josotl.v21i1.30564"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A student who generated the research question is apt to be more invested in the outcome of the research and more engaged with the overall experience. [→ Fischer 2021](#fischer-2021)

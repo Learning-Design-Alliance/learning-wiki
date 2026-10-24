@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: goetz-2023
     resource: "https://osf.io/ftr4g/?view_only=beac4ca87987492294aeac4a1bb96c86"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both trait and state test boredom correlate significantly and positively with overchallenge and underchallenge, and negatively with intrinsic and extrinsic value. [→ Goetz 2023](#goetz-2023)

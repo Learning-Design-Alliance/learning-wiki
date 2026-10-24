@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: liu-yj-2026
     resource: "https://doi.org/10.1186/s12909-026-09608-7"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 51.72% of students cited generated content requiring substantial modification as the main challenge, and 75.86% simultaneously selected personal tutor, creative partner, and critical thinking partner as AI's ideal roles. [→ Liu YJ 2026](#liu-yj-2026)

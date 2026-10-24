@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: gutiérrez-palma-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102273"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In both samples, the group-by-time interaction for stress awareness showed larger effect sizes in the two groups in which rhythm was trained. [→ Gutiérrez-Palma 2026](#gutierrez-palma-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lin-j-and-al-hada-nm-2026
     title: Lin J and Al-Hada NM 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that AI-assisted students achieved higher academic scores than peers using traditional resources, and a meta-analysis of 56 experimental studies reported a moderate positive short-term effect on creative thinking (SMD = 0.54), but these outcome measures capture product quality rather than durable transfer. [→ Lin J and Al-Hada NM 2026](#lin-j-and-al-hada-nm-2026)

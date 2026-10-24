@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: gehlbach-2021
     resource: "https://osf.io/suhvj/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Focal students of treatment teachers did not report significantly less negative teacher-student relationships than focal students of control teachers (d = -0.45, 95% CI -0.98 to 0.11). [→ Gehlbach 2021](#gehlbach-2021)

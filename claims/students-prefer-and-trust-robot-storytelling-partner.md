@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ka-yan-fung-2025
     resource: "https://doi.org/10.48550/arxiv.2601.01218"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Interview and observation data suggest students preferred robot-assisted storytelling over traditional methods and that a student reluctant to speak to the instructor readily answered the robot's questions. [→ Ka Yan Fung 2025](#ka-yan-fung-2025)

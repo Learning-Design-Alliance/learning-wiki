@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: peretz-2023
     resource: "https://doi.org/10.1007/s11251-023-09625-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The online learning process effectively enhanced systems thinking and modeling skills of all learners, including those with no relevant background. [→ Peretz 2023](#peretz-2023)

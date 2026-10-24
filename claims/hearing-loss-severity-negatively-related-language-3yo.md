@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: ching-teresa-y-c-2010
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094718/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Better hearing was associated with better speech and language development at 3 years of age. [→ Ching Teresa Y. C. 2010](#ching-teresa-y-c-2010)

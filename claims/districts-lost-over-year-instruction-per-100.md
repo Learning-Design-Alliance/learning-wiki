@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: losen-2020
     resource: "https://eric.ed.gov/?id=ED608537"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Several large districts exceeded 182 days lost per 100 students, including Grand Rapids, MI (416), Richmond City, VA (352), and Buffalo City, NY (320). [→ Losen 2020](#losen-2020)

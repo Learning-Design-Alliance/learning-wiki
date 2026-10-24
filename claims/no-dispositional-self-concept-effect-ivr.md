@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: lisa-hasenbein-2024
     resource: "https://doi.org/10.1007/s11251-023-09646-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Differences in dispositional self-concept across hand-raising conditions were not statistically significant, including the extreme contrast (β = −0.01, p = 0.894). [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: hughes-2018
     resource: "https://doi.org/10.1037/edu0000243"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No moderator effects of household highest education level were found on either the dropout-versus-graduation contrast or the GED-versus-graduation contrast. [→ Hughes 2018](#hughes-2018)

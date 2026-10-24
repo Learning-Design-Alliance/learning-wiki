@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: sarah-herrera-2021
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The weighted effect size for language was significantly larger on researcher-developed measures than standardized ones (0.43 versus 0.12). [→ Sarah Herrera 2021](#sarah-herrera-2021)

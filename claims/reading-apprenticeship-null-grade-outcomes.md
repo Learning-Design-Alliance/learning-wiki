@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: what-works-clearinghouse-2010
     resource: "http://www.wested.org/ReadingApprenticeship"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study did not find statistically significant effects of Reading Apprenticeship® on the GRADE reading comprehension and vocabulary subtests for Cohort 1 students, nor on the GRADE vocabulary subtest for Cohort 2 students. [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)

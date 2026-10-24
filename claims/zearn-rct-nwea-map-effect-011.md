@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: zearn-math-evidence-review-2024
     resource: "https://zearn.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In a school-level RCT in a large urban Texas district, students in Zearn schools significantly outperformed control students on the NWEA MAP, with larger effects for students not proficient at baseline (+0.13). [→ Zearn Math evidence review 2024](#zearn-math-evidence-review-2024)

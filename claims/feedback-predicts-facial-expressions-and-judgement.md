@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: çini-2023
     resource: "https://doi.org/10.1007/s11409-023-09358-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Feedback significantly predicted facial expressions of sadness (b = -0.047, p < 0.01, R2 = 0.13) and neutrality (b = 0.28, p = 0.05, R2 = 0.18) and metacognitive judgement (b = 0.13, p < 0.05, R2 = 0.29). [→ Çini 2023](#cini-2023)

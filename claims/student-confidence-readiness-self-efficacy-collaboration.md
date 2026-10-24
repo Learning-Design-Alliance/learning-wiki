@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fekete-2026
     resource: "https://doi.org/10.53761/9fr5vw20"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction. [→ Fekete 2026](#fekete-2026)

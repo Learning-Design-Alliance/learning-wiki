@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-23
+recheck_by: 2015
 sources:
   - id: jacobse-2012
     resource: "https://doi.org/10.1007/s11409-012-9088-x"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2012 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` The think-aloud measure correlated r = .57 with word problem solving and explained 33 percent of variance in performance. [→ Jacobse 2012](#jacobse-2012)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: wijnia-2024
     resource: "https://doi.org/10.1007/s10648-024-09864-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 139 subsamples from 132 reports, problem-driven learning showed a small positive pooled effect on motivation (d = 0.498, 95% CI [0.354, 0.641]). [→ Wijnia 2024](#wijnia-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: van-der-sande-2023
     resource: "https://doi.org/10.1007/s10648-023-09719-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q4` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i0` For affirming motivations, the delayed-posttest effect was trivial (d = 0.19) and did not significantly differ from the immediate effect. [→ van der Sande 2023](#van-der-sande-2023)

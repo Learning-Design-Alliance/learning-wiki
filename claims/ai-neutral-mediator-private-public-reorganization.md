@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants distinguished two complementary functions of the AI mediator: private prompting surfaced implicit reasoning, and public reorganization made disciplinary positions easier to compare. [→ reorg-1](#reorg-1)

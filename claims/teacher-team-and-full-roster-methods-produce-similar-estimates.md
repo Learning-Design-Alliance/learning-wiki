@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-08
+recheck_by: 2020
 sources:
   - id: heinrich-hock-2017
     resource: "https://www.mathematica.org/publications/methods-for-accounting-for-co-teaching-in-value-added-models"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Empirical comparison shows the Teacher Team Method and the Full Roster Method produce similar estimates of teacher value added for co-taught students. [→ Heinrich Hock 2017](#heinrich-hock-2017)

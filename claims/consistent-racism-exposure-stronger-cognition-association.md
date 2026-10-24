@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: coogan-p-2020
     resource: "https://doi.org/10.1002/dad2.12067"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Among women who reported consistent levels of daily racism in both 1997 and 2009, those in the highest quartile had 4.18 times the odds of poor SCF compared to women consistently in the lowest quartile. [→ Coogan P 2020](#coogan-p-2020)

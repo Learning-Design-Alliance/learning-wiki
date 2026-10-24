@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: vidal-abarca-1998
     resource: "https://www.sciencedirect.com/science/article/abs/pii/S0959475297000200"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In recall, only coherence increased the percentage of idea units emphasized by topical expressions, and only linking increased the percentage recalled with additional information. [→ Vidal-Abarca 1998](#vidal-abarca-1998)

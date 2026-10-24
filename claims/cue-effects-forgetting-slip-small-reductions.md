@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: siddhartha-pradhan-2026
     resource: "https://doi.org/10.48550/arxiv.2605.23048"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The incongruent color condition showed a small reduction in forgetting rate (-0.012, 95% CrI [-0.023, -0.003]) and the congruent spacing condition a modest slip reduction (-0.030, 95% CrI [-0.059, -0.001]); most other forgetting and slip effects were weak or uncertain. [→ Siddhartha Pradhan 2026](#siddhartha-pradhan-2026)

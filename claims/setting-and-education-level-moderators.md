@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: adesope-2017
     resource: "https://doi.org/10.3102/0034654316689306"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Study setting did not moderate the effect, but educational level did: secondary students showed significantly higher effects than postsecondary students. [→ Adesope 2017](#adesope-2017)

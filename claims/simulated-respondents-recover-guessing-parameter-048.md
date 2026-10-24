@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: christopher-ormerod-and-youngkoung-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2608.10154"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The fine-tuned model recovers the guessing parameter at Pearson 0.48 (Qwen3.5-9B; 0.45 for 4B), where MathBERT reaches 0.25 and MetaMath 0.28, which the authors read as evidence the model captures genuine response behavior rather than surface stimulus features. [→ Christopher Ormerod and YoungKoung Kim 2026](#christopher-ormerod-and-youngkoung-kim-2026)

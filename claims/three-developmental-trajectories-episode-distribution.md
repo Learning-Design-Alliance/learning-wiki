@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: voicu-2026
     resource: "https://doi.org/10.61071/jdp.2665"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of 42 observed episodes, 15 were classified as AI-dependent, 16 as AI-enhanced, and 11 as AI-critical, corresponding to 35.71%, 38.10%, and 26.19% respectively. [→ Voicu 2026](#voicu-2026)

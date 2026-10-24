@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1996
 sources:
   - id: topping-1996
     resource: "https://doi.org/10.1007/BF00138870"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Much is already known about the effectiveness of some types of peer tutoring, and this knowledge merits wider dissemination to practitioners. [→ Topping 1996](#topping-1996)

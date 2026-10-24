@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: julia-a-gwynne-and-sarah-cashdollar-2018
     resource: "https://consortium.uchicago.edu/publications/changes-math-instruction-and-student-outcomes-implementation-common-core-state"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` By the early implementation period, improvements in all four instructional domains were significantly larger in extensive-PD schools than limited-PD schools, by about one-tenth of a standard deviation. [→ Julia A. Gwynne and Sarah Cashdollar 2018](#julia-a-gwynne-and-sarah-cashdollar-2018)

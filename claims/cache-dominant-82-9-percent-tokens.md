@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: anas-h-alzahrani-2026
     resource: "https://doi.org/10.48550/arxiv.2605.26870"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the strict May 1–May 25 trajectory subset (627 model-completed events), cache-read tokens represented 61,278,669 of 73,950,305 recorded tokens, a cache-dominance ratio of 0.829. [→ Anas H. Alzahrani 2026](#anas-h-alzahrani-2026)

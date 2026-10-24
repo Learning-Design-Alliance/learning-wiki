@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: pierre-dillenbourg-2008
     resource: "https://hal.science/hal-00692019"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A collaboration script disturbs the natural convergence of a team, increasing the intensity of interaction team members need to complete their collaborative task. [→ Pierre Dillenbourg 2008](#pierre-dillenbourg-2008)

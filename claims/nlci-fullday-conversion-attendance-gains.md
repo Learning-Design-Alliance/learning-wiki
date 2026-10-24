@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: ehrlich-2021
     resource: "https://consortium.uchicago.edu/publications/meeting-families-needs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the North Lawndale Cluster Initiative study, pre-k attendance at the four converting schools was about 4 percentage points higher than at propensity-weighted comparison schools in 2015-16 and 2016-17, about seven additional days of attendance; the difference was statistically significant in 2015-16, and in 2016-17 significant in some model specifications but only marginally significant in others. [→ Ehrlich 2021](#ehrlich-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: uchicago-consortium-on-school-research-2025
     resource: "https://consortium.uchicago.edu/events-and-resources"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Elementary students with a principal at the 84th versus 50th percentile of effectiveness showed about 2 months more learning in a year. [→ UChicago Consortium on School Research 2025](#uchicago-consortium-on-school-research-2025)

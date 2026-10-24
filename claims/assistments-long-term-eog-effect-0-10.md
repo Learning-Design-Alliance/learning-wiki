@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: feng-2024
     resource: "https://eric.ed.gov/?id=ED655721"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Intervention students scored 0.8 points higher than comparison students on the eighth-grade EOG math test, an effect size of 0.10 (Hedges's g), sustained one year after the program ended. [→ Feng 2024](#feng-2024)

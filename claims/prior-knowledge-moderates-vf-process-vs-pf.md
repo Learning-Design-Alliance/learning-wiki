@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-19
 sources:
   - id: christian-hartmann-2021
     resource: "https://doi.org/10.1007/s11251-020-09528-z"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Condition interacted with prior knowledge on conceptual knowledge (F(2, 166) = 3.13, p = 0.047); the moderation coefficient was b 3 = 0.34, p = 0.011. [→ Christian Hartmann 2021](#christian-hartmann-2021)

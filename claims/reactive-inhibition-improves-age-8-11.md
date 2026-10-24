@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: pas-p-2021
     resource: "https://doi.org/10.1016/j.dcn.2021.101012"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i3` Stop-signal reaction time decreased with age (r = −0.38) and inhibition accuracy improved with age, with no sex differences. [→ Pas P. 2021](#pas-p-2021)

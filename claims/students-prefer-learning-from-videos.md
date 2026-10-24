@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: lucia-mason-2022
     resource: "https://doi.org/10.1007/s11251-022-09591-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants' self-reported preference for learning from videos (M = 6.79) exceeded their preference for learning from digital texts (M = 4.31), with Cohen's d = 0.75. [→ Lucia Mason 2022](#lucia-mason-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: abdul-gafoor-k-2016
     resource: "https://ijepr.org/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Self-regulatory strategy training greatly enhanced students' self-regulatory judgments and math performance among fifth and sixth graders. [→ Abdul Gafoor. K. 2016](#abdul-gafoor-k-2016)

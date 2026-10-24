@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: brian-wright-2026
     resource: "https://doi.org/10.48550/arxiv.2609.25303"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Retrieval itself was largely successful: 43 of 45 topic-page questions (96%) retrieved a chunk from the question's actual source page in the top 5. [→ Brian Wright 2026](#brian-wright-2026)

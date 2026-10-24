@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: crosnoe-2010
     resource: "https://doi.org/10.1037/a0017762"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children in the low early skill group received more basic skills instruction and tended to be less close to and more conflicted with their teachers. [→ Crosnoe 2010](#crosnoe-2010)

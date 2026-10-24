@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: kailai-he-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21154"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Raters with relevant curriculum background preferred the personalised item over the non-personalised item 0.68 of the time for Biology and 0.69 for Chemistry, significant by sign test against 0.5. [→ Kailai He 2026](#kailai-he-2026)

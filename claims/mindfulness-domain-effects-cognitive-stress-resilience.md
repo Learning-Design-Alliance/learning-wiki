@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: charlotte-zenner-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.00603"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Between-group effect sizes by domain were cognitive performance g = 0.80, stress g = 0.39, and resilience g = 0.36 (all p < 0.05), while emotional problems (g = 0.19) and third person ratings (g = 0.25) were not significant. [→ Charlotte Zenner 2014](#charlotte-zenner-2014)

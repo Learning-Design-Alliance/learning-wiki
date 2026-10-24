@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: strong
+newest_evidence: 2026
 sources:
   - id: lecce-2026
     resource: "https://doi.org/10.1007/s10648-026-10185-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 33 cross-sectional studies and 89 effect sizes, ToM correlates positively with academic achievement, r = 0.32. [→ Lecce 2026](#lecce-2026)

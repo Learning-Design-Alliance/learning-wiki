@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: burr-2022
     resource: "https://eric.ed.gov/?id=ED655645"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Learning behaviors associated with the natural process of learning multiple languages can be similar to those associated with a disability, and can even represent the complex interaction of typical language development and disability. [→ Burr 2022](#burr-2022)

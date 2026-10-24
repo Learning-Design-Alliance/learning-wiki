@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: zhao-2016
     resource: "https://doi.org/10.64152/10125/66903"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Anxiety measured by the IVLAS was a significant positive predictor of incidental vocabulary acquisition (β = .21). [→ Zhao 2016](#zhao-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-18
 sources:
   - id: martínez-peláez-2025
     resource: "https://doi.org/10.3390/systems13111013"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The reviewed studies indicate LLMs help educators develop criteria and rubrics aligned with disciplinary learning outcomes and produce varied assessment items tailored to course objectives. [→ Martínez-Peláez 2025](#martinez-pelaez-2025)

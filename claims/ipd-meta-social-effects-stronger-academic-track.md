@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: strong
+newest_evidence: 2022
 sources:
   - id: fabian-wolff-jens-möller-2022
     resource: "https://doi.org/10.1007/s10648-022-09686-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Social comparison effects were stronger in academic track schools compared to nonacademic track schools. [→ Fabian Wolff · Jens Möller 2022](#fabian-wolff-jens-moller-2022)

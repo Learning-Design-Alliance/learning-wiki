@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: liu-yj-2026
     resource: "https://doi.org/10.1186/s12909-026-09608-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The AI-enhanced flipped classroom scored significantly higher than the flipped classroom on the comprehensive assessment and on pre-class preparation and PPT quality (p < 0.05), with no significant differences in in-class presentation performance or mastery of professional knowledge. [→ Liu YJ 2026](#liu-yj-2026)

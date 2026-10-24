@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: janssen-2010
     resource: "https://doi.org/10.1007/s11409-010-9061-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Neither information discussion (β=.123, p=.56) nor regulation of task-related activities (β=−.036, p=.87) significantly predicted group performance. [→ Janssen 2010](#janssen-2010)

@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A Mann-Whitney U test found no evidence of a quality difference between AI- and human-made slides (median 5.0 for both). [→ anchor-quality-rating](#anchor-quality-rating)

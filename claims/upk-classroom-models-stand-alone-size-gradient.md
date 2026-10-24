@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: wang-2024
     resource: "https://doi.org/10.54300/597.103"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Of California's 15,425 UPK classrooms in 2022–23, 46% were TK stand-alone, 33% were stand-alone CSPP/Head Start/other early learning classes, 18% were TK–kindergarten combination classes, and 2% were TK combinations with CSPP or locally funded preschool. [→ Wang 2024](#wang-2024)

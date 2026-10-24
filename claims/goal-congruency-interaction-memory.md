@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: moort-2022
     resource: "https://doi.org/10.1037/edu0000769"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Memory for congruent targets was stronger when reading for study than when reading for comprehension (OR = 1.59), but memory for incongruent targets did not differ as a function of reading goals. [→ Moort 2022](#moort-2022)

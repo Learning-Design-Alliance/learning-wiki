@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yi-zhang-julia-rayz-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` SWE-Bench-Verified is the clearest case where simplification is comparatively easier, especially for the general model, while LiveCodeBench is the most resistant setting for downward shifts. [→ Yi Zhang & Julia Rayz 2026](#yi-zhang-julia-rayz-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: colin-lescarret-2022
     resource: "https://doi.org/10.21203/rs.3.rs-1998147/v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No main effect of the instructional video on recognition scores (η²p=.001) and no association with choosing the researcher as most convincing (Cramer's V=.029). [→ Colin Lescarret 2022](#colin-lescarret-2022)

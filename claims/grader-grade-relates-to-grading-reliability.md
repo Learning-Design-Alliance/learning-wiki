@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-19
 sources:
   - id: chris-piech-2013
     resource: "https://arxiv.org/abs/1307.2579"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Graders that score higher on assignments have close to monotonically decreasing biases, but students with the best grades (+1.75 z-score) are not as accurate as students who do very well (+0.75 z-score, p = 0.04). [→ Chris Piech 2013](#chris-piech-2013)

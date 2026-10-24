@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: enghauser-2007
     resource: "https://doi.org/10.1080/07303084.2007.10598039"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research on the Feldenkrais method in dance teaching identified six ways to facilitate movement awareness, including comparing sensations of different movement initiations, repeating movement for clearer sensation, tactile feedback with a partner, and self-questioning. [→ Enghauser 2007](#enghauser-2007)

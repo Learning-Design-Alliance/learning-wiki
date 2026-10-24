@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-09
+recheck_by: 2018
 sources:
   - id: hulsey-2015
     resource: "https://www.mathematica.org/publications/promise-neighborhoods-case-studies-issue-brief"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Qualitative case studies of five Promise Neighborhoods sites revealed how grantees designed and implemented their programs, the services offered, and early successes and challenges. [→ Hulsey 2015](#hulsey-2015)

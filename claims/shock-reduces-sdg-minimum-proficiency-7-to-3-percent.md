@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: kaffenberger-2021
     resource: "https://doi.org/10.1016/j.ijedudev.2020.102326"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Modelling against the PISA-scale 400-point minimum-proficiency definition, the shocked cohort's SDG attainment drops from 7 percent to 3 percent by grade 10. [→ Kaffenberger 2021](#kaffenberger-2021)

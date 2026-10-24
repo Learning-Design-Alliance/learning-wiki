@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect of planning prompts on course completion was largest for students enrolled in traditional schools, indicating the treatment's benefit varied across learner subgroups. [→ Yeomans 2017](#yeomans-2017)

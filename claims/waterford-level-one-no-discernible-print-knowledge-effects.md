@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/541"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i1`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Across six print knowledge measures, the intervention showed no statistically significant or substantively important effects versus business-as-usual (domain average effect size 0.16, improvement index +7 percentile points). [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: stevens-2014
     resource: "https://consortium.uchicago.edu/publications/free-fail-or-track-college"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A student's high school GPA is by far the strongest predictor of college admission, persistence, and graduation, much more so than test scores such as the ACT and SAT. [→ Stevens 2014](#stevens-2014)

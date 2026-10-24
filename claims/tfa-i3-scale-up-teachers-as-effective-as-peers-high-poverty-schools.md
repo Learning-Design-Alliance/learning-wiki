@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: clark-2017
     resource: "https://www.mathematica.org/publications/impacts-of-the-teach-for-america-investing-in-innovation-scaleup"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On average, first- and second-year TFA corps members from the i3 scale-up were as effective as other teachers in the same high-poverty schools in both reading and math. [→ Clark 2017](#clark-2017)

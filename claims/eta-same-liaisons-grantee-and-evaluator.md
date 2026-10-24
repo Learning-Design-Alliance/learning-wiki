@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-18
 sources:
   - id: andrew-gothro-2022
     resource: "https://doi.org/10.1177/0193841x20911527"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In YARH and P3, liaisons worked with grantees who were developing interventions and planning or conducting evaluations at the same time, and the same liaisons provided ETA to both the grantee/service providing group and the local evaluator. [→ Andrew Gothro 2022](#andrew-gothro-2022)

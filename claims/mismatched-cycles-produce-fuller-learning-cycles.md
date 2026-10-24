@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: nummijoki-2018
     resource: "https://doi.org/10.1080/10508406.2017.1412970"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Mismatched encounters (Cases B and C) typically contained all or almost all seven learning actions, suggesting dynamic tension between parties pushes the learning effort further. [→ Nummijoki 2018](#nummijoki-2018)

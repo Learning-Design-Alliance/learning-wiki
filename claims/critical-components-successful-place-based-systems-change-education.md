@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: naihobe-gonzalez-2021
     resource: "https://www.mathematica.org/publications/key-findings-and-implications-from-a-literature-review-on-systems-change-in-education"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A literature review identifies critical components of successful place-based systems change in education. [→ Naihobe Gonzalez 2021](#naihobe-gonzalez-2021)

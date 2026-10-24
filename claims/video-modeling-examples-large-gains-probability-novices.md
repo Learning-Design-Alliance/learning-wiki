@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: vincent-hoogerheide-2016
     resource: "https://doi.org/10.1007/s11251-015-9360-y"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Learning scores improved massively from pretest to posttest after studying one video modeling example (no no-video control) (gp 2 = .807). [→ Vincent Hoogerheide 2016](#vincent-hoogerheide-2016)

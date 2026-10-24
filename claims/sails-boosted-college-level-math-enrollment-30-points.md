@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: thomas-j-kane-2021
     resource: "https://doi.org/10.1002/pam.22306"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Using a difference-in-difference design, completing SAILS increased college-level math enrollment among first-year community college students by nearly 30 percentage points. [→ Thomas J. Kane 2021](#thomas-j-kane-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: kevin-booker-2011
     resource: "https://www.mathematica.org/publications/the-effects-of-charter-high-schools-on-educational-attainment"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who attended a charter middle school and went on to attend a charter high school were 8 to 10 percentage points more likely to attend college than students who transitioned to a traditional public high school. [→ Kevin Booker 2011](#kevin-booker-2011)

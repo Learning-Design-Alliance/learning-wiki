@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: castro-2026
     resource: "https://doi.org/10.1007/s10648-026-10192-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 113 items (6.39% of all items) across 25 measures (58.14%) operationalize social and emotional skills in students' daily life at school. [→ Castro 2026](#castro-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: minsun-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2607.21257"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prompt-Based Constraint accounted for 184 of 423 observed policy–enforcement pair instances (43.5%), and a chi-square analysis showed policy themes and enforcement themes were not distributed independently (χ2(20) = 60.77, p < .001, Cramer's V = .190). [→ Minsun Kim 2026](#minsun-kim-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: bellon-e-2016
     title: Bellon E 2016
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors propose that inhibition may matter for arithmetic fact retrieval in children with mathematical disabilities but not in typically developing children, an interpretation consistent with mixed prior findings. [→ Bellon E 2016](#bellon-e-2016)

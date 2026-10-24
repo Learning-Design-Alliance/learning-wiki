@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-15
+recheck_by: 2030
 sources:
   - id: kudina-2025
     resource: "https://doi.org/10.48550/arxiv.2606.16626"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Asked what higher education institutions should do about LLMs, the largest group of responses (N=41) urged teaching responsible and ethical AI use to both teachers and students, and N=27 urged clear rules and guidelines. [→ Kudina 2025](#kudina-2025)

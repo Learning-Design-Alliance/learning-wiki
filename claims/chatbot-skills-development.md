@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: lasha-labadze-2023
     resource: "https://doi.org/10.1186/s41239-023-00426-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI chatbots aid enhancement of writing skills through syntactic and grammatical corrections, foster problem-solving via step-by-step solutions, and facilitate group discussions with real-time feedback. [→ Lasha Labadze 2023](#lasha-labadze-2023)

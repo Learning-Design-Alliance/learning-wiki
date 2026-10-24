@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: poletti-martina-2017
     resource: "https://doi.org/10.1038/nn.4622"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` With retinal stabilization, observers were faster at detecting targets at attended foveolar locations only 20′ (0.33°) from unattended ones, and the valid-invalid reaction-time difference did not differ from the parafoveal experiment (22 ms ± 5 ms vs 25 ms ± 10 ms, p=0.31). [→ Poletti Martina 2017](#poletti-martina-2017)

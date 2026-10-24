@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: michelle-s-peter-2019
     resource: "https://doi.org/10.1016/j.cogpsych.2019.101238"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Mean RTs correlated significantly between 19 and 25 months and between 19 and 31 months, but not between 25 and 31 months. [→ Michelle S. Peter 2019](#michelle-s-peter-2019)

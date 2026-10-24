@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: steven-wise-2021
     resource: "https://www.nwea.org/research/publication/six-insights-regarding-test-taking-disengagement/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Disengaged test taking has a distortive impact on both individual scores and aggregated scores. [→ Steven Wise 2021](#steven-wise-2021)

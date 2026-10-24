@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: dianne-a-vella-brodrick-krystyna-gilowska-2022
     resource: "https://doi.org/10.1007/s10648-022-09658-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using the Digit Letter Substitution test, van den Berg et al. found no significant effect of a living plants classroom wall, while van Dijk-Wesselius et al. reported a significant positive effect of a greened schoolyard. [→ Dianne A. Vella-Brodrick · Krystyna Gilowska 2022](#dianne-a-vella-brodrick-krystyna-gilowska-2022)

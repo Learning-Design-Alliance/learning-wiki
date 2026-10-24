@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: baier-2021
     resource: "https://doi.org/10.1007/s11251-021-09560-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The treatment group reported a higher theory-practice connection during the intervention than the comparison group, supporting the manipulation check (d = 0.42). [→ Baier 2021](#baier-2021)

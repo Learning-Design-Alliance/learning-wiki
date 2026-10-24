@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: reedy-2015
     resource: "http://www.kansasmtss.org/pdf/ex_eval/2015_KS_MTSS_Eval_Report.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Universal screening assessment data from a sample of schools at full implementation show average fall-to-spring gains in reading and math (except third-grade math), with the largest gains in kindergarten (Figure 2, 2013/2014). [→ Reedy 2015](#reedy-2015)

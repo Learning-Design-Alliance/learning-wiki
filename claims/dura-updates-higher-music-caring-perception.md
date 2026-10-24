@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: margaret-ellis-2026
     resource: "https://doi.org/10.48550/arxiv.2606.30908"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a comparison of MUSIC survey results between Fall 2024 and Fall 2025, students in the DURA-updated semester reported significantly higher perception of instructor Caring (p < .001), while other MUSIC scales were consistent. [→ Margaret Ellis 2026](#margaret-ellis-2026)

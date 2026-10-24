@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: cook-1913
     resource: "https://www.google.com/search?q=%22The+problem+of+sex+education%22+Cook+1913"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author argues the home cannot be relied upon to teach sex and that free literature, institutes and lectures cannot reach the masses, leaving the school as the only agency touching all children. [→ Cook 1913](#cook-1913)

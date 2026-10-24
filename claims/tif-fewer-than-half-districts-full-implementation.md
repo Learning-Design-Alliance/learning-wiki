@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: jeffrey-max-2014
     resource: "https://www.mathematica.org/publications/pay-for-performance-evaluating-the-teacher-incentive-fund"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fewer than half of districts implemented all four required components of TIF, indicating full implementation may be challenging. [→ Jeffrey Max 2014](#jeffrey-max-2014)

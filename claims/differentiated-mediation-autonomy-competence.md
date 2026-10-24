@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yu-s-2026
     title: Yu S 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` TBI had significant indirect effects on performance through autonomy (β = 0.035) and competence (β = 0.079) but not relatedness; OET had a significant indirect effect only through autonomy (β = 0.029). [→ Yu S 2026](#yu-s-2026)

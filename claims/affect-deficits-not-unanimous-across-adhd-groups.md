@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: miller-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950374/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The authors conclude that affect recognition deficits were not found unanimously in the ADHD groups, indicating deficits are not uniform across ADHD subtypes or symptom dimensions. [→ Miller 2011](#miller-2011)

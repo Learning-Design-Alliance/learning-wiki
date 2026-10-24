@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant overall differences in immediate performance were found between conditions at UofT, and topic-specific results showed no effects after correction. [→ uoft-immediate](#uoft-immediate)

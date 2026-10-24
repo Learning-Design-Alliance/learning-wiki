@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The relationships between socio-demographic and attributional variables and acceptance of peers differed depending on whether the target peer was described as having depression or ADHD. [→ ev-conclusions](#swords-2011)

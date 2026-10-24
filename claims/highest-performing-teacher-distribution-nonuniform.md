@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
+recheck_by: 2016
 sources:
   - id: steven-glazerman-and-jeffrey-max-2011
     resource: "http://ies.ed.gov/ncee/pubs/20114016/pdf/20114016.pdf"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Chi-square tests of independence reject a uniform distribution of highest-performing teachers across school quintiles for middle school math and ELA on both poverty and achievement groupings, and for elementary teachers only when schools are grouped by achievement quintile. [→ Steven Glazerman and Jeffrey Max 2011](#steven-glazerman-and-jeffrey-max-2011)

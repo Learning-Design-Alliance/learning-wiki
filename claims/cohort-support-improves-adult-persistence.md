@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-15
 sources:
   - id: deschryver-2015
     resource: "https://digitalpromise.dspacedirect.org/items/29f39d7d-87f2-4e1e-920e-0c1ce86035cc"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 <!-- title before 2026-10-15: Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners -->
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: what-works-clearinghouse-2009
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/211"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only one study of Headsprout Early Reading met WWC evidence standards, so the extent of evidence is small and the effectiveness rating is potentially positive rather than positive. [→ What Works Clearinghouse 2009](#what-works-clearinghouse-2009)

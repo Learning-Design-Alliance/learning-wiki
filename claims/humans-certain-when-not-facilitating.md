@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dimitris-tsirmpas-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28643"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For no-reinforcement judgments, humans are more certain than LLMs, and both humans and LLMs show high uncertainty for negative reinforcement. [→ Dimitris Tsirmpas 2026](#dimitris-tsirmpas-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: white-2025
     resource: "https://www.wested.org/support/californias-state-educator-workforce-collaborative/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 2023, half of all new California teaching credentials were issued to teachers on substandard credentials, an indicator of teacher shortages. [→ White 2025](#white-2025)

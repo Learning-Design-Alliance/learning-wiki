@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: todd-e-elder-and-darren-h-lubotsky-2009
     resource: "https://doi.org/10.3368/jhr.44.3.641"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Having older classmates boosts a child’s test scores. [→ Todd E. Elder and Darren H. Lubotsky 2009](#todd-e-elder-and-darren-h-lubotsky-2009)

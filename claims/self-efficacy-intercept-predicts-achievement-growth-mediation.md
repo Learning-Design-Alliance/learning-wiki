@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-19
 sources:
   - id: soland-2019
     resource: "https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ELL status has a significant negative indirect association with math growth via the self-efficacy intercept (-.233 x .153 = -.036, significant at the .01 level) and on reading growth (-.244 x .187 = -.046, also significant at the .01 level); these are computed indirect-effect coefficients, not printed effect size statistics. [→ Soland 2019](#soland-2019)

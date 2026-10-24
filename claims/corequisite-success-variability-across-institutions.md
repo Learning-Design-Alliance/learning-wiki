@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: strother-2019
     resource: "https://carnegiemathpathways.org/reports/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` At the two multi-section institutions, section-level standard deviations were 13 percent (Quantway, range 65–100 percent) and 19 percent (Statway, range 18–78 percent), slightly less than the between-institution standard deviation of 20 percent. [→ Strother 2019](#strother-2019)

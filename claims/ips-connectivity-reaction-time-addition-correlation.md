@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: rosenberg-lee-2014
     resource: "https://doi.org/10.1111/desc.12216"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ROI correlations revealed significant positive correlations between IPS connectivity and reaction time during addition in left supramarginal gyrus, anterior cingulate, right middle frontal and inferior frontal gyri, with no significant correlations during subtraction. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)

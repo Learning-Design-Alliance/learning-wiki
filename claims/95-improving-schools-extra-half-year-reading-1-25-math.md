@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
+recheck_by: 2009
 sources:
   - id: sebring-2006
     resource: "https://consortium.uchicago.edu/publications/essential-supports-school-improvement"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The study identified 95 schools showing substantial improvement in academic productivity in reading and mathematics. [→ Sebring 2006](#sebring-2006)

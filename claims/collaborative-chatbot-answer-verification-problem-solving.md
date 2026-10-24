@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: saif-alneyadi-and-yousef-wardat-2024
     resource: "https://doi.org/10.18178/ijiet.2024.14.3.2061"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students called the process of using the chatbot to solve a problem and evaluating its answer "quite insightful"; the authors argue that sharing and checking the chatbot's response in a group can help ensure its accuracy, encourage critical thinking, and deepen understanding of underlying concepts. [→ Saif Alneyadi and Yousef Wardat 2024](#saif-alneyadi-and-yousef-wardat-2024)

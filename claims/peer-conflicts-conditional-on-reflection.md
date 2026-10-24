@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 1997
 sources:
   - id: tao-1997
     resource: "https://eric.ed.gov/?id=ED406151"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Peer conflicts had impact on some students but not others, and some students achieved conceptual change without experiencing any peer conflicts at all. [→ Tao 1997](#tao-1997)

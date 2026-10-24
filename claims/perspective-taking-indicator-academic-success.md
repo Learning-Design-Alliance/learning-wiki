@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: greenberg-anastasia-2013
     resource: "https://doi.org/10.1016/j.cogdev.2012.10.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors argue that perspective-taking task performance has been used as an indicator of academic success and high academic potential. [→ Greenberg Anastasia 2013](#greenberg-anastasia-2013)

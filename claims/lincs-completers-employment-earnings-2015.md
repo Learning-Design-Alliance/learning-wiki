@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: nan-maxwell-2017
     resource: "https://www.mathematica.org/publications/outcomes-from-a-certification-program-for-early-career-professionals-in-supply-chain-management"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 82 percent of students in five LINCS consortium colleges in 2015 were employed within the three quarters after completing their first certification track course, with average quarterly earnings of nearly $7,400 (about $29,600 annually). [→ Nan Maxwell 2017](#nan-maxwell-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: pellicer-sánchez-2016
     resource: "https://doi.org/10.1017/S0272263115000224"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` For L2 readers, the decrease in gaze duration for target nonwords started to be significant from the third encounter (r = .47), and in number of fixations and total reading time from the fourth encounter (r = .42 and r = .53). [→ Pellicer-Sánchez 2016](#pellicer-sanchez-2016)

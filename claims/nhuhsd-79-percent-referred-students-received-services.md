@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: northern-humboldt-union-high-school-district-aligning-mental-health-initiatives-with-a-multi-tiered-system-of-supports-through-project-cal-well-2024
     resource: "https://eric.ed.gov/?id=ED655969"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Among 828 students referred to mental health services from NHUHSD schools between fall 2020 and December 2023, 79 percent received services from school-based or community-based providers. [→ Northern Humboldt Union High School District: Aligning Mental Health Initiatives With a Multi-Tiered System of Supports Through Project Cal-Well 2024](#northern-humboldt-union-high-school-district-aligning-mental-health-initiatives-with-a-multi-tiered-system-of-supports-through-project-cal-well-2024)

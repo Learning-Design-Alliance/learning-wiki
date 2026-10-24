@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: allensworth-2009
     resource: "https://doi.org/10.3102/0162373709343471"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in all but the high-ability group were considerably more likely to earn English I credit postpolicy, particularly lowest-ability students (increases of 12% to 36%), with marginal increases in failure rates for the two low-ability groups. [→ Allensworth 2009](#allensworth-2009)

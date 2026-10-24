@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 1975
+recheck_by: 1978
 sources:
   - id: rowe-1975
     resource: "https://doi.org/10.3102/00346543045002231"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 1975 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1978**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The recommendation to use the 16PF in selecting counselor trainees is premature given variation across 16PF studies and reliance on group data. [→ Rowe 1975](#rowe-1975)

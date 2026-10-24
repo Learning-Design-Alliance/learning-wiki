@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: omarchevska-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2021.1966633"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium · n=30 undergraduate students (23 female, Mage=23.33), 7 science majors / 23 non-science majors, Southern Germany
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Process-mining 30 undergraduates' think-aloud inquiry behavior, students independently classified as high vs. low in argumentation quality also differed sharply in how densely their scientific-reasoning and self-regulation process codes co-occurred, with low-quality students showing more frequent control-of-variables-strategy violations and less monitoring.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nicolas-rodriguez-alvarez-2026
     resource: "https://doi.org/10.48550/arxiv.2605.26010"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in Technology-oriented pathways reported the highest self-efficacy in active creation skills (M=3.43) versus the lowest in Arts and Humanities (M=3.04); an independent t-test confirmed the difference is highly statistically significant (p<0.001). [→ Nicolas Rodriguez-Alvarez 2026](#nicolas-rodriguez-alvarez-2026)

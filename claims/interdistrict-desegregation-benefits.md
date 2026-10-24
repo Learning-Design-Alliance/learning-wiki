@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: cookson-2018
     resource: "https://learningpolicyinstitute.org/product/tapestry-american-public-education"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In interdistrict desegregation programs with long-term data (Hartford, Milwaukee, St. Louis), benefits were found for achievement and graduation rates, stronger with longer participation. [→ Cookson 2018](#cookson-2018)

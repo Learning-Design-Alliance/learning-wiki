@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: michael-w-asher-paulo-f-carvalho-2026
     resource: "https://doi.org/10.1007/s10648-025-10103-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 1, both feedback conditions outperformed lecture on memory items by 17–18 percentage points (0.49 SD for explanatory feedback). [→ Michael W. Asher & Paulo F. Carvalho 2026](#michael-w-asher-paulo-f-carvalho-2026)

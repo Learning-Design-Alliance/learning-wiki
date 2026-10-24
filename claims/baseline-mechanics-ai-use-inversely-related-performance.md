@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shuang-geng-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28710"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 10 of 24 top-quartile students reported never using AI for mechanics at pre versus 3 of 22 bottom-quartile students, a cross-sectional pattern equally consistent with struggling students seeking help or heavier reliance displacing practice. [→ Shuang Geng 2026](#shuang-geng-2026)

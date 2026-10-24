@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: james-soland-2021
     resource: "https://doi.org/10.1111/bjep.12463"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For self-management, SEL growth between 6th and 8th grade adds predictive value for 9th-grade off-track status beyond the student's initial 6th-grade level on that construct. [→ James Soland 2021](#james-soland-2021)

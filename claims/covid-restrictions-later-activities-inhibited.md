@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: aridor-2023
     resource: "https://doi.org/10.1007/s11251-023-09626-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The pilot learning sequence was only partially implemented due to pandemic restrictions. [→ Aridor 2023](#aridor-2023)

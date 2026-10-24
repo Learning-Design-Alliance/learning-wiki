@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: schmidt-ftc-2020
     title: Schmidt FTC 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The simple slope of trait self-control on mGPA was significantly positive among individuals scoring higher than −1.5 SD below average on fluid reasoning; no such regions emerged for mathematics or physics. [→ Schmidt FTC 2020](#schmidt-ftc-2020)

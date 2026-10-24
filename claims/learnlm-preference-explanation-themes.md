@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: learnlm-team-2024
     resource: "https://doi.org/10.48550/arxiv.2412.16429"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In thematic analysis of role-played learners' preference explanations, explanations favoring LearnLM were more likely to contain the themes keeps_on_topic, challenges_learner, and gives_away_answers, while explanations favoring other models more often touched on clarity, info_amount, and conversation_style. [→ LearnLM Team 2024](#learnlm-team-2024)

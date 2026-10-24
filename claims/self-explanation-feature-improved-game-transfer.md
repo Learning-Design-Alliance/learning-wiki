@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: mayer-2014
     resource: "http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who played the base version of The Circuit Game plus prompts to self-explain each major decision performed better on solving transfer problems than students who played the base version alone. [→ Mayer 2014](#mayer-2014)

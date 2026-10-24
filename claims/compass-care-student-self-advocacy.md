@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: zimiles-2025
     resource: "https://eric.ed.gov/?id=ED677597"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students reported that Compass Care staff taught them the value of asking for help, empowering them to reach out to teachers and leaving them less fearful and anxious in school. [→ Zimiles 2025](#zimiles-2025)

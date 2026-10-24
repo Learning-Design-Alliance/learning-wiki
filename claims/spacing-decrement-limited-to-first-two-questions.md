@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-21
 sources:
   - id: keith-b-lyle-2022
     resource: "https://doi.org/10.1007/s10648-022-09677-2"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A significant timing × order interaction, F(2, 358) = 26.92, p < 0.001, ηp² = 0.131, superseded the main effect of question order. [→ Keith B. Lyle 2022](#keith-b-lyle-2022)

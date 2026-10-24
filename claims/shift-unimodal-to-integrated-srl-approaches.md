@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: susanne-de-mooij-2025
     resource: "https://doi.org/10.1007/s10648-025-10028-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percentage of studies using an integrated approach grew from 13.8% (2010–2016) to 28.4% (2017–2023), while unimodal approaches declined from 37.9% to 25.4%. [→ Susanne de Mooij 2025](#susanne-de-mooij-2025)

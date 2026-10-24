@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: constance-steinkuehler-2008
     resource: "https://doi.org/10.1007/s10956-008-9120-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` The authors found no relationship between a poster's character level and the quality or quantity of coded attributes, other than a very mild negative correlation (r = -0.08) between character level and social banter. [→ Constance Steinkuehler 2008](#constance-steinkuehler-2008)

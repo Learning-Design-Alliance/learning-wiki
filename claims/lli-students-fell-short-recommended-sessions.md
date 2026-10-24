@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: naihobe-gonzalez-2018
     resource: "https://www.mathematica.org/publications/leveled-literacy-intervention-for-secondary-students-results-from-a-randomized-controlled-trial"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Students experienced different levels of LLI duration and intensity, and most fell short of the recommended minimum number of sessions. [→ Naihobe Gonzalez 2018](#naihobe-gonzalez-2018)

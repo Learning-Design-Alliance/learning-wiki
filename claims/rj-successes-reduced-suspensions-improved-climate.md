@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: guckenburg-2015
     resource: "https://eric.ed.gov/?id=ED568378"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experts cite a reduction in student suspensions and expulsions as a significant success of RJ implementation, while noting this measure alone is not enough. [→ Guckenburg 2015](#guckenburg-2015)

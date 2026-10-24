@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: mahmoodarabi-2015
     resource: "https://doi.org/10.5539/elt.v8n6p100"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Pearson correlations showed significant positive relationships between teaching experience and each of the four factors, ranging from r = .20 (weak to moderate) to r = .45 (almost large). [→ Mahmoodarabi 2015](#mahmoodarabi-2015)

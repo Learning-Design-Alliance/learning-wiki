@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: verstegen-2006
     resource: "https://doi.org/10.1007/s11251-005-3346-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All eight novice designers iterated during the design task; iteration counts derived from tool logs ranged from 10 to 30 (average 18.6, SD 7.9). [→ Verstegen 2006](#verstegen-2006)

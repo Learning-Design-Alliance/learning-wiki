@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: törmänen-2025
     resource: "https://doi.org/10.1007/s10648-025-10036-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Makransky et al. (2019) found the immersive VR simulation increased self-efficacy and intrinsic motivation more than the conventional safety manual. [→ Törmänen 2025](#tormanen-2025)

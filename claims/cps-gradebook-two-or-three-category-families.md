@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: diaz-2021
     resource: "https://consortium.uchicago.edu/publications/CPS-gradebook-technical-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` About 80 percent of sections used two or three grading category families; the average number of families was 2.43 while the average number of unique titles was 3.78. [→ Diaz 2021](#diaz-2021)

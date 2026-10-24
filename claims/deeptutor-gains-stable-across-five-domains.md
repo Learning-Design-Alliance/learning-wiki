@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bingxi-zhao-2026
     resource: "https://doi.org/10.48550/arxiv.2604.26962"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Decomposition of DeepTutor's interactive performance by discipline shows overall quality varies by only 0.16 points across the five domains, with Source Faithfulness the most domain-sensitive metric. [→ Bingxi Zhao 2026](#bingxi-zhao-2026)

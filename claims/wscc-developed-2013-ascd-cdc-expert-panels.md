@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: lewallen-tc-2015
     resource: "https://doi.org/10.1111/josh.12310"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Through expert panel deliberations in spring 2013, ASCD and CDC developed the WSCC approach as a unified model building on CSH and the Whole Child approach. [→ Lewallen TC 2015](#lewallen-tc-2015)

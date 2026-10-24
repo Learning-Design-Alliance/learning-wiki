@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: derek-m-houston-2012
     resource: "https://doi.org/10.1111/j.1467-7687.2012.01140.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A K-means split of 20 CI children into early (7.6–13.6 months at switch-on) and late (16.0–21.4 months) groups showed a significant Stimulus Type × Implant Group interaction favoring the early group. [→ Derek M. Houston 2012](#derek-m-houston-2012)

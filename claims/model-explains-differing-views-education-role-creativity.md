@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: kupers-2019
     resource: "https://doi.org/10.3102/0034654318815707"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article's framework is applied to explain why differing views exist on the role of education in developing children's creativity. [→ Kupers 2019](#kupers-2019)

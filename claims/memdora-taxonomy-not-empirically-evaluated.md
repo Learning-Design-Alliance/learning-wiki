@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The efficacy of the 17 interaction types within Memdora, and in combination with FSRS-6 scheduling, has not been empirically evaluated; the design rationale is grounded in existing research only. [→ Ruiyang Zhang 2027](#ruiyang-zhang-2027)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: keith-b-lyle-2022
     resource: "https://doi.org/10.1007/s10648-022-09677-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students scored higher on the criterial test for spaced objectives (M = 0.77) than massed objectives (M = 0.71), a statistically significant difference with Hedges' gav = 0.32. [→ Keith B. Lyle 2022](#keith-b-lyle-2022)

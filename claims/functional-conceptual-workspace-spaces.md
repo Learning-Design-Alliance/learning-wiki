@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: nathan-dwyer-daniel-d-suthers-2006
     resource: "https://doi.org/10.1007/s11412-006-9001-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Every pair separated discussion text from conclusion text, and once spaces were designated participants resisted altering their purpose even when this became impractical. [→ Nathan Dwyer & Daniel D. Suthers 2006](#nathan-dwyer-daniel-d-suthers-2006)

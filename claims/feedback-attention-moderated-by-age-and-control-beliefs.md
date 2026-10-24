@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: soederberg-miller-2010
     resource: "https://doi.org/10.1080/03610730903418380"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant Feedback × Age × Control Beliefs interaction on attention to conceptual integration was driven by larger feedback effects among older adults with high control beliefs; older high-control adults receiving high-PFB allocated significantly more time to conceptual integration than those receiving low-PFB. [→ Soederberg Miller 2010](#soederberg-miller-2010)

@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In spring regressions, the specific dialogue act Conceptual Question - Mathematics significantly and negatively predicted the assignment 6 (n-gram language model) score. [→ reg-math-a6](#reg-math-a6)

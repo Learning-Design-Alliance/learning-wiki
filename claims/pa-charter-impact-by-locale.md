@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: center-for-research-on-education-outcomes-2019
     resource: "https://credo.stanford.edu/reports/item/charter-school-performance-in-pennsylvania-2/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Urban charter students post reading growth equivalent to 35 more days of learning and similar math growth; suburban students experience about 59 fewer days in reading and 83 fewer in math; town students about 124 fewer days in both subjects; rural students similar reading but 47 fewer days in math. [→ Center for Research on Education Outcomes 2019](#center-for-research-on-education-outcomes-2019)

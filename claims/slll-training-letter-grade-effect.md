@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: matthew-l-bernacki-2023
     resource: "https://doi.org/10.1007/s11409-023-09356-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In the prior randomized study (Bernacki et al., 2020), training completers outperformed comparison students on subsequent exams, an effect of about 1/3 of a letter grade (d ~ 0.3). [→ Matthew L. Bernacki 2023](#matthew-l-bernacki-2023)

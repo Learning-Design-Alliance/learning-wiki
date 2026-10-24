@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: peppler-et-al-2025
     resource: "https://doi.org/10.1080/07370008.2025.2485070"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2` · n=3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 Three youth engaging in knitting, crochet, and fabric pleating each engaged with multiplicative proportional relationships specific to their craft's material structure — gauge in knitting, sector growth in crochet, and hidden-layer ratios in pleating — with material properties (tension, needle size, fabric spring-back) actively shaping what unit each child defined and discovered.
 

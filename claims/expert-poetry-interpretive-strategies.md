@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 1998
+source_checked: 2026-10-20
 sources:
   - id: peskin-1998
     resource: "https://doi.org/10.1207/s1532690xci1603_1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1998 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experts used structure, rhythm, word play and rhyme scheme as cues and scanned to contextualize; only two novices even looked at the rhyme scheme, and only on one poem. [→ Peskin 1998](#peskin-1998)

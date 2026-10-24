@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: stefanie-golke-2022
     resource: "https://doi.org/10.1007/s10648-022-09687-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The statistically significant learner characteristics explained a moderate amount of variance in prediction bias (17% and 14%) and a small amount in postdiction bias (11% and 12%). [→ Stefanie Golke 2022](#stefanie-golke-2022)

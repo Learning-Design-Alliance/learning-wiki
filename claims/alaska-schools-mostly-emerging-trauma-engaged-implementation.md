@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: boal-2025
     resource: "https://ies.ed.gov/ncee/rel/Products/RWR/Publication/108318"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 271 Alaska schools surveyed in fall 2022, 63 percent fell in the emerging implementation level, 21 percent in limited, and 16 percent in high implementation. [→ Boal 2025](#boal-2025)

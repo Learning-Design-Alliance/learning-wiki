@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: mulvihill-2025
     resource: "https://doi.org/10.1007/s11409-025-09433-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis of 23 self-knowledge items yielded a two-factor solution (20 retained items) explaining 47.9% of variance, with meta-attention control accounting for 37% and monitoring 10.9%. [→ Mulvihill 2025](#mulvihill-2025)

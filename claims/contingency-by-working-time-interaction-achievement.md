@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: van-de-pol-2015
     resource: "https://doi.org/10.1007/s11251-015-9351-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The three-way interaction between occasion, contingency and independent working time on multiple-choice scores was significant when task effort was included as a covariate. [→ van de Pol 2015](#van-de-pol-2015)

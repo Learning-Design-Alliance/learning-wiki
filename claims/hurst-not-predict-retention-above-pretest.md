@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: erica-l-snow-2016
     resource: "https://doi.org/10.1007/s40593-015-0085-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' Hurst exponent did not significantly predict retention self-explanation quality over and above pretest self-explanation quality (R² = .27, F(1,37) = 2.70, p = .10). [→ Erica L. Snow 2016](#erica-l-snow-2016)

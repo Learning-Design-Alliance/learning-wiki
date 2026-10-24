@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: esse-ciego-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28203"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 68% of 170 students disagreed they would prefer AI videos over instructor or course staff recordings, and 62% disagreed they would trust AI video information as much as human-presented information. [→ Esse Ciego 2026](#esse-ciego-2026)

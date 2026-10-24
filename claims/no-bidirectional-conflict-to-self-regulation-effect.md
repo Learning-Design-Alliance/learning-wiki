@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: portilla-ximena-a-2014
     resource: "https://doi.org/10.1111/cdev.12259"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After controlling for stability and within-time covariation, conflict with teachers did not predict later increases in inattention and impulsive behaviors across kindergarten or into first grade. [→ Portilla Ximena A. 2014](#portilla-ximena-a-2014)

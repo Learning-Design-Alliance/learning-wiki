@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: cooper-2010
     resource: "https://doi.org/10.1080/10790195.2010.10850328"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There is usually no significant difference in course performance between students who visited the TC and those who did not; in the few significant cases, visitors performed worse. [→ Cooper 2010](#cooper-2010)

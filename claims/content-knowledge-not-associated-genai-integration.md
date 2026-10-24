@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sutedjo-a-2026
     title: Sutedjo A 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` CK correlations with TK, TPK, TCK, and TPACK were r = .11–.15 and did not reach statistical significance (p > .05). [→ Sutedjo A 2026](#sutedjo-a-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: megan-kuhfeld-2019
     resource: "https://www.nwea.org/research/publication/measuring-social-emotional-learning-the-tradeoff-between-measuring-narrower-skills-versus-broad-competencies/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` SEL measurement presents a tradeoff between capturing narrower discrete skills and capturing broader competencies, and new research can inform how this tradeoff is navigated. [→ Megan Kuhfeld 2019](#megan-kuhfeld-2019)

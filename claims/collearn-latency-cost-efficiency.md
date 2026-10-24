@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kailai-he-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21154"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Measured on the live backend, short-answer rounds cost ≈32 s and ≈$0.015 each, while multiple-choice rounds take ≈7.6 s and ≈$0.005 because only next-item generation calls the LLM. [→ Kailai He 2026](#kailai-he-2026)

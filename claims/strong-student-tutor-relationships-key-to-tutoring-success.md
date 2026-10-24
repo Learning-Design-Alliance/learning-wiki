@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: kate-place-2023
     resource: "https://www.mathematica.org/publications/testing-new-approaches-to-math-tutoring-lessons-from-eight-evaluations"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In programs with high attendance and positive effects on learning, a large share of students reported strong relationships and a sense of belonging in their tutoring sessions. [→ Kate Place 2023](#kate-place-2023)

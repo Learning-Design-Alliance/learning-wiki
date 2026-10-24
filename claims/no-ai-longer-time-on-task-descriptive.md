@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bergh-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21194"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Descriptively, No AI participants spent M=24.1 minutes on the assessment versus M=16.4 for AI-Assisted participants, working nearly twice as long on Task 3; no confirmatory statistical comparisons were conducted. [→ Bergh 2026](#bergh-2026)

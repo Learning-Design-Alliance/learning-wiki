@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: margaret-e-raymond-2022
     resource: "https://credo.stanford.edu/city-studies/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Black students in charter schools in cities such as Denver, Indianapolis, Kansas City, and San Antonio show stronger performance trends than Black students citywide; in most cities Hispanic charter students perform better than Hispanic students in the state and show stronger growth than Hispanic students citywide; charter students in poverty tend to perform better than students in poverty statewide, with stronger growth than citywide peers in poverty reported for Indianapolis and Kansas City and upward trends in San Antonio and St. Louis. [→ Margaret E. Raymond 2022](#margaret-e-raymond-2022)

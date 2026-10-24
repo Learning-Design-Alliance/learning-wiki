@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` At least one client without a technical background reported feeling overwhelmed by the number of tools and steps involved in building a website and expressed a need for more foundational scaffolding, and survey data documented a subset of students (3) who reject AI in their education or feel the overhead of prompting outweighs potential benefits. [→ boundary-1](#boundary-1)

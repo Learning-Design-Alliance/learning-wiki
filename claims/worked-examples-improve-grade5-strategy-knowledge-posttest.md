@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: hänze-2022
     resource: "https://doi.org/10.1007/s11251-022-09583-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Fifth graders in the worked example conditions showed better modeling-specific strategy knowledge than control students at posttest (part. η² = .06). [→ Hänze 2022](#hanze-2022)

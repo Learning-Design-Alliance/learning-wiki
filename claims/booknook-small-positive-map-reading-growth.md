@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: booknook-evidence-rating-strong-2023
     resource: "https://www.booknook.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In a cluster-randomized study across six Rocketship public charter schools, cohorts assigned to BookNook demonstrated significantly more reading growth than the control group on the NWEA MAP after 12 weeks (ES = +0.05). [→ BookNook: Evidence Rating Strong 2023](#booknook-evidence-rating-strong-2023)

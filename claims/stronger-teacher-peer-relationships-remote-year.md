@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: gwynne-2024
     resource: "https://www.cps.edu/about/district-data/metrics/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` From 2019 to 2021, high school students' reports of Academic Personalism, Student-Teacher Trust, and Peer Relationships improved by 0.13, 0.17, and 0.30 s.d., reaching levels 0.40 s.d. above 2011; middle-grade trust and peer relationships improved by 0.07 and 0.17 s.d. [→ Gwynne 2024](#gwynne-2024)

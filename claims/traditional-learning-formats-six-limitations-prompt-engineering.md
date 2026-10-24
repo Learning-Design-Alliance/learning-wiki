@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: rohit-mehra-2026
     resource: "https://doi.org/10.48550/arxiv.2607.06074"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors posit six limitations of traditional formats: lack of context, one-size-fits-all calibration, inherently interactive practice, rapid content obsolescence, tacit experiential expertise, and delayed and generic feedback. [→ Rohit Mehra 2026](#rohit-mehra-2026)

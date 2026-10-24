@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: truong-2025
     resource: "https://doi.org/10.22521/edupij.2025.19.605"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceptions of leadership competencies differed significantly across positional groups (p < 0.05 for all criteria), with university leaders most positive (means ≈ 4.1-4.2) and lecturers/staff lowest (≈ 3.6-3.8); the largest divergence was on strategic vision (p = 0.002). [→ Truong 2025](#truong-2025)

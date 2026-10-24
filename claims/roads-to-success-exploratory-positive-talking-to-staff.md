@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: duncan-chaplin-2010
     resource: "https://www.mathematica.org/publications/roads-to-success-estimated-impacts-of-an-education-and-career-planning-program-during-middle-school"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exploratory analyses suggest a positive impact on talking to school staff about career/school plans. [→ Duncan Chaplin 2010](#duncan-chaplin-2010)

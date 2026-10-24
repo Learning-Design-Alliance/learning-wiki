@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: vescio-2025
     resource: "https://doi.org/10.1080/10508406.2025.2481844"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1` · `i0` negligible · n=4 children (kindergarten/first-grade)
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 When young children watch and interpret video of their own collaborative mathematical play, they surface sophisticated mathematical reasoning (debating definitions, noticing mathematical uniqueness) alongside social and affective dimensions of the experience (care for peers, aesthetics, fun) that a content-only lens on the same play would miss.
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ngoc-luyen-le-2026
     resource: "https://doi.org/10.48550/arxiv.2608.17618"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Full-scale IP evaluation produces 127,972 scored plans with model validity and SHACL conformance both at 1.0, a mean of 1.075 actions, and mean total cost 10.357. [→ Ngoc Luyen Le 2026](#ngoc-luyen-le-2026)

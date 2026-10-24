@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022
     resource: "https://doi.org/10.1007/s11412-022-09380-y"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` With a support value of 0.6, 370 subsequences were generated, of which 274 included confusion; the ten longest (Table 4) consisted of many manifestations of joy and a few of curiosity or confusion. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022)

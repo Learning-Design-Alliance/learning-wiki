@@ -5,6 +5,31 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-24 (later) — claims say how current they are
+
+- **Prompted by the wiki's first outside feedback**: an agent quoting a learning-design claim with no owner
+  and no review date presents it as settled. The commenter proposed an expiry date; the maintainer agreed
+  agents need to know how stale a claim is, but "there is no expiry for research". So nothing expires.
+- **`scripts/add_currency.py`** gives each claim three frontmatter fields and a `> **Currency** ·` header
+  line under the evidence line: the newest study's year (`newest_evidence`), the date the load-bearing
+  judge last found every entry faithful to its source (`source_checked`), and, only for the kinds whose
+  findings age quickly (tool and model accuracy, local and general context), a `recheck_by` year: the
+  newest study plus 3, 3 or 5 years. The line also says no person has reviewed the page, which was true of
+  every page and visible only in the collapsed metadata panel.
+- **At the first run**: 26,982 claims. 4,852 have every entry checked against its source, 124 some; 677
+  rest on nothing newer than the 1920s (mostly this sweep's early *JEP* volumes); 5,711 carry a recheck
+  year and 2,571 of those are already past it.
+- **Agents see it where they read.** `wiki-index.json` carries the three fields (additive); the MCP
+  server's search and fetch results return `currency` with `overdue` derived, and its instructions say
+  what to do: still use the claim, state its age and whether it was checked, do not present it as
+  settled, prefer a newer claim on the same question.
+- **Not `verified:`.** Recording the judge as machine-confirmed `verified:` entries was considered and
+  dropped: `dump_frontmatter` cannot write a list of mappings, so the next rewrite of a page would have
+  corrupted it, and `verified` answers whether someone confirmed the page, not when its sources were last
+  compared. The trust tier is unchanged.
+- **Runs in every batch** after the judge, then the indexes. `--overdue` lists the claims past due; feeding
+  them to the synthesis search (`find_page_syntheses.py`, `chase_citations.py`) is the next step.
+
 ## 2026-10-24 — evidence cells sharded by claim-slug prefix
 
 - **`eval/runs/evidence-axes/cells.ndjson` split into `cells/<prefix>.ndjson`**, one shard per first two

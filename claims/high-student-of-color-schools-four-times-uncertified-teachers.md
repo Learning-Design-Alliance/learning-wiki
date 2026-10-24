@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: cardichon-2020
     resource: "https://learningpolicyinstitute.org/product/crdc-teacher-access"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Schools in the top quintile of student of color enrollment were four times as likely to employ uncertified teachers in 2016 as schools in the bottom quintile, and the gap grew from 2014 to 2016. [→ Cardichon 2020](#cardichon-2020)

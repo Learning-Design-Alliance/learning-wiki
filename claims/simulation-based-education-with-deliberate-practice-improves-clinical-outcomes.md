@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: simulation-based-education-with-deliberate-practice-improves-clinical-outcomes
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: mcgaghie-et-al-2011
     resource: "https://doi.org/10.1097/acm.0b013e318217e119"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large · n=14 studies
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 Simulation-based education that incorporates deliberate practice — repeated, goal-directed rehearsal with immediate feedback and increasing difficulty — improves clinical skill performance and, in some domains, patient-level outcomes.
 

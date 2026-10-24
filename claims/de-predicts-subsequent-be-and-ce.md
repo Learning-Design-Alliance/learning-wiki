@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rogat-2026
     resource: "https://doi.org/10.1007/s11251-025-09772-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` DE at time t-1 was associated with increases in BE (standardized coefficient 0.25) and CE (0.30) at the next rating occasion, and DE showed the largest autocorrelation (0.36), with credible intervals exceeding zero in 24 of 28 groups for the DE autocorrelation. [→ Rogat 2026](#rogat-2026)

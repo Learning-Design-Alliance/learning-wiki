@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: cowan-nelson-2014
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207727/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When the array contained 3 more-relevant and 3 less-relevant items rather than 2 of each, young children were no longer able to allocate more attention to the more-relevant items. [→ Cowan Nelson 2014](#cowan-nelson-2014)

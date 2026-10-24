@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026
     resource: "https://doi.org/10.1007/s11412-026-09470-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Prompt counts did not differ significantly between text reconstructors (M = 9.11, SD = 4.91) and text integrators (M = 7.61, SD = 4.08), t(119) = −1.84, p = 0.069. [→ Teresa Luther · Kate Belcher · Joachim Kimmerle · Detmar Meurers · Ulrike Cress 2026](#teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026)

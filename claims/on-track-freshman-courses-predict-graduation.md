@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: stevens-2014
     resource: "https://consortium.uchicago.edu/publications/free-fail-or-track-college"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who earned at least five academic credits and had no more than one semester F in a core course in ninth grade were almost four times more likely to graduate than students who did not meet these criteria. [→ Stevens 2014](#stevens-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: belland-brian-r-2017
     resource: "https://doi.org/10.3102/0034654317723009"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Computer-based scaffolding leads to consistently strong pre–post effect sizes of at least 0.74 across concept-, principles-, and application-level assessment, with the strongest outcomes at the concept level. [→ Belland Brian R. 2017](#belland-brian-r-2017)

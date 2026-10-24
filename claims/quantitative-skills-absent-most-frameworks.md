@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: markle-2013
     resource: "http://search.ets.org/researcher"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only three of the seven reviewed frameworks (LEAP, the Lumina DQP, and USDOL-ETA) explicitly mentioned a quantitative domain, leading the authors to exclude quantitative skills from the critical domains. [→ Markle 2013](#markle-2013)

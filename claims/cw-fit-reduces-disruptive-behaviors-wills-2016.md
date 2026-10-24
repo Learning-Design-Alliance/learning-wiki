@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: wills-2016-disruptive
     title: wills-2016-disruptive
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In Wills et al. (2016), the percentage of time displaying disruptive behaviors was 7.01 in CW-FIT classes versus 15.72 in comparison classes (effect size 1.00, improvement index +34, p<0.01). [→ wills-2016-disruptive](#wills-2016-disruptive)

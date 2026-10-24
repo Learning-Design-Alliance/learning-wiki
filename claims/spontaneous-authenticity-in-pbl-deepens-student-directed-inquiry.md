@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-07
 sources:
   - id: miller-li-2026
     resource: "https://doi.org/10.1080/10508406.2025.2557896"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · n=1 classroom, 20 students, grade 3, bilingual context
+> **Currency** · newest study 2026 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 Problem-based learning curricula are typically written to be authentic in advance ("contrived" authenticity — realistic scenarios embedded in the design), but when a teacher instead departs from the written sequence to respond to an unplanned, spontaneous real-world event connected to the unit's driving question, students can show deeper self-directed inquiry and engagement than the designed lessons produced — provided the teacher has both the curricular flexibility and the professional autonomy to make that departure.
 

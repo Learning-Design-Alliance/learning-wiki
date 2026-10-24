@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: galindo-2024
     resource: "https://doi.org/10.51388/20.500.12265/233"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Según el eBook, el uso de IA para evaluaciones, especialmente las basadas en competencias, no es actualmente la mejor práctica, porque las capacidades de la IA se limitan al reconocimiento de patrones y al análisis estadístico. [→ Galindo 2024](#galindo-2024)

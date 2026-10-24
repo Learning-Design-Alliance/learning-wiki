@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: talent-development-framework-improving-access-to-excellent-educators-for-all-students-2020
     resource: "https://gtlcenter.org"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Certification, professional development completion, and educator effectiveness data systems are often disconnected, and building a unified talent data system can generate insights for prioritizing strategies and focusing resources. [→ Talent Development Framework: Improving Access to Excellent Educators for All Students 2020](#talent-development-framework-improving-access-to-excellent-educators-for-all-students-2020)

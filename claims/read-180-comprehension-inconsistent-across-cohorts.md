@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: read-180-2016
     resource: "http://www.hmhco.com/products/read-180/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Fitzgerald and Hartry (2008), Cohort 1 showed statistically significant positive comprehension differences, but Cohort 2 showed no statistically significant differences. [→ READ 180® 2016](#read-180-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: gardiner-paul-2020
     resource: "https://doi.org/10.1016/j.tsc.2020.100749"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Problems in diverse groups emerge from coordination failures — failure to manage different perspectives — rather than from categorisation issues such as demographic differences. [→ Gardiner Paul 2020](#gardiner-paul-2020)

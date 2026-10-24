@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: elisabet-pladevall-ballester-2020
     resource: "http://dx.doi.org/10.14746/ssllt.2020.10.3.3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mixed dyads produced more NoM (M = 10.42) than matched dyads (M = 7.12), a significant proficiency pairing effect. [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)

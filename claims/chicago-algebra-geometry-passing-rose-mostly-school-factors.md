@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: shazia-rafiullah-miller-2002
     resource: "https://consortium.uchicago.edu/publications/student-performance-course-taking-test-scores-and-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percent of high school eligible students passing the algebra/geometry sequence two years after elementary school rose from 36.5 to 49.7 percent; adjusted, it rose from 37 to 50 percent, with incoming student changes accounting for only 17.8 percent of the improvement and other changes, possibly curricular reforms, accounting for 82.2 percent. [→ Shazia Rafiullah Miller 2002](#shazia-rafiullah-miller-2002)

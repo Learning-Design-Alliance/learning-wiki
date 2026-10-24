@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: sebastian-strauß-2025
     resource: "https://doi.org/10.1007/s11412-024-09430-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i0` negligible
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Compared to no support, neither the script nor the reflection scaffold produced an effect on the quality of interaction during the second collaboration task. [→ Sebastian Strauß 2025](#sebastian-strau-2025)

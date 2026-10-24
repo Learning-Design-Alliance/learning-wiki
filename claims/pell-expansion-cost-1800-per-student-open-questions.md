@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: jaime-thomas-2020
     resource: "https://ies.ed.gov/ncee/pubs/2021001/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The average cost of expanding Pell Grant eligibility was about $1,800 per student in this study, and the labor-market returns from the two experiments and how they compare to this cost remain important open questions. [→ Jaime Thomas 2020](#jaime-thomas-2020)

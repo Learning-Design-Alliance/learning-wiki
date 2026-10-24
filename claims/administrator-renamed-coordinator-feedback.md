@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: helen-crompton-2026
     resource: "https://doi.org/10.1186/s41239-026-00584-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Faculty and organization feedback that the term Administrator was confused with non-faculty leadership roles led to renaming Standard Five to Coordinator and reordering the standards to Instructor, Coordinator, Leader, Researcher, Learner, and Contributor. [→ Helen Crompton 2026](#helen-crompton-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: liang-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1800950"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative interviews with instructors and enterprise mentors uncovered persistent IEI implementation gaps that contextualize the quantitative model. [→ Liang 2026](#liang-2026)

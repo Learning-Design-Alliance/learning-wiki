@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2001
+source_checked: 2026-10-20
 sources:
   - id: robert-kail-and-lynda-k-hall-2001
     resource: "https://link.springer.com/journal/13421/29/1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2001 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` PS was linked to WM in both studies; Study 1 showed equal links from PS to STM and WM, but Study 2 showed a link from PS only to WM. [→ Robert Kail and Lynda K. Hall 2001](#robert-kail-and-lynda-k-hall-2001)

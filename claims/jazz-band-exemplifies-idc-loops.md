@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: roschelle-2019
     resource: "https://doi.org/10.1186/s41039-019-0107-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors propose that playing jazz in a group is an intense, accessible form of the three IDC loops, sustaining student participation for five or more years without academic goals or parental pressure. [→ Roschelle 2019](#roschelle-2019)

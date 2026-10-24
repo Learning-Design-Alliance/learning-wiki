@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: carver-thomas-2024
     resource: "https://doi.org/10.54300/137.196"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` TRGP supported nearly 1,400 residents between 2020 and 2023; residency programs overall graduated nearly 5,000 residents between 2021 and 2024, about 10% of newly prepared California teachers in 2021 alone. [→ Carver-Thomas 2024](#carver-thomas-2024)

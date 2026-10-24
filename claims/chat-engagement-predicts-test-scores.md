@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: jifan-yu-2024
     resource: "https://doi.org/10.48550/arxiv.2409.03512"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Regression analysis found in-class chat message frequency and length significantly predict standardized test and final exam scores, controlling for Module 1 scores. [→ Jifan Yu 2024](#jifan-yu-2024)

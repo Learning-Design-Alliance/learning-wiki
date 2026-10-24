@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: a-call-to-action-on-behalf-of-us-babies-2014
     resource: "http://forourbabies.org/wp/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The physical structure and functioning of a baby's brain is significantly shaped by experiences and environments in the first three years, during which the brain grows from 25 to 85 percent of its adult size. [→ A Call to Action on Behalf of U.S. Babies 2014](#a-call-to-action-on-behalf-of-us-babies-2014)

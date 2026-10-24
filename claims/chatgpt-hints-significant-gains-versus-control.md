@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-17
 sources:
   - id: pardos-za-2024
     title: Pardos ZA 2024
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The ChatGPT hint condition produced statistically significantly greater learning gains than the no-hint control (Dunn's test p = 0.011), with a 17% gain versus the control's 1.85%. [→ Pardos ZA 2024](#pardos-za-2024)

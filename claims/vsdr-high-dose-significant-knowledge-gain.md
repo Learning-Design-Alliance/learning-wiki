@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: pengjin-wang-fan-chen-deliang-wang-gaowei-chen-2025
     resource: "https://doi.org/10.1007/s11412-024-09443-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The high-dose group improved significantly in ICT subject knowledge [t(25)=3.537, p=0.002]; the low-dose group's gain was not statistically significant [t(26)=0.844, p=0.406]; pre-test scores did not differ between groups [t(51)=0.642, p=0.524]. [→ Pengjin Wang · Fan Chen · Deliang Wang · Gaowei Chen 2025](#pengjin-wang-fan-chen-deliang-wang-gaowei-chen-2025)

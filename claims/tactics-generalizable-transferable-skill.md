@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: sjöblom-2025
     resource: "https://doi.org/10.1007/s11251-025-09717-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers argue wargame exercises are designed to train tactics rather than familiarity with specific terrain, fostering an orientation to transferable knowledge. [→ Sjöblom 2025](#sjoblom-2025)

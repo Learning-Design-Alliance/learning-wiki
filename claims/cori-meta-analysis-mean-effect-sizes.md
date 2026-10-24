@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: linnenbrink-garcia-2026
     resource: "https://doi.org/10.1007/s10648-026-10177-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Guthrie et al.'s (2007) meta-analysis of 11 CORI studies found mean effect sizes from 0.49 (self-efficacy) to 1.20 (intrinsic motivation composite), with most larger than average motivation-intervention effects. [→ Linnenbrink-Garcia 2026](#linnenbrink-garcia-2026)

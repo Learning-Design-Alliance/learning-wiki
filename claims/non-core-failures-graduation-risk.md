@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: seeskin-2018
     resource: "https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 2011-14 freshman cohorts, students with one core failure and no other failures graduated at 70 percent; students with one non-core failure and no other failures graduated at 68 percent; students passing all courses graduated at 90 percent. [→ Seeskin 2018](#seeskin-2018)

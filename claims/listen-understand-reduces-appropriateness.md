@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bai-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102286"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Listen/understand and Extend/revise showed negative effects on dyads' appropriateness; in the control model Listen/understand's negative effect remained robust while Extend/revise's became insignificant and Inviting behavior showed a positive effect. [→ Bai 2026](#bai-2026)

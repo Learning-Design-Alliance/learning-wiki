@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: strong
+newest_evidence: 2022
 sources:
   - id: caviola-2022
     resource: "https://doi.org/10.1007/s10648-021-09618-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 51 independent samples, test anxiety shows a negative pooled correlation with math achievement (r = −.23), notably weaker than the math anxiety correlation. [→ Caviola 2022](#caviola-2022)

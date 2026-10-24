@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: paul-ginns-jimmie-leppink-2019
     resource: "https://doi.org/10.1007/s10648-019-09474-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Experiment 1, low variability instructional materials enhanced learning regardless of level of instructional guidance (worked examples vs. unguided problem-solving); in Experiment 2, a disordinal aptitude-treatment interaction indicated an expertise reversal effect, with low prior knowledge students who solved problems with low variability outperforming those with high variability, and the opposite pattern for higher prior knowledge students. [→ Paul Ginns & Jimmie Leppink 2019](#paul-ginns-jimmie-leppink-2019)

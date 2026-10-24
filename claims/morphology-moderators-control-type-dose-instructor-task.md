@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: danielle-colenbrander-2024
     resource: "https://doi.org/10.1007/s10648-024-09953-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effects were distinguishable from zero against passive controls (0.23) and other non-linguistic controls (0.57) but not against active linguistic controls (0.07); Wald tests comparing moderator subgroups were not significant. [→ Danielle Colenbrander 2024](#danielle-colenbrander-2024)

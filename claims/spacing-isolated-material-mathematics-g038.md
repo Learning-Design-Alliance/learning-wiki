@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: murray-2023
     resource: "https://osf.io/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the 8-study isolated-material subset (23 effect sizes), spaced versus massed practice yields g = 0.384, with a confidence interval whose lower limit is close to zero. [→ Murray 2023](#murray-2023)

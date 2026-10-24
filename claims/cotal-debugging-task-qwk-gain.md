@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cohn-2026
     resource: "https://doi.org/10.48550/arxiv.2504.02323"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For the Debugging Task, CoTAL yielded an average QWK of 0.706 versus the Baseline's 0.567 (24.5% improvement), and Total Score QWK increased by 0.218 (a 38.9% gain). [→ Cohn 2026](#cohn-2026)

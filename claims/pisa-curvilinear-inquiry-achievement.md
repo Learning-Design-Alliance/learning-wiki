@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-21
 sources:
   - id: de-jong-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100536"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PISA 2015 data show a curvilinear relation between inquiry activity frequency and science achievement, positive up to a certain level. [→ de Jong 2023](#de-jong-2023)

@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across all marked attributes, using the marked prompt produces large, systematic increases in the concentration of associated Marked Pedagogy words relative to baseline, e.g., +3.829 percentage points for ELL and +4.260 for unmotivated (both p < 0.001). [→ Tan et al. 2026](#tan-et-al-2026)

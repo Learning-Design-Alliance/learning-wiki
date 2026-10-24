@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: rikke-magnussen-2023
     resource: "https://doi.org/10.1007/s11251-023-09641-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the CCS iterations, students showed only a minor increase in reporting they invented their own ways of solving tasks, but a marked increase in agreeing the tasks required inventing their own ideas. [→ Rikke Magnussen 2023](#rikke-magnussen-2023)

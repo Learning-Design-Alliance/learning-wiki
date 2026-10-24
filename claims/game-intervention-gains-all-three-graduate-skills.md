@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: matthew-barr-2017
     resource: "https://doi.org/10.1016/j.compedu.2017.05.016"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All three self-report measures showed significant increases for the intervention group over control, with large effect sizes (Cohen's d between 0.9 and 1.15). [→ Matthew Barr 2017](#matthew-barr-2017)

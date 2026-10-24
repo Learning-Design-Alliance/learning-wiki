@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: alneyadi-2023
     resource: "https://doi.org/10.30935/cedtech/13417"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Statistically significant differences at α=0.05 between the two groups' means were found for the achievement test as a whole and for each sub-skill, all in favor of the experimental group. [→ Alneyadi 2023](#alneyadi-2023)

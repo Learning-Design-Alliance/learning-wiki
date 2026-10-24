@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: brett-van-de-sande-2013
     resource: "https://doi.org/10.5281/zenodo.3554629"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` So long as there are both correct and incorrect steps, no redefinition of 1−P(Lj|Oj) can be compensated by redefining other parameters in both recursion equations, so all four model parameters are needed. [→ Brett Van de Sande 2013](#brett-van-de-sande-2013)

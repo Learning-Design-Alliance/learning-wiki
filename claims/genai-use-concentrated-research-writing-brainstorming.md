@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: stefana-broadbent-2026
     resource: "https://doi.org/10.48550/arxiv.2607.17094"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Research-related tasks (finding information, summarising, brainstorming) were selected by more than two thirds of respondents, while image, audio, video, games and code generation were selected by less than one in three. [→ Stefana Broadbent 2026](#stefana-broadbent-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: manuel-rausch-2023
     resource: "https://doi.org/10.1007/s11409-023-09353-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Direct t-tests on meta-d′/d′ produce a false positive rate below the nominal 5%, while log-transformed t-tests and Mann–Whitney U-tests produce rates consistent with 5%. [→ Manuel Rausch 2023](#manuel-rausch-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: daniel-c-humphrey-2009
     resource: "https://eric.ed.gov/?q=High+School+Reform+in+Chicago+Public+Schools+An+Overview"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers with a basic or unsatisfactory rating for classroom management were unlikely to achieve high ratings on important instructional practices, especially instructional demand. [→ Daniel C. Humphrey 2009](#daniel-c-humphrey-2009)

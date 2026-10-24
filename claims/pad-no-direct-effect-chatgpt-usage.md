@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ortiz-bonnin-2025
     resource: "https://doi.org/10.1007/s11218-025-10080-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` PAD was not directly related to use frequency (β = 0.04, p =.22) or intention to use ChatGPT (β = −0.05, p =.33); hypotheses H2a and H2b were rejected. [→ Ortiz-Bonnin 2025](#ortiz-bonnin-2025)

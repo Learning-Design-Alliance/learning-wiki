@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2010
 sources:
   - id: luppescu-2005
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-sample-high-school-details-2005"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In top-rated schools only 11 percent of teachers report minimal interaction with parents, while in the lowest-rated schools 35 percent report minimal interaction and only 12 percent report frequent interaction. [→ Luppescu 2005](#luppescu-2005)

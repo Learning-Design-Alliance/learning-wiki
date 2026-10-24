@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: holzberger-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2021.101513"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Collective efficacy, collaboration, participation, and principal leadership were each non-significantly associated with self-reported cognitive activation when controlling for teachers' self-efficacy. [→ Holzberger 2021](#holzberger-2021)

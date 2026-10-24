@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: fitz-2025
     resource: "https://doi.org/10.54300/825.823"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Across CSUB's seven residencies, residents gave their programs high ratings, averaging 4.3 out of 5.0 overall on the 2021 California Commission on Teacher Credentialing completer survey. [→ Fitz 2025](#fitz-2025)

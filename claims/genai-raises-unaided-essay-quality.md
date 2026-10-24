@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zara-contractor-and-germán-reyes-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08849"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Essays written during AI access score 0.34 SD higher in overall quality, and essays written unaided one week later are still 0.24 SD higher, indicating a learning channel beyond AI-generated text. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)

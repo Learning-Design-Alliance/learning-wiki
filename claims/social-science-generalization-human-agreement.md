@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the social-science subset, FGP suppresses cognitive regression to 0% for InternLM3-8B and Spark3.5-Max and raises Spark3.5-Max's CogLeap from 42.50% to 66.67%. [→ social-fgp](#social-fgp)

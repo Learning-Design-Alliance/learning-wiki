@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hornstein-2025
     resource: "https://doi.org/10.1007/s10648-025-10017-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Content-specific support during feedback provision has a positive medium-sized effect on the quality of feedback provision (g = 0.75) but no significant effect on subject-matter-related knowledge (g = 0.34, p = 0.14). [→ Hornstein 2025](#hornstein-2025)

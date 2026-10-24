@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: dallas-dotter-2021
     resource: "https://www.mathematica.org/publications/impacts-of-school-reforms-in-washington-dc-on-student-achievement"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The estimated DC math impacts (about one-third of a standard deviation) are similar in magnitude to New Orleans post-Katrina reform impacts and larger than some well-known education interventions. [→ Dallas Dotter 2021](#dallas-dotter-2021)

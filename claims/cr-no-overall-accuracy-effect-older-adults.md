@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: double-2018
     resource: "https://doi.org/10.1007/s11409-018-9186-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized experiment with older adults, the confidence-ratings group and the no-CR control group did not differ significantly in Overall Accuracy on the timed Latin Square Task. [→ Double 2018](#double-2018)

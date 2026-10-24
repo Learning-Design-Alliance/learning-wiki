@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2023
+source_checked: 2026-10-16
 sources:
   - id: el-1
     title: el-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Steele et al. (2017) found positive literacy effects for the full sample but insignificant findings on literacy, science, and mathematics achievement for English learners. [→ el-1](#el-1)

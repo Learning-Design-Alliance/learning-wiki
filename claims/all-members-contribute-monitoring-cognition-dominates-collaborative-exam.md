@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: jonna-malmberg-2019
     resource: "https://doi.org/10.1007/s11412-019-09311-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across four three-member groups, students produced 243 monitoring events, most frequently monitoring cognition, followed by behaviour, with motivation and emotions rarely monitored. [→ Jonna Malmberg 2019](#jonna-malmberg-2019)

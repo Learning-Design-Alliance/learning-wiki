@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-08
 sources:
   - id: cassie-pickens-jewell-2014
     resource: "https://www.mathematica.org/publications/changing-education-agencies-from-the-inside-out-year-2-report-on-the-strategic-data-project"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Partnerships with SDP and EP enabled education agencies to develop new and meaningful practices for using data, and many agencies continue to refine and build on what they have learned and implemented. [→ Cassie Pickens Jewell 2014](#cassie-pickens-jewell-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: ron-zimmer-2010
     resource: "https://www.mathematica.org/publications/charter-school-authorizers-and-student-achievement-working-paper"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` There are likely to be more differences among individual authorizers than across authorizer types. [→ Ron Zimmer 2010](#ron-zimmer-2010)

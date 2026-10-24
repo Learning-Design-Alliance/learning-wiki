@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: easton-2023
     resource: "https://consortium.uchicago.edu/publications/lasting-differences"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding all survey-based controls reduced the estimated gender difference from 0.273 to 0.236 GPA points, a small but statistically significant reduction that left the gap largely intact. [→ Easton 2023](#easton-2023)

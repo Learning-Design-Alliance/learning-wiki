@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: rodriguez-2022
     resource: "https://doi.org/10.1177/23328584211073170"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SSWs who perceived racialized NCOR engaged in advocacy such as support groups for students with detained or deported parents, legal-rights education, safe spaces, and letters of support in deportation proceedings. [→ Rodriguez 2022](#rodriguez-2022)

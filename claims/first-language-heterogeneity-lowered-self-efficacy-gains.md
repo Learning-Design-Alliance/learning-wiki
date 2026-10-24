@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: sanna-järvelä-2023
     resource: "https://doi.org/10.1007/s11412-023-09415-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in first-language heterogeneous CSCL groups exhibited lower pretest–posttest gains in online interaction self-efficacy than students in homogeneous groups, regardless of their own language status. [→ Sanna Järvelä 2023](#sanna-jarvela-2023)

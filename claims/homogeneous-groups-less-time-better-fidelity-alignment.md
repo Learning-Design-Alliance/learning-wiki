@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: fatima-zehra-allahverdi-2025
     resource: "https://doi.org/10.1007/s11251-025-09725-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Homogeneous groups spent less time on engaged reader processes (CLASSIC mean 4.0 vs 5.0) but had higher fidelity ratings (47.7 vs 42.7) than heterogeneous groups. [→ Fatima Zehra Allahverdi 2025](#fatima-zehra-allahverdi-2025)

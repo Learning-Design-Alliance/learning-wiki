@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: narang-2025
     resource: "https://doi.org/10.1177/07439156251328237"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Surveyed faculty rated GAI most highly for enhancing cognitive engagement and critical thinking (85.71% rating 4 or 5), compared with teaching presence (42.86%) and social presence (35.71%). [→ Narang 2025](#narang-2025)

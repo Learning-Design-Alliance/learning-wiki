@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lujain-ibrahim-2026
     resource: "https://doi.org/10.48550/arxiv.2605.07912"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Sycophantic (vs. neutral) AI lowered satisfaction with real-world social interactions (d=0.20) with no effect on time spent with others, and the effect was mediated by the narrowing AI-human understanding gap. [→ Lujain Ibrahim 2026](#lujain-ibrahim-2026)

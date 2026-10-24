@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ives-robert-a-2026
     resource: "https://doi.org/10.1021/acscentsci.6c00822"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that when every experiment must count and solutions must be improvised, researchers develop precision and resourcefulness, and that evaluating scientific achievement without accounting for resources risks systematically undervaluing work at under-resourced institutions. [→ Ives Robert A. 2026](#ives-robert-a-2026)

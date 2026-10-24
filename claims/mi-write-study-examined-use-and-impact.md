@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: lindsay-fox-2023
     resource: "https://www.mathematica.org/publications/study-methods-for-briefs-about-mi-write-research-findings"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` During the 2021–2022 school year, a study was designed and conducted to examine teachers' and students' use of MI Write and the tool's impact on student and teacher outcomes. [→ Lindsay Fox 2023](#lindsay-fox-2023)

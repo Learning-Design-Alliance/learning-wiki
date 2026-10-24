@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: li-2023
     resource: "https://doi.org/10.1007/s10648-023-09834-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The path from phonological awareness to reading accuracy was stronger in developed than developing countries (β = 0.15, p < 0.001); the pooled studies are correlational, so this is a difference in association, not shown to be a causal impact. [→ Li 2023](#li-2023)

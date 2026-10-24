@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: campoli-2022
     resource: "https://doi.org/10.54300/438.376"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The overall professional development access index is significantly related to student gains in ELA (0.817*) and mathematics (1.281**), with every professional development area showing at least a marginally significant relationship in mathematics; the forecasted 9-point mathematics difference is equivalent to 0.17 SD. [→ Campoli 2022](#campoli-2022)

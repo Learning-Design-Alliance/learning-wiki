@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: ehrlich-2016
     resource: "http://consortium.uchicago.edu/surveys"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` National ECLS-K data found a difference of one full standard deviation (15 standard score points) in literacy and mathematics between children from low- and high-income families at the beginning of kindergarten. [→ Ehrlich 2016](#ehrlich-2016)

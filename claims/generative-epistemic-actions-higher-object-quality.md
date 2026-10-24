@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: damşa-2014
     resource: "https://doi.org/10.1007/s11412-014-9193-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups D and E, which interacted most frequently through actions generating ideas and knowledge, produced objects of higher quality than Group B, which relied on division of labor and individual contributions. [→ Damşa 2014](#damsa-2014)

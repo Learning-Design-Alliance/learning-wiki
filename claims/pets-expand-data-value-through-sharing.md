@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-09
 sources:
   - id: pets-sharing-1
     title: pets-sharing-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Increases in privacy can allow datasets to be shared more widely, because as internal utility is decreased, datasets meet stricter disclosure and use standards. [→ pets-sharing-1](#pets-sharing-1)

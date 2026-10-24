@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: pauliina-avola-2025
     resource: "https://doi.org/10.1007/s10648-025-09986-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 37 interventions were categorised as supportive of teacher well-being and 9 as non-supportive, based on the original studies' authors' interpretations; one reported a mildly negative effect on depersonalisation. [→ Pauliina Avola 2025](#pauliina-avola-2025)

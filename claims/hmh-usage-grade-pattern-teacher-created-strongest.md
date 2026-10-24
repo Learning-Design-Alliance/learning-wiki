@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: peters-2018
     resource: "https://doi.org/10.51388/20.500.12265/53"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Frequency of HMH Go Math/Personal Math Trainer use among PLI classes was associated with SBAC math gains in grades 4, 5 and 8 but negatively associated with outcomes in 7th grade. [→ Peters 2018](#peters-2018)

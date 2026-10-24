@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: li-zhao-2024
     resource: "https://osf.io/bh9t4/?view_only=04c6a0c8457a49e19911c9a4ea4e1c16"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Adult ability attributions of young children's success increase test cheating. [→ Li Zhao 2024](#li-zhao-2024)

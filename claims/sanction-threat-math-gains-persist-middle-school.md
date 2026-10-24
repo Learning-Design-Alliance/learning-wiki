@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: hanley-chiang-2009
     resource: "https://www.mathematica.org/publications/how-accountability-pressure-on-failing-schools-affects-student-achievement"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Math improvements induced by accountability sanction threats in elementary school largely persist into the first one to two years of middle school. [→ Hanley Chiang 2009](#hanley-chiang-2009)

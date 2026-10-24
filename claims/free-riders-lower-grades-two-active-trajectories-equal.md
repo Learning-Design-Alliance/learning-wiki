@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ramy-elmoazen-2025
     resource: "https://doi.org/10.1007/s11412-024-09431-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Kruskal–Wallis revealed a significant difference in final exam GPA among trajectories (H = 40.59, p < 0.0001), with a large effect size (ε² = 0.30). [→ Ramy Elmoazen 2025](#ramy-elmoazen-2025)

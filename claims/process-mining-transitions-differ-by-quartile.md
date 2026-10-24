@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hou-2025
     resource: "https://doi.org/10.1007/s11409-025-09442-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Process maps revealed that 30.58% of low-performing students accessed solutions at least once versus 8.13% of high-performing students, and 22.31% of low performers accessed a hint immediately after an incorrect submission versus 16.26% of high performers. [→ Hou 2025](#hou-2025)

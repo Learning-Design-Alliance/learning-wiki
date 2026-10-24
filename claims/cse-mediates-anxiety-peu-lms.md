@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: saadé-2009
     resource: "https://jite.org/documents/Vol8/JITEv8p177-191Saade708.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In survey data, CSE statistically mediates the ANX–PEU association: the ANX–PEU path weakens from β = -0.276 to β = -0.094 when CSE is included, and the Sobel/Goodman test is significant. [→ Saadé 2009](#saade-2009)

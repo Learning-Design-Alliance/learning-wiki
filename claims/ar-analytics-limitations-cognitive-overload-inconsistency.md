@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: manjeet-singh-usma-2025
     resource: "https://doi.org/10.18608/jla.2025.8447"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The review identifies increased cognitive load and complexity of immersive AR environments, potentially leading to learner distraction or affective overload, as a key limitation. [→ Manjeet Singh Usma 2025](#manjeet-singh-usma-2025)

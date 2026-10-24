@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: chan-2026
     resource: "https://doi.org/10.48550/arxiv.2607.05412"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review attributes to Karamustafaoğlu and Pektaş (2023) the finding that inquiry-based STEM activities significantly enhance students' problem-solving skills and STEM awareness. [→ Chan 2026](#chan-2026)

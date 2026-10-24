@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: femke-van-der-wilt-2019
     resource: "https://doi.org/10.1007/s10648-019-09479-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 25 reviewed studies of children aged 1–12, main outcomes pointed toward a significant relation between oral communicative competence and sociometric status. [→ Femke van der Wilt 2019](#femke-van-der-wilt-2019)

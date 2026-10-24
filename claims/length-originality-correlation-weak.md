@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: antonio-laverghetta-jr-2024
     resource: "https://doi.org/10.48550/arxiv.2409.00202"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pearson correlations between response length and originality remain weak overall and do not rise above 0.3 in either direction for most LLMs. [→ Antonio Laverghetta Jr. 2024](#antonio-laverghetta-jr-2024)

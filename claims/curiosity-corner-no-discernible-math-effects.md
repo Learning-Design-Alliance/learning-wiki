@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: curiosity-corner-2009
     resource: "https://www.successforall.org/early/early_curiosity.htm"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` None of the differences on WJ III Applied Problems, CMA-A Composite, or Shape Composition were statistically significant or substantively important. [→ Curiosity Corner 2009](#curiosity-corner-2009)

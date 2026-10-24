@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: summer-bridge-programs-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/661"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 31 eligible studies of summer bridge programs, only one (Murphy et al., 2010) met WWC group design standards, and it did so only with reservations; the remaining 30 did not meet standards. [→ Summer Bridge Programs 2016](#summer-bridge-programs-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-18
 sources:
   - id: kostopoulos-2025
     resource: "https://doi.org/10.1109/ACCESS.2025.3620473"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review's evidence map finds the strongest empirical grounding in formative tutoring and self-regulated learning coaching, with quasi-experimental and randomized controlled designs reporting measurable improvements in feedback accuracy and strategy use. [→ Kostopoulos 2025](#kostopoulos-2025)

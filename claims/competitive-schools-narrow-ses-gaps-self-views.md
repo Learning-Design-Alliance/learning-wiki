@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nathalie-aerts-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102414"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Lower-SES students in the 69-country PISA 2018 sample had more positive self-views (self-efficacy and self-perceived ability) in more competitive environments, contrary to the widening hypothesis; the article prints no effect size for this finding. [→ Nathalie Aerts 2026](#nathalie-aerts-2026)

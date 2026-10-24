@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: do-yong-park-and-mira-park-2013
     resource: "https://doi.org/10.5408/12-360.1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the sampled Holt Earth Science inquiry tasks, inductive (40%) and abductive (38.1%) methods were used far more often than the deductive method (21.9%). [→ Do-Yong Park and Mira Park 2013](#do-yong-park-and-mira-park-2013)

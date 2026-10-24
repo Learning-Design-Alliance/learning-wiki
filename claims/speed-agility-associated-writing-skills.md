@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: cadenas-sanchez-2020
     resource: "https://doi.org/10.1080/02640414.2020.1729516"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The 4x10m shuttle-run test was associated with writing (β=0.325) and written expression (β=0.393) on the Woodcock-Muñoz test after adjustment for age, sex, and maternal education. [→ Cadenas-Sanchez 2020](#cadenas-sanchez-2020)

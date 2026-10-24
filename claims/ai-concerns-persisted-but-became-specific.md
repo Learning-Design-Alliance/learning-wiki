@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-session survey responses showed greater specificity and grounding in concrete issues, while underlying concerns about AI were not fundamentally altered. [→ post-survey-1](#post-survey-1)

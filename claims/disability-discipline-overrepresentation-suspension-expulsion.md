@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: arnold-2025
     resource: "https://eric.ed.gov/?id=ED673562"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Although students with disabilities were 16 percent of national enrollment in 2018, they made up 25 percent of in-school suspensions, 28 percent of out-of-school suspensions, and 25 percent of expulsions. [→ Arnold 2025](#arnold-2025)

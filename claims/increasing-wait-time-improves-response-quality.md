@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: increasing-wait-time-improves-response-quality
 evidence_strength: weak
+newest_evidence: 1987
 sources:
   - id: tobin-1987
     resource: "https://doi.org/10.3102/00346543057001069"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r?` · `q2`–`q3`
+> **Currency** · newest study 1987 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Increasing Wait Time Improves Response Quality -->
 
 The claim concerns the pause a teacher leaves after asking a question and after a student begins to answer. Two reviews are recorded, both read as abstracts: Tobin (1987) reports that average wait times above about 3 seconds go with changed discourse and higher-cognitive-level responses and achievement, and Rowe (1986) reports "pronounced improvements" in response quality when teachers wait a few seconds more. Neither abstract prints an effect size, and the studies they synthesize are mostly classroom observations and training studies, so the page records an association rather than a tested effect of lengthening wait time. <!-- deprecated (2026-10-05, overstated its evidence): Extending the pause a teacher leaves after asking a question — and after a student begins to answer — yields longer, more complex, and more evidence-based student responses. -->

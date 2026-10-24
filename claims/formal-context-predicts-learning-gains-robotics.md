@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: syed-tanzim-mubarrat-2026
     resource: "https://doi.org/10.1145/3772318.3791338"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an exploratory logistic regression, formal (vs. informal) context significantly predicted reporting of quantifiable learning gains (OR = 3.17, p = .049); immersion showed a suggestive positive association (p = .094) and programming skill tier a negative non-significant one (p = .051). [→ Syed Tanzim Mubarrat 2026](#syed-tanzim-mubarrat-2026)

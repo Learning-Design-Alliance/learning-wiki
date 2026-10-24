@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: okeke-2009
     resource: "https://doi.org/10.1177/0095798409333615"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Study 1, academic achievement was moderately correlated with academic self-concept, r(237) = .40, p < .01. [→ Okeke 2009](#okeke-2009)

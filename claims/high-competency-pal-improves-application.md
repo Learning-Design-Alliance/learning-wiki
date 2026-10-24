@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: kim-2006
     resource: "https://doi.org/10.1007/s11423-006-8805-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students in the high-competency PAL condition scored significantly higher on application of learning than students in the low-competency condition (Cohen's d = 0.46). [→ Kim 2006](#kim-2006)

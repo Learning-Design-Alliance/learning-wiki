@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: marcus-kubsch-2026
     resource: "https://doi.org/10.48550/arxiv.2606.16822"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Vigilance is not strictly impossible to delegate but self-defeating to delegate: accepting a model's check unexamined is the absence of vigilance, and the unevaluated claim has only moved one step along. [→ Marcus Kubsch 2026](#marcus-kubsch-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: fluency-formula-wwc-intervention-report-2007
     resource: "http://teacher.scholastic.com/products/fluencyformula/pdfs/FF_EffectivessReport.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the same randomized controlled trial, Fluency Formula™ students scored lower than comparison students on the Woodcock-Johnson III Passage Comprehension subtest, with an effect size of –0.28 that was not statistically significant. [→ Fluency Formula™ WWC Intervention Report 2007](#fluency-formulatm-wwc-intervention-report-2007)

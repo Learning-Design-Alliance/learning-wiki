@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: sound-partners-2010
     resource: "http://www.wri-edu.org/partners/sound-partners.htm"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across four studies, Sound Partners produced positive effects in the comprehension domain, with an average improvement index of +21 percentile points. [→ Sound Partners 2010](#sound-partners-2010)

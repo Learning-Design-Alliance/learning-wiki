@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1993
+source_checked: 2026-10-20
 sources:
   - id: susanne-carroll-and-merrill-swain-1993
     resource: "https://doi.org/10.1017/S0272263100012158"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1993 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study empirically investigated whether negative feedback helps 100 adult Spanish-speaking ESL learners learn the appropriate abstract constraints on an overgeneral rule, using the English dative alternation. [→ Susanne Carroll and Merrill Swain 1993](#susanne-carroll-and-merrill-swain-1993)

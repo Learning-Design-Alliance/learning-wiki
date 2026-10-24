@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: hong-qu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18505"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Between-cohort differences were statistically significant for creativity thinking (g = 1.09), design skills (g = 1.42), and problem solving (g = 1.23), but not for presentation (p = 0.100) or attendance (p = 0.445). [→ Hong Qu 2026](#hong-qu-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: johnson-2023
     resource: "https://doi.org/10.51388/20.500.12265/200"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The majority of the 11 IIS respondents gave positive responses to items measuring beliefs and confidence about collective leadership, co-research and co-design, context expertise, and continuity of equity. [→ Johnson 2023 (2)](#johnson-2023-2)

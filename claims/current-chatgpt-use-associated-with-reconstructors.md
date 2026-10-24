@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026
     resource: "https://doi.org/10.1007/s11412-026-09470-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` ChatGPT use across clusters showed a significant association, Χ²(2, N = 121) = 7.98, p = 0.019, with standardized residuals z = ±2.81 for reconstructors vs. integrators. [→ Teresa Luther · Kate Belcher · Joachim Kimmerle · Detmar Meurers · Ulrike Cress 2026](#teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026)

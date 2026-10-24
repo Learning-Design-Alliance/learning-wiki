@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-21
 sources:
   - id: hernández-2022
     resource: "https://doi.org/10.54300/165.102"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 <!-- title before 2026-10-15: Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years -->
 

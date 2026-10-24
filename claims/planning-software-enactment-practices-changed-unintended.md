@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: g-stahl-s-ludvigsen-n-law-u-cress-2014
     resource: "https://doi.org/10.1007/s11412-014-9200-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When a planning software artifact was inserted into the instructional setting, the student pair followed the syllabus assignment order rather than simulating, evaluating and revising planning decisions. [→ G. Stahl & S. Ludvigsen & N. Law & U. Cress 2014](#g-stahl-s-ludvigsen-n-law-u-cress-2014)

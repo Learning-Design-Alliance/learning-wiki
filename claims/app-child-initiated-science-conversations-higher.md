@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: dominguez-2021
     resource: "https://doi.org/10.51388/20.500.12265/119"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of child-initiated after-viewing conversations, 25% of intervention families' prompts addressed science while none of the comparison families' prompts did; before viewing the figures were approximately 13% vs 8%. [→ Dominguez 2021](#dominguez-2021)

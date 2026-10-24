@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 140 result-screen runs, students opened the follow-up interface 14 times (10.0%) and submitted 12 follow-up questions (8.6%), but all 12 submitted follow-ups reached first content. [→ followup-funnel](#followup-funnel)

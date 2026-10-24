@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: allensworth-2016
     resource: "https://www.cps.edu/SchoolData/Pages/SchoolData.aspx"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Increases in students coded as transfers (13 to 18 percent, 2003–2008) could potentially explain the 3-point graduation rise in those years, but transfer rates dropped to 14 percent by 2014, so recent gains cannot come from transfer miscoding. [→ Allensworth 2016](#allensworth-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: fathima-ameen-2026
     resource: "https://doi.org/10.1007/s41237-026-00294-9"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a path analysis, %KBR significantly predicted conceptual post-test performance (β = .138, p < 0.05), though with roughly half the effect of conceptual pre-test (β = .301, p = 0.001). [→ Fathima Ameen 2026](#fathima-ameen-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: lemke-2024
     resource: "https://eric.ed.gov/?id=ED663858"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A variable examining the type of English learner program students attended, along with student mobility, rate of student discipline, and teacher experience within schools, were found not to be statistically significant and were removed from the final model. [→ Lemke 2024](#lemke-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: bohlmeijer-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1850611"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Individuals may develop fear of hope, an acquired aversion to feeling hopeful due to anticipated disappointment or emotional risk, leading them to avoid hopeful engagement with the future. [→ Bohlmeijer 2026](#bohlmeijer-2026)

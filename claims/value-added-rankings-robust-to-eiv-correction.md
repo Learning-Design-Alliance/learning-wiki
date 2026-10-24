@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: steven-glazerman-and-jeffrey-max-2011
     resource: "http://ies.ed.gov/ncee/pubs/20114016/pdf/20114016.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In half of the ten districts, value-added indicators estimated with and without a measurement error correction were highly correlated (0.91–0.99 elementary; 0.77–0.98 middle school). [→ Steven Glazerman and Jeffrey Max 2011](#steven-glazerman-and-jeffrey-max-2011)

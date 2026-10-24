@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: ana-rothes-2017
     resource: "https://doi.org/10.1177/0741713616669588"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post hoc tests found no significant differences between any groups in academic self-concept, and univariate ANOVA found no significant effect of cluster membership on teacher-reported engagement. [→ Ana Rothes 2017](#ana-rothes-2017)

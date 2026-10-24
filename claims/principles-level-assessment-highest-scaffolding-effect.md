@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: belland-2017
     resource: "https://doi.org/10.3102/0034654316670999"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effects were significantly greater than zero across all assessment levels (concept, principles, application), and the principles-level effect exceeded the concept-level effect, z = 2.17, p < .05. [→ Belland 2017](#belland-2017)

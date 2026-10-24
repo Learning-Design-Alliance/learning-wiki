@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ballard-2023
     resource: "https://doi.org/10.1007/s11251-023-09643-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High school students participating in a citizen science platform for brain and behavior research gained enhanced understanding of experimental design and research ethics, yet struggled with quality peer review processes and aligning methods to the research question. [→ Ballard 2023](#ballard-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: yoon-2016
     resource: "https://doi.org/10.1007/s11251-016-9388-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Results across 2 years demonstrate the need for particular instructional supports to improve implementation efforts, including differentiated opportunities to build expertise and addressing teacher beliefs about whether computational-model construction belongs in the science classroom. [→ Yoon 2016](#yoon-2016)

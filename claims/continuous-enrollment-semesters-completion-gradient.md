@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mahaffie-2024
     resource: "https://consortium.uchicago.edu/publications/measuring-patterns-of-immediate-and-continued-college-enrollment-among-CPSs-graduates"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students continuously enrolled for at least four semesters completed college at a rate of 71%, versus 65% for students enrolled for at least three semesters. [→ Mahaffie 2024](#mahaffie-2024)

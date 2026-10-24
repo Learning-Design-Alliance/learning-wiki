@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: spiegler-o-and-leyendecker-b-2017
     title: Spiegler O and Leyendecker B 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among seventh graders, the Turkish × German identity interaction on mixed-trial accuracy remained marginally significant with language abilities controlled (β = 0.03, p = 0.081), while language abilities did not interactively predict accuracy controlling for identity (β = 0.00, p = 0.955). [→ Spiegler O and Leyendecker B 2017](#spiegler-o-and-leyendecker-b-2017)

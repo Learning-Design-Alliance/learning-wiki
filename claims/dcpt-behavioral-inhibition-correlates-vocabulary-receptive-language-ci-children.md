@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: horn-2004
     resource: "https://doi.org/10.1016/j.ics.2004.07.048"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Bivariate correlations between dCPT behavioral inhibition and vocabulary and language measures were strong and highly significant (p<0.01) at most intervals of CI use, with printed coefficients such as r = 0.69 for vocabulary at postimplant year 1. [→ Horn 2004](#horn-2004)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: van-der-beek-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102169"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Prior math self-concept moderated the positive-feedback-versus-control effect on post math self-concept (β = .16, p = .042): students with low prior self-concept reported lower self-concept after positive feedback than controls, while high prior self-concept students reported higher. [→ Van der Beek 2025](#van-der-beek-2025)

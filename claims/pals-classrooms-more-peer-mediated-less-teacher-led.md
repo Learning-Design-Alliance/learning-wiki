@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: peer-assisted-learning-strategies-2010
     resource: "http://kc.vanderbilt.edu/pals"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study team compared lesson plans and found PALS teachers were more likely than comparison teachers to use one-on-one activities and peer-mediated instruction and less likely to use teacher-led instruction. [→ Peer-Assisted Learning Strategies 2010](#peer-assisted-learning-strategies-2010)

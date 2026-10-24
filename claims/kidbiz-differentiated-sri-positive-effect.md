@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: what-works-clearinghouse-2018
     resource: "https://whatworks.ed.gov"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In one year-long quasi-experiment, fifth-graders in differentiated KidBiz3000® classrooms scored higher on the Scholastic Reading Inventory than business-as-usual comparison students (effect size 0.29, improvement index +11), though significance did not survive clustering correction. [→ What Works Clearinghouse 2018](#what-works-clearinghouse-2018)

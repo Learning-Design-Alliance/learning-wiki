@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: nagpal-2025
     resource: "https://doi.org/10.1007/s11251-025-09718-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Prior students' social reasoning at Lag-1, Lag-2, and Lag-3 significantly and positively predicted current-turn social reasoning, with odds ratios of 3.97, 1.54, and 1.34. [→ Nagpal 2025](#nagpal-2025)

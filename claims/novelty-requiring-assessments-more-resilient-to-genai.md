@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ivory-2026
     resource: "https://doi.org/10.1007/s10805-026-09729-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Creative and applied assessments resisted AI completion, though advanced prompting that supplied the creative ideas removed that core aspect from the AI and passed it to the student. [→ Ivory 2026](#ivory-2026)

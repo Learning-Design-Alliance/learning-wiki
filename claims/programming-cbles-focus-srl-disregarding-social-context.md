@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: leonardo-silva-2023
     resource: "https://doi.org/10.1007/s11412-023-09388-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors' systematic literature review found that most regulatory-scaffold CBLEs in programming education attend to SRL only and disregard the social context. [→ Leonardo Silva 2023](#leonardo-silva-2023)

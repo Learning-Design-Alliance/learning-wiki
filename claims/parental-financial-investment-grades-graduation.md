@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: walls-2016
     resource: "https://doi.org/10.14434/josotl.v16i2.19217"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Hamilton (2013), that students receiving greater parental financial investment tend to receive lower grades but are more likely to graduate than their peers. [→ Walls 2016](#walls-2016)

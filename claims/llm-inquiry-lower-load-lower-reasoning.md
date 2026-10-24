@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: daiki-nakamura-2026
     resource: "https://doi.org/10.1007/s10648-026-10224-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students researching a socio-scientific issue with a large language model experienced significantly lower cognitive load than peers using a conventional search engine but produced lower-quality reasoning and argumentation in their conclusions. [→ Daiki Nakamura 2026](#daiki-nakamura-2026)

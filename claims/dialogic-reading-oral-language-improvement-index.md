@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: wwc-intervention-report-dialogic-reading-2007
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC-computed average improvement index for oral language is +19 percentile points across the five studies, with individual findings ranging from –6 to +48 percentile points. [→ WWC Intervention Report: Dialogic Reading 2007](#wwc-intervention-report-dialogic-reading-2007)

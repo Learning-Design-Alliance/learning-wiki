@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: gupta-2026
     resource: "https://doi.org/10.21203/rs.3.rs-10609387/v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article proposes that student satisfaction and sociocultural adaptation may increase under AI mediation even where intercultural engagement and frame revision decrease, and that these outcomes should be measured separately. [→ Gupta 2026](#gupta-2026)

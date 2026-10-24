@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: the-center-for-school-turnaround-and-improvement-2025
     resource: "https://eric.ed.gov/?id=ED673517"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` CALL survey results inform which sections of the strategies guide a leadership team focuses on when developing a school improvement plan. [→ The Center for School Turnaround and Improvement 2025](#the-center-for-school-turnaround-and-improvement-2025)

@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-16
 sources:
   - id: donoghue-hattie-2021
     resource: "https://doi.org/10.3389/feduc.2021.581216"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium · n=19 studies
+> **Currency** · newest study 2021 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 Whether the ten learning techniques help students of different prior ability equally.
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ali-ansari-2026
     resource: "https://doi.org/10.48550/arxiv.2609.13009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across four pooled audit sets, 238 of 250 audited rejections (95.20%) were benchmark or grader errors and only 12 (4.80%) were model errors. [→ Ali Ansari 2026](#ali-ansari-2026)

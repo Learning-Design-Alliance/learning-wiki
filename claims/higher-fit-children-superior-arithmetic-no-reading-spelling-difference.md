@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: chaddock-heyman-l-2015
     resource: "https://doi.org/10.1371/journal.pone.0134115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Higher fit children scored higher on WRAT-3 arithmetic than lower fit children, with no fitness-group differences in reading or spelling. [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-22
 sources:
   - id: heyi-zhang-2014
     resource: "https://www.repository.cam.ac.uk"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the regression models, emotional support contributed no significant additional variance to any child outcome (all Step 4 changes insignificant). [→ Heyi Zhang 2014](#heyi-zhang-2014)

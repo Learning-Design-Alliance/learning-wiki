@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: demian-scherer-2023
     resource: "https://doi.org/10.1007/s11251-023-09618-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` University students who read a self-control text with thematically related decorative pictures answered significantly more knowledge items correctly than students who read the text without pictures, controlling for prior knowledge. [→ Demian Scherer 2023](#demian-scherer-2023)

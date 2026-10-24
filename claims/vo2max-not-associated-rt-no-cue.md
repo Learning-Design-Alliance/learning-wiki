@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: wengaard-e-2017
     title: Wengaard E 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher VO2max was not associated with faster reaction time for stimuli following no cue (Estimate = -1.16, SE = 1.03, p = 0.266). [→ Wengaard E 2017](#wengaard-e-2017)

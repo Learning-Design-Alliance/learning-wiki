@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: brewe-2007
     resource: "https://doi.org/10.48550/arxiv.0709.2738"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a preprint that has not been peer reviewed. It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

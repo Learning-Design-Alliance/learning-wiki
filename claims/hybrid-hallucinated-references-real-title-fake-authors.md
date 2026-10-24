@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thirteen of the 30 hallucinated references had no corresponding publication record, while 17 were hybrids combining a real title with fabricated or incorrect authorship, venue, or year; in all 17 hybrid cases at least some author names were fabricated. [→ Paul Denny 2027](#paul-denny-2027)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 1998
 sources:
   - id: peskin-1998
     resource: "https://doi.org/10.1207/s1532690xci1603_1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One strategy guiding meaning appeared in the novice, but not the expert, protocols: giving interpretive weight to the title, which corrected a novice's misreading of the poem as being about a flower. [→ Peskin 1998](#peskin-1998)

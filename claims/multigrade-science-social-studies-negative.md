@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 1996
 sources:
   - id: simon-veenman-1996
     resource: "https://doi.org/10.2307/1170526"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Reanalysis yielded weighted average d-indexes of -.19 for science (6 studies), -.25 for social studies (4 studies), and +.04 for English as a foreign language (3 studies), with significantly heterogeneous effect sizes. [→ Simon Veenman 1996](#simon-veenman-1996)

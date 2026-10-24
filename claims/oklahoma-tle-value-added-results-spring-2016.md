@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-20
+recheck_by: 2019
 sources:
   - id: albert-y-liu-2016
     resource: "https://www.mathematica.org/publications/measuring-teacher-and-school-value-added-in-oklahoma-spring-2016"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Oklahoma teachers and administrators received value-added results in spring 2016 that were based on instruction provided during the 2014–2015 school year. [→ Albert Y. Liu 2016](#albert-y-liu-2016)

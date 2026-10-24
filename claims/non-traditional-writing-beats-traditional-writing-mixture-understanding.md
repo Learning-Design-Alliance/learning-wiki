@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: kingir-2013
     resource: "https://doi.org/10.12973/eurasia.2013.922a"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` After controlling for pretest scores, the non-traditional writing group scored significantly higher on the mixture posttest than the traditional writing group, with a small effect size (d = 0.25). [→ Kingir 2013](#kingir-2013)

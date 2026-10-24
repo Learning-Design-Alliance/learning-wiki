@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: ulrike-cress-2020
     resource: "https://doi.org/10.1007/s11412-020-09335-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Re-used ILSs were about four times more likely to have been implemented than ILSs created from scratch. [→ Ulrike Cress 2020](#ulrike-cress-2020)

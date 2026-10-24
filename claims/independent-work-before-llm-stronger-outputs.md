@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mireia-vendrell-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100572"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When students first engaged with a task independently before consulting an LLM, their outputs were significantly stronger. [→ Mireia Vendrell 2026](#mireia-vendrell-2026)

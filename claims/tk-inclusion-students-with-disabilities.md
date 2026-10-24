@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: wang-2025
     resource: "https://doi.org/10.54300/600.551"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among 9,520 TK classrooms in 2023–24, LEAs reported 87% were inclusive of students with disabilities; 66% provided adaptations to instructional materials and 56% provided additional staff. [→ Wang 2025](#wang-2025)

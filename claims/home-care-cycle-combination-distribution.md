@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: nummijoki-2018
     resource: "https://doi.org/10.1080/10508406.2017.1412970"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The combination of client's expansive cycle and worker's expansive cycle (++) comprised 40% of 30 home care visits, while the both-defensive combination (--) comprised 23%. [→ Nummijoki 2018](#nummijoki-2018)

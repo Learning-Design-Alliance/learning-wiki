@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: jason-willis-2020
     resource: "https://eric.ed.gov/?id=ED616102"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the 1998 shift from J-50 to AB 602, California's statewide disability identification rate stabilized for about a decade, but identification rates have climbed steeply since 2010, meaning the intended long-term stabilization and cost containment did not hold. [→ Jason Willis 2020](#jason-willis-2020)

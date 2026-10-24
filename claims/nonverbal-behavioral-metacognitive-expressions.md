@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: ebru-aydın-2022
     resource: "https://doi.org/10.1016/j.tsc.2022.101104"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children behaviorally expressed strategies aligned with task criteria, and the authors attribute this to limited vocabulary pushing children toward behavioral expression. [→ Ebru Aydın 2022](#ebru-aydn-2022)

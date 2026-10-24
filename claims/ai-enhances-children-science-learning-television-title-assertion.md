@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: ying-xu-2024
     resource: "https://doi.org/10.1037/edu0000889.supp"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article asserts that artificial intelligence enhances children's science learning from television shows. [→ Ying Xu 2024](#ying-xu-2024)

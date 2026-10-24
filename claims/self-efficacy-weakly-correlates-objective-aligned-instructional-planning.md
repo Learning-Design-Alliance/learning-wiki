@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: kaygısız-2020
     resource: "https://doi.org/10.33828/sei.v31.i1.12"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 101 pre-service primary school teachers, science teaching self-efficacy belief scores showed a statistically significant but low positive correlation with total TSMTDF scores (r = 0.206, p < 0.05). [→ Kaygısız 2020](#kaygsz-2020)

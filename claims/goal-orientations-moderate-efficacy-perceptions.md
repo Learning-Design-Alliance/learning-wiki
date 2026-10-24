@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 1995
 sources:
   - id: schunk-1995
     resource: "http://www.taylorandfrancis.com/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High task-oriented subjects maintained greater perceived fitness competence regardless of performance feedback, whereas high ego-oriented subjects reported lower perceived competence after poor-performance feedback. [→ Schunk 1995](#schunk-1995)

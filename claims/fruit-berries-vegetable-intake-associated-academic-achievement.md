@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: stea-th-2014
     resource: "https://doi.org/10.1186/1471-2458-14-829"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` High fruit and berry intake (once a day or more) was associated with higher odds of high achievement in girls (AOR 2.09) and boys (AOR 1.47); high vegetable intake was significant in girls (AOR 1.82) but not boys. [→ Stea TH 2014](#stea-th-2014)

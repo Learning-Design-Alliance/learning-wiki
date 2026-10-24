@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: angela-johnson-2021
     resource: "https://www.nwea.org/research/publication/the-forgotten-20-percent-achievement-and-growth-in-rural-schools-across-the-nation/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Rural students begin kindergarten slightly ahead of nonrural students in achievement, but their advantage reverses and they fall behind by middle school. [→ Angela Johnson 2021](#angela-johnson-2021)

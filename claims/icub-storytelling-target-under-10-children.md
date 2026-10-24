@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: maria-lombardi-2025
     resource: "https://doi.org/10.48550/arxiv.2508.02505"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A Chi-squared goodness-of-fit test showed participants did not select all age groups equally (χ2(5) = 88.78, p < .001), and pairwise two-proportion z-tests with Holm correction showed the below-10 group received a significantly higher proportion of responses than all other age groups (all p <= 0.01). [→ Maria Lombardi 2025](#maria-lombardi-2025)

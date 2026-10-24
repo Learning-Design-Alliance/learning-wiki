@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lortie-forgues-2017
     title: Lortie-Forgues 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Numbers of correct magnitude comparisons and correct direction of effect judgments were uncorrelated for both grades, including when only multiplication and division problems with operands below one were considered. [→ Lortie-Forgues 2017](#lortie-forgues-2017)

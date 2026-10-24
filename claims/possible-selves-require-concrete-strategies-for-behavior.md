@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: nagaoka-2014
     resource: "https://consortium.uchicago.edu/publications/framework-developing-young-adult-success-21st-century"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Having possible selves alone is insufficient for self-regulation; linking them to concrete strategies precedes positive behavior, and perceived social group norms also shape strategy enactment. [→ Nagaoka 2014](#nagaoka-2014)

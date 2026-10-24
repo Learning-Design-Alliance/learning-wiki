@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: dropout-prevention-intervention-report-check-connect-2015
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/78"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Ninth-grade Check & Connect students accrued statistically significantly more credits at the end of the first follow-up year than comparison students (ES = 0.83, improvement index +30). [→ Dropout Prevention intervention report: Check & Connect 2015](#dropout-prevention-intervention-report-check-connect-2015)

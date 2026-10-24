@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: sandra-leaton-gray-2025
     resource: "https://doi.org/10.1007/s10805-025-09642-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Recent studies suggest AI-generated text can pass as human-authored in up to 80% of cases, so universities cannot reliably differentiate digital from human responses. [→ Sandra Leaton Gray 2025](#sandra-leaton-gray-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: darling-hammond-2017
     resource: "https://learningpolicyinstitute.org/product/expanding-high-quality-options"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A CREDO study found virtual charters had far lower achievement in mathematics and reading than traditional public schools serving similar students, equating to losing half a year of learning in reading and a full year in mathematics. [→ Darling-Hammond 2017](#darling-hammond-2017)

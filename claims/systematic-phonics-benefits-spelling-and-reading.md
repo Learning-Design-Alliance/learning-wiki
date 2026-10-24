@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: treiman-rebecca-2013
     resource: "https://doi.org/10.1080/15475441.2013.812016"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review cites meta-analytic evidence that systematic phonics instruction produces better spelling and reading outcomes than instruction without it. [→ Treiman Rebecca 2013](#treiman-rebecca-2013)

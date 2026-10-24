@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: slotnik-2015
     resource: "https://eric.ed.gov/?id=ED568386"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Districts implementing TPE from an instructional and capacity-building perspective show educators seeing more value in evaluation results, whereas mandate-driven implementation is associated with more stress about achieving a highly effective rating. [→ Slotnik 2015](#slotnik-2015)

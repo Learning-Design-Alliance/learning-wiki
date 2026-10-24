@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: gershenson-2013
     resource: "http://www.bls.gov/tus/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Decomposing ATUS childcare shows the summer parental-education gap is largely driven by college-educated parents spending more time facilitating children's activities, with an emerging income-based gap of 3 to 5 minutes in physical care and facilitation. [→ Gershenson 2013](#gershenson-2013)

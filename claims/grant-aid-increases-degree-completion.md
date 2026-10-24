@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: strong
+newest_evidence: 2018
 sources:
   - id: nguyen-2018
     resource: "http://cepa.stanford.edu/wp18-04"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Grant aid increases on-time degree completion by 2.4 percentage points. [→ Nguyen 2018](#nguyen-2018)

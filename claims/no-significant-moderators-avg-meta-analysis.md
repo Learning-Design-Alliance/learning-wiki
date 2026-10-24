@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: benoit-bediou-2023
     resource: "https://doi.org/10.1037/tmb0000102"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Moderator analyses found no significant moderating influence of cognitive domain, dependent measure type, effect category, recruitment method (cross-sectional), or training duration (intervention). [→ Benoit Bediou 2023](#benoit-bediou-2023)

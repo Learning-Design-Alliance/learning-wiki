@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: project-based-learning-improves-achievement
 evidence_strength: undetermined
+newest_evidence: 2019
 sources:
   - id: chen-yang-2019
     resource: "https://doi.org/10.1016/j.edurev.2018.11.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=12,585 students (189 schools, 9 countries; 46 effect sizes)
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 Scope: sustained, inquiry-driven work organized around a driving question or authentic problem, culminating in a product or performance — distinct from short end-of-unit activities labeled "projects." The claim concerns *measured achievement*, not engagement or motivation alone.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: clinton-2017
     resource: "https://doi.org/10.4018/978-1-5225-1005-5.ch010"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Total fixation duration on the text showed a condition by prior knowledge interaction, F(2, 51) = 23.63, p < .001, with low prior knowledge students processing the text more in the original condition and middle prior knowledge students processing it more in the revised condition. [→ Clinton 2017](#clinton-2017)

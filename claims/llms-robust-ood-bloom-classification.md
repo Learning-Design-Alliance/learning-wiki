@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: michael-lawrence-castanares-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27749"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` GPT-4.1 and Gemini Flash 3.1 achieved OOD macro F1-scores from 0.41 to 0.79, the strongest OOD baseline performance. [→ Michael Lawrence Castanares 2026](#michael-lawrence-castanares-2026)

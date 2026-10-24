@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hadi-yasser-h-2026
     resource: "https://doi.org/10.1002/jmrs.70119"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most radiographers check HU values only sometimes (37.4%), rarely (35.2%) or never (13.4%), with regular verification reported by a small minority. [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)

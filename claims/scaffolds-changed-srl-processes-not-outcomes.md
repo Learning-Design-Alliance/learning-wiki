@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: joep-van-der-graaf-2023
     resource: "https://doi.org/10.1007/s11409-023-09361-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The personalized condition showed more high cognition and monitoring than the control condition, but there was no effect on the temporal structure of the overall SRL process. [→ Joep van der Graaf 2023](#joep-van-der-graaf-2023)

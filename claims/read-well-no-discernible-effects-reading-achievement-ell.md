@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: read-well-2010
     resource: "http://store.cambiumlearning.com/resource.aspx?page=ProgramOverview&site=sw&parentId=019005451"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC found no statistically significant or substantively important effects of Read Well® on reading achievement (DIBELS Nonsense Word Fluency and GORT-4) for English language learners. [→ Read Well® 2010](#read-well-2010)

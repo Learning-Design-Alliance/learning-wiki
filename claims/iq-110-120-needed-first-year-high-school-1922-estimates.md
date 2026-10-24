@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: cobb-1922
     resource: "https://eric.ed.gov/?q=The+Limits+Set+to+Educational+Achievement+by+Limited+Intelligence"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Providence estimate implies an IQ of 120 is necessary for successful first-year high school work, while Terman predicts average high school success at IQ 110, the estimates never differing by more than a year. [→ Cobb 1922](#cobb-1922)

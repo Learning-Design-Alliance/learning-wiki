@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: niklas-humble-2026
     resource: "https://doi.org/10.1007/s10805-026-09758-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a red-team adversarial evaluation of Microsoft Copilot grading a synthetic failing essay, a prompt injection hidden behind an image layer succeeded in 17 of 18 iterations, and a revised end-of-document injection succeeded in 9 of 9 iterations, changing the grade without detection. [→ Niklas Humble 2026](#niklas-humble-2026)

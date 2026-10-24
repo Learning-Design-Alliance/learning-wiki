@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zsolt-csibi-2026
     resource: "https://doi.org/10.48550/arxiv.2605.02402"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across 5 folds, differences in Accuracy (t = −0.0464, p = 0.9652), Weighted F1 (t = 0.2862, p = 0.7889) and Macro-F1 (t = −0.9815, p = 0.3819) were not significant, while ROC-AUC differed significantly (t = 5.5053, p = 0.0053) favouring the shallow model. [→ Zsolt Csibi 2026](#zsolt-csibi-2026)

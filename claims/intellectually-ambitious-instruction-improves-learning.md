@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: smylie-2006
     resource: "https://consortium.uchicago.edu/publications/promoting-instructional-improvement-strategic-human-resource-management-perspective"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students exposed to teaching demanding complex, higher-order intellectual work are likely to perform as well or better academically than students exposed primarily to basic skills instruction. [→ Smylie 2006](#smylie-2006)

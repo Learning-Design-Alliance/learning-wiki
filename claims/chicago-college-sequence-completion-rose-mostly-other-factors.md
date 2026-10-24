@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: shazia-rafiullah-miller-2002
     resource: "https://consortium.uchicago.edu/publications/student-performance-course-taking-test-scores-and-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percent of high school eligible students passing the full college preparatory sequence in four years rose from 9.6 to 15.8 percent; after adjustment the rate was 12.8 percent, with 25 percent of the unadjusted increase due to composition change and 75 percent due to other factors such as increased requirements. [→ Shazia Rafiullah Miller 2002](#shazia-rafiullah-miller-2002)

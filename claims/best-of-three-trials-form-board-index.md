@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: wallin-1915
     resource: "https://search.worldcat.org/search?q=Age+Norms+of+Psycho-Motor+Capacity"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The form board should be given at least three times because scores improve from test to test and repetition effects vary by intelligence, type, age, and sex; the best record in three trials is the fairest single index. [→ Wallin 1915](#wallin-1915)

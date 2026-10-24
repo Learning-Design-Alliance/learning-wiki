@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: dubin-and-taveggia-1968
     title: "Dubin, R., & Taveggia, T. C. (1968). *The teaching-learning paradox: A comparative analysis of college teaching methods*. Center for the Advanced Study of Educational Administration, University of Oregon."
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 review `r?`, 1 causal `r?` · `q2`–`q3`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 Lecture is not a uniformly inferior instructional method — reviews find it performs about as well as most alternatives for the specific goal of transmitting information. But for the distinct goal of promoting active thought (problem-solving, synthesis, application), lecture measurably underperforms discussion, plausibly because a lecture's passive listener role leaves little cognitive room for anything beyond selecting information and note-taking.
 

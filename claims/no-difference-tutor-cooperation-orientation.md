@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 1995
 sources:
   - id: moust-1995
     resource: "https://link.springer.com/journal/11251"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No differences were found between student and staff tutors with respect to tutors' focus on cooperation between the members of the group. [→ Moust 1995](#moust-1995)

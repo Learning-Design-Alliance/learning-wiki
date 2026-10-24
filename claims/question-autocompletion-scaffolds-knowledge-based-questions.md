@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 associational `r1`, 1 design `r3` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 74.9% of all submitted queries in Study 2 utilized autocompletion. [→ autocomp-adoption](#autocomp-adoption)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ayanwale-2026
     resource: "https://doi.org/10.1016/j.chbah.2026.100263"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Group × Gender interaction on Post_CT_Total was not statistically significant, F(1, 70) = 0.41, p = .527, partial η2 = .006, so Hypothesis 3 was not supported. [→ Ayanwale 2026](#ayanwale-2026)

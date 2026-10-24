@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: matin-amoozadeh-and-amin-alipour-2026
     resource: "https://doi.org/10.48550/arxiv.2608.17919"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instrumental/procedural questions showed the largest statistically significant difference in Session 1 (Δ = +1.03, p = .013), favouring continuing-generation students, and remained the second-largest advantage in Session 2 (Δ = +1.44). [→ Matin Amoozadeh and Amin Alipour 2026](#matin-amoozadeh-and-amin-alipour-2026)

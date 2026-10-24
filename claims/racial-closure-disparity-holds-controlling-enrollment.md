@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: isaacs-2025
     resource: "https://www.nwea.org/research/publication/post-pandemic-school-closure-trends-schools-serving-black-students-disproportionately-closed/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In a logistic regression of 2024-25 closures, at each enrollment-drop level examined, schools serving predominantly Black students were more likely to close than those serving few Black students. [→ Isaacs 2025](#isaacs-2025)

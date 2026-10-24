@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: rudolph-2025
     resource: "https://doi.org/10.37074/jalt.2025.8.1.1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The editorial argues AI is not inherently autonomous, intelligent, or objective, but a product of human ingenuity dependent on vast and often exploitative labour and data extraction practices. [→ Rudolph 2025](#rudolph-2025)

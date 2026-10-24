@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: mayer-1911
     resource: "https://www.jstor.org/stable/1412853"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The performances in question are determined by unconscious motives, and their mechanism is similar to that which Freud attributes to hysteria and allied neuroses. [→ Mayer 1911](#mayer-1911)

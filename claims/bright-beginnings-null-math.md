@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: math-1
     title: math-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` On the WJ-III Applied Problems subtest (effect size 0.18), the CMA-A Composite Score (0.10), and the Shape Composition task (-0.07), differences between the Bright Beginnings and comparison groups were not statistically significant, with a domain average effect size of 0.07. [→ math-1](#math-1)

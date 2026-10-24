@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: minju-park-2026
     resource: "https://doi.org/10.48550/arxiv.2605.04534"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` S61, who used all categories except Generating Answers, showed steadily increasing midterm scores (69% to 72% to 79%). [→ Minju Park 2026](#minju-park-2026)

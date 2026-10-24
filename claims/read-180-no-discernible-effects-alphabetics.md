@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: read-180-2016
     resource: "http://www.hmhco.com/products/read-180/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In two studies meeting standards without reservations, alphabetics outcomes (Stanford 10 Spelling, Test of Word Reading Efficiency) were neither statistically significant nor substantively important, yielding a no-discernible-effects rating (average improvement index 0). [→ READ 180® 2016](#read-180-2016)

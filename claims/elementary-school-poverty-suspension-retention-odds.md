@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: irsheid-2023
     resource: "https://consortium.uchicago.edu/publications/beyond-the-student"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Comparing students with similar test scores, grades, and attendance, odds of being retained were 32% higher in schools where more than 1% of students are suspended in a year, and 100% higher in top-quartile-poverty schools than bottom-quartile schools. [→ Irsheid 2023](#irsheid-2023)

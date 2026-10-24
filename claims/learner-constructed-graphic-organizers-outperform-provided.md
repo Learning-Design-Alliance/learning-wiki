@@ -8,6 +8,7 @@ generated:
 id: learner-constructed-graphic-organizers-outperform-provided
 aliases: [learner-generated-organizers-beat-provided-organizers]
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: schroeder-et-al-2018
     resource: "https://doi.org/10.1007/s10648-017-9403-9"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Learner Constructed Graphic Organizers Outperform Provided -->
 
 The hypothesis that learners who construct their own graphic organizers (concept maps, diagrams, knowledge maps) learn more deeply than learners who study provided ones, because construction forces active selection, organization and integration, is not supported by the evidence recorded here. The one controlled head-to-head comparison (Stull & Mayer 2007, three experiments with college readers of a textbook passage) found provided organizers produced better transfer and no difference in retention; a meta-analysis (Schroeder et al. 2018) found a larger effect for constructing concept maps than for studying them, but each against its own comparison conditions, so it does not test the two against each other.

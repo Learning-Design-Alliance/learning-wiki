@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-18
 sources:
   - id: owsley-cynthia-2012
     resource: "https://doi.org/10.1016/j.visres.2012.11.014"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Practice on UFOV-based computer tasks leads to reductions in minimum duration thresholds, and training benefits are still manifest up to two years later. [→ Owsley Cynthia 2012](#owsley-cynthia-2012)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: li-s-2023
     title: Li S 2023
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The indirect effect via educational processes was larger for girls (βsimple = 0.29) than boys (βsimple = 0.16) in Model A, with a significant difference of 0.13. [→ Li S 2023](#li-s-2023)

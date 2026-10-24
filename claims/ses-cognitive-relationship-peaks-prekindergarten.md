@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: mollborn-2014
     resource: "https://doi.org/10.1016/j.alcr.2014.03.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Growth curve analyses of ECLS-B data show the SES–cognitive (reading and math) relationship increased sharply from infancy to around age 4–4½, then decreased slightly through kindergarten start. [→ Mollborn 2014](#mollborn-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: rosenzweig-2021
     resource: "https://doi.org/10.1037/edu0000456"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` URM students were more likely to leave biomedical fields (OR = 1.25), and the indirect effect of URM status on attrition through biology course grades was significant. [→ Rosenzweig 2021](#rosenzweig-2021)

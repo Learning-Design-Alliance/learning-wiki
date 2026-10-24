@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: rentz-2024
     resource: "https://ies.ed.gov/ncee/rel/Products/Region/pacific/Publication/108210"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Secondary education/special education majors had the fastest estimated average graduation time of 2 years, followed by 2.3 years for elementary education and 3.1 years for early childhood education; non-education majors averaged 3.8 years, the only majors exceeding the part-time expectation. [→ Rentz 2024](#rentz-2024)

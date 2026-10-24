@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-14
 sources:
   - id: richard-e-mayer-2008
     resource: "https://doi.org/10.1037/0003-066x.63.8.760"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2008 · checked against its sources 2026-10-14 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In 5 of 5 experiments, people who received animation and narration performed better on transfer tests than people who received animation, narration, and on-screen text, median d = 0.72. [→ Richard E. Mayer 2008](#richard-e-mayer-2008)

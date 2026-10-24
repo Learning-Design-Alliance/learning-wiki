@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under FGP, Qwen2.5-7B improves CatCons by 18.20 points and Spark Max by 10.89 points in the computer science domain. [→ catcons-gain](#catcons-gain)

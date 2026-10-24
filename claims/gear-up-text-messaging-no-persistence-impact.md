@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: alina-martinez-2021
     resource: "https://www.mathematica.org/publications/study-of-college-transition-messaging-in-gear-up-impacts-on-enrolling-and-staying-in-college"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The messaging did not increase persistence through the first year and into a second year of college for GEAR UP students. [→ Alina Martinez 2021](#alina-martinez-2021)

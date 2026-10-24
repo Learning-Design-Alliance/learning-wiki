@@ -17,12 +17,14 @@ sources:
     rigour: "?"
 id: worked-examples-reduce-novice-search
 evidence_strength: moderate
+newest_evidence: 1985
 ---
 
 # Worked examples reduce unnecessary search for novices.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=multiple class-based studies
+> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
 
 When novices study a fully or partially solved example before independent problem solving, they spend less effort on blind search and can devote more attention to understanding structure and procedure.
 

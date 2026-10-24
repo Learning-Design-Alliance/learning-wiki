@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: aydinbek-c-2022
     resource: "https://doi.org/10.5897/ERR2022.4230"
@@ -50,6 +51,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 3 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3`
+> **Currency** · newest study 2022 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instruction incorporating explicit techniques leads to more substantial effects than implicit instruction in L2 learning. [→ Aydinbek C 2022](#aydinbek-c-2022)

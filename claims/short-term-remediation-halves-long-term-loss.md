@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: kaffenberger-2021
     resource: "https://doi.org/10.1016/j.ijedudev.2020.102326"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Modelling remediation of missed grade 3 content during grade 4 raises grade 10 learning by half a school year but does not fully compensate for the shock. [→ Kaffenberger 2021](#kaffenberger-2021)

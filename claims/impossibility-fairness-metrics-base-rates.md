@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: mcconvey-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38552"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` A mathematical impossibility result, cited from prior work, constrains all post-hoc fairness interventions: with differing group base rates, calibration, equalized odds, and statistical parity cannot be satisfied at once. [→ McConvey 2026](#mcconvey-2026)

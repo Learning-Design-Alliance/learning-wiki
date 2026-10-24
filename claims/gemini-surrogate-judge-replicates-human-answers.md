@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Gemini achieved the same mean pairwise agreement with human judges on correct answers as Phi-2 (Cohen's kappa = 0.76) and 89.1% accuracy against the human majority, supporting its use as a surrogate judge. [→ gemini-answer-agreement-1](#gemini-answer-agreement-1)

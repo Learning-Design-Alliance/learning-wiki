@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: improving-chicagos-schools-sample-high-school-summary-2005-2005
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-sample-high-school-summary-2005"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In spring 2005, nearly 130,000 students, teachers, and principals across the Chicago public school system participated in the Improving Chicago's Schools survey. [→ Improving Chicago's Schools: Sample High School Summary 2005 2005](#improving-chicagos-schools-sample-high-school-summary-2005-2005)

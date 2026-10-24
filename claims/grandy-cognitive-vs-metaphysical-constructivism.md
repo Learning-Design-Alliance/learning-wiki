@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1998
 sources:
   - id: michael-r-matthews-ed-1998
     resource: "https://doi.org/10.1007/978-94-011-5032-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Grandy argues that claims of cognitive constructivism need to be distinguished from those of metaphysical constructivism, and that cognitive constructivism has strong empirical support and suggests important new directions for science education. [→ Michael R. Matthews (ed.) 1998](#michael-r-matthews-ed-1998)

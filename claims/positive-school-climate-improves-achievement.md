@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: darling-hammond-2018
     resource: "https://doi.org/10.54300/145.655"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reviews of more than 400 studies find that a positive school climate improves academic achievement overall, reduces poverty's negative effects on achievement, and boosts grades, test scores, and engagement. [→ Darling-Hammond 2018](#darling-hammond-2018)

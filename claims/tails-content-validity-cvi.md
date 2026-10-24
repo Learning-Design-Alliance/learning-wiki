@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: salim-nabhan-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100583"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Seven expert reviewers rated all 30 TAILS items with I-CVI values from 0.86 to 1.00 and a scale-level S-CVI/Ave of 0.98, exceeding the excellent-content-validity threshold. [→ Salim Nabhan 2026](#salim-nabhan-2026)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: roschelle-2024
     resource: "https://doi.org/10.51388/20.500.12265/204"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A review of seven state guidance documents identified seven major themes present in most but not all documents, spanning workforce needs, human-centered responsible use, AI literacy and professional development, equity and inclusion, data privacy and security, pedagogical considerations, and computer science education. [→ Roschelle 2024](#roschelle-2024)

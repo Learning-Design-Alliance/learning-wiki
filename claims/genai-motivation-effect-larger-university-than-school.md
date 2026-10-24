@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: fang-l-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1832451"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between-subgroup differences by education stage were significant (QBET = 13.536, df = 2, p < 0.05), with university students showing the largest effect (g = 0.886), followed by secondary (g = 0.360) and primary students (g = 0.311). [→ Fang L 2026](#fang-l-2026)

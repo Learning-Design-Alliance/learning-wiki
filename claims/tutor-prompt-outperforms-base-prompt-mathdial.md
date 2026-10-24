@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: jarosław-a-chudziak-and-adam-kostka-2025
     resource: "https://doi.org/10.48550/arxiv.2507.12484"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In simulated MathDial dialogues, the Tutor Prompt significantly outperformed the Base Prompt for each model, achieving superior Success@N and far lower Telling@N rates over interaction lengths (K). [→ Jarosław A. Chudziak and Adam Kostka 2025](#jarosaw-a-chudziak-and-adam-kostka-2025)

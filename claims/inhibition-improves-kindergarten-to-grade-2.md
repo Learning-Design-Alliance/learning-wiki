@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: sonja-kälin-2022
     resource: "https://doi.org/10.1007/s11409-022-09306-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i3` The Stroop inverse-efficiency score improved significantly from T1 to T2 (ηp² = 0.295). [→ Sonja Kälin 2022](#sonja-kalin-2022)

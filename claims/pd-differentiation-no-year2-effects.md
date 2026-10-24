@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-23
 sources:
   - id: prast-2018
     resource: "https://doi.org/10.1016/j.learninstruc.2018.01.009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participation in the PD in Year 2 did not significantly affect the achievement growth slope (β = 0.03, p = .640), and PD in Year 1 had no significant long-term effect on Cohort 1 students in Year 2 (β = −0.06, p = .665). [→ Prast 2018](#prast-2018)

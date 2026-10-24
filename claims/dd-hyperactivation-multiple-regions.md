@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: rosenberg-lee-2014
     resource: "https://doi.org/10.1111/desc.12216"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across both operations, children with DD had greater activity in right IPS, bilateral fusiform gyrus, left lingual gyrus, right visual cortex, and multiple prefrontal regions. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)

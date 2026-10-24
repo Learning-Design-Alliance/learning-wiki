@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: elias-walsh-2014
     resource: "https://www.mathematica.org/publications/measuring-teacher-and-school-value-added-in-oklahoma-20122013-school-year"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The state of Oklahoma's Pilot Teacher and Leader Evaluation System applied a value-added model producing measures of teacher and school effectiveness based on instruction during the 2012-2013 school year. [→ Elias Walsh 2014](#elias-walsh-2014)

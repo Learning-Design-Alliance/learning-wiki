@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: jacquelynne-s-eccles-allan-wigfield-2024
     resource: "https://doi.org/10.1007/s10648-024-09888-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Junior high math teachers were more controlling, less trusting, and used more social-comparative grading than elementary teachers; where these changes were strongest, students showed larger declines in math expectancies, ability self-concepts, and task values. [→ Jacquelynne S. Eccles · Allan Wigfield 2024](#jacquelynne-s-eccles-allan-wigfield-2024)

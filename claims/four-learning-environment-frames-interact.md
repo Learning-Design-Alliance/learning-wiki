@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: dennis-2022
     resource: "https://doi.org/10.21432/cjlt28123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Bransford et al. hold that the agency in designing a learning environment rests on the interaction of community-, knowledge-, learner-, and assessment-centered frames, not on any one frame alone. [→ Dennis 2022](#dennis-2022)

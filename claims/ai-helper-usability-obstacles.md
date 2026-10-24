@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-18
+recheck_by: 2028
 sources:
   - id: tzirides-2025
     resource: "https://doi.org/10.35542/osf.io/s8hqe_v1"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Several students initially hit a platform error where the AI did not recognize their text; feedback generation took minutes; and some students found the feedback vocabulary too difficult. [→ Tzirides 2025](#tzirides-2025)

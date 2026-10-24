@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-23
 sources:
   - id: bindman-2015
     resource: "https://doi.org/10.1037/edu0000017"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After adding negative affectivity, surgency/extraversion, effortful control, and Picture Vocabulary scores as additional mediators, the indirect paths from autonomy support via executive functions remained significant (Sobel Zs > 3.19, ps < .01), accounting for 60% (elementary) and 28% (high school) of the total effects. [→ Bindman 2015](#bindman-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: reichert-2026
     resource: "https://doi.org/10.1007/978-3-032-31048-4_32"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers maintain authority boundaries under which they retain ultimate control because professional responsibility cannot be delegated to AI. [→ Reichert 2026](#reichert-2026)

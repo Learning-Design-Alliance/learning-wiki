@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: vi-ly-dianne-a-vella-brodrick-2024
     resource: "https://doi.org/10.1007/s10648-024-09963-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two studies found girls exposed to nature interventions reported higher PA than girls in control conditions while boys showed no significant group differences; four studies found boys more active than girls regardless of condition. [→ Vi Ly · Dianne A. Vella-Brodrick 2024](#vi-ly-dianne-a-vella-brodrick-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: lee-2008
     resource: "https://etda.libraries.psu.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants given generative learning strategy prompts with metacognitive feedback scored significantly higher in self-regulation, quality of generative learning strategy use, and recall and comprehension than participants given only generative learning strategy tools, after controlling for prior domain knowledge. [→ Lee 2008](#lee-2008)

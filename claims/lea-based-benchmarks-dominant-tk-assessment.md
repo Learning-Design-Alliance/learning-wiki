@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: wang-2024
     resource: "https://doi.org/10.54300/597.103"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two thirds (66%) of LEAs used LEA-based grade-level benchmarks and report cards for TK, while 20% used the Desired Results Developmental Profile, 13% the Work Sampling System, and 8% used no common TK assessment. [→ Wang 2024](#wang-2024)

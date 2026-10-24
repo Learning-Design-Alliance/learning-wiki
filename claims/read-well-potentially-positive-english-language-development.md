@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: read-well-2010
     resource: "http://store.cambiumlearning.com/resource.aspx?page=ProgramOverview&site=sw&parentId=019005451"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The Frasco (2008) study reported a positive difference in receptive vocabulary gains on the PPVT-III, with a WWC-calculated effect size of 0.56 and an improvement index of +21.06 percentile points, though the WWC recalculation found it not statistically significant. [→ Read Well® 2010](#read-well-2010)

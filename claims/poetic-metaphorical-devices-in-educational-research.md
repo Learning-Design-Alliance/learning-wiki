@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: joel-r-levin-2011
     resource: "https://doi.org/10.1007/s10648-011-9156-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Levin's verse commentary presents, satirically, the argument that poetry and metaphor can serve as tools for understanding effects and causes in educational research. [→ Joel R. Levin 2011](#joel-r-levin-2011)

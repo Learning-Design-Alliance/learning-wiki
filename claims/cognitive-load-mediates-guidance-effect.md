@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: julia-kienzler-2023
     resource: "https://doi.org/10.1007/s11251-023-09627-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Multi-categorical mediation showed significant indirect effects via germane load (a2b = 0.1512, 95% CI [0.046, 0.281]) and extraneous load (a2b = 0.095, 95% CI [0.019, 0.192]) for input-before conditions; no standardized effect size printed. [→ Julia Kienzler 2023](#julia-kienzler-2023)

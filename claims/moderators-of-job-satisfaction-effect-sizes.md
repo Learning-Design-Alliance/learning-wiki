@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: wartenberg-2023
     resource: "https://doi.org/10.1007/s10648-023-09831-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Effect sizes increased over publication year for general teacher-student interactions (β = 0.01, p < 0.001) and decreased for turnover intentions; published studies showed stronger associations for instructional support (β = 0.18) and general interactions (β = 0.09). [→ Wartenberg 2023](#wartenberg-2023)

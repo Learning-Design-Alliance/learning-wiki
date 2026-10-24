@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: rosendahl-2024
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/stabilizing-school-performance-indicators-new-jersey-reduce-effect-random-error"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Stabilization reduced overrepresentation of groups of 10 to 19 students in the top and bottom 5th percentile of score distributions for every test-based indicator; for proficiency indicators the stabilized representation was close to expected. [→ Rosendahl 2024](#rosendahl-2024)

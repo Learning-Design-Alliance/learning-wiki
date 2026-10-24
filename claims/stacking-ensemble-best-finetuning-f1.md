@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: josmario-albuquerque-2026
     resource: "https://doi.org/10.18608/jla.2026.8905"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 120 evaluated stack configurations, the best-performing stack (LG, SVM, NB, KNN, XGB) achieved an F1-score of 0.88 during fine-tuning, exceeding SVM's second-highest 0.86. [→ Josmario Albuquerque 2026](#josmario-albuquerque-2026)

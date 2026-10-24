@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: rickles-2016
     resource: "https://www.air.org/CreditRecovery"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 56% of students who failed Algebra I missed 30 or more days of ninth grade versus 14% of students who passed, and students who failed were more than twice as likely to be suspended (46% vs. 16%). [→ Rickles 2016](#rickles-2016)

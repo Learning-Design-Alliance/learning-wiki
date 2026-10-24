@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: keller-2023
     resource: "https://doi.org/10.1007/s10648-023-09733-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior intersectional MAIHDA applications examined health outcomes including chronic obstructive pulmonary disease, body mass index, eating-related pathology, and depression. [→ Keller 2023](#keller-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: cunningham-2025
     resource: "https://hdl.handle.net/10446/299265"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The 12-week MAST programme produced a significant effect on fundamental movement skills (d = 0.65) in first-year primary school children. [→ Cunningham 2025](#cunningham-2025)

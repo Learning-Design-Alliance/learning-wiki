@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: steffen-zitzmann-2025
     resource: "https://doi.org/10.1007/s10648-025-10015-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When the dependent variable has a low alpha, the unstandardized coefficient is unbiased while the standardized coefficient is attenuated, particularly when alpha is low. [→ Steffen Zitzmann 2025](#steffen-zitzmann-2025)

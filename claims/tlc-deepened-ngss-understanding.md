@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: tyler-2018
     resource: "https://eric.ed.gov/?id=ED596757"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over 80 percent of surveyed teachers reported their 2016-17 TLCs deepened understanding of DCIs (84 percent), SEPs (80 percent), CCCs (81 percent), and 78 percent reported deepened understanding of using a 3D approach to build understanding of a phenomenon. [→ Tyler 2018](#tyler-2018)

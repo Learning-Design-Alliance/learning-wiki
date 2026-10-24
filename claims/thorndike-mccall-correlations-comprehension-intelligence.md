@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1921
+source_checked: 2026-10-24
 sources:
   - id: arthur-i-gates-1921
     resource: "https://doi.org/10.1037/h0068367"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 1921 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The Thorndike-McCall yields correlations of about 0.50 with almost any other single comprehension test, 0.50 with vocabulary tests, 0.57 with an oral reading test, and a mean of 0.69 with composites of group intelligence tests. [→ Arthur I. Gates 1921](#arthur-i-gates-1921)

@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: wisittanawat-lehrer-2024
     resource: "https://doi.org/10.1080/07370008.2024.2397969"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · `i1` small · n=28 sixth-grade students (modal age 11, 72% eligible for lunch supplements), one classroom, 4 weeks (15 lessons)
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Across a 4-week statistical modeling unit taught by a teacher with no specialized statistics training, nearly all identified classroom episodes involving one of four foundational modeling aspects also included an explicit, identifiable form of dialogic teacher support for that aspect, and students showed qualitative progress on all four aspects by the unit's end.
 

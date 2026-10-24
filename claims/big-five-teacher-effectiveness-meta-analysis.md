@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: lisa-e-kim-2019
     resource: "https://doi.org/10.1007/s10648-018-9458-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In a random-effects meta-analysis, extraversion (r = .17), conscientiousness (r = .13), emotional stability (r = .10), and openness (r = .10) were significant positive correlates of teacher effectiveness, whereas agreeableness was not (r = .03, p > .05). [→ Lisa E. Kim 2019](#lisa-e-kim-2019)

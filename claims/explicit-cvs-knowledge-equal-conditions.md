@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2003
+source_checked: 2026-10-20
 sources:
   - id: triona-2003
     resource: "https://doi.org/10.1207/s1532690xci2102_02"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2003 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children's explicit mentions of controlling all variables besides the target increased after training in both conditions, with no condition main effect or interaction. [→ Triona 2003](#triona-2003)

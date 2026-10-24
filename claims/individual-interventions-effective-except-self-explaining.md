@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: anja-prinz-stefanie-golke-jörg-wittwer-2020
     resource: "https://doi.org/10.1007/s10648-020-09558-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Moderator analysis showed significant positive average effects for rereading, delayed-keywords listing, delayed-summary writing, delayed-diagram completion, and setting a comprehension-test expectancy, a marginally significant effect for concept mapping (p = .097), and a non-significant effect for self-explaining. [→ Anja Prinz & Stefanie Golke & Jörg Wittwer 2020](#anja-prinz-stefanie-golke-jorg-wittwer-2020)

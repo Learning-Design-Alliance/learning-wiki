@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: a-pradheepa-2025
     resource: "https://doi.org/10.29140/ajal.v8n1.2073"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A meta-analysis by Tsai and Liu (2018), as reported by this review, found digital games effective for SLV acquisition with positive long-term retention effects. [→ A. Pradheepa 2025](#a-pradheepa-2025)

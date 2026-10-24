@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1920
 sources:
   - id: no-author-line-1920
     resource: "https://eric.ed.gov/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Stanford-Binet intelligence rating of the delinquent women gave a mean of 11.8 years compared with 13.4 years for an army group, but the reviewers report the overlapping is so great that other important causes must be sought. [→ No author line 1920](#no-author-line-1920)

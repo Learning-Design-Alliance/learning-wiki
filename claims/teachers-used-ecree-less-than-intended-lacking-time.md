@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: tareena-musaddiq-2023
     resource: "https://www.mathematica.org/publications/teaching-and-learning-writing-with-ecree-insights-for-school-and-district-leaders"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Implementation fell short of intended use: teachers used Ecree less than intended, and some reported insufficient time to learn the tool and integrate it with their instruction. [→ Tareena Musaddiq 2023](#tareena-musaddiq-2023)

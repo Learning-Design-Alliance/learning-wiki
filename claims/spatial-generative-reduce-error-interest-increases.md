@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-16
 sources:
   - id: wiley-2019
     resource: "https://doi.org/10.1002/acp.3495"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All three predictors (spatial thinking contrast, generative activity contrast, interest ratings) significantly predicted absolute error in monitoring. [→ Wiley 2019](#wiley-2019)

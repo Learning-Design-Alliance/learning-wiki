@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: laura-a-outhwaite-2024
     resource: "https://doi.org/10.1007/s10648-024-09950-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only 11 mathematical assessments and one screener concurrently aligned with other validated tools; Woodcock-Johnson Math subtests and TEMA-3 were the most used references. [→ Laura A. Outhwaite 2024](#laura-a-outhwaite-2024)

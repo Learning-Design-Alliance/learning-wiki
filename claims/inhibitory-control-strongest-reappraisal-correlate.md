@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shi-guochun-2026
     resource: "https://doi.org/10.1186/s40359-026-05038-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Inhibitory control emerged as the strongest concurrent correlate of reappraisal (β = 0.31, p < .001), ahead of working memory (β = 0.19) and cognitive flexibility (β = 0.14). [→ Shi Guochun 2026](#shi-guochun-2026)

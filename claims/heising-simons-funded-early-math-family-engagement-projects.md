@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: jaimie-grazi-2020
     resource: "https://www.mathematica.org/publications/scaling-up-early-math-programs-recommendations-from-a-study-on-engaging-families-with-early-math"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Beginning in 2013, the Heising-Simons Foundation invited family engagement providers to develop, test, and integrate research-based early math projects within their existing family engagement programs. [→ Jaimie Grazi 2020](#jaimie-grazi-2020)

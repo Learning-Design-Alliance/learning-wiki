@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: rural-turnaround-challenges-and-opportunities-2014
     resource: "https://centeronschoolturnaround.org/journeys"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Amargosa's plan to run an online PLC with a school over 50 miles away failed initially because the school lacked sufficient internet bandwidth, temporarily delaying effective group conversations. [→ Rural Turnaround: Challenges and Opportunities 2014](#rural-turnaround-challenges-and-opportunities-2014)

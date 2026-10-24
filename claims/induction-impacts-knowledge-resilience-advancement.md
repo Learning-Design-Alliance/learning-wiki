@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: wechsler-2024
     resource: "https://doi.org/10.54300/636.224"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Program staff, coaches, and participants attributed improved leadership knowledge and skills—especially purposeful, critical reflection—to coaching and professional development. [→ Wechsler 2024](#wechsler-2024)

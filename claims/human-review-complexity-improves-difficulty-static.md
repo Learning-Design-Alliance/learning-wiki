@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: antonio-laverghetta-jr-2024
     resource: "https://doi.org/10.48550/arxiv.2409.00202"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For complexity, round five shows a much larger fraction of items at the ideal level than round one; trends for difficulty are more static, with quite similar distributions. [→ Antonio Laverghetta Jr. 2024](#antonio-laverghetta-jr-2024)

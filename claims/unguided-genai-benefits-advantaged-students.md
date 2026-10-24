@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: linus-brunnström-lisa-palmqvist-2026
     resource: "https://doi.org/10.1080/02602938.2026.2731261"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that students with strong study habits, high motivation, and confidence in directing an AI system benefit disproportionately, while students with weaker study skills or lower academic self-efficacy may experience the tool as a source of complexity and frustration. [→ Linus Brunnström & Lisa Palmqvist 2026](#linus-brunnstrom-lisa-palmqvist-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: harris-2023
     resource: "https://eric.ed.gov/?id=ED638504"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students generally perceived their teachers as using M-PLANS-aligned instructional practices, and these perceptions were associated with students' higher levels of positive motivational beliefs. [→ Harris 2023](#harris-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: xiaoxuan-li-julia-chatain-fan-wang-manu-kapur-2026
     resource: "https://doi.org/10.1007/s10648-026-10194-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Immersion was a significant within-subject moderator (F = 13.01, p < .01), but the largest category estimate was based on a single effect size. [→ Xiaoxuan Li · Julia Chatain · Fan Wang · Manu Kapur 2026](#xiaoxuan-li-julia-chatain-fan-wang-manu-kapur-2026)

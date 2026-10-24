@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: jacob-2004
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-response-teachers-and-students"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 1999, 85 percent of teachers and almost 90 percent of principals agreed that nearly all teachers felt extra responsibility to help students meet standards, and more than 80 percent reported being more sensitive to individual student needs. [→ Jacob 2004](#jacob-2004)

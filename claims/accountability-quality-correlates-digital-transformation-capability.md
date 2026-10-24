@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: teguh-triwiyanto-2024
     resource: "https://doi.org/10.11591/edulearn.v18i4.21692"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Among 51 respondents from 22 Malang City public elementary schools, accountability management system quality correlates positively and highly with school digital transformation capability (r = 0.698, p = .000). [→ Teguh Triwiyanto 2024](#teguh-triwiyanto-2024)

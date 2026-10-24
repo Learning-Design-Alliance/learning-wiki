@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In transfer, only the main effect for Choice on absolute difference was significant (F(1,42) = 19.29, p< 0.001, ηp2 = 0.31): self-controlled groups (M = 14.68) were more accurate than Yoked groups (M = 23.67). [→ Carter 2014](#carter-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: gast-2017
     resource: "https://doi.org/10.3102/0034654317704306"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers believed financial rewards could hinder upscaling and sustainability and attract participation only for monetary gain, preferring promotion recognition instead. [→ Gast 2017](#gast-2017)

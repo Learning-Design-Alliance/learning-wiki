@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: roschelle-2024
     resource: "https://doi.org/10.51388/20.500.12265/204"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The reviewers assert that the difficulty of explaining, inspecting, or predicting generative AI behavior underlies all the risks the states describe, because of the statistical nature of the mechanisms. [→ Roschelle 2024](#roschelle-2024)

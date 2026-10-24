@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: waasdorp-te-2012
     resource: "https://doi.org/10.1001/archpediatrics.2011.755"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-14: SWPBIS main effects on bullying and rejection are robust across sex, special education status, and ethnicity -->
 
 ## Subclaims

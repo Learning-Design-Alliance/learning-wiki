@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: conlin-2012
     resource: "https://eric.ed.gov/?q=Making+Space+to+Sensemake"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TA Joey rephrased "What happened there" as "What do you think happened there, any idea?", adding hedges, rising intonation, and kneeling, after which students offered ideas and continued sensemaking after he left. [→ Conlin 2012](#conlin-2012)

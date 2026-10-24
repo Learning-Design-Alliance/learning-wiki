@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: jaroslawska-2019
     resource: "https://doi.org/10.1037/pag0000358"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The paired standardized mean difference (Hedges' g) in the single-versus-dual task cost is -0.182, indicating the single-dual difference is smaller for younger adults than older adults. [→ Jaroslawska 2019](#jaroslawska-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-15
 sources:
   - id: zhang-s-2026
     title: Zhang S 2026
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI provides private, low-pressure practice environments that reduce fear of mistakes and negative evaluation (46 studies). [→ Zhang S 2026](#zhang-s-2026)

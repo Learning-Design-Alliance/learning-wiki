@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: shojaei-sa-2026
     title: Shojaei SA 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` GenAI use is positively associated with self-reported critical-thinking disposition in the adjusted structural model (β = 0.185, p < 0.001), while the zero-order correlation is very small (r = 0.050). [→ Shojaei SA 2026](#shojaei-sa-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: steve-woollaston-2026
     resource: "https://doi.org/10.48550/arxiv.2607.14575"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After receiving chatbot feedback, learners diverge into revising their writing (42.6%) or entering dialogue with the chatbot (38.3%), forming distinct Revision and Chat Loops. [→ Steve Woollaston 2026](#steve-woollaston-2026)

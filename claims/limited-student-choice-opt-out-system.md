@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: mary-francis-2023
     resource: "https://doi.org/10.18608/jla.2023.7975"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` While students could opt out of text messages, their data was included in the system and they had to use it to engage with some campus departments. [→ Mary Francis 2023](#mary-francis-2023)

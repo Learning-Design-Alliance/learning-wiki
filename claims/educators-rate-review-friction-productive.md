@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants rated production efficiency at 4.26/5 and the validity of the CTML-based guidance at 4.04/5 (SD=0.62), indicating the review friction was experienced as productive rather than burdensome. [→ efficiency-1](#efficiency-1)

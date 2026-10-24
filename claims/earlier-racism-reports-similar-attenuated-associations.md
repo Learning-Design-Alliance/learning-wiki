@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: coogan-p-2020
     resource: "https://doi.org/10.1002/dad2.12067"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The multivariable OR for poor SCF in the highest quartile of 1997 daily racism was 1.96 (95% CI 1.70 to 2.26), less than the 2.75 observed for 2009 reports. [→ Coogan P 2020](#coogan-p-2020)

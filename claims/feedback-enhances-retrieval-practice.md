@@ -8,6 +8,8 @@ generated:
 id: feedback-enhances-retrieval-practice
 aliases: [corrective-feedback-boosts-classroom-testing-effect]
 evidence_strength: pending
+newest_evidence: 2021
+source_checked: 2026-10-15
 sources:
   - id: yang-et-al-2021
     resource: "https://doi.org/10.1037/bul0000309"
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2021 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 Retrieval practice strengthens long-term retention, and providing feedback after retrieval attempts further improves learning by correcting errors and confirming correct responses. This page treats the *interaction* — whether feedback adds incremental value beyond retrieval alone — as a distinct claim requiring its own evidence.
 

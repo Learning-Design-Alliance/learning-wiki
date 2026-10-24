@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1911
 sources:
   - id: w-h-winch-1911
     resource: "https://eric.ed.gov/?q=Mental+Adaptation+During+the+School+Day+as+Measured+by+Arithmetical+Reasoning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Group B, working at 11.25 A.M., improved 21 per cent while Group A, working at 10 A.M., improved 15 per cent, with nearly the whole interval between tests being holiday. [→ W. H. Winch 1911](#w-h-winch-1911)

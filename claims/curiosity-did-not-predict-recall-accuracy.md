@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: xiaoyun-chen-2024
     resource: "https://doi.org/10.1007/s11409-024-09407-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Curiosity showed no significant effect on recall accuracy, contrasting with prior curiosity-learning literature. [→ Xiaoyun Chen 2024](#xiaoyun-chen-2024)

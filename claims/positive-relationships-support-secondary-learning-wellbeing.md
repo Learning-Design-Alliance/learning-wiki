@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: hernández-2024
     resource: "https://learningpolicyinstitute.org/product/cultivating-relationships-secondary-classrooms-brief"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research on the science of learning and development indicates that positive school-based relationships support and enhance young people's learning and well-being, with particular importance for youth facing poverty, trauma, and discrimination and for middle and high schoolers seeking belonging. [→ Hernández 2024](#hernandez-2024)

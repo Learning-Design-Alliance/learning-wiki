@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hans-van-der-meij-2016
     resource: "https://doi.org/10.1007/s11251-016-9394-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Compared with pre-test scores, participants' scores after working with the tutorials were higher at all three subsequent testing points, with the delayed post-test gain at d = 1.15. [→ Hans van der Meij 2016](#hans-van-der-meij-2016)

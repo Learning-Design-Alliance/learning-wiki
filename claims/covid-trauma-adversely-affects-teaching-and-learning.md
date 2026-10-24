@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: regional-educational-laboratory-mid-atlantic-2020
     resource: "https://www.mathematica.org/publications/trauma-informed-planning-strategies-to-help-students-transition-back-to-school-in-the-era-of-covid"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Many students and staff will return to school in the fall with trauma, which can adversely affect teaching and learning. [→ Regional Educational Laboratory Mid-Atlantic 2020](#regional-educational-laboratory-mid-atlantic-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: jiang-2014
     resource: "https://consortium.uchicago.edu/publications/teacher-evaluation-practice-year-2-teacher-and-administrator-perceptions-reach"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost 60 percent of teachers and 45 percent of evaluators agreed the evaluation process takes more effort than the results are worth. [→ Jiang 2014](#jiang-2014)

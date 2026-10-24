@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: stoo-sepp-2025
     resource: "https://doi.org/10.18608/jla.2025.8713"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants in the detailed text and nutrition-label conditions reported significantly higher confidence that specific data points were collected than participants in the generic control condition. [→ Stoo Sepp 2025](#stoo-sepp-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: strong
+newest_evidence: 2014
 sources:
   - id: berkeley-j-dietvorst-2014
     resource: "https://doi.org/10.1037/xge0000033"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Seeing the model perform significantly decreased confidence in the model's forecasts in all four relevant studies, whereas seeing the human perform significantly decreased confidence in the human only once. [→ Berkeley J. Dietvorst 2014](#berkeley-j-dietvorst-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: greenberg-anastasia-2013
     resource: "https://doi.org/10.1016/j.cogdev.2012.10.002"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a multiple regression with PPVT, K-BIT, and language group as predictors, language group remained significant when entered last. [→ Greenberg Anastasia 2013](#greenberg-anastasia-2013)

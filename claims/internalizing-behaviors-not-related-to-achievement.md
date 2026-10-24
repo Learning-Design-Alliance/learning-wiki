@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: nelson-2004
     title: Nelson 2004
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Internalizing problem behaviors were not found to be related to academic achievement, in contrast to externalizing behaviors. [→ Nelson 2004](#nelson-2004)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: calvin-isley-2025
     resource: "https://doi.org/10.48550/arxiv.2508.08314"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the field study, AI-generated questions had lower average IRT difficulty than standardized test questions, and students answered about 60% of AI items correctly versus 39% of standardized items. [→ Calvin Isley 2025](#calvin-isley-2025)

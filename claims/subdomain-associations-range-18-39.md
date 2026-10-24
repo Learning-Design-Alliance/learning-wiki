@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: dryden-adam-2017
     resource: "https://doi.org/10.1177/2331216517744675"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Pooled associations ranged between .18 and .39 and were significant for all subdomains except crystallized intelligence. [→ Dryden Adam 2017](#dryden-adam-2017)

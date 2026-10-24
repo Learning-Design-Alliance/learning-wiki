@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: jessica-t-decuir-gunby-paul-a-schutz-2024
     resource: "https://doi.org/10.1007/s10648-024-09873-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Byrd (2017) developed a school racial climate scale from race-focused theoretical approaches and found positive relationships between its subscales and motivational constructs such as interest, belonging, and utility value. [→ Jessica T. DeCuir-Gunby · Paul A. Schutz 2024](#jessica-t-decuir-gunby-paul-a-schutz-2024)

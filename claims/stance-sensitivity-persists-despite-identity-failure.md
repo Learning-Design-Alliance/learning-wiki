@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lixiang-yan-2026
     resource: "https://doi.org/10.48550/arxiv.2605.23426"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Supportive agents were rated substantially more supportive and markedly less conflictual than contrarian agents, and trust varied strongly by stance within AI targets. [→ Lixiang Yan 2026](#lixiang-yan-2026)

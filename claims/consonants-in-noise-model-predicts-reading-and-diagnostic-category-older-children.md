@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2018
 sources:
   - id: white-schwoch-t-2015
     title: White-Schwoch T 2015
@@ -27,6 +30,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` In 55 school-aged children (ages 8–14), the model score predicted concurrent reading competence (r[53] = 0.430) and a range of literacy tests including phonological processing (r[53] = 0.474). [→ White-Schwoch T 2015](#white-schwoch-t-2015)

@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Knowledge identification accuracy correlates positively with knowledge coverage; GLM-4-9B (84.5%), Qwen2.5-7B (83.8%), and Spark Max (81.6%) achieve the highest identification accuracies with corresponding coverage rates of 85.45%, 83.98%, and 78.03%. [→ positive-corr](#positive-corr)

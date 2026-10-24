@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-23
 sources:
   - id: drijbooms-2017
     resource: "https://doi.org/10.1007/s11145-016-9670-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-23 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Each measure in fourth grade had a significant autoregressive path to itself in sixth grade (standardized coefficients .27–.38), confirming relative stability. [→ Drijbooms 2017](#drijbooms-2017)

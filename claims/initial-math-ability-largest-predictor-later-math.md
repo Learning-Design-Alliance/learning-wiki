@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: libertus-melissa-e-2013
     resource: "https://doi.org/10.1016/j.lindif.2013.02.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the longitudinal regression, initial TEMA-3 scores accounted for 45% of variance in later math ability (partial r2 = 0.45, p < 0.001). [→ Libertus Melissa E. 2013](#libertus-melissa-e-2013)

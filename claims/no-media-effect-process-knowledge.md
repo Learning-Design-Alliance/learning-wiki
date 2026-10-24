@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: guttormsen-schär-2007
     resource: "https://doi.org/10.1080/15391523.2007.10782497"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The animation+voice setting did not produce better process knowledge than picture+voice or picture+text; the hypothesis that animations better support dynamic content learning was rejected. [→ Guttormsen Schär 2007](#guttormsen-schar-2007)

@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants with BLV report they often cannot feel whether their wrist is straight during playing and only learn of the problem when a teacher or another person observes them. [→ wrist-1](#wrist-1)

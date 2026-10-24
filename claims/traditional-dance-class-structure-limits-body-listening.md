@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: enghauser-2007
     resource: "https://doi.org/10.1080/07303084.2007.10598039"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The structure of a traditional dance class does not offer sufficient opportunities for students to develop a sensitized relationship with their body, and technical training pursued through mechanical repetition can leave dancers disembodied from their experience. [→ Enghauser 2007](#enghauser-2007)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: mahaffie-2024
     resource: "https://consortium.uchicago.edu/publications/measuring-patterns-of-immediate-and-continued-college-enrollment-among-CPSs-graduates"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Black college enrollees were somewhat more likely than other students to enroll for the first time in the spring, though only 178 of 4,176 Black immediate enrollees did so. [→ Mahaffie 2024](#mahaffie-2024)

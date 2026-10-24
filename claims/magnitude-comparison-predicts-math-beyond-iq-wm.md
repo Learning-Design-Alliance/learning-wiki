@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: xenidou-dervou-2017
     resource: "https://doi.org/10.1016/j.learninstruc.2016.11.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both nonsymbolic and symbolic comparison predicted future mathematical achievement over and above children's IQ and developing working memory capacities. [→ Xenidou-Dervou 2017](#xenidou-dervou-2017)

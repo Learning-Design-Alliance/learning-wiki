@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: lajoie-2001
     resource: "http://www.jstor.org/stable/41953546"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Proportion of expert symptoms collected during problem representation correlated with overall expert-like evidence collected (r = 0.59). [→ Lajoie 2001](#lajoie-2001)

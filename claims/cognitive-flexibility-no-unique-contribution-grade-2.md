@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: sofia-magalhães-2020
     resource: "https://doi.org/10.1080/09297049.2020.1740188"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Grade 2, entering cognitive flexibility at Step 2 did not significantly increase explained variance in literacy achievement (Fchange < 1). [→ Sofia Magalhães 2020](#sofia-magalhaes-2020)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: hernández-2023
     resource: "https://doi.org/10.54300/621.856"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Case study interviews identified eight factors that enabled relationship-centered change: establishing relationship-building structures, building trusting relationships among change drivers, creating professional development opportunities, fostering empathy-building and deep listening, elevating youth voice, finding coherence with preexisting initiatives, cultivating administrator and educator champions, and allocating fiscal resources. [→ Hernández 2023](#hernandez-2023)

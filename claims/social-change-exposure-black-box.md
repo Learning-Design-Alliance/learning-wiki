@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: anne-c-campbell-and-emelye-neff-2020
     resource: "https://doi.org/10.3102/0034654320947783"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Baxter (2018), that the assumption international study inevitably builds competencies for leading social change is challenged by research indicating exposure alone does not guarantee related skill gains. [→ Anne C. Campbell and Emelye Neff 2020](#anne-c-campbell-and-emelye-neff-2020)

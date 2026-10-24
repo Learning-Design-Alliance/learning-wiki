@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: carla-haelermans-2022
     resource: "https://doi.org/10.1007/s11251-021-09575-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Within the treatment group, the effect on grades is significant for the instruction-dependent and instruction-independent groups but not for the average group. [→ Carla Haelermans 2022](#carla-haelermans-2022)

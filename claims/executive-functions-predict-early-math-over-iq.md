@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: blair-2015
     resource: "https://doi.org/10.1146/annurev-psych-010814-015221"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Working memory and flexible shifting of attention independently predict early mathematics achievement beyond reading ability and IQ. [→ Blair 2015](#blair-2015)

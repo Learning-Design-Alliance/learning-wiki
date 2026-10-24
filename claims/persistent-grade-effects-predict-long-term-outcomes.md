@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: mckenzie-2025
     resource: "https://doi.org/10.3102/00028312251345094"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Having a ninth-grade teacher one SD above the mean on persistent effects is associated with 0.129 more AP courses, ACT scores 0.172 points higher, graduating core GPA 0.140 points higher, and a 1.4 percentage point increase in graduation probability. [→ McKenzie 2025](#mckenzie-2025)

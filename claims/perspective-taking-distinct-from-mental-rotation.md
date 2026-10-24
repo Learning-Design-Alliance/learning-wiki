@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: jeffrey-buckley-2018
     resource: "https://doi.org/10.1007/s10648-018-9432-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Confirmatory factor analysis of a validated perspective-taking measure supports its uniqueness from mental rotation factors, and a meta-analysis supports two forms of spatial ability (small-scale allocentric and large-scale egocentric transformation). [→ Jeffrey Buckley 2018](#jeffrey-buckley-2018)

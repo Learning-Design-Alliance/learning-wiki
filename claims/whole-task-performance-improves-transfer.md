@@ -17,12 +17,15 @@ sources:
     rigour: "?"
 id: whole-task-performance-improves-transfer
 evidence_strength: strong
+newest_evidence: 2006
+source_checked: 2026-10-07
 ---
 
 # A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2` · n=N/A
+> **Currency** · newest study 2006 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Whole-task performance improves transfer of complex skills to real-world settings. -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): Engaging in authentic, integrated tasks during training better prepares learners for the complexity and coordination required in professional practice compared to isolated part-task practice. -->

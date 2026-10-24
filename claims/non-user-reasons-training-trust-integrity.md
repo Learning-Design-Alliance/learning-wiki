@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: stephen-colbran-2026
     resource: "https://doi.org/10.1186/s41239-026-00605-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Five statistically significant reasons for non-use emerged: lack of training, inconsistent trust in responses, preference for teaching staff, fear of academic-integrity accusations, and lack of interest; opposition to chatbots was neutral and insignificant. [→ Stephen Colbran 2026](#stephen-colbran-2026)

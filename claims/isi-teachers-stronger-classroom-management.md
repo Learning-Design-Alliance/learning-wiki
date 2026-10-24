@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: connor-carol-mcdonald-2010
     resource: "https://doi.org/10.1016/j.jsp.2010.06.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Treatment classroom teachers demonstrated better classroom management than control teachers (Wilks Lambda = .77, F(8, 453) = 16.67, p < .001), with students spending more time in instruction, small groups, and independent work, and less time in disruptions. [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)

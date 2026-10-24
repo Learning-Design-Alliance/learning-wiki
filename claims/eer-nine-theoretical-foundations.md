@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: vorderobermeier-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100625"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The review identified nine theories and models used in EER research: socio-cultural approach/social constructivism, active learning, collaborative learning, experiential learning, problem-based learning, situated learning theory, self-determination theory, flow theory, and Bloom's taxonomy. [→ Vorderobermeier 2024](#vorderobermeier-2024)

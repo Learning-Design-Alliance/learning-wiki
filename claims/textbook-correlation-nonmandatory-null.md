@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: şimşek-2021
     resource: "https://figshare.com/s/78625a6b0061200db6b7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an exploratory analysis restricted to non-mandatory textbook countries, the correlation between non-traditional practice and overall equivalence was no longer significant. [→ Şimşek 2021](#simsek-2021)

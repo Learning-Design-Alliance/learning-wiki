@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: anthony-b-fong-2015
     resource: "https://eric.ed.gov/?id=ED559522"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` 46 of 56 teachers (82.1 percent) participated in a sufficient number of professional-learning opportunities, and all 56 received all curriculum materials. [→ Anthony B. Fong 2015](#anthony-b-fong-2015)

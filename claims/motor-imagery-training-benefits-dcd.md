@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: biotteau-m-2019
     resource: "https://doi.org/10.2147/NDT.S120514"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Wilson et al found MABC scores of children receiving motor imagery training improved significantly, matching a perceptual-motor rehabilitation group, and the most severely affected children (scores <1st percentile) benefited most. [→ Biotteau M 2019](#biotteau-m-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2007
+recheck_by: 2010
 sources:
   - id: vibeke-normann-andersen-and-kasper-m-hansen-2007
     resource: "https://doi.org/10.1111/j.1475-6765.2007.00699.x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` A mutual understanding on the subject matter prevailed among the participants of the Danish Deliberative Poll on the euro. [→ Vibeke Normann Andersen and Kasper M. Hansen 2007](#vibeke-normann-andersen-and-kasper-m-hansen-2007)

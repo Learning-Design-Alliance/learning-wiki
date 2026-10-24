@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most students who used AI reported feeling less accomplished after AI use, and heavier reliance was described as a greater loss of satisfaction. [→ intrinsic-1](#intrinsic-1)

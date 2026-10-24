@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: steven-glazerman-2006
     resource: "https://www.mathematica.org/publications/an-evaluation-of-american-board-teacher-certification-progress-and-plans"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Alternative routes to teaching were promoted during the past decade due to concerns about teacher shortages and teacher quality. [→ Steven Glazerman 2006](#steven-glazerman-2006)

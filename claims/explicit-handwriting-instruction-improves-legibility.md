@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: explicit-handwriting-instruction-improves-legibility
 evidence_strength: insufficient
+newest_evidence: 2016
 sources:
   - id: santangelo-graham-2016
     resource: "https://doi.org/10.1007/s10648-015-9335-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=K-12 students (number of studies/participants not stated in the abstract)
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 Direct, systematic teaching of letter formation — including modeling, guided practice, and feedback — produces more legible handwriting than incidental exposure or unguided practice alone.
 

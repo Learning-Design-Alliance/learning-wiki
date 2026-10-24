@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: swain-2025
     resource: "https://doi.org/10.54300/541.498"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` CCSPP schools significantly improved standardized math scores by 0.06 SD compared with matched schools, equivalent to roughly 43 additional days of learning; the report prints no standardized effect size statistic for this contrast. [→ Swain 2025](#swain-2025)

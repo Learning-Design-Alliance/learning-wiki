@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: andrew-ash-and-john-hu-2026
     resource: "https://doi.org/10.48550/arxiv.2608.02420"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The student reported reduced frustration and anxiety and greater confidence in debugging tasks, particularly where he lacked personal experience. [→ Andrew Ash and John Hu 2026](#andrew-ash-and-john-hu-2026)

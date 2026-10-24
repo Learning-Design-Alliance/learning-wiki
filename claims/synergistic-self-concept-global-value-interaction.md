@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-22
 sources:
   - id: guo-2016
     resource: "https://doi.org/10.1177/2332858415626884"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Latent interactions between self-concept and global value significantly and positively predicted all three outcomes (standardized path coefficients: achievement β = .15, effort β = .10, engagement β = .05), supporting a synergistic relation. [→ Guo 2016](#guo-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ciğercci-fm-and-uygun-n-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1741116"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers reported moderately positive overall perceptions of AI in primary mathematics instruction (M = 3.62, SD = 0.61), with willingness to use AI (M = 3.98) and attitudes (M = 3.82) relatively higher and personal experiences (M = 3.00) lower. [→ Ciğercci FM and Uygun N 2026](#cigercci-fm-and-uygun-n-2026)

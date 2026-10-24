@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: yow-2019
     resource: "https://doi.org/10.1177/2332858419878126"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the enhanced English condition, a significant Text Language × Phase interaction, F(1, 30) = 7.18, p = .012, partial η2 = .19, showed English attention remained higher in both phases but Mandarin looking increased post-animation, t(31) = −2.62, p = .014, d = 0.45. [→ Yow 2019](#yow-2019)

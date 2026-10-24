@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: rosendahl-2024
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/stabilizing-school-performance-indicators-new-jersey-reduce-effect-random-error"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 164 schools designated for ATSI using either unstabilized or stabilized test-based indicators, 95 (57 percent) were designated under both; 42 of 137 schools designated using unstabilized data (31 percent) would not be designated after stabilization, and 27 schools would be newly designated. [→ Rosendahl 2024](#rosendahl-2024)

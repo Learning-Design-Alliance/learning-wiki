@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: verstegen-2006
     resource: "https://doi.org/10.1007/s11251-005-3346-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In open questionnaire questions, the most frequent self-reported reason for iteration was new insights or discovering later on that initial choices were not the best (seven subjects), followed by new information (three subjects). [→ Verstegen 2006](#verstegen-2006)

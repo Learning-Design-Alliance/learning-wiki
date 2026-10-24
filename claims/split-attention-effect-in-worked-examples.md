@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2000
+source_checked: 2026-10-14
 sources:
   - id: atkinson-2000
     resource: "https://doi.org/10.3102/00346543070002181"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2000 · checked against its sources 2026-10-14 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Geometry worked examples requiring learners to mentally integrate separate diagram and text sources showed no advantage over conventional problem solving, and conventional practice was faster on posttest time-to-solution. [→ Atkinson 2000](#atkinson-2000)

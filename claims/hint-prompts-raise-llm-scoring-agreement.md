@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: satoshi-takahashi-2026
     resource: "https://doi.org/10.48550/arxiv.2609.25790"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Under the hint condition, agreement of 98% or higher was achieved for all questions, with perfect agreement (100%) for Q1 and Q2; under the no-hint condition results varied, with Q2 precision only 0.42. [→ Satoshi Takahashi 2026](#satoshi-takahashi-2026)

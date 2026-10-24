@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: strong
+newest_evidence: 2019
+source_checked: 2026-10-15
 sources:
   - id: yasser-teimouri-2019
     resource: "https://doi.org/10.1017/S0272263118000311"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2019 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 216 effect sizes from 105 independent samples, L2 anxiety correlates negatively with language achievement at a mean of r = −.36. [→ Yasser Teimouri 2019](#yasser-teimouri-2019)

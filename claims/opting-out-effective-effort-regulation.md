@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: de-bruin-2025
     resource: "https://doi.org/10.1007/s10648-025-10042-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Opting out should not be interpreted solely as low motivation; effective opting-out concentrates effort in tasks within one's region of proximal learning and seeks help for high-uncertainty tasks. [→ de Bruin 2025](#de-bruin-2025)

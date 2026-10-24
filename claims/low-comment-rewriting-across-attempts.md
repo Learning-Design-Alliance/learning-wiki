@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most comment writing and modification occurred early; within the first 10 attempts, Unchanged comments were 48.4%, New 41.3%, Deleted 6.0%, and Light Modification, Heavy Modification, and Full Rewrite together only 4.4%. [→ rq2-mod](#rq2-mod)

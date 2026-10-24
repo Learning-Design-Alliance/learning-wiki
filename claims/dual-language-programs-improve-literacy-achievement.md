@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-16
 sources:
   - id: lit-1
     title: lit-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
+> **Currency** · newest study 2023 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Dual language programs produced a statistically significant positive effect on grade 5 literacy achievement (effect size 0.14, improvement index +5, p=0.02). [→ lit-1](#lit-1)

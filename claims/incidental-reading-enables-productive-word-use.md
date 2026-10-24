@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: ponniah-2011
     resource: "https://doi.org/10.26634/jelt.1.2.1452"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experimental subjects who read 'The Chinese Statue' gained 6.73 (33.65%) on sentence-production tests vs. 0.57 (2.82%) for comparison subjects who studied dictionary meanings; the difference was statistically significant (t = 4.48, df = 50, p < .000). [→ Ponniah 2011](#ponniah-2011)

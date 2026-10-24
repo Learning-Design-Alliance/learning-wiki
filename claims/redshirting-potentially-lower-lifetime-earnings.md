@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kindergarten-redshirting-what-families-should-know-2026
     resource: "https://www.nwea.org/research/publication/kindergarten-redshirting-what-families-should-know/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Redshirted students can have potentially lower lifetime earnings than on-time peers because they enter the labor force one year later. [→ Kindergarten redshirting: What families should know 2026](#kindergarten-redshirting-what-families-should-know-2026)

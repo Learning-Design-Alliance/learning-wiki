@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: wwc-summary-1
     title: wwc-summary-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across two studies totaling 712 students, CIRC showed a statistically significant positive effect in one study and an indeterminate effect in another, yielding a domain rating of potentially positive effects for comprehension. [→ wwc-summary-1](#wwc-summary-1)

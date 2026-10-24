@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: spatial-skills-improve-through-block-building
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-07
 sources:
   - id: casey-et-al-2008
     resource: "https://doi.org/10.1080/07370000802177177"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · n=not reported in the available abstract
+> **Currency** · newest study 2008 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 Structured block-building and construction play is proposed to improve children's spatial skills, particularly mental rotation and spatial visualization.
 

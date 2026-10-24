@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2005
 sources:
   - id: ming-fai-pang-2005
     resource: "https://doi.org/10.1007/s11251-005-2811-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Observations of the classrooms showed subtle but decisive differences in what was happening, and these differences were correlated with the differences in outcome. [→ Ming-fai Pang 2005](#ming-fai-pang-2005)

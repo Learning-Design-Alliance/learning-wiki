@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: lyn-d-english-and-jane-m-watson-2015
     resource: "https://doi.org/10.1186/s40594-015-0016-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` For Q10, asking what the plot tells you about the people in the data set, 20% of students did not score, 32% achieved a score of 4, and the mean score was 2.3 with 70% achieving half marks or better. [→ Lyn D English and Jane M Watson 2015](#lyn-d-english-and-jane-m-watson-2015)

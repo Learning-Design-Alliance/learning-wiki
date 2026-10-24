@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 1975
 sources:
   - id: a-ginton-1975
     resource: "https://doi.org/10.3758/bf03336682"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 1975 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adult humans preexposed to the CS without reinforcement required significantly more CS presentations to reach the learning criterion than nonpreexposed adults. [→ A. Ginton 1975](#a-ginton-1975)

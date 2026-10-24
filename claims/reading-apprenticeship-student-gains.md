@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: darling-hammond-2017
     resource: "https://doi.org/10.54300/122.311"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students of teachers in the multimodal, active-learning Reading Apprenticeship PD achieved reading growth equivalent to a year's growth compared with control-group students and performed better on state English language arts and biology assessments. [→ Darling-Hammond 2017](#darling-hammond-2017)

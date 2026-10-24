@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1922
 sources:
   - id: cobb-1922
     resource: "https://eric.ed.gov/?q=The+Limits+Set+to+Educational+Achievement+by+Limited+Intelligence"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Alpha scores of freshmen in the surveyed schools range from about 35 (mental age roughly 11 years) to 185 (a very superior adult score), yet fewer than 7.5 per cent of freshmen score below median intelligence, so academic high school pupils cover approximately the upper half of American intelligence. [→ Cobb 1922](#cobb-1922)

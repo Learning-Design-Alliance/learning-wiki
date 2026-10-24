@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: manuela-macedonia-2023
     resource: "https://doi.org/10.1007/s10648-023-09835-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` LLAMA scores correlated positively with vocabulary scores in the AV condition (r = 0.42) and AVO condition (r = 0.35), but not significantly in the AVOG condition (r = 0.26, p = .076). [→ Manuela Macedonia 2023](#manuela-macedonia-2023)

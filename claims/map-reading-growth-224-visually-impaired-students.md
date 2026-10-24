@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: boroson-2017
     resource: "https://www.nwea.org/research/publication/a-longitudinal-study-of-reading-growth-for-students-with-visual-impairments-2/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study analyzed MAP reading achievement for 224 students with visual impairments in grades 3–10, in four states, over an eight-year time period. [→ Boroson 2017](#boroson-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: mathias-mejeh-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102394"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Planning, task value, self-efficacy, goal orientation, and joy were significantly positively associated with regulation, whereas anger and anxiety showed significant negative associations. [→ Mathias Mejeh 2026](#mathias-mejeh-2026)

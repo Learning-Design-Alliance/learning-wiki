@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: hew-2023
     resource: "https://doi.org/10.1007/s12528-022-09338-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In both studies, behavioral engagement was measured by analyzing learners’ conversation records with the chatbots, alongside perceived usefulness, ease of use, and interview data. [→ Hew 2023](#hew-2023)

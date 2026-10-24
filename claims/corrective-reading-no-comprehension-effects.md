@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: corrective-readingwhat-works-clearinghouse-intervention-report-2007
     resource: "https://www.ed.gov/rschstat/eval/disadv/title1interimreport/index.html"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither the WRMT–R passage comprehension subtest (ES 0.06) nor the GRADE passage comprehension subtest (ES 0.28) showed a statistically significant effect; the domain average (0.17) was not significant or substantively important. [→ Corrective Reading—What Works Clearinghouse Intervention Report 2007](#corrective-readingwhat-works-clearinghouse-intervention-report-2007)

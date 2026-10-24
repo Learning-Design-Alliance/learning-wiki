@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: valdemar-stenberdt-2025
     resource: "https://doi.org/10.1007/s10648-025-10096-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Both groups significantly improved dexterity (fewer pipetting mistakes) from after the lesson to after the GLA. [→ Valdemar Stenberdt 2025](#valdemar-stenberdt-2025)

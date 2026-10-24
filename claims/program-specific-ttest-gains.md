@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: sabatini-john-p-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3269067/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In t-tests, GRR showed a significant pre-to-post effect on reading comprehension while the other two programs did not. [→ Sabatini John P. 2011](#sabatini-john-p-2011)

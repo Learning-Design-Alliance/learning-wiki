@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: sweet-2012
     resource: "https://doi.org/10.5281/zenodo.3554649"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The expert learner trajectory, with perfect mastery of all SKIVE elements throughout the game, shows the largest WD statistic values throughout the game in design matrix 1 games. [→ Sweet 2012](#sweet-2012)

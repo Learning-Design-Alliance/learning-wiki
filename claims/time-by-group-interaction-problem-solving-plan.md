@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 1994
 sources:
   - id: zambo-1994
     resource: "https://eric.ed.gov/?id=ED375005"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A one-way repeated measures ANOVA found a significant effect of time of testing (p = .001). [→ Zambo 1994](#zambo-1994)

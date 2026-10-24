@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bicakci-2026
     resource: "https://doi.org/10.1007/s10648-026-10172-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Moderator effect sizes with p-values between 0.05 and 0.50 were estimated to be only 43% as likely to appear in the published record, and those with p-values between 0.50 and 1.00 only 11% as likely, relative to highly significant results. [→ Bicakci 2026](#bicakci-2026)

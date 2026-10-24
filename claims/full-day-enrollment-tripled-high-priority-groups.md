@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: ehrlich-2020
     resource: "https://consortium.uchicago.edu/publications/closer-to-home"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Overall full-day pre-k enrollment rose from 3.2 percent of age-eligible students in 2010-11 to 11.6 percent in 2015-16, with Black, lowest-income, and mostly-Black-neighborhood students enrolling at three times the pre-policy rate. [→ Ehrlich 2020](#ehrlich-2020)

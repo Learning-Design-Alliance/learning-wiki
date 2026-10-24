@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: benjamin-lira-2025
     resource: "https://doi.org/10.48550/arxiv.2502.02880"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i0` negligible
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i0` Participants practicing with AI spent 0.44 fewer minutes during practice (d=-.12) and logged roughly a quarter as many total keystrokes compared to those practicing alone. [→ Benjamin Lira 2025](#benjamin-lira-2025)

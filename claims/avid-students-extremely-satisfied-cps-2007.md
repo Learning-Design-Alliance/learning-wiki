@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
+recheck_by: 2010
 sources:
   - id: jenny-nagaoka-2007
     resource: "http://ccsr.uchicago.edu/AVID"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In 2007, 77% of students in average-category AVID schools agreed or strongly agreed they would recommend AVID to their friends, and 89% agreed AVID gives them the support they need to be successful in high school. [→ Jenny Nagaoka 2007](#jenny-nagaoka-2007)

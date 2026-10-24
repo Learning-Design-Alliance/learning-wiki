@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: jason-willis-2020
     resource: "https://eric.ed.gov/?id=ED616102"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` English learners are 19.3 percent of all California students but 28.6 percent of students with disabilities, and socioeconomically disadvantaged students are 60.9 percent of all students but 67.5 percent of students with disabilities. [→ Jason Willis 2020](#jason-willis-2020)

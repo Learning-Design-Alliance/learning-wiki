@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: abramson-sl-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1932655"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two reviewed studies on error timing reached complementary conclusions—one found later errors more damaging, the other early errors—while both agreed trust can recover relatively quickly if the system performs well after an error. [→ Abramson SL 2026](#abramson-sl-2026)

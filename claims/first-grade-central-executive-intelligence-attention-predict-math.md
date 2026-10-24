@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: li-y-2013
     title: Li Y 2013
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children higher on first grade intelligence (p = .0063), central executive (p = .0007), and teacher-rated attentive behavior (p = .0001) scored higher on fifth grade Numerical Operations, while first grade visuospatial memory was unrelated (p = .8986). [→ Li Y 2013](#li-y-2013)

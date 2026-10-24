@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: erfan-entezami-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28483"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i2` When choosing between Core Development and Interface Design for equally qualified personas, all models significantly favor Core Development for male personas compared to female personas (GPT-4.1 OR=2.53, GPT-5.2 OR=2.81, DeepSeek OR=1.43, p<0.05). [→ Erfan Entezami 2026](#erfan-entezami-2026)

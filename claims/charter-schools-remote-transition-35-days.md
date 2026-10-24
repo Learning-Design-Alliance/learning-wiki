@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: the-center-for-research-on-education-outcomes-credo-2022
     resource: "https://credo.stanford.edu/reports/item/charter-schools-response-to-the-pandemic-in-california-new-york-and-washington-state/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Charter schools responding to the CREDO survey moved to remote delivery in under a week, averaging 3.5 days between physical closure and online reopening, with Washington State fastest at two days and California slowest at four days. [→ The Center for Research on Education Outcomes (CREDO) 2022](#the-center-for-research-on-education-outcomes-credo-2022)

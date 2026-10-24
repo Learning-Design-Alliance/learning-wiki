@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: ali-2016
     resource: "https://doi.org/10.14705/rpnet.2016.eurocall2016.530"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3` · `i2` medium · n=15 studies (38 effect sizes)
+> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most CAPT software shows promising results and very positive impacts on the pronunciation of segmental sounds among various types of learners, but prosodic features and fluency remain underdeveloped areas. [→ Ali 2016](#ali-2016)

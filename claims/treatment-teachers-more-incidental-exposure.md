@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mosher-2024
     resource: "https://doi.org/10.1037/edu0000868"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In OLS regression of teacher survey data, treatment teachers self-reported a half standard deviation more incidental exposure to target vocabulary than control teachers (β1 = 0.54, p < .01; ES = .54). [→ Mosher 2024](#mosher-2024)

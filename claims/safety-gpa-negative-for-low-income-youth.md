@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: martin-storey-2014
     resource: "https://doi.org/10.1080/10888691.2014.876276"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For youth from low-income families, each standard deviation increase in perceived neighborhood safety was associated with 17% of a standard deviation decrease in GPA. [→ Martin-Storey 2014](#martin-storey-2014)

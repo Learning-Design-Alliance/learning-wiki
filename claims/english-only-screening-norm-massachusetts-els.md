@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: soo-ping-chow-2025
     resource: "https://eric.ed.gov/?id=ED677598"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Ninety percent of English learners in the analytic sample were screened only in English at beginning, middle, and end of year, with 8 percent screened in both languages each period. [→ Soo Ping Chow 2025](#soo-ping-chow-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: seeskin-2020
     resource: "https://consortium.uchicago.edu/publications/the-forgotten-year"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Nearly all non-graduates showed a sophomore warning indicator: 84 percent had a flag as sophomores, including 63 percent off-track and 21 percent more with low attendance or a course failure. [→ Seeskin 2020](#seeskin-2020)

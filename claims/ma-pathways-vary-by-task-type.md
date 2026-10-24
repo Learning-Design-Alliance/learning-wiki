@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: skagerlund-k-2019
     title: Skagerlund K 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The pathways through which MA affects math performance differ in relative strength depending on whether arithmetic calculation or numeracy is being solved. [→ Skagerlund K 2019](#skagerlund-k-2019)

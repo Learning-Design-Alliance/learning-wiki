@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: kini-2016
     resource: "https://doi.org/10.54300/625.642"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` With teacher fixed effects, a teacher with more than 27 years of experience raised achievement by about 0.27 SD versus about 0.06 SD for a teacher with 1–2 years. [→ Kini 2016](#kini-2016)

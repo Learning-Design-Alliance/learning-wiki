@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: boulton-2016
     resource: "https://doi.org/10.14705/rpnet.2016.eurocall2016.538"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Burston and Arispe (2016) found that 50% of research articles in four major CALL journals targeting 'advanced' levels of proficiency had learner populations of B1 level only. [→ Boulton 2016](#boulton-2016)

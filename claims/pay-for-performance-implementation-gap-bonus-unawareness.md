@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: andrew-wayne-2018
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the pay-for-performance study, about 40 percent of teachers were unaware they were eligible to receive a performance bonus, indicating the policy as implemented differed from the envisioned approach. [→ Andrew Wayne 2018](#andrew-wayne-2018)

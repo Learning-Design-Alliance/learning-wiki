@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: pyc-2007
     resource: "https://link.springer.com/article/10.3758/BF03193420"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A dropout schedule with a longer initial ISI was more effective overall than conventional schedules, whereas a dropout schedule with a shorter initial ISI was not. [→ Pyc 2007](#pyc-2007)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-22
 sources:
   - id: riikonen-2020
     resource: "https://doi.org/10.1007/s11412-020-09330-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Successful teams devoted between 33.1% and 48.5% of their overall embodied making actions to model making and experimenting, whereas the Plant team spent only 16.3%, and model making intertwined with ideation and evaluation in all successful teams. [→ Riikonen 2020](#riikonen-2020)

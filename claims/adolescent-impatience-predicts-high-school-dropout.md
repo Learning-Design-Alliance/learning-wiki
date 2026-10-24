@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: adam-m-lavecchia-2014
     resource: "http://www.nber.org/papers/w20609"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adolescents classified by a surveyor as impatient are more likely to drop out of high school even if they stated an intention to finish, behavior the review says is difficult to reconcile with the human capital investment framework. [→ Adam M. Lavecchia 2014](#adam-m-lavecchia-2014)

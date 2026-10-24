@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 1998
+recheck_by: 2001
 sources:
   - id: holweger-1998
     resource: "https://eric.ed.gov/?id=ED422362"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2001**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On a state-level performance assessment, only items 3, 4 and 5 were flagged by both methods; four items were unique to LDF and four unique to ICC. [→ Holweger 1998](#holweger-1998)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: gandolfi-2021
     resource: "https://doi.org/10.1007/s11145-021-10131-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The Fish task correlated with expressive vocabulary with age partialled out (r = 0.454, p < 0.003), while the Circle Drawing task's correlation did not remain significant after controlling for age (r = 0.246, p < 0.122). [→ Gandolfi 2021](#gandolfi-2021)

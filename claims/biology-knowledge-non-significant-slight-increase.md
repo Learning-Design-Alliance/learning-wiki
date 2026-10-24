@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: shenghua-zha-2025
     resource: "https://doi.org/10.1007/s40593-025-00476-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students' overall biology knowledge increased slightly from pre-test to post-test but the change was not statistically significant. [→ Shenghua Zha 2025](#shenghua-zha-2025)

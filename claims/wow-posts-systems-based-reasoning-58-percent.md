@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: constance-steinkuehler-2008
     resource: "https://doi.org/10.1007/s10956-008-9120-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 58% of WoW forum posts evinced systems-based reasoning, and the majority of those also demonstrated understanding of feedback among components of the system. [→ Constance Steinkuehler 2008](#constance-steinkuehler-2008)

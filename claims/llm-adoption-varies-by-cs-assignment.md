@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nizamani-2026
     resource: "https://doi.org/10.48550/arxiv.2610.01158"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` LLM adoption differed significantly across the seven assignments, ranging from 15.2% (Software Engineering) to 89.6% (Algorithms). [→ Nizamani 2026](#nizamani-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: soland-2018
     resource: "https://doi.org/10.1080/08957347.2019.1577244"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Unlike on achievement tests, surveys have no correct answers, so validating decision rules for detecting disengaged responses is problematic. [→ Soland 2018](#soland-2018)

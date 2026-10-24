@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shuang-geng-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28710"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Re-solving to check AI outputs rose (25 to 30) and external cross-referencing grew, but responses describing only minimal or conditional verification more than doubled (5 to 12), so increased use did not uniformly increase checking. [→ Shuang Geng 2026](#shuang-geng-2026)

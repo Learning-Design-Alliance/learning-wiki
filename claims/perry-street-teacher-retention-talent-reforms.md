@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: evan-2019
     resource: "https://dcpcsb.egnyte.com/dl/hdsUO9pDbh/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 2017–18 and 2018–19 Perry Street retained over 90 percent of its effective teachers, after pre-turnaround turnover exceeded 50 percent of staff in one year. [→ Evan 2019](#evan-2019)

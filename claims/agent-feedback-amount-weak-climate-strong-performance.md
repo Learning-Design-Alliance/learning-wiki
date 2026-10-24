@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 1996
 sources:
   - id: kluger-1996
     resource: "https://doi.org/10.1037/0033-2909.119.2.254"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Harris and Rosenthal's meta-analysis found the amount of feedback provided by agents had only a meager effect on performance (r = .07), while the climate the agent created had strong effects (r = .36). [→ Kluger 1996](#kluger-1996)

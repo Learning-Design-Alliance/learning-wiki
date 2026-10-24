@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: katherine-rainey-2018
     resource: "https://doi.org/10.1186/s40594-018-0115-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Leavers across all demographic groups reported a lower sense of belonging than majors; approximately one quarter of leavers cited lack of science identity as a reason for not belonging, while no major did, and reports of lacking science identity came from students in marginalized groups. [→ Katherine Rainey 2018](#katherine-rainey-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: digital-promise-2020
     resource: "https://doi.org/10.51388/20.500.12265/99"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Team leads cited face-to-face support as most valuable and reported progress in faculty learning and attitude shifts, but judged the fall 2019 timeline too rushed and were mixed on whether momentum would persist after the grant. [→ Digital Promise 2020](#digital-promise-2020)

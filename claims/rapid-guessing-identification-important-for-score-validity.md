@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: wise-2019
     resource: "https://www.nwea.org/research/publication/an-information-based-approach-to-identifying-rapid-guessing-thresholds/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Rapid-guessing identification matters for promoting the validity of achievement test scores, especially in low-stakes testing contexts. [→ Wise 2019](#wise-2019)

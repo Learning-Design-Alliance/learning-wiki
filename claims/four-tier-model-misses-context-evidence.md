@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants critiqued the four-tier model for not delivering evidence about whether a technology will work in situations like the user's own and for whom and under what conditions it is effective. [→ critique-1](#critique-1)

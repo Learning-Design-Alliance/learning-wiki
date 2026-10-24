@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-22
+recheck_by: 2014
 sources:
   - id: gonny-schellings-bernadette-van-hout-wolters-2011
     resource: "https://doi.org/10.1007/s11409-011-9081-9"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The validity of questionnaire data is challenged because learners may not accurately report what they did, and questionnaires may measure perception rather than strategies actually performed. [→ Gonny Schellings & Bernadette Van Hout-Wolters 2011](#gonny-schellings-bernadette-van-hout-wolters-2011)

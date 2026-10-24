@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both students and teachers judged AI-based systems imperfect at detecting students' knowledge and preferences and assigning appropriate tasks, leading both groups to prefer more human control in the classroom. [→ trust-summary](#trust-summary)

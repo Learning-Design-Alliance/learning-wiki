@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: scotty-d-craig-2008
     resource: "https://doi.org/10.1080/02699930701516759"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Association rule mining found confusion associated with AUs 4, 7, and 12; AUs 4 and 7 occur simultaneously and AU7 tends to trigger AU4. [→ Scotty D. Craig 2008](#scotty-d-craig-2008)

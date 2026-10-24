@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: denton-2008
     resource: "https://doi.org/10.1111/j.1540-5826.2008.00266.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Treatment students did not demonstrate significantly higher outcomes in word recognition, comprehension, or fluency than students receiving the school's typical instruction, and no significant time-by-group interactions were found. [→ Denton 2008](#denton-2008)

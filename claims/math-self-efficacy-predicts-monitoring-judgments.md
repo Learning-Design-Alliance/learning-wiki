@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: scheibe-2022
     resource: "https://doi.org/10.1007/s11409-022-09300-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Higher math self-efficacy was associated with higher item-level monitoring judgments across all four problems, controlling for other predictors. [→ Scheibe 2022](#scheibe-2022)

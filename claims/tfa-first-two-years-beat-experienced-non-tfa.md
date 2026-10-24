@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: hanley-s-chiang-2014
     resource: "https://www.mathematica.org/publications/supplying-disadvantaged-schools-with-effective-teachers-experimental-evidence-on-secondary-math"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Addressing concerns about TFA's two-year commitment, the study finds first-two-year TFA teachers more effective than more experienced non-TFA teachers in the same schools. [→ Hanley S. Chiang 2014](#hanley-s-chiang-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: huinan-hu-2026
     resource: "https://doi.org/10.31234/osf.io/qm6bg_v1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 62.0% of HK adolescents preferred instrumental help-seeking and 30.0% self-disclosure versus only 8.0% nothing to say; in the whole sample instrumental help-seeking was most common (51.3%). [→ Huinan Hu 2026](#huinan-hu-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: dalgaard-2022
     resource: "https://doi.org/10.1002/cl2.1291"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q1` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i1` The review reports, citing Wang and Baker (1985), a meta-analysis of 11 studies finding small-to-moderate beneficial effects of inclusion with an overall mean weighted effect size of 0.33, while other earlier reviews reported mixed or contrasting findings. [→ Dalgaard 2022](#dalgaard-2022)

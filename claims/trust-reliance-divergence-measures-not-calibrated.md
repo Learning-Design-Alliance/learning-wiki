@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: wei-j-and-shang-y-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1965371"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` False ChatGPT information changed reported trust without measured acceptance or rejection of a specific recommendation, and reliance scales not tied to output correctness cannot classify reliance as calibrated. [→ Wei J and Shang Y 2026](#wei-j-and-shang-y-2026)

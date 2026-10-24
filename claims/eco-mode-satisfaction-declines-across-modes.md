@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hyeonwook-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2608.23968"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Satisfaction was highest for mode 1 (mean = 3.64, SD = 0.82), moderate for modes 2–3 (means = 3.03 and 2.76), and lowest for modes 4–5 (means = 2.35 and 2.06, SD = 1.03). [→ Hyeonwook Kim 2026](#hyeonwook-kim-2026)

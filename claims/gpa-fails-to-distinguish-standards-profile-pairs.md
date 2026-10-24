@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: abhinava-barthakur-2026
     resource: "https://doi.org/10.18608/jla.2026.9035"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Post hoc Tukey tests found no significant GPA differences between the Engaging and effective vs Knowledgeable and strategic groups, the Novice vs Student-centred groups, and the Engaging and effective vs Student-centred groups, although these groups showed distinct standards-attainment patterns. [→ Abhinava Barthakur 2026](#abhinava-barthakur-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: nam-ju-kim-2018
     resource: "https://doi.org/10.1007/s10648-017-9419-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` When scaffolding was customized based on self-selection, effect sizes (g = 0.519) were higher than fixed time interval (g = 0.376) and performance-adaptation (g = 0.434). [→ Nam Ju Kim 2018](#nam-ju-kim-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: rossi-2019
     resource: "https://doi.org/10.5964/jnc.v5i3.197"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The negative priming effect on probe response times reached statistical significance in both age groups, with Cohen's d = 1.07 for adolescents and d = 0.73 for adults. [→ Rossi 2019](#rossi-2019)

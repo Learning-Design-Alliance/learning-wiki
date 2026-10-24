@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: de-vreugd-2024
     resource: "https://doi.org/10.18608/jla.2024.8529"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Usability reassessment with the SUS after design adjustments yielded M = 4.13 (SD = 0.46), equal to 78.25%, interpretable as good–excellent usability. [→ de Vreugd 2024](#de-vreugd-2024)

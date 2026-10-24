@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://www.getsmartoregon.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither the WRMT-R word comprehension subtest (ES 0.41) nor the passage comprehension subtest (ES 0.28) showed a statistically significant SMART® effect, but the domain-average effect size of 0.35 met the WWC's substantively important threshold of at least 0.25. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

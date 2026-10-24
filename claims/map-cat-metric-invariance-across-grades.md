@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
+recheck_by: 2016
 sources:
   - id: shudong-wang-2013
     resource: "https://doi.org/10.5539/jedp.v3n1p88"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Multi-group CFA provides clear support for metric invariance across grades for all tests except Michigan Mathematics tests, with configural invariance for all tests. [→ Shudong Wang 2013](#shudong-wang-2013)

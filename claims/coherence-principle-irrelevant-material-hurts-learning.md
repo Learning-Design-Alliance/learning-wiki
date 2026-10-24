@@ -8,6 +8,7 @@ generated:
 id: coherence-principle-irrelevant-material-hurts-learning
 aliases: [coherence-principle-mayer-2008]
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: harp-mayer-1998
     resource: "https://doi.org/10.1037/0022-0663.90.3.414"
@@ -47,6 +48,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 causal `r?`, 1 quant-synthesis `r?`, 1 theoretical `r3` · `q3`–`q4` · `i3` large
+> **Currency** · newest study 2012 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 Adding interesting-but-irrelevant text, images, sounds, or music to instructional materials typically impairs learning by consuming working-memory resources without supporting the learning goal.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: progressing-1
     title: progressing-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Students enrolled in Career Academies accrued no more credits than similar comparison group students by the end of the twelfth-grade year; the WWC-calculated effect size of 0.09 was neither statistically significant nor substantively important. [→ progressing-1](#progressing-1)

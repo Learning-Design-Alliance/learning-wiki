@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: nancy-law-2017
     resource: "https://doi.org/10.1007/s11412-017-9253-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fine-grained analysis of two children's collaboration on touchscreens showed only a small part of coordination, communication and collaboration via movements, touches and gestures occurred on the touchscreen; much happened in the open space between screen and children. [→ Nancy Law 2017](#nancy-law-2017)

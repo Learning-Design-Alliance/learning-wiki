@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: krieglstein-2023
     resource: "https://doi.org/10.1007/s10648-023-09738-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Study 1, McDonald's omega reached ωICL = 0.93, ωECL = 0.91, and ωGCL = 0.88 for the three load-type scales. [→ Krieglstein 2023](#krieglstein-2023)

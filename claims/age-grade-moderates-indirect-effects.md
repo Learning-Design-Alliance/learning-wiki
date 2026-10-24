@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-24
 sources:
   - id: zhang-2023
     resource: "https://doi.org/10.1037/edu0000797"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The indirect effect via vocabulary knowledge was stronger in older readers, while the indirect effect via word reading was stronger in younger readers. [→ Zhang 2023](#zhang-2023)

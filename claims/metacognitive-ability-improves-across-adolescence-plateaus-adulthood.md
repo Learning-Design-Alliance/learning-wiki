@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: weil-lg-2013
     resource: "https://doi.org/10.1016/j.concog.2013.01.004"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In a cross-sectional sample aged 11–41, metacognitive ability (Aroc) showed a significant age × age group interaction, driven by a positive correlation between age and Aroc in adolescents (r = .38, p = .048) and a non-significant negative correlation in adults. [→ Weil L.G. 2013](#weil-lg-2013)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: christopher-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360115/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` When the comprehension factor used only short-passage tests (WJ passage comprehension and PIAT), listening and reading comprehension could not be collapsed into one factor. [→ Christopher 2012](#christopher-2012)

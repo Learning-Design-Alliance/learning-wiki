@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: vella-brodrick-2024
     resource: "https://doi.org/10.1007/s10648-024-09964-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Qualitative and case study research highlights time in solitude, appreciation of impermanence, relaxation and inspiration, and disconnection from technology as potential mechanisms behind the nature-creativity relationship. [→ Vella-Brodrick 2024](#vella-brodrick-2024)

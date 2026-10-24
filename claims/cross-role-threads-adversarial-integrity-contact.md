@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: pelin-yüce-2026
     resource: "https://doi.org/10.48550/arxiv.2605.17712"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 17% of threads are cross-role (faculty and students in the same thread), and one third of such contact occurs in the adversarial themes AI Detection and Misconduct Enforcement. [→ Pelin Yüce 2026](#pelin-yuce-2026)

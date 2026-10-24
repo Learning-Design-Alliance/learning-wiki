@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: xiaoyu-hou-2026
     resource: "https://doi.org/10.48550/arxiv.2606.05509"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The prompted AI condition had the highest mean open-ended score (12.41, against 9.68 slide-based and 10.45 unprompted), and the omnibus one-way ANOVA across the three conditions was significant (F = 7.32, p = 0.0011); no pairwise post-hoc tests are reported. [→ Xiaoyu Hou 2026](#xiaoyu-hou-2026)

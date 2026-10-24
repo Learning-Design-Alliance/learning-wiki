@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: linn-damsgaard-2022
     resource: "https://doi.org/10.1007/s10648-022-09671-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` During the letter-sound test, no control-group children supported answers with movements, while 53% of pooled WM and HM children did. [→ Linn Damsgaard 2022](#linn-damsgaard-2022)

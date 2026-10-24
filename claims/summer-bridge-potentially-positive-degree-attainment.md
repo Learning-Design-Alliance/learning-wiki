@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: summer-bridge-programs-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/661"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the one study meeting WWC standards (with reservations), postsecondary graduation rates were significantly higher for summer bridge participants than for comparison students (70% vs 67%), with an average improvement index of +4 percentile points. [→ Summer Bridge Programs 2016](#summer-bridge-programs-2016)

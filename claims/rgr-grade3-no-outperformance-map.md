@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: really-great-reading-2023
     resource: "https://www.reallygreatreading.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grade 3 RGR students did not outperform the growth of non-users on the winter NWEA MAP, with an effect size of -0.13. [→ Really Great Reading 2023](#really-great-reading-2023)

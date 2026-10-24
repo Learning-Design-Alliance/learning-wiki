@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hasnain-heickal-and-andrew-lan-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08807"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Test case feedback showed no significant association with eventual success (β = 0.20, p = 0.40) and a slightly lower hazard of reaching correctness (HR = 0.92, p = 0.05). [→ Hasnain Heickal and Andrew Lan 2026](#hasnain-heickal-and-andrew-lan-2026)

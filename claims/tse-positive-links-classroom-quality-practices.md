@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: m-zee-2016
     resource: "https://doi.org/10.3102/0034654315626801"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the review's criteria-based synthesis of TSE research, TSE shows positive links with patterns of teacher behavior and practices related to classroom quality. [→ M. Zee 2016](#m-zee-2016)

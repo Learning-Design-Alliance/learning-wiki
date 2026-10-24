@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: plebanek-2017
     resource: "https://doi.org/10.1177/0956797617693005"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Adults and children show comparable recognition accuracy for search-relevant features, but adults have lower accuracy for irrelevant features than children. [→ Plebanek 2017](#plebanek-2017)

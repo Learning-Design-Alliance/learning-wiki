@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: ahtisham-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38346"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For the same 150 impasses, the baseline tutor gave direct answers in 50.7% of responses, the no-direct-answer tutor asked a follow-up question in 100% of responses, and the guided tutor used the broadest repertoire (response entropy 5.13 bits vs 3.11 and 1.25). [→ Ahtisham 2026](#ahtisham-2026)

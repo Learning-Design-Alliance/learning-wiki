@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-13
 sources:
   - id: babineau-2025
     resource: "https://doi.org/10.51388/20.500.12265/263"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Research reportedly shows early exposure to career pathways enhances students' self-efficacy and helps them envision themselves in those careers, particularly for historically excluded populations. [→ Babineau 2025](#babineau-2025)

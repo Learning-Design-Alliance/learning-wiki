@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: chang-zhu-2010
     resource: "https://doi.org/10.1080/02619761003631849"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Chinese teachers score higher than Flemish teachers on the expert, authority and model teacher roles (p < .01), while facilitator and delegator role perceptions do not differ between the two groups. [→ Chang Zhu 2010](#chang-zhu-2010)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: shihao-yang-2026
     resource: "https://doi.org/10.48550/arxiv.2609.23958"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students randomized to the structured AI tutor scored higher on the 55-point post-test than ability-matched holdout peers, an intent-to-treat effect of about 6.6 points (p=.007). [→ Shihao Yang 2026](#shihao-yang-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1991
 sources:
   - id: clark-1991
     resource: "https://doi.org/10.1007/bf01320076"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` DCT provides a unified explanation for diverse topics in education, and its mechanistic framework can accommodate theories framed in terms of strategies and other high-level psychological processes. [→ Clark 1991](#clark-1991)

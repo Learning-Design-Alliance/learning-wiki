@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: klatte-m-2013
     title: Klatte M 2013
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` With stationary noise, signal-to-noise ratios must be 5–7 dB higher for young children than adults to achieve comparable identification of speech or nonspeech signals, with adult-like performance reached at about 6 years of age. [→ Klatte M 2013](#klatte-m-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: alberto-quilez-robres-2020
     resource: "https://doi.org/10.1016/j.stueduc.2021.101020"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Mean achievement declined significantly from 3rd (mean = 7.80) to 4th grade (mean = 7.57), with a small effect size (Cohen's d = .236). [→ Alberto Quilez-Robres 2020](#alberto-quilez-robres-2020)

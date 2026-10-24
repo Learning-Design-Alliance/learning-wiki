@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: veletsianos-2008
     resource: "https://doi.org/10.1111/j.1467-8535.2007.00797.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Individuals experience an overwhelming curiosity and drive to question and understand the pedagogical agent, including trying to stump it. [→ Veletsianos 2008](#veletsianos-2008)

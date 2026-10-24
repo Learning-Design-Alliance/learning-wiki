@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1920
 sources:
   - id: wheeler-1920
     resource: "https://doi.org/10.1037/h0064614"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In only fifty-eight cases did girls wish to take up a profession along the lines of their favorite pastimes, mainly in music, art, athletics, and sewing, mostly among girls aged twelve to sixteen. [→ Wheeler 1920](#wheeler-1920)

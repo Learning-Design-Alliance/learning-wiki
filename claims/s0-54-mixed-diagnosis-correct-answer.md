@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zixin-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14322"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A trace in which the learner correctly computes 1/6 and applies the reasoning after prevalence changes still receives a mixed diagnosis: the later tutor turn supplies an interpretation the learner should construct, the agency handoff is incomplete, and transfer is not tested before closure. [→ Zixin Chen 2026](#zixin-chen-2026)

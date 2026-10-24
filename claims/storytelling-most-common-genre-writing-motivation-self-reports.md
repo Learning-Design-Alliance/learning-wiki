@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: alveswold-2023
     resource: "https://doi.org/10.1007/s10648-023-09732-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the writing tasks used in the 56 reviewed studies, narrative/story writing (n = 17) was the most common genre investigated, and the authors interpret this as a present bias that may represent construct under‑representation. [→ Alves‑Wold 2023](#alveswold-2023)

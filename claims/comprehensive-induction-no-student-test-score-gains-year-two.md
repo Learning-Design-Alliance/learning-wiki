@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: eric-isenberg-2009
     resource: "https://www.mathematica.org/publications/impacts-of-comprehensive-teacher-induction-results-from-the-second-year-of-a-randomized-controlled-study"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the second year of a national randomized controlled evaluation, comprehensive induction did not lead to measurable improvements in student test scores relative to business-as-usual induction. [→ Eric Isenberg 2009](#eric-isenberg-2009)

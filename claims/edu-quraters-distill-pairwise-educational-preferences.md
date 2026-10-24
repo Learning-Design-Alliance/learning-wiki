@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: garrod-2026
     resource: "https://doi.org/10.48550/arxiv.2609.09425"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across two base models and six criteria, trained Edu-QuRaters recover held-out pairwise preferences with both base models exceeding 0.86 accuracy on every criterion, and Gemma-3-4B-PT improving accuracy uniformly across every criterion. [→ Garrod 2026](#garrod-2026)

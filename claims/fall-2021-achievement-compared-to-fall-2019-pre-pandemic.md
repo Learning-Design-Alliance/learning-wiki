@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: megan-kuhfeld-2021
     resource: "https://www.nwea.org/research/publication/technical-appendix-for-learning-during-covid-19-an-update-on-student-achievement-and-growth-at-the-start-of-the-2021-22-school-year/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The study compared student achievement in fall 2021 to pre-pandemic levels, namely fall 2019. [→ Megan Kuhfeld 2021](#megan-kuhfeld-2021)

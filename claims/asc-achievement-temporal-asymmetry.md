@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: marsh-2024
     resource: "https://doi.org/10.1007/s10648-024-09887-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The directional ordering is asymmetric: self-concept effects on achievement emerge over time (lag1, not lag0), while achievement effects on self-concept are more contemporaneous (lag0, not lag1). [→ Marsh 2024](#marsh-2024)

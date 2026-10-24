@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: malkiewich-2016
     resource: "https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Relative-Hards Solved Complex correlated with challenge time (r = 0.67, p = .003), survived Benjamini-Hochberg correction and pretest control (partial r = 0.64, p < .01), and explained 44.7% unique variance in challenge time. [→ Malkiewich 2016](#malkiewich-2016)

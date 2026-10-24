@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-18
 sources:
   - id: southwest-english-learner-literacy-swell-partnership-2023
     resource: "https://ies.ed.gov/nrel/southwest"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The logic model hypothesizes that participating New Mexico teachers will increase self-efficacy in literacy instruction and self-efficacy in supporting English learner students during optimization testing. [→ Southwest English Learner Literacy (SWELL) Partnership 2023](#southwest-english-learner-literacy-swell-partnership-2023)

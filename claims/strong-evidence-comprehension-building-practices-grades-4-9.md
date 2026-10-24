@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: vaughn-2022
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/29"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC panel assigned a strong level of evidence to routinely using a set of comprehension-building practices, supported by 34 studies. [→ Vaughn 2022](#vaughn-2022)

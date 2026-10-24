@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within Study 2 sessions, participant certainty dipped mid-session and rose toward the end: first turns averaged 4.11 and last turns 4.32 on the five-point scale, with 36% of sessions ending higher and 24% lower. [→ certainty-arc](#certainty-arc)

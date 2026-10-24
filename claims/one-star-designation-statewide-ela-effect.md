@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: tanner-2025
     resource: "https://eric.ed.gov/?id=ED677573"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A regression discontinuity analysis found a 0.15 standard deviation jump in ELA scores at the One-Star threshold that was statistically significant, while the 0.09 SD math jump was not significant; the report prints no standardized effect-size category for either. [→ Tanner 2025](#tanner-2025)

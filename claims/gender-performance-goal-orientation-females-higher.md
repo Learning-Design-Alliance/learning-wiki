@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: beyaztaş-2017
     resource: "https://doi.org/10.13189/ujer.2017.050909"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A significant difference in performance goal orientation was found in favour of females (F=5,76, p=,01); entity, incremental and learning goal orientation showed no significant gender differences. [→ Beyaztaş 2017](#beyaztas-2017)

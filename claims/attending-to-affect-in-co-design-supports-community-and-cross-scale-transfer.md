@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: potvin-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2318557"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · `i1` small · n=10 educators (5 teachers, 3 counselors, 1 principal, 1 librarian) across 6 schools in one district; 14 co-design meetings, 58 total hours, over roughly 8 months
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 When a co-design process deliberately affirms educators' affective and relational experience — through ritualized check-ins, shared contemplative practice, and reflective field-note protocols — educators report a stronger sense of community, apply what they learn across personal, classroom, and systems-level scales, and the design object itself expands from an individual course toward a collective vision for systems change.
 

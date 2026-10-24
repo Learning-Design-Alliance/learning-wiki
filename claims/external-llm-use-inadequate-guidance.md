@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: madeleine-eastwood-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29995"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Overall 15% of students (20 of 132) reported using another LLM or chatbot; rates differed descriptively but not significantly across conditions, with Socratic + Full Context highest at 23% (7 of 30). [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)

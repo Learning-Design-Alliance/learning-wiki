@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2001
 sources:
   - id: murray-2001
     resource: "https://doi.org/10.18806/tesl.v19i1.920"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Japanese university EFL students reported enjoying and valuing e-mail exchanges, guest speaker interviews, Internet searches, and the video project. [→ Murray 2001](#murray-2001)

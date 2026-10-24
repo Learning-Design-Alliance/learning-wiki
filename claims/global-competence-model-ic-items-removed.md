@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: nguyen-2021
     resource: "https://doi.org/10.31014/aior.1993.04.03.362"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the global competence model, only IC1 and IC2 fell below the 0.7 loading threshold and were removed; remaining constructs met CR > 0.7 and AVE > 0.5 standards. [→ Nguyen 2021](#nguyen-2021)

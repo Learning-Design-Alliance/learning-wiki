@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: what-works-clearinghouse-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/279"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No statistically significant effects were found on either reading comprehension measure (WRMT–R Passage Comprehension, GORT–III Reading Comprehension); the WWC average effect size of 0.21 was not substantively important. [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)

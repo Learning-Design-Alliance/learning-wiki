@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-22
 sources:
   - id: alexander-skulmowski-2023
     resource: "https://doi.org/10.1007/s10648-023-09818-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants who offloaded more (no temporal cost, or unaware of a later test) showed lower memory performance, and awareness of a later test reduced offloading and its negative impact. [→ Alexander Skulmowski 2023](#alexander-skulmowski-2023)

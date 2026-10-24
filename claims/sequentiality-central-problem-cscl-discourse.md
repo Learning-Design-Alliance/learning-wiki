@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: gerry-stahl-friedrich-hesse-2010
     resource: "https://doi.org/10.1007/s11412-009-9077-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The temporal structure by which one action takes up the contribution of a previous action underlies collaborative learning, yet theories and methods have not sufficiently focused on it. [→ Gerry Stahl & Friedrich Hesse 2010](#gerry-stahl-friedrich-hesse-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: rct-overall
     title: rct-overall
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In an RCT with 557 kindergarten and first-grade students, DreamBox Learning students scored significantly higher than comparison students on the MAP overall math score, with an effect size of 0.11 and an improvement index of +4 percentile points. [→ rct-overall](#rct-overall)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: luke-2017
     resource: "https://doi.org/10.51388/20.500.12265/26"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a hierarchical multiple regression, pre-Lexile score accounted for 76 percent of current Lexile scores, Achieve3000 usage about 3.5 percent, and motivation to learn English roughly 1 percent (p < 0.01). [→ Luke 2017](#luke-2017)

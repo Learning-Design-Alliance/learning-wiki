@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-19
 sources:
   - id: cress-2015
     resource: "https://doi.org/10.1007/s11412-015-9214-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Siqin, van Aalst and Chu study comparing fixed groups with opportunistic collaboration, no knowledge creation was found in any group; the majority of interactions were knowledge sharing and about one third knowledge construction. [→ Cress 2015](#cress-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: benjamin-d-jee-2022
     resource: "https://doi.org/10.1007/s11251-022-09599-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Structure diagrams were more likely to contain intervening units (39%) than process diagrams (10%) and photos (30%). [→ Benjamin D. Jee 2022](#benjamin-d-jee-2022)

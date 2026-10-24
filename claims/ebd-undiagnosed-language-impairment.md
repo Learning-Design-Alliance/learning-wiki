@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: pamela-c-snow-2021
     resource: "https://doi.org/10.1044/2020_PERSP-20-00120"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Approximately four out of five children with emotional and behavioral disorders have at least mild language impairment that escapes adults' attention. [→ Pamela C. Snow 2021](#pamela-c-snow-2021)

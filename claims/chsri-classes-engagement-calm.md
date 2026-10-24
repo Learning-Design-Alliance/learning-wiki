@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: david-stevens-2008
     resource: "https://consortium.uchicago.edu/publications/lessons-high-performing-small-high-schools-chicago"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Across 23 observed classes, engagement was high or medium in nearly all, with only one classroom rated low; disruption was minimal and short-lived. [→ David Stevens 2008](#david-stevens-2008)

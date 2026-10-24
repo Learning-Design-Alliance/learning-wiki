@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: brian-p-gill-2020
     resource: "https://www.mathematica.org/publications/operating-schools-in-a-pandemic-predicted-effects-of-opening-and-quarantining-strategies"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In schools where all students attend in person daily, temporary closures in response to known cases reduce infection spread far less than starting with a hybrid strategy, and they increase disruption to school schedules. [→ Brian P. Gill 2020](#brian-p-gill-2020)

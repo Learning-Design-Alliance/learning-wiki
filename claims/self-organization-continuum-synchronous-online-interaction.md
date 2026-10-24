@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: ludvigsen-2017
     resource: "https://doi.org/10.1007/s11412-017-9257-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vogler et al. argue that self-organization can be seen as a continuum in emerging participation in a synchronous online environment. [→ Ludvigsen 2017](#ludvigsen-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: cheng-wen-he-2025
     resource: "https://doi.org/10.1007/s10648-025-09993-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Introductory biology students randomly assigned to PS-I scored significantly higher than I-PS students on the near-transfer post-test, controlling for prior knowledge. [→ Cheng-Wen He 2025](#cheng-wen-he-2025)

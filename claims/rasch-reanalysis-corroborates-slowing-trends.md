@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
+recheck_by: 2006
 sources:
   - id: john-q-easton-2001
     resource: "https://consortium.uchicago.edu/publications/annual-cps-trend-review-2000"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2006**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Re-analysis using equated Rasch (logit) scores suggests the same overall finding of slowing and in some cases declining trends, though nine-year-old scores do not drop off. [→ John Q. Easton 2001](#john-q-easton-2001)

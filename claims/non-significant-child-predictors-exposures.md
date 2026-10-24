@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: steacy-lm-2020
     resource: "https://doi.org/10.1007/s11881-020-00198-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Phonemic decoding efficiency, working memory, phonological awareness, and rapid letter naming were not significant predictors of the number of exposures required for mastery. [→ Steacy LM 2020](#steacy-lm-2020)

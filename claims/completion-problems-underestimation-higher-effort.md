@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020
     resource: "https://doi.org/10.1007/s10648-020-09544-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Secondary students given completion problems predicted lower performance than they actually achieved and reported significantly more mental effort than students given fully worked examples. [→ Tamara van Gog & Vincent Hoogerheide & Milou van Harsel 2020](#tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020)

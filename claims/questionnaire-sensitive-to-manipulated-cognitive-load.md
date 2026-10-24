@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: krieglstein-2023
     resource: "https://doi.org/10.1007/s10648-023-09738-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across three between-subjects experiments, each manipulating one cognitive load type separately, the questionnaire was shown to be sensitive to changes in cognitive load. [→ Krieglstein 2023](#krieglstein-2023)

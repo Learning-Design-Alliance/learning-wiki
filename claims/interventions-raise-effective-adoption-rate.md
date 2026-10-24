@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dai-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1829268"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effective adoption rate differed significantly across groups (p < 0.001), with the combined group highest (M = 0.75), followed by FRAC (M = 0.62), APCA (M = 0.58), and regular AI (M = 0.45). [→ Dai 2026](#dai-2026)

@@ -5,6 +5,7 @@ title: "Identical example–problem pairs showed an early order advantage but no
 description: "Identical example–problem pairs showed an early order advantage but no detected final-test difference"
 status: review
 evidence_strength: moderate
+newest_evidence: 2011
 generated:
   by: codex/unspecified
   at: 2026-09-30
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=32 (16 per condition)
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

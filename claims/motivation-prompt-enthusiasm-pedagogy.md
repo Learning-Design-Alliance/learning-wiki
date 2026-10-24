@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Feedback for students identified as unmotivated adopted an encouraging, collaborative tone with inclusive language and positive reinforcement, whereas feedback for motivated students focused on precision and refinement with constructive criticism. [→ Tan et al. 2026](#tan-et-al-2026)

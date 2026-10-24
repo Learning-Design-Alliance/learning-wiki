@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: kim-2006
     resource: "https://doi.org/10.1007/s11423-006-8805-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interaction logs showed that responsive-condition students made fewer requests than half the total number of ideas the responsive PAL was designed to deliver. [→ Kim 2006](#kim-2006)

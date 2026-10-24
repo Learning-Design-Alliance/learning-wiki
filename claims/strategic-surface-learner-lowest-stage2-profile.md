@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zixin-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14322"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Stage 2 situated tutoring, the shortcut-seeking strategic surface learner profile is the lowest-scoring of six profiles for 15 of 17 models, averaging 0.702 versus 0.757 across the other profiles. [→ Zixin Chen 2026](#zixin-chen-2026)

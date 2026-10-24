@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: kaliisa-2025
     resource: "https://doi.org/10.18608/jla.2025.8495"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` AI policies and strategies within African countries (Egypt, Mauritius, Rwanda) were found to be high level and more focused on economic goals than on establishing specific requirements. [→ Kaliisa 2025](#kaliisa-2025)

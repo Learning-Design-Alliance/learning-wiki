@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: alicia-demers-2024
     resource: "https://www.mathematica.org/publications/ewing-marion-kauffman-school-year-10-and-11-impacts"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Kauffman School produced a positive, statistically significant impact on enrollment in four-year colleges, large enough to close over 80 percent of the gap in four-year college enrollment rates for Black high school seniors in Missouri. [→ Alicia Demers 2024](#alicia-demers-2024)

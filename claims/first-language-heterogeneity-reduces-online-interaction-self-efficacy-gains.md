@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: natalia-reich-stiebert-2023
     resource: "https://doi.org/10.1007/s11412-023-09411-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students in first-language heterogeneous CSCL groups exhibited smaller pre-to-post gains in online interaction self-efficacy than students in homogeneous groups, with a significant heterogeneity × time interaction (η2 = .004) alongside a large time main effect (η2 = .11). [→ Natalia Reich-Stiebert 2023](#natalia-reich-stiebert-2023)

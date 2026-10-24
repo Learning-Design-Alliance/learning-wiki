@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: greenberg-et-al-2020
     resource: "https://doi.org/10.1080/10508406.2020.1749633"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q3` · n=12 youth ages 11-14, majority Black/youth of Color, low-income community, one afterschool STEM program running 10+ years
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 A yearlong critical ethnography of 12 youth in a community STEM-making program found that all five youth teams redefined entrepreneurialism toward community benefit rather than profit, grounded their designs in community-rooted problems, and collectively recognized and resisted racialized structural misrecognition at a public entrepreneurial fair, sustaining and deepening this orientation over more than a year of follow-up.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kole-norberg-2025
     resource: "https://doi.org/10.5281/zenodo.15870274"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 74 workspaces, 4,446 of 9,421 word problems showed significant deviation in error rates by reading ability after correcting for baseline differences. [→ Kole Norberg 2025](#kole-norberg-2025)

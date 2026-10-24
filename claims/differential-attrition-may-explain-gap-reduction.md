@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: robinson-2021
     resource: "https://doi.org/10.1007/s10648-020-09588-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Course drops nearly doubled from 32 in 2008 to 58 in 2011 when daily quizzes increased rigor, and lower-SES students drop at higher rates, so attrition could shrink the observed SES gap. [→ Robinson 2021](#robinson-2021)

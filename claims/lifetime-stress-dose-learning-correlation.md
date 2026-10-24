@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: harms-madeline-b-2018
     resource: "https://doi.org/10.1111/desc.12596"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Higher lifetime stress was associated with poorer avoidance learning, less cognitive flexibility, and reduced putamen and ACC activation during reversal. [→ Harms Madeline B. 2018](#harms-madeline-b-2018)

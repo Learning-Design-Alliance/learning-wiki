@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: nicolas-sommet-2023
     resource: "https://doi.org/10.1037/pspa0000310"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article's central claim, as printed in its manuscript title, is that income inequality fosters competitiveness at school. [→ Nicolas Sommet 2023](#nicolas-sommet-2023)

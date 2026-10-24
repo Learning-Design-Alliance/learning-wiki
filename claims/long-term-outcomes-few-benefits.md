@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: allensworth-2009
     resource: "https://doi.org/10.3102/0162373709343471"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An increase of 20 percentage points in taking algebra led to an increase of 3 percentage points in lowest-ability students earning credits beyond geometry (p < .01), but this did not hold beyond Algebra II. [→ Allensworth 2009](#allensworth-2009)

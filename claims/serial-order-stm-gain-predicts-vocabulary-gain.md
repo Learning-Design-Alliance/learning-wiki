@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: leclercq-2010
     resource: "https://doi.org/10.1037/a0018540"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The Age 4-to-Age 5 increase in serial order reconstruction performance predicted the increase in vocabulary knowledge after controlling for increase in Raven's matrices (r = .34, p<.05). [→ Leclercq 2010](#leclercq-2010)

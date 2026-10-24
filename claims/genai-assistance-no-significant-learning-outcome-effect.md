@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: maier-2026
     resource: "https://doi.org/10.48550/arxiv.2605.04779"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 11 effect sizes from 10 studies, the pooled effect of GenAI assistance on learning outcomes is small and statistically non-significant (Hedges' g = 0.14, 95% CI [-0.18, 0.47], SE = 0.17, p = 0.389). [→ Maier 2026](#maier-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: bas-kolloffel-2009
     resource: "https://doi.org/10.1007/s11251-008-9056-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No main effect of format was found on conceptual knowledge. [→ Bas Kolloffel 2009](#bas-kolloffel-2009)

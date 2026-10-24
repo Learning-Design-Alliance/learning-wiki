@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: wei-j-and-shang-y-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1965371"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a think-aloud study of 15 students completing two tasks with plausible LLM falsehoods, seven students failed Task 1 despite self-checking or external cross-checking (46.7%; Wilson 95% CI, 24.8%–69.9%). [→ Wei J and Shang Y 2026](#wei-j-and-shang-y-2026)

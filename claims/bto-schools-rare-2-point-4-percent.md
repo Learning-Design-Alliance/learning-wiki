@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: voight-2013
     resource: "http://www.wested.org/cs/we/view/rs/1310"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 1,715 California middle and high schools, 40 (2.4 percent) were BTO schools and 20 (1.2 percent) were chronically underperforming schools. [→ Voight 2013](#voight-2013)

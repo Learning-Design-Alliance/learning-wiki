@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: daisyquest-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Mitchell and Fox (2001), DaisyQuest showed no statistical difference from teacher-delivered phonological awareness instruction on the total test score, with a negative (non-significant but substantively important) effect favoring the teacher-led group. [→ DaisyQuest 2006](#daisyquest-2006)

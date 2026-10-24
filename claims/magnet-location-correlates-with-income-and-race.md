@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2000
+recheck_by: 2003
 sources:
   - id: elaine-m-allensworth-2000
     resource: "https://consortium.uchicago.edu/publications/access-magnet-schools-chicago"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Areas outside any magnet neighborhood zone average $29,845 median family income versus $33,837 in covered areas, with 5 percent fewer white and 5 percent more African-American residents. [→ Elaine M. Allensworth 2000](#elaine-m-allensworth-2000)

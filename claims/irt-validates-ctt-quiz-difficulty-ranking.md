@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: parker-2025
     resource: "https://doi.org/10.48550/arxiv.2605.00294"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` A 1-parameter logistic (Rasch) IRT model produces quiz difficulty rankings that correlate nearly perfectly with classical test theory rankings for Immunology. [→ Parker 2025](#parker-2025)

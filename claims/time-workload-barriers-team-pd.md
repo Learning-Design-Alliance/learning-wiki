@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: gast-2017
     resource: "https://doi.org/10.3102/0034654317704306"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teams often find it difficult to find the time to meet or finish a training, and heavy workload was identified as a challenge. [→ Gast 2017](#gast-2017)

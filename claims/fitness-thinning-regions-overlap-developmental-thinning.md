@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: chaddock-heyman-l-2015
     resource: "https://doi.org/10.1371/journal.pone.0134115"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The authors note that the frontal, temporal, and occipital regions showing fitness-related thinning are similar to developing brain areas that undergo significant cortical thinning between ages 5 and 11. [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)

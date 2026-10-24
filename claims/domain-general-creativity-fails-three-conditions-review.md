@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: sébastien-miravete-2024
     resource: "https://doi.org/10.1007/s10648-024-09926-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a systematic review of 36 empirical studies, some participants succeeded in creative tasks in several domains, but only where prior knowledge was uncontrolled and tasks were artificial. [→ Sébastien Miravete 2024](#sebastien-miravete-2024)

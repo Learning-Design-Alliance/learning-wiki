@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jiqing-sun-2026
     resource: "https://doi.org/10.1007/s11412-026-09476-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The two NGI clusters (10′53″–13′37″ and 34′42″–39′11″) aligned with intervals of high positive emotion scores and frequent group synchronisation. [→ Jiqing Sun 2026](#jiqing-sun-2026)

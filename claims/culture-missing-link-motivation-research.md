@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: bembenutty-2023
     resource: "https://doi.org/10.1007/s10648-023-09743-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Dennis McInerney's research program was dedicated to uncovering how culture is a missing link in most motivation research. [→ Bembenutty 2023](#bembenutty-2023)

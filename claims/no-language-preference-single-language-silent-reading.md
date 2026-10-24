@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: yow-2019
     resource: "https://doi.org/10.1177/2332858419878126"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 2, silent reading of single-language books showed no significant effect of Book Type after controlling for reading-ability differences, F(1, 32) = .19, p = .67, partial η2 = .006; equivalence was not explicitly tested. [→ Yow 2019](#yow-2019)

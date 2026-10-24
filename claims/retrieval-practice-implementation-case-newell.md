@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-19
 sources:
   - id: improving-research-and-practice-through-partnership-lessons-learned-from-santa-clara-unified-schools-and-uc-san-francisco-researchers-2016
     resource: "https://digitalpromise.dspacedirect.org/items/319db7e4-46fb-4f18-a6f0-628edf43ae9e"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

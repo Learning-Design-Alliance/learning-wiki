@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 1996
 sources:
   - id: simon-veenman-1996
     resource: "https://doi.org/10.2307/1170526"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` For noncognitive effects of multigrade classes, the weighted average d-index was near zero once outliers were excluded, with the confidence interval including zero. [→ Simon Veenman 1996](#simon-veenman-1996)

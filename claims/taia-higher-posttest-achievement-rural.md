@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fan-chen-2026
     resource: "https://doi.org/10.1007/s11251-026-09788-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` After adjusting for pre-test achievement and ICT competency, the inquiry approach significantly affected post-test scores (ηp² = 0.102), with EG students outperforming CG peers. [→ Fan Chen 2026](#fan-chen-2026)

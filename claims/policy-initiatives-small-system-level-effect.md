@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2012
 sources:
   - id: marisa-de-la-torre-2009
     resource: "https://consortium.uchicago.edu/publications/changing-schools-look-student-mobility-trends-chicago-public-schools-1995"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Policy-driven mobility had a negligible system-level effect, but schools near new or closing schools experienced concentrated impacts, including a nearly 13 percentage point rise in summer in-mobility in receiving schools. [→ Marisa de la Torre 2009](#marisa-de-la-torre-2009)

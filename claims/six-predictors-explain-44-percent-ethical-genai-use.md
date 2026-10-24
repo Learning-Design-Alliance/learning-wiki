@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tabares-cruz-yb-2026
     title: Tabares-Cruz YB 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The six predictor constructs jointly explained 44.0% of the variance in ethical GenAI use (R2 = 0.440) in a confirmatory SEM model with excellent fit. [→ Tabares-Cruz YB 2026](#tabares-cruz-yb-2026)

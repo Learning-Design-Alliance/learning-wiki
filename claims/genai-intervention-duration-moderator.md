@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: zhao-yan-2025
     resource: "https://doi.org/10.3390/jintelligence13120160"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Between-groups difference for duration is significant (Q = 9.106, p = 0.011); the 8–16 week subgroup yields the largest effect (ES = 0.759), exceeding 0–8 weeks (ES = 0.494) and >16 weeks (ES = 0.372). [→ Zhao Yan 2025](#zhao-yan-2025)

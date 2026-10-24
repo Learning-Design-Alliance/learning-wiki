@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: how-arizonas-dropout-crisis-affects-communities-2014
     resource: "https://eric.ed.gov/?id=ED559628"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The lifetime social loss per Arizona high school dropout is $421,280, and across the 18,100 students dropping out annually the aggregate social loss is $7.6 billion. [→ How Arizona's Dropout Crisis Affects Communities 2014](#how-arizonas-dropout-crisis-affects-communities-2014)

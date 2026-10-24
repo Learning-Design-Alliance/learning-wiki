@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: escalante-2023
     resource: "https://doi.org/10.1186/s41239-023-00425-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis of open-ended responses found the most prominent reason for preferring human feedback was the affordances of sitting down face to face and interacting with a human. [→ Escalante 2023](#escalante-2023)

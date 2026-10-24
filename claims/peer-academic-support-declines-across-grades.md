@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1996
+recheck_by: 2001
 sources:
   - id: sebring-1996
     resource: "https://consortium.uchicago.edu/publications/charting-reform-chicago-students-speak"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2001**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The share of students saying all or most of their friends try hard to get good grades falls from 61 percent in sixth grade to 53 percent in eighth grade to 45 percent in tenth grade. [→ Sebring 1996](#sebring-1996)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: j-a-anguera-2013
     resource: "https://doi.org/10.1038/nature12486"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Theta power and coherence each showed significant condition × session × group interactions, with significant pre- to post-training increases only for MTT during sign and drive; the article reports the interactions exceeded Cohen's d of 0.93 but prints no exact effect size value. [→ J. A. Anguera 2013](#j-a-anguera-2013)

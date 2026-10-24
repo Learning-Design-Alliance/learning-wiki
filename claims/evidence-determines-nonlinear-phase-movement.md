@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: kate-place-2023
     resource: "https://www.mathematica.org/publications/a-road-map-for-building-evidence-that-drives-learning-and-improvement"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Evidence determines when a solution should move to the next phase, stay within a phase and continue development, or return to a prior phase. [→ Kate Place 2023](#kate-place-2023)

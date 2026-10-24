@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: what-works-clearinghouse-2010
     resource: "http://www.wested.org/ReadingApprenticeship"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i0` negligible
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` For Cohort 2 students, the study found, and the WWC confirmed, a statistically significant positive effect on the GRADE reading comprehension subtest (effect size 0.14, improvement index +5). [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)

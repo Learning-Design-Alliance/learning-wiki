@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-15
 sources:
   - id: knowledge-is-power-program-kipp-2018
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/688"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i1` small
+> **Currency** · newest study 2018 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Two studies including 18,712 students reported positive and statistically significant effects on science achievement, with an average improvement index of +11 (range +10 to +13). [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)

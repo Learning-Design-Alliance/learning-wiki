@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shihao-yang-2026
     resource: "https://doi.org/10.48550/arxiv.2609.23958"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Holdout students used consumer AI freely (21–42% in any given week), yet the tutor's randomized advantage held, and removing ambient-AI users from the control group left the estimate essentially unchanged. [→ Shihao Yang 2026](#shihao-yang-2026)

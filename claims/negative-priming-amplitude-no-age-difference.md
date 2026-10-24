@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: rossi-2019
     resource: "https://doi.org/10.5964/jnc.v5i3.197"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` A 2 (type of trial) × 2 (age) ANOVA on probe RTs found no significant two-way interaction, and Bayesian analysis provided moderate evidence in favor of the null hypothesis (BF01 = 3.20). [→ Rossi 2019](#rossi-2019)

@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: higgs-kaimana-isero-2026
     resource: "https://doi.org/10.1080/10508406.2026.2686084"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=69 students (2 classes), grades 9-12 charter school, ~78% qualifying for economic assistance
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 When instruction treats learners' personal, lived experience with a technology or topic as a legitimate starting point for disciplinary analysis — rather than a motivational hook set aside once "real" content begins — learners are more likely to extend individual ("inward") concerns into systemic, collective ("outward") critique.
 

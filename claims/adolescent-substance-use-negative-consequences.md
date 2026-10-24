@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: james-burdumy-2010
     resource: "https://www.mathematica.org/publications/es-the-effectiveness-of-mandatoryrandom-student-drug-testing"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The negative consequences associated with adolescent substance use include low academic outcomes, delinquency, and risky sexual behaviors. [→ James-Burdumy 2010](#james-burdumy-2010)

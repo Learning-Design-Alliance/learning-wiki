@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: fathima-ameen-2026
     resource: "https://doi.org/10.1007/s41237-026-00294-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Path coefficients from conceptual and procedural pre-test scores to %KBR were not statistically significant (CKTpre: β = .440, p = .10; PSTpre: β = .206, p = .16). [→ Fathima Ameen 2026](#fathima-ameen-2026)

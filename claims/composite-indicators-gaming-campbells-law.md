@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: adams-2017
     resource: "https://learningpolicyinstitute.org/product/next-generation-accountability"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Because consequences attach to outcomes rather than behaviors, composite test-based indicators reinforce both desired improvement behaviors and undesired behaviors such as teaching to the test, curriculum narrowing, and cheating, so long as the outcome is the same. [→ Adams 2017](#adams-2017)

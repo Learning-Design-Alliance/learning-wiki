@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2001
 sources:
   - id: lajoie-2001
     resource: "http://www.jstor.org/stable/41953546"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Confidence correlated with final diagnostic accuracy (r = 0.51) but not with the first hypothesis (r = 0.232). [→ Lajoie 2001](#lajoie-2001)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: daiki-nakamura-2026
     resource: "https://doi.org/10.1007/s10648-026-10224-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The fluency, coherence, and confident tone of GenAI outputs produce cognitive ease that learners misread as comprehension, inflating judgments of learning and biasing control decisions toward accepting output and offloading further. [→ Daiki Nakamura 2026](#daiki-nakamura-2026)

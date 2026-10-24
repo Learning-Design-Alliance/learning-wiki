@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: eric-isenberg-2015
     resource: "https://doi.org/10.1080/19345747.2014.974231"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Decomposition of baseline achievement variation within classes, between classes at the same school, and between schools shows more within-school pretest variation in middle school grades and an offsetting amount of between-school variation in upper elementary grades. [→ Eric Isenberg 2015](#eric-isenberg-2015)

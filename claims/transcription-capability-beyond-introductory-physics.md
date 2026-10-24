@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: looney-2026
     resource: "https://doi.org/10.48550/arxiv.2608.20733"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Although testing of higher-level mathematics was limited, the successful v6m transcriptions of videos 3, 5, 10, and 14 — involving Dirac notation, infinite square well eigenstates, Maxwell and Schrödinger equations, and Gauss's law — are indicative of generalized capability. [→ Looney 2026](#looney-2026)

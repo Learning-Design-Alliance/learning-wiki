@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: digital-promise-global-2019
     resource: "https://doi.org/10.51388/20.500.12265/66"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 78 to 83 percent of the general public, parents, and teachers think there is a great deal or good amount of variability across learners, and 74 to 77 percent see variability across school subjects. [→ Digital Promise Global 2019](#digital-promise-global-2019)

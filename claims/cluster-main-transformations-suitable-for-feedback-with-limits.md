@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lilian-killich-2026
     resource: "https://doi.org/10.48550/arxiv.2609.17111"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` A CS educator inspected all clusters explaining at least 0.5% of pairs in each dataset; in propositional logic 19 clusters had main transformations suitable for feedback, with at least 4 requiring sub-transformations, and in modal logic 18 were suitable with at least 7 requiring sub-transformations. [→ Lilian Killich 2026](#lilian-killich-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-17
 sources:
   - id: map-reading-fluency-with-coach-evidence-base-2024
     resource: "https://www.nwea.org/research/publication/map-reading-fluency-with-coach-evidence-base/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- title before 2026-10-15: Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement -->
 
 ## Subclaims

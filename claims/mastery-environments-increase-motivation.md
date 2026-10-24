@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: donald-e-grant-jr-jerell-b-hill-2020
     resource: "https://doi.org/10.5539/jel.v9n5p45"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mastery-focused environments increase student motivation to learn, whereas performance-focused environments can detract from motivation to learn for all but the highest achievers. [→ Donald E Grant Jr. & Jerell B. Hill 2020](#donald-e-grant-jr-jerell-b-hill-2020)

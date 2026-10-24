@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: bol-l-and-hacker-dj-2012
     title: Bol L and Hacker DJ 2012
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across many studies, higher-achieving students tend to be more accurate but more underconfident when compared to their lower-achieving counterparts. [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)

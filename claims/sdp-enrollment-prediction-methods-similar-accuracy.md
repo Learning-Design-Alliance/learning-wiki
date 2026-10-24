@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: sean-tanner-2021
     resource: "https://www.mathematica.org/publications/predicting-early-fall-student-enrollment-in-the-school-district-of-philadelphia"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across four statistical techniques, predicted cohort size differs from actual cohort size by roughly six students, so no method is meaningfully more accurate for staffing planning. [→ Sean Tanner 2021](#sean-tanner-2021)

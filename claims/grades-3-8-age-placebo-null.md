@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nick-huntington-klein-2026
     resource: "https://doi.org/10.48550/arxiv.2605.08812"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grades 3-8 estimates are -0.0006 (0.0022) for mathematics and 0.0030 (0.0019) for reading, both insignificant. [→ Nick Huntington-Klein 2026](#nick-huntington-klein-2026)

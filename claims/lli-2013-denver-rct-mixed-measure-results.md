@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: leveled-literacy-intervention-2017
     resource: "http://www.fountasandpinnell.com/intervention/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For Fountas & Pinnell BAS, the WWC found a positive and statistically significant difference between the intervention and comparison groups for the combined K–2 sample, with effect size 0.29. [→ Leveled Literacy Intervention 2017](#leveled-literacy-intervention-2017)

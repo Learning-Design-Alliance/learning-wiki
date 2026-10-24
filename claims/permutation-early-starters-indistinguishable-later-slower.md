@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: hartshorne-joshua-k-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6559801/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Immersion learners with exposure ages of 2, 5, and 8 years were not significantly different from simultaneous bilinguals, while later learners were significantly lower. [→ Hartshorne Joshua K. 2018](#hartshorne-joshua-k-2018)

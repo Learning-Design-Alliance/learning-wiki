@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rice-2018
     resource: "https://ies.ed.gov/ncee/edlabs/regions/west"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A smaller percentage of classes in rural districts were taught by highly qualified teachers compared to non-rural districts (e.g., 77.4 vs. 87.3 percent overall in 2016). [→ Rice 2018](#rice-2018)

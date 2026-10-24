@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: mckim-2016
     resource: "https://doi.org/10.5032/jae.2016.01073"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Verbal feedback from the cooperating teacher explained 10% of the variance in student teachers' general teaching efficacy, while being observed by another student teacher had no significant relationship. [→ McKim 2016](#mckim-2016)

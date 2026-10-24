@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: steven-glazerman-2012
     resource: "https://www.mathematica.org/publications/an-evaluation-of-the-chicago-teacher-advancement-program-chicago-tap-after-four-years"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teachers in Chicago TAP schools in fall 2007 were about 20 percent more likely than teachers in comparison schools to be in those same schools three years later (67 percent versus 56 percent retention). [→ Steven Glazerman 2012](#steven-glazerman-2012)

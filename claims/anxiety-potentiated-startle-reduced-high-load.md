@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: patel-nilam-2016
     resource: "https://doi.org/10.1111/psyp.12582"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Anxiety-potentiated startle ([threat – safe] startle) was greater during the 1-back and 2-back tasks than the 3-back task. [→ Patel Nilam 2016](#patel-nilam-2016)

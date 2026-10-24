@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: khan-abdus-salam-2025
     resource: "https://doi.org/10.7759/cureus.94133"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Intervention participants identified role-play as particularly effective for clarifying consent-taking concepts and building confidence. [→ Khan Abdus Salam 2025](#khan-abdus-salam-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: krebs-2021
     resource: "https://doi.org/10.1007/s11251-021-09552-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the recall-performance three-way interaction model, no significant interaction emerged between modeling condition, PK activation and domain knowledge score, and Hypotheses 1–5 were not supported. [→ Krebs 2021](#krebs-2021)

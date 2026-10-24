@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: stallasch-2024
     resource: "https://doi.org/10.1007/s10648-024-09898-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Prior reviewed evidence shows single-level R2 for IP dropped from Pooled R2 = 0.63 at a 1-year lag to 0.36 at a 7-year lag, and multilevel R2 at L1 declined from 0.50 (1-year) to 0.35 (3-year), while L3 values were far less prone to time effects. [→ Stallasch 2024](#stallasch-2024)

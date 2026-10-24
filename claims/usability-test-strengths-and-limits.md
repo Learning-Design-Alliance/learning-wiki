@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2028
 sources:
   - id: minji-kim-2025
     resource: "https://doi.org/10.1007/s12564-025-10080-z"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Usability test participants found the chatbot design enabled learners to address challenges independently, facilitated team mediation, and provided precise guidance, while limited feedback for learners with low participation was identified as a weakness. [→ Minji Kim 2025](#minji-kim-2025)

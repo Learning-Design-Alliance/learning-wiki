@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: michael-conner-2021
     resource: "https://www.nwea.org/research/publication/transforming-education-through-covid-19-recovery-and-learning-acceleration-research-findings-policy-recommendations-and-lessons-from-the-ground/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The webinar shares new research comparing students' academic trends in the 2020-2021 school year against a more typical school year. [→ Michael Conner 2021](#michael-conner-2021)

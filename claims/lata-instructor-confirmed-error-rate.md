@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jesse-a-rodríguez-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05410"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Against roughly 6,000 rubric decisions per assignment, the 5–10 regrade requests per assignment, about half judged valid, correspond to an instructor-confirmed per-rubric-item error rate of approximately 0.02–0.04%. [→ Jesse A. Rodríguez 2026](#jesse-a-rodriguez-2026)

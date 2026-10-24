@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xin-tian-2026
     resource: "https://doi.org/10.1186/s41239-026-00613-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The MGRM-IRT analysis showed strong item discrimination (mean a = 1.91–2.47), excellent fit (CFI = 0.93, TLI = 0.95, RMSEA = 0.001), and marginal reliability of 0.88–0.92. [→ Xin Tian 2026](#xin-tian-2026)

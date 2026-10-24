@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: sarré-2011
     resource: "https://dx.doi.org/10.14705/rpnet.2011.9781908416001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Videoconferencing sessions contained more negotiated turns (negotiation routines and negative feedback) than both text chat and discussion board interactions; discussion board interactions in turn contained a higher proportion of negotiated turns than text chat. [→ Sarré 2011](#sarre-2011)

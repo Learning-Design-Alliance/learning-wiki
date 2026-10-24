@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: gosse-2020
     resource: "https://doi.org/10.1016/j.ridd.2019.103553"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article states that several studies have demonstrated poor and slow handwriting in dyslexia, while it was unclear whether these difficulties stem from the spelling deficit or graphomotor difficulties. [→ Gosse 2020](#gosse-2020)

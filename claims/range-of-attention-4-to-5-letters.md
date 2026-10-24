@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1910
 sources:
   - id: whipple-1910
     resource: "https://books.google.com/books?q=Whipple+effect+of+practise+range+of+visual+attention+apprehension"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adult observers grasp on average between 4 and 5 isolated letters in a single 0.08-sec exposure, in accord with previous tachistoscopic work. [→ Whipple 1910](#whipple-1910)

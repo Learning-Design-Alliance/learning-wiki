@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-23
 sources:
   - id: crosnoe-2010
     resource: "https://doi.org/10.1037/a0017762"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · n=587 children (low early skill group n = 71)
+> **Currency** · newest study 2010 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In observational longitudinal data, the three-way interaction among teacher–student conflict, inference instruction, and early skill group was statistically significant: inference instruction and conflict predicted math achievement more strongly for the low early skill group, an association that cannot show cause. [→ Crosnoe 2010](#crosnoe-2010)

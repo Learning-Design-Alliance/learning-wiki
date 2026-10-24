@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: markus-h-hefter-2026
     resource: "https://doi.org/10.3390/aieduc2030027"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a multiple regression, epistemic orientation (β = 0.36) and intellectual values (β = 0.40) each significantly positively predict critical genAI use; the model explains R² = 0.33. [→ Markus H. Hefter 2026](#markus-h-hefter-2026)

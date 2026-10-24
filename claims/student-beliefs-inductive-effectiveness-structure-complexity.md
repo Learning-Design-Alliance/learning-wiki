@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: daloglu-2020
     resource: "https://doi.org/10.5539/elt.v13n10p158"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 64% of students believed inductive instruction more effective for teaching simple grammatical structures than difficult ones, while 59% believed it more effective for difficult structures than simple ones. [→ Daloglu 2020](#daloglu-2020)

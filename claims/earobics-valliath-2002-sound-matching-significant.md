@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: what-works-clearinghouse-2009
     resource: "https://www.earobics.com"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Valliath (2002) found a positive, statistically significant effect on CTOPP Sound Matching (effect size 1.13), while the other five WWC-analyzed outcomes were not statistically significant. [→ What Works Clearinghouse 2009](#what-works-clearinghouse-2009)

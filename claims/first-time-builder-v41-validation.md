@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: farnaz-baksh-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15239"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` User Mental Demand during assembly remained higher than that of developers, which participants attributed to the effort of identifying parts and wiring identification. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)

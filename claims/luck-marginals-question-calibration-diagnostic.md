@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: francesca-mangili-2026
     resource: "https://doi.org/10.48550/arxiv.2608.24632"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The marginal probability of the luck variable provides a diagnostic of question informativeness: questions 7, 8 and 9 show high probability of very good luck (above 30%), suggesting poor calibration, while question 12 shows bad-luck probability up to 0.76, indicating underperformance is more likely than over-performance. [→ Francesca Mangili 2026](#francesca-mangili-2026)

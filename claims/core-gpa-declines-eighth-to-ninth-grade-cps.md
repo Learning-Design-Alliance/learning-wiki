@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: seeskin-2018
     resource: "https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 2012 and 2017, average ninth-grade core GPA rose from 2.18 to 2.58 and eighth-grade core GPA rose from 2.52 to 2.89, yet the eighth-to-ninth decline persisted (0.34 points in 2012; 0.31 points in 2017). [→ Seeskin 2018](#seeskin-2018)

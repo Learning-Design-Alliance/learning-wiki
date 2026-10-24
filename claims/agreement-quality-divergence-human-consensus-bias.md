@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28890"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For codes with moderate-to-high human-human agreement, the blind verifier more often endorses the LLM interpretation, indicating two coders can reliably agree while both under-applying a code. [→ Liu 2026](#liu-2026)

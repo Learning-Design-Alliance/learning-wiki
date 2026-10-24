@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: björn-b-de-koning-2017
     resource: "https://doi.org/10.1007/s10648-016-9380-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Matching items were verified faster than mismatching items in the SPVT (ηp² = 0.08), and a significant main effect of matching also appeared in the SSJT (ηp² = 0.14). [→ Björn B. de Koning 2017](#bjorn-b-de-koning-2017)

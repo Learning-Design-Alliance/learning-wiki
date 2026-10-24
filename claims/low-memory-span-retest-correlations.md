@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1918
 sources:
   - id: mitchell-1918
     resource: "https://www.google.com/search?q=%22Variability+in+Memory+Span%22+Mitchell+1918"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 45 inter-trial correlations for 97 children tested on ten days, the average coefficient was 0.37 for Consecutive Series scores and 0.54 for Maximum Series scores, with only two exceeding 0.70. [→ Mitchell 1918](#mitchell-1918)

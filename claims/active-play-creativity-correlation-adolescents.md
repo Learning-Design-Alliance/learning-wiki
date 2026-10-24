@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: piya-amornphan-n-2020
     resource: "https://doi.org/10.1186/s12887-020-2017-2"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Among adolescents aged 14–17, TCT-DP creativity scores were positively correlated with active play (r = 0.148, p = 0.001). [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)

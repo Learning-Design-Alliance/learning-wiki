@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-17
 sources:
   - id: bilingual-cooperative-integrated-reading-and-composition-2007
     resource: "https://eric.ed.gov/?id=ED405428"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2007 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Third-grade English language learners in BCIRC did not differ statistically significantly from comparison students on the NAPT language scale, though the effect size of 0.29 was substantively important. [→ Bilingual Cooperative Integrated Reading and Composition 2007](#bilingual-cooperative-integrated-reading-and-composition-2007)

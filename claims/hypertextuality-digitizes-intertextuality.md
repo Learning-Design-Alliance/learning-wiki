@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: dennis-2020
     resource: "https://doi.org/10.19173/irrodl.v21i3.4718"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Nelson's hypertextuality is intertextuality reimagined for a computerized world, extending the logic of intertextuality through digitalization and anticipating network learning. [→ Dennis 2020](#dennis-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: graf-2026
     resource: "https://doi.org/10.1007/s10639-026-14082-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In the elicit condition, JoL ratings correlated positively with system confidence (r = 0.287), progress (r = 0.326) and mastery (r = 0.408), all statistically significant. [→ Graf 2026](#graf-2026)

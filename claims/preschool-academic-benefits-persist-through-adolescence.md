@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ansari-2018
     resource: "https://doi.org/10.1037/edu0000255"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children who attended preschool at age 4 scored significantly higher on achievement tests than matched informal-care peers from kindergarten through eighth grade, with a kindergarten advantage of 0.20 standard deviation units and later effect sizes of 0.09–0.16 SDs. [→ Ansari 2018](#ansari-2018)

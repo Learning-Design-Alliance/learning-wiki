@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: naihobe-gonzalez-2018
     resource: "https://www.mathematica.org/publications/challenges-in-adolescent-reading-intervention-evidence-from-a-randomized-control-trial"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the trial, Oakland secondary schools faced challenges implementing LLI, leading students to experience different levels of LLI duration, intensity, and fidelity. [→ Naihobe Gonzalez 2018](#naihobe-gonzalez-2018)

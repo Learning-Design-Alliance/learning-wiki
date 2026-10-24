@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: zeytinoglu-2019
     resource: "https://doi.org/10.1177/0165025418757706"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Maternal emotional support in preschool predicted greater child cognitive flexibility in kindergarten, and emotional support in kindergarten predicted greater cognitive flexibility in first grade, controlling for stability, covariates, and cognitive support. [→ Zeytinoglu 2019](#zeytinoglu-2019)

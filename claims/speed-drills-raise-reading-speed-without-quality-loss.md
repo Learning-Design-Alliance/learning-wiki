@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1916
 sources:
   - id: peters-1916
     resource: "https://doi.org/10.1037/h0073150"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After seven months of daily speed drills, drill groups read 18.7% faster relative to no-drill groups, with only a trifling loss in quality. [→ Peters 1916](#peters-1916)

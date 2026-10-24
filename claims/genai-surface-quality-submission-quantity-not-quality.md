@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ugwuanyi-2025
     resource: "https://doi.org/10.48550/arxiv.2607.28505"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1`–`r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A journal editor reports fewer manuscripts returned for language checking and an increased number of submissions, with apparent linguistic correctness not translating into better research quality. [→ Ugwuanyi 2025](#ugwuanyi-2025)

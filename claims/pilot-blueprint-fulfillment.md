@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-15
 sources:
   - id: j-patrick-meyer-2023
     resource: "https://www.nwea.org/research/publication/content-proximity-spring-2022-pilot-study-research-report/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In K-2 math, over 95% of test events achieved the target number of items per instructional area and 100% were within 1 item of target; reading grade bands showed more variability. [→ J. Patrick Meyer 2023](#j-patrick-meyer-2023)

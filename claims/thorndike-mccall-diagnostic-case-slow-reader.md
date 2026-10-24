@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: arthur-i-gates-1921
     resource: "https://doi.org/10.1037/h0068367"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A grade VIII girl with IQ above 125 and oral reading poor for grade III scored 65 on the Thorndike-McCall (near her grade mean of 63.4) while scoring far below class means on Courtis, Monroe and Burgess comprehension tests, which the authors take as evidence of the test's diagnostic value. [→ Arthur I. Gates 1921](#arthur-i-gates-1921)

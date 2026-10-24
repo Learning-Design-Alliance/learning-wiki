@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2010
 sources:
   - id: gilmore-camilla-k-2010
     resource: "https://doi.org/10.1016/j.cognition.2010.02.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 1, ratio effect scores correlated with mathematics test performance (r = .544), but in Experiment 2 there was no relationship between ratio effect scores and mathematics achievement (r = .007, n.s.). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

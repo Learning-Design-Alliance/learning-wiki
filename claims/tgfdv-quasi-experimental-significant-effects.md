@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://www.mendezfoundation.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The quasi-experimental study found statistically significant effects favoring the intervention group on perceptions of social and resistance skills (effect size 0.56) and emotional competence (0.55). [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

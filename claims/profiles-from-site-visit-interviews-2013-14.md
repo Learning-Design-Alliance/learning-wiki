@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: kristin-hallgren-2014
     resource: "https://www.mathematica.org/publications/companion-document-for-the-strategic-data-project-and-education-pioneers-year-2-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mathematica developed the twelve profiles using data collected during site visit interviews in fall and winter 2013–14, focusing on data collection, use, analysis, and reporting. [→ Kristin Hallgren 2014](#kristin-hallgren-2014)

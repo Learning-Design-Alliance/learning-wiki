@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yang-z-2026
     title: Yang Z 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` PNT showed an incremental association with LOU beyond perceived GenAI guidance clarity (β = 0.478, p < 0.001), with explained variance in LOU rising from 32.2 to 36.9%. [→ Yang Z 2026](#yang-z-2026)

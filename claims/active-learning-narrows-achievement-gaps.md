@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: haak-et-al-2011
     resource: "https://doi.org/10.1126/science.1204820"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 Active learning approaches benefit students broadly, but two independent studies in introductory STEM courses found the benefit was *disproportionately* larger for students already at a disadvantage — educationally/economically disadvantaged students in one case, women in a male-dominated field in the other — narrowing pre-existing achievement gaps rather than simply raising everyone's performance by the same amount.
 

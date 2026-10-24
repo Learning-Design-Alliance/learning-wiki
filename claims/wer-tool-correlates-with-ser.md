@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: dillon-2023
     resource: "https://doi.org/10.15858/engtea.78.1.202303.3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` SER scores correlated with an online word error rate tool at Pearson's correlation of .788 (r = .788), supporting the WER tool as a reliable quick measure of pronunciation accuracy. [→ Dillon 2023](#dillon-2023)

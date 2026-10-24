@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: geonwoo-bang-2026
     resource: "https://doi.org/10.48550/arxiv.2610.03273"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Policies trained against the original DKT (seed 42) and executed on four alternative DKT instances keep EVOL variants strongest, with graph-conditioned baselines degrading more sharply. [→ Geonwoo Bang 2026](#geonwoo-bang-2026)

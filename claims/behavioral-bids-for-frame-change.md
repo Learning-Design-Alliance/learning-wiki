@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: rachel-e-scherr-and-david-hammer-2007
     resource: "https://scholar.google.com/scholar?q=Student+Behavior+and+Epistemological+Framing"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Momentary departures from the group's dominant behavioral cluster, such as a student speaking in unusually clear, original, animated speech while the group remains in the blue cluster, are interpreted as bids for a frame change; in the episodes analyzed the group accepted the bid the second time it was made. [→ Rachel E. Scherr and David Hammer 2007](#rachel-e-scherr-and-david-hammer-2007)

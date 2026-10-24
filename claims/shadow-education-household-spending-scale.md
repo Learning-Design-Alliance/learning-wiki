@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: guo-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29672"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` South Korea's official national survey put private supplementary education at 29.2 trillion won in 2024, with 80% participation and English the largest subject at 248,000 won per month per participating student in 2023. [→ Guo 2026](#guo-2026)

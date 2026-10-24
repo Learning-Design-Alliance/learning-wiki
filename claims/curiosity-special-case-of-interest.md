@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: pekrun-2019
     resource: "https://doi.org/10.1007/s10648-019-09512-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` From common-core definitions, curiosity and interest are neither identical nor completely disjunct; curiosity is a subset of states of interest, and during learning with a sense of agency the two are conceptually identical. [→ Pekrun 2019](#pekrun-2019)

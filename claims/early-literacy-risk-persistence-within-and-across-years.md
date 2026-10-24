@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: early-literacy-performance-in-massachusetts-key-findings-from-202324-school-year-data-2025
     resource: "https://eric.ed.gov/?id=ED677570"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Seventy-five percent of students identified as significantly below benchmark at BOY were still significantly below benchmark at EOY, and most identified at EOY remain at significant risk into later grades. [→ Early Literacy Performance in Massachusetts: Key Findings From 2023/24 School Year Data 2025](#early-literacy-performance-in-massachusetts-key-findings-from-202324-school-year-data-2025)

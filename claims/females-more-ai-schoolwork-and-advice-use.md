@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: jake-renzella-2026
     resource: "https://doi.org/10.48550/arxiv.2606.14718"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i1` Females were significantly more likely to report using AI for schoolwork (65.0% vs. 49.5%, OR=1.81) and seeking advice from AI (27.0% vs. 14.1%, OR=2.35). [→ Jake Renzella 2026](#jake-renzella-2026)

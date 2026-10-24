@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lindsay-dawson-2026
     resource: "https://doi.org/10.48550/arxiv.2608.12523"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with little to no prior prompt-engineering experience reported a significant change in their Gen AI interactions after training, whereas students reporting no change cited previous experience or already using basic prompting techniques. [→ Lindsay Dawson 2026](#lindsay-dawson-2026)

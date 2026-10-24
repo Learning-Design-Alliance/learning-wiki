@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-19
 sources:
   - id: rogde-k-2019
     resource: "https://doi.org/10.1002/cl2.1059"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2019 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Linguistic comprehension intervention programs produce small positive immediate effects on generalized measures of linguistic comprehension skills (g = 0.16). [→ Rogde K 2019](#rogde-k-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-17
 sources:
   - id: belle-dang-2024
     resource: "https://doi.org/10.18608/jla.2024.8393"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The TFA pattern shows that metacognitive processes without strategic analysis and planning may lead to counterproductive outcomes, challenging the view that metacognitive activity directly indicates effective regulation. [→ Belle Dang 2024](#belle-dang-2024)

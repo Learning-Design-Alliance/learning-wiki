@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: mahaffie-2024
     resource: "https://toandthrough.uchicago.edu/tool/cps/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` If current rates hold, 31% of current CPS ninth-graders would complete a college credential within 10 years, a 0.4 percentage point increase over the 2022 PAI of 30.2%. [→ Mahaffie 2024](#mahaffie-2024)

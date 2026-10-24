@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: moore-2016
     resource: "https://doi.org/10.1016/j.jecp.2016.05.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children who were one- or two-knowers at the beginning of preschool scored at least 0.5 SDs lower on kindergarten number sets, depending on item type, than early CP-knowers, controlling multiple other factors; the article prints no standardized effect size statistic for this group contrast. [→ Moore 2016](#moore-2016)

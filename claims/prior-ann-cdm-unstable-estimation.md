@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: kang-xue-2021
     resource: "https://doi.org/10.3389/fpsyg.2020.618336"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` ANN methods previously proposed for diagnostic classification produced very unstable and unappreciated estimation unless a great deal of care was taken. [→ Kang Xue 2021](#kang-xue-2021)

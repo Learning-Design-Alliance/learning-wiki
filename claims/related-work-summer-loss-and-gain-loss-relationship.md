@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: megan-kuhfeld-2019
     resource: "https://doi.org/10.3102/0013189x20977854"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors' associated research includes a blog on summer learning loss and an article titled Rethinking summer slide: The more you gain, the more you lose. [→ Megan Kuhfeld 2019](#megan-kuhfeld-2019)

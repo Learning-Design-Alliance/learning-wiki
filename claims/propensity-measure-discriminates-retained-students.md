@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1995
+recheck_by: 1998
 sources:
   - id: stuart-luppescu-1995
     resource: "https://consortium.uchicago.edu/publications/school-reform-retention-policy-and-student-achievement-gains"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1998**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In first grade, the log-odds of being retained on the propensity measure are more than three times greater for students who were actually retained, corresponding to probabilities of 23% versus 2%. [→ Stuart Luppescu 1995](#stuart-luppescu-1995)

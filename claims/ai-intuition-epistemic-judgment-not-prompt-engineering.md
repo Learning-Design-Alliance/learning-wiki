@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: beau-2025
     resource: "https://doi.org/10.35542/osf.io/6uhj2_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article distinguishes AI intuition from prompt engineering: prompt engineering optimizes outputs, while AI intuition emphasizes knowing when to trust, verify, constrain, or disengage from AI systems. [→ Beau 2025](#beau-2025)

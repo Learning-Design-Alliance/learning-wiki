@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: muthanna-2021
     resource: "https://doi.org/10.3390/ijerph18052209"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The bullying-achievement relationship was stronger in longitudinal (OR = 0.43) than cross-sectional (OR = 0.85) studies, and moderated by age, bullying assessment method, country and bullying type (all Qb significant). [→ Muthanna 2021](#muthanna-2021)

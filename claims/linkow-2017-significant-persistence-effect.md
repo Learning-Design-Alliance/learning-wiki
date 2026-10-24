@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: what-works-clearinghouse-2020
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/708"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 2017 quasi-experimental study found a statistically significant positive effect on enrollment in a second year of higher education among 2,512 students (Table 4 reports 83.00 versus 75.00 percent, effect size 0.30, improvement index +12, p < .05). [→ What Works Clearinghouse 2020](#what-works-clearinghouse-2020)

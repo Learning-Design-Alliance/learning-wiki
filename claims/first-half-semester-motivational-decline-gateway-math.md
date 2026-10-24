@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-24
 sources:
   - id: daria-katharina-benden-and-fani-lauermann-2021
     resource: "https://doi.org/10.1037/edu0000708"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Latent change score analyses revealed significant decreases in expectancy, intrinsic value, and utility value (ΔM = −0.36 to −0.30, ps < .001) and increases in psychological and effort costs (ΔM = 0.40 and 0.26, ps < .001) from the beginning to midpoint of the semester. [→ Daria Katharina Benden and Fani Lauermann 2021](#daria-katharina-benden-and-fani-lauermann-2021)

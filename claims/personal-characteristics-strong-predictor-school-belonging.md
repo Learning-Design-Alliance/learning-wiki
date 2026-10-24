@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: allen-2018
     resource: "https://doi.org/10.1007/s10648-016-9389-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Positive personal characteristics, alongside teacher support, were the strongest predictors of school belonging in the meta-analysis. [→ Allen 2018](#allen-2018)

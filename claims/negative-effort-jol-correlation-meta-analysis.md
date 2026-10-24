@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: anique-b-h-de-bruin-2023
     resource: "https://doi.org/10.1007/s10648-023-09766-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across studies, learners' effort ratings correlate negatively with judgments of their learning during a learning task (r = −0.355), consistent with a data-driven easily-learned-easily-remembered heuristic. [→ Anique B. H. de Bruin 2023](#anique-b-h-de-bruin-2023)

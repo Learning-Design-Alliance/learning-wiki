@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: barrow-2020
     resource: "https://eric.ed.gov/?id=ED606832"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Average CS grades exceeded core course grade averages by about 0.2 grade points across cohorts, with similar patterns across gender, race/ethnicity, and neighborhood SES groups. [→ Barrow 2020](#barrow-2020)

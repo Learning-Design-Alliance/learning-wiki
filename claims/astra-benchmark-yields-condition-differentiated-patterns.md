@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: solomon-sunday-oyelere-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100633"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Descriptive summaries and illustrative models on the synthetic benchmark produce measurable patterns that differ by condition and align with the encoded simulation assumptions, demonstrating measurement feasibility rather than learning effects. [→ Solomon Sunday Oyelere 2026](#solomon-sunday-oyelere-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: julia-kienzler-2023
     resource: "https://doi.org/10.1007/s11251-023-09627-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Experimental conditions with key features provided outperformed conditions without key features on the explanation posttest (ηp² = 0.10), but not on definition or classification scores. [→ Julia Kienzler 2023](#julia-kienzler-2023)

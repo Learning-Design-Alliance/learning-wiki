@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: pooja-k-agarwal-2024
     resource: "https://doi.org/10.1007/s10648-023-09839-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When the author shared a recommended reading list, the most frequently clicked link (by more than 2,600 subscribers) was to an academic research article about students' test anxiety after retrieval practice, and numerous teachers requested the survey used and more information on research methods and design. [→ Pooja K. Agarwal 2024](#pooja-k-agarwal-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: annelies-raes-2013
     resource: "https://doi.org/10.1080/10508406.2013.836656"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students' overall improvement in inquiry skills was significant (1.36 points on a 10-point scale), and no student or class characteristic had a significant main or interaction effect on inquiry skills gains. [→ Annelies Raes 2013](#annelies-raes-2013)

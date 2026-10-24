@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: nagaoka-2021
     resource: "https://toandthrough.uchicago.edu/nsc-iccb-technical-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Immediate four-year college enrollment among CPS graduates declined by only 1 percentage point from 2019 to 2020, remaining similar to prior cohorts. [→ Nagaoka 2021](#nagaoka-2021)

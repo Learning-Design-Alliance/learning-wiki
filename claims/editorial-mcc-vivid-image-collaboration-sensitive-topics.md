@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: carolyn-rosé-sanna-järvelä-2022
     resource: "https://doi.org/10.1007/s11412-022-09378-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the Aldemir, Borge, and Soto undergraduate-course study, the proposed MCC model highlighted four very frequent patterns and, compared with the GCC, offered a more vivid and comprehensive image of collaboration. [→ Carolyn Rosé · Sanna Järvelä 2022](#carolyn-rose-sanna-jarvela-2022)

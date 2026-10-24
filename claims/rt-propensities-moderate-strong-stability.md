@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student-level response-time propensity estimates are stable across session quartiles, with early-to-late correlations around r = .55, supporting an individual-differences interpretation. [→ stability-1](#stability-1)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: wechsler-2016
     resource: "http://creativecommons.org/licenses/by-nc/4.0/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research by UNC-Chapel Hill's Frank Porter Graham Child Development Institute found Smart Start-funded activities were positively related to classroom quality, and quality was positively related to children's outcomes. [→ Wechsler 2016](#wechsler-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jansen-2026
     resource: "https://doi.org/10.1007/s10648-026-10136-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across Gemini 2.5 Pro, GPT 4.1, and GPT o3, percentage agreement with the gold standard ranged from 77% to 81% and ICCs ranged from 0.96 to 0.97. [→ Jansen 2026](#jansen-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: steinbach-2022
     resource: "https://www.nwea.org/research/publication/looking-beyond-vision-supports-for-students-who-are-blind-or-visually-impaired-in-mathematics/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Braille readers with access to both voiced auditory image descriptions and tactile graphics increased their likelihood of answering items correctly, while braille users with only tactile images had a decreased likelihood. [→ Steinbach 2022](#steinbach-2022)

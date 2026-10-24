@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: strong
+newest_evidence: 2014
 sources:
   - id: berkeley-j-dietvorst-2014
     resource: "https://doi.org/10.1037/xge0000033"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across four experiments manipulating experience with the model, participants who saw the algorithm's forecasts were significantly less likely to tie their bonuses to the algorithm's forecasts than participants who did not see it perform. [→ Berkeley J. Dietvorst 2014](#berkeley-j-dietvorst-2014)

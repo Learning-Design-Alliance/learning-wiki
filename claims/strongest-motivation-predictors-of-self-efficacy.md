@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: roshandel-2018
     resource: "https://doi.org/10.12973/iji.2018.11123a"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the ten sub-factors, criterion measures (r = 0.37), attitudes towards learning English (r = 0.36), instrumentality promotion (r = 0.35), and ideal L2 self (r = 0.34) displayed the highest correlations with self-efficacy. [→ Roshandel 2018](#roshandel-2018)

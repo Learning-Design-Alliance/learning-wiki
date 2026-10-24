@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: ws-de-grave-2001
     resource: "https://link.springer.com/journal/11251"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no significant difference between conditions in the number of inaccurate propositions recalled. [→ W.S. de Grave 2001](#ws-de-grave-2001)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: rose-e-wang-2025
     resource: "https://doi.org/10.48550/arxiv.2410.03017"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Treatment tutors generally found Tutor CoPilot helpful, particularly for well-phrased explanations and breaking down complex concepts on the spot. [→ Rose E. Wang 2025](#rose-e-wang-2025)

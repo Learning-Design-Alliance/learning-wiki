@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: traulsen-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101959"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i0`–`i1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In the preregistered experiment, motivation was not significantly affected by the vertical dimension, the horizontal dimension, or their interaction. [→ Traulsen 2024](#traulsen-2024)

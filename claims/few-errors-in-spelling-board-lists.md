@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: foster-1911
     resource: "https://doi.org/10.1037/h0070538"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 155 of the 2,005 misspellings occur in words contained in the lists first recommended by the Simplified Spelling Board, tempering claims about what those reforms would accomplish. [→ Foster 1911](#foster-1911)

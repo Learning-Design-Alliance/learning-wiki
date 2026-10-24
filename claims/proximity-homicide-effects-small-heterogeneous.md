@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: johnson-2024
     resource: "https://consortium.uchicago.edu/publications/mitigating-the-academic-impacts-of-proximity-to-homicide"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average impacts appear relatively small overall because they mix students who are unaffected with students most directly connected to the events who grapple with much larger challenges. [→ Johnson 2024](#johnson-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sebastian-maier-2026
     resource: "https://doi.org/10.48550/arxiv.2609.20143"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The reward reduced the odds of requesting any form of assistance on a given item (OR = 0.39), while the reduction under metacognitive feedback was smaller and not significant (OR = 0.60, p = .052). [→ Sebastian Maier 2026](#sebastian-maier-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: university-of-chicago-school-mathematics-project-2016
     resource: "https://ucsmp.uchicago.edu"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Hirschhorn (1993) found no statistically significant effect in one site and a positive statistically significant effect in another on the Mathematics Level 1 Achievement test; the WWC pooled both sites and found no statistically significant difference on that test. [→ University of Chicago School Mathematics Project 2016](#university-of-chicago-school-mathematics-project-2016)

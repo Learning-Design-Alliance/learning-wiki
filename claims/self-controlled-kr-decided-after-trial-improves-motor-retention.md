@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q3`
+> **Currency** · newest study 2014 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant Choice × Decision interaction (F(2,42) = 7.13, p = 0.002, ηp2 = 0.25) was found on retention absolute error. [→ Carter 2014](#carter-2014)

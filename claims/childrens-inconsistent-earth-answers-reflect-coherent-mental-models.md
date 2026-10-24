@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 1992
 sources:
   - id: vosniadou-1992
     resource: "https://doi.org/10.1016/0010-0285(92)90018-W"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2` · n=first-, third- and fifth-grade children (number not stated in the abstract)
+> **Currency** · newest study 1992 · not yet checked against its sources · not reviewed by a person
 
 The founding study of the coherent-model, or framework-theory, view of misconceptions, which the [knowledge-in-pieces](../theories/knowledge-in-pieces.md) view contests.
 

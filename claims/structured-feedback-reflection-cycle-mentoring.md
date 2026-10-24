@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: sempowicz-2011
     resource: "https://doi.org/10.14221/ajte.2011v36n8.4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The mentor established a structure for reflection and feedback comprising open-ended questions, listening to responses, and providing suggestions and encouragement for future action. [→ Sempowicz 2011](#sempowicz-2011)

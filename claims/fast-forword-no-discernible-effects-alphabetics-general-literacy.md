@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: fast-forword-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/173"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC rating for Fast ForWord is no discernible effects in the alphabetics and general literacy achievement domains and potentially positive effects in the reading fluency and comprehension domains for adolescent learners. [→ Fast ForWord® 2010](#fast-forword-2010)

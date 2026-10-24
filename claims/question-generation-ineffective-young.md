@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: garvin-brod-2021
     resource: "https://doi.org/10.1007/s10648-020-09571-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` A meta-analysis of question-generation training found positive overall effects (0.35 SDs standardized, 0.82 SDs non-standardized tests), but only one of four third-grade studies showed effects. [→ Garvin Brod 2021](#garvin-brod-2021)

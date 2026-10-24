@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: krieglstein-2023
     resource: "https://doi.org/10.1007/s10648-023-09738-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that established questionnaires (Leppink et al., 2013; Klepsch et al., 2017; Dönmez et al., 2022) lack separate experiments verifying differentiation between load types and, in the Klepsch instrument, use too few items per factor. [→ Krieglstein 2023](#krieglstein-2023)

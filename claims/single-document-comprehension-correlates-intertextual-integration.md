@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: daniel-r-espinas-2024
     resource: "https://doi.org/10.1007/s10648-024-09889-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Single-document comprehension was the most studied literacy factor (12 of 25 studies), with correlations with intertextual integration ranging from r = 0.06 to r = 0.57 across elementary and secondary samples. [→ Daniel R. Espinas 2024](#daniel-r-espinas-2024)

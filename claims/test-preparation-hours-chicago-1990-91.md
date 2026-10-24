@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1991
+recheck_by: 1994
 sources:
   - id: consortium-on-chicago-school-research-1991
     resource: "https://consortium.uchicago.edu/publications/achieving-school-reform-chicago-what-we-need-know"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1994**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Survey data from Chicago elementary teachers indicate that test preparation consumed an estimated 155,464 hours district-wide during 1990-1991, a cost the report frames as substantial. [→ Consortium on Chicago School Research 1991](#consortium-on-chicago-school-research-1991)

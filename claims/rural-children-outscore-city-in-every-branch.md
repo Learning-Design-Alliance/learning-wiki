@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: walter-r-miles-w-s-smiley-1915
     resource: "https://books.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children from country schools received a higher average percent in every branch, in both the reasoning and the mechanical question groups. [→ Walter R. Miles; W. S. Smiley 1915](#walter-r-miles-w-s-smiley-1915)

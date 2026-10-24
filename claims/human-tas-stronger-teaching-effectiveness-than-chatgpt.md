@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: m-said-doğru-emily-k-faulconer-2026
     resource: "https://doi.org/10.1007/s11165-025-10271-z"
@@ -39,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On most questions, both SME and student ratings of instructor voice were significantly higher for human TA responses than for AI responses. [→ M. Said Doğru & Emily K. Faulconer 2026](#m-said-dogru-emily-k-faulconer-2026)

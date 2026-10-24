@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: johanna-l-donath-2023
     resource: "https://doi.org/10.1007/s10648-023-09752-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Professional development participation significantly improves in-service teachers' knowledge about inclusive education, with a large pooled effect of g = 0.93. [→ Johanna L. Donath 2023](#johanna-l-donath-2023)

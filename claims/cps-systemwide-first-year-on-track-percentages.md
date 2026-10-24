@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
+source_checked: 2026-10-20
+recheck_by: 2006
 sources:
   - id: miller-2003
     resource: "https://consortium.uchicago.edu/publications/how-well-do-vivaldi-students-succeed-after-elementary-school"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2003 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2006**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Systemwide, the percent of CPS students on track in their first year after elementary school was 44.8, 46.1, 49.1, 49.3, and 50.8 for the 1997-98 through 2001-02 cohorts. [→ Miller 2003](#miller-2003)

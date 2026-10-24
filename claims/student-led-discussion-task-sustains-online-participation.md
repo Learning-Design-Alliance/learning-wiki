@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: pittaway-2014
     resource: "https://doi.org/10.14221/ajte.2014v39n7.10"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SNAPP network maps showed the discussion group task produced connections between every individual and exchanges of up to 28 posts, unlike the standard board where interaction converged on teaching staff and few students posted more than twice. [→ Pittaway 2014](#pittaway-2014)

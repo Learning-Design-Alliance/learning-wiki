@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: brevik-a-2026
     resource: "https://doi.org/10.3389/feduc.2026.1904452"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Kimi in thinking mode reached weighted kappa 0.571 with human graders, with 28.1% exact and 78.1% within ±1 grade agreement. [→ Brevik A 2026](#brevik-a-2026)

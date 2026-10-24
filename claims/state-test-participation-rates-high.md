@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: may-2009
     resource: "https://www.mathematica.org/publications/using-state-tests-in-education-experiments-a-discussion-of-the-issues"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` State assessment participation rates are generally very high and almost always higher than the minimum participation rate set by RCT researchers, because participation is typically mandatory under accountability programs. [→ May 2009](#may-2009)

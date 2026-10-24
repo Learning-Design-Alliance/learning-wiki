@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: katharina-luisa-boehme-2025
     resource: "https://doi.org/10.1007/s10648-025-09991-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Within two-factor models, the negative correlation between boredom and interest increased from r = −0.67/−0.70 at T1 to r = −0.87/−0.90 at T4. [→ Katharina Luisa Boehme 2025](#katharina-luisa-boehme-2025)

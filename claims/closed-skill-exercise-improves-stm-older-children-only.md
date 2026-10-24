@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ottoboni-giovanni-2021
     resource: "https://doi.org/10.3390/ijerph18147545"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Closed-skill (agility circuit) exercise improved STM at post-test in children aged 9–10 (p = 0.046) but showed no effect in children aged 7–8. [→ Ottoboni Giovanni 2021 (2)](#ottoboni-giovanni-2021-2)

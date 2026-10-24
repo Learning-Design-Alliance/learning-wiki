@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: arens-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2015.11.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Math achievement relates more strongly to perceived instructional quality in math classes (r = .416) than to relations with math teachers (r = .132); language achievement shows the same asymmetry (r = .275 vs. r = .090). [→ Arens 2016](#arens-2016)

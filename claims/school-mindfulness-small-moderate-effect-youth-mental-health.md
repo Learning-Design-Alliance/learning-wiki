@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: carsley-2018
     resource: "https://doi.org/10.1007/s12671-017-0839-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 24 studies (n = 3977), school-based mindfulness interventions showed significant small-to-moderate pre-post effects on mental health and well-being versus controls (Hedges' g = 0.24, p < .001). [→ Carsley 2018](#carsley-2018)

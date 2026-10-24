@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-16
+recheck_by: 2025
 sources:
   - id: levin-2020
     resource: "http://learningpolicyinstitute.org/product/professional-learning-principals"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Principals from low-poverty schools were more than twice as likely as principals from high-poverty schools (26% versus 10%) to have a mentor or coach, and novice principals were more than twice as likely as experienced principals (44% versus 20%) to have one. [→ Levin 2020](#levin-2020)

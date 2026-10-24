@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lehesvuori-2026
     resource: "https://doi.org/10.1007/s11251-026-09786-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Across coded 20-second intervals for three students, active listening dominated, and students differed in time spent next to the whiteboard, in questions asked, and in active listening. [→ Lehesvuori 2026](#lehesvuori-2026)

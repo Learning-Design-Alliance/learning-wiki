@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ji-ying-2026
     resource: "https://doi.org/10.1007/s10805-026-09752-1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Studies consistently show male students report higher confidence in handling academic integrity issues when using GenAI while females express greater concerns, but gender-related findings are inconsistent across studies. [→ Ji Ying 2026](#ji-ying-2026)

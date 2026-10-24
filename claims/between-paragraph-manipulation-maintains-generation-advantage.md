@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: dewinstanley-2004
     resource: "https://doi.org/10.3758/bf03196872"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 2, with the generate-versus-read manipulation between paragraphs, a generation advantage occurred on both the first and second paragraph tests. [→ deWinstanley 2004](#dewinstanley-2004)

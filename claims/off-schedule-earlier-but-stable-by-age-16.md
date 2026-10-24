@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2007
 sources:
   - id: elaine-m-allensworth-shazia-rafiullah-miller-2002
     resource: "https://consortium.uchicago.edu/publications/declining-high-school-enrollment-exploration-causes"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Cohorts subject to promotion gates were off schedule earlier (e.g., the 1998 cohort was almost one-quarter off schedule by age 13), yet by age 16 the off-schedule percentage stayed around 27-29 percent across cohorts. [→ Elaine M. Allensworth & Shazia Rafiullah Miller 2002](#elaine-m-allensworth-shazia-rafiullah-miller-2002)

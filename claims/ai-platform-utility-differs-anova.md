@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: george-efthimiou-2026
     resource: "https://doi.org/10.35542/osf.io/m5erf_v1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` A one-way ANOVA showed a significant difference among AI platforms (ChatGPT, Gemini, DeepSeek, Meta AI, Copilot) in overall perceived utility, F(4, 126) = 6.52, p < .001, η² = .17. [→ George Efthimiou 2026](#george-efthimiou-2026)

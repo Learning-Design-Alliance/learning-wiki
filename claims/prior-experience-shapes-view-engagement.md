@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 associational `r1`, 1 qualitative `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with prior experience showed more balanced dwell distributions (Code 39.6%, Memory 43.5%, Metaphor 13.2%) while students without prior experience anchored in code (48.1%) with minimal metaphor use (3.3%). [→ pe-dwell](#pe-dwell)

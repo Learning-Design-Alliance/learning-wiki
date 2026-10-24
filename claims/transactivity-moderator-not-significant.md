@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: freydis-vogel-christof-wecker-ingo-kollar-frank-fischer-2016
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The difference in effects on domain-specific knowledge between scripts prompting transactive activities and scripts not prompting them was not statistically significant; for collaboration skills, scripts not prompting transactive activities showed the larger effect (d = 2.15 vs. 0.62, from 3 and 9 effect sizes). [→ Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer 2016](#freydis-vogel-christof-wecker-ingo-kollar-frank-fischer-2016)

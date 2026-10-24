@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: nadine-melzner-markus-dresel-ingo-kollar-2022
     resource: "https://doi.org/10.1007/s11409-022-09316-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Across vignette conditions, the reported number of regulation strategies was comparable at the self and shared-level (p = 0.999) and significantly fewer at the co-level (each p < 0.001; social level main effect η2 = 0.196). [→ Nadine Melzner · Markus Dresel · Ingo Kollar 2022](#nadine-melzner-markus-dresel-ingo-kollar-2022)

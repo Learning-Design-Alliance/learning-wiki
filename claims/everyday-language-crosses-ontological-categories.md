@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: ayush-gupta-2008
     resource: "https://www.tandfonline.com/journals/hlns20"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Matter predicates are commonly and comprehensibly applied to non-material entities such as time, technology, and ceasefires in everyday speech. [→ Ayush Gupta 2008](#ayush-gupta-2008)

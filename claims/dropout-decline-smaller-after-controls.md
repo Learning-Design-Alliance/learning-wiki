@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2004
+recheck_by: 2007
 sources:
   - id: allensworth-2004
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-dropout-rates-chicago-after-implementation-eighth-grade"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` When demographic changes and school enrollment patterns were statistically controlled, the 1998-99 cohort's dropout decline was adjusted from 4.5 percent to 4.1 percent. [→ Allensworth 2004](#allensworth-2004)

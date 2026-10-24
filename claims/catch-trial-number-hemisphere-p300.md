@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: salillas-e-2009
     title: Salillas E 2009
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A number x hemisphere interaction in the P300 band showed large numbers elicited greater positivity than small numbers in the right hemisphere, though simple effects were not significant. [→ Salillas E 2009](#salillas-e-2009)

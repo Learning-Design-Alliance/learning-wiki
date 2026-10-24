@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: anja-prinz-2022
     resource: "https://doi.org/10.1007/s11251-021-09568-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Student teachers hold misconceptions about multimedia learning, with 84% endorsing the learning-styles misconception and the other three misconceptions endorsed by 33–74%. [→ Anja Prinz 2022](#anja-prinz-2022)

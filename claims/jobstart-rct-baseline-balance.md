@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: what-works-clearinghouse-2008
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Among the 1,941 respondents to the 48-month follow-up survey, the study authors compared baseline characteristics including gender, ethnicity, family structure, employment history, and public assistance receipt, and found no statistically significant differences between the research groups. [→ What Works Clearinghouse 2008](#what-works-clearinghouse-2008)

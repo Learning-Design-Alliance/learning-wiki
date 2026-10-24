@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: schenke-2017
     resource: "https://doi.org/10.1037/edu0000165"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The parametric bootstrap indirect effect via expectations and responsiveness to developmental needs was b = 0.05, p = .07 for African American students and non-significant for non-African American students. [→ Schenke 2017](#schenke-2017)

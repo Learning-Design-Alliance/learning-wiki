@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: sweller-2010
     resource: "https://doi.org/10.1007/s10648-010-9128-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article carries out an analysis of what re-explaining the various cognitive load effects in terms of element interactivity implies. [→ Sweller 2010](#sweller-2010)

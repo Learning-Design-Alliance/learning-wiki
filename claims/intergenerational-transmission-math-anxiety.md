@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: daches-cohen-l-and-rubinsten-o-2017
     title: Daches Cohen L and Rubinsten O 2017
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i2`–`i3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Mothers' numerical task anxiety correlates with a larger congruency effect in children's single-digit trials (r= 0.47), indicating more attentional bias among children of more math-anxious mothers. [→ Daches Cohen L and Rubinsten O 2017](#daches-cohen-l-and-rubinsten-o-2017)

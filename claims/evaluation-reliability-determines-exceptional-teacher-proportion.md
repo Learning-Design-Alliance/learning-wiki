@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: glazerman-2011
     resource: "https://www.mathematica.org/publications/passing-muster-evaluating-teacher-evaluation-systems"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The report demonstrates that the reliability of a teacher evaluation system determines the proportion of teachers who can be identified as exceptional. [→ Glazerman 2011](#glazerman-2011)

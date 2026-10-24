@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: chrysi-rapanta-mark-k-felton-2022
     resource: "https://doi.org/10.1007/s10648-021-09637-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the four study patterns, the teacher's role becomes more concrete moving from low-structured sensemaking to high-structured deliberation, while in dialectic deliberation the instructor's role vanishes as focus shifts to what students do under the learning environment's guidelines. [→ Chrysi Rapanta & Mark K. Felton 2022](#chrysi-rapanta-mark-k-felton-2022)

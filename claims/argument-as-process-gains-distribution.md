@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: chrysi-rapanta-mark-k-felton-2022
     resource: "https://doi.org/10.1007/s10648-021-09637-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the 108 pattern studies, 48 mentioned at least one argument-as-process gain (socio-emotional and/or metalevel); 17 focused exclusively on socio-emotional gains, 21 exclusively on metalevel gains, and 11 on both, distributed among Pattern 2 and Pattern 3 studies. [→ Chrysi Rapanta & Mark K. Felton 2022](#chrysi-rapanta-mark-k-felton-2022)

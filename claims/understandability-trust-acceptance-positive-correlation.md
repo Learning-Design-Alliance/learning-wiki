@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: yael-feldman-maggor-2025
     resource: "https://doi.org/10.1007/s40593-025-00486-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Spearman correlations between understandability, trust, and acceptance were high (above 0.5) except one moderate correlation of r = 0.439, all statistically significant. [→ Yael Feldman-Maggor 2025](#yael-feldman-maggor-2025)

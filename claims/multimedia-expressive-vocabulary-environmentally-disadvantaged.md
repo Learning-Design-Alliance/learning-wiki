@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-19
 sources:
   - id: takacs-2015
     resource: "https://doi.org/10.3102/0034654314566989"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` For children at risk because of environmental factors like low parental education, technology-enhanced stories significantly improved expressive vocabulary (g+ = 0.35), while the effect was nonsignificant for children with developmental delays or learning problems (g+ = 0.06). [→ Takacs 2015](#takacs-2015)

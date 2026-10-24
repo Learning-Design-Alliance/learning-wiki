@@ -8,6 +8,9 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: mixed
+newest_evidence: 2016
+source_checked: 2026-10-20
+recheck_by: 2019
 sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Item-specific difficulties outperformed a global item difficulty for decks q ≤ 2 and q > 5, but the global difficulty performed better for intermediate decks; no numeric AUC values are printed. [→ Reddy 2016](#reddy-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: shogren-2007
     title: Shogren 2007
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' capacity, opportunity, and transition empowerment each predicted their self-reported level of self-determination, whereas the degree to which students were included in general education did not. [→ Shogren 2007](#shogren-2007)

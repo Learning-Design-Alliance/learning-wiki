@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: haataja-2021
     resource: "https://doi.org/10.1007/s10648-020-09538-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i1`–`i2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Durations of teacher-started dyadic eye contacts correlated negatively with teacher agency (r = −.224). [→ Haataja 2021](#haataja-2021)

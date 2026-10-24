@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: sung-yao-ting-2017
     resource: "https://doi.org/10.3102/0034654317704307"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mathematics (g = 0.894) and science (g = 0.770) showed the largest domain effects; social studies (g = 0.223) and specific abilities (g = 0.124) were not significant, and the regrouped comparison reached significance. [→ Sung Yao-Ting 2017](#sung-yao-ting-2017)

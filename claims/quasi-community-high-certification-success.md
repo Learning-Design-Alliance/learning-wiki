@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: emad-2016
     resource: "https://doi.org/10.1007/s11251-016-9386-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` As the course progressed, students became competent with marine charts and certification-type tests, evident in their very high success rate in the end-of-course certification examination. [→ Emad 2016](#emad-2016)

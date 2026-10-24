@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: allensworth-2018
     resource: "https://consortium.uchicago.edu/page/presentations"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Raising challenge without sufficient supports or attention to students' emotions and learning strategies can lead to student frustration, withdrawal, and disruption, and students can end up learning less than under less challenging work. [→ Allensworth 2018](#allensworth-2018)

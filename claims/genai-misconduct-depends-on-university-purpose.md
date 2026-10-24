@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: tristan-b-taylor-travis-lacroix-2026
     resource: "https://doi.org/10.1007/s10734-026-01706-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The question of whether students' use of GenAI in higher education constitutes academic misconduct depends on what the purpose of higher education is taken to be; characterisations of integrity and misconduct are secondary to it. [→ Tristan B. Taylor & Travis LaCroix 2026](#tristan-b-taylor-travis-lacroix-2026)

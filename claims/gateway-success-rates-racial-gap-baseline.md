@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: digital-promise-2020
     resource: "https://doi.org/10.51388/20.500.12265/99"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Prior-year success rates for the 41 redesigned courses ranged from 39 to 90 percent (weighted average 66 percent), and students of color averaged 61 percent, 14 points below white and Asian students in the same courses. [→ Digital Promise 2020](#digital-promise-2020)

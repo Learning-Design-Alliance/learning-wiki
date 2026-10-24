@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-18
 sources:
   - id: bastani-hamsa-2025
     resource: "https://doi.org/10.1073/pnas.2422633122"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students in the GPT Base arm scored 0.054 lower (out of 1) on the unassisted exam than control students, a 17% reduction. [→ Bastani Hamsa 2025](#bastani-hamsa-2025)

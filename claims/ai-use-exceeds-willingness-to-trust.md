@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: jaidka-k-and-cai-m-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1935527"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A global survey of over 48,000 people across 47 countries found two thirds reporting regular AI use while less than half were willing to trust it, suggesting reliance reflects convenience more than confidence. [→ Jaidka K and Cai M 2026](#jaidka-k-and-cai-m-2026)

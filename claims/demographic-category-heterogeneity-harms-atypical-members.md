@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: baker-2023
     resource: "https://doi.org/10.35542/osf.io/y4wvj"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` If there is significant heterogeneity within a group, using the group variable will disadvantage atypical members, biasing towards a group mean. [→ Baker 2023](#baker-2023)

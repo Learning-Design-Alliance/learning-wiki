@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: szűcs-dénes-2014
     resource: "https://doi.org/10.1111/desc.12144"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sustained Attention emerged as the most robust predictor of number sense variables in supplementary analyses. [→ Szűcs Dénes 2014](#szucs-denes-2014)

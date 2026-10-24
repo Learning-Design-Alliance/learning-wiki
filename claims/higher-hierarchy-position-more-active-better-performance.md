@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: cress-2015
     resource: "https://doi.org/10.1007/s11412-015-9214-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an organizational e-learning field setting, participants in higher hierarchy positions were more active and had better learning performances than those at a lower level. [→ Cress 2015](#cress-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: allensworth-2016
     resource: "https://doi.org/10.3102/0162373716672039"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` SEHS students from low-income neighborhoods are less likely to attend a selective college compared with similarly-performing, low-income students who do not enroll in selective enrollment high schools; the reason is undetermined. [→ Allensworth 2016](#allensworth-2016)

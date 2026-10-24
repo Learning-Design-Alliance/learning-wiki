@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: mark-dynarski-2004
     resource: "https://www.mathematica.org/publications/interpreting-the-evidence-from-recent-federal-evaluations-of-dropoutprevention-programs-the-state-of-scientific-research"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` There is not yet a menu of program options for helping students at risk of dropping out. [→ Mark Dynarski 2004](#mark-dynarski-2004)

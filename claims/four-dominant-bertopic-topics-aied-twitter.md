@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: bagale-2025
     resource: "https://doi.org/10.48550/arxiv.2607.12295"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After outlier reassignment and topic reduction, the top four topics covered most of the corpus, with Topic 1 at 39.43%, Topic 2 at 21.33%, Topic 3 at 20.83%, and Topic 4 at 7.12%. [→ Bagale 2025](#bagale-2025)
