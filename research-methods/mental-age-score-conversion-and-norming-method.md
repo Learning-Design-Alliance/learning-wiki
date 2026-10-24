@@ -28,4 +28,4 @@ The article details procedures for reducing heterogeneous survey data to the com
 - [Multivariate true score model for achievement and growth norming](multivariate-true-score-model-for-achievement-and-growth-norming.md)
 
 ## Key Sources
-- Chassell, C. F., & Chassell, L. M. (1921). A survey of the three first grades of the Horace Mann School by means of psychological tests and teachers' estimates, and a statistical evaluation of the methods employed. Part II. The Journal of Educational Psychology, 12(5), 243-252.
+- Chassell, C. F., & Chassell, L. M. (1921). A survey of the three first grades of the Horace Mann School by means of psychological tests and teachers' estimates, and a statistical evaluation of the methods employed. Part II. *Journal of Educational Psychology, 12*(5), 243–252. [doi:10.1037/h0068285](https://doi.org/10.1037/h0068285)

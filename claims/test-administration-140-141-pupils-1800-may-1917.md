@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: herring-1918
     resource: "https://doi.org/10.1037/h0075736"
-    title: "Herring, J. P. (1918). Measurements of some abilities in scientific thinking. The Journal of Educational Psychology, IX(10), 535-558. https://doi.org/10.1037/h0075736"
+    title: "Herring, J. P. (1918). Measurement of some abilities in scientific thinking. The Journal of Educational Psychology, IX(10), 535-558. https://doi.org/10.1037/h0075736"
     author: Herring, J. P.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Herring 1918
 
-Herring, J. P. (1918). Measurements of some abilities in scientific thinking. The Journal of Educational Psychology, IX(10), 535-558. https://doi.org/10.1037/h0075736
+Herring, J. P. (1918). Measurement of some abilities in scientific thinking. The Journal of Educational Psychology, IX(10), 535-558. https://doi.org/10.1037/h0075736
 
 `q2 · i?` · `design · r2`
 

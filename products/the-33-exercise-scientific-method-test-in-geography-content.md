@@ -31,4 +31,4 @@ A paper-and-pencil geography assessment by Herring containing 33 multiple-option
 -
 
 ## Key Sources
-- Herring, J. P. (1918). Measurements of some abilities in scientific thinking. The Journal of Educational Psychology, IX(10), 535-558.
+- Herring, J. P. (1918). Measurement of some abilities in scientific thinking. *Journal of Educational Psychology, 9*(10), 535–558. [doi:10.1037/h0075736](https://doi.org/10.1037/h0075736)
