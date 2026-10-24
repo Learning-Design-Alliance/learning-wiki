@@ -64,3 +64,4 @@ ESM regression of situational anxiety on gender. The article reports "the gender
 ## Related Claims
 - [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related
 - [In experience sampling during lessons, tired was the only feeling rated above the scale midpoint, and positive feelings (calm, happy, relaxed) ranked second to fourth, ahead of stressed and bored](esm-in-the-moment-positive-feelings-more-prominent.md) — related
+- [Female students and students with lower prior achievement experienced more negative motivational changes](gender-gpa-moderate-motivational-change.md) — related

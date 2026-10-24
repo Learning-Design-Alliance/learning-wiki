@@ -77,3 +77,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — related
 - [Grade level, nonverbal intelligence, and working memory predicted mathematics achievement, explaining 88% of intercept variance but only 16-22% of slope variance](covariates-predict-math-growth.md) — related
 - [The core predictors of seventh-grade word reading achievement differ from those predicting seventh-grade mathematics achievement](word-reading-predictors-differ-from-math-predictors.md) — related
+- [Domain-general factors account for more variance in written arithmetic and word problems than in basic calculation fluency](domain-general-variance-varies-by-skill.md) — a narrower finding that bears on this claim

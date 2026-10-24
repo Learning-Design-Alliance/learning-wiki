@@ -44,3 +44,4 @@ Authors' preliminary observational statement, explicitly hedged for lack of quan
 
 ## Related Claims
 - [Inter-region correlations within the ToM network are lower in blind children, while ToM and language networks remain functionally distinct](lower-within-tom-network-correlations-blind-children.md) — related
+- [General method has two serious weaknesses: it conflates general psychology with the psychology of a subject, and it gives adult rather than child psychology](general-method-two-weaknesses.md) — related

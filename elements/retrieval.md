@@ -13,7 +13,7 @@ generated:
 # Retrieval
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (10 for, 6 mixed, 1 against) · 18 studies (11 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 9 of 18 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (10 for, 6 mixed, 2 against) · 19 studies (12 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 9 of 19 report an effect size · 16 claims rest on one study
 
 ## Description
 Retrieval practice (the "testing effect") requires learners to pull information out of memory — via free recall, short-answer questions, quizzes, or self-explanation — instead of passively reviewing it. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later than equivalent time spent re-reading.
@@ -66,6 +66,7 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](../claims/retrieval-practice-increases-misinformation-susceptibility.md) [-W]
 - [The memory rating requirement moderated the restudy-versus-retrieval pattern: interference on retrieval trials and facilitation on restudy trials both contributed to the restudy superiority.](../claims/memory-rating-reactivity-moderates-restudy-advantage.md) [~W]
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](../claims/pupils-improve-with-practice-no-fatigue-effect.md) [+W]
+- [Attempted recall during vocabulary study showed no demonstrable superiority over mere reading and re-reading in adult learners](../claims/recall-no-superiority-vocabulary-learning-thorndike.md) [-W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

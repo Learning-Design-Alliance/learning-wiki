@@ -46,3 +46,4 @@ Comparison of Wells' list against the authors' frequency table for 100 subjects:
 - [Standardized easy opposites lists can be built from words answered correctly by ninety percent or more of subjects](easy-opposites-lists-ninety-percent-criterion.md) — related
 - [A graded hard-opposites list of twenty-five words was selected where accuracy of response was below 69%](hard-opposites-graded-difficulty-list.md) — related
 - [The two word lists were confirmed to be of equal difficulty before practice, with a correlation of +.93 between performance on the two lists](equal-difficulty-word-lists-confirmed-high-correlation.md) — related
+- [The six 100-word spelling lists are practically identical in difficulty, differing from list 1 by .9 to 3.4 points](six-spelling-lists-equal-difficulty.md) — related

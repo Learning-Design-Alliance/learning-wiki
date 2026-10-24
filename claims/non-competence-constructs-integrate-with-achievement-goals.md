@@ -44,3 +44,4 @@ The review narrates illustrative integrative examples from multiple research tra
 
 ## Related Claims
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — related
+- [Whether anxiety explains the income inequality × social class interaction remains inconclusive](moderated-mediation-anxiety-inconclusive.md) — a narrower finding that bears on this claim

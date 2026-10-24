@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 130 claims (59 for, 62 mixed, 9 against) · 58 studies (26 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 58 report an effect size · 123 claims rest on one study
+> **Evidence** · 131 claims (59 for, 62 mixed, 10 against) · 59 studies (27 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 59 report an effect size · 124 claims rest on one study
 
 ## Conditional relationship
 
@@ -256,6 +256,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [End-of-semester recall of course material was better for relearning than for restudying](../claims/successive-relearning-better-semester-end-recall.md) [+W]
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](../claims/pupils-improve-with-practice-no-fatigue-effect.md) [+W]
 - [Images that reveal the answer reduce recall compared with images appearing after the retrieval attempt](../claims/answer-revealing-images-worse-than-post-retrieval-images.md) [~W]
+- [Attempted recall during vocabulary study showed no demonstrable superiority over mere reading and re-reading in adult learners](../claims/recall-no-superiority-vocabulary-learning-thorndike.md) [-W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

@@ -50,3 +50,4 @@ The review summarizes Offner's analysis of factors other than fatigue that condi
 - [The adaptive mode showed a progressive per-question learning-delta increase across the session (from Δ = 3.16 on Q1 to Δ = 19.97 on Q9), suggesting a warm-up effect as participants learned the system](adaptive-mode-per-question-delta-increase-warm-up.md) — related
 - [Under extreme fatigue, mental multiplication efficiency ends at a definite, relatively abruptly appearing point rather than tailing off by degrees](fatigue-abrupt-end-mental-multiplication.md) — related
 - [Studies on the mental fatigue of school children assist in arranging the daily program, including order of subjects and recess periods](fatigue-studies-inform-daily-program.md) — related
+- [Performance on difficult mental multiplication improves during a continuous work period of about two hours](mental-multiplication-improves-during-continuous-work.md) — a narrower finding that bears on this claim

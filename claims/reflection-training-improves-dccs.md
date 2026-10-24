@@ -97,3 +97,4 @@ The review reports, citing Chevalier and Blaye (2016), a study recording gaze po
 - [Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs](attention-training-interventions-evidence-note.md) — a broader claim this one bears on
 - [Trained students outperformed controls at selecting the more reliable of two contradictory texts, at both post-tests](sourcing-intervention-near-transfer-accuracy.md) — related
 - [Bilinguals may have a specific advantage in transferring understanding of novel symbolic rules to new contexts](bilingual-transfer-novel-symbolic-rules.md) — related
+- [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](transfer-of-training-diverse-operations-review.md) — related

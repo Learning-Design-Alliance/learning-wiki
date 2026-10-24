@@ -99,3 +99,4 @@ Same RQ2 enrollment-effect models on ninth-grade TAP math scores; the authors no
 - [Remediation requirements are not a primary driver of low college degree completion rates](remediation-not-primary-driver-low-completion.md) — related
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — related
 - [Average TAP scores rose substantially for students who enrolled in ninth grade, but the 1997 high school redesign appears to have had only a modest impact on skill development](chicago-tap-scores-rose-for-ninth-grade-enrollees.md) — related
+- [Course dropout was linked to lower SES, lower high school GPA, lower participation in preparatory math courses, and less adaptive initial motivations](course-dropout-correlates-gateway-math.md) — related

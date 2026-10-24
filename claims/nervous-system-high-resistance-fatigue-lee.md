@@ -44,3 +44,4 @@ The review reports Lee's interpretive position, quoting his statement that evide
 
 ## Related Claims
 - [Small quantities of fatigue-substances increase protoplasmic activity and augment muscular energy, per Lee's experiments](fatigue-substances-small-amounts-stimulate.md) — related
+- [Practice when learners were nervous or tired was worthless for strengthening associations and positively injurious, favoring wrong habits](practice-when-tired-injurious.md) — reports the opposite

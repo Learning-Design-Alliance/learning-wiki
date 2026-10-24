@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (103 show a difference, 48 mixed, 18 no difference) · 136 studies (40 causal, 31 review, 21 theoretical, 19 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 136 report an effect size · 152 claims rest on one study
+> **Evidence** · 170 claims (104 show a difference, 48 mixed, 18 no difference) · 137 studies (40 causal, 31 review, 21 theoretical, 20 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 137 report an effect size · 153 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -217,6 +217,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Grade 1 and Grade 2 domain-specific vocabulary knowledge explained 69% of the MORE intervention's treatment effect on Grade 2 domain-specific reading comprehension](../claims/vocabulary-mediation-69-percent-treatment-effect.md) [+M] — learners who differ on it differ in outcomes
 - [Intelligence and working memory predicted seventh-grade mathematics before prior achievement was controlled, but their direct effects were masked by sixth-grade competence](../claims/intelligence-working-memory-masked-by-prior-knowledge.md) [+M] — learners who differ on it differ in outcomes
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](../claims/novices-segment-experts-generalize-problem-representation.md) [+W] — learners who differ on it differ in outcomes
+- [Both number system knowledge and estimation uniquely account for variance in all three third-grade arithmetic skills independently of each other and of domain-general factors](../claims/multidigit-skills-independent-contribution-arithmetic.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

@@ -56,3 +56,4 @@ Multiple regression for hypothesis H3 with cognitive strategy use, metacognitive
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](short-term-journal-prompts-increase-metacognitive-strategy-use.md) — related
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
 - [Self-report metacognitive knowledge (MAI subscales) does not significantly predict metacognitive sensitivity](mai-subscales-do-not-predict-metacognitive-sensitivity.md) — related
+- [Motivational changes in the first half of the semester predicted end-of-term study program satisfaction, exam performance, and course dropout](motivational-changes-predict-academic-outcomes.md) — related

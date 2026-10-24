@@ -53,3 +53,4 @@ Null result from linear regressions in 160 adolescents adjusted for ADHD, videog
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related
 - [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](sleep-parameters-no-group-differences-no-correlations.md) — related
 - [Sleep the night before cognitive testing resembles weekly averages except for an earlier mid-sleep time](acute-sleep-matches-weekly-averages.md) — related
+- [A 30-minute rest and a full night's sleep each add small further gains in mental multiplication output, with accuracy unchanged](rest-gains-small-mental-multiplication.md) — related

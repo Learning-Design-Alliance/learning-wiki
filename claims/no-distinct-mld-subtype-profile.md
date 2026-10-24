@@ -52,3 +52,5 @@ Moderator analyses on number-sense effect sizes. Seriousness and persistence as 
 - [Fact retrieval deficits in LA-Severe children occur alongside intact addition procedural competencies and modest, improving number-task performance](retrieval-deficit-dissociated-from-procedures.md) — related
 - [Counting-string intrusion errors are as common in LA-Severe Fact Retrieval children as in children with MLD, but decline across grades only for the MLD group](counting-string-intrusions-mld-vs-la-severe.md) — related
 - [First graders with MLD are slower than typically achieving peers on symbolic but not non-symbolic numerical magnitude comparison](mld-symbolic-comparison-slower-first-grade.md) — related
+- [Multidigit skills deficits differentiate number difficulty groups more clearly than single digit processing or domain-general deficits](multidigit-deficits-differentiate-groups.md) — related
+- [Most children with MLD or low achievement exhibit deficits in both domain-general and numerical factors, supporting a multiple deficits view](multiple-deficits-view-number-difficulties.md) — related

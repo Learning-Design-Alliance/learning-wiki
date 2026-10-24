@@ -48,3 +48,4 @@ Reconstruction from the typescript of Mead's Course 50 on Philosophy of Educatio
 - [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](method-of-thought-cannot-be-transferred.md) — related
 - Mead holds that social interaction precedes and produces reflective self-consciousness — related
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — related
+- [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](visual-presentation-limited-to-concrete-meanings.md) — related

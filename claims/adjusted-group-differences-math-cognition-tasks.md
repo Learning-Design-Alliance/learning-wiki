@@ -54,3 +54,5 @@ Repeated measures analysis of covariance on standardized intercept scores for in
 - [Second graders with MLD commit at least 2.5 times more counting errors than children in the other groups but narrow the gap by fourth grade](mld-elevated-counting-errors-second-grade.md) — related
 - [Children with MLD show pervasive working memory deficits while both LA groups score in the average range on all three working memory components](mld-pervasive-working-memory-deficits.md) — related
 - [No profile distinguishes more severe, persistent, or specific MLD from less severe MLD on cognitive skills](no-distinct-mld-subtype-profile.md) — reports the opposite
+- [Multidigit skills deficits differentiate number difficulty groups more clearly than single digit processing or domain-general deficits](multidigit-deficits-differentiate-groups.md) — related
+- [Most children with MLD or low achievement exhibit deficits in both domain-general and numerical factors, supporting a multiple deficits view](multiple-deficits-view-number-difficulties.md) — a narrower finding that bears on this claim

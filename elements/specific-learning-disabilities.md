@@ -13,7 +13,7 @@ generated:
 # Specific Learning Disabilities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 7 studies (4 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q3` · 2 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 8 studies (5 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q3` · 2 of 8 report an effect size · 6 claims rest on one study
 
 ## Description
 A **learning disability (LD)** is a specific impairment of academic learning that interferes significantly with one particular aspect of schoolwork — reading, writing, listening, speaking, or math — without necessarily affecting the others. By definition, an LD is diagnosed only after other explanations are ruled out: it is not an LD if the difficulty stems from a physical, sensory, or motor impairment, from a general intellectual impairment, or from the ordinary challenges of learning English as a second language. A genuine LD is also one that ordinary teaching effort hasn't resolved, though what counts as "ordinary effort" varies across teachers, schools, and students. LDs are by far the most common special-education category, accounting for roughly half of all students receiving special-education services and an estimated 5-20% of all students overall (U.S. Department of Education, 2005; Ysseldyke & Bielinski, 2002) — common enough that most teachers encounter at least one affected student every year regardless of grade level.
@@ -52,6 +52,7 @@ Because a specific learning disability affects one narrow academic area rather t
 - [The consonants-in-noise model predicts concurrent reading in school-aged children and reliably classifies externally diagnosed learning disability, being most effective at clearing children as unlikely to have an LD](../claims/consonants-in-noise-model-predicts-reading-and-diagnostic-category-older-children.md) [~W]
 - [RAN predicts reading deficits but not isolated writing deficits, whereas phonological awareness is worse in children with isolated writing deficits](../claims/ran-predicts-reading-not-isolated-writing.md) [+W]
 - [People with MLD show a large pooled deficit in mathematics performance versus typically performing peers (g = 1.52)](../claims/mld-large-pooled-math-deficit.md) [+W]
+- [Multidigit skills deficits differentiate number difficulty groups more clearly than single digit processing or domain-general deficits](../claims/multidigit-deficits-differentiate-groups.md) [~W]
 
 ## Related Elements
 
@@ -61,7 +62,7 @@ A single struggling student can often be understood through more than one theore
 ## Key Sources
 - National Institute of Neurological Disorders and Stroke. (2016). *Dyslexia information page*.
 - Carlson, N. R. (2013). *Physiology of behavior* (11th ed.). Pearson.
-- Cowan, R., & Powell, D. (2014). The contributions of domain-general and numerical factors to third-grade arithmetic skills and mathematical learning disability. *Journal of Educational Psychology, 106*(1), 214-229.
+- Cowan, R., & Powell, D. (2014). The contributions of domain-general and numerical factors to third-grade arithmetic skills and mathematical learning disability. *Journal of Educational Psychology, 106*(1), 214-229. [doi:10.1037/a0034097](https://doi.org/10.1037/a0034097)
 - U.S. Department of Education. (2005). *Twenty-fourth annual report to Congress on the implementation of the Individuals with Disabilities Education Act*.
 - Ysseldyke, J., & Bielinski, J. (2002). Effect of different methods of reporting and reclassification on trends in test scores for students with disabilities. *Exceptional Children, 68*(2), 189-201.
 - Arduini-Van Hoose, N. (2020). Learning differences. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.

@@ -41514,5 +41514,49 @@
  "test-format\trate tests\tcomprehension tests": {
   "label": "Rate vs comprehension",
   "treatment_is_a": true
+ },
+ "media-design\tmotion pictures\tolder visual methods such as slides": {
+  "label": "motion pictures vs older visual methods such as slides",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual presentation methods\toral presentation alone": {
+  "label": "visual presentation vs oral presentation alone",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcontinuous mental multiplication exercise\tinitial work row": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlast row after 100–140 minutes of continuous exercise\tfirst row": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice with one eye\tunpracticed other eye": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\treading with attempted recall\tattentive reading and re-reading": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trecall from covered pairs\tattentive reading and re-reading": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trecall from the first member\tattentive reading and re-reading": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "spacing\t1.5-year rest interval before memory testing\t4.5-month rest interval before memory testing": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": true
+ },
+ "test-format\tone spelling word list\ta second spelling word list": {
+  "label": "one spelling-test list vs another spelling-test list",
+  "treatment_is_a": true
+ },
+ "test-format\tone spelling-test list\ta different spelling-test list": {
+  "label": "one spelling-test list vs another spelling-test list",
+  "treatment_is_a": true
  }
 }

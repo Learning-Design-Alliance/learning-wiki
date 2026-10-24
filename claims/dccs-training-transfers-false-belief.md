@@ -49,3 +49,4 @@ The review reports, citing Kloo and Perner (2003), a training study of 3- and 4-
 - [Feedback on post-switch sorting improves preschoolers' DCCS performance and transfers to a novel DCCS version](feedback-improves-preschool-dccs.md) — related
 - [The classroom training is associated with a greater DCCS flexibility gain in the experimental group, though the printed ANOVA table reports a non-significant interaction](dccs-flexibility-gain-training-group.md) — related
 - [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
+- [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](transfer-of-training-diverse-operations-review.md) — related

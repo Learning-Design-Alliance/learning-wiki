@@ -62,9 +62,11 @@ Dictation is a form of retrieval practice for orthographic knowledge: producing 
 6. Progress to sentence and passage dictation only once word-level accuracy is secure.
 
 ## Related Strategies
+
 - [Spelling Instruction Through Encoding](../strategies/spelling_instruction_through_encoding.md) — dictation is the retrieval-practice component of explicit spelling routines
 - [Phonics Instruction](phonics-instruction.md) — dictation provides the encoding (spelling) counterpart to decoding practice
 - [Self-Correction Routines](../strategies/self-correction_routines.md) — the comparison-and-correction step that makes dictation instructional
+- [Teach clear, accurate spoken English with painstaking enunciation to reduce spelling errors due to faulty speech](enunciation-instruction-reduces-spelling-errors.md)
 
 ## Examples
 - **Orton-Gillingham–based programs** (e.g., [Wilson Reading System](https://www.wilsonlanguage.com)) — every lesson includes dictation of sounds, words, and sentences with immediate correction, targeting explicitly taught patterns.

@@ -54,3 +54,4 @@ Difference-in-difference interrupted time-series (Table 3) comparing affected sc
 - [Chicago's College-Prep-for-All policy nearly universalized ninth-grade Algebra I and English I enrollment and closed course-taking gaps by race, ability, and special education status](college-prep-all-increased-ninth-grade-enrollment-equity.md) — related
 - [Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement](high-stakes-testing-narrows-curriculum.md) — related
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — related
+- [Course dropout was linked to lower SES, lower high school GPA, lower participation in preparatory math courses, and less adaptive initial motivations](course-dropout-correlates-gateway-math.md) — related
