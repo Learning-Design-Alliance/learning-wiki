@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 41 claims (26 show a difference, 12 mixed, 3 no difference) · 36 studies (10 causal, 8 associational, 6 review, 5 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 11 of 36 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (27 show a difference, 13 mixed, 3 no difference) · 37 studies (11 causal, 8 associational, 6 review, 5 quant-synthesis, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 11 of 37 report an effect size · 40 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -79,6 +79,8 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](../claims/lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) [+M] — learners who differ on it differ in outcomes
 - [The association between health literacy and health task performance is substantially reduced after adjusting for cognitive abilities](../claims/health-literacy-task-association-reduced-after-cognitive-adjustment.md) [~M] — learners who differ on it differ in outcomes
 - [Drama and theatre-based work forms are used in teacher education to elicit critical reflection among teachers as preparation for the diverse classroom](../claims/drama-work-forms-elicit-critical-reflection-teachers.md) [+M] — instruction changes it
+- [CALI shows some evidence of improving oral and reading comprehension skills (d = .125) without opportunity cost to reading gains.](../claims/cali-comprehension-gains-no-opportunity-cost.md) [+M] — instruction changes it
+- [Child Characteristic X Instruction (CXI) interactions in content learning were reduced through iterative design: leveled readers, explicit vocabulary instruction, and passage-comprehension-based flexible grouping eliminated significant CXI effects by the fourth iteration.](../claims/cali-cxi-interactions-reduced-through-design.md) [~W] — an instructional effect differs with it
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

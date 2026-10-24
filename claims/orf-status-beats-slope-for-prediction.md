@@ -71,3 +71,4 @@ The review reports this contrasting finding on slope's utility in early screenin
 - [The study collects concurrent validity evidence on the IRLA framework as a potential RTI screening tool](irla-concurrent-validity-screening-rti.md) — related
 - [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](word-recognition-fluency-predicts-comprehension-grades-1-3.md) — related
 - [Different responsiveness-determination approaches (status vs. slope, criteria, domains, cut points) identify different students as adequate and inadequate responders, with little or no overlap](rti-responsiveness-criteria-disagree.md) — related
+- [Reading-related skills show significant individual differences in growth rates in kindergarten through grade 2 but not in grades 3 through 5](reading-growth-individual-differences-early-not-late-elementary.md) — related

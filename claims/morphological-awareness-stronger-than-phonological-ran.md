@@ -59,3 +59,5 @@ In the random effects synthesis, significance among predictor effect sizes was d
 - [Real word decoding relates more strongly to adult reading comprehension (r = .52) than pseudoword decoding (r = .42), though not significantly](real-word-vs-pseudoword-decoding-adults.md) — related
 - [Most predictor effect sizes showed high heterogeneity; only morphological awareness, working memory, and language comprehension fell in the moderate I² range](high-heterogeneity-adult-predictor-effect-sizes.md) — related
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
+- [The correlation between morphological awareness and reading comprehension is r = .536 in school-aged readers of English](ma-reading-comprehension-correlation.md) — related
+- [RAN is significantly and substantially correlated with mathematics (r = .37) across studies](ran-mathematics-correlation-meta-analysis.md) — related

@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (67 show a difference, 17 mixed, 15 no difference) · 65 studies (20 associational, 17 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 24 of 65 report an effect size · 94 claims rest on one study
+> **Evidence** · 102 claims (68 show a difference, 19 mixed, 15 no difference) · 67 studies (21 associational, 18 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 25 of 67 report an effect size · 97 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -140,6 +140,9 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](../claims/decoding-fluency-no-unique-prediction-grades-4-10.md) [~M] — learners who differ on it differ in outcomes
 - [Set for Variability performance is strongly correlated with word identification, word attack, phonological awareness, and vocabulary in grades 2–5](../claims/sfv-strongly-correlated-word-reading-decoding-phonemic-awareness-vocabulary.md) [+W] — learners who differ on it differ in outcomes
 - [The impact of phonological competitors on SfV accuracy is greater for children with low decoding or low word reading skill](../claims/sfv-competitors-interactions-decoding-word-reading.md) [+M] — an instructional effect differs with it
+- [Bilingual readers showed a smaller indirect effect of MA on reading comprehension via word reading than monolinguals](../claims/bilingual-smaller-indirect-effect-via-word-reading.md) [~W] — learners who differ on it differ in outcomes
+- [Individual differences in decoding growth persisted across elementary school for timed pseudo-word decoding but were absent throughout for CTOPP Blending Words](../claims/decoding-growth-exceptions-pde-bw.md) [~M] — instruction changes it
+- [Morphological awareness has significant indirect effects on reading comprehension via word reading (β = .140) and vocabulary knowledge (β = .190)](../claims/ma-indirect-effects-via-word-reading-vocabulary.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

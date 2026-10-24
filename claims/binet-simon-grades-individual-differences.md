@@ -71,3 +71,4 @@ Check on judgment reliability: 215 cases under twelve were judged by both teache
 - [Mental differences between bright and dull pupils can be ascertained by means of simple group tests](group-tests-ascertain-bright-dull-differences.md) — related
 - [The author judges the tests reveal class members' ability to do school work almost as accurately as months of teacher observation, supporting use for borderline promotion cases](tests-match-teacher-judgment-school-work.md) — related
 - [Thorndike found correlations between Binet age and language tests higher than those between Binet age and a construction test, and therefore judged the Binet scale inadequate.](thorndike-binet-age-correlates-higher-with-language-than-construction-tests.md) — related
+- [The Binet scale can be understood and applied by the average teacher or school principal as readily as current pedagogical tests](binet-scale-usable-by-teachers-and-principals.md) — related

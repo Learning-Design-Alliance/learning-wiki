@@ -55,3 +55,4 @@ This is the editor's forward-looking prediction (type e), offered with no eviden
 - [The author concludes that much remains to be done before group intelligence tests can be fully relied upon for trustworthy placing of individual pupils](group-tests-not-yet-fully-reliable-for-placement.md) — related
 - [Comparison with standard scores suggested three groupings of pupils with distinct instructional needs](three-groupings-from-standard-scores.md) — a narrower finding that bears on this claim
 - [Schooling adjusted to the average under-serves exceptionally intelligent pupils and can be morally dangerous for them](average-paced-school-morally-dangerous-for-exceptional.md) — related
+- [The field's greatest need is an extensive experimental and critical study of the relative diagnostic value of available individual tests, followed by establishment of norms](need-for-critical-study-of-test-relative-value-and-norms.md) — related

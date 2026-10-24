@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 39 claims (22 for, 17 mixed) · 24 studies (8 causal, 5 review, 4 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 6 of 24 report an effect size · 38 claims rest on one study
+> **Evidence** · 40 claims (23 for, 17 mixed) · 25 studies (8 causal, 5 review, 5 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 6 of 25 report an effect size · 39 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -97,6 +97,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [A utility-value writing intervention increases continuation to the second course of the biology sequence](../claims/uv-intervention-increases-sequence-continuation.md) [+W]
 - [Students' expectancy, intrinsic value, and utility value decline significantly while perceived psychological and effort costs increase during the first half of gateway math courses](../claims/first-half-semester-motivational-decline-gateway-math.md) [+W] — attached 2026-10-24 from Daria Katharina Benden et al. (2021), which proposed "Situated expectancy-value theory (SEVT) as a framework for understanding situationally sensitive motivational fluctuations".
 - [Students experienced a motivational shock between Weeks 2 and 3 coinciding with first performance feedback on mandatory math worksheets](../claims/motivational-shock-weeks-2-3-performance-feedback.md) [+W] — attached 2026-10-24 from Daria Katharina Benden et al. (2021), which proposed "Situated expectancy-value theory (SEVT) as a framework for understanding situationally sensitive motivational fluctuations".
+- [Valuing mathematics raises predicted STEM-study-intention probability by 18% per SD; valuing German shows a significant negative total effect](../claims/value-total-effects-stem-intentions.md) [+W]
 
 ## Related Theories
 

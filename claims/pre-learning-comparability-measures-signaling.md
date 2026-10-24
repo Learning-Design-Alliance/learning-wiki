@@ -45,5 +45,5 @@ Note to the supplemental variable table. Variables marked with one asterisk — 
 ## Related Claims
 - [A 15-minute exposure to higher-performing virtual classmates did not significantly affect sixth-graders' dispositional domain-specific self-concept](no-dispositional-self-concept-effect-ivr.md) — related
 - [Engagement profiles do not differ in prior knowledge, chemistry self-concept, or interest, addressing a motivation confound](no-profile-differences-prior-knowledge-motivation.md) — related
-- [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](student-characteristics-moderate-inquiry-effectiveness.md) — related
+- [Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept](student-characteristics-moderate-inquiry-effectiveness.md) — related
 - [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related

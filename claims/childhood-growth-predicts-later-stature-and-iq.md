@@ -67,3 +67,4 @@ Same Iowa growth study reported at the meeting; the printed probable error of 6.
 - [Height at age 12 can be predicted from height at age 6 with a probable error of estimate of 2.98 cm for boys and 2.58 cm for girls](height-prediction-probable-error.md) — related
 - [Children maintain their relative height rank within a group from ages 4 to 18, with little crossing of growth curves](height-rank-stability-little-curve-crossing.md) — related
 - [Cross-sectional measurements of children of the same age may yield spurious growth facts because of great individual differences](cross-sectional-growth-facts-may-be-spurious-individual-differences.md) — related
+- [Coefficients of variability for physical traits tend to decrease from ages seven to seventeen and are generally higher in boys than in girls, per the review of Baldwin's growth study](baldwin-variability-decreases-7-17-higher-boys.md) — related

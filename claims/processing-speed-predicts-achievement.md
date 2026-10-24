@@ -49,3 +49,4 @@ Multilevel models including RAN RTs for 177 children. Faster first grade letter 
 - [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](visuospatial-memory-not-predict-word-reading.md) — related
 - [The unique link between naming speed and word reading partly depends on using alphanumeric stimuli; non-alphanumeric naming speed adds no unique prediction](naming-speed-word-reading-link-alphanumeric-dependent.md) — related
 - [Faster word recognition at 24 months is associated with larger vocabularies and greater vocabulary gains in Spanish-learning children](faster-word-recognition-linked-larger-vocabulary.md) — related
+- [RAN stimulus type (numeric vs. non-numeric; alphanumeric vs. non-alphanumeric) largely does not moderate the RAN–mathematics correlation](ran-stimulus-type-weak-moderator.md) — related

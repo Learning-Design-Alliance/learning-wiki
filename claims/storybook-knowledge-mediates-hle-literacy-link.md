@@ -68,3 +68,4 @@ Hierarchical regression Model 2 on letter knowledge (N = 174): book-cover recogn
 - [Home literacy environment predicts early literacy outcomes, with parent print exposure predicting vocabulary and book-sharing frequency predicting letter knowledge](hle-predicts-early-literacy-outcomes.md) — related
 - [Book-cover recognition predicts vocabulary and letter knowledge even after controlling for intelligence and cognitive control](book-cover-recognition-predicts-literacy-beyond-intelligence.md) — related
 - [Cognitive control mechanisms do not moderate the beneficial effects of book exposure on early literacy outcomes](cognitive-control-does-not-moderate-book-exposure.md) — related
+- [More frequent parent-reported home literacy activities were associated with better children's math performance, controlling for covariates](literacy-activities-associated-math.md) — related

@@ -45,3 +45,4 @@ Alternative SEM identical to the main model but with RAN digits and RAN letters 
 ## Related Claims
 - [Working memory and processing speed, but not inhibition or non-alphanumeric naming speed, uniquely predict both word reading and reading comprehension in children ages 8 to 16](wm-and-processing-speed-unique-predictors-reading.md) — related
 - [Speed of numeral processing showed a trend predicting fifth grade mathematics achievement, and letter processing speed predicted word reading](processing-speed-predicts-achievement.md) — related
+- [RAN stimulus type (numeric vs. non-numeric; alphanumeric vs. non-alphanumeric) largely does not moderate the RAN–mathematics correlation](ran-stimulus-type-weak-moderator.md) — related

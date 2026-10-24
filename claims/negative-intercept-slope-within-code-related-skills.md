@@ -54,3 +54,5 @@ Zero-order correlation analysis of growth model parameters in the 358-child samp
 - [The bidirectional letter-knowledge–phonological-awareness relation extends to supra-phonemic tasks, indicating an earlier developmental origin than previously reported](bidirectional-relation-extends-to-supra-phonemic-tasks.md) — related
 - [Final achievement level and rate of achievement change were positively correlated: students with higher final levels experienced smaller achievement decrements](intercept-slope-positive-correlation.md) — related
 - [Children with higher initial levels in NRS or CS show slower subsequent linear growth in the same component](negative-intercept-slope-correlations-numeracy.md) — a narrower finding that bears on this claim
+- [Math fluency in grades 3-5 showed a cumulative growth pattern with a small significant positive intercept-slope correlation](math-fluency-cumulative-growth-grades-3-5.md) — related
+- [Kindergarten-to-fifth-grade slope-intercept correlations varied across reading measures, showing cumulative, compensatory, and stable patterns for different measures](mixed-slope-intercept-correlations-reading-measures.md) — related

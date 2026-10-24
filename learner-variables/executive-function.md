@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (65 show a difference, 17 mixed, 21 no difference) · 60 studies (24 associational, 12 causal, 11 review, 9 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 15 of 60 report an effect size · 101 claims rest on one study
+> **Evidence** · 108 claims (66 show a difference, 20 mixed, 22 no difference) · 61 studies (25 associational, 12 causal, 11 review, 9 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 16 of 61 report an effect size · 106 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -119,7 +119,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](../claims/narrow-transfer-computerized-ef-training.md) [+M] — instruction changes it
 - [Classroom active breaks show no statistically significant effect on inhibitory control in schoolchildren](../claims/active-breaks-no-significant-effect-inhibitory-control.md) [-W] — instruction changes it
 - [Meta-analytic findings show small-to-medium relations between EF and academic performance, with cognitive flexibility showing the strongest effects](../claims/ef-academic-performance-small-to-medium-meta-analytic.md) [+W] — learners who differ on it differ in outcomes
-- [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](../claims/student-characteristics-moderate-inquiry-effectiveness.md) [+W] — an instructional effect differs with it
+- [Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept](../claims/student-characteristics-moderate-inquiry-effectiveness.md) [+W] — learners who differ on it differ in outcomes
 - [Guided play outperformed direct instruction for executive functioning and numeracy in early childhood, but not for literacy or socioemotional outcomes](../claims/guided-play-versus-direct-instruction-early-childhood.md) [+M] — instruction changes it
 - [Brief pre-class exercise selectively enhanced mathematics-specific inhibitory control while domain-general interference control (Flanker) showed no reliable change, per Zhang et al. (2026)](../claims/brief-exercise-selective-math-inhibition-dissociation.md) [~M] — instruction changes it
 - [Executive functions, especially working memory, inhibition, and cognitive flexibility, are consistently associated with core SRL activities](../claims/executive-functions-associated-with-core-srl-activities.md) [+M] — learners who differ on it differ in outcomes
@@ -140,6 +140,11 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Mothers' early autonomy support uniquely predicts children's executive functions at 54 months over and above warmth, cognitive stimulation, and covariates](../claims/autonomy-support-predicts-executive-functions-54-months.md) [+M] — instruction changes it
 - [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](../claims/ef-mediation-robust-to-temperament-vocabulary.md) [+M] — learners who differ on it differ in outcomes
 - [Deficits in executive function and letter recognition predict delayed cardinal principle knower status](../claims/executive-function-letter-recognition-predict-delayed-cpk.md) [+M] — learners who differ on it differ in outcomes
+- [At high (but not low) levels of children's inhibitory control, parental number talk was associated with children's math performance](../claims/simple-slopes-number-talk-high-inhibition.md) [~W] — an instructional effect differs with it
+- [Children's inhibitory control is positively related to math achievement as a main effect, independent of parental input](../claims/inhibitory-control-main-effect-math.md) [+W] — learners who differ on it differ in outcomes
+- [Children's inhibitory control moderates the association between parental number talk and children's math achievement, with a positive association only at higher inhibitory control](../claims/number-talk-inhibitory-control-interaction-math.md) [~W] — an instructional effect differs with it
+- [Parent-reported home math activities showed no significant association with children's math achievement, and inhibitory control did not moderate this null relation](../claims/home-math-activities-null-moderation.md) [-W] — an instructional effect differs with it
+- [The number talk × inhibitory control interaction is domain-specific: it did not hold for parents' overall talk or for children's vocabulary as the outcome](../claims/interaction-domain-specificity-math.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

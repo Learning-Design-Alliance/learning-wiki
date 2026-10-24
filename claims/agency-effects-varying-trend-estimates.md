@@ -49,3 +49,4 @@ Agency Effects results compare the four survey agents. PISA estimates a median t
 - [Fourth-grade cohorts in other countries also show larger math than reading gains, suggesting moderators more general than the United States](international-math-reading-differential.md) — related
 - [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related
 - [Over a decade of legally mandated synthetic phonics in England has not improved standardized reading outcomes (PIRLS, PISA, SATs)](england-mandated-phonics-no-standardized-outcome-gains.md) — related
+- [The study examines the social gradient in students’ achievement motivation through an integrative data analysis spanning two decades of PISA data](pisa-two-decade-ida-social-gradient-achievement-motivation.md) — related

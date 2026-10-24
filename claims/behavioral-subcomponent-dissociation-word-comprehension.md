@@ -73,3 +73,4 @@ The same behavioral correlation analysis in the Results section shows sentence c
 - [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — related
 - [Phonological awareness significantly predicts Chinese word reading even among children taught without any phonetic coding system](pa-significant-without-phonological-instruction.md) — related
 - [In Morris et al. (2012), the phonological (phonics-including) intervention alone showed no significant reading benefits, while conditions adding orthographic and semantic instruction did](morris-2012-phonology-alone-not-significant.md) — related
+- [The correlation between morphological awareness and reading comprehension is r = .536 in school-aged readers of English](ma-reading-comprehension-correlation.md) — related

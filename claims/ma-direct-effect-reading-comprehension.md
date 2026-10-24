@@ -1,0 +1,53 @@
+---
+type: claim
+title: Morphological awareness has a significant direct effect on reading comprehension controlling for word reading and vocabulary knowledge (β = .146)
+description: Morphological awareness has a significant direct effect on reading comprehension controlling for word reading and vocabulary knowledge (β = .146)
+id: ma-direct-effect-reading-comprehension
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-24
+evidence_strength: moderate
+sources:
+  - id: zhang-2023
+    resource: "https://doi.org/10.1037/edu0000797"
+    title: "Zhang, D., Ke, S. (E.), & Mo, Y. (2023). Morphology in Reading Comprehension Among School-Aged Readers of English: A Synthesis and Meta-Analytic Structural Equation Modeling Study. Journal of Educational Psychology, 115(5), 683–699. https://doi.org/10.1037/edu0000797"
+    author: "Zhang, D., Ke, S. (E.), & Mo, Y."
+    q: 4
+    i: 1
+    kind: quant-synthesis
+    rigour: "?"
+---
+
+# Morphological awareness has a significant direct effect on reading comprehension controlling for word reading and vocabulary knowledge (β = .146)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small
+
+## Subclaims
+`q4 i1` MA significantly predicts reading comprehension over and above word reading and vocabulary knowledge (β = .146). [→ Zhang 2023](#zhang-2023)
+
+## Evidence
+
+### Zhang 2023
+
+Zhang, D., Ke, S. (E.), & Mo, Y. (2023). Morphology in Reading Comprehension Among School-Aged Readers of English: A Synthesis and Meta-Analytic Structural Equation Modeling Study. Journal of Educational Psychology, 115(5), 683–699. https://doi.org/10.1037/edu0000797
+
+`q4 · i1` · `quant-synthesis · r?`
+
+Stage 2 TSSEM fitted the theory-driven path model to the pooled correlation matrix (k = 107, N = 21,818). The model showed good fit (CFI = 0.994, RMSEA = 0.039). The direct effect was "β = .146 [.082, .208]", controlling for word reading and vocabulary knowledge.
+
+> "For the direct effect of MA on reading comprehension over and above word reading and vocabulary knowledge, β = .146 [.082, .208]."
+
+## Discussion
+
+
+## Learner Variables
+- [Morphological Awareness](../learner-variables/morphological-awareness.md) — predictor: learners who differ on it differ in outcomes
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
+## Related Claims
+- [Morphological awareness has significant indirect effects on reading comprehension via word reading (β = .140) and vocabulary knowledge (β = .190)](ma-indirect-effects-via-word-reading-vocabulary.md) — related
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
+- [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
+- [The correlation between morphological awareness and reading comprehension is r = .536 in school-aged readers of English](ma-reading-comprehension-correlation.md) — related

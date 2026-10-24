@@ -40,7 +40,8 @@ The review recommends a seven-step design sequence for longitudinal studies of c
 - [Heterotypic Continuity Inhibitory Control](../theories/executive-function-development.md)
 
 ## Related Strategies
-- 
+
+- [Pursue construct-distinction research through multi-wave longitudinal SEM studies comparing self-belief measures against outcomes](multi-wave-longitudinal-sem-self-belief-agenda.md)
 
 ## Examples
 -

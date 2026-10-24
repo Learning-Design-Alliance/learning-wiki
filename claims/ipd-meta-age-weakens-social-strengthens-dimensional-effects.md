@@ -50,3 +50,4 @@ Moderator analysis in the IPD meta-analysis with age coded continuously at self-
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related
 - [Social and temporal comparison effects are stronger in studies using grades rather than test scores as achievement indicators](ipd-meta-grades-stronger-social-temporal-effects-than-test-scores.md) — related
 - [Social comparison effects are stronger in academic track schools than in nonacademic track schools](ipd-meta-social-effects-stronger-academic-track.md) — related
+- [Generalized math self-efficacy items function like self-concept items because they omit an explicit performance criterion](generalized-self-efficacy-items-jingle-with-self-concept.md) — related

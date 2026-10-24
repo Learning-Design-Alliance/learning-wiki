@@ -73,3 +73,4 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [Grade level, nonverbal intelligence, and working memory predicted mathematics achievement, explaining 88% of intercept variance but only 16-22% of slope variance](covariates-predict-math-growth.md) — related
 - [Addition fluency strongly predicts third-grade multiplication fluency, and a significant working memory association emerges after controlling for addition fluency](addition-fluency-predicts-multiplication-unique-precursors.md) — related
 - [The central executive component of working memory is the most important domain-general predictor of later-grade mathematics achievement](central-executive-top-domain-general-predictor.md) — related
+- [Among children below 80 IQ in the Providence grammar schools, only one of 220 made a mark better than C](providence-below-80-iq-marks-mostly-conditioned-or-failing.md) — a narrower finding that bears on this claim

@@ -66,3 +66,4 @@ Figure II plots registrar's scholarship standing by first-cause group; the text 
 - [Students with the least means studied the most and made the best grades, while students tired of school studied least and made relatively low grades](study-time-varies-by-elimination-cause-group.md) — related
 - [About 60 per cent of University of Texas freshmen withdrew permanently each year, based on student-history tracing of 1901–1908 freshman cohorts](texas-freshmen-60-percent-permanent-withdrawal.md) — related
 - [Academic subjects were graded to a markedly higher standard than shop subjects, with far larger shares of grades below passing](academic-vs-shop-grading-standards.md) — related
+- [The large majority of freshmen scoring below 77.5 Alpha drop out before senior year](below-77-5-alpha-freshmen-drop-out-before-senior-year.md) — related

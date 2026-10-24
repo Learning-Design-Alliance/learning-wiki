@@ -54,3 +54,4 @@ The page summarizes classroom-approach research on the Classrooms section, asser
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [School-based SEL programs promote the development of social and emotional competencies across grade levels](sel-programs-promote-social-emotional-competencies.md) — related
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — a narrower finding that bears on this claim
+- [A cluster randomized trial tests the impact of a skill-targeted social and emotional learning curriculum with Syrian refugee children in Lebanon](cluster-rct-skill-targeted-sel-syrian-refugee-children-lebanon.md) — a narrower finding that bears on this claim

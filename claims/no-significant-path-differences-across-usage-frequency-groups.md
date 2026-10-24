@@ -84,3 +84,4 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use](genai-use-quality-over-frequency.md) — related
 - [Perceived GAI advocacy–practice inconsistency is positively associated with both hindrance and challenge appraisal in students' actual experiences](inconsistency-positively-associated-both-appraisals.md) — related
 - [CVT structural relations are largely stable across gender and prior-education groupings, supporting relative universalism under variable-centered tests](cvt-invariant-across-demographic-groupings.md) — related
+- [No significant subgroup difference was found in the magnitude of the direct effect of MA on reading comprehension for any moderator (except lower elementary non-significance)](no-subgroup-difference-direct-effect.md) — related

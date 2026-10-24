@@ -50,3 +50,5 @@ In the univariate LGCMs of the population sample, "a weak negative correlation b
 - [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](negative-intercept-slope-within-code-related-skills.md) — a broader claim this one bears on
 - [Initial levels and growth in numerical relational skills contribute to counting skill development, suggesting NRS may precede CS](nrs-contributes-to-cs-development.md) — related
 - [Numerical relational and counting skills both develop nonlinearly between mid-Kindergarten year 1 and the end of Grade 1, with NRS decelerating and CS accelerating](nrs-cs-nonlinear-growth-trajectories.md) — related
+- [Math fluency in grades 3-5 showed a cumulative growth pattern with a small significant positive intercept-slope correlation](math-fluency-cumulative-growth-grades-3-5.md) — related
+- [Kindergarten-to-fifth-grade slope-intercept correlations varied across reading measures, showing cumulative, compensatory, and stable patterns for different measures](mixed-slope-intercept-correlations-reading-measures.md) — related

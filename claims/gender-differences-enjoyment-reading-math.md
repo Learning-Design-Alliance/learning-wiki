@@ -50,3 +50,4 @@ Fixed effects from the three-level multilevel models with gender coded female = 
 ## Related Claims
 - [Boys read for leisure and enjoy reading less than girls, but no sex differences appear in mental imagery](sex-differences-leisure-reading-enjoyment-not-imagery.md) — related
 - [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related
+- [Questionnaire responses from 3,598 pupils show boys' and girls' reading interests are far from identical, with some interests increasing or declining with age](jordan-3598-pupils-sex-differences-reading-interests.md) — related

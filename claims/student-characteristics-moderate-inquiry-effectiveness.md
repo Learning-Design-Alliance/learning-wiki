@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction
-description: Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction
+title: "Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept"
+description: "Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept"
 id: student-characteristics-moderate-inquiry-effectiveness
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction
+# Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
 
 ## Subclaims
-`q2 i?` High school students' inhibitory control predicted 29% of the variance in inquiry skills test scores and 28% of the variance in conceptual knowledge gains during an inquiry unit. [→ de Jong 2023](#de-jong-2023)
-`q2 i?` A direct instruction condition was more successful than inquiry conditions for university students with a low domain self-concept, but not overall. [→ de Jong 2023 (2)](#de-jong-2023-2)
+`q2 i?` The review reports Kwon and Lawson (2000): high school students' inhibitory control predicted 29% of the variance in inquiry skills test scores and 28% of the variance in conceptual knowledge gains during a 14-lesson inquiry unit; this is a correlational association within inquiry, not a test of whether inhibitory control moderates inquiry's effect. [→ de Jong 2023](#de-jong-2023)
+`q2 i?` The review reports Richter et al. (2022): direct instruction was more successful overall than inquiry conditions for university students learning about photosynthesis, but further analysis showed the advantage held only for students with a low domain self-concept. [→ de Jong 2023 (2)](#de-jong-2023-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ de Jong, T., Lazonder, A. W., Chinn, C. A., Fischer, F., Gobert, J., Hmelo-Silve
 
 `q2 · i?` · `review · r1`
 
-The review reports this correlational finding on inhibitory control in a 14-lesson inquiry-based unit; variance explained percentages are printed but no standardized effect size, so impact is null.
+A narrative review reporting Kwon and Lawson (2000), a correlational study of high school students in a 14-lesson inquiry-based unit. Inhibitory control predicted sizeable shares of variance (29% and 28%), so the association is not null; the review prints no standardized effect size, so impact is coded `i?` (not reported, not zero). The study compared no instructional conditions, so it shows that inhibitory control predicts outcomes under inquiry, not that it moderates inquiry's effectiveness or causes the gains.
 
 > "Kwon and Lawson (2000) found that high school students' degree of inhibitory control predicted 29% of the variance in scores on an inquiry skills test and 28% of the variance in conceptual knowledge gains during a 14-lesson inquiry-based unit."
 
@@ -54,7 +54,7 @@ de Jong, T., Lazonder, A. W., Chinn, C. A., Fischer, F., Gobert, J., Hmelo-Silve
 
 `q2 · i?` · `review · r2`
 
-The review reports Richter et al. (2022) found direct instruction more successful for university students learning photosynthesis, but "only the case for students with a low domain self-concept," highlighting individual differences.
+A narrative review reporting Richter et al. (2022): direct instruction was more successful overall than inquiry learning conditions for university students acquiring conceptual knowledge about photosynthesis, but a further analysis showed this was "only the case for students with a low domain self-concept," highlighting individual differences.
 
 > "They found that a direct instruction condition was more successful overall than inquiry learning conditions for university students acquiring conceptual knowledge about photosynthesis. However, a further analysis by these authors showed that this was only the case for students with a low domain self-concept"
 
@@ -63,10 +63,11 @@ The review reports Richter et al. (2022) found direct instruction more successfu
 
 ## Learner Variables
 - [Academic Self-Concept](../learner-variables/academic-self-concept.md) — moderator: an instructional effect differs with it
-- [Executive Function](../learner-variables/executive-function.md) — moderator: an instructional effect differs with it
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults](cognitive-factors-explain-half-inquiry-variance.md) — related
 - [Dispositional factors add little to predicting inquiry performance except physics self-concept, and extraneous load has a significant negative effect](dispositions-load-little-inquiry-prediction.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
 - [Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions](pre-learning-comparability-measures-signaling.md) — related
+- [Children's inhibitory control moderates the association between parental number talk and children's math achievement, with a positive association only at higher inhibitory control](number-talk-inhibitory-control-interaction-math.md) — related

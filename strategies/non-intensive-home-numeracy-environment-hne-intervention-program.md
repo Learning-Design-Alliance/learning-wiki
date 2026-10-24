@@ -67,6 +67,7 @@ The home numeracy environment — especially the frequency of parent–child act
 - [Engage parents through home-learning packets with videos, tips, and activity suggestions](redi-parent-home-learning-packets.md)
 - [Connect home and school learning through a family guide linking playful everyday science activities to classroom instruction](family-guide-connecting-home-and-school-science.md)
 - [Embed counting practice in varied classroom activities and inform parents about advanced counting activities at home](embed-counting-classroom-and-home-activities.md)
+- [Tailor math-talk interventions to children's inhibitory control levels rather than uniformly encouraging all parents to talk more about math](tailor-math-input-to-inhibitory-control.md)
 
 ## Examples
 - **[Bedtime Math](https://bedtimemath.org)** — A free app and book series delivering a daily short story with leveled math questions; a randomized study found gains in children's math achievement over the school year, largest for children of math-anxious parents ([Berkowitz et al., 2015](https://doi.org/10.1126/science.aac7427)).

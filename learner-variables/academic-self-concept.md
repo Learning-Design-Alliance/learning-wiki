@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (72 show a difference, 20 mixed, 8 no difference) · 51 studies (25 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 51 report an effect size · 97 claims rest on one study
+> **Evidence** · 104 claims (75 show a difference, 21 mixed, 8 no difference) · 52 studies (26 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 52 report an effect size · 101 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -83,7 +83,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [School grades tend to be more highly correlated with academic self-concept than standardized test scores](../claims/grades-more-correlated-with-self-concept-than-tests.md) [+M] — learners who differ on it differ in outcomes
 - [Students' domain-specific self-concept moderates non-interactive teaching: low self-concept students profit, high self-concept students do not](../claims/self-concept-moderates-noninteractive-teaching.md) [+M] — an instructional effect differs with it
 - [The COMPASS intervention significantly increases students' math self-concept immediately after participation in both an intervention group and a waiting-list control group](../claims/compass-increases-math-self-concept-immediately.md) [+M] — instruction changes it
-- [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](../claims/student-characteristics-moderate-inquiry-effectiveness.md) [+M] — an instructional effect differs with it
+- [Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept](../claims/student-characteristics-moderate-inquiry-effectiveness.md) [+M] — an instructional effect differs with it
 - [Adding a quadratic achievement term leaves the negative contextual-mean effect essentially unchanged](../claims/curvature-adjustment-does-not-eliminate-bflpe.md) [+M] — instruction changes it
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](../claims/bflpe-replication-timss-2019-contextual-mean-effect.md) [+M] — instruction changes it
 - [Contextual-mean effects show little moderation by individual achievement; apparent positive moderation is illusory when the quadratic term is omitted](../claims/bflpe-moderation-by-achievement-small-and-illusory.md) [+M] — instruction changes it
@@ -135,6 +135,10 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Students with the intermediate school-leaving certificate report higher academic self-concepts, better perceived labor market chances, and less disengagement than students with the low certificate](../claims/intermediate-certificate-higher-self-beliefs-less-disengagement.md) [+W] — instruction changes it
 - [Track level did not predict students' self-beliefs or school disengagement at the end of schooling](../claims/track-level-not-a-predictor-end-of-schooling.md) [-W] — instruction changes it
 - [Grade retention has positive effects on math self-concept in the first year following retention, maintained over subsequent years](../claims/retention-positive-math-self-concept-lag1.md) [+M] — instruction changes it
+- [A one-SD increase in mathematics self-concept raises predicted probability of advanced mathematics course choice by 16%; higher German self-concept lowers it](../claims/predicted-probability-math-course-choice.md) [+M] — learners who differ on it differ in outcomes
+- [Differences in self-concept and value partly, but not fully, explain gender differences in STEM study intentions](../claims/gender-mediation-stem-intentions.md) [~M] — learners who differ on it differ in outcomes
+- [Domain-specific academic self-concept predicts advanced course choice, whereas value predicts STEM study intentions](../claims/self-concept-course-choice-value-stem-intentions.md) [+M] — learners who differ on it differ in outcomes
+- [Grades show mediated dimensional comparison effects on course choices via self-concept and value](../claims/mediated-dimensional-comparison-course-choices.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

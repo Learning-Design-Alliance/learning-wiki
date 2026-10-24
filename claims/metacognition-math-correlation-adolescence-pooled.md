@@ -47,3 +47,4 @@ A pre-registered multivariate random-effects meta-analysis (Campbell Collaborati
 - [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) — related
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — related
 - [More complex (versus simple) math performance measures are associated with larger metacognition–math effect sizes](complex-math-measures-larger-effects.md) — related
+- [RAN is significantly and substantially correlated with mathematics (r = .37) across studies](ran-mathematics-correlation-meta-analysis.md) — related

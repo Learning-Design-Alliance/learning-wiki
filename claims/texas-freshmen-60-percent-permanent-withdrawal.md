@@ -46,3 +46,4 @@ Archival student-history analysis tracing each name in freshman catalogues for 1
 - [Freshmen rank lack of money as the leading cause of elimination, followed by ill-health; the authors attribute about 34 per cent of elimination to lack of means and 28 per cent to ill-health](money-and-health-leading-elimination-causes.md) — related
 - [Student-history computation yields appreciably lower elimination percentages than class-population computation](student-histories-lower-elimination-than-class-population.md) — related
 - [University scholarship ratings ran about 16 per cent below high-school ratings for the same students, ranking them only two-thirds as high per hour of study, a gap the authors link to discouragement and withdrawal](grade-drop-high-school-to-university-discourages.md) — related
+- [The large majority of freshmen scoring below 77.5 Alpha drop out before senior year](below-77-5-alpha-freshmen-drop-out-before-senior-year.md) — related

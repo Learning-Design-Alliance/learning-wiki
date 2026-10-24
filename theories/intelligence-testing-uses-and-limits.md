@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 90 claims (29 for, 55 mixed, 6 against) · 49 studies (31 associational, 8 review, 5 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 7 of 49 report an effect size · 89 claims rest on one study
+> **Evidence** · 102 claims (35 for, 60 mixed, 7 against) · 53 studies (32 associational, 10 review, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 7 of 53 report an effect size · 101 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -141,6 +141,18 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Selected academic groups differ in Alpha distributions, with Phi Beta Kappa electees concentrated in higher classes and probationers lower](../claims/alpha-distribution-honors-probation.md) [+W]
 - [Alpha subtests differ in predicting grades, with correlations from .17 (Test 3) to .37 (Test 7) among seniors](../claims/alpha-subtest-correlation-range.md) [~W]
 - [Correlations between Alpha and grades vary by class standing, lowest for graduates (r = .15) and highest for seniors (r = .38)](../claims/alpha-grades-correlation-class-standing.md) [~W]
+- [Six independent applications of the Binet scale in widely separated countries show surprising agreement in the age ranking of the tests, suggesting many tests are correctly placed](../claims/binet-scale-cross-national-agreement-age-ranking.md) [+W] — attached 2026-10-24 from J. C. B (1912), which proposed "The Binet-Simon age-scale principle: arranging graded tests in a scale whose steps correspond to normal intelligence at each age from three to thirteen".
+- [Descoeudres' Geneva study of 24 pupils finds the Binet scale too easy at the bottom and too hard at the top, with bright pupils passing 57% versus dull pupils' 43%](../claims/descoeudres-geneva-24-pupils-scale-difficulty.md) [-W] — attached 2026-10-24 from J. C. B (1912), which proposed "The Binet-Simon age-scale principle: arranging graded tests in a scale whose steps correspond to normal intelligence at each age from three to thirteen".
+- [Comparative data across six investigators lead the reviewer to recommend shifting fourteen individual Binet tests to different age levels, many back to their 1908 positions](../claims/binet-tests-recommended-age-shifts-1911.md) [+W]
+- [School and college continuance rise steeply with Army Alpha level among World War recruits](../claims/school-continuance-rises-steeply-with-alpha-level.md) [+W]
+- [In Goddard's Vineland examination of 1547 pupils, only about half of mentally over-age and under-age pupils show corresponding advancement or retardation in school grading](../claims/goddard-binet-mental-age-vs-pedagogical-age.md) [~W]
+- [Army mental tests demonstrated their value in selecting men for officers' training schools and other service lines requiring special ability](../claims/army-mental-tests-selection-value.md) [+W]
+- [The field's greatest need is an extensive experimental and critical study of the relative diagnostic value of available individual tests, followed by establishment of norms](../claims/need-for-critical-study-of-test-relative-value-and-norms.md) [+W]
+- [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](../claims/binet-simon-scale-valuable-trained-dangerous-untrained.md) [~W]
+- [The Binet scale can be understood and applied by the average teacher or school principal as readily as current pedagogical tests](../claims/binet-scale-usable-by-teachers-and-principals.md) [+W]
+- [The Binet scale is heavily verbal — 43 of its 54 tests use words rather than acts — a criticism Ayres raises and the reviewer partially rebuts](../claims/binet-scale-43-of-54-tests-verbal.md) [~W]
+- [A mental appraisement of an individual is even more dependent upon the adequate training and quality of the examiner than upon the standardization of the tests used](../claims/examiner-training-over-test-standardization-for-appraisal.md) [~W]
+- [The large majority of freshmen scoring below 77.5 Alpha drop out before senior year](../claims/below-77-5-alpha-freshmen-drop-out-before-senior-year.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

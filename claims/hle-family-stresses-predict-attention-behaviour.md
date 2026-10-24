@@ -54,3 +54,4 @@ Hierarchical regression predicting parental ratings of attention and behaviour (
 - [Children at family-risk of dyslexia and children with preschool language difficulties experience more environmental and health risks than controls](fr-li-children-more-environmental-health-risks.md) — related
 - [Formal math activities in the home environment mitigated the risk of parental math difficulties for children's math development (reported by the editors, citing Torppa et al.)](home-formal-math-activities-protect-against-parental-math-risk.md) — related
 - [Parental emotional support was not an independent predictor of Chinese kindergarten children's SRL, in contrast to Western findings](emotional-support-not-predictor-chinese-context.md) — related
+- [More frequent parent-reported home literacy activities were associated with better children's math performance, controlling for covariates](literacy-activities-associated-math.md) — related
