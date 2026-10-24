@@ -55,3 +55,4 @@ ECLS-K comparison of delayed-entry children with on-time starters on end-of-firs
 - [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related
 - [Having older classmates boosts a child’s test scores but increases the probability of grade repetition and diagnoses of learning disabilities such as ADHD](older-classmates-boost-scores-increase-repetition-and-disability-diagnoses.md) — related
 - [Michigan's GSRP participants showed better kindergarten readiness, fewer grade repetitions, better reading and math proficiency, and better on-time graduation rates than non-participants, per a HighScope longitudinal evaluation](gsrp-longitudinal-evaluation-positive-outcomes.md) — related
+- [Children who entered school in kindergarten rather than pre-kindergarten were twice as likely to be at academic risk at the end of first grade](kindergarten-entry-academic-risk-latino.md) — related

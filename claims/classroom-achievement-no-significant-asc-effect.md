@@ -55,3 +55,4 @@ Same three-level longitudinal model as the clique finding; this entry reports th
 - [Class-average achievement shows a small negative indirect effect on subsequent mathematics achievement mediated through mathematics self-concept](bflpe-negative-mediation-achievement.md) — reports the opposite
 - [No statistically significant assimilation effect (BIRGE) of belonging to a higher-achieving clique within the classroom on ASC change](no-birge-assimilation-clique-level.md) — possibly the same claim (merge candidate)
 - [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related
+- [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](big-fish-little-pond-only-self-concepts-end-of-schooling.md) — related

@@ -68,3 +68,8 @@ In the supplementary dummy-coded replication model comparing each UV condition i
 - [In a college biology course, students assigned a variety of self- and other-focused utility-value assignments earned higher course grades than students who wrote the same assignment type three times](uv-variety-structure-higher-grades.md) — related
 - [Among students with low performance expectations, self-first variety (a self-focused essay followed by other-focused letters) produced higher grades than other-first variety](uv-self-first-variety-low-expectations.md) — related
 - [Students in the self-first variety condition articulated higher utility value than students in the other-first variety condition, indicating quality of utility connections depends on assignment sequence rather than type](uv-self-first-higher-articulated-utility.md) — related
+- [The UV manipulation check: UV assignments elicit higher-quality utility-value connections than control summaries, and quality rises with more UV essays](uv-assignments-raise-articulated-utility-value.md) — related
+- [UV dosage shows a nonmonotonic pattern: one or three UV essays outperform two for grades and continuation](uv-dosage-one-or-three-doses-effective.md) — related
+- [A utility-value writing intervention increases course grades in introductory biology relative to a summarizing control](uv-intervention-increases-biology-grades.md) — reports the opposite
+- [A utility-value writing intervention increases continuation to the second course of the biology sequence](uv-intervention-increases-sequence-continuation.md) — reports the opposite
+- [A utility-value writing intervention increases STEM major persistence across the semester](uv-intervention-increases-stem-major-persistence.md) — reports the opposite

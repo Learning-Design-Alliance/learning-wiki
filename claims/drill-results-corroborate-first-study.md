@@ -46,3 +46,4 @@ Author's cross-study comparison of the two investigations of drill work in arith
 - [Drill classes improved from two to three times as much as non-drill classes in arithmetic fundamentals](drill-improvement-two-to-three-times-nondrill.md) — related
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — related
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — related
+- [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](distributed-drill-repetitions-better-than-succession.md) — related

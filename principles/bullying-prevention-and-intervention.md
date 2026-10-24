@@ -150,6 +150,7 @@ Bullying rated by teachers, bullying reported by students, fear of bullying, bys
 - [Schools should intervene actively against bullying rather than relying on adolescents' social support networks](../strategies/active-school-intervention-against-bullying.md)
 - [Cast a popular child in the defender role-play](../strategies/popular-child-as-defender-roleplay.md)
 - [The Bullying Circle of participant player roles](../designs/bullying-circle-participant-roles.md)
+- [Target anti-bullying efforts at both high-risk children and high-risk schools, combining whole-school climate approaches with child-level risk identification](../strategies/targeted-antibullying-high-risk-children-schools.md)
 
 ## Key Sources
 - U.S. Centers for Disease Control and Prevention. StopBullying.gov.

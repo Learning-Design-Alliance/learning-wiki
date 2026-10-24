@@ -49,3 +49,4 @@ In the dummy-coded replication analyses comparing effect sizes with prior biolog
 - [Instructional approach interacts with prior knowledge for lasting learning, with benefits concentrated among stronger students](aptitude-treatment-interaction-prior-knowledge-lasting-learning.md) — related
 - [In a college biology course, students assigned a variety of self- and other-focused utility-value assignments earned higher course grades than students who wrote the same assignment type three times](uv-variety-structure-higher-grades.md) — related
 - [Among students with low performance expectations, self-first variety (a self-focused essay followed by other-focused letters) produced higher grades than other-first variety](uv-self-first-variety-low-expectations.md) — related
+- [Timing of a single UV essay is moderated by prior performance: early UV essays help low performers, late UV essays help high performers](uv-timing-moderated-by-prior-gpa.md) — related

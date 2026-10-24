@@ -50,3 +50,4 @@ Semi-structured interviews with 12 adolescent Black girls (Mage = 13.66; six mid
 - [Middle school girls framed Blackness as celebratory culture while high school girls emphasized individual efforts to overcome negative portrayals](developmental-shift-meaning-of-blackness.md) — related
 - [Black girls across developmental stages reported awareness of stereotypes specific to Black girls and connected them to negative school experiences](black-girls-stereotype-awareness-school-experiences.md) — related
 - [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — related
+- [Parent and peer support are differentially associated with specific developmental assets among Black adolescents](parent-peer-support-asset-associations.md) — related

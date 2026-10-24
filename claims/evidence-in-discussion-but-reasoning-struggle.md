@@ -46,3 +46,4 @@ Qualitative analysis of the Day 12 whole-class discussion of the Cisneros vignet
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [Children develop and demonstrate task-specific strategies through peer interaction, including instructing others and explaining why strategies work](task-specific-strategies-scaffolded-peer-interaction.md) — related
 - [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related
+- [Literary appreciation is hardly attainable as a by-product of formal language-training instruction](appreciation-not-byproduct-of-formal-instruction.md) — related

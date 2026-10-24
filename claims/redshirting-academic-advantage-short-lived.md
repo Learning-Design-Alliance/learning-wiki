@@ -69,3 +69,4 @@ The fact sheet summarizes multiple studies comparing redshirted students with st
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
 - [At the end of first grade, children whose kindergarten entry was delayed demonstrated slightly higher reading knowledge and skills than those who started on time](delayed-entrants-slightly-higher-reading-first-grade.md) — related
 - [At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time](repeaters-lower-reading-math-end-first-grade.md) — related
+- [Children who entered school in kindergarten rather than pre-kindergarten were twice as likely to be at academic risk at the end of first grade](kindergarten-entry-academic-risk-latino.md) — related

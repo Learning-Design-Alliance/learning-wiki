@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**632 entries** · 0 stable · 632 in review · 0 drafts
+**634 entries** · 0 stable · 634 in review · 0 drafts
 
 ---
 
@@ -185,6 +185,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Epi2Diff framework: episode-induced process representations combined with semantic embeddings for item difficulty prediction](epi2diff-framework-episode-induced-process-representations-combined-with-semantic-embeddin.md) - Epi2Diff (Episode to Difficulty) converts model-generated reasoning traces into sentence-level episode sequences and extracts compact features capturing reasoning effort.
 * [Epistemic network analysis (ENA)](epistemic-network-analysis-ena.md) - Epistemic network analysis (ENA) is a non-parametric analytic method developed for epistemic game data; the article focuses on its social-network based variant.
 * [Epistemological Move Analysis (EMA)](epistemological-move-analysis-ema.md) - Epistemological Move Analysis is an analytical approach that analyzes a teacher's role in students' learning process, used in this study to examine how the teacher directed children's learning.
+* [Equal-difficulty word-list methodology for classroom spelling experiments](equal-difficulty-word-list-methodology-for-classroom-spelling-experiments.md) - The article describes a methodology for constructing and validating two lists of spelling words of equal difficulty for a given class.
 * [Equipercentile linking with conditional growth norms for deriving assessment cut scores](equipercentile-linking-with-conditional-growth-norms-for-deriving-assessment-cut-scores.md) - The article's methodology combines the equipercentile linking method with NWEA's conditional growth norms.
 * [Equity-oriented research methodology](equity-oriented-research-methodology.md) - Drawing on the National Academies of Sciences 2022 report, the article frames equity-oriented research methodologically in two ways: \"1) to look at differences between groups and 2) to design conditions that can enhance the performance of historically and systemically excluded groups.\" The report al
 * [Error-type profiling](error-type-profiling.md) - Error-type profiling is the analytic lens the article introduces to judge fairness interventions by how they redistribute false positives and false negatives across groups, rather than only by whether fairness metrics converge.
@@ -296,6 +297,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [HARMOGEN-R: a two-stage hybrid framework for AI rubric generation with reasoning-enhanced generation and low-temperature synthesis](harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g.md) - HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning) is a two-stage rubric generation pipeline.
 * [Hattie and Timperley's feedback model](hattie-and-timperleys-feedback-model.md) - The article adopts this theoretical framework to analyse the effectiveness of textual feedback.
+* [Henmon's P.E. sentence-difficulty scaling method](henmons-pe-sentence-difficulty-scaling-method.md) - The article scales each sentence's difficulty by the same method used for vocabulary words: given the per cent of pupils translating it correctly, its position is located on the base line of the normal frequency surface in P.E.
 * [Hierarchical causal models representing both specific theories and framework theories](hierarchical-causal-models-representing-both-specific-theories-and-framework-theories.md) - The article argues that recently developed hierarchical causal models can capture the theory theory's claim that specific causal theories are embedded in more abstract framework theories.
 * [Hierarchical framework of domain-specific attitude constructs for synthesizing attitude outcomes](hierarchical-framework-of-domain-specific-attitude-constructs-for-synthesizing-attitude-ou.md) - The article proposes a hierarchical conceptual framework (Fig.
 * [Hierarchical resampling simulation framework for evaluating metacognitive measures](hierarchical-resampling-simulation-framework-for-evaluating-metacognitive-measures.md) - A simulation methodology in which real confidence-judgment datasets are resampled hierarchically (participants with replacement, then trials within participants) to create realistic simulated experiments without committing to a mathematical model of confidence.

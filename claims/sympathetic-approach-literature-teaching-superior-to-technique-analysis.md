@@ -45,3 +45,4 @@ A review note in the journal reports the study's comparative finding, stating th
 ## Related Claims
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
+- [Experienced educators ranked experience-drawing and imagination questions highest and factual and technique questions lowest among eighteen literature study questions](expert-rankings-literature-study-questions.md) — related

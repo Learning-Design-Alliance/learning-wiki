@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 37 claims (16 for, 19 mixed, 2 against) · 27 studies (16 associational, 5 review, 4 theoretical, 2 quant-synthesis), `q1`–`q3` · 1 of 27 report an effect size · 36 claims rest on one study
+> **Evidence** · 39 claims (17 for, 20 mixed, 2 against) · 29 studies (17 associational, 5 review, 4 theoretical, 2 quant-synthesis, 1 design), `q1`–`q3` · 1 of 29 report an effect size · 38 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -88,6 +88,8 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Arbitrarily assigned point values in the Yerkes-Bridges scale yield implausible growth-rate results, such as intellectual ability increasing more than fifty per cent during the fourth year and only approximately fifteen per cent during the seventh.](../claims/binet-point-scale-growth-rate-artifact.md) [-W]
 - [The low Alpha–school-standing correlation is difficult to explain and investigators report conflicting correlation results](../claims/low-intelligence-school-correlation-unexplained.md) [~W]
 - [Pupils characteristically 'Bright' or 'Slow' in the early elementary grades remained in the same category in high school, in both graduate and non-graduate groups](../claims/early-late-standing-stability-record-study.md) [~W]
+- [Easy opposites scores correlate with scholastic rank, faculty and graduates outscoring seniors and juniors](../claims/scholastic-rank-easy-opposites-scores.md) [+W]
+- [Binet's norms were worked out for Paris working-class children and may need revision for other social classes and regions](../claims/binet-norms-paris-working-class-need-revision.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats
@@ -96,6 +98,8 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Standardized Test Fairness and Bias](../principles/standardized-test-fairness-and-bias.md) — a parallel treatment of cultural and content bias in achievement and admissions tests specifically, distinct from but related to the IQ-test bias described here
 
 ## Examples
+
+- [Follow the French two-stage placement plan: pedagogical examination first, then mental tests for equal mental retardation](../strategies/binet-simon-special-class-placement-plan.md)
 
 ## Key Sources
 - Zimmerman, B. J., & Schunk, D. H. (Eds.). (2003). *Educational psychology: A century of contributions*. Erlbaum.

@@ -51,3 +51,4 @@ Longitudinal measurement invariance testing (configural, metric, and scalar inva
 - [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](trust-intrinsic-motivation-rose-across-waves-invariance-held.md) — related
 - Student attitudes showed little change over a Peer Instruction semester, and course satisfaction dropped in the algebra-based course despite high learning gains — related
 - [The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls](same-cognitive-processes-arithmetic-fr-td.md) — related
+- [Profile structures and transitions over time largely align with common descriptions of interest development](profile-transitions-align-interest-development-theory.md) — related

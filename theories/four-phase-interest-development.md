@@ -12,7 +12,7 @@ generated:
 # Four-Phase Model of Interest Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (7 for, 6 mixed, 1 against) · 16 studies (10 causal, 2 associational, 2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q3` · 6 of 16 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (8 for, 6 mixed, 1 against) · 17 studies (10 causal, 3 associational, 2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q3` · 6 of 17 report an effect size · 14 claims rest on one study
 
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies ([Hidi & Renninger, 2006](https://doi.org/10.1207/s15326985ep4102_4); Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.
@@ -67,6 +67,7 @@ The model is widely cited but only partially validated: it has received limited 
 - [Situational and individual interest can be interpreted as phases of the same reward-learning knowledge-acquisition process](../claims/situational-individual-interest-reward-learning-phases.md) [+W]
 - [Trait-level constructs such as novelty seeking, need for cognition, and vocational interests can be modeled as generalized reward values of knowledge formed through reward-learning generalization](../claims/trait-curiosity-generalized-reward-value.md) [~W]
 - [Interest in specific tasks (Task3, Task5, Task6) strongly predicted Course interest, and Task3 and Task5 also directly predicted Domain interest.](../claims/task-interest-predicts-course-and-domain-interest.md) [+W] — attached 2026-10-22 from Fryer et al. (2021), which proposed "Task-Course-Domain refocusing of the Four Phase Model of interest development for university courses".
+- [Profile structures and transitions over time largely align with common descriptions of interest development](../claims/profile-transitions-align-interest-development-theory.md) [+W]
 
 ## Related Theories
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Attention category operationalizes the triggering and maintaining of situational interest as design tactics

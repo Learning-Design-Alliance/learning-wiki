@@ -13,7 +13,7 @@ generated:
 # Self Affirmation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (6 for, 7 mixed) · 15 studies (6 causal, 3 design, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 15 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (6 for, 8 mixed) · 16 studies (7 causal, 3 design, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 16 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,10 @@ For example, a first-year engineering student from a group under-represented in 
 The expectation should weaken further if more large, preregistered replications with threatened groups find effects near zero, as the one recorded here did; the page would then treat values affirmation as an option without expected benefit and keep only the environment-side steps. It should narrow if effects appear only under conditions that can be named in advance (a particular threat level, timing, or school climate), which the recorded replication looked for and did not find. If repeated administrations do better than one, step 6 becomes a requirement; if they dilute the effect, it should be dropped. If the 7–9-year benefits reported second-hand are confirmed in their sources with effect sizes, the case for early administration strengthens. Do not protect the model by calling every null result "the learners were not under threat" after the fact: decide who is expected to be under threat before the course starts.
 
 Grades in the targeted course, overall GPA, persistence, test anxiety and long-term attainment are separate outcomes; evidence for one is not evidence for the others.
+
+## Claims
+
+- [Timing of a single UV essay is moderated by prior performance: early UV essays help low performers, late UV essays help high performers](../claims/uv-timing-moderated-by-prior-gpa.md) [~W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — low-stakes affective touchpoints that, like affirmation, surface and regulate learner emotional states before demanding tasks

@@ -49,3 +49,4 @@ This is the editor's forward-looking prediction (type e), offered with no eviden
 - [The reviewed tests-and-scales book describes a third stage in which standardized tests are used for diagnosis of individual pupils and for testing the efficiency of teaching methods](standardized-tests-third-stage-diagnosis.md) — related
 - [Goddard's book endorses educational and vocational placement by tested intelligence levels, predicting increased efficiency and reduced delinquency](goddard-placement-by-intelligence-levels.md) — related
 - [The reviewer finds the tests-and-scales book's intelligence-measurement chapter useful but its least satisfactory part, criticizing the Stanford-Binet treatment and the omission of the National Tests](intelligence-chapter-least-satisfactory.md) — related
+- [Binet's norms were worked out for Paris working-class children and may need revision for other social classes and regions](binet-norms-paris-working-class-need-revision.md) — related

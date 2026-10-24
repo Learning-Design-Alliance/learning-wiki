@@ -9,10 +9,10 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 sources:
-  - id: w-h-winch-1910
-    resource: "https://books.google.com"
-    title: "W. H. Winch. (1910). Mental Fatigue in Day School Children as Measured by Immediate Memory. Part I. The Journal of Educational Psychology. https://books.google.com"
-    author: W. H. Winch
+  - id: winch-1912
+    resource: "https://doi.org/10.1037/h0070728"
+    title: "Winch, W. H. (1912). Mental fatigue in day school children as measured by immediate memory: Part I. *Journal of Educational Psychology, 3*(1), 18–28. [doi:10.1037/h0070728](https://doi.org/10.1037/h0070728)"
+    author: Winch, W. H.
     q: 2
     i: "?"
     kind: causal
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i?` The morning group improved on its preliminary record by 6.2, 11.3 and 14.9 per cent over three weeks, while the afternoon group improved 2.2, 4.4 and 9.6 per cent. [→ W. H. Winch 1910](#w-h-winch-1910)
+`q2 i?` The morning group improved on its preliminary record by 6.2, 11.3 and 14.9 per cent over three weeks, while the afternoon group improved 2.2, 4.4 and 9.6 per cent. [→ Winch 1912](#winch-1912)
 
 ## Evidence
 
-### W. H. Winch 1910
+### Winch 1912
 
-W. H. Winch. (1910). Mental Fatigue in Day School Children as Measured by Immediate Memory. Part I. The Journal of Educational Psychology. https://books.google.com
+Winch, W. H. (1912). Mental fatigue in day school children as measured by immediate memory: Part I. *Journal of Educational Psychology, 3*(1), 18–28. [doi:10.1037/h0070728](https://doi.org/10.1037/h0070728)
 
 `q2 · i?` · `causal · r1`
 
@@ -48,6 +48,7 @@ Gross weekly comparison of Groups A (morning) and B (afternoon) from Table II. I
 - [In a London boys' school class, the group working problematic arithmetic later in the morning improved about 5 per cent more than the group working it early](later-morning-group-improves-more-boys-school.md) — related
 - [In a London girls' school class, the group working problematic arithmetic later in the morning improved about 5 or 6 per cent more than the early group](later-morning-group-improves-more-girls-school.md) — related
 - [Exception: the top section of afternoon workers did better work than the corresponding morning section](top-section-afternoon-superiority.md) — reports the opposite
-- [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
+- [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](steady-practice-before-fatigue-tests.md) — related
 - [A letter-cancellation practice group outperformed a control group in the first parts-of-speech test period](kline-practice-group-superior-first-period.md) — related
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — a broader claim this one bears on
+- [During the final fatigue test, time per problem rose gradually, then markedly, with no obvious correlation between time and accuracy](fatigue-time-rise-no-accuracy-correlation.md) — related

@@ -66,3 +66,4 @@ The article's summary states the scale measured intelligence development from se
 - [The personal equation of the experimenters never amounted to more than one-third of the average mean variation, too small to be considered significant](binet-simon-examiner-bias-negligible.md) — related
 - [Exceptional Binet-Simon test outcomes were rare (4 per cent) and mostly attributable to error in adult judgments rather than the scale](binet-simon-exceptional-cases-4-percent.md) — related
 - [The twelve-year tests of the Binet-Simon scale were unsatisfactory, with several individual tests too difficult for the children tested](binet-simon-twelve-year-tests-unsatisfactory.md) — related
+- [Psychology has helped develop methods for determining school-system efficiency, including pedagogical retardation statistics and measurement scales](retardation-statistics-and-scales-school-efficiency.md) — related

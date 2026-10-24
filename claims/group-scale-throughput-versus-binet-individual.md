@@ -49,3 +49,4 @@ The editorial contrasts the Binet scale, whose per-pupil individual examination 
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](nrc-tests-predicted-routine-school-intelligence-testing.md) — related
 - [The NRC committee trialed some twenty tests on five thousand children and produced two series of group intelligence tests of high reliability](nrc-group-tests-tried-5000-children-two-series.md) — related
 - [The reviewed tests-and-scales book describes a third stage in which standardized tests are used for diagnosis of individual pupils and for testing the efficiency of teaching methods](standardized-tests-third-stage-diagnosis.md) — related
+- [Binet's norms were worked out for Paris working-class children and may need revision for other social classes and regions](binet-norms-paris-working-class-need-revision.md) — related

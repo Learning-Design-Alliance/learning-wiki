@@ -85,3 +85,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Single-sex math classrooms raised female students' math performance by 7–10% over co-educational programs](single-sex-classrooms-raise-female-math-performance.md) — related
 - [Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores](late-arriving-els-strong-gpas-low-sat.md) — related
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — related
+- [Women were less accurate than men on the opposites tests but were less mature and less advanced in scholarship](sex-differences-opposites-accuracy.md) — related

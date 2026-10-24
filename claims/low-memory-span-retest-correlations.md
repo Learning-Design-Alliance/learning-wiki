@@ -47,7 +47,8 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [Individual children's memory span scores vary considerably between two testings five weeks apart](memory-span-individual-scores-vary-five-weeks.md) — related
 - [Group average memory span scores remain nearly identical across days while individual scores vary considerably](group-averages-stable-individuals-vary.md) — related
 - [The digit series used was too short, with 73 of 970 trials reaching the maximum score of ten](memory-span-ceiling-ten-digits.md) — related
-- [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
+- [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](steady-practice-before-fatigue-tests.md) — related
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](pupils-improve-with-practice-no-fatigue-effect.md) — related
 - [The digit memory-span increases with age rather than with grade-promotion measures of intelligence, reaching a limit of six digits for most grammar and high school pupils](memory-span-increases-with-age-not-intelligence.md) — related
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — reports the opposite
+- [During the final fatigue test, time per problem rose gradually, then markedly, with no obvious correlation between time and accuracy](fatigue-time-rise-no-accuracy-correlation.md) — related

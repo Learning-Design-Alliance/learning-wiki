@@ -45,4 +45,4 @@ Same-pupil administration of two parallel forms in a small city system; 103 pair
 ## Related Claims
 - [Percentage of pupils making each error runs surprisingly close across the three test forms](wilson-error-percentages-close-across-forms.md) — related
 - [The three Wilson Language Error Tests (A, B, and C) approach equality across grades III to XII](wilson-language-error-tests-equal-value.md) — a broader claim this one bears on
-- [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
+- [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](steady-practice-before-fatigue-tests.md) — related

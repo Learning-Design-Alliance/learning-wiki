@@ -49,3 +49,4 @@ In the RCT (N = 590), regression within a path-modeling framework tested five or
 - [In replication analyses, the variety conditions were particularly beneficial for students with low prior GPAs, while the same-type-only conditions had negligible effect sizes](uv-variety-benefits-low-prior-gpa.md) — related
 - [UV writing assignments showed more personal focus, more social and cognitive process content, and higher articulated utility value than control summary assignments](uv-writing-style-content-versus-control.md) — related
 - [Choice increased task engagement and end-of-semester interest, and task engagement mediated the effect of choice on course performance](uv-choice-engagement-mediation.md) — related
+- [A utility-value writing intervention increases course grades in introductory biology relative to a summarizing control](uv-intervention-increases-biology-grades.md) — related

@@ -9,10 +9,10 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 sources:
-  - id: w-h-winch-1910
-    resource: "https://books.google.com"
-    title: "W. H. Winch. (1910). Mental Fatigue in Day School Children as Measured by Immediate Memory. Part I. The Journal of Educational Psychology. https://books.google.com"
-    author: W. H. Winch
+  - id: winch-1912
+    resource: "https://doi.org/10.1037/h0070728"
+    title: "Winch, W. H. (1912). Mental fatigue in day school children as measured by immediate memory: Part I. *Journal of Educational Psychology, 3*(1), 18–28. [doi:10.1037/h0070728](https://doi.org/10.1037/h0070728)"
+    author: Winch, W. H.
     q: 2
     i: "?"
     kind: causal
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` The morning group improved 10.7 per cent from preliminary to final tests while the afternoon group improved 5.0 per cent, a difference the author takes as a fatigue effect of between 5 and 6 per cent. [→ W. H. Winch 1910](#w-h-winch-1910)
+`q2 i?` The morning group improved 10.7 per cent from preliminary to final tests while the afternoon group improved 5.0 per cent, a difference the author takes as a fatigue effect of between 5 and 6 per cent. [→ Winch 1912](#winch-1912)
 
 ## Evidence
 
-### W. H. Winch 1910
+### Winch 1912
 
-W. H. Winch. (1910). Mental Fatigue in Day School Children as Measured by Immediate Memory. Part I. The Journal of Educational Psychology. https://books.google.com
+Winch, W. H. (1912). Mental fatigue in day school children as measured by immediate memory: Part I. *Journal of Educational Psychology, 3*(1), 18–28. [doi:10.1037/h0070728](https://doi.org/10.1037/h0070728)
 
 `q2 · i?` · `causal · r2`
 
@@ -47,5 +47,6 @@ Controlled two-group comparison after equal practice: two initially equal groups
 - [Improvement by practice continues in both morning and afternoon groups, but the morning group improves faster across weeks](practice-continues-faster-mornings.md) — related
 - [Exception: the top section of afternoon workers did better work than the corresponding morning section](top-section-afternoon-superiority.md) — related
 - [In a London boys' school class, the group working problematic arithmetic later in the morning improved about 5 per cent more than the group working it early](later-morning-group-improves-more-boys-school.md) — related
-- [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
+- [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](steady-practice-before-fatigue-tests.md) — related
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — a broader claim this one bears on
+- [During the final fatigue test, time per problem rose gradually, then markedly, with no obvious correlation between time and accuracy](fatigue-time-rise-no-accuracy-correlation.md) — related

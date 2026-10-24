@@ -9,10 +9,10 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 sources:
-  - id: w-h-winch-1910
-    resource: "https://books.google.com"
-    title: "W. H. Winch. (1910). Mental Fatigue in Day School Children as Measured by Immediate Memory. Part I. The Journal of Educational Psychology. https://books.google.com"
-    author: W. H. Winch
+  - id: winch-1912
+    resource: "https://doi.org/10.1037/h0070728"
+    title: "Winch, W. H. (1912). Mental fatigue in day school children as measured by immediate memory: Part I. *Journal of Educational Psychology, 3*(1), 18–28. [doi:10.1037/h0070728](https://doi.org/10.1037/h0070728)"
+    author: Winch, W. H.
     q: 2
     i: "?"
     kind: causal
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i?` One pupil in the morning group and six pupils in the afternoon group ceased to improve, oscillated, and tended on the whole downwards; with about one-third of Group B the late-afternoon work was futile. [→ W. H. Winch 1910](#w-h-winch-1910)
+`q2 i?` One pupil in the morning group and six pupils in the afternoon group ceased to improve, oscillated, and tended on the whole downwards; with about one-third of Group B the late-afternoon work was futile. [→ Winch 1912](#winch-1912)
 
 ## Evidence
 
-### W. H. Winch 1910
+### Winch 1912
 
-W. H. Winch. (1910). Mental Fatigue in Day School Children as Measured by Immediate Memory. Part I. The Journal of Educational Psychology. https://books.google.com
+Winch, W. H. (1912). Mental fatigue in day school children as measured by immediate memory: Part I. *Journal of Educational Psychology, 3*(1), 18–28. [doi:10.1037/h0070728](https://doi.org/10.1037/h0070728)
 
 `q2 · i?` · `causal · r1`
 

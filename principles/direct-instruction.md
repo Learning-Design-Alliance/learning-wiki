@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (15 for, 16 mixed, 4 against) · 42 studies (13 causal, 12 quant-synthesis, 8 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 42 report an effect size · 27 claims rest on one study
+> **Evidence** · 36 claims (16 for, 16 mixed, 4 against) · 43 studies (14 causal, 12 quant-synthesis, 8 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 43 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -88,6 +88,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [~M] — novices often learn initial routines more effectively from modeled examples followed by closely related practice; not yet checked against its sources
 - [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](../claims/minimally-guided-instruction-less-effective-than-strong-guidance.md) [+W] — attached 2026-10-13 from Kirschner et al. (2006), which proposed "Design instruction with a strong emphasis on guidance of the student learning process, especially for novices"; tests this page's relationship.
 - [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](../claims/guidance-advantage-recedes-with-high-prior-knowledge.md) [+W] — attached 2026-10-13 from Kirschner et al. (2006), which proposed "Design instruction with a strong emphasis on guidance of the student learning process, especially for novices"; tests this page's relationship.
+- [The superiority of the combined directed method held across all ability levels, with the advantage present in every section of a grouped correlation table](../claims/spelling-method-advantage-across-ability-levels.md) [+W] — attached 2026-10-24 from Winch (1913), which proposed "Direct teacher attention during spelling practice, guiding learners letter by letter with combined sensory channels, benefits young children learning to spell".
 
 ## Objective and learner-valued goal
 
