@@ -50,3 +50,5 @@ Randomized experiment with 48 first-year medical students assigned to discuss ei
 - [Providing explanations during a small-group discussion yields better recall of subsequently studied text one month later than only listening to the discussion](explaining-during-discussion-improves-delayed-recall.md) — related
 - [Cook et al. (2009) found no support for sensing/intuitive style-by-sequence interaction in medical education](cook-medical-education-no-style-interaction.md) — related
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — reports the opposite
+- [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](problem-analysis-facilitates-text-recall.md) — related
+- [Problem analysis through small-group discussion particularly stimulates the production of explanatory propositions, via a significant treatment-by-proposition-type interaction](problem-analysis-favors-explanatory-propositions.md) — a narrower finding that bears on this claim

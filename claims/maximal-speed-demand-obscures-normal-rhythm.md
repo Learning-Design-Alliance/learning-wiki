@@ -45,3 +45,4 @@ The review reports Yoakum's methodological criticism of prior fatigue research, 
 ## Related Claims
 - [In Yoakum's pattern-tapping study, errors tended to appear in groups whose number, spacing, size, and place depended on the subject's initial physiological condition](tapping-errors-group-by-physiological-condition.md) — related
 - [Efficiency in the work curve is conditioned by factors beyond fatigue proper: practice, adaptation, preparedness, warming up, spurts, voluntary effort, ennui, and diurnal rhythms (Offner)](work-curve-factors-beyond-fatigue.md) — related
+- [Emotions aroused by pictures and literature are aesthetic 'pseudo-emotions' that differ from real emotions and are less fatiguing](pseudo-emotion-aesthetic-less-fatiguing.md) — related

@@ -51,3 +51,4 @@ Qualitative synthesis of active verbal cueing excerpts in the review's results. 
 - [Active verbal cues from experts most often prompt nonverbal action from novices, often preceding explanatory information](verbal-cues-prompt-nonverbal-action.md) — related
 - [Experts scaffold by reassuring novices to continue acting or thinking, removing uncertainty about whether they chose the right action](reassurance-cues-sustain-novice-continuation.md) — related
 - [Combined verbal and nonverbal cueing most often draws attention to landmarks and clarifies tool use](combined-cueing-landmarks-and-tools.md) — related
+- [Students incorrectly considered partially hinting images helpful](students-misjudge-hint-images-as-helpful.md) — related

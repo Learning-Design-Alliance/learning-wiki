@@ -49,3 +49,4 @@ The handbook's overview passage makes this claim about the field itself: it stat
 - [Research suggests that using culturally responsive and sustaining education practices in mathematics can enhance learning and academic success](crse-math-enhances-learning-and-success.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — a narrower finding that bears on this claim
 - [In research-intensive managerial cultures, teaching and students have been comparatively neglected in favour of research and writing](teaching-devalued-in-research-intensive-cultures.md) — related
+- [Schools have historically neglected the education of the emotions for three stated reasons](schools-neglect-emotions-three-reasons.md) — related

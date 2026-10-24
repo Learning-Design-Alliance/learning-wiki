@@ -70,3 +70,4 @@ Fall counts from self-reported fall calendars over 24 weeks compared by Poisson 
 - [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — related
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related
 - [Exergaming fosters small but significant improvements in quality of life for people living with chronic diseases, and structured programs associate with executive functioning gains](exergaming-quality-of-life-executive-gains.md) — related
+- [Bodily health and activity make for a normal and happy emotional life, supported by serviceable physical outlets](physical-outlets-emotional-hygiene.md) — related

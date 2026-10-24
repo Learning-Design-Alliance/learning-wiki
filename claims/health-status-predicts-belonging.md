@@ -52,3 +52,4 @@ Linear regression modeling with design-based Wave I Add Health data (Table 3 rep
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](belonging-task-relevance-mindset-predict-self-efficacy.md) — related
 - [Students with chronic medical conditions are less likely to complete high school on time than their healthy peers](chronic-conditions-lower-ontime-graduation.md) — related
 - [Demographics predict school belonging: girls, urban youth, immigrants, and high-SES youth report higher belonging, while achievement is trivially related](demographic-predictors-of-school-belonging.md) — related
+- [Bodily health and activity make for a normal and happy emotional life, supported by serviceable physical outlets](physical-outlets-emotional-hygiene.md) — related

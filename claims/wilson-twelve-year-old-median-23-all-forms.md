@@ -46,3 +46,4 @@ Age-based re-analysis of the combined Sioux City and Duluth distributions: the s
 - [Percentage of pupils making each error runs surprisingly close across the three test forms](wilson-error-percentages-close-across-forms.md) — a broader claim this one bears on
 - [The three Wilson Language Error Tests (A, B, and C) approach equality across grades III to XII](wilson-language-error-tests-equal-value.md) — a broader claim this one bears on
 - [The twelve-year tests of the Binet-Simon scale were unsatisfactory, with several individual tests too difficult for the children tested](binet-simon-twelve-year-tests-unsatisfactory.md) — related
+- [Schuyten argues experimental study of children should be the basis for pupil classification that removes causes of inattention](schuyten-experimental-study-pupil-classification.md) — related

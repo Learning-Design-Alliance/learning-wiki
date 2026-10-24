@@ -97,3 +97,4 @@ The canonical paradigm (Pennebaker's expressive writing paradigm) asks participa
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related
 - [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](social-belonging-intervention-improves-outcomes-but-misuse-risk.md) — related
+- [Bodily health and activity make for a normal and happy emotional life, supported by serviceable physical outlets](physical-outlets-emotional-hygiene.md) — related

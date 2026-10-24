@@ -45,3 +45,4 @@ Correlational analysis of interrelations among the six strategies in Study 1 (35
 ## Related Claims
 - [The six achievement emotion regulation strategies are empirically separable constructs, and corresponding strategies across emotions are sufficiently distinct to warrant emotion-specific measures](raeq-strategies-separable-emotion-specific-constructs.md) — related
 - [University students report using all six regulation strategies, with reappraisal and competence development most common and situation selection least common](strategy-use-frequency-reappraisal-competence-most-common.md) — related
+- [Direct repression subdues outward emotional expression but is incomplete as a means of control and may damage the child](direct-repression-incomplete-emotional-control.md) — related

@@ -13,7 +13,7 @@ generated:
 # Knowledge-Building Discourse
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (13 for, 2 mixed, 3 against) · 21 studies (7 causal, 4 quant-synthesis, 4 associational, 3 qualitative, 2 review, 1 theoretical), `q1`–`q4` · 3 of 21 report an effect size · 15 claims rest on one study
+> **Evidence** · 19 claims (13 for, 3 mixed, 3 against) · 22 studies (8 causal, 4 quant-synthesis, 4 associational, 3 qualitative, 2 review, 1 theoretical), `q1`–`q4` · 4 of 22 report an effect size · 16 claims rest on one study
 
 ## Description
 Knowledge-building discourse is structured, sustained discussion in which learners collectively work to improve ideas rather than merely exchange opinions. Talk is treated as a medium for advancing community understanding — questioning, elaborating, and revising explanations — in the tradition of Scardamalia and Bereiter's knowledge-building pedagogy.
@@ -66,6 +66,7 @@ Structured discourse deepens conceptual understanding because articulating and d
 - [Cross-class super notes in Knowledge Forum prompt rise-above syntheses and serve as an epistemic ladder supporting deeper understanding](../claims/super-notes-epistemic-ladder-cross-class-knowledge-building.md) [+W]
 - [The more skilled adult partners displayed skilled counterargument, evidence use, frequent questioning, and meta-talk about the discourse](../claims/skilled-partner-discourse-moves.md) [+W]
 - [At the discourse-act level, notes expressing uncertainty are associated with more follow-up and notes open on community orientation with less, and notes lacking building-knowledge openness receive less follow-up](../claims/uncertainty-discourse-act-more-followup.md) [~W]
+- [Support for mathematical discourse was increased by the intervention but was not significantly associated with post-treatment mathematics achievement for either group](../claims/mathematical-discourse-null-achievement-association.md) [~W]
 
 ## The evidence by question
 

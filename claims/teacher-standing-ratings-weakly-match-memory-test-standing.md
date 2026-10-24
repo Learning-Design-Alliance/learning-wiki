@@ -45,3 +45,4 @@ Teachers in the Oxford and Freeland Street Schools and Worcester high schools ra
 ## Related Claims
 - [Inversion of digit order is the most frequent recall error, at 53 per cent of errors, followed by substitution at 31 per cent and over- or under-estimation of digit number at 15 per cent](digit-error-types-inversion-most-frequent.md) — related
 - [The digit memory-span increases with age rather than with grade-promotion measures of intelligence, reaching a limit of six digits for most grammar and high school pupils](memory-span-increases-with-age-not-intelligence.md) — related
+- [Schuyten argues experimental study of children should be the basis for pupil classification that removes causes of inattention](schuyten-experimental-study-pupil-classification.md) — related

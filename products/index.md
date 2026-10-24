@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1880 entries** · 0 stable · 1880 in review · 0 drafts
+**1883 entries** · 0 stable · 1883 in review · 0 drafts
 
 ---
 
@@ -268,6 +268,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [CocoFlow](cocoflow.md) - CocoFlow is an AI agent builder platform developed by COCOROBO Limited that enables teachers to create subject-specific pedagogical agents through prompt engineering, uploaded knowledge bases, and visual workflow design.
 * [CODE-GEN](code-gen.md) - CODE-GEN is a retrieval-augmented, dual-agent educational AI system developed by Xiaojing Duan et al.
 * [CodeCarbon](codecarbon.md) - CodeCarbon is an open-source Python package developed by Mila and collaborators that estimates the carbon emissions of local computing workloads from hardware power use and electricity-grid carbon intensity.
+* [COEMET — Classroom Observation of Early Mathematics Environment and Teaching](coemet-classroom-observation-of-early-mathematics-environment-and-teaching.md) - A live classroom-observation instrument developed by Schenke et al.
 * [CogEvol-4B open-weight model release with GGUF build and MAIC-UI editing harness](cogevol-4b-open-weight-model-release-with-gguf-build-and-maic-ui-editing-harness.md) - CogEvol-4B is an Apache 2.0-licensed open-weight model and deployment package from the CogEvol Team for generating presentation slides and interactive HTML courseware, including an on-device GGUF build and MAIC-UI editing harness.
 * [CogMath-948](cogmath-948.md) - CogMath-948 is a dataset constructed by Wei Zhang et al.
 * [Cognitive Flexibility Scale](cognitive-flexibility-scale.md) - A 19-item adjective-pair self-report assessment developed by Bilgin to measure individuals' cognitive flexibility.
@@ -1302,6 +1303,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Pre-K to Kindergarten Transitions Project (PKTP)](pre-k-to-kindergarten-transitions-project-pktp.md) - A BPI-staffed community-wide programme in Chicago's Altgeld-Riverdale neighborhood that coordinates cross-grade teacher learning, shared pre-K–kindergarten classroom practices, and family learning activities to support educational transitions.
 * [Preprocessed English subset of the MARS dataset for multimodal teaching resource recommendation](preprocessed-english-subset-of-the-mars-dataset-for-multimodal-teaching-resource-recommend.md) - A preprocessed English-language subset of the MARS multimodal teaching-resource dataset, containing resource metadata and learner interaction logs for evaluating personalized recommendation models.
 * [Preschool PATHS® Curriculum](preschool-paths-curriculum.md) - A social-emotional learning curriculum used within the REDI programme to develop preschoolers’ self-regulation, self-awareness, social problem-solving, and emotional control.
+* [Pressey's new silent-reading test](presseys-new-silent-reading-test.md) - A silent-reading assessment devised by S.
 * [Prevention and Get Fit](prevention-and-get-fit.md) - A school-based obesity-prevention programme combining universal nutrition and physical-activity activities with the targeted 12-week Get Fit intervention for students needing additional support.
 * [Principal Supervisor Initiative (PSI)](principal-supervisor-initiative-psi.md) - A Wallace Foundation–launched initiative that supported six urban school districts in redefining principal supervision around developing principals as instructional leaders.
 * [Principal time-use log dataset from approximately 100 elementary schools in eight districts](principal-time-use-log-dataset-from-approximately-100-elementary-schools-in-eight-district.md) - A research dataset collected by Matthew Johnson and colleagues from approximately 100 elementary schools across eight districts to document how principals allocate their work time.
@@ -1745,6 +1747,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The Region 15 FACE Collaborative](the-region-15-face-collaborative.md) - A Region 15 Comprehensive Center initiative that convenes state education agency family and community engagement leaders across Arizona, California, Nevada, and Utah to share practices, learn from experts, and develop state-level projects.
 * [The River conceptual model](the-river-conceptual-model.md) - A Flash-based interactive geography learning object developed by Daniel Churchill that lets secondary students manipulate river parameters, calculate discharge, and visualize river-flow relationships across handheld and other presentation devices.
 * [The Scaffolded AI Literacy (SAIL) framework](the-scaffolded-ai-literacy-sail-framework.md) - A Delphi-developed framework by MacCallum et al.
+* [The Scholastic Quotient (S. Q.)](the-scholastic-quotient-s-q.md) - A historical scholastic-ranking assessment formula devised by Cummins that weights pupils' A–D marks from school records to estimate and classify scholastic standing.
 * [the Toolkit](the-toolkit.md) - The Toolkit is a four-part framework created by its authors to help teachers plan, implement, and evaluate technology-based lessons.
 * [The Writing Road to Reading](the-writing-road-to-reading.md) - Spalding's The Writing Road to Reading is a comprehensive K–6 speech-to-print literacy curriculum developed and provided by Spalding Education International, integrating explicit instruction in phonemic awareness, phonics, spelling, writing, and reading comprehension.
 * [Thermos](thermos.md) - Thermos is a student-facing learning analytics dashboard developed to visualize motivation, engagement, group-work skills, and study progress while offering actionable self-regulation support and connection suggestions.

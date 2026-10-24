@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (85 show a difference, 24 mixed, 17 no difference) · 73 studies (26 causal, 21 associational, 10 quant-synthesis, 9 review, 4 theoretical, 3 design), `q1`–`q4` · 27 of 73 report an effect size · 121 claims rest on one study
+> **Evidence** · 129 claims (88 show a difference, 24 mixed, 17 no difference) · 74 studies (27 causal, 21 associational, 10 quant-synthesis, 9 review, 4 theoretical, 3 design), `q1`–`q4` · 27 of 74 report an effect size · 124 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -164,6 +164,9 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Reading comprehension is differentially correlated with the three dimensions of written composition in Grade 2: moderate relations with quality and correctness but weak relations with productivity](../claims/reading-comprehension-differential-correlations-writing-dimensions.md) [~M] — learners who differ on it differ in outcomes
 - [Reading comprehension is hypothesized and tested as a component skill of writing, with reading-to-writing directionality supported by prior longitudinal evidence](../claims/reading-comprehension-component-skill-of-writing.md) [+M] — learners who differ on it differ in outcomes
 - [Total effects of oral language, cognition, transcription, and reading comprehension vary largely across the three dimensions of written composition](../claims/total-effects-vary-writing-dimensions.md) [+M] — learners who differ on it differ in outcomes
+- [Better adult writers show slightly greater temporal regularity in handwriting strokes, with the total stroke period showing the least variability](../claims/better-writers-more-temporally-regular-total-stroke-least-variability.md) [+M] — learners who differ on it differ in outcomes
+- [Following a slow rhythmic beat while writing words slows habituated writers and produces speed uncertainties that harm form quality](../claims/imposed-beat-slows-word-writing-harms-quality.md) [+M] — an instructional effect differs with it
+- [In good adult writers, maximum speed within an arc rises with radial length (Spearman rank correlation 0.96 across 33 segments), approaching a fixed limit; poorer writers and children show much lower correlation](../claims/radial-length-speed-correlation-good-writers.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

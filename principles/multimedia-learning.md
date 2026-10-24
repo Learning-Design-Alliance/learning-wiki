@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 81 claims (33 for, 45 mixed, 3 against) · 63 studies (26 causal, 14 review, 13 quant-synthesis, 4 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 18 of 63 report an effect size · 72 claims rest on one study
+> **Evidence** · 83 claims (33 for, 47 mixed, 3 against) · 64 studies (27 causal, 14 review, 13 quant-synthesis, 4 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 18 of 64 report an effect size · 74 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,8 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
 - [Fifth and sixth graders showed higher delayed retention and lower cognitive load when learning science from videos than from illustrated texts](../claims/video-better-retention-lower-load-classroom.md) [~W]
 - [Exploratory analyses found videos more beneficial for retention among boys than girls and among fifth graders more than sixth graders](../claims/modality-gender-grade-interactions.md) [~W]
+- [Students recognized the harm of answer-revealing images only when images clearly revealed the answer](../claims/students-recognize-harm-only-when-images-reveal-answer.md) [~W]
+- [Students consistently overestimated how much they learned with answer-revealing images](../claims/overestimating-learning-with-answer-revealing-images.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

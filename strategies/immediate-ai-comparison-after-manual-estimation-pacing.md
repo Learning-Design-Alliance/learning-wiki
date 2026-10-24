@@ -41,6 +41,7 @@ For replication of the lesson design, the article recommends that "Within a stan
 - Compound Line Graph Ai Integration Lesson
 - [Time Management In Instruction](time-management-in-instruction.md)
 - [Timers and Pacing](timers_and_pacing.md)
+- [Correlate mathematical and scientific studies through manual activities as a plan for lesson concentration](schrag-concentration-manual-activities.md)
 
 ## Examples
 -

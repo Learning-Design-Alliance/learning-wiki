@@ -94,3 +94,4 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [Feedback likely supported both consolidation and rule induction in the observed retrieval practice benefits](feedback-role-in-retrieval-practice-benefits.md) — related
+- [Images that reveal the answer reduce recall compared with images appearing after the retrieval attempt](answer-revealing-images-worse-than-post-retrieval-images.md) — a narrower finding that bears on this claim

@@ -55,9 +55,11 @@ Pre-reading purpose questions function as a form of [Activation](../principles/a
 5. Debrief whole-class, resolving discrepancies between answers and pressing for textual evidence
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the broader family; purpose questions are one enactment of it
 - [Think-Aloud Modeling](think-aloud-modeling.md) — complements purpose-setting by modeling *how* to monitor comprehension against a purpose
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — extends purpose-setting into learner-led questioning
+- [Use small-group discussion of a phenomenon-describing problem before text study to bridge prior knowledge and new information](small-group-problem-discussion-before-text.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — a related pre-reading structure that frames rather than questions

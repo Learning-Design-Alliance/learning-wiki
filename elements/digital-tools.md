@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (22 for, 19 mixed) · 40 studies (10 associational, 9 review, 6 theoretical, 4 causal, 4 quant-synthesis, 4 design, 3 qualitative), `q1`–`q4` · 5 of 40 report an effect size · 40 claims rest on one study
+> **Evidence** · 43 claims (22 for, 19 mixed, 2 against) · 41 studies (10 associational, 9 review, 6 theoretical, 5 quant-synthesis, 4 causal, 4 design, 3 qualitative), `q1`–`q4` · 6 of 41 report an effect size · 42 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -76,6 +76,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](../claims/weak-year-usage-frequency-association.md) [~W]
 - [Educational technology interventions show positive effects on reading comprehension in elementary school](../claims/edtech-positive-effects-reading-comprehension.md) [+W]
 - [Synchronous and asynchronous communication technologies are commonly employed to support communication between students, industry partners and teaching staff during WIL](../claims/communication-technologies-support-wil.md) [+W]
+- [Reading comprehension is slightly worse on handheld devices than in print in between-participants studies (g = -.113)](../claims/handheld-print-gap-between-participants-meta-analysis.md) [-W]
+- [Classroom tablet use is negatively associated with reading comprehension achievement in PISA 2018 data](../claims/pisa-2018-tablet-use-negative-reading-association.md) [-W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

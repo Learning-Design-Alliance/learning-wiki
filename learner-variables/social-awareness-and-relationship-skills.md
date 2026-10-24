@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 111 claims (76 show a difference, 25 mixed, 10 no difference) · 81 studies (24 review, 20 associational, 13 quant-synthesis, 12 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 22 of 81 report an effect size · 107 claims rest on one study
+> **Evidence** · 112 claims (77 show a difference, 25 mixed, 10 no difference) · 82 studies (24 review, 20 associational, 13 causal, 13 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 23 of 82 report an effect size · 108 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -152,6 +152,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The social perspective taking induction increased treatment teachers' effort to understand their focal students (Cohen's d = 0.51)](../claims/spt-induction-raises-teacher-effort.md) [+M] — instruction changes it
 - [Higher order cognitive skills (inference, perspective taking, monitoring) are differentially related to writing quality, writing productivity, and correctness in writing in Grade 2](../claims/higher-order-cognitions-differential-writing-dimensions-grade2.md) [~M] — learners who differ on it differ in outcomes
 - [Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)](../claims/inference-conflict-skill-three-way-interaction.md) [~M] — an instructional effect differs with it
+- [Jigsaw classroom curbs the widening gender gap in perceived utility value of social competences, reducing the Time-3 gap by 50% versus business-as-usual and 25% versus resource independence](../claims/jigsaw-curbs-widening-gap-utility-value.md) [+W] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

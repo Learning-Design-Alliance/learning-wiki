@@ -164,3 +164,4 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Feedback likely supported both consolidation and rule induction in the observed retrieval practice benefits](feedback-role-in-retrieval-practice-benefits.md) — a narrower finding that bears on this claim
 - [In applied settings, the beneficial effect of random practice on retention is almost negligible, as the competing meta-analysis itself reports](random-practice-retention-negligible-applied.md) — related
 - [Retrieval practice improves delayed but not immediate performance, consistent with a desirable-difficulties explanation](retrieval-practice-delayed-not-immediate-benefit.md) — related
+- [Images during retrieval practice enhanced feelings of competence but not enjoyment](images-enhance-competence-not-enjoyment.md) — related

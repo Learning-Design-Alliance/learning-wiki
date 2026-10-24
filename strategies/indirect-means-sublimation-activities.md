@@ -47,6 +47,7 @@ Beyond instruction in a narrow sense, the essay recommends filling the adolescen
 ## Related Strategies
 
 - [Outline a half-year 'Social Problems' course distributed in bi-weekly sessions over the four high school years, moving from basic facts to social aspects and eugenics](social-problems-half-year-course-four-years.md)
+- [Arouse desired emotions in pupils through art, literature, history, and imitation of admired models](art-literature-arouse-emotions-associated-ideas.md)
 
 ## Examples
 -

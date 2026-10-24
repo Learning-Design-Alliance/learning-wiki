@@ -50,3 +50,4 @@ Exploratory analysis adding the affect index as a predictor of preferential choi
 - [Older adolescents respond faster when observed by an experimenter than by a friend or when alone, while social condition does not affect younger adolescents' or adults' response times](older-adolescents-faster-rt-experimenter-present.md) — related
 - [Children across three diverse populations expressed more positive emotions during peer collaboration than during individual activity, with the effect strongest among German and weakest among Hai||om children](positive-emotions-during-collaboration-cross-cultural.md) — related
 - [Younger male gamers report more anti-social motivations; pro-social gaming is more prevalent in older gamers](younger-male-gamers-antisocial-motivations.md)
+- [Children's reports of experiences are extremely unreliable, with more misstatements than adults' reports even when no motive to lie exists](children-reports-unreliable-misstatements.md) — related

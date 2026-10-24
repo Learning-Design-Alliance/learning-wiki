@@ -48,3 +48,4 @@ The review attributes this three-part account of small-screen usability limitati
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md) — related
 - [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](hero-elementary-ebooks-not-user-friendly-images-covering-text.md) — related
+- [Reading comprehension is slightly worse on handheld devices than in print in between-participants studies (g = -.113)](handheld-print-gap-between-participants-meta-analysis.md) — related

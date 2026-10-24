@@ -80,11 +80,13 @@ Mentor texts are demonstrations of craft rather than content, and their effectiv
 7. Return to the same mentor across the unit as learners revise ([Practice](../elements/practice.md) with revisiting deepens internalization).
 
 ## Related Strategies
+
 - [Use Worked Examples](worked-examples-first.md) — the problem-solving analogue: a fully worked solution studied before independent attempts
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the method for making the mentor's (and teacher's) craft decisions visible
 - [Contrasting Cases](../elements/comparing-cases.md) — pairing multiple mentors to highlight what varies and what stays constant
 - [Sentence Combining](sentence-combining.md) — a complementary technique for teaching syntactic flexibility through explicit practice
 - [Modeling](modeling.md) — the broader strategy of expert demonstration that mentor texts instantiate for writing
+- [Arouse desired emotions in pupils through art, literature, history, and imitation of admired models](art-literature-arouse-emotions-associated-ideas.md)
 
 ## Examples
 - **Units of Study in Writing (Lucy Calkins, Teachers College Reading & Writing Project)** — workshop curriculum built on reading published authors as mentors, then imitating their moves in student writing (https://www.unitsofstudy.com)
