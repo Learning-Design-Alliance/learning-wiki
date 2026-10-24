@@ -15,12 +15,14 @@ sources:
     author: "Gök, S., Zhang, T., Goldstone, R. L., & Fyfe, E. R."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Multimedia initial instruction, but not multimedia feedback, increases students' spontaneous diagram generation across learning phases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Multimedia instruction increased spontaneous drawings more than text-only instruction across the four experiment phases. [→ Gök 2025](#gok-2025)
@@ -32,7 +34,7 @@ sources:
 
 Gök, S., Zhang, T., Goldstone, R. L., & Fyfe, E. R. (2025). Multimedia Effects in Initial Instruction and Feedback on Problem Solving. Journal of Educational Psychology. https://doi.org/10.1037/edu0000943
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 In a mixed 2x2x4 ANOVA on drawing frequency with phase as repeated factor, the instruction modality by phase interaction was significant, F (3, 375) = 9.79, p < .001, η p² = .07, while the feedback modality by phase interaction was not, F (3, 375) = .83, p = .38, η p² = .01.
 

@@ -15,12 +15,14 @@ sources:
     author: Wheeler, T.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Reading as a pastime peaked at about one-fifth of preferences among thirteen-to-fourteen-year-old girls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Reading reached its maximum popularity, about one-fifth of preferences, among girls aged thirteen to fourteen, and was chosen by very few of the oldest girls. [→ Wheeler 1920](#wheeler-1920)
@@ -31,7 +33,7 @@ sources:
 
 Wheeler, T. (1920). A Study of Certain Recreational Reading and Vocational Phases in the Lives of Young Girls. The Journal of Educational Psychology, Vol. XI, No. 9. https://doi.org/10.1037/h0064614
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive charted summary (Diagram 1) of recreational preferences across the five age groups of the survey. Reading peaked at "about one-fifth" among thirteen-to-fourteen-year-olds, the same age at which sewing and needlework first attracted. No effect size is reported.
 

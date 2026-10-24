@@ -15,12 +15,14 @@ sources:
     author: Pyle, W. H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Completion, word-building, logical memory and controlled association tests are most valuable for separating dull from bright pupils
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among the tests used, completion, word-building, logical memory and controlled association tests most effectively distinguish the good from the poor groups. [→ Pyle 1917](#pyle-1917)
@@ -31,7 +33,7 @@ sources:
 
 Pyle, W. H. (1917). A Psychological Study of Bright and Dull Pupils. The Journal of Educational Psychology. https://psycnet.apa.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 The author's summary judgment across the per-school comparison tables, which report per cent by which good groups excel poor groups on each test. He states the completion, word-building, logical memory and controlled association tests "are evidently most valuable for this purpose."
 

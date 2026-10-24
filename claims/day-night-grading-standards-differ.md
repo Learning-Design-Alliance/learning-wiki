@@ -15,12 +15,14 @@ sources:
     author: J. L. Zerbe
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Day and night course grade distributions differ consistently from year to year, suggesting the two groups should be graded on different standards
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The distributions of grades for day and night courses were closely similar within each group across years but differed between groups, supporting separate standards. [→ J. L. Zerbe 1917](#j-l-zerbe-1917)
@@ -31,7 +33,7 @@ sources:
 
 J. L. Zerbe. (1917). Distribution of Grades. The Journal of Educational Psychology, VIII(10), 575-588. https://doi.org/10.1037/h0074694
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive tabulation separating day and night course grades for 1912-13, 1913-14, and first semester 1914-15. Each group's distribution was stable across years, and the author concludes grading "ought to be based on different standards" for the two groups.
 

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 253 claims (106 for, 131 mixed, 16 against) · 185 studies (66 associational, 45 design, 27 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 185 report an effect size · 247 claims rest on one study
+> **Evidence** · 255 claims (108 for, 131 mixed, 16 against) · 186 studies (67 associational, 45 design, 27 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 186 report an effect size · 249 claims rest on one study
 
 ## Conditional relationship
 
@@ -213,6 +213,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Individual children's memory span scores vary considerably between two testings five weeks apart](../claims/memory-span-individual-scores-vary-five-weeks.md) [+W] — attached 2026-10-23 from Mitchell (1918), which proposed "Do not grade a child's ability from a single examination, since performance varies from day to day"; tests this page's relationship.
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](../claims/low-memory-span-retest-correlations.md) [+W] — attached 2026-10-23 from Mitchell (1918), which proposed "Do not grade a child's ability from a single examination, since performance varies from day to day"; tests this page's relationship.
 - [Judgments of comprehension in oral reading rest on unaided subjective judgment with no guarantee of consistency across times or judges](../claims/oral-reading-judgment-subjective-unreliable.md) [+W] — attached 2026-10-23 from J. C. Bell (1919), which proposed "Pool the ratings of competent judges to build a scale of expression-comprehension in oral reading that steadies individual teachers' judgments".
+- [Stanford Adult test results correlate .44 with college grades when Juniors and Sophomores are re-ranked as one group](../claims/caldwell-1919-iq-grades-correlation-44.md) [+W] — attached 2026-10-24 from Caldwell (1919), which proposed "Use standardized adult intelligence tests to advise college students, but always interpret IQs in light of character study"; tests this page's relationship.
+- [Three Sophomores' discrepant records trace to character factors, including over-rating due to verbal fluency](../claims/caldwell-1919-verbal-fluency-overrating.md) [+W] — attached 2026-10-24 from Caldwell (1919), which proposed "Use standardized adult intelligence tests to advise college students, but always interpret IQs in light of character study".
 
 ## Objective and learner-valued goal
 

@@ -70,3 +70,4 @@ Study 1 easy-part correlation between state boredom and the easy-part test score
 - [The experimental manipulation succeeded: most participants reported overchallenge during difficult tasks and underchallenge during easy tasks](manipulation-check-over-underchallenge-distributions.md) — related
 - [The number of manipulation trials showed little variation across participants and was deliberately not statistically controlled](manipulation-trials-not-controlled-little-variation.md) — related
 - [A single boredom item correlated strongly with the full TBS-S scale in both the easy and difficult test parts](single-item-boredom-part-whole-correlations.md) — related
+- [Residual covariances were specified between specific item pairs in the Study 1 measurement-invariance test of the TBS-S across difficult and easy test parts](tbs-s-residual-covariances-invariance.md) — related

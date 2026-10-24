@@ -15,12 +15,14 @@ sources:
     author: Felix Sachs
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Students taught fallacy detection by inductive drill on concrete examples decided argument validity more accurately than students taught by the regular deductive logic course
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The inductively tutored group averaged 42 correct validity decisions out of 45 test examples versus 35.3 for the class-taught group, and no class-taught observer matched the poorest tutored observer. [→ Felix Sachs 1913](#felix-sachs-1913)
@@ -31,7 +33,7 @@ sources:
 
 Felix Sachs. (1913). Preliminary Study of the Relative Efficiency of Inductive and Deductive Teaching of Logical Reasoning. The Journal of Educational Psychology. https://www.jstor.org/journal/jeducpsyc
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Comparison of two small groups on the same 45 concrete test examples: three tutored observers (about 20 hours of inductive drill) versus six class-taught observers. The summarized table shows tutored averages of 42 right versus 3 wrong, class-taught 35.3 right versus 9.5 wrong. The article prints no effect size.
 

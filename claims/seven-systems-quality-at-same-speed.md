@@ -9,29 +9,31 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 sources:
-  - id: thompson-1911
+  - id: recent-studies-in-handwriting-1912
     resource: "https://doi.org/10.1037/h0068789"
-    title: "Thompson, M. E. (1911). Recent Studies in Handwriting. The Journal of Educational Psychology, 2, 41-45. https://doi.org/10.1037/h0068789"
-    author: Thompson, M. E.
+    title: "Recent studies in handwriting [Unsigned review]. (1912). *Journal of Educational Psychology, 3*(1), 41–46. [doi:10.1037/h0068789](https://doi.org/10.1037/h0068789)"
+    author: "Recent studies in handwriting [Unsigned review]"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Comparison of seven school systems shows relatively little difference in handwriting quality at the same speed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Thorndike's monograph compares seven school systems in the writing of seventh and eighth grade pupils and finds decided differences in quality apart from speed, but relatively little difference in quality at the same speed. [→ Thompson 1911](#thompson-1911)
+`q2 i?` Thorndike's monograph compares seven school systems in the writing of seventh and eighth grade pupils and finds decided differences in quality apart from speed, but relatively little difference in quality at the same speed. [→ Recent Studies in Handwriting 1912](#recent-studies-in-handwriting-1912)
 
 ## Evidence
 
-### Thompson 1911
+### Recent Studies in Handwriting 1912
 
-Thompson, M. E. (1911). Recent Studies in Handwriting. The Journal of Educational Psychology, 2, 41-45. https://doi.org/10.1037/h0068789
+Recent studies in handwriting [Unsigned review]. (1912). *Journal of Educational Psychology, 3*(1), 41–46. [doi:10.1037/h0068789](https://doi.org/10.1037/h0068789)
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Part II of Thorndike's monograph reports a comparison of seven school systems using the scale with seventh and eighth grade pupils' writing. The reviewer reports "relatively little difference in quality at the same speed". No effect size is printed.
 
@@ -40,6 +42,10 @@ Part II of Thorndike's monograph reports a comparison of seven school systems us
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Wilson's application of the Thorndike scale across a school system finds writing quality nearly the same in all grades while speed rises steeply](wilson-quality-constant-speed-rises.md) — related
 - [Training for speed in handwriting may be secured without considerable sacrifice of quality](speed-without-quality-sacrifice.md) — related
+- [Judges' ratings on the Thorndike handwriting scale agree closely, and averaged ratings give a constant determination](thorndike-scale-judge-agreement.md) — related

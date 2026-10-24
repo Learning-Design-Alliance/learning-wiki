@@ -17,7 +17,7 @@ sources:
 # Target motivation and achievement improvement efforts across student, home, and school levels in large-scale assessment programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Because ecological factors at both student and school levels explained significant variance in motivation and achievement, the article concludes that "Findings hold implications for the nature, breadth, and depth of efforts aimed at improving mathematics motivation and numeracy achievement in large-scale assessment programs." Improvement efforts should therefore address factors across the student, student/home, and school ecology rather than a single level.
@@ -41,9 +41,11 @@ Because ecological factors at both student and school levels explained significa
 
 - [Student, student/home, and school factors explain significant variance in student- and school-level mathematics motivation](../claims/ecology-factors-explain-variance-math-motivation.md) [+W]
 - [Ecological factors and mathematics motivation explain significant variance in student- and school-level numeracy achievement](../claims/ecology-factors-motivation-predict-numeracy-achievement.md) [+W]
+- [Student/home factors in the model comprised mathematics tutoring, competition participation, computer support, and practice tests](../claims/student-home-factors-numeracy-model.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Build research programs combining studies optimized for internal validity with studies optimized for ecological validity](research-programs-mixing-internal-and-ecological-validity.md)
 
 ## Examples
 -

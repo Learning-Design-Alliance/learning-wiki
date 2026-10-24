@@ -15,12 +15,14 @@ sources:
     author: Wheeler, T.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Only fifty-eight of the 800 girls expressed a wish to pursue a vocation along the lines of their favorite pastimes, concentrated in music, art, athletics, and sewing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In only fifty-eight cases did girls wish to take up a profession along the lines of their favorite pastimes, mainly in music, art, athletics, and sewing, mostly among girls aged twelve to sixteen. [→ Wheeler 1920](#wheeler-1920)
@@ -31,7 +33,7 @@ sources:
 
 Wheeler, T. (1920). A Study of Certain Recreational Reading and Vocational Phases in the Lives of Young Girls. The Journal of Educational Psychology, Vol. XI, No. 9. https://doi.org/10.1037/h0064614
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Cross-tabulation of recreational and vocational responses within the 800-girl interview survey. Recreation-vocation alignment appeared in "only fifty-eight cases, all told", limited mainly to music, art, athletics, and sewing, with over half of these girls aged thirteen to fourteen. No effect size is reported.
 

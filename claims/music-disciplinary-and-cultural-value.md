@@ -15,12 +15,14 @@ sources:
     author: Locke, L. L.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Music was maintained to have disciplinary value as high as any other school subject and superior cultural value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` At the New York State Teachers' Association meeting it was maintained that music has for the child as high a disciplinary value as any other subject, and superior cultural value. [→ Locke 1913](#locke-1913)
@@ -31,7 +33,7 @@ sources:
 
 Locke, L. L. (1913). Inspector Winch's experiments on transfer. https://www.google.com/books/search?q=%22Inspector+Winch%27s+Experiments+on+Transfer%22
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Report from the thirty-fifth annual meeting of the New York State Teachers' Association in Rochester. In the music section 'it was maintained that music has for the child as high a value in a disciplinary way as any other subject.'
 
@@ -41,4 +43,4 @@ Report from the thirty-fifth annual meeting of the New York State Teachers' Asso
 
 
 ## Related Claims
--
+- [Empirical transfer research by Thorndike, Stone, Courtis, Winch and others is the most hopeful sign for determining the place of mathematics in the curriculum](transfer-research-place-of-mathematics-curriculum.md) — related

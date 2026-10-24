@@ -15,12 +15,14 @@ sources:
     author: Felix Sachs
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The inductively tutored group gave distinctly better-quality explanations of the fallacies they detected than the class-taught group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` On average the tutored observers produced 24 'very good' explanations of invalidity against 9.8 for the class-taught observers. [→ Felix Sachs 1913](#felix-sachs-1913)
@@ -31,7 +33,7 @@ sources:
 
 Felix Sachs. (1913). Preliminary Study of the Relative Efficiency of Inductive and Deductive Teaching of Logical Reasoning. The Journal of Educational Psychology. https://www.jstor.org/journal/jeducpsyc
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Second scored task of the same 45-example comparison: explanations of invalidity rated very good, good, fair, poor or none. Tutored observers averaged 24 'very good' explanations versus 9.8 for the class-taught group. No effect size is printed.
 

@@ -17,7 +17,7 @@ sources:
 # Use Courtis Tests, with reasoning differentiated from mechanical computation, as material for transfer experiments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends improving the material of transfer experiments by adopting the Courtis Tests, in which 'the reasoning elements have been differentiated as completely as possible from those purely mechanical, and the computation elements reduced to simplest form.' Separating reasoning from mechanical computation would let a transfer experiment measure reasoning accuracy rather than computation speed.
@@ -36,6 +36,10 @@ The article recommends improving the material of transfer experiments by adoptin
 ### Target Learning Goals
 - accurate reasoning in arithmetic problems
 - transfer of accuracy to other situations
+
+## Claims
+
+- [Interest as well as association may partly account for the correlation between accuracy in computation and reasoning](../claims/interest-association-computation-reasoning-correlation.md) [+W]
 
 ## Related Strategies
 - 

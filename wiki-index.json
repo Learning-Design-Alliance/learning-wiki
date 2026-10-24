@@ -8,8 +8,8 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1903,
-"research-method":635,
+"product":1904,
+"research-method":637,
 "strategy":6709,
 "theory":1360
 },
@@ -275300,6 +275300,14 @@
 "type":"product"
 },
 {
+"description":"A standardized handwriting-quality assessment scale developed by Edward L.",
+"id":"thorndikes-objective-scale-for-measuring-handwriting-quality",
+"path":"products/thorndikes-objective-scale-for-measuring-handwriting-quality.md",
+"status":"review",
+"title":"Thorndike's objective scale for measuring handwriting quality",
+"type":"product"
+},
+{
 "description":"A National Charter School Resource Center framework that helps public charter-school leaders organize and assess school mental-health, well-being, and SEL supports across three categories.",
 "id":"three-category-framework-for-organizing-school-mental-health-and-well-being-supports",
 "path":"products/three-category-framework-for-organizing-school-mental-health-and-well-being-supports.md",
@@ -279228,6 +279236,14 @@
 "type":"research-method"
 },
 {
+"description":"The article organizes experimental work on geometry teaching around three questions: whether the desired results are obtained under a given method, what the best method of obtaining them is, and whether obtaining them transfers to other subjects.",
+"id":"metzlers-three-lines-of-experimental-investigation-for-geometry-pedagogy",
+"path":"research-methods/metzlers-three-lines-of-experimental-investigation-for-geometry-pedagogy.md",
+"status":"review",
+"title":"Metzler's three lines of experimental investigation for geometry pedagogy",
+"type":"research-method"
+},
+{
 "description":"Borge and Mercier propose this approach as an alternative to the four overarching CSCL learning theories (information-processing, constructivism, socio-constructivist/socio-cultural, group cognition), arguing these lenses are \\\"too narrow to capture the true contextual richness of CSCL in action.\\\" It",
 "id":"micro-ecological-approach-to-cross-level-cscl-analysis",
 "path":"research-methods/micro-ecological-approach-to-cross-level-cscl-analysis.md",
@@ -279249,6 +279265,14 @@
 "path":"research-methods/misca-model-message-implementation-student-characteristics-context-agents.md",
 "status":"review",
 "title":"MISCA model (Message, Implementation, Student Characteristics, Context, Agents)",
+"type":"research-method"
+},
+{
+"description":"The article applies longitudinal mixed functional data analysis (FDA) to estimate regression effects as functions of grade, using linear splines for fixed and random effect functions.",
+"id":"mixed-functional-data-analysis-for-grade-varying-longitudinal-predictor-effects",
+"path":"research-methods/mixed-functional-data-analysis-for-grade-varying-longitudinal-predictor-effects.md",
+"status":"review",
+"title":"Mixed functional data analysis for grade-varying longitudinal predictor effects",
 "type":"research-method"
 },
 {
@@ -378271,6 +378295,7 @@
 "thinking-math":"thinking-math",
 "thinksrsd":"thinksrsd",
 "thonny-log-visualizer":"thonny-log-visualizer",
+"thorndikes-objective-scale-for-measuring-handwriting-quality":"thorndikes-objective-scale-for-measuring-handwriting-quality",
 "three-category-framework-for-organizing-school-mental-health-and-well-being-supports":"three-category-framework-for-organizing-school-mental-health-and-well-being-supports",
 "three-component-framework-for-high-quality-equitable-kindergarten-entry-assessments-conten":"three-component-framework-for-high-quality-equitable-kindergarten-entry-assessments-conten",
 "three-component-framework-for-portrait-of-a-graduate-assessment-systems":"three-component-framework-for-portrait-of-a-graduate-assessment-systems",
@@ -378777,9 +378802,11 @@
 "meta-d-as-a-performance-normalized-measure-of-metacognitive-efficiency":"meta-d-as-a-performance-normalized-measure-of-metacognitive-efficiency",
 "methodological-parameter-framework-for-designing-intensive-longitudinal-studies":"methodological-parameter-framework-for-designing-intensive-longitudinal-studies",
 "methods-reproducibility-framework-for-meta-analysis-four-levels-from-computational-reprodu":"methods-reproducibility-framework-for-meta-analysis-four-levels-from-computational-reprodu",
+"metzlers-three-lines-of-experimental-investigation-for-geometry-pedagogy":"metzlers-three-lines-of-experimental-investigation-for-geometry-pedagogy",
 "micro-ecological-approach-to-cross-level-cscl-analysis":"micro-ecological-approach-to-cross-level-cscl-analysis",
 "microscopic-network-measures-as-indicators-of-sentence-level-integration-during-reading":"microscopic-network-measures-as-indicators-of-sentence-level-integration-during-reading",
 "misca-model-message-implementation-student-characteristics-context-agents":"misca-model-message-implementation-student-characteristics-context-agents",
+"mixed-functional-data-analysis-for-grade-varying-longitudinal-predictor-effects":"mixed-functional-data-analysis-for-grade-varying-longitudinal-predictor-effects",
 "mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups":"mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups",
 "model-based-multivariate-true-score-norming-procedure":"multivariate-true-score-model-for-achievement-and-growth-norming",
 "model-comparison-approach-for-linear-vs-non-linear-mental-effort-relations-models-04":"model-comparison-approach-for-linear-vs-non-linear-mental-effort-relations-models-04",

@@ -15,18 +15,22 @@ sources:
     author: J. L. Zerbe
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: j-l-zerbe-1917-2
     resource: "https://doi.org/10.1037/h0074694"
     title: "J. L. Zerbe. (1917). Distribution of Grades. The Journal of Educational Psychology, VIII(10), 575-588. https://doi.org/10.1037/h0074694"
     author: J. L. Zerbe
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Instructor grading practices vary extremely, with some instructors awarding no honor grades and others awarding honor grades to over half their students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Of 388 grades one instructor gave none the value of H, while another gave H to fifty-one per cent of 165 grades and M to thirty-four per cent. [→ J. L. Zerbe 1917](#j-l-zerbe-1917)
@@ -38,7 +42,7 @@ sources:
 
 J. L. Zerbe. (1917). Distribution of Grades. The Journal of Educational Psychology, VIII(10), 575-588. https://doi.org/10.1037/h0074694
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive analysis of grade records by individual instructors at the School of Applied Industries, presented in Plate III. The article reports that one instructor gave no H grades among 388 grades while another gave "the "H" grade to fifty-one per cent, of the 165 grades he assigned."
 
@@ -48,7 +52,7 @@ Descriptive analysis of grade records by individual instructors at the School of
 
 J. L. Zerbe. (1917). Distribution of Grades. The Journal of Educational Psychology, VIII(10), 575-588. https://doi.org/10.1037/h0074694
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Continuation of the Plate III instructor-level analysis of assigned grades. The article contrasts instructors in the same institution: one gave "fifty-seven per cent, are below passing" of 136 grades, another gave under one per cent below passing with eighty per cent graded C.
 
@@ -61,3 +65,4 @@ Continuation of the Plate III instructor-level analysis of assigned grades. The 
 - [Most evaluators rated consistently, but about 3 percent were muted and 5 percent erratic, and about 10 percent of a sampled subset were extremely severe or lenient](reach-evaluator-consistency-and-severity.md) — a broader claim this one bears on
 - [Instructor-confirmed grading errors occurred at roughly 0.02–0.04% of rubric line items across the term](lata-instructor-confirmed-error-rate.md) — related
 - [Circulating a report urging uniform grade distribution produced little or no change in instructors' grading practices](grading-report-little-effect-on-practice.md) — related
+- [Academic subjects were graded to a markedly higher standard than shop subjects, with far larger shares of grades below passing](academic-vs-shop-grading-standards.md) — related

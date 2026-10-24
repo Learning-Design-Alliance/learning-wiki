@@ -58,8 +58,10 @@ Handwriting practice builds a motor memory for each letter that supports rapid, 
 5. **Distribute and review** — brief daily sessions, mixing newly taught letters with previously mastered ones, and embedding letters into real words once formed accurately.
 
 ## Related Strategies
+
 - [Phonics Instruction](phonics-instruction.md) — formation practice pairs with phonics; writing a letter while saying its sound links grapheme and phoneme
 - [Chunking](../principles/chunking.md) — letters grouped by stroke family (c-based, line-based) reduce the number of distinct motor programs to learn
+- [Montessori method: teach writing as a game from ages three to four using sandpaper letters, crayon filling, and progressive tracing](montessori-sandpaper-writing-method.md)
 
 ## Examples
 - **[Handwriting Without Tears](https://www.lwtears.com/hwt)** — developmental sequence grouped by stroke type, multisensory pre-writing activities, and verbal stroke cues before paper practice.

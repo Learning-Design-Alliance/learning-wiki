@@ -15,12 +15,14 @@ sources:
     author: Caldwell, Helen Hubbert
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Three Sophomores' discrepant records trace to character factors, including over-rating due to verbal fluency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` One Sophomore ranked fourth in grades but twenty-fourth on the tests, an over-rating the author links to her readiness to recite and verbal fluency, echoing Downey's and Goddard's warnings. [→ Caldwell 1919](#caldwell-1919)
@@ -31,7 +33,7 @@ sources:
 
 Caldwell, Helen Hubbert. (1919). Adult Tests of the Stanford Revision Applied to College Students. The Journal of Educational Psychology, X(10). https://doi.org/10.1037/h0074484
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Case analysis within the Sophomore discrepancy discussion: the author profiles three students whose grades diverged from test ranks, including one whose grade rank "was given largely because of her readiness to recite and her general 'well-meaningness'" while ranking twenty-fourth in the tests.
 

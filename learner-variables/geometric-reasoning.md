@@ -77,5 +77,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 
 ## Examples
 
+- [Paired reasoning tests in geometry and in other subjects to detect transfer of logical ability](../strategies/paired-reasoning-tests-transfer-geometry.md)
+
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Geometric Reasoning (Building Math 3-6, Building Math 7-10). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-3-6/factors/geometric-reasoning-math-3-6/summary). Licensed CC BY-NC 4.0.

@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 135 claims (94 show a difference, 24 mixed, 17 no difference) · 76 studies (28 causal, 22 associational, 10 quant-synthesis, 9 review, 4 theoretical, 3 design), `q1`–`q4` · 28 of 76 report an effect size · 130 claims rest on one study
+> **Evidence** · 138 claims (95 show a difference, 25 mixed, 18 no difference) · 77 studies (28 causal, 22 associational, 10 quant-synthesis, 10 review, 4 theoretical, 3 design), `q1`–`q4` · 28 of 77 report an effect size · 133 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -173,6 +173,9 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Working memory is a foundational cognitive skill for language and transcription skills, but its relation to writing is primarily mediated by other component skills](../claims/working-memory-foundational-but-mediated-in-writing.md) [+M] — instruction changes it
 - [Tekster, a strategy-focused writing instruction program, statistically significantly improves the writing quality of upper-elementary students, with an overall effect size of 0.32](../claims/tekster-improves-writing-quality-es-032.md) [+M] — instruction changes it
 - [Writing quality gains from Tekster are maintained eight weeks after the intervention ends](../claims/tekster-writing-gains-maintained-8-weeks.md) [+M] — instruction changes it
+- [Comparison of seven school systems shows relatively little difference in handwriting quality at the same speed](../claims/seven-systems-quality-at-same-speed.md) [-M] — instruction changes it
+- [Training for speed in handwriting may be secured without considerable sacrifice of quality](../claims/speed-without-quality-sacrifice.md) [+M] — instruction changes it
+- [Wilson's application of the Thorndike scale across a school system finds writing quality nearly the same in all grades while speed rises steeply](../claims/wilson-quality-constant-speed-rises.md) [~M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

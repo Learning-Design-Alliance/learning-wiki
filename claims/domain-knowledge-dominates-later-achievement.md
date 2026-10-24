@@ -80,3 +80,6 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [Domain-general factors account for more variance in written arithmetic and word problems than in basic calculation fluency](domain-general-variance-varies-by-skill.md) — a narrower finding that bears on this claim
 - [The central executive component of working memory is the most important domain-general predictor of later-grade mathematics achievement](central-executive-top-domain-general-predictor.md) — related
 - [The overall importance of prior domain-specific mathematical knowledge for subsequent mathematics achievement increases across grades](domain-specific-effects-increase-across-grades.md) — related
+- [A combination of specific mathematical cognition measures predicts subsequent mathematics achievement better than prior mathematics achievement scores alone](cognition-measures-beat-prior-achievement.md) — related
+- [Domain-general abilities are more important than domain-specific knowledge for mathematics learning in early grades, but the two are equally important in later grades](domain-general-dominates-early-equal-later.md) — related
+- [Fractions knowledge is a critical domain-specific predictor of mathematics achievement in later grades](fractions-knowledge-predicts-later-achievement.md) — a narrower finding that bears on this claim

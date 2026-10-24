@@ -15,12 +15,14 @@ sources:
     author: "van den Broek, G., Gerritsen, S. L., Oomen, I. T. J., Velthoven, E., van Boxtel, F. H. J., Kester, L., & van Gog, T."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # The stepwise-MCQ benefit is most robust for questions with noncompetitive answer options and for learners who report trying to retrieve the answer during the delay.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` The stepwise-MCQ effect was most robust for noncompetitive (easy-to-guess) answer options across Experiments 1, 3a, and 3b, and for learners reporting retrieval from memory during the stepwise display in Experiments 1 and 3. [→ van den Broek 2023](#van-den-broek-2023)
@@ -31,7 +33,7 @@ sources:
 
 van den Broek, G., Gerritsen, S. L., Oomen, I. T. J., Velthoven, E., van Boxtel, F. H. J., Kester, L., & van Gog, T. (2023). Optimizing multiple-choice questions for retrieval practice: Delayed display of answer alternatives enhances vocabulary learning. Journal of Educational Psychology. https://doi.org/10.1037/edu0000810
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Moderator analysis across the four experiments: the retention benefit of stepwise MCQs was "most robust" for noncompetitive answer options and for self-reported retrieval during the 4 s delay. No effect sizes are printed in the available text.
 

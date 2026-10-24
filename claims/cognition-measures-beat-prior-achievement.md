@@ -15,12 +15,14 @@ sources:
     author: Geary David C., Nicholas Alan, Li Yaoran, Sun Jianguo
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A combination of specific mathematical cognition measures predicts subsequent mathematics achievement better than prior mathematics achievement scores alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The combination of number sets, retrieval, decomposition, and number line measures explains substantively more variance in subsequent achievement (mean R2 = .822) than prior Numerical Operations scores (mean R2 = .682). [→ Geary David C. 2017](#geary-david-c-2017)
@@ -31,7 +33,7 @@ sources:
 
 Geary David C., Nicholas Alan, Li Yaoran, Sun Jianguo. (2017). Developmental Change in the Influence of Domain-General Abilities and Domain-Specific Knowledge on Mathematics Achievement: An Eight-Year Longitudinal Study. Journal of Educational Psychology. https://doi.org/10.1037/edu0000159
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Comparison of unadjusted FDA models fit to the longitudinal data: Model 2 (four mathematical cognition measures) versus Model 1 (prior Numerical Operations scores). The article reports mean R2 of .822 versus .682 across grades.
 
@@ -44,3 +46,4 @@ Comparison of unadjusted FDA models fit to the longitudinal data: Model 2 (four 
 - [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders](fraction-magnitude-predicts-achievement-three-continents.md) — related
 - [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](number-naming-comparison-better-predictors-than-number-line-estimation.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — related
+- [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related

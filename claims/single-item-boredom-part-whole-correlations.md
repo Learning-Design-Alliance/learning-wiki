@@ -15,12 +15,14 @@ sources:
     author: "Test Boredom While Working on Difficult Versus Easy Tasks: Online Supplementary Materials"
     q: 2
     i: 3
+    kind: associational
+    rigour: "?"
 ---
 
 # A single boredom item correlated strongly with the full TBS-S scale in both the easy and difficult test parts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r?` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` The part-whole-corrected item-total correlation of the single boredom item was r = .78 in the easy condition and r = .76 in the difficult condition. [→ Test Boredom While Working on Difficult Versus Easy Tasks: Online Supplementary Materials 2022](#test-boredom-while-working-on-difficult-versus-easy-tasks-online-supplementary-materials-2022)
@@ -31,7 +33,7 @@ sources:
 
 Test Boredom While Working on Difficult Versus Easy Tasks: Online Supplementary Materials. (2022). https://www.google.com/search?q=%22Test+Boredom+While+Working+on+Difficult+Versus+Easy+Tasks%22
 
-`q2 · i3`
+`q2 · i3` · `associational · r?`
 
 Table S2b (Study 1) reports zero-order correlations between a single boredom item and all other scale items, with N = 204-208 (pairwise deletion); all coefficients were statistically significant at p < .05. The printed effect sizes for the part-whole-corrected item-total correlation were r = .78 in the easy condition and r = .76 in the difficult condition, i.e. "rj(t-j) =.78 in the easy condition and rj(t-j) =.76 in the difficult condition."
 

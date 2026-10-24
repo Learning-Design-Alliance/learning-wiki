@@ -15,12 +15,14 @@ sources:
     author: Caldwell, Helen Hubbert
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Alternate Average Adult tests are misplaced: 50% of AI 1 failures and 46% of AI 2 failures came from students with IQ above 110
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Alternate tests for the Average Adult group showed much higher failure percentages than regular tests in both classes, and many failures came from above-average-IQ students, suggesting they belong in the Superior Adult group. [→ Caldwell 1919](#caldwell-1919)
@@ -31,7 +33,7 @@ sources:
 
 Caldwell, Helen Hubbert. (1919). Adult Tests of the Stanford Revision Applied to College Students. The Journal of Educational Psychology, X(10). https://doi.org/10.1037/h0074484
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Failure-rate analysis (Table III) across the 48 subjects shows alternate Average Adult tests produced far more failures than regular tests; contrary to Terman's report, "50% of the failures on AI 1 and 46% of those on AI 2 were by students whose I 0 was above 110."
 

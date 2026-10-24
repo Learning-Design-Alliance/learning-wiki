@@ -15,12 +15,14 @@ sources:
     author: Baldwin, B. T.
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Individual differences in substitution-test learning are large, ranging from 8 to 44 substitutions on the first day and reaching 214 for the best performer by trial sixteen
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The range of individual differences was very noticeable: the smallest first-day output among the reported white girls was eight letters and the largest forty-four, and by the sixteenth trial eight girls exceeded one hundred forty substitutions with the best completing two hundred fourteen. [→ Baldwin 1913](#baldwin-1913)
@@ -31,7 +33,7 @@ sources:
 
 Baldwin, B. T. (1913). The learning of delinquent adolescent girls as shown by a substitution test. The Journal of Educational Psychology, IV(6), 317-332. https://doi.org/10.1037/h0069968
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive report of the white girls' practice data in Chart I and Table I. The author also reports the lowest individual Senior average as 26.5 and the highest as 111.2, and states that as a rule the neatest and most accurate girls accomplished the most substitutions.
 

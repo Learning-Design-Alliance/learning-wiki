@@ -17,7 +17,7 @@ sources:
 # Use mental tests as supplementary evidence of pupils' abilities in dealing with the apparently bright and the apparently stupid
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (2 associational), `q1`–`q2` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (3 associational), `q1`–`q2` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 The article's practical recommendation is that group mental tests give teachers, principals and superintendents "supplementary evidence of pupils' abilities," especially for pupils whose apparent ability is misleading. Apparent dullness may reflect circumstances, laziness, or study habits, and apparent brightness may reflect unusually favorable opportunities, so all available information should be used in teaching and advancing pupils.

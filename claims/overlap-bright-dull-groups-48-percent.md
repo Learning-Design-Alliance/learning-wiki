@@ -15,12 +15,14 @@ sources:
     author: Pyle, W. H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Substantial overlap exists between bright and dull groups: 48 per cent of poor pupils match the lowest good-group record
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Combining results across tests, 48 per cent of pupils in the poor groups made a record as good as the lowest of the corresponding good groups, and 20 per cent matched the good groups' average. [→ Pyle 1917](#pyle-1917)
@@ -31,7 +33,7 @@ sources:
 
 Pyle, W. H. (1917). A Psychological Study of Bright and Dull Pupils. The Journal of Educational Psychology. https://psycnet.apa.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Individual-level comparison of group members, combining results of the various tests. The author reports "48 per cent" of poor-group pupils matched the lowest good-group record and "Twenty per cent" matched the good groups' average.
 

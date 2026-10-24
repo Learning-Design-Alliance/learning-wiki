@@ -52,3 +52,4 @@ The review reports, citing Jones and Byrnes (2006), that an O-P-model-based anal
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](belonging-mathematics-positive-algebra.md) — related
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](math-anxiety-mixed-algebra-relations.md) — related
 - [Student, student/home, and school factors explain significant variance in student- and school-level mathematics motivation](ecology-factors-explain-variance-math-motivation.md) — related
+- [Ecological factors and mathematics motivation explain significant variance in student- and school-level numeracy achievement](ecology-factors-motivation-predict-numeracy-achievement.md) — related

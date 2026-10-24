@@ -15,12 +15,14 @@ sources:
     author: William H. Metzler
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 1
 ---
 
 # The article argues geometry teaching should target ten enumerated outcomes, with the general powers rather than the content as the chief aim
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The author enumerates ten desired results of geometry study, including logical thinking, clear expression, concentration, constructive imagination, rational memory, liberal-mindedness, esthetic ability, honesty, and will power, and argues these powers are the chief aim while content is the occasion for acquiring them. [→ William H. Metzler 1912](#william-h-metzler-1912)
@@ -31,7 +33,7 @@ sources:
 
 William H. Metzler. (1912). Problems in the Experimental Pedagogy of Geometry. The Journal of Educational Psychology. https://doi.org/10.1037/h0070947
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r1`
 
 Theoretical argument in a programmatic essay: the author lists ten outcomes of geometry teaching and asserts, without empirical data, that "the chief aim" is the powers, with content merely "the occasion for acquiring them." No evidence or experiment is offered for the assertion.
 
@@ -43,3 +45,4 @@ Theoretical argument in a programmatic essay: the author lists ten outcomes of g
 ## Related Claims
 - [The article argues transfer of general powers occurs only when they are deliberately taught as general, across every school subject](deliberate-general-teaching-for-transfer.md) — related
 - [The article argues that continued simple, single-object experiments tend to make pupils unguarded and hasty in their conclusions, and that premise-testing experiments should correct this.](simple-experiments-hasty-judgments.md) — related
+- [The article argues that chemistry offers opportunities for mental training in manipulation, directed observation, correlation of ideas, and logical reasoning beyond its factual content.](chemistry-mental-training-opportunities.md) — related

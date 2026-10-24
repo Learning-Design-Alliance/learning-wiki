@@ -15,12 +15,14 @@ sources:
     author: Locke, L. L.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Interest as well as association may partly account for the correlation between accuracy in computation and reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Interest as well as association might partly account for the degree of correlation found between accuracy in computation and reasoning. [→ Locke 1913](#locke-1913)
@@ -31,7 +33,7 @@ sources:
 
 Locke, L. L. (1913). Inspector Winch's experiments on transfer. https://www.google.com/books/search?q=%22Inspector+Winch%27s+Experiments+on+Transfer%22
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Interpretive observation offered in a commentary on Inspector Winch's transfer experiment; no new data are collected. The author proposes that 'interest as well as association might partly account for the degree of correlation' between computation accuracy and reasoning.
 
@@ -39,6 +41,9 @@ Interpretive observation offered in a commentary on Inspector Winch's transfer e
 
 ## Discussion
 
+
+## Learner Variables
+- [Operations and Place Value](../learner-variables/operations-and-place-value.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](publication-bias-ratio-association.md) — related

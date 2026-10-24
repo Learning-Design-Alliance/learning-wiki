@@ -15,12 +15,14 @@ sources:
     author: Felix Sachs
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Inductively trained observers carried their learned fallacy patterns over to new material, deciding correctly on every one of 47 additional untabulated test examples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The tutored observers decided correctly in every single case of the remaining 47 test-examples, giving very good explanations in from 26 to 29 cases and correct names in from 26 to 29 cases. [→ Felix Sachs 1913](#felix-sachs-1913)
@@ -31,7 +33,7 @@ sources:
 
 Felix Sachs. (1913). Preliminary Study of the Relative Efficiency of Inductive and Deductive Teaching of Logical Reasoning. The Journal of Educational Psychology. https://www.jstor.org/journal/jeducpsyc
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Transfer evidence from the conclusions section: the three tutored observers answered the 47 extra examples, omitted from tabulation because time did not permit using them with the second group, correctly in every single case. No effect size is printed.
 

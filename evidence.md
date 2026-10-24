@@ -32,14 +32,13 @@ These figures describe two things at once: what education research has produced,
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 95 | 875 | 290 | 379 | 1,639 |
+| causal | 95 | 879 | 291 | 379 | 1,644 |
 | quant-synthesis | 114 | 189 | 42 | 134 | 479 |
-| review | 163 | 534 | 110 | 142 | 949 |
-| associational | 84 | 1,012 | 398 | 285 | 1,779 |
+| review | 163 | 535 | 110 | 142 | 950 |
+| associational | 84 | 1,014 | 403 | 285 | 1,786 |
 | qualitative | 126 | 323 | 70 | 94 | 613 |
 | design | 61 | 542 | 135 | 35 | 773 |
-| theoretical | 165 | 328 | 65 | 59 | 617 |
-| not yet coded | | | | | 15 |
+| theoretical | 165 | 329 | 66 | 59 | 619 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
@@ -150,14 +149,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 29 | 0 |
 | [elements](elements/index.md) | 1,057 | 782 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 30 | 0 |
-| [strategies](strategies/index.md) | 6,709 | 3,550 | 3 | 0 |
+| [strategies](strategies/index.md) | 6,709 | 3,551 | 3 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 9.5 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 914 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 46 | 0 |
 | [designs](designs/index.md) | 1,010 | 716 | 1 | 0 |
-| [products](products/index.md) | 1,903 | 1,414 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 635 | 557 | 1 | 0 |
+| [products](products/index.md) | 1,904 | 1,415 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 637 | 559 | 1 | 0 |
 
 ## Toward pooled estimates
 

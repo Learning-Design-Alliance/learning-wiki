@@ -15,12 +15,14 @@ sources:
     author: Caldwell, Helen Hubbert
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students of literary inclination excel on verbal tests while scientifically inclined students excel on constructive tests, with no digit-span difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Dividing tests into verbal, digit-span and constructive groups, literary-minded examinees excelled on verbal tests, scientifically inclined examinees on constructive tests, and the two groups did not differ on digit-span results. [→ Caldwell 1919](#caldwell-1919)
@@ -31,7 +33,7 @@ sources:
 
 Caldwell, Helen Hubbert. (1919). Adult Tests of the Stanford Revision Applied to College Students. The Journal of Educational Psychology, X(10). https://doi.org/10.1037/h0074484
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Exploratory subgroup analysis from Downey's data as reported in this article: performance was divided into verbal, digit-span and constructive test groups and compared across students of literary versus scientific inclination, with no group difference on the digit-span series.
 

@@ -45,7 +45,9 @@ To test concentration, the article proposes timed work on originals requiring co
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](../claims/decorative-images-distract-from-math-problems.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Paired reasoning tests in geometry and in other subjects to detect transfer of logical ability](paired-reasoning-tests-transfer-geometry.md)
+- [Timed tests for knowledge of geometry fundamentals: naming figures, defining and illustrating terms, and giving hypotheses or conclusions of propositions](timed-fundamentals-tests-geometry.md)
 
 ## Examples
 -

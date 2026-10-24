@@ -17,7 +17,7 @@ sources:
 # Use girls' recreational impulses as material for individualized prevocational and vocational guidance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends that schools build a scheme by which children's recreational impulses can be turned toward suitable vocations, since "in most schools there is no scheme operable by which these impulses can be made of maximum usefulness to the girl." A trained prevocational or vocational teacher could, for example, suggest to a girl who delights in shopping that shopping is a profession, or encourage a girl who enjoys writing stories and reading history toward scenario writing rather than defaulting to stenography.
@@ -41,6 +41,8 @@ The article recommends that schools build a scheme by which children's recreatio
 - [Among 800 girls aged six to twenty interviewed in 1917-18, active games and sports constituted at least half of recreational preferences across the entire age range](../claims/active-games-dominate-girls-recreation-1920.md) [+W]
 - [Girls' vocational choices showed a striking narrowness of outlook, with teaching, nursing, and stenography filling nearly the whole horizon and possibilities diminishing with age](../claims/narrow-vocational-horizon-girls-1920.md) [+W]
 - [Only fifty-eight of the 800 girls expressed a wish to pursue a vocation along the lines of their favorite pastimes, concentrated in music, art, athletics, and sewing](../claims/rare-recreation-vocation-correlation-girls-1920.md) [+W]
+- [Fairy tales dominated the reading choices of girls aged six to eight but dwindled sharply with age, while girls' series books peaked between eleven and sixteen](../claims/age-graded-reading-tastes-girls-1920.md) [+W]
+- [Reading as a pastime peaked at about one-fifth of preferences among thirteen-to-fourteen-year-old girls](../claims/reading-peaks-early-adolescence-girls-1920.md) [+W]
 
 ## Related Strategies
 - 

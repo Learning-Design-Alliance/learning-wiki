@@ -15,7 +15,7 @@ grain_size: lesson, unit
 # Concept Attainment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 19 studies (8 causal, 8 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 8 of 19 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (8 for, 3 mixed) · 20 studies (9 causal, 8 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 8 of 20 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
@@ -104,6 +104,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Advance organizers improve learning.](../claims/advance-organizers-improve-learning.md) [+M] — partly checked: 1 of 3 entries pass, the rest could not be confirmed (abstract)
 - [Classifying provided examples is more effective for learning relational categories than reading or generating examples](../claims/classifying-examples-beats-reading-generating-relational-categories.md) [+M] — attached 2026-10-18 from Tim M. Steininger et al. (2022), which proposed "Use classification tasks rather than example generation in early phases of relational-category learning"; tests this page's relationship.
+- [Students taught fallacy detection by inductive drill on concrete examples decided argument validity more accurately than students taught by the regular deductive logic course](../claims/inductive-drill-superior-validity-decisions.md) [+W] — attached 2026-10-24 from Felix Sachs (1913), which proposed "Teach forms of fallacious reasoning inductively through drill on concrete everyday examples rather than by deductive presentation of rules"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

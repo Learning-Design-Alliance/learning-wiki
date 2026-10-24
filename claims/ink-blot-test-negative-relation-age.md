@@ -15,12 +15,14 @@ sources:
     author: Pyle, W. H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Ink-blot test results show a negative relation to the other tests and are related to age
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The ink-blot test shows a negative relation to the other tests, with young children doing better, and the author speculates dull high school pupils may be more like younger children or merely uncritical. [→ Pyle 1917](#pyle-1917)
@@ -31,7 +33,7 @@ sources:
 
 Pyle, W. H. (1917). A Psychological Study of Bright and Dull Pupils. The Journal of Educational Psychology. https://psycnet.apa.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Author's interpretation of the school comparison tables, where the Kennett good group scored lower than the poor group on the ink-blot test. He notes performance "is clearly related to age, young children doing better."
 
@@ -44,3 +46,4 @@ Author's interpretation of the school comparison tables, where the Kennett good 
 - [Cancellation test ability shows no relation, and possibly an inverse relation, to abilities shown in the other tests](cancellation-test-no-relation-other-tests.md) — related
 - [Completion, word-building, logical memory and controlled association tests are most valuable for separating dull from bright pupils](most-valuable-tests-bright-dull-separation.md) — related
 - [Good pupils average younger than poor pupils, by amounts ranging from equal age to two and a half years](good-pupils-younger-than-poor-pupils.md) — related
+- [Mental differences between bright and dull pupils can be ascertained by means of simple group tests](group-tests-ascertain-bright-dull-differences.md) — a broader claim this one bears on

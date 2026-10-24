@@ -15,12 +15,14 @@ sources:
     author: Martin, Andrew; Lazendic, G.
     q: 1
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Student/home factors in the model comprised mathematics tutoring, competition participation, computer support, and practice tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The study's student/home factor set consisted of mathematics tutoring, mathematics competition participation, computer support for mathematics, and practice mathematics tests. [→ Martin 2018](#martin-2018)
@@ -31,7 +33,7 @@ sources:
 
 Martin, Andrew; Lazendic, G. (2018). Achievement in large-scale national numeracy assessment: An ecological study of motivation and student, home, and school predictors. https://doi.org/10.1037/edu0000231
 
-`q1 · i?`
+`q1 · i?` · `associational · r2`
 
 Definitional statement of the study's student/home factor set within the ecological model. The article states these factors "comprised mathematics tutoring, mathematics competition participation, computer support for mathematics, and practice mathematics tests."
 

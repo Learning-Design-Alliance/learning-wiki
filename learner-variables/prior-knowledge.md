@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 171 claims (104 show a difference, 49 mixed, 18 no difference) · 138 studies (41 causal, 31 review, 21 theoretical, 20 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 138 report an effect size · 154 claims rest on one study
+> **Evidence** · 174 claims (106 show a difference, 50 mixed, 18 no difference) · 139 studies (41 causal, 31 review, 21 associational, 21 theoretical, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 139 report an effect size · 157 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -219,6 +219,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](../claims/novices-segment-experts-generalize-problem-representation.md) [+W] — learners who differ on it differ in outcomes
 - [Both number system knowledge and estimation uniquely account for variance in all three third-grade arithmetic skills independently of each other and of domain-general factors](../claims/multidigit-skills-independent-contribution-arithmetic.md) [+M] — learners who differ on it differ in outcomes
 - [The thesis hypothesises that with increasing expertise the worked example effect may be eliminated or reversed while the generation effect remains robust](../claims/expertise-reversal-hypothesis-generation-remains-robust.md) [~W] — an instructional effect differs with it
+- [Domain-general abilities are more important than domain-specific knowledge for mathematics learning in early grades, but the two are equally important in later grades](../claims/domain-general-dominates-early-equal-later.md) [~M] — learners who differ on it differ in outcomes
+- [Fractions knowledge is a critical domain-specific predictor of mathematics achievement in later grades](../claims/fractions-knowledge-predicts-later-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [The overall importance of prior domain-specific mathematical knowledge for subsequent mathematics achievement increases across grades](../claims/domain-specific-effects-increase-across-grades.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

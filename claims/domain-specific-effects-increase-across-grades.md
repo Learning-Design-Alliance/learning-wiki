@@ -15,12 +15,14 @@ sources:
     author: Geary David C., Nicholas Alan, Li Yaoran, Sun Jianguo
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The overall importance of prior domain-specific mathematical knowledge for subsequent mathematics achievement increases across grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Overall domain-specific effects are more variable than domain-general effects, ranging from .315 to .551, with significant increases from grade 6 to 7 and 7 to 8 and a significant contrast between the smallest (grade 4) and largest (grade 8) effects. [→ Geary David C. 2017](#geary-david-c-2017)
@@ -31,7 +33,7 @@ sources:
 
 Geary David C., Nicholas Alan, Li Yaoran, Sun Jianguo. (2017). Developmental Change in the Influence of Domain-General Abilities and Domain-Specific Knowledge on Mathematics Achievement: An Eight-Year Longitudinal Study. Journal of Educational Psychology. https://doi.org/10.1037/edu0000159
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 In the same longitudinal FDA analysis (n = 167), summed domain-specific beta estimates showed "increases from grade 6 to grade 7 (p = .034), and grade 7 to grade 8 (p = .024)"; the grade 4 versus grade 8 contrast was also significant (p = .007).
 
@@ -39,6 +41,9 @@ In the same longitudinal FDA analysis (n = 167), summed domain-specific beta est
 
 ## Discussion
 
+
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Domain-general abilities are more important than domain-specific knowledge for mathematics learning in early grades, but the two are equally important in later grades](domain-general-dominates-early-equal-later.md) — a broader claim this one bears on

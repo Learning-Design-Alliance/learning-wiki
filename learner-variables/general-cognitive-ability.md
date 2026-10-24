@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (70 show a difference, 22 mixed, 15 no difference) · 76 studies (30 associational, 24 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 19 of 76 report an effect size · 104 claims rest on one study
+> **Evidence** · 109 claims (71 show a difference, 23 mixed, 15 no difference) · 77 studies (31 associational, 24 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 19 of 77 report an effect size · 106 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -143,6 +143,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Cases with Differences of minus 9 or below — 21.5 per cent of the standardization sample — are described as marked cases of wasted intelligence whose ability is not being utilized](../claims/wasted-intelligence-minus-nine-below.md) [+M] — learners who differ on it differ in outcomes
 - [Gifted, highly trained adults working a novel abstract task produce error-ridden problem work comparable in character to that of school pupils](../claims/trained-adults-error-ridden-novel-abstract-task.md) [-M] — learners who differ on it differ in outcomes
 - [Group intelligence scores correlated only modestly with school marks (freshmen: 0.41 Thurstone, 0.56 Brown; junior high: 0.25 Illinois, 0.32 Otis), which the author attributes to marks depending on many non-intelligence factors](../claims/intelligence-scores-school-mark-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [IQ-grade correlation differs sharply by class standing: .69 for Juniors versus .17 for Sophomores, rising to .48 when three discrepant records are omitted](../claims/caldwell-1919-junior-sophomore-correlation-difference.md) [~W] — learners who differ on it differ in outcomes
+- [Test results correlate more highly with estimated intelligence than with grades, including Starch's .75 versus .30 at Wisconsin](../claims/caldwell-1919-estimated-intelligence-correlations.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

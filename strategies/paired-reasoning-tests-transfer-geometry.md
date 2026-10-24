@@ -17,7 +17,7 @@ sources:
 # Paired reasoning tests in geometry and in other subjects to detect transfer of logical ability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes giving timed tests on geometrical originals and, in parallel, tests in another subject involving reasoning of like logical difficulty and equal familiarity of data, avoiding reproduction of proofs already had. Improvement in the other subject is compared with improvement in geometry to see whether it "bears any ratio to the improvement" in geometry, and the non-geometry comparison group is used to sharpen the contrast.
@@ -43,10 +43,12 @@ The article proposes giving timed tests on geometrical originals and, in paralle
 ## Claims
 
 - [The article argues transfer of general powers occurs only when they are deliberately taught as general, across every school subject](../claims/deliberate-general-teaching-for-transfer.md) [~W]
+- [The article argues geometry teaching should target ten enumerated outcomes, with the general powers rather than the content as the chief aim](../claims/geometry-ten-aims-powers-over-content.md) [+W]
 
 ## Related Strategies
 
 - [Timed tests for knowledge of geometry fundamentals: naming figures, defining and illustrating terms, and giving hypotheses or conclusions of propositions](timed-fundamentals-tests-geometry.md)
+- [Concentration tests on originals under deliberate distractions, with and without unusual distraction conditions](concentration-tests-under-distraction-geometry.md)
 
 ## Examples
 -

@@ -15,12 +15,14 @@ sources:
     author: Caldwell, Helen Hubbert
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Prior studies show low and variable correlations between mental tests and college grades, averaging from .09 to .44
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Wissler's tests averaged only .09 with college grades, which the author calls negligible, while later studies (Waugh .41, Kitson .44) reported higher coefficients, with variation across tests and methods. [→ Caldwell 1919](#caldwell-1919)
@@ -31,7 +33,7 @@ sources:
 
 Caldwell, Helen Hubbert. (1919). Adult Tests of the Stanford Revision Applied to College Students. The Journal of Educational Psychology, X(10). https://doi.org/10.1037/h0074484
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Literature review section summarizing seven prior studies (Wissler through King and M'Crory, tabulated in Table Ia): Wissler's average was .09, Calfee's approximately .23, Rowland and Lowden's best .37, Waugh's .41, Bell's highest .31, Kitson's .44 (falling to .20 with Freshmen a year later).
 
@@ -44,3 +46,4 @@ Literature review section summarizing seven prior studies (Wissler through King 
 - [Stanford Adult test results correlate .44 with college grades when Juniors and Sophomores are re-ranked as one group](caldwell-1919-iq-grades-correlation-44.md) — related
 - [Group intelligence scores correlated only modestly with school marks (freshmen: 0.41 Thurstone, 0.56 Brown; junior high: 0.25 Illinois, 0.32 Otis), which the author attributes to marks depending on many non-intelligence factors](intelligence-scores-school-mark-correlations.md) — related
 - [Correlation magnitude rises with the standard deviation of mental age of the group, so cross-group comparisons of the two traits are spurious](correlation-magnitude-varies-with-mental-age-sd.md) — related
+- [IQ-grade correlation differs sharply by class standing: .69 for Juniors versus .17 for Sophomores, rising to .48 when three discrepant records are omitted](caldwell-1919-junior-sophomore-correlation-difference.md) — a narrower finding that bears on this claim

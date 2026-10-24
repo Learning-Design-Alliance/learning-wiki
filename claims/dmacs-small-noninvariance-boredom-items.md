@@ -15,12 +15,14 @@ sources:
     author: "Test Boredom While Working on Difficult Versus Easy Tasks: Online Supplementary Materials"
     q: 2
     i: 0
+    kind: causal
+    rigour: "?"
 ---
 
 # Measurement noninvariance across over- versus underchallenged situations showed small dMACS effect sizes for the two non-reference boredom items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r?` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` dMACS effect sizes for measurement noninvariance across situations were small for items 2 and 3 (0.032-0.110), with the easy part underchallenge condition as reference group. [→ Test Boredom While Working on Difficult Versus Easy Tasks: Online Supplementary Materials 2022](#test-boredom-while-working-on-difficult-versus-easy-tasks-online-supplementary-materials-2022)
@@ -31,7 +33,7 @@ sources:
 
 Test Boredom While Working on Difficult Versus Easy Tasks: Online Supplementary Materials. (2022). https://www.google.com/search?q=%22Test+Boredom+While+Working+on+Difficult+Versus+Easy+Tasks%22
 
-`q2 · i0`
+`q2 · i0` · `causal · r?`
 
 Table S2a reports dMACS effect sizes for measurement noninvariance across situations, with the "Reference group = Easy Part - Underchallenge"; item 1 shows dMACS of 0.110 and 0.086, and the table also lists 0.032 and 0.037 for the reference items' cross-entries. These are small values.
 

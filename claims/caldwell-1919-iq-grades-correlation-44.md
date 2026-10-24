@@ -15,12 +15,14 @@ sources:
     author: Caldwell, Helen Hubbert
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Stanford Adult test results correlate .44 with college grades when Juniors and Sophomores are re-ranked as one group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In Caldwell's study of 48 college students, the correlation between intelligence quotient and grades was .44 for Juniors and Sophomores re-ranked in one group, higher than any prior reported coefficient except Kitson's. [→ Caldwell 1919](#caldwell-1919)
@@ -31,7 +33,7 @@ sources:
 
 Caldwell, Helen Hubbert. (1919). Adult Tests of the Stanford Revision Applied to College Students. The Journal of Educational Psychology, X(10). https://doi.org/10.1037/h0074484
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Correlational study of 24 Sophomores and 24 Juniors at Randolph-Macon Woman's College tested with the XVI and XVIII year Terman tests; Pearson rank correlations computed against registrar's grades. The combined-group coefficient "is higher than any yet obtained except that of Kitson" (.44 per Table II).
 

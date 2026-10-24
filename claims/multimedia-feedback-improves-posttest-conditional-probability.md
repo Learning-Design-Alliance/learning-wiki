@@ -15,18 +15,22 @@ sources:
     author: "Gök, S., Zhang, T., Goldstone, R. L., & Fyfe, E. R."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: gök-2025-2
     resource: "https://doi.org/10.1037/edu0000943"
     title: "Gök, S., Zhang, T., Goldstone, R. L., & Fyfe, E. R. (2025). Multimedia Effects in Initial Instruction and Feedback on Problem Solving. Journal of Educational Psychology. https://doi.org/10.1037/edu0000943"
     author: "Gök, S., Zhang, T., Goldstone, R. L., & Fyfe, E. R."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Multimedia feedback produces higher posttest performance than text-only feedback on conditional probability problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Undergraduates who received multimedia feedback (text plus diagrams) outperformed those who received text-only feedback on an immediate posttest. [→ Gök 2025](#gok-2025)
@@ -38,7 +42,7 @@ sources:
 
 Gök, S., Zhang, T., Goldstone, R. L., & Fyfe, E. R. (2025). Multimedia Effects in Initial Instruction and Feedback on Problem Solving. Journal of Educational Psychology. https://doi.org/10.1037/edu0000943
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 A 2x2 between-subjects ANCOVA on total posttest score with pretest as covariate, in the randomized experiment with 129 undergraduates, found a significant feedback modality effect (η p² = .08): "Those who received multimedia feedback outperformed those who received text-only feedback."
 
@@ -48,7 +52,7 @@ A 2x2 between-subjects ANCOVA on total posttest score with pretest as covariate,
 
 Gök, S., Zhang, T., Goldstone, R. L., & Fyfe, E. R. (2025). Multimedia Effects in Initial Instruction and Feedback on Problem Solving. Journal of Educational Psychology. https://doi.org/10.1037/edu0000943
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 An exploratory split of the same posttest into familiar and novel items showed the feedback effect generalized: for "novel posttest problems" the feedback main effect was significant, F (1, 124) = 8.63, p = .004, with printed effect size η p 2 = .07.
 
@@ -62,3 +66,4 @@ An exploratory split of the same posttest into familiar and novel items showed t
 - [Spontaneous drawings at posttest mediate the effect of multimedia instruction on posttest performance, but not the effect of multimedia feedback](spontaneous-drawings-mediate-instruction-effect.md) — related
 - [Multimedia initial instruction lowers students' perceived difficulty of problems across instruction, practice, and posttest phases](multimedia-instruction-lowers-perceived-difficulty.md) — related
 - [Multimedia initial instruction, but not multimedia feedback, increases students' spontaneous diagram generation across learning phases](multimedia-instruction-increases-spontaneous-drawings.md) — related
+- [Multimedia initial instruction shows no detectable benefit over text-only instruction on posttest performance](multimedia-instruction-no-posttest-benefit.md) — related

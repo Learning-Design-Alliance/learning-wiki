@@ -9,29 +9,31 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 sources:
-  - id: thompson-1911
+  - id: recent-studies-in-handwriting-1912
     resource: "https://doi.org/10.1037/h0068789"
-    title: "Thompson, M. E. (1911). Recent Studies in Handwriting. The Journal of Educational Psychology, 2, 41-45. https://doi.org/10.1037/h0068789"
-    author: Thompson, M. E.
+    title: "Recent studies in handwriting [Unsigned review]. (1912). *Journal of Educational Psychology, 3*(1), 41–46. [doi:10.1037/h0068789](https://doi.org/10.1037/h0068789)"
+    author: "Recent studies in handwriting [Unsigned review]"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Handwriting shows family resemblances attributable to inheritance, with characteristic styles recurring within families
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Downey's preliminary study finds that despite conventional teaching, writers lapse into characteristic styles that frequently resemble the handwriting of others in the same family, explicable only on the basis of family relationship. [→ Thompson 1911](#thompson-1911)
+`q2 i?` Downey's preliminary study finds that despite conventional teaching, writers lapse into characteristic styles that frequently resemble the handwriting of others in the same family, explicable only on the basis of family relationship. [→ Recent Studies in Handwriting 1912](#recent-studies-in-handwriting-1912)
 
 ## Evidence
 
-### Thompson 1911
+### Recent Studies in Handwriting 1912
 
-Thompson, M. E. (1911). Recent Studies in Handwriting. The Journal of Educational Psychology, 2, 41-45. https://doi.org/10.1037/h0068789
+Recent studies in handwriting [Unsigned review]. (1912). *Journal of Educational Psychology, 3*(1), 41–46. [doi:10.1037/h0068789](https://doi.org/10.1037/h0068789)
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Downey's preliminary study of family resemblance in handwriting, summarized by the reviewer: resemblances among relatives' handwriting are attributed to family relationship since training and environment may differ, with strong indication of definite handwriting types appearing in families. No effect size is printed.
 

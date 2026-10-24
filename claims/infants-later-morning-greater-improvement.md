@@ -15,12 +15,14 @@ sources:
     author: W. H. Winch
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # In a Standard I infants class, the group working arithmetical reasoning tests at 10.25 A.M. improved more on preliminary records than the group working at 9.40 A.M.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 10.25 A.M. group improved 14.5 per cent on its preliminary record while the 9.40 A.M. group improved 8.7 per cent. [→ W. H. Winch 1911](#w-h-winch-1911)
@@ -31,7 +33,7 @@ sources:
 
 W. H. Winch. (1911). Mental Adaptation During the School Day as Measured by Arithmetical Reasoning.—Part II. The Journal of Educational Psychology. https://eric.ed.gov/?q=Mental+Adaptation+During+the+School+Day+as+Measured+by+Arithmetical+Reasoning
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Third series: a Standard I class (56 children beginning, 25 paired per group, average age 6 years 11 months) was divided into equal groups on preliminary tests; Group A worked final tests at 9.40 A.M. and Group B at 10.25 A.M. The article reports "the group working at 10.25 improve 14.5 per cent" versus 8.7 per cent for the earlier group; no effect size is printed.
 
@@ -46,3 +48,5 @@ Third series: a Standard I class (56 children beginning, 25 paired per group, av
 - [In a boys' school where three-fourths of pupils rose early for work, the earlier-working group (9.40 A.M.) improved more (about 14 per cent) than the later-working group (11.30 A.M., 9 per cent).](working-boys-earlier-morning-advantage.md) — reports the opposite
 - [In a London girls' school class, the group working problematic arithmetic later in the morning improved about 5 or 6 per cent more than the early group](later-morning-group-improves-more-girls-school.md) — related
 - [Section-by-section analyses in the infants and girls' series show the later-working group's advantage across proficiency levels, while the boys' series shows the reverse in every section.](section-by-section-time-of-day-patterns.md) — related
+- [The equal-group tests showed high test-retest and between-group correlations, supporting the reliability of the arithmetical-reasoning marking method.](high-correlations-reasoning-tests.md) — related
+- [In one very poor neighborhood school the exception occurred: the earlier-working group improved more rapidly than the later-working group](poor-school-exception-earlier-group-improves-more.md) — related

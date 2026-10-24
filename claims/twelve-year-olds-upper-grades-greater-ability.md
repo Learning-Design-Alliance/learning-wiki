@@ -15,12 +15,14 @@ sources:
     author: Pyle, W. H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Twelve-year-old pupils in upper grades show much greater test ability than those in lower grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Among forty-four twelve-year-old pupils distributed through four grades, those in upper grades scored much higher on completion, logical memory, word-building and opposites tests. [→ Pyle 1917](#pyle-1917)
@@ -31,7 +33,7 @@ sources:
 
 Pyle, W. H. (1917). A Psychological Study of Bright and Dull Pupils. The Journal of Educational Psychology. https://psycnet.apa.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Group testing of forty-four twelve-year-olds in the Mexico schools across four grades, using four logical memory, four completion, two word-building and four opposites tests. The table shows, for example, completion scores rising from 17.8 in grade 4 to 59.0 in grade 7.
 

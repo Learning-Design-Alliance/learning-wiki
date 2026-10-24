@@ -15,12 +15,14 @@ sources:
     author: Wheeler, T.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Fairy tales dominated the reading choices of girls aged six to eight but dwindled sharply with age, while girls' series books peaked between eleven and sixteen
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` From ages eleven to sixteen, girls' series books occupied one-third or more of total reading selections, dropping to a small proportion in the oldest group. [→ Wheeler 1920](#wheeler-1920)
@@ -31,7 +33,7 @@ sources:
 
 Wheeler, T. (1920). A Study of Certain Recreational Reading and Vocational Phases in the Lives of Young Girls. The Journal of Educational Psychology, Vol. XI, No. 9. https://doi.org/10.1037/h0064614
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive analysis of book choices across age groups in the same survey. Girls' series occupied "one-third or more the total selection" from ages eleven to sixteen, with only a small proportion in the oldest group naming them. No effect size is reported.
 
@@ -43,3 +45,4 @@ Descriptive analysis of book choices across age groups in the same survey. Girls
 ## Related Claims
 - [Reading as a pastime peaked at about one-fifth of preferences among thirteen-to-fourteen-year-old girls](reading-peaks-early-adolescence-girls-1920.md) — related
 - [Only fifty-eight of the 800 girls expressed a wish to pursue a vocation along the lines of their favorite pastimes, concentrated in music, art, athletics, and sewing](rare-recreation-vocation-correlation-girls-1920.md) — related
+- [Among 800 girls aged six to twenty interviewed in 1917-18, active games and sports constituted at least half of recreational preferences across the entire age range](active-games-dominate-girls-recreation-1920.md) — related

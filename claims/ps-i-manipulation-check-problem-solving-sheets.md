@@ -51,3 +51,4 @@ MANCOVA over four process measures (mathematics grade F(4,74) = 6.36, p < 0.001,
 - [Productive failure: student groups who score lower on individual post-tests may have experienced deeper learning leading to superior future performance](productive-failure-deeper-learning-lower-posttests.md) — related
 - [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](pf-fidelity-predicts-psi-effect-size.md) — related
 - [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — related
+- [The experimental manipulation succeeded: most participants reported overchallenge during difficult tasks and underchallenge during easy tasks](manipulation-check-over-underchallenge-distributions.md) — related

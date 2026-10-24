@@ -8,10 +8,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 sources:
-  - id: thompson-1911
+  - id: recent-studies-in-handwriting-1912
     resource: "https://doi.org/10.1037/h0068789"
-    title: "Thompson, M. E. (1911). Recent Studies in Handwriting. The Journal of Educational Psychology, 2, 41-45. https://doi.org/10.1037/h0068789"
-    author: Thompson, M. E
+    title: "Recent studies in handwriting [Unsigned review]. (1912). *Journal of Educational Psychology, 3*(1), 41–46. [doi:10.1037/h0068789](https://doi.org/10.1037/h0068789)"
+    author: "[Unsigned review]"
 ---
 
 # Montessori method: teach writing as a game from ages three to four using sandpaper letters, crayon filling, and progressive tracing
@@ -43,9 +43,12 @@ Madam Montessori teaches writing as a game between three and four years of age, 
 - [Sensory Processing and Handwriting](sensory_processing_and_handwriting.md)
 - [Air Writing](air_writing.md)
 - [Pre-Writing Skills Activities](pre-writing_skills_activities.md)
+- [Multisensory Teaching](multisensory-teaching.md)
+- [Letter Formation Practice](letter-formation-practice.md)
+- [Drawing and Writing Developmental Stages](drawing_and_writing_developmental_stages.md)
 
 ## Examples
 -
 
 ## Key Sources
-- Thompson, M. E. (1911). Recent Studies in Handwriting. The Journal of Educational Psychology, 2, 41-45. https://doi.org/10.1037/h0068789
+- Recent studies in handwriting [Unsigned review]. (1912). *Journal of Educational Psychology, 3*(1), 41–46. [doi:10.1037/h0068789](https://doi.org/10.1037/h0068789)

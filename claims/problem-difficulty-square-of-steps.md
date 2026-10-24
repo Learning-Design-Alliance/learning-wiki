@@ -15,12 +15,14 @@ sources:
     author: Locke, L. L.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Arithmetic problem difficulty may increase as the square of the number of steps rather than directly with step count
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Problem difficulty in arithmetic may increase directly as the square of the number of steps, a more probable hypothesis than difficulty rising directly with step count. [→ Locke 1913](#locke-1913)
@@ -31,7 +33,7 @@ sources:
 
 Locke, L. L. (1913). Inspector Winch's experiments on transfer. https://www.google.com/books/search?q=%22Inspector+Winch%27s+Experiments+on+Transfer%22
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Tentative hypothesis offered in the commentary's discussion of the weighting of steps in problem work; no data are reported. The author proposes that 'the increase is directly as the square of the number of steps.'
 

@@ -15,12 +15,14 @@ sources:
     author: Pyle, W. H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Good pupils average younger than poor pupils, by amounts ranging from equal age to two and a half years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across the schools, good pupils were on average more than a year younger than poor pupils, with school-specific differences from none at Kennett to two and a half years at Westport. [→ Pyle 1917](#pyle-1917)
@@ -31,7 +33,7 @@ sources:
 
 Pyle, W. H. (1917). A Psychological Study of Bright and Dull Pupils. The Journal of Educational Psychology. https://psycnet.apa.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive age comparison of the selected good and poor groups across the four high schools. Overall the good pupils were "a trifle more than a year younger," ranging from equal ages at Kennett to two and a half years younger at Westport.
 

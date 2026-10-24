@@ -15,12 +15,14 @@ sources:
     author: W. H. Winch
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In a boys' school where three-fourths of pupils rose early for work, the earlier-working group (9.40 A.M.) improved more (about 14 per cent) than the later-working group (11.30 A.M., 9 per cent).
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The group working at 9.40 A.M. improved about 14 per cent on its preliminary record while the group working at 11.30 A.M. improved 9 per cent, a 5 per cent difference favouring the earlier group. [→ W. H. Winch 1911](#w-h-winch-1911)
@@ -31,7 +33,7 @@ sources:
 
 W. H. Winch. (1911). Mental Adaptation During the School Day as Measured by Arithmetical Reasoning.—Part II. The Journal of Educational Psychology. https://eric.ed.gov/?q=Mental+Adaptation+During+the+School+Day+as+Measured+by+Arithmetical+Reasoning
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Fifth series: the whole First Class (average age about 12.5 years) of a boys' school in a very poor neighbourhood, with 13 pupils per group after absences, divided into equal groups on preliminary tests. Group A worked final tests at 9.40 A.M., Group B at 11.30 A.M.; percentages are printed with no effect size.
 
@@ -47,3 +49,5 @@ Fifth series: the whole First Class (average age about 12.5 years) of a boys' sc
 - [In a London boys' school class, the group working problematic arithmetic later in the morning improved about 5 per cent more than the group working it early](later-morning-group-improves-more-boys-school.md) — reports the opposite
 - [Improvement by practice continues in both morning and afternoon groups, but the morning group improves faster across weeks](practice-continues-faster-mornings.md) — related
 - [Late-afternoon memory work shows relative inefficiency of about 5-6 per cent compared with early-morning work in 13-year-old boys](afternoon-memory-fatigue-five-six-percent.md) — related
+- [In one very poor neighborhood school the exception occurred: the earlier-working group improved more rapidly than the later-working group](poor-school-exception-earlier-group-improves-more.md) — related
+- [In a London girls' school class, the group working problematic arithmetic later in the morning improved about 5 or 6 per cent more than the early group](later-morning-group-improves-more-girls-school.md) — related

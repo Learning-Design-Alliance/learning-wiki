@@ -15,12 +15,14 @@ sources:
     author: Pyle, W. H.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Cancellation test ability shows no relation, and possibly an inverse relation, to abilities shown in the other tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Ability to do the cancellation test has no relation to the abilities shown in the other tests, and in some tests appears to show an inverse relation. [→ Pyle 1917](#pyle-1917)
@@ -31,7 +33,7 @@ sources:
 
 Pyle, W. H. (1917). A Psychological Study of Bright and Dull Pupils. The Journal of Educational Psychology. https://psycnet.apa.org
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 The author's interpretation of the comparison tables, in which the Kennett table shows the good group 12 per cent worse on the ink-blot-adjacent cancellation column. He reports the cancellation test "has no relation to the abilities shown in the other tests" and possibly an inverse relation.
 

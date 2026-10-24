@@ -15,18 +15,22 @@ sources:
     author: J. L. Zerbe
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: j-l-zerbe-1917-2
     resource: "https://doi.org/10.1037/h0074694"
     title: "J. L. Zerbe. (1917). Distribution of Grades. The Journal of Educational Psychology, VIII(10), 575-588. https://doi.org/10.1037/h0074694"
     author: J. L. Zerbe
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Circulating a report urging uniform grade distribution produced little or no change in instructors' grading practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After the report was circulated, variation between individual instructors' day and night grade distributions remained marked, indicating no conscientious effort to systematize distribution. [→ J. L. Zerbe 1917](#j-l-zerbe-1917)
@@ -38,7 +42,7 @@ sources:
 
 J. L. Zerbe. (1917). Distribution of Grades. The Journal of Educational Psychology, VIII(10), 575-588. https://doi.org/10.1037/h0074694
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Analysis of second-semester grades after the report was circulated to the faculty. Although the combined distribution shifted somewhat toward normal, individual instructors' day and night grade variation remained "marked."
 
@@ -48,7 +52,7 @@ Analysis of second-semester grades after the report was circulated to the facult
 
 J. L. Zerbe. (1917). Distribution of Grades. The Journal of Educational Psychology, VIII(10), 575-588. https://doi.org/10.1037/h0074694
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Author's interpretation of Plate IV covering day-course semesters 1912-13 through 1914-15 and night-course distributions. He concludes "Personal opinion seems to be the only standard they were willing to use," noting the Dean was on sabbatical leave so the report had no official sanction.
 
