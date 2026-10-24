@@ -102,3 +102,4 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Family-implemented literacy interventions produce a positive, significant average effect on combined literacy outcomes for school-aged children in group design studies (g = 0.36)](family-literacy-interventions-group-design-g-036.md) — related
 - [Research on family-implemented literacy interventions for school-aged children is sparse and concentrated in early elementary grades, with no studies of older children meeting inclusion criteria](paucity-family-literacy-research-older-children.md) — related
 - [Children gain more from interventions administered by researchers or combined implementers than by parents](implementer-moderates-intervention-effect.md) — related
+- [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — reports the opposite

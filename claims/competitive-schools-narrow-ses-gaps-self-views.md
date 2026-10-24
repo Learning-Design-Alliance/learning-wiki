@@ -51,3 +51,4 @@ Preregistered secondary analysis of PISA 2018 data using three-level hierarchica
 - [The moderating effects of school competitiveness on SES gaps were statistically significant but small in size](competitiveness-ses-interactions-small-effects.md) — related
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — related
 - [The BFLPE is one of the most robust findings in educational psychology, with negative school-average achievement effects on ASC in 181 of 191 PISA samples](bflpe-robust-across-pisa-samples.md) — related
+- [The manuscript reports that income inequality fosters competitiveness at school, as stated in its title.](income-inequality-fosters-competitiveness-at-school.md) — related

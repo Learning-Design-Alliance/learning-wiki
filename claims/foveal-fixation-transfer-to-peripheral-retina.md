@@ -45,3 +45,4 @@ A secondary observation from experiments in which figures were reversed in the d
 ## Related Claims
 - [Practice with one eye in controlling reversible perspective transfers to the unpracticed eye (cross-education)](cross-education-unpracticed-eye-reversible-perspective.md) — related
 - [Students transferred cube-based permutation reasoning to permutation tasks not involving cubes](cube-reasoning-transfers-to-non-cube-permutation-tasks.md) — related
+- [Two instances of cross-education or transference of training are offered as evidence in favor of the doctrine of formal discipline](cross-education-instances-support-formal-discipline.md) — related

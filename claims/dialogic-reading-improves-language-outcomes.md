@@ -120,3 +120,4 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 - [Technology use (read-aloud, response mode, or interactive instruction) does not significantly moderate shared text reading effects](technology-use-not-significant-moderator.md) — related
 - [Family-implemented literacy interventions produce a positive, significant average effect on combined literacy outcomes in single-case experimental design studies (g = 1.50), specific to students with or at risk for reading difficulties](family-literacy-interventions-sced-g-150.md) — related
 - [Children gain more from interventions administered by researchers or combined implementers than by parents](implementer-moderates-intervention-effect.md) — related
+- [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — related

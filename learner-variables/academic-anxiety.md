@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (80 show a difference, 32 mixed, 15 no difference) · 83 studies (34 associational, 17 review, 14 causal, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 20 of 83 report an effect size · 120 claims rest on one study
+> **Evidence** · 135 claims (86 show a difference, 33 mixed, 16 no difference) · 86 studies (36 associational, 17 review, 15 causal, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 21 of 86 report an effect size · 128 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -163,6 +163,14 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Mathematics anxiety for learning is indirectly related to seventh-grade mathematics achievement through reduced in-class attention](../claims/math-anxiety-indirect-effect-through-attention.md) [+W] — learners who differ on it differ in outcomes
 - [Academic anxiety mediates between one-tenth and one-fifth of the social class test gap across social class indicators, anxiety forms, and school domains](../claims/anxiety-mediation-social-class-test-gap.md) [+M] — learners who differ on it differ in outcomes
 - [Whether anxiety explains the income inequality × social class interaction remains inconclusive](../claims/moderated-mediation-anxiety-inconclusive.md) [~M] — learners who differ on it differ in outcomes
+- [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](../claims/buoyancy-moderates-anxiety-performance.md) [~M] — an instructional effect differs with it
+- [Anxiety negatively predicts subsequent mathematics test performance in primary school students when emotions are modeled simultaneously](../claims/anxiety-negative-predicts-math-performance-primary.md) [+M] — learners who differ on it differ in outcomes
+- [Girls and FARM-enrolled students report higher mathematics anxiety at year's end, controlling for fall anxiety](../claims/girls-farm-higher-math-anxiety.md) [+M] — instruction changes it
+- [Retention improves math self-efficacy and reduces math anxiety in the first year, with effects maintained (anxiety showing a positive sleeper effect at Lag 4)](../claims/retention-self-efficacy-anxiety-effects.md) [+W] — instruction changes it
+- [Teachers' beginning-of-year anxiety for teaching mathematics, science, or ELA shows no direct significant association with students' end-of-year anxiety in that content area](../claims/no-direct-teacher-student-content-area-anxiety-association.md) [-M] — instruction changes it
+- [Teachers' mathematics anxiety is positively associated with the mathematics anxiety of their low-SES students via a teacher-anxiety-by-FARM interaction](../claims/teacher-math-anxiety-farm-interaction.md) [+M] — instruction changes it
+- [Teachers' science anxiety is positively associated with the science anxiety of their low-SES students via a teacher-anxiety-by-FARM interaction](../claims/teacher-science-anxiety-farm-interaction.md) [+M] — instruction changes it
+- [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](../claims/anxiety-strongest-predictor-when-emotions-modeled-together.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

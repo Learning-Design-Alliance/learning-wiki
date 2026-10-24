@@ -45,3 +45,4 @@ From Tables XVIII and XIX correlations across grades III-VIII, the article repor
 ## Related Claims
 - [Rate and comprehension composites of silent reading tests correlate 0.84 in elementary grades](rate-comprehension-composites-correlate-084.md) — related
 - [Teacher-rated social skills and problem behaviors correlated significantly with posttest decoding and spelling scores in severely struggling middle school readers](social-skills-behavior-correlate-decoding-spelling.md) — related
+- [School subjects intercorrelate lowly except reading comprehension with reading rate (0.85)](low-school-subject-intercorrelations.md) — related

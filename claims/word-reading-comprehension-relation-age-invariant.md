@@ -47,3 +47,4 @@ Multi-group CFA of word reading, reading comprehension, and listening comprehens
 - [Reading comprehension variance is fully shared with listening comprehension and word reading](reading-comprehension-variance-fully-shared.md) — related
 - [Working memory and processing speed, but not inhibition or non-alphanumeric naming speed, uniquely predict both word reading and reading comprehension in children ages 8 to 16](wm-and-processing-speed-unique-predictors-reading.md) — related
 - The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups — related
+- [Retention effects are developmentally invariant across students retained in Years 5, 6, 7, and 8, and mostly positive overall](retention-effects-developmentally-invariant.md) — related

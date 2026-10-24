@@ -12,7 +12,7 @@ generated:
 # Play and Cognitive Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (11 for, 5 mixed) · 13 studies (4 causal, 4 associational, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q3` · 3 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 17 claims (12 for, 5 mixed) · 14 studies (4 causal, 4 associational, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 3 of 14 report an effect size · 17 claims rest on one study
 
 ## Description
 Play is self-directed, individually constructed, imaginative activity, distinct from product-focused work, that serves cognitive skill development, social-emotional learning, and identity exploration. Piaget identified types of play that track a child's cognitive maturation; Smilansky added an intermediate category; Vygotsky offered a complementary account of *why* pretend play matters developmentally, independent of Piaget's stage framework.
@@ -62,6 +62,7 @@ Vygotsky treated pretend play as central to development in its own right: it let
 - [Action, strategy-intelligence, role-playing and sport traditional game genres positively predict social problem-solving scores](../claims/traditional-game-genres-positive-spsic-predictors.md) [~W]
 - [Studies measuring solitary pretend play amount yield lower correlations with social competence than studies measuring social pretend play amount](../claims/solitary-amount-lower-than-social-amount.md) [~W]
 - [The pretend play–social competence relation does not differ significantly across types of social competence measures or between intervention and non-intervention studies](../claims/no-difference-by-competence-measure-or-design.md) [+W]
+- [Instinctive tendencies, particularly those evinced in play, already provide efficient machinery for children's acquaintance with the world](../claims/instinctive-play-suffices-sensory-acquaintance.md) [+W]
 
 ## Related Theories
 

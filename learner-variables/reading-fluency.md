@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 66 claims (38 show a difference, 16 mixed, 12 no difference) · 46 studies (14 causal, 10 review, 10 associational, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 12 of 46 report an effect size · 65 claims rest on one study
+> **Evidence** · 67 claims (39 show a difference, 16 mixed, 12 no difference) · 47 studies (14 causal, 11 associational, 10 review, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 13 of 47 report an effect size · 66 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -106,6 +106,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Daily speed drills produced an 18.7% relative gain in silent reading speed among grade 4-6 pupils without injuriously affecting quality of reproduction](../claims/speed-drills-raise-reading-speed-without-quality-loss.md) [+M] — instruction changes it
 - [Speed-drill gains in reading speed were concentrated in the early part of the training period](../claims/speed-drill-gains-concentrated-early.md) [~M] — instruction changes it
 - [The experiment did not confirm that speed increase carries increased reading effectiveness within the same individual](../claims/speed-gain-does-not-carry-effectiveness-gain.md) [-M] — learners who differ on it differ in outcomes
+- [School subjects intercorrelate lowly except reading comprehension with reading rate (0.85)](../claims/low-school-subject-intercorrelations.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

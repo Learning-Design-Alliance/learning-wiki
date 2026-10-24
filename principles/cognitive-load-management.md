@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 81 claims (33 for, 45 mixed, 3 against) · 68 studies (30 causal, 15 review, 10 quant-synthesis, 10 theoretical, 2 associational, 1 design), `q1`–`q4` · 25 of 68 report an effect size · 72 claims rest on one study
+> **Evidence** · 82 claims (34 for, 45 mixed, 3 against) · 69 studies (31 causal, 15 review, 10 quant-synthesis, 10 theoretical, 2 associational, 1 design), `q1`–`q4` · 25 of 69 report an effect size · 73 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Consistently high task complexity yields faster immediate problem-solving than gradually increasing complexity, with no post-test difference](../claims/high-complexity-faster-immediate-performance.md) [~W] — attached 2026-10-22 from Ines Zeitlhofer et al. (2024), which proposed "Expose learners to consistently high task complexity to stimulate germane processing without harming intrinsic interest"; tests this page's relationship.
 - [Task complexity strongly affects germane cognitive load in Round 1, with effects dissipating by post-test](../claims/complexity-germane-load-round-effects.md) [~W] — attached 2026-10-22 from Ines Zeitlhofer et al. (2024), which proposed "Expose learners to consistently high task complexity to stimulate germane processing without harming intrinsic interest"; tests this page's relationship.
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](../claims/clt-circumvent-working-memory-limits.md) [+W] — attached 2026-10-23 from Kirschner (2002), which proposed "Present information in ways that encourage learner activities that optimise intellectual performance".
+- [Learning number symbols from multiple concrete representations carries a cost compared with consistent single representations, whether concrete or abstract](../claims/cost-of-multiple-concrete-representations.md) [+W] — attached 2026-10-24 from Amy Bennett et al. (2018), which proposed "Design number books and early number materials with simple, consistent representations of quantity"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

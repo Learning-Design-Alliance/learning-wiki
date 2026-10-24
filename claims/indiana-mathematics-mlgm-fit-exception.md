@@ -50,3 +50,4 @@ MLGM goodness-of-fit analyses across ten states; the article reports fit was exc
 - [Longitudinal partial strong measurement invariance of the four-item self-efficacy survey justifies fitting growth models to its scores](self-efficacy-survey-partial-longitudinal-invariance.md) — related
 - [Chi-square difference tests show significant loading invariance constraints for Kansas Reading but all constraints significant for Michigan Mathematics](mgcfa-chi-square-difference-patterns-kansas-michigan.md) — related
 - [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
+- [Retention effects are developmentally invariant across students retained in Years 5, 6, 7, and 8, and mostly positive overall](retention-effects-developmentally-invariant.md) — related

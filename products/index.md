@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1904 entries** · 0 stable · 1904 in review · 0 drafts
+**1905 entries** · 0 stable · 1905 in review · 0 drafts
 
 ---
 
@@ -1783,6 +1783,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-level RTI prevention model for identifying learning disabilities](three-level-rti-prevention-model-for-identifying-learning-disabilities.md) - A response-to-intervention framework that organizes general instruction, targeted tutoring, and special education evaluation around students' measured progress and responsiveness.
 * [TibetCPR](tibetcpr.md) - A low-cost self-guided CPR training system developed by Yibo Meng and colleagues that combines a sensor-equipped mannequin, electrotactile and visual performance feedback, and a Tibetan-language narrative game.
 * [Time Explorers](time-explorers.md) - A mobile augmented-reality app developed by Heather Toomey Zimmerman and colleagues for family, place-based learning about Appalachian geological history.
+* [Tips by Text](tips-by-text.md) - Tips by Text is a school-delivered text-message programme that gives parents of young children weekly information, home-activity suggestions, and developmental encouragement to support language, literacy, numeracy, and socioemotional learning.
 * [TNTP Turnaround Leadership Teams Strategy (TLTS)](tntp-turnaround-leadership-teams-strategy-tlts.md) - A TNTP school-improvement programme that diagnoses school needs and develops and supports school leadership teams to strengthen leadership, instruction, school culture, and family engagement.
 * [To&Through Project](tothrough-project.md) - The To&Through Project at the UChicago Consortium on School Research tracks Chicago Public Schools students from high school through college and publishes the data in public online tools.
 * [Too Good for Drugs](too-good-for-drugs.md) - Too Good for Drugs is a classroom-delivered K–8 drug-prevention and character-education curriculum developed by the Mendez Foundation, with scripted lessons, role-play, cooperative activities, and skill-building exercises.

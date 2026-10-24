@@ -50,3 +50,4 @@ Descriptive structural finding from the latent profile analyses of the 204 stude
 - [Latent profile analyses of interest dimensions best support two nearly identical sets of six profiles at both time points](lpa-six-interest-profiles-two-time-points.md) — related
 - [Discrepancies hint at a novel and separate developmental trajectory of interests requiring further investigation](novel-separate-interest-development-trajectory.md) — related
 - [Profile structures and transitions over time largely align with common descriptions of interest development](profile-transitions-align-interest-development-theory.md) — related
+- [Latent profile analysis of RIASEC interests in Dutch Grade 9 students reveals seven distinct vocational interest profiles](seven-vocational-interest-profiles-grade-9.md) — a narrower finding that bears on this claim

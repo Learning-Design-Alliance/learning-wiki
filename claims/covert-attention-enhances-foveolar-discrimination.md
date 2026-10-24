@@ -67,3 +67,4 @@ Same Experiment 3 analysis comparing invalid-cue costs across hemifield configur
 - [Fine foveolar attentional effects persist during normal, non-stabilized fixation with natural retinal image motion](foveolar-attention-persists-normal-fixation.md)
 - [Endogenous spatial cueing speeds detection at the attended parafoveal location and slows it at the unattended location](covert-cueing-speeds-parafoveal-detection.md) — related
 - [Detection is slower for targets within the foveola than in the parafovea despite equal detectability](foveolar-detection-slower-than-parafoveal.md) — related
+- [Normal sense organs possess surplus discriminative efficiency beyond ordinary practical demands](sense-organs-surplus-efficiency.md) — related

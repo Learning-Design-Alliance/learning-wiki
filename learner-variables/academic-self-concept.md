@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (71 show a difference, 20 mixed, 8 no difference) · 50 studies (24 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 12 of 50 report an effect size · 96 claims rest on one study
+> **Evidence** · 100 claims (72 show a difference, 20 mixed, 8 no difference) · 51 studies (25 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 51 report an effect size · 97 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -134,6 +134,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](../claims/big-fish-little-pond-only-self-concepts-end-of-schooling.md) [+W] — instruction changes it
 - [Students with the intermediate school-leaving certificate report higher academic self-concepts, better perceived labor market chances, and less disengagement than students with the low certificate](../claims/intermediate-certificate-higher-self-beliefs-less-disengagement.md) [+W] — instruction changes it
 - [Track level did not predict students' self-beliefs or school disengagement at the end of schooling](../claims/track-level-not-a-predictor-end-of-schooling.md) [-W] — instruction changes it
+- [Grade retention has positive effects on math self-concept in the first year following retention, maintained over subsequent years](../claims/retention-positive-math-self-concept-lag1.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

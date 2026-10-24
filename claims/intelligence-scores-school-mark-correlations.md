@@ -54,3 +54,5 @@ Correlational comparison of intelligence scores with scholarship in the Normal S
 - [IQ-grade correlation differs sharply by class standing: .69 for Juniors versus .17 for Sophomores, rising to .48 when three discrepant records are omitted](caldwell-1919-junior-sophomore-correlation-difference.md) — related
 - [Prior studies show low and variable correlations between mental tests and college grades, averaging from .09 to .44](caldwell-1919-prior-test-grade-correlations-low.md) — related
 - [Test results correlate more highly with estimated intelligence than with grades, including Starch's .75 versus .30 at Wisconsin](caldwell-1919-estimated-intelligence-correlations.md) — related
+- [Standardized group test scores correlate weakly and variably with freshman class averages, ranging from 0 to .25](group-tests-low-variable-correlations-class-average.md) — related
+- [Directional correlations between test scores and discrepancy direction are low but suggest tension tests track scholarship superiority and assimilation tests track intelligence superiority](low-directional-correlations-tension-versus-assimilation.md) — related

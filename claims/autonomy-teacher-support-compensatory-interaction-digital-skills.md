@@ -53,3 +53,4 @@ Observational interaction analysis of school autonomy and teacher support in rel
 - [Learning environment indicators only moderately discriminate between countries with high versus low ICT aspiration growth, with digital skills the strongest discriminant](lda-moderate-discrimination-ict-aspiration-growth.md) — related
 - [Simulated one-standard-deviation increases in autonomy yield only modest predicted changes in ICT career aspirations](counterfactual-autonomy-increase-modest-ict-aspiration-effect.md) — related
 - [Teacher autonomy for AI decision-making varies sharply across national contexts](teacher-autonomy-ai-varies-nationally.md) — related
+- [At large peer-teacher relatedness discrepancies, high teacher relatedness compensates for absent peer relatedness to support engagement, whereas low teacher relatedness accompanies low engagement (Study 1)](teacher-specific-compensation-engagement.md) — related

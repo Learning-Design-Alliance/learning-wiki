@@ -49,3 +49,4 @@ Correlational survey of the Thorndike-McCall against other reading tests and int
 - [Case evidence suggests the Thorndike-McCall diagnoses comprehension power unaffected by reading mechanics, as in a slow reader of above-125 IQ scoring at grade level](thorndike-mccall-diagnostic-case-slow-reader.md) — related
 - [Vocabulary test scores correlate about 0.6 with reading comprehension but are not an adequate measure of it](vocabulary-tests-inadequate-reading-measure.md) — related
 - [Clement's five group intelligence tests intercorrelated only modestly, with the Indiana Mental Survey below 0.40 against all others](clement-five-test-intercorrelations-modest.md) — related
+- [School subjects intercorrelate lowly except reading comprehension with reading rate (0.85)](low-school-subject-intercorrelations.md) — related

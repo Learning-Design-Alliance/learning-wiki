@@ -49,3 +49,4 @@ Cross-lagged panel model (Model 1) with achievement from student records (Swiss 
 - [Student-teacher relationship quality and students' classroom emotions show reciprocal longitudinal associations over one year](reciprocal-relationship-quality-emotions-associations.md) — related
 - [Math achievement and math anxiety show reciprocal longitudinal relationships in primary school children: achievement at T1 predicts anxiety at T2 and anxiety at T1 predicts achievement at T2](reciprocal-theory-math-anxiety-achievement-primary-school.md) — related
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
+- [Anxiety negatively predicts subsequent mathematics test performance in primary school students when emotions are modeled simultaneously](anxiety-negative-predicts-math-performance-primary.md) — related

@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 38 claims (24 show a difference, 11 mixed, 3 no difference) · 26 studies (9 review, 9 associational, 5 causal, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 5 of 26 report an effect size · 38 claims rest on one study
+> **Evidence** · 41 claims (24 show a difference, 12 mixed, 5 no difference) · 27 studies (9 review, 9 associational, 6 causal, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 5 of 27 report an effect size · 41 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -74,6 +74,9 @@ Visual processing is what the brain does with the input that comes through visio
 - [Stereoscopic display of realistic visualizations may support spatial perception and transfer-oriented learning](../claims/stereoscopic-realism-transfer-potential.md) [+M] — instruction changes it
 - [Visuospatial processing plays a pivotal role for learning](../claims/visuospatial-processing-pivotal-for-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Visual attention to the highest performance level (PL4) predicts task performance, whereas verbal references to performance levels do not](../claims/visual-attention-to-pl4-predicts-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Longer exposures barely increase apprehension of nonsense material and objects, but materially increase perception of quickly assimilable sense-material such as poetry](../claims/exposure-length-apprehension-material-type.md) [~M] — instruction changes it
+- [Practise has a very slight effect on the range of attention, explicable by habituation and grouping tricks rather than any expansion of the range itself](../claims/practise-negligible-effect-range-of-attention.md) [-M] — instruction changes it
+- [Systematic practise gives little warrant for markedly improving adults' quick visual perception; the slight poetry gain is attributed to familiarity with the poem](../claims/practise-negligible-effect-apprehension.md) [-M] — instruction changes it
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

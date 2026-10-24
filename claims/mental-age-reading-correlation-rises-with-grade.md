@@ -72,3 +72,4 @@ Cross-grade correlational analysis (Table XI and Table VIII) of reading tests wi
 - [The Burgess test correlates more highly with rate and comprehension composites (0.82 and 0.80) than any other single test, and pairs well with the Thorndike-McCall](burgess-high-composite-correlations-team-with-thorndike-mccall.md) — related
 - [The Thorndike-McCall correlates about 0.50 with other single comprehension tests and 0.69 with a composite of group intelligence tests](thorndike-mccall-correlations-comprehension-intelligence.md) — related
 - [Practice effects on the Thorndike-McCall test over two or more hours of testing are very small](thorndike-mccall-practice-effect-small.md) — related
+- [Stanford-Binet mental age correlations with achievement rise with grade level, while verbal group test correlations stay about the same](stanford-ma-achievement-correlation-rises-with-grade.md) — a broader claim this one bears on

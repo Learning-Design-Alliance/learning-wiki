@@ -41702,5 +41702,33 @@
  "test-format\tstepwise MCQs with translations delayed 4 seconds\tstandard MCQs with translations shown immediately": {
   "label": "delayed vs immediate translation display",
   "treatment_is_a": true
+ },
+ "active-learning\tinformation lecture\tskillful eliciting of a pupil's reaction": {
+  "label": "active learning vs lecture",
+  "treatment_is_a": false
+ },
+ "active-learning\tskillful eliciting of a pupil's reaction\tinformation lecture and predigested intellectual food": {
+  "label": "active learning vs lecture",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic instruction in handling concrete objects\tnatural development through instinctive tendencies and play": {
+  "label": "systematic instruction vs naturalistic development",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlast practice period\tfirst practice period": {
+  "label": "repeated practice vs initial exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater practice period\tfirst practice period": {
+  "label": "repeated practice vs initial exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater practice periods\tfirst practice period": {
+  "label": "repeated practice vs initial exposure",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated practice exposures\tinitial exposure period": {
+  "label": "repeated practice vs initial exposure",
+  "treatment_is_a": true
  }
 }

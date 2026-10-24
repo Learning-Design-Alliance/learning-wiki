@@ -45,3 +45,4 @@ From the Results of the preregistered PISA 2018 hierarchical linear modeling acr
 ## Related Claims
 - [In more competitive school environments, lower-SES students perform better academically than their more advantaged peers, narrowing SES achievement gaps](competitive-schools-narrow-ses-gaps-achievement.md) — possibly the same claim (merge candidate)
 - [In more competitive school environments, students from lower SES backgrounds report more positive self-views than their more advantaged peers, narrowing SES gaps in self-views](competitive-schools-narrow-ses-gaps-self-views.md) — related
+- [The manuscript reports that income inequality fosters competitiveness at school, as stated in its title.](income-inequality-fosters-competitiveness-at-school.md) — related

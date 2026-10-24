@@ -45,3 +45,4 @@ Cross-sectional latent profile analysis of 7,226 interest reports from 204 Dutch
 ## Related Claims
 - [Interest profiles combine homogeneous and heterogeneous patterns across the six dimensions](interest-profiles-homogeneous-and-heterogeneous-patterns.md) — related
 - [Adolescents' math and L1 self-concept and interest development across Grades 7–9 is best described by a single homogeneous trajectory profile](one-class-motivational-trajectory-grades-7-9.md) — related
+- [Latent profile analysis of RIASEC interests in Dutch Grade 9 students reveals seven distinct vocational interest profiles](seven-vocational-interest-profiles-grade-9.md) — related

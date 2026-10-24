@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 79 claims (39 for, 34 mixed, 6 against) · 82 studies (28 review, 21 causal, 9 theoretical, 8 qualitative, 6 associational, 5 quant-synthesis, 5 design), `q1`–`q4` · 7 of 82 report an effect size · 74 claims rest on one study
+> **Evidence** · 80 claims (40 for, 34 mixed, 6 against) · 83 studies (28 review, 21 causal, 9 theoretical, 8 qualitative, 7 associational, 5 quant-synthesis, 5 design), `q1`–`q4` · 7 of 83 report an effect size · 75 claims rest on one study
 
 ## Conditional relationship
 
@@ -189,6 +189,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Most primary studies in simulation-based learning do not personalize scaffolding or task progression](../claims/most-studies-lack-personalization.md) [~W]
 - [Prior reviews identify interactive, well-timed, tailored programs delivered by trained personnel as effective](../claims/prior-reviews-effective-rse-features.md) [+W]
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](../claims/system-control-not-superior-transfer.md) [~W]
+- [Latent profile analysis of RIASEC interests in Dutch Grade 9 students reveals seven distinct vocational interest profiles](../claims/seven-vocational-interest-profiles-grade-9.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing
