@@ -43,6 +43,8 @@ Experiment 1 gamma correlations over the first three presentations (analyses exc
 
 
 ## Related Claims
+
 - [Test experience alleviates the foresight bias more effectively than study experience](test-experience-beats-study-experience-for-debiasing.md) — related
 - [Resolution of JOLs increases across study–test cycles, improving between Cycles 1 and 2 but not from Cycle 2 to Cycle 3](jol-resolution-increases-across-cycles.md) — a broader claim this one bears on
 - [Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation](study-test-practice-reduces-foresight-bias.md) — a narrower finding that bears on this claim
+- [The maze task included a re-solve phase in which participants solved the same maze forward or backward from finish to start](maze-resolve-forward-backward-phase.md)

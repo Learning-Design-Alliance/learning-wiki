@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1898 entries** · 0 stable · 1898 in review · 0 drafts
+**1903 entries** · 0 stable · 1903 in review · 0 drafts
 
 ---
 
@@ -444,6 +444,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [DreamBox Math](dreambox-math.md) - DreamBox Learning's adaptive online mathematics program for K–8 learners, designed to supplement classroom instruction through personalized, standards-aligned practice and instruction.
 * [Dual Enrollment Equity Pathway (DEEP) framework](dual-enrollment-equity-pathway-deep-framework.md) - A Community College Research Center framework that organizes four equity-oriented practice areas for designing and supporting dual-enrollment programs, especially for underserved high school students.
 * [Duolingo](duolingo.md) - Duolingo is a language-learning software platform operated by Duolingo, Inc., offering courses, practice activities, and community discussion boards across many languages.
+* [Dutch COOL triennial cohort study dataset](dutch-cool-triennial-cohort-study-dataset.md) - A Dutch national longitudinal cohort dataset following elementary students with repeated teacher reports, student motivational measures, and nationally normed reading and mathematics achievement tests.
 * [Dynamic hands-on ramp task for assessing kindergartners' CVS use across four variable-count levels](dynamic-hands-on-ramp-task-for-assessing-kindergartners-cvs-use-across-four-variable-count.md) - A researcher-administered hands-on ramp-task assessment adapted from Chen and Klahr's ramp task to measure kindergartners' control-of-variables strategy through progressively complex experiment designs and feedback.
 * [Dynamic Learning Project](dynamic-learning-project.md) - A school-based instructional technology coaching programme run by Digital Promise that places full-time coaches in underserved schools to support teachers through iterative coaching cycles, modeling, co-teaching, and reflection.
 * [DysLexLens](dyslexlens.md) - DysLexLens is a low-resource, evidence-traceable LLM framework developed by Dana Rezazadegan et al.
@@ -510,6 +511,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [EL Education's Teacher Potential Project (TPP)](el-educations-teacher-potential-project-tpp.md) - A programme run by EL Education that combines a standards-aligned English language arts curriculum with embedded professional development for teachers.
 * [El Paso Collaborative for Academic Excellence](el-paso-collaborative-for-academic-excellence.md) - A University of Texas at El Paso and El Paso-area school-district initiative that combined standards, intensive teacher professional development, coaching, and teacher-preparation changes to improve K–college achievement.
 * [ELBench](elbench.md) - ELBench is a four-module, 2,939-item benchmark developed by Yilin Jiang et al.
+* [Electrically instrumented mirror-drawing apparatus](electrically-instrumented-mirror-drawing-apparatus.md) - A Wells (1915) psychological-laboratory apparatus that uses a mirrored star-tracing task, electrical error counting, and elapsed-time measurement to assess motor learning performance.
 * [Elementary On-Track framework](elementary-on-track-framework.md) - Chicago Public Schools' Elementary On-Track framework uses GPA and attendance thresholds to organize support tiers for younger students.
 * [Elevate](elevate.md) - Elevate is a software-enabled continuous-improvement platform developed by PERTS and UCCSR that helps educators measure, disaggregate, track, and improve learning conditions over time.
 * [ELEVATE (Efficient LLM Education with Virtual Avatar Teaching Engine)](elevate-efficient-llm-education-with-virtual-avatar-teaching-engine.md) - A three-stratum framework developed by Lorenzo Stacchio et al.
@@ -1292,6 +1294,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [PhysicsMate benchmark of 1,834 curriculum-grounded Bengali physics QA pairs](physicsmate-benchmark-of-1834-curriculum-grounded-bengali-physics-qa-pairs.md) - A benchmark dataset and accompanying knowledge graph of 1,834 Bengali Grade 9–10 physics question-answer pairs grounded in the official NCTB textbook, released by Rashid Azraf Jahin et al.
 * [Picture Spelling Test with phonological plausibility scoring](picture-spelling-test-with-phonological-plausibility-scoring.md) - A researcher-designed picture-based spelling assessment with phonological-plausibility scoring, developed by Geers and Hayes for adolescents with prelingual deafness and cochlear implants.
 * [Pinpoint Learning mock-exam dataset of 119,034 UK students across 13 national-level mock exams](pinpoint-learning-mock-exam-dataset-of-119034-uk-students-across-13-national-level-mock-ex.md) - A question-level GCSE mathematics mock-exam results dataset extracted from the Pinpoint Learning platform and collected from teacher-uploaded assessments.
+* [Pintner's Mental Survey](pintners-mental-survey.md) - A standardized group mental-ability test consisting of six tests for school children ages 6–16, developed by Rudolf Pintner and normed on more than 3,000 children with percentile norms.
 * [Pirate Math](pirate-math.md) - Pirate Math is a one-to-one mathematics tutoring programme for third-grade students with calculation and word-problem difficulties, delivered through structured sessions using counting-up and missing-number strategies with a treasure-map reward system.
 * [PISA 2018 dataset on intercultural education and student psychosocial outcomes](pisa-2018-dataset-on-intercultural-education-and-student-psychosocial-outcomes.md) - A Programme for International Student Assessment 2018 dataset linking student-, school-, and country-level measures of intercultural education, teacher attitudes, and psychosocial outcomes across 58 countries, produced by the OECD.
 * [PISA 2022 Global Crises Module (GCM) student questionnaire](pisa-2022-global-crises-module-gcm-student-questionnaire.md) - A PISA student questionnaire module administered by the OECD to measure 15-year-old students' learning conditions and experiences during COVID-19 school closures.
@@ -1693,6 +1696,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [TeachBench knowledge-structured benchmark](teachbench-knowledge-structured-benchmark.md) - A benchmark dataset developed by Zheng Li et al.
 * [Teacher as Social Context Questionnaire (TASC) and Situations in School Questionnaire (SIS)](teacher-as-social-context-questionnaire-tasc-and-situations-in-school-questionnaire-sis.md) - The TASC and SIS are questionnaire-based assessment instruments used to measure students' or teachers' perceptions of teacher autonomy support, structure, involvement, control, and chaos in K–12 and post-secondary educational settings.
 * [Teacher Assessment of College-going Climate measure](teacher-assessment-of-college-going-climate-measure.md) - A school-level survey-based measure developed by Roderick et al.
+* [Teacher enjoyment scale developed for this study (5 class-referenced items)](teacher-enjoyment-scale-developed-for-this-study-5-class-referenced-items.md) - A five-item, class-referenced Likert self-report scale developed by Frenzel et al.
 * [Teacher Incentive Fund](teacher-incentive-fund.md) - A U.S.
 * [Teacher instrument measuring knowledge of students' operational and relational strategies](teacher-instrument-measuring-knowledge-of-students-operational-and-relational-strategies.md) - A four-item teacher instrument developed by Şimşek et al.
 * [Teacher Moments](teacher-moments.md) - Teacher Moments is a free, openly licensed digital teaching-simulation platform developed by the MIT Teaching Systems Lab for immersive, scenario-based practice in teaching decisions.
@@ -1722,6 +1726,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [TEEMSS sound unit test](teemss-sound-unit-test.md) - The TEEMSS sound unit test is a nine-item, standards-aligned science assessment developed by the TEEMSS researchers to measure elementary and middle school students' understanding of sound before and after instruction.
 * [TEFA](tefa.md) - TEFA is a technology-enhanced formative-assessment pedagogy developed by Ian D.
 * [TEFA-T](tefa-t.md) - A teaching-factory instructional framework developed for automotive vocational education that integrates vehicle troubleshooting with a nine-step work-process syntax and supporting instructional materials.
+* [Tekster](tekster.md) - Tekster is a 16-lesson, strategy-focused writing instruction curriculum for Grades 4–6, developed by Bouwer and colleagues for Dutch general education classrooms and delivered through student workbooks, a teacher manual, teacher training, and modeling videos.
 * [TELESCOPE](telescope.md) - TELESCOPE is a telehealth-based lung-cancer-screening shared-decision-making coaching and patient-navigation programme developed and delivered by trained patient navigators for primary-care patients.
 * [Ten Aspects of Community framework](ten-aspects-of-community-framework.md) - A Forum for Youth Investment framework that categorizes community features and assets affecting youth across ten domains.
 * [Ten-item Greek-language trust questionnaire assembled from established HRI trust scales with Lawshe content validation](ten-item-greek-language-trust-questionnaire-assembled-from-established-hri-trust-scales-wi.md) - A 10-item Greek-language Likert questionnaire developed by Anna-Maria Velentza et al.

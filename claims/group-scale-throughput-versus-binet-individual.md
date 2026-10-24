@@ -53,3 +53,4 @@ The editorial contrasts the Binet scale, whose per-pupil individual examination 
 - [Group tests combined with teachers' estimates correlate .77 with the Stanford Revision, questioning the necessity of individual examination](combined-group-tests-estimates-correlate-77-stanford.md) — related
 - [Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21](binet-agreement-correlations.md) — related
 - [The amount of advance credit earned on the Binet scale depends on the extent of testing, not the grade of intelligence of the pupils](binet-credits-depend-on-extent-of-testing.md) — related
+- [The Myers Mental Measure requires only 20 minutes and is said to correlate .80 with the Standard Revision of the Binet Scale](myers-mental-measure-20-minutes-80-binet.md) — related

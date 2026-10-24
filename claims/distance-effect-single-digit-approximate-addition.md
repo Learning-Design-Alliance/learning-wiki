@@ -52,3 +52,4 @@ Preliminary validation analyses showed children performed above chance (nonsymbo
 - [Kindergarteners' performance does not differ between approximate and exact single-digit addition formats, and the two dimensions do not interact](no-response-type-effect-single-digit-addition.md) — related
 - [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related
 - [Accuracy on approximate addition decreases as ratio approaches 1, with a stronger ratio effect on the non-symbolic task](ratio-effect-approximate-addition.md) — related
+- [Performance on the newly learned symbols shows canonical ratio effects, consistent with mapping novel symbols onto Approximate Magnitude System representations](novel-symbol-ratio-effects-ams-mapping.md) — related

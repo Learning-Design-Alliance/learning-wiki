@@ -52,3 +52,4 @@ Latent interaction SEMs (Models 2A–4H series) testing formal HME at ages 2, 5 
 - [Among lower-risk children, higher formal HME was associated with worse arithmetic performance, a reversed association already present at ages 2 and 5](formal-hme-reversed-lower-risk.md) — related
 - [Explicit, instructional home numeracy activities acted as protective (not promotive) factors for 1st–2nd grade math performance in Torppa (2025)](home-numeracy-protective-math-torppa.md) — related
 - [None of the HME measures served as a significant promotive factor; the only significant correlation between children's skills and HME factors was negative (Grade 1 HME-formal)](hme-no-promotive-effect.md) — related
+- [Home work in arithmetic can be done as well as school work, with overall differences close to zero](home-arithmetic-equals-school-arithmetic.md) — related

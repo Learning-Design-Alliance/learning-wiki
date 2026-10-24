@@ -47,3 +47,4 @@ An observational correlational study of 153 normal-school students (mostly women
 
 ## Related Claims
 - [The low Alpha–school-standing correlation is difficult to explain and investigators report conflicting correlation results](low-intelligence-school-correlation-unexplained.md) — related
+- [Army intelligence test rankings corresponded with officers' rankings of soldiers (average correlation 0.536 across twelve companies), suggesting the tests measured something beyond literacy](army-tests-officer-ranking-correlation.md) — related

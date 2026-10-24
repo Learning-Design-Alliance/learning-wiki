@@ -49,3 +49,4 @@ The reviewer summarizes the book's final-chapter recommendations, quoting its cl
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](nrc-tests-predicted-routine-school-intelligence-testing.md) — related
 - [Important intellectual differences among people are not found on the sensory, perceptual, or purely reproductive level](intellectual-differences-not-sensory-perceptual-level.md) — related
 - [The review endorses educational guidance by early intelligence testing and selection by tests at high school and college entrance](review-endorses-test-based-educational-guidance.md) — related
+- [Women delinquents scored somewhat below an army comparison group on the Stanford-Binet, but overlap was so great that other causes of delinquency must be sought](delinquent-women-intelligence-overlap-great.md) — related

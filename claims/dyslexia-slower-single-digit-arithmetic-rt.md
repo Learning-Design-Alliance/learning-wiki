@@ -50,3 +50,4 @@ Repeated-measures ANOVA (operation within-subject, group between-subject) on rea
 - [Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction](dyslexia-reduced-arithmetic-fact-retrieval-frequency.md) — related
 - [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related
 - [Multiplication employs fact retrieval processes to a larger extent than addition and subtraction, though the regressive difference is slight](multiplication-retrieval-extent-exceeds-addition-subtraction.md) — related
+- [Individual records revealed contrasting specific disabilities within the same pupil across arithmetic operations](individual-records-specific-disabilities.md) — related

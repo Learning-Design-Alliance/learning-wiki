@@ -71,6 +71,7 @@ A longitudinal database of student achievement and growth scores collected throu
 
 - [MAP Growth grades 1–2 achievement dataset (spring 2019 and spring 2022 samples)](map-growth-grades-12-achievement-dataset-spring-2019-and-spring-2022-samples.md)
 - [NCES restricted-use individual-level dataset of seven million US student observations across 160 survey waves](nces-restricted-use-individual-level-dataset-of-seven-million-us-student-observations-acro.md)
+- [Dutch COOL triennial cohort study dataset](dutch-cool-triennial-cohort-study-dataset.md)
 
 ## Key Sources
 - Megan Kuhfeld, James Soland, Karyn Lewis, Erik Ruzek, Angela Johnson. (2022). The COVID-19 school year: Learning and recovery across 2020-2021. AERA Open, 8. https://doi.org/10.1177/23328584221099306

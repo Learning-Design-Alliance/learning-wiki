@@ -49,3 +49,4 @@ Review presenting a contrast of age trends in analytical reasoning versus crossw
 - [Younger adults outperform older adults in concept-map performance, and older adults show no concept-map improvement](concept-map-performance-age-difference.md) — reports the opposite
 - [Curve estimation shows linear decline in processing speed after age 30, quadratic trajectories for category fluency and IQ, and no age change in letter fluency](curve-estimation-differential-age-trajectories.md) — related
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — related
+- [Instruction based on cognitive load theory can compensate for age-related cognitive declines](clt-instruction-compensates-age-related-declines.md) — related

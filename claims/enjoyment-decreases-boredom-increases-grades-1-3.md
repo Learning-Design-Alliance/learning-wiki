@@ -53,3 +53,4 @@ Univariate latent growth curve models fitted to four waves of AEQ-ES emotion dat
 - [Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave](boredom-interest-two-factor-separability.md) — related
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
 - [Only the initial level and rate of change in arithmetic fluency predict third-grade mathematics performance; achievement emotions do not](fluency-not-emotions-predict-math-performance.md) — related
+- [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](enjoyment-decline-grade7-8-small.md) — related

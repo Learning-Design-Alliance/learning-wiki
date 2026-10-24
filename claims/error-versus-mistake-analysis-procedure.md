@@ -51,3 +51,4 @@ Definitional/theoretical statement in §3, attributed to Brown (2000). The artic
 - Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage — related
 - [Awareness of how learners' conceptual representations deviate from native-speaker preferences can help teachers decide where to focus classroom attention, promoting conceptual fluency](conceptual-deviation-awareness-guides-teacher-attention.md) — related
 - [Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms](proactive-fof-reduces-error-fossilization.md) — related
+- [Growth is not uniform but proceeds with variations in the limbs, trunk, and head, so gross measures require finer analysis](growth-nonuniform-segmental-development.md) — related

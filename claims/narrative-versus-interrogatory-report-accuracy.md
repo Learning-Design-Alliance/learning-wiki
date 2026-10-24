@@ -44,3 +44,4 @@ The author's summary of report-research findings on report form, contrasting the
 
 ## Related Claims
 - [Thorndike Scale Alpha appears to test comprehension of the questions as much as comprehension of the passage read](thorndike-scale-alpha-questions-not-passage.md) — related
+- [Uncriticalness on hard novel tasks appears as many wrong answers relative to omissions and as eagerness to learn answers from authority rather than one's own checks](uncriticalness-wrong-answers-versus-omissions.md) — related

@@ -73,3 +73,4 @@ Four-way ANOVA over cytoarchitectonic IPS subdivisions (hIP1, hIP2, hIP3) with a
 - [Arithmetic problem-solving performance improves over 1.2 years in children, with larger gains on standard addition than control problems](arithmetic-performance-improves-longitudinally.md) — related
 - [Children with DD show hyper-connectivity, not reduced connectivity, between the IPS and fronto-parietal and default mode networks during arithmetic](dd-ips-hyperconnectivity-fronto-parietal-dmn.md) — related
 - [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related
+- [Individual records revealed contrasting specific disabilities within the same pupil across arithmetic operations](individual-records-specific-disabilities.md) — related

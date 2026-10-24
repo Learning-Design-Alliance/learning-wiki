@@ -47,3 +47,4 @@ Ethnographic observation of 23 classes; researchers assigned each class an overa
 - [English/language arts classes in high-performing CHSRI schools required high academic demand, with high-level skill activities in 21 of 23 observed classes](chsri-classes-high-academic-demand.md) — related
 - [Nearly half of Chicago eighth graders and more than a third of tenth graders rate their classes as disruptive or very disruptive, and teachers corroborate frequent disruption](chicago-classroom-disruption-widespread.md) — related
 - [Non-instructional time averages 23 percent in observed Chicago elementary classrooms, with half of teachers at 14 percent and half at 30 percent](non-instructional-time-23-percent-teacher-split.md) — related
+- [Observed classroom engagement showed a small ITT effect and a medium CACE effect, neither statistically significant](observed-engagement-effects-nonsignificant.md) — related

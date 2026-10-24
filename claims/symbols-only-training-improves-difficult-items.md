@@ -53,3 +53,4 @@ Experiment 3 assigned 24 kindergarteners to symbols-only or base-10 blocks train
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — reports the opposite
 - [Neither numerical training significantly improves Arabic number comparison performance](no-training-effect-arabic-number-comparison.md) — related
 - [Children perform better with written numerals than with base-10 blocks or dot arrays on multidigit tasks](numerals-condition-outperforms-blocks-and-dots.md) — related
+- [Children can learn the meanings of novel number symbols through an artificial symbol learning paradigm, performing above chance on a subsequent symbolic comparison task](children-learn-novel-symbols-artificial-paradigm.md) — related

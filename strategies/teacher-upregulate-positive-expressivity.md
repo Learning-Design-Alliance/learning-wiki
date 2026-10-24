@@ -50,7 +50,8 @@ The article discusses existing recommendations that teachers should work on thei
 - [Instructor–student joy mimicry was predominantly dyad-specific: only 16.4% of variance in the mimicry index was attributable to instructors](../claims/joy-mimicry-predominantly-dyad-specific.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers displaying enthusiasm during instruction to foster student enjoyment](display-enthusiasm-foster-enjoyment.md)
 
 ## Examples
 -

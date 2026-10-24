@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 34 claims (18 for, 15 mixed, 1 against) · 29 studies (15 associational, 7 review, 5 quant-synthesis, 2 theoretical), `q1`–`q3` · 5 of 29 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (19 for, 15 mixed, 1 against) · 30 studies (16 associational, 7 review, 5 quant-synthesis, 2 theoretical), `q1`–`q3` · 5 of 30 report an effect size · 33 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -75,6 +75,7 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Microsystem conditions such as poverty and unmet basic needs undermine learners' availability to learn](../claims/microsystem-poverty-basic-needs-unavailability.md) [+W]
 - [Student-teacher relationship quality and students' classroom emotions show reciprocal longitudinal associations over one year](../claims/reciprocal-relationship-quality-emotions-associations.md) [+W]
 - [Classmate cognitive engagement, but not classmate behavioral or emotional engagement, predicts individual momentary engagement profile membership](../claims/classmate-cognitive-engagement-predicts-profile-membership.md) [~W]
+- [Student-teacher closeness, conflict and dependency, students' motivation, and academic achievement inform each other across the elementary grades](../claims/transactional-relations-motivation-relationships-achievement-k6.md) [+W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

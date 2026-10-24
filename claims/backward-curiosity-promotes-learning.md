@@ -43,6 +43,8 @@ Narrative review argument citing behavioral and neuroscientific evidence that pr
 
 
 ## Related Claims
+
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
 - [Curiosity and situational interest differ on five dimensions: theoretical account, biology, triggers, affect, and information search](curiosity-situational-interest-five-dimensions.md) — related
+- [The maze task included a re-solve phase in which participants solved the same maze forward or backward from finish to start](maze-resolve-forward-backward-phase.md)

@@ -13,7 +13,7 @@ generated:
 # Learner-Centered Paradigm of Education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (13 for, 6 mixed, 1 against) · 18 studies (6 causal, 5 quant-synthesis, 2 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 18 report an effect size · 18 claims rest on one study
+> **Evidence** · 21 claims (14 for, 6 mixed, 1 against) · 19 studies (6 causal, 5 quant-synthesis, 3 associational, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 19 report an effect size · 19 claims rest on one study
 
 ## Description
 Watson and Reigeluth (2008) argue that most school systems are still organized on an Industrial-Age, sorting-based model: time is held constant (a fixed school year, fixed pace), so achievement is forced to vary — some students master the material, others fall behind and accumulate deficits, and the system's implicit function is to sort students into different tracks rather than ensure everyone reaches mastery. The learner-centered paradigm proposes inverting this: hold **attainment** constant (every learner reaches mastery of each standard) and let **time/pace** vary to fit the individual, alongside person-based (rather than group-based) progression, resource-based (rather than purely teacher-based) instruction, and criterion-based (rather than norm-based) assessment.
@@ -67,6 +67,7 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Motivation theories in education have converged on a learner-centered focus over recent decades](../claims/motivation-theories-converged-learner-centered.md) [+W]
 - [The personalization effect improves learning, moderated by prior knowledge, content type, pacing, culture, and language](../claims/personalization-effect-social-cues.md) [~W]
 - [Brighter pupils tend to work below capacity: the authors argue the greatest wastage exists among the brightest children, who may keep up to group averages while working under their ability](../claims/bright-children-below-capacity.md) [+W]
+- [Dividing the 120 pupils into four class-sections by one test would place 51.6 per cent in the wrong section according to the other test](../claims/wrong-section-placement-51-6-percent.md) [+W]
 
 ## The evidence by question
 

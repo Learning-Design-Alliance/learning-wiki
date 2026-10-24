@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 251 claims (106 for, 129 mixed, 16 against) · 183 studies (65 associational, 45 design, 26 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 183 report an effect size · 245 claims rest on one study
+> **Evidence** · 253 claims (106 for, 131 mixed, 16 against) · 185 studies (66 associational, 45 design, 27 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 185 report an effect size · 247 claims rest on one study
 
 ## Conditional relationship
 
@@ -325,6 +325,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The Thorndike-McCall correlates about 0.50 with other single comprehension tests and 0.69 with a composite of group intelligence tests](../claims/thorndike-mccall-correlations-comprehension-intelligence.md) [~W]
 - [The test's exercises were validated by six expert judges who reached practical agreement after modification](../claims/six-judge-validity-agreement-test-exercises.md) [+W]
 - [A single Thorndike-McCall administration deviates about 0.31 of a school year from the five-test composite; measuring monthly progress requires composites of 3 or 4 tests](../claims/single-test-deviation-composite-three-four-tests-monthly-progress.md) [~W]
+- [The Haggerty Intelligence Examination Delta 1 for grades 1-3 correlates .68 with teachers' estimates](../claims/haggerty-delta-1-correlation-68-teachers-estimates.md) [~W]
+- [Thurstone-Brown agreement was closer than Otis-Illinois: median rank changes of 6.7 places (freshmen, r = 0.74) and 10.4 places (sophomores, r = 0.613), with 26 and 32.8 per cent wrongly classed](../claims/thurstone-brown-college-rank-agreement.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

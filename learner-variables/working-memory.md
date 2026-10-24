@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (54 show a difference, 27 mixed, 11 no difference) · 75 studies (19 causal, 19 review, 18 associational, 11 quant-synthesis, 5 theoretical, 3 qualitative), `q1`–`q4` · 13 of 75 report an effect size · 86 claims rest on one study
+> **Evidence** · 93 claims (55 show a difference, 27 mixed, 11 no difference) · 76 studies (20 causal, 19 review, 18 associational, 11 quant-synthesis, 5 theoretical, 3 qualitative), `q1`–`q4` · 13 of 76 report an effect size · 87 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -135,6 +135,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Worked examples are studied for their effects on cognitive load in older learners (per Van Gerven, Paas, & Schmidt)](../claims/worked-examples-older-learners-cl.md) [+W] — instruction changes it
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](../claims/clt-circumvent-working-memory-limits.md) [~W] — instruction changes it
 - [Working memory compensatorily moderates the explaining intervention's advantage: supported self-explaining benefits students with weaker working memory most](../claims/working-memory-compensatory-moderator-self-explaining.md) [~M] — an instructional effect differs with it
+- [Instruction based on cognitive load theory can compensate for age-related cognitive declines](../claims/clt-instruction-compensates-age-related-declines.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 

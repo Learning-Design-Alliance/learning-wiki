@@ -48,3 +48,4 @@ The article's abstract states the study's central empirical contribution: estima
 - [Cross-site impact variation has implications for the statistical precision of multisite trials](cross-site-variation-implications-trial-precision.md) — related
 - [Quantitative methods exist for assessing how impacts of educational interventions on instructional practices and student learning differ across students, educators, and schools](methods-assess-impact-variation-across-students-educators-schools.md) — a broader claim this one bears on
 - [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](woot-math-rct-adaptivity-significant-effects.md) — related
+- [Student work varies more in the uniform school environment than across varied home environments](school-environment-greater-variability-than-home.md) — related

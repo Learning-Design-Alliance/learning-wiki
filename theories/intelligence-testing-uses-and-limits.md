@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 57 claims (22 for, 33 mixed, 2 against) · 38 studies (23 associational, 6 review, 5 theoretical, 2 quant-synthesis, 2 design), `q1`–`q3` · 4 of 38 report an effect size · 56 claims rest on one study
+> **Evidence** · 72 claims (26 for, 42 mixed, 4 against) · 43 studies (25 associational, 8 review, 5 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 5 of 43 report an effect size · 71 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -108,6 +108,21 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Scattering on the Binet scales does not support the claim that unequal development is the specific characteristic of the feeble-minded; normal pupils scatter most and imbeciles least](../claims/scattering-not-pathognomonic-of-feeble-mindedness.md) [~W]
 - [The review endorses educational guidance by early intelligence testing and selection by tests at high school and college entrance](../claims/review-endorses-test-based-educational-guidance.md) [+W]
 - [Scattering is considerably greater on the Stanford-Binet than on the earlier Binet-Simon scales, so conclusions about scattering differ according to the scale used](../claims/scattering-varies-by-binet-scale-version.md) [~W]
+- [The author concludes that much remains to be done before group intelligence tests can be fully relied upon for trustworthy placing of individual pupils](../claims/group-tests-not-yet-fully-reliable-for-placement.md) [~W]
+- [Army intelligence test rankings corresponded with officers' rankings of soldiers (average correlation 0.536 across twelve companies), suggesting the tests measured something beyond literacy](../claims/army-tests-officer-ranking-correlation.md) [+W]
+- [The reviewer reports that Baldwin's repeated examinations show the IQ is fairly constant though subject to fluctuations, and that repeated examinations exhibit a definite practice effect](../claims/iq-fairly-constant-with-fluctuations-and-practice-effect.md) [~W]
+- [Women delinquents scored somewhat below an army comparison group on the Stanford-Binet, but overlap was so great that other causes of delinquency must be sought](../claims/delinquent-women-intelligence-overlap-great.md) [~W]
+- [Otis scores proved of practical value over a two-year trial for guiding junior high pupils' choice between a foreign language and manual work](../claims/otis-scores-practical-guidance-value.md) [+W]
+- [Rankings of the same 120 junior high pupils by the Otis and Illinois group intelligence tests disagreed by a median of 18 places, with a rank correlation of 0.642](../claims/otis-illinois-rank-disagreement-120-pupils.md) [-W]
+- [The National Intelligence Tests, prepared by a committee under National Research Council auspices with $25,000 from the General Education Board, are probably the most reliable group tests](../claims/national-intelligence-tests-most-reliable.md) [+W]
+- [Percentile-difference scales are crude and embody a fundamental fallacy because percentile units are not equal intervals](../claims/percentile-scales-crude-fallacy.md) [~W]
+- [The Haggerty Intelligence Examination Delta 1 for grades 1-3 correlates .68 with teachers' estimates](../claims/haggerty-delta-1-correlation-68-teachers-estimates.md) [~W]
+- [Clement's five group intelligence tests intercorrelated only modestly, with the Indiana Mental Survey below 0.40 against all others](../claims/clement-five-test-intercorrelations-modest.md) [+W]
+- [Correlations between two forms of the same test (up to 0.94, averaging 0.83 in Colvin's data) far exceed between-test correlations, casting doubt that different 'general intelligence tests' measure the same element](../claims/same-form-correlations-exceed-between-test.md) [~W]
+- [Teacher judgment ratings diverged from standardized test results for individual pupils](../claims/teacher-judgment-diverges-from-tests.md) [~W]
+- [Dividing the 120 pupils into four class-sections by one test would place 51.6 per cent in the wrong section according to the other test](../claims/wrong-section-placement-51-6-percent.md) [~W]
+- [Thurstone-Brown agreement was closer than Otis-Illinois: median rank changes of 6.7 places (freshmen, r = 0.74) and 10.4 places (sophomores, r = 0.613), with 26 and 32.8 per cent wrongly classed](../claims/thurstone-brown-college-rank-agreement.md) [~W]
+- [Root argues that no current tests measure the real basis of superior intelligence, which he holds consists of ability to suspend judgment, freedom from suggestibility, and a critical attitude](../claims/tests-do-not-measure-real-basis-of-superior-intelligence.md) [-W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

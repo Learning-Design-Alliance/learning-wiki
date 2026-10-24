@@ -53,3 +53,4 @@ Five independent-sample t-tests in the quasi-experiment compared abstract with c
 - [Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions](treatment-science-pretest-independent-effects.md) — related
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
 - [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) — related
+- [The abstract advantage stems from the use of multiple representations rather than concreteness itself: single concrete and abstract conditions did not differ, and both outperformed multiple concrete representations](multiple-representations-cost-not-concreteness.md) — related

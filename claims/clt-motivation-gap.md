@@ -58,3 +58,4 @@ Document analysis within the review: the authors note the 1998 CLT theory articl
 - [The most frequently referenced theoretical backgrounds are the 3P Model (2.69%), Cognitive Load Theory (1.84%), and Conceptual Change approaches (1.51%), and most studies are atheoretical](atheoretical-prior-knowledge-literature.md) — related
 - [Stimming and fidgeting increase under high cognitive load and sustained task effort, rather than appearing only during low engagement](stimming-increases-under-high-cognitive-load.md) — related
 - [Low environment-change beliefs lead students to allocate cognitive resources to monitoring for breakdowns, creating extraneous load](low-environment-change-beliefs-extraneous-load.md) — related
+- [Instruction based on cognitive load theory can compensate for age-related cognitive declines](clt-instruction-compensates-age-related-declines.md) — related

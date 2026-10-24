@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 195 claims (161 show a difference, 27 mixed, 7 no difference) · 145 studies (84 associational, 27 review, 14 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 145 report an effect size · 193 claims rest on one study
+> **Evidence** · 196 claims (161 show a difference, 27 mixed, 8 no difference) · 146 studies (84 associational, 27 review, 15 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 146 report an effect size · 194 claims rest on one study
 
 ## How to read this page
 
@@ -232,6 +232,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Mediation of the intervention's effect via teacher expectations approached significance only for African American students](../claims/expectations-mediation-african-american-marginal.md) [~M] — an instructional effect differs by group
 - [Observed teacher expectations and developmental appropriateness were more strongly associated with mathematics achievement for African American than non-African American preschoolers](../claims/expectations-dimension-differential-association-african-american.md) [+M] — an instructional effect differs by group
 - [The intervention raised observed teacher confidence and enthusiasm, with partial mediation via this dimension for African American students only, though the group difference was not significant](../claims/teacher-confidence-enthusiasm-mediation-mixed.md) [-M] — an instructional effect differs by group
+- [Neither URM status nor first-generation status moderates the intervention effects on retrieval practice outcomes](../claims/no-demographic-moderation-intervention-effects.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

@@ -49,3 +49,4 @@ The article's second study, on the same economic principle, compared two sets of
 - [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](grasping-benefits-low-aptitude-not-high-aptitude-learners.md) — a narrower finding that bears on this claim
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related
 - [Grasping virtual objects in VR improves foreign language vocabulary retention for learners with low language aptitude, but not for those with high aptitude](vr-grasping-vocabulary-low-aptitude-learners.md) — a narrower finding that bears on this claim
+- [The effect of Tekster does not depend on students' initial writing proficiency](tekster-effect-independent-of-writing-proficiency.md) — a narrower finding that bears on this claim
