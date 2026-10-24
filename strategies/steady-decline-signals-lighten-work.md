@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 sources:
-  - id: w-h-winch-1910
-    resource: "https://books.google.com"
-    title: "W. H. Winch. (1910). Mental Fatigue in Day School Children as Measured by Immediate Memory. Part I. The Journal of Educational Psychology. https://books.google.com"
+  - id: winch-1912
+    resource: "https://doi.org/10.1037/h0070728"
+    title: "Winch, W. H. (1912). Mental fatigue in day school children as measured by immediate memory: Part I. *Journal of Educational Psychology, 3*(1), 18–28. [doi:10.1037/h0070728](https://doi.org/10.1037/h0070728)"
     author: W. H. Winch
 ---
 
@@ -41,7 +41,7 @@ Winch proposes a pedagogical criterion based on his data: "Wherever, under first
 
 - [About one in seven boys in the afternoon group ceased to improve and tended downwards, compared with one in the morning group](../claims/afternoon-group-cessation-improvement.md) [+W]
 - [Improvement by practice continues in both morning and afternoon groups, but the morning group improves faster across weeks](../claims/practice-continues-faster-mornings.md) [+W]
-- [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](../claims/steady-practice-before-fatigue-tests.md) [+W]
+- [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](../claims/steady-practice-before-fatigue-tests.md) [+W]
 - [Late-afternoon memory work shows relative inefficiency of about 5-6 per cent compared with early-morning work in 13-year-old boys](../claims/afternoon-memory-fatigue-five-six-percent.md) [+W]
 
 ## Related Strategies
@@ -51,4 +51,4 @@ Winch proposes a pedagogical criterion based on his data: "Wherever, under first
 -
 
 ## Key Sources
-- W. H. Winch. (1910). Mental Fatigue in Day School Children as Measured by Immediate Memory. Part I. The Journal of Educational Psychology. https://books.google.com
+- Winch, W. H. (1912). Mental fatigue in day school children as measured by immediate memory: Part I. *Journal of Educational Psychology, 3*(1), 18–28. [doi:10.1037/h0070728](https://doi.org/10.1037/h0070728)

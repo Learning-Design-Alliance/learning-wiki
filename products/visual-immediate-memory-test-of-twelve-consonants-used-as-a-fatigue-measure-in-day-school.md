@@ -25,7 +25,7 @@ A timed visual immediate-memory assessment developed and used by W. H. Winch in 
 
 - [Late-afternoon memory work shows relative inefficiency of about 5-6 per cent compared with early-morning work in 13-year-old boys](../claims/afternoon-memory-fatigue-five-six-percent.md) [+W]
 - [Improvement by practice continues in both morning and afternoon groups, but the morning group improves faster across weeks](../claims/practice-continues-faster-mornings.md) [+W]
-- [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](../claims/steady-practice-before-fatigue-tests.md) [+W]
+- [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](../claims/steady-practice-before-fatigue-tests.md) [+W]
 
 ## Related Products and Programmes
 -

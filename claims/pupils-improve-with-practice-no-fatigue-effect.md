@@ -63,7 +63,7 @@ Morning-versus-afternoon correct-judgment totals in the Freeland and Woodland St
 
 ## Related Claims
 - [Inversion of digit order is the most frequent recall error, at 53 per cent of errors, followed by substitution at 31 per cent and over- or under-estimation of digit number at 15 per cent](digit-error-types-inversion-most-frequent.md) — related
-- [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
+- [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](steady-practice-before-fatigue-tests.md) — related
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
 - [The digit memory-span increases with age rather than with grade-promotion measures of intelligence, reaching a limit of six digits for most grammar and high school pupils](memory-span-increases-with-age-not-intelligence.md) — related
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — related

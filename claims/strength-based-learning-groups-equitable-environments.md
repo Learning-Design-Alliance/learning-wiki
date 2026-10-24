@@ -9,8 +9,9 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 sources:
-  - id: silverman-2025
-    title: "Silverman, D. M., Destin, M., Hamilton, T. D., Zajickova, Z., Bingham, S., & Callaghan, K. A. (2025). Strength-Based Learning Groups Support Educators to Create Equitable Learning Environments for Economically Marginalized Students."
+  - id: silverman-2026
+    resource: "https://doi.org/10.1037/edu0000993"
+    title: "Silverman, D. M., Destin, M., Hamilton, T. D., Zajickova, Z., Bingham, S., & Callaghan, K. A. (2026). Strength-based learning groups support educators to create equitable learning environments for economically marginalized students. *Journal of Educational Psychology, 118*(6), 1013–1034. [doi:10.1037/edu0000993](https://doi.org/10.1037/edu0000993)"
     author: "Silverman, D. M., Destin, M., Hamilton, T. D., Zajickova, Z., Bingham, S., & Callaghan, K. A."
     q: 1
     i: "?"
@@ -24,13 +25,13 @@ sources:
 > **Evidence** · 1 study · design `r?` · `q1`
 
 ## Subclaims
-`q1 i?` Strength-based learning groups support educators to create equitable learning environments for economically marginalized students. [→ Silverman 2025](#silverman-2025)
+`q1 i?` Strength-based learning groups support educators to create equitable learning environments for economically marginalized students. [→ Silverman 2026](#silverman-2026)
 
 ## Evidence
 
-### Silverman 2025
+### Silverman 2026
 
-Silverman, D. M., Destin, M., Hamilton, T. D., Zajickova, Z., Bingham, S., & Callaghan, K. A. (2025). Strength-Based Learning Groups Support Educators to Create Equitable Learning Environments for Economically Marginalized Students.
+Silverman, D. M., Destin, M., Hamilton, T. D., Zajickova, Z., Bingham, S., & Callaghan, K. A. (2026). Strength-based learning groups support educators to create equitable learning environments for economically marginalized students. *Journal of Educational Psychology, 118*(6), 1013–1034. [doi:10.1037/edu0000993](https://doi.org/10.1037/edu0000993)
 
 `q1 · i?` · `design · r?`
 
