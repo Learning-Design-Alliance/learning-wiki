@@ -17,8 +17,9 @@ as known. Nothing here writes to a wiki page.
     python3 scripts/code_evidence_axes.py --contrasts [--run cells]
     python3 scripts/code_evidence_axes.py --expertise [--budget 3]   # fill stated learner expertise
 
-Cells go to eval/runs/evidence-axes/<run>.ndjson (default run "cells", the store the
-batch adds to and render_evidence_map.py reads), keyed like code_kind_rigour.py, so
+Cells go to eval/runs/evidence-axes/<run>/, sharded by claim-slug prefix
+(scripts/evidence_cells.py; default run "cells", the store the batch adds to and
+render_evidence_map.py reads), keyed like code_kind_rigour.py, so
 an unchanged entry is not paid for twice within a run. --run b codes the same entries
 again independently, for the agreement check. --contrasts names each new cell's
 contrast; only contrasts not yet named are sent.
@@ -38,6 +39,7 @@ import check_load_bearing as clb  # noqa: E402
 import code_kind_rigour as ckr  # noqa: E402
 import okf_lib  # noqa: E402
 
+import evidence_cells  # noqa: E402
 import evidence_dimensions as dims  # noqa: E402
 AXES = dims.axes()
 OUTDIR = WIKI_ROOT / "eval" / "runs" / "evidence-axes"
@@ -189,10 +191,8 @@ def main():
         claims = set(new_claims())
     else:
         claims = set(a.claims) if a.claims else decision_claims(a.pages)
-    out = OUTDIR / f"{a.run}.ndjson"
-    have = set()
-    if out.exists():
-        have = {json.loads(l)["key"] for l in out.read_text(encoding="utf-8").splitlines() if l.strip()}
+    out = evidence_cells.run_dir(a.run)
+    have = evidence_cells.keys(a.run)
     todo = [j for j in jobs(claims) if ckr.key(j[0]["claim"], j[1], j[2]) not in have]
     by = {}
     for j in todo:
@@ -203,7 +203,7 @@ def main():
     key = os.environ["OPENROUTER_API_KEY"]
     OUTDIR.mkdir(parents=True, exist_ok=True)
     spent = errors = 0
-    with open(out, "a", encoding="utf-8") as fh, concurrent.futures.ThreadPoolExecutor(a.workers) as ex:
+    with concurrent.futures.ThreadPoolExecutor(a.workers) as ex:
         futs = [ex.submit(code_one, j, key, a.model, a.run) for j in todo]
         for f in concurrent.futures.as_completed(futs):
             try:
@@ -212,8 +212,7 @@ def main():
                 errors += 1
                 print("error:", str(e)[:160])
                 continue
-            fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
-            fh.flush()
+            evidence_cells.append(a.run, rec)
             spent += rec["cost_usd"] or 0
             if spent > a.budget:
                 print(f"budget ${a.budget} reached")
@@ -241,8 +240,7 @@ def recode_expertise(run: str, model: str, budget: float, workers: int) -> None:
     A sample of 30 found half the texts say something, about a third of them usably."""
     from scripts.eval import openrouter_client as oc
     from scripts.eval.jsonutil import extract_json
-    path = OUTDIR / f"{run}.ndjson"
-    recs = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    recs = evidence_cells.read(run)
     causal = {"randomized", "controlled-nonrandom", "within-subject", "synthesis-experimental"}
 
     def wants(c):
@@ -288,7 +286,7 @@ def recode_expertise(run: str, model: str, budget: float, workers: int) -> None:
                 print(f"budget ${budget} reached")
                 ex.shutdown(cancel_futures=True)
                 break
-    path.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in recs), encoding="utf-8")
+    evidence_cells.write(run, recs)
     print(f"expertise filled on {filled} cell(s); ${spent:.3f}")
 
 
@@ -311,7 +309,7 @@ def assign_contrasts(run="cells", model="openai/gpt-5.6-luna"):
     variable and the exact treatment/comparison text."""
     from scripts.eval import openrouter_client as oc
     from scripts.eval.jsonutil import extract_json
-    recs = [json.loads(l) for l in (OUTDIR / f"{run}.ndjson").read_text(encoding="utf-8").splitlines() if l.strip()]
+    recs = evidence_cells.read(run)
     pairs = {}
     for r in recs:
         for c in r["cells"]:
@@ -350,7 +348,7 @@ Reply: {{"items": [{{"n": 1, "label": "A vs B", "treatment_is_a": true}}]}}"""
 
 if __name__ == "__main__" and "--contrasts" in sys.argv:
     _run = sys.argv[sys.argv.index("--run") + 1] if "--run" in sys.argv else "cells"
-    if (OUTDIR / f"{_run}.ndjson").exists():
+    if evidence_cells.exists(_run):
         assign_contrasts(_run)
     else:
         print(f"no cells in run {_run}; nothing to name")
