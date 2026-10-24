@@ -8,10 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
-  - id: fleischmann-2021
+  - id: fleischmann-2022
     resource: "https://doi.org/10.1037/edu0000491"
-    title: "Fleischmann, M., Hübner, N., Marsh, H. W., Guo, J., Trautwein, U., & Nagengast, B. (2021). Which Class Matters? Juxtaposing Multiple Class Environments as Frames-of-Reference for Academic Self-Concept Formation. https://doi.org/10.1037/edu0000491"
+    title: "Fleischmann, M., Hübner, N., Marsh, H. W., Guo, J., Trautwein, U., & Nagengast, B. (2022). Which class matters? Juxtaposing multiple class environments as frames-of-reference for academic self-concept formation. *Journal of Educational Psychology, 114*(1), 127–143. [doi:10.1037/edu0000491](https://doi.org/10.1037/edu0000491)"
     author: "Fleischmann, M., Hübner, N., Marsh, H. W., Guo, J., Trautwein, U., & Nagengast, B."
     q: 2
     i: "?"
@@ -23,15 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In course-by-course tracked systems, the negative effect of school-average math achievement on math self-concept is weak after controlling for math class and regular class achievement. [→ Fleischmann 2021](#fleischmann-2021)
+`q2 i?` In course-by-course tracked systems, the negative effect of school-average math achievement on math self-concept is weak after controlling for math class and regular class achievement. [→ Fleischmann 2022](#fleischmann-2022)
 
 ## Evidence
 
-### Fleischmann 2021
+### Fleischmann 2022
 
-Fleischmann, M., Hübner, N., Marsh, H. W., Guo, J., Trautwein, U., & Nagengast, B. (2021). Which Class Matters? Juxtaposing Multiple Class Environments as Frames-of-Reference for Academic Self-Concept Formation. https://doi.org/10.1037/edu0000491
+Fleischmann, M., Hübner, N., Marsh, H. W., Guo, J., Trautwein, U., & Nagengast, B. (2022). Which class matters? Juxtaposing multiple class environments as frames-of-reference for academic self-concept formation. *Journal of Educational Psychology, 114*(1), 127–143. [doi:10.1037/edu0000491](https://doi.org/10.1037/edu0000491)
 
 `q2 · i?` · `associational · r2`
 

@@ -28,4 +28,4 @@ A BIFIE-administered census assessment measuring mathematics achievement and mat
 - [PALMA longitudinal dataset of math achievement and self-beliefs in Bavarian secondary schools](palma-longitudinal-dataset-of-math-achievement-and-self-beliefs-in-bavarian-secondary-scho.md)
 
 ## Key Sources
-- Fleischmann, M., Hübner, N., Marsh, H. W., Guo, J., Trautwein, U., & Nagengast, B. (2021). Which Class Matters? Juxtaposing Multiple Class Environments as Frames-of-Reference for Academic Self-Concept Formation.
+- Fleischmann, M., Hübner, N., Marsh, H. W., Guo, J., Trautwein, U., & Nagengast, B. (2022). Which class matters? Juxtaposing multiple class environments as frames-of-reference for academic self-concept formation. *Journal of Educational Psychology, 114*(1), 127–143. [doi:10.1037/edu0000491](https://doi.org/10.1037/edu0000491)
