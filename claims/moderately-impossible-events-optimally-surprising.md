@@ -51,3 +51,4 @@ Theoretical speculation (type e) linking the authors' events to the Goldilocks E
 - [Eleven-month-old infants who see a core knowledge violation preferentially explore the violating object over a novel distractor](infants-explore-core-knowledge-violating-objects.md) — related
 - [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](large-arrays-exceed-childrens-attentional-resources.md) — related
 - [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related
+- [Presenting young children with vast numbers of discrete sense impressions would not augment the natural development of intelligence](sense-impression-presentation-no-intelligence-gain.md) — related

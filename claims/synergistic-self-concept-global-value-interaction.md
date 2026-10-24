@@ -54,3 +54,4 @@ LMS latent interaction SEM (Model D1 vs. C1; ΔAIC = 211, ΔBIC = 227) in the sa
 - [Math self-concept is more highly correlated with intrinsic value and low cost than with attainment and utility value](self-concept-value-component-correlations.md) — related
 - [Evidence on synergistic openness–interest effects on knowledge attainment is mixed, with supporting, compensating, and zero findings reported](ofci-openness-interest-synergy-mixed.md) — related
 - [Adaptive task difficulty compensates low interest but not low self-concept among vocational-school students during repeated practice](adaptive-task-difficulty-compensates-low-interest-vs-students.md) — related
+- [At large peer-teacher relatedness discrepancies, high teacher relatedness compensates for absent peer relatedness to support engagement, whereas low teacher relatedness accompanies low engagement (Study 1)](teacher-specific-compensation-engagement.md) — related

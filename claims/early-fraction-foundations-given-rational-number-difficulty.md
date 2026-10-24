@@ -56,3 +56,4 @@ Authors' closing recommendation slide (type e, interpretation). The presentation
 - [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — related
 - [Prior knowledge about natural numbers supports students dealing with algebraic properties of rational numbers](natural-number-knowledge-supports-algebraic-properties-rational-numbers.md) — a narrower finding that bears on this claim
 - [Understanding rational numbers is not indiscriminately difficult for students](rational-number-understanding-not-indiscriminately-difficult.md) — related
+- [Instinctive tendencies, particularly those evinced in play, already provide efficient machinery for children's acquaintance with the world](instinctive-play-suffices-sensory-acquaintance.md) — related

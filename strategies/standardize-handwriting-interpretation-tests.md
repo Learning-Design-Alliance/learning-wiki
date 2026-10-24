@@ -44,7 +44,8 @@ From their low and unstable correlations, the authors recommend that tests such 
 - [Correlations between two series of mirror-reading tests on the same 16 subjects range widely depending on how errors are scored, from .087 to .700.](../claims/mirror-reading-test-retest-correlations-vary-by-scoring.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop tests of native aptitude for each school subject separately and question the Accomplishment Quotient](subject-specific-aptitude-tests-strategy.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 44 claims (33 for, 11 mixed) · 23 studies (11 associational, 4 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size · 44 claims rest on one study
+> **Evidence** · 45 claims (34 for, 11 mixed) · 23 studies (11 associational, 4 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size · 45 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -105,6 +105,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Performance-avoidance goals predict protective conflict regulation with a more-competent disagreeing partner, but not an equally competent one (Study 1)](../claims/performance-avoidance-goals-protective-regulation-more-competent-partner.md) [+M] — attached 2026-10-23 from Sommet et al. (2015), which proposed "Performance goals as social tools regulating interpersonal behavior with more-competent others"; tests this page's relationship.
 - [Manipulated performance-approach (vs. avoidance) goals increase preference for a self-confirmatory model over a compliant one with a more-competent partner (Study 2)](../claims/manipulated-performance-goals-model-preference-competence.md) [+M] — attached 2026-10-23 from Sommet et al. (2015), which proposed "Performance goals as social tools regulating interpersonal behavior with more-competent others"; tests this page's relationship.
 - [With explicit competence feedback, performance-approach and performance-avoidance goals predict competitive and protective regulation respectively when partner competence is higher or unspecified, but not equal (Study 3)](../claims/competence-feedback-unspecified-elicits-goal-congruent-regulation.md) [+W] — attached 2026-10-23 from Sommet et al. (2015), which proposed "Performance goals as social tools regulating interpersonal behavior with more-competent others"; tests this page's relationship.
+- [Manipulated performance-approach (vs. avoidance) goals increase preference for a self-confirmatory model over a compliant one with a more-competent partner (Study 2)](../claims/manipulated-goals-model-preference-study2.md) [+W] — attached 2026-10-24 from Sommet et al. (2015), which proposed "Performance goals as social tools regulating conflict with more-competent others: competitive vs. protective relational regulation"; tests this page's relationship.
 
 ## The evidence by question
 

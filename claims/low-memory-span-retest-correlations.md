@@ -55,3 +55,4 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
 - [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related
 - [Auditory memory (digit-span) tests are overrepresented in the adult scale and depress the rankings of otherwise high-performing students](caldwell-1919-auditory-memory-overweighting.md) — related
+- [Longer letter series yield somewhat higher average scores because they offer opportunities for occasional high scores via mental grouping](longer-series-higher-scores-grouping.md) — related

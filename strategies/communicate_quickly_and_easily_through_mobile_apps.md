@@ -66,6 +66,7 @@ Frequent, low-cost communication increases parental awareness of student work an
 - [Action-oriented feedback](action-oriented-feedback.md) — progress messages work when they name the next action, not just the outcome
 - [Escalating multi-channel contact immediately upon missed assessment, starting with SMS](escalating-multichannel-contact-missed-assessment.md)
 - [Pair personalized messages with an effort to call attention to them](pair-personalized-messages-with-attention-efforts.md)
+- [Deliver low-intensity parental engagement support via short, actionable school text messages rather than apps or face-to-face sessions](school-text-messages-parental-engagement-strategy.md)
 
 ## Related Elements
 - [Check-in](../elements/check-in.md) — the recurring touchpoint the app operationalizes

@@ -56,3 +56,5 @@ Randomized controlled trial with the San Francisco Unified School District durin
 - [Family participation in Growing Strong Learners was high and similar for EL and non-EL families: 97% attended at least one APTT meeting and 92% participated in Ready4K](high-family-participation-aptt-ready4k.md) — related
 - [Research on family-implemented literacy interventions for school-aged children is sparse and concentrated in early elementary grades, with no studies of older children meeting inclusion criteria](paucity-family-literacy-research-older-children.md) — related
 - [Children gain more from interventions administered by researchers or combined implementers than by parents](implementer-moderates-intervention-effect.md) — related
+- [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — reports the opposite
+- [The Tips by Text intervention did not produce significant improvements in children's socioemotional outcomes (SDQ) relative to control](tips-by-text-no-socioemotional-improvement.md) — related

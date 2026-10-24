@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (42 show a difference, 26 mixed, 12 no difference) · 34 studies (15 associational, 6 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 14 of 34 report an effect size · 78 claims rest on one study
+> **Evidence** · 82 claims (44 show a difference, 26 mixed, 12 no difference) · 34 studies (15 associational, 6 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 14 of 34 report an effect size · 80 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -115,6 +115,8 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Performance-approach goals predict competitive conflict regulation with a more-competent disagreeing partner, but not an equally competent one (Study 1)](../claims/performance-approach-goals-competitive-regulation-more-competent-partner.md) [~M] — learners who differ on it differ in outcomes
 - [Performance-avoidance goals predict protective conflict regulation with a more-competent disagreeing partner, but not an equally competent one (Study 1)](../claims/performance-avoidance-goals-protective-regulation-more-competent-partner.md) [~M] — learners who differ on it differ in outcomes
 - [With explicit competence feedback, performance-approach and performance-avoidance goals predict competitive and protective regulation respectively when partner competence is higher or unspecified, but not equal (Study 3)](../claims/competence-feedback-unspecified-elicits-goal-congruent-regulation.md) [~M] — learners who differ on it differ in outcomes
+- [Manipulated performance-approach (vs. avoidance) goals increase preference for a self-confirmatory model over a compliant one with a more-competent partner (Study 2)](../claims/manipulated-goals-model-preference-study2.md) [+M] — learners who differ on it differ in outcomes
+- [Performance-approach goals positively predict competitive regulation and performance-avoidance goals positively predict protective regulation overall (Studies 1 and 3)](../claims/main-effects-performance-goals-conflict-regulation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

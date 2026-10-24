@@ -44,6 +44,7 @@ Two faculty members, one specializing in severe disabilities and one in mild dis
 ## Related Strategies
 
 - [Add a field-based component and compare embedded versus semester-long literacy course delivery](field-based-followup-and-delivery-timeframe-research.md)
+- [Subject-matter faculty teach short lecture courses devoted entirely to teaching their subject in the secondary school](subject-faculty-secondary-methods-lecture-courses.md)
 
 ## Examples
 -

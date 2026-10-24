@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 255 claims (108 for, 131 mixed, 16 against) · 186 studies (67 associational, 45 design, 27 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 186 report an effect size · 249 claims rest on one study
+> **Evidence** · 256 claims (108 for, 131 mixed, 17 against) · 187 studies (68 associational, 45 design, 27 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 187 report an effect size · 250 claims rest on one study
 
 ## Conditional relationship
 
@@ -215,6 +215,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Judgments of comprehension in oral reading rest on unaided subjective judgment with no guarantee of consistency across times or judges](../claims/oral-reading-judgment-subjective-unreliable.md) [+W] — attached 2026-10-23 from J. C. Bell (1919), which proposed "Pool the ratings of competent judges to build a scale of expression-comprehension in oral reading that steadies individual teachers' judgments".
 - [Stanford Adult test results correlate .44 with college grades when Juniors and Sophomores are re-ranked as one group](../claims/caldwell-1919-iq-grades-correlation-44.md) [+W] — attached 2026-10-24 from Caldwell (1919), which proposed "Use standardized adult intelligence tests to advise college students, but always interpret IQs in light of character study"; tests this page's relationship.
 - [Three Sophomores' discrepant records trace to character factors, including over-rating due to verbal fluency](../claims/caldwell-1919-verbal-fluency-overrating.md) [+W] — attached 2026-10-24 from Caldwell (1919), which proposed "Use standardized adult intelligence tests to advise college students, but always interpret IQs in light of character study".
+- [Standardized group test scores correlate weakly and variably with freshman class averages, ranging from 0 to .25](../claims/group-tests-low-variable-correlations-class-average.md) [-W] — attached 2026-10-24 from Sunne (1917), which proposed "Use group testing of college students as a feasible, time-saving measurement approach, with repeated trials and both quantitative and qualitative scoring for memory tests"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

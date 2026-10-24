@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (23 for, 17 mixed, 2 against) · 48 studies (12 causal, 10 review, 7 theoretical, 5 quant-synthesis, 5 associational, 5 qualitative, 4 design), `q1`–`q4` · 4 of 48 report an effect size · 36 claims rest on one study
+> **Evidence** · 43 claims (23 for, 18 mixed, 2 against) · 49 studies (12 causal, 10 review, 7 theoretical, 6 associational, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 49 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures](../claims/forest-school-measurement-methods-heterogeneous.md) [~W]
 - [Self-report empathy measures predominate and may inflate associations via common method bias and self-serving bias](../claims/empathy-self-report-method-bias.md) [+W]
 - [Monroe's silent reading test permits substantial chance success, inflating comprehension scores](../claims/monroe-test-chance-success-defect.md) [+W]
+- [Adding the verbal group test to Stanford MA raises the multiple correlation with achievement from 0.54 to 0.605](../claims/group-test-adds-to-stanford-ma-prediction.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.

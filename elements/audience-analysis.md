@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (13 for, 10 mixed) · 32 studies (10 associational, 7 review, 6 causal, 5 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 32 report an effect size · 18 claims rest on one study
+> **Evidence** · 24 claims (14 for, 10 mixed) · 33 studies (11 associational, 7 review, 6 causal, 5 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 33 report an effect size · 19 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -72,6 +72,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Teachers often rely on informal impressions rather than systematic, theory-grounded diagnostic procedures when judging students' SRL](../claims/teachers-rely-on-informal-diagnostic-judgments-srl.md) [~W]
 - [Advanced-placement students outperformed vocational-school students on most learner characteristics, with large effect sizes except interest](../claims/school-track-differences-learner-characteristics.md) [~W]
 - [Elementary students with reading difficulties constitute two distinct latent profiles: one with higher basic language and cognitive skills and lower attention, the other with stronger attention and lower basic language and cognitive skills](../claims/two-latent-profiles-rd-language-attention.md) [~W]
+- [Latent profile analysis of RIASEC interests in Dutch Grade 9 students reveals seven distinct vocational interest profiles](../claims/seven-vocational-interest-profiles-grade-9.md) [+W]
 
 ## The evidence by question
 

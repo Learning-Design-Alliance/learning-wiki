@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 137 claims (89 show a difference, 37 mixed, 11 no difference) · 86 studies (30 associational, 21 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 86 report an effect size · 134 claims rest on one study
+> **Evidence** · 140 claims (92 show a difference, 37 mixed, 11 no difference) · 87 studies (31 associational, 21 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 87 report an effect size · 137 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -172,6 +172,9 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Student-perceived teacher enthusiasm mediates the relationship between teacher enjoyment and student enjoyment](../claims/teacher-enthusiasm-mediation-enjoyment.md) [+M] — instruction changes it
 - [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](../claims/enjoyment-decline-grade7-8-small.md) [+M] — instruction changes it
 - [Teacher enjoyment and student enjoyment in mathematics classrooms are positively related even after controlling for students' prior-year enjoyment](../claims/teacher-enjoyment-student-enjoyment-positive-link.md) [+M] — instruction changes it
+- [Test performance reciprocally predicts subsequent enjoyment, boredom, and anxiety in primary school students](../claims/performance-predicts-subsequent-emotions.md) [+M] — learners who differ on it differ in outcomes
+- [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](../claims/reciprocal-model-superior-fit.md) [+M] — learners who differ on it differ in outcomes
+- [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](../claims/anxiety-strongest-predictor-when-emotions-modeled-together.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

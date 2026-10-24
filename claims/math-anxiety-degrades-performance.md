@@ -116,3 +116,4 @@ Multilevel meta-analysis of 223 studies from research conducted 1992–2018 (pub
 - [Math anxiety correlates negatively with math performance at a pooled r = −.30 across 169 independent samples](math-anxiety-negative-correlation-math-performance.md) — related
 - [Type of math task moderates the math anxiety–performance link: basic numerical knowledge shows the weakest correlation (r = −.22) and applied math among the strongest (r = −.31)](math-task-type-moderates-ma-link.md) — a narrower finding that bears on this claim
 - [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — related
+- [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](buoyancy-moderates-anxiety-performance.md) — related

@@ -45,3 +45,4 @@ Case analysis within the Sophomore discrepancy discussion: the author profiles t
 ## Related Claims
 - [IQ-grade correlation differs sharply by class standing: .69 for Juniors versus .17 for Sophomores, rising to .48 when three discrepant records are omitted](caldwell-1919-junior-sophomore-correlation-difference.md) — related
 - [Stanford Adult test results correlate .44 with college grades when Juniors and Sophomores are re-ranked as one group](caldwell-1919-iq-grades-correlation-44.md) — related
+- [The Rosanoff High Standard Frequency Test, but not writing-speed measures, diverges sharply between high-discrepancy and control students](rosanoff-frequency-test-diverges-between-discrepancy-groups.md) — related

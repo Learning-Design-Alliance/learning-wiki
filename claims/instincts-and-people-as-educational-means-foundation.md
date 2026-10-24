@@ -67,3 +67,4 @@ Argument from the section on instincts: the foundation of education is the equip
 - [Teachers' most common concern is that agreeable AI companions remove the developmental friction through which adolescents learn to sustain human relationships](agreeable-companions-remove-developmental-friction.md) — related
 - [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related
 - [Very general skills may be biologically primary and therefore unteachable; claimed general-skills training should be tested with far transfer](general-skills-possibly-primary-unteachable.md) — related
+- [Instinctive tendencies, particularly those evinced in play, already provide efficient machinery for children's acquaintance with the world](instinctive-play-suffices-sensory-acquaintance.md) — a narrower finding that bears on this claim

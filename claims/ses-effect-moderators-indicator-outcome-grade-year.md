@@ -53,3 +53,4 @@ The second-order meta-analysis included four moderator variables: types of SES i
 - [Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects](grade-level-moderates-effect-size.md) — related
 - [Outcome type significantly moderates the FSR–outcome association, with persistence showing stronger correlations than achievement](outcome-type-moderator-fsr-association.md) — a narrower finding that bears on this claim
 - [Neither grade level nor outcome type significantly moderates the effects of Spanish reading programs](no-moderator-effects-grade-or-outcome.md) — related
+- [Teachers' mathematics anxiety is positively associated with the mathematics anxiety of their low-SES students via a teacher-anxiety-by-FARM interaction](teacher-math-anxiety-farm-interaction.md) — related

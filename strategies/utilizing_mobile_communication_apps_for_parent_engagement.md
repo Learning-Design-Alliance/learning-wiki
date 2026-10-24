@@ -70,6 +70,7 @@ Frequency and specificity of communication drive effects: personalized messages 
 - [Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports](remove-barriers-family-participation.md)
 - [Use improved communication strategies to drive family involvement and partnerships with schools](improved-communication-drives-family-involvement-partnerships.md)
 - [Embed counting practice in varied classroom activities and inform parents about advanced counting activities at home](embed-counting-classroom-and-home-activities.md)
+- [Deliver low-intensity parental engagement support via short, actionable school text messages rather than apps or face-to-face sessions](school-text-messages-parental-engagement-strategy.md)
 
 ## Examples
 - **[ClassDojo](https://www.classdojo.com)** — class story feeds, private message translation into 35+ languages, and student portfolio sharing; widely used in elementary settings.

@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**637 entries** · 0 stable · 637 in review · 0 drafts
+**638 entries** · 0 stable · 638 in review · 0 drafts
 
 ---
 
@@ -36,6 +36,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Ambulatory assessment with intensive longitudinal data](ambulatory-assessment-with-intensive-longitudinal-data.md) - Ambulatory assessment is a measurement approach in which intensive longitudinal data are captured in real-life settings with repeated within-subject assessments of physical activity (e.g., via accelerometry) and cognitive performance (e.g., via a smartphone app) at high measurement density, such as 
 * [AMOVA (Accumulative Manifold Validation Analysis)](amova-accumulative-manifold-validation-analysis.md) - AMOVA (Accumulative Manifold Validation Analysis) is a specialized statistical methodology for testing the internal and external validity of uniquely designed psychometric instruments.
 * [Approach–context–pedagogy coupling framework for game-based and gamified robotics education](approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education.md) - The review's organizing framework holds that instructional approach (GBL vs.
+* [Aptitude-treatment interaction (ATI) framework](aptitude-treatment-interaction-ati-framework.md) - The article organizes its moderation analysis around the aptitude-treatment interaction (ATI) paradigm, which \"states that the effectiveness of an intervention can be conceptualized as a result of the complex interplay between the distinct features of the intervention and students' ability and willi
 * [Architecturally enforced novice-like student simulation](architecturally-enforced-novice-like-student-simulation.md) - The article's central design recommendation is that realistic synthetic student behavior cannot be elicited from preference-tuned LLMs by persona prompting or context injection alone; it requires architectural enforcement.
 * [Arts-based research (ABR)](arts-based-research-abr.md) - The review proposes a shared definition to address the \"confusing plethora of terms\" in the field: \"The use of artistically inspired methods by researchers and participants in a collaborative research environment where members of the community are actively involved either in creating art in the sear
 * [ASIMeC analysis scheme for coding message characteristics and role adoption](asimec-analysis-scheme-for-coding-message-characteristics-and-role-adoption.md) - ASIMeC is a content analysis scheme developed by the authors to identify message characteristics along five dimensions: moderating, summarising, adding new discussion points, adding theory, and adding external information.

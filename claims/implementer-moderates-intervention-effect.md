@@ -48,3 +48,4 @@ Meta-regression on intervention implementer as moderator across the 28 RCTs, wit
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
 - [Reading interventions significantly improve literacy skills of Chinese children overall (g = 0.68)](reading-interventions-overall-effect-chinese-children.md) — related
+- [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — related

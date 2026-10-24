@@ -65,3 +65,4 @@ Goetz, T., Bieleke, M., Gogol, K., van Tartwijk, J., Mainhard, T., Lipnevich, A.
 - [Reciprocal associations between relationship quality and emotions are largely equivalent across school domains](domain-equivalence-relationship-emotions-links.md) — a narrower finding that bears on this claim
 - [The strength of reciprocal relationship-emotion associations differs across discrete achievement emotions](emotion-specific-strength-relationship-links.md) — a narrower finding that bears on this claim
 - [Students' emotional experience predicts later academic achievement, while relationship quality does not](emotions-predict-achievement-relationship-does-not.md) — related
+- [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](reciprocal-model-superior-fit.md) — related

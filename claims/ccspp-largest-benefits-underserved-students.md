@@ -52,3 +52,4 @@ Statewide matched difference-in-differences analyses across attendance, suspensi
 - [CCSPP community schools reduced chronic absence at least 30% more than matched comparison schools in the first implementation year](ccspp-chronic-absence-reduction-30-percent.md) — related
 - [CCSPP community schools improved math achievement by 0.06 standard deviations, roughly 43 additional days of learning](ccspp-math-gains-0-point-06-sd.md) — related
 - [CCSPP community schools reduced suspension rates by roughly 15% (0.5 percentage point) relative to matched comparison schools](ccspp-suspension-reduction-15-percent.md) — related
+- [The intervention showed no meaningful differential effects for children facing socioeconomic disadvantage, EAL, SEN, or multiple overlapping challenges](tips-by-text-no-subgroup-differences.md) — related

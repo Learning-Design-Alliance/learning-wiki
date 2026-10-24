@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (73 show a difference, 19 mixed, 3 no difference) · 73 studies (23 review, 12 causal, 12 associational, 12 qualitative, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 3 of 73 report an effect size · 90 claims rest on one study
+> **Evidence** · 100 claims (75 show a difference, 22 mixed, 3 no difference) · 74 studies (23 review, 13 associational, 12 causal, 12 qualitative, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 4 of 74 report an effect size · 95 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -132,6 +132,11 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [The belonging-NEET association does not vary by achievement, gender, SES, place, Indigenous/immigrant status, or cohort](../claims/belonging-neet-no-moderation.md) [+W] — learners who differ on it differ in outcomes
 - [Agentic goal incongruity negatively predicts Indigenous students' persistence intentions indirectly through reduced sense of belonging](../claims/agentic-incongruity-belonging-mediation.md) [+M] — learners who differ on it differ in outcomes
 - [Communal goal incongruity shows a significant negative indirect effect on persistence intentions through belonging, though weaker than expected](../claims/communal-incongruity-indirect-effect.md) [~M] — learners who differ on it differ in outcomes
+- [Adolescent well-being is higher when peer and teacher relatedness are equally high, and unequal relatedness levels are associated with lower well-being (interdependent needs process, Study 1)](../claims/interdependent-needs-peer-teacher-wellbeing.md) [+W] — learners who differ on it differ in outcomes
+- [At large peer-teacher relatedness discrepancies, high teacher relatedness compensates for absent peer relatedness to support engagement, whereas low teacher relatedness accompanies low engagement (Study 1)](../claims/teacher-specific-compensation-engagement.md) [~W] — learners who differ on it differ in outcomes
+- [Engagement rises with equivalent peer and teacher relatedness, but this positive trend weakens and reverses below a printed threshold on the line of congruence (Study 1)](../claims/loc-engagement-rising-trend-reversal.md) [~W] — learners who differ on it differ in outcomes
+- [In Study 1, peer and teacher relatedness correlate moderately with each other and with outcomes, while well-being and engagement correlate only trivially](../claims/relatedness-descriptive-correlations-study1.md) [+M] — learners who differ on it differ in outcomes
+- [School engagement tends to be higher when peer relatedness exceeds teacher relatedness near average levels, but this reverses beyond about a 1.2 SD excess in peer relatedness (Study 1)](../claims/peer-over-teacher-relatedness-engagement-reversal.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

@@ -42,7 +42,8 @@ The authors recommend that primary school teaching departments "increase the num
 - [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](../claims/self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Subject-matter faculty teach short lecture courses devoted entirely to teaching their subject in the secondary school](subject-faculty-secondary-methods-lecture-courses.md)
 
 ## Examples
 -
