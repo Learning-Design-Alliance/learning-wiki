@@ -2278,6 +2278,17 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 <li><strong>The load-bearing check</strong> (<code>check_load_bearing.py</code>, runbook <code>eval/load-bearing/README.md</code>)
   runs in every batch; read a judge's failure before acting on it, and <code>--dismiss</code> a checked one.</li>
 <li>Markers are capped by the claim's recorded evidence (<code>strength_cap</code>).</li>
+<li><strong>A claim states how current it is</strong> (maintainer, 2026-10-24, after the wiki's first outside feedback:
+  "there is no expiry for research but agents need to know how stale it is"). <code>scripts/add_currency.py</code>
+  writes <code>newest_evidence</code> (year of the newest study cited), <code>source_checked</code> (the latest date the
+  load-bearing judge found every entry faithful to its source; absent while any entry is unchecked) and,
+  only for fast-ageing kinds from the claim sort (<code>component</code>, <code>context-local</code>, <code>context-general</code>),
+  <code>recheck_by</code> (newest study's year plus 3, 3 or 5), and a <code>&gt; **Currency** ·</code> header line saying the same
+  and that no person has reviewed the page. <strong>Never give a design finding a recheck date or an expiry</strong>:
+  research does not expire on a calendar. Past <code>recheck_by</code> the line says overdue; it never hides the
+  claim. It runs in every batch after the load-bearing judge; <code>--overdue</code> lists the claims past due. The
+  judge's verdicts are not committed, so the script only sets <code>source_checked</code> from verdicts that still
+  match the page and leaves a page alone when it cannot tell: the field on the page is the record.</li>
 </ul>
 <p><strong>Principle and pattern pages</strong> (conditional-model format, <code>principle-pattern-authoring.md</code>;
 waves 1–7 in <code>eval/page-triage/</code>):</p>
@@ -3285,6 +3296,11 @@ does not read it.</p>
 <td>Every former slug of this page, retained forever, so a document naming the old one still resolves</td>
 </tr>
 <tr>
+<td><code>newest_evidence</code>, <code>source_checked</code>, <code>recheck_by</code></td>
+<td>Claims</td>
+<td>How current the claim is: newest study's year, last automated check against sources, and a recheck year for fast-ageing kinds only (<code>scripts/add_currency.py</code>; see Evidence on claim pages)</td>
+</tr>
+<tr>
 <td><code>evidence_strength</code>, <code>author</code>, <code>grain_size</code></td>
 <td>Type-specific</td>
 <td>Extra scalar fields kept as-is per page type (see templates below); OKF tolerates extra frontmatter keys</td>
@@ -3454,6 +3470,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
     check_evidence_markers.py ← claim citations carrying no [±~][SMW] marker (see below)
     evidence_rollup.py ← distinct-study roll-ups behind the evidence profiles and evidence.md
     add_evidence_profile.py ← the `&gt; **Evidence** ·` line on pages that cite claims
+    add_currency.py    ← the `&gt; **Currency** ·` line and currency fields on claims: newest study, source check, recheck year
     build_evidence_report.py ← evidence.md, the state of the wiki's evidence (generated)
     search_index.py    ← SQLite FTS5 index of the wiki in .cache/, used by search and linking
     link_claims.py     ← labels and writes Related Claims links between claims
