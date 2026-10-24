@@ -50,3 +50,4 @@ Mediation analysis following Baron and Kenny on the same longitudinal SEM sample
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
 - [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — related
+- [Ecological factors and mathematics motivation explain significant variance in student- and school-level numeracy achievement](ecology-factors-motivation-predict-numeracy-achievement.md) — related

@@ -1,0 +1,45 @@
+---
+type: claim
+title: "Fairy tales dominated the reading choices of girls aged six to eight but dwindled sharply with age, while girls' series books peaked between eleven and sixteen"
+description: "Fairy tales dominated the reading choices of girls aged six to eight but dwindled sharply with age, while girls' series books peaked between eleven and sixteen"
+id: age-graded-reading-tastes-girls-1920
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-24
+evidence_strength: weak
+sources:
+  - id: wheeler-1920
+    resource: "https://doi.org/10.1037/h0064614"
+    title: "Wheeler, T. (1920). A Study of Certain Recreational Reading and Vocational Phases in the Lives of Young Girls. The Journal of Educational Psychology, Vol. XI, No. 9. https://doi.org/10.1037/h0064614"
+    author: Wheeler, T.
+    q: 2
+    i: "?"
+---
+
+# Fairy tales dominated the reading choices of girls aged six to eight but dwindled sharply with age, while girls' series books peaked between eleven and sixteen
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` From ages eleven to sixteen, girls' series books occupied one-third or more of total reading selections, dropping to a small proportion in the oldest group. [→ Wheeler 1920](#wheeler-1920)
+
+## Evidence
+
+### Wheeler 1920
+
+Wheeler, T. (1920). A Study of Certain Recreational Reading and Vocational Phases in the Lives of Young Girls. The Journal of Educational Psychology, Vol. XI, No. 9. https://doi.org/10.1037/h0064614
+
+`q2 · i?`
+
+Descriptive analysis of book choices across age groups in the same survey. Girls' series occupied "one-third or more the total selection" from ages eleven to sixteen, with only a small proportion in the oldest group naming them. No effect size is reported.
+
+> "From the ages of eleven to sixteen years, girls' series occupy one-third or more the total selection while in the last group of girls only a small proportion name these books."
+
+## Discussion
+
+
+## Related Claims
+- [Reading as a pastime peaked at about one-fifth of preferences among thirteen-to-fourteen-year-old girls](reading-peaks-early-adolescence-girls-1920.md) — related
+- [Only fifty-eight of the 800 girls expressed a wish to pursue a vocation along the lines of their favorite pastimes, concentrated in music, art, athletics, and sewing](rare-recreation-vocation-correlation-girls-1920.md) — related

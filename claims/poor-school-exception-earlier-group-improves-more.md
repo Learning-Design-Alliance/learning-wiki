@@ -65,3 +65,4 @@ The author's offered explanation (type e) for the exception: the poor-school boy
 - [In a London boys' school class, the group working problematic arithmetic later in the morning improved about 5 per cent more than the group working it early](later-morning-group-improves-more-boys-school.md) — reports the opposite
 - [In a London girls' school class, the group working problematic arithmetic later in the morning improved about 5 or 6 per cent more than the early group](later-morning-group-improves-more-girls-school.md) — reports the opposite
 - [Exception: the top section of afternoon workers did better work than the corresponding morning section](top-section-afternoon-superiority.md) — related
+- [In a Standard VII girls' class, the later-working group (11.25 A.M.) improved 21 per cent on preliminary records versus 15 per cent for the earlier-working group (10 A.M.).](girls-later-morning-greater-improvement.md) — reports the opposite

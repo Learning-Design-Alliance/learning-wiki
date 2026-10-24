@@ -49,3 +49,4 @@ Later studies of learning, including the typewriting work, showed that in natura
 - [Learning-curve plateaus were caused by learners' failure to overcome specific difficulties at critical stages, not by the order in which habits developed](plateaus-caused-by-unovercome-difficulties.md) — related
 - [New adaptations in skill learning were made unintentionally and required intense, carefully applied effort under favorable conditions](higher-order-adaptations-unintentional-effort-driven.md) — related
 - [Dynamic psychology research on habit formation is replacing vague verbal maxims of applied psychology with definite insights, including when practice makes perfect and when it does not.](dynamic-psychology-replaces-vague-maxims.md) — a broader claim this one bears on
+- [Practice curves in computation and reasoning would resemble the learning curves of Bryan and Harter and Book](practice-curves-computation-reasoning-bryan-harter.md) — related

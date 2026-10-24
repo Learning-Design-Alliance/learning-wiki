@@ -56,3 +56,4 @@ A theoretical statement from the article's abstract identifying the core assumpt
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related
 - [The effort-moderated IRT model's parameter estimation accuracy was studied under multiple assumption violations in the context of test-taking disengagement](effort-moderated-irt-parameter-estimation-under-assumption-violations.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
+- [Manipulation trials were excluded from performance scoring to preserve WAIS-III validity](manipulation-trials-excluded-performance-scoring.md) — related

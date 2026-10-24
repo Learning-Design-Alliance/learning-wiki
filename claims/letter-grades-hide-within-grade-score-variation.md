@@ -48,3 +48,4 @@ Analysis of Oklahoma student reading score distributions plotted by A–F letter
 - [Oklahoma achievement declined rather than grew across 2012–2014 under the A–F letter grade system, with the largest drops in F schools](oklahoma-achievement-declined-2012-2014-under-a-f.md) — related
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — a broader claim this one bears on
 - [In Oklahoma A and B schools, FRL students scored lower in reading than Non-FRL students, with the gap widening in 2014](frl-reading-gap-a-b-schools-2012-2014.md) — related
+- [Group averages are misleading when applied to individual pupils because of extensive overlapping in weight and height across grades](group-averages-misleading-individual-overlap.md) — related

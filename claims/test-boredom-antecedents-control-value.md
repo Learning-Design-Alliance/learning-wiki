@@ -47,3 +47,6 @@ Study 1 latent correlations from hierarchical (multilevel for state) CFA models 
 - [Nonlinear CVT extensions show cubic control terms with negative coefficients for negative emotions in the full sample, but the coefficient's sign differs across latent profiles](nonlinear-cvt-diverges-across-profiles.md) — related
 - [Test boredom correlates negatively with math grades but not with the math test score in Study 1](test-boredom-negative-grades-not-test-score.md) — related
 - [Students report statistically significant levels of boredom during mathematics tests, for both trait and state measures](test-boredom-occurs-significant-levels.md) — related
+- [The experimental manipulation succeeded: most participants reported overchallenge during difficult tasks and underchallenge during easy tasks](manipulation-check-over-underchallenge-distributions.md) — related
+- [The number of manipulation trials showed little variation across participants and was deliberately not statistically controlled](manipulation-trials-not-controlled-little-variation.md) — related
+- [A single boredom item correlated strongly with the full TBS-S scale in both the easy and difficult test parts](single-item-boredom-part-whole-correlations.md) — related

@@ -46,3 +46,4 @@ The author's own experiential claim in the logical-reasoning section, illustrate
 - [Dewey argues the scientific attitude is achieved by pupils taking a hand in the making of knowledge through inquiry](dewey-making-knowledge-through-inquiry.md) — related
 - [Dewey argues that science has not justified its early promises as part of the educational curriculum](dewey-science-not-justified-curriculum-promises.md) — related
 - [Dewey holds the aim of science teaching should be to give pupils the scientific attitude and habit of mind](dewey-aim-scientific-attitude-habit-of-mind.md) — related
+- [The article argues geometry teaching should target ten enumerated outcomes, with the general powers rather than the content as the chief aim](geometry-ten-aims-powers-over-content.md) — related

@@ -65,3 +65,4 @@ Figure II plots registrar's scholarship standing by first-cause group; the text 
 - [Freshmen rank lack of money as the leading cause of elimination, followed by ill-health; the authors attribute about 34 per cent of elimination to lack of means and 28 per cent to ill-health](money-and-health-leading-elimination-causes.md) — related
 - [Students with the least means studied the most and made the best grades, while students tired of school studied least and made relatively low grades](study-time-varies-by-elimination-cause-group.md) — related
 - [About 60 per cent of University of Texas freshmen withdrew permanently each year, based on student-history tracing of 1901–1908 freshman cohorts](texas-freshmen-60-percent-permanent-withdrawal.md) — related
+- [Academic subjects were graded to a markedly higher standard than shop subjects, with far larger shares of grades below passing](academic-vs-shop-grading-standards.md) — related

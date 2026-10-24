@@ -51,3 +51,4 @@ The review reports, citing Jones and Byrnes (2006), that an O-P-model-based anal
 - [Mathematics self-efficacy is the most commonly studied motivational propensity and is usually positively related to algebraic thinking](math-self-efficacy-positive-algebra.md) — related
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](belonging-mathematics-positive-algebra.md) — related
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](math-anxiety-mixed-algebra-relations.md) — related
+- [Student, student/home, and school factors explain significant variance in student- and school-level mathematics motivation](ecology-factors-explain-variance-math-motivation.md) — related

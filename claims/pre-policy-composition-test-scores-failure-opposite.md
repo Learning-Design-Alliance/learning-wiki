@@ -73,3 +73,4 @@ Pre-policy bottom panel of Table 3. The article links this pattern to a frog pon
 - [Average test scores are higher when classes are sorted by skill, driven by large learning gains for high-skilled students and slightly lower scores for low-skilled students](sorting-raises-test-scores-via-high-skill-gains.md) — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
 - [Quality of explanations is higher in groups containing above-average students than in groups without them](group-expertise-raises-explanation-quality.md) — related
+- [Alternate Average Adult tests are misplaced: 50% of AI 1 failures and 46% of AI 2 failures came from students with IQ above 110](caldwell-1919-alternate-tests-misplaced.md) — related

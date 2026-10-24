@@ -50,3 +50,4 @@ The abstract states the assumption directly: "current measurement models underly
 - [The effort-moderated IRT model's parameter estimation accuracy was studied under multiple assumption violations in the context of test-taking disengagement](effort-moderated-irt-parameter-estimation-under-assumption-violations.md) — related
 - [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](rapid-guessing-identification-and-context.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
+- [Manipulation trials were excluded from performance scoring to preserve WAIS-III validity](manipulation-trials-excluded-performance-scoring.md) — related

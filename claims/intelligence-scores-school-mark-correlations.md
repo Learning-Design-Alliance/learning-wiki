@@ -51,3 +51,5 @@ Correlational comparison of intelligence scores with scholarship in the Normal S
 - [Otis scores proved of practical value over a two-year trial for guiding junior high pupils' choice between a foreign language and manual work](otis-scores-practical-guidance-value.md) — related
 - [Clement's five group intelligence tests intercorrelated only modestly, with the Indiana Mental Survey below 0.40 against all others](clement-five-test-intercorrelations-modest.md) — related
 - [Correlations between two forms of the same test (up to 0.94, averaging 0.83 in Colvin's data) far exceed between-test correlations, casting doubt that different 'general intelligence tests' measure the same element](same-form-correlations-exceed-between-test.md) — related
+- [IQ-grade correlation differs sharply by class standing: .69 for Juniors versus .17 for Sophomores, rising to .48 when three discrepant records are omitted](caldwell-1919-junior-sophomore-correlation-difference.md) — related
+- [Prior studies show low and variable correlations between mental tests and college grades, averaging from .09 to .44](caldwell-1919-prior-test-grade-correlations-low.md) — related

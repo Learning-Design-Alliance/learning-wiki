@@ -52,3 +52,4 @@ The study's correlational and hierarchical regression analyses across Belgian, C
 - [Fraction magnitude comparison correlated with general math achievement only in the U.S. samples, indicating number line estimation and magnitude comparison tap partly different aspects of fraction magnitude understanding](magnitude-comparison-task-validity-fractions.md) — related
 - [Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding](arithmetic-predicts-algebra-better-than-fraction-knowledge.md) — related
 - [Fraction knowledge is consistently linked to algebra success, though findings vary by measure](fraction-knowledge-predicts-algebra.md) — related
+- [Fractions knowledge is a critical domain-specific predictor of mathematics achievement in later grades](fractions-knowledge-predicts-later-achievement.md) — related

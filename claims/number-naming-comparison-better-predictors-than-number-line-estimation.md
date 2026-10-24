@@ -54,3 +54,4 @@ Second preparatory regression on the 63 kindergarteners with the three estimatio
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [Procedural and conceptual counting knowledge each predict kindergarten arithmetic, together explaining about 25% of variance](procedural-conceptual-counting-predict-kindergarten-arithmetic.md) — related
 - [The relation between kindergarten spatial orientation and arithmetic is partially mediated by number line estimation](number-line-estimation-partially-mediates-spatial-orientation-arithmetic.md) — reports the opposite
+- [A combination of specific mathematical cognition measures predicts subsequent mathematics achievement better than prior mathematics achievement scores alone](cognition-measures-beat-prior-achievement.md) — related

@@ -99,3 +99,4 @@ The author's argument: a "systematic absence of knowledge about the speaker’s 
 - [Middle school girls framed Blackness as celebratory culture while high school girls emphasized individual efforts to overcome negative portrayals](developmental-shift-meaning-of-blackness.md) — related
 - [Wikipedia editing reproduces inequalities in editors, topics and credible knowledge, but feminist edit-a-thons can redress cultural injustice](wikipedia-editing-inequality-and-edit-a-thons.md) — related
 - [Black girls' awareness of difficulties navigating educational settings is coupled with parental support that promotes positive gendered racial identities](parental-support-promotes-positive-gendered-racial-identities.md) — related
+- [Because many delinquent girls learned quickly and accurately, the article concludes moral defects must be partially explained on grounds other than inferior mentality](delinquency-not-fully-explained-by-mentality.md) — related

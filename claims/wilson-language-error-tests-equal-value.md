@@ -48,3 +48,4 @@ Norming administration of the three test forms in Sioux City, Iowa, and Duluth, 
 - [Tests B and C correlate 0.901 when given to the same pupils in grades III to VIII](wilson-tests-b-c-correlation-0901.md) — a narrower finding that bears on this claim
 - [Test A contains 28 errors and Tests B and C contain 29 each, yet scores for rights are practically the same](wilson-error-counts-rights-practically-same.md) — related
 - [The probable error of a score on the language error tests is 2.24](wilson-probable-error-224.md) — related
+- [Twelve-year-old pupils in upper grades show much greater test ability than those in lower grades](twelve-year-olds-upper-grades-greater-ability.md) — related

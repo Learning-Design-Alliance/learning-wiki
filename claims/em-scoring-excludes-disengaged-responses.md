@@ -55,3 +55,4 @@ The article's abstract describes the E-M scoring mechanism: it estimates fully-e
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related
 - [An estimated one-third of students fail to learn because of psychosocial problems that interfere with engagement in instruction](one-third-students-fail-learn-psychosocial-barriers.md) — related
 - [The effort-moderated IRT model's parameter estimation accuracy was studied under multiple assumption violations in the context of test-taking disengagement](effort-moderated-irt-parameter-estimation-under-assumption-violations.md) — related
+- [Manipulation trials were excluded from performance scoring to preserve WAIS-III validity](manipulation-trials-excluded-performance-scoring.md) — related

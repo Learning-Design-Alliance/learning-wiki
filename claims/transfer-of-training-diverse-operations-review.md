@@ -48,3 +48,4 @@ Narrative review attributing these findings to named earlier researchers (Volkma
 - [DCCS training in preschoolers transfers to false-belief understanding](dccs-training-transfers-false-belief.md) — related
 - [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
 - [Teachers construe tactical reasoning as a generalizable, transferable skill, using the educational design of wargames to downplay concern with realism](tactics-generalizable-transferable-skill.md) — related
+- [Empirical transfer research by Thorndike, Stone, Courtis, Winch and others is the most hopeful sign for determining the place of mathematics in the curriculum](transfer-research-place-of-mathematics-curriculum.md) — related

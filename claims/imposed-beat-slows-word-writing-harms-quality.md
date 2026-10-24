@@ -49,3 +49,4 @@ Small exploratory trial with a few subjects following a rhythmic beat while writ
 ## Related Claims
 - [For habituated adult writers, following an imposed rhythmic beat increases temporal variation, with better writers adapting better than poor writers](imposed-rhythm-increases-variation-habituated-adults.md) — related
 - [Better writers and older children anticipate the rhythmic beat while poorer writers and young children lag behind it; the arm is less accurate than the fingers except for younger children](beat-following-anticipation-versus-lag-arm-versus-finger.md) — related
+- [Training for speed in handwriting may be secured without considerable sacrifice of quality](speed-without-quality-sacrifice.md) — related

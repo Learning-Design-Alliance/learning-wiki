@@ -45,3 +45,4 @@ Partial-correlation analysis of height, weight, carpal-bone area and Stanford-Bi
 ## Related Claims
 - [Tall, heavy children with good lung capacity are further along toward mental maturity as evidenced by school progress, based on 21,682 final term grades](physical-size-school-progress-relation.md) — related
 - [Average and superior children develop at different levels and grow increasingly dissimilar with age, with superior children showing adolescent mental acceleration about one year earlier](average-superior-mental-curves-diverge.md) — related
+- [Group averages are misleading when applied to individual pupils because of extensive overlapping in weight and height across grades](group-averages-misleading-individual-overlap.md) — related

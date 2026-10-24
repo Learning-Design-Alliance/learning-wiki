@@ -67,3 +67,4 @@ Correlational analysis in Tables XVI and XVII arranged by classes: true-false av
 - [A single true-false test correlates with the criterion of achievement (.65) more highly than an essay examination (.56) or written work (.39)](true-false-criterion-correlation-exceeds-essay.md) — related
 - [No method of presenting true-false questions (oral, oral-and-visual, or visual) shows superiority in criterion correlation](true-false-presentation-method-no-superiority.md) — related
 - [Army intelligence test rankings corresponded with officers' rankings of soldiers (average correlation 0.536 across twelve companies), suggesting the tests measured something beyond literacy](army-tests-officer-ranking-correlation.md) — related
+- [Test results correlate more highly with estimated intelligence than with grades, including Starch's .75 versus .30 at Wisconsin](caldwell-1919-estimated-intelligence-correlations.md) — related

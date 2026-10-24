@@ -44,3 +44,4 @@ Analysis of school grades and physical measurements from two schools, treating p
 
 ## Related Claims
 - [Physiologically accelerated children are mentally accelerated: height correlates with mental age +0.53 for 49 girls with age held constant](physiological-acceleration-mental-acceleration.md) — related
+- [When body size at fourteen and period of rapid growth are considered, heavy or tall early developers rank better in scholarship than late developers, and light late developers rank better than light early or medium developers](development-stage-conditions-scholarship-relation.md) — a narrower finding that bears on this claim

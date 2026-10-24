@@ -67,3 +67,4 @@ Cross-language comparison of U.S. and Brazilian prephonological spellers (about 
 - [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
 - [Children's writing proficiency is task dependent: children use more advanced features on easier tasks and regress to basic features on harder tasks](writing-proficiency-task-dependent.md) — related
 - [Children use letter-name knowledge as a shortcut when inventing phonologically based spellings](letter-names-bootstrap-invented-spellings.md) — related
+- [Handwriting shows family resemblances attributable to inheritance, with characteristic styles recurring within families](downey-family-resemblance-handwriting.md) — related

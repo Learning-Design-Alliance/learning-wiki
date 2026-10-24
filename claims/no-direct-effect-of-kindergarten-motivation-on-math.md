@@ -44,3 +44,4 @@ SEM results section: in the fitted model (χ2SB = 95.86, 59 df; CFI = 0.960), al
 
 - [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md)
 - [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md)
+- [Ecological factors and mathematics motivation explain significant variance in student- and school-level numeracy achievement](ecology-factors-motivation-predict-numeracy-achievement.md) — related
