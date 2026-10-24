@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (22 for, 17 mixed, 2 against) · 47 studies (12 causal, 10 review, 7 theoretical, 5 quant-synthesis, 5 qualitative, 4 associational, 4 design), `q1`–`q4` · 4 of 47 report an effect size · 35 claims rest on one study
+> **Evidence** · 42 claims (23 for, 17 mixed, 2 against) · 48 studies (12 causal, 10 review, 7 theoretical, 5 quant-synthesis, 5 associational, 5 qualitative, 4 design), `q1`–`q4` · 4 of 48 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,6 +183,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Combining peer assessment with self-assessment brings marks closer to the teacher's marks](../claims/peer-plus-self-assessment-closer-to-teacher.md) [~W]
 - [Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures](../claims/forest-school-measurement-methods-heterogeneous.md) [~W]
 - [Self-report empathy measures predominate and may inflate associations via common method bias and self-serving bias](../claims/empathy-self-report-method-bias.md) [+W]
+- [Monroe's silent reading test permits substantial chance success, inflating comprehension scores](../claims/monroe-test-chance-success-defect.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.

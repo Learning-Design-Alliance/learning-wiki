@@ -52,3 +52,4 @@ Philosophical critique in the section on what Dewey would say about Kohlberg's m
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](dewey-morality-in-everyday-problems.md) — related
 - [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
 - [Theories of learning have historically operated to justify societal hierarchies through reification and ranking](learning-theories-justify-hierarchies-reification-ranking.md) — related
+- [Dewey holds the aim of science teaching should be to give pupils the scientific attitude and habit of mind](dewey-aim-scientific-attitude-habit-of-mind.md) — related

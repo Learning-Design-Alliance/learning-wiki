@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (20 show a difference, 7 mixed, 6 no difference) · 25 studies (6 causal, 6 review, 6 associational, 4 quant-synthesis, 2 theoretical, 1 design), `q2`–`q3` · 1 of 25 report an effect size · 30 claims rest on one study
+> **Evidence** · 34 claims (20 show a difference, 7 mixed, 7 no difference) · 26 studies (7 associational, 6 causal, 6 review, 4 quant-synthesis, 2 theoretical, 1 design), `q2`–`q3` · 1 of 26 report an effect size · 31 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -71,6 +71,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](../claims/rall-learning-gains-five-language-domains.md) [+M] — instruction changes it
 - [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](../claims/interleaving-lasting-learning-delayed-posttests.md) [+W] — instruction changes it
 - [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](../claims/rule-recall-miserable-half-known.md) [-M] — instruction changes it
+- [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](../claims/discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

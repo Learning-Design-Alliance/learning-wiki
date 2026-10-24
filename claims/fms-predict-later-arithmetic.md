@@ -67,3 +67,4 @@ One longitudinal study (Michel et al., 2020) found the predictive value of FMS "
 - [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — related
 - [Fine motor skills correlate more strongly with overall academic-cognitive skills (r = .302) than gross motor skills (r = .170) in children aged 3–16](fims-stronger-than-gms-overall-academic-cognitive.md) — related
 - [FiMS relate more strongly than GMS to reading, writing, mathematics, general academics and cognition, but not to language; GMS show no significant link to general academic skills](fims-gms-domain-specific-associations.md) — related
+- [Finger gnosis is not a meaningful correlate of early arithmetic in this sample](finger-gnosis-not-correlate-arithmetic.md) — related

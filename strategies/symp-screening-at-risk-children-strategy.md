@@ -48,6 +48,7 @@ The article recommends administering the SYMP Test as an early screening tool: b
 ## Related Strategies
 
 - [Assess Arabic numeral identification and symbolic magnitude estimation to identify children likely to struggle with math](assess-symbolic-number-skills-for-early-identification.md)
+- [Early identification battery for children at risk for long-term mathematics difficulties](early-math-risk-identification-battery.md)
 
 ## Examples
 -

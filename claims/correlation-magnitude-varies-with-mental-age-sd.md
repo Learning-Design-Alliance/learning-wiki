@@ -44,4 +44,4 @@ Secondary analysis across the grade and age-group correlations shows correlation
 
 
 ## Related Claims
--
+- [Stanford-Binet mental age correlations with reading rise from grade III to grade VI](mental-age-reading-correlation-rises-with-grade.md) — related

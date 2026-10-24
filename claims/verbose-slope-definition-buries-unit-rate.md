@@ -45,3 +45,4 @@ Descriptive analysis of the CPM definition of slope in the textbook scan, which 
 ## Related Claims
 - Congruent-shape definitions are nearly identical across CPM's 8th and 9th grade materials, with the 9th-grade version adding only the congruence symbol — related
 - [Teachers acted as assignment givers rather than instructors, using brief mentioning followed by workbook assignments](mentioning-precedes-workbook-assignments.md) — related
+- [Condensed material is nearly impossible to skim, while paragraphed material and topic-sentence-first paragraphs are easier to skim](text-structure-affects-skimmability.md) — related

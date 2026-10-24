@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (61 show a difference, 15 mixed, 15 no difference) · 62 studies (17 quant-synthesis, 17 associational, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 23 of 62 report an effect size · 86 claims rest on one study
+> **Evidence** · 96 claims (65 show a difference, 16 mixed, 15 no difference) · 63 studies (18 associational, 17 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 24 of 63 report an effect size · 91 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -132,6 +132,11 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Word reading improved in all three training groups among children without reading difficulties, with no group-by-time interaction](../claims/word-reading-improved-all-training-groups.md) [+M] — instruction changes it
 - [The multi-component intervention produced statistically significant advantages over business-as-usual on one decoding measure (ES = 0.58) and one fluency measure (ES = 0.46), but not on reading comprehension](../claims/intervention-gains-decoding-fluency-not-comprehension.md) [+M] — instruction changes it
 - [Children receiving intervention in 1st or 2nd grade made gains in foundational word reading relative to controls almost twice those of children receiving it in 3rd grade](../claims/earlier-grade-intervention-larger-word-reading-gains.md) [+M] — instruction changes it
+- [Greater pre-intervention reliance on imageability predicts smaller residualized gains in word reading (Letter-Word Identification and Sight Word Efficiency)](../claims/imageability-reliance-predicts-word-reading-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Greater pre-intervention reliance on O-P regularities, and larger increases in O-P reliance over the intervention, predict greater residualized gains in pseudoword reading among children with reading disabilities](../claims/op-reliance-predicts-pseudoword-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Greater reduction in reliance on imageability over the intervention is associated with greater residualized gains in Passage Comprehension](../claims/imageability-reduction-predicts-comprehension-gains.md) [+M] — learners who differ on it differ in outcomes
+- [The phonologically-weighted intervention increased children's mean reliance on O-P regularities from pre- to post-intervention, with no significant mean change in imageability reliance](../claims/intervention-increases-mean-op-reliance.md) [~W] — instruction changes it
+- [Word reading task measures of O-P and imageability reliance predict intervention gains beyond vocabulary, phonological awareness, rapid naming, and auditory attention](../claims/op-imageability-unique-predictors-of-gains.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

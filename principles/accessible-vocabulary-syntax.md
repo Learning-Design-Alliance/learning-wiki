@@ -31,7 +31,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (14 for, 3 mixed, 2 against) · 27 studies (9 causal, 6 review, 4 quant-synthesis, 3 design, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 27 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (15 for, 3 mixed, 2 against) · 28 studies (9 causal, 6 review, 4 quant-synthesis, 3 design, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 4 of 28 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [International faculty feedback revealed that the term service is not clearly recognized outside North America, prompting wording changes for global comprehensibility](../claims/service-term-international-comprehensibility.md) [+W]
 - Text Accessibility Drives Context Clue Compensation [+M]
 - [Prior meta-analytic and experimental evidence reports positive effects of linguistic simplification on learning outcomes, attributed by the review literature cited in this article](../claims/linguistic-simplification-positive-learning-outcomes-prior-evidence.md) [+M]
+- [Adequate definitions of abstract and familiar terms rarely appear before the eleventh year](../claims/adequate-definitions-rare-before-eleventh-year.md) [+W]
 
 ## Related Principles
 - [Explicit Instruction: Vocabulary](explicit-instruction-vocabulary.md) — focuses on the direct teaching of word meanings and usage

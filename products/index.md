@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1886 entries** · 0 stable · 1886 in review · 0 drafts
+**1891 entries** · 0 stable · 1891 in review · 0 drafts
 
 ---
 
@@ -1008,6 +1008,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Math-gender Misconceptions Questionnaire short version (MGMQ-s)](math-gender-misconceptions-questionnaire-short-version-mgmq-s.md) - A short self-report questionnaire developed by Dersch, Thacker, and Eitel that measures in-service and student teachers' empathizing-systemizing and girls' compensation misconceptions using agreement and certainty responses.
 * [Mathbot](mathbot.md) - Mathbot is an AI-based personalized elementary mathematics learning platform developed to adapt instruction and feedback to individual learners while incorporating students' interests into fraction problems.
 * [Mathematica's M&E approach and associated toolkit](mathematicas-me-approach-and-associated-toolkit.md) - A Mathematica framework and toolkit that structures evidence gathering and decision-making across four phases of evidence-based solution development.
+* [Mathematical Equivalence Assessment (MEA), 15-item adapted instrument](mathematical-equivalence-assessment-mea-15-item-adapted-instrument.md) - A 15-item adapted assessment developed by Şimşek et al.
 * [Mathematical Imagery Trainer for Proportion](mathematical-imagery-trainer-for-proportion.md) - An embodied mathematics-learning environment developed by Dor Abrahamson and colleagues in which learners manipulate on-screen cursors to construct proportional relationships through staged visual and numerical overlays.
 * [Mathematics Diagnostic Testing Project (MDTP)](mathematics-diagnostic-testing-project-mdtp.md) - MDTP is a mathematics diagnostic assessment project that provides topic-level mastery information for students and educators, including online results used to inform algebra placement decisions.
 * [Mathematics-Related Beliefs Questionnaire](mathematics-related-beliefs-questionnaire.md) - The MRBQ is a 58-item, six-point Likert-scale questionnaire developed by Op ’t Eynde and colleagues to measure students’ beliefs about mathematics, themselves as mathematics learners, and their classroom social context.
@@ -1517,6 +1518,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Shared Measures Construct Map](shared-measures-construct-map.md) - A one-page construct-map instrument in a practical measurement guide that defines six dimensions, sub-constructs, and relationships for monitoring ELA and math curriculum-shift implementation.
 * [SHIELD](shield.md) - A VSCode extension developed by Rohit Mehra et al.
 * [Shiny App for finding optimal designs in classroom climate studies](shiny-app-for-finding-optimal-designs-in-classroom-climate-studies.md) - A Shiny web application created by Steffen Zitzmann and colleagues to help educational researchers plan classroom-climate studies by optimizing statistical power or study budget under multilevel design assumptions.
+* [Shiny App for simulating and visualizing the goals-performance-emotions model](shiny-app-for-simulating-and-visualizing-the-goals-performance-emotions-model.md) - A publicly accessible R Shiny application released by the article's authors for simulating and visualizing the dynamics of goals, performance, and emotions in their hypothesized model.
 * [Short student survey](short-student-survey.md) - A study-specific student questionnaire created and administered by the evaluation team to measure mathematical experiences, belonging, self-efficacy, and perceptions of instructional implementation.
 * [Simba Wachanga](simba-wachanga.md) - A year-long interdisciplinary rites-of-passage programme for African-American boys, implemented by the East End Neighborhood House in Cleveland through Elders, resource people, and Big Brothers.
 * [SimCalc](simcalc.md) - SimCalc is a mathematics curriculum package developed by the SimCalc project that integrates dynamic representation software, student workbooks, and teacher professional development for teaching rate, proportionality, and linear functions.
@@ -1687,6 +1689,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Teacher as Social Context Questionnaire (TASC) and Situations in School Questionnaire (SIS)](teacher-as-social-context-questionnaire-tasc-and-situations-in-school-questionnaire-sis.md) - The TASC and SIS are questionnaire-based assessment instruments used to measure students' or teachers' perceptions of teacher autonomy support, structure, involvement, control, and chaos in K–12 and post-secondary educational settings.
 * [Teacher Assessment of College-going Climate measure](teacher-assessment-of-college-going-climate-measure.md) - A school-level survey-based measure developed by Roderick et al.
 * [Teacher Incentive Fund](teacher-incentive-fund.md) - A U.S.
+* [Teacher instrument measuring knowledge of students' operational and relational strategies](teacher-instrument-measuring-knowledge-of-students-operational-and-relational-strategies.md) - A four-item teacher instrument developed by Şimşek et al.
 * [Teacher Moments](teacher-moments.md) - Teacher Moments is a free, openly licensed digital teaching-simulation platform developed by the MIT Teaching Systems Lab for immersive, scenario-based practice in teaching decisions.
 * [Teacher Quality Partnership](teacher-quality-partnership.md) - A U.S.
 * [Teacher residency model](teacher-residency-model.md) - A teacher-preparation programme model run by partnerships between local education agencies and institutions of higher education, combining credential coursework, a yearlong mentored clinical placement, and financial support for residents.
@@ -1726,6 +1729,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Test of the rational-number central conceptual structure with capacity-graded item subsets](test-of-the-rational-number-central-conceptual-structure-with-capacity-graded-item-subsets.md) - A study-developed assessment by Morra et al.
 * [TFT partnership](tft-partnership.md) - A REL Midwest partnership framework that organizes professional-learning activities and expected administrator, teacher, and student outcomes across short-, medium-, and long-term horizons.
 * [The 10 Elements of Black Excellence](the-10-elements-of-black-excellence.md) - A community-informed framework developed by LBUSD's Center to organize its foundation, aims, and practical approaches for advancing Black excellence.
+* [The 33-exercise scientific method test in geography content](the-33-exercise-scientific-method-test-in-geography-content.md) - A paper-and-pencil geography assessment by Herring containing 33 multiple-option exercises designed to measure pupils' ability to use elements of the scientific method rather than recall geography content.
 * [The 3E framework](the-3e-framework.md) - The 3E framework is a rubric-based assessment developed by Masum Hasan et al.
 * [The AI Assessment Scale (AIAS)](the-ai-assessment-scale-aias.md) - A scale-based framework developed by Perkins et al.
 * [The AI House](the-ai-house.md) - A four-layer pedagogical framework developed by Vinicius Santana Gomes for training public-sector employees to use generative AI safely, practically, and in compliance with legal and governance requirements.
@@ -1930,6 +1934,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### Z {: #letter-z }
 
 * [Zearn Math](zearn-math.md) - Zearn Math is a nonprofit-developed online supplemental K–8 mathematics curriculum and digital learning program used during math instruction, intervention, and tutoring.
+* [Zimmerman's 100-case comparative dataset of Binet-Simon and Yerkes Point Scale examinations](zimmermans-100-case-comparative-dataset-of-binet-simon-and-yerkes-point-scale-examinations.md) - A historical case-level dataset compiled by Zimmerman containing 100 children's results from comparative Binet-Simon and Yerkes Point Scale examinations, including demographic, age, score, and classification data.
 * [Zoo U](zoo-u.md) - Zoo U is a single-player point-and-click educational game developed by Melissa E.
 
 #### 0-9 & Other {: #letter-num }

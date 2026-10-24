@@ -55,3 +55,4 @@ Path analysis (LISREL, maximum likelihood) on 102 children; model fit satisfacto
 - [Response inhibition shows a small negative association with reading fluency (r = −.15) in a single study](inhibition-reading-fluency-small-negative.md) — related
 - [Improvements in planning skills mediated SRSD's effect on text quality, via better-structured stories containing more ideas](planning-skill-gains-mediate-srsd-writing-quality.md) — related
 - [School size statistically significantly predicted handwriting fluency but not the other two writing outcomes](school-size-predicts-handwriting-fluency.md) — related
+- [Working memory is a foundational cognitive skill for language and transcription skills, but its relation to writing is primarily mediated by other component skills](working-memory-foundational-but-mediated-in-writing.md) — related

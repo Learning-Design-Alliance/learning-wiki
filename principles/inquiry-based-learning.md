@@ -52,7 +52,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (33 for, 20 mixed, 7 against) · 67 studies (19 causal, 15 quant-synthesis, 10 review, 8 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 16 of 67 report an effect size · 47 claims rest on one study
+> **Evidence** · 61 claims (34 for, 20 mixed, 7 against) · 68 studies (19 causal, 15 quant-synthesis, 10 review, 9 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 16 of 68 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [Teachers' reported weekly use of the 5E instructional model for lesson planning rose from 13 percent to 42 percent over the Initiative](../claims/ngss-early-implementers-5e-use-increased.md) [+W] — teacher uptake of the 5E model, not an effect on learners.
 - [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S] — undergraduate STEM active learning against lecture (0.47 SD); it does not separate inquiry from other active methods, so it neither tests nor bounds this page's relationship.
 - [The bilingual cultural map functioned as a boundary object supporting divergent interpretations across students, museum educators, and end-users without requiring semantic consensus](../claims/cultural-map-boundary-object-distributed-cognition.md) [+W] — (not about this page) a cross-sector design artifact, not inquiry learning.
+- [Dewey argues the scientific attitude is achieved by pupils taking a hand in the making of knowledge through inquiry](../claims/dewey-making-knowledge-through-inquiry.md) [+W] — attached 2026-10-24 from J. Dewey (1910), which proposed "Teach science for its method-value — cultivating the scientific attitude through pupil inquiry — rather than primarily for informational subject-matter".
 
 ## Objective and learner-valued goal
 

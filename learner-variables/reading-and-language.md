@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 196 claims (125 show a difference, 30 mixed, 41 no difference) · 140 studies (37 causal, 34 associational, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 32 of 140 report an effect size · 187 claims rest on one study
+> **Evidence** · 197 claims (125 show a difference, 31 mixed, 41 no difference) · 141 studies (37 causal, 35 associational, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 32 of 141 report an effect size · 188 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -247,6 +247,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Total effects of oral language, cognition, transcription, and reading comprehension vary largely across the three dimensions of written composition](../claims/total-effects-vary-writing-dimensions.md) [~M] — learners who differ on it differ in outcomes
 - [Grade 1 and Grade 2 domain-specific vocabulary knowledge explained 69% of the MORE intervention's treatment effect on Grade 2 domain-specific reading comprehension](../claims/vocabulary-mediation-69-percent-treatment-effect.md) [+M] — instruction changes it
 - [The treatment effect on domain-specific reading comprehension was indirect-only: the direct path from treatment to comprehension was not significant](../claims/indirect-only-mediation-null-direct-effect.md) [~M] — instruction changes it
+- [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](../claims/discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

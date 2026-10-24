@@ -49,3 +49,4 @@ Conditional probability analyses in Experiment 1 over all student-generated ques
 - [Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) — related
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
 - [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) — related
+- [Children judge correctly at a high rate on two-alternative concrete judgment items even in the youngest age groups](alternative-judgment-test-young-groups-high-accuracy.md) — related

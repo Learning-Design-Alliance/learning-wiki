@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 65 claims (32 for, 29 mixed, 4 against) · 39 studies (21 causal, 7 review, 6 quant-synthesis, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 39 report an effect size · 61 claims rest on one study
+> **Evidence** · 66 claims (32 for, 30 mixed, 4 against) · 40 studies (22 causal, 7 review, 6 quant-synthesis, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 40 report an effect size · 62 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -116,6 +116,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Oral explaining yields more accurate meta-comprehension judgments than written explaining and retrieval practice](../claims/oral-explaining-improves-meta-comprehension-accuracy.md) [-W]
 - [Retrieval practice improves delayed but not immediate performance, consistent with a desirable-difficulties explanation](../claims/retrieval-practice-delayed-not-immediate-benefit.md) [+W]
 - [Explaining was not more effective than oral retrieval practice overall in Experiment 1](../claims/explaining-no-better-than-oral-retrieval-practice-exp1.md) [~W]
+- [Practice effects on the Thorndike-McCall test over two or more hours of testing are very small](../claims/thorndike-mccall-practice-effect-small.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

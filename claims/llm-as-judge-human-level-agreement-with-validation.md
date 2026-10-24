@@ -59,3 +59,4 @@ The field note's synthesis of evaluation methods describes the custom automated 
 - [LLM-based assessment can replace similarity-based methods because it needs no ground-truth response and no correctness threshold](llm-assessment-needs-no-ground-truth-or-threshold.md) — related
 - [The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding](educlaw-bench-judge-panel-human-validation.md) — a narrower finding that bears on this claim
 - [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](judge-agreement-classifying-test-units-scales.md) — related
+- [The test's exercises were validated by six expert judges who reached practical agreement after modification](six-judge-validity-agreement-test-exercises.md) — a narrower finding that bears on this claim

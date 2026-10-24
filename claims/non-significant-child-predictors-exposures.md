@@ -59,3 +59,4 @@ Model 1 of the crossed-random effects analysis tested five child predictors; Tab
 - [Word length, vocabulary grade, and imageability significantly predicted the number of exposures required for sight word mastery](word-features-predict-exposures-to-mastery.md) — related
 - [Age predicts decoding efficiency in children with dyslexia while working memory and perceptual organization covariate effects are non-significant](age-covariate-effects-decoding-dyslexia.md) — related
 - [Initial word reading skill interacted with imageability: the poorest readers needed nearly 4 more exposures for low-imageability words than stronger readers](swe-imageability-interaction-exposures.md) — related
+- [Word reading task measures of O-P and imageability reliance predict intervention gains beyond vocabulary, phonological awareness, rapid naming, and auditory attention](op-imageability-unique-predictors-of-gains.md) — related

@@ -49,3 +49,5 @@ Manipulation check from the rate-of-reading experiment, reported from the readin
 ## Related Claims
 - [Rapid reading gains about 26% more ideas per second than normal reading, and slow reading about 20% fewer, in all four groups](ideas-per-second-rapid-reading-advantage.md) — related
 - [Comprehension (ideas recalled) shows very little difference across slow, normal, and rapid silent reading rates](reading-rate-little-comprehension-difference.md) — related
+- [Knowing that reproduction will be demanded slows reading rate across all readers and methods](reproduction-demand-slows-reading.md) — related
+- [Skimming rate correlates strongly with normal silent reading rate (r = +0.71)](skimming-rate-correlates-normal-silent-reading.md) — related

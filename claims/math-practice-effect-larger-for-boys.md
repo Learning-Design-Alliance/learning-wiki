@@ -52,3 +52,4 @@ Moderation analysis (model 8 in Table 4) in the same randomized field experiment
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
 - [Mathematics test practice does not improve domain-general problem-solving ability](math-practice-no-effect-domain-general-problem-solving.md) — related
 - [Mathematics anxiety does not moderate the effect of mathematics test practice on subsequent performance](math-anxiety-does-not-moderate-practice-effect.md) — related
+- [Boys outperform girls on algebra word problems, function mapping, equation memory, and arithmetic fluency, with no sex differences on other mathematics measures](sex-differences-specific-math-measures-geary-2023.md) — related

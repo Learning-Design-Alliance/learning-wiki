@@ -27,6 +27,7 @@ A paper scoring reorganization of the Stanford Revision of the Binet Scale devel
 ## Related Products and Programmes
 
 - [Otis's absolute grade of intelligence scale with coefficient of brightness](otiss-absolute-grade-of-intelligence-scale-with-coefficient-of-brightness.md)
+- [Zimmerman's 100-case comparative dataset of Binet-Simon and Yerkes Point Scale examinations](zimmermans-100-case-comparative-dataset-of-binet-simon-and-yerkes-point-scale-examinations.md)
 
 ## Key Sources
 - ARTHUK S. OTIS (Stanford University). (1917). A Criticism of the Yerkes-Bridges Point Scale, with Alternative Suggestions. The Journal of Educational Psychology, Vol. VIII, No. 3. https://eric.ed.gov/?q=Otis+criticism+Yerkes-Bridges+point+scale

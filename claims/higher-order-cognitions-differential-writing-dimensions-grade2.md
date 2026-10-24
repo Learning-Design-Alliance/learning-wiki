@@ -57,4 +57,4 @@ Three parallel structural equation models fitted to data from 350 Grade 2 childr
 - [Writing Skills](../learner-variables/writing-skills.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
--
+- [Inference, but not theory of mind, is independently related to writing quality after accounting for transcription skills and working memory](inference-independently-related-to-writing-quality-grade-1.md) — related

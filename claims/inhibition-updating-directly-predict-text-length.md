@@ -51,3 +51,4 @@ Hierarchical regression on 102 fourth graders' written narratives; EF entered la
 - [Planning shows no contribution to any level of narrative composition in fourth graders](planning-no-contribution-narrative-composition.md) — related
 - EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable — related
 - [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) — related
+- [Working memory is a foundational cognitive skill for language and transcription skills, but its relation to writing is primarily mediated by other component skills](working-memory-foundational-but-mediated-in-writing.md) — reports the opposite

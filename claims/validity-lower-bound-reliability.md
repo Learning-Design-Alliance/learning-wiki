@@ -45,3 +45,4 @@ The commentary proposes, citing Anastasi and Urbina (1997), that researchers can
 ## Related Claims
 - [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](low-alpha-not-evidence-of-content-validity.md) — related
 - [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](retest-reliability-knowledge-tests.md) — related
+- [A free-reproduction comprehension test (Brown) is not a valid measure of comprehension](brown-free-reproduction-invalid-comprehension-measure.md) — related

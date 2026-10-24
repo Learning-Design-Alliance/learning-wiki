@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**634 entries** · 0 stable · 634 in review · 0 drafts
+**635 entries** · 0 stable · 635 in review · 0 drafts
 
 ---
 
@@ -376,6 +376,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [MeDOL framework for reviewing learning-to-argue instructional approaches](medol-framework-for-reviewing-learning-to-argue-instructional-approaches.md) - The MeDOL framework is the review's organizing scheme, adapting Morrison et al.'s instructional effectiveness model to the diversity of LTA research.
 * [Meier et al. rating schema for productive collaboration](meier-et-al-rating-schema-for-productive-collaboration.md) - The study's model of productive collaboration is the rating schema by Meier et al.
 * [Meijer et al. taxonomy of 56 metacognitive text-studying activities](meijer-et-al-taxonomy-of-56-metacognitive-text-studying-activities.md) - A taxonomy for coding think-aloud protocols of secondary school students studying a history text, developed by Meijer et al.
+* [Mental-age score conversion and norming method](mental-age-score-conversion-and-norming-method.md) - The article details procedures for reducing heterogeneous survey data to the common basis of mental age.
 * [Messick's six-source unified validity framework for AI evaluation](messicks-six-source-unified-validity-framework-for-ai-evaluation.md) - The article anchors its validity discussion in Messick's unified theory of validity, which holds that validity is a property of inferences and decisions based on scores, not of instruments.
 * [Meta-d′ as a performance-normalized measure of metacognitive efficiency](meta-d-as-a-performance-normalized-measure-of-metacognitive-efficiency.md) - Meta-d' is a signal detection theoretic measure of relative metacognitive accuracy, attributed in the article to Maniscalco and Lau (2012), that explicitly models the relation between primary task performance and metacognition.
 * [Methodological parameter framework for designing intensive longitudinal studies](methodological-parameter-framework-for-designing-intensive-longitudinal-studies.md) - The review organises the design of intensive longitudinal studies around core methodological parameters: study duration, assessment frequency, sampling scheme (fixed, random, semi-random, event-based), item phrasing and questionnaire density, and data-collection device.

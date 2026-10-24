@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 245 claims (151 show a difference, 59 mixed, 35 no difference) · 176 studies (110 associational, 31 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 28 of 176 report an effect size · 237 claims rest on one study
+> **Evidence** · 248 claims (154 show a difference, 59 mixed, 35 no difference) · 177 studies (111 associational, 31 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 29 of 177 report an effect size · 240 claims rest on one study
 
 ## How to read this page
 
@@ -283,6 +283,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Jigsaw classroom curbs the widening gender gap in self-reported social competences, reducing the Time-3 gap by 27% versus business-as-usual and 20% versus resource independence](../claims/jigsaw-curbs-widening-gap-self-reported-competences.md) [~W] — an instructional effect differs by group
 - [The gender gap in perceived utility value of social competences widens over time](../claims/gender-gap-utility-value-widens-over-time.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The gender gap in self-reported social competences widens over two years of vocational high school](../claims/gender-gap-self-reported-competences-widens-over-time.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys hold advantages on all spatial measures while girls are more attentive in classroom settings](../claims/boys-spatial-advantage-girls-attention-advantage.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys outperform girls on algebra word problems, function mapping, equation memory, and arithmetic fluency, with no sex differences on other mathematics measures](../claims/sex-differences-specific-math-measures-geary-2023.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The spatial pathway to mathematical competence is relatively more important for boys and the in-class attention pathway for girls, confirming the differential contributions hypothesis](../claims/differential-contributions-pathways-confirmed.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

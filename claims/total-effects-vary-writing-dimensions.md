@@ -52,3 +52,4 @@ The article reports from its structural equation models of the Grade 2 sample th
 - [Reading comprehension differentially mediates the relations of discourse oral language and lexical literacy to writing quality in Grade 2](reading-comprehension-mediation-writing-quality.md) — related
 - [Discourse oral language is strongly related to writing quality and reading comprehension but unrelated to writing productivity in Grade 2](discourse-oral-language-differential-latent-relations.md) — a narrower finding that bears on this claim
 - [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](oral-language-first-grade-quality-only.md) — related
+- [Discourse-level oral language, spelling, and handwriting fluency completely mediate the relations of language and cognitive skills to writing quality in Grade 1](diew-complete-mediation-discourse-oral-language-transcription-writing.md) — related

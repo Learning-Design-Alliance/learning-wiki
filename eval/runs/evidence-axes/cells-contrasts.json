@@ -41462,5 +41462,57 @@
  "spacing\trepetitions well distributed in time\tmany repetitions in succession": {
   "label": "spaced vs massed",
   "treatment_is_a": true
+ },
+ "media-design\tmaterial divided into paragraphs\tmaterial presented as one paragraph": {
+  "label": "paragraphs vs one paragraph",
+  "treatment_is_a": true
+ },
+ "media-design\tparagraphs whose first sentence was the topic sentence\tmaterial without this topic-sentence structure": {
+  "label": "topic-sentence structure vs no topic-sentence structure",
+  "treatment_is_a": true
+ },
+ "practice-amount\tthree or four tests combined\tone or two tests combined": {
+  "label": "more tests combined vs fewer tests combined",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwo hours or more of practice on Thorndike-McCall\tless practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwo hours or more of practice on Thorndike-McCall forms\tearlier or less-practised performance": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwo hours or more of repeated Thorndike-McCall testing\tless prior practice": {
+  "label": "more repeated testing vs less repeated testing",
+  "treatment_is_a": true
+ },
+ "simulation\ttrue population parameters\thierarchically estimated parameters": {
+  "label": "true population parameters vs hierarchically estimated parameters",
+  "treatment_is_a": true
+ },
+ "test-format\tBurgess Form 2\tBurgess Form 1": {
+  "label": "Burgess Form 2 vs Burgess Form 1",
+  "treatment_is_a": true
+ },
+ "test-format\tBurgess total time including reading and drawing\tBurgess reading time": {
+  "label": "Total time including reading and drawing vs reading time only",
+  "treatment_is_a": true
+ },
+ "test-format\tMonroe Test 2 rate score in upper grades\tperformance of lower-grade pupils": {
+  "label": "Upper-grade rate-score performance vs lower-grade performance",
+  "treatment_is_a": true
+ },
+ "test-format\tMonroe rate score\tMonroe comprehension score": {
+  "label": "Rate vs comprehension",
+  "treatment_is_a": true
+ },
+ "test-format\tmarking answers without reading\treading paragraphs before answering": {
+  "label": "Reading before answering vs answering without reading",
+  "treatment_is_a": false
+ },
+ "test-format\trate tests\tcomprehension tests": {
+  "label": "Rate vs comprehension",
+  "treatment_is_a": true
  }
 }

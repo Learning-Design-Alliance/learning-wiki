@@ -58,9 +58,11 @@ Skimming and scanning depend on efficient eye-movement control and on text featu
 5. Follow with [Annotating](../principles/annotating.md) to mark located targets, converting the search into a durable artifact.
 
 ## Related Strategies
+
 - [Close Reading](close-reading.md) — the deliberate complement; skimming locates, close reading processes
 - [Annotating](../principles/annotating.md) — captures scan results so they need not be re-found
 - [Question Generation](question-generation.md) — self-questions give skimming a concrete target
+- [Systematic drill in skimming for children who have mastered the mechanics of reading](skimming-drill-after-mechanics-mastered.md)
 
 ## Examples
 - **IELTS/TOEFL preparation** — timed scanning tasks (locating names, dates, figures in passages) are a core tested skill; official practice materials from [IELTS](https://ielts.org) train it directly.

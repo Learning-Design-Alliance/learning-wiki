@@ -69,3 +69,4 @@ Non-randomized trials of FMS training (piano lessons for TD children; training f
 - [Early fine motor skills predict later arithmetic skills in most longitudinal studies, but not when executive functions are controlled](fms-predict-later-arithmetic.md) — related
 - [Training children to explicitly use finger strategies improves calculation performance in most studies, though results are not uniform](finger-strategy-training-improves-calculation.md) — related
 - [Children with congenital or neurodevelopmental motor disorders show arithmetic difficulties in some comparisons but perform similarly to peers in others](motor-disorders-arithmetic-mixed.md) — related
+- [Finger gnosis is not a meaningful correlate of early arithmetic in this sample](finger-gnosis-not-correlate-arithmetic.md) — related

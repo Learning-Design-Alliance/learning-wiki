@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 39 claims (17 for, 20 mixed, 2 against) · 29 studies (17 associational, 5 review, 4 theoretical, 2 quant-synthesis, 1 design), `q1`–`q3` · 1 of 29 report an effect size · 38 claims rest on one study
+> **Evidence** · 51 claims (20 for, 29 mixed, 2 against) · 34 studies (21 associational, 5 review, 4 theoretical, 2 quant-synthesis, 2 design), `q1`–`q3` · 3 of 34 report an effect size · 50 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -90,6 +90,18 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Pupils characteristically 'Bright' or 'Slow' in the early elementary grades remained in the same category in high school, in both graduate and non-graduate groups](../claims/early-late-standing-stability-record-study.md) [~W]
 - [Easy opposites scores correlate with scholastic rank, faculty and graduates outscoring seniors and juniors](../claims/scholastic-rank-easy-opposites-scores.md) [+W]
 - [Binet's norms were worked out for Paris working-class children and may need revision for other social classes and regions](../claims/binet-norms-paris-working-class-need-revision.md) [~W]
+- [Any single measure type approximates the composite (.89, .87, .85) but has only limited value used alone](../claims/single-measure-types-approximate-composite-limited-value.md) [+W] — attached 2026-10-24 from Chassell et al. (1921), which proposed "Composite of all measures as criterion for evaluating classification measures".
+- [Combinations of two measure types correlate very highly with the composite (.96, .91, .98), with little difference between choices](../claims/two-measure-type-combinations-high-composite-correlations.md) [~W] — attached 2026-10-24 from Chassell et al. (1921), which proposed "Composite of all measures as criterion for evaluating classification measures".
+- [Quality of work rather than time consumed proved the most reliable measure of intelligence across the battery](../claims/quality-of-work-over-time-as-intelligence-measure.md) [~W]
+- [Group tests combined with teachers' estimates correlate .77 with the Stanford Revision, questioning the necessity of individual examination](../claims/combined-group-tests-estimates-correlate-77-stanford.md) [~W]
+- [The Binet-Simon and Yerkes Point Scale ratings of children run parallel and are practically identical up to age ten](../claims/binet-point-scale-parallel-to-age-ten.md) [~W]
+- [The test battery showed striking parallelism between growth of intelligence and age in unretarded children, with leaps at grade transitions](../claims/intelligence-growth-parallels-age-with-grade-leaps.md) [~W]
+- [The test yields an analytical diagnosis of classes and individuals, illustrated by a pupil profile identifying specific abilities needing improvement](../claims/test-diagnostic-individual-profile-ls.md) [+W]
+- [Most referred children in the sample rated below their chronological age on both scales](../claims/referred-cases-below-age-both-scales.md) [~W]
+- [Group tests correlate much lower with the Stanford Revision (.45 and .53) and only .37 with each other](../claims/group-tests-lower-correlation-stanford-revision.md) [~W]
+- [The Thorndike-McCall correlates about 0.50 with other single comprehension tests and 0.69 with a composite of group intelligence tests](../claims/thorndike-mccall-correlations-comprehension-intelligence.md) [~W]
+- [Practice effects on the Thorndike-McCall test over two or more hours of testing are very small](../claims/thorndike-mccall-practice-effect-small.md) [~W]
+- [Stanford-Binet mental age correlations with reading rise from grade III to grade VI](../claims/mental-age-reading-correlation-rises-with-grade.md) [+W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

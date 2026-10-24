@@ -48,3 +48,4 @@ The review reports, citing Rubin et al. (1983), that all approaches attempting t
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — related
 - [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](educational-factors-support-adolescent-creativity.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
+- [Adequate definitions of abstract and familiar terms rarely appear before the eleventh year](adequate-definitions-rare-before-eleventh-year.md) — related
