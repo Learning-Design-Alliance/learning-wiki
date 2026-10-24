@@ -46,3 +46,4 @@ The review's abstract introduces two guiding hypotheses as part of the EMERGE fr
 - [The compensatory hypothesis focuses on short-term interactions among EF, MC, SR and SRL that predict learning outcomes](compensatory-hypothesis-short-term-interactions.md) — related
 - [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — a narrower finding that bears on this claim
 - [SR mechanisms across the four traditions intersect in redundant, complementary, and compensatory ways](sr-traditions-redundant-complementary-compensatory-interactions.md) — related
+- [Genesis produces genuinely new characteristics at each stage, so a mental state is not the sum of the experiences giving rise to it](genesis-produces-new-characteristics-not-sums.md) — related

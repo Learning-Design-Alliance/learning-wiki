@@ -17,7 +17,7 @@ sources:
 # Steffe's Number Sequences and Multiplicative Double Counting
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 theoretical), `q1`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Steffe's constructivist model describes children's numerical reasoning as progressing through three number sequences, each defined by what a child can mentally do with composite units (groups of ones treated as a single countable unit):
@@ -44,6 +44,7 @@ This reversibility at the ENS stage is the conceptual prerequisite for **multipl
 ## Claims
 
 - [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](../claims/spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) [+M]
+- [Genesis produces genuinely new characteristics at each stage, so a mental state is not the sum of the experiences giving rise to it](../claims/genesis-produces-new-characteristics-not-sums.md) [+W]
 
 ## Related Theories
 

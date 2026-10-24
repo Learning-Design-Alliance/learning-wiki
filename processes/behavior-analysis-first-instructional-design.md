@@ -17,7 +17,7 @@ sources:
 # Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 14 studies (7 associational, 4 causal, 2 theoretical, 1 design), `q1`–`q3` · 2 of 14 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (10 for, 5 mixed) · 15 studies (7 associational, 5 causal, 2 theoretical, 1 design), `q1`–`q3` · 3 of 15 report an effect size · 15 claims rest on one study
 
 ## Description
 Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one state to the other with provisions for motivation, and assess achieved competence against criteria. He argues analysis of behavior has been neglected yet has been the most influential element in recent instructional improvements, more so than manipulations of teaching method.
@@ -53,6 +53,7 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [Prior mathematical accuracy is the dominant propensity factor: over half of January accuracy variance and under one-fifth of fluency variance predicted June performance](../claims/prior-math-accuracy-dominant-propensity-factor.md) [+W]
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](../claims/three-ct-profiles-preservice-teachers-lpa.md) [+W]
 - [Advanced-placement students outperformed vocational-school students on most learner characteristics, with large effect sizes except interest](../claims/school-track-differences-learner-characteristics.md) [~W]
+- [Baseline reading and untaught Grade 2 vocabulary scores correlated moderately with near-, mid-, and far-transfer comprehension outcomes](../claims/baseline-reading-and-untaught-vocabulary-correlations-transfer.md) [~W]
 
 ## Related Principles
 - 

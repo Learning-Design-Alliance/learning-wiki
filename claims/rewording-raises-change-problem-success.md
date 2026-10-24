@@ -45,3 +45,4 @@ The article reports, citing De Corte, Verschaffel and De Win (1985), that minor 
 ## Related Claims
 - [Representational pictures relate to better word problem-solving performance only with relatively simple tasks, with the largest effects for first-position-of-the-unknown problems](representational-pictures-help-simple-word-problems.md) — related
 - [Five of six investigated linguistic task characteristics (position of the unknown, schematic structure, irrelevant information, realistic considerations, lexical consistency) are associated with elementary schoolers' word problem-solving performance](linguistic-task-characteristics-associated-word-problem-solving.md) — a broader claim this one bears on
+- [Wording of test directions changed children's performance, with 'largest' failing and 'biggest' succeeding for primary-grade children](direction-wording-largest-versus-biggest.md) — related

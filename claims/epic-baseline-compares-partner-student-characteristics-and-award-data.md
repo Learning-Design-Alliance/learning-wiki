@@ -48,3 +48,4 @@ Descriptive baseline statistics report for the EPIC evaluation, published by Mat
 - [Principals exhibit an incomplete understanding of how achievement growth is captured in EPIC performance measures](principals-incomplete-understanding-growth-measures.md) — related
 - [Principals prefer school-level performance and achievement growth over teacher-level performance alone or test-score levels for incentive awards](principals-prefer-school-level-growth-for-incentives.md) — related
 - [Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general](epic-principals-positive-attitudes-merit-pay.md) — related
+- [Experimental and statistical norms are practically useful only when determined for a group of the same general type with equal opportunity to acquire the measured characteristics](norms-valid-only-for-comparable-groups.md) — related

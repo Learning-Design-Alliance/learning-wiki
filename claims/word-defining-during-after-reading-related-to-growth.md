@@ -47,3 +47,4 @@ The report's Key Findings section lists this practice among those most consisten
 - [Helping students make connections between prior knowledge and the texts they read is among the practices most consistently related to student growth](prior-knowledge-text-connections-related-to-growth.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth](higher-order-thinking-questions-related-to-growth.md) — related
+- [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](teacher-practices-expanded-word-use-themes.md) — related

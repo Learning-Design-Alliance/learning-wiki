@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 31 claims (14 for, 17 mixed) · 21 studies (6 causal, 5 review, 3 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 5 of 21 report an effect size · 30 claims rest on one study
+> **Evidence** · 33 claims (16 for, 17 mixed) · 22 studies (7 causal, 5 review, 3 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 5 of 22 report an effect size · 32 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -89,6 +89,8 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Class-average utility value predicts class achievement, and class-average expectancy, utility value, and lower effort cost predict class aspirations](../claims/l2-motivational-climate-predicts-achievement-aspirations.md) [+W]
 - [A classroom-delivered relevance intervention raised ninth-graders' utility value at 3-month follow-up in both delivery conditions, despite an average decline in self-reported utility value](../claims/moma-utility-value-effectiveness-scale.md) [~W] — attached 2026-10-23 from Gaspard et al. (2021), which proposed "Expectancy-value theory as the grounding framework for relevance interventions".
 - [Higher adherence and lower discipline problems during delivery were associated with more positive changes in utility value](../claims/adherence-discipline-utility-value-changes.md) [~W]
+- [Students in the self-first variety condition articulated higher utility value than students in the other-first variety condition, indicating quality of utility connections depends on assignment sequence rather than type](../claims/uv-self-first-higher-articulated-utility.md) [+W]
+- [UV writing assignments showed more personal focus, more social and cognitive process content, and higher articulated utility value than control summary assignments](../claims/uv-writing-style-content-versus-control.md) [+W]
 
 ## Related Theories
 

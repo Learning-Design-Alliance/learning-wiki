@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 126 claims (57 for, 60 mixed, 9 against) · 55 studies (23 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 55 report an effect size · 119 claims rest on one study
+> **Evidence** · 128 claims (59 for, 60 mixed, 9 against) · 57 studies (25 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 57 report an effect size · 121 claims rest on one study
 
 ## Conditional relationship
 
@@ -252,6 +252,8 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](../claims/low-difficult-text-no-modality-differences.md) [~W]
 - [Retrieval practice improves delayed but not immediate performance, consistent with a desirable-difficulties explanation](../claims/retrieval-practice-delayed-not-immediate-benefit.md) [~W]
 - [Explaining was not more effective than oral retrieval practice overall in Experiment 1](../claims/explaining-no-better-than-oral-retrieval-practice-exp1.md) [~W]
+- [End-of-semester recall of course material was better for relearning than for restudying](../claims/successive-relearning-better-semester-end-recall.md) [+W]
+- [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](../claims/pupils-improve-with-practice-no-fatigue-effect.md) [+W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

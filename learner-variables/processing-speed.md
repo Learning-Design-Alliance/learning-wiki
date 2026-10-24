@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 44 claims (25 show a difference, 16 mixed, 3 no difference) · 28 studies (13 associational, 5 quant-synthesis, 4 causal, 4 review, 2 qualitative), `q1`–`q4` · 6 of 28 report an effect size · 44 claims rest on one study
+> **Evidence** · 45 claims (25 show a difference, 17 mixed, 3 no difference) · 29 studies (13 associational, 5 causal, 5 quant-synthesis, 4 review, 2 qualitative), `q1`–`q4` · 6 of 29 report an effect size · 45 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -80,6 +80,7 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [RAN explained more unique variance in reading speed than phonological measures in English, French, German and Hungarian (16.7 to 22.8%), with Finnish the exception where all proximal factors contributed low, roughly equal amounts](../claims/ran-strongest-reading-speed-predictor-five-orthographies.md) [~M] — learners who differ on it differ in outcomes
 - [The direct effect of T1 decoding precursors on T2 reading comprehension held only when phonemic awareness and letter knowledge were both included, while RAN strengthened the prediction of decoding skills](../claims/precursor-combination-direct-effect-analysis.md) [+M] — learners who differ on it differ in outcomes
 - [Instructed slow reading ran about 40% below normal rate and rapid reading about 16% below normal time, fairly uniformly across groups except seventh graders](../claims/rate-manipulation-magnitude-groups.md) [+M] — instruction changes it
+- [Intervention effects ran in opposite directions by profile: Profile 1 control students outperformed Profile 1 treatment students, while Profile 2 treatment students outperformed Profile 2 control students](../claims/opposite-intervention-effects-by-profile.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

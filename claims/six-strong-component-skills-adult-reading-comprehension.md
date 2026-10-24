@@ -58,3 +58,4 @@ Random effects meta-analysis of 16 studies and 2,707 struggling adult readers, u
 - [L2 oral language shows a moderate to strong positive relationship with L2 reading comprehension for multilingual learners, and the correlation increases with age](l2-oral-language-correlates-english-reading-comprehension.md) — related
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
 - [Syllable stress awareness and spelling skills correlate with each other and with in-game training performance](stress-awareness-spelling-validity-correlations.md) — related
+- [Baseline reading and untaught Grade 2 vocabulary scores correlated moderately with near-, mid-, and far-transfer comprehension outcomes](baseline-reading-and-untaught-vocabulary-correlations-transfer.md) — related

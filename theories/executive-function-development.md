@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 200 claims (92 for, 104 mixed, 4 against) · 111 studies (60 associational, 22 review, 15 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 43 of 111 report an effect size · 192 claims rest on one study
+> **Evidence** · 201 claims (93 for, 104 mixed, 4 against) · 112 studies (60 associational, 22 review, 16 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 43 of 112 report an effect size · 193 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -241,6 +241,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [SRL and EF show primarily low to moderate correlations across age groups, with no detectable pattern depending on age](../claims/srl-ef-low-moderate-correlations-across-age.md) [~W]
 - [Restrictive digital-use policies may reduce short-term exposure while doing less to build long-term self-regulatory capacity](../claims/restrictive-policies-reduce-exposure-not-capacity.md) [~W]
 - [VSWM shows an overall positive relationship with mathematics performance in school-aged children](../claims/vswm-positive-association-mathematics-performance.md) [+W]
+- [The digit memory-span increases with age rather than with grade-promotion measures of intelligence, reaching a limit of six digits for most grammar and high school pupils](../claims/memory-span-increases-with-age-not-intelligence.md) [+W]
 
 ## Related Theories
 

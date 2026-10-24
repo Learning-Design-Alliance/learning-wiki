@@ -95,3 +95,5 @@ Webb et al. (2023) support the first half of this claim and qualify the second: 
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — possibly the same claim (merge candidate)
 - [Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position](lexical-uptake-no-condition-effect-after-controls.md) — related
 - [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](er-positive-effect-second-foreign-language.md) — related
+- [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](teacher-practices-expanded-word-use-themes.md) — related
+- [Treatment teachers reported providing more incidental exposure to target vocabulary than control teachers (ES = .54)](treatment-teachers-more-incidental-exposure.md) — related

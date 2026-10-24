@@ -54,3 +54,4 @@ The design is known here only through the review's one-paragraph account, and th
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — reports the opposite
 - [Incidentally acquired vocabulary is retained over time while intentionally learned (focus-on-form) words are rapidly forgotten](incidental-vocabulary-retained-intentional-forgotten.md) — reports the opposite
 - [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](peer-tutoring-audio-prompting-vocabulary-gains.md) — related
+- [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](teacher-practices-expanded-word-use-themes.md) — related

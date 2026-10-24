@@ -51,3 +51,4 @@ Regression on the interest/enjoyment subscale of the intrinsic motivation invent
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md)
 - [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](ecl-mediation-not-replicated-online.md) — related
 - [No seductive details effect on transfer was observed, and no definitive conclusions about comprehension effects can be drawn from the multiple-choice transfer data](no-transfer-effect-seductive-details.md) — related
+- [Choice increased task engagement and end-of-semester interest, and task engagement mediated the effect of choice on course performance](uv-choice-engagement-mediation.md) — related

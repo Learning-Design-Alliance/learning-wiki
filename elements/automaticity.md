@@ -13,7 +13,7 @@ generated:
 # Automaticity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 9 studies (3 review, 2 theoretical, 1 causal, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 1 of 9 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 against) · 10 studies (3 review, 3 theoretical, 1 causal, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q3` · 1 of 10 report an effect size · 6 claims rest on one study
 
 ## Description
 Automaticity is the state in which a component skill — decoding words, retrieving math facts, typing, parsing syntax — executes quickly, accurately, and with little conscious effort. It develops through repeated, spaced, and increasingly varied practice after initial accuracy is achieved. Its instructional significance lies in what it *releases*: when lower-level processes run without deliberate attention, working memory is available for comprehension, problem-solving, and composition.
@@ -58,6 +58,7 @@ Automaticity of component skills is a precondition for complex performance: read
 - [Automaticity does not predict decoding or reading comprehension in middle-school students](../claims/automaticity-not-predict-decoding-comprehension.md) [-W]
 - [Experts have reduced access to memory traces of their own cognitive processes due to automatization, and large domain knowledge can disadvantage performance on certain tasks](../claims/expert-automaticity-reduces-access-to-processes.md) [+W]
 - [Masked (automatic) word recognition uniquely predicts oral reading fluency over and above unmasked accuracy and vocabulary in middle-school students](../claims/masked-word-recognition-predicts-oral-fluency.md) [+W]
+- [Consciousness is most prominent during change and has little role in fixed reflexes and well-established habits](../claims/consciousness-prominent-in-change-not-habits.md) [+W]
 
 ## The evidence by question
 

@@ -45,3 +45,4 @@ Test of 70 university freshman papers on a 50-word list; the author reports this
 ## Related Claims
 - [The final-y rule showed a 3 per cent advantage in the university group but lost an equal amount with the academy students](final-y-rule-advantage-reversed-academy.md) — related
 - [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](rule-recall-miserable-half-known.md) — related
+- [Grapho-motor memory is stronger than visual-motor memory: 85.3 per cent of high school subjects showed greater grapho-motor recall, replicating Meyerhardt's college and university findings](grapho-motor-memory-stronger-than-visual-motor.md) — related

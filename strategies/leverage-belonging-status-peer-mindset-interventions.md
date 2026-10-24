@@ -51,6 +51,7 @@ The review recommends making growth mindset behaviors socially rewarded rather t
 ## Related Strategies
 
 - [Creating a Culture of Error](creating_a_culture_of_error.md)
+- [Adapt interventions that leverage peer relationships to curb the social contagion of dropout in high schools](peer-relationship-interventions-curb-dropout-contagion.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Latent class regression predicting Year 2 measures (TOWRE-2, WRMT-III, GORT-5, C
 - [Results provide no support for the IQ-achievement discrepancy model of dyslexia; non-verbal IQ correlated with all Year-1 language measures](no-support-iq-discrepancy-model.md) — related
 - [Children evaluated their own performance as worse when they were slower in Grades 3 and 4](slower-children-rate-own-performance-worse-grades-3-4.md) — related
 - [RAN predicts reading deficits but not isolated writing deficits, whereas phonological awareness is worse in children with isolated writing deficits](ran-predicts-reading-not-isolated-writing.md) — related
+- [Kindergarten SEB profiles are associated with significantly different achievement in Grades 3 and 5, highest for SE-Prosocial and lowest for SE-Vulnerable](seb-profiles-predict-grade-3-5-achievement.md) — related

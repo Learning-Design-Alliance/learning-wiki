@@ -45,3 +45,4 @@ Latent profile analysis of the whole sample (N = 517) on four indicator variable
 ## Related Claims
 - [An instructional focus on advanced reading abilities benefits poor comprehenders while good readers suffer under that focus](advanced-reading-focus-benefits-poor-comprehenders.md) — related
 - [A vocabulary instructional focus differentially benefits good readers at the expense of poor decoders and poor comprehenders over a school year](vocabulary-focus-differential-effect-good-readers.md) — related
+- [Latent profiles moderated the effect of reading comprehension intervention: the Treatment by Profile interaction was statistically significant](latent-profile-moderates-intervention-effect.md) — related

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1869 entries** · 0 stable · 1869 in review · 0 drafts
+**1871 entries** · 0 stable · 1871 in review · 0 drafts
 
 ---
 
@@ -939,6 +939,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Loss and Momentum Framework for community college student progression](loss-and-momentum-framework-for-community-college-student-progression.md) - A framework associated with Pathways Analysis that organizes community-college progression into connection, entry, progress, and completion stages and links common loss points to institutional momentum strategies.
 * [Louisiana middle-school communications industrial arts curriculum guide (draft)](louisiana-middle-school-communications-industrial-arts-curriculum-guide-draft.md) - A Louisiana state curriculum guide for grades 6–9 that organizes communications-focused industrial arts instruction in drafting, electricity-electronics, graphic arts, and photography around performance objectives, activities, and resources.
 * [Lovaas Model](lovaas-model.md) - An intensive early behavioral intervention programme developed at UCLA and delivered through the Lovaas Institute, combining one-to-one discrete-trial instruction, peer play, classroom inclusion, generalization activities, and parent training.
+* [Lowell's 25-test primary-grade group intelligence battery in booklet form](lowells-25-test-primary-grade-group-intelligence-battery-in-booklet-form.md) - A 25-test group intelligence assessment battery developed by Lowell for first- through third-grade pupils and used to identify children needing individual Binet testing.
 * [LT_NLP_SET_pub](lt-nlp-set-pub.md) - A GitHub repository maintained by the review authors containing the code, study lists, prompts, codebooks, frozen response bases, and adjudication materials needed to audit and reconstruct the SET-NLP evidence map.
 * [LUCA browser-based office simulation](luca-browser-based-office-simulation.md) - LUCA is a browser-based office-simulation and assessment environment developed by Sabrina Ludwig and colleagues, providing simulated office tools, authoring of authentic work scenarios, embedded assessments, and activity logging for business education.
 * [LUDIA](ludia.md) - LUDIA is a browser-based, private, multilingual AI thought-partner tool developed by Stark et al.
@@ -1106,6 +1107,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [National Guard Youth ChalleNGe Program](national-guard-youth-challenge-program.md) - A National Guard-run residential programme for youth ages 16–18 who have left or been expelled from high school, combining GED preparation with quasi-military training and leadership, citizenship, service, life-skills, fitness, health, job-skills, and academic components.
 * [National Longitudinal Transition Study 2012 (NLTS 2012)](national-longitudinal-transition-study-2012-nlts-2012.md) - A U.S.
 * [National Network of Partnership Schools (NNPS)](national-network-of-partnership-schools-nnps.md) - A Johns Hopkins University network that supports schools and districts in developing and sustaining family and community partnership programmes through institutes, workshops, professional-learning series, and facilitation.
+* [National Research Council group tests of general intelligence](national-research-council-group-tests-of-general-intelligence.md) - A proposed pair of group-administered general-intelligence test series developed by a National Research Council committee for large-scale school administration and scoring.
 * [National Student Clearinghouse (NSC)](national-student-clearinghouse-nsc.md) - National Student Clearinghouse data are a nonprofit repository of postsecondary enrollment, completion, and related records voluntarily contributed by participating institutions and used for education research and reporting.
 * [National Study of Online Charter Schools](national-study-of-online-charter-schools.md) - A national research dataset assembled through a survey of online charter-school principals and U.S.
 * [National Study of Online Charter Schools principal survey](national-study-of-online-charter-schools-principal-survey.md) - A nationwide survey dataset collected by Mathematica Policy Research from 127 online charter school principals to describe online charter schools' operations and instructional approaches.

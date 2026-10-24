@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (39 show a difference, 23 mixed, 12 no difference) · 32 studies (14 associational, 6 review, 5 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 13 of 32 report an effect size · 72 claims rest on one study
+> **Evidence** · 80 claims (42 show a difference, 26 mixed, 12 no difference) · 34 studies (15 associational, 6 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 14 of 34 report an effect size · 78 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -109,6 +109,12 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Morning performance-avoidance goals predict same-day academic failure, though not robustly across sensitivity analyses](../claims/performance-avoidance-goals-predict-daily-failure.md) [~W] — learners who differ on it differ in outcomes
 - [Performance-approach and performance-avoidance goals were not meaningfully related to same-day academic success](../claims/performance-goals-not-related-same-day-success.md) [-M] — learners who differ on it differ in outcomes
 - [Session-specific performance-approach goals were positively related to students' overall rating and learning and negatively to boredom, while performance-avoidance goals showed the opposite pattern](../claims/session-specific-performance-goals-student-experiences.md) [+W] — learners who differ on it differ in outcomes
+- [Academic self-concept relates most strongly to achievement, with achievement goals, achievement motivation, autonomous motivation, and effort beliefs each adding unique variance](../claims/academic-self-concept-strongest-motivational-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Manipulated performance-approach (vs. avoidance) goals increase preference for a self-confirmatory model over a compliant one with a more-competent partner (Study 2)](../claims/manipulated-performance-goals-model-preference-competence.md) [+M] — learners who differ on it differ in outcomes
+- [Performance goals regulate conflict with more-competent others toward competitive (approach) or protective (avoidance) interpersonal behavior](../claims/performance-goals-regulate-conflict-more-competent-others.md) [+W] — learners who differ on it differ in outcomes
+- [Performance-approach goals predict competitive conflict regulation with a more-competent disagreeing partner, but not an equally competent one (Study 1)](../claims/performance-approach-goals-competitive-regulation-more-competent-partner.md) [~M] — learners who differ on it differ in outcomes
+- [Performance-avoidance goals predict protective conflict regulation with a more-competent disagreeing partner, but not an equally competent one (Study 1)](../claims/performance-avoidance-goals-protective-regulation-more-competent-partner.md) [~M] — learners who differ on it differ in outcomes
+- [With explicit competence feedback, performance-approach and performance-avoidance goals predict competitive and protective regulation respectively when partner competence is higher or unspecified, but not equal (Study 3)](../claims/competence-feedback-unspecified-elicits-goal-congruent-regulation.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

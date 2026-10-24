@@ -59,3 +59,4 @@ The authors' theoretical argument, citing Seidman (1983), that assuming unique f
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — related
 - [Review reports exposure abroad alone does not guarantee gains in social-change competencies, calling the learning mechanism a black box](social-change-exposure-black-box.md) — a narrower finding that bears on this claim
 - [Learning is assumed to be a non-symbolic inductive process enhanced by formal systems acting as tools](learning-non-symbolic-inductive-enhanced-by-formal-systems.md) — related
+- [Learning is a process of development in which the beginner's mode of working constantly changes and cannot use expert methods](learning-is-developmental-beginner-methods-differ-from-experts.md) — related

@@ -54,3 +54,4 @@ The author states as expert interpretation that L1 transfer is "an efficient pro
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related
 - [Grammar-learning ability is preserved until about age 17.4 and then declines steadily, per the best-fitting ELSD model](grammar-learning-rate-declines-after-17-4-years.md) — related
 - [L1 and L2 academic proficiencies are developmentally interdependent, so instruction in either language can build underlying academic ability](l1-l2-academic-interdependence-transfer.md) — related
+- [Children aged two to three acquire language more rapidly without teaching than college students taught by methods derived from older psychology](child-language-acquisition-outpaces-taught-college-students.md) — related

@@ -52,3 +52,4 @@ In the regression analyses of 730 university students, worry estimates were non-
 - [The present results replicate Donati et al.'s (2019) finding that interference and lack of confidence, but not worry, relate to arithmetic test performance, extending it to unique variance and domain-general intelligence](replication-donati-interference-lack-confidence.md) — a broader claim this one bears on
 - [No evidence for a curvilinear relationship between arousal and test performance](no-curvilinear-arousal-performance.md) — related
 - [Interference and lack of confidence correlated negatively with all performance measures, whereas worry and arousal showed selective, weaker bivariate correlations](interference-lack-confidence-bivariate-correlations.md) — related
+- [Motivational constructs explain more variance in school grades than in standardized test scores](motivation-more-variance-grades-than-standardized-tests.md) — related

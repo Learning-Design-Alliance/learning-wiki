@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 52 claims (24 for, 25 mixed, 3 against) · 37 studies (17 causal, 8 review, 7 quant-synthesis, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 37 report an effect size · 47 claims rest on one study
+> **Evidence** · 53 claims (24 for, 26 mixed, 3 against) · 38 studies (18 causal, 8 review, 7 quant-synthesis, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 12 of 38 report an effect size · 48 claims rest on one study
 
 ## Description
 
@@ -130,6 +130,7 @@ The examples are local design instances, not additional observations from those 
 - [Evidence for lasting learning is mixed at 8-week delays: only interleaving, not spacing or retrieval practice in drawing contexts, was supported](../claims/eight-week-delay-evidence-mixed.md) [-W]
 - [Short maze units learned under massed conditions connect into a serial whole with great economy, whereas units learned under distributed conditions connect only with extreme difficulty](../claims/massed-unit-learning-eases-connection.md) [-W]
 - [The massed-versus-distributed question is tied to the whole-versus-part question: the hard problem remains hard unless learned in parts under massed conditions](../claims/massed-distribution-tied-to-whole-part.md) [~W]
+- [The more the substitution practice was distributed over days, the larger the practice gains and the more pronounced the negative transfer effects](../claims/kline-distributed-practice-amplifies-transfer-effects.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 94 claims (67 show a difference, 20 mixed, 7 no difference) · 48 studies (22 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 12 of 48 report an effect size · 91 claims rest on one study
+> **Evidence** · 95 claims (68 show a difference, 20 mixed, 7 no difference) · 49 studies (23 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 12 of 49 report an effect size · 92 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -129,6 +129,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [The BFLPE exists in both elementary-school and secondary-school contexts](../claims/bflpe-exists-in-both-school-contexts.md) [+M] — instruction changes it
 - [The BFLPE from elementary school diminishes after transition to secondary school and is no longer discernible after one year](../claims/bflpe-from-elementary-school-diminishes-after-transition.md) [~M] — instruction changes it
 - [In more competitive school environments, students from lower SES backgrounds report more positive self-views than their more advantaged peers, narrowing SES gaps in self-views](../claims/competitive-schools-narrow-ses-gaps-self-views.md) [~W] — instruction changes it
+- [Academic self-concept relates most strongly to achievement, with achievement goals, achievement motivation, autonomous motivation, and effort beliefs each adding unique variance](../claims/academic-self-concept-strongest-motivational-predictor.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

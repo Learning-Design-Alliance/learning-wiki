@@ -48,3 +48,5 @@ Comparison of practiced and control groups' final test gains against the common 
 ## Related Claims
 - [Twenty-two trials of practice translating English into code raised average output from 43 to a highest-record average of 239 code symbols per five-minute period, a 537% gain.](code-practice-large-within-task-gain-537-percent.md) — related
 - [Practice in writing code produced practically no transfer to digit-letter substitution: the practiced group gained 12%, two percent less than the unpracticed control group.](code-practice-no-transfer-digit-letter-substitution.md) — possibly the same claim (merge candidate)
+- [Letter-cancellation practice produced only small gains and some losses in parts-of-speech cancellation, while the unpracticed control group gained on all parts of speech](kline-letter-practice-limited-transfer-parts-of-speech.md) — related
+- [Practice in substituting digits for letters transferred positively to writing symbols for digits but interfered with writing digits for symbols](kline-substitution-transfer-asymmetric.md) — related

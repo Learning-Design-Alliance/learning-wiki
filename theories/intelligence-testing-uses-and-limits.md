@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (12 for, 11 mixed) · 20 studies (12 associational, 5 review, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 1 of 20 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (12 for, 13 mixed) · 21 studies (12 associational, 5 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 1 of 21 report an effect size · 24 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -74,6 +74,8 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Instrument type moderated the mental rotation gender-difference effect size but not the visualisation effect size](../claims/instrument-type-moderates-mental-rotation-gap.md) [~W]
 - [Cross-cultural studies show Eastern children can outperform Western ones on creativity measures, and children with little schooling can show high divergent thinking](../claims/cross-cultural-creativity-schooling-diverse-populations.md) [+W]
 - [Published form-board age norms differ markedly across investigators, yielding discrepant diagnoses](../claims/form-board-norms-discrepant-across-investigators.md) [~W]
+- [Group scales allow examining fifty or a hundred children in an hour, whereas individual Binet testing restricts use to special cases](../claims/group-scale-throughput-versus-binet-individual.md) [~W]
+- [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](../claims/nrc-tests-predicted-routine-school-intelligence-testing.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

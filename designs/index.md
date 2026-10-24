@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1005 entries** · 0 stable · 1005 in review · 0 drafts
+**1008 entries** · 0 stable · 1008 in review · 0 drafts
 
 ---
 
@@ -89,6 +89,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Augmented Knights' Castle (AKC): an RFID-augmented Playmobil playset producing context-relevant sounds](augmented-knights-castle-akc.md) - The Augmented Knights' Castle is \"an audio-enhanced Playmobil® medieval castle playset designed to let play ﬁgures 'come alive.'\" Play figures carry RFID tags identifying their location, so placing a figure in a speci...
 * [Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives](field-day-embedded-assessment-unit.md) - The Type 3 assessment is organized as a project unit (a class Field Day, including a cookie-selling sub-project) whose everyday activities double as assessment occasions.
 * [Automated generation of seven vocabulary activity types with distractor collision prevention](generated-activity-types-collision-prevention.md) - During each training session the algorithm selects target words from the P, S, and L sets and generates activities optimizing predicted learning gains.
+* [Automated Matlab signal pipeline synchronizing EDA, EEG, and survey data](signal-pipeline-tool-multimodal-classroom.md) - The signal pipeline is an autonomous Matlab program into which raw signals from the Empatica E4, the CytonRK headsets, and Qualtrics survey data are fed, producing a synchronized and processed dataset without subjecti...
 
 #### B {: #letter-b }
 
@@ -228,6 +229,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Custom LLM practice platform with validated offloading classifier for extent-of-support labeling](llm-practice-platform-offloading-classifier.md) - The article built a custom web platform (React frontend, Python backend, PostgreSQL) giving full experimental control and logging of a fraction-arithmetic learning session with an LLM assistant built on GPT-OSS-120B a...
 * [Custom-built online waves module with simulations integrated with a chatbot](waves-module-simulations-integrated-chatbot.md) - A 10-page extra-credit online activity on wave concepts, built for a large-enrollment calculus-based physics course for future engineers using the Matter and Interactions textbook.
 * [Cyclical sequence of five metaconceptual activities externalising, monitoring, and evaluating civic concepts](five-activity-metaconceptual-sequence.md) - The intervention organized instruction as a non-linear, cyclical sequence of five activities: analyzing concepts and their features, extracting hidden concepts from Atatürk's sayings via group posters, concept mapping...
+* [CytonRK: a custom head-mounted portable EEG recorder for classroom use](cytonrk-portable-eeg-headset.md) - The CytonRK is a bespoke head-mounted EEG device built by the lead author because no commercial device met classroom requirements.
 
 #### D {: #letter-d }
 
@@ -933,6 +935,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The three-phase debriefing model (description, analysis, application) structuring the post-simulation discussions](three-phase-debriefing-model-description-analysis-application.md) - The investigated debriefings were organized around \"a specific model for debriefing\" with \"three main phases: description, analysis, and application\".
 * [Theme-of-the-week character lesson structure with story introduction and varied activities](theme-of-the-week-story-activity-lesson-structure.md) - The curriculum uses a recurring weekly instructional pattern: a 'theme of the week' approach in which the teacher introduces the week's concept by reading stories portraying that value in action, then engages students...
 * [Theoretical and practical frameworks for integrating cross-disciplinary model-based systems engineering online assignments into engineering and science curricula](mbse-online-assignment-integration-framework.md) - The article's stated contribution is \"the formation of theoretical and practical frameworks for the integration of an cross-disciplinary model-based systems engineering online assignments into engineering and science...
+* [Theory of change: networks of domain-specific vocabulary as the visible components of schemas mediate comprehension transfer](vocabulary-networks-schema-transfer-theory.md) - The article's theoretical framework holds that schemas are \"an abstract knowledge structure\" whose visible components are semantically related networks of vocabulary words.
 * [Theory-practice dialogue mechanism: generative AI bridges the gap between theory instruction and business practice](genai-theory-practice-dialogue-mechanism.md) - The first of the article's three proposed mechanisms for reconfiguring classroom pedagogy with generative AI.
 * [Threading, Weaving, Patternmaking](threading-weaving-patternmaking.md) - A three-phase science unit sequence that moves learners from critical annotation of texts exposing embedded bias, through cross-source synthesis, to speculative multimedia redesign of a more just future.
 * [Three AI-deterrence-modified autogradable Qiskit assignment packages (HW1–HW3) with layered personalization and grading](ai-deterrence-qiskit-assignment-packages.md) - Three complete take-home homework packages for an undergraduate quantum software course: HW1 (seeded basis-state circuits with bit flips and customized measurement mappings), HW2 (QFT followed by inverse-transform rec...

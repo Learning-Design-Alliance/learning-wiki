@@ -44,3 +44,6 @@ Control-group comparison in the results section: a practiced class and two contr
 
 ## Related Claims
 - [The practiced group exceeded the control group on three of five tests (complex dotting, number code, letter code translation) by 5, 9, and 15 percent respectively, but did no better on digit-symbol substitution and slightly worse on digit-letter substitution.](code-practice-partial-transfer-three-tests.md) — possibly the same claim (merge candidate)
+- [Practice produced large within-task speed gains: averaging 89 per cent for letter cancellation and over 200 per cent for digit-for-letter substitution](kline-large-within-task-practice-gains.md) — related
+- [Letter-cancellation practice produced only small gains and some losses in parts-of-speech cancellation, while the unpracticed control group gained on all parts of speech](kline-letter-practice-limited-transfer-parts-of-speech.md) — related
+- [Practice in substituting digits for letters transferred positively to writing symbols for digits but interfered with writing digits for symbols](kline-substitution-transfer-asymmetric.md) — related

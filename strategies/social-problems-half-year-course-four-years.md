@@ -44,7 +44,8 @@ The author recommends that high school students 'would take the keenest sort of 
 - [The school is the only organized agency that can assure sex instruction reaches all children, since the home and free literature cannot be relied upon](../claims/school-only-agency-reaching-all-children-sex-instruction.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use indirect means—athletics, social affairs, literature, religion, and a lifework—to redirect the youth's instinctive energies alongside direct sex instruction.](indirect-means-sublimation-activities.md)
 
 ## Examples
 -

@@ -47,7 +47,8 @@ A laboratory analogue of a classroom used to measure learning, attention, and ar
 - [Experimental sleep restriction causally extends adolescent sleep-loss effects beyond sleepiness to attention and learning](../claims/sleep-restriction-effects-extend-beyond-sleepiness.md) [+W]
 
 ## Related Designs
-- 
+
+- [CytonRK: a custom head-mounted portable EEG recorder for classroom use](cytonrk-portable-eeg-headset.md)
 
 ## Examples
 -

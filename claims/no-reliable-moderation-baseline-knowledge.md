@@ -47,3 +47,4 @@ Moderation analysis adding Pre × Depth interaction terms to task-quality, post-
 - [Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume](depth-predicts-task-quality.md) — related
 - [Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains](exploratory-profile-interaction-ai-gains.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
+- [In replication analyses, the variety conditions were particularly beneficial for students with low prior GPAs, while the same-type-only conditions had negligible effect sizes](uv-variety-benefits-low-prior-gpa.md) — related

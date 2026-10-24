@@ -49,3 +49,4 @@ Gross weekly comparison of Groups A (morning) and B (afternoon) from Table II. I
 - [In a London girls' school class, the group working problematic arithmetic later in the morning improved about 5 or 6 per cent more than the early group](later-morning-group-improves-more-girls-school.md) — related
 - [Exception: the top section of afternoon workers did better work than the corresponding morning section](top-section-afternoon-superiority.md) — reports the opposite
 - [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
+- [A letter-cancellation practice group outperformed a control group in the first parts-of-speech test period](kline-practice-group-superior-first-period.md) — related
