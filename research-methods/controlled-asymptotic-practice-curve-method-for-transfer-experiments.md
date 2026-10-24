@@ -27,4 +27,4 @@ The article argues that earlier transfer studies were unconvincing because train
 -
 
 ## Key Sources
-- Poffenberger, A. T., Jr. (1915). The influence of improvement in one simple mental process upon other related processes. The Journal of Educational Psychology, 6(8), 459-474.
+- Poffenberger, A. T., Jr. (1915). The influence of improvement in one simple mental process upon other related processes. The Journal of Educational Psychology, 6(8), 459-474. https://doi.org/10.1037/h0075269
