@@ -65,3 +65,4 @@ The article reports that data indicated the worked example effect could be obtai
 - [When guidance was presented in a unitary (integrated) format, worked examples were superior to conventional problems (Experiments 4 and 5)](unitary-format-worked-examples-superior-conventional-problems.md) — related
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — possibly the same claim (merge candidate)
 - [Under many circumstances, studying worked examples produced superior learning compared to active problem solving, as suggested by previous research](worked-examples-superior-to-problem-solving-many-circumstances.md) — a broader claim this one bears on
+- [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related

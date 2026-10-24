@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1009 entries** · 0 stable · 1009 in review · 0 drafts
+**1010 entries** · 0 stable · 1010 in review · 0 drafts
 
 ---
 
@@ -570,6 +570,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [LLM-based pipeline converting unstructured application materials into structured measures, including a seven-dimension essay quality score validated against expert ratings](llm-admissions-featurization-pipeline.md) - The authors built an LLM-based pipeline that converts unstructured application materials (transcripts, recommendation letters, resumes, essays) into structured measures, extracting 216 measures designed with admission...
 * [LLM-based project skill extraction workflow using a fine-tuned Llama 3.2 instruct model](llm-llama-skill-extraction-workflow.md) - A component that parses sponsor-provided project descriptions and asks an LLM to rate the necessity of each skill on a 0–5 scale, where \"a 5 is given when a skill is realistically indispensable for a project.\" The imp...
 * [LLM-compiled wiki knowledge representation over an authentic course corpus](llm-compiled-wiki-course-corpus.md) - An ingest-time knowledge representation in which a course corpus is compiled into a linked wiki: \"concept pages synthesized by an LLM, cross links between related pages, and citations from every page back to the raw s...
+* [Lloyd and Gray bulletin Reading in a Texas City: Diagnosis and Remedy](lloyd-gray-reading-texas-city-bulletin.md) - A University of Texas Bulletin (No.
 * [Logic model of how technology mediation may reduce anxiety in viva voce performance-based assessments](logic-model-technology-reduces-pba-anxiety.md) - The article proposes a logic model structuring how technology may reduce anxiety in viva voce assessments, organised as Inputs (technology mediation, assessment context, learner factors), Theoretical Mechanisms (socia...
 * [Logic-aware segmented video intervention with fixed 4-second system-defined pauses](logic-aware-segmented-video-intervention.md) - A post-hoc video processing intervention for instructional programming videos: after recording, content is cut at logical action boundaries and a fixed pause is injected after each step.
 * [Los Padillas Wildlife Sanctuary (5-acre experiential education facility)](los-padillas-wildlife-sanctuary.md) - The Los Padillas Wildlife Sanctuary is a 5-acre experiential education facility on the school campus that was \"in disrepair and out of use\" in 2017 and revived at community insistence as an outdoor learning space.

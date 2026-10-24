@@ -54,3 +54,4 @@ The review reports that, unlike the three orientation tests, "a relatively high 
 - [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related
 - [Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence](high-scorers-across-intelligences-support-g.md) — related
 - [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related
+- [Correlations between performance on different intellectual tasks fail to reach 1.00, indicating specialization of intelligence](intellectual-task-correlations-below-unity-specialization.md) — related

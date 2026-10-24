@@ -48,3 +48,4 @@ Later studies of learning, including the typewriting work, showed that in natura
 - [Lower-order habits persist after being superseded and resist new ways of working, requiring constant effort to overcome](law-of-habit-resistance-to-new-methods.md) — related
 - [Learning-curve plateaus were caused by learners' failure to overcome specific difficulties at critical stages, not by the order in which habits developed](plateaus-caused-by-unovercome-difficulties.md) — related
 - [New adaptations in skill learning were made unintentionally and required intense, carefully applied effort under favorable conditions](higher-order-adaptations-unintentional-effort-driven.md) — related
+- [Dynamic psychology research on habit formation is replacing vague verbal maxims of applied psychology with definite insights, including when practice makes perfect and when it does not.](dynamic-psychology-replaces-vague-maxims.md) — a broader claim this one bears on

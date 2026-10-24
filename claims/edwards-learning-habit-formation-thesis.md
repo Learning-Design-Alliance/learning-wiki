@@ -45,3 +45,4 @@ The reviewer states the central thesis of Edwards' The Fundamental Principles of
 ## Related Claims
 - [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
 - [The Artifact captures learning experiences within and beyond the classroom, revealing learning habits and mindsets relevant to action-based pedagogy](artifact-captures-learning-in-action.md) — related
+- [The reviewer judges that students will find it difficult to distinguish experimentally based learning principles from the author's opinions in Edwards' textbook](edwards-textbook-principles-vs-opinion.md) — related

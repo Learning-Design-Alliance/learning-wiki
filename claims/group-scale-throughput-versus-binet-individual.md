@@ -51,3 +51,5 @@ The editorial contrasts the Binet scale, whose per-pupil individual examination 
 - [The reviewed tests-and-scales book describes a third stage in which standardized tests are used for diagnosis of individual pupils and for testing the efficiency of teaching methods](standardized-tests-third-stage-diagnosis.md) — related
 - [Binet's norms were worked out for Paris working-class children and may need revision for other social classes and regions](binet-norms-paris-working-class-need-revision.md) — related
 - [Group tests combined with teachers' estimates correlate .77 with the Stanford Revision, questioning the necessity of individual examination](combined-group-tests-estimates-correlate-77-stanford.md) — related
+- [Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21](binet-agreement-correlations.md) — related
+- [The amount of advance credit earned on the Binet scale depends on the extent of testing, not the grade of intelligence of the pupils](binet-credits-depend-on-extent-of-testing.md) — related

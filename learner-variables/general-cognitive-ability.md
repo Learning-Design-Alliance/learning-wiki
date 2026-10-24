@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (68 show a difference, 22 mixed, 14 no difference) · 73 studies (28 associational, 23 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 18 of 73 report an effect size · 101 claims rest on one study
+> **Evidence** · 105 claims (69 show a difference, 22 mixed, 14 no difference) · 74 studies (29 associational, 23 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 18 of 74 report an effect size · 102 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -140,6 +140,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Army Alpha intelligence standing correlates r = +.31 with one-term school standing among 153 normal-school students](../claims/army-alpha-school-standing-correlation-31.md) [+M] — learners who differ on it differ in outcomes
 - [Individual differences predicted response: estimated IQ predicted growth during intervention on seven of eight outcomes, while vocabulary and visual sequential memory predicted growth during follow-up](../claims/individual-differences-predict-intervention-growth.md) [+M] — learners who differ on it differ in outcomes
 - [General ability, spatial abilities, and in-class attention together explain 83% of individual differences in mathematical competence from 6th to 9th grade](../claims/cognitive-factors-explain-83-percent-math-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Cases with Differences of minus 9 or below — 21.5 per cent of the standardization sample — are described as marked cases of wasted intelligence whose ability is not being utilized](../claims/wasted-intelligence-minus-nine-below.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

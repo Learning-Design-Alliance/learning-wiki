@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 102 claims (59 show a difference, 20 mixed, 23 no difference) · 73 studies (25 associational, 16 review, 15 quant-synthesis, 14 causal, 2 theoretical, 1 design), `q1`–`q3` · 24 of 73 report an effect size · 99 claims rest on one study
+> **Evidence** · 104 claims (61 show a difference, 20 mixed, 23 no difference) · 74 studies (26 associational, 16 review, 15 quant-synthesis, 14 causal, 2 theoretical, 1 design), `q1`–`q3` · 25 of 74 report an effect size · 101 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -139,6 +139,8 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](../claims/discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) [~M] — instruction changes it
 - [Discourse-level oral language, spelling, and handwriting fluency completely mediate the relations of language and cognitive skills to writing quality in Grade 1](../claims/diew-complete-mediation-discourse-oral-language-transcription-writing.md) [+M] — learners who differ on it differ in outcomes
 - [Total effects on writing quality are largest for discourse-level oral language (.46), working memory (.43), and spelling (.37)](../claims/total-effects-on-writing-quality-ranking.md) [+M] — learners who differ on it differ in outcomes
+- [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](../claims/general-oral-language-factor-predicts-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Non-LEP students outperformed LEP-designated students on oral language, reading comprehension, and decoding fluency factors with large effect sizes in grades 5 and 7](../claims/lep-nonlep-factor-score-differences-large-effects.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

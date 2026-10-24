@@ -56,3 +56,4 @@ Thematic analysis of student dialog transcripts identified three themes, includi
 - [Students generally trusted the chatbot's responses, often rating them like responses from teachers or friends](students-trusted-ama-responses.md) — related
 - [Most students posed one to three questions to the chatbot, with a minority showing substantially higher engagement](ama-engagement-question-counts.md) — related
 - [A guided posthumanist writing experiment showed a student internalizing a posthumanist ontology, yet her evaluative criteria remained human-centric](asuka-posthumanist-experiment-human-centric-evaluation.md) — related
+- [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related

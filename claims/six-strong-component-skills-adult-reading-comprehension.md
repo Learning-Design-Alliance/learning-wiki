@@ -59,3 +59,4 @@ Random effects meta-analysis of 16 studies and 2,707 struggling adult readers, u
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
 - [Syllable stress awareness and spelling skills correlate with each other and with in-game training performance](stress-awareness-spelling-validity-correlations.md) — related
 - [Baseline reading and untaught Grade 2 vocabulary scores correlated moderately with near-, mid-, and far-transfer comprehension outcomes](baseline-reading-and-untaught-vocabulary-correlations-transfer.md) — related
+- [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](decoding-fluency-no-unique-prediction-grades-4-10.md) — related

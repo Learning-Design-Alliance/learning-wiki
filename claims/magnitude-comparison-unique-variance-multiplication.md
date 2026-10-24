@@ -53,3 +53,4 @@ Hierarchical regression (N = 63) controlling Raven's intellectual ability, motor
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — a broader claim this one bears on
 - [General processing speed (choice reaction time and figure matching) does not significantly predict mathematics achievement in Grade 7 or Grade 9](general-processing-speed-does-not-predict-math.md) — related
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md) — related
+- [Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model](numerical-abilities-retrieval-fluency-predict-multiplication-baseline.md) — related

@@ -13,7 +13,7 @@ generated:
 # Educational Psychology as Both Art and Science
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Art is "skill acquired by experience, study, or observation... an occupation requiring knowledge or skill" (Merriam-Webster, 2020a) — an expression of thoughts and ideas, a manifestation of experience and understanding, and a practice of what is already known. Science is "the state of knowing... knowledge or a system of knowledge covering general truths or the operation of general laws especially as obtained and tested through scientific method" (Merriam-Webster, 2020b) — a process of acquiring understanding and discovering truths through systematic study.
@@ -39,6 +39,10 @@ Educational psychology is both. Researchers use the scientific method and resear
 ### Theory
 #### Supporting
 - [Reflective Practice](../principles/reflection.md) — the practitioner side of this loop: using reflection on one's own experience (not only external research) to refine practice
+
+## Claims
+
+- [Measurement units for changes in learners are essential to an adequate science of education, since most educational practice problems depend on the amount of some change.](../claims/measurement-units-essential-science-of-education.md) [+W] — attached 2026-10-24 from Thorndike (1910), which proposed "Bidirectional relation: psychology guides education, and school life is a vast laboratory that contributes back to psychology.".
 
 ## Related Principles
 

@@ -87,3 +87,4 @@ The review reports, citing Tarmizi and Sweller, that Experiments 4 and 5 with an
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
 - [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](worked-example-effect-split-attention-replication-history.md) — possibly the same claim (merge candidate)
 - [For novice learners, worked examples are more effective and often more efficient than conventional problem solving (the worked example effect)](worked-example-effect-novices-review.md) — related
+- [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related

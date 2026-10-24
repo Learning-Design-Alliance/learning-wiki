@@ -51,3 +51,4 @@ The commentary's synthesis of controlled studies (Hsu et al., Klahr & Nigam, Mat
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](exploration-first-versus-instruction-first-sequencing-mixed.md) — related
 - [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related
+- [The thesis reports, citing Klahr and Nigam (2004), that discovered and explicitly taught science knowledge did not differ in quality](klahr-nigam-discovery-knowledge-quality-no-difference-cited.md) — reports the opposite

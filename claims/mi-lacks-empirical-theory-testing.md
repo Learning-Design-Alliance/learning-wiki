@@ -51,3 +51,4 @@ The review attributes this to Carson (2003), who gives five points explaining MI
 - [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents](multiple-intelligences-weak-on-science-talent.md) — related
 - [Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence](high-scorers-across-intelligences-support-g.md) — related
 - [Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain](intelligences-not-interchangeable.md) — related
+- [Correlations between performance on different intellectual tasks fail to reach 1.00, indicating specialization of intelligence](intellectual-task-correlations-below-unity-specialization.md) — related

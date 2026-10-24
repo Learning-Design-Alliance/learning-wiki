@@ -80,3 +80,4 @@ The current page supports a moderate claim about mathematics performance, not a 
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — related
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
 - [Example–problem pairs and examples-only are more effective than problem–example pairs for novices, with no significant difference between the first two](example-problem-ordering-novices.md) — a narrower finding that bears on this claim
+- [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — a broader claim this one bears on

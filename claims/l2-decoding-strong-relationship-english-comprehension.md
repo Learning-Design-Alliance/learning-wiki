@@ -55,3 +55,4 @@ Meta-analysis using correlations from six studies, one of which included Norwegi
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — reports the opposite
 - [Comprehension strategy use distinguished better ML readers more accurately than English reading fluency did](strategy-use-distinguishes-better-ml-readers.md) — related
 - [Strategic use of MLs' L1 during decoding instruction was effective: shared letter-sound correspondences did not have to be retaught, and Spanish CVC segmentation instruction increased English decoding](l1-use-in-decoding-instruction-effective.md) — related
+- [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](decoding-fluency-no-unique-prediction-grades-4-10.md) — reports the opposite

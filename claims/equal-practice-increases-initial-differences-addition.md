@@ -47,3 +47,4 @@ Table 7 reports average gross gains by initial-score bands within each grade; fo
 
 ## Related Claims
 - [Pupils of the same grade show enormous individual differences in initial adding ability and in gain from equal practice](enormous-individual-differences-addition-ability-and-gain.md) — related
+- [Brighter pupils tend to work below capacity: the authors argue the greatest wastage exists among the brightest children, who may keep up to group averages while working under their ability](bright-children-below-capacity.md) — related

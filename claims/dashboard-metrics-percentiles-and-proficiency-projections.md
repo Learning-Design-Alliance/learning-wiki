@@ -71,3 +71,4 @@ The guide explains proficiency projections contextualize achievement relative to
 - [The 2025 MAP Growth Norms are based on national test samples from 2022–23 and 2023–24, and dashboard results are not comparable to reports using 2020 norms](2025-norms-based-on-2022-23-and-2023-24-samples.md) — reports the opposite
 - [The MAP Growth National Dashboard draws on a sample of over seven million students in 20,000 schools, about one in four US public schools](dashboard-sample-seven-million-students-20000-schools.md) — related
 - [Linking studies connect MAP Growth scores to state summative proficiency predictions and external measures](map-growth-linking-studies-predictions.md) — related
+- [Drawing ability scores rise from grade IB to grade 8A, but the data support group norms rather than a distinctive norm for each grade](drawing-group-norms-not-per-grade-norms.md) — related

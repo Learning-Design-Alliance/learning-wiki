@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (73 show a difference, 25 mixed, 16 no difference) · 72 studies (29 causal, 19 review, 13 quant-synthesis, 5 theoretical, 4 associational, 2 qualitative), `q1`–`q4` · 26 of 72 report an effect size · 107 claims rest on one study
+> **Evidence** · 116 claims (75 show a difference, 25 mixed, 16 no difference) · 73 studies (29 causal, 19 review, 13 quant-synthesis, 5 associational, 5 theoretical, 2 qualitative), `q1`–`q4` · 26 of 73 report an effect size · 109 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -149,6 +149,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Delayed-recall errors greatly exceeded immediate-recall errors, more so under the orderly procedure (4.33 times) than the random procedure (2.6 times)](../claims/delayed-errors-exceed-immediate-orderly-more-than-random.md) [+W] — instruction changes it
 - [In delayed recall, the random procedure reversed the pattern, exceeding the orderly procedure by 16.4% fewer errors](../claims/random-procedure-better-delayed-spelling-recall.md) [~W] — instruction changes it
 - [In Experiment 2 the authentic-setting effect on retention did not replicate and reinstating the setting as a test background produced no context effects](../claims/exp2-setting-retention-nonreplication-no-context-effects.md) [-M] — instruction changes it
+- [In the reading fluency contrast model, numerical abilities and serial retrieval fluency predict multiplication fluency but working memory does not, indicating partial domain-specificity](../claims/reading-model-domain-specificity-multiplication.md) [+W] — learners who differ on it differ in outcomes
+- [Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model](../claims/numerical-abilities-retrieval-fluency-predict-multiplication-baseline.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

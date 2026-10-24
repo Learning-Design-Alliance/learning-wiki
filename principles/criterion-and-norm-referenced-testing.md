@@ -24,7 +24,7 @@ sources:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (10 for, 20 mixed, 3 against) · 21 studies (9 theoretical, 7 associational, 2 causal, 2 design, 1 review), `q1`–`q3` · 0 of 21 report an effect size · 33 claims rest on one study
+> **Evidence** · 34 claims (10 for, 21 mixed, 3 against) · 22 studies (9 theoretical, 7 associational, 3 design, 2 causal, 1 review), `q1`–`q3` · 0 of 22 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [ISAT cut scores differ by grade and subject, with eighth-grade mathematics requiring a high score and eighth-grade reading a relatively low one to meet standards](../claims/isat-cut-scores-vary-grade-subject.md) [~W]
 - [Massachusetts students overall perform above the national average on screening assessments, with a median national percentile of 58 at EOY and 66 percent growing at average or above-average rates](../claims/ma-above-national-average-literacy.md) [~W]
 - [Experimental and statistical norms are practically useful only when determined for a group of the same general type with equal opportunity to acquire the measured characteristics](../claims/norms-valid-only-for-comparable-groups.md) [~W]
+- [Drawing ability scores rise from grade IB to grade 8A, but the data support group norms rather than a distinctive norm for each grade](../claims/drawing-group-norms-not-per-grade-norms.md) [~W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns
