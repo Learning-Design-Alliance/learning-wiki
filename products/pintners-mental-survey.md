@@ -32,4 +32,4 @@ A standardized group mental-ability test consisting of six tests for school chil
 - [Non-Language Mental Test](non-language-mental-test.md)
 
 ## Key Sources
-- Bell, J. C. (1920). Group Tests of Intelligence: An Annotated List. The Journal of Educational Psychology, 103-108. https://psycnet.apa.org
+- Bell, J. C. (1921). Group tests of intelligence: An annotated list. *Journal of Educational Psychology, 12*(2), 103–108. [doi:10.1037/h0073682](https://doi.org/10.1037/h0073682)

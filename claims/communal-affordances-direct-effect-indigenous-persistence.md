@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Perceptions that STEM careers afford communal goals directly increase Indigenous students' later intentions to persist in STEM. [→ Yu Fanyi 2025](#yu-fanyi-2025)
+`q2 i?` Indigenous STEM students who perceived more communal goal affordances in STEM careers reported higher persistence intentions six months later, controlling for baseline intentions and belonging (a positive direct path in a correlational longitudinal regression, which cannot show that the perceptions cause the change). [→ Yu Fanyi 2025](#yu-fanyi-2025)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Yu Fanyi, Nyanamba Juliet M., Anderson Brittany, DeerInWater Kathy, Estrada Mica
 
 `q2 · i?` · `associational · r2`
 
-Hierarchical regression in the main analyses of the longitudinal study (analytic N = 127, three waves six months apart) predicting persistence intentions at T3 from baseline intentions, belonging, incongruity, and affordances. The article reports that "goal affordances (Step 4) improved the prediction of future persistence intentionsT3"; no effect size is printed for this step.
+Hierarchical regression in the main analyses of the longitudinal study (analytic N = 127, three waves six months apart) predicting persistence intentions at T3 from baseline intentions, belonging, incongruity, and affordances. The article reports that "goal affordances (Step 4) improved the prediction of future persistence intentionsT3": adding communal and agentic affordances together raised R² from .390 to .476 (ΔR² = .106, p < .001), and communal affordances carried the path (unstandardized B = 0.042, SE 0.011, p < .001; agentic B = −0.002, n.s.). No standardized effect is printed for communal affordances alone, hence `i?`. The design is observational, so the "direct effect" is a regression path, not evidence that the perceptions cause higher intentions.
 
 > "The results also showed that baseline intentions (Step 1), the sense of belongingT2 (Step 2), and goal affordances (Step 4) improved the prediction of future persistence intentionsT3, but goal incongruity did not (Step 3"
 

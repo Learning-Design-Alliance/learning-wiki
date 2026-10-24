@@ -9,9 +9,9 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 sources:
-  - id: bell-1920
+  - id: bell-1921
     resource: "https://doi.org/10.1037/h0073682"
-    title: "Bell, J. C. (1920). Group Tests of Intelligence: An Annotated List. The Journal of Educational Psychology, 103-108. https://doi.org/10.1037/h0073682"
+    title: "Bell, J. C. (1921). Group tests of intelligence: An annotated list. *Journal of Educational Psychology, 12*(2), 103–108. [doi:10.1037/h0073682](https://doi.org/10.1037/h0073682)"
     author: Bell, J. C.
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
-`q2 i?` A four-test group scale for grades 1-3 involving neither reading nor writing yields a correlation of .58 with teachers' estimates. [→ Bell 1920](#bell-1920)
+`q2 i?` A four-test group scale for grades 1-3 involving neither reading nor writing yields a correlation of .58 with teachers' estimates. [→ Bell 1921](#bell-1921)
 
 ## Evidence
 
-### Bell 1920
+### Bell 1921
 
-Bell, J. C. (1920). Group Tests of Intelligence: An Annotated List. The Journal of Educational Psychology, 103-108. https://doi.org/10.1037/h0073682
+Bell, J. C. (1921). Group tests of intelligence: An annotated list. *Journal of Educational Psychology, 12*(2), 103–108. [doi:10.1037/h0073682](https://doi.org/10.1037/h0073682)
 
 `q2 · i?` · `review · r1`
 

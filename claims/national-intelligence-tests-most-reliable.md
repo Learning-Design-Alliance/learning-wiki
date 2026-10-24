@@ -9,9 +9,9 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 sources:
-  - id: bell-1920
+  - id: bell-1921
     resource: "https://doi.org/10.1037/h0073682"
-    title: "Bell, J. C. (1920). Group Tests of Intelligence: An Annotated List. The Journal of Educational Psychology, 103-108. https://doi.org/10.1037/h0073682"
+    title: "Bell, J. C. (1921). Group tests of intelligence: An annotated list. *Journal of Educational Psychology, 12*(2), 103–108. [doi:10.1037/h0073682](https://doi.org/10.1037/h0073682)"
     author: Bell, J. C.
     q: 1
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · review `r1` · `q1`
 
 ## Subclaims
-`q1 i?` The National Intelligence Tests Scales A and B, prepared by a committee of five psychologists and furnished in five equivalent forms per scale, are described as probably the most reliable of any group tests of intelligence. [→ Bell 1920](#bell-1920)
+`q1 i?` The National Intelligence Tests Scales A and B, prepared by a committee of five psychologists and furnished in five equivalent forms per scale, are described as probably the most reliable of any group tests of intelligence. [→ Bell 1921](#bell-1921)
 
 ## Evidence
 
-### Bell 1920
+### Bell 1921
 
-Bell, J. C. (1920). Group Tests of Intelligence: An Annotated List. The Journal of Educational Psychology, 103-108. https://doi.org/10.1037/h0073682
+Bell, J. C. (1921). Group tests of intelligence: An annotated list. *Journal of Educational Psychology, 12*(2), 103–108. [doi:10.1037/h0073682](https://doi.org/10.1037/h0073682)
 
 `q1 · i?` · `review · r1`
 

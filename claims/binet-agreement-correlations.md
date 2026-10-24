@@ -22,7 +22,7 @@ sources:
     title: "Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
     author: Pintner, R., and Marshall, H.
     q: 2
-    i: 2
+    i: 1
     kind: associational
     rigour: 2
 ---
@@ -30,11 +30,11 @@ sources:
 # Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1`–`i3`
 
 ## Subclaims
 `q2 i3` For 300 children in grades 3 to 6, the mental index on the group test correlated .47 with Stanford Binet I.Q., and crude score correlated .80 with Binet mental age. [→ Pintner 1920](#pintner-1920)
-`q2 i2` The correlation between mental and educational indices was .62, and between Differences and I.Q.s was .21, which the authors take to show children of all ability levels waste time in school. [→ Pintner 1920 (2)](#pintner-1920-2)
+`q2 i1` The correlation between mental and educational indices was .62, and between Differences and I.Q.s a small .21, which the authors take to show that children of all levels of mental ability are wasting their time in school. [→ Pintner 1920 (2)](#pintner-1920-2)
 
 ## Evidence
 
@@ -52,9 +52,9 @@ Agreement study: 300 children from 3rd to 6th grade were tested during the same 
 
 Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall
 
-`q2 · i2` · `associational · r2`
+`q2 · i1` · `associational · r2`
 
-In the same 300-case group, the mental-educational index correlation was .62 and the Difference-I.Q. correlation was .21; the low Difference-I.Q. link supports the claim that wastage occurs across ability levels. The r = .21 is a medium correlation.
+In the same 300-case group, the mental-educational index correlation was .62 and the Difference-I.Q. correlation was .21. The authors read the low Difference-I.Q. correlation as showing that children of all levels of mental ability are not working up to capacity; the article promises to demonstrate this concretely in a later article. By conventional benchmarks r = .21 is a small correlation and r = .62 a large one; the `i1` codes the Difference-I.Q. correlation this entry turns on.
 
 > "The correlation of the same group of cases between the Differ-ences and the I. Q.s is .21. This shows as we shall demonstrate concretely in a later article, that we find children of all degrees oJ mental ability who are wasting their time in school"
 

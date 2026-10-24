@@ -31,4 +31,4 @@ An intelligence assessment scale proposed by Arthur S. Otis that assigns absolut
 
 ## Key Sources
 - ARTHUK S. OTIS (Stanford University). (1917). A Criticism of the Yerkes-Bridges Point Scale, with Alternative Suggestions. The Journal of Educational Psychology, Vol. VIII, No. 3. https://eric.ed.gov/?q=Otis+criticism+Yerkes-Bridges+point+scale
-- Bell, J. C. (1920). Group Tests of Intelligence: An Annotated List. The Journal of Educational Psychology, 103-108. https://psycnet.apa.org
+- Bell, J. C. (1921). Group tests of intelligence: An annotated list. *Journal of Educational Psychology, 12*(2), 103–108. [doi:10.1037/h0073682](https://doi.org/10.1037/h0073682)
