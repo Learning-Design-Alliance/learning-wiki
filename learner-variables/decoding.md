@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 96 claims (65 show a difference, 16 mixed, 15 no difference) · 63 studies (18 associational, 17 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 24 of 63 report an effect size · 91 claims rest on one study
+> **Evidence** · 97 claims (65 show a difference, 17 mixed, 15 no difference) · 64 studies (19 associational, 17 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 24 of 64 report an effect size · 92 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -137,6 +137,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Greater reduction in reliance on imageability over the intervention is associated with greater residualized gains in Passage Comprehension](../claims/imageability-reduction-predicts-comprehension-gains.md) [+M] — learners who differ on it differ in outcomes
 - [The phonologically-weighted intervention increased children's mean reliance on O-P regularities from pre- to post-intervention, with no significant mean change in imageability reliance](../claims/intervention-increases-mean-op-reliance.md) [~W] — instruction changes it
 - [Word reading task measures of O-P and imageability reliance predict intervention gains beyond vocabulary, phonological awareness, rapid naming, and auditory attention](../claims/op-imageability-unique-predictors-of-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](../claims/decoding-fluency-no-unique-prediction-grades-4-10.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

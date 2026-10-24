@@ -52,3 +52,4 @@ Theoretical argument in the guide's 'What do test scores measure?' section, citi
 - [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](entrance-age-advantage-reflects-prior-skill-accumulation.md) — a narrower finding that bears on this claim
 - [The entrance-age achievement association is especially pronounced among children from upper-income families](entrance-age-gap-largest-upper-income-families.md) — related
 - [Teacher-student interaction quality may reflect pre-existing student characteristics rather than teacher skill unless prior achievement is accounted for](interaction-quality-confounded-by-prior-achievement.md) — related
+- [The review endorses educational guidance by early intelligence testing and selection by tests at high school and college entrance](review-endorses-test-based-educational-guidance.md) — related

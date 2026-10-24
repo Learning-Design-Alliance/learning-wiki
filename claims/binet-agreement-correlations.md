@@ -1,0 +1,68 @@
+---
+type: claim
+title: Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21
+description: Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q.
+id: binet-agreement-correlations
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-24
+evidence_strength: moderate
+sources:
+  - id: pintner-1920
+    resource: "https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
+    title: "Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
+    author: Pintner, R., and Marshall, H.
+    q: 2
+    i: 3
+    kind: associational
+    rigour: 2
+  - id: pintner-1920-2
+    resource: "https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
+    title: "Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
+    author: Pintner, R., and Marshall, H.
+    q: 2
+    i: 2
+    kind: associational
+    rigour: 2
+---
+
+# Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2`–`i3`
+
+## Subclaims
+`q2 i3` For 300 children in grades 3 to 6, the mental index on the group test correlated .47 with Stanford Binet I.Q., and crude score correlated .80 with Binet mental age. [→ Pintner 1920](#pintner-1920)
+`q2 i2` The correlation between mental and educational indices was .62, and between Differences and I.Q.s was .21, which the authors take to show children of all ability levels waste time in school. [→ Pintner 1920 (2)](#pintner-1920-2)
+
+## Evidence
+
+### Pintner 1920
+
+Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall
+
+`q2 · i3` · `associational · r2`
+
+Agreement study: 300 children from 3rd to 6th grade were tested during the same semester on the group mental test and the Stanford Binet; the mental index-Binet I.Q. coefficient was .47 and the educational index-Binet I.Q. coefficient .52. The printed r = .80 corresponds to a large association.
+
+> "The correlation between absolute achievement on both tests as expressed by crude score on the non-language group test and mental age on the Binet is .80, which is very high and seems to show that the group test is discriminating well between different degrees of mental ability."
+
+### Pintner 1920 (2)
+
+Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall
+
+`q2 · i2` · `associational · r2`
+
+In the same 300-case group, the mental-educational index correlation was .62 and the Difference-I.Q. correlation was .21; the low Difference-I.Q. link supports the claim that wastage occurs across ability levels. The r = .21 is a medium correlation.
+
+> "The correlation of the same group of cases between the Differ-ences and the I. Q.s is .21. This shows as we shall demonstrate concretely in a later article, that we find children of all degrees oJ mental ability who are wasting their time in school"
+
+## Discussion
+
+
+## Related Claims
+- [The Binet-Simon scale accurately graded fairly minute individual differences in mental ability within same-age groups, as validated against teacher and principal judgments](binet-simon-grades-individual-differences.md) — related
+- [Teachers' estimates show the highest single-measure correlation with the Stanford Revision (.72, 60 cases)](teachers-estimates-highest-correlation-stanford-revision.md) — related
+- [Group scales allow examining fifty or a hundred children in an hour, whereas individual Binet testing restricts use to special cases](group-scale-throughput-versus-binet-individual.md) — related
+- [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related

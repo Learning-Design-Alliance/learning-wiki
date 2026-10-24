@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 62 claims (37 show a difference, 14 mixed, 11 no difference) · 44 studies (13 causal, 10 review, 9 associational, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 12 of 44 report an effect size · 61 claims rest on one study
+> **Evidence** · 63 claims (37 show a difference, 15 mixed, 11 no difference) · 45 studies (13 causal, 10 review, 10 associational, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 12 of 45 report an effect size · 62 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -102,6 +102,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Comprehension (ideas recalled) shows very little difference across slow, normal, and rapid silent reading rates](../claims/reading-rate-little-comprehension-difference.md) [-M] — learners who differ on it differ in outcomes
 - [Instructed slow reading ran about 40% below normal rate and rapid reading about 16% below normal time, fairly uniformly across groups except seventh graders](../claims/rate-manipulation-magnitude-groups.md) [+M] — instruction changes it
 - [Rapid reading gains about 26% more ideas per second than normal reading, and slow reading about 20% fewer, in all four groups](../claims/ideas-per-second-rapid-reading-advantage.md) [+M] — learners who differ on it differ in outcomes
+- [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](../claims/decoding-fluency-no-unique-prediction-grades-4-10.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

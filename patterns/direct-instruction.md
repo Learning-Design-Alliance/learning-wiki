@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 35 claims (18 for, 15 mixed, 2 against) · 38 studies (13 quant-synthesis, 11 review, 8 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 38 report an effect size · 28 claims rest on one study
+> **Evidence** · 36 claims (19 for, 15 mixed, 2 against) · 39 studies (13 quant-synthesis, 11 review, 9 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 39 report an effect size · 29 claims rest on one study
 
 ## Description and scope
 
@@ -184,6 +184,7 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](../claims/pisa-curvilinear-inquiry-achievement.md) [~W]
 - [Explicit spelling instruction improves spelling skills more than incidental instruction (Hedges' g = 0.43) and more than no instruction (g = 0.54)](../claims/explicit-spelling-instruction-beats-incidental.md) [+W]
 - [Effective mathematics interventions for students with co-occurring difficulties commonly included explicit instruction, overall structure, repetition, and strategy learning](../claims/effective-intervention-characteristics-co-occurring.md) [+W]
+- [The thesis reports, citing Klahr and Nigam (2004), that discovered and explicitly taught science knowledge did not differ in quality](../claims/klahr-nigam-discovery-knowledge-quality-no-difference-cited.md) [+W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from

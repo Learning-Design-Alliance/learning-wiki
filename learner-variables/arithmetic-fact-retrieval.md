@@ -13,7 +13,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 30 claims (16 show a difference, 6 mixed, 8 no difference) · 11 studies (8 associational, 3 causal), `q2`–`q3` · 3 of 11 report an effect size · 28 claims rest on one study
+> **Evidence** · 32 claims (18 show a difference, 6 mixed, 8 no difference) · 12 studies (9 associational, 3 causal), `q2`–`q3` · 3 of 12 report an effect size · 30 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -67,6 +67,8 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [Children retain self-derived knowledge over a one-week delay in classroom settings, with performance increasing from Session 1 to Session 2](../claims/retention-self-derived-knowledge-one-week.md) [+M] — instruction changes it
 - [Arithmetic fluency increases significantly from first to third grade, with substantial individual differences in initial levels and growth](../claims/arithmetic-fluency-growth-grades-1-3.md) [+W] — instruction changes it
 - [Equal practice increases rather than reduces initial ability differences in addition within the same grade](../claims/equal-practice-increases-initial-differences-addition.md) [+M] — instruction changes it
+- [In the reading fluency contrast model, numerical abilities and serial retrieval fluency predict multiplication fluency but working memory does not, indicating partial domain-specificity](../claims/reading-model-domain-specificity-multiplication.md) [+M] — learners who differ on it differ in outcomes
+- [Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model](../claims/numerical-abilities-retrieval-fluency-predict-multiplication-baseline.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

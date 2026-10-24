@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (10 for, 15 mixed, 2 against) · 22 studies (10 causal, 6 review, 4 theoretical, 1 quant-synthesis, 1 design), `q2`–`q3` · 1 of 22 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (11 for, 15 mixed, 2 against) · 23 studies (11 causal, 6 review, 4 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 1 of 23 report an effect size · 26 claims rest on one study
 
 ## Description and scope
 
@@ -115,6 +115,7 @@ This pattern is scoped to selecting solution support for structured tasks. Open-
 - [Worked examples benefit learning even compared to tutored problem solving with on-demand guidance, indicating the effect is not an artefact of weak control conditions](../claims/worked-examples-beat-tutored-problem-solving.md) [+W]
 - [Type of mathematics assessed (Numerical Operations vs Mathematical Reasoning) does not significantly influence effect sizes](../claims/math-type-no-significant-influence.md) [~W]
 - [Problem solving after acquisition outperformed example study at a one-week delayed posttest but not immediately](../claims/problem-solving-beats-example-study-at-delay.md) [~W]
+- [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](../claims/worked-examples-better-than-problem-solving-cited.md) [+W]
 
 ## Key Sources
 

@@ -74,3 +74,4 @@ The article reports, citing Chen et al. (2015, 2016a, b, 2017) and Kalyuga et al
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](transient-information-effect-reverse-modality-length.md) — related
 - [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — related
 - [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — related
+- [The thesis hypothesises that with increasing expertise the worked example effect may be eliminated or reversed while the generation effect remains robust](expertise-reversal-hypothesis-generation-remains-robust.md) — a narrower finding that bears on this claim

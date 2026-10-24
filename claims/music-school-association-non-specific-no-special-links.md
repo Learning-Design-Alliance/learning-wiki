@@ -49,3 +49,4 @@ Authors' interpretation (Discussion) of their per-subject results, aligned with 
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related
 - [Children taking optional handicraft lessons scored significantly worse overall than controls, and handicraft did not significantly predict marks in regression](handicraft-lessons-worse-marks-not-significant-predictor.md) — related
 - [Children practicing music achieve significantly better overall average school marks than controls](music-practice-higher-overall-school-marks.md) — related
+- [Correlations between performance on different intellectual tasks fail to reach 1.00, indicating specialization of intelligence](intellectual-task-correlations-below-unity-specialization.md) — related

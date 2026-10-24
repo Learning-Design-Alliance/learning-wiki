@@ -1,0 +1,51 @@
+---
+type: claim
+title: Scattering on the Binet scales does not support the claim that unequal development is the specific characteristic of the feeble-minded; normal pupils scatter most and imbeciles least
+description: Scattering on the Binet scales does not support the claim that unequal development is the specific characteristic of the feeble-minded; normal pupils scatter most and imbeciles least
+id: scattering-not-pathognomonic-of-feeble-mindedness
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-24
+evidence_strength: moderate
+sources:
+  - id: wallin-1921
+    resource: "https://psycnet.apa.org/journal/edu"
+    title: "Wallin, J. E. W. (1921). Intelligence Irregularity as Measured by Scattering in the Binet Scale. The Journal of Educational Psychology. https://psycnet.apa.org/journal/edu"
+    author: Wallin, J. E. W.
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
+---
+
+# Scattering on the Binet scales does not support the claim that unequal development is the specific characteristic of the feeble-minded; normal pupils scatter most and imbeciles least
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r1` · `q2`
+
+## Subclaims
+`q2 i?` A five-fold analysis of 2206 Binet records found little support for the view that want of equilibrium differentiates defective children. [→ Wallin 1921](#wallin-1921)
+`q2 i?` Across the analyses, normal pupils scatter most and imbeciles least, the opposite of the pathognomonic-sign hypothesis. [→ Wallin 1921](#wallin-1921)
+
+## Evidence
+
+### Wallin 1921
+
+Wallin, J. E. W. (1921). Intelligence Irregularity as Measured by Scattering in the Binet Scale. The Journal of Educational Psychology. https://psycnet.apa.org/journal/edu
+
+`q2 · i?` · `associational · r1`
+
+Descriptive group-comparison analysis of 2206 Binet records from clinic and institutional populations, classified by diagnostic category. The author reports finding "little, if anything, in support of the above conclusions" that scattering marks defectives, and concludes normal pupils scatter most and imbeciles least.
+
+> "We have made a five-fold analysis of our data on scattering in relation to grade of intelligence, based on 2206 Binet records, and find little, if anything, in support of the above conclusions."
+
+## Discussion
+
+
+## Related Claims
+- [Neurotic, psychopathic and delinquent groups show no consistent excess of scattering, and great scattering cannot be elevated to a pathognomonic sign of psychopathy](scattering-not-sign-of-psychopathy-or-instability.md) — related
+- [Scattering is considerably greater on the Stanford-Binet than on the earlier Binet-Simon scales, so conclusions about scattering differ according to the scale used](scattering-varies-by-binet-scale-version.md) — related
+- [The amount of advance credit earned on the Binet scale depends on the extent of testing, not the grade of intelligence of the pupils](binet-credits-depend-on-extent-of-testing.md) — related
+- [Sex differences in scattering reverse across scales: girls scatter more on the 1908 scale, boys on the 1911 and Stanford scales](sex-differences-in-binet-scattering-reverse-by-scale.md) — related
+- [Scattering varies with intelligence-age level: smallest at the lowest mental ages and possibly largest in the middle range, with age-level differences exceeding diagnostic-category differences](scattering-varies-with-mental-age-level.md) — related

@@ -51,3 +51,4 @@ Two additional hierarchical regressions (N = 63) entered the comparison tasks in
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](snippet-selection-predicts-integration-above-reading-skills.md) — related
 - [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related
+- [Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model](numerical-abilities-retrieval-fluency-predict-multiplication-baseline.md) — related

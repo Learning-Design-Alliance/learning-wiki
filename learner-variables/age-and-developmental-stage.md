@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 171 claims (109 show a difference, 40 mixed, 22 no difference) · 138 studies (51 associational, 24 causal, 24 review, 22 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 20 of 138 report an effect size · 169 claims rest on one study
+> **Evidence** · 172 claims (110 show a difference, 40 mixed, 22 no difference) · 139 studies (52 associational, 24 causal, 24 review, 22 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 20 of 139 report an effect size · 170 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -203,6 +203,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Better writers and older children anticipate the rhythmic beat while poorer writers and young children lag behind it; the arm is less accurate than the fingers except for younger children](../claims/beat-following-anticipation-versus-lag-arm-versus-finger.md) [~M] — learners who differ on it differ in outcomes
 - [Imposed rhythm increases the proportionate rest time within strokes, especially for younger children with finger movement, while the time on the stroke proper tends to remain constant](../claims/imposed-rhythm-increases-rest-proportion.md) [+M] — an instructional effect differs with it
 - [Younger children are much more suggestible than older children or adults in response to suggestive questions](../claims/age-gradient-in-suggestibility.md) [+M] — learners who differ on it differ in outcomes
+- [Scattering varies with intelligence-age level: smallest at the lowest mental ages and possibly largest in the middle range, with age-level differences exceeding diagnostic-category differences](../claims/scattering-varies-with-mental-age-level.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

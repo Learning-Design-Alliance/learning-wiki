@@ -48,3 +48,4 @@ Theoretical argument in Section 4, consistent with the paper's cited broader fin
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related
 - [Habits tend to override intentions primarily under unfavorable conditions such as stress, time pressure, or low self-control](habits-override-intentions-under-stress.md) — related
+- [Dynamic psychology research on habit formation is replacing vague verbal maxims of applied psychology with definite insights, including when practice makes perfect and when it does not.](dynamic-psychology-replaces-vague-maxims.md) — related

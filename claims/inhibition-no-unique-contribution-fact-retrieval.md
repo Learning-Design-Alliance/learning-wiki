@@ -58,3 +58,5 @@ Simultaneous regression in 86 third graders with all predictors and confounds en
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [The inhibitory control–mathematical ability correlation does not differ across domains of mathematical ability](no-domain-moderation-inhibitory-control-math.md) — related
 - [Numeral comparison, but not quantity enumeration, uniquely accounts for variation in basic calculation fluency](numeral-comparison-unique-calculation-fluency.md) — related
+- [Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model](numerical-abilities-retrieval-fluency-predict-multiplication-baseline.md) — related
+- [In the reading fluency contrast model, numerical abilities and serial retrieval fluency predict multiplication fluency but working memory does not, indicating partial domain-specificity](reading-model-domain-specificity-multiplication.md) — related

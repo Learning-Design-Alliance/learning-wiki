@@ -52,3 +52,4 @@ In the hierarchical regression models, "behavioral inattention was not uniquely 
 - [Attention problems are associated with lower preliteracy and language scores in preschoolers, controlling for aggression and social skills](attention-problems-predict-poorer-emergent-academics.md) — related
 - [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](social-skills-independently-predict-emergent-academics.md) — related
 - [Attention problems are more important than executive functioning for predicting first-grade calculation, while executive functioning is more important for applied problems](differential-prediction-attention-calculation-ef-applied-problems.md) — related
+- [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](decoding-fluency-no-unique-prediction-grades-4-10.md) — related

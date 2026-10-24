@@ -41558,5 +41558,13 @@
  "test-format\tone spelling-test list\ta different spelling-test list": {
   "label": "one spelling-test list vs another spelling-test list",
   "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly presented knowledge\tdiscovered knowledge": {
+  "label": "explicit instruction vs discovery learning",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudying worked examples\tsolving problems": {
+  "label": "worked examples vs problem solving",
+  "treatment_is_a": true
  }
 }

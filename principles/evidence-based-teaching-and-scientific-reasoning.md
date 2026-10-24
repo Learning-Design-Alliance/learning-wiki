@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (19 for, 15 mixed, 2 against) · 35 studies (9 review, 8 theoretical, 7 associational, 6 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 35 report an effect size · 34 claims rest on one study
+> **Evidence** · 37 claims (20 for, 15 mixed, 2 against) · 36 studies (9 review, 9 theoretical, 7 associational, 6 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 36 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Heterogeneity in teacher program effects was high for stress, psychological distress, and burnout in RCTs, and methodological quality was generally poor across both trial types](../claims/teacher-programs-heterogeneity-risk-of-bias.md) [+W] — attached 2026-10-21 from Joanne R. Beames et al. (2023), which proposed "Design future teacher mental health program research with methodologically rigorous designs, co-design with teachers, and attention to implementation factors".
 - [Nonexperimental designs, including natural experiments and structural equation modeling, can inform cause-effect relationships to a degree that depends on study design and analysis](../claims/nonexperimental-designs-inform-causal-effects.md) [+W] — attached 2026-10-21 from Grosz (2023), which proposed "Researchers should discuss practical implications in their articles regardless of design, while transparently communicating limitations and assumptions".
 - [Retrieval practice has been implemented and studied in authentic middle school classrooms, with general recommendations for applied research](../claims/retrieval-practice-implementation-middle-school-classrooms.md) [+W] — attached 2026-10-22 from Pooja K. Agarwal (2012), which proposed "Apply a century of cognitive psychology research on human learning and memory to real-world education to ground practice in evidence rather than doctrine".
+- [Measurement units for changes in learners are essential to an adequate science of education, since most educational practice problems depend on the amount of some change.](../claims/measurement-units-essential-science-of-education.md) [+W] — attached 2026-10-24 from Thorndike (1910), which proposed "Decide competing teaching methods with controlled comparative trials and measurement, rather than from unaided classroom experience.".
 
 ## Objective and learner-valued goal
 

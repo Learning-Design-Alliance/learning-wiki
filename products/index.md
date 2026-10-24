@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1893 entries** · 0 stable · 1893 in review · 0 drafts
+**1898 entries** · 0 stable · 1898 in review · 0 drafts
 
 ---
 
@@ -147,6 +147,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Beable Academy](beable-academy.md) - Beable Academy is Beable's self-paced online professional-development programme for educators, complemented by orientation and ongoing platform support.
 * [Beacon](beacon.md) - Beacon is a web-based conversational academic-support system developed by Andy Gray that uses retrieval-augmented generation over approved course teaching materials to assist undergraduate computing students.
 * [Becoming Effective Learners Student Survey (BEL-S)](becoming-effective-learners-student-survey-bel-s.md) - The BEL-S is a Rasch-based student self-report survey developed by Camille A.
+* [Bell Chemistry Test and appended Payne correction sheet](bell-chemistry-test-and-appended-payne-correction-sheet.md) - A 25-question secondary-school chemistry achievement test with a Payne-prepared correction and partial-credit scoring sheet, originally used to assess knowledge of electrolysis, oxidation-reduction, valence, water purification, gases, and commercial chemistry.
 * [Berea College Promise Neighborhood initiative](berea-college-promise-neighborhood-initiative.md) - A Berea College–run place-based education initiative serving students and communities across Clay, Jackson, and Owsley Counties in rural Appalachian Kentucky.
 * [Berlin end-of-schooling tracking dataset (2,155 students, 87 schools)](berlin-end-of-schooling-tracking-dataset-2155-students-87-schools.md) - A research dataset from Dumont et al.
 * [Bernauer and Tomei's integrated matrix of five faculty integrator quadrants](bernauer-and-tomeis-integrated-matrix-of-five-faculty-integrator-quadrants.md) - A higher-education faculty-development framework that organizes competencies, objectives, and teaching practices into five stages of pedagogical and technology integration, from apprentice to master integrator.
@@ -487,6 +488,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [EducaSim](educasim.md) - EducaSim is a web-based LLM-agent simulation environment developed by Cameron Mohne and colleagues for teacher-training role-play practice with simulated small-group students.
 * [Education Corps in-person high-dosage literacy tutoring program model](education-corps-in-person-high-dosage-literacy-tutoring-program-model.md) - Education Corps runs an in-person, high-dosage literacy tutoring programme that trains community tutors and supports them with Learning Coaches to provide small-group instruction for below-benchmark K–5 students, especially in grades K–3.
 * [Educational Quality and Improvement Profile (EQuIP)](educational-quality-and-improvement-profile-equip.md) - A multi-indicator school reporting and accountability instrument proposed by Adams et al.
+* [Educational Survey Test](educational-survey-test.md) - A 30-minute composite elementary-school achievement test assembled from eight standard educational tests by Pintner and colleagues to measure attainment across major curriculum subjects using age and grade norms.
 * [EduClaw-Bench](educlaw-bench.md) - EduClaw-Bench is a virtual benchmark environment developed by Lee et al.
 * [EDUFRAMETRAP](eduframetrap.md) - EDUFRAMETRAP is a controlled pre-deployment benchmark created by Enkelejda Kasneci et al.
 * [EduGage dataset](edugage-dataset.md) - A multimodal learning-engagement dataset released by Zikang Leng and colleagues, containing synchronized sensor streams, engagement-probe ratings, video metadata, and quiz responses from self-guided video-learning sessions for participant-independent engagement-modeling research.
@@ -1154,6 +1156,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [NIH Intramural Loan Repayment Program](nih-intramural-loan-repayment-program.md) - A set of National Institutes of Health loan-repayment programmes run by NIH to attract and retain biomedical researchers in its intramural laboratories and clinics.
 * [NIH Undergraduate Scholarship Program](nih-undergraduate-scholarship-program.md) - A scholarship programme run by the National Institutes of Health that supports talented undergraduate science students from disadvantaged backgrounds and encourages biomedical research careers.
 * [Nine tool innovation tasks spanning three paradigms and three tool types](nine-tool-innovation-tasks-spanning-three-paradigms-and-three-tool-types.md) - A validated nine-task battery developed by Guo et al.
+* [Non-Language Mental Test](non-language-mental-test.md) - A group intelligence test developed by Pintner and colleagues for school children from grade II upward, designed to assess mental ability while minimizing reading and language demands and to support fairer comparisons for non-English-speaking and deaf children.
 * [Non-visual story-based behavioral ToM task](non-visual-story-based-behavioral-tom-task.md) - A publicly available non-visual, story-based theory-of-mind assessment developed by Richardson et al.
 * [North Carolina Generative AI Implementation Recommendations](north-carolina-generative-ai-implementation-recommendations.md) - A framework issued by North Carolina to guide K–12 generative-AI implementation, including shared levels and disclosure recommendations for AI-assisted assessment work.
 * [North Lawndale Cluster Initiative (NLCI)](north-lawndale-cluster-initiative-nlci.md) - AUSL's foundation-funded initiative coordinated schools, pre-k, professional development, mentoring, social-emotional supports, transition services, and college counseling across a North Lawndale school cluster from 2013–14 through 2018–19.
@@ -1730,6 +1733,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Test of Spatial Assembly (TOSA)](test-of-spatial-assembly-tosa.md) - The TOSA is an individually administered 2-D and 3-D spatial assembly assessment developed by Verdine et al.
 * [Test of the rational-number central conceptual structure with capacity-graded item subsets](test-of-the-rational-number-central-conceptual-structure-with-capacity-graded-item-subsets.md) - A study-developed assessment by Morra et al.
 * [TFT partnership](tft-partnership.md) - A REL Midwest partnership framework that organizes professional-learning activities and expected administrator, teacher, and student outcomes across short-, medium-, and long-term horizons.
+* [The 'Card list'](the-card-list.md) - A carbon-duplicate perforated ranking form designed by Stenquist for supervisors and other judges to rank workers or teachers on vocational and moral traits.
 * [The 10 Elements of Black Excellence](the-10-elements-of-black-excellence.md) - A community-informed framework developed by LBUSD's Center to organize its foundation, aims, and practical approaches for advancing Black excellence.
 * [The 33-exercise scientific method test in geography content](the-33-exercise-scientific-method-test-in-geography-content.md) - A paper-and-pencil geography assessment by Herring containing 33 multiple-option exercises designed to measure pupils' ability to use elements of the scientific method rather than recall geography content.
 * [The 3E framework](the-3e-framework.md) - The 3E framework is a rubric-based assessment developed by Masum Hasan et al.
@@ -1756,6 +1760,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The River conceptual model](the-river-conceptual-model.md) - A Flash-based interactive geography learning object developed by Daniel Churchill that lets secondary students manipulate river parameters, calculate discharge, and visualize river-flow relationships across handheld and other presentation devices.
 * [The Scaffolded AI Literacy (SAIL) framework](the-scaffolded-ai-literacy-sail-framework.md) - A Delphi-developed framework by MacCallum et al.
 * [The Scholastic Quotient (S. Q.)](the-scholastic-quotient-s-q.md) - A historical scholastic-ranking assessment formula devised by Cummins that weights pupils' A–D marks from school records to estimate and classify scholastic standing.
+* [The supplemented Thorndike drawing scale of snow scenes with human figures in action](the-supplemented-thorndike-drawing-scale-of-snow-scenes-with-human-figures-in-action.md) - A norm-referenced rating scale developed by Childs for judging elementary and secondary pupils' snow-scene drawings by comparison with anchored sample drawings and averaged ratings from two judges.
 * [the Toolkit](the-toolkit.md) - The Toolkit is a four-part framework created by its authors to help teachers plan, implement, and evaluate technology-based lessons.
 * [The Triple-Focus Program](the-triple-focus-program.md) - The Triple-Focus Program is a pull-out reading-disability intervention developed by Lovett and colleagues that combines PHAST decoding and comprehension strategy instruction with RAVE-O lexical enrichment.
 * [The Writing Road to Reading](the-writing-road-to-reading.md) - Spalding's The Writing Road to Reading is a comprehensive K–6 speech-to-print literacy curriculum developed and provided by Spalding Education International, integrating explicit instruction in phonemic awareness, phonics, spelling, writing, and reading comprehension.

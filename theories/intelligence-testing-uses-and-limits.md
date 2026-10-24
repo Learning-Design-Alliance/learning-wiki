@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 51 claims (20 for, 29 mixed, 2 against) · 34 studies (21 associational, 5 review, 4 theoretical, 2 quant-synthesis, 2 design), `q1`–`q3` · 3 of 34 report an effect size · 50 claims rest on one study
+> **Evidence** · 57 claims (22 for, 33 mixed, 2 against) · 38 studies (23 associational, 6 review, 5 theoretical, 2 quant-synthesis, 2 design), `q1`–`q3` · 4 of 38 report an effect size · 56 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -102,6 +102,12 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [The Thorndike-McCall correlates about 0.50 with other single comprehension tests and 0.69 with a composite of group intelligence tests](../claims/thorndike-mccall-correlations-comprehension-intelligence.md) [~W]
 - [Practice effects on the Thorndike-McCall test over two or more hours of testing are very small](../claims/thorndike-mccall-practice-effect-small.md) [~W]
 - [Stanford-Binet mental age correlations with reading rise from grade III to grade VI](../claims/mental-age-reading-correlation-rises-with-grade.md) [+W]
+- [Correlations between performance on different intellectual tasks fail to reach 1.00, indicating specialization of intelligence](../claims/intellectual-task-correlations-below-unity-specialization.md) [+W] — attached 2026-10-24 from E. L. Thorndike et al. (1921), which proposed "Thorndike's definition of intellect as the power of good responses with respect to truth or fact, specialized by data and operation".
+- [Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21](../claims/binet-agreement-correlations.md) [~W]
+- [The amount of advance credit earned on the Binet scale depends on the extent of testing, not the grade of intelligence of the pupils](../claims/binet-credits-depend-on-extent-of-testing.md) [~W]
+- [Scattering on the Binet scales does not support the claim that unequal development is the specific characteristic of the feeble-minded; normal pupils scatter most and imbeciles least](../claims/scattering-not-pathognomonic-of-feeble-mindedness.md) [~W]
+- [The review endorses educational guidance by early intelligence testing and selection by tests at high school and college entrance](../claims/review-endorses-test-based-educational-guidance.md) [+W]
+- [Scattering is considerably greater on the Stanford-Binet than on the earlier Binet-Simon scales, so conclusions about scattering differ according to the scale used](../claims/scattering-varies-by-binet-scale-version.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats
@@ -112,6 +118,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 ## Examples
 
 - [Follow the French two-stage placement plan: pedagogical examination first, then mental tests for equal mental retardation](../strategies/binet-simon-special-class-placement-plan.md)
+- [Research agenda for intelligence measurement: intercorrelations, IQ permanence, distribution form, and effects of coaching](../strategies/intelligence-measurement-research-agenda-1921.md)
 
 ## Key Sources
 - Zimmerman, B. J., & Schunk, D. H. (Eds.). (2003). *Educational psychology: A century of contributions*. Erlbaum.

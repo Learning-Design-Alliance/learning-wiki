@@ -45,3 +45,4 @@ Theoretical argument, not a tested result: the authors reason that if general co
 ## Related Claims
 - [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — reports the opposite
 - [Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer](metacognition-domain-generality-specificity-open-issue.md) — related
+- [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related

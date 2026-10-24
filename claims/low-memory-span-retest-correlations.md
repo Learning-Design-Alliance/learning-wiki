@@ -53,3 +53,4 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — reports the opposite
 - [During the final fatigue test, time per problem rose gradually, then markedly, with no obvious correlation between time and accuracy](fatigue-time-rise-no-accuracy-correlation.md) — related
 - [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related

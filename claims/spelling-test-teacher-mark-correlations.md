@@ -45,3 +45,4 @@ Concurrent-validity comparison in one school of 256 pupils: correlations by grad
 ## Related Claims
 - [Standard spelling scores for grades 1–8 derived from 2500 pupils rise from 10 in grade 1 to 85 in grade 8](spelling-standard-scores-grades-1-8.md) — related
 - [Tests B and C correlate 0.901 when given to the same pupils in grades III to VIII](wilson-tests-b-c-correlation-0901.md) — related
+- [The Bell Chemistry Test correlates moderately with semester marks and teachers' estimates, and is judged a fairly good measure of class knowledge but unreliable for an individual.](bell-test-fair-class-measure-unreliable-individual.md) — related

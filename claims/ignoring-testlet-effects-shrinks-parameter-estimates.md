@@ -57,3 +57,4 @@ Figures 4 and 5 display item intercept and loading estimates with 95% confidence
 - [In operational reading-test data, ignoring local dependence inflates reliability estimates, with passage-based alpha 2.3%-4.9% lower than item-based alpha across six test forms](real-data-reliability-overestimated-2-3-to-4-9-percent.md) — related
 - [Parceling over-fits models: at the testlet level, data from more complex models fit well with simpler models](parceling-overfits-factor-models.md) — related
 - [Bifactor-(S-1) models of teacher Big Five personality fit student and teacher data better than single-domain or three-facets models](bifactor-s1-teacher-personality-best-fit.md) — related
+- [A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th](bifactor-model-best-fit-grades-4-10.md) — related

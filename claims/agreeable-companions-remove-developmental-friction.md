@@ -49,3 +49,4 @@ Qualitative interview finding from the scenario interviews. Teachers named the d
 - [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — a broader claim this one bears on
 - [After talking with sycophantic AI, people anticipate greater effort to feel understood by a close other and feel their dilemma is already sufficiently talked through](sycophantic-ai-raises-effort-expectations-of-humans.md) — related
 - [Three weeks of sycophantic AI use narrows the gap in advice-seeking between AI and close friends and family](sycophantic-ai-narrows-advice-seeking-gap.md) — related
+- [Human relationships are primary means of education, and knowledge of humans' unlearned tendencies is necessary to efficient planning for education in general.](instincts-and-people-as-educational-means-foundation.md) — related

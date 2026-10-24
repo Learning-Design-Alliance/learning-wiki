@@ -50,3 +50,4 @@ Analytical derivation comparing Equation 7 to the bifactor model's Equation 2 un
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - A strict one-factor model fits poorly while four-factor, second-order, and bifactor models fit better, with the bifactor model favored by formal comparisons — related
 - [Bifactor-(S-1) models of teacher Big Five personality fit student and teacher data better than single-domain or three-facets models](bifactor-s1-teacher-personality-best-fit.md) — related
+- [A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th](bifactor-model-best-fit-grades-4-10.md) — related

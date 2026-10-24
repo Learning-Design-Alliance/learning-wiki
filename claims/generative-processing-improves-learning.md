@@ -187,3 +187,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Drawing can underperform the generative strategy of explaining, particularly on verbally aligned tests](explaining-outperforms-drawing.md) — a narrower finding that bears on this claim
 - [Provided visuals can act as a crutch: explaining with provided visuals yielded higher-quality explanations but no transfer advantage over explaining without them](provided-visuals-crutch-no-transfer-advantage.md) — related
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — a narrower finding that bears on this claim
+- [Test tasks requiring analysis, selection and organization of elements give better predictive results per unit cost than simpler tasks](analytic-tasks-better-prediction-per-cost.md) — related

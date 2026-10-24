@@ -46,3 +46,4 @@ Theoretical claim attributed to Gardner et al. (2020a): habits negatively modera
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — related
 - [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](reflective-scaffolding-habituation-deskilling.md) — related
 - [Practice when learners were nervous or tired was worthless for strengthening associations and positively injurious, favoring wrong habits](practice-when-tired-injurious.md) — related
+- [Dynamic psychology research on habit formation is replacing vague verbal maxims of applied psychology with definite insights, including when practice makes perfect and when it does not.](dynamic-psychology-replaces-vague-maxims.md) — related

@@ -66,3 +66,4 @@ Descriptive analysis of math growth distributions (figures 3–4): unstabilized 
 - [Stabilization makes larger adjustments to scores from smaller student groups and to more extreme scores, as expected](stabilization-adjusts-small-extreme-scores-most.md) — related
 - [High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender](civic-engagement-higher-graduation-all-students.md) — related
 - [Stabilizing test-based indicators produced substantial changes in simulated CSI designations, with larger schools replacing smaller schools](stabilization-changes-csi-designations.md) — related
+- [Gaps in the scale's sample range produce distribution anomalies, with fewer ratings in the 4 to 4.99 band than in the 3 to 3.99 band](scale-sample-gaps-distort-score-distribution.md) — related

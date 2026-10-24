@@ -47,3 +47,4 @@ Same-pupil administration of two parallel forms in a small city system; 103 pair
 - [The three Wilson Language Error Tests (A, B, and C) approach equality across grades III to XII](wilson-language-error-tests-equal-value.md) — a broader claim this one bears on
 - [In one class of 13-year-old boys, memory scores were kept to a steady rank order by repeated practice (successive tests correlating +.87 to +.90) before fatigue testing began](steady-practice-before-fatigue-tests.md) — related
 - [Spelling test scores correlate highly with teachers' year-long marks (average coefficient .69 across grades 3–8)](spelling-test-teacher-mark-correlations.md) — related
+- [Correlations between two series of mirror-reading tests on the same 16 subjects range widely depending on how errors are scored, from .087 to .700.](mirror-reading-test-retest-correlations-vary-by-scoring.md) — related

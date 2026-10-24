@@ -44,3 +44,4 @@ The review describes Yoakum's Chicago laboratory study using a memorized ten-dig
 
 ## Related Claims
 - [Demanding maximal speed in fatigue tests obscures each individual's normal work rhythm, testing an abnormal psychophysical condition (Yoakum)](maximal-speed-demand-obscures-normal-rhythm.md) — related
+- [Measurement units for changes in learners are essential to an adequate science of education, since most educational practice problems depend on the amount of some change.](measurement-units-essential-science-of-education.md) — related

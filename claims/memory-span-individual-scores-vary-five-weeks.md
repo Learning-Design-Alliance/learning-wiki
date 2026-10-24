@@ -46,3 +46,4 @@ Two-occasion test-retest study of 192 fifth-grade children given a digit memory 
 - [Lengthening the interval between dictated digits markedly lowered children's memory span scores on one testing day](digit-pacing-change-lowered-span-scores.md) — related
 - [Group average memory span scores remain nearly identical across days while individual scores vary considerably](group-averages-stable-individuals-vary.md) — possibly the same claim (merge candidate)
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
+- [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related

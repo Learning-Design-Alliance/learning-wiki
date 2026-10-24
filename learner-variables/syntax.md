@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 34 claims (20 show a difference, 7 mixed, 7 no difference) · 26 studies (7 associational, 6 causal, 6 review, 4 quant-synthesis, 2 theoretical, 1 design), `q2`–`q3` · 1 of 26 report an effect size · 31 claims rest on one study
+> **Evidence** · 36 claims (22 show a difference, 7 mixed, 7 no difference) · 27 studies (8 associational, 6 causal, 6 review, 4 quant-synthesis, 2 theoretical, 1 design), `q2`–`q3` · 1 of 27 report an effect size · 33 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -72,6 +72,8 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](../claims/interleaving-lasting-learning-delayed-posttests.md) [+W] — instruction changes it
 - [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](../claims/rule-recall-miserable-half-known.md) [-M] — instruction changes it
 - [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](../claims/discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) [-M] — learners who differ on it differ in outcomes
+- [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance](../claims/general-oral-language-factor-predicts-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Specific syntax and vocabulary factors uniquely predicted reading comprehension in only one grade each (syntax in 4th, vocabulary in 7th)](../claims/specific-syntax-vocabulary-factors-unique-one-grade-each.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

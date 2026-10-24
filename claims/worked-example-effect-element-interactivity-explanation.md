@@ -60,3 +60,5 @@ Theoretical explanation in the review: novices solving problems use means-ends a
 - [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](expertise-reversal-effect-element-interactivity.md) — a broader claim this one bears on
 - [Low variability materials enhanced learning regardless of guidance; expertise reversal found for variability in Experiment 2](variability-effect-expertise-reversal-two-experiments.md) — related
 - [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](testing-effect-absent-worked-example-study.md) — related
+- [The thesis hypothesises that with increasing expertise the worked example effect may be eliminated or reversed while the generation effect remains robust](expertise-reversal-hypothesis-generation-remains-robust.md) — related
+- [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](worked-examples-better-than-problem-solving-cited.md) — related

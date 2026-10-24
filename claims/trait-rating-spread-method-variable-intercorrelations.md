@@ -43,4 +43,6 @@ Comparisons across a Boice Teachers Rating Card (over 100 teachers, central tend
 
 
 ## Related Claims
+
 - [IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct](iar-cdr-factor-scores-low-intercorrelations.md) — related
+- [Card-slip ranking yields a wider spread of ranks than list-based ranking typically produces](cardlist-wider-spread-of-ranks.md)

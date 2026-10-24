@@ -13,7 +13,7 @@ generated:
 # Generation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 design, 1 theoretical), `q2`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size · 4 claims rest on one study
 
 ## Description
 Generation asks learners to actively produce content — completing a missing word, stating a rule, drawing a diagram, or answering a question before seeing the answer — instead of passively reading the same material. The act of constructing the response, even an incorrect one, creates richer encoding than reception. It is the constructive counterpart to [Practice](practice.md): where practice strengthens retrieval of already-taught material, generation forces the learner to build the response before instruction confirms it.

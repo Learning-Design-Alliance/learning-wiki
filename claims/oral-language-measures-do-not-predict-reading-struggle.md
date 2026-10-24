@@ -61,3 +61,4 @@ The guide's summary, in Recommendation 1's carry-out section, of studies contras
 - [The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language](reverse-transfer-literacy-to-oral-unsupported.md) — related
 - [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — reports the opposite
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
+- [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, accounting for 72%–99% of its variance](general-oral-language-factor-predicts-comprehension.md) — reports the opposite

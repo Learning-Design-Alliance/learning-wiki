@@ -51,3 +51,4 @@ This is the editor's forward-looking prediction (type e), offered with no eviden
 - [The reviewer finds the tests-and-scales book's intelligence-measurement chapter useful but its least satisfactory part, criticizing the Stanford-Binet treatment and the omission of the National Tests](intelligence-chapter-least-satisfactory.md) — related
 - [Binet's norms were worked out for Paris working-class children and may need revision for other social classes and regions](binet-norms-paris-working-class-need-revision.md) — related
 - [Class graphs from the test are judged sufficiently reliable, while individual graphs are usefully suggestive but the least reliable conclusion](class-graphs-reliable-individual-graphs-suggestive.md) — a narrower finding that bears on this claim
+- [The amount of advance credit earned on the Binet scale depends on the extent of testing, not the grade of intelligence of the pupils](binet-credits-depend-on-extent-of-testing.md) — related
