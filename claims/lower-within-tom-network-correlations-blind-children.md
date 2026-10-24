@@ -68,3 +68,4 @@ One-tailed paired t-tests within the blind group (n=17) comparing within- versus
 - [Congenitally blind children perform slightly less accurately on a non-visual behavioral ToM task than sighted children, controlling for age](blind-children-slightly-lower-tom-task-performance.md) — related
 - [RTPJ selectivity correlates with behavioral ToM task performance across blind and sighted children combined](rtpj-selectivity-correlates-tom-behavior.md) — related
 - [Blind children reason about visually sourced mental states similarly to sighted children](blind-children-similar-visual-experience-items.md) — related
+- [Inter-test correlations appear lower for children of a given age than for adults, though quantitative evidence is slight](child-intertest-correlations-lower-than-adults.md) — related

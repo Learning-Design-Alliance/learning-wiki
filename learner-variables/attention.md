@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (76 show a difference, 21 mixed, 12 no difference) · 84 studies (21 causal, 20 associational, 19 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 15 of 84 report an effect size · 104 claims rest on one study
+> **Evidence** · 112 claims (78 show a difference, 22 mixed, 12 no difference) · 85 studies (21 causal, 21 associational, 19 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 15 of 85 report an effect size · 107 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -147,6 +147,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Placing the question first reduces first-phase attention but increases second-phase attention (with mixed robustness)](../claims/question-position-phase-shift-effects.md) [~M] — instruction changes it
 - [Self-rated attentional control improves for relearning relative to restudying from the second session onward](../claims/relearning-attentional-control-gains.md) [+M] — instruction changes it
 - [Students with reading difficulties were more likely assigned to the Attention Control profile, while typically developing students were more likely assigned to the Decoding/Cognitive profile](../claims/rd-students-assigned-attention-profile.md) [+W] — learners who differ on it differ in outcomes
+- [In-class attention and complex spatial ability (MRT) predict seventh-grade mathematics achievement above and beyond prior mathematical knowledge](../claims/attention-and-mrt-predict-seventh-grade-math-above-prior-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Mathematics anxiety for learning is indirectly related to seventh-grade mathematics achievement through reduced in-class attention](../claims/math-anxiety-indirect-effect-through-attention.md) [+W] — learners who differ on it differ in outcomes
+- [Prior mathematical competence by in-class attention interaction: attention benefits were strongest among students with stronger prior knowledge](../claims/prior-competence-by-attention-interaction-math-gains.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

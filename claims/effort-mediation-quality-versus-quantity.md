@@ -46,3 +46,4 @@ The review's synthesis of non-longitudinal studies reports that with effort as q
 - [The relationship between invested mental effort and self-assessed understanding is weak and inconsistent, with most correlations non-significant and mixed directions](effort-understanding-weak-inconsistent-relationship.md) — related
 - [Motivational profiles were associated with mental effort while studying the video modeling examples, but not with posttest mental effort](motivational-profile-mental-effort.md) — related
 - [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](autonomous-vs-controlled-motivation-achievement.md) — related
+- [Small quantities of fatigue-substances increase protoplasmic activity and augment muscular energy, per Lee's experiments](fatigue-substances-small-amounts-stimulate.md) — related

@@ -47,3 +47,5 @@ Analysis of preliminary test results from the whole Standard VI class. The fifth
 - [Improvement by practice continues in both morning and afternoon groups, but the morning group improves faster across weeks](practice-continues-faster-mornings.md) — related
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](pupils-improve-with-practice-no-fatigue-effect.md) — related
+- [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — related
+- [Tests B and C correlate 0.901 when given to the same pupils in grades III to VIII](wilson-tests-b-c-correlation-0901.md) — related

@@ -51,3 +51,4 @@ Micro-longitudinal ambulatory assessment in which 110 third- and fourth-graders 
 - [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related
 - [Previous night's sleep quality and time in bed predict children's morning working memory performance fluctuations](sleep-quality-time-in-bed-predict-morning-working-memory.md) — a narrower finding that bears on this claim
 - [Current daytime tiredness predicts children's afternoon working memory performance fluctuations](tiredness-predicts-afternoon-working-memory.md) — a narrower finding that bears on this claim
+- [Fatigue depends on age, sex, lesson length and number, time of day, weekday, recesses, holidays, rest, sleep, nature of work, school program, and teacher personality (Offner's laws of fatigue)](laws-of-fatigue-school-conditions.md) — related

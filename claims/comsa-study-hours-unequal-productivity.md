@@ -46,3 +46,4 @@ Analytical implication derived from the logistic curve assumption in the CoMSA. 
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
 - [Heterogeneous learning curves across practitioners create organizational challenges including perceived unfairness](learning-curve-heterogeneity-matthew-effects.md) — related
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related
+- [Efficiency in the work curve is conditioned by factors beyond fatigue proper: practice, adaptation, preparedness, warming up, spurts, voluntary effort, ennui, and diurnal rhythms (Offner)](work-curve-factors-beyond-fatigue.md) — related

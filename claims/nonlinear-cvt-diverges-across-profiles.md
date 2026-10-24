@@ -49,3 +49,4 @@ Robustness analyses with nonlinear specifications (control–value interactions 
 - [Explained variance of CVT emotion models falls below 15% within latent profiles versus a median above 30% in grouping analyses, beyond what variance restriction explains](explained-variance-declines-within-profiles.md) — related
 - [The high-boredom (HghLBO) profile deviates from the linear control–emotion trend, showing elevated boredom and reduced enjoyment relative to its academic-control level](hghlbo-profile-deviates-from-control-trend.md) — related
 - [Including control and value variables substantially reduced the effects of student- and class-level achievement on enjoyment, consistent with control-value theory](control-value-variables-reduce-achievement-enjoyment-effects.md) — related
+- [Test boredom relates positively to over- and underchallenge and negatively to intrinsic and extrinsic value](test-boredom-antecedents-control-value.md) — related

@@ -122,3 +122,4 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Mediated structured play yields relatively robust evidence of efficacy, varying by interventionist, target and measured outcome](mediated-structured-play-efficacy.md) — related
 - [Physical activity interventions in childhood improve on-task behaviour with a large summary effect, based on very low-certainty evidence](pa-interventions-improve-on-task-behaviour-childhood.md) — related
 - [Physical activity interventions in childhood improve working memory with a small summary effect, based on very low-certainty evidence](pa-interventions-improve-working-memory-childhood.md) — reports the opposite
+- [Fatigue depends on age, sex, lesson length and number, time of day, weekday, recesses, holidays, rest, sleep, nature of work, school program, and teacher personality (Offner's laws of fatigue)](laws-of-fatigue-school-conditions.md) — related

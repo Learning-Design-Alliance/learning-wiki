@@ -48,3 +48,4 @@ Controlled two-group comparison after equal practice: two initially equal groups
 - [Exception: the top section of afternoon workers did better work than the corresponding morning section](top-section-afternoon-superiority.md) — related
 - [In a London boys' school class, the group working problematic arithmetic later in the morning improved about 5 per cent more than the group working it early](later-morning-group-improves-more-boys-school.md) — related
 - [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
+- [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — a broader claim this one bears on

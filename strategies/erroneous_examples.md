@@ -65,6 +65,7 @@ Diagnosing errors forces learners to articulate *why* a step is wrong, which eng
 - [Error-injection exercises: diagnosing subtly wrong simulations as graded practice](error-injection-diagnosis-exercises.md)
 - [After instruction, have students practice designing deliberately invalid experiments, explain and correct their own errors, and optionally exchange designs with peers for spot-explain-fix discussion](practice-designing-deliberately-invalid-experiments-strategy.md)
 - [Pair erroneous examples with prompts that require learners to identify, explain, correct, or reflect on errors, while monitoring complexity to avoid overload](prompt-identify-explain-correct-reflect-errors.md)
+- [Use a pupil-plays-teacher error-correction game format for language testing](pupil-plays-teacher-error-correction-format.md)
 
 ## Examples
 - **Incorrect examples in algebra instruction** (Renkl and colleagues' research program): students study a worked probability or algebra problem containing a typical error (e.g., adding fractions by adding numerators and denominators), explain what is wrong, then solve a near-transfer problem.

@@ -72,3 +72,4 @@ SEM models for the t4/t5 wave of the LOGIC sample, including academic precursors
 - [Spontaneous flexibility, but not reactive flexibility, significantly predicts children's reading comprehension and writing](spontaneous-flexibility-predicts-academic-skills.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally](precursors-reduce-iq-wmc-prediction.md) — related
+- [Intelligence and working memory predicted seventh-grade mathematics before prior achievement was controlled, but their direct effects were masked by sixth-grade competence](intelligence-working-memory-masked-by-prior-knowledge.md) — related

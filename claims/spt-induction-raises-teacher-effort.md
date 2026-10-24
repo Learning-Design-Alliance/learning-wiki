@@ -49,3 +49,4 @@ Preregistered field experiment regression on estimated factor scores with wild-b
 - [The induction did not increase teachers' perceived similarity with focal students](spt-induction-no-similarity-effect.md) — related
 - [Focal students of treatment teachers attained higher course competency scores (Cohen's d = 0.45)](spt-induction-raises-student-competencies.md) — related
 - [The induction improved treatment teachers' relationships with focal students: more positivity (Cohen's d = 0.41) and less negativity (Cohen's d = -0.52)](spt-induction-improves-teacher-tsr.md) — related
+- [The Social Perspective Taking professional development study was preregistered with its confirmatory analysis plan registered before data examination and unchanged thereafter](spt-pd-preregistered-unchanged-analysis-plan.md) — related

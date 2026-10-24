@@ -51,3 +51,4 @@ A diagnosis of a non-mastering student's error rule from one pass through a test
 ## Related Claims
 - [Students' algebra mal-rules are used very irregularly, are severely skewed in frequency, and differ in explanatory power from school to school](algebra-mal-rules-are-unstable-skewed-and-school-specific.md) — a parallel finding in algebra
 - [Student misconceptions can be read as knowledge elements that serve in some contexts and are refined and reorganised during learning, rather than as strongly held flawed ideas that instruction must confront and replace](misconceptions-are-knowledge-elements-refined-not-replaced.md) — the theory this finding fits
+- [Test A contains 28 errors and Tests B and C contain 29 each, yet scores for rights are practically the same](wilson-error-counts-rights-practically-same.md) — related

@@ -48,3 +48,4 @@ Moderation analysis adding Pre × Depth interaction terms to task-quality, post-
 - [Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains](exploratory-profile-interaction-ai-gains.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [In replication analyses, the variety conditions were particularly beneficial for students with low prior GPAs, while the same-type-only conditions had negligible effect sizes](uv-variety-benefits-low-prior-gpa.md) — related
+- [Prior mathematical competence by spatial ability (MRT) interaction was only a trend, with competence slopes strongest in the high-MRT group](prior-competence-by-mrt-interaction-trend.md) — related

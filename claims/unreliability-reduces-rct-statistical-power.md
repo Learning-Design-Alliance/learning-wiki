@@ -52,3 +52,4 @@ Analytical discussion in the reliability section of the paper, drawing on classi
 - [Defining facilitation as speech produced by facilitators imposes a low performance ceiling on predictive facilitative models](facilitator-speech-definition-performance-ceiling.md) — a narrower finding that bears on this claim
 - [Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures](comprehension-strategy-large-effect-unreliable.md) — a narrower finding that bears on this claim
 - [Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects](literacy-resilience-studies-low-statistical-power.md) — related
+- [Subjective symptoms are an unreliable measure of fatigue, and physiological tests have not yet yielded a reliable measurement method (Offner)](unreliable-subjective-physiological-fatigue-measures.md) — a narrower finding that bears on this claim
