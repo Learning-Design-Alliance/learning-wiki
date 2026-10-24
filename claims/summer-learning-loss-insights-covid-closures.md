@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: beth-tarasawa-2020
     resource: "https://www.nwea.org/research/publication/covid-19-closures-learning-loss/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` While it is difficult to speculate on what missing months of school may mean for achievement, seasonal learning and summer loss research can offer some insights into the impacts of the COVID-19 pause in classroom instruction. [→ Beth Tarasawa 2020](#beth-tarasawa-2020)

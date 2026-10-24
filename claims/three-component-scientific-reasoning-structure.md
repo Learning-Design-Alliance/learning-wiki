@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: van-de-sande-2019
     resource: "https://doi.org/10.1016/j.learninstruc.2019.02.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` An exploratory factor analysis of the Scientific Reasoning Inventory extracted three correlated factors rather than the expected four, with research-question and evidence-evaluation items merging into one Hypothesis validation factor. [→ Van de Sande 2019](#van-de-sande-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: murphy-2024
     resource: "https://doi.org/10.1007/s11409-024-09391-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` When participants made JOLs, there was negative reactivity for unrelated word pairs (d = 0.37) but no reactivity for related word pairs (d = −0.03). [→ Murphy 2024](#murphy-2024)

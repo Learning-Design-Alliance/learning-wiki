@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: matthew-johnson-2015
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the year after the U.S. Department of Education tightened credit standards for Parent Loans for Undergraduate Students, both the share of PLUS participants and the loan dollar amounts declined substantially at historically Black colleges and universities. [→ Matthew Johnson 2015](#matthew-johnson-2015)

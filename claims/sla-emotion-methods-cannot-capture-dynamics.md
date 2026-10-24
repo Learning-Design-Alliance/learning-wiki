@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: peng-wang-2024
     resource: "https://doi.org/10.1007/s10648-024-09946-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cross-sectional, laboratory and longitudinal designs in SLA emotion research share one limitation: they do not allow analysis of the dynamic nature of emotions, because of singular timepoints, low sampling rates, or static statistical analyses. [→ Peng Wang 2024](#peng-wang-2024)

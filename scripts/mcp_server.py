@@ -43,6 +43,7 @@ import argparse
 import contextlib
 import inspect
 import io
+import datetime
 import json
 import math
 import re
@@ -61,8 +62,31 @@ PROTOCOL_VERSIONS = ["2025-06-18", "2025-03-26", "2024-11-05"]
 UNVERIFIED_NOTE = (
     "This wiki is written and maintained by language models. trust_tier says whether a "
     "person has checked a page against its sources; 'unverified' means nobody has. Cite "
-    "the primary sources a page names, not the page."
+    "the primary sources a page names, not the page. A claim's currency says how stale it "
+    "is: newest_evidence is the year of the newest study it rests on, source_checked the "
+    "date an automated judge last found every entry faithful to its source (absent: not "
+    "checked), and recheck_by, only on fast-ageing claims (tool accuracy, context, "
+    "baselines), the year it is due a recheck. Research does not expire, so a claim past "
+    "recheck_by or resting on old studies is still evidence: use it, say how old it is and "
+    "whether it has been checked, do not present it as settled, and prefer a newer claim "
+    "on the same question when one exists."
 )
+
+
+def currency(p: dict) -> dict | None:
+    """The claim's currency fields from the index record, with `overdue` derived."""
+    out = {k: p[k] for k in ("newest_evidence", "source_checked", "recheck_by") if p.get(k)}
+    if not out:
+        return None
+    for k in ("newest_evidence", "recheck_by"):
+        if k in out:
+            try:
+                out[k] = int(out[k])
+            except (TypeError, ValueError):
+                pass
+    if isinstance(out.get("recheck_by"), int):
+        out["overdue"] = datetime.date.today().year > out["recheck_by"]
+    return out
 
 
 # ---------------------------------------------------------------------------
@@ -310,6 +334,8 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
             r["canonical"] = True
         elif p.get("canonical_page"):
             r["canonical_page"] = p["canonical_page"]
+        if currency(p):
+            r["currency"] = currency(p)
         by_title[key] = r
         results.append(r)
     return {"query": query, "total_matches": total, "results": results, "engine": "fts5"}
@@ -363,6 +389,8 @@ def tool_search(wiki: Wiki, query: str, kind: str | None = None, limit: int = 10
         results.append({"id": pid, "title": p.get("title") or p["id"], "url": wiki.url(pid),
                         "kind": p["type"], "status": p.get("status"),
                         "description": p.get("description") or "", "matched": fields})
+        if currency(p):
+            results[-1]["currency"] = currency(p)
     return {"query": query, "total_matches": len(scored), "results": results}
 
 
@@ -387,6 +415,7 @@ def tool_fetch(wiki: Wiki, id: str) -> dict:
             "path": p["path"],
             "status": p.get("status"),
             "trust_tier": trust_tier(fm),
+            "currency": currency(p),
             "aliases": p.get("aliases") or [],
             "generated": jsonable(fm.get("generated")),
             "resolved_from": id if matches[0]["via_alias"] else None,

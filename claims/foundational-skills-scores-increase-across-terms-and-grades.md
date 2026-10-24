@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: wei-he-2022
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-english-map-reading-fluency-foundational-skills/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the 2018-2019 norming sample, test scores in each domain generally increased across terms and grades, and as students advanced to a higher grade less cross-grade and within-grade growth was observed. [→ Wei He 2022](#wei-he-2022)

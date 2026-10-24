@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: wiboonwachara-2022
     resource: "https://doi.org/10.61508/refl.v29i3.262658"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thirty-one respondents (96.88%) stated GBSRI activities helped improve their writing ability, and collaborative activities were the most preferred activity (30.30% of open-ended responses). [→ Wiboonwachara 2022](#wiboonwachara-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: burns-2021
     resource: "https://learningpolicyinstitute.org/product/students-experiencing-homelessness"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Regression analysis of 2015–16 data finds high teacher turnover and large proportions of underprepared teachers associated with lower student achievement even after accounting for other student- and school-level factors, for all students and those experiencing homelessness. [→ Burns 2021](#burns-2021)

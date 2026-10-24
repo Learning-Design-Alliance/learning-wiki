@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: craig-wright-2026
     resource: "https://doi.org/10.1007/s40979-026-00234-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Perkins et al. (2024) report that although Turnitin's AI detection flagged 91 per cent of experimental GPT-4 submissions, the tool identified only 54.8 per cent of the AI-generated content within them, and faculty formally reported only 54.5 per cent of submissions through the misconduct process. [→ Craig Wright 2026](#craig-wright-2026)

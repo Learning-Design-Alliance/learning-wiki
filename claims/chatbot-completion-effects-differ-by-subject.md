@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: meyer-2026
     resource: "https://doi.org/10.3386/w35397"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Overall, treated students were not significantly less likely to DFW or drop; in Government treatment reduced DFW by three percentage points relative to 18% of control students, while in Microeconomics it reduced dropping by three percentage points relative to 8% of control students. [→ Meyer 2026](#meyer-2026)

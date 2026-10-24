@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: rosenberg-lee-2014
     resource: "https://doi.org/10.1111/desc.12216"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Children with DD showed prominent IPS hyper-connectivity with bilateral angular gyrus, posterior cingulate cortex and ventromedial prefrontal cortex — core DMN regions — and reduced deactivation during subtraction relative to addition in the precuneus. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: van-der-stel-2010
     resource: "https://doi.org/10.1007/s11858-009-0224-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A parallel development of metacognitive skillfulness and intellectual ability as predictors of math performance was found, corroborating the monotonic development hypothesis. [→ Van der Stel 2010](#van-der-stel-2010)

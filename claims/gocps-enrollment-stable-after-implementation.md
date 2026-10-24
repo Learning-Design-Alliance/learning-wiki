@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: barrow-2019
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` First-time ninth-grade enrollment between fall 2017 and fall 2018 was relatively stable overall, by school type, and by accountability rating, and 80 percent of students who accepted an offer enrolled at that school. [→ Barrow 2019](#barrow-2019)

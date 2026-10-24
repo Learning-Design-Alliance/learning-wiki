@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: open-court-reading-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/347"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The WWC identified 185 studies of Open Court Reading©, reviewed 29, and only one RCT and one quasi-experiment met group design standards, together including 1,113 beginning readers in grades 1–3 in six states. [→ Open Court Reading© 2014](#open-court-reading-2014)

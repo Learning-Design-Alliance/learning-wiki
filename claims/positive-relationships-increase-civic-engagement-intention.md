@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Service-learners who felt positively about relationships with professors, community partners, and peer mentors reported more intention to be civically engaged in the future, including plans to volunteer and participate in community action. [→ Harkins 2020](#harkins-2020)

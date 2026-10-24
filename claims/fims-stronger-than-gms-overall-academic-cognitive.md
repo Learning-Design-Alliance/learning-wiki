@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: karle-2026
     resource: "https://doi.org/10.1007/s10648-026-10161-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 59 studies measuring both motor skills in the same samples, FiMS showed a larger pooled correlation with overall academic-cognitive skills than GMS (r = .302 vs. r = .170, p < .001). [→ Karle 2026](#karle-2026)

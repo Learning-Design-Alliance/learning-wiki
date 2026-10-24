@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: singh-2023
     resource: "https://doi.org/10.3390/educsci13090924"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The strongest and most significant correlation among the scaled questionnaire answers was between academic use (Q3) and language-related use (Q5), r = 0.61, p = 6.7 × 10−44. [→ Singh 2023](#singh-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: ögren-2017
     resource: "https://doi.org/10.1007/s11251-016-9397-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Total dwell time on the graph showed no relationship to answering correctly. [→ Ögren 2017](#ogren-2017)

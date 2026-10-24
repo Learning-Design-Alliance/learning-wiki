@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: capellini-2017
     resource: "https://doi.org/10.4236/psych.2017.82015"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In group GV, VMI correlated with MC (r = 0.748, p = 0.013) and VP correlated with dysgraphia classification (r = 0.643, p = 0.045); the authors mark both as significant, although neither p-value meets the Bonferroni threshold (p < 0.0008) they state. [→ Capellini 2017](#capellini-2017)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: michael-lawrence-castanares-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27749"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Retraining raised XGBoost to 0.82 (out-performing BERT at 0.77) on Scaria and BERT to 0.50 on AF, at par with the best LLM (0.51). [→ Michael Lawrence Castanares 2026](#michael-lawrence-castanares-2026)

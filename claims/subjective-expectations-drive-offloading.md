@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yufei-guo-qun-ye-2026
     resource: "https://doi.org/10.1057/s41599-026-06621-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Dunn and Risko's (2016) experiments, participants' offloading choices aligned with subjective effort, time and accuracy judgments rather than objectively measured performance benefits. [→ Yufei Guo & Qun Ye 2026](#yufei-guo-qun-ye-2026)

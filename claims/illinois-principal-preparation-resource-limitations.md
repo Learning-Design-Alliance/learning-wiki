@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: klostermann-2015
     resource: "https://consortium.uchicago.edu/publications/restructuring-principal-preparation-illinois-perspectives-implementation-successes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Programs with decreased enrollment face fewer tuition dollars despite higher standards; districts are asked to invest staff time, dollars, mentors, and paperwork; and candidates face increased out-of-pocket expenses. [→ Klostermann 2015](#klostermann-2015)

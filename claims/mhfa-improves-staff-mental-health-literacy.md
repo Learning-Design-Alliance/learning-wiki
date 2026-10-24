@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: emily-berger-2022
     resource: "https://doi.org/10.1007/s10648-022-09690-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` MHFA training in UK secondary schools produced better mental health knowledge, less stigmatising attitudes and greater confidence in helping a colleague. [→ Emily Berger 2022](#emily-berger-2022)

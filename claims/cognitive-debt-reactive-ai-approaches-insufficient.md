@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: april-joy-miles-2026
     resource: "https://doi.org/10.55982/openpraxis.18.3.1191"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When generative AI substitutes for student thinking rather than supporting it, learners risk accumulating cognitive debt, in which the productive struggle essential to deep learning is outsourced to automated systems; this exposes the limits of reactive, compliance-focused approaches. [→ April Joy Miles 2026](#april-joy-miles-2026)

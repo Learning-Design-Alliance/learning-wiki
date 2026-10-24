@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: constance-steinkuehler-2008
     resource: "https://doi.org/10.1007/s10956-008-9120-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The relationship between length of discussion thread and number of players contributing to it is strongly linear, indicating solutions emerge from swarms of thinkers rather than a handful of verbose posters. [→ Constance Steinkuehler 2008](#constance-steinkuehler-2008)

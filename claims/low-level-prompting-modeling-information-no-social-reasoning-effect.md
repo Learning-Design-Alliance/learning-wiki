@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: nagpal-2025
     resource: "https://doi.org/10.1007/s11251-025-09718-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three of the seven coded instructional moves — low-level prompting, modeling, and information provision — showed no significant prediction of students' social reasoning at Lag-1, Lag-2, or Lag-3. [→ Nagpal 2025](#nagpal-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: shi-2025
     resource: "https://doi.org/10.17605/OSF.IO/P85S3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reporting fewer digital distractions reported less frequent peer-related help-seeking behaviors, such as sharing problems with classmates or seeking help from knowledgeable peers. [→ Shi 2025](#shi-2025)

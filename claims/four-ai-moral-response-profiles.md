@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: diane-vassallo-2026
     resource: "https://doi.org/10.1007/s10805-026-09726-3"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i3` Exploratory k-means clustering of guilt and usage variables yielded a four-cluster solution differing significantly on AI Guilt Index (F(3,105) = 22.13, p < .001, η² = 0.39), research use (η² = 0.57) and teaching use (η² = 0.56). [→ Diane Vassallo 2026](#diane-vassallo-2026)

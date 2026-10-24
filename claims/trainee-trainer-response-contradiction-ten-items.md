@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: ali-al-issa-ali-al-bulushi-2010
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The analysis revealed a contradiction between trainees' and trainers' responses on Items 4, 10, 11, 14, 17, 18, 19, 21, 23 and 25. [→ Ali Al-Issa & Ali Al-Bulushi 2010](#ali-al-issa-ali-al-bulushi-2010)

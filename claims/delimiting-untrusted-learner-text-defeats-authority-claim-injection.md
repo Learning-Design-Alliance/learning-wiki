@@ -7,6 +7,8 @@ generated:
   at: 2026-10-19
 id: delimiting-untrusted-learner-text-defeats-authority-claim-injection
 evidence_strength:
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: porcaro-2026
     resource: "https://doi.org/10.5281/zenodo.23480844"
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
 In this release's evidence records and interpretation (the finding is not in its article), an LLM grader that interpolated a learner's answer into its prompt without a boundary was made to inflate the grade by an appended sentence claiming the work had already been reviewed and confirmed correct by the instructor: 90% of attempts inflated, +4.6 points out of 10 on average. Wrapping the answer in a per-submission unguessable marker reduced that to 8% of attempts (mean −0.42, worst +1.0); an added instruction to treat the response as untrusted only halved the gain (+2.19, 68% still inflated). Measured on one model and one payload family, 50 answers per arm, in a single run; the deployed defence has not been re-measured.

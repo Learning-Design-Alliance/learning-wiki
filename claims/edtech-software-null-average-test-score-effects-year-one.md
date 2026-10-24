@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: dynarski-2007
     resource: "https://www.mathematica.org/publications/effectiveness-of-reading-and-mathematics-software-products-findings-from-the-first-student-cohort"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On average, after one year of use, the studied reading and mathematics software products had effects on test scores that were not statistically different from zero. [→ Dynarski 2007](#dynarski-2007)

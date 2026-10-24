@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: arthuk-s-otis-stanford-university-1917
     resource: "https://eric.ed.gov/?q=Otis+criticism+Yerkes-Bridges+point+scale"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Successive testing of the same individuals shows IQs remain fairly constant up to age 14, which, given the constancy-of-brightness hypothesis, indicates equal absolute yearly increments of intelligence up to about age 14. [→ ARTHUK S. OTIS (Stanford University) 1917](#arthuk-s-otis-stanford-university-1917)

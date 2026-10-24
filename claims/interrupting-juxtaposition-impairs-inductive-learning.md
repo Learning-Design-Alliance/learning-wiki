@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: monica-s-birnbaum-2013
     resource: "https://doi.org/10.3758/s13421-012-0272-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Accuracy was significantly lower in the alternating-trivia condition than in the contiguous and grouped-trivia conditions, supporting the discriminative-contrast hypothesis. [→ Monica S. Birnbaum 2013](#monica-s-birnbaum-2013)

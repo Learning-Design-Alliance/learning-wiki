@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: suya-liu-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100813"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Educational interventions on AI literacy yield a large and statistically significant average effect of g = 0.837 across 59 studies and 172 effect sizes. [→ Suya Liu 2026](#suya-liu-2026)

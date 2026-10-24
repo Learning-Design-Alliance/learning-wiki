@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Because braille must be read by touch and cannot be consulted while playing, memorization becomes the default pathway for learners with BLV. [→ score-1](#score-1)

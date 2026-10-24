@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: depaoli-2025
     resource: "https://doi.org/10.54300/808.437"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` BTA team recommendations were evenly split between social supports and surveillance, but White students were more likely to receive special education or transportation recommendations while students of color were more likely to receive probation/parole officer recommendations. [→ DePaoli 2025](#depaoli-2025)

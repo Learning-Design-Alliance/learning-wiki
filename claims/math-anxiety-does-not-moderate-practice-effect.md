@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: avvisati-2020
     resource: "https://doi.org/10.1007/s10648-020-09520-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students with above-average mathematics anxiety appeared to benefit similarly from test practice as students with lower anxiety; point estimates were similar and neither reached statistical significance alone. [→ Avvisati 2020](#avvisati-2020)

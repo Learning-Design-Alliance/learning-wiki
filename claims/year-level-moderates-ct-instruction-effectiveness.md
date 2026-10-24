@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: dawit-t-tiruneh-2014
     resource: "http://dx.doi.org/10.5539/hes.v4n1p1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among year-one studies, 70% reported significant CT improvement, versus 50% in year two and 60% at senior level. [→ Dawit T. Tiruneh 2014](#dawit-t-tiruneh-2014)

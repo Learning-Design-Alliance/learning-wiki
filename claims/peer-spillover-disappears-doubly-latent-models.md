@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-21
 sources:
   - id: televantou-2023
     resource: "https://doi.org/10.1007/s10648-023-09816-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a doubly latent multilevel model, the positive class-level compositional effect of average mathematics achievement on subsequent achievement was eliminated and became non-statistically significant for the USA and New Zealand. [→ Televantou 2023](#televantou-2023)

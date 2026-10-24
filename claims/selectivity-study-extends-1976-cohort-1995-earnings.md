@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: stacy-dale-2011
     resource: "https://www.mathematica.org/publications/estimating-the-return-to-college-selectivity-over-the-career-using-administrative-earning-data"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` This paper extends the work of a previous paper that examined the 1995 earnings of a cohort of students who entered college in 1976. [→ Stacy Dale 2011](#stacy-dale-2011)

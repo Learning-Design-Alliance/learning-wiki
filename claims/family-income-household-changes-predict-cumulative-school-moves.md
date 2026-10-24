@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: deborah-lowe-vandell-2021
     resource: "https://www.nwea.org/research/publication/predictors-and-consequences-of-school-mobility-in-middle-childhood/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Changes in family income and household structure predicted higher odds of two or more moves in elementary school, but family factors were not linked to a recent move or a single move. [→ Deborah Lowe Vandell 2021](#deborah-lowe-vandell-2021)

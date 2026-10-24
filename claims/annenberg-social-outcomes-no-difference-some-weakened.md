@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: smylie-2003
     resource: "https://eric.ed.gov/?id=ED"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student academic engagement was only slightly greater in 2001 than before the Challenge, while classroom behavior, students' sense of self-efficacy, and social competence were weaker in 2001, with no statistically significant differences between Annenberg and non-Annenberg schools. [→ Smylie 2003](#smylie-2003)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: david-gijbels-2009
     resource: "https://doi.org/10.1007/s11251-009-9100-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Because constructivism as a learning theory has implications for practice, the perspective adopted is crucial, so talking about constructivist learning environments is not a paradox. [→ David Gijbels 2009](#david-gijbels-2009)

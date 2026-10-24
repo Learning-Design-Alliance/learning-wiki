@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-08
 sources:
   - id: chiang-2015
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The average bonus awarded to teachers was about 4% of average salary, less than the 5% recommended by TIF grant guidance for substantial bonuses. [→ Chiang 2015](#chiang-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-08
 sources:
   - id: takako-nomi-and-elaine-m-allensworth-2008
     resource: "http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Geometry GPAs and failure rates diverged between students just below and above the median in 2003, but there were no differences in 10th-grade course outcomes in 2004. [→ Takako Nomi and Elaine M. Allensworth 2008](#takako-nomi-and-elaine-m-allensworth-2008)

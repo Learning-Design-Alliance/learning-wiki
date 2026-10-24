@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: stephen-lipscomb-2023
     resource: "https://www.mathematica.org/publications/pennsylvanias-2022-student-proficiency-rates-show-signs-of-partial-recovery"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Grades 5–8 math proficiency rates in 2022 recovered nearly 5 of the 13 points lost relative to 2021 predicted rates. [→ Stephen Lipscomb 2023](#stephen-lipscomb-2023)

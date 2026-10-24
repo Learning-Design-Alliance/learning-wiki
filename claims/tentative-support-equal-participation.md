@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: strauß-2021
     resource: "https://doi.org/10.1007/s11412-021-09340-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Descriptively, the share of groups with gini ≥ 0.5 dropped from 75% after topic #3 to 38.5% after topic #4, and more than half of the groups that failed the criterion belonged to the control condition. [→ Strauß 2021](#strau-2021)

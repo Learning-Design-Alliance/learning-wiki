@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: organisciak-2026
     resource: "https://doi.org/10.3758/s13428-026-03058-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Weighted probabilistic scoring considers a broader range of completion possibilities in deriving a final score and shows statistically significant positive results. [→ Organisciak 2026](#organisciak-2026)

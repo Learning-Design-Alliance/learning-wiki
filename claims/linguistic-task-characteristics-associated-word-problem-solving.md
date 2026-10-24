@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: t-vessonen-2024
     resource: "https://doi.org/10.1007/s10648-024-09954-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across K = 69 studies, the position of the unknown, schematic structure, irrelevant information, realistic considerations, and lexical consistency were related to elementary school-aged children's mathematical word problem-solving, with effects ranging from g = 0.39 to 4.26. [→ T. Vessonen 2024](#t-vessonen-2024)

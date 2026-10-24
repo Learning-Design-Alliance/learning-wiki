@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: wang-2012
     resource: "https://doi.org/10.1111/j.1467-8535.2011.01214.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A survey of 3000 participants at the Online College of Shanghai Jiaotong University found students prefer video-based mLearning materials and expect each video to be less than 5 minutes. [→ Wang 2012](#wang-2012)

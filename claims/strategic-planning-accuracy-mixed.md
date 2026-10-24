@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2008
 sources:
   - id: yingli-wang-2008
     resource: "https://doi.org/10.5539/elt.v1n1p83"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some studies found accuracy benefits of strategic planning while others found none, and effects varied by task type and focus of planning. [→ Yingli Wang 2008](#yingli-wang-2008)

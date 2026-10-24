@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-19
 sources:
   - id: kenneth-r-koedinger-2007
     resource: "https://doi.org/10.1007/s10648-007-9049-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Immediate feedback tutors let students learn from their errors by correcting them, but students are not given the opportunity to learn from the downstream consequences of their errors. [→ Kenneth R. Koedinger 2007](#kenneth-r-koedinger-2007)

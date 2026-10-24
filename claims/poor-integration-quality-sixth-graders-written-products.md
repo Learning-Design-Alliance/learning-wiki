@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: kullberg-2023
     resource: "https://doi.org/10.1007/s11251-022-09613-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The mean overall integration quality score was 2.50 out of 6, with 45.1% of written products showing only limited integration (scores of 1 or 2) and 9.3% rich in integration (scores of 5 or 6). [→ Kullberg 2023](#kullberg-2023)

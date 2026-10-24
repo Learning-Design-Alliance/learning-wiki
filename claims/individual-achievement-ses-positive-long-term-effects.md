@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09726-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For L1Ach, all total effects (0.24, 0.39, 0.36), direct effects (0.15, 0.24, 0.13), and mediated effects (0.09, 0.15, 0.22) were statistically significant and substantial; L1SES effects were significant but smaller. [→ Marsh 2023](#marsh-2023)

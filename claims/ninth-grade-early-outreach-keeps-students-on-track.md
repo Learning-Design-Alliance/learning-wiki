@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: prevention-science-in-school-settings-chapter-2015
     resource: "https://doi.org/10.1007/978-1-4939-3155-2_17"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Dropout risk signals emerge early in high school, and early ninth-grade outreach can keep students on track to graduate. [→ Prevention Science in School Settings chapter 2015](#prevention-science-in-school-settings-chapter-2015)

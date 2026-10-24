@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lukas-wesenberg-2026
     resource: "https://doi.org/10.1007/s11251-026-09781-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 2 (960-word carbon-cycle text, 0%–50% SD amounts), the greater the SD amount, the worse the recall of the learning material, with each 1% more SDs worsening recall by 0.33% of the maximum achievable score. [→ Lukas Wesenberg 2026](#lukas-wesenberg-2026)

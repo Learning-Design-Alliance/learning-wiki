@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: irving-promotions
     title: irving-promotions
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The Irving ISD district lead reports that 56% of educators who served as program coaches since 2017 have been promoted to new positions inside and outside the district. [→ irving-promotions](#irving-promotions)

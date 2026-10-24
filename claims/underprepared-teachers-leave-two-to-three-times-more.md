@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: the-federal-role-in-advancing-education-equity-and-excellence-2020
     resource: "https://eric.ed.gov/?id=ED610926"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers who enter without preparation are two to three times more likely to leave than those who are prepared, producing a revolving door of underprepared educators in schools serving students of color and low-income families. [→ The Federal Role in Advancing Education Equity and Excellence 2020](#the-federal-role-in-advancing-education-equity-and-excellence-2020)

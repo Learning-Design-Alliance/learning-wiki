@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: strong
+newest_evidence: 2021
 sources:
   - id: wwc-domain-college
     title: wwc-domain-college
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q4` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across two studies meeting WWC standards (11,163 students), DCMP shows strong evidence of a positive effect on progressing in college, with an outcome average effect size of 0.19 and improvement index of +8. [→ wwc-domain-college](#wwc-domain-college)

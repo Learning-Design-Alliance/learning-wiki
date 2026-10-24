@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: joarder-2026
     resource: "https://doi.org/10.18608/jla.2026.8921"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In interviews evaluating paper prototypes, three of five participants found the abundance of initial UI options overwhelming and most found checkbox selections unintuitive. [→ Joarder 2026](#joarder-2026)

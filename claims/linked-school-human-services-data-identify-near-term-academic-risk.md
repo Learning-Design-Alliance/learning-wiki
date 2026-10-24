@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: julie-bruch-2020
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` School districts and a county human services agency partnered with REL Mid-Atlantic to build an approach identifying students at risk of near-term academic problems using linked administrative data. [→ Julie Bruch 2020](#julie-bruch-2020)

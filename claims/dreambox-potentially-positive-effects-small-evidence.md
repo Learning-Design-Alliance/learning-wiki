@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: rating
     title: rating
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Based on one study meeting WWC standards without reservations showing a statistically significant positive effect, DreamBox Learning received a rating of potentially positive effects with a small extent of evidence. [→ rating](#rating)

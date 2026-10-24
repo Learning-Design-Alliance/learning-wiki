@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-07
 sources:
   - id: study-2008
     title: study-2008
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i3` large
+> **Currency** · newest study 2023 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i3` Clements & Sarama (2008), a cluster randomized controlled trial with 202 children in 28 preschool classrooms, found a statistically significant effect of Building Blocks on the REMA (effect size 1.07, improvement index +36, p < 0.01). [→ study-2008](#study-2008)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: jesse-chandler-2021
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mobile-device users had more difficulty using the report card site than other participants. [→ Jesse Chandler 2021](#jesse-chandler-2021)

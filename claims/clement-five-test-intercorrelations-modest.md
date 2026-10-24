@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: geyer-1921
     resource: "https://www.jstor.org/journal/jeduapsy"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Clement's study of five group intelligence tests given to 49 Northwestern University students, Pearson correlations ranged from 0.22 to 0.60; the Indiana Mental Survey correlated with none of the others by as much as 0.40. [→ Geyer 1921](#geyer-1921)

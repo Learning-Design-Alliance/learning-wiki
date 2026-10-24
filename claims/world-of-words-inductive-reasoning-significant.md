@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: inductive-test
     title: inductive-test
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the Neuman et al. (2011) cluster-randomized trial, children receiving World of Words scored significantly higher than comparison children on the researcher-developed vocabulary inductive reasoning test (effect size 0.66, improvement index +25, p < 0.01). [→ inductive-test](#inductive-test)

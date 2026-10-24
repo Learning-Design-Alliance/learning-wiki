@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: abhishek-jaiswal-2026
     resource: "https://doi.org/10.48550/arxiv.2609.20349"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Landing on a downward-sloping ramp cell triggers an automatic move-diagonal-down, and landing on an ascending ramp cell triggers an automatic move-diagonal-up. [→ Abhishek Jaiswal 2026](#abhishek-jaiswal-2026)

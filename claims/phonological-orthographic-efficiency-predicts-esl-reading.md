@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 1999
+source_checked: 2026-10-19
 sources:
   - id: nassaji-1999
     resource: "https://doi.org/10.1017/s0142716499002040"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · n=60
+> **Currency** · newest study 1999 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 60 adult ESL graduate students who were native speakers of Farsi, efficiency in phonological and orthographic processing contributed significantly to individual differences in reading comprehension, silent reading rate and word recognition; the design is correlational. [→ Nassaji 1999](#nassaji-1999)

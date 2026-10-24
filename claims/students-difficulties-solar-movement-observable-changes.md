@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: gangui-2009
     resource: "https://cms.iafe.uba.ar/gangui"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: elias-walsh-2014
     resource: "https://www.mathematica.org/publications/in-focus-brief-the-impact-of-replacing-principals-on-student-achievement-in-dc-public-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Math achievement gains under new principals followed a similar trend to reading gains, although the gains were smaller. [→ Elias Walsh 2014](#elias-walsh-2014)

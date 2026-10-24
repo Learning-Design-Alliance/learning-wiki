@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: de-bruin-2025
     resource: "https://doi.org/10.1007/s10648-025-10042-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Negative performance feedback prompted higher expectations of future mental effort than positive or no feedback, with effects explained by self-efficacy and feelings of threat. [→ de Bruin 2025](#de-bruin-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jiang-hongzhan-2026
     resource: "https://doi.org/10.2196/95167"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 8 studies, learners expressed generally high acceptance: SUS scores ranged from 61.6 to 78.56 and 72%-93% were willing to recommend AI simulations. [→ Jiang Hongzhan 2026](#jiang-hongzhan-2026)

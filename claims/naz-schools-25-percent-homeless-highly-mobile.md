@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: lara-hulsey-2015
     resource: "https://www.mathematica.org/publications/promise-neighborhood-site-profile-northside-achievement-zone"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` During the 2008-2009 school year, public schools in the Zone identified 25 percent of students as homeless or highly mobile. [→ Lara Hulsey 2015](#lara-hulsey-2015)

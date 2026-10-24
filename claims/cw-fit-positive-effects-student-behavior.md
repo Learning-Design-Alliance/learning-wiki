@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: student-behavior-summary
     title: student-behavior-summary
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across eight studies meeting WWC standards, CW-FIT produced a statistically significant positive average effect on student behavior (summary effect size 1.38, improvement index +42, p<0.01). [→ student-behavior-summary](#student-behavior-summary)

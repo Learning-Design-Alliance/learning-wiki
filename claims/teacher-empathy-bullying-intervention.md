@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: karen-aldrup-bastian-carstensen-uta-klusmann-2022
     resource: "https://doi.org/10.1007/s10648-021-09649-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Nine of twelve studies found that teachers feeling empathic concern for a hypothetical bullying victim reported a greater likelihood of intervening in the bullying situation. [→ Karen Aldrup · Bastian Carstensen · Uta Klusmann 2022](#karen-aldrup-bastian-carstensen-uta-klusmann-2022)

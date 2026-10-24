@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: shayla-sharmin-2025
     resource: "https://doi.org/10.48550/arxiv.2607.08698"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` G1 and G2 each differed significantly from G3 on the SVD1 axis (p < .001) with large effect sizes (r = -0.92 and r = -0.95 respectively); on SVD2, G2 differed marginally from G3 (p = .05) while G1 did not (p = .07). [→ Shayla Sharmin 2025](#shayla-sharmin-2025)

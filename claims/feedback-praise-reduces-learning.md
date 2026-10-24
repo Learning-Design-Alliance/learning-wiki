@@ -8,6 +8,7 @@ generated:
 id: feedback-praise-reduces-learning
 aliases: [intelligence-praise-versus-effort-praise-effects]
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: mueller-dweck-1998
     resource: "https://doi.org/10.1037/0022-3514.75.1.33"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 review `r2`, 1 causal `r?` · `q3`
+> **Currency** · newest study 2007 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Feedback Praise Reduces Learning -->
 
 All three recorded entries concern person- or ability-oriented praise ("You must be smart at these problems") given to children after success, and its effects once the children later fail: one set of experiments with fifth graders (Mueller & Dweck 1998), one narrative review (Henderlong & Lepper 2002), and a practice guide that cites the Mueller and Dweck experiments (Halpern 2007). Neither tests praise in general, praise as a component of feedback on academic work, or learning outcomes beyond performance on the problem set after failure; the review finds sincere process or effort praise can enhance motivation, and that the harm of person praise is moderated by age and gender.

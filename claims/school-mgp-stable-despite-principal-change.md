@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: christine-ross-2015
     resource: "https://ies.ed.gov/ncee/edlabs/regions/midatlantic"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` School median student growth percentiles exhibit year-to-year stability even when the school changes principals, which may reflect persistent school characteristics rather than the individual principal. [→ Christine Ross 2015](#christine-ross-2015)

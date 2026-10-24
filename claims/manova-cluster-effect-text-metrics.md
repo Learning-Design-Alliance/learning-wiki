@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026
     resource: "https://doi.org/10.1007/s11412-026-09470-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` A MANOVA over BLEU, ROUGE-1/2/L, METEOR, and BERTScore revealed that clusters differed reliably in surface-level textual similarity. [→ Teresa Luther · Kate Belcher · Joachim Kimmerle · Detmar Meurers · Ulrike Cress 2026](#teresa-luther-kate-belcher-joachim-kimmerle-detmar-meurers-ulrike-cress-2026)

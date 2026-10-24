@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: opportunities-1
     title: opportunities-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The top five perceived opportunities of LERs were having everything in one place, matchmaking people to jobs, convenience of access, auto-translation of skills and experiences, and career search based on LER data. [→ opportunities-1](#opportunities-1)

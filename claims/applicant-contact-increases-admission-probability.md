@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: james-a-dearden-2017
     resource: "https://doi.org/10.1111/coep.12216"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` An applicant who contacts the university is more likely to be admitted than an applicant who does not. [→ James A. Dearden 2017](#james-a-dearden-2017)

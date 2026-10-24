@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: arthur-bakker-2018
     resource: "https://doi.org/10.1007/s11251-018-9450-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The commentary argues that Kapur's transfer item on the standard deviation is not answerable by students who have just learned about SD and depicts a distribution the author found hard to imagine, so the transfer findings must be bracketed as working hypotheses. [→ Arthur Bakker 2018](#arthur-bakker-2018)

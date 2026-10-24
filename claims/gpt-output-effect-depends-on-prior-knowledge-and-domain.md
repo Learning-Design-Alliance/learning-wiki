@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: markos-stamatakis-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15919"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the IVDA scenario, 63.64% of Group 3 (test first without, then with GPT output) improved between attempts, while 80% of Group 1 and 60% of Group 2 showed unchanged performance (Table 5; the text says about 80% for both). [→ Markos Stamatakis 2026](#markos-stamatakis-2026)

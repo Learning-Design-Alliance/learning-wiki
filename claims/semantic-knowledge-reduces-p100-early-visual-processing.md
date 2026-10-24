@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: collins-2014
     resource: "https://doi.org/10.3758/s13423-013-0564-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Objects trained with in-depth functional stories show facilitated recognition when blurred and an attenuated P100 component; faces trained with in-depth semantic knowledge likewise elicit reduced P100. [→ Collins 2014](#collins-2014)

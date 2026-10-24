@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1920
 sources:
   - id: pintner-1920
     resource: "https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 56 different schools tested, the middle 50 per cent showed Differences from plus 3 to minus 3, so school difference values greater than minus 3 indicate attainment too far below capacity. [→ Pintner 1920](#pintner-1920)

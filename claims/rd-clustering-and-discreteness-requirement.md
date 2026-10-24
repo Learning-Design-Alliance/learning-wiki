@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: schochet-2010
     resource: "http://ies.ed.gov/ncee/wwc/pdf/wwc_rd.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Author-reported findings are included in effectiveness ratings only when study authors account for clustering of students at unique values of the forcing variable; otherwise the WWC will not rely on the statistical significance of the findings. [→ Schochet 2010](#schochet-2010)

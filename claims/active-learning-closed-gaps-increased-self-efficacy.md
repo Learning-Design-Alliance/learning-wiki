@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: renninger-2026
     resource: "https://doi.org/10.1007/s10648-025-10102-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a reviewed study of undergraduates in an entry-level biology course, active learning closed academic performance gaps between groups and all students reported self-efficacy increases. [→ Renninger 2026](#renninger-2026)

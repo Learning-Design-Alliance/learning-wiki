@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: michaela-arztmann-2023
     resource: "https://doi.org/10.1080/03057267.2022.2057732"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Secondary school students gain less cognitively from game-based learning than primary school students (g = −0.67, p < .001), with school level accounting for 34% of heterogeneity. [→ Michaela Arztmann 2023](#michaela-arztmann-2023)

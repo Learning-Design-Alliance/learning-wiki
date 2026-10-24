@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shi-guochun-2026
     resource: "https://doi.org/10.1186/s40359-026-05038-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Digital use intensity significantly moderated the EF-to-reappraisal association (β = −0.14, p = .005); simple slopes were β = 0.56 at low use, β = 0.42 at average, and β = 0.28 at high use. [→ Shi Guochun 2026](#shi-guochun-2026)

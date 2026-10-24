@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: marciano-laura-2021
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Longitudinal VBM analyses showed frequency of Internet use negatively predicted change (smaller volume increase) in regional gray and white matter volumes of a widespread anatomical cluster. [→ Marciano Laura 2021](#marciano-laura-2021)

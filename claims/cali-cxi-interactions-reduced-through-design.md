@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-24
 sources:
   - id: dombek-2017
     resource: "https://doi.org/10.1037/edu0000128"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the fourth design iteration, CALI showed strong pre-post unit test effects (d = .86) with no significant CXI interactions. [→ Dombek 2017](#dombek-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: perl-nussbaum-2026
     resource: "https://doi.org/10.48550/arxiv.2609.23887"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q1 i?` A faculty learning community comprising six biweekly sessions of 60-75 minutes engaged about ten faculty per session and nineteen across the series in collective inquiry on AI use. [→ Perl-Nussbaum 2026](#perl-nussbaum-2026)

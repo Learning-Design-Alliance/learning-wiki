@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: sebring-2021
     resource: "https://www.5-essentials.org/cps/5e/2018/s/610268/essentials/families/#trends?c=district&o=-change"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When teachers organized instruction to promote authentic intellectual work, students returned assignments demonstrating more complex thinking, and such assignments were associated with greater gains on standardized tests. [→ Sebring 2021](#sebring-2021)

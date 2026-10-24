@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: fu-l-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1900061"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Trust dimensions showed moderate-to-high means that increased slightly across waves, and intrinsic motivation increased moderately while extrinsic motivation remained relatively stable. [→ Fu L 2026](#fu-l-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: iordanou-2022
     resource: "https://doi.org/10.1007/s11409-021-09289-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The group-by-time interaction for the number of idea units was not statistically significant; both conditions increased from initial to final assessment. [→ Iordanou 2022](#iordanou-2022)

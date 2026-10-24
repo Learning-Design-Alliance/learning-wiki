@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-09
 sources:
   - id: patrick-rich-2025
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/pilot-study-write-succeed-intervention-enhancing-writing-instruction-new-mexico"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average confidence in teaching literacy rose from 3.04 to 3.33 and confidence in teaching English learner students from 3.22 to 3.33 over the year (N = 20). [→ Patrick Rich 2025](#patrick-rich-2025)

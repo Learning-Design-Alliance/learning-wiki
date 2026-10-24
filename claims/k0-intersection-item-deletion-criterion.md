@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: chakrabartty-2021
     resource: "https://dx.doi.org/10.52380/ijpes.2021.8.3.190"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` As k increases, the item difficulty curve increases and the percentage item discriminating curve decreases; their intersection point k0 defines an acceptance region (k0 ± 2SD) for deciding which items to delete. [→ Chakrabartty 2021](#chakrabartty-2021)

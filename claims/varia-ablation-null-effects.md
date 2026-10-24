@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ernesto-lee-2026
     resource: "https://doi.org/10.35542/osf.io/u6xef_v2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Removing the construct map from chain-of-thought raises the joint score from 0.876 to 0.877 while construct equivalence drops from 0.960 to 0.950, a shift that does not approach significance (p = 0.34); the few-shot wording contrast moves equivalence by two points with an essentially unchanged joint score. [→ Ernesto Lee 2026](#ernesto-lee-2026)

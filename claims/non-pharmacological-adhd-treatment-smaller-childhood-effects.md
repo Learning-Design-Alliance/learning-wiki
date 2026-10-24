@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: franke-2018
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Non-pharmacological treatments in childhood have demonstrated lesser efficacy in reducing ADHD core symptoms than ADHD drugs, but may benefit co-occurring comorbidities and behavioural problems. [→ Franke 2018](#franke-2018)

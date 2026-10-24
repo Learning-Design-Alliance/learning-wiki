@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: bas-kolloffel-2009
     resource: "https://doi.org/10.1007/s11251-008-9056-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Diagram condition performed fewer manipulations than the Arithmetic and Text + Arithmetic conditions, with no difference in time-on-task. [→ Bas Kolloffel 2009](#bas-kolloffel-2009)

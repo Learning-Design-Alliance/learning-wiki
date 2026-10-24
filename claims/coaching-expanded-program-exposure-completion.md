@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-18
 sources:
   - id: cecilia-speroni-2015
     resource: "https://www.mathematica.org/publications/bridging-the-gap-in-workforce-and-education-services-career-coaching-in-the-virginia-rethinks-health"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Coaches appeared to expand exposure to and completion of community college programs, consistent with the goals of the strategy. [→ Cecilia Speroni 2015](#cecilia-speroni-2015)

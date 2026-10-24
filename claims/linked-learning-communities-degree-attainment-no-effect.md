@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: what-works-clearinghouse-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/630"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Six years after random assignment at Kingsborough, a higher percentage of intervention students had earned a degree (36% versus 31%), but the difference was only marginally significant (p < .10) and not substantively important. [→ What Works Clearinghouse 2014](#what-works-clearinghouse-2014)

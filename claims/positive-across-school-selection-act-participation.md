@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: melissa-clark-2007
     resource: "https://www.mathematica.org/publications/selection-bias-in-college-admissions-test-scores"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At higher-achieving schools, ACT participation rates are higher, indicating positive selection into test taking across schools. [→ Melissa Clark 2007](#melissa-clark-2007)

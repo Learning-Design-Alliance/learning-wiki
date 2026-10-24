@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kurtz-2025
     resource: "https://doi.org/10.1007/s11412-025-09454-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the reviewed corpus, synchronous communication tools are the most frequent form of communication support in educational VRLs, and only 5 publications provide no communication tools at all. [→ Kurtz 2025](#kurtz-2025)

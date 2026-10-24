@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: azevedo-2014
     resource: "https://doi.org/10.1007/s11409-014-9123-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Twelve elementary school students using gStudy across two science study lessons could provide in-depth task solutions and adapt to task complexity on well- and ill-structured tasks. [→ Azevedo 2014](#azevedo-2014)

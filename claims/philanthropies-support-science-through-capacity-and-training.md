@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: clemencia-cosentino-2017
     resource: "https://www.mathematica.org/publications/evaluating-basic-science-investments-toward-a-more-robust-practice"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Philanthropies support basic science through three mechanisms the brief names: supporting scientists, building organizations' research capacity, and helping train new generations of scientists. [→ Clemencia Cosentino 2017](#clemencia-cosentino-2017)

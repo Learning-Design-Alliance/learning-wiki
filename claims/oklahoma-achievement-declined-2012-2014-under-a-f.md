@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: adams-2017
     resource: "https://learningpolicyinstitute.org/product/next-generation-accountability"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Math and reading scores declined for students in each letter grade category from 2012–2014, with Non-FRL and FRL students in F schools showing the largest average drops. [→ Adams 2017](#adams-2017)

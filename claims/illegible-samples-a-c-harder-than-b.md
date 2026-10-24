@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1914
 sources:
   - id: downey-1914
     resource: "https://www.google.com/search?q=%22Form+and+position+in+handwriting+interpretation%22+Downey+Anderson"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reading times indicate samples A and C are much more difficult to read than sample B, and mutilated A was relatively more difficult to interpret than mutilated C. [→ Downey 1914](#downey-1914)

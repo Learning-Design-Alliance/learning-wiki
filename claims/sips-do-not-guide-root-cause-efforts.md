@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: andrew-hegedus-2010
     resource: "https://www.nwea.org/research/publication/finding-root-causes-effectively-a-powerful-way-to-improve-schools/"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

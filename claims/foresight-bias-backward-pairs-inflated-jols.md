@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: koriat-2006
     resource: "https://doi.org/10.3758/bf03193244"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For backward pairs, predicted recall (74%) was markedly inflated relative to actual recall (58%) on the first study–test cycle, while forward-pair JOLs matched recall. [→ Koriat 2006](#koriat-2006)

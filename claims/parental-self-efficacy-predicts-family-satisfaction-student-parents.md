@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: tricia-m-van-rhijn-donna-s-lero-2014
     resource: "http://dx.doi.org/10.1080/02601370.2014.884178"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Parental self-efficacy has a significant positive direct effect on family satisfaction (b = .50, t = 4.75). [→ Tricia M. van Rhijn & Donna S. Lero 2014](#tricia-m-van-rhijn-donna-s-lero-2014)

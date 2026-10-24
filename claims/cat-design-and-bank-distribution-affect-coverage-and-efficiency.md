@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-09
 sources:
   - id: shudong-wang-2016
     resource: "https://www.nwea.org/research/publication/effects-of-computerized-adaptive-test-designs-on-content-coverage-and-efficiency-of-reading-comprehension-test-with-passages-aligned-to-common-core-state-standards/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The paper investigates the effects of CAT test design and bank distribution on the content coverage and the efficiency of the tests. [→ Shudong Wang 2016](#shudong-wang-2016)

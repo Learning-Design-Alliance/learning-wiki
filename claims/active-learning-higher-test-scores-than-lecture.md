@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: deslauriers-l-2019
     resource: "https://doi.org/10.1073/pnas.1821936116"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized crossover experiment, students in active classrooms scored almost half an SD (0.46) higher on multiple-choice tests of learning than students in passive lectures (P < 0.001). [→ Deslauriers L. 2019](#deslauriers-l-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: thompson-2023
     resource: "https://doi.org/10.54300/878.726"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` As of 2018, 42 states required students to take a civics or government course, 8 of those required a full year of civics, and 19 required a civics exam to graduate, often resembling the U.S. citizenship test. [→ Thompson 2023](#thompson-2023)

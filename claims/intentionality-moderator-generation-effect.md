@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: julia-schindler-tobias-richter-2023
     resource: "https://doi.org/10.1007/s10648-023-09758-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Generation effects were smallest in intentional-learning studies (g = 0.29), larger in incidental-learning studies (g = 0.46), and largest in studies not specifying intentionality (g = 0.73), but the direct intentional vs. incidental comparison was not significant. [→ Julia Schindler · Tobias Richter 2023](#julia-schindler-tobias-richter-2023)

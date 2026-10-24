@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: vembye-2022
     resource: "https://osf.io/ur2bs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Across 76 treatment-control studies, collaborative models of instruction produced a mean effect of g = 0.11 (95% CI [0.035, 0.184]) on academic achievement relative to single-taught controls. [→ Vembye 2022](#vembye-2022)

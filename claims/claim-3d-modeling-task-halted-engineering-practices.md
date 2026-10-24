@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: sini-davies-2024
     resource: "https://doi.org/10.1007/s11412-024-09427-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` During the fifth session, when teams were instructed to create a digital 3D model in Tinkercad, nearly all knowledge-creation activities based on engineering practices halted, particularly disrupting the SleepSound and Sunny teams. [→ Sini Davies 2024](#sini-davies-2024)

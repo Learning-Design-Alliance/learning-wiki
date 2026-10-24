@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: sutcher-2016
     resource: "https://doi.org/10.54300/247.242"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Based on research on recruitment and retention, the report recommends competitive compensation, training subsidies and high-retention pathways, improved mentoring/induction and working conditions, and removing interstate barriers. [→ Sutcher 2016](#sutcher-2016)

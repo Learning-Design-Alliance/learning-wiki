@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: kailai-he-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21154"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1`–`i3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Per-answer mastery_evidence correlates with true mastery at Pearson r = 0.68 pooled across tiers in the 6-persona live-graded run. [→ Kailai He 2026](#kailai-he-2026)

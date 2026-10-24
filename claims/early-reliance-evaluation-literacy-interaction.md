@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: manikonda-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18676"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The early reliance × evaluation literacy interaction was significant for negative impact (β=.307, p<.001); early reliance was not associated with negative impact at lower evaluation literacy (b=.025, p=.861) but was at average (b=.357, p=.004) and higher (+1SD; b=.688, p<.001) evaluation literacy. [→ Manikonda 2026](#manikonda-2026)

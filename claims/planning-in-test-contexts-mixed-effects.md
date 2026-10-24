@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2008
 sources:
   - id: yingli-wang-2008
     resource: "https://doi.org/10.5539/elt.v1n1p83"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Wigglesworth (1997) found planned/unplanned performance differences especially for high-proficiency learners and high cognitive load tasks. [→ Yingli Wang 2008](#yingli-wang-2008)

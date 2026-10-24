@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-16
 sources:
   - id: lazonder-2016
     resource: "https://doi.org/10.3102/0034654315627366"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2016 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 

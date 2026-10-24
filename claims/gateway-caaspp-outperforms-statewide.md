@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: cook-harvey-2020
     resource: "http://learningpolicyinstitute.org/product/social-and-emotional-learning-case-study-gateway"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Gateway 8th-graders exceeded statewide rates in both ELA and mathematics in 2017–18 and 2018–19, and Gateway 11th-graders outperformed 11th-graders statewide in mathematics in both years and in English language arts in 2018–19. [→ Cook-Harvey 2020](#cook-harvey-2020)

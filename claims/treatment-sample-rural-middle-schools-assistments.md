@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: feng-2025
     resource: "https://eric.ed.gov/?id=ED677852"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The treatment group included 59 teachers and their 2,855 students in grades 6-8, drawn from 36 public schools across 24 states, with 55% eligible for free or reduced-price lunch and 50% in rural areas. [→ Feng 2025](#feng-2025)

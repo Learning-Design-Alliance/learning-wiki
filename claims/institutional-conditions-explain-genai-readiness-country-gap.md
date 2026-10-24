@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: bi-t-2026
     title: Bi T 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In hierarchical regression on 568 faculty, the Kazakhstan coefficient decreased from B = 0.205 to B = 0.041 and was no longer statistically significant after prior GenAI use, recent AI-related training, multilingual resource access, institutional support, perceived permission, policy clarity, risk sensitivity, and disciplinary background were included. [→ Bi T 2026](#bi-t-2026)

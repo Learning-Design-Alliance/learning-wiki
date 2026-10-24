@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: david-brackett-2021
     resource: "https://www.nwea.org/research/publication/the-road-to-covid-recovery-how-districts-are-seizing-the-once-in-a-generation-opportunity-to-learn-from-esser-interventions/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` With more than 40 state plans approved, districts are collecting, monitoring, reporting and learning from the unprecedented interventions. [→ David Brackett 2021](#david-brackett-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: felix-krieglstein-2022
     resource: "https://doi.org/10.1007/s10648-022-09683-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Moderator analyses found no differences in reliability estimates between educational settings, domains of the instructional materials, presentation modes, or number of scale points. [→ Felix Krieglstein 2022](#felix-krieglstein-2022)

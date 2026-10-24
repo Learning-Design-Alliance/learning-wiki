@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hao-liang-2026
     resource: "https://doi.org/10.48550/arxiv.2605.09635"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although K12-Train is synthesized only from mathematics, physics, chemistry, and biology subgraphs, SFT on it attains the highest Chinese score (120.18, +3.33 over DataFlow) and the best Humanities Math score (132.00, +4.08 over DataFlow). [→ Hao Liang 2026](#hao-liang-2026)

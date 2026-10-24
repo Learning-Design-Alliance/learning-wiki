@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: aiso-heinze-2018
     resource: "https://doi.org/10.1007/s11251-018-9457-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A repeated measures ANOVA comparing the intervention group with classmates from T1 to T3 yielded a significant time*group interaction with a moderate effect size favoring the intervention group. [→ Aiso Heinze 2018](#aiso-heinze-2018)

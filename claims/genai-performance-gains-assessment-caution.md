@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lei-fan-and-fangxue-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2606.24104"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 79.45% of surveyed students reported improved or significantly improved academic performance, but the authors argue gains may reflect surface-level outputs that current HSS assessment cannot distinguish from genuine learning. [→ Lei Fan and Fangxue Liu 2026](#lei-fan-and-fangxue-liu-2026)

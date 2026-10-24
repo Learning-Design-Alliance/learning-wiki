@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: whitney-kozakowski-2023
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pre-pandemic school climate scores showed no meaningful change across years before COVID-19. [→ Whitney Kozakowski 2023](#whitney-kozakowski-2023)

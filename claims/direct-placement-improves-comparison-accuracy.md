@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: benjamin-d-jee-2022
     resource: "https://doi.org/10.1007/s11251-022-09599-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The review reports, citing Matlen et al. (2020, Experiment 4), that same/different judgment accuracy improved substantially with direct placement for shape triplet pairs (d = .49). [→ Benjamin D. Jee 2022](#benjamin-d-jee-2022)

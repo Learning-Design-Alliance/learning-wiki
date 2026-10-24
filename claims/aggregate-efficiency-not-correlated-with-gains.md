@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2012
 sources:
   - id: richard-halverson-2012
     resource: "http://www.eriainteractive.com/index.php"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Aggregate efficiency ratio, total tries, and total successes were not significantly correlated with pre-post learning gains, but boss-level efficiency ratio was positively correlated (r = .3219). [→ Richard Halverson 2012](#richard-halverson-2012)

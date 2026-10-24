@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: roderick-2011
     resource: "https://doi.org/10.1177/0038040711411280"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Approximately 10 percent of CPS graduates who reported being accepted into a four-year college were not enrolled in a four-year college the following fall. [→ Roderick 2011](#roderick-2011)

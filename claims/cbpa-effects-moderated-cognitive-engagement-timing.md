@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: ruhland-stefanie-2021
     resource: "https://doi.org/10.1016/j.smhs.2021.08.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two studies found improvement in attention/on-task measures moderated by other variables, such as cognitive engagement or timing of the CB-PA. [→ Ruhland Stefanie 2021](#ruhland-stefanie-2021)

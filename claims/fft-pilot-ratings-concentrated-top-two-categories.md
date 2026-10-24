@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-08
+recheck_by: 2018
 sources:
   - id: stephen-lipscomb-2015
     resource: "https://www.mathematica.org/publications/measuring-teachers-effectiveness-a-report-from-phase-3-of-pennsylvanias-pilot-of-the-framework"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In 2012-2013 pilot data, less than 13 percent of teachers received the top PPR rating (distinguished), almost 85 percent were rated proficient, around 2.6 percent received needs improvement, and less than 0.1 percent were rated failing. [→ Stephen Lipscomb 2015](#stephen-lipscomb-2015)

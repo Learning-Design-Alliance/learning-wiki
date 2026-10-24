@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: hornstein-2025
     resource: "https://doi.org/10.1007/s10648-025-10017-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q4` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Support presented during the feedback provision phase has a significantly positive, medium-sized effect compared to peer-feedback without instructional support (g = 0.51). [→ Hornstein 2025](#hornstein-2025)

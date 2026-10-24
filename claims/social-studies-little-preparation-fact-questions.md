@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 1978
 sources:
   - id: dolores-durkin-1978
     resource: "https://doi.org/10.1598/rrq.14.4.2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1978 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During social studies, only 1.73 percent of time (48 minutes) went to preparing children to read a chapter, and assessment questions focused mostly on facts, many trivial. [→ Dolores Durkin 1978](#dolores-durkin-1978)

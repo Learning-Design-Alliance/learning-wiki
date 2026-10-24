@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: he-2022
     resource: "https://www.nwea.org/research/publication/map-growth-item-parameter-drift-study/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The average ability estimate difference across subjects and terms was at most 0.03 logit (0.3 RIT), while the largest individual test-level differences were 0.22–0.33 logit, and new and original ability estimates correlated above 0.99. [→ He 2022](#he-2022)

@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 1998
 sources:
   - id: sadler-1998
     resource: "https://doi.org/10.1002/(SICI)1098-2736(199803)35:3<265::AID-TEA3>3.0.CO;2-P"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · n=1,250 students, grades 8–12
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 On items whose distractors match common student ideas, the share of students choosing an alternative conception is not a simple decreasing function of understanding.
 

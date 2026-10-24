@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: perry-2019
     resource: "https://eric.ed.gov/?id=ED601900"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among MiC elementary schools at the lowest 2015 achievement level (level 1), the percentage performing beyond prediction rose from 36 percent in 2016 to 47 percent in 2018. [→ Perry 2019](#perry-2019)

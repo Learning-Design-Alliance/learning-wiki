@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: jahneille-cunningham-2024
     resource: "https://education.uw.edu/sites/default/files/programs/epsc/Users%20Guide%20Road%20Map%20Survey.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The brief reports that research suggests CRSE practices in mathematics can enhance learning and academic success. [→ Jahneille Cunningham 2024](#jahneille-cunningham-2024)

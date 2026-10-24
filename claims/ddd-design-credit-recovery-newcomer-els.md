@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: angela-johnson-2019
     resource: "https://www.nwea.org/research/publication/summer-credit-recovery-impact-on-newcomer-english-learners/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The evaluation used a difference-in-differences-in-differences identification strategy with student-level data from a large urban district in California, estimating impacts on course taking, English proficiency, and graduation. [→ Angela Johnson 2019](#angela-johnson-2019)

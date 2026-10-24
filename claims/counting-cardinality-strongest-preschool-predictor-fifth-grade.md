@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: nguyen-2016
     resource: "https://doi.org/10.1016/j.ecresq.2016.02.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In fully controlled OLS regression with preschool teacher fixed effects, counting and cardinality competencies in spring of preschool predicted fifth grade mathematics achievement more strongly than geometry, patterning, or measurement and data (β = 0.42). [→ Nguyen 2016](#nguyen-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: strong
+newest_evidence: 2025
+source_checked: 2026-10-19
 sources:
   - id: benjamin-lira-2025
     resource: "https://doi.org/10.48550/arxiv.2502.02880"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i1`–`i2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Participants who practiced with the AI tool wrote better cover letters on a no-AI test than those who practiced without AI (d=.38) or did not practice (d=.47). [→ Benjamin Lira 2025](#benjamin-lira-2025)

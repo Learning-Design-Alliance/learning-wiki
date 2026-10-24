@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-16
 sources:
   - id: li-2023
     resource: "https://doi.org/10.14742/ajet.8923"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students in the experimental group learning with ChatGPT-FLGA showed significantly improved performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking compared with the control group. [→ Li 2023](#li-2023)

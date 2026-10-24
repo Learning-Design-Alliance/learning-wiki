@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Draft-to-final 3-gram retention was ≥93% in every condition and 5-gram retention dipped to ~88% only in ai draft, indicating AI support shifted how verbatim carryover was rather than whether content flowed through. [→ ngram-retention](#ngram-retention)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1914
 sources:
   - id: zimmerman-1914
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Because most cases were referred for school failure or truancy, many cases fell below their chronological age on both tests and few measured up to normal. [→ Zimmerman 1914](#zimmerman-1914)

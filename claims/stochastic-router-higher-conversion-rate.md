@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: po-chin-chang-2026
     resource: "https://doi.org/10.48550/arxiv.2606.20138"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The exploitation router's conversion rate is comparable with the static baseline (19.1% vs. 19.6%), while the exploration router yields a higher conversion rate (28.1%); the downstream improvement does not reach statistical significance. [→ Po-Chin Chang 2026](#po-chin-chang-2026)

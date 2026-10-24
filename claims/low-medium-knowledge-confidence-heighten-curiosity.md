@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: xiaoyun-chen-2024
     resource: "https://doi.org/10.1007/s11409-024-09407-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an online blurred-picture experiment, both Not Sure and No responses on Knowledge Confidence positively predicted curiosity ratings compared with Yes responses, contrary to the information-gap prediction that curiosity peaks only at intermediate confidence. [→ Xiaoyun Chen 2024](#xiaoyun-chen-2024)

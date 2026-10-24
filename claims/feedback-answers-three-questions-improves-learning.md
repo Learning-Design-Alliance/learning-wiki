@@ -8,6 +8,7 @@ generated:
 id: feedback-answers-three-questions-improves-learning
 aliases: [feedback-answers-three-questions]
 evidence_strength:
+newest_evidence: 2007
 sources:
   - id: hattie-timperley-2007
     resource: "https://doi.org/10.3102/003465430298487"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2` · n=N/A (a synthesis, not a study of individual participants)
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 Feedback is most effective when it tells learners the goal, their current status relative to that goal, and the next actionable step. The three questions — goal, gap, next step — form a loop that connects instruction to learning: without a goal, performance information has no reference point; without gap information, learners cannot calibrate; without a next step, feedback stops at evaluation.
 

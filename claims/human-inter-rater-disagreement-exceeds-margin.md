@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: pedro-c-mendonça-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100663"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among four human evaluators applying the human-created rubric, ICC(2,1) ranged from 0.878 to 0.905 and MAD ranged from 7.91 to 9.19 points, exceeding the ±5-point margin. [→ Pedro C. Mendonça 2026](#pedro-c-mendonca-2026)

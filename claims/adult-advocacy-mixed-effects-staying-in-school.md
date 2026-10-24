@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2008
 sources:
   - id: dynarski-2008
     resource: "https://ies.ed.gov/ncee/WWC/PracticeGuide/9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of three studies including adult advocates as a key component, two interventions showed positive or potentially positive effects on staying in or progressing in school, while a third showed no discernible effect. [→ Dynarski 2008](#dynarski-2008)

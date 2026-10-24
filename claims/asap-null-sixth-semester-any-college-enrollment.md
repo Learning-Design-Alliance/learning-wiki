@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: what-works-clearinghouse-2019
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/695"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` In the Scrivener et al. (2015) RCT, the difference in enrollment in any college at the sixth semester (51.2 percent vs. 47.4 percent) was not statistically significant (effect size 0.09, p = .249). [→ What Works Clearinghouse 2019](#what-works-clearinghouse-2019)

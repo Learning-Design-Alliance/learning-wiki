@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: tuttle-2015
     resource: "https://www.mathematica.org/publications/going-to-scale-as-kipp-network-grows-positive-impacts-are-sustained"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For students continuing to KIPP high schools from KIPP middle schools, impacts on achievement are not statistically significant, on average. [→ Tuttle 2015](#tuttle-2015)

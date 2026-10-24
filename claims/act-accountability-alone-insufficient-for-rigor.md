@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: elaine-allensworth-2008
     resource: "https://consortium.uchicago.edu/publications/high-school-future-act-preparation-too-much-too-late"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schools and teachers responded to the demanding, real-world-consequence ACT much as they do to low-level-skills tests: emphasizing testing skills, practicing test questions, and broad shallow content coverage. [→ Elaine Allensworth 2008](#elaine-allensworth-2008)

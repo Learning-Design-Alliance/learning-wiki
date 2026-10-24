@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ka-yan-fung-2025
     resource: "https://doi.org/10.48550/arxiv.2601.01218"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The robot group improved significantly in behavioural engagement (p<.05, +27.06%), whereas the PPT (p=.09) and paper (p=.19) groups' improvements were not statistically significant. [→ Ka Yan Fung 2025](#ka-yan-fung-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: selen-galiç-2026
     resource: "https://doi.org/10.1007/s11858-026-01805-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ENA models of 17 preservice teachers' noticing statements show interpreting–shaping co-occurrence was strongest in every week (0.57, 0.54, 0.63), indicating sense-making and eliciting were closely coordinated. [→ Selen Galiç 2026](#selen-galic-2026)

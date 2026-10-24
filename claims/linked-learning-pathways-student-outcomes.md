@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: hoachlander-2020
     resource: "https://learningpolicyinstitute.org/new-mexico-education"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students with low achievement scores in earlier grades made significantly better academic progress in pathways, and the 4-year college-going rate for African American pathway students was 12 percentage points higher than peers. [→ Hoachlander 2020](#hoachlander-2020)

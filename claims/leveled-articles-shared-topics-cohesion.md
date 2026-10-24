@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: tare-2018
     resource: "https://doi.org/10.51388/20.500.12265/67"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teachers valued ReadWorks' extensive library because articles on similar topics at different reading levels let them personalize level while maintaining a cohesive classroom experience. [→ Tare 2018](#tare-2018)

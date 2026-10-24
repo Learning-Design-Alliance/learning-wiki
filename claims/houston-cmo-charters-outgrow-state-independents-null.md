@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: credo-2022
     resource: "https://credo.stanford.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Houston CMOs exceeded the state average by 0.08 SD (46 days) in reading and 0.16 SD (92 days) in math, both significant, while Houston independent charters showed non-significant differences of 0.02 (14 days) in reading and -0.02 (-10 days) in math. [→ CREDO 2022](#credo-2022)

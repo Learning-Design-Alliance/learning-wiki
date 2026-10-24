@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: geboers-b-2018
     resource: "https://doi.org/10.1186/s12877-018-0766-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3` · `i1` small
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Before adjustment, stronger cognitive decline was associated with a greater likelihood of having low health literacy (all ORs > 1.37, p-values < .05). [→ Geboers B 2018](#geboers-b-2018)

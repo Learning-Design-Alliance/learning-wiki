@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: slavin-2014
     resource: "https://doi.org/10.6018/analesps.30.3.201201"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Evidence from practical classroom research primarily supports the motivational perspective, which emphasizes group goals and individual accountability for group success. [→ Slavin 2014](#slavin-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: james-soland-2021
     resource: "https://doi.org/10.1111/bjep.12463"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Little was known about SEL skill stability over time and whether initial SEL level or change over time better indicates 9th-grade off-track status. [→ James Soland 2021](#james-soland-2021)

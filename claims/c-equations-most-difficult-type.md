@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: susac-a-2014
     title: Susac A 2014
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 associational `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Equation type affected accuracy, effect size η2 p = 0.169, with all participants less accurate on C equations (a/x = b) than A and B equations. [→ Susac A 2014](#susac-a-2014)

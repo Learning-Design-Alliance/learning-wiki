@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: vom-lara-2014
     resource: "https://doi.org/10.48550/arxiv.1405.6581"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1` small
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A fit with b fixed at −3 returns a′ = 4240± 25.81, leading to µair∼= 1.298× 10−6Hm−1, in good agreement with the expected µ0. [→ V.O.M. Lara 2014](#vom-lara-2014)

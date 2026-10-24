@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: wong-2026
     resource: "https://doi.org/10.1007/s10648-026-10118-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Process analyses of ChatGPT conversation transcripts revealed that the general-AI group most often used non-collaborative prompts directly requesting solutions, while the regulated-AI group more frequently used collaborative prompts to improve, develop, and evaluate their own ideas. [→ Wong 2026](#wong-2026)

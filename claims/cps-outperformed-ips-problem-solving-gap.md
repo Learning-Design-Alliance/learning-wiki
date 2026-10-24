@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: sanna-järvelä-2023
     resource: "https://doi.org/10.1007/s11412-023-09415-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in the CPS group significantly outperformed those in the IPS group on physics problem-solving and online problem-solving performance, while both conditions affected physics concept test performance to the same degree. [→ Sanna Järvelä 2023](#sanna-jarvela-2023)

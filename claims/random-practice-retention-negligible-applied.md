@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ammar-2025
     resource: "https://doi.org/10.1007/s10648-025-10043-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Czyż et al.'s own meta-analysis reports that random practice's retention benefit in applied settings is almost negligible, yet the paper concluded the CI effect is robust. [→ Ammar 2025](#ammar-2025)

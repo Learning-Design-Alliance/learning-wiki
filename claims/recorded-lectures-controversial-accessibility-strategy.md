@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: gurher-sidhu-2025
     resource: "https://doi.org/10.35542/osf.io/e4hmv_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Many professors report that making lecture recordings available decimates attendance and is associated with observably poorer grades and a lower quality learning experience. [→ Gurher Sidhu 2025](#gurher-sidhu-2025)

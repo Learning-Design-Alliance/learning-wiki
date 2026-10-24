@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: theodora-2026
     resource: "https://doi.org/10.48550/arxiv.2605.16296"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI systems trained on datasets reflecting existing social inequalities can produce biased outcomes in assessment, recommendations, or learner profiling, disproportionately affecting vulnerable groups. [→ Theodora 2026](#theodora-2026)

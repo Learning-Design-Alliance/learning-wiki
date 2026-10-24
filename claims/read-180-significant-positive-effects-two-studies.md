@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: read-180-evidence-summary-2012
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q3` · `i1` small
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In comparison to control groups, the Western Massachusetts study found an effect size of +0.18 and the Milwaukee study found +0.14, both statistically significant positive effects. [→ READ 180 evidence summary 2012](#read-180-evidence-summary-2012)

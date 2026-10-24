@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: peng-cui-2026
     resource: "https://doi.org/10.48550/arxiv.2610.01627"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High-contrast sampling (bucket gap 7–9) is the stronger choice on GSM8K, while low-contrast sampling (gap 4–6) wins on BBH-structured; the mixed strategy is the more stable option. [→ Peng Cui 2026](#peng-cui-2026)

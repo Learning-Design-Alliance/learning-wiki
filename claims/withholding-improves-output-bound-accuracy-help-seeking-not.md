@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2021
 sources:
   - id: monika-undorf-2021
     resource: "https://doi.org/10.1007/s11409-021-09259-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Experiment 2a, compared to the no-choice condition, accuracy of submitted answers was higher in the don't-know condition (d = 0.84) and combination condition (d = 0.65) but not in the help-seeking condition; the omnibus ANOVA showed ηp2 = 0.16. [→ Monika Undorf 2021](#monika-undorf-2021)

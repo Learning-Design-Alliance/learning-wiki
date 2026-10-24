@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: strong
+newest_evidence: 2024
 sources:
   - id: peppler-thompson-2024
     resource: "https://doi.org/10.1080/10508406.2024.2380694"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=214 youth (ages 5-15) for the main comparison; n=49 for the sorting task
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Which physical materials a hands-on STEM task uses is not an interchangeable implementation detail: material affordances (e.g., whether a component only works in one orientation) drive how much conceptual learning happens, and materials culturally coded as "feminine" (e.g., sewing-based e-textiles) can produce equal or stronger conceptual learning than conventionally masculine-coded materials, contrary to common assumptions that arts-integrated or craft-based materials sacrifice rigor.
 

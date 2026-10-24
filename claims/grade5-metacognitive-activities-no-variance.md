@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: jacobse-2012
     resource: "https://doi.org/10.1007/s11409-012-9088-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Activities 3, 4, 5, 11, 13 and 14 of the think-aloud scoring scheme showed almost all students scoring 0 points, suggesting these regulation processes are underdeveloped in upper elementary school. [→ Jacobse 2012](#jacobse-2012)

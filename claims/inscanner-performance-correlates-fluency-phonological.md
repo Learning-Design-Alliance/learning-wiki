@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: christodoulou-ja-2014
     title: Christodoulou JA 2014
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Reading Fluency standard scores correlated negatively with in-scanner reaction time at all three rates and positively with accuracy at Medium and Fast rates. [→ Christodoulou JA 2014](#christodoulou-ja-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: schiner-2025
     resource: "https://doi.org/10.51388/20.500.12265/261"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In an environmental-impact project, students used AI tools to generate draft images, suggest layouts, and shape content through iterative prompting, then analyzed and refined the outputs into authentic student-designed products such as children's books, social media campaigns, and short-form videos. [→ Schiner 2025](#schiner-2025)

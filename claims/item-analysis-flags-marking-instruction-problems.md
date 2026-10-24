@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: bouzidi-2009
     resource: "https://www.ifets.info/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On CA-2007 question Q7, peers were far more severe (p=0.74) than the teacher (p=0.59), traced to marking instructions that did not preserve independence of the marking scheme's parts; Q7 was excluded from the validity analysis. [→ Bouzidi 2009](#bouzidi-2009)

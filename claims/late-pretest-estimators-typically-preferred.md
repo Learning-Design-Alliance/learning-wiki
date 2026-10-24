@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-09
 sources:
   - id: peter-z-schochet-2008
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For RCTs of interventions to improve student test scores, estimators that include late pretests will typically be preferred to estimators that exclude them or that instead include uncontaminated baseline test score data from other sources. [→ Peter Z. Schochet 2008](#peter-z-schochet-2008)

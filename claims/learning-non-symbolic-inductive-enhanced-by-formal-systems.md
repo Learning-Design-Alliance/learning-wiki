@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 1999
 sources:
   - id: jelke-van-der-pal-1999
     resource: "https://telearn.hal.science/hal-00197363"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Within developmental situativity theory, learning is basically a non-symbolic inductive process, and formal systems greatly enhance it by acting as tools. [→ Jelke van Der Pal 1999](#jelke-van-der-pal-1999)

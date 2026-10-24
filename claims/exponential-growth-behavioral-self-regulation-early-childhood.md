@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: montroy-janelle-j-2016
     resource: "https://doi.org/10.1037/dev0000159"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across three samples, latent growth curve model fit indices favored an exponential trajectory of behavioral self-regulation over linear, quadratic, and logistic alternatives. [→ Montroy Janelle J. 2016](#montroy-janelle-j-2016)

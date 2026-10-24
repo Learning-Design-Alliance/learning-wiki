@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: plass-2019
     resource: "https://doi.org/10.1007/s10648-019-09473-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A second perspective holds that emotion affects encoding, storage, and retrieval even before awareness of the material, directly affecting memory by broadening or narrowing cognitive resources and through mood-dependent and mood-congruent processing. [→ Plass 2019](#plass-2019)

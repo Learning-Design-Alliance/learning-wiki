@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: yeager-2019
     resource: "https://doi.org/10.1038/s41586-019-1466-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` The intervention × school achievement level interaction was negative for core GPAs, standardized β = −0.25, P = 0.006. [→ Yeager 2019](#yeager-2019)

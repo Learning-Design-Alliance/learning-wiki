@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: levin-2020
     resource: "http://learningpolicyinstitute.org/product/professional-learning-principals"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 84% of principals reported obstacles to pursuing professional development; the top reasons were not enough time (67%), insufficient coverage for leaving the building (43%), and not enough money (42%). [→ Levin 2020](#levin-2020)

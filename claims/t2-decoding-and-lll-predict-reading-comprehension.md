@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-23
 sources:
   - id: jessica-massonnié-2018
     resource: "https://doi.org/10.1016/j.learninstruc.2018.01.005"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In SEM 1, T2 decoding skills and T2 lower level language skills predicted T2 reading comprehension (β = .58 and β = .46), while T2 discourse skills did not. [→ Jessica Massonnié 2018](#jessica-massonnie-2018)

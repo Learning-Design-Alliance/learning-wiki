@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mark-feng-teng-2026
     resource: "https://doi.org/10.1186/s40862-026-00444-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The 95% prediction interval was wide (−0.59 to 2.19), indicating true effects in new settings could plausibly range from near-zero to large positive values. [→ Mark Feng Teng 2026](#mark-feng-teng-2026)

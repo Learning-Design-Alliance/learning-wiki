@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: katharina-loibl-timo-leuders-inga-glogger-frey-nikol-rummel-2025
     resource: "https://doi.org/10.1007/s11251-024-09665-9"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study with a short initial phase, PS-I was less beneficial for transfer than WS-I; in a second study with a long initial phase, PS-I was more beneficial. The contrast is across two separate studies, and the article says a shared-sample study is needed to test whether duration explains it. [→ Katharina Loibl · Timo Leuders · Inga Glogger-Frey · Nikol Rummel 2025](#katharina-loibl-timo-leuders-inga-glogger-frey-nikol-rummel-2025)

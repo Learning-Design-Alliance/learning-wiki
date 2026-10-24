@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ohare-2025
     resource: "https://doi.org/10.1007/s11251-025-09734-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three main tensions manifested as contradictions: an individualised approach to emergency care, challenges facing non-clinical staff, and a need to change interprofessional CPR and emergency care training delivery. [→ O'Hare 2025](#ohare-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: vogt-p-2026
     resource: "https://doi.org/10.1186/s12909-026-10410-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` A three-way comparison of distractor distribution showed no significant differences across MCQ origins. [→ Vogt P 2026](#vogt-p-2026)

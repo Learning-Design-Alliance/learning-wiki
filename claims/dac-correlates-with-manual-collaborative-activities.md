@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: erkens-2008
     resource: "https://doi.org/10.1007/s11412-008-9052-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Correlating automatically coded dialogue acts (form) with manually coded collaborative activities (content) across four manual dimensions and 15 categories was used to establish convergent validity, with weak to moderate correlations expected. [→ Erkens 2008](#erkens-2008)

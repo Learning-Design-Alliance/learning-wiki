@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: frenzel-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101896"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The intraclass-correlation of the mimicry index was 0.164, indicating the larger proportion of variance (83.6%) was within instructors. [→ Frenzel 2024](#frenzel-2024)
@@ -49,3 +51,4 @@ Analysis of the distribution of the dyadic mimicry index across 69 instructor–
 - [Instructor-led facial joy mimicry predominated: 58% of dyads were instructor-led and the critical lag window's midpoint was around +500 msec after the instructor's expression](instructor-led-joy-mimicry-predominance.md) — related
 - [Facially expressed joy during class correlated positively with post-session self-reported session joy for both students and instructors, though the instructor correlation did not reach significance](facial-joy-expression-correlates-with-self-reported-joy.md)
 - [Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis](icc-perceived-competence-between-classes.md) — related
+- [Most variance in teachers' self-efficacy toward individual students occurs within teachers rather than between teachers](tse-variance-within-teachers-dyadic.md) — related

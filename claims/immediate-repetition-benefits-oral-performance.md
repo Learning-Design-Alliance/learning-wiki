@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: rafael-zaccaron-2019
     resource: "http://dx.doi.org/10.15448/2178-3640.2019.2.32988"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research on task repetition has consistently found a positive effect on fluency, and repetition tends to reduce anxiety, especially for less confident learners. [→ Rafael Zaccaron 2019](#rafael-zaccaron-2019)

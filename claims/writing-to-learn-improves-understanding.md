@@ -8,6 +8,7 @@ generated:
 id: writing-to-learn-improves-understanding
 aliases: [writing-to-learn-improves-content-learning]
 evidence_strength: pending
+newest_evidence: 2022
 sources:
   - id: bangert-drowns-hurley-wilkinson-2004
     resource: "https://doi.org/10.3102/00346543074001029"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i2` medium
+> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Writing about to-be-learned material — rather than only reading or listening — deepens understanding by forcing learners to organize, elaborate, and articulate ideas in their own words. The claim concerns *understanding* (conceptual knowledge, transfer), not rote recall, and applies to writing as a learning activity during instruction — not to writing instruction aimed at improving composition skill, which is a distinct outcome.
 

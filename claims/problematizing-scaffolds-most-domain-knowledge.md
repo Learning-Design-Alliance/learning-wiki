@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: gerry-stahl-2011
     resource: "https://doi.org/10.1007/s11412-011-9135-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a controlled experiment in the Netherlands, triads shown problematizing scaffolds learned the most domain knowledge compared with avatar-only and suggestive scaffold conditions. [→ Gerry Stahl 2011](#gerry-stahl-2011)

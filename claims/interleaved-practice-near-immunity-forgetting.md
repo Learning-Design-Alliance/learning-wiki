@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: rohrer-2015
     resource: "https://doi.org/10.1037/edu0000001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For interleaved-practice material, increasing the test delay from 1 to 30 days reduced scores only slightly (80% to 74%). [→ Rohrer 2015](#rohrer-2015)

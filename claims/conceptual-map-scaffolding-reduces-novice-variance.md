@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-22
 sources:
   - id: bharat-anand-2026
     resource: "https://doi.org/10.48550/arxiv.2605.18143"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- title before 2026-10-15: Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices -->
 
 ## Subclaims

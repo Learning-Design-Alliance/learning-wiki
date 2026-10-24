@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: rhoda-lai-2026
     resource: "https://doi.org/10.1007/s10648-025-10107-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Collie et al. (2016) found relatedness with students predicted teacher wellbeing in elementary but not middle/secondary school teachers. [→ Rhoda Lai 2026](#rhoda-lai-2026)

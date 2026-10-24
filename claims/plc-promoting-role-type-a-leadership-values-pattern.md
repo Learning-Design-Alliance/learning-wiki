@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: layton-jaramillo-2025
     resource: "https://doi.org/10.3926/jotse.3115"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All mean values in the five dimensions were above 3.0 for all three PLC types by promoting role, with a trend toward higher values in Type E (student-led) PLCs and lowest in Type A except for D2. [→ Layton-Jaramillo 2025](#layton-jaramillo-2025)

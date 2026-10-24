@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: zhorabekova-a-2026
     resource: "https://doi.org/10.3389/feduc.2026.1929123"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In an exploratory regression, learner characteristics explained little variance in acceptance (R2 = .034); only frequency of use was significant (b = .121, p = .002), while English level and length of study were non-significant. [→ Zhorabekova A 2026](#zhorabekova-a-2026)

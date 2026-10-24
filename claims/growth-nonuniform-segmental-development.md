@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1920
 sources:
   - id: no-author-line-1920
     resource: "https://eric.ed.gov/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` According to the reviewed book, growth is not uniform but proceeds with variations in the case of the limbs, trunk, and head, and gross measures mean little unless broken up by finer analysis. [→ No author line 1920](#no-author-line-1920)

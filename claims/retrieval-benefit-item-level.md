@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1992
+source_checked: 2026-10-19
 sources:
   - id: carrier-1992
     resource: "https://doi.org/10.3758/bf03202713"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 1992 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` General retrieval practice cannot account for testing effects, because a benefit of retrieval practice should then also appear for pure ST items. [→ Carrier 1992](#carrier-1992)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: hester-2022
     resource: "https://ies.ed.gov/ncee/edlabs/regions/southwest/rel_2023-145.asp"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The largest number of substantial differences in behavioral indicators was four per student group, compared with six or seven for academic indicators. [→ Hester 2022](#hester-2022)

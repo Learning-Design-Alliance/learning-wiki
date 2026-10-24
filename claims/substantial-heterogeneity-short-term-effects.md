@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: strong
+newest_evidence: 2021
 sources:
   - id: dietrichson-2021
     resource: "https://doi.org/10.1002/cl2.1152"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` All measures indicated substantial heterogeneity across short-term effect sizes, and heterogeneity remained statistically significant even within categories of instructional methods. [→ Dietrichson 2021](#dietrichson-2021)

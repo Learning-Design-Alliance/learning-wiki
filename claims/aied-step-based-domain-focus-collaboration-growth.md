@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: ido-roll-ruth-wylie-2016
     resource: "https://doi.org/10.1007/s40593-016-0110-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interaction-style coding shows increasing focus on step-based systems, and collaborative-structure coding shows 2014 papers include many supported-collaboration examples compared with 1994 and 2004. [→ Ido Roll & Ruth Wylie 2016](#ido-roll-ruth-wylie-2016)

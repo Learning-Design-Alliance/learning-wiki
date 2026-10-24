@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: brunner-2007
     resource: "https://doi.org/10.1016/j.learninstruc.2007.01.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The combination of pretesting and coaching, rather than either alone, substantially improved student performance on the low-stakes PISA test. [→ Brunner 2007](#brunner-2007)

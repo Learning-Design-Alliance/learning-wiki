@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: chaddock-heyman-l-2015
     resource: "https://doi.org/10.1371/journal.pone.0134115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across all 48 children, WRAT-3 arithmetic scores were negatively correlated with cortical thickness in anterior frontal cortex (r = -0.292, p = 0.04) and superior frontal cortex (r = -0.291, p = 0.04). [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)

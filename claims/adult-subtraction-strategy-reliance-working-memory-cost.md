@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: mark-h-ashcraft-and-jeremy-a-krause-2007
     resource: "https://doi.org/10.3758/bf03194059"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reported strategy use jumped from an average of 3% on small subtraction problems to 33% on large problems, matching RT and error profiles. [→ Mark H. Ashcraft and Jeremy A. Krause 2007](#mark-h-ashcraft-and-jeremy-a-krause-2007)

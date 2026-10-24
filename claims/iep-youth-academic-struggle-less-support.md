@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-08
 sources:
   - id: stephen-lipscomb-2017
     resource: "https://www.mathematica.org/publications/national-longitudinal-transition-study-2012-vol-1-comparisons-with-other-youth-full-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support. [→ Stephen Lipscomb 2017](#stephen-lipscomb-2017)

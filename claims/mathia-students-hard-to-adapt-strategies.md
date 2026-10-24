@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: magar-2025
     resource: "https://doi.org/10.1007/978-3-031-98465-5_15"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Analysis of MATHia log data from over 600 schools shows students find it hard to adapt their strategies to suit a problem. [→ Magar 2025](#magar-2025)

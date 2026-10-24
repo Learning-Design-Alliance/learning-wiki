@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liang-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1800950"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The indirect path QAF → learning motivation → SRL is significant (coefficient 0.264, p < 0.01). [→ Liang 2026](#liang-2026)

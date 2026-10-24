@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: houck-2011
     resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i1` small
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Gender shows a small but significant correlation with internalizing behavior problems, with females yielding higher scores (r = .17, p = .02), but is not related to externalizing scores or self-concept. [→ Houck 2011](#houck-2011)

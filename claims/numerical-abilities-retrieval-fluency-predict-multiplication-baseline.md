@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-24
 sources:
   - id: rautiainen-2026
     resource: "https://doi.org/10.1037/edu0001066"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the baseline SEM model, numerical abilities strongly and serial retrieval fluency moderately predicted third-grade multiplication skill, and working memory showed no significant association. [→ Rautiainen 2026](#rautiainen-2026)

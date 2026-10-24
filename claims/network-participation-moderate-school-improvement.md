@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1998
 sources:
   - id: initial-accomplishments-of-implementation-networks-a-baseline-technical-report-of-the-chicago-annenberg-research-project-1998
     resource: "https://consortium.uchicago.edu"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` About 60 percent of principals attributed moderate improvement to working with external partners, and similar proportions to working with other network schools. [→ Initial Accomplishments of Implementation Networks: A Baseline Technical Report of the Chicago Annenberg Research Project 1998](#initial-accomplishments-of-implementation-networks-a-baseline-technical-report-of-the-chicago-annenberg-research-project-1998)

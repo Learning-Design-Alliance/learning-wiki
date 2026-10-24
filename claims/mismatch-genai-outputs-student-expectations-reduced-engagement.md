@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: jin-2025
     resource: "https://doi.org/10.18608/jla.2025.8609"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Post hoc interviews revealed that reduced engagement with the GenAI functionalities was due to a mismatch between the GenAI outputs and student expectations. [→ Jin 2025](#jin-2025)

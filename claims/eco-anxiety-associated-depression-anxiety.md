@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: bohlmeijer-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1850611"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A recent review of 35 studies reported small to large positive associations between eco-anxiety and symptoms of depression and anxiety. [→ Bohlmeijer 2026](#bohlmeijer-2026)

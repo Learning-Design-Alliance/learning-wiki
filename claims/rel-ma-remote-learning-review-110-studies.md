@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: regional-educational-laboratory-mid-atlantic-2020
     resource: "https://www.mathematica.org/publications/exploratory-research-review-promising-practices-and-approaches-to-support-remote-learning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review's evidence base consists of 110 studies examining the effectiveness of remote learning practices in K-12 settings. [→ Regional Educational Laboratory Mid-Atlantic 2020](#regional-educational-laboratory-mid-atlantic-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: wu-2017
     resource: "https://doi.org/10.1016/j.cognition.2017.05.016"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` MR correlated more strongly with reading (r = 0.46) than NO did (r = 0.29), a significant difference. [→ Wu 2017](#wu-2017)

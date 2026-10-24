@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: van-viersen-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102254"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Group-level analyses showed no protective effects, but individual-level analyses indicated children with DLD and strong verbal reasoning could partly compensate mathematics delays. [→ van Viersen 2026](#van-viersen-2026)

@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`–`q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Self-After (M = 10.04) and Self-Both (M = 12.45) did not differ significantly in retention absolute error; equivalence was not tested. [→ Carter 2014](#carter-2014)

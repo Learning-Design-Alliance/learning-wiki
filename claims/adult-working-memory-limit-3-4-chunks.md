@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: cowan-nelson-2014
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207727/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Normal adults typically can retain only 3 or 4 meaningful units or chunks when chunking and covert verbal rehearsal are not possible. [→ Cowan Nelson 2014](#cowan-nelson-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: jake-renzella-2026
     resource: "https://doi.org/10.48550/arxiv.2606.14718"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Female students showed significant medium-sized gains in career interest for AI (ΔM=+0.45, d=.52) and computer science (ΔM=+0.44, d=.47), while male students showed no significant change in career aspirations for either field. [→ Jake Renzella 2026](#jake-renzella-2026)

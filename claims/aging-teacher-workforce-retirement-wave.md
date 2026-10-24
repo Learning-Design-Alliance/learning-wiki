@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: carver-thomas-2020
     resource: "https://learningpolicyinstitute.org/product/sharp-divide-california-teacher-shortages"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` About 40% of California's teacher workforce is age 50 or older and 14% are age 60 or older, likely to retire within 5 to 10 years, amounting to over 120,000 teachers who may need replacement over the next decade or two. [→ Carver-Thomas 2020](#carver-thomas-2020)

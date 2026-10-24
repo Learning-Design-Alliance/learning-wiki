@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: grace-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2604.04721"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` With pretest-based exclusions and a matched control sidebar, the AI condition still showed a lower unassisted solve rate (Cohen's d = -0.19). [→ Grace Liu 2026](#grace-liu-2026)

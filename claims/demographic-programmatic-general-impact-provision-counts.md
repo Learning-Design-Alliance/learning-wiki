@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: chait-2022
     resource: "https://eric.ed.gov/?id=ED620722"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r1`–`r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three of the 16 states require authorizers to consider demographic impact on racial, ethnic, or economic segregation or desegregation orders. [→ Chait 2022](#chait-2022)

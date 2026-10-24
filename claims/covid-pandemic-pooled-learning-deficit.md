@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: bastian-a-betthäuser-2023
     resource: "https://doi.org/10.1038/s41562-022-01506-4"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2`–`q4` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q4 i0` Across 42 studies, the pooled effect size of COVID-19 learning deficits is d = −0.14 (95% CI −0.17 to −0.10), which the authors interpret as a loss of about 35% of a school year's worth of learning. [→ Bastian A. Betthäuser 2023](#bastian-a-betthauser-2023)

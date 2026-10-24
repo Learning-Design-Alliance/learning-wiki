@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jorge-fábrega-2026
     resource: "https://doi.org/10.48550/arxiv.2610.02731"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within matched pairs with identical scores, one conversation shows Direction, Integration, and Evaluation while the other shows Direction alone or Direction and Integration without Evaluation. [→ Jorge Fábrega 2026](#jorge-fabrega-2026)

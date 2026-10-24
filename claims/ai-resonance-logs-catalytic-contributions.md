@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-07
+recheck_by: 2028
 sources:
   - id: quang-nhat-nguyen-dung-thi-hue-doan-2025
     resource: "https://doi.org/10.29140/lea.v8n1.103000"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In the paper's illustrative vignette, an AI-supported platform traced a catalytic contribution's propagation and generated a composite resonance score categorizing the episode as transformative. [→ Quang Nhat Nguyen & Dung Thi Hue Doan 2025](#quang-nhat-nguyen-dung-thi-hue-doan-2025)

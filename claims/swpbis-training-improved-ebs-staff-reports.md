@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: strong
+newest_evidence: 2010
 sources:
   - id: catherine-p-bradshaw-2010
     resource: "https://doi.org/10.1177/1098300709334798"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Staff ratings of schoolwide, nonclassroom, classroom, and individualized behavior support systems all improved significantly in SWPBIS-trained schools. [→ Catherine P. Bradshaw 2010](#catherine-p-bradshaw-2010)

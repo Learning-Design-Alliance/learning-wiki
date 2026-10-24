@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: randi-a-engle-2011
     resource: "https://doi.org/10.1007/s11251-010-9145-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Transfer-of-learning of facts showed a trend toward more transfer in the expansive condition (36% vs. 13%; F(1,20) = 3.27, p = .09); the difference was not statistically significant. [→ Randi A. Engle 2011](#randi-a-engle-2011)

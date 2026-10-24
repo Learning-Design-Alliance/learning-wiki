@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: zhang-hui-2026
     resource: "https://doi.org/10.2196/96819"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Mann-Whitney U tests found no significant difference in any dimension or total score between male (n=7) and female (n=15) students (79.1 vs 80.1; P=.82; Cohen d=0.07). [→ Zhang Hui 2026](#zhang-hui-2026)

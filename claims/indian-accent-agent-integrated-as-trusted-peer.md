@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ravi-2026
     resource: "https://doi.org/10.48550/arxiv.2606.12805"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Indian-accent case study, Phoenix was naturally integrated into multi-party discussion during the icebreaker, and accumulating useful contributions shifted the group from indirect referencing to direct solicitation. [→ Ravi 2026](#ravi-2026)

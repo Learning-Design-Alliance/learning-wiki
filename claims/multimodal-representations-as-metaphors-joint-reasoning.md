@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-19
 sources:
   - id: carolyn-p-rosé-2019
     resource: "https://doi.org/10.1007/s11412-019-09297-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In collaborative reasoning tasks, student-generated multi-modal representations create an intersubjective space for joint reasoning and shape the direction of interaction. [→ Carolyn P. Rosé 2019](#carolyn-p-rose-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-23
 sources:
   - id: lea-waters-2015
     resource: "https://doi.org/10.1007/s10648-014-9258-2"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3` · `i3` large
+> **Currency** · newest study 2015 · checked against its sources 2026-10-23 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meditation programmes show small improvements in student well-being, with benefits more consistent for reducing negative states (anxiety, stress, negative affect) than for promoting positive states. [→ Lea Waters 2015](#lea-waters-2015)

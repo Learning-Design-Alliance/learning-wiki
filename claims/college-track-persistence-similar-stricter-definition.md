@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: naihobe-gonzalez-2019
     resource: "https://www.mathematica.org/publications/college-track-postsecondary-outcomes-benchmarking-the-performance-of-the-9th-grade-cohort-of-2009"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Persistence in college was similar among students who enrolled in college, although College Track uses a stricter and more rigorous definition of persistence. [→ Naihobe Gonzalez 2019](#naihobe-gonzalez-2019)

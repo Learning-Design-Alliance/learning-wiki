@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: mcmanus-bm-2019
     resource: "https://doi.org/10.1001/jamanetworkopen.2018.7529"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children with greatest condition severity received an EI care plan 54 days sooner than children without a special health care need (b, ŌłÆ53.5; 95% CI, ŌłÆ77.4 to ŌłÆ29.6). [→ McManus BM 2019](#mcmanus-bm-2019)

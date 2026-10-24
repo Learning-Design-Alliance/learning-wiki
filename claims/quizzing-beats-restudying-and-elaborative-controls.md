@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: yang-2020
     resource: "https://doi.org/10.1037/bul0000309"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In classroom studies, testing beats no/filler activity (g = 0.610), testing with fewer questions (g = 0.465) and restudying (g = 0.330); the advantage over no/filler activity is significantly larger than over restudying (p < .001), which the authors read as consistent with the additional-exposure account. Against other elaborative strategies the advantage is small and not significant (g = 0.095, 95% CI -0.005 to 0.194, p = .062). [→ Yang 2020](#yang-2020)

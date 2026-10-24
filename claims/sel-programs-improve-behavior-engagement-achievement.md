@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: depaoli-2023
     resource: "https://doi.org/10.54300/701.445"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r?` · `q3`–`q4`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` A 2023 overview of 12 independent meta-analyses finds strong evidence that school-based SEL programs develop social-emotional competencies, reduce behavior problems including bullying and aggression, and increase prosocial behavior. [→ dePaoli 2023](#depaoli-2023)

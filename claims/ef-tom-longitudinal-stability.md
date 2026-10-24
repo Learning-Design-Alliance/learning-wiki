@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: marcovitch-s-2014
     resource: "https://doi.org/10.1016/j.cogdev.2014.07.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` After controls, each construct was substantially stable across consecutive ages in the latent variable model. [→ Marcovitch S. 2014](#marcovitch-s-2014)

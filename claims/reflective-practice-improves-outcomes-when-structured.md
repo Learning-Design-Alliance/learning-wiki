@@ -8,6 +8,7 @@ generated:
 id: reflective-practice-improves-outcomes-when-structured
 aliases: [metacognitive-prompts-larger-writing-effects]
 evidence_strength: unrated
+newest_evidence: 2022
 sources:
   - id: bangert-drowns-et-al-2004
     resource: "https://doi.org/10.3102/00346543074001029"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q4` · `i2` medium
+> **Currency** · newest study 2022 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Reflection improves learning and performance when it is prompted by structure — specific questions, frameworks, or prompts — rather than left as an unguided invitation to "think about your learning."
 

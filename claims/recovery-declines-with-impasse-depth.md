@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ahtisham-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38346"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Each additional impasse turn lowered the odds of next-turn recovery by about 13% (AOR = 0.87, 95% CI [0.81, 0.94], p<.001), and raw recovery fell from 39.7% at onset to 18.8% at depth 6 or more. [→ Ahtisham 2026](#ahtisham-2026)

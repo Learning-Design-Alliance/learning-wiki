@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: fuhrmann-d-2019
     resource: "https://doi.org/10.1016/j.dcn.2019.100718"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mood was significantly lower after exclusion than inclusion overall, and this effect did not differ between the three age groups. [→ Fuhrmann D. 2019](#fuhrmann-d-2019)

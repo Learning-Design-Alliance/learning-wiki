@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: reciprocal-teaching-improves-reading-comprehension
 evidence_strength:
+newest_evidence: 1994
 sources:
   - id: rosenshine-and-meister-1994
     resource: "https://doi.org/10.3102/00346543064004479"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=16 studies
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 Reciprocal teaching is a structured dialogue routine in which learners take turns leading discussions of a text using four strategies — predicting, questioning, clarifying, and summarizing — with the teacher modeling and gradually handing over responsibility.
 

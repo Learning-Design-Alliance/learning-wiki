@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: li-zhao-2024
     resource: "https://doi.org/10.1007/s10648-024-09965-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` In Study 4, the cheating rate was 3.5% unproctored vs. 12.3% proctored, with a significant exam type effect (OR = 0.26) but only anecdotal BF10 evidence. [→ Li Zhao 2024](#li-zhao-2024)

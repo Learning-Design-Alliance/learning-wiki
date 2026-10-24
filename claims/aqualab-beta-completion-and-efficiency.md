@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wenqian-xu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.09305"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean estimated β rises from incomplete to task-complete to job-complete episodes, with a highly significant Kruskal–Wallis group difference. [→ Wenqian Xu 2026](#wenqian-xu-2026)

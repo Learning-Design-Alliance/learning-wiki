@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: roschelle-2017
     resource: "https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Oztoc exhibit at the New York Hall of Science, learning typically occurs when visitors explain to each other how to lure different categories of fish. [→ Roschelle 2017](#roschelle-2017)

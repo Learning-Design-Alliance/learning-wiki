@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: cook-harvey-2016
     resource: "http://learningpolicyinstitute.org/product/equity-essa"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers who are well prepared stay in teaching at rates more than twice as high as those who are not fully prepared when they enter, and the same is true for those who are well mentored. [→ Cook-Harvey 2016](#cook-harvey-2016)

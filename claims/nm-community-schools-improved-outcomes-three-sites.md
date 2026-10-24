@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: germain-2025
     resource: "https://learningpolicyinstitute.org/product/new-mexico-community-schools-outcomes-brief"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across three profiled New Mexico community schools implementing the framework's key practices, the brief reports improvements in test scores, graduation rates, chronic absence, engagement, school climate, health care access, and family engagement, taken together across the sites rather than at every site; chronic absence fell significantly in two of the three sites since 2022 (by 50% at Los Padillas between 2021 and 2024). [→ Germain 2025](#germain-2025)

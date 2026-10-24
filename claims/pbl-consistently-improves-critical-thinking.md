@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: dawit-t-tiruneh-2014
     resource: "http://dx.doi.org/10.5539/hes.v4n1p1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across three reviewed studies, students in problem-based learning environments significantly outperformed comparison groups (instructor-led or lecture) on CT skills. [→ Dawit T. Tiruneh 2014](#dawit-t-tiruneh-2014)

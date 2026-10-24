@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: boal-2025
     resource: "https://ies.ed.gov/ncee/rel/Products/RWR/Publication/108318"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Secondary students at emerging implementation schools scored 0.81 points higher, and at high implementation schools 1.43 points higher, on the SCCS cultural connectedness scale than students at limited implementation schools. [→ Boal 2025](#boal-2025)

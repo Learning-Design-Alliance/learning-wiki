@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: weatherholtz-2024
     resource: "https://doi.org/10.1007/978-3-031-72315-5_32"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An earlier between-group cross-sectional study on a single school year found a positive relationship between time on the platform and standardized math scores, with residual confounding concerns. [→ Weatherholtz 2024](#weatherholtz-2024)

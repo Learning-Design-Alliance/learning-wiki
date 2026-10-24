@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: erin-bridges-bird-heidi-l-ballard-margaret-harte-2023
     resource: "https://doi.org/10.1007/s11251-022-09612-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the predator-prey problem-posing space, students held systems knowledge and varied, value-based views (danger, balance, ecosystem significance), yet reached no collective definition of the problem and lacked action-related knowledge for what to do. [→ Erin Bridges Bird · Heidi L. Ballard · Margaret Harte 2023](#erin-bridges-bird-heidi-l-ballard-margaret-harte-2023)

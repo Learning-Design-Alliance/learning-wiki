@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2010
+recheck_by: 2013
 sources:
   - id: cooper-2010
     resource: "https://doi.org/10.1080/10790195.2010.10850328"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Good standing was significantly higher for 200740F students visiting >10 times versus no visits (z=2.85, p=.0022), but not for the 200740X cohort or for the <10-visit comparison. [→ Cooper 2010](#cooper-2010)

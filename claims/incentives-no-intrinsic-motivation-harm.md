@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: roland-g-fryer-2010
     resource: "http://www.nber.org/papers/w15898"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Using the Intrinsic Motivation Inventory, the article finds no evidence that incentives decrease intrinsic motivation; point estimates are too small and standard errors too large to conclude anything other than a null effect. [→ Roland G. Fryer 2010](#roland-g-fryer-2010)

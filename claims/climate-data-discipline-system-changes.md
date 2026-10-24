@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: klevan-2024
     resource: "https://doi.org/10.54300/918.411"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` All three case study schools used climate data to inform revisions to incident reporting, restorative professional development, and schoolwide behavioral expectations. [→ Klevan 2024](#klevan-2024)

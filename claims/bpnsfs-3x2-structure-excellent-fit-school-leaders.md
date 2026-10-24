@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: marsh-2025
     resource: "https://doi.org/10.1007/s10648-025-10079-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A 12-factor ESEM measurement model with the BPNSFS 3×2 structure, loading invariance and correlated uniquenesses showed excellent fit (RMSEA = .012; CFI = .991; TLI = .989) in 1,950 Australian school leaders. [→ Marsh 2025](#marsh-2025)
@@ -48,3 +50,4 @@ Measurement-model analysis of two-wave survey data from 1,950 Australian school 
 - [Classic two-facet MTMM analysis supports convergent and discriminant validity of the six BPNSFS facets across time](mtmm-two-facet-bpnsfs-validity.md) — related
 - [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](three-facet-mtmm-content-valence.md) — a broader claim this one bears on
 - [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — related
+- [Students empirically distinguish autonomy dissatisfaction from autonomy satisfaction and autonomy frustration (3-factor ESEM solution)](esem-three-factor-distinct-need-states.md) — related

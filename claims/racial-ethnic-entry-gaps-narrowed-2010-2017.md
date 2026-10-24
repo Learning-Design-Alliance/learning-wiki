@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: kuhfeld-2019
     resource: "http://www.edworkingpapers.com/ai19-137"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The Black-White math gap narrowed from 0.64 to 0.53 SD and the reading gap from 0.51 to 0.42 SD; the Hispanic-White gap narrowed from 0.68 to 0.59 SD in math and 0.64 to 0.53 SD in reading, all significantly. [→ Kuhfeld 2019](#kuhfeld-2019)

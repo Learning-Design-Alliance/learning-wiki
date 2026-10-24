@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: luppescu-2011
     resource: "https://consortium.uchicago.edu/publications/trends-chicagos-schools-across-three-eras-reform-full-report"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Math scores in grades three through eight improved in all three eras, moving the typical student from just meeting state standards to the low end of the meets-standards range. [→ Luppescu 2011](#luppescu-2011)

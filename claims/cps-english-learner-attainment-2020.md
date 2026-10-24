@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: malone-2021
     resource: "http://toandthrough.uchicago.edu/tool/cps/hs"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who began as ELs graduated within four years at 84.1 percent, slightly above the district average of 83.2 percent and above never-classified ELs at 82.8 percent (2016–17 cohort). [→ Malone 2021](#malone-2021)

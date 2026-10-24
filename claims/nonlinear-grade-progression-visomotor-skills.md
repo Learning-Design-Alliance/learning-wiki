@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: capellini-2017
     resource: "https://doi.org/10.4236/psych.2017.82015"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Group mean ordering was non-linear for all three subtests, e.g. visoperception GI < GII < GIII < GV < GIV and visomotor integration GI < GII < GV < GIII < GIV. [→ Capellini 2017](#capellini-2017)

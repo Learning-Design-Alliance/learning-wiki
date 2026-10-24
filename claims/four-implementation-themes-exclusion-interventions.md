@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Flexible, collaborative, well-structured interventions, consistent school policies, senior-leader buy-in, and visible behavioural improvements facilitated implementation; outdated materials, context misalignment, inconsistency, and resistance from experienced staff hindered it. [→ qual-themes](#qual-themes)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: jiang-2025
     resource: "https://doi.org/10.1007/s10648-025-10066-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Analysis of included measures found BRIEF assessed cognitive and emotional regulation, CHEXI cognitive only, SCRS behavior and cognitive, while ECBI showed misalignment with its intended targets. [→ Jiang 2025](#jiang-2025)

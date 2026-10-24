@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-18
+recheck_by: 2029
 sources:
   - id: julian-bernado-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27043"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On the TalkMoves Teacher TalkMoves task, the best EduBehaviors configuration attains 0.673 macro-F1 and 0.688 Cohen's kappa, generally outperforming direct LLM prompting (maximum reported macro-F1 0.61, kappa 0.58). [→ Julian Bernado 2026](#julian-bernado-2026)

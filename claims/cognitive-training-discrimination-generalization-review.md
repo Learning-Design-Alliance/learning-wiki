@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: gary-d-phye-2012
     resource: "https://doi.org/10.1007/s10648-012-9211-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A review of approximately 80 research studies demonstrated the effectiveness of teaching both discrimination and generalization processing with a large cross-section of students in varied settings. [→ Gary D. Phye 2012](#gary-d-phye-2012)

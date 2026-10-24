@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: dudovitz-2016
     resource: "https://doi.org/10.1007/s10995-015-1882-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Parents, teachers, and students reported that poor vision made it hard to see the board, disrupted focus, and led students to give up on school tasks and disengage from classwork. [→ Dudovitz 2016](#dudovitz-2016)

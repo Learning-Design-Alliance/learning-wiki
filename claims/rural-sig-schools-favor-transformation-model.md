@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: a-focused-look-at-rural-schools-receiving-school-improvement-grants-2014
     resource: "https://ies.ed.gov/ncee/pubs/20144013/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Approximately 18 percent of Tier 1 and 2 SIG schools funded in 2010-11 were rural, and rural SIG schools were more likely than nonrural schools (95 versus 74 percent) to adopt the transformation model. [→ A Focused Look at Rural Schools Receiving School Improvement Grants 2014](#a-focused-look-at-rural-schools-receiving-school-improvement-grants-2014)

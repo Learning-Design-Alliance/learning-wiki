@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: panadero-2017
     resource: "https://doi.org/10.3389/fpsyg.2017.00422"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A review of co-regulated and socially shared regulation found empirical evidence of SSRL occurrence in cognitive, metacognitive, motivational, and emotional shared areas. [→ Panadero 2017](#panadero-2017)

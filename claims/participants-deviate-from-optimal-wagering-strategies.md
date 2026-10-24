@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: lorenz-weise-2024
     resource: "https://doi.org/10.1007/s11409-024-09411-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Although a given payoff matrix implies a specific optimal wagering strategy, participants often appear to stray far from this optimal behavior, using the low option far more frequently. [→ Lorenz Weise 2024](#lorenz-weise-2024)

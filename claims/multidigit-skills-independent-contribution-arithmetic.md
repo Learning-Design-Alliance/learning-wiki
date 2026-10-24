@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-24
 sources:
   - id: cowan-2014
     resource: "https://doi.org/10.1037/a0034097"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Number system knowledge and estimation each make unique contributions to basic calculation fluency, written arithmetic, and arithmetic word problems regardless of order of entry in fixed-order regressions. [→ Cowan 2014](#cowan-2014)

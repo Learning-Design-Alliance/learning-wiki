@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: soland-2019
     resource: "https://www.nwea.org/research/publication/school-effectiveness-summer-loss-and-federal-accountability-applying-the-compound-polynomialmodel-in-a-program-evaluation-context/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` CP fixed effects for spring-to-spring math (centered at grade two) print a spring grade-2 conditional RIT of 190.6, linear growth of 14.5 RIT with a decelerating quadratic trend, and a grade-2 fall-to-spring gain of 13.4 RIT. [→ Soland 2019](#soland-2019)

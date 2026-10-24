@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: johanna-l-donath-2023
     resource: "https://doi.org/10.1007/s10648-023-09752-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Studies offering certification after successful completion observed larger knowledge effect sizes (g = 1.39) than programs without certification (g = 0.86); certification did not influence other outcome categories. [→ Johanna L. Donath 2023](#johanna-l-donath-2023)

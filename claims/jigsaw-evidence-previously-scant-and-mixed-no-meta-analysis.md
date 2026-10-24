@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: eva-vives-2024
     resource: "https://doi.org/10.3102/00346543241230064"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite the method's high popularity, the available evidence for jigsaw effectiveness was scant and mixed, and no meta-analysis or systematic review existed before this one. [→ Eva Vives 2024](#eva-vives-2024)

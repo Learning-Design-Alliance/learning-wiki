@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-18
 sources:
   - id: jacobson-2011
     resource: "https://doi.org/10.1080/09297049.2010.532204"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` CodingR accounted for significant variance in GORT-IV Fluency (R2 = .092, p = .027) and TOWRE PDE (R2 = .121, p = .011), with no significant CodingR-by-group interaction. [→ Jacobson 2011](#jacobson-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: gerry-stahl-friedrich-hesse-2009
     resource: "https://doi.org/10.1007/s11412-009-9065-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students tend to stick with accustomed genres of practice, sharing opinions more than building on shared knowledge objects; becoming knowledge-creating learners requires development of specific metaskills. [→ Gerry Stahl & Friedrich Hesse 2009](#gerry-stahl-friedrich-hesse-2009)

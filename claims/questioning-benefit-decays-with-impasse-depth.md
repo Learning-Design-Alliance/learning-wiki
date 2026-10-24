@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ahtisham-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38346"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Depth-by-move interactions show the benefit of scripted questions (AOR = 0.78) and follow-up questions (AOR = 0.83) declined with each additional impasse turn, while addressing the incorrect answer increased (AOR = 1.14). [→ Ahtisham 2026](#ahtisham-2026)

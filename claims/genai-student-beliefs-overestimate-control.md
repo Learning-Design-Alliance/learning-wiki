@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zara-contractor-and-germán-reyes-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08849"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both treated and control students expect positive effects of AI access on test scores, but only the treated group's prediction comes close to the estimated effect; the control group overestimates it. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)

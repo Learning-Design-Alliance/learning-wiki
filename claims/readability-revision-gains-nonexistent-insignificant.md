@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1991
 sources:
   - id: mary-h-sawyer-1991
     resource: "https://doi.org/10.1080/10862969109547744"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When materials are revised to make them more readable by formula, gains in comprehension are often either nonexistent or insignificant. [→ Mary H. Sawyer 1991](#mary-h-sawyer-1991)

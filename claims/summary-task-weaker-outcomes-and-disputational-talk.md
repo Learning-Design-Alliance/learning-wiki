@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: amante-2026
     resource: "https://doi.org/10.1007/s11251-025-09764-1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Summaries did not improve significantly from pre- to post-test in any modality, and disputational talk was clearly more frequent in collaborative summaries than in other conditions. [→ Amante 2026](#amante-2026)

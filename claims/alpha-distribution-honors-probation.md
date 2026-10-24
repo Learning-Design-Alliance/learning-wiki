@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1920
 sources:
   - id: bridges-1920
     resource: "https://doi.org/10.1037/h0071462"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Table III contrasts intelligence distributions of the whole university with 1920 Phi Beta Kappa electees and first-semester probationers. [→ Bridges 1920](#bridges-1920)

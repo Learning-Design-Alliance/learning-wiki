@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zagami-2026
     resource: "https://doi.org/10.1080/07294360.2026.2694409"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Shata's 2025 study of 294 full-time US faculty found 33.6% reported not using generative AI, citing readiness, value, identity, perceived threat to human intelligence and wider risk. [→ Zagami 2026](#zagami-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: sten-ludvigsen-2018
     resource: "https://doi.org/10.1007/s11412-018-9274-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Groups using the evidence-based condition showed more high-quality discussion, developing their capacity to see collaborative processes as products of their own thinking that can be improved upon. [→ Sten Ludvigsen 2018](#sten-ludvigsen-2018)

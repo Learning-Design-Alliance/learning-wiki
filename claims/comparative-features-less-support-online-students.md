@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: herodotou-2025
     resource: "https://doi.org/10.18608/jla.2025.8481"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparative features received varied and overall weaker endorsement from students, who disagreed about which data should be shown comparatively, while material recommendations and contact points were strongly endorsed. [→ Herodotou 2025](#herodotou-2025)

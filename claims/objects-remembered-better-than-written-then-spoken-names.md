@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1909
 sources:
   - id: patterson-1909
     resource: "https://books.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` School pupils in all grades immediately recalled more shown objects (average 8.28 of 10) than written words (6.92) or spoken words (6.85). [→ Patterson 1909](#patterson-1909)

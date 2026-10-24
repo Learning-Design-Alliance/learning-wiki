@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: patrick-c-kyllonen-susanne-p-lajoie-2003
     resource: "https://doi.org/10.1207/S15326985EP3802_2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Except for a few students performing highly at pretest, students receiving the interactive computer tutorial showed a significant pre–post performance gain on the orthographic projection task. [→ Patrick C. Kyllonen & Susanne P. Lajoie 2003](#patrick-c-kyllonen-susanne-p-lajoie-2003)

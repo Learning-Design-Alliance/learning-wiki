@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: heejin-do-2026
     resource: "https://doi.org/10.48550/arxiv.2609.03215"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For non-source-based prompts, neither SFT nor GRPO produces any near-duplicate of a training essay (0.00% with ROUGE-L>0.7), and 8-gram overlap is negligible and comparable to held-out real essays. [→ Heejin Do 2026](#heejin-do-2026)

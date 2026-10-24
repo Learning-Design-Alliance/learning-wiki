@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: van-rinsveld-a-2015
     title: Van Rinsveld A 2015
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The problem size effect on accuracy was significant in French but not in German for complex additions. [→ Van Rinsveld A 2015](#van-rinsveld-a-2015)

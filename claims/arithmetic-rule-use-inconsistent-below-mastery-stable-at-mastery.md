@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 1989
+source_checked: 2026-10-21
 sources:
   - id: tatsuoka-1989
     resource: "https://doi.org/10.1111/j.1745-3984.1989.tb00339.x"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · n=161 eighth graders
+> **Currency** · newest study 1989 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 The rule a non-mastering student uses on one occasion is a weak predictor of the rule the same student uses on an identical item later in the same test.
 

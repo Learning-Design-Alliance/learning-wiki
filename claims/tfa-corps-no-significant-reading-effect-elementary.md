@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: turner-h-2018
     resource: "https://doi.org/10.4073/csr.2018.7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There is no significant effect on reading from teaching by TFA corps members in their first or second year compared to non-TFA teachers also in their first or second year teaching elementary-grade students (PreK–grade 5). [→ Turner H 2018](#turner-h-2018)

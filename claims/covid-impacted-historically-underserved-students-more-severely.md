@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+source_checked: 2026-10-20
 sources:
   - id: webinar-desc-2
     title: webinar-desc-2
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The COVID-19 pandemic impacted historically underserved students much more severely than their peers. [→ webinar-desc-2](#webinar-desc-2)

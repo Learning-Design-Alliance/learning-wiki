@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: michelle-l-rivers-2025
     resource: "https://doi.org/10.1007/s10648-025-10040-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Overt retrieval produced higher delayed recall than restudy for definitions (gav = 0.81 in Experiment 1; g = 0.63–0.91 across experiments). [→ Michelle L. Rivers 2025](#michelle-l-rivers-2025)

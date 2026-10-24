@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: sharon-greenberg-anthony-s-bryk-2024
     resource: "https://consortium.uchicago.edu/publications/change-that-matters"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` CPS jettisoned double-dose algebra after a few years because improved academic outcomes had not yet been documented and scheduling was complicated, but later research documented improved pass rates, graduation rates, and college enrollments. [→ Sharon Greenberg & Anthony S. Bryk 2024](#sharon-greenberg-anthony-s-bryk-2024)

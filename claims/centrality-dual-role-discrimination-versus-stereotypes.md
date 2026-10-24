@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: okeke-2009
     resource: "https://doi.org/10.1177/0095798409333615"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors interpret their findings as calling into question the common view of racial centrality as a universal buffer: feeling connected to one's group may foster resilience to discrimination yet vulnerability to negative stereotypes. [→ Okeke 2009](#okeke-2009)

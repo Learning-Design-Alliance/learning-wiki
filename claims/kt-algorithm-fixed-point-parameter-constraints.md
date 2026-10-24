@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: brett-van-de-sande-2013
     resource: "https://doi.org/10.5281/zenodo.3554629"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For P(Lj|Oj) to remain in [0,1] and converge properly, the parameters must satisfy P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)); the P(T) constraint completely supersedes the other. [→ Brett Van de Sande 2013](#brett-van-de-sande-2013)

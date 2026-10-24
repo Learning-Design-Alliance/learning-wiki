@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: philip-2020
     resource: "https://doi.org/10.1080/10508406.2020.1828089"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A contrapuntal reading juxtaposing authenticity-based computing education with sociology of immigrant tech workers shows disciplinary authenticity is racialized, gendered, classed, and marked by language and citizenship. [→ Philip 2020](#philip-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1918
 sources:
   - id: dearborn-1918
     resource: "https://psycnet.apa.org/journals/edu/9/2/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rank correlations between percentage gain in code practice and test gains were small (largest 35±7 for Test 5), and the negative correlation on Test 5 argues for interference between the two directions of code translation. [→ Dearborn 1918](#dearborn-1918)

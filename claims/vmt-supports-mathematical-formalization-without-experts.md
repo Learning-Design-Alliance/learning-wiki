@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: sten-ludvigsen-2016
     resource: "https://doi.org/10.1007/s11412-016-9230-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A case study of three students in the VMT environment with embedded GeoGebra showed students can move toward formalization of mathematical arguments without a teacher or more knowledgeable peer present. [→ Sten Ludvigsen 2016](#sten-ludvigsen-2016)

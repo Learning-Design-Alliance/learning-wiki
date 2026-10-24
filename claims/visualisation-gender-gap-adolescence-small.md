@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: buckley-2026
     resource: "https://doi.org/10.1007/s10648-026-10149-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Single-paper meta-analysis of visualisation performance reveals a small gender difference favouring boys that is robust across instruments. [→ Buckley 2026](#buckley-2026)

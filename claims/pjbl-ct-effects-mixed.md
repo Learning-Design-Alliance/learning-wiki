@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: sofie-m-m-loyens-2023
     resource: "https://doi.org/10.1007/s10648-023-09757-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In one included PjBL study, the PjBL group scored significantly higher than the control group on CT at the second posttest (d = 0.86). [→ Sofie M. M. Loyens 2023](#sofie-m-m-loyens-2023)

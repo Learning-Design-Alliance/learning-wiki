@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: alison-cheng-2025
     resource: "https://doi.org/10.18608/jla.2025.8761"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Models at Stage 1 showed the least bias on average, with all fairness values below the 0.20 threshold, and comparable predictive performance to later stages. [→ Alison Cheng 2025](#alison-cheng-2025)

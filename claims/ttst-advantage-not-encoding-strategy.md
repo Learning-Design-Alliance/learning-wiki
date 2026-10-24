@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1992
 sources:
   - id: carrier-1992
     resource: "https://doi.org/10.3758/bf03202713"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1992 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` With the TTST versus pure ST manipulation on the last presentation only, TTST items were still recalled better, so differential encoding of later presentations cannot explain the effect. [→ Carrier 1992](#carrier-1992)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lases-mitch-n-2026
     resource: "https://doi.org/10.2196/83948"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a pilot RCT, adult outpatient service users rated the STORY MINE module user-friendly (mean 7.77, SD 2.52) and reported it contributed at least somewhat to recovery. [→ Lases Mitch N 2026](#lases-mitch-n-2026)

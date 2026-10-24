@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: ritter-2007
     resource: "https://doi.org/10.3758/bf03194060"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i1` small
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cognitive Tutor students outperformed textbook-taught classmates on achievement, grades, and attitude measures in a within-teacher comparison. [→ Ritter 2007](#ritter-2007)

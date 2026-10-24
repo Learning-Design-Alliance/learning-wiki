@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: orta-2022
     resource: "https://consortium.uchicago.edu/publications/improving-school-family-communication-and-engagement"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Middle school teachers described school-wide, family-inclusive virtual events (e.g., family night with read alouds, bingo, mask-making) as spaces to connect with parents outside academic or behavioral performance conversations. [→ Orta 2022](#orta-2022)

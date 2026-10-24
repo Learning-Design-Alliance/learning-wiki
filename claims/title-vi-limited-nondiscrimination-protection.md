@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: robinson-2021
     resource: "https://doi.org/10.54300/407.455"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Title VI's ability to ensure nondiscrimination is limited because private plaintiffs must prove intentional discrimination, private individuals cannot enforce the disparate impact regulation, and OCR enforcement capacity is limited by underfunding. [→ Robinson 2021](#robinson-2021)

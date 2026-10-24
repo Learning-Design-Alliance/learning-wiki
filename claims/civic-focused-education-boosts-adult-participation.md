@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: brian-gill-2020
     resource: "https://doi.org/10.1017/s000305542000057x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Democracy Prep results provide new evidence that an education focused on preparing students for citizenship can boost civic participation in adulthood. [→ Brian Gill 2020](#brian-gill-2020)

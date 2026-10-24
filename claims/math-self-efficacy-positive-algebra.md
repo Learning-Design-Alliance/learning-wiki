@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: silla-2026
     resource: "https://doi.org/10.1007/s10648-025-10111-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across reviewed studies, mathematics self-efficacy was most often positively related to algebraic thinking, with a minority of studies finding null relations. [→ Silla 2026](#silla-2026)

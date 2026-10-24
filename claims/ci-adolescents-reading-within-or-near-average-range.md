@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: geers-ann-e-hayes-heather-2011
     resource: "https://doi.org/10.1097/AUD.0b013e3181fa41fa"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` CI-HS students averaged a PIAT-R standard score of 83, with 47% scoring within or above one SD of hearing norms, and a TORC total of 90 with 66% within the expected range. [→ Geers Ann E.; Hayes Heather 2011](#geers-ann-e-hayes-heather-2011)

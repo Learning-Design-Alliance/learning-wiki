@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: jin-sook-lee-2016
     resource: "https://www.mathematica.org/publications/an-analysis-of-communicative-language-functions-in-the-speech-patterns-of-bilingual-korean"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The Mexican American children had a greater tendency to use more heritage language in the home than the Korean American children, who used more English. [→ Jin Sook Lee 2016](#jin-sook-lee-2016)

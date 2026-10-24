@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: tongxi-liu-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100565"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 <!-- title before 2026-10-15: GPT-4.1 and Llama 4 Maverick achieve ICC reliability above 0.90 across all IELTS dimensions, while Gemini 2.5 Flash is moderate and Claude Sonnet 4 and DeepSeek R1 fall below 0.70 in most dimensions -->
 

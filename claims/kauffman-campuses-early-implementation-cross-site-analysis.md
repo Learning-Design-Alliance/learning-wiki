@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2006
+recheck_by: 2009
 sources:
   - id: hulsey-2006
     resource: "https://doi.org/10.2139/ssrn.981057"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The report's evidence base for early implementation experiences consists of first-round site visits in spring and fall 2005 and a faculty survey in spring 2006 across the eight campuses. [→ Hulsey 2006](#hulsey-2006)

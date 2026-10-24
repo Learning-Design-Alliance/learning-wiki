@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: sutcher-2017
     resource: "https://learningpolicyinstitute.org/product/supporting-principals-learning"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Practicing principals in networks or well-functioning professional learning communities that meet regularly and work on common problems can share best practices, develop a shared orientation toward instruction, and problem solve. [→ Sutcher 2017](#sutcher-2017)

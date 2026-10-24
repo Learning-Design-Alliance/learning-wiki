@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: angela-johnson-2020
     resource: "https://www.nwea.org/research/publication/the-impact-of-english-learner-reclassification-on-high-school-reading-and-academic-progress/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Regression discontinuity estimates of reclassification effects on on-track status in 10th and 11th grades were positive but imprecise. [→ Angela Johnson 2020](#angela-johnson-2020)

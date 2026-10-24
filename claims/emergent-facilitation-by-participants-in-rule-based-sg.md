@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: marieke-de-wijse-van-heeswijk-2025
     resource: "https://doi.org/10.1007/s11251-025-09715-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Emergent facilitation occurred 12 times in the rule-based SG, driven by experienced cognitive load (15 co-occurrences), scope disturbances from the game (78 co-occurrences) and high distance (31 co-occurrences), and led to increased FOL and SOL. [→ Marieke de Wijse-van Heeswijk 2025](#marieke-de-wijse-van-heeswijk-2025)

@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: mixed
+newest_evidence: 2018
 sources:
   - id: mischel-ebbesen-and-raskoff-zeiss-1972
     resource: "https://doi.org/10.1037/h0032198"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 associational `r2` · `q2`–`q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 Walter Mischel's "marshmallow test" is one of the best-known studies in developmental psychology. Its original follow-up findings were dramatic, but a large, more representative conceptual replication decades later found a substantially weaker and more context-sensitive relationship.
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019
     resource: "https://doi.org/10.1007/s11409-019-09204-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Metacognitive activities did not differ in frequency between low and high challenge dyads, despite differences in assignment quality and cognition. [→ Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers 2019](#cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019)

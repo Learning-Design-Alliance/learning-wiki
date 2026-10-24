@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: the-meetings-at-mobile-1911
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Professor G. D. Strayer presented forms devised for the collection of educational statistics in the Bureau of Education, which the reporter says will enable the commissioner's reports to reflect the actual educational situation more faithfully than before. [→ The Meetings at Mobile 1911](#the-meetings-at-mobile-1911)

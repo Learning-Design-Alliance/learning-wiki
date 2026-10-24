@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: andy-hegedus-2018
     resource: "https://www.nwea.org/research-data-galleries/poverty-and-school-performance"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among the lowest 5% of schools by spring reading achievement, 77% grow their typical student better than the 30th growth percentile (about 0.5 standard deviations below the mean). [→ Andy Hegedus 2018](#andy-hegedus-2018)

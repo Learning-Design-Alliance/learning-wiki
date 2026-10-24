@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: hansen-umeda-and-mckinney-2002
     resource: "https://doi.org/10.1111/1467-9922.00200"
@@ -40,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r?`, 1 theoretical `r?` · `q1`–`q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 A common assumption treats time and attention spent on a bilingual student's home (heritage) language as competing with, and therefore slowing, English acquisition. The evidence points the other way for several distinct mechanisms: vocabulary knowledge transfers between languages, specialist intervention is more effective when delivered bilingually, and a preserved shared language keeps parents able to support their children's schooling.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: johnson-2023
     resource: "https://doi.org/10.54300/529.194"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Multilevel random-coefficients models estimating school-specific spending impacts show heterogeneity across schools, yet improvements in achievement for every school that experienced the state funding infusion. [→ Johnson 2023](#johnson-2023)

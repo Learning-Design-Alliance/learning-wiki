@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: spanish-map-reading-fluency-technical-report-2026
     resource: "https://www.nwea.org/research/publication/spanish-map-reading-fluency-technical-report/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In Spanish, rhyme sensitivity is not a sole predictor of later reading success and shows reduced differentiation among readers by grade 1 and beyond, per research the report attributes to Carrillo (1994). [→ Spanish MAP Reading Fluency Technical Report 2026](#spanish-map-reading-fluency-technical-report-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: shen-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1956939"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The performance-change score averaged −1.835 (median −1.50), indicating final assessment was on average slightly below the prior-performance baseline. [→ Shen 2026](#shen-2026)

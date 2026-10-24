@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: mulvihill-2025
     resource: "https://doi.org/10.1007/s11409-025-09433-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` All MAKQ dimensions negatively correlated with Conners-3 and BRIEF-2 parent-rated attention/executive scales (e.g., Conners Inattentive with control r = −0.65; BRIEF GEC with control r = −0.60). [→ Mulvihill 2025](#mulvihill-2025)

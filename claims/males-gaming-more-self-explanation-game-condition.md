@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: baker-2025
     resource: "https://doi.org/10.1007/s11251-024-09679-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the game condition, male students gamed the system significantly more than female students within the self-explanation steps (Study 1: F(1,68)=4.83, p=0.031; Study 2: F(1,156)=4.82, p=0.030). [→ Baker 2025](#baker-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rashid-azraf-jahin-2026
     resource: "https://doi.org/10.48550/arxiv.2610.00664"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On Qwen3-4B Token F1 by node type, Quantity nodes show the largest relative gain (93.9%), followed by laws (56.6%) and definitions (56.1%), while Entity nodes show the smallest gain (8.7%). [→ Rashid Azraf Jahin 2026](#rashid-azraf-jahin-2026)

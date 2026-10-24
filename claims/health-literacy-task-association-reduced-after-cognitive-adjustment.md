@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-17
 sources:
   - id: wolf-2012
     resource: "https://doi.org/10.1007/s11606-012-2079-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In multivariable analyses, the association between health literacy and task performance was substantially reduced once fluid and crystallized cognitive abilities were entered into models (β = −28.9, 95% CI −31.4 to −26.4 without cognitive abilities; β = −8.5, 95% CI −10.9 to −6.0 with cognitive abilities). [→ Wolf 2012](#wolf-2012)

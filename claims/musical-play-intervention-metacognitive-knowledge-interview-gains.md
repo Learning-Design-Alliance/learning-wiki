@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: zachariou-2023
     resource: "https://doi.org/10.1007/s11409-023-09342-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A significant time × group interaction on metacognitive knowledge at interview showed the intervention group increased while the control group remained stable (η²p = .16). [→ Zachariou 2023](#zachariou-2023)

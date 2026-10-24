@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: paneth-2024
     resource: "https://doi.org/10.1007/s11412-024-09422-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Descriptive mean frequencies per 1-min sequence increase for most nonverbal behaviors as QCGE ratings rise from low to high, e.g. laughing with SE from 1.91 to 5.06 occurrences and head nodding with CC from 1.42 to 3.16. [→ Paneth 2024](#paneth-2024)

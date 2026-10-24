@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: khatib-2011
     resource: "https://doi.org/10.1017/S0142716404001110"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Khatib and Fat'hi (2011) report, from Deacon and Kirby's (2004) four-year longitudinal study, that morphological awareness contributed significantly to pseudoword reading and reading comprehension after controlling for prior reading ability, intelligence, and phonological awareness, and that the contribution remained three years after it was assessed; Khatib and Fat'hi's own study did not measure morphological awareness. [→ Khatib 2011](#khatib-2011)

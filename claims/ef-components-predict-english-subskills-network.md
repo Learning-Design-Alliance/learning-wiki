@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-22
 sources:
   - id: ma-2023
     resource: "https://www.nwnu.edu.cn"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cross-community edges showed A4–D3 strongest (0.23), then A3–D3 (0.21), A5–D3 (0.18), and A1–D2 (0.09), with a negative A4–D1 edge (−0.03). [→ Ma 2023](#ma-2023)

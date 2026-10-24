@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: julia-schindler-tobias-richter-2023
     resource: "https://doi.org/10.1007/s10648-023-09758-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 129 effect sizes from 20 studies, generation interventions improved learning with texts compared to reading them with a medium-sized overall effect of g = 0.41. [→ Julia Schindler · Tobias Richter 2023](#julia-schindler-tobias-richter-2023)

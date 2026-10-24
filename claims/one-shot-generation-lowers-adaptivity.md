@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: yu-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18861"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Static generation increases Validity by 30.8 points for Qwen3-4B-2507 (CoT) but decreases Adaptivity by 28.8 points for Qwen3-30B-A3B (CoT) and Efficiency by 33.8 points for DeepSeek-R1-Distill-14B. [→ Yu Liu 2026](#yu-liu-2026)

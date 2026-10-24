@@ -8,6 +8,9 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: göktürk-2021
     resource: "https://doi.org/10.24106/kefdergi.732138"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` A conceptual article argues that cultural processes (identification and rationalization) and epistemic injustice forms should be considered in understanding the production and maintenance of inequalities in education. [→ Göktürk 2021](#gokturk-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: patricia-a-young-2009
     resource: "http://www.igi-global.com/reference"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Culture is critical to needs assessment and analysis, influences strategy and media selection, affects product development and assessment instruments, and influences ID project management from team formation to train-the-trainer activities. [→ Patricia A. Young 2009](#patricia-a-young-2009)

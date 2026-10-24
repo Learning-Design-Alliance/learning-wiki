@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: means-2009
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Online learning appeared effective for undergraduates (mean effect +0.35, p < .001) and graduate students/professionals (+0.17, p < .05); the mean effect size was not significant for the seven K–12 contrasts, and the test for learner type as a moderator variable was nonsignificant. [→ Means 2009](#means-2009)

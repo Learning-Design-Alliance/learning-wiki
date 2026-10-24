@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ates-2026
     resource: "https://doi.org/10.1186/s41239-026-00614-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Hybrid feedback significantly outperformed direct GenAI-supported feedback on conceptual learning (Cohen's d = 0.23), while the reflective–direct contrast was positive but did not reach significance (d = 0.17, p = .072). [→ Ates 2026](#ates-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: dynarski-2007
     resource: "https://www.mathematica.org/publications/effectiveness-of-reading-and-mathematics-software-products-findings-from-the-first-student-cohort"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For reading products, effects on overall test scores were correlated with the first-grade student-teacher ratio and with fourth-grade usage time. [→ Dynarski 2007](#dynarski-2007)

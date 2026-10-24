@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: mnguni-l-2026
     title: Mnguni L 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the combined South African and Thai sample reported by Mnguni et al. (2024b), intention associated weakly with subjective norm and PBC but moderately with behavioural beliefs, and the overall TPB model was significant in the Thai sample but not the South African sample. [→ Mnguni L 2026](#mnguni-l-2026)

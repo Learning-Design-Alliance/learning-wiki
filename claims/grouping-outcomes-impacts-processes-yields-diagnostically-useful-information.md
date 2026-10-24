@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-09
 sources:
   - id: brian-gill-2023
     resource: "https://www.mathematica.org/publications/outcomes-impacts-and-processes-a-framework-for-understanding-school-performance"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Grouping valid, reliable, and robust performance measure data into complementary groupings of student outcomes, school impacts, and processes provides rich, fair, and diagnostically useful information. [→ Brian Gill 2023](#brian-gill-2023)

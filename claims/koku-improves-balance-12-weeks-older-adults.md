@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: french-chloe-2026
     resource: "https://doi.org/10.1093/ageing/afag291"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants receiving KOKU had a higher mean Berg Balance Score at 12 weeks than those receiving standard care, with a between-group difference of 6.35 points (95% CI 4.48, 8.22). [→ French Chloe 2026](#french-chloe-2026)

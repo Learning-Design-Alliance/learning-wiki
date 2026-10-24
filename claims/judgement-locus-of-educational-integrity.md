@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: sunaina-sharma-2026
     resource: "https://doi.org/10.1007/s40979-026-00216-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The paper theorizes judgement—learners' capacity to weigh options, justify academic choices, and assume responsibility—as the mechanism through which integrity is demonstrated and assessed in hybrid human-GenAI work. [→ Sunaina Sharma 2026](#sunaina-sharma-2026)

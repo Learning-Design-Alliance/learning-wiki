@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: li-shenghui-2013
     resource: "https://doi.org/10.1371/journal.pone.0067928"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` At follow-up, children with frequent daytime sleepiness had greater odds of impaired attention (OR = 1.14, p = 0.030), learning motivation (OR = 1.11, p = 0.015), and academic achievement (OR = 1.18, p = 0.005). [→ Li Shenghui 2013](#li-shenghui-2013)

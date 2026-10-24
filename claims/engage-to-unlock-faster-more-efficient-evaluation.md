@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xiaotian-su-2026
     resource: "https://doi.org/10.48550/arxiv.2610.01518"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Engage-to-Unlock participants completed evaluation in 17.41 minutes on average versus 22.21 (Standard Chatbot, d=−0.48) and 20.29 (Time-Matched Unlock, d=−0.30), and showed higher overall judgment efficiency than Standard Chatbot (d=0.53). [→ Xiaotian Su 2026](#xiaotian-su-2026)

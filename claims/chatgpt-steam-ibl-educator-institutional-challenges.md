@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: haozhe-jiang-2026
     resource: "https://doi.org/10.1186/s40594-026-00628-9"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` At the educator and institutional levels, the reviewed studies identified challenges including misalignment with curricular goals, reduced instructional depth, the need for sustained teacher mediation, unequal access, technical barriers, privacy concerns, risks to academic integrity, and algorithmic bias. [→ Haozhe Jiang 2026](#haozhe-jiang-2026)

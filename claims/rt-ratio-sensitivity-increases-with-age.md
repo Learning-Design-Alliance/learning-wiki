@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: haist-frank-2015
     resource: "https://doi.org/10.1002/hbm.22666"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Across the full sample, RT BRE correlated positively with age (r = .383), and adults showed greater RT ratio sensitivity than children, with adolescents intermediate. [→ Haist Frank 2015](#haist-frank-2015)

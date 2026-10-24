@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1983
+recheck_by: 1988
 sources:
   - id: orton-1983
     resource: "https://doi.org/10.1007/BF00704699"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 1983 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1988**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Analysis of student responses to integration and limit tasks produced detailed data on the degree of understanding attained and on common errors and misconceptions. [→ Orton 1983](#orton-1983)

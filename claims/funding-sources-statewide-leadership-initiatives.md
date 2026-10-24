@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: fitz-2024
     resource: "https://doi.org/10.54300/795.572"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Statewide leadership development initiatives are funded through a mix of federal, state, and local sources, with initiatives frequently administered through the state department of education but sometimes funded by the state and administered by higher education institutions, nonprofits, regional agencies, or the governor's office. [→ Fitz 2024](#fitz-2024)

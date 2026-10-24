@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: yun-2020
     resource: "http://learningpolicyinstitute.org/product/strategies-funding-teacher-residencies-california"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within 1 year of placing 25 residents at Wishon Elementary, school achievement scores improved by 32 points in ELA and 28 points in mathematics, with group-level gains of 37 points in ELA and 32 points in math for student subgroups. [→ Yun 2020](#yun-2020)

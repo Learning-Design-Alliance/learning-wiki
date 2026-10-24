@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-08
+recheck_by: 2031
 sources:
   - id: trend-snapshots-covid-19-recovery-in-k2-2026
     resource: "https://www.nwea.org/research/publication/trend-snapshots-covid-19-recovery-in-k-2-positive-recovery-trends/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The latest MAP Growth National Dashboard data show positive recovery trends in K-2 academic recovery following the COVID pandemic. [→ Trend Snapshots: COVID-19 recovery in K–2 2026](#trend-snapshots-covid-19-recovery-in-k2-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: parker-2010
     resource: "https://www.edgefoundation.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All participants identified ways coaching enhanced their capacity to manage daily stress, and students described feeling more proficient, less overwhelmed, and emotionally supported. [→ Parker 2010](#parker-2010)

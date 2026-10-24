@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: ceri-ngai-and-sam-j-gilbert-2026
     resource: "https://doi.org/10.1186/s41235-026-00714-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` At pre-task the feedback group was significantly less underconfident than the no-feedback group, but groups did not differ significantly in post-task metacognitive bias. [→ Ceri Ngai and Sam J. Gilbert 2026](#ceri-ngai-and-sam-j-gilbert-2026)

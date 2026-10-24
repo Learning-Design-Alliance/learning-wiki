@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: beth-tarasawa-2016
     resource: "https://www.nwea.org/research/publication/concurrent-validity-of-the-independent-reading-level-assessment-framework-and-a-state-assessment/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The study sought concurrent validity evidence for the Independent Reading Level Assessment framework as a screening tool within the RTI framework. [→ Beth Tarasawa 2016](#beth-tarasawa-2016)

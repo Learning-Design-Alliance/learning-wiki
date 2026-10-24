@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zou-j-2026
     title: Zou J 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After adding gender, year, major, university type, AI use frequency, AI training, and practicum experience as controls, every focal path kept its direction and significance with coefficient changes not exceeding 0.008, and no control directly predicted intention. [→ Zou J 2026](#zou-j-2026)

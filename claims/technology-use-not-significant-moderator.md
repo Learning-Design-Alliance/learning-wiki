@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: rachel-sermier-dessemontet-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100615"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Studies using technology for the read aloud (t(3.7) = 0.03, p = .975), as a response mode (t(3.9) = 0.49, p = .648), or as interactive instructional support (t(4.2) = 0.19, p = .857) did not yield larger or smaller effect sizes than studies without such technology. [→ Rachel Sermier Dessemontet 2024](#rachel-sermier-dessemontet-2024)

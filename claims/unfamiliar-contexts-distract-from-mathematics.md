@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: preparing-problems-for-classroom-instruction-2012
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/16"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When a math problem uses foreign terms and concepts, students focus on the unfamiliar situation and vocabulary instead of the required mathematics and reasoning. [→ Preparing Problems for Classroom Instruction 2012](#preparing-problems-for-classroom-instruction-2012)

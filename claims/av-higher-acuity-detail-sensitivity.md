@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zhang-beibei-et-al-2026
     resource: "https://doi.org/10.1371/journal.pone.0358951"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Self-reported acuity scores after AV were significantly higher than after VS, but the Wilcoxon check did not reach significance. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)

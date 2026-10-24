@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: charlotte-dignath-2021
     resource: "https://doi.org/10.1007/s11409-021-09285-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers perceive SRL to be desirable for their students but not feasible to implement in their classrooms. [→ Charlotte Dignath 2021](#charlotte-dignath-2021)

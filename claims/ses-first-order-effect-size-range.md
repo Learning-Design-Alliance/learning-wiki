@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: tan-2024
     resource: "https://doi.org/10.1007/s10648-024-09929-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` First-order meta-analyses reviewed report SES–achievement effect sizes including r = .29 (Sirin), r = .22 (Harwell), r = .41 (Ciftci & Melis Cin), and r = .12–.18 (Kim et al., developing countries). [→ Tan 2024](#tan-2024)

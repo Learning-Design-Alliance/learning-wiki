@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: supplemental-14-schools
     title: supplemental-14-schools
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a supplemental alternate sample of students in 14 middle schools, the 2002 FCAT MJ-3 contrast had a positive effect size of 0.12 (improvement index +5) with p = .02, but a WWC critical p-value of .013 made it not statistically significant. [→ supplemental-14-schools](#supplemental-14-schools)

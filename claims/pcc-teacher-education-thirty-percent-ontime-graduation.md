@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: rentz-2024
     resource: "https://ies.ed.gov/ncee/rel/Products/Region/pacific/Publication/108210"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Of 109 teacher education students enrolled at PCC during 2019/20–2021/22, 33 (30 percent) graduated within two years, which PCC considers on time for full-time students. [→ Rentz 2024](#rentz-2024)

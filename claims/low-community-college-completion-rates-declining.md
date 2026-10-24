@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: nodine-2011
     resource: "http://knowledgecenter.completionbydesign.org/knowledge-center"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Roughly 21-23 percent of community college entrants earned a credential within three years, and rates for black and Hispanic students were about 12 and 16 percent respectively. [→ Nodine 2011](#nodine-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: baker-courtney-n-2015
     resource: "https://doi.org/10.1037/edu0000008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors interpret prior achievement as protective against harmful teacher perceptions, with low-income children having lower prior achievement yet being most vulnerable to negative perceptions. [→ Baker Courtney N. 2015](#baker-courtney-n-2015)

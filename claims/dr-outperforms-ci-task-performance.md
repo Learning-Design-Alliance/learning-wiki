@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: zhanxin-hao-2026
     resource: "https://doi.org/10.48550/arxiv.2603.21288"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the three profiles, only the DR group significantly outperformed the CI group on rated task performance (Kruskal-Wallis H = 9.437, p = .009); differences between other pairs did not reach significance. [→ Zhanxin Hao 2026](#zhanxin-hao-2026)

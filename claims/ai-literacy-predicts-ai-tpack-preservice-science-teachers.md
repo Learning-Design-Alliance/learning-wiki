@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zou-j-2026
     title: Zou J 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In a PLS-SEM analysis of 548 pre-service science teachers, AI literacy significantly and positively predicted AI-TPACK (β = 0.570), with a large f² effect size of 0.482. [→ Zou J 2026](#zou-j-2026)

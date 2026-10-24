@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yu-j-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1897168"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-supported design iteration is a sequence of activities including generation, selection, evaluation, and revision, in which prompting becomes a way for students to organise ideas. [→ Yu J 2026](#yu-j-2026)

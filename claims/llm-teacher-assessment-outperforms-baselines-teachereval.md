@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: li-2025
     resource: "https://doi.org/10.3390/info16100882"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On TeacherEval-2023 the framework achieves ICS of 82.4%, 12.6 points higher than BERT-base and 9.2 points higher than Instructor-LM, with ExpScore 0.78, ECE 0.032, and FG 1.8% versus 6–9% for baselines. [→ Li 2025](#li-2025)

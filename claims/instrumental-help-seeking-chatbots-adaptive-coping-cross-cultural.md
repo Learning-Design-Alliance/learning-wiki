@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: huinan-hu-2026
     resource: "https://doi.org/10.31234/osf.io/qm6bg_v1"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2` · `i0`–`i2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Instrumental help-seeking preference is positively correlated with adaptive coping (β = 0.16, p < 0.001) in a SEM on the whole sample. [→ Huinan Hu 2026](#huinan-hu-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: bauer-2020
     resource: "https://doi.org/10.1016/j.learninstruc.2019.101271"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A repeated measures ANOVA on confidence ratings revealed a main effect of statement type (η² = .33); children were more confident endorsing old statements than new or hybrid ones, and more confident accepting hybrids than new statements. [→ Bauer 2020](#bauer-2020)

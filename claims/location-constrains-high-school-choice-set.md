@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: andria-shyjka-2021
     resource: "https://consortium.uchicago.edu/publications/student-experience-with-the-high-school-choice-process-in-Chicago-Public-Schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Location was a key factor both in constraining the pool of potential schools students considered for application and in their ultimate school decision. [→ Andria Shyjka 2021](#andria-shyjka-2021)

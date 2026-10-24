@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: anthony-s-bryk-1998
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The guide concludes that improvement efforts should be classified by looking simultaneously at both the learning gain trends and the output trends, which together provide a more detailed summary of changing school productivity over time. [→ Anthony S. Bryk 1998](#anthony-s-bryk-1998)

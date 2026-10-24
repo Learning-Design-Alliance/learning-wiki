@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: vocabulary-improvement-program-for-english-language-learners-and-their-classmates-2006
     resource: "http://www.brookespublishing.com/store/books/lively-6342/index.htm"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` VIP had no statistically significant and no substantively important impacts on the Peabody Picture Vocabulary Test-Revised (effect size –0.11, improvement index –4) and the Morphology measure (effect size 0.18, improvement index +7). [→ Vocabulary Improvement Program for English Language Learners and Their Classmates 2006](#vocabulary-improvement-program-for-english-language-learners-and-their-classmates-2006)

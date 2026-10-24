@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: sutcher-2017
     resource: "https://learningpolicyinstitute.org/product/supporting-principals-learning"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An evaluation found students in schools led by New Leaders principals experienced larger achievement gains than students in schools led by non-New Leaders principals, controlling for student characteristics, and New Leaders principals were more likely to remain in their schools for 3 or more years. [→ Sutcher 2017](#sutcher-2017)

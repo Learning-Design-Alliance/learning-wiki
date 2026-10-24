@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: silla-2026
     resource: "https://doi.org/10.1007/s10648-025-10111-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The review reports that proficiency with fractions is widely evidenced as a precursor to success in algebra, with most studies of general fraction knowledge finding positive relations. [→ Silla 2026](#silla-2026)

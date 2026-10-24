@@ -73,7 +73,12 @@ KINDS = {
 # Kept per page when present. Deliberately short: this is a resolution table,
 # not a mirror of the wiki. `grain_size` earns its place because a profile
 # realizing a pattern cares whether that pattern is a lesson or a course.
-EXTRA_FIELDS = ("status", "grain_size", "evidence_strength")
+# The three currency fields (scripts/add_currency.py) say how old a claim's newest
+# study is, when its entries were last checked against their sources, and, for
+# fast-ageing kinds only, when it is due a recheck; a consumer needs them to know
+# how stale a claim is without fetching it.
+EXTRA_FIELDS = ("status", "grain_size", "evidence_strength",
+                "newest_evidence", "source_checked", "recheck_by")
 CANONICAL_LINK = re.compile(r"^- \[[^\]]+\]\(([^)/]+)\.md\) — the canonical page for this theory", re.M)
 
 

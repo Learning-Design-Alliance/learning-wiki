@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: rebecka-rundquist-2024
     resource: "https://doi.org/10.18608/jla.2024.8299"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using learning paths for SRL did not increase student effort, but accuracy improved, resulting in increased learning performance and transfer. [→ Rebecka Rundquist 2024](#rebecka-rundquist-2024)

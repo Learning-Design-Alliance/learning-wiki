@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: julian-bernado-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27043"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Models using words plus corpus-derived and construct-derived assertions reached macro-F1 0.527–0.673 against 0.339 for words only; the authors conclude all three sources contribute, though Table 1 reports no words-plus-construct-derived-only condition. [→ Julian Bernado 2026](#julian-bernado-2026)

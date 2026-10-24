@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: thao-m-t-nguyen-and-lap-q-trinh-2011
     resource: "https://doi.org/10.26634/jelt.1.1.1348"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Successful and less successful groups differed significantly in global strategy use (t= 4.45, df= 74, p= .00) and support strategy use (t= 3.20, df= 74, p= .00), but not in problem-solving strategy use (t= 1.81, df= 74, p= .07). [→ Thao M. T. Nguyen and Lap Q. Trinh 2011](#thao-m-t-nguyen-and-lap-q-trinh-2011)

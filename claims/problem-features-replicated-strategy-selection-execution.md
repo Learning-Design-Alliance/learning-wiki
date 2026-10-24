@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: marie-geurten-patrick-lemaire-2017
     resource: "https://www.google.com/search?q=Metacognition+for+Strategy+Selection+during+Arithmetic+Problem+Solving+in+Young+and+Older+Adults"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants selected the better strategy more when it was rounding-up and problems were homogeneous, and executed rounding-down faster on homogeneous problems, in both age groups. [→ Marie Geurten & Patrick Lemaire 2017](#marie-geurten-patrick-lemaire-2017)

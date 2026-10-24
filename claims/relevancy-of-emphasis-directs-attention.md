@@ -6,6 +6,7 @@ generated:
   by: "claude/unspecified"
   at: 2026-08-30
 evidence_strength: moderate
+newest_evidence: 1985
 sources:
   - id: nist-1985
     resource: "https://eric.ed.gov/?id=ED265520"
@@ -32,6 +33,7 @@ id: relevancy-of-emphasis-directs-attention
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
+> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
 
 Emphasis cues such as underlining do not simply boost learning overall — they shift attention toward whatever is emphasized, so test performance follows the *relevancy* of the marked material rather than the mere presence of marking.
 

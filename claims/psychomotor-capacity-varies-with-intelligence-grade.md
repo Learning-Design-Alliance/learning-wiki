@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: wallin-1915
     resource: "https://search.worldcat.org/search?q=Age+Norms+of+Psycho-Motor+Capacity"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Form-board scores order by group: bright children surpass average, average surpass dull or backward, backward surpass feeble-minded, higher grades of feeble-minded surpass lower, and feeble-minded surpass epileptic children. [→ Wallin 1915](#wallin-1915)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-18
+recheck_by: 2026
 sources:
   - id: nathan-barrett-2021
     resource: "https://www.nwea.org/research/publication/disparities-and-discrimination-in-student-discipline-by-race-and-family-income/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Comparing punishments within pairs of students who fight one another shows Black and poor students receive harsher punishment than their White or nonpoor opponents. [→ Nathan Barrett 2021](#nathan-barrett-2021)

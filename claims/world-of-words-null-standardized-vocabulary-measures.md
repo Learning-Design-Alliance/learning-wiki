@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: wj-null
     title: wj-null
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q3` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In the Neuman et al. (2011) study, the Woodcock-Johnson Picture Vocabulary Subtest showed no statistically significant difference (effect size 0.05, p = 0.76). [→ wj-null](#wj-null)

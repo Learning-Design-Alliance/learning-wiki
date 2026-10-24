@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: liane-kaufmann-2020
     resource: "https://doi.org/10.1024/2235-0977/a000294"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adults with DD frequently recruit procedural strategies including finger counting for single-digit problems typically solved by memory retrieval, and their longer response latencies on numerical magnitude tasks appear number-specific since non-numerical semantic categorization is as fast as controls. [→ Liane Kaufmann 2020](#liane-kaufmann-2020)

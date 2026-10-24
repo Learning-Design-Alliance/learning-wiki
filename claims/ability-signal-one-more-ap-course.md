@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: naihobe-gonzalez-2017
     resource: "https://www.mathematica.org/publications/how-learning-about-ones-ability-affects-educational-investments-evidence-from-the-advanced-placement"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Surveyed students who received the signal enrolled in and passed about one more AP course in the following academic year than students who did not receive the signal. [→ Naihobe Gonzalez 2017](#naihobe-gonzalez-2017)

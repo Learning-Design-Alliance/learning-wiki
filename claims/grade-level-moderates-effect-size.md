@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: dietrichson-2021
     resource: "https://doi.org/10.1002/cl2.1152"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-regressions revealed few significant moderators: interventions in higher Grades tend to have somewhat lower effect sizes, with no significant differences between QES and RCTs, general tests and subdomain tests, or math and reading tests. [→ Dietrichson 2021](#dietrichson-2021)

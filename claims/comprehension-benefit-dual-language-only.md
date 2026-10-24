@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: yow-2019
     resource: "https://doi.org/10.1177/2332858419878126"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 1, a Condition main effect on comprehension was marginally significant, F(1, 30) = 3.82, p = .060, partial η2 = .11, with higher scores in enhanced sessions (M = 1.78) than baseline (M = 1.58). [→ Yow 2019](#yow-2019)

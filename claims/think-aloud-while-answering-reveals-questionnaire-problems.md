@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: gonny-schellings-2011
     resource: "https://doi.org/10.1007/s11409-011-9069-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Think-aloud questioning revealed that some items were misunderstood (e.g., the term 'concepts', abstract phrases like 'drawing conclusions'), some answers referred to general learning rather than the task, uncertain students chose the middle scale point as a 'neutral' answer, and social desirability may have affected ratings. [→ Gonny Schellings 2011](#gonny-schellings-2011)

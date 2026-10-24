@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: liu-s-2020
     title: Liu S 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Acute exercises produce a significant small benefit for inhibitory control in children and adolescents (SMD = −0.25). [→ Liu S 2020](#liu-s-2020)

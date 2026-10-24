@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: aras-bozkurt-2026
     resource: "https://doi.org/10.55982/openpraxis.18.1.1145"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` At MEF University, Comet initially refused to complete assignments citing academic integrity concerns, but the refusal was bypassed with a single unverified claim that the user was an instructor testing its capabilities. [→ Aras Bozkurt 2026](#aras-bozkurt-2026)

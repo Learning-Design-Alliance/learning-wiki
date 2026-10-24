@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: margina-ruiter-sofie-loyens-fred-paas-2015
     resource: "https://doi.org/10.1007/s10648-015-9324-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Children who received math training with movements performed significantly better on the final math test than children who practiced without movements (η2=0.05). [→ Margina Ruiter & Sofie Loyens & Fred Paas 2015](#margina-ruiter-sofie-loyens-fred-paas-2015)

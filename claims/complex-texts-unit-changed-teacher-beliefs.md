@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: helping-english-learners-rise-to-the-challenge-of-complex-texts-2014
     resource: "http://ell.stanford.edu/teaching_resources/ela"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Feedback from schools field-testing the unit indicates it changed teachers' beliefs about what ELL students were capable of achieving. [→ Helping English Learners Rise to the Challenge of Complex Texts 2014](#helping-english-learners-rise-to-the-challenge-of-complex-texts-2014)

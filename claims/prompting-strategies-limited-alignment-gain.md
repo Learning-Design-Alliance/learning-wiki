@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: norah-almousa-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28026"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Applying category-information or few-shot prompting strategies yields limited improvement in alignment with teacher feedback distributions; Prompt 2 increases JSD for most models and Prompt 3 improves alignment only for Mistral-7B. [→ Norah Almousa 2026](#norah-almousa-2026)

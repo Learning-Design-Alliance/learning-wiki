@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mendonça-pc-2026
     title: Mendonça PC 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the five response-level dimensions, student-level means ranged from 4.24 to 4.43, with clarity (M = 4.43) and accuracy (M = 4.40) highest and actionability (M = 4.24) and usefulness (M = 4.24) lowest. [→ Mendonça PC 2026](#mendonca-pc-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: building-decision-skills-2006
     resource: "https://www.globalethics.org/services/edu/bds.htm"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the study's comparison of Building Decision Skills with service learning against service-learning alone, differences favored the combined condition on ethical awareness and ethical perspective, but not on five other outcomes. [→ Building Decision Skills 2006](#building-decision-skills-2006)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: martin-r-west-2021
     resource: "https://www.mathematica.org/publications/how-much-have-students-missed-academically-because-of-the-pandemic-a-review-of-the-evidence-to-date"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The report is part of a series that aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic has affected America's students. [→ Martin R. West 2021](#martin-r-west-2021)

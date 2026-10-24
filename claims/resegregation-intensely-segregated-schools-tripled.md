@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: george-2021
     resource: "https://learningpolicyinstitute.org/product/magnet-schools"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Since 1988, the share of intensely segregated non-white schools (0–10% white students) more than tripled, from about 6% to 19% of all public schools. [→ George 2021](#george-2021)

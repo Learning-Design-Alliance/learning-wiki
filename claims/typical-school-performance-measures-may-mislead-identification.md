@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: brian-gill-2022
     resource: "https://ies.ed.gov/ncee/rel/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Relying on typical measures for assessing school performance may lead state and local decisionmakers astray in identifying schools for targeted or comprehensive support and improvement. [→ Brian Gill 2022](#brian-gill-2022)

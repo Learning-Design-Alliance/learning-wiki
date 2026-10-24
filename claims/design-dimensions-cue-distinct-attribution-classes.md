@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: phillips-2026
     resource: "https://doi.org/10.3389/fcogn.2026.1786256"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` People attribute affective, social, and moral minded capacities to robots based on facial features, while attributions about physical interaction are tied to bodily features and manipulators. [→ Phillips 2026](#phillips-2026)

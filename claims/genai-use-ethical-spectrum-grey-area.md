@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ji-ying-2026
     resource: "https://doi.org/10.1007/s10805-026-09752-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students do not view GenAI use in binary terms but on a spectrum, with generating an entire task seen as cheating and grammar checks or brainstorming seen as acceptable, while middle-ground uses constitute an ethical grey area. [→ Ji Ying 2026](#ji-ying-2026)

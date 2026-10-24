@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: pardos-2010
     resource: "https://doi.org/10.1007/978-3-642-13470-8_24"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Corbett and Anderson accomplished adding individualization to their knowledge tracing model in their original articles, but with mixed results. [→ Pardos 2010](#pardos-2010)

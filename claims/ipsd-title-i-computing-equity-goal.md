@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: digital-promise-2021
     resource: "https://doi.org/10.51388/20.500.12265/131"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` IPSD's stated equity goal was to increase computing opportunities in a cluster of five Title I elementary schools, motivated by ensuring computing reaches all students rather than only those in electives, after-school programs, or families with access. [→ Digital Promise 2021](#digital-promise-2021)

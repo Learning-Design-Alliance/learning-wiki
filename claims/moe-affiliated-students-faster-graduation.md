@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: rentz-2024
     resource: "https://ies.ed.gov/ncee/rel/Products/Region/pacific/Publication/108210"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` MOE-affiliated current teachers had estimated average graduation times of 2.3 years, while PCAA (Head Start) and unaffiliated students averaged 3 and 2.8 years respectively, with overlapping confidence intervals across groups. [→ Rentz 2024](#rentz-2024)

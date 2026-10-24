@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: relations-between-the-worked-example-and-generation-effects-on-immediate-and-delayed-tests-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2016.06.007"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most surveyed generation effect studies demonstrated the effect after a delay or distraction (35 of 38), while a smaller proportion did so with immediate tests (19 of 26). [→ Relations Between the Worked Example and Generation Effects on Immediate and Delayed Tests 2016](#relations-between-the-worked-example-and-generation-effects-on-immediate-and-delayed-tests-2016)

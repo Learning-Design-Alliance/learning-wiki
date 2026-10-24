@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: vuorre-2021
     resource: "https://doi.org/10.1007/s11409-020-09257-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The authors argue that correct guessing inflates performance measures, biasing calibration toward underconfidence, with the strongest bias among lowest-performing individuals. [→ Vuorre 2021](#vuorre-2021)

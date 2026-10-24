@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hossain-2026
     resource: "https://doi.org/10.48550/arxiv.2607.14301"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Configural, metric, and scalar invariance of the retained measurement model held across gender, first-generation status, and STEM versus non-STEM major groupings. [→ Hossain 2026](#hossain-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2013
+source_checked: 2026-10-24
 sources:
   - id: ming-fai-pang-2013
     resource: "https://doi.org/10.1007/s11251-013-9272-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One set of pedagogical tools was highly effective for learners with a better initial grasp of the object of learning, another set was equally effective for learners with a weaker initial grasp, and both sets were equally ineffective when used for the wrong group of learners. [→ Ming Fai Pang 2013](#ming-fai-pang-2013)

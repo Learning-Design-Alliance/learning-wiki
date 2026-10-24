@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: mm-casey-and-s-mcvitie-2009
     resource: "https://doi.org/10.48550/arxiv.0911.2733"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A hard core of students (Group 3, ~5% of the population) appeared unresponsive to offers of assistance, and their attendance did not improve at all. [→ MM Casey and S McVitie 2009](#mm-casey-and-s-mcvitie-2009)

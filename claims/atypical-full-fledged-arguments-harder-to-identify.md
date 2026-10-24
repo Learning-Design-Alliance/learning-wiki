@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: sarah-von-der-mühlen-2019
     resource: "https://doi.org/10.1007/s11251-018-9471-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At pretest, atypical full-fledged arguments were identified less accurately than typical full-fledged arguments, which were in turn harder than arguments with only three components. [→ Sarah von der Mühlen 2019](#sarah-von-der-muhlen-2019)

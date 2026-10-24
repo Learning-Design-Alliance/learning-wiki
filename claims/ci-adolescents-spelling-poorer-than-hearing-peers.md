@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: geers-ann-e-hayes-heather-2011
     resource: "https://doi.org/10.1097/AUD.0b013e3181fa41fa"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` CI-HS students spelled 67% of Picture Spelling Test items correctly versus 80% for hearing controls, a significant difference, though 55% of CI students scored within 1 SD of the control group. [→ Geers Ann E.; Hayes Heather 2011](#geers-ann-e-hayes-heather-2011)

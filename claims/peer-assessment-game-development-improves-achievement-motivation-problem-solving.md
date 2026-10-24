@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-18
 sources:
   - id: hwang-2014
     resource: "https://doi.org/10.1007/s11423-013-9320-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sixth graders learning game development with peer assessment showed better learning achievement, learning motivation and problem-solving skills than those learning with the conventional game development approach. [→ Hwang 2014](#hwang-2014)

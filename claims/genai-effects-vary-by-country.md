@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ying-dong-2026
     resource: "https://doi.org/10.1057/s41599-026-06903-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review attributes positive GenAI effects in China and Pakistan to addressing educational resource inequity, and negative effects in Korea and Turkey to cultural preferences for teacher-student interaction, curricular misalignment, and technical limitations. [→ Ying Dong 2026](#ying-dong-2026)

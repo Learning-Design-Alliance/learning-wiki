@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: braaten-eb-2020
     resource: "https://doi.org/10.1007/s00787-019-01455-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Mean PS scores of youth in every diagnostic subgroup and referred youth with no psychiatric diagnoses were significantly below the Wechsler normative mean of 100. [→ Braaten EB 2020](#braaten-eb-2020)

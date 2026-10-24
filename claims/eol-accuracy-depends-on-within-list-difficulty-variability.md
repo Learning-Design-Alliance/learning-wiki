@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: jemstedt-2017
     resource: "https://doi.org/10.1007/s11409-017-9172-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` In Experiment 1, EOL accuracy (gamma) was reliably higher for the high-variability list (M = .74) than the low-variability list (M = .21), d = 2.70. [→ Jemstedt 2017](#jemstedt-2017)

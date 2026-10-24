@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: what-works-clearinghouse-2008
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/336"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Three and a half years after random assignment, 52% of the New Chance group had earned a diploma or GED certificate, compared with 44% of the control group, a statistically significant difference. [→ What Works Clearinghouse 2008](#what-works-clearinghouse-2008)

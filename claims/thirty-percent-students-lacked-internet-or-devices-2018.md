@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: darling-hammond-2020
     resource: "http://learningpolicyinstitute.org/product/restarting-reinventing-school-covid"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Based on 2018 census data, roughly 30% of the 50 million U.S. k-12 students lacked either high-speed internet or an adequate device for digital learning at home, and nearly two thirds of these lacked both. [→ Darling-Hammond 2020](#darling-hammond-2020)

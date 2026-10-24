@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: guillermo-cruces-2026
     resource: "https://doi.org/10.2139/ssrn.6246347"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` High-education control participants outperform low-education participants in both writing and content, and AI improves both dimensions for both groups. [→ Guillermo Cruces 2026](#guillermo-cruces-2026)

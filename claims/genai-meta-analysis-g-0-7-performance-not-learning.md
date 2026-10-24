@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: yan-2025
     resource: "https://doi.org/10.1038/s44159-025-00467-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` A meta-analysis of 69 studies of ChatGPT and other generative AI tools in K-12 and tertiary education reported improved student academic performance with Hedge's g = 0.7. [→ Yan 2025](#yan-2025)

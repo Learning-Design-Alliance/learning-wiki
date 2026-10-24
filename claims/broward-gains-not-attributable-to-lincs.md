@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: nan-maxwell-2017
     resource: "https://www.mathematica.org/publications/outcomes-from-a-certification-program-for-early-career-professionals-in-supply-chain-management"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For the 150 Broward College students, outcomes represented a 3.3 percent increase in employment and a 5.2 percent increase in earnings since first enrolling; both increases were statistically significant, but the estimated impacts were not, so the gains cannot be attributed to LINCS. [→ Nan Maxwell 2017](#nan-maxwell-2017)

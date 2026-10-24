@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: schmidt-ftc-2020
     title: Schmidt FTC 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The post hoc Johnson–Neyman findings suggest that fostering trait self-control may not benefit all students equally, since only students above the very low end of the fluid reasoning spectrum profited significantly for grades. [→ Schmidt FTC 2020](#schmidt-ftc-2020)

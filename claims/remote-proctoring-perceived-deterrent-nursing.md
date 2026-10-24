@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: harerimana-a-2026
     resource: "https://doi.org/10.1007/s40979-026-00229-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Graduate nurse practitioner students overwhelmingly agreed that webcam proctoring and lockdown browsers deterred cheating, though frequent minor alerts caused false positives requiring faculty review. [→ Harerimana A 2026](#harerimana-a-2026)

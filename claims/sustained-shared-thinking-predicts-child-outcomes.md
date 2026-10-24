@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: dave-neale-deborah-pino-pasternak-2016
     resource: "https://doi.org/10.1007/s10648-016-9376-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that the EPPE and REPEY studies found prevalence of sustained shared thinking was highly predictive of children's outcomes including social/behavioral development, academic progress, and reading and mathematics at age 6. [→ Dave Neale & Deborah Pino-Pasternak 2016](#dave-neale-deborah-pino-pasternak-2016)

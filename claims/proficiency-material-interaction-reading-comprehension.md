@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: gao-x-2026
     title: Gao X 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The omnibus two-way ANOVA on reading comprehension showed a significant Proficiency × Material interaction, F(4, 126) = 7.43, p < 0.001, η2p = 0.191. [→ Gao X 2026](#gao-x-2026)

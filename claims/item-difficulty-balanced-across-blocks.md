@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: badali-2023
     resource: "https://doi.org/10.1007/s10648-023-09761-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` First-block and second-block items showed comparable normative difficulty based on first cued-recall practice-trial performance in a prior experiment. [→ Badali 2023](#badali-2023)

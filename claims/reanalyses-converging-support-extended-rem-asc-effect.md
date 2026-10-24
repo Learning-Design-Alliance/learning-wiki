@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-24
 sources:
   - id: fernando-núñez-regueiro-2025
     resource: "https://doi.org/10.1007/s10648-025-10059-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reanalyses of both the simulated data constructed by Sorjonen et al. and the original PALMA dataset provide converging support for the extended REM and, in particular, for an effect of academic self-concept on achievement. [→ Fernando Núñez-Regueiro 2025](#fernando-nunez-regueiro-2025)

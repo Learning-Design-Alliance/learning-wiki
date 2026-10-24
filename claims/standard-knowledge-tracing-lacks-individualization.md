@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-20
+recheck_by: 2013
 sources:
   - id: pardos-2010
     resource: "https://doi.org/10.1007/978-3-642-13470-8_24"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2013**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Knowledge tracing models currently in use do not allow for individual learning rates nor individualized estimates of student initial knowledge. [→ Pardos 2010](#pardos-2010)

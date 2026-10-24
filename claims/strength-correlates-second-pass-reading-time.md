@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: catrysse-2025
     resource: "https://doi.org/10.1007/s10648-025-10000-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Strength shows a strong positive correlation with second-pass reading time (r = 0.645). [→ Catrysse 2025](#catrysse-2025)

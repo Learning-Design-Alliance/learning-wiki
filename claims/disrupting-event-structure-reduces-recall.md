@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: spanjers-2010
     resource: "https://doi.org/10.1007/s10648-010-9135-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants viewing videos from which event boundaries had been deleted recalled a lower proportion of subevents than participants viewing other versions. [→ Spanjers 2010](#spanjers-2010)

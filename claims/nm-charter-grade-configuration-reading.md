@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: charter-school-performance-in-new-mexico-2019
     resource: "https://credo.stanford.edu/reports/item/charter-school-performance-in-new-mexico-2/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Charter elementary students register reading surpluses of 47 additional days and charter middle school students outperform TPS VCRs in reading by 53 extra days; math growth is not statistically different for elementary and middle schools. [→ Charter School Performance in New Mexico 2019](#charter-school-performance-in-new-mexico-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 1984
+recheck_by: 1989
 sources:
   - id: armbruster-1984
     resource: "https://eric.ed.gov/?id=ED240511"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 1984 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1989**: baselines and conditions change
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

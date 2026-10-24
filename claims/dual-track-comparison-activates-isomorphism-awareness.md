@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: li-li-2025
     resource: "https://doi.org/10.48550/arxiv.2606.09598"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After comparing their manual trend estimations with the AI's prediction (72.3°C predicted vs 72°C actual), students verbalized that AI reasons like them, marking a shift from 'I am estimating' to 'AI is also estimating'. [→ Li Li 2025](#li-li-2025)

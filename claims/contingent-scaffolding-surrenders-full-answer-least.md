@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: hou-2026
     resource: "https://doi.org/10.48550/arxiv.2609.22993"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The welfare floor fired far less often under the contingent tutor than under the question-only tutor, which could give content only through that floor (on a learner's surrender, or after a set number of support rounds) and which the authors describe as releasing on surrender. [→ Hou 2026](#hou-2026)

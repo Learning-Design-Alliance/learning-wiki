@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: o-e-s-and-j-c-b-1913
     resource: "https://psycnet.apa.org/journals/edu/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Questions about fundamentals in music teaching, such as assigning music to teachers with the best natural ability as leaders in singing, are reducible to controlled experimental conditions and may be settled in a scientific way with saving of money and mental energy. [→ O. E. S. and J. C. B 1913](#o-e-s-and-j-c-b-1913)

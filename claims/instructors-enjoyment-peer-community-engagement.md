@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: sherman-2020
     resource: "https://doi.org/10.22492/ije.8.3.05"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructors reported students experience enjoyment through peer connection and satisfaction by building self-confidence overcoming real-world challenges. [→ Sherman 2020](#sherman-2020)

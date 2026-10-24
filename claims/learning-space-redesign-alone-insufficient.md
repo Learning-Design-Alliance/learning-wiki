@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: learning-space-redesign-alone-insufficient
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: imms-and-byers-2016
     resource: "https://doi.org/10.1007/s10984-016-9210-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i2` medium · n=52 students (3 participating classes vs. 3 matched non-participating comparison classes)
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 Redesigning physical learning spaces (flexible seating, furniture, layout, decor) does not by itself improve learning outcomes; physical changes must be paired with corresponding changes in pedagogy to affect achievement.
 

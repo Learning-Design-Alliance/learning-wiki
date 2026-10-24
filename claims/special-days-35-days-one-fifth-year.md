@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
+recheck_by: 2003
 sources:
   - id: betsann-smith-1998
     resource: "https://consortium.uchicago.edu/publications/its-about-time-opportunities-learn"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A conservative tally of special days (assemblies, testing, parent communication, holiday slowdowns, Friday bargains) reaches 35 days, approaching one-fifth of the school year. [→ BetsAnn Smith 1998](#betsann-smith-1998)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: germain-2025
     resource: "https://learningpolicyinstitute.org/product/new-mexico-community-schools-outcomes-brief"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` State investments supporting hiring school coordinators and providing professional development and technical assistance were key to achieving the improved outcomes in the profiled sites. [→ Germain 2025](#germain-2025)

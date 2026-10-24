@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-08
 sources:
   - id: david-mann-2021
     resource: "https://www.mathematica.org/publications/way2work-maryland-demonstration-impacts-24-months-after-enrollment"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The program did not affect employment or expectation outcomes as of 24 months after enrollment. [→ David Mann 2021](#david-mann-2021)

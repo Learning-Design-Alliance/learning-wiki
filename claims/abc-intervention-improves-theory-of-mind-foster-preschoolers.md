@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: lewis-morrarty-2012
     resource: "https://doi.org/10.1016/j.jadohealth.2012.05.005"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the randomized trial follow-up, foster children who received ABC scored significantly higher on the penny-hiding theory of mind task than foster children who received the control intervention (d = 1.08). [→ Lewis-Morrarty 2012](#lewis-morrarty-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2013
 sources:
   - id: yanmei-li-2010
     resource: "https://doi.org/10.1002/j.2333-8504.2010.tb02228.x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For six operational test forms, item discrimination and difficulty estimates were little affected by using the 2PL/GPCM model that ignored local item dependence. [→ Yanmei Li 2010](#yanmei-li-2010)

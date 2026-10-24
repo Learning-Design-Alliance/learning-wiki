@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: molenaar-2010
     resource: "https://doi.org/10.1007/s11251-010-9154-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students in problematizing triads acquired significantly more metacognitive knowledge than students in structuring triads, t(108) = 1.67, p < 0.05 (one tailed), r = 0.16. [→ Molenaar 2010](#molenaar-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2021
 sources:
   - id: haataja-2021
     resource: "https://doi.org/10.1007/s10648-020-09538-w"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` With Joanne, the effect of eye contact on teacher agency was opposite to the pooled pattern (η² = 0.029), her agency being higher during student gazes at her face. [→ Haataja 2021](#haataja-2021)

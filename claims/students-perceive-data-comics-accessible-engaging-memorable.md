@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zirui-shan-2026
     resource: "https://doi.org/10.48550/arxiv.2607.02361"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ninety percent of participants (N=54) perceived data comics as more accessible for broader audiences and more efficient in conveying information. [→ Zirui Shan 2026](#zirui-shan-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: jacquelynne-s-eccles-allan-wigfield-2024
     resource: "https://doi.org/10.1007/s10648-024-09888-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the NIE-funded study data, CFA showed expectancies for success factored separately from subjective task values, and the three value components (interest, importance, utility) each formed separate factors, while expectancy and SCA items factored together. [→ Jacquelynne S. Eccles · Allan Wigfield 2024](#jacquelynne-s-eccles-allan-wigfield-2024)

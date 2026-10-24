@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: buckley-2026
     resource: "https://doi.org/10.1007/s10648-026-10149-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing one-factor and two-factor hierarchical SEMs of RIF task-group data supported the discriminant validity of mental rotation and visualisation as two discrete factors. [→ Buckley 2026](#buckley-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: pixner-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01479"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 15.6% of children with CI scored below the dyscalculia diagnostic threshold on the HRT basic arithmetic operations scale, though their mean T-scores did not differ from the standardization sample. [→ Pixner 2014](#pixner-2014)

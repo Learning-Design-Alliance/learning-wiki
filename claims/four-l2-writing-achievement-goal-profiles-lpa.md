@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: jianhua-zhang-2025
     resource: "https://doi.org/10.1007/s11409-025-09434-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Exploratory latent profile analysis of 416 L2 student writers identified four achievement goal profiles, with the Average All Goals profile containing 79.57% of the sample. [→ Jianhua Zhang 2025](#jianhua-zhang-2025)

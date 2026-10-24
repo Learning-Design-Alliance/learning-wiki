@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hyeonwook-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2608.23968"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In eco mode 1, participants with medium and high eco-mindedness were significantly more likely to select eco modes than low-eco-mindedness participants (Medium: OR = 8.95, p = .046; High: OR = 50.34, p = .006). [→ Hyeonwook Kim 2026](#hyeonwook-kim-2026)

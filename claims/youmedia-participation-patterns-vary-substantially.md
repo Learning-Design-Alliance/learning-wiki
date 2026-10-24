@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
+recheck_by: 2016
 sources:
   - id: teens-2013
     resource: "https://consortium.uchicago.edu/publications/teens-digital-media-and-chicago-public-library"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Participation differs substantially from teen to teen: about 22 percent regularly create original work, 28 percent use computers for homework, a little over 30 percent use a variety of media, and 18 percent primarily socialize and attend open mic sessions. [→ Teens 2013](#teens-2013)

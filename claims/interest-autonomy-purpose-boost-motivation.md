@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-16
 sources:
   - id: digital-promise-and-the-institute-for-applied-neuroscience-2019
     resource: "https://digitalpromise.dspacedirect.org/items/d5550311-8f60-4d0d-9d4d-14821054e0e8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -65,3 +68,4 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](embodied-language-learning-holistic-engagement-emotional-benefits.md) — related
 - [Performance benefits of UVIs may be limited to the perceived-useful content unless usefulness generalizes or interest develops](uvi-performance-benefits-context-limited.md) — related
 - [Mental tests have decided limitations: they miss motivation, persistence, and emotional life, and intelligence ratios are subject to change](intelligence-test-limitations-profile-needed.md) — related
+- [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](instructional-style-main-effect-limited-autonomy-satisfaction.md) — related

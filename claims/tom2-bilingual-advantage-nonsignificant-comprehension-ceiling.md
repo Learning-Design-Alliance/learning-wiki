@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hayes-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1747702"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Bilinguals' higher accuracy on the ToM2 question was not statistically significant. [→ Hayes 2026](#hayes-2026)

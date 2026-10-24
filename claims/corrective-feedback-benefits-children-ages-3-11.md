@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: fyfe-emily-r-2023
     resource: "https://doi.org/10.1080/00461520.2022.2108426"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 44 experimental papers, 93% reported at least one positive effect of corrective feedback on children's learning or performance relative to no-feedback controls. [→ Fyfe Emily R. 2023](#fyfe-emily-r-2023)

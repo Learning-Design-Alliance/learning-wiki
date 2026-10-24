@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: hoachlander-2020
     resource: "https://learningpolicyinstitute.org/new-mexico-education"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 2018, about 62,000 high school students (63% of all New Mexico high school students) participated in CTE, with significant demographic underrepresentation in some sectors. [→ Hoachlander 2020](#hoachlander-2020)

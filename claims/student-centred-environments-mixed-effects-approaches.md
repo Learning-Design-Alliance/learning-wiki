@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2010
 sources:
   - id: baeten-2010
     resource: "https://doi.org/10.1016/j.edurev.2010.06.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pre/post studies of student-centred teaching methods confirmed deepening of approaches in some studies, while others showed significant increases in surface approaches or decreases in deep approaches. [→ Baeten 2010](#baeten-2010)

@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i1` small
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across two quasi-experimental studies meeting WWC standards, Single Stop showed a statistically significant positive effect on progressing in college, with an outcome-average improvement index of +8 percentile points based on 10,231 students. [→ daugherty-persistence-1](#daugherty-persistence-1)

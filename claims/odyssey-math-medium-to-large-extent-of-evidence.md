@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: extent-1
     title: extent-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC rates the extent of evidence for Odyssey® Math on primary mathematics achievement as medium to large because more than one study, more than one school, and a total sample of at least 350 students were involved. [→ extent-1](#extent-1)

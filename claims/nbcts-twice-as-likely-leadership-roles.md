@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
+recheck_by: 2009
 sources:
   - id: penny-bender-sebring-2004
     resource: "https://consortium.uchicago.edu/publications/principal-and-teacher-leadership-chicago-early-evidence-two-initiatives"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In elementary schools, 53 percent of board-certified teachers and 36 percent of candidates held leadership roles versus 25 percent of other teachers; principals reported about two-thirds of board-certified teachers led professional development activities. [→ Penny Bender Sebring 2004](#penny-bender-sebring-2004)

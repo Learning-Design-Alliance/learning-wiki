@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: zhang-2023
     resource: "https://doi.org/10.1007/s10488-022-01248-5"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` School-level general climate negatively moderated the effect of strategic climate on Appeal (b = −0.59) and Divergence (b = −0.41), and the interaction significantly improved model fit (change in −2 log-likelihood = 12.50). [→ Zhang 2023](#zhang-2023)

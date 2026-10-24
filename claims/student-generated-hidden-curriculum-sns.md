@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: gray-2014
     resource: "https://doi.org/10.5204/jld.v7i1.153"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student-to-student communication in informal social network spaces passes a hidden curriculum from student-to-student rather than professor-to-student, supporting professional development vital to the program. [→ Gray 2014](#gray-2014)

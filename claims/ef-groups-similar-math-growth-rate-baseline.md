@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: sammy-f-ahmed-2022
     resource: "https://orcid.org/0000-0003-3814-2955"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Constraining basis coefficients across the EF groups fit equally well, suggesting the shape of growth did not differ across the three EF groups. [→ Sammy F. Ahmed 2022](#sammy-f-ahmed-2022)

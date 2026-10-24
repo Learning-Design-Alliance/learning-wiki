@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: nederhand-2020
     resource: "https://doi.org/10.1007/s11409-020-09233-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Calibration accuracy on German and Math exams did not change statistically detectably from pre-test to post-test, and intervention group did not impact this. [→ Nederhand 2020](#nederhand-2020)

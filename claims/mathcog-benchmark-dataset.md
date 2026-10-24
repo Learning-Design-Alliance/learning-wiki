@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yoonsu-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2504.00843"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` MathCog contains 3,036 diagnostic verdicts across 639 student responses to 110 math problems, annotated by 15 middle school teachers using TIMSS-grounded checklists. [→ Yoonsu Kim 2026](#yoonsu-kim-2026)

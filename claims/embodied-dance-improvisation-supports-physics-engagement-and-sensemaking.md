@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: solomon-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2021.2023543"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · n=15 high-school girls from two community-based dance centers
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Validating culturally specific movement (e.g., krumping, stepping) as legitimate physics expression, and using dance improvisation to explore physics concepts, shifted participating Black girls' emotional relationship to physics content and gave them an embodied vocabulary for reasoning about and critiquing their own scientific models.
 

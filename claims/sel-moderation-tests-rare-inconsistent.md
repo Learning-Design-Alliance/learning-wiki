@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: rowe-2018
     resource: "https://doi.org/10.1007/s10648-017-9425-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most studies did not test for moderating effects of diversity characteristics on SEL program outcomes. [→ Rowe 2018](#rowe-2018)

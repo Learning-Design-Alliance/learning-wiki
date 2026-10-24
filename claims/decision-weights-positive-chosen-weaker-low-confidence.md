@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: lorenz-weise-2022
     resource: "https://doi.org/10.1007/s11409-021-09286-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Across the three confidence-assessment conditions, stimulus information positively influenced choice for the selected dimension and negatively for the non-selected dimension, with a large selection main effect (generalized eta squared = 0.6). [→ Lorenz Weise 2022](#lorenz-weise-2022)

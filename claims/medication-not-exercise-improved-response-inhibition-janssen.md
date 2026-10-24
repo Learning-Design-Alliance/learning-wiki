@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: den-heijer-2017
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After roughly 10 weeks, the medication group showed a post-intervention P3 amplitude increase related to response inhibition, whereas the physical exercise and neurofeedback groups did not. [→ Den Heijer 2017](#den-heijer-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: cortes-2022
     resource: "https://doi.org/10.1126/sciadv.abo3555"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i0`–`i2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Geospatial students improved more than controls on the embedded figure task measuring spatial scanning, a skill emphasized by but not practiced as such in the curriculum. [→ Cortes 2022](#cortes-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yoana-omarchevska-2026
     resource: "https://doi.org/10.1007/s10648-026-10120-z"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` On immediate knowledge, High Overall Engagement scored significantly higher than Disengaged (d = 0.87) and Moderate Engagement (d = 0.98). [→ Yoana Omarchevska 2026](#yoana-omarchevska-2026)

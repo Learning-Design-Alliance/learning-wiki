@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: mcmanus-bm-2019
     resource: "https://doi.org/10.1001/jamanetworkopen.2018.7529"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Children whose family income was above the federal poverty threshold received more intensive occupational therapy (b, 1.9; 95% CI, 0.9-3.0), whereas children categorized as other, non-Hispanic received less intensive OT (b, ŌłÆ1.6; 95% CI, ŌłÆ2.6 to ŌłÆ0.7). [→ McManus BM 2019](#mcmanus-bm-2019)

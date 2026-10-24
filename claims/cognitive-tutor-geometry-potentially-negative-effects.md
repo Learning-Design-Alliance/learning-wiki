@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: cognitive-tutor-2016
     resource: "https://www.carnegielearning.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the one qualifying study (Pane et al., 2010; 669 students), the difference on a district geometry assessment was negative and statistically significant. [→ Cognitive Tutor® 2016](#cognitive-tutor-2016)

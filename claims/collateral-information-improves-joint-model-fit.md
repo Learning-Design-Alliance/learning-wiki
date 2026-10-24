@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: wang-2011
     resource: "https://www.nwea.org/research/publication/incorporating-person-covariates-and-response-times-as-collateral-information-to-improve-person-and-item-parameter-estimations/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For the NS34 math test, likelihood-ratio tests showed models with raw score, raw score plus gender, and all CI variables fit better than the item-only base model (p < 0.001). [→ Wang 2011](#wang-2011)

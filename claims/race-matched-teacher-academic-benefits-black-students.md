@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: carver-thomas-2018
     resource: "https://doi.org/10.54300/559.310"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a reanalysis of Tennessee STAR data, Black elementary students with Black teachers had reading and math test scores 3 to 6 percentile points higher than students without Black teachers, with gains accumulating each year with a race-matched teacher. [→ Carver-Thomas 2018](#carver-thomas-2018)

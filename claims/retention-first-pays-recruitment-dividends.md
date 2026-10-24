@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: retention-1
     title: retention-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All five LEAs' theories of action addressed building community among teachers of color, and participants believed shoring up retention would pay dividends in recruiting teachers of color down the road. [→ retention-1](#retention-1)

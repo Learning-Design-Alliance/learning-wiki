@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: catherine-corbin-2020
     resource: "https://doi.org/10.1016/j.appdev.2020.101144"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students' perceptions of interactions with their teacher lay the stage for future interactions, ultimately influencing students' success in school. [→ Catherine Corbin 2020](#catherine-corbin-2020)

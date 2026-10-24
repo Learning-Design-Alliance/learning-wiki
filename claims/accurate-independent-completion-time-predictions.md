@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sunny-yu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.23177"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Predicted and actual independent completion times did not differ significantly, indicating accurate self-calibration. [→ Sunny Yu 2026](#sunny-yu-2026)

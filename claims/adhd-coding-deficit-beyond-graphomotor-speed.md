@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: jacobson-2011
     resource: "https://doi.org/10.1080/09297049.2010.532204"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children with ADHD scored significantly lower than controls on WISC-IV Coding (ΔR2 = .177, p < .001) but did not differ on Coding Copy (ΔR2 = .000, p = .909). [→ Jacobson 2011](#jacobson-2011)

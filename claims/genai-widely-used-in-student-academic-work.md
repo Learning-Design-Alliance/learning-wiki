@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: lasse-bischof-2026
     resource: "https://doi.org/10.48550/arxiv.2606.12436"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of the 151 respondents, 127 reported using GenAI tools in their studies, indicating widespread adoption in these computer science–related programs. [→ Lasse Bischof 2026](#lasse-bischof-2026)

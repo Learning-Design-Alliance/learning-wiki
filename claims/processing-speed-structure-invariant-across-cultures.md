@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: papadopoulos-2018
     resource: "https://doi.org/10.5709/acp-0243-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Factor loadings of the distinct abilities processing speed model were invariant across the three cultural groups, supporting configural invariance. [→ Papadopoulos 2018](#papadopoulos-2018)

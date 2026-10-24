@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: katharina-scheiter-2025
     resource: "https://doi.org/10.1007/s10648-025-10037-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`–`q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` According to CLT, higher task difficulty raises mental load and leads learners to invest more mental effort, whereas SRL theories treat motivation as the primary catalyst of effort investment. [→ Katharina Scheiter 2025](#katharina-scheiter-2025)

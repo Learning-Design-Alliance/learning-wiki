@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2028
 sources:
   - id: pollard-2025
     resource: "https://doi.org/10.24059/olj.v29i3.4555"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The authors found the ICAP Framework very effective as a codified, objective way of assessing the level of active learning required by activities in the audited asynchronous online course. [→ Pollard 2025](#pollard-2025)

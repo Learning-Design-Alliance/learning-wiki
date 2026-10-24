@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: nurit-viesel-nordmeyer-2023
     resource: "https://doi.org/10.1007/s10648-023-09735-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In EF outcomes, the comorbid group was significantly more impaired than both isolated groups (both p < 0.01), while MD and RD did not differ from each other (p = 0.66). [→ Nurit Viesel-Nordmeyer 2023](#nurit-viesel-nordmeyer-2023)

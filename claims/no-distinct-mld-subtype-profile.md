@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kroesbergen-2023
     resource: "https://doi.org/10.3102/00346543221132773"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Number-sense deficits did not vary with specificity of the sample (p = .174) or with sample age entered alone, contradicting the expectation that the most severe, persistent, specific MLD constitutes dyscalculia with a core number-sense deficit. [→ Kroesbergen 2023](#kroesbergen-2023)

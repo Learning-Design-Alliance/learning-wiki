@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The blocking factor of CS 1 and CS 2 differed significantly among the three groups (p = 0.0004 and p = 0.02 respectively), with Group 1 showing the lowest mean blocking factors. [→ Albert Lionelle 2024](#albert-lionelle-2024)

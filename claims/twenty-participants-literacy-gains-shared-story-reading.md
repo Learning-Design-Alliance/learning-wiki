@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: melissa-e-hudson-and-david-w-test-2011
     resource: "http://www.education.uncc.edu/access/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the six reviewed studies, 20 participants ranging in age from 3 to 14 years with varying disabilities all demonstrated gains in literacy through shared story reading. [→ Melissa E. Hudson and David W. Test 2011](#melissa-e-hudson-and-david-w-test-2011)

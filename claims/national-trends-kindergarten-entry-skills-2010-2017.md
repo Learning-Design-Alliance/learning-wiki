@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: kuhfeld-2019
     resource: "https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The study provides the first national insight into trends and disparities in academic skills of children at school entry for the 2010–2017 kindergarten cohorts. [→ Kuhfeld 2019](#kuhfeld-2019)

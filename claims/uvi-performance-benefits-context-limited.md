@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: carol-sansone-2026
     resource: "https://doi.org/10.1007/s10648-026-10142-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` If the UVI does not create greater interest, the motivation gain may be limited to the content the student perceived as useful, and the performance boost may be less likely to extend beyond the initial context unless students generalize perceived usefulness or the UVI leads to greater future expectations of success. [→ Carol Sansone 2026](#carol-sansone-2026)

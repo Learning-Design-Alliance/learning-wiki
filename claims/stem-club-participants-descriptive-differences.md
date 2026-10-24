@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: gottfried-2013
     resource: "http://epaa.asu.edu/ojs/article/view/1361"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who participated in math or science clubs had statistically significantly higher math and science GPAs, higher course sequences, higher Peabody PVT scores, and higher desire to attend college than non-participants. [→ Gottfried 2013](#gottfried-2013)

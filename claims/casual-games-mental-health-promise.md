@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis of 13 studies found casual games show real promise for mitigating anxiety, depression, stress, and low mood. [→ Kurt Squire 2023](#kurt-squire-2023)

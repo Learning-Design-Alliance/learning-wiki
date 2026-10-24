@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rajesh-kumar-2026
     resource: "https://doi.org/10.48550/arxiv.2609.26687"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Across 90 participants, paired t-tests showed GPT-assisted documents had higher TTR (r = .43), Hapax Ratio (r = .46), Word Entropy (r = .42), NSR (r = .50), Noun Ratio (r = .47), Verb Ratio, and Adjective Ratio, while independently authored documents had higher Adverb Ratio (r = -.34) and Sentence-Length Variability (r = -.13). [→ Rajesh Kumar 2026](#rajesh-kumar-2026)

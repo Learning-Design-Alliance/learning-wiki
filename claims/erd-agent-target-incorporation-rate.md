@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sara-riazi-and-pedram-rooshenas-2026
     resource: "https://doi.org/10.48550/arxiv.2610.00870"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 250 error-positive episodes, 128 included a change to the targeted relationship or participation constraint, and 91 of those changes fully or partially incorporated the hidden diagnostic target (71.1% of observed changes, 36.4% of all error-positive episodes). [→ Sara Riazi and Pedram Rooshenas 2026](#sara-riazi-and-pedram-rooshenas-2026)

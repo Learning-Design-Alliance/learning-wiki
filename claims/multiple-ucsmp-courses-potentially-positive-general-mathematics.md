@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: what-works-clearinghouse-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/641"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one longitudinal quasi-experimental study of 62 students, the cumulative effect of four UCSMP courses was a statistically significant positive effect on general mathematics achievement (average improvement index +23). [→ What Works Clearinghouse 2016](#what-works-clearinghouse-2016)

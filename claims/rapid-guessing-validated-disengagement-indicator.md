@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-13
+recheck_by: 2023
 sources:
   - id: rg
     title: rg
@@ -21,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Rapid guessing serves as a validated indicator of disengaged item responding on tests. [→ rg](#rg)

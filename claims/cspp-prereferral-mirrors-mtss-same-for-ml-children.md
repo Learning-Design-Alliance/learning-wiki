@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: burr-2023
     resource: "https://eric.ed.gov/?id=ED655866"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interviewees described an MTSS-style pre-referral process of multidisciplinary teams, baseline data review, and iterative interventions applied similarly to ML and non-ML children. [→ Burr 2023](#burr-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 1984
 sources:
   - id: nagy-1984
     resource: "https://eric.ed.gov/?id=ED248470"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1984 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using the Multiple Choice Level 3 criterion, about .25 words were learned per minute in this study versus an average of .02 words per minute in Beck and colleagues' intensive instruction program. [→ Nagy 1984](#nagy-1984)

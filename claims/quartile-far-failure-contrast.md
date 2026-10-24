@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: richard-halverson-2012
     resource: "http://www.eriainteractive.com/index.php"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Upper-quartile players' cell starts correlated positively with gains (r = .7059) while lower-quartile players' correlated negatively (r = -.8641); lower-quartile players averaged 7 far-failure cycles versus 2.3 for upper-quartile players, with comparable total failures. [→ Richard Halverson 2012](#richard-halverson-2012)

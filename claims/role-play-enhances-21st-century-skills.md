@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-16
 sources:
   - id: kelly-mcneil-2026
     resource: "https://doi.org/10.51388/20.500.12265/284"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Role play positions learners as disciplinary actors and is associated with enhanced communication, collaboration, and critical thinking. [→ Kelly McNeil 2026](#kelly-mcneil-2026)

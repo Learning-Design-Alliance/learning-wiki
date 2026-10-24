@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: monroe-1917
     resource: "https://eric.ed.gov/?q=Kansas+Silent+Reading+Tests"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Median scores for grades 3 through 12 were computed from reports on more than 100,000 pupils in 160 cities using the Kansas Silent Reading Tests. [→ Monroe 1917](#monroe-1917)
@@ -49,3 +51,4 @@ Administrative report on statewide test use by the Bureau of Educational Measure
 - [Rate of silent reading rises most rapidly in grades 2, 3 and 4, while quality of silent reading increases at about the same rate throughout the grades.](rate-versus-quality-progress-curves.md) — related
 - [Twelve-year-old pupils score a median of 23 on all three test forms](wilson-twelve-year-old-median-23-all-forms.md) — related
 - [The Kansas Silent Reading Tests appear to measure quality of silent reading (comprehension) rather than rate.](kansas-tests-measure-comprehension-not-rate.md) — related
+- [86% of Detroit prevocational pupils fall below the third-grade level in silent reading](detroit-prevocational-silent-reading-below-grade-3.md) — a narrower finding that bears on this claim

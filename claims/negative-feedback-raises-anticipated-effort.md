@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: tamara-van-gog-2024
     resource: "https://doi.org/10.1007/s10648-024-09861-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In two between-subjects experiments, participants who received predominantly negative feedback expected the upcoming round of tasks to require more effort than participants who received predominantly positive feedback, with a large effect in Experiment 1. [→ Tamara van Gog 2024](#tamara-van-gog-2024)

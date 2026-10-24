@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: person-2009
     resource: "https://www.mathematica.org/publications/survey-of-outcomes-measurement-in-research-on-character-education-programs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Academic content was measured in studies of 14 programs; discipline issues and interpersonal competencies in 13 each; prosocial dispositions, intrapersonal strengths, substance use, and intrapersonal competencies in 11 each. [→ Person 2009](#person-2009)

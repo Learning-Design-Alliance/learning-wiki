@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: belland-brian-r-2017
     resource: "https://doi.org/10.3102/0034654317723009"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pre–post effect size estimates of scaffolding are highest among college- and graduate-level learners, at ḡ = 1.16 and ḡ = 1.2 respectively. [→ Belland Brian R. 2017](#belland-brian-r-2017)

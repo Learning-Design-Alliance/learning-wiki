@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 1974
 sources:
   - id: eriksen-1974
     resource: "https://doi.org/10.3758/bf03203267"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 1974 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` RT to the target was longest when noise letters belonged to the opposite response set and fastest when noise was identical to the target, across all spacing values. [→ Eriksen 1974](#eriksen-1974)

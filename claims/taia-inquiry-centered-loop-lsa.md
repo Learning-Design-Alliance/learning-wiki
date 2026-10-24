@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fan-chen-2026
     resource: "https://doi.org/10.1007/s11251-026-09788-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sequential analysis showed the EG teacher repeatedly linked hypothesis-guidance actions (e.g., A1 → A1 → A1 → A1) to iteratively refine student hypotheses via the shared workspace. [→ Fan Chen 2026](#fan-chen-2026)

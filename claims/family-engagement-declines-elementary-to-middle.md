@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: wallace-2024
     resource: "https://eric.ed.gov/?id=ED663740"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` There is typically a decline in family engagement from elementary to middle school, attributed to children seeking independence, fewer structured involvement opportunities, and more complex school structures and communication. [→ Wallace 2024](#wallace-2024)

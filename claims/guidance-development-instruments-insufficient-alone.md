@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: smylie-2006
     resource: "https://consortium.uchicago.edu/publications/promoting-instructional-improvement-strategic-human-resource-management-perspective"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Guidance instruments can direct and motivate but do not help teachers develop knowledge and skills for meaningful change; professional development without incentives and organizational conditions is unlikely to promote much change. [→ Smylie 2006](#smylie-2006)

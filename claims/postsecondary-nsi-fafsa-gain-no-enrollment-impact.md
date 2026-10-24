@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: evaluation-of-the-networks-for-school-improvement-initiative-interim-summary-report-2024
     resource: "https://www.rand.org/pubs/research_reports/RRA242-1.html"
@@ -48,6 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies (4 entries) · 3 causal `r2` · `q2`–`q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 4 of 4 entries) · not reviewed by a person
 
 ## Subclaims
 

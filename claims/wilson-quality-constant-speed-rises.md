@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1912
 sources:
   - id: recent-studies-in-handwriting-1912
     resource: "https://doi.org/10.1037/h0068789"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Wilson's Connersville survey, speed varied from 5 letters per minute in the first grade to 211 in the high school, while quality varied only from 9.2 to 11.8, excluding teachers. [→ Recent Studies in Handwriting 1912](#recent-studies-in-handwriting-1912)

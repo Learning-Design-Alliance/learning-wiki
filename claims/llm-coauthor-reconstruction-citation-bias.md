@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yifan-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08936"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Highly cited researchers are reconstructed by LLMs at approximately twice the rate of lower-cited peers, and the disparity grows with model size. [→ Yifan Liu 2026](#yifan-liu-2026)

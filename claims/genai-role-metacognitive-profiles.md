@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: cui-2026
     resource: "https://doi.org/10.1186/s41239-026-00610-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Chi-square tests showed significant between-group differences in all six metacognitive categories across the four GenAI role groups, with evaluation showing the largest effect (χ2 = 56.18, p < 0.001). [→ Cui 2026](#cui-2026)

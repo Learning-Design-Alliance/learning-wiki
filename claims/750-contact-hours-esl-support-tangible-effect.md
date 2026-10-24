@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: roessingh-2006
     resource: "https://doi.org/10.18806/tesl.v23i2.57"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The author states that most ESL learners can benefit from high school ESL support, and that 750 contact hours can have a tangible effect in reaching the estimated threshold for postsecondary studies. [→ Roessingh 2006](#roessingh-2006)

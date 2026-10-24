@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: ashish-gurung-2026
     resource: "https://doi.org/10.48550/arxiv.2605.11155"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within the IK bandwidth, proactive tutoring produced larger relative MAP growth than reactive tutoring (0.75, p = .065), with proactive students achieving 2.18x expected growth versus 1.70x for reactive students. [→ Ashish Gurung 2026](#ashish-gurung-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: fulton-2010
     resource: "https://www.nctaf.org/resources/events/STEMWingspreadConference.htm"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only a few studies examined student impacts, all of them in mathematics, where more assessment data are commonly available. [→ Fulton 2010](#fulton-2010)

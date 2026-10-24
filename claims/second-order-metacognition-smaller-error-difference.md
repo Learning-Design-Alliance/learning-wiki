@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: metcalfe-2023
     resource: "https://doi.org/10.1037/xge0001284"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When asked how surprised they would be to be wrong, participants showed slightly greater expected uncertainty for high-confidence errors than high-confidence correct answers, but the effect was small. [→ Metcalfe 2023](#metcalfe-2023)

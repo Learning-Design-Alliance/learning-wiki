@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: fronius-2016
     resource: "https://eric.ed.gov/?id=ED596786"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Empirical studies reviewed report decreases in exclusionary discipline and harmful behavior after RJ implementation, with large percentage drops in suspensions reported in several sites. [→ Fronius 2016](#fronius-2016)

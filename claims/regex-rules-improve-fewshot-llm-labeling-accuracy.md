@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: menggian-wu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.00211"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Few-shot GPT-4o labeling evaluated against a 499-turn human-labeled gold set rose from 0.818 to 0.852 overall accuracy when regex-based rules were included in the prompts. [→ Menggian Wu 2026](#menggian-wu-2026)

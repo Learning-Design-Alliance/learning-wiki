@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: anselm-strohmaier-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102364"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Learners applying a larger-numerator-larger-fraction strategy and learners applying a larger-denominator-larger-fraction strategy can reach similar overall accuracy while holding fundamentally different misconceptions, so accuracy alone assigns them to the same performance group despite very different needs. [→ Anselm Strohmaier 2026](#anselm-strohmaier-2026)

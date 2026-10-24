@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: anique-b-h-de-bruin-2023
     resource: "https://doi.org/10.1007/s10648-023-09766-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learners' effort ratings directly predicted their use of retrieval practice, and perceived learning did not appear to play a role, consistent with an effort-as-cost interpretation impeding engagement. [→ Anique B. H. de Bruin 2023](#anique-b-h-de-bruin-2023)

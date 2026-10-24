@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: elise-h-eshuis-2019
     resource: "https://doi.org/10.1007/s11412-019-09296-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Posttest scores were significantly higher than pretest scores in all three conditions, with printed paired-samples effect sizes d = 1.19 (instruction with tool), d = 1.10 (instruction only), and d = 0.57 (control). [→ Elise H. Eshuis 2019](#elise-h-eshuis-2019)

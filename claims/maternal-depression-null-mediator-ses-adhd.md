@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: russell-ae-2015
     title: Russell AE 2015
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mothers' depression measured when the child was 33 months did not significantly mediate the association between financial difficulty and ADHD. [→ Russell AE 2015](#russell-ae-2015)

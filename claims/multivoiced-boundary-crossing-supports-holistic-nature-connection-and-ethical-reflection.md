@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: liukkonen-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2263845"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1` · n=6 upper-secondary students, 2 teachers, 2 domain experts (a bioartist and a researcher), one intensive week
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 A bioart-making project structured to cross institutional, interpersonal, and intrapersonal boundaries let students engage nature across material, experiential, cognitive, emotional, and philosophical dimensions simultaneously rather than sequentially, with material/sensory encounters prompting spontaneous ethical reflection about organism use.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: motz-result
     title: motz-result
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who reviewed material by taking a multiple-choice test (retrieval practice) outperformed students who reviewed by reading answers to quizzes (restudy), replicating an existing finding across course types. [→ motz-result](#motz-result)

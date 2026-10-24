@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: hammer-2014
     resource: "https://doi.org/10.1016/j.ecresq.2014.05.008"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` DLL infants, toddlers, and preschoolers have two separate phonological systems with different mental representations for each sound in their two languages. [→ Hammer 2014](#hammer-2014)

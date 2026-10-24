@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: marrone-2024
     resource: "https://doi.org/10.18608/jla.2024.8357"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In gender-stratified models, effect sizes for females tended to be lower than males on the overall WEC index, and the Well-being index showed a complete loss of meaningful effects for females on NAPLAN reading, spelling, and grammar. [→ Marrone 2024](#marrone-2024)

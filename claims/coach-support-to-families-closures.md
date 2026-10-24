@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: mahsa-bakhshaei-2020
     resource: "https://doi.org/10.51388/20.500.12265/101"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More than 60 percent of coaches frequently or occasionally helped families with IT tasks and trained families on an online platform or LMS; 46 percent shared best practices for home learning environments. [→ Mahsa Bakhshaei 2020](#mahsa-bakhshaei-2020)

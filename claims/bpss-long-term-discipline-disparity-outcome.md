@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: partnership-activities-building-pathways-for-student-success-bpss-2026
     resource: "https://ies.ed.gov/ncee/edlabs/regions/southwest/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` For the 2024–2026 assessing-impact phase, the logic model lists reducing disparities in student discipline incidents at participating districts as a long-term student outcome. [→ Partnership Activities — Building Pathways for Student Success (BPSS) 2026](#partnership-activities-building-pathways-for-student-success-bpss-2026)

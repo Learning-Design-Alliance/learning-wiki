@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: qin-shaozheng-2014
     resource: "https://doi.org/10.1038/nn.3788"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the event-related fMRI task, children showed significant Task-by-Time interactions for accuracy and reaction times, with larger improvements on Addition than Control problems. [→ Qin Shaozheng 2014](#qin-shaozheng-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: oliveira-2024
     resource: "https://doi.org/10.3102/00346543231226336"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Quantifiable outputs such as publishing and obtaining institutional and individual funding have become central to enabling or further developing an academic career. [→ Oliveira 2024](#oliveira-2024)

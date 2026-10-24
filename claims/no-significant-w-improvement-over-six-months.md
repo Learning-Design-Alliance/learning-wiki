@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: shusterman-anna-2016
     resource: "https://doi.org/10.1371/journal.pone.0153072"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A repeated measures ANCOVA found no significant within-subject improvement in w across sessions (F(1,32) = 0.31, p = .58), and none in percent correct (F(1,38) = 0.33, p = .57). [→ Shusterman Anna 2016](#shusterman-anna-2016)

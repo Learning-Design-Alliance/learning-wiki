@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ray-breed-2025
     resource: "https://doi.org/10.3102/00346543241227236"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 24 included comparative studies, TGAs commonly improved tactical skill, skill execution, affective outcomes, procedural knowledge and/or physical activity, whereas TAs improved skill execution and technical skill. [→ Ray Breed 2025](#ray-breed-2025)

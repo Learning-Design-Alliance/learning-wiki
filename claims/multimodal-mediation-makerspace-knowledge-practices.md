@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: anu-kajamaa-kristiina-kumpulainen-2020
     resource: "https://doi.org/10.1007/s11412-020-09337-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Discourse, digital and hands-on materials, embodied actions (gestures, postures), and the physical space and its arrangements mediated students' knowledge practices in the FUSE Studio. [→ Anu Kajamaa & Kristiina Kumpulainen 2020](#anu-kajamaa-kristiina-kumpulainen-2020)
@@ -51,3 +54,4 @@ Qualitative video-based analysis of 350 min of transcribed video from two studen
 - [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — a narrower finding that bears on this claim
 - [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — a narrower finding that bears on this claim
 - [Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge](temporal-fragmentation-joint-attention-makerspace.md) — related
+- [Students drew mainly on peers and materials rather than adults as resources for spatial reasoning, using other students in 44 percent of resource-use instances and adults in 9 percent](peers-over-adults-spatial-resources.md) — a narrower finding that bears on this claim

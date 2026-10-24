@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: spilt-2012
     resource: "https://doi.org/10.1111/j.1467-8624.2012.01761.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Consistent with chronic stress models, the probability of school failure increased with the timing and duration of exposure to relational stress, with chronic conflict most strongly associated with underachievement. [→ Spilt 2012](#spilt-2012)

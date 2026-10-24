@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: iizalaarab-elhaimeur-and-nikos-chrisochoides-2026
     resource: "https://doi.org/10.48550/arxiv.2604.24807"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The Module 3 code execution success rate dropped to approximately 60% before the pylatexenc dependency fix, recovering to match the 86–87% rates observed in Modules 1 and 2 afterward. [→ Iizalaarab Elhaimeur and Nikos Chrisochoides 2026](#iizalaarab-elhaimeur-and-nikos-chrisochoides-2026)

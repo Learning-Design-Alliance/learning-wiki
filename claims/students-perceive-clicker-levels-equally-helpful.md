@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: deborah-k-anderson-2023
     resource: "https://doi.org/10.1128/jmbe.00151-22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students perceived low- and high-level clicker questions to be equally effective, a perception inconsistent with the exam performance data. [→ Deborah K. Anderson 2023](#deborah-k-anderson-2023)

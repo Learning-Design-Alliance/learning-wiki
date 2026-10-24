@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: fan-2022
     resource: "https://doi.org/10.1007/s11409-022-09291-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` 41.69% of all mismatch time was caused by the mismatch between the Elaboration/Organisation (HC.E/O) and First-reading (LC.F) SRL processes. [→ Fan 2022](#fan-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bi-t-2026
     title: Bi T 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 80 structured-training faculty, efficient collaborators formed the largest use-pattern category (38 faculty, 47.5%), over-revisers 21 (26.2%), mixed users 17 (21.2%), with dependent users and explorers rare (two each); over-revisers had a higher revision rate (0.833) than efficient collaborators (0.584). [→ Bi T 2026](#bi-t-2026)

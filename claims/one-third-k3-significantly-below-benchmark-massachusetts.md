@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: early-literacy-performance-in-massachusetts-key-findings-from-202324-school-year-data-2025
     resource: "https://eric.ed.gov/?id=ED677570"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 2023/24, 33 percent of K–3 students were identified as significantly below benchmark at least once during the school year and 19 percent in all three time periods, rates consistent across 3 years of analysis. [→ Early Literacy Performance in Massachusetts: Key Findings From 2023/24 School Year Data 2025](#early-literacy-performance-in-massachusetts-key-findings-from-202324-school-year-data-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: carver-thomas-2024
     resource: "https://doi.org/10.54300/137.196"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Traditional teacher preparation completers rose about 10% from 2019 to 2020 (9,054 to 9,980) and another 14% in 2021 (to 11,424), after initial state investments took effect. [→ Carver-Thomas 2024](#carver-thomas-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: madeleine-eastwood-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29995"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 128 non-blank post-task explanations, 57% showed full comprehension; by condition, Direct + Full Context had the highest proportion of full-comprehension responses (67%) and Socratic + Full Context the lowest (48%). [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)

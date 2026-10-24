@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: monika-geist-2017
     resource: "https://doi.org/10.14746/ssllt.2017.7.3.6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 24 syntactical LREs, the main focus was on sentence length and connecting clauses, with fewer LREs on word order and other issues. [→ Monika Geist 2017](#monika-geist-2017)

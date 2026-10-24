@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: bridge-to-reading-evidence-summary-2025
     resource: "https://www.heggerty.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In a 2024-2025 Tier 2 intervention study, students in Bridge to Reading schools significantly outperformed comparison peers on spring NWEA MAP Reading scores, with an effect size of +0.33 and significant effects at both grade levels. [→ Bridge to Reading evidence summary 2025](#bridge-to-reading-evidence-summary-2025)

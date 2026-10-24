@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: foorman-barbara-r-2015
     resource: "https://doi.org/10.1037/edu0000026"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 4th–10th grades, the unidimensional model fit worst and the bifactor model fit best, with AIC/BIC differences favoring the bifactor model in all grades except 10th. [→ Foorman Barbara R. 2015](#foorman-barbara-r-2015)
@@ -48,3 +50,4 @@ Confirmatory factor analyses by grade in a cross-sectional sample of 1,792 stude
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
 - [Specific syntax and vocabulary factors uniquely predicted reading comprehension in only one grade each (syntax in 4th, vocabulary in 7th)](specific-syntax-vocabulary-factors-unique-one-grade-each.md) — related
 - [Higher order cognitive skills (inference, perspective taking, comprehension monitoring) fit a bifactor structure with a general cross-language factor and language-specific factors in English and Spanish](hocs-bifactor-general-and-language-specific-factors.md) — related
+- [No common underlying proficiency emerges for oral language: bifactor models of expressive and definitional vocabulary did not converge](no-common-underlying-proficiency-oral-language.md) — related

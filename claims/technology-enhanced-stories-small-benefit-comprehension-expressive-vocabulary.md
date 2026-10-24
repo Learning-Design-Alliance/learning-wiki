@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: takacs-2015
     resource: "https://doi.org/10.3102/0034654314566989"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i0`–`i1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Technology-enhanced stories show a small significant advantage over traditional story presentations for story comprehension (g+ = 0.17). [→ Takacs 2015](#takacs-2015)

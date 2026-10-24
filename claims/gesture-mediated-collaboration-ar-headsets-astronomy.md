@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: jacob-fortman-2023
     resource: "https://doi.org/10.1007/s11412-023-09404-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the 'Lost at Sea' collaborative astronomy task with AR headsets and tablets, gesture functioned as an important mediator of collaborative learning across five identified roles. [→ Jacob Fortman 2023](#jacob-fortman-2023)

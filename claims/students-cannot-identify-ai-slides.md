@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' human-vs-AI guesses did not differ between AI and human slides (median guess 4.0 for both). [→ anchor-guess](#anchor-guess)

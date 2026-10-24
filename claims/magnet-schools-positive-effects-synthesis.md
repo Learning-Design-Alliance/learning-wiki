@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: george-2021
     resource: "https://learningpolicyinstitute.org/product/magnet-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most studies in a recent synthesis of magnet school effectiveness research showed positive effects on student achievement, attendance, and graduation rates. [→ George 2021](#george-2021)

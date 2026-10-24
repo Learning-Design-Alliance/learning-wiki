@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: number-rockets-2020
     resource: "https://www.air.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An earlier study of Number Rockets showed positive effects, but because the tutors were the authors' graduate students, that study did not meet inclusion standards. [→ Number Rockets 2020](#number-rockets-2020)

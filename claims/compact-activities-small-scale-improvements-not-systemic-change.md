@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: moira-mccullough-2016
     resource: "https://www.mathematica.org/publications/districtcharter-collaboration-grant-implementation-final-findings-from-interviews-and-site-visits"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compact collaboration activities did not yield systemic change within the grant period but were perceived to have resulted in small-scale improvements in instructional quality and human capital practices and increased availability of information about the relative effectiveness of individual schools across sectors. [→ Moira McCullough 2016](#moira-mccullough-2016)

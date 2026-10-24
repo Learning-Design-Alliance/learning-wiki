@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: wested-2024
     resource: "https://eric.ed.gov/?id=ED655972"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` End-of-year survey respondents agreed at high rates that their NAMI club influences teen mental health attitudes and benefited them personally, including 92% reporting gained skills and 72% increased interest in health or mental health careers. [→ WestEd 2024](#wested-2024)

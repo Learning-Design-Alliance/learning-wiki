@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2000
+recheck_by: 2003
 sources:
   - id: tzuriel-2000
     resource: "https://doi.org/10.1023/A:1009032414088"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review reports that DA was found to be more accurate than static tests in reflecting children's learning potential, especially with minority and learning disabled children. [→ Tzuriel 2000](#tzuriel-2000)

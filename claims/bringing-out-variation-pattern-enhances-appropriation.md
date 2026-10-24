@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: ming-fai-pang-2005
     resource: "https://doi.org/10.1007/s11251-005-2811-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study's results seem to give support to the theoretical claim that by bringing out the necessary pattern of variation and invariance in the learning situation, the likelihood of the object of learning being appropriated is enhanced. [→ Ming-fai Pang 2005](#ming-fai-pang-2005)

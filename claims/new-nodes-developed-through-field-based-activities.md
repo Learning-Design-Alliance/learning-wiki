@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: bracco-2014
     resource: "https://eric.ed.gov/?id=ED559537"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some ADs developed new nodes in their networks by fostering field-based pods of activity, like regional councils and faculty work groups. [→ Bracco 2014](#bracco-2014)

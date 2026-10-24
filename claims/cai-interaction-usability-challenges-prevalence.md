@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: amrita-ganguly-2025
     resource: "https://doi.org/10.1007/s43681-025-00916-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Interaction and usability challenges appear in 85.3% of review articles, with general-CAI reviews contributing 69%, combined reviews 13.8%, and GenAI-category reviews 17.2%. [→ Amrita Ganguly 2025](#amrita-ganguly-2025)

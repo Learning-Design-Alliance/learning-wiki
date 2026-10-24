@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: post-intervention-year
     title: post-intervention-year
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the post-intervention year, when MTP-S teachers no longer received coaching but taught a new cohort, the MTP-S group significantly outperformed the comparison group (effect size 0.23, improvement index +9, p < .05). [→ post-intervention-year](#post-intervention-year)

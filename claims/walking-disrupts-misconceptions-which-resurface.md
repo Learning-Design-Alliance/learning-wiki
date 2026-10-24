@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-21
 sources:
   - id: jacqueline-anton-2025
     resource: "https://doi.org/10.1007/s11251-025-09707-w"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who held erroneous sign rules or treated zero as nothing solved problems correctly on the body-scale number line, then reverted to prior strategies on the desk-scale number line. [→ Jacqueline Anton 2025](#jacqueline-anton-2025)

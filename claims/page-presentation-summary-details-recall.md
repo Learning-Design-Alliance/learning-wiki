@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1997
+source_checked: 2026-10-20
 sources:
   - id: annie-piolat-1997
     resource: "https://doi.org/10.1006/ijhc.1997.0145"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 1997 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The article reports that readers included details in summaries more often in the Page condition, but the test was marginal (F(1, 34) = 3.907, p = 0.0562), not significant at the .05 level; the printed means (3.61 vs. 5.33) are not labelled by condition and, read in the order the sentence names the conditions, would point the other way. [→ Annie Piolat 1997](#annie-piolat-1997)

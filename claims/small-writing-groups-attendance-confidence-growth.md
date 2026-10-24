@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: p4-focus-group
     title: p4-focus-group
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student Ambassadors and Core Team members perceived the Small Writing Groups as successful, observing increased attendance and growing student confidence in sharing writing. [→ p4-focus-group](#p4-focus-group)

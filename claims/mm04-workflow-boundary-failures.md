@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zixin-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14322"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Three representative trajectories fail at different links of one teaching contract: GPT-5.5 closes the loop, GLM-5.1 produces plausible material without changing the assigned deck, and Gemini-3.1-Pro reaches the designated artifact but misses required evidence. [→ Zixin Chen 2026](#zixin-chen-2026)

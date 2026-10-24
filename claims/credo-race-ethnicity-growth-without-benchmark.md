@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: credo-2020
     resource: "https://credo.stanford.edu/reports/item/charter-school-performance-in-the-state-of-washington-2/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The report introduces a presentation method that estimates the full annual growth associated with each racial/ethnic group, allowing direct comparison across groups without a benchmark group. [→ CREDO 2020](#credo-2020)

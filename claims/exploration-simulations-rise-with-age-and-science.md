@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-07
 sources:
   - id: ragonis-2026
     resource: "https://doi.org/10.15388/infedu.2506.019"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among secondary teachers, 66% of exact/life-science scripts but 30% of humanities/social-science scripts were demonstration-and-exploration simulations, versus near-zero at preschool and elementary levels. [→ Ragonis 2026](#ragonis-2026)

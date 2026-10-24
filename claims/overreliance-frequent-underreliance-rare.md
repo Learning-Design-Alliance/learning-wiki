@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: griffin-pitts-2026
     resource: "https://doi.org/10.48550/arxiv.2604.01114"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean appropriate reliance was 61.77% (SD = 10.78) and task accuracy 61.21% (SD = 10.93). [→ Griffin Pitts 2026](#griffin-pitts-2026)

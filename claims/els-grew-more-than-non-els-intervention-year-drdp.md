@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: mccarthy-2020
     resource: "https://eric.ed.gov/?id=ED613373"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After controlling for pretest scores, ELs' DRDP scores increased more than Non-ELs' in all five domains, significantly for ATL-REG and PD and non-significantly for SED, LLD, and MATH. [→ McCarthy 2020](#mccarthy-2020)

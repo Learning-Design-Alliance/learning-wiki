@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: bland-2025
     resource: "https://doi.org/10.54300/871.327"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Uncertified teachers rose from 16% of newly entering Texas teachers in 2018–19 to nearly 27% in 2021–22 and 49% in 2023–24; uncertified plus substandard-certified teachers made up nearly 68% of first-time new hires in 2023–24. [→ Bland 2025](#bland-2025)

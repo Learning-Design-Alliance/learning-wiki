@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participant observations, interviews, and focus groups recovered contextual dimensions—environment, lesson structure, multimodal communication, language ideologies, and relationships—that transcripts lose. [→ Liliana Santos-Deonizio 2027](#liliana-santos-deonizio-2027)

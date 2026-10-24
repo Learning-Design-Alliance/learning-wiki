@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: geboers-b-2018
     resource: "https://doi.org/10.1186/s12877-018-0766-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Higher scores on tests in all cognitive domains were associated with a lower likelihood of having low health literacy after adjustment for confounders (all ORs < 0.70, p-values < .001). [→ Geboers B 2018](#geboers-b-2018)

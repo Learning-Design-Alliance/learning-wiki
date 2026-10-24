@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cognitive ability correlates with vibe coding (r = 0.352, p < .001), CS achievement (r = 0.417, p < .001), and writing (r = 0.365, p < .001). [→ cog-corr](#cog-corr)

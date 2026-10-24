@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-22
 sources:
   - id: dianne-a-vella-brodrick-krystyna-gilowska-2022
     resource: "https://doi.org/10.1007/s10648-022-09658-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies using fish flanker-type tasks (CAST, ANT), the Bells Test and the Necker Cube task reported significant positive effects on selective attention after 20–30 min nature exposure, though Stevenson et al. found no improvement in executive attention. [→ Dianne A. Vella-Brodrick · Krystyna Gilowska 2022](#dianne-a-vella-brodrick-krystyna-gilowska-2022)

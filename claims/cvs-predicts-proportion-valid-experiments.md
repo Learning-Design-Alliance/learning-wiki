@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: gerdesmann-2026
     resource: "https://doi.org/10.1007/s11251-026-09806-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Higher CVS skill predicted a higher likelihood of valid experiments (OR = 1.20, CI [1.16, 1.23]), with smaller effects of extraneous load (OR = 0.93) and content knowledge (OR = 1.06). [→ Gerdesmann 2026](#gerdesmann-2026)

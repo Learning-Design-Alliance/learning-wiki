@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: diaconu-gherasim-2024
     resource: "https://doi.org/10.1007/s10648-024-09943-5"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q4` · `i1` small
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across k = 34 samples, mastery-approach goals show a small significant negative pooled correlation with anxiety (r = −.10). [→ Diaconu-Gherasim 2024](#diaconu-gherasim-2024)

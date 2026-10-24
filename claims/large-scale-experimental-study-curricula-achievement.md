@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-08
 sources:
   - id: janine-t-remillard-2014
     resource: "https://www.mathematica.org/publications/the-influence-of-curriculum-material-design-on-opportunities-for-student-learning"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A large-scale experimental study examined the four curricula's effects on student achievement, providing the outcome evidence the design analysis draws upon. [→ Janine T. Remillard 2014](#janine-t-remillard-2014)

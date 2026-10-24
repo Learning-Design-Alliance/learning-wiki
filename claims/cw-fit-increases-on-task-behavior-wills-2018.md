@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: wills-2018-ontask
     title: wills-2018-ontask
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In Wills et al. (2018), the percentage of time on-task was 80.00 in CW-FIT classes versus 58.80 in comparison classes (effect size 1.38, improvement index +42, p<0.01). [→ wills-2018-ontask](#wills-2018-ontask)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: jiao-chen-and-chunhui-liu-2023
     resource: "https://doi.org/10.3389/fpsyg.2023.1110944"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither fathers' growth mindset intercept nor slope significantly predicted children's growth mindset intercept or slope in the parallel process models. [→ Jiao Chen and Chunhui Liu 2023](#jiao-chen-and-chunhui-liu-2023)

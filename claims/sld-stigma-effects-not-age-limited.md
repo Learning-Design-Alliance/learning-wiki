@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: haft-stephanie-l-2023
     resource: "https://doi.org/10.1177/00222194221087383"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Contrary to arguments that younger children are not vulnerable to stigma and stereotype threat, studies including participants in middle childhood still found medium and large stigma effects on psychological adjustment, and no discernible age pattern emerged. [→ Haft Stephanie L. 2023](#haft-stephanie-l-2023)

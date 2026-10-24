@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: linsen-2014
     resource: "https://doi.org/10.1016/j.actpsy.2013.10.008"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children who were faster at symbolic magnitude comparison were also faster at mentally solving multi-digit subtractions (partial r = .43 and .50), and more accurate on indirect-addition items, controlling for intellectual ability; the response-time associations held after also controlling motor speed (rs > .39). [→ Linsen 2014](#linsen-2014)

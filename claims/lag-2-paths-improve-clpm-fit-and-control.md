@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: herbert-w-marsh-2022
     resource: "https://doi.org/10.1007/s10648-022-09662-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior research cited by the review shows lag-2 paths substantially improve CLPM fit and strengthen control for confounding, so goodness-of-fit ceases to be a critical issue in comparing RI-CLPMs and extended CLPMs. [→ Herbert W. Marsh 2022](#herbert-w-marsh-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: kohs-1917
     resource: "https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Testing of 1000 non-selected children with the Stanford Revision supported the IQ as a valid expression of intelligence, found practically no sex differences, and found social-status differences not a disturbing influence in estimating mental age. [→ Kohs 1917](#kohs-1917)
@@ -51,3 +53,4 @@ Entry 390 summarizes Terman, Lyman, Ordahl, Galbreath and Talbert's 1916 Journal
 - [Terman and Knollin indicate the Stanford revision is more accurate than the Vineland revision in estimating dullness, borderlinity and feeble-mindedness.](stanford-revision-more-accurate-than-vineland-for-borderlinity.md) — related
 - [Applying the Stanford revision to selected children in four California cities, Williams classified 32% feeble-minded, 20% borderline, 22% dull normal, and 26% normal or superior.](williams-stanford-revision-four-california-cities-classification.md) — related
 - [In Goddard's Vineland examination of 1547 pupils, only about half of mentally over-age and under-age pupils show corresponding advancement or retardation in school grading](goddard-binet-mental-age-vs-pedagogical-age.md) — related
+- [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](mental-tests-more-needed-for-superior-selection.md) — related

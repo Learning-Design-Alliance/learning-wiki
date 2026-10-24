@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: dumontheil-iroise-2016
     resource: "https://doi.org/10.1016/j.neuropsychologia.2016.05.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A Task × Age group interaction in left inferior lateral frontal cortex: adults showed greater Relational-than-Control activation (t(13)=6.14, p<0.001) while adolescents did not (t(18)=1.66, p>0.1). [→ Dumontheil Iroise 2016](#dumontheil-iroise-2016)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1995
+source_checked: 2026-10-20
+recheck_by: 1998
 sources:
   - id: sebring-1995
     resource: "https://consortium.uchicago.edu/publications/charting-reform-prairie-school-results-student-and-teacher-surveys"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1995 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1998**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In bottom quartile schools about 40 percent of teachers indicate the LSC made no contribution and 35 percent a limited contribution, while in top quartile schools three quarters judge the LSC has made significant contributions. [→ Sebring 1995](#sebring-1995)

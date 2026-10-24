@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: nagaoka-2004
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-effects-retention"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On average 18 percent of third and sixth graders retained in 1997-2000 were placed in special education within two years, roughly triple the rate of low-achieving students before the policy and of promoted low achievers. [→ Nagaoka 2004](#nagaoka-2004)

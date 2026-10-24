@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: liao-2026
     resource: "https://doi.org/10.1007/s10639-026-13958-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student word proportion was significantly lower with the AI for Grade 4 (t(11)=−4.89, p<.001) and Grade 5 (t(6)=−5.62, p=.001), and sentence proportion was drastically lower (Grade 4 t(11)=−6.15, p<.001; Grade 5 t(6)=−8.21, p<.001). [→ Liao 2026](#liao-2026)

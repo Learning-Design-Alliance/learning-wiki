@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: gilbert-2023
     resource: "https://doi.org/10.3758/s13423-022-02139-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pattern classifiers could decode metacognitive monitoring and control separately, and cross-classify between them, though cross-classification was less reliable. [→ Gilbert 2023](#gilbert-2023)

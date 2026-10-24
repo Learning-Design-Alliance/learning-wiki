@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1921
 sources:
   - id: geyer-1921
     resource: "https://www.jstor.org/journal/jeduapsy"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For 54 college freshmen, the Thurstone and Brown University tests showed a median rank change of 6.7 places and correlation 0.74, with 26 per cent in the wrong class; for 64 sophomores the median change was 10.4 places, correlation 0.613, and 32.8 per cent wrongly classed. [→ Geyer 1921](#geyer-1921)

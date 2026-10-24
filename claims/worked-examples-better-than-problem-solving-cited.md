@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-24
 sources:
   - id: chen-2016
     resource: "https://hdl.handle.net/1959.4/55865"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The thesis reports, citing Sweller and Cooper (1985), that worked examples resulted in better performance than conventional problem solving which has no guidance. [→ Chen 2016](#chen-2016)

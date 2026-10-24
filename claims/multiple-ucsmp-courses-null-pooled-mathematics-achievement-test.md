@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: what-works-clearinghouse-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/641"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Hirschhorn (1993) found no statistically significant effect in one site and a positive significant effect in another on the Mathematics Level 1 Achievement test; pooled across sites the difference was not statistically significant. [→ What Works Clearinghouse 2016](#what-works-clearinghouse-2016)

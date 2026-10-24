@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: zhihua-luo-and-rabail-tahir-2025
     resource: "https://doi.org/10.1007/s40593-025-00513-6"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the pre-study, 70.8% of surveyed teachers reported difficulties integrating resources from multiple platforms and 60.4% reported difficulties assessing resource quality and relevance. [→ Zhihua Luo and Rabail Tahir 2025](#zhihua-luo-and-rabail-tahir-2025)

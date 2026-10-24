@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Memory-code transitions each exceeded 11k, and 12 of 19 participants began with Memory then cycled between Code and Memory, consulting Metaphor selectively in Memory-Metaphor-Memory cycles. [→ transitions](#transitions)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: gunderson-elizabeth-a-2011
     resource: "https://doi.org/10.1111/j.1467-7687.2011.01050.x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Parents produced an average of 65.76 instances of total number talk (SD=44.3, range 4–168) across five sessions, with present-object small-set talk most common (M=30.2, SD=22.6). [→ Gunderson Elizabeth A. 2011](#gunderson-elizabeth-a-2011)

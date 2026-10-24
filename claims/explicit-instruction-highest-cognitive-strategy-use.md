@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: yurttaş-kumlu-2023
     resource: "https://doi.org/10.33200/ijcer.1082537"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The variety and frequency of cognitive strategies and products of cognitive processes were highest in the explicit strategy instruction group compared to the peer tutoring and no-instruction groups. [→ Yurttaş-Kumlu 2023](#yurttas-kumlu-2023)

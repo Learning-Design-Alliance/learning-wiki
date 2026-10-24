@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: bugler-2021
     resource: "https://eric.ed.gov/?id=ED616075"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teams lacking district leadership, principals, or teachers struggled to gain support at the corresponding level. [→ Bugler 2021](#bugler-2021)

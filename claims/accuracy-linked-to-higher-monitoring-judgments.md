@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: scheibe-2022
     resource: "https://doi.org/10.1007/s11409-022-09300-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Accurate responders reported higher monitoring judgments than inaccurate responders on all problems, with the smallest difference at pretest (d = 0.16) and posttest d's between 0.30 and 0.42. [→ Scheibe 2022](#scheibe-2022)

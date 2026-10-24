@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: breaking-barriers-2022
     resource: "https://WestEd.org/permissions"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q1`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- title before 2026-10-15: Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching -->
 
 ## Subclaims

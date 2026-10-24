@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1919
 sources:
   - id: caldwell-1919
     resource: "https://doi.org/10.1037/h0074484"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across studies, correlations of test results with estimated intelligence exceed those with grades: Starch obtained .75 versus .30, and faculty rankings uncorrelated with test results correlated .55 with the vocabulary test alone. [→ Caldwell 1919](#caldwell-1919)

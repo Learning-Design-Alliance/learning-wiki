@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: skar-2023
     resource: "https://doi.org/10.1007/s10648-023-09729-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Skar et al. (2022) found statistically significant lower scores for the During COVID-19 first-grade cohort on writing quality, handwriting fluency, and attitude toward writing. [→ Skar 2023](#skar-2023)

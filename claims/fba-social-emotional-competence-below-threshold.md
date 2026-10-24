@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-18
 sources:
   - id: what-works-clearinghouse-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/667"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The social-emotional competence domain (3 studies, 2 research teams, 4 cases) fell below the WWC threshold criteria, so no effectiveness rating was assigned. [→ What Works Clearinghouse 2016](#what-works-clearinghouse-2016)

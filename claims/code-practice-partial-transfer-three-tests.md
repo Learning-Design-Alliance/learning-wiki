@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1918
 sources:
   - id: dearborn-1918
     resource: "https://psycnet.apa.org/journals/edu/9/2/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared with controls, the practiced group excelled by 5% on Test 2, 9% on Test 3, and 15% on Test 5, did quite as well on Test 1, and was slightly worse on Test 4. [→ Dearborn 1918](#dearborn-1918)

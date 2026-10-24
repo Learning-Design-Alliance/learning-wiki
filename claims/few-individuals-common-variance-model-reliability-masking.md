@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-09
+recheck_by: 2024
 sources:
   - id: donald-williams-2021
     resource: "https://doi.org/10.3758/s13428-021-01646-x"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When individuals are classified via the membership model, few belong to the common variance model, implying traditional reliability indices potentially mask important individual variation. [→ Donald Williams 2021](#donald-williams-2021)

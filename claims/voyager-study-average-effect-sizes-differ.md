@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: voyager-universal-literacy-system-wwc-intervention-report-2007
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/538"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2` · `i1` small
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The average alphabetics effect size was 0.45 in Frechtling et al. (2006) versus 0.10 in Hecht (2003). [→ Voyager Universal Literacy System® — WWC Intervention Report 2007](#voyager-universal-literacy-system-wwc-intervention-report-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: schuster-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.04.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only three reviewed studies examine how technologies can be employed to deliver, as opposed to support, WIL, and four studies provide examples where the entire WIL experience is technologically-based. [→ Schuster 2017](#schuster-2017)

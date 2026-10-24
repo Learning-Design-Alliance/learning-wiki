@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-16
 sources:
   - id: mohammad-aniq-amdan-2026
     resource: "https://doi.org/10.55197/qjssh.v7i1.787"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL -->
 
 ## Subclaims

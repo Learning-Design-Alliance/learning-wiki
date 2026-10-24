@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: cost-report
     title: cost-report
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The qualifying study reported InsideTrack© charged about $500 per student per semester in 2004 and 2007 for its most comprehensive program; a program launched in 2013 was reported to cost $390 per student per semester. [→ cost-report](#cost-report)

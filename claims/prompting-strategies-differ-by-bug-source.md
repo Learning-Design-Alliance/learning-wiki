@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Natural bug states are dominated by specification-oriented strategies (Update signature 30.6%, Extend task 27.8% in n:first), while injected bug states show more guidance and restatement-oriented strategies (Provide guidance 33.0% in i:any). [→ rq2-strategies](#rq2-strategies)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ishari-amarasinghe-davinia-hernández-leo-h-ulrich-hoppe-2021
     resource: "https://doi.org/10.1007/s11412-021-09351-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the no dashboard condition, ENA showed no co-occurrences between announcements to class and other actions, with teachers instead diagnosing the learning situation through perception and surveying. [→ Ishari Amarasinghe; Davinia Hernández-Leo; H. Ulrich Hoppe 2021](#ishari-amarasinghe-davinia-hernandez-leo-h-ulrich-hoppe-2021)

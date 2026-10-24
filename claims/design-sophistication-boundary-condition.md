@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: juliette-c-désiron-2026
     resource: "https://doi.org/10.1007/s10648-026-10138-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q1`–`q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning, motivational, or affective effects attributed to emotional design may partly reflect differences in design sophistication rather than the targeted features themselves. [→ Juliette C. Désiron 2026](#juliette-c-desiron-2026)

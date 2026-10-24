@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: anders-bouwer-2010
     resource: "https://doi.org/10.1007/s11251-008-9083-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall attitude ratings were positive (M = 3.70 on a 1–5 scale), with layout clarity rated low (M = 2.63) and ease of adjusting layout rated high (M = 4.03). [→ Anders Bouwer 2010](#anders-bouwer-2010)

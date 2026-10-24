@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: kaffenberger-2021
     resource: "https://doi.org/10.1016/j.ijedudev.2020.102326"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Halving grade 3 learning gains produces 1.5 years less grade 10 learning and raises the share of in-school children outside the range of instruction to more than 80 percent. [→ Kaffenberger 2021](#kaffenberger-2021)

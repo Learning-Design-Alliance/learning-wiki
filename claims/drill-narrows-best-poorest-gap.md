@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: brown-1915
     resource: "https://psycnet.apa.org/journals/edu/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Best 19 drill pupils averaged a gain of 26 points versus 10 for best non-drill pupils; poorest 19 drill pupils averaged -3.1 versus -8 for poorest non-drill; the best-to-poorest ratio fell from 3.1 to 1.9 in drill sections. [→ Brown 1915](#brown-1915)

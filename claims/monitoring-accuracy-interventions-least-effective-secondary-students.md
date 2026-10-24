@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: noortje-janssen-ard-w-lazonder-2024
     resource: "https://doi.org/10.1007/s10648-024-09936-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Interventions were generally less effective for secondary school students than for elementary school students and adults, though the school-level Q-test was nonsignificant. [→ Noortje Janssen · Ard W. Lazonder 2024](#noortje-janssen-ard-w-lazonder-2024)

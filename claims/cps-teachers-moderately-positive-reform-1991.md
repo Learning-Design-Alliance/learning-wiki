@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1991
+recheck_by: 1994
 sources:
   - id: easton-1991
     resource: "https://consortium.uchicago.edu/publications/charting-reform-teachers-turn"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1994**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` About 60 percent of Chicago elementary teachers agreed their school is getting better and they are more optimistic about improvement since reform began, while less than one-fifth expressed strong negative attitudes. [→ Easton 1991](#easton-1991)

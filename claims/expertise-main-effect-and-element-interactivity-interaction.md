@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: relations-between-the-worked-example-and-generation-effects-on-immediate-and-delayed-tests-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2016.06.007"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The main effect of expertise was significant on both immediate and delayed tests, with Year 11 outperforming Year 10. [→ Relations Between the Worked Example and Generation Effects on Immediate and Delayed Tests 2016](#relations-between-the-worked-example-and-generation-effects-on-immediate-and-delayed-tests-2016)

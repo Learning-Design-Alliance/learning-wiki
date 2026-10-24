@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: molly-grant-2023
     resource: "https://doi.org/10.1007/s10648-023-09734-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 41 studies examining duration, 36 found that varying lengths of exposure produced differential outcomes, with continued exposure affecting outcomes to a greater extent than intermittent or no exposure. [→ Molly Grant 2023](#molly-grant-2023)

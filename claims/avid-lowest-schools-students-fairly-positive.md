@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: jenny-nagaoka-2007
     resource: "http://ccsr.uchicago.edu/AVID"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in lowest-category schools were fairly positive: 70% agreed AVID gives them needed support and 79% agreed their teacher had earned their respect, but only 50% would recommend AVID to their friends. [→ Jenny Nagaoka 2007](#jenny-nagaoka-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: witherspoon-2026
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/developing-measure-middle-school-math-teachers-pedagogical-content-knowledge-computational-thinking"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Raw scores ranged from 1 to 16 correct; on average teachers answered about 10 of 16 items correctly (61 percent), 76 percent answered at least half correctly, and 92 percent scored above the 25 percent guessing threshold. [→ Witherspoon 2026](#witherspoon-2026)

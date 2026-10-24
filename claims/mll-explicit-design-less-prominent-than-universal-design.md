@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: danae-kamdar-2025
     resource: "https://doi.org/10.51388/20.500.12265/260"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q1 i?` In interviews, explicit design for MLLs—where language development or cultural representation shaped core design decisions—was less prominent than general universal design. [→ Danae Kamdar 2025](#danae-kamdar-2025)

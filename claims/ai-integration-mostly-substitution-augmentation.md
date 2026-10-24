@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: alsheikh-mh-2026
     resource: "https://doi.org/10.3389/feduc.2026.1871468"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Across 22 included studies, most AI applications were categorized at the Substitution and Augmentation tiers, a limited number exhibited Modification, and a few achieved Redefinition. [→ AlSheikh MH 2026](#alsheikh-mh-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: nugteren-2018
     resource: "https://doi.org/10.1007/s11251-018-9448-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Self-assessment accuracy remained -1 step for both early and final selections, with no significant difference between them, z = -0.91, p = .36. [→ Nugteren 2018](#nugteren-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-17
 sources:
   - id: gillen-oneel-2011
     resource: "https://doi.org/10.1111/j.1467-8624.2011.01621.x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only school belonging mediated the difference in intrinsic motivation, and only between Dominican and European-American children. [→ Gillen-O’Neel 2011](#gillen-oneel-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-18
 sources:
   - id: borge-2024
     resource: "https://doi.org/10.1007/s11412-024-09437-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A case study of expert use of a chat-based generative AI tool indicates the feasibility of human–computer collaborative interactions supporting metacognition and sociometacognition. [→ Borge 2024](#borge-2024)

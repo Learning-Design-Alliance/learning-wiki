@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: korpershoek-2016
     resource: "https://doi.org/10.3102/0034654315626799"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The authors report a tentative result that students' academic outcomes benefitted from teacher-focused programs. [→ Korpershoek 2016](#korpershoek-2016)

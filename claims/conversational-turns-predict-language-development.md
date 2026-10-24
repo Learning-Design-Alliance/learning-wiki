@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: gabrieli-mit-mcgovern-institute
     title: Gabrieli, MIT McGovern Institute
@@ -38,6 +39,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 associational `r?`, 1 review `r2` · `q2`
+> **Currency** · newest study 2020 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 The widely cited "30 million word gap" (Hart & Risley, 1995) framed early language disparities in terms of sheer quantity of words a child overhears. More recent research reframes the mechanism: the responsiveness and reciprocity of interaction — measured as conversational turns, not raw word count — is the stronger predictor of language-relevant brain development.
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: stephen-lipscomb-2012
     resource: "https://www.mathematica.org/publications/valueadded-estimates-for-phase-1-of-the-pennsylvania-teacher-and-principal-evaluation-pilot"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Value-added estimates of teacher and principal contributions toward student achievement growth were obtained during the first phase of the multiyear Pennsylvania pilot. [→ Stephen Lipscomb 2012](#stephen-lipscomb-2012)

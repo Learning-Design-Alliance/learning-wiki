@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: sweet-2012
     resource: "https://doi.org/10.5281/zenodo.3554649"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In the five-way ANOVA of percentage-overlap WD values, differences in learner trajectories dominated all other sources of variation (57.90% of variation), with a decreasing trend in mean percentage-overlap values across the three trajectory-similarity groups and all remaining effect sizes essentially zero. [→ Sweet 2012](#sweet-2012)

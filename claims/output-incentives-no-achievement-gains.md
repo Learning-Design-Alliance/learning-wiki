@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: roland-g-fryer-2010
     resource: "http://www.nber.org/papers/w15898"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Incentives for test scores in NYC (grades 4 and 7) and for course grades in Chicago (grade 9) yielded statistically zero and substantively small effects on math and reading achievement. [→ Roland G. Fryer 2010](#roland-g-fryer-2010)

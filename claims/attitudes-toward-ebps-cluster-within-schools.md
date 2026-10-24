@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: zhang-2023
     resource: "https://doi.org/10.1007/s10488-022-01248-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Educators in the same school share significant similarities in Requirement, Openness, Appeal, and Divergence attitudes toward EBPs, with ICCs of 0.06, 0.09, 0.11, and 0.13 respectively. [→ Zhang 2023](#zhang-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: andrew-j-martin-2023
     resource: "https://doi.org/10.1007/s10648-023-09774-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under LRI, students benefit from predominantly explicit instruction in early stages of task and content mastery, then are further enriched by a guided independent phase as automaticity and fluency develop. [→ Andrew J. Martin 2023](#andrew-j-martin-2023)

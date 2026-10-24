@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: read-well-2010
     resource: "http://store.cambiumlearning.com/resource.aspx?page=ProgramOverview&site=sw&parentId=019005451"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC considers the extent of evidence for Read Well® to be small for both reading achievement and English language development for English language learners. [→ Read Well® 2010](#read-well-2010)

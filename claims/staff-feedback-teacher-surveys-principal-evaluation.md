@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: menbere-shiferaw-2021
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Staff feedback gathered through teacher surveys is proposed as evidence for evaluating school leaders' performance. [→ Menbere Shiferaw 2021](#menbere-shiferaw-2021)

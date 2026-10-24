@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: albert-y-liu-2018
     resource: "https://www.mathematica.org/publications/preparing-for-life-after-high-school-the-characteristics-and-experiences-of-youth-vol-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Youth with an IEP in 2012 were more engaged in school and extracurricular activities than a decade earlier. [→ Albert Y. Liu 2018](#albert-y-liu-2018)

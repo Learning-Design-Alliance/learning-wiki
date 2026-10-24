@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: checa-2011
     resource: "https://doi.org/10.1080/87565641.2011.591857"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ERP amplitude is more negative for incongruent than congruent trials and for No-Go than Go trials at frontal sites, with larger negativity at midline leads. [→ Checa 2011](#checa-2011)

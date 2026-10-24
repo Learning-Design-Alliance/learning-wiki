@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: andrew-c-butler-and-henry-l-roediger-iii-2008
     resource: "https://doi.org/10.3758/MC.36.3.604"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` No feedback produced a significantly higher proportion of intrusions on the final cued recall test than immediate or delayed feedback. [→ Andrew C. Butler and Henry L. Roediger III 2008](#andrew-c-butler-and-henry-l-roediger-iii-2008)

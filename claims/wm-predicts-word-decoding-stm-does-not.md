@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: robert-kail-and-lynda-k-hall-2001
     resource: "https://link.springer.com/journal/13421/29/1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` With variance shared between WM and STM factored out, path coefficients from WM to decoding were significant (.41 and .53) while those from STM to decoding (.14 and .08) were not. [→ Robert Kail and Lynda K. Hall 2001](#robert-kail-and-lynda-k-hall-2001)

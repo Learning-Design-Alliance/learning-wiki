@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: julie-bruch-2020
     resource: "https://www.mathematica.org/publications/using-data-from-schools-and-child-welfare-agencies-to-predict-near-term-academic-risks"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In-school variables (performance, behavior, and consequences) and out-of-school variables (human services involvement and public benefit receipt) are examined individually in relation to each type of near-term academic problem. [→ Julie Bruch 2020](#julie-bruch-2020)

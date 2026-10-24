@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: moore-2011
     resource: "https://doi.org/10.48550/arxiv.1110.2764"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction -->
 
 ## Subclaims

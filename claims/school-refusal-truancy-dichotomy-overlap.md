@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: kearney-ca-2019
     title: Kearney CA 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meta-analytic and large-scale studies reveal broad overlap of internalizing and externalizing symptoms, absence types, and interventions for school refusal and truancy, with no pathognomonic or reliable assident factors identified. [→ Kearney CA 2019](#kearney-ca-2019)

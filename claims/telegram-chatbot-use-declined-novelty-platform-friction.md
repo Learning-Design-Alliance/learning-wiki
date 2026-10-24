@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hilliger-2026
     resource: "https://doi.org/10.18608/jla.2026.9143"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the second cycle, student engagement with the Telegram chatbot dropped over the semester, attributed to perceptions that Telegram was not widely used and that downloading an app for one course function felt unnecessary. [→ Hilliger 2026](#hilliger-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: thao-m-t-nguyen-and-lap-q-trinh-2011
     resource: "https://doi.org/10.26634/jelt.1.1.1348"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Interviews with four successful and four less successful participants revealed that most lacked knowledge of what reading strategies are and how to apply them, most did not use self-regulation strategies, and most were extrinsically rather than intrinsically motivated to read in English. [→ Thao M. T. Nguyen and Lap Q. Trinh 2011](#thao-m-t-nguyen-and-lap-q-trinh-2011)

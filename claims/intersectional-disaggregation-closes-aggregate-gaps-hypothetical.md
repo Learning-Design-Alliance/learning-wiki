@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nwea-2026
     resource: "https://www.nwea.org/research/publication/a-practical-guide-for-considering-and-interpreting-test-score-differences-among-student-subgroups/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In a hypothetical district example, Black–white test score and growth gaps closed when comparing only FRL-eligible students of both races, indicating the aggregate gap reflected income composition. [→ NWEA 2026](#nwea-2026)

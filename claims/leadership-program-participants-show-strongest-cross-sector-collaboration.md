@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: moira-mccullough-2016
     resource: "https://www.mathematica.org/publications/districtcharter-collaboration-grant-implementation-final-findings-from-interviews-and-site-visits"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Cross-sector collaboration is less widespread among school leaders than among central office administrators, but is particularly strong among participants in grant-funded intensive leadership training or principal residency programs. [→ Moira McCullough 2016](#moira-mccullough-2016)

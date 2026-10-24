@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: shute-2016
     resource: "https://doi.org/10.1016/j.chb.2016.05.047"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The analyzing givens and constraints facet was negatively skewed with a relatively high mean score, suggesting it was the easiest facet, while the evaluating progress facet and MicroDYN measures were positively skewed, indicating relative difficulty. [→ Shute 2016](#shute-2016)

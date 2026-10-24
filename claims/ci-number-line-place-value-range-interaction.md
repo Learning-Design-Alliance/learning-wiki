@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: pixner-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01479"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant number line range × group interaction showed estimation error increased more from the 0–100 to the 0–1000 range for children with CI (8.5% vs. 4.2% increase) than for controls, who also had larger overall errors (10.8% vs. 7.0%). [→ Pixner 2014](#pixner-2014)

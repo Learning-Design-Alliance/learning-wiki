@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: gerry-stahl-2013
     resource: "https://doi.org/10.1007/s11412-013-9185-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the tabletop study of student triads, correlations between automatically captured interaction measures and collaboration classifications were not statistically significant, but the editors suggest refined versions could be useful in identifying, at least post hoc, teams behaving less collaboratively than desired. [→ Gerry Stahl 2013](#gerry-stahl-2013)

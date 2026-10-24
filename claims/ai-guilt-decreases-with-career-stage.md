@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: diane-vassallo-2026
     resource: "https://doi.org/10.1007/s10805-026-09726-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i2` One-way ANOVA showed guilt differed across career stages, F(3, 99) = 2.78, p = .045, η² = 0.078, with early-career academics highest (M = 2.71) and senior academics lowest (M = 2.03); the linear trend test was significant (p = .012). [→ Diane Vassallo 2026](#diane-vassallo-2026)

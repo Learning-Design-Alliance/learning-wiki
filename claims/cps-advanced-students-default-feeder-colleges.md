@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: melissa-roderick-2009
     resource: "https://consortium.uchicago.edu/publications/high-school-future-making-hard-work-pay"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Many academically advanced students default to colleges within CPS's traditional feeder patterns; of those attending a four-year college, more than 40 percent attend one of the six most popular colleges for CPS students. [→ Melissa Roderick 2009](#melissa-roderick-2009)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-16
 sources:
   - id: halpern-2007
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/5"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Girls and women have less confidence in their math abilities than males, and from early adolescence girls show less interest in math or science careers. [→ Halpern 2007](#halpern-2007)

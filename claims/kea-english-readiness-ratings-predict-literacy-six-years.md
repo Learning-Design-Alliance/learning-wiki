@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: rolla-2024
     resource: "https://csaa.wested.org/resource/kindergarten-entry-assessments-an-examination-of-best-practices-national-trends-and-recommendations/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a California longitudinal study, kindergarten-entry teacher ratings on 16 English-readiness items predicted Hispanic/Latino children's English literacy achievement almost 6 years later. [→ Rolla 2024](#rolla-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: azimi-2026
     resource: "https://doi.org/10.48550/arxiv.2609.16784"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students working with the scaffolded Coach and students with unrestricted AI did not differ in rubric-scored assignment performance or concept-inventory gains. [→ Azimi 2026](#azimi-2026)

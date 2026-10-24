@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: nguyen-2016
     resource: "https://doi.org/10.1016/j.ecresq.2016.02.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In Model 3, basic counting competencies alone predicted later mathematics achievement (β = 0.25, SE = 0.04, p < 0.001), with patterning, geometry, and measurement and data coefficients similar to earlier models. [→ Nguyen 2016](#nguyen-2016)

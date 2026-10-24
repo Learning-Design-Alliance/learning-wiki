@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2002
 sources:
   - id: wenzel-2002
     resource: "https://consortium.uchicago.edu/publications/documentation-1996-2002-chicago-annenberg-research-project-authentic-intellectual"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Assignment and student-work measures were developed with Many-Facet Rasch analysis to adjust ratings for scorer severity, standard difficulty, and step difficulties between score categories. [→ Wenzel 2002](#wenzel-2002)

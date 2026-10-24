@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: herbert-w-marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09765-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`–`q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In PISA2018, all 13 well-being indicators were more strongly related to verbal and particularly relational victimization than to physical victimization. [→ Herbert W. Marsh 2023](#herbert-w-marsh-2023)

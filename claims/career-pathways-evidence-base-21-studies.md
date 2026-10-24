@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: cotner-2021
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/27"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Recommendation 1 is supported by 12 studies, Recommendation 2 by nine, Recommendation 3 by six, Recommendation 4 by 15, and Recommendation 5 by 11 studies. [→ Cotner 2021](#cotner-2021)

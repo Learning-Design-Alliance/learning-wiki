@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: truong-2025
     resource: "https://doi.org/10.22521/edupij.2025.19.605"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Perceptions of internationalization rose with educational level (all Sig. < 0.05): the Bachelor's group reported the lowest mean scores (3.4-3.5) and the Associate/Full Professor group the highest (4.1-4.2), with the largest difference on strategies to attract international faculty and PhD students (Sig. = 0.002). [→ Truong 2025](#truong-2025)

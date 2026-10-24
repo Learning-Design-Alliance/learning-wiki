@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/724"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` One study meeting WWC standards shows a statistically significant positive effect on writing quality (effect size 0.77, improvement index +28). [→ What Works Clearinghouse 2021](#what-works-clearinghouse-2021)

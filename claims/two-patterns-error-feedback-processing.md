@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: jochem-e-j-aben-2024
     resource: "https://doi.org/10.1007/s11251-024-09660-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students either immediately had an idea of whether they agreed with feedback upon reading it, or had to reread feedback remarks to interpret their meaning and decide whether they agreed. [→ Jochem E. J. Aben 2024](#jochem-e-j-aben-2024)

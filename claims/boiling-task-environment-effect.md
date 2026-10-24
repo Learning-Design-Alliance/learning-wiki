@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: scharlott-2024
     resource: "https://doi.org/10.1021/acs.jchemed.3c00517"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` On the boiling point task, a chi-square test showed a significant but small effect of learning environment (effect size 0.168), with 36%, 24%, and 32% of responses causal mechanistic in the active, didactic, and core ideas environments. [→ Scharlott 2024](#scharlott-2024)

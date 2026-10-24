@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: hu-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101943"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither mastery-approach nor performance-approach goal instructions had statistically significant main effects on enjoyment, pride, anger, boredom, or shame. [→ Hu 2024](#hu-2024)

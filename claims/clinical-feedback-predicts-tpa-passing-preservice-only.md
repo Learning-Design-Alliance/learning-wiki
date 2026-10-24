@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: patrick-2024
     resource: "https://doi.org/10.54300/544.849"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` For preservice candidates, odds of passing across all attempts were more than 2 times higher in programs where almost all completers reported sufficient clinical feedback (more than 5 feedback episodes). [→ Patrick 2024](#patrick-2024)

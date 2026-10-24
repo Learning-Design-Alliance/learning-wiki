@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: stephen-lipscomb-2015
     resource: "https://www.mathematica.org/publications/measuring-teachers-effectiveness-a-report-from-phase-3-of-pennsylvanias-pilot-of-the-framework"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More than 90 percent of teachers were rated in the top two categories in both phases, but the fraction in the top two categories decreased somewhat in Pittsburgh, the district contributing the most teachers. [→ Stephen Lipscomb 2015](#stephen-lipscomb-2015)

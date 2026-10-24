@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: adam-chuderski-2021
     resource: "https://doi.org/10.1007/s11409-020-09236-6"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` For Certainty, 8 difficult RAPM items were reliably lower than the insight items' rating while 8 primarily easy items surpassed or equated it. [→ Adam Chuderski 2021](#adam-chuderski-2021)

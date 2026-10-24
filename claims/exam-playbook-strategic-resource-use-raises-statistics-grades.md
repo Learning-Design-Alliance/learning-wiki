@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2022
 sources:
   - id: peters-2022
     resource: "https://doi.org/10.51388/20.500.12265/162"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q4` · `i1`–`i3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Treatment students outperformed control students on final course grades in Study 1 (d = 0.33) and Study 2 (d = 0.37). [→ Peters 2022](#peters-2022)

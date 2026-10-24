@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 1991
+recheck_by: 1996
 sources:
   - id: benard-1991
     resource: "https://eric.ed.gov/?id=ED335781"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1996**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Years of research into crime, delinquency, and child abuse found communities and neighborhoods rich in social networks have lower rates of these problems. [→ Benard 1991](#benard-1991)

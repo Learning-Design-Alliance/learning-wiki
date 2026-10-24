@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kristina-schaaff-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08748"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gen Z students showed the highest usage rate at 63.66%, followed by Gen Y (51.39%) and Gen X (50.27%); the Boomer estimate (37.88%, n=132) is subject to considerable sampling variability. [→ Kristina Schaaff 2026](#kristina-schaaff-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: susan-e-sporte-and-joseph-e-kahne-2007
     resource: "https://consortium.uchicago.edu/publications/educating-democracy-lessons-chicago"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participation in after-school clubs has a quite modest impact on commitment to civic participation, and participation on sports teams is unrelated to its development. [→ Susan E. Sporte and Joseph E. Kahne 2007](#susan-e-sporte-and-joseph-e-kahne-2007)

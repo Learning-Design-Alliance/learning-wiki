@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: mussolin-2008
     resource: "https://doi.org/10.2174/1874350100801010026"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the multiplication selection task, the PoorAF group was slower than controls (2914 ms vs 1822 ms), small multiplications were processed faster than medium ones, and the group-by-problem-size interaction was marginally significant. [→ Mussolin 2008](#mussolin-2008)

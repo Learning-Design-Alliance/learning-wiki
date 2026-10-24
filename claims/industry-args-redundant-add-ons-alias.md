@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: henrik-örnebring-2007
     resource: "https://doi.org/10.1177/1367877907083079"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Season 1 and Season 2 Alias ARGs did not provide backstory insights beyond what watching the show offered, and gave participants little opportunity to interact with the full fictional universe. [→ Henrik Örnebring 2007](#henrik-ornebring-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: steven-wise-2013
     resource: "https://www.nwea.org/research/publication/an-investigation-of-examinee-test-taking-effort-on-a-large-scale-assessment/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The amount of rapid-guessing behavior was consistently very low among various demographic subpopulations. [→ Steven Wise 2013](#steven-wise-2013)

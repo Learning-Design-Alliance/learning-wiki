@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
+recheck_by: 2012
 sources:
   - id: dede-2009
     resource: "https://eric.ed.gov"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Among the three reviewed assessments, the Key Stage 3 ICT Literacy Assessment, conducted in a virtual world, has more potential than the paper-based CWRA and PISA to measure full 21st century capabilities including digital literacies. [→ Dede 2009](#dede-2009)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: skar-2023
     resource: "https://doi.org/10.1007/s10648-023-09729-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The f2 effect size for cohort membership was 0.003 for text quality, 0.006 for handwriting fluency, and 0.001 for attitude, all below the 0.02 small-effect value. [→ Skar 2023](#skar-2023)

@@ -7,6 +7,7 @@ generated:
   at: 2026-08-30
 id: rereading-less-effective-than-retrieval-practice
 evidence_strength: strong
+newest_evidence: 2013
 sources:
   - id: callender-mcdaniel-2009
     resource: "https://doi.org/10.1016/j.cedpsych.2008.07.001"
@@ -38,6 +39,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · `q3` experiment and systematic review · `i0`–`i2` · rereading near zero
+> **Currency** · newest study 2013 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Actively recalling material from memory produces stronger, more durable learning than restudying the same material by rereading it. This is the core of the testing-effect literature: the act of retrieval itself, not the re-exposure to content, drives durable retention.
 

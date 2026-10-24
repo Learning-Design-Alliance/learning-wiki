@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: praet-2013
     resource: "https://www.sciencedirect.com/science/article/LAEIND-D-12-OO174R1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Number naming and number comparison correlated significantly, but correlations between number line estimation (PAE) and the other two tasks were no longer significant after Bonferroni correction. [→ Praet 2013](#praet-2013)

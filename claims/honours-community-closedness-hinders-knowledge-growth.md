@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: wabike-2021
     resource: "https://doi.org/10.5296/jei.v7i2.18814"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` 42.5% of surveyed members rarely or often feel the community is becoming too closed and hindering their knowledge growth, while 57% never feel that way. [→ Wabike 2021](#wabike-2021)

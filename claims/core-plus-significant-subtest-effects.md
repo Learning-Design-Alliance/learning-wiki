@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: core-plus-mathematics-2010
     resource: "http://www.wmich.edu/cpmp"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study reported positive and statistically significant effects on the Iowa Tests of Educational Development mathematics subtest in ninth grade, all three subtests of the Course 1 CPMP Posttest, and contextual algebra and coordinate geometry subtests of the Course 2 CPMP Posttest, confirmed by the WWC after adjustments for clustering and multiple comparisons. [→ Core-Plus Mathematics 2010](#core-plus-mathematics-2010)

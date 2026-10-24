@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ting-chia-hsu-2021
     resource: "https://doi.org/10.1007/s11412-021-09357-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learners who collaborated with RTC reported CPSE as high as those who programmed individually; the overall average of the 13 cases improved but did not achieve statistical significance. [→ Ting-Chia Hsu 2021](#ting-chia-hsu-2021)

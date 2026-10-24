@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: daniel-l-schwartz-and-dylan-arena-2013
     resource: "http://www.macfound.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across nations, better TIMSS math and science scores are associated with less student interest in pursuing math or science. [→ Daniel L. Schwartz and Dylan Arena 2013](#daniel-l-schwartz-and-dylan-arena-2013)

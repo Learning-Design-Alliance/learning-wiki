@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 1990
+source_checked: 2026-10-20
 sources:
   - id: yu-liming-1990
     resource: "https://doi.org/10.18806/tesl.v8i1.575"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 1990 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` An advanced adult learner living in English-speaking environments still encountered communication breakdowns, so exposure alone does not produce native-like communicative competence. [→ Yu Liming 1990](#yu-liming-1990)

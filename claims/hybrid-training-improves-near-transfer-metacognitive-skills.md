@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-21
 sources:
   - id: schuster-2020
     resource: "https://doi.org/10.1007/s11409-020-09237-5"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i3` large
+> **Currency** · newest study 2020 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Students receiving hybrid training (ME) applied metacognitive skills more often in a near-transfer task at T2 than students receiving non-hybrid (E) or control (R) training. [→ Schuster 2020](#schuster-2020)

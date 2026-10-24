@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2015
 sources:
   - id: rohrer-2015
     resource: "https://doi.org/10.1037/edu0000001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across both test delays, interleaved practice outperformed blocked practice on an unannounced test, with a statistically significant omnibus effect (η² = .165). [→ Rohrer 2015](#rohrer-2015)

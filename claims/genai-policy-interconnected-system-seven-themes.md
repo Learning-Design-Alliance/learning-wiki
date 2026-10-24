@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hingle-2025
     resource: "https://doi.org/10.1108/aiie-05-2025-0123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across seven themes, participants treated the GenAI course policy as an interconnected system, with some themes functioning as prerequisites for others. [→ Hingle 2025](#hingle-2025)

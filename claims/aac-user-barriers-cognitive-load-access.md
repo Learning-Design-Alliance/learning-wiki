@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: byrnes-c-2026
     resource: "https://doi.org/10.12688/hrbopenres.14332.2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` From the AAC user's perspective, reported difficulties include device useability, a high cognitive load when learning how to use a communication system, and poor physical and sensory access to devices or systems. [→ Byrnes C 2026](#byrnes-c-2026)

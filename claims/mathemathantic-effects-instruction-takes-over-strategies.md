@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 1999
 sources:
   - id: jan-d-vermunt-1999
     resource: "http://hdl.handle.net/1874/18753"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Clark (1990), that mathemathantic effects occur when an instructional agent takes over learning strategies from students who are well able to perform these functions themselves. [→ Jan D. Vermunt 1999](#jan-d-vermunt-1999)

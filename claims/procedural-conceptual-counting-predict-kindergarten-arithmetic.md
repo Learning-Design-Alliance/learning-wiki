@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: praet-2013
     resource: "https://www.sciencedirect.com/science/article/LAEIND-D-12-OO174R1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` With the two counting constructs entered simultaneously, the regression was significant (R² = .249) for procedural counting knowledge (p = .005) and conceptual counting knowledge (p = .037). [→ Praet 2013](#praet-2013)

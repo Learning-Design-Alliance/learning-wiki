@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: mahaffie-2024
     resource: "https://toandthrough.uchicago.edu/tool/cps/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among 2017 CPS graduates who immediately enrolled in college, fewer than one-third of Black and Latino young men completed a bachelor's degree within six years, and young men were less likely than young women of the same race/ethnicity to complete any credential. [→ Mahaffie 2024](#mahaffie-2024)

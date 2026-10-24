@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-22
 sources:
   - id: julian-roelle-2023
     resource: "https://doi.org/10.1007/s10648-023-09810-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Tasks mainly eliciting retrieval practice primarily influence metamemory (monitoring of retrievability), while tasks mainly eliciting generative activities mainly influence metacomprehension (monitoring of comprehension quality). [→ Julian Roelle 2023](#julian-roelle-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: susan-harrington-and-charlott-sellberg-2026
     resource: "https://doi.org/10.18608/jla.2026.9141"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The first heuristic includes automatic performance checks despite opposition from both instructor and student groups, because real-time automatic assessment inappropriate for the MET context should not be dismissed for other contexts. [→ Susan Harrington and Charlott Sellberg 2026](#susan-harrington-and-charlott-sellberg-2026)

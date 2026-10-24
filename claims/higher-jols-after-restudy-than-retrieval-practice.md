@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2021
 sources:
   - id: luotong-hui-2021
     resource: "https://doi.org/10.1007/s10648-021-09604-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Experiment 2 found significantly higher JOLs after restudy than after retrieval practice (t(122) = 5.25, p < .001, d = .33). [→ Luotong Hui 2021](#luotong-hui-2021)

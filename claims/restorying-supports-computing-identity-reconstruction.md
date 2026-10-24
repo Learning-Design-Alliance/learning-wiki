@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: shaw-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2179847"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1` · n=1 focal case (a 15-year-old Black girl) from a workshop of 15 youth (14 consenting), 11 of whom were interviewed
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 In a museum computing workshop using electronic quilting to enact womanist restorying, one Black girl explicitly deconstructed her group's dominant stereotype of computer scientists, designed a counter-narrative quilt patch centering a Black woman, and reported increased self-reported belonging and aspiration toward computing.
 

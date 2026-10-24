@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: mcwayne-2016
     resource: "https://doi.org/10.1037/a0040343"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher engagement profile membership was related to higher children's total language scores regardless of home language, with the distinction most pronounced in the English subsample. [→ McWayne 2016](#mcwayne-2016)

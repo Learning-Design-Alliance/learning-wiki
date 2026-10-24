@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: jonathan-fernandez-2024
     resource: "https://doi.org/10.1007/s11409-024-09398-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some students in the SRSD condition struggled to implement the taught planning strategies, particularly students with poor working memory. [→ Jonathan Fernandez 2024](#jonathan-fernandez-2024)

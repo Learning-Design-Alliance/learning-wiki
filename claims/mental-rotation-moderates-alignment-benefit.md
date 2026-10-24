@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: de-jonge-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102422"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` MRT significantly moderated the effect of recording–expected angle alignment on task performance (β = 0.23), with higher MRT associated with greater benefit from alignment. [→ de Jonge 2026](#de-jonge-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: jiayi-wang-2025
     resource: "https://doi.org/10.48550/arxiv.2508.16659"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a within-subject human evaluation, teachers rated MAS-CMD significantly higher than MAS-Roles on QM 5.2C active learning (F(2,38)=4.75, p=.014, η²p=.20). [→ Jiayi Wang 2025](#jiayi-wang-2025)

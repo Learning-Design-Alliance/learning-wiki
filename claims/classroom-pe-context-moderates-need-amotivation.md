@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: bureau-2022
     resource: "https://doi.org/10.3102/00346543211042426"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Correlations between amotivation and both autonomy and relatedness were substantially more negative in classroom samples than in physical education samples, while the competence–amotivation relation was consistent across contexts. [→ Bureau 2022](#bureau-2022)

@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-18
 sources:
   - id: tzur-et-al-2021
     resource: "https://doi.org/10.1080/07370008.2021.1896521"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium · n=31 fourth graders (13 female; 87% students of color; 58% English Language Learners; 16% with an IEP), one urban US school
+> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 Which of three spontaneous strategies (counting-on, doubling ±1, break-apart-make-ten) a fourth-grader uses to solve a single addition problem is strongly associated with their independent ability to reason about multiplicative double counting (mDC), a foundational form of multiplicative reasoning.
 

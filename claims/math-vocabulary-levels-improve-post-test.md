@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: uyen-2021
     resource: "https://doi.org/10.12973/eu-jer.10.3.1287"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the four-level rubric, no post-test student remained at Level 1 or 2 in math vocabulary, whereas 16 did on the pre-test. [→ Uyen 2021](#uyen-2021)

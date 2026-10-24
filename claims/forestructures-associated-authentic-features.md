@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: do-yong-park-and-mira-park-2013
     resource: "https://doi.org/10.5408/12-360.1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Forestructures of understanding were associated with more than 80% of selecting own variable, 75% of using analog models, and 100% of complex transformation of observation and developing theories about mechanisms. [→ Do-Yong Park and Mira Park 2013](#do-yong-park-and-mira-park-2013)

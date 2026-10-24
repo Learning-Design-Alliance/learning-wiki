@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: yildiz-2021
     resource: "https://doi.org/10.31014/aior.1993.04.01.185"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Mobile devices — smartphones and personal computers — were the tools most often named for meeting physiological needs, supporting the base level of the Digital Needs Pyramid. [→ YILDIZ 2021](#yildiz-2021)

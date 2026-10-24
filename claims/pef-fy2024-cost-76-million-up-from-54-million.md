@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-08
+recheck_by: 2029
 sources:
   - id: owen-schochet-2026
     resource: "https://www.mathematica.org/publications/early-childhood-educator-pef-do-economic-returns-change-over-time"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Total FY 2024 program costs of $76 million exceeded FY 2023 costs of $54 million, driven by larger average educator payments and the introduction of facility administrative costs. [→ Owen Schochet 2026](#owen-schochet-2026)

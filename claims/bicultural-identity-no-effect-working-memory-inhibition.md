@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: spiegler-o-and-leyendecker-b-2017
     title: Spiegler O and Leyendecker B 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Turkish and German identity were neither independently nor interactively related to accuracy in the congruent and incongruent trials. [→ Spiegler O and Leyendecker B 2017](#spiegler-o-and-leyendecker-b-2017)

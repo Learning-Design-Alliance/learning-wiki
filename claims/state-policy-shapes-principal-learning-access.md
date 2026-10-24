@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: darling-hammond-2022
     resource: "https://doi.org/10.54300/641.201"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Compared to principals nationally, a greater percentage of California principals reported access to preparation and professional development in nearly every important content area and to authentic, job-based learning opportunities, while North Carolina principals reported far less access. [→ Darling-Hammond 2022](#darling-hammond-2022)

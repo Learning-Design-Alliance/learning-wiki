@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: stefansdottir-2020
     resource: "https://doi.org/10.1038/s41598-020-73774-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Paired comparisons showed no significant differences between the prior night's sleep parameters and weekly averages, except mid-sleep time, which was earlier before testing (04:19 ± 1.0 h vs. 04:48 ± 1.0 h, p < 0.001). [→ Stefansdottir 2020](#stefansdottir-2020)

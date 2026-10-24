@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: sharples-et-al-2015
     resource: "https://doi.org/10.1080/10508406.2014.944642"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=28 (intervention) and n=15 (control) Year 8 students for the quantitative comparison; separate after-school club sample (max 30, min 8 attendees) for the sustainability-attitude findings
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 Across two design-based-research implementations of a personal-inquiry toolkit, students showed pre-to-post gains on a comic-format test of inquiry-decision accuracy relative to a non-equivalent control class, successfully carried out investigations across classroom, home, and field settings with only minor technical friction, and some students reported (via interview, not measurement) carrying sustainability-related purchasing changes home — though the authors themselves caution against strong causal or attitude-change conclusions.
 

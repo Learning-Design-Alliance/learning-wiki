@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: title-as-printed-2021
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` On most 5Essentials measures, chances of being strong were similar across poverty levels, but Safety, Parent Involvement, Teacher-Parent Trust, School Commitment, and Student Discussion were less prevalent in high-poverty schools. [→ Title as printed 2021](#title-as-printed-2021)

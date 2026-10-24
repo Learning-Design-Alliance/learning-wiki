@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: wicki-2014
     resource: "https://doi.org/10.1024/1421-0185/a000127"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Visual-motor integration, assessed by a standardized test, proved to be a predictor of orthographic skills in the SEM model. [→ Wicki 2014](#wicki-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: luppescu-2011
     resource: "https://consortium.uchicago.edu/publications/trends-chicagos-schools-across-three-eras-reform-full-report"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Students entering Chicago high schools in the late 2000s were more than twice as likely to graduate as to drop out, versus roughly even odds in the early 1990s, with gains across racial/ethnic groups and both sexes. [→ Luppescu 2011](#luppescu-2011)

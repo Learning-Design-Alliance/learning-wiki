@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: stoet-g-2013
     title: Stoet G 2013
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` At the bottom 5% of the mathematics distribution the sex difference ranged from 1.9 points favoring girls (2003) to 2.4 points favoring boys (2006), while at the high end boys scored 19.3 to 21.7 points higher. [→ Stoet G 2013](#stoet-g-2013)
@@ -65,3 +68,4 @@ Boys-to-girls ratio analysis (Table 1) for the 33 countries in all four assessme
 - [The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum](within-nation-inverse-relation-performance-continuum.md) — related
 - [The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries](math-sex-difference-larger-in-higher-achieving-nations.md) — related
 - [National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade](no-consistent-correlation-gender-equality-sex-differences.md) — related
+- [Boys are more likely than girls to rank at both the top and the bottom of the grade scale, supporting greater variability of excellence among boys](sex-variability-in-excellence-1912.md) — related

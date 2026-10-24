@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: freel-2011
     resource: "https://doi.org/10.4236/psych.2011.21003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Native signers scored significantly higher than non-native signers on the combined Bilingual Ability score (t(53) = 4.12). [→ Freel 2011](#freel-2011)

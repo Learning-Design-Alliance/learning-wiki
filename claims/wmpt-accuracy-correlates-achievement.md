@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: freeman-2017
     resource: "http://dx.doi.org/10.1016/j.lindif.2017.06.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` WMPT accuracy showed large positive correlations with Word Reading (r = .532), Numerical Operations (r = .507) and Composite Score (r = .555), and a moderate correlation with Spelling (r = .359). [→ Freeman 2017](#freeman-2017)

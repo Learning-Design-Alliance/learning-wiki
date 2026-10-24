@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: slava-kalyuga-2010
     resource: "https://doi.org/10.1007/s11251-009-9102-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adding iconic representations to symbolic chemistry visualizations improved learning for low-prior-knowledge but not higher-prior-knowledge high-school students; for middle-school children the icons helped regardless of prior knowledge. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)

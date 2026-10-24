@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: seeskin-2018
     resource: "https://consortium.uchicago.edu/publications/hidden-risk-changes-gpa-across-transition-high-school"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of 64 high schools with at least 20 Black students, 17 saw Black students lose more than 0.5 GPA points on average while 14 saw them improve; 13 of the 14 schools with gains had incoming classes averaging below 2.5. [→ Seeskin 2018](#seeskin-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: jin-2025
     resource: "https://doi.org/10.18608/jla.2025.8609"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Initial findings from introductory lab sessions showed positive student perceptions of the GenAI functionalities. [→ Jin 2025](#jin-2025)

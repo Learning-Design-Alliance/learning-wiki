@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: neubauer-2022
     resource: "https://osf.io/gfvja/?view_only=b87fe179cf134471948726cb0e482a80"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Performance-avoidance goals, but not performance-approach or mastery goals, predicted same-day academic failure (β = .086, a small standardized coefficient); this link was no longer significant in a sensitivity model with all random effects covariances estimated. [→ Neubauer 2022](#neubauer-2022)

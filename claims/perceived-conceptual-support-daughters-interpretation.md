@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: farran-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2024.102006"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors propose that daughters' higher spatial language quality may reflect parents perceiving daughters as needing more conceptual support. [→ Farran 2025](#farran-2025)

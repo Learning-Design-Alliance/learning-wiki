@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: chi-2018
     resource: "https://doi.org/10.1111/cogs.12626"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Despite teachers' limited design success, students' learning outcomes were significantly higher under Constructive activities than under Active activities in the classroom implementation. [→ Chi 2018](#chi-2018)

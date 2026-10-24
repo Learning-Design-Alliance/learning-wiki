@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: gilbert-2023
     resource: "https://doi.org/10.3758/s13423-022-02139-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants using their own memory forgot about 45% of intentions versus around 5% using external reminders, an almost order-of-magnitude reduction. [→ Gilbert 2023](#gilbert-2023)

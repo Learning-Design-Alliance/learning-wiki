@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: wenzel-2002
     resource: "https://consortium.uchicago.edu/publications/documentation-1996-2002-chicago-annenberg-research-project-authentic-intellectual"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 associational `r2`, 1 theoretical `r2` · `q2`–`q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

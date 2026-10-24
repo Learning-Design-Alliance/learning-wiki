@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: guo-et-al-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1766890"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` network meta-analysis of quasi-experiments · `i3` large · n=65 studies (8,027 participants)
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 Teaching Games for Understanding (TGfU) sets students a tactical problem in a modified game before any
 technical skill work, where traditional physical education drills the technique first and plays the

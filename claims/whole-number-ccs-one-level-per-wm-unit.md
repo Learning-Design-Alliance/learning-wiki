@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: morra-2019
     resource: "https://doi.org/10.1080/07370008.2019.1636797"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study I, whole-number conceptual understanding advanced by one developmental level for each additional unit of working memory capacity. [→ Morra 2019](#morra-2019)

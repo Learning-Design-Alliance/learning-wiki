@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1911
 sources:
   - id: w-h-winch-1911
     resource: "https://eric.ed.gov/?q=Mental+Adaptation+During+the+School+Day+as+Measured+by+Arithmetical+Reasoning"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the infants' series the differences between final tests steadily favoured the sections of the later-working group. [→ W. H. Winch 1911](#w-h-winch-1911)

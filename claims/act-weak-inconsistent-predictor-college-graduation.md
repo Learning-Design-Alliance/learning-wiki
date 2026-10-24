@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: allensworth-2019
     resource: "https://doi.org/10.3102/0013189x20902110"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The standardized linear ACT coefficient (0.129) is much smaller than HSGPA's (0.703), and the standard deviation of ACT slopes (0.192) exceeds the average slope. [→ Allensworth 2019](#allensworth-2019)

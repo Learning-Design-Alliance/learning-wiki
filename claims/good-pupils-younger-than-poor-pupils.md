@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: pyle-1917
     resource: "https://psycnet.apa.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the schools, good pupils were on average more than a year younger than poor pupils, with school-specific differences from none at Kennett to two and a half years at Westport. [→ Pyle 1917](#pyle-1917)

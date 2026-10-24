@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: carolyn-rosé-2021
     resource: "https://doi.org/10.1007/s11412-021-09360-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The editors report that integrating video, audio, and log data identified three multimodal behavioral profile clusters for dyads (Expressive Explorers, Calm Tinkerers, Silent Wanderers), and that emergent underlying processes are more explanatory than individual behaviors. [→ Carolyn Rosé 2021](#carolyn-rose-2021)

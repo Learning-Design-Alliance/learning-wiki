@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lin-2026
     resource: "https://doi.org/10.1007/s11251-025-09754-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Parents, particularly of low-performing students, were initially sceptical that individualised instruction would compromise academic rigour, but by Cycle 3 parents of low performers had high confidence and majority and high-performer parents acknowledged peer-supported learning and reciprocal teaching. [→ Lin 2026](#lin-2026)

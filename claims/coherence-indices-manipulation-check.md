@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1998
 sources:
   - id: vidal-abarca-1998
     resource: "https://www.sciencedirect.com/science/article/abs/pii/S0959475297000200"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The coherence version scored higher than the original on both indices of textual coherence (embedded propositions and argument repetitions per idea unit). [→ Vidal-Abarca 1998](#vidal-abarca-1998)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: chorianopoulos-2018
     resource: "https://www.irrodl.org/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -46,3 +48,4 @@ Narrative review attributing to Santos-Espino et al. (2016) a survey of instruct
 ## Related Claims
 - Kolb's inventory successfully differentiated group learning styles by students' subject majors — related
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
+- [The editorial argues that among four fundamental subjects, natural science should rank second only to English in importance for education.](natural-science-second-only-to-english.md) — related

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: jauwairia-nasir-2021
     resource: "https://doi.org/10.1007/s11412-021-09358-2"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q1`–`q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Among this study's learners, some teams that failed the task achieved higher learning gains and some teams that succeeded did not learn. [→ Jauwairia Nasir 2021](#jauwairia-nasir-2021)

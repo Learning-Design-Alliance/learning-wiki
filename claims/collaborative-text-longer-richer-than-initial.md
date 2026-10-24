@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: pifarré-2011
     resource: "https://www.springer.com/journal/11412"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing initial pair texts with the collaborative texts, the collaborative texts had more words, more t-units and more reasoning connectors, and better structure and organisation. [→ Pifarré 2011](#pifarre-2011)

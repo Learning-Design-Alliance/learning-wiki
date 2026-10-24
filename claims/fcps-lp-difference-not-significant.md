@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: kapur-2011
     resource: "https://doi.org/10.1007/s11251-010-9144-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The differences between the FCPS and LP conditions did not reach significance, indicating that adding facilitation throughout complex problem solving did not produce detectable post-test advantages over lecture and practice. [→ Kapur 2011](#kapur-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: lampit-a-2014
     title: Lampit A 2014
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i1` small
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Group-based training showed a significant effect (g = 0.29) whereas home-based administration did not (g = 0.09), with a significant between-subgroup difference (Q p = 0.007). [→ Lampit A 2014](#lampit-a-2014)

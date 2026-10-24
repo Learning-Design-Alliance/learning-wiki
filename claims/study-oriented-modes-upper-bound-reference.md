@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ganganath-2026
     resource: "https://doi.org/10.48550/arxiv.2606.22349"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Study-oriented modes consistently achieve higher learner-side scores than Baseline across Gemini and Claude, and CURIOBOT, relying solely on inference-time prompting, shifts learner-side behavior toward the patterns observed in these commercially optimized systems on L1–L4. [→ Ganganath 2026](#ganganath-2026)

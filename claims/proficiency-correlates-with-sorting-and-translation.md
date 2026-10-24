@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: kim-2020
     resource: "https://doi.org/10.15858/engtea.75.s1.202006.55"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Across all participants, C-test scores moderately correlated with Cdev (r = .60, p < .001) and with translation scores (r = .52, p < .001). [→ Kim 2020](#kim-2020)

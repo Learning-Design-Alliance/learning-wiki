@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: martínez-alcalá-ci-2018
     title: Martínez-Alcalá CI 2018
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The cumulative number of correct answers on the eight activities was significantly related to the final examination score (r = 0.51). [→ Martínez-Alcalá CI 2018](#martinez-alcala-ci-2018)

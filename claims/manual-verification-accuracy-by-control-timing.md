@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhengxu-li-2026
     resource: "https://doi.org/10.48550/arxiv.2605.10672"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Manual verification of generated images found only 11 of 90 pre-gen images contained the correct number of objects (accuracy 12.2%). [→ Zhengxu Li 2026](#zhengxu-li-2026)

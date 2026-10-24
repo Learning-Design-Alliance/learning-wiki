@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: zhao-2016
     resource: "https://doi.org/10.64152/10125/66903"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 associational `r2` · `q2`–`q3` · `i3` large · n=24 studies (29 effect sizes, N=2,771)
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` L2 proficiency was a significant positive predictor of incidental vocabulary acquisition through reading (β = .37). [→ Zhao 2016](#zhao-2016)

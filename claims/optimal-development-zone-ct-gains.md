@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yimeng-sun-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14330"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` K-means clustering identified three profiles, and ANOVA showed significant gain differences [F(2,84)=51.64, p<.001, η²=.55], with the Moderate-CT group significantly outperforming both High-CT (Δ=17.62, p<.001) and Low-CT groups (Δ=18.88, p<.001). [→ Yimeng Sun 2026](#yimeng-sun-2026)

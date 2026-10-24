@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jin-guo-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2606.23315"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nine of 18 students said they rarely or only sometimes thought first before asking AI, and seven of 18 said they rarely or only sometimes could tell when an AI explanation was wrong. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)

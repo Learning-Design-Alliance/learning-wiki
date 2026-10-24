@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: slezak-2011
     resource: "https://doi.org/10.48550/arxiv.1110.0050"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Replacing brief written checkpoint answers with detailed answer keys including reasoning (Style 2) increased post-test scores on both topics, but statistical significance was reached only for the momentum questions (p = 0.42 for kinetic energy, p < 0.05 for momentum). [→ Slezak 2011](#slezak-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: jacquelynne-s-eccles-allan-wigfield-2024
     resource: "https://doi.org/10.1007/s10648-024-09888-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the CAB cohort-sequential study, children's SCAs and STVs were differentiated from each other and formed distinct factors in each domain from first grade, becoming more strongly differentiated with age; math gender differences disappeared over time. [→ Jacquelynne S. Eccles · Allan Wigfield 2024](#jacquelynne-s-eccles-allan-wigfield-2024)

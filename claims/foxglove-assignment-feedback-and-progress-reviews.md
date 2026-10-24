@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: elaine-allensworth-2019
     resource: "https://consortium.uchicago.edu/publications/how-do-principals-influence-student-achievement"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Foxglove's principal reviews student progress reports every five weeks and asks teachers to explain their assignments, and teachers receive feedback on every assignment they hand in. [→ Elaine Allensworth 2019](#elaine-allensworth-2019)

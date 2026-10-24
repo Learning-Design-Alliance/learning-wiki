@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: laura-dörrenbächer-ulrich-2024
     resource: "https://doi.org/10.1007/s11409-024-09379-w"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The SKT-SRL total score correlated substantially with the SRL questionnaire total (r = 0.32 in the pilot), with convergent subscale correlations higher than divergent ones. [→ Laura Dörrenbächer-Ulrich 2024](#laura-dorrenbacher-ulrich-2024)

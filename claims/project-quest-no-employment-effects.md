@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/723"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q4`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Two studies meeting WWC standards showed indeterminate effects of Project QUEST on short-term employment (improvement index -1, 1,555 students). [→ Project QUEST (Quality Employment through Skills Training) Intervention Report | Postsecondary Career and Technical Education Topic Area 2021](#project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: li-y-2013
     title: Li Y 2013
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fifth grade Mazes Memory showed a trend predicting fifth grade Numerical Operations scores (ß = .23, p = .0661), but Block Recall did not (p = .5036); neither first grade measure was significant. [→ Li Y 2013](#li-y-2013)

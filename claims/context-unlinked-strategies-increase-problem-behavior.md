@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: epstein-2008
     resource: "https://doi.org/10.1037/e602222011-001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Strategies not linked to the specific context of a problem behavior are associated with increases in the occurrence of the problem behavior, perhaps because such strategies can inadvertently reinforce the misbehavior. [→ Epstein 2008](#epstein-2008)

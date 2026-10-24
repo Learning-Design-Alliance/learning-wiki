@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: marieke-de-wijse-van-heeswijk-2025
     resource: "https://doi.org/10.1007/s11251-025-09715-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the rule-based SG, the facilitator performed 75 FOL and SOL interventions versus only 8 TOL interventions, likely caused by extraneous cognitive load from limited scope, experienced distance and procedural disturbances. [→ Marieke de Wijse-van Heeswijk 2025](#marieke-de-wijse-van-heeswijk-2025)

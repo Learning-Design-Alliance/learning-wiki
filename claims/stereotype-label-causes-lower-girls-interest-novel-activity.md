@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: master-2021
     resource: "https://doi.org/10.1073/pnas.2100030118"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Girls were significantly less interested in the stereotyped than the nonstereotyped novel activity, t(49) = 5.46, P < 0.001, d = 1.10, and only 20% chose the stereotyped activity to take home (P < 0.001). [→ Master 2021](#master-2021)

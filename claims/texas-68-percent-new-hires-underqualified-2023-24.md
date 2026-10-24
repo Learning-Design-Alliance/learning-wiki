@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: wojcikiewicz-2024
     resource: "https://learningpolicyinstitute.org/product/texas-teacher-preparation-brief"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 68% of all newly hired Texas teachers in 2023–24 were underqualified or unqualified. [→ Wojcikiewicz 2024](#wojcikiewicz-2024)

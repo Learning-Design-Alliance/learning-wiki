@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: wwc-intervention-report-alas-2006
     resource: "https://www.alasdropoutprevention.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Among students remaining in a district school, ALAS students were more likely than control students to be on track to graduate on time at the end of ninth grade (72% vs 53%; effect size 0.49, improvement index +19). [→ WWC Intervention Report: ALAS 2006](#wwc-intervention-report-alas-2006)

@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1997
 sources:
   - id: anthony-bryk-1997
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-john-tyler-high-school"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

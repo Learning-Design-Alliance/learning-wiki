@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: omarchevska-2022
     resource: "https://doi.org/10.1007/s10648-021-09652-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In the training task, the control group's ENA centroid differed from the combined VMP/VM centroid on the X axis (d = 0.54), reflecting stronger connections between scientific reasoning and self-regulation processes in the VM conditions. [→ Omarchevska 2022](#omarchevska-2022)

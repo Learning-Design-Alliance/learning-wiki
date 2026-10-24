@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "http://crede.berkeley.edu/research/crede/research/llaa/1.5pubs.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the randomized trial's additional study groups, Literature Logs only showed non-significant differences versus comparison on factual and interpretive comprehension, and Instructional Conversations only likewise showed non-significant positive differences. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

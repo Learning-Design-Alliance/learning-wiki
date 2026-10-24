@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: mayer-2009
     resource: "https://doi.org/10.1007/s10648-009-9102-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Mayer and colleagues published seven pieces in Educational Psychology Review, ranging from an introduction to the Select–Organize–Integrate model (1996) to a research-based analysis of how animation can support learning (2002) to advice to new researchers (2008). [→ Mayer 2009](#mayer-2009)

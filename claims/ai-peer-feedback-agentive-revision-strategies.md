@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: liu-w-2026
     title: Liu W 2026
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Control-group students predominantly used direct correction or no correction, while experimental-group students used a broader repertoire including substitution and addition. [→ Liu W 2026](#liu-w-2026)

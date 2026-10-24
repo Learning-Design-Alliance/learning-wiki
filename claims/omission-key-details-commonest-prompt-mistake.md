@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: victor-alexandru-pădurean-2026
     resource: "https://doi.org/10.1145/3765964.3811639"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In coding of half of all initial incorrect prompts (1,286 prompts), the most frequent mistakes were omissions of key elements such as the specified function return type, specified argument names, and appropriate expected output/return. [→ Victor-Alexandru Pădurean 2026](#victor-alexandru-padurean-2026)

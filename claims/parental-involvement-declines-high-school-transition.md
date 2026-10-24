@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
+recheck_by: 2003
 sources:
   - id: roderick-1998
     resource: "https://ccsr.uchicago.edu/publications/changing-standards-changing-relationships-building-family-school-relationships-promote"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Chicago eighth graders report substantially more parental involvement (homework help, checking, school attendance) than tenth graders. [→ Roderick 1998](#roderick-1998)

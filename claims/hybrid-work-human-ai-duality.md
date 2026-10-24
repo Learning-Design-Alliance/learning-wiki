@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: dwivedi-2023
     title: Dwivedi 2023
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Richter argues that adding AI to collaborative teams extends the concept of hybrid work beyond presence versus virtual work to a human/human versus human/AI duality. [→ Dwivedi 2023](#dwivedi-2023)

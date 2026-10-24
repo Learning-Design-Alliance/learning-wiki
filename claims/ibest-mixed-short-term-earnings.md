@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2020
 sources:
   - id: earn-1
     title: earn-1
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` One study showed a positive statistically significant earnings effect while another showed an indeterminate effect, yielding an outcome average effect size of 0 and improvement index of 0. [→ earn-1](#earn-1)

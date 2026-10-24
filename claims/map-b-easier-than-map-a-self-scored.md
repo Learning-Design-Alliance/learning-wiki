@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: shana-k-carpenter-and-harold-pashler-2007
     resource: "https://doi.org/10.3758/bf03194092"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` First-trial self-scored retrieval success was higher for Map B (82%) than for Map A (73%), and overall success was higher for Map B (87%) than Map A (77%). [→ Shana K. Carpenter and Harold Pashler 2007](#shana-k-carpenter-and-harold-pashler-2007)

@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the reviewed educational interventions, most focus on either individual behavior or group interaction, and strategies for transformation of social systems are underrepresented. [→ van Dijk 2026](#van-dijk-2026)

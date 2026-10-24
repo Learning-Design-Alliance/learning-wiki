@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: amogh-sirnoorkar-and-omkar-mamidpalliwar-2026
     resource: "https://doi.org/10.48550/arxiv.2607.29385"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Kruskal-Wallis tests showed at least one preference group differed on total EBAPS scores and on Axis 4 and Axis 5, with small effect sizes (total 0.004; Axis 4 0.007; Axis 5 0.006). [→ Amogh Sirnoorkar and Omkar Mamidpalliwar 2026](#amogh-sirnoorkar-and-omkar-mamidpalliwar-2026)

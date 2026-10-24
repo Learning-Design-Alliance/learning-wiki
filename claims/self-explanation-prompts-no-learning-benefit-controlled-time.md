@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: beege-2025
     resource: "https://doi.org/10.1007/s11251-024-09693-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learning from video with self-explanation prompts was not more successful than learning without prompts, with Bayes factors supporting the null hypothesis. [→ Beege 2025](#beege-2025)

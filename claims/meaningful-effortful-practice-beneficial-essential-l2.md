@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: robert-dekeyser-2010
     resource: "https://doi.org/10.6018/ijes/2010/1/114021"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When practice is defined as opportunities for meaningful receptive and productive language use and for thoughtful, effortful practice of difficult linguistic features, its role in L2 acquisition is beneficial and even essential. [→ Robert DeKeyser 2010](#robert-dekeyser-2010)

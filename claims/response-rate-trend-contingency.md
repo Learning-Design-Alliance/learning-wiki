@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: ying-xu-2023
     resource: "https://osf.io/j7upd"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In a multi-level logistic regression, each additional question in the interactive condition increased the odds of a child verbally responding by 2.6% (OR = 1.026, p = .01), while in the pseudo-interactive condition the odds decreased by 1.4% (OR = 0.96, p = .005). [→ Ying Xu 2023](#ying-xu-2023)

@@ -8,6 +8,7 @@ generated:
 id: learning-styles-matching-does-not-improve-learning
 aliases: [learning-styles-matching-yields-no-benefit, matching-instruction-to-styles-no-effect]
 evidence_strength: strong
+newest_evidence: 2020
 sources:
   - id: pashler-et-al-2008
     resource: "https://doi.org/10.1111/j.1539-6053.2009.01038.x"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 review `r1`–`r3`, 1 causal `r2` · `q2`–`q3`
+> **Currency** · newest study 2020 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Matching instruction to a learner's purported "learning style" (visual, auditory, kinesthetic, etc.) does not improve learning outcomes; learners learn best when content is matched to the *nature of the material*, not to a self-reported style preference.
 

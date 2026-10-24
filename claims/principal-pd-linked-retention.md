@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: the-education-trust-2022
     resource: "https://eric.ed.gov/?id=ED626435"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The brief reports research indicating that principals who have access to high-quality professional learning opportunities are more likely to stay in the profession, noting these opportunities matter most for leaders in their first few years. [→ The Education Trust 2022](#the-education-trust-2022)

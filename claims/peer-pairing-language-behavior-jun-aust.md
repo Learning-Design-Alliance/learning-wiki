@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Peer pairing had a statistically significant effect on student language behavior with peers, with effect sizes of 1.34 for talking to a peer and 2.16 for being addressed by a peer. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: thomas-coen-2019
     resource: "https://www.mathematica.org/publications/long-term-impacts-of-kipp-middle-schools-on-college-enrollment-and-early-college-persistence"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study tracks 1,177 lottery applicants to 13 oversubscribed KIPP middle schools long enough that they could have attended college for at least two years. [→ Thomas Coen 2019](#thomas-coen-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: rebecka-rundquist-2024
     resource: "https://doi.org/10.18608/jla.2024.8299"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A DLS with a formative assessment tool can have a positive effect on student mathematics achievement and motivation, and feedback based on formative assessment can lead to better performance, satisfaction, and confidence. [→ Rebecka Rundquist 2024](#rebecka-rundquist-2024)

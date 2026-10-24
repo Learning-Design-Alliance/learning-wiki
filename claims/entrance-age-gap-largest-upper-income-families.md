@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: todd-e-elder-and-darren-h-lubotsky-2009
     resource: "https://doi.org/10.3368/jhr.44.3.641"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The association between achievement test scores and entrance age is especially pronounced among children from upper-income families, a group the authors describe as likely to have accumulated the most skills prior to school entry. [→ Todd E. Elder and Darren H. Lubotsky 2009](#todd-e-elder-and-darren-h-lubotsky-2009)

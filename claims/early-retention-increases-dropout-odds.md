@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: hughes-2018
     resource: "https://doi.org/10.1037/edu0000243"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Among academically at-risk students equated on 65 grade-1 covariates, retained students were much more likely than continuously promoted students to drop out rather than complete high school (odds ratio = 2.67). [→ Hughes 2018](#hughes-2018)

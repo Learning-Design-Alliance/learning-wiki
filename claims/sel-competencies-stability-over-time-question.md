@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: james-soland-2019
     resource: "https://www.nwea.org/research/publication/are-social-emotional-learning-competencies-stable-over-time-implications-for-practice-policy-and-evaluation/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The study explores whether social-emotional learning competencies are stable over time and what this implies for teachers and schools. [→ James Soland 2019](#james-soland-2019)

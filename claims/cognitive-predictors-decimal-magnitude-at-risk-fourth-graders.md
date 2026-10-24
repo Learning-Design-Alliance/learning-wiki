@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: malone-amelia-s-2017
     resource: "https://doi.org/10.1016/j.lindif.2017.05.007"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Language comprehension, nonverbal reasoning, concept formation, and working memory each predicted at least one measure of decimal magnitude understanding among at-risk fourth graders. [→ Malone Amelia S. 2017](#malone-amelia-s-2017)

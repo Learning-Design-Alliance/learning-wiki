@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-18
 sources:
   - id: jasmine-forde-2021
     resource: "https://www.mathematica.org/publications/teacher-factors-that-drive-improvement-in-secondary-writing-outcomes-a-landscape-analysis"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teachers shape students' educational experiences overtly through instructional practices and in less obvious ways by engaging with students, providing support, and offering feedback. [→ Jasmine Forde 2021](#jasmine-forde-2021)

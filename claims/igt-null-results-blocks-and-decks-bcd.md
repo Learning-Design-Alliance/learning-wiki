@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: medeiros-w-2016
     title: Medeiros W 2016
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Beyond the Deck A contrast, the groups did not differ significantly on any IGT block trend, the overall general trend, or choices from Decks B, C, and D; no effect sizes were printed for these null results. [→ Medeiros W 2016](#medeiros-w-2016)

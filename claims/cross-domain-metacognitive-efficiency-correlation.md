@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: palmer-ec-2014
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154452/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` In participants completing both tasks, perceptual and memory metacognitive efficiency correlated positively (r = 0.40, p = 0.02), but this fell to non-significance after removing two outliers (r = 0.25, p = 0.19). [→ Palmer E.C. 2014](#palmer-ec-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: learnlm-team-2024
     resource: "https://doi.org/10.48550/arxiv.2412.16429"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants role-playing as learners preferred LearnLM over GPT-4o in all four comparative assessment categories, strongest for overall pedagogy and similarity to a very good human tutor. [→ LearnLM Team 2024](#learnlm-team-2024)

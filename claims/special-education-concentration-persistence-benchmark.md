@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: lemke-2023
     resource: "https://eric.ed.gov/?id=ED638519"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In schools with the most students receiving special education services, 67 percent of students stayed below benchmark versus 51 percent in schools with the fewest, though ever-below-benchmark rates were similar (67 versus 64 percent). [→ Lemke 2023](#lemke-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: benzi-slakmon-2024
     resource: "https://doi.org/10.1007/s11412-024-09423-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Per-participant counts (Table 3) show 9 of 14 participants increased dialogic utterances per episode after the intervention; three showed milder increases (participants 2, 6, and 13) and two showed a mild decrease (participants 5 and 9). [→ Benzi Slakmon 2024](#benzi-slakmon-2024)

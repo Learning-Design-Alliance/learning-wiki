@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: catherine-de-rijdt-2012
     resource: "https://doi.org/10.1007/s11251-011-9173-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across four courses and two cohorts, ANOVA found no significant differences in end-of-course exam achievement between the student tutor and staff tutor conditions, with all effect sizes small. [→ Catherine De Rijdt 2012](#catherine-de-rijdt-2012)

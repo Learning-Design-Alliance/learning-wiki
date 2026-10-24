@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bautista-2026
     resource: "https://doi.org/10.18608/jla.2026.9037"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Chi-square tests showed a significant association between cluster membership and grade level (χ²(8) = 79.32, p < .001, Cramér's V = 0.31). [→ Bautista 2026](#bautista-2026)

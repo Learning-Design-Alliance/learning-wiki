@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: rachatasumrit-2023
     resource: "https://doi.org/10.31234/osf.io/eyxfw"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` For simulated learners with forgetting, study-practice led to higher skill learning gains than practice-only, while practice-only led to higher fact gains than study-practice. [→ Rachatasumrit 2023](#rachatasumrit-2023)

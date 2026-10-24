@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: cowan-nelson-2014
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207727/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Individuals with low operation span performance are more affected by Stroop conditions when most trials match, and low-span adults report more mind-wandering on tasks they want to attend to. [→ Cowan Nelson 2014](#cowan-nelson-2014)

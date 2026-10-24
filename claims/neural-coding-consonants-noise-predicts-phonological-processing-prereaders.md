@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: white-schwoch-t-2015
     title: White-Schwoch T 2015
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In 4-y-old children who had not yet learned to read, a regression model of neural coding of consonants in noise predicted phonological processing above demographics (ΔR2 = 0.488, p = 0.003). [→ White-Schwoch T 2015](#white-schwoch-t-2015)

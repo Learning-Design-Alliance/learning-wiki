@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: abduh-2022
     resource: "https://doi.org/10.26858/ijole.v6i2.35072"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Government policy documents give three reasons for bilingual education in Indonesian universities: internationalization, learners' foreign language competencies, and implementation of law. [→ Abduh 2022](#abduh-2022)

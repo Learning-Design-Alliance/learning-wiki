@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: julia-chatain-2025
     resource: "https://doi.org/10.1007/s10648-025-10073-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Initial findings that concrete examples impaired abstract transfer were canceled in follow-up studies that made examples more relatable or aligned the posttest with the learning task. [→ Julia Chatain 2025](#julia-chatain-2025)

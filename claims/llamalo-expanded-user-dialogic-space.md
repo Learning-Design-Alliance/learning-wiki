@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: yifat-ben-david-kolikant-2025
     resource: "https://doi.org/10.1007/s11412-025-09461-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In discussions with LlamaLo, 69% of its 35 posts included both widening and deepening acts, and 78% included deepening acts and 78% widening acts. [→ Yifat Ben-David Kolikant 2025](#yifat-ben-david-kolikant-2025)

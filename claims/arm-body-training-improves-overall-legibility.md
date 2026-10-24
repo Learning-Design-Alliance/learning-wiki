@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: fernando-núñez-regueiro-2024
     resource: "https://doi.org/10.1007/s10648-024-09923-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Arm-body training had a significant positive effect on overall legibility (d = .309), and pencil-and-paper training a significant negative effect (d = -.413). [→ Fernando Núñez-Regueiro 2024](#fernando-nunez-regueiro-2024)

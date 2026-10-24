@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: vezzali-2016
     resource: "http://creativecommons.org/licenses/by-nc-nd/4.0/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Under a divisional mindset, the effect of diversity on creativity was nonsignificant, F < 1. [→ Vezzali 2016](#vezzali-2016)

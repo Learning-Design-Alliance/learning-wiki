@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: cowhy-2023
     resource: "https://doi.org/10.1177/08959048231198814"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All parents in the sample envisioned a school that was safe and supportive, with a strong academic environment providing needed supports and services within an inclusive climate. [→ Cowhy 2023](#cowhy-2023)

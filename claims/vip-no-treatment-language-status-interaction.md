@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-18
 sources:
   - id: vocabulary-improvement-program-for-english-language-learners-and-their-classmates-2006
     resource: "http://www.brookespublishing.com/store/books/lively-6342/index.htm"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study authors' analyses did not show an interaction between treatment and language status (English language learner versus fluent English speaker). [→ Vocabulary Improvement Program for English Language Learners and Their Classmates 2006](#vocabulary-improvement-program-for-english-language-learners-and-their-classmates-2006)

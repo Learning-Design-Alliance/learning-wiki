@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: de-la-torre-2019
     resource: "https://consortium.uchicago.edu"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When all students who began kindergarten as ELs were included, their NWEA-MAP math scores were only slightly lower (about 5 percentile points) than never-EL students, with almost identical math gains from third to eighth grade. [→ de la Torre 2019](#de-la-torre-2019)

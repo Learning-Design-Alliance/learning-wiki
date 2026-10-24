@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis of a formative study (N=6) identified two barriers in standard workflows: difficulty referencing specific regions and difficulty expressing visual/symbolic intent in text. [→ formative-1](#formative-1)

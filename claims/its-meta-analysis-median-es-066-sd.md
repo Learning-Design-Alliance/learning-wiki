@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2016
 sources:
   - id: kulik-2016
     resource: "https://doi.org/10.3102/0034654315581420"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In the meta-analysis of 50 evaluations, intelligent tutoring raised test scores a median of 0.66 standard deviations (50th to 75th percentile) over conventional instruction. [→ Kulik 2016](#kulik-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 1985
 sources:
   - id: fitzpatrick-1985
     resource: "https://eric.ed.gov/?id=ED255556"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers reported covering the same amount of material after training as in prior years, and neither pace nor presentation time was adversely affected. [→ Fitzpatrick 1985](#fitzpatrick-1985)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: matthew-johnson-2021
     resource: "https://www.mathematica.org/publications/time-to-lead-an-illustrative-look-at-how-elementary-school-principals-spend-their-workweek"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Principals who previously taught in elementary schools reported providing more extensive direct instructional support than other principals. [→ Matthew Johnson 2021](#matthew-johnson-2021)

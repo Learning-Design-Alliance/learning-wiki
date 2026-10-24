@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: lisa-e-kim-2019
     resource: "https://doi.org/10.1007/s10648-018-9458-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In a random-effects meta-analysis, extraversion (r = .17), conscientiousness (r = .13), emotional stability (r = .10), and openness (r = .10) were significant positive correlates of teacher effectiveness, whereas agreeableness was not (r = .03, p > .05). [→ Lisa E. Kim 2019](#lisa-e-kim-2019)
@@ -53,3 +55,4 @@ Random-effects meta-analysis of 25 studies (total N = 6294) pooling Pearson r co
 - [Teacher Big Five domains show their largest associations with burnout for emotional stability and conscientiousness, but none of the burnout effects are statistically significant](teacher-personality-burnout-null-findings.md) — related
 - Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis — related
 - [Most extracted associations are small: 219 of nearly 500 coefficients fall below a medium effect size, with conscientiousness–academic adjustment (.64) the largest](mostly-small-associations-conscientiousness-largest.md) — related
+- [Student-reported teacher conscientiousness is the strongest Big Five predictor of perceived teacher academic support in secondary mathematics and English classes](teacher-conscientiousness-predicts-academic-support.md) — related

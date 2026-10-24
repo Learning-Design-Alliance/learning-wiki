@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: bruce-2022
     resource: "https://doi.org/10.1017/S0954579420001819"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The main effect of group on P3 peak amplitude was not significant, although both groups showed a more positive P3 on no go than go trials. [→ Bruce 2022](#bruce-2022)

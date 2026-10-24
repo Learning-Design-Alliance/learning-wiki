@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
+recheck_by: 2019
 sources:
   - id: a-focused-look-at-rural-schools-receiving-school-improvement-grants-2014
     resource: "https://ies.ed.gov/ncee/pubs/20144013/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Respondents at rural SIG schools reported challenges resulting from their schools' location and communities' geographic spread, in addition to challenges similar to those of nonrural SIG schools. [→ A Focused Look at Rural Schools Receiving School Improvement Grants 2014](#a-focused-look-at-rural-schools-receiving-school-improvement-grants-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: mclean-2023
     resource: "https://doi.org/10.1037/edu0000790"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the covariates-only mathematics model, girls (B = 0.24, p < .01) and FARM-enrolled students (B = 0.26, p < .01) had higher Time 2 mathematics anxiety, and higher Time 1 mathematics anxiety predicted higher Time 2 mathematics anxiety (B = 0.61, p < .01). [→ McLean 2023](#mclean-2023)

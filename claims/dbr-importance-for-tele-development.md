@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2005
 sources:
   - id: wang-2005
     resource: "https://doi.org/10.1007/BF02504682"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article describes the importance of design-based research for the development of TELEs. [→ Wang 2005](#wang-2005)

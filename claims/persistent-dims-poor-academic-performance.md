@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: stormark-km-2019
     title: Stormark KM 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children with persistent DIMS had elevated odds of poor teacher-rated academic performance in the fully adjusted model (OR 1.87, 95% CI 1.19–2.95). [→ Stormark KM 2019](#stormark-km-2019)

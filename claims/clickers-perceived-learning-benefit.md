@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: miller-2013
     resource: "https://eric.ed.gov/?id=EJ1043050"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 109 students (89.3%) believed clicker use had assisted them in learning and/or understanding course material. [→ Miller 2013](#miller-2013)

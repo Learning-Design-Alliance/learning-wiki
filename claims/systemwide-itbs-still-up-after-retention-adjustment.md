@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: john-q-easton-1998
     resource: "https://consortium.uchicago.edu/publications/adjusting-citywide-itbs-scores-student-retention-grades-three-six-and-eight"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After adjustment, systemwide reading scores changed from 34.3 percent to 34.4 percent at or above national norms, and math fell from 39.3 to 38.7 percent, both above the 1997 scores of 30.3 and 35.9 percent. [→ John Q. Easton 1998](#john-q-easton-1998)

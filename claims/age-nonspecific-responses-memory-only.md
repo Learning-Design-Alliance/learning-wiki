@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: peters-2019
     resource: "https://doi.org/10.3758/s13421-019-00953-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Older adults produced more non-specific responses than younger adults for memory (d = 0.79) but an equivalent number for problem solving (d = 0.05). [→ Peters 2019](#peters-2019)

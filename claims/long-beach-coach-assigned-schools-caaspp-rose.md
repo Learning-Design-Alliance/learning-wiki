@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: perry-2019
     resource: "https://www.WestEd.org/permissions"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Long Beach Unified, CAASPP math scores rose markedly and disproportionately in district schools where coaches were assigned, but the report states achievement outcomes cannot be definitively tied to any one district effort. [→ Perry 2019](#perry-2019)

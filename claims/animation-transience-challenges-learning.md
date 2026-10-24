@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: tamara-van-gog-fred-paas-john-sweller-2010
     resource: "https://doi.org/10.1007/s10648-010-9145-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Information transience may pose a serious challenge to learning from animations of natural, mechanical, or biological processes or problem-solving procedures, because information may be missed and must be kept in mind while processing new input. [→ Tamara van Gog & Fred Paas & John Sweller 2010](#tamara-van-gog-fred-paas-john-sweller-2010)

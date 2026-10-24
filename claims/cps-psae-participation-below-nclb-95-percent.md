@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: stephen-m-ponisciak-2005
     resource: "https://consortium.uchicago.edu/publications/understanding-prairie-state-achievement-exam-descriptive-report-analysis-student"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` About 85 percent of CPS eleventh-graders took at least part of the 2004 PSAE, rising to 91 percent when IMAGE and IAA test-takers were added, still below the 95 percent NCLB participation requirement. [→ Stephen M. Ponisciak 2005](#stephen-m-ponisciak-2005)

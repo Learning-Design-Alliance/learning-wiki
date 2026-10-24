@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1910
 sources:
   - id: william-stern-1910
     resource: "https://archive.org/search?query=Journal+of+Educational+Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Until recently pedagogy was directed almost exclusively at the average child, and although a pedagogy of subnormal children has existed for decades, no systematic pedagogy of supernormal children yet exists. [→ William Stern 1910](#william-stern-1910)

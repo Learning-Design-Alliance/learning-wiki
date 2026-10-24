@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: willis-2021
     title: Willis 2021
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Scores on the Disconumbers and Shapedance package did not significantly vary between general-population and autistic candidates (d = -0.04). [→ Willis 2021](#willis-2021)

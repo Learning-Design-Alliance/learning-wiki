@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: adam-m-lavecchia-2014
     resource: "http://www.nber.org/papers/w20609"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Virtually all parents offered text messages about their middle-school child's incomplete homework agreed to receive them, and children of randomly selected offered parents performed significantly better than children whose parents did not receive the offer. [→ Adam M. Lavecchia 2014](#adam-m-lavecchia-2014)

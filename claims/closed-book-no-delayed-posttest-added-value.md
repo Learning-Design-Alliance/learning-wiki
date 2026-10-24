@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: sara-hiller-stefan-rumann-kirsten-berthold-julian-roelle-2020
     resource: "https://doi.org/10.1007/s11251-020-09523-4"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Contrary to hypothesis 3b, Experiment 2 did not find closed-book prompts superior on a delayed posttest when learners had received active processing prompts beforehand. [→ Sara Hiller · Stefan Rumann · Kirsten Berthold · Julian Roelle 2020](#sara-hiller-stefan-rumann-kirsten-berthold-julian-roelle-2020)

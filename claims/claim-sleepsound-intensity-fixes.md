@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: sini-davies-2024
     resource: "https://doi.org/10.1007/s11412-024-09427-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q1 i?` SleepSound applied science, computer engineering, and product design practices in over two-thirds of its 3-min segments, up to seven dimensions in one segment, two or more dimensions in roughly three-quarters of those segments, and three or more in just over half. [→ Sini Davies 2024](#sini-davies-2024)

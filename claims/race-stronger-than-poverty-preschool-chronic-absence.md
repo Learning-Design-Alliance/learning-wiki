@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: ehrlich-2014
     resource: "https://consortium.uchicago.edu/publications/preschool-attendance-chicago-public-schools-relationships-learning-outcomes-and-reasons"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` African American preschool students from low- or moderate-poverty neighborhoods are about twice as likely to be chronically absent as white students from similar neighborhoods, even after taking neighborhood poverty into account. [→ Ehrlich 2014](#ehrlich-2014)

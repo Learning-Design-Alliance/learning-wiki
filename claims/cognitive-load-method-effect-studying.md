@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: leppink-2012
     resource: "https://doi.org/10.1007/s10734-011-9476-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The interaction between cognitive load and instructional method was statistically significant, F(3, 101) = 3.690, with η² = 0.099; average cognitive load when studying was highest in the worked-out examples condition. [→ Leppink 2012](#leppink-2012)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: darling-hammond-2022
     resource: "https://doi.org/10.54300/641.201"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A minority of principals nationally reported access to authentic, job-based learning opportunities such as high-quality internships, coaching, or mentoring. [→ Darling-Hammond 2022](#darling-hammond-2022)

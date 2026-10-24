@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zekun-wu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.00445"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children fixated the secondary AOI during a significantly higher proportion of gaze-based assistance instances (M = 54.06%) than baseline instances (M = 35.48%), p < .05. [→ Zekun Wu 2026](#zekun-wu-2026)

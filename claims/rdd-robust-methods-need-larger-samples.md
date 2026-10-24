@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: john-deke-2017
     resource: "https://www.mathematica.org/publications/asymdystopia-the-threat-of-small-biases-in-evaluations-of-education-interventions-that-need"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` State-of-the-art statistical methods for regression discontinuity designs can protect against inaccuracies from incorrect regression models, but detecting small effects with these methods requires much larger sample sizes. [→ John Deke 2017](#john-deke-2017)

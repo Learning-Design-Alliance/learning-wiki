@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Feedback generated using racially and gendered names showed some identity-marked language — Black names were associated with higher concentrations of MBlack — but effects were smaller, less consistent, and often noisy relative to explicit prompts. [→ Tan et al. 2026](#tan-et-al-2026)

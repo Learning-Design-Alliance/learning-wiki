@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2000
+recheck_by: 2005
 sources:
   - id: fred-m-newmann-2000
     resource: "https://ccsr.uchicago.edu/sites/default/files/publications/ExternalPartners.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Partners' capacity to influence school improvement is structurally limited because their involvement typically occupies only a minor part of schools' attention and activity. [→ Fred M. Newmann 2000](#fred-m-newmann-2000)

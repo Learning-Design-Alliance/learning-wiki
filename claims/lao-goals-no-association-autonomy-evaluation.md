@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: anongsack-mahavong-2026
     resource: "https://doi.org/10.1007/s11251-025-09756-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Contrary to hypotheses, relational goals showed no significant association with autonomy, and mastery goals showed no significant associations with evaluation or autonomy. [→ Anongsack Mahavong 2026](#anongsack-mahavong-2026)

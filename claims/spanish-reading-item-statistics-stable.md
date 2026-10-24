@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: map-growth-technical-report-spanish-addendum-for-20242025-2026
     resource: "https://www.nwea.org/research/publication/map-growth-spanish-technical-report-addendum/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spanish Reading mean p values increased from fall (0.44) to spring (0.48) and mean point-biserial correlations remained stable at 0.30 across terms. [→ MAP Growth Technical Report Spanish Addendum for 2024–2025 2026](#map-growth-technical-report-spanish-addendum-for-20242025-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: kielstra-2022
     resource: "https://doi.org/10.1007/s11412-022-09365-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Frequency of shared interaction correlated with frequency of deep-level metacognitive activities (r = 0.70, p < 0.05) and co-constructed more strongly (r = 0.84, p < 0.01) during pre-task regulation. [→ Kielstra 2022](#kielstra-2022)

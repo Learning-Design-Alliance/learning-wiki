@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2014
 sources:
   - id: fast-track-elementary-school-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/628"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Positive and statistically significant differences on Peer Social Preference, Social Problem-Solving, and Time in Positive Peer Interaction; no significant difference on the Peer-Nominated Prosocial measure or the Parent and Teacher Social Competence Scales; domain improvement index +4. [→ Fast Track: Elementary School 2014](#fast-track-elementary-school-2014)

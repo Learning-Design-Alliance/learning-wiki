@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: uyen-2021
     resource: "https://doi.org/10.12973/eu-jer.10.3.1287"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Observations showed most students struggled to speak in front of peers due to lack of confidence and inappropriate language use. [→ Uyen 2021](#uyen-2021)

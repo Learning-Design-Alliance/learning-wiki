@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: blair-2015
     resource: "https://doi.org/10.1146/annurev-psych-010814-015221"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Attention and effortful regulation follow an inverted U-shaped relation to emotional and physiological arousal, with executive function maximized at moderate neurochemical levels. [→ Blair 2015](#blair-2015)

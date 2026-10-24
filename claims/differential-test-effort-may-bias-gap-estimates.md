@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: james-soland-2019
     resource: "https://doi.org/10.1177/016146811812001202"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Achievement gap estimates may be biased by differential student test effort, making test effort a threat to the validity of this policy metric. [→ James Soland 2019](#james-soland-2019)

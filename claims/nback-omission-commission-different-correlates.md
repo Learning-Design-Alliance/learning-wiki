@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: meule-a-2017
     resource: "https://doi.org/10.3389/fpsyg.2017.00352"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Reaction times correlated positively with omission errors but not commission errors in two 2-back studies. [→ Meule A 2017](#meule-a-2017)

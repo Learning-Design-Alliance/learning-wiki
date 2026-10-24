@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: negar-kamali-2026
     resource: "https://doi.org/10.48550/arxiv.2606.28510"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The BA×Post training effect was largest among participants with no prior forensics experience (9.2 percentage points, 95% CI: [3.5, 14.2]), with smaller gains of 5.4 and 2.0 points for the less-than-one-year and more-than-one-year groups. [→ Negar Kamali 2026](#negar-kamali-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: janos-perczel-2025
     resource: "https://doi.org/10.48550/arxiv.2510.05087"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across ten sessions of n=195 completed projects, rapport building represents up to 25% of the first session and up to 10% of the last, while reviewing artifacts gradually increases in importance as the project progresses. [→ Janos Perczel 2025](#janos-perczel-2025)

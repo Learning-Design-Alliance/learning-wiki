@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: sempowicz-2011
     resource: "https://doi.org/10.14221/ajte.2011v36n8.4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Strategies advocated in the school's system requirement document (Program Achieve) and modelled by the mentor transferred to the mentee's classroom management practices by the end of the field experience. [→ Sempowicz 2011](#sempowicz-2011)

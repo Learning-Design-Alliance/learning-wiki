@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: self-regulated-strategy-development-wwc-intervention-report-2017
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/680"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The math achievement evidence base (one study, one research team, three cases) failed the WWC replication threshold criteria, so no effectiveness rating was assigned for math achievement. [→ Self-Regulated Strategy Development: WWC Intervention Report 2017](#self-regulated-strategy-development-wwc-intervention-report-2017)

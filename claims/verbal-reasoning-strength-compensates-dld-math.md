@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kleemans-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2024.102019"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` DLD children with a verbal-reasoning strength performed significantly better in geometric skills than DLD children without it, ηp2 = .30. [→ Kleemans 2025](#kleemans-2025)

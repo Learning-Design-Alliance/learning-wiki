@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ceri-ngai-and-sam-j-gilbert-2026
     resource: "https://doi.org/10.1186/s41235-026-00714-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Absolute metacognitive bias was significantly lower in the feedback group at both timepoints, with a significant main effect of Group and no significant Group x Timepoint interaction. [→ Ceri Ngai and Sam J. Gilbert 2026](#ceri-ngai-and-sam-j-gilbert-2026)

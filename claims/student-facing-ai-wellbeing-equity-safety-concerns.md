@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: anchor-student-facing
     title: anchor-student-facing
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Educators raised wide-ranging concerns about student-facing AI including cognitive offloading, screen time, chatbot companionship, and social-emotional harm. [→ anchor-student-facing](#anchor-student-facing)

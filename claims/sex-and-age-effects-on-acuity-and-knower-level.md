@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: shusterman-anna-2016
     resource: "https://doi.org/10.1371/journal.pone.0153072"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ANCOVA showed ANS acuity was significantly better for females (M = 0.43) than males (M = 0.65) at S5 (F(2,37) = 4.27, p = .02), and only marginally so at S2 (p = .09). [→ Shusterman Anna 2016](#shusterman-anna-2016)

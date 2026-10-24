@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: maura-varley-gutiérrez-2011
     resource: "http://education.gsu.edu/JUME"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students' perceptions of mathematics reflected constricting institutional arrangements, gravitating toward a numbers-focused view and external measures like grades and test scores. [→ Maura Varley Gutiérrez 2011](#maura-varley-gutierrez-2011)

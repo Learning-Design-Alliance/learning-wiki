@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: jiaojiao-zhao-2026
     resource: "https://doi.org/10.48550/arxiv.2606.09041"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The artifact enabled coordinated action across social worlds—students saw code architecture, museum educators saw curriculum infrastructure, end-users saw cultural heritage. [→ Jiaojiao Zhao 2026](#jiaojiao-zhao-2026)

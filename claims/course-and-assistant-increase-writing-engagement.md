@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sven-scheu-2026
     resource: "https://doi.org/10.1186/s41239-026-00589-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a multiple regression on message length, both feature access and study day significantly predicted the number of characters written, confirming H3 and H4. [→ Sven Scheu 2026](#sven-scheu-2026)

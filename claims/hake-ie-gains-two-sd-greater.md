@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: lei-bao-2007
     resource: "https://doi.org/10.48550/arxiv.0710.1375"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Across 62 courses and N = 6542 students, interactive engagement courses' average normalized gains were about two standard deviations greater than traditional courses', and the correlation of average gains with pretest scores was +0.02. [→ Lei Bao 2007](#lei-bao-2007)

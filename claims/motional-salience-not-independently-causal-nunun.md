@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: manuela-macedonia-2026
     resource: "https://doi.org/10.1007/s10648-026-10222-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Macedonia and Klimesch (2014), that the pseudoword nunun was the most memorable word in its corpus, but the authors argue this does not evidence an independent causal effect of motional salience. [→ Manuela Macedonia 2026](#manuela-macedonia-2026)

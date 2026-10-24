@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: daniel-j-mitchell-2018
     resource: "https://doi.org/10.1037/pag0000265"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` People better able to judge variability in their performance had lower actual error (RMSE). [→ Daniel J. Mitchell 2018](#daniel-j-mitchell-2018)

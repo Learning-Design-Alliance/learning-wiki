@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: philip-2020
     resource: "https://doi.org/10.1080/10508406.2020.1828089"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article argues that theories of learning justify existing societal hierarchies via reification of abstract concepts and ranking of complex variation as an ascending scale. [→ Philip 2020](#philip-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: van-der-beek-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102169"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Negative feedback had a small significant negative indirect effect on math performance via hope (β = -.11, p = .027); hope positively predicted performance (β = .20), while anxiety, anger and enjoyment did not predict performance. [→ Van der Beek 2025](#van-der-beek-2025)

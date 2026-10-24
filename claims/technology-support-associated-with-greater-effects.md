@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: olga-chernikova-2020
     resource: "https://doi.org/10.3102/0034654320933544"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Simulators (g = 1.07) and virtual reality (g = 0.85) were more effective than screen-based simulations (g = 0.68) and simulations without technology support (g = 0.74). [→ Olga Chernikova 2020](#olga-chernikova-2020)

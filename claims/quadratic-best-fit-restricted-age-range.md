@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: ahmed-2022
     resource: "https://doi.org/10.1037/dev0001396"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In the age-restricted PSID-CDS comparison analysis, the cubic coefficient was non-significant and the quadratic form was the best fitting model. [→ Ahmed 2022](#ahmed-2022)

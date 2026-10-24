@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: cargnelutti-2017
     resource: "https://doi.org/10.1080/02699931.2016.1147421"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Math anxiety is present and linked to math performance in children as young as Grade 2-3, a period when its onset was previously unclear. [→ Cargnelutti 2017](#cargnelutti-2017)

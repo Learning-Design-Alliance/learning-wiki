@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: daniel-robinson-2009
     resource: "https://doi.org/10.1007/s10648-009-9115-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Tom Good reports that an early disagreement with Brophy about whether teachers vary in interactions with students believed more or less capable led to research showing both patterns exist across teachers. [→ Daniel Robinson 2009](#daniel-robinson-2009)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: dave-neale-david-whitebread-2019
     resource: "https://doi.org/10.1007/s11409-019-09196-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In regressions at 12, 18 and 24 months, contingency significantly predicted concurrent child performance while propensity to scaffold and directiveness did not show consistent relationships. [→ Dave Neale & David Whitebread 2019](#dave-neale-david-whitebread-2019)

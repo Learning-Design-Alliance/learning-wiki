@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: henrik-örnebring-2007
     resource: "https://doi.org/10.1177/1367877907083079"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite their differences, commercial and non-commercial ARGs based on existing media properties follow a similar logic of fan consumption, extending the narrative in ways conforming to corporate marketing goals and fans' goals of pleasurable consumption. [→ Henrik Örnebring 2007](#henrik-ornebring-2007)

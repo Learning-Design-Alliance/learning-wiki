@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-09
+recheck_by: 2020
 sources:
   - id: steven-wise-2017
     resource: "https://doi.org/10.1111/emip.12189"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Rapid guessing is identified from the time test takers spend responding to individual multiple-choice items, and its interpretation requires attention to contextual requirements and to misconceptions about its dynamics. [→ Steven Wise 2017](#steven-wise-2017)

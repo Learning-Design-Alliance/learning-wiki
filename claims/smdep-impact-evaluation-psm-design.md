@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: clemencia-cosentino-2015
     resource: "https://www.mathematica.org/publications/impact-evaluation-of-the-rwjf-summer-medical-and-dental-education-program-smdep"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study employs a quasi-experimental design using propensity score matching to assess SMDEP impacts on college graduation and matriculation in medical or dental school. [→ Clemencia Cosentino 2015](#clemencia-cosentino-2015)

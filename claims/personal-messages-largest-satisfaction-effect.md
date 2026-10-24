@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-17
 sources:
   - id: means-2020
     resource: "https://doi.org/10.51388/20.500.12265/98"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sixty-eight percent of students who received personal messages from the instructor were satisfied overall versus 47 percent of those who did not; reflective assignments were associated with 68 percent versus 50 percent satisfaction. [→ Means 2020](#means-2020)

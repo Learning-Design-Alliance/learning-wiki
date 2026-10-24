@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: anna-maria-velentza-2026
     resource: "https://doi.org/10.1109/ro-man72286.2026.11714558"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study's appearance-to-task matching hypotheses (H1.a–H1.c) were not supported by the data. [→ Anna-Maria Velentza 2026](#anna-maria-velentza-2026)

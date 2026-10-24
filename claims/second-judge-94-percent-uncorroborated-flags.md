@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: chris-rohlfs-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28478"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Re-examining every failure from 2.5 million evaluations over a six-month window with a second LLM judge showed 94% of the 140,000 failures were not corroborated. [→ Chris Rohlfs 2026](#chris-rohlfs-2026)

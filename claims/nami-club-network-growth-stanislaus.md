@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: wested-2024
     resource: "https://eric.ed.gov/?id=ED655972"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` A dedicated youth coordinator supported expansion of NAMI On Campus Clubs across the county to 27 campuses and a network of more than 500 champions. [→ WestEd 2024](#wested-2024)

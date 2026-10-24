@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 54 consented survey respondents from 7 of 18 courses, most utilized AI tools daily (35.2%) or weekly (48.1%), usage was largely passive (e.g., summarization), and open-ended responses revealed persistent ethical anxiety. [→ survey-1](#survey-1)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: nakamoto-2022
     resource: "https://eric.ed.gov/?id=ED621271"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The RCT based on Lied's oversubscription lottery, a more rigorous design than the QEDs, replicated the QED's positive and statistically significant impact on 6th graders' mathematics achievement. [→ Nakamoto 2022](#nakamoto-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: charlotte-e-wolff-2016
     resource: "https://doi.org/10.1007/s11251-016-9367-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In all four videos novices skipped more AOIs than experts; there were no instances where the majority of experts skipped more AOIs. [→ Charlotte E. Wolff 2016](#charlotte-e-wolff-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: peer-assisted-learningliteracy-strategies-2012
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/364"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` McMaster et al. (2005) did not find statistically significant effects on Near-Transfer Fluency or Far-Transfer Fluency for first graders; the WWC domain average effect was –0.21 (improvement index –8), not statistically significant and below the substantively-important threshold. [→ Peer-Assisted Learning/Literacy Strategies 2012](#peer-assisted-learningliteracy-strategies-2012)

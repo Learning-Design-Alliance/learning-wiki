@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: reshaping-undergraduate-computer-science-education-in-the-generative-ai-era-2026
     resource: "https://doi.org/10.48550/arxiv.2606.07545"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Student participants concluded AI's role is fluid: a shortcut for tasks with clear, predictable outcomes such as information search and simple automation, and a collaborator for uncertain, creative tasks where students must inject their own critical thinking and opinions. [→ Reshaping Undergraduate Computer Science Education in the Generative AI Era 2026](#reshaping-undergraduate-computer-science-education-in-the-generative-ai-era-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ottoboni-giovanni-2021
     resource: "https://doi.org/10.3390/ijerph18147545"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The three-way time × age × exercise interaction was significant, indicating that the pre-to-post change in STM spans differed across exercise types and age groups. [→ Ottoboni Giovanni 2021](#ottoboni-giovanni-2021)

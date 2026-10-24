@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (40 show a difference, 12 mixed, 5 no difference) · 33 studies (15 associational, 8 causal, 7 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 7 of 33 report an effect size · 56 claims rest on one study
+> **Evidence** · 61 claims (44 show a difference, 12 mixed, 5 no difference) · 34 studies (15 associational, 8 causal, 7 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 7 of 34 report an effect size · 60 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -93,6 +93,10 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Spatial ability predicts algebra word problem performance above and beyond its general relation to mathematics ability](../claims/spatial-predicts-algebra-word-problems-specifically.md) [+W] — learners who differ on it differ in outcomes
 - [The spatial pathway to mathematical competence is relatively more important for boys and the in-class attention pathway for girls, confirming the differential contributions hypothesis](../claims/differential-contributions-pathways-confirmed.md) [~W] — learners who differ on it differ in outcomes
 - [Different domain-general factors uniquely account for variation in different arithmetic skills](../claims/domain-general-factors-skill-specific.md) [+M] — learners who differ on it differ in outcomes
+- [Challenges requiring coordinated movement of multiple people, representations, and objects elicited correspondingly high frequencies of extrinsic-dynamic spatial reasoning](../claims/coordinated-movement-challenges-extrinsic-dynamic.md) [+M] — instruction changes it
+- [Different FUSE challenges facilitated different types of spatial reasoning, with CAD-software challenges eliciting relatively high intrinsic-dynamic and extrinsic-dynamic reasoning](../claims/challenges-elicited-different-spatial-reasoning.md) [+M] — instruction changes it
+- [During FUSE making activities, students engaged in frequent and diverse spatial reasoning, with 9393 coded instances across 13 types spanning all four quadrants of the spatial-skills matrix](../claims/making-activities-frequent-diverse-spatial-reasoning.md) [+M] — instruction changes it
+- [Students drew mainly on peers and materials rather than adults as resources for spatial reasoning, using other students in 44 percent of resource-use instances and adults in 9 percent](../claims/peers-over-adults-spatial-resources.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

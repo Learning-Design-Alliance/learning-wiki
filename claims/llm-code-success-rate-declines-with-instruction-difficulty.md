@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shenqi-lu-and-liangwei-zhang-2026
     resource: "https://doi.org/10.48550/arxiv.2601.01196"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In simulation, LLM-generated control code achieved success rates of 100% for simple, 94.4% for composite, and 88.9% for complex instructions, with success declining as difficulty increases. [→ Shenqi Lu and Liangwei Zhang 2026](#shenqi-lu-and-liangwei-zhang-2026)

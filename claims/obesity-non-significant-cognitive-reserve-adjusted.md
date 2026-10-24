@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: ihle-2016
     resource: "https://doi.org/10.1159/000448916"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Hierarchical regression analyses showed that obesity was not related to any of the three investigated cognitive performance measures when cognitive reserve in early and midlife was taken into account. [→ Ihle 2016](#ihle-2016)

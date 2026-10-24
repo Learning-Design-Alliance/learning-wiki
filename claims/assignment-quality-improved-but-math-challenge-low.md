@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: wenzel-2002
     resource: "https://consortium.uchicago.edu/publications/documentation-1996-2002-chicago-annenberg-research-project-authentic-intellectual"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The quality of classroom assignments in the sample improved between 1997 and 1999. [→ Wenzel 2002](#wenzel-2002)

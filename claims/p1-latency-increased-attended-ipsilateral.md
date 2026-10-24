@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: banerjee-snigdha-2015
     resource: "https://doi.org/10.1111/ejn.12810"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` P1 latency was significantly increased for attended versus unattended conditions ipsilateral to the stimulus location, with no contralateral difference. [→ Banerjee Snigdha 2015](#banerjee-snigdha-2015)

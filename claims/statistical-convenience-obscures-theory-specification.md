@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: murayama-2025
     resource: "https://doi.org/10.1080/00461520.2025.2473894"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In continuous time modelling, even the sign of cross-lagged effects can differ depending on the time intervals between assessments. [→ Murayama 2025](#murayama-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: vella-brodrick-2024
     resource: "https://doi.org/10.1007/s10648-024-09964-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Finnish adults reported significantly higher creativity after visiting an urban park and extensive urban woodland area compared to a built-up city centre, with no significant difference between park and woodland. [→ Vella-Brodrick 2024](#vella-brodrick-2024)

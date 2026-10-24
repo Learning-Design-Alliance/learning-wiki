@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: nicola-fuchs-schündeln-2020
     resource: "http://www.nber.org/papers/w27773"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across children aged 4 to 14 at the shock, the model implies a 3.8% increase in the future share without a high school degree and a 2.7% reduction in the college-degree share, with average earnings losses of about −1%. [→ Nicola Fuchs-Schündeln 2020](#nicola-fuchs-schundeln-2020)

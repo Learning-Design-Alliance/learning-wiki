@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: vinicius-santana-gomes-2026
     resource: "https://doi.org/10.48550/arxiv.2606.01517"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SES/CONT's average processing time fell from 17.92 days in 2023 to 14.66 days in 2024, an 18.2% aggregate reduction, with documentary output per case stable (2.77 to 2.78). [→ Vinicius Santana Gomes 2026](#vinicius-santana-gomes-2026)

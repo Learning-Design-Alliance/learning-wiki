@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: gao-x-2026
     title: Gao X 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For EAP task performance, the Proficiency × Material interaction was significant but smaller, F(4, 126) = 3.01, p = 0.021, η2p = 0.087. [→ Gao X 2026](#gao-x-2026)

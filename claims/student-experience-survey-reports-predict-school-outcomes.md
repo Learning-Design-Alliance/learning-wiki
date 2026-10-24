@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: uchicago-consortium-on-school-research-2026
     resource: "https://consortium.uchicago.edu/events-and-resources"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` How students respond to surveys about their school experiences predicts how they will do in school and beyond across attendance, grades, test scores, graduation, college enrollment, and well-being. [→ UChicago Consortium on School Research 2026](#uchicago-consortium-on-school-research-2026)

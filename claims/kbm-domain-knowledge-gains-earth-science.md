@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dina-soliman-2026
     resource: "https://doi.org/10.1007/s11412-026-09493-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students' domain knowledge increased significantly following the KBM approach, with a small-to-moderate effect. [→ Dina Soliman 2026](#dina-soliman-2026)

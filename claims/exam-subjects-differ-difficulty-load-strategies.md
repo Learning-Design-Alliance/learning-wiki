@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: seufert-2024
     resource: "https://doi.org/10.1007/s10648-024-09890-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Perceived task difficulty differed significantly across the four subjects (η2 = 0.12), with Mathematics (d = 0.60) and the profile subject (d = 0.77) rated more difficult than English. [→ Seufert 2024](#seufert-2024)

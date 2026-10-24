@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: teacher-mediation
     title: teacher-mediation
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers using ASSISTments appeared likely to amplify benefits by selecting specific homework problems to review and addressing common wrong answers, but the study's mediation analysis failed to show an effect. [→ teacher-mediation](#teacher-mediation)

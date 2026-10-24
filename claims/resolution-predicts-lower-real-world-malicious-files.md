@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: casey-inez-canfield-baruch-fischhoff-alex-davis-2019
     resource: "https://doi.org/10.1007/s11409-019-09197-5"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Participants with poorer resolution were more likely to have malicious files on their computers, overall r(93) = −0.27, p = .009, and for phishing emails specifically r(93) = −0.21, p = .04. [→ Casey Inez Canfield & Baruch Fischhoff & Alex Davis 2019](#casey-inez-canfield-baruch-fischhoff-alex-davis-2019)

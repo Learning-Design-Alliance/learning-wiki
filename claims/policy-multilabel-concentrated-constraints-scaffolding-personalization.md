@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: minsun-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2607.21257"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies contained an average of 3.42 policy labels per system, with 85 studies (94.4%) containing two or more policy categories; the most common policies were Learning-Based Personalization (51 studies, 56.7%) and Scaffolding-Oriented Support (48 studies, 53.3%). [→ Minsun Kim 2026](#minsun-kim-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-23
 sources:
   - id: gaspard-2021
     resource: "https://dx.doi.org/10.1037/edu0000663"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Compared with the waitlist control, both the master's-student and teacher conditions showed positive effects on utility value 3 months after the intervention, even though students' self-reported utility value declined on average. [→ Gaspard 2021](#gaspard-2021)

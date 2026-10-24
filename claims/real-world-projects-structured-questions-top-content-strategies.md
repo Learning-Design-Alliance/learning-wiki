@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: martin-2018
     resource: "https://doi.org/10.24059/olj.v22i1.1092"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the student-content category, working on real world projects and having discussions with structured or guiding questions were rated most beneficial. [→ Martin 2018](#martin-2018)

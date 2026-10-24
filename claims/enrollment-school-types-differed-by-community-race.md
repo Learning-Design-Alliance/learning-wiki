@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: mckoy-2021
     resource: "https://toandthrough.uchicago.edu/tool/cps/comm"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Enrollment patterns by school type differed significantly by the racial/ethnic makeup of community areas: 22 of 30 majority-Black and 11 of 26 majority-Latinx areas had at least 25 percent of ninth-graders in charter schools, while no majority-White or majority-Asian American/Pacific Islander area did. [→ McKoy 2021](#mckoy-2021)

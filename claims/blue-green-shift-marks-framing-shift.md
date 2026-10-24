@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: rachel-e-scherr-and-david-hammer-2007
     resource: "https://scholar.google.com/scholar?q=Student+Behavior+and+Epistemological+Framing"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In analyzed episodes, abrupt behavioral shifts from the blue cluster (leaning over papers, quiet recitation) to the green cluster (sitting up, eye contact, loud original speech, prolific gesture) coincide with shifts in the substance of reasoning from worksheet completion to discussing physics ideas. [→ Rachel E. Scherr and David Hammer 2007](#rachel-e-scherr-and-david-hammer-2007)

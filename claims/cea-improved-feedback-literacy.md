@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: i-putu-yoga-laksana-2026
     resource: "https://doi.org/10.29140/tltl.2026.103616"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The experimental group scored significantly higher than the control group on the post-test of feedback literacy (M = 79.666 vs M = 71.762; partial η2 = 0.218). [→ I Putu Yoga Laksana 2026](#i-putu-yoga-laksana-2026)

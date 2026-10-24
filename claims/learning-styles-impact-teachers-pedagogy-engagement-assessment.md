@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-18
 sources:
   - id: deborah-adkins-2018
     resource: "https://doi.org/10.1111/bjet.12556"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Learning styles have an impact on teachers, pedagogy, student engagement, and assessment. [→ Deborah Adkins 2018](#deborah-adkins-2018)

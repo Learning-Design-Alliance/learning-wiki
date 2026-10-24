@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mesenhöller-j-and-böhme-k-2026
     resource: "https://doi.org/10.3389/feduc.2026.1875856"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the training, large majorities of teachers agreed the INSIGHT content was personally helpful (88%) and useful for future lesson planning and instructional design (78%), with descriptive means and SDs as printed. [→ Mesenhöller J and Böhme K 2026](#mesenholler-j-and-bohme-k-2026)

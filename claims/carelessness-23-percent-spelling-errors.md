@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: foster-1911
     resource: "https://doi.org/10.1037/h0070538"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 2,005 errors in 10,000 themes by 300 students, 467 (23 per cent) were due to carelessness and must be excluded when tracing causes of inability to spell. [→ Foster 1911](#foster-1911)

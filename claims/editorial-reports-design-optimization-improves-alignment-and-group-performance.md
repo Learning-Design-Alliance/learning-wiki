@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: sanna-järvelä-carolyn-p-rosé-2020
     resource: "https://doi.org/10.1007/s11412-020-09324-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across an initial round with 20 groups and a second round with another 20 groups in a design-centered research study, alignment between collaborative learning design and enactment significantly improved after design optimization, and optimization can improve group performance. [→ Sanna Järvelä & Carolyn P. Rosé 2020](#sanna-jarvela-carolyn-p-rose-2020)

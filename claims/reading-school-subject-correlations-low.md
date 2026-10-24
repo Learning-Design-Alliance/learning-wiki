@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1921
 sources:
   - id: arthur-i-gates-1921
     resource: "https://doi.org/10.1037/h0064253"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Correlations of comprehension with single school subjects are low: spelling 0.40, arithmetic 0.24, writing 0.10; rate shows similar values. [→ Arthur I. Gates 1921](#arthur-i-gates-1921)

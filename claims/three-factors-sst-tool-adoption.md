@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: cocuzza-2026
     resource: "https://doi.org/10.51388/20.500.12265/303"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The case study identifies three key factors influencing adoption: lack of guided practice/preparation, inconsistent routines and existing habits, and the tool's value not being immediately visible to SST members. [→ Cocuzza 2026](#cocuzza-2026)

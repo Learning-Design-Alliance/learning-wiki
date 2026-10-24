@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: freeman-2017
     resource: "http://dx.doi.org/10.1016/j.lindif.2017.06.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Absolute Accuracy Index was a significant predictor in the Word Reading and Composite Score regression models (14% and 13% of variance), with lower scores indicating better calibration associated with higher achievement; it did not significantly predict Numerical Operations or Spelling. [→ Freeman 2017](#freeman-2017)

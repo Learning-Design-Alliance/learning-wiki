@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: tommi-kokkonen-lennart-schalk-2021
     resource: "https://doi.org/10.1007/s10648-020-09581-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A conceptual analysis suggests concreteness fading is not broadly generalizable because representation types and instructional goals differ across domains. [→ Tommi Kokkonen & Lennart Schalk 2021](#tommi-kokkonen-lennart-schalk-2021)

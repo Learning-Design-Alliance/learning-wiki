@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-24
 sources:
   - id: schenke-2017
     resource: "https://doi.org/10.1037/edu0000165"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The path from expectations and responsiveness to developmental needs to post mathematics achievement was significant for African American students (b = 0.54, p < .001) but not for non-African American students (b = −0.08, p = .57), and the Wald test of the difference was significant (p < .001). [→ Schenke 2017](#schenke-2017)

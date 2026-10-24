@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: moira-mccullough-2015
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Alternative student growth measures came with financial costs and implementation challenges, especially related to teacher time, test administration, and rigor in evaluating performance. [→ Moira McCullough 2015](#moira-mccullough-2015)

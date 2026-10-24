@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: steven-wise-2015
     resource: "https://doi.org/10.1080/15366367.2015.1105062"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The growing presence of computer-based testing enables routine capture of time spent on individual items, leading to increased interest in applications of response time in measuring intellectual ability and achievement. [→ Steven Wise 2015](#steven-wise-2015)

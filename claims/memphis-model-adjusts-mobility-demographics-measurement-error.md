@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: kevin-booker-2008
     resource: "https://www.mathematica.org/publications/measuring-school-effectiveness-in-memphis"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The model estimates each school's effect on student performance across all tested grades and subjects while accounting for student mobility, observable demographic differences, and measurement error in test scores. [→ Kevin Booker 2008](#kevin-booker-2008)

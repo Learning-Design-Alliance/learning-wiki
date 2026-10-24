@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: torre-gibney-2024
     resource: "https://eric.ed.gov/?id=ED673552"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q1 i?` In small rural districts, CTE course options are often limited by teacher availability, and the same CTE teacher frequently teaches both middle grade and high school CTE courses. [→ Torre Gibney 2024](#torre-gibney-2024)

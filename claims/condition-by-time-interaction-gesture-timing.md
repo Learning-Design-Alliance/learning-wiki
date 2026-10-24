@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: congdon-eliza-l-2017
     resource: "https://doi.org/10.1016/j.learninstruc.2017.03.005"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant condition × time point interaction shows the timing conditions followed different trajectories across the three sessions. [→ Congdon Eliza L. 2017](#congdon-eliza-l-2017)

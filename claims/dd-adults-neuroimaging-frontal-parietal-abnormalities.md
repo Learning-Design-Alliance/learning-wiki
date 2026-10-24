@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: liane-kaufmann-2020
     resource: "https://doi.org/10.1024/2235-0977/a000294"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Despite comparable accuracy, adults with DD display stronger frontal activations associated with quicker response latencies during number (but not word) semantic tasks, reduced grey matter in right parietal regions, and group differences during non-symbolic magnitude judgments in parietal and extra-parietal regions. [→ Liane Kaufmann 2020](#liane-kaufmann-2020)

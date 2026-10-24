@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: connor-carol-mcdonald-2010
     resource: "https://doi.org/10.1016/j.jsp.2010.06.003"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For students with typical self-regulation, assignment to ISI classrooms produced no significant effect on HTKS score gains from fall to spring. [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)

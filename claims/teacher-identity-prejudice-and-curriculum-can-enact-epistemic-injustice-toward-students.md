@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: göktürk-2021
     resource: "https://doi.org/10.24106/kefdergi.732138"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Drawing on Kotzee (2017), the article argues that epistemic injustice might be activated by giving a student less credit because of teachers' identity prejudice, so that the student's testimony is taken less seriously. [→ Göktürk 2021](#gokturk-2021)

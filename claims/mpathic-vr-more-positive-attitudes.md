@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-17
 sources:
   - id: kron-frederick-w-md-2017
     resource: "https://doi.org/10.1016/j.pec.2016.10.024"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean ratings aggregated across the 12 attitudinal survey items were significantly higher for MPathic-VR students (M=4.97) than CBL students (M=4.08). [→ Kron Frederick W. MD 2017](#kron-frederick-w-md-2017)

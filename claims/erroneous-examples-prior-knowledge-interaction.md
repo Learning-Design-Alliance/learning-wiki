@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: tamara-van-gog-nikol-rummel-2010
     resource: "https://doi.org/10.1007/s10648-010-9134-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Große and Renkl found an interaction with prior knowledge: correct plus incorrect solutions fostered far transfer for students with more prior knowledge, whereas correct solutions only worked better for students with low prior knowledge. [→ Tamara van Gog & Nikol Rummel 2010](#tamara-van-gog-nikol-rummel-2010)

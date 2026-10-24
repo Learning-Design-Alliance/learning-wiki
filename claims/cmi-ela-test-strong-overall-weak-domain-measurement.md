@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: shannon-2026
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/examining-english-language-arts-course-placement-system-college-marshall-islands"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Of the 75 items on the multiple-choice component, 61 percent (46 items) showed strong contributions to measuring overall ELA performance, while only 16 percent of vocabulary, 8 percent of language use, and 12 percent of sentence meaning items strongly measured their domains. [→ Shannon 2026](#shannon-2026)

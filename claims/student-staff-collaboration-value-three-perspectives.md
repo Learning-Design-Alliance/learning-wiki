@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: williams-2025
     resource: "https://doi.org/10.15173/ijsap.v9i1.5802"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The case study explores the value of the student-staff collaboration from the perspective of the student, staff, and institution, and presents benefits, limitations, and recommendations for future co-creation projects. [→ Williams 2025](#williams-2025)

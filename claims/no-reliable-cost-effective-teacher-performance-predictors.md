@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: steven-glazerman-2006
     resource: "https://www.mathematica.org/publications/school-principals-perspectives-on-the-passport-to-teaching"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article states that education researchers have not succeeded in isolating measures that cost-effectively and reliably predict teacher performance. [→ Steven Glazerman 2006](#steven-glazerman-2006)

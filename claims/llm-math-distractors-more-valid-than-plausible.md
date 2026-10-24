@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: feng-2024
     resource: "https://doi.org/10.18653/v1/2024.findings-naacl.193"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=1.4K MCQs (80:20 train/test split); 20 test MCQs rated by 2 evaluators
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 A distractor that can be reached by some wrong reasoning is not the same as one that real students choose. Large language models produce the first more readily than the second.
 

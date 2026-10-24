@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: tania-vieites-2024
     resource: "https://doi.org/10.1007/s11409-024-09376-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Students whose teachers prescribed homework with the MITCA method scored significantly higher on behavioral and time management at post-test than students receiving traditional homework (d = 0.15). [→ Tania Vieites 2024](#tania-vieites-2024)

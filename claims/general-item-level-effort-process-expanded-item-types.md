@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: steven-wise-2017
     resource: "https://doi.org/10.1080/08957347.2017.1353992"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The article outlines a general process for measuring item-level effort applicable to an expanded set of item types and test-taking behaviors, including omitted or constructed responses. [→ Steven Wise 2017](#steven-wise-2017)

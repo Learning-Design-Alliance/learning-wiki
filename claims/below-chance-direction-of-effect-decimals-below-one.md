@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lortie-forgues-2017
     title: Lortie-Forgues 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Accuracy on direction of effect judgments for multiplication and division of decimals below one fell below the 50% chance level, whereas judgments for addition, subtraction, and operations on decimals above one were highly accurate. [→ Lortie-Forgues 2017](#lortie-forgues-2017)

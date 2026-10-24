@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: wandong-xu-2024
     resource: "https://doi.org/10.1007/s11409-024-09387-w"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` L1 writing metacognitive strategies significantly predict L2 writing metacognitive strategies (β = 0.62, p < 0.001), and this transfer is statistically invariant across L2 proficiency and major groups. [→ Wandong Xu 2024](#wandong-xu-2024)

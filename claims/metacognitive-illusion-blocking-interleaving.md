@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: monica-s-birnbaum-2013
     resource: "https://doi.org/10.3758/s13421-012-0272-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In both contiguous and spaced conditions, roughly two thirds of participants rated blocking as more effective, significantly above chance. [→ Monica S. Birnbaum 2013](#monica-s-birnbaum-2013)

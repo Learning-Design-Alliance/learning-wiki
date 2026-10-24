@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: geboers-b-2018
     resource: "https://doi.org/10.1186/s12877-018-0766-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Participants who participated in cognitive testing at both measurements showed cognitive decline in all domains between the two measurement waves (all p-values < .0001). [→ Geboers B 2018](#geboers-b-2018)

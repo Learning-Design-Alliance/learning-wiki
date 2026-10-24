@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: chu-2019
     resource: "https://eric.ed.gov/?id=ED601889"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Student mathematical sense-making was rated Mid or higher in 134 lessons (about 66 percent), the most frequent High rating among the five MQI dimensions. [→ Chu 2019](#chu-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: steven-wise-2020
     resource: "https://doi.org/10.1080/08957347.2020.1732386"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the second study, differences in test-taking engagement across content categories were primarily attributable to item reading load. [→ Steven Wise 2020](#steven-wise-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: actsat-test-preparation-and-coaching-programs-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/664"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In a randomized controlled trial of 60 high school seniors, students who received one of two computerized SAT coaching programs (Stanford Study Guide or Davidson's Your Personal Trainer) did not differ statistically significantly from no-coaching comparison students (domain average effect size -0.04, improvement index -2). [→ ACT/SAT Test Preparation and Coaching Programs 2016](#actsat-test-preparation-and-coaching-programs-2016)

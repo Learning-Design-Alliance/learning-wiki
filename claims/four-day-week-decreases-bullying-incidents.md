@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: emily-morton-2022
     resource: "https://doi.org/10.3102/01623737221097420"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adopting a 4-day school week causally decreases per-pupil bullying incidents in high schools by approximately 39%. [→ Emily Morton 2022](#emily-morton-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: megan-kuhfeld-2026
     resource: "https://www.nwea.org/research/publication/struggling-adolescent-readers-left-behind-evidence-of-post-covid-19-declines-and-pathways-forward/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among grades 6-8, the lowest-performing students fell even further behind in reading during the post-pandemic period. [→ Megan Kuhfeld 2026](#megan-kuhfeld-2026)

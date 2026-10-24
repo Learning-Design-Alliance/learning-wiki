@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: patrick-2024
     resource: "https://doi.org/10.54300/544.849"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the subsample of completers whose survey responses could be linked to TPA records, residents were more likely to pass a TPA on their first attempt (88%) than student teachers (83%) or interns (72%). [→ Patrick 2024](#patrick-2024)

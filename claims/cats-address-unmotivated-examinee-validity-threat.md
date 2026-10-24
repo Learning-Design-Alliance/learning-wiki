@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-09
 sources:
   - id: steven-wise-2014
     resource: "https://www.nwea.org/research/publication/the-utility-of-adaptive-testing-in-addressing-the-problem-of-unmotivated-examinees/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Computerized adaptive testing can effectively address the validity threat that unmotivated examinees pose to low-stakes test scores. [→ Steven Wise 2014](#steven-wise-2014)

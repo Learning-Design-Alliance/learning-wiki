@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: yang-z-2026
     title: Yang Z 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i1` In an unmatched supplementary comparison, faculty members reported greater ethical-boundary strictness than students (Cohen's d = −0.36, p < 0.001), the only group difference remaining significant under the Bonferroni-adjusted criterion. [→ Yang Z 2026](#yang-z-2026)

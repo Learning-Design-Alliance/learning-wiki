@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: sarit-barzilai-clark-a-chinn-2024
     resource: "https://doi.org/10.1007/s10648-024-09927-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` People's epistemic aims, ideals, and processes vary by discipline, task, and information source, supporting the claim that epistemic thinking is highly contextualized. [→ Sarit Barzilai & Clark A. Chinn 2024](#sarit-barzilai-clark-a-chinn-2024)

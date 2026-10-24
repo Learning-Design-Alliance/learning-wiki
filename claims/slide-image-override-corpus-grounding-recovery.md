@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: md-zabirul-islam-2026
     resource: "https://doi.org/10.48550/arxiv.2606.20608"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Replacing a prompt-marker strategy with a slide-hints map that mutates layout JSON before the designer's image-generation pass resolved 9 of 10 corpus-eligible slides on the filtered-back-projection topic, versus 0 of 9 for the marker path. [→ Md Zabirul Islam 2026](#md-zabirul-islam-2026)

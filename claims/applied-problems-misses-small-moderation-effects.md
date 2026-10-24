@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: blair-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2015.10.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The authors argue the ECLS-K Math battery's routing to ability levels, wider domain coverage, and lower stability made it more sensitive, so Applied Problems-only studies may miss small moderation effects. [→ Blair 2016](#blair-2016)

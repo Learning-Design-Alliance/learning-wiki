@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ahana-biswas-2026
     resource: "https://doi.org/10.48550/arxiv.2608.19616"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High-quality AI on hard tasks yields the highest regret (0.441) but not the highest overreliance (0.119), with very low self-reliance (RSR 0.045). [→ Ahana Biswas 2026](#ahana-biswas-2026)

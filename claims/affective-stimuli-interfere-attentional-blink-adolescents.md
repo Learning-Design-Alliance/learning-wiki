@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: wetzel-n-2014
     title: Wetzel N 2014
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In early adolescence, processing of affective stimuli embedded in rapid visual streams is prioritized and interferes with subsequent target processing during the critical attentional blink interval. [→ Wetzel N 2014](#wetzel-n-2014)

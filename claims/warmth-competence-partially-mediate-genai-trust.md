@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhang-zhen-2026
     resource: "https://doi.org/10.3390/bs16071221"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` GenAI use negatively predicts perceived warmth and competence, which positively predict trust; both indirect effects are significant. [→ Zhang Zhen 2026](#zhang-zhen-2026)

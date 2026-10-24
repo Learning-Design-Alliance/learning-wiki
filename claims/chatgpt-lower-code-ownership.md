@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bergh-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21194"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` AI-Assisted students self-attributed a lower percentage of the submitted code as their own (M=44.6 vs M=80.8, Hedges' g = 1.05). [→ Bergh 2026](#bergh-2026)

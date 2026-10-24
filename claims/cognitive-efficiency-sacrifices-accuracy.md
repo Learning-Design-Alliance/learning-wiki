@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: gehlbach-2018
     resource: "https://doi.org/10.1007/s10648-018-9454-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Perceivers often sacrifice accuracy in person perception to save time and mental effort, via shortcuts such as anchoring, stereotyping, dispositional attributions, and the availability heuristic. [→ Gehlbach 2018](#gehlbach-2018)

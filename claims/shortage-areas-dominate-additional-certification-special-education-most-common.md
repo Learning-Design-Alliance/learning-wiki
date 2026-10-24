@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: camille-lemieux-2021
     resource: "https://go.usa.gov/xecdz"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` 47 percent of additional certificate holders earned certificates in shortage certification areas versus 25 percent in nonshortage areas; special education (27 percent) exceeded every other shortage area (fewer than 6 percent each). [→ Camille Lemieux 2021](#camille-lemieux-2021)

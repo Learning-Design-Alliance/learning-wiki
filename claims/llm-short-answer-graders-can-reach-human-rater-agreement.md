@@ -7,6 +7,8 @@ generated:
   at: 2026-10-19
 id: llm-short-answer-graders-can-reach-human-rater-agreement
 evidence_strength:
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: porcaro-2026
     resource: "https://doi.org/10.5281/zenodo.23480844"
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
 On the one corpus in this release with two independent human raters (Mohler: undergraduate data-structures short answers, marked 0–5), an LLM grader scoring against a rubric and a model answer agreed with one rater more closely, and with the other less closely, than the two raters agreed with each other: 0.798 and 0.549 in quadratic-weighted kappa against the raters' 0.608 on the same 150 answers (one model, a single run). On 300 answers graded by three models (under assigned attainment labels, both gradings pooled) the same bracketing held for each: 0.597–0.741 against one rater, 0.366–0.472 against the other, 0.531 between the raters. The source reads this as showing that agreement with one human is a weak instrument on short free-text answers, and says the higher figure should not be read as better-than-human grading; it is not a finding that an LLM grader is as good as a human one.

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: mdrc-wraparound
     title: mdrc-wraparound
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research published in 2020 by MDRC found that comprehensive programs offering wraparound support increase college completion rates, including when replicated in other contexts. [→ mdrc-wraparound](#mdrc-wraparound)

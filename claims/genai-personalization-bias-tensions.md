@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: mishra-2025
     resource: "https://doi.org/10.1007/s11528-025-01064-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` GenAI potentially offers personalized learning, adaptive tutoring, and automated support while raising concerns about algorithmic bias, de-skilling educators, and diminishing human connection. [→ Mishra 2025](#mishra-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: the-center-for-research-on-education-outcomes-credo-2022
     resource: "https://credo.stanford.edu/reports/item/charter-schools-response-to-the-pandemic-in-california-new-york-and-washington-state/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Responding schools reported covering 86 percent of the English language arts curriculum and 85 percent of math in 2019-20, while foreign language (67 percent) and fine arts (70 percent) were covered least. [→ The Center for Research on Education Outcomes (CREDO) 2022](#the-center-for-research-on-education-outcomes-credo-2022)

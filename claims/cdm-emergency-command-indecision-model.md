@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: olivia-brown-2024
     resource: "https://doi.org/10.1177/10944281241271216"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Using CDM interviews with 31 emergency response participants yielding over 51 hours of data, pluralistic analysis (reflexive thematic analysis followed by grounded theory) generated a theoretical model of command-level indecision during emergencies. [→ Olivia Brown 2024](#olivia-brown-2024)

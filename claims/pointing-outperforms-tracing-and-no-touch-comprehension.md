@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: babette-park-andreas-korbach-paul-ginns-roland-brünken-2023
     resource: "https://doi.org/10.1007/s10648-023-09833-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The pointing group scored significantly higher on the comprehension test than the tracing group (ΔM = −3.185, p < 0.001) and than the no-touch group (ΔM = −1.911, p = 0.025). [→ Babette Park · Andreas Korbach · Paul Ginns · Roland Brünken 2023](#babette-park-andreas-korbach-paul-ginns-roland-brunken-2023)

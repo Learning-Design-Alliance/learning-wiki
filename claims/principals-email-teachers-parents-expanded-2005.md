@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: vanessa-coca-2007
     resource: "https://consortium.uchicago.edu/publications/trends-access-computing-technology-and-its-use-chicago-public-schools-2001-2005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` By 2005, more than three-fourths of elementary school principals and more than 90 percent of high school principals emailed teachers at least occasionally, and the percentage emailing parents nearly tripled. [→ Vanessa Coca 2007](#vanessa-coca-2007)

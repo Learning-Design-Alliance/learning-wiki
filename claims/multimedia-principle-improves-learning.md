@@ -8,6 +8,8 @@ generated:
 id: multimedia-principle-improves-learning
 aliases: [multimedia-learning-more-effective-with-words-and-pictures, multimedia-principle, multimedia-words-plus-images-beat-words-alone, words-and-pictures-better-than-words-alone]
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: seufert-et-al-2025
     resource: "https://doi.org/10.3389/fpsyg.2025.1480935"
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i0`–`i2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 Presenting words and corresponding pictures together produces better learning than words alone, because learners can use both verbal and visual channels to build integrated mental representations.
 

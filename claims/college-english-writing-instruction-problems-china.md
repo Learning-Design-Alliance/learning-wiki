@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: junhong-ren-2017
     resource: "https://doi.org/10.5539/elt.v10n7p150"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` English class hours have been reduced by 1/4, 1/3 or even 1/2, writing must be taught in intensive reading classes, and multiple-choice-heavy assessment distracts students from writing improvement. [→ Junhong Ren 2017](#junhong-ren-2017)

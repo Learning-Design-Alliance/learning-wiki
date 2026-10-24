@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: baker-2025
     resource: "https://doi.org/10.1007/s11251-024-09679-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For both the problem-solving and self-explanation steps, gaming the system was significantly, negatively correlated with test performance (e.g., Study 1 pretest–gaming(PS) r = −0.67, gaming(SE) r = −0.42). [→ Baker 2025](#baker-2025)

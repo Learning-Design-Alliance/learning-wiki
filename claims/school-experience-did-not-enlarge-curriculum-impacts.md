@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: james-burdumy-2010
     resource: "http://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Second-cohort impacts were not statistically significantly different from zero or from the first-cohort impacts, so one year of school experience with the curricula did not enlarge impacts. [→ James-Burdumy 2010](#james-burdumy-2010)

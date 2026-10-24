@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ratinho-2026
     resource: "https://doi.org/10.1007/s10648-025-10108-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sensitivity analyses (ρ = 0.30–0.90, aggregated-effect and journal-only models) yielded closely aligned estimates, and Egger's regression and PET-PEESE found no evidence of small-study effects or publication bias. [→ Ratinho 2026](#ratinho-2026)

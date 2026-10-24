@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: brian-harrington-2025
     resource: "https://doi.org/10.1145/3776558"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i3` Across eight scenarios, students' perception of whether the actor acted unethically was strongly correlated with their perception that the actions were against the rules (r = 0.8524, p<0.0001), and mean rule ratings exceeded mean unethicality ratings. [→ Brian Harrington 2025](#brian-harrington-2025)

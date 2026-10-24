@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: lanqin-zheng-2016
     resource: "https://doi.org/10.1007/s12564-016-9426-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Mode of scaffolds significantly moderated effects (Q = 42.77, df = 2, p = 0.000): both modes combined had the highest effect (ES = 1.699), domain-general scaffolds (ES = 0.432) exceeded domain-specific scaffolds (ES = 0.102). [→ Lanqin Zheng 2016](#lanqin-zheng-2016)

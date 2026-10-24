@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: m-danish-shakeel-paul-e-peterson-2022
     resource: "https://doi.org/10.1007/s10648-021-09657-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Agent estimates of decadal change range from –0.10sd to 0.27sd in math and –0.02sd to 0.12sd in reading, with PISA estimating a negative math trend at age 15. [→ M. Danish Shakeel · Paul E. Peterson 2022](#m-danish-shakeel-paul-e-peterson-2022)

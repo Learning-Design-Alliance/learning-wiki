@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: voicu-2026
     resource: "https://doi.org/10.61071/jdp.2665"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 42 observed episodes, generative sense-making was the most frequent category of AI involvement (30.95%), followed by AI-assisted sense-making (26.19%) and AI-driven summarization (23.81%), with cognitive acceleration least frequent (19.05%). [→ Voicu 2026](#voicu-2026)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: sutedjo-a-2026
     title: Sutedjo A 2026
@@ -21,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` One-way ANOVA showed statistically significant gender differences favoring male faculty for TK (F(1,123) = 4.80, p = .03, η² = .04) and TPK (F(1,123) = 4.81, p = .03, η² = .04), with TCK at the conventional threshold (F(1,123) = 3.85, p = .05, η² = .03); no significant differences for PK, CK, PCK, or overall TPACK. [→ Sutedjo A 2026](#sutedjo-a-2026)

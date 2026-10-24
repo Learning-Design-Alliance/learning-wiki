@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: guillén-gámez-2026
     resource: "https://doi.org/10.1007/s11423-026-10647-6"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In a cross-sectional convenience sample, self-efficacy in solving technical problems and learning GenAI tools autonomously had a significant positive path to perceived enjoyment, the largest effect size in the model (f² = 1.839); the design shows an association, not a cause. [→ Guillén-Gámez 2026](#guillen-gamez-2026)

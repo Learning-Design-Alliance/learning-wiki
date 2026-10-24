@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: sarah-herrera-2021
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -47,6 +49,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 4 of 4 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Teaching language produced a significant weighted effect size of 0.19 on language outcomes among 74 interventions. [→ Sarah Herrera 2021](#sarah-herrera-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dang-2026
     resource: "https://doi.org/10.48550/arxiv.2610.07097"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At the upper-second boundary (30 of 50 marks), the treated half's share below the boundary fell from 23.5% to 10.6% while the untreated half's rose from 7.1% to 18.8%, a difference-in-differences of −24.7 percentage points (p = 0.001). [→ Dang 2026](#dang-2026)

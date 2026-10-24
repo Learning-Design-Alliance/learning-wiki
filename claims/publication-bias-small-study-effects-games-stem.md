@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: michaela-arztmann-2023
     resource: "https://doi.org/10.1080/03057267.2022.2057732"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Egger's test indicates small-study effects for cognition (p = .004) and motivation (p = .002); after trim-and-fill imputation the motivation mean drops only from 0.51 to 0.43. [→ Michaela Arztmann 2023](#michaela-arztmann-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: cunningham-2025
     resource: "https://hdl.handle.net/10446/299265"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative thematic analysis of interviews with the five implementing teachers identified both barriers to implementation and factors for success. [→ Cunningham 2025](#cunningham-2025)

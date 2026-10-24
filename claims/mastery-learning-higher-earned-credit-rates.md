@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 1983
 sources:
   - id: bonczar-1983
     resource: "https://eric.ed.gov/?id=ED238505"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1983 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

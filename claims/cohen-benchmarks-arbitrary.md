@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: lakens-2013
     resource: "https://doi.org/10.3389/fpsyg.2013.00863"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The conventional d = 0.2, 0.5, 0.8 benchmarks should only be used for extremely novel findings; small effect sizes can have large practical consequences, and effect sizes are best interpreted against related effects in the literature. [→ Lakens 2013](#lakens-2013)

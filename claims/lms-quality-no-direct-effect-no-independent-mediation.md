@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: charles-atta-koduah-2025
     resource: "https://doi.org/10.21203/rs.3.rs-11239563/v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i0` negligible
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` LMS quality did not significantly influence academic performance (β = .074, p = .233) and did not independently mediate the correlation between AI literacy and academic performance (β = .061, p = .236). [→ Charles Atta Koduah 2025](#charles-atta-koduah-2025)

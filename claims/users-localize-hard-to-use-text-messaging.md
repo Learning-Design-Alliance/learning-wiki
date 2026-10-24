@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: huatong-sun-2006
     resource: "https://doi.org/10.1207/s15427625tcq1504_3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Even though mobile text messaging was hard to use and not well localized at the developer's site, participants successfully localized it into their daily lives in various ways. [→ Huatong Sun 2006](#huatong-sun-2006)

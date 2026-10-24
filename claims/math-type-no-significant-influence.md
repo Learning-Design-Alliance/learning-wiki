@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: katie-allen-steve-higgins-john-adams-2019
     resource: "https://doi.org/10.1007/s10648-019-09470-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although descriptive means favoured Mathematical Reasoning (0.49) over both types (0.43) and Numerical Operations only (0.35), between-group differences were not statistically significant. [→ Katie Allen & Steve Higgins & John Adams 2019](#katie-allen-steve-higgins-john-adams-2019)

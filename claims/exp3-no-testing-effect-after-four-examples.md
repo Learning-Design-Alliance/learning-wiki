@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: tamara-van-gog-liesbeth-kester-kim-dirkx-vincent-hoogerheide-joris-boerboom-peter-p-j-l-verkoeijen-2015
     resource: "https://doi.org/10.1007/s10648-015-9297-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 3 (n=129), a 2x2 ANOVA on final delayed test performance showed no main effect of testing versus restudy. [→ Tamara van Gog & Liesbeth Kester & Kim Dirkx & Vincent Hoogerheide & Joris Boerboom & Peter P. J. L. Verkoeijen 2015](#tamara-van-gog-liesbeth-kester-kim-dirkx-vincent-hoogerheide-joris-boerboom-peter-p-j-l-verkoeijen-2015)

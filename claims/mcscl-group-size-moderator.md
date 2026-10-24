@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-21
 sources:
   - id: sung-yao-ting-2017
     resource: "https://doi.org/10.3102/0034654317704307"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Tetrad groups produced the largest ES (g = 0.819), followed by groups of more than four people (g = 0.635); dyad effects were not significant (g = 0.216, k = 2). The between-group test was not significant (QB = 3.885, df = 5), so these subgroup differences are descriptive and do not show that group size moderates the effect. [→ Sung Yao-Ting 2017](#sung-yao-ting-2017)

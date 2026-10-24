@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: he-2020
     resource: "https://www.nwea.org/research/publication/map-growth-k-2-item-fit-analysis-study-a-follow-up-study/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Old and new point measure correlation statistics remained the same for both Reading and Mathematics items in the follow-up study. [→ He 2020](#he-2020)

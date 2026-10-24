@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hung-yue-suen-and-kuo-en-hung-2026
     resource: "https://doi.org/10.1109/TLT.2026.3693864"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a multiple regression on posttest Overall Rating (N = 204), usage frequency showed a strong positive association (β = .90, p < .001) while cumulative usage time did not reach conventional significance (β = −.11, p = .066). [→ Hung-Yue Suen and Kuo-En Hung 2026](#hung-yue-suen-and-kuo-en-hung-2026)

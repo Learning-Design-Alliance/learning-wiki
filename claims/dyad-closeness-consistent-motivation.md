@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: niels-j-de-ruig-2023
     resource: "https://doi.org/10.1007/s10648-023-09795-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who experienced close teacher-student relationships in early grades had more positive school attitudes and higher later self-efficacy, task motivation, and motivational attitudes. [→ Niels J. de Ruig 2023](#niels-j-de-ruig-2023)

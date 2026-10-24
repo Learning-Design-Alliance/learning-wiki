@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: stewart-williams-2020
     resource: "https://doi.org/10.32674/jise.v9isi.1877"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article asserts that education for global citizenship can improve quality of life, enhance inter-ethnic group relations, foster cross-cultural harmonious interactions, and lessen inter- and intra-group violence toward institutionalizing a culture of peace. [→ Stewart Williams 2020](#stewart-williams-2020)

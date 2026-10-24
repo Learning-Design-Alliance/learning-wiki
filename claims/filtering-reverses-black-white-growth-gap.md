@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: kuhfeld-2019
     resource: "https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness-paper/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After filtering, Black students showed significantly greater fall-to-fall growth than White students (.43 RIT points); effort-moderated estimates differed from unadjusted by .19 units and were not significantly different. [→ Kuhfeld 2019](#kuhfeld-2019)

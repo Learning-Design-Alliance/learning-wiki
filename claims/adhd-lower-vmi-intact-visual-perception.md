@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: carames-2022
     resource: "https://doi.org/10.1080/09297049.2021.1967913"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Children with ADHD scored significantly lower than Non-ADHD children on visual-motor integration (d=1.16), math (d=0.80), and written language (d=1.21), with potentially lower motor coordination (d=0.51) and no visual perception difference (d=0.03). [→ Carames 2022](#carames-2022)

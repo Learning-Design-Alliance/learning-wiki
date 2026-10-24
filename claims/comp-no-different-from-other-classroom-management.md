@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-07
 sources:
   - id: oliver-2011
     resource: "https://doi.org/10.4073/csr.2011.4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A posthoc inverse-variance weighted Qbetween comparison found no statistically significant difference between mean effect sizes of COMP studies (ES=.75) and other classroom management studies (ES=.88, ICC=.05; ES=.66, ICC=.10). [→ Oliver 2011](#oliver-2011)

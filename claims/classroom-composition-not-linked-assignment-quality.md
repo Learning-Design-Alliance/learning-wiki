@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
+source_checked: 2026-10-18
 sources:
   - id: fred-m-newmann-2001
     resource: "https://consortium.uchicago.edu/publications/authentic-intellectual-work-and-standardized-tests-conflict-or-coexistence"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2001 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 437 classes in 19 schools, correlations between assignment quality and classroom racial, socioeconomic, gender, and prior-achievement composition were weak and statistically insignificant. [→ Fred M. Newmann 2001](#fred-m-newmann-2001)

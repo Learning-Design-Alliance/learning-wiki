@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: carlos-a-de-matos-fernandes-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101931"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article's stated keywords identify group composition, friendship, and similarity as central constructs in its account of student project team formation. [→ Carlos A. de Matos Fernandes 2024](#carlos-a-de-matos-fernandes-2024)

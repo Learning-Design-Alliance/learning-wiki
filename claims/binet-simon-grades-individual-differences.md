@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1914
+source_checked: 2026-10-24
 sources:
   - id: carl-c-brigham-1914
     resource: "https://doi.org/10.1037/h0071183"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1914 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average age differences (mental minus chronological age) fell steadily across the five teacher-judgment groups, from +.91 for very bright through +.03, −.47 and −.94 to −1.8 for very dull. [→ Carl C. Brigham 1914](#carl-c-brigham-1914)
@@ -72,3 +75,5 @@ Check on judgment reliability: 215 cases under twelve were judged by both teache
 - [The author judges the tests reveal class members' ability to do school work almost as accurately as months of teacher observation, supporting use for borderline promotion cases](tests-match-teacher-judgment-school-work.md) — related
 - [Thorndike found correlations between Binet age and language tests higher than those between Binet age and a construction test, and therefore judged the Binet scale inadequate.](thorndike-binet-age-correlates-higher-with-language-than-construction-tests.md) — related
 - [The Binet scale can be understood and applied by the average teacher or school principal as readily as current pedagogical tests](binet-scale-usable-by-teachers-and-principals.md) — related
+- [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](mental-age-grouping-unreliable-for-educational-treatment.md) — related
+- [Teacher reports in the New Haven survey identified 370 children (about 1.5 per cent) as mentally deficient but only 45 as mentally superior](new-haven-teacher-reports-370-deficient-45-superior.md) — related

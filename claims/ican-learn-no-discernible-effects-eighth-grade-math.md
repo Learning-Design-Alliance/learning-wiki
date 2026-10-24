@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: kerstyn-domain-average
     title: kerstyn-domain-average
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the one qualifying study, the average effect of I CAN Learn® on eighth-grade mathematics achievement was neither statistically significant nor substantively important (domain average effect size 0.05, improvement index +2). [→ kerstyn-domain-average](#kerstyn-domain-average)

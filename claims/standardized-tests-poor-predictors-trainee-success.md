@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 1975
+source_checked: 2026-10-20
+recheck_by: 1978
 sources:
   - id: rowe-1975
     resource: "https://doi.org/10.3102/00346543045002231"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 1975 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1978**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In Bernos's study of NDEA counseling institute participants, none of the selection factors significantly predicted success, and tests were concluded to be poor predictors of counselor trainee success. [→ Rowe 1975](#rowe-1975)

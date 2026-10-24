@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: zhaozhe-wang-2025
     resource: "https://doi.org/10.1016/j.compcom.2025.102933"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Zhimo conceptualized AI as a sophisticated but non-agentic tool to be trained and manipulated for human-defined writing tasks, positioning himself as the ultimate literacy agent. [→ Zhaozhe Wang 2025](#zhaozhe-wang-2025)

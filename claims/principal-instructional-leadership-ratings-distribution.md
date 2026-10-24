@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: stuart-luppescu-and-holly-hart-2005
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-sample-elementary-details-2005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In top-quartile schools 61 percent of teachers give very strong and 33 percent strong ratings to principals' instructional leadership; even in bottom-quartile schools 57 percent give strong or very strong ratings, though 43 percent there give weak or mixed ratings. [→ Stuart Luppescu and Holly Hart 2005](#stuart-luppescu-and-holly-hart-2005)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2013
 sources:
   - id: lauren-sartain-2010
     resource: "http://ccsr.uchicago.edu/publications/Joyce_TE_yr1_finaldoc.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In aggregate, there was no significant difference between ratings given by principals and those given by trained external observers observing the same lessons. [→ Lauren Sartain 2010](#lauren-sartain-2010)

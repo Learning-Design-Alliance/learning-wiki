@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2018
 sources:
   - id: steven-wise-2015
     resource: "https://www.nwea.org/research/publication/effort-analysis-individual-score-validation-of-achievement-test-data/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 <!-- title before 2026-10-15: Test-taking motivation tends to induce a person-specific, systematic negative bias on achievement test scores -->
 
 ## Subclaims

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: giang-pham-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102366"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Model-based pandemic-related performance change (ATE) favoured Cluster 2 over Cluster 3 in mathematics (6.9 points, p = .04) and reading (9.9 points, p = .03), but not science (5.4 points, p = .11). [→ Giang Pham 2026](#giang-pham-2026)

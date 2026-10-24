@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: matthew-t-johnson-2013
     resource: "https://www.mathematica.org/publications/the-impact-of-business-cycle-fluctuations-on-graduate-school-enrollment"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Poor labor market conditions lead to a substitution from full-time enrollment to part-time enrollment for both male and female graduate students. [→ Matthew T. Johnson 2013](#matthew-t-johnson-2013)

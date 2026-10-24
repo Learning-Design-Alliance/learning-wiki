@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1997
+source_checked: 2026-10-20
 sources:
   - id: robert-m-dekeyser-1997
     resource: "https://doi.org/10.1017/S0272263197002040"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1997 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Rules learned explicitly can be automatized: after subjects reached criterion on metalinguistic tests, systematic comprehension and production practice produced skill development in the taught rules. [→ Robert M. DeKeyser 1997](#robert-m-dekeyser-1997)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: er-2024
     resource: "https://doi.org/10.1111/bjet.13558"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mann–Whitney U tests revealed a significant difference in usefulness scores between the instructor-feedback and AI-feedback groups (U = 191.0, p = 0.04), but no significant differences for fairness, development or encouragement. [→ Er 2024](#er-2024)

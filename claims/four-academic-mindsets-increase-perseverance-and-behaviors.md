@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-16
 sources:
   - id: jenny-nagaoka-2013
     resource: "https://consortium.uchicago.edu/publications/readiness-college-role-noncognitive-factors-and-context"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors -->
 
 ## Subclaims

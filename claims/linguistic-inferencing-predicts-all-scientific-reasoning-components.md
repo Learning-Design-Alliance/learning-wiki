@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: van-de-sande-2019
     resource: "https://doi.org/10.1016/j.learninstruc.2019.02.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the final path model, linguistic inferencing was the only predictor of Generating conclusions and also predicted Hypothesis validation and Experimentation. [→ Van de Sande 2019](#van-de-sande-2019)

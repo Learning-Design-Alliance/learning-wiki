@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: rivas-sf-2022
     title: Rivas SF 2022
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the 16-week ARDESOS-DIAPROVE intervention, first-year psychology students' total MAI metaknowledge scores rose significantly (t = -4.161, p = 0.000). [→ Rivas SF 2022](#rivas-sf-2022)

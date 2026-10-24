@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: mahmoodarabi-2015
     resource: "https://doi.org/10.5539/elt.v8n6p100"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On Factor 3 (a critical approach to EFL classroom content), the degree groups did not differ significantly, despite PhD teachers descriptively highest (M = 4.92). [→ Mahmoodarabi 2015](#mahmoodarabi-2015)

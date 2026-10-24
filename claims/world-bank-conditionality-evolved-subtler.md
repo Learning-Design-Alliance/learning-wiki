@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: edwards-jr-2023
     resource: "https://doi.org/10.3102/00346543231194725"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The reviewed literature shows borrowers in need of funding are compelled to consent to World Bank conditionalities, and that conditionality has evolved but not disappeared, becoming more subtle and less explicit over time. [→ Edwards Jr. 2023](#edwards-jr-2023)

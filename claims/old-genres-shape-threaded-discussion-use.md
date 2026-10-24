@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: gerry-stahl-friedrich-hesse-2009
     resource: "https://doi.org/10.1007/s11412-009-9065-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students use threaded discussion forums designed for knowledge building in ways reflecting the genre of personal letters and informal social conversation, engaging in socializing, joking, and posting statements of little intellectual depth. [→ Gerry Stahl & Friedrich Hesse 2009](#gerry-stahl-friedrich-hesse-2009)

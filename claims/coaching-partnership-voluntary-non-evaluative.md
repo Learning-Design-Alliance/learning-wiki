@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: mahsa-bakhshaei-2020
     resource: "https://digitalpromise.dspacedirect.org/items/5465e54a-b290-4210-97fb-514a3aa13e21"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-14: Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation -->
 

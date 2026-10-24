@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: lanqin-zheng-2016
     resource: "https://doi.org/10.1007/s12564-016-9426-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Studies using multiple scaffolds (ES = 0.577) outperformed those using a unique scaffold (ES = 0.211), a statistically significant difference (Q = 4.424, df = 1, p = 0.035). [→ Lanqin Zheng 2016](#lanqin-zheng-2016)

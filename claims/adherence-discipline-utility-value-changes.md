@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: gaspard-2021
     resource: "https://dx.doi.org/10.1037/edu0000663"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across both intervention conditions, observed adherence and observed discipline problems (classroom management) were associated with changes in utility value, the primary outcome. [→ Gaspard 2021](#gaspard-2021)

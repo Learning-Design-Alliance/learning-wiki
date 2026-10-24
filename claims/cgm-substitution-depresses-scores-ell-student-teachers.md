@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: elias-walsh-2013
     resource: "https://www.mathematica.org/publications/how-does-a-value-added-model-compare-to-the-colorado-growth-model"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Replacing a value-added model with the Colorado Growth Model lowers the evaluation scores of teachers with more English language learner students. [→ Elias Walsh 2013](#elias-walsh-2013)

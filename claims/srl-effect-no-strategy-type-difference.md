@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: ergen-2017
     resource: "https://doi.org/10.14689/ejer.2017.69.4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Moderator analysis found no significant difference in the common effect size across the four self-regulated learning strategy types (Qb = 2.994, p > .05). [→ Ergen 2017](#ergen-2017)

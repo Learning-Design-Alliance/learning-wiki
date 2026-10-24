@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: schnaubert-2021
     resource: "https://doi.org/10.1007/s11409-021-09269-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In mixed models, perceived partner competence had no significant impact on the percentage of direction changes (β < 0.01, p = 0.246; pseudo R² = 0.02). [→ Schnaubert 2021](#schnaubert-2021)

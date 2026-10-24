@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: magdalena-novak-stephan-schwan-2021
     resource: "https://doi.org/10.1007/s10648-020-09551-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` At the 3-week follow-up, haptics showed a significant main effect on object recall (ηp² = 0.20), and participants in the only-vision condition recalled significantly fewer objects than those in the vision-and-haptics condition. [→ Magdalena Novak & Stephan Schwan 2021](#magdalena-novak-stephan-schwan-2021)

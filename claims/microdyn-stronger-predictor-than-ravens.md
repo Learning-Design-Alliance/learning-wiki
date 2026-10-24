@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-19
+recheck_by: 2019
 sources:
   - id: shute-2016
     resource: "https://doi.org/10.1016/j.chb.2016.05.047"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` The problem solving estimate related more strongly to MicroDYN's rule-application facet (r = 0.43, p < 0.01) than to rule acquisition (r = 0.24, NS). [→ Shute 2016](#shute-2016)

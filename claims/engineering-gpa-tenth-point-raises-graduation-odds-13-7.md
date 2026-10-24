@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: c-cosentino-2014
     resource: "https://doi.org/10.1109/fie.2014.7044270"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For every tenth of a grade point increase in engineering GPA, the odds of a black student graduating with an engineering degree in six years improve by 13.7 percent. [→ C. Cosentino 2014](#c-cosentino-2014)

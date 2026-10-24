@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Across all segments there is a weak negative Spearman correlation between quality rating and human-vs-AI guess (ρ = -0.28, p < 0.01). [→ anchor-correlation](#anchor-correlation)

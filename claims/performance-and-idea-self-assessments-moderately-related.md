@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: lebuda-2025
     resource: "https://doi.org/10.1007/s11409-025-09432-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` The two self-assessment measures correlated moderately (r = .43) yet differed in bias direction and predictor sets. [→ Lebuda 2025](#lebuda-2025)

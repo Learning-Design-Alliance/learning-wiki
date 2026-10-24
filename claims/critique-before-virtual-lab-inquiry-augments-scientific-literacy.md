@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: liu-2022
     resource: "https://doi.org/10.1007/s11251-021-09571-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 50 middle school students, an instructional design engaging students in critiquing experiments prior to virtual-lab inquiry augmented the effect of the virtual labs on scientific literacy compared with watching teacher demonstrations. [→ Liu 2022](#liu-2022)

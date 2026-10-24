@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: sunny-yu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.23177"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Negative Need for Cognition item coefficients indicate that participants who dislike thinking believe AI saves more time; AI-use frequency and AIAS did not predict calibration error magnitude. [→ Sunny Yu 2026](#sunny-yu-2026)

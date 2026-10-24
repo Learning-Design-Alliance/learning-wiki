@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-21
 sources:
   - id: matthew-jensen-hays-2010
     resource: "https://doi.org/10.3758/PBR.17.6.797"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants skipped feedback after an average of 15% of incorrect responses, while the computer never did, and failed to skip after roughly one in three correct responses, while the computer always skipped those. [→ Matthew Jensen Hays 2010](#matthew-jensen-hays-2010)

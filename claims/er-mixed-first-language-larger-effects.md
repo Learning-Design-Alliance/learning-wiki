@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: sangers-2025
     resource: "https://doi.org/10.1007/s10648-025-10068-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` First language was a significant moderator: interventions in samples with mixed language backgrounds showed larger effects (d = 1.03) than same-language samples (d = 0.33). [→ Sangers 2025](#sangers-2025)

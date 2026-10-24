@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-21
 sources:
   - id: john-sweller-2023
     resource: "https://doi.org/10.1007/s10648-023-09817-2"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` With increasing expertise, cognitive load effects may disappear and may even reverse; this reversal is the expertise reversal effect, a specific example of the element interactivity effect. [→ John Sweller 2023](#john-sweller-2023)

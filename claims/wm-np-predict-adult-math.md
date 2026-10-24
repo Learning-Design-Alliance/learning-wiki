@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: skagerlund-k-2019
     title: Skagerlund K 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study replicated established links between WM, symbolic number processing, and both arithmetic and numeracy in adults. [→ Skagerlund K 2019](#skagerlund-k-2019)

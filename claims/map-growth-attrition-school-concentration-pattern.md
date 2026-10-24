@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: angela-johnson-2020
     resource: "https://www.nwea.org/research/publication/fall-2019-to-fall-2020-map-growth-attrition-analysis/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Attriters were more likely to attend schools with higher concentrations of racial/ethnic minorities and socioeconomically disadvantaged students. [→ Angela Johnson 2020](#angela-johnson-2020)

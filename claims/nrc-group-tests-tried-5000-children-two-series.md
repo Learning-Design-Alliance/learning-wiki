@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1919
 sources:
   - id: bell-1919
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` After selecting some twenty tests and trying them on five thousand children, then on several thousand more, the committee produced two series of group tests of general intelligence of a high degree of reliability. [→ Bell 1919](#bell-1919)

@@ -8,6 +8,7 @@ generated:
 id: sel-programs-improve-behavior-and-achievement
 aliases: [social-emotional-learning-improves-achievement, social-emotional-learning-programs-improve-achievement, sel-programs-improve-academic-achievement]
 evidence_strength: pending
+newest_evidence: 2025
 sources:
   - id: durlak-et-al-2011
     resource: "https://doi.org/10.1111/j.1467-8624.2010.01564.x"
@@ -42,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q3`–`q4` · `i0`–`i1`
+> **Currency** · newest study 2025 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): SEL Programs Improve Behavior And Achievement -->
 
 School-based social-emotional learning (SEL) programs that explicitly teach self-regulation, social skills, and responsible decision-making improve students' behavioral outcomes. Their effect on academic achievement is positive but small in the 2011 synthesis (ES 0.27) and negligible in a 2025 synthesis restricted to rigorous designs (g = 0.08; 0.063 in randomised trials).

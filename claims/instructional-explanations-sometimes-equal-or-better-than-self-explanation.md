@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: mixed
+newest_evidence: 2017
+source_checked: 2026-10-16
 sources:
   - id: bethany-rittle-johnson-abbey-m-loehr-2017
     resource: "https://doi.org/10.3758/s13423-016-1079-5"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2` · `q2`–`q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-16 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis of six studies comparing self-explanation prompts plus worked examples versus instructional explanations found no effect of condition, with mixed findings across studies. [→ Bethany Rittle-Johnson & Abbey M. Loehr 2017](#bethany-rittle-johnson-abbey-m-loehr-2017)

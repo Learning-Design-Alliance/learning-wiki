@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: diamond-adele-2011
     resource: "https://doi.org/10.1126/science.1204529"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a year of PATHS, 7–9 year-olds showed better inhibitory control and cognitive flexibility than control children, and greater post-test inhibitory control predicted fewer behavior problems one year later. [→ Diamond Adele 2011](#diamond-adele-2011)

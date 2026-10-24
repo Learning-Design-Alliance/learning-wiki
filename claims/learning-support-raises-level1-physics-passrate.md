@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: mm-casey-and-s-mcvitie-2009
     resource: "https://doi.org/10.48550/arxiv.0911.2733"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The 2007-08 passrate in both Physics 1X and Physics 1Y increased by approximately 8%, exceeding 3 standard deviations from historical averages. [→ MM Casey and S McVitie 2009](#mm-casey-and-s-mcvitie-2009)

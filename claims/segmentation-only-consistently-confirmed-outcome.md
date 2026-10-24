@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/259"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The WWC confirmed statistically significant positive effects only for the segmentation/segmenting measure across the O'Connor studies, with effect sizes of 1.78 (Study A), 0.93 (Study B), and 1.94 (O'Connor et al., 1996); findings for other constructs were inconsistent across studies. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

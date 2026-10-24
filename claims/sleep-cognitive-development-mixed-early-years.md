@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: chaput-jp-2017
     resource: "https://doi.org/10.1186/s12889-017-4850-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` One randomized trial found explicit recognition memory was better after naps than wake, while implicit memory did not differ. [→ Chaput JP 2017](#chaput-jp-2017)

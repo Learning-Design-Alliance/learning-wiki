@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: jenny-nagaoka-and-shelby-mahaffie-2020
     resource: "https://consortium.uchicago.edu/publications/tracking-two-year-college-outcomes"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` ICCB data showed immediate two-year enrollment for 21.9 percent of 2012 CPS graduates versus 20.5 percent in NSC data, and the two datasets matched on enrollment outcome for around 96 percent of students. [→ Jenny Nagaoka and Shelby Mahaffie 2020](#jenny-nagaoka-and-shelby-mahaffie-2020)

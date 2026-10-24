@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: francisco-josé-jiménez-hornero-2026
     resource: "https://doi.org/10.1007/s11251-026-09808-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Technical-execution rubric scores fell significantly, with a substantially steeper time coefficient than conceptual understanding, supporting H2. [→ Francisco José Jiménez-Hornero 2026](#francisco-jose-jimenez-hornero-2026)

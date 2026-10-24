@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: laura-b-alvarado-cruz-2026
     resource: "https://doi.org/10.48550/arxiv.2609.19400"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Fitting the skydiver trajectory gave p2 = 1.2247 m⁻¹, from which b ≈ 97.98 kg/m and CD ≈ 3.18 were recovered, falling within the reported range CD ≈ 1.5–3.5. [→ Laura B. Alvarado-Cruz 2026](#laura-b-alvarado-cruz-2026)

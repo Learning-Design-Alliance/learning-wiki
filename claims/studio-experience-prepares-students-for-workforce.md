@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: warr-2020
     resource: "https://doi.org/10.14434/ijpbl.v14i1.28590"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reported that skills gained in the studio — working with different kinds of people, working autonomously, and learning from other disciplines — would help them "break the learning curve" entering the workforce. [→ Warr 2020](#warr-2020)

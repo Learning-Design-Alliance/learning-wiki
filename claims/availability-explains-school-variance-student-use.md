@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2007
 sources:
   - id: holly-m-hart-2002
     resource: "https://consortium.uchicago.edu/publications/educational-technology-its-availability-and-use-chicagos-public-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Computer availability explains about 45 percent of the school variance in student computer use beyond demographic and student-level characteristics. [→ Holly M. Hart 2002](#holly-m-hart-2002)

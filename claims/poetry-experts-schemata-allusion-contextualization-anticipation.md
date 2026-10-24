@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: peskin-1998
     resource: "https://doi.org/10.1207/s1532690xci1603_1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experts rapidly alluded to other literary works, categorized both poems by genre and period, and explicitly anticipated content, while novices lacked the relevant schemata and mostly failed to grasp the extended metaphor. [→ Peskin 1998](#peskin-1998)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: bialystok-ellen-2009
     resource: "https://doi.org/10.1016/j.cognition.2009.06.014"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Monolinguals scored higher on the PPVT; Indian bilinguals were faster on Trails A; both bilingual groups were faster than monolinguals on Trails B; memory measures showed no group differences. [→ Bialystok Ellen 2009](#bialystok-ellen-2009)

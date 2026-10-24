@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: soemer-2015
     resource: "https://doi.org/10.1007/s10648-015-9303-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Relatively small between-task interference compared to within-task interference in dual-task studies with verbal and visuospatial materials constitutes a strong argument for functional separation of phonological and visuospatial working memory. [→ Soemer 2015](#soemer-2015)

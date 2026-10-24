@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: feng-2025
     resource: "https://eric.ed.gov/?id=ED677784"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Treatment students and the virtual comparison group did not differ significantly on end-of-year MAP Growth scores after controlling for baseline performance and covariates (p = 0.172). [→ Feng 2025](#feng-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: lelièvre-2025
     resource: "https://doi.org/10.48550/arxiv.2506.18710"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The bottom 15 performing models demonstrate much higher performance variance across subjects and consistently achieve their best scores in the Technology and General categories, a specialization absent in the top 15 models. [→ Lelièvre 2025](#lelievre-2025)

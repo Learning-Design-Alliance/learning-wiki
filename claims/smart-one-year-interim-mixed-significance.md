@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://www.getsmartoregon.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Interim end-of-first-grade findings showed a statistically significant fluency effect (ES 0.44) but non-significant effects on word identification (ES 0.37) and passage comprehension (ES 0.30). [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

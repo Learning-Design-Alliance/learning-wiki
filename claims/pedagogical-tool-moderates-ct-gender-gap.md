@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-19
 sources:
   - id: suya-liu-yun-dai-oi-lam-ng-zhihui-cai-2025
     resource: "https://doi.org/10.1007/s10648-025-10095-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Pedagogical tool was a significant moderator (F(4, 95) = 3.376, p < 0.05); programming showed a significant positive effect (g = 0.125, p < 0.01) and other tool types a significant negative effect (g = −0.407, p < 0.01). [→ Suya Liu · Yun Dai · Oi Lam Ng · Zhihui Cai 2025](#suya-liu-yun-dai-oi-lam-ng-zhihui-cai-2025)

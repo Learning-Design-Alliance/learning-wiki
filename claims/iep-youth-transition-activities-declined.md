@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: johanna-lacoe-2018
     resource: "https://www.mathematica.org/publications/preparing-youth-in-special-education-for-life-after-high-school-in-focus-brief"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Youth and parents were less likely to have discussed transition plans with school staff, and student employment during high school declined, between 2003 and 2012. [→ Johanna Lacoe 2018](#johanna-lacoe-2018)

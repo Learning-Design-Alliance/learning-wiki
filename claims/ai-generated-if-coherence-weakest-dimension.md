@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: f-rogosch-2026
     resource: "https://doi.org/10.21125/edulearn.2026.1075"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Story-content coherence scored clearly below the other dimensions (M = 2.92, 95% CI [2.47, 3.37]), with three of four items below the scale midpoint. [→ F. Rogosch 2026](#f-rogosch-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: zhang-beibei-et-al-2026
     resource: "https://doi.org/10.1371/journal.pone.0358951"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Analysis dimension scores rose significantly from Workshop 2 to Workshop 3, then stabilized with no significant Workshop 3-to-4 change. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)

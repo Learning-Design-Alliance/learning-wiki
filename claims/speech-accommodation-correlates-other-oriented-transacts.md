@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-19
+recheck_by: 2016
 sources:
   - id: gweon-2013
     resource: "https://doi.org/10.1007/s11412-013-9172-5"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2013 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i2` Accommodation scores from the unsupervised DBN correlate positively with hand-coded prevalence of other-oriented transacts, with r = .36 significant at p < .05. [→ Gweon 2013](#gweon-2013)

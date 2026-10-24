@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: allensworth-2020
     resource: "https://doi.org/10.3102/0013189x20902110"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The relationship of HSGPAs with college graduation is strong and consistent and larger than school effects. [→ Allensworth 2020](#allensworth-2020)

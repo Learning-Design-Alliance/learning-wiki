@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: tan-2024
     resource: "https://doi.org/10.1007/s10648-024-09929-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meta-regressions found no significant difference in SES effect sizes by SES indicator (parental education, occupational status, family income, home resources; k = 39) or by outcome type (languages versus STEM; k = 23), and none for secondary or high school compared with kindergarten-elementary students; effects were larger for university students (two effect sizes) and in 1950–1959 than before 1950 (one effect size per decade before 1990), both read with caution by the author. [→ Tan 2024](#tan-2024)

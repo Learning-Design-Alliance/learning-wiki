@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-17
 sources:
   - id: szűcs-dénes-2014
     resource: "https://doi.org/10.1111/desc.12144"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a simultaneous regression with 98 children, Dot Matrix, visual WM, Phonological Decoding, Spatial Orientation and Trail-making were significant predictors of math, explaining 65% of variance. [→ Szűcs Dénes 2014](#szucs-denes-2014)

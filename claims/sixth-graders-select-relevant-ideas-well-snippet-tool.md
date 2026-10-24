@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kullberg-2023
     resource: "https://doi.org/10.1007/s11251-022-09613-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sixth graders' mean snippet selection score was 16.00 out of 18 points, indicating most students were able to select relevant ideas from the online texts. [→ Kullberg 2023](#kullberg-2023)

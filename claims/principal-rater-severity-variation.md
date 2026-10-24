@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: sartain-2011
     resource: "https://consortium.uchicago.edu/publications/rethinking-teacher-evaluation-chicago-lessons-learned-classroom-observations-principal"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Principals and observers agreed on Unsatisfactory versus Basic and Basic versus Proficient ratings, and 72 percent of principals rated in line with observers, while 11 percent rated lower and 17 percent higher. [→ Sartain 2011](#sartain-2011)

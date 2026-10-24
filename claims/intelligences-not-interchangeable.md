@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: peariso-2008
     resource: "https://eric.ed.gov/?id=ED500515"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Per Willingham's summary of Gardner's view, a student low in logical-mathematical but high in musical intelligence cannot substitute musical for logical-mathematical intelligence and understand math through music. [→ Peariso 2008](#peariso-2008)

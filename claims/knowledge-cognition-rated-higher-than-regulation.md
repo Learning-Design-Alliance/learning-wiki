@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: tuononen-2023
     resource: "https://doi.org/10.1007/s11409-022-09314-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the survey sample, students scored high on knowledge about cognition and relatively high on regulation of cognition, indicating students may know how they should study but lack the skills to do so. [→ Tuononen 2023](#tuononen-2023)

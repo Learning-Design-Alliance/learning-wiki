@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: arias-2004
     resource: "https://link.springer.com/journal/11528"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Researchers cited by the authors state that failure to analyze the broad context surrounding the instructional event will inevitably lead to countless failed instructional design initiatives in developing countries. [→ Arias 2004](#arias-2004)

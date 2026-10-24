@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: fiorella-2023
     resource: "https://doi.org/10.1007/s10648-023-09769-7"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children generating correct gestures showed better mathematical-equivalence problem-solving than partial-gesture then no-gesture groups, mediated by verbalizing the grouping strategy (Goldin-Meadow et al., 2009, as reported). [→ Fiorella 2023](#fiorella-2023)

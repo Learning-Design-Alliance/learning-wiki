@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: workforce-stats-1
     title: workforce-stats-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Career pathways are non-linear, with baby boomers holding an average of nearly 13 jobs from ages 18 to 56 and Gen Z projected to hold 18 jobs across six career areas in their lifetime. [→ workforce-stats-1](#workforce-stats-1)

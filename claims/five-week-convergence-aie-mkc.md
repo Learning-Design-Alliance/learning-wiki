@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: pau-benazet-i-montobbio-2026
     resource: "https://doi.org/10.48550/arxiv.2607.20047"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Direct between-group comparisons on five-week change scores yielded no contrasts that survived multiple-comparison correction; the MKC contrast approached significance favouring the experiential group (d = -0.37, p = .055). [→ Pau Benazet i Montobbio 2026](#pau-benazet-i-montobbio-2026)

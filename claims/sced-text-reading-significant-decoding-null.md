@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: dahl-leonard-2025
     resource: "https://doi.org/10.1007/s10648-025-09985-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The mean effect for text reading outcomes in SCED studies was positive and significant (g = 1.80; p = 0.01; k = 8; m = 8), while the mean effect for decoding/word reading outcomes was positive but non-significant (g = 0.86; p = 0.45; k = 3; m = 2). [→ Dahl-Leonard 2025](#dahl-leonard-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bradley-irwin-and-theron-muller-2026
     resource: "https://doi.org/10.3390/educsci16040544"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students completing structured Trainer activities are expected to develop more positive attitudes toward the value and efficacy of peer feedback than students receiving only a rubric and brief instructions. [→ Bradley Irwin and Theron Muller 2026](#bradley-irwin-and-theron-muller-2026)

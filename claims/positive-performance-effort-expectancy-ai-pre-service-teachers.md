@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: amponsah-2026
     resource: "https://doi.org/10.31014/aior.1993.09.03.724"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All performance expectancy items scored above the neutral midpoint (e.g., M = 4.04, SD = .933 for improving lesson quality) and were significantly higher than the midpoint (p < .001). [→ Amponsah 2026](#amponsah-2026)

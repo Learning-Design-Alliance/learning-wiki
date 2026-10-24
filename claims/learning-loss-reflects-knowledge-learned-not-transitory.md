@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: engzell-p-2021
     resource: "https://doi.org/10.1073/pnas.2022376118"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` On a learning-readiness test of oral reading fluency that covers no curricular content, treatment effects shrink by nearly two-thirds relative to the main achievement outcome, suggesting differences in knowledge learned account for the majority of the performance drop. [→ Engzell P. 2021](#engzell-p-2021)

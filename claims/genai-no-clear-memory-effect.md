@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dawid-ratajczyk-2026
     resource: "https://doi.org/10.31234/osf.io/83jum_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Neither prior genAI access nor incentives significantly affected Stage 3 memory-test accuracy, with negligible printed effect sizes. [→ Dawid Ratajczyk 2026](#dawid-ratajczyk-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: jansen-2019
     resource: "https://doi.org/10.1016/j.edurev.2019.100292"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` In moderator analyses of the three meta-analyzed relations, most of the coded study, measurement, and intervention characteristics did not significantly explain variance in effect sizes. [→ Jansen 2019](#jansen-2019)

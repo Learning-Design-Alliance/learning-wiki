@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: trout-2021
     resource: "https://eric.ed.gov/?id=ED615970"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article asserts that after training, schools may see quick low-level successes such as stronger relationships and less conflict, while high-level success such as improved behavior, academic growth, and cultural shifts takes three to five years or more. [→ Trout 2021](#trout-2021)

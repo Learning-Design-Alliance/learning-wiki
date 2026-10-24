@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2014
+source_checked: 2026-10-18
 sources:
   - id: freeman-s-2014
     resource: "https://doi.org/10.1073/pnas.1319030111"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2014 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 67 independent comparisons, the odds ratio for failing was 1.95 under traditional lecturing, equivalent to a risk ratio of 1.5 favoring active learning. [→ Freeman S 2014](#freeman-s-2014)

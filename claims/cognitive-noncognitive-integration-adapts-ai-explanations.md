@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: nwogo-2026
     resource: "https://doi.org/10.48550/arxiv.2608.15738"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Two student cases with the same question received different AI-generated explanations: a high performer (86.15) got concise, minimally scaffolded explanation, while a lower performer (42.30) got simpler language and increased scaffolding. [→ Nwogo 2026](#nwogo-2026)

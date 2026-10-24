@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: valdez-2020
     resource: "https://eric.ed.gov/?id=ED606089"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Engaging in continuous improvement methods only in a rote, compliance-oriented way removes the possibility of truly improving equity. [→ Valdez 2020](#valdez-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: dweck-2019
     resource: "https://doi.org/10.1177/1745691618804166"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` People endorsing a fixed mindset made stronger stereotypical judgments of ethnic and occupational groups and more extreme trait judgments of new groups, and manipulated mindsets suggested a causal role. [→ Dweck 2019](#dweck-2019)

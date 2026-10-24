@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: mariann-lemke-2023
     resource: "https://eric.ed.gov/?id=ED638580"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most students at risk at BOY remained at risk at EOY, but 40 percent of BOY at-risk students met benchmark by EOY, and MOY on-track status predicted EOY benchmark attainment. [→ Mariann Lemke 2023](#mariann-lemke-2023)

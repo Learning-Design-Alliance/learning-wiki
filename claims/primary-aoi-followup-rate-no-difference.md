@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zekun-wu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.00445"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Follow-up fixation rates on the primary AOI were similarly high in both conditions (baseline M = 91.66%, gaze-based M = 90.81%), with no significant difference. [→ Zekun Wu 2026](#zekun-wu-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: jill-m-constantine-2006
     resource: "https://www.mathematica.org/publications/a-study-of-the-effect-of-talent-search-on-secondary-and-postsecondary-outcomes-in-florida-indiana-and-texas"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a quasi-experimental study across three states, Talent Search participants were more likely than comparison students to apply for federal financial aid. [→ Jill M. Constantine 2006](#jill-m-constantine-2006)

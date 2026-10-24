@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: rolla-2024
     resource: "https://csaa.wested.org/resource/kindergarten-entry-assessments-an-examination-of-best-practices-national-trends-and-recommendations/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A WestEd national policy scan of state education websites, legislation, and administrative codes found only 10 states explicitly include Spanish–English bilinguals in their KEAs, while 41 states implicitly include or do not include them. [→ Rolla 2024](#rolla-2024)

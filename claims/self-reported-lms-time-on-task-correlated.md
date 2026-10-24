@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: paul-v-sargent-2026
     resource: "https://doi.org/10.18608/jla.2026.8725"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Weekly self-reported time-on-task correlates positively with LMS course time-on-task (r=0.63) and even more strongly with weekly LMS course sessions (r=0.71). [→ Paul V. Sargent 2026](#paul-v-sargent-2026)

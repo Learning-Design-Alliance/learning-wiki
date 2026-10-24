@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: mathias-allemand-2026
     resource: "https://doi.org/10.1007/s10648-026-10127-6"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Researcher-led programs produced stronger effects than teacher-led ones, and mathematics-focused interventions tended to be especially impactful. [→ Mathias Allemand 2026](#mathias-allemand-2026)

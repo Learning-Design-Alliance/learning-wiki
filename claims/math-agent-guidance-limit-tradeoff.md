@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: udeshi-2026
     resource: "https://doi.org/10.1007/978-3-032-29755-6_14"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Focusing the Math Agent on analyzing student math steps decreased tutor giving away the final answer by 85.5% ± 5.56% and time-to-first-token latency by 7.85% ± 0.57%, increased behavioral engagement by 7.66% ± 2.25%, but decreased cognitive engagement by 18.09% ± 7.45%. [→ Udeshi 2026](#udeshi-2026)

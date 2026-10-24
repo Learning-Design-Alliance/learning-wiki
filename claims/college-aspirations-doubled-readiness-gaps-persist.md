@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: melissa-roderick-2009
     resource: "https://doi.org/10.1353/foc.0.0024"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The share of tenth graders hoping to earn a bachelor's degree or higher doubled, from 40 percent in 1980 to 80 percent in 2002, with the greatest increases among low-income students. [→ Melissa Roderick 2009](#melissa-roderick-2009)

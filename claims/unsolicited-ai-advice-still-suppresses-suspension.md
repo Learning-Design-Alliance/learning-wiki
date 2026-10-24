@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chiara-marcoccia-2026
     resource: "https://doi.org/10.31234/osf.io/5y6m4_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When AI advice appeared automatically instead of on request, it still dramatically reduced judgment suspension in Study 4 (0.35 vs 0.01 without stakes). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)

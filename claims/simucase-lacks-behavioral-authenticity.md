@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: elliott-2021
     resource: "https://doi.org/10.30707/TLCSD5.1.1624982519.538001"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1` · n=10
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In two focus groups with 10 first- and second-semester SLP graduate students at one Midwestern university, most participants reported a lack of behavioral modifications in the Simucase child speech-and-language assessment cases, which they felt was not authentic to younger clients, who may present with behavioral concerns in person. [→ Elliott 2021](#elliott-2021)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2022
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: city-study-2022-fort-worth-2022
     resource: "https://credo.stanford.edu/reports/item/fort-worth-tx-2022/"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i2` Fort Worth charter school male students outgrew district-school male students by a significant 0.05 SD (27 days) in reading, whereas the female charter-vs-district reading contrast (0.01 SD, 7 days) was not statistically significant. [→ City Study 2022: Fort Worth 2022](#city-study-2022-fort-worth-2022)

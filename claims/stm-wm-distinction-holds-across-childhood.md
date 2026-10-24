@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: robert-kail-and-lynda-k-hall-2001
     resource: "https://link.springer.com/journal/13421/29/1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Exploratory and confirmatory factor analyses yielded the same two-factor solution in 8- to 10-year-olds and 11- to 13-year-olds, contradicting the hypothesis that the STM/WM distinction is blurred in children. [→ Robert Kail and Lynda K. Hall 2001](#robert-kail-and-lynda-k-hall-2001)

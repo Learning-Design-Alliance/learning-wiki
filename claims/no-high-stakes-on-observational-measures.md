@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: sally-atkins-burnett-2007
     resource: "https://www.mathematica.org/publications/measuring-childrens-progress-from-preschool-through-third-grade"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Observational measures are appropriate for formative evaluation but should not carry high stakes. [→ Sally Atkins-Burnett 2007](#sally-atkins-burnett-2007)

@@ -25,12 +25,14 @@ sources:
     rigour: "?"
 id: self-efficacy-predicts-academic-persistence
 evidence_strength: strong
+newest_evidence: 1997
 ---
 
 # Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r?` · `q2`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 Self-efficacy is not global confidence — it is the learner's judgment that they can execute the specific actions required to accomplish a specific task. High self-efficacy for a task produces higher goals, more effort, longer persistence under obstacles, and faster recovery from failure. Low self-efficacy produces avoidance, reduced effort, and attribution of difficulty to stable inability rather than insufficient strategy.
 
@@ -194,3 +196,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Under enduring constraint, disengagement may reflect accurate calibration to low translation fidelity rather than low self-efficacy](disengagement-as-accurate-calibration-low-translation-fidelity.md) — related
 - [Maladaptive motivational profiles are associated with less time on task and lower cognitive task achievement](maladaptive-profiles-less-time-on-task-lower-achievement.md) — a narrower finding that bears on this claim
 - [Prior profile research links maladaptive motivational profiles to poorer school adjustment and achievement](prior-profiles-maladaptive-school-adjustment.md) — related
+- [Children's autonomous and controlled motivation for mathematics rarely moderate the effects of task difficulty and instructional style](motivation-moderation-minimal-non-significant.md) — related

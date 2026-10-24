@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: gonny-schellings-2011
     resource: "https://doi.org/10.1007/s11409-011-9069-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The student executing the highest number of activities (292) showed the highest overall questionnaire score (M=2.17) and the student with the fewest (74) the lowest (M=1.64); on Orienting & planning all four students rated relatively high frequencies despite low protocol percentages. [→ Gonny Schellings 2011](#gonny-schellings-2011)

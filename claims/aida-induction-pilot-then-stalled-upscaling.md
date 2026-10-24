@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: rienties-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100607"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` An updated AIDA was made available to 354 new students in September-October 2025; survey findings showed it supported early-stage orientation, with common queries about navigating systems, course structure and study expectations, but no further testing with new cohorts was agreed. [→ Rienties 2026](#rienties-2026)

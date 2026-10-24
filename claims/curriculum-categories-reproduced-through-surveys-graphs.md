@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: takeuchi-2020
     resource: "https://doi.org/10.1080/07370008.2020.1825438"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The curriculum's expectation of comparing variables (e.g., boys and girls, primaries and juniors) invited binary categorizations that were inherited and reproduced in students' surveys and graphs. [→ Takeuchi 2020](#takeuchi-2020)

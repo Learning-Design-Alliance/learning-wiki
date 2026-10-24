@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: tyler-2018
     resource: "https://eric.ed.gov/?id=ED596757"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During 2016-17, 42 percent of surveyed teachers reported using the 5E instructional model to plan lessons at least weekly, up from 13 percent in 2014-15, while never-use fell from 55 percent to 7.4 percent. [→ Tyler 2018](#tyler-2018)

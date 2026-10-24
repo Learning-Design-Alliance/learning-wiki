@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: chloe-qianhui-zhao-2026
     resource: "https://arxiv.org/abs/2601.15280"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants rated AI feedback significantly higher on specificity, clarity, and simplicity (all p < 0.05). [→ Chloe Qianhui Zhao 2026](#chloe-qianhui-zhao-2026)

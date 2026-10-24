@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-21
 sources:
   - id: sermier-dessemontet-2019
     resource: "https://doi.org/10.1016/j.edurev.2019.01.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i3` large
+> **Currency** · newest study 2019 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i3` Across 14 included studies encompassing 297 participants with intellectual disability, phonics instruction produced a large overall effect on decoding skills, g = 1.42 (95% CI: 0.75, 2.10), estimated with a random-effects model. [→ Sermier Dessemontet 2019](#sermier-dessemontet-2019)

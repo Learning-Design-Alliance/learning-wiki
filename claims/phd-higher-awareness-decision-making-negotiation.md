@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: mahmoodarabi-2015
     resource: "https://doi.org/10.5539/elt.v8n6p100"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` On Factor 4 (decision making through negotiation), PhD teachers (M = 5.13) significantly outscored BA teachers (M = 4.70), but not MA teachers. [→ Mahmoodarabi 2015](#mahmoodarabi-2015)

@@ -8,6 +8,7 @@ generated:
 id: seductive-details-effect
 aliases: [seductive-details-harm-learning, seductive-details-distract-from-learning, decorative-illustrations-do-not-improve-learning]
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: sundararajan-adesope-2020
     resource: "https://doi.org/10.1007/s10648-020-09522-4"
@@ -67,6 +68,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 6 studies · 5 causal `r2`, 1 quant-synthesis `r?` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2020 · 1 of 6 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence): Interesting but irrelevant details impair learning -->
 <!-- deprecated title (2026-10-05, did not fit the three absorbed studies, and only one entry prints an effect size): Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner -->
 

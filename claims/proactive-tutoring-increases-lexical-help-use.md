@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: bruno-de-lièvre-2006
     resource: "https://doi.org/10.1007/s11251-005-6076-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learners used the lexical help significantly more often in the pro-active mode (1.35 and 1.09) than in the reactive mode (0.70 and 0.85). [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

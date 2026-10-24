@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: philip-parker-2021
     resource: "https://www.pwc.com.au/government/government-matters/youth-unemployment.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants in the 2015 LSAY cohort were 1.5 times more likely to be NEET at some stage from ages 16-20 (OR = 1.64 [1.48, 1.81]). [→ Philip Parker 2021](#philip-parker-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yimeng-sun-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14330"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` After a five-day AI agent creation workshop, students showed significant pre-post improvements in all three CT self-perception dimensions, with d = 0.71 for abstract thinking, d = 0.70 for algorithmic thinking, and d = 0.35 for pattern recognition and generalization. [→ Yimeng Sun 2026](#yimeng-sun-2026)

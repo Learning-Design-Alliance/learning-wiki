@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: sinopoli-2011
     resource: "https://doi.org/10.1037/a0024440"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Latency of inhibitory control was faster when a response needed to be cancelled than when it needed to be restrained before initiation. [→ Sinopoli 2011](#sinopoli-2011)

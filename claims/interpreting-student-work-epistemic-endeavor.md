@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: fives-2017
     resource: "https://doi.org/10.1080/00461520.2017.1323218"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When interpreting student work, teachers must evaluate the accuracy, depth, and justification of students' knowledge claims while reflecting on their own knowledge and epistemic ideals. [→ Fives 2017](#fives-2017)

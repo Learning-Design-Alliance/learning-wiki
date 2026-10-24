@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: oluseyi-olukolaa-2026
     resource: "https://doi.org/10.48550/arxiv.2604.04237"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Without the C3 action filter, single actions account for 85–93% of interactions in some seeds, C3 violation rises to 68.3%, and pedagogical appropriateness drops from 1.000 to 0.899. [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)

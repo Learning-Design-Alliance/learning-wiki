@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: feng-x-2020
     title: Feng X 2020
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1` · `q3` · `i1`–`i3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Only the low flexibility group showed significantly different post-learning latencies across probability pairs (η²p = 0.343), responding faster to larger (2/3) than smaller (1/3) probability differences (Cohen's d = 0.24). [→ Feng X 2020](#feng-x-2020)

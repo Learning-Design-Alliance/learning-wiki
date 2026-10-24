@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: fong-2018
     resource: "https://eric.ed.gov/?id=ED592524"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 23% of students had the same number of annualized G-course units in CALPADS and UC data in 2011-12, rising to 30% by 2013-14, far below other subject areas. [→ Fong 2018](#fong-2018)

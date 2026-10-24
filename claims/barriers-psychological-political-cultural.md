@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: dede-2009
     resource: "https://eric.ed.gov"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` At this point in history, the primary barriers to altering curricular, pedagogical, and assessment practices for 21st century skills are psychological, political, and cultural. [→ Dede 2009](#dede-2009)

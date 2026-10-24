@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: braaten-eb-2020
     resource: "https://doi.org/10.1007/s00787-019-01455-w"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In logistic regression controlling for comorbid disorders, age, sex, and medication, psychosis (OR = 3.02) and ASD (OR = 1.85) significantly increased odds of slow PS versus clinic controls; ADHD overall was only a trend (OR = 1.42, p = .07). [→ Braaten EB 2020](#braaten-eb-2020)

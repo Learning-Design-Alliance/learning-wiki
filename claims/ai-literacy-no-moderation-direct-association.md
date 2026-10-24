@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hou-jie-2026
     resource: "https://doi.org/10.3390/bs16091712"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The AI dependence × AI literacy interaction predicting self-reported creativity is not significant, so Hypothesis 7 was not supported. [→ Hou Jie 2026](#hou-jie-2026)

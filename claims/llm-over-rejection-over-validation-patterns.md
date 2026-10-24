@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: tahreem-yasir-2026
     resource: "https://doi.org/10.48550/arxiv.2605.16207"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Gemini and DeepSeek over-validated 69-71% of incorrect solutions while over-rejecting only 13-17% of valid-alternative ones. [→ Tahreem Yasir 2026](#tahreem-yasir-2026)

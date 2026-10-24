@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: sophia-c-weissgerber-2021
     resource: "https://doi.org/10.1007/s10648-020-09579-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TRANSFER performance results survived the authors' Levels 2–4 reproducibility checks, while identified problems raise doubts about RECALL performance and the moderator analysis. [→ Sophia C. Weissgerber 2021](#sophia-c-weissgerber-2021)

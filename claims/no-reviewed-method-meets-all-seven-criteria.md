@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: giasemi-n-vavoula-and-mike-sharples-2007
     resource: "https://doi.org/10.1007/s11412-007-9026-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A comparison of focus groups, Future Workshops, Strategic Visioning Workshops, role-play games, SPES and Lead User Workshops against seven criteria shows none satisfies all of them. [→ Giasemi N. Vavoula and Mike Sharples 2007](#giasemi-n-vavoula-and-mike-sharples-2007)

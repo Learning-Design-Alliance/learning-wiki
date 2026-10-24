@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: adams-2017
     resource: "https://learningpolicyinstitute.org/product/next-generation-accountability"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Distributions of 2014 reading scores in B, C, and D schools were nearly identical, and many students in D and F schools scored as high as students in A and B schools. [→ Adams 2017](#adams-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: alison-wellington-2024
     resource: "https://www.mathematica.org/publications/evaluation-of-departmentalized-instruction-in-elementary-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study did not establish clear effects of departmentalized instruction on student achievement or teacher retention. [→ Alison Wellington 2024](#alison-wellington-2024)

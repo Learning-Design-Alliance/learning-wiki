@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lin-j-and-al-hada-nm-2026
     title: Lin J and Al-Hada NM 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The review reports, citing Barcaui (2025), that undergraduates studying unfamiliar material with unrestricted ChatGPT scored lower on a surprise retention test 45 days later than those using traditional methods (57.5% vs. 68.5%; d = 0.68). [→ Lin J and Al-Hada NM 2026](#lin-j-and-al-hada-nm-2026)

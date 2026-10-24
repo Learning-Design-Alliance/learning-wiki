@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: perry-2026
     resource: "https://eric.ed.gov/?id=ED681340"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A middle-grades Desmos study found a positive effect on math scores using a basic usage measure, while a quasi-experimental study found no statistically significant grade-6 achievement difference for Illustrative Mathematics districts versus business-as-usual districts. [→ Perry 2026](#perry-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: shudong-wang-2013
     resource: "https://doi.org/10.5539/jedp.v3n1p88"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For Kansas MAP Reading tests, chi-square increases are significant for testing L invariance but not significant for testing LV invariance; for Michigan Mathematics tests, all chi-square increases are significant for both L and LV invariance. [→ Shudong Wang 2013](#shudong-wang-2013)

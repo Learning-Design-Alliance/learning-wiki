@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: schachner-2024
     resource: "https://doi.org/10.54300/984.909"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · qualitative `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the five studied systems, the average ratio of coaches to sites was approximately 1 coach for every 22 sites, regardless of primary coaching recipient. [→ Schachner 2024](#schachner-2024)

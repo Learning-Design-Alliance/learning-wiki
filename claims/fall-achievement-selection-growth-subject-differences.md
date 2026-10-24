@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: andy-hegedus-2018
     resource: "https://www.nwea.org/research-data-galleries/poverty-and-school-performance"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When the top and bottom 5% of schools are reselected on fall achievement, students in the bottom 5% mathematics schools tended to grow worse, whereas average growth between top and bottom 5% was similar in reading, with more bottom 5% reading schools growing students significantly better or worse. [→ Andy Hegedus 2018](#andy-hegedus-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: dekker-2022
     resource: "https://orcid.org/0000-0002-6858-4001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Among 255 invited students, average attendance was 2.3 sessions (SD = 2.07); 29% attended none and 35.7% attended four or more. [→ Dekker 2022](#dekker-2022)

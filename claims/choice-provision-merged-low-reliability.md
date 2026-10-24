@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: flunger-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101873"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The individual choice provision factor had too low reliability (ωL1 = .402) with non-significant item loadings, so it was merged with class-directed choice provision. [→ Flunger 2024](#flunger-2024)

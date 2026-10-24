@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jiang-h-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1951992"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After accounting for shared variance among support dimensions, only the informational-support-to-self-efficacy path retained a significant bootstrap interval (β = 0.288, p = 0.020). [→ Jiang H 2026](#jiang-h-2026)

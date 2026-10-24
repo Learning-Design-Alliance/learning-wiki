@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: cwa-student-survey
     title: cwa-student-survey
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 69% of students agreed they had choices in writing topics, 93% agreed autonomy enhanced engagement and writing quality, and 67% agreed varied expression options improved their writing. [→ cwa-student-survey](#cwa-student-survey)

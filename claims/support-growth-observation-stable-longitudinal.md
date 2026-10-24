@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhang-beibei-et-al-2026
     resource: "https://doi.org/10.1371/journal.pone.0358951"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Support dimension scores increased significantly from Workshop 2 to Workshop 4. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)

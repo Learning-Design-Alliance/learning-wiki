@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2002
+source_checked: 2026-10-23
 sources:
   - id: bruggen-2002
     resource: "https://dspace.library.uu.nl/handle/1874/16871"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2002 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` CSCL environments share characteristics that generate high levels of cognitive load for learners. [→ Bruggen 2002](#bruggen-2002)

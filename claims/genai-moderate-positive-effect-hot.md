@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: zhao-yan-2025
     resource: "https://doi.org/10.3390/jintelligence13120160"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Meta-analysis of 59 effect sizes from 29 studies yields an overall Hedges's g of 0.609 for Gen-AI's effect on students' HOT. [→ Zhao Yan 2025](#zhao-yan-2025)

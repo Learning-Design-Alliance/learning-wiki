@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: cheng-hong-liu-2026
     resource: "https://doi.org/10.1007/s11251-026-09789-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The person praise × feedback manner interaction on number of trials attempted is significant, b = 2.59, p <.001, ΔR² = 0.11. [→ Cheng-Hong Liu 2026](#cheng-hong-liu-2026)

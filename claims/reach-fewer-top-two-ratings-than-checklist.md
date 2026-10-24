@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-19
 sources:
   - id: jennie-y-jiang-2014
     resource: "https://consortium.uchicago.edu/publications/analytic-memo-evaluation-data-first-year-reach"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In REACH's first year, 58 percent of non-tenured teachers were in the top two rating categories, compared with 87 percent under the previous checklist scale. [→ Jennie Y. Jiang 2014](#jennie-y-jiang-2014)

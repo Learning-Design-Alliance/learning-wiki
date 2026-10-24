@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1908
+source_checked: 2026-10-24
 sources:
   - id: book-1908
     resource: "https://scholar.google.com/scholar?q=The+Role+of+the+Teacher+in+the+Most+Expeditious+and+Economic+Learning"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1908 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of learning consciousness, objective writing records, and working-pulse records showed plateaus arose from failure to overcome specific difficulties where elemental habits were being finally perfected. [→ Book 1908](#book-1908)

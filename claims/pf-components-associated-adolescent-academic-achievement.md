@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: cancela-j-2019
     resource: "https://www.jstage.jst.go.jp/article/jpts/31/7/31_17-478/_article"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` After adjusting for age, gender and school, resistance strength (r=0.41), explosive strength (r=0.32), agility and speed, aerobic endurance (r=0.49) and flexibility (r=0.37) correlate positively with academic achievement, while balance does not (r=0.21, p>0.05). [→ Cancela J 2019](#cancela-j-2019)

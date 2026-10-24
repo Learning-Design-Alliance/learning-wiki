@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: xia-zhichao-2018
     resource: "https://doi.org/10.1177/0165025417727872"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Word reading efficiency correlated significantly with phonological representation (r = 0.643), phonological awareness (r = 0.516), orthography-phonology mapping (r = 0.662) and orthography-semantic mapping (r = 0.536), but not with morphological awareness (r = 0.165, p = 0.513) or orthographical processing (r = 0.149, p = 0.555). [→ Xia Zhichao 2018](#xia-zhichao-2018)

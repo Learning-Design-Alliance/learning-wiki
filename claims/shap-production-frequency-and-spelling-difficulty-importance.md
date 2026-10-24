@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: adam-nohejl-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14257"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Production frequency is a consistently high-impact feature across languages, overshadowing reception frequency, which ranks as the least important across L1s. [→ Adam Nohejl 2026](#adam-nohejl-2026)

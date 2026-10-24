@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: juvonen-2019
     resource: "https://doi.org/10.1080/00461520.2019.1655645"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The positive effects of school-level diversity on outgroup attitudes and teachers' fair treatment were not observed when students were enrolled in classes less diverse than their schools, as may occur under academic tracking. [→ Juvonen 2019](#juvonen-2019)

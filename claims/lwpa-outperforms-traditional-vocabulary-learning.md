@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: tetiana-zubenko-2019
     resource: "https://doi.org/10.20535/2410-8286.165717"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` First-year ESL students using the LWPA strategy scored significantly higher on the End-of-Unit exam total than comparison students (mean 81.9 vs 63.2). [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)

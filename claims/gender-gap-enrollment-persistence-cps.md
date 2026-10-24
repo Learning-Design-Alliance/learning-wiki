@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: nagaoka-2021
     resource: "https://consortium.uchicago.edu/publications/navigating-the-maze"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Young women were more likely than young men to both immediately enroll and to persist, in both sectors. [→ Nagaoka 2021](#nagaoka-2021)

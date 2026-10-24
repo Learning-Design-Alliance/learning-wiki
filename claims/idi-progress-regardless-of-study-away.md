@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: natalie-i-cruz-melissa-whatley-2024
     resource: "https://doi.org/10.3102/00346543241279296"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in courses intentionally designed to develop intercultural awareness showed progress along the intercultural development continuum whether or not study away was included. [→ Natalie I. Cruz & Melissa Whatley 2024](#natalie-i-cruz-melissa-whatley-2024)

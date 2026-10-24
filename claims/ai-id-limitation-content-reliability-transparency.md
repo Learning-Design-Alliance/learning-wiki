@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: pınar-nuhoğlu-kibar-hale-ilgaz-2026
     resource: "https://doi.org/10.1007/s11423-026-10624-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Content Reliability and Transparency (n = 16) was the most frequent limitation, including inaccurate, fabricated, or contradictory outputs; Technical/Tool-Specific Limits (n = 12) and Contextual and Cultural Blindness (n = 10) followed. [→ Pınar Nuhoğlu Kibar & Hale Ilgaz 2026](#pnar-nuhoglu-kibar-hale-ilgaz-2026)

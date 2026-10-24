@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: redifer-2026
     resource: "https://doi.org/10.1007/s11251-025-09758-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Cognitive load was significantly lower in the rereading condition than in each of the three retrieval practice conditions, with effect sizes from d = 0.52 to d = 0.79. [→ Redifer 2026](#redifer-2026)

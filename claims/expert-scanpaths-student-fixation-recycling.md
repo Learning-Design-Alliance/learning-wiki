@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: nora-a-mcintyre-tom-foulsham-2018
     resource: "https://doi.org/10.1007/s11251-017-9445-x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experts in both cultures used student fixation first and alternated it with less student-oriented gaze in both attentional and communicative gaze; the modal six-event scanpath of Hong Kong novices contained no student fixation (a description of the most common sequence, not of every novice gaze sequence). [→ Nora A. McIntyre & Tom Foulsham 2018](#nora-a-mcintyre-tom-foulsham-2018)

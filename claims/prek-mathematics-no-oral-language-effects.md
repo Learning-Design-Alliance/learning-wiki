@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-18
 sources:
   - id: us-department-of-education-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/381"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2013 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Differences between the intervention group and the comparison group on the PPVT-III and the TOLD-P:3 Grammatic Understanding subtest were not statistically significant; the domain average effect size was 0.13. [→ U.S. Department of Education 2013](#us-department-of-education-2013)

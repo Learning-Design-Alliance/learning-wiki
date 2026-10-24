@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Weeks of stronger, more assertive concern language (Strong_GI) were associated with fewer steps/day and lower MET-min medium, while work-oriented language (Work_GI) was positively associated with steps/day. [→ forceful-activity](#forceful-activity)

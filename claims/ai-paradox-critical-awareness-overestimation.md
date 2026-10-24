@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nicolas-rodriguez-alvarez-2026
     resource: "https://doi.org/10.48550/arxiv.2605.26010"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Paired-samples t-tests showed students reported higher confidence in critical evaluation of AI (M=4.28) than in operational usage such as writing prompts (M=4.15), a statistically significant difference (p=0.015). [→ Nicolas Rodriguez-Alvarez 2026](#nicolas-rodriguez-alvarez-2026)

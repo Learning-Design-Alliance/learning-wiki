@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: zou-j-2026
     title: Zou J 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The model explained 35.5% of variance in AI integration intention, 32.5% in AI-TPACK, and 37.0% in science teaching self-efficacy, with Q² values above zero indicating in-sample predictive relevance. [→ Zou J 2026](#zou-j-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wei-wang-2026
     resource: "https://doi.org/10.48550/arxiv.2606.25337"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Between-group Welch tests with Holm correction showed L2C outperforming MIA and RBF on both lap time and failure count, with Hedges' g between 0.60 and 0.76. [→ Wei Wang 2026](#wei-wang-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: benedek-mathias-2014
     resource: "https://doi.org/10.1016/j.intell.2014.05.007"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the same latent variable model, updating predicted creativity (β = .29, p < .001) and inhibition predicted creativity (β = .20, p = .04), while shifting showed no significant relation to creativity. [→ Benedek Mathias 2014](#benedek-mathias-2014)

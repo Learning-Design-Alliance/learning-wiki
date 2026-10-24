@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: lemke-2025
     resource: "https://eric.ed.gov/?id=ED677571"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among English learners taking assessments in English and Spanish, about 21 percent of students above the significant risk threshold in English at beginning of year were still there at end of year and another 19 percent improved to that level, while in Spanish fewer students (11%) improved beyond the significant risk level. [→ Lemke 2025](#lemke-2025)

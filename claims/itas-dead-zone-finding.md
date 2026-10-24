@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: iizalaarab-elhaimeur-and-nikos-chrisochoides-2026
     resource: "https://doi.org/10.48550/arxiv.2604.24807"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The analytics agent identified a cluster of students who stopped watching the Module 2 lecture around the 42-minute mark, cross-referenced with exercise coverage ending at single-qubit operations. [→ Iizalaarab Elhaimeur and Nikos Chrisochoides 2026](#iizalaarab-elhaimeur-and-nikos-chrisochoides-2026)

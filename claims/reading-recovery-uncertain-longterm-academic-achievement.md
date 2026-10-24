@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: lt-1
     title: lt-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Ten years after implementation, the research does not support claims that Reading Recovery improved general academic achievement; the average effect was not statistically significant. [→ lt-1](#lt-1)

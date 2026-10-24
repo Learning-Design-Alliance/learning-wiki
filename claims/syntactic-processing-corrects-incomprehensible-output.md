@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 1990
 sources:
   - id: yu-liming-1990
     resource: "https://doi.org/10.18806/tesl.v8i1.575"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
+> **Currency** · newest study 1990 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Correcting incomprehensible output required grammatical analysis of input structure, as when journal review revealed the need for "have the telephone installed" instead of "install the telephone". [→ Yu Liming 1990](#yu-liming-1990)

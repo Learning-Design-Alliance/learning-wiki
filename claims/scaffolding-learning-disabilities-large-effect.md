@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: belland-brian-r-2017
     resource: "https://doi.org/10.3102/0034654317723009"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Scaffolding for students with learning disabilities had the largest pre–post effect size estimate (ḡ = 3.13), based on four outcomes from a single study. [→ Belland Brian R. 2017](#belland-brian-r-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: avvisati-2020
     resource: "https://doi.org/10.1007/s10648-020-09520-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The amount of mathematics content in the practice test was not associated with performance on a subsequent non-curricular problem-solving test (b = 0.36, SE = 1.81, p = 0.844). [→ Avvisati 2020](#avvisati-2020)

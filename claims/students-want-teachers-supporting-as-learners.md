@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: stevens-2014
     resource: "https://consortium.uchicago.edu/publications/free-fail-or-track-college"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students do not want teachers to be their buddies; they respect teachers who present clear lessons, monitor progress, give regular feedback, and provide individualized support, interpreting these actions as care. [→ Stevens 2014](#stevens-2014)

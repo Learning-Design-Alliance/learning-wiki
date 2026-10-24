@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+source_checked: 2026-10-18
 sources:
   - id: webinar-desc-1
     title: webinar-desc-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students with disabilities suffered disproportionately from the reduction in instructional time and disconnection from their school communities during the pandemic. [→ webinar-desc-1](#webinar-desc-1)

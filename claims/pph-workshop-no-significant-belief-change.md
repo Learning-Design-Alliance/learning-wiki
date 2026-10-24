@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mackenzieshalders-2026
     resource: "https://doi.org/10.1111/jhn.70351"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pre-workshop belief that globally there is a problem requiring environmentally friendly/sustainable alternatives was high (4.5 ± 0.9 pre, 4.7 ± 0.7 post) and the pre–post difference was not statistically significant (p = 0.34). [→ MacKenzie‐Shalders 2026](#mackenzieshalders-2026)

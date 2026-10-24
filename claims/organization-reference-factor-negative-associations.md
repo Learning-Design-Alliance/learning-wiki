@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: burić-2023
     title: Burić 2023
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2`–`r3` · `q2` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` In the bifactor-(S-1) model, the general organization reference factor was weakly but negatively related to cognitive activation (β = -.097), student support (β = -.082), and teacher enthusiasm (β = .099 as printed). [→ Burić 2023](#buric-2023)

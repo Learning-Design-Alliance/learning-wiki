@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: rawlings-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101776"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Compared with boys, girls reported higher initial mathematics enjoyment (β = -.35, p = .027), whereas boys reported higher initial mathematics boredom (β = .50, p = .001); gender did not predict fluency development or performance. [→ Rawlings 2023](#rawlings-2023)

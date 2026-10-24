@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: read-naturally-updated-july-2013-wwc-intervention-report-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/407"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Across two studies including 264 students, Read Naturally® showed no discernible effects on alphabetics (average improvement index +2, range –2 to +5), with effects neither statistically significant nor substantively important. [→ Read Naturally® Updated July 2013 — WWC Intervention Report 2013](#read-naturally-updated-july-2013-wwc-intervention-report-2013)

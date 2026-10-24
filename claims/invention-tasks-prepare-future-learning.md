@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: invention-tasks-prepare-future-learning
 evidence_strength: low
+newest_evidence: 2004
 sources:
   - id: schwartz-martin-2004
     resource: "https://doi.org/10.1207/s1532690xci2202_1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · n=95 (Experiment 1); n=102 (Experiment 2 classroom replication)
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 Asking learners to invent solutions to problems before receiving canonical instruction prepares them to learn better from that subsequent instruction, even when their invented solutions are incorrect.
 

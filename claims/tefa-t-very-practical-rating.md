@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: maksum-2022
     resource: "https://doi.org/10.36681/tused.2022.161"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Practicality ratings from 16 instructors and 64 students placed the TEFA-T model book, syntax, handbook, and lecturer and student manuals in the Very Practical category (overall average 4.56, achievement 90.02%). [→ Maksum 2022](#maksum-2022)

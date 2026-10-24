@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: adar-ben-eliyahu-matthew-l-bernacki-2026
     resource: "https://doi.org/10.1007/s10648-026-10144-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Poverty in the microsystem significantly influences youth learning, and students preoccupied with basic needs such as hunger are less focused on learning tasks. [→ Adar Ben-Eliyahu · Matthew L. Bernacki 2026](#adar-ben-eliyahu-matthew-l-bernacki-2026)

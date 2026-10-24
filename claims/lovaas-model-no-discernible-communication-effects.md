@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: lovaas-model-of-applied-behavior-analysis-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/295"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Neither of two communication/language outcomes was statistically significant, and neither effect size was substantively important; the average improvement index is –3 percentile points (range –4 to –3). [→ Lovaas Model of Applied Behavior Analysis 2010](#lovaas-model-of-applied-behavior-analysis-2010)

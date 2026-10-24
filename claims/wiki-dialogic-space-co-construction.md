@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-19
 sources:
   - id: gerry-stahl-friedrich-hesse-2011
     resource: "https://doi.org/10.1007/s11412-011-9118-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a Spanish classroom experiment analyzed by Pifarre and Kleine Staarman, a wiki environment gave each participant voice and, with an exploratory-talk approach, allowed students to create a dialogic space to co-construct new understanding. [→ Gerry Stahl & Friedrich Hesse 2011](#gerry-stahl-friedrich-hesse-2011)

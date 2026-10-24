@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: montag-jessica-l-2015
     resource: "https://doi.org/10.1177/0956797615594361"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Individual books typically, though not always, contain more unique words given the sample size than does a conversation. [→ Montag Jessica L. 2015](#montag-jessica-l-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: kalyuga-2007
     resource: "https://doi.org/10.1007/s10648-007-9054-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Beyond cognitive load theory prediction and explanation, the empirical findings on the expertise reversal effect fit well the patterns reported in Aptitude Treatment Interaction (ATI) research begun in the mid-1960s. [→ Kalyuga 2007](#kalyuga-2007)

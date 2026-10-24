@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: elias-walsh-2022
     resource: "https://www.mathematica.org/publications/findings-from-an-evaluation-of-kipp-school-leadership-programs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The instrument KIPP uses to identify candidates for the Fisher Fellowship program is reliable; however, three of the 34 items had relatively low levels of one type of reliability. [→ Elias Walsh 2022](#elias-walsh-2022)

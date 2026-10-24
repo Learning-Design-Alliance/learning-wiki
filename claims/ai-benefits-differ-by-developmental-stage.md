@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: emily-zohar-2026
     resource: "https://doi.org/10.1038/s44271-026-00402-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Individuals in later life stages who have already developed skills to persevere through difficulty can benefit from AI as a supplement, while individuals in earlier developmental stages risk bypassing experiences that build those foundational skills. [→ Emily Zohar 2026](#emily-zohar-2026)

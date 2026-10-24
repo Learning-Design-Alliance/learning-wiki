@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: claire-durwood-2010
     resource: "http://ccsr.uchicago.edu/content/page.php?cat=3&content_id=34"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Very low-skill students were more likely to fail algebra after the policy and showed smaller test score gains than students closer to the cutoff. [→ Claire Durwood 2010](#claire-durwood-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: ginevra-2021
     resource: "https://doi.org/10.1037/edu0000661"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study examined a cognitive intervention providing information about peers with sensory disability, intellectual disability, and behavioral difficulties, and a behavioral intervention using imagined contact with these peers, each against a no-intervention control condition. [→ Ginevra 2021](#ginevra-2021)

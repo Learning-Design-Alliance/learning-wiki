@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: rexigel-2024
     resource: "https://doi.org/10.1007/s10648-024-09958-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some studies presenting more than two representations found a negative impact on learning and problem-solving, especially for students with low prior knowledge of the context. [→ Rexigel 2024](#rexigel-2024)

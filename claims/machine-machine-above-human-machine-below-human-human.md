@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lan-anh-do-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28651"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Under ICL, GPT-4o vs GPT-5.2 QWK was 0.882 (Cri-V1) and 0.851 (Cri-V2), higher than human–machine QWK (about 0.58–0.66) but below human–human QWK (0.974). [→ Lan Anh Do 2026](#lan-anh-do-2026)

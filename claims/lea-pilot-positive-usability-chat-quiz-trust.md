@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: rumble-2026
     resource: "https://doi.org/10.48550/arxiv.2607.13370"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pilot participants gave full agreement (8/8) on four of six usability items (7/8 on the Command Center item and on recommending LEA to peers) and on Chat Mode accuracy, comprehensibility, usefulness, and lecture complementarity. [→ Rumble 2026](#rumble-2026)

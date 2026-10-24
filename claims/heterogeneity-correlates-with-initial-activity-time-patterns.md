@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: natalia-reich-stiebert-2023
     resource: "https://doi.org/10.1007/s11412-023-09411-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Group first-language heterogeneity correlated with less time getting to know each other (r = −.09) and more time on task-related communication (r = .11). [→ Natalia Reich-Stiebert 2023](#natalia-reich-stiebert-2023)

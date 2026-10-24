@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: katherine-rainey-2018
     resource: "https://doi.org/10.1186/s40594-018-0115-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among STEM majors, students of color were significantly less likely than white students to report a sense of belonging (Z = 2.23, p ≤ 0.01). [→ Katherine Rainey 2018](#katherine-rainey-2018)

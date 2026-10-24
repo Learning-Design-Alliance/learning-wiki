@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: chokri-barhoumi-pier-giuseppe-rossi-2013
     resource: "https://doi.org/10.30935/cedtech/6109"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average rate of access to the online course was 6.38 for the experimental group versus 2.67 for the control group, and access to learning activities was 7.92 versus 6.05. [→ Chokri Barhoumi; Pier Giuseppe Rossi 2013](#chokri-barhoumi-pier-giuseppe-rossi-2013)

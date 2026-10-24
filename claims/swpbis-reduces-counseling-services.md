@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: bradshaw-2015
     resource: "https://doi.org/10.1037/a0037630"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` A lower percentage of at-risk (29.8% vs. 35.7%, d = -0.15) and socially-emotionally skilled (8.8% vs. 12.3%, d = -0.18) children in SWPBIS schools received counseling than their peers in comparison schools. [→ Bradshaw 2015](#bradshaw-2015)

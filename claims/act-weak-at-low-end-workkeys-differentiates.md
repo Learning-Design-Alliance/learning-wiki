@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: stephen-m-ponisciak-2005
     resource: "https://consortium.uchicago.edu/publications/understanding-prairie-state-achievement-exam-descriptive-report-analysis-student"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The range and median of ACT scores vary little across WorkKeys scores below 4, suggesting the ACT does not distinguish well among students at the lower end of the achievement spectrum while WorkKeys does. [→ Stephen M. Ponisciak 2005](#stephen-m-ponisciak-2005)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: steven-glazerman-2005
     resource: "https://www.mathematica.org/publications/the-nih-intramural-research-loan-repayment-program-career-outcomes-of-participants-and-nonparticipants"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participation in loan repayment programs is associated with longer stays at the NIH and in research careers more generally. [→ Steven Glazerman 2005](#steven-glazerman-2005)

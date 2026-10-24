@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2009
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/211"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In a randomized controlled trial with 62 Head Start preschoolers, Headsprout Early Reading produced a statistically significant positive effect on oral language (TOLD-P:3), with an effect size of 0.57 and an improvement index of +22 percentile points. [→ What Works Clearinghouse 2009](#what-works-clearinghouse-2009)

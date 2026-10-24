@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: greene-nolan-2023
     resource: "https://doi.org/10.51388/20.500.12265/187"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Growth was unrelated to teachers' years of experience, reported instructional practices, felt preparedness, and beliefs that students enjoyed writing. [→ Greene Nolan 2023](#greene-nolan-2023)

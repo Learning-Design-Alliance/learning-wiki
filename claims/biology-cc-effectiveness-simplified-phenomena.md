@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: aleknavičiūtė-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100556"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The interventions with the largest effects targeted more simplified phenomena, such as the cardiovascular system of the human body. [→ Aleknavičiūtė 2023](#aleknaviciute-2023)

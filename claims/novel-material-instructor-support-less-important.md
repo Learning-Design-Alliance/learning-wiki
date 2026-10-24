@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: slezak-2011
     resource: "https://doi.org/10.48550/arxiv.1110.0050"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On momentum post-test questions, no statistical difference in student performance was found (p = 0.65) among the five cooperative-group styles with verbal TA interaction, suggesting the tutorial material rather than instructor quality most impacts understanding of unfamiliar content. [→ Slezak 2011](#slezak-2011)

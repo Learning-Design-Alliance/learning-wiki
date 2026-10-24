@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: roy-lyster-2013
     resource: "https://doi.org/10.1017/S0261444812000365"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review presents theoretical perspectives in support of CF and addresses contentious issues about learner uptake, the role of instruction, and whether CF initiates new knowledge or consolidates acquired knowledge. [→ Roy Lyster 2013](#roy-lyster-2013)

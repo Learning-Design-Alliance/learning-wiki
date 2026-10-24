@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 1996
 sources:
   - id: de-grave-1996
     resource: "https://doi.org/10.1007/BF00118111"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' ways of dealing with anomalous data, and the conditions that determine how they deal with such data, could be described from the stimulated recall data. [→ de Grave 1996](#de-grave-1996)

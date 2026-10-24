@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: banihashem-2025
     resource: "https://doi.org/10.1186/s41239-025-00548-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The most frequently reported end outcome of AI-supported SRL was improved academic performance (48%, N = 40), followed by motivation (14%, N = 12), engagement (12%, N = 10), emotional states (11%, N = 9), and collaborative learning (8%, N = 7). [→ Banihashem 2025](#banihashem-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: henderson-2020
     resource: "https://educationaldatamining.org/EDM2020/proceedings/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Students scored significantly higher on overlapping concepts (0.718) than non-overlapping concepts (0.550), and hybrid framework models yielded R² of 0.339 (overlapping) versus 0.157 (non-overlapping). [→ Henderson 2020](#henderson-2020)

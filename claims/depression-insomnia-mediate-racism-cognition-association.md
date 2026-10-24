@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: coogan-p-2020
     resource: "https://doi.org/10.1002/dad2.12067"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` 31% of the excess poor SCF in women in the highest compared to the lowest quartile of daily racism was attributable to depression (CES-D ≥16), and 41% was attributable to moderate or severe insomnia (ISI ≥15). [→ Coogan P 2020](#coogan-p-2020)

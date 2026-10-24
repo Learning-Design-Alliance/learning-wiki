@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: carolyn-rosé-sanna-järvelä-sten-ludvigsen-2020
     resource: "https://doi.org/10.1007/s11412-020-09319-1"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r1` · `q2`–`q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: michal-štefánik-2026
     resource: "https://doi.org/10.48550/arxiv.2609.20484"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On 310 Edustories case studies, the best language model (Qwen3-30B) reached 0.580 outcome-prediction accuracy versus 0.642 for the best human expert, with 5 of 6 models below the lower bound of expert assessment. [→ Michal Štefánik 2026](#michal-stefanik-2026)

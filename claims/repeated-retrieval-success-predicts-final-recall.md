@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ariel-2018
     resource: "https://doi.org/10.1037/xap0000133"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiment 1, each additional successful retrieval attempt increased the probability of correct final recall. [→ Ariel 2018](#ariel-2018)

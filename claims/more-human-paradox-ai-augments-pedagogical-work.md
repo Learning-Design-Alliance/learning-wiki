@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: malyn-smith-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100422"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Contrary to dehumanisation concerns, the expert panel envisioned AI saturation intensifying human pedagogical work, with teachers freed from routine cognitive work to facilitate interaction, coach social skills and mediate conflicts. [→ Malyn-Smith 2026](#malyn-smith-2026)

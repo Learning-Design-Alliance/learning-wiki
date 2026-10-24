@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
+recheck_by: 2012
 sources:
   - id: kainz-2007
     resource: "https://doi.org/10.1080/10665680701610721"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The article examines a century of rhetoric on the home/school relation and associated parent involvement. [→ Kainz 2007](#kainz-2007)

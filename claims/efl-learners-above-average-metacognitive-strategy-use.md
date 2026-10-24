@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: thao-m-t-nguyen-and-lap-q-trinh-2011
     resource: "https://doi.org/10.26634/jelt.1.1.1348"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Participants' overall metacognitive strategy use mean was significantly above the accepted average of 3.0 on the 5-point scale. [→ Thao M. T. Nguyen and Lap Q. Trinh 2011](#thao-m-t-nguyen-and-lap-q-trinh-2011)

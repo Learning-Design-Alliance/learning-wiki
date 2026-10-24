@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: arshad-a-2026
     title: Arshad A 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Self-regulated learning significantly moderates the cognitive load–critical thinking path (B = 0.003, 95% CI 0.000–0.007); the negative effect of load weakens and becomes non-significant at high SRL. [→ Arshad A 2026](#arshad-a-2026)

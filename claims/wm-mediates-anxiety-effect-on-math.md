@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: pellizzoni-2021
     resource: "https://doi.org/10.1111/nyas.14722"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Models with WM as mediator between anxiety and math fit better than models with anxiety as mediator; WM mediated indirect associations of both teacher-rated GA and MA with concurrent and future math performance. [→ Pellizzoni 2021](#pellizzoni-2021)

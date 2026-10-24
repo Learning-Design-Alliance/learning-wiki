@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: cynthia-zastudil-2026
     resource: "https://doi.org/10.1145/3803400.3809386"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ND students felt substantially less comfortable with semester-long teams than NT students, with 50% of ND students reporting some level of discomfort versus 22% of NT students. [→ Cynthia Zastudil 2026](#cynthia-zastudil-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: usage-1
     title: usage-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although teachers were asked to use Odyssey® Math a minimum of 90 minutes per week, actual usage levels varied across classrooms, in part because of access to technology. [→ usage-1](#usage-1)

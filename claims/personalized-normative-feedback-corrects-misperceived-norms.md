@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: personalized-normative-feedback-corrects-misperceived-norms
 evidence_strength:
+newest_evidence: 2015
 sources:
   - id: dotson-et-al-2015
     resource: "https://doi.org/10.1371/journal.pone.0139518"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q3`–`q4` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 Personalized normative feedback gives learners individualized information comparing their own behavior, beliefs, or performance against actual peer norms, with the aim of correcting overestimates of how much others engage in (or endorse) a behavior.
 

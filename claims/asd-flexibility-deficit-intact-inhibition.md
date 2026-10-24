@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: dajani-2015
     resource: "https://doi.org/10.1016/j.tins.2015.07.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ASD is characterized by impaired cognitive flexibility and planning abilities with intact inhibitory control, and cognitive inflexibility is associated with higher levels of restricted and repetitive behaviors. [→ Dajani 2015](#dajani-2015)

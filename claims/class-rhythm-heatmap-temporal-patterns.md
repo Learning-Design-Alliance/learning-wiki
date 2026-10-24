@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: germán-arroyo-2026
     resource: "https://doi.org/10.48550/arxiv.2606.05929"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Peak platform activity occurred during evening hours (15:00 to 20:00), Wednesdays showed the highest interaction concentration, and notable late-night activity appeared on Saturdays. [→ Germán Arroyo 2026](#german-arroyo-2026)

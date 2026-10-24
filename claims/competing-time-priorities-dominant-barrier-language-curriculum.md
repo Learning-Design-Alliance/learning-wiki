@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: tricia-a-zucker-2021
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Environmental context and resources, especially competing demands on instructional time, was identified as a barrier by 71.88% of coaches and was the most coded qualitative theme. [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)

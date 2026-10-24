@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2017
 sources:
   - id: krebs-2012
     resource: "https://doi.org/10.1007/s11409-011-9079-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` All children, regardless of age or achievement level, showed adequate metacognitive processes before and during test taking. [→ Krebs 2012](#krebs-2012)

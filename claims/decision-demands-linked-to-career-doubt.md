@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the trial's conversations, the more demands to decide a participant received, the more career doubt they reported at the end of the study; the authors treat this observational association as the most likely explanation the data offer. [→ demands-doubt](#demands-doubt)

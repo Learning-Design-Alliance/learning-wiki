@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: strohmaier-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102235"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Placing the question at the beginning shortened fixation durations on situational text in the first phase, shortened fixation durations on numbers in the first phase, and lengthened fixation durations on situational text in the second phase. [→ Strohmaier 2025](#strohmaier-2025)

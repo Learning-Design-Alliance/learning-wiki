@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: freeman-scott-2011
     resource: "https://doi.org/10.1187/cbe.10-08-0105"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ANOVA showed significant heterogeneity in Predicted Grades across quarters (F = 13.2, df = 5, 2351, p ≪ 0.001), with pairwise differences crossing levels of course structure. [→ Freeman Scott 2011](#freeman-scott-2011)

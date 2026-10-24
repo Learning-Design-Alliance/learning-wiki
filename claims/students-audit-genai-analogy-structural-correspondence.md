@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with sufficient domain expertise identified structural mismatches between an analogy's source domain and the computing concept, holding analogies to whether their structure matched the concept. [→ structural-audit](#structural-audit)

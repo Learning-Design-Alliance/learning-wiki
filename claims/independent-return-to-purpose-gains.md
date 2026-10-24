@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: fatima-zehra-allahverdi-2025
     resource: "https://doi.org/10.1007/s11251-025-09725-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the eight case-study students, the two who most often independently found evidence related to their purpose were one high-gain teacher's student (two-grade-level gain) and one typical teacher's student (one-grade-level gain). [→ Fatima Zehra Allahverdi 2025](#fatima-zehra-allahverdi-2025)

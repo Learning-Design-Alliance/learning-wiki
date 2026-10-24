@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: marks-2021
     resource: "https://doi.org/10.29333/iejme/11198"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings -->
 

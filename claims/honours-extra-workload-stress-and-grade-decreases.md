@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: wabike-2021
     resource: "https://doi.org/10.5296/jei.v7i2.18814"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Respondents reported stress from an extra workload that leaves little room for social activities, with some mentioning decreasing grades in the main phase. [→ Wabike 2021](#wabike-2021)

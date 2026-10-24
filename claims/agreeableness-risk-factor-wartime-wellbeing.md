@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zavhorodnia-2026
     resource: "https://doi.org/10.5964/ejop.17767"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Agreeableness showed a weak positive association with decline in subjective well-being (r = .16, p < .05), contrary to its expected protective role. [→ Zavhorodnia 2026](#zavhorodnia-2026)

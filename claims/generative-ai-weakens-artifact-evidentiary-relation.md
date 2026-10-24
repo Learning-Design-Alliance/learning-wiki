@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kai-yao-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28041"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When AI can produce polished artifacts, the artifact no longer reliably evidences understanding, and treating the product as proof of competence mistakes output preservation for capacity preservation. [→ Kai Yao 2026](#kai-yao-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: darch-2006
     title: darch-2006
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In Darch et al. (2006), 42 students with learning disabilities in grades 2–4 randomly assigned to Spelling Mastery did not show a statistically significant positive effect on any of the four writing measures, but both the study authors and the WWC found substantively important positive effects on all four measures. [→ darch-2006](#darch-2006)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: curtis-northcutt-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28470"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 12 AI tutors, lower latency was strongly associated with higher student engagement (Spearman ρ=−0.81, p=.006), and the reply-time→engagement→practice→gain chain held in Quantitative (all p≤.002) but not in Verbal. [→ Curtis Northcutt 2026](#curtis-northcutt-2026)

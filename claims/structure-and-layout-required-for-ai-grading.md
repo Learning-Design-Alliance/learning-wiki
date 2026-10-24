@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jan-cvengros-and-gerd-kortemeyer-2026
     resource: "https://doi.org/10.1007/s44163-026-01606-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors report that structure and layout strongly contribute to the success of their methods and appear to be required, based on parallel work spanning a fully unstructured thermodynamics exam, this structured chemistry exam, and a calculus exam seeking a middle ground. [→ Jan Cvengros and Gerd Kortemeyer 2026](#jan-cvengros-and-gerd-kortemeyer-2026)

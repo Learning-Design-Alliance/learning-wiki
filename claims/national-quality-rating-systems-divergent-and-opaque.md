@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: steven-j-howard-2024
     resource: "https://doi.org/10.1007/s10648-023-09832-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Approaches to measuring ECEC quality differ markedly across countries (e.g. QRIS in the USA, EYFS/Ofsted in the UK, Australia's mandatory national system), and the extent to which national quality ratings align with child development is often not publicly reported. [→ Steven J. Howard 2024](#steven-j-howard-2024)

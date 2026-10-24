@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: seiyon-m-lee-2025
     resource: "https://osf.io/puhyr/?view_only=514d8534e9be41d9a57ad82e9efb3249"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Combined coder agreement was weak (kappa below 0.30) for context-dependent codes such as Specific, Learning Strategy Suggestion, and Hints, while Emoji and Positive Affect showed strong agreement among all coders. [→ Seiyon M. Lee 2025](#seiyon-m-lee-2025)

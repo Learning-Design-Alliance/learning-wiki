@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: what-works-clearinghouse-2023
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/727"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Reading Apprenticeship® showed an effect size of 0.00 on vocabulary (GRADE Vocabulary subtest), with an uncertain effects rating based on one study. [→ What Works Clearinghouse 2023](#what-works-clearinghouse-2023)

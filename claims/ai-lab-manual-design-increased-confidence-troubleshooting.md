@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yim-2026
     resource: "https://doi.org/10.1021/acs.jchemed.5c01311"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Median confidence in troubleshooting and optimization rose from 3 to 4; agreement on ability to evaluate experimental results rose from 50% to 80%. [→ Yim 2026](#yim-2026)

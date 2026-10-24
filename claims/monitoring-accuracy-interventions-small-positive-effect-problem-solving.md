@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: noortje-janssen-ard-w-lazonder-2024
     resource: "https://doi.org/10.1007/s10648-024-09936-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across 35 studies, monitoring accuracy interventions combined have a small positive effect on students' monitoring accuracy in problem-solving tasks (g = 0.25). [→ Noortje Janssen · Ard W. Lazonder 2024](#noortje-janssen-ard-w-lazonder-2024)

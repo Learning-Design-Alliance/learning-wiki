@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 1995
 sources:
   - id: eggleton-1995
     resource: "https://eric.ed.gov/?id=ED389592"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Ken's self-perceived confidence with mathematics inhibited him from considering a reinterpretation of his understanding of mathematics, in contrast to Ball's anxious preservice teachers. [→ Eggleton 1995](#eggleton-1995)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: elizabeth-dhuey-2011
     resource: "https://doi.org/10.1162/edfp_a_00031"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Declines in disability identification after capitation reforms were primarily in more subjectively diagnosed disability categories and happened more quickly in less severe categories. [→ Elizabeth Dhuey 2011](#elizabeth-dhuey-2011)

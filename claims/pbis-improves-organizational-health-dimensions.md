@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: bradshaw-2009
     resource: "https://doi.org/10.1007/s11121-008-0114-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Over the 5-year trial, PBIS produced a significant effect on schools' overall organizational health, resource influence, staff affiliation, and academic emphasis. [→ Bradshaw 2009](#bradshaw-2009)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ives-robert-a-2026
     resource: "https://doi.org/10.1021/acscentsci.6c00822"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The insights come from 13 first-generation chemists in the CAS Future Leaders Top 100 program who succeeded and stayed in chemistry, so they cannot represent first-generation scientists who left the field, changed disciplines, or did not pursue academic careers. [→ Ives Robert A. 2026](#ives-robert-a-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: gerry-stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9148-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A pre-processing step replacing context-specific terms with syntactic descriptors and nouns with entity categories (e.g., substituting "location" or "city" for "Sydney") lets software compute rules less dependent on context, addressing over-generalization to specific training sets. [→ Gerry Stahl 2012](#gerry-stahl-2012)

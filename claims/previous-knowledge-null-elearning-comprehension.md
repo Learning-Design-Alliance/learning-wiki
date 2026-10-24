@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: burin-2018
     resource: "https://doi.org/10.1186/s41239-018-0099-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Previous knowledge (high vs. low) showed no significant effect on comprehension and did not moderate the effects of working memory or Internet skills. [→ Burin 2018](#burin-2018)

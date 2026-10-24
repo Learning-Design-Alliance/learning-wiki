@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hoppe-t-2026
     resource: "https://doi.org/10.3389/feduc.2026.1857661"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Current AI implementations typically focus on performance-related data, so teachers' contextual and relational knowledge remains indispensable for comprehensive diagnostic judgments, particularly regarding motivational factors. [→ Hoppe T 2026](#hoppe-t-2026)

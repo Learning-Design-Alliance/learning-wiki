@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: carol-k-k-chan-2012
     resource: "https://doi.org/10.1007/s11409-012-9086-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups using the interactive whiteboard initially engage in prolonged planning to establish shared goals and common ground, which facilitates co-regulation and collaboration in later phases. [→ Carol K. K. Chan 2012](#carol-k-k-chan-2012)

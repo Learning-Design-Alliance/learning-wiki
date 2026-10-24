@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: ellis-2012
     resource: "https://eric.ed.gov/?id=ED536865"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Facilitated self-directed learning and peer discussion empower adult learners -->
 

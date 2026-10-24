@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: susanne-james-burdumy-2008
     resource: "https://www.mathematica.org/publications/high-school-reform-in-boston-public-schools-the-effect-of-focus-on-high-schools-on-student-academic-outcomes"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Promotions to the next grade increased overall, with the increase concentrated among special education students. [→ Susanne James-Burdumy 2008](#susanne-james-burdumy-2008)

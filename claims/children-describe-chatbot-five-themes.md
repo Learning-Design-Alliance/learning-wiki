@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: saniya-vahedian-movahed-and-fred-martin-2025
     resource: "https://doi.org/10.48550/arxiv.2502.14217"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Open-ended survey responses coded into five themes, and a multiple-choice item showed children held varied, partially correct models of the chatbot's mechanism. [→ Saniya Vahedian Movahed and Fred Martin 2025](#saniya-vahedian-movahed-and-fred-martin-2025)

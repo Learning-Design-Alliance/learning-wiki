@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: bergen-2002
     resource: "http://ecrp.uiuc.edu/v4n1/bergen.htm"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Preschool block play complexity, controlling for IQ and gender, was positively related to seventh-grade math test scores and high school math grades, math courses, and honors courses. [→ Bergen 2002](#bergen-2002)

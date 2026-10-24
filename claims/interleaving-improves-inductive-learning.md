@@ -8,6 +8,8 @@ generated:
 id: interleaving-improves-inductive-learning
 aliases: [interleaved-practice-improves-retention, interleaving-improves-learning, interleaving-improves-transfer, moderate-overall-interleaving-effect]
 evidence_strength:
+newest_evidence: 2019
+source_checked: 2026-10-15
 sources:
   - id: brunmair-richter-2019
     resource: "https://doi.org/10.1037/bul0000209"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=59 studies (238 effect sizes, 158 samples)
+> **Currency** · newest study 2019 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence; the precise title came from interleaved-practice-improves-retention, folded in): Interleaving Improves Inductive Learning -->
 
 Interleaving — mixing different problem or category types within a practice sequence rather than blocking them by type — improves learners' ability to induce the distinguishing features of categories and classify new examples, for visual and mathematical materials; the one meta-analysis recorded here found no benefit for expository texts and a reversal for word categories, and it did not measure strategy selection or retention of practised problems. <!-- deprecated (2026-10-05, overstated: strategy selection is not tested by the recorded entry): improves learners' ability to induce the distinguishing features of concepts and select appropriate strategies. -->

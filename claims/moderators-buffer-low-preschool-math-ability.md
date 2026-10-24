@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: blair-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2015.10.001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Simple slopes showed the preschool–kindergarten ECLS-K Math association was stronger among children with lower executive function (β = 0.37) than higher executive function (β = 0.24). [→ Blair 2016](#blair-2016)

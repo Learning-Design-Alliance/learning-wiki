@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: heimbuch-2018
     resource: "https://doi.org/10.1007/s11412-018-9283-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` BRD groups added more words to the original articles than DDR (r = .58), while DDR articles showed fewer errors per 100 words (r = .64), and article length correlated with relative error rate (rs(18) = .48, p = .017). [→ Heimbuch 2018](#heimbuch-2018)

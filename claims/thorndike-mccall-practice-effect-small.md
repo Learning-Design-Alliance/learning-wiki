@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: arthur-i-gates-1921
     resource: "https://doi.org/10.1037/h0068367"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Repeated testing across five successive forms (two hours or more of practice) produced very small improvement on the Thorndike-McCall test, though obscured by differences in form difficulty. [→ Arthur I. Gates 1921](#arthur-i-gates-1921)

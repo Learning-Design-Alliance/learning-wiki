@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: dumlao-2026
     resource: "https://doi.org/10.48550/arxiv.2607.21534"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The probability of earning at least an A rises by 0.107 (SE = 0.046, p < 0.05) under the preferred post-AI bound, but falls to a non-significant 0.030 under the conservative net-COVID bound and fails the parallel-trends test. [→ Dumlao 2026](#dumlao-2026)

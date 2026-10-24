@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a live deployment, the agent met checkable rules (72% of Study 2 replies within the two-sentence cap; scripted endings in 98% of sessions) while violating every dispositional rule, such as validating in 51.7% of turns despite an instruction not to be overly agreeable. [→ fidelity-audit](#fidelity-audit)

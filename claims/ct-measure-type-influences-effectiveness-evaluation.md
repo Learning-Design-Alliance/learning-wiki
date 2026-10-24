@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: dawit-t-tiruneh-2014
     resource: "http://dx.doi.org/10.5539/hes.v4n1p1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 93% of studies employing non-standardized CT measures reported significant improvement, versus 55% of studies employing standardized measures. [→ Dawit T. Tiruneh 2014](#dawit-t-tiruneh-2014)

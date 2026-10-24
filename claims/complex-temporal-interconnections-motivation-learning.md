@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: törmänen-2025
     resource: "https://doi.org/10.1007/s10648-025-10036-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 29% (n = 19) of situation-specific-wave studies and 78% (n = 14) of momentary-wave studies showed that motivational constructs relate to each other over time and in different situations. [→ Törmänen 2025](#tormanen-2025)

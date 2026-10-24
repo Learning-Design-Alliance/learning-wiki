@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: mclean-2023
     resource: "https://doi.org/10.1037/edu0000790"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant teacher science-anxiety-by-student FARM interaction (B = 0.21, p = .05) indicated that in classrooms led by teachers with high (+1 SD) science anxiety, low-SES students' science anxiety was higher than their high-SES peers'. [→ McLean 2023](#mclean-2023)

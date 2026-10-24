@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: read-naturally-2010
     resource: "https://www.readnaturally.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In a randomized controlled trial with 20 dyslexic students in grades 4–6, Read Naturally® produced no statistically significant effects on either GORT-III Reading Accuracy or Reading Rate, and the WWC-calculated average effect size (domain average –0.16) was not substantively important. [→ Read Naturally® 2010](#read-naturally-2010)

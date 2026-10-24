@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: rahimi-2021
     resource: "https://doi.org/10.46328/ijtes.118"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The intraclass correlation was .13 with significant between-students variance, and adding level-1 predictors explained 18% of the outcome variance relative to the fully unconditional model. [→ Rahimi 2021](#rahimi-2021)
@@ -50,3 +52,4 @@ The fully unconditional HLM model on 3,803 observations from 137 students showed
 - Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models — related
 - [Game mechanics difficulty positively predicts persistence in Physics Playground problems](gm-difficulty-positively-predicts-persistence.md) — related
 - [Label-effect sizes are highly heterogeneous, with variance split between and within studies](label-effect-heterogeneity-multilevel-variance.md) — related
+- [Most variance in teachers' self-efficacy toward individual students occurs within teachers rather than between teachers](tse-variance-within-teachers-dyadic.md) — related

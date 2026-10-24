@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-17
 sources:
   - id: tighe-2016
     resource: "https://doi.org/10.1177/0022219414555415"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Real word decoding showed a strong relationship with comprehension (r = .52) versus a moderate relationship for pseudoword decoding (r = .42); the difference was not statistically significant. [→ Tighe 2016](#tighe-2016)

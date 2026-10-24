@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: grace-li-2026
     resource: "https://doi.org/10.1007/s10805-026-09760-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The reasoning structure of indirect discrimination analysis shows how facially neutral integrity rules predictably impose unequal effects on EAL cohorts, which institutions must justify through legitimate aims and proportionate means. [→ Grace Li 2026](#grace-li-2026)

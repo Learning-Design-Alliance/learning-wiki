@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: read-naturally-2010
     resource: "https://www.readnaturally.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the same RCT, Read Naturally® showed no statistically significant effect on the WIAT Written Expression subtest, but the WWC-calculated average effect size (0.34) exceeded the 0.25 substantively-important threshold, yielding a 'potentially positive effects' rating and a +13 percentile-point improvement index. [→ Read Naturally® 2010](#read-naturally-2010)

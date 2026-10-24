@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
+recheck_by: 2012
 sources:
   - id: duncan-chaplin-2009
     resource: "https://www.mathematica.org/publications/rigorous-evaluation-of-roads-to-success-design-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The associated evaluation project for Roads to Success ran from 2007 to 2009. [→ Duncan Chaplin 2009](#duncan-chaplin-2009)

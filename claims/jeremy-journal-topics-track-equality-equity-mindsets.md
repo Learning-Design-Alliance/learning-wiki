@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: littenberg-tobias-2021
     resource: "https://doi.org/10.1177/23328584211045685"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Jeremy's Journal, participants with more of an Equality mindset were more likely to mention the doctor's note school policy, while participants demonstrating an Equity mindset were more likely to prioritize Jeremy's health and well-being. [→ Littenberg-Tobias 2021](#littenberg-tobias-2021)

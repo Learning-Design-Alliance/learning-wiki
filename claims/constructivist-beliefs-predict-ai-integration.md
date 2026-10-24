@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: kasneci-2023
     resource: "https://doi.org/10.1016/j.lindif.2023.102274"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study with South Korean teachers, constructivist-belief teachers were more likely to integrate educational AI-based tools than transmissive-orientation teachers. [→ Kasneci 2023](#kasneci-2023)

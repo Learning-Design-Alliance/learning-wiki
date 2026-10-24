@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: gisela-ariza-2024
     resource: "https://eric.ed.gov/?id=ED663795"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across eight Western states in 2022–23, the chronic absence rate for multilingual learners averaged 34.3 percent, higher than the 28.9 percent average for all students. [→ Gisela Ariza 2024](#gisela-ariza-2024)

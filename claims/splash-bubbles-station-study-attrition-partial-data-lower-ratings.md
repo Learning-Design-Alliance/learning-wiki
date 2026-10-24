@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: leones-2021
     resource: "https://doi.org/10.51388/20.500.12265/120"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` 63% of the sample (38 families) completed the survey and 76.32% of those completed the interview; attrition was likely due to the COVID-19 health emergency. [→ Leones 2021](#leones-2021)

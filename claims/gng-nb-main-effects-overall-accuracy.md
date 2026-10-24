@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: chevalier-n-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308575/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Go/No-Go performance had significant main effects on accuracy at ages 3;9 (γ = .004, p = .023 in mixing models) and in local-cost models at 3;9 and 4;6. [→ Chevalier N. 2012](#chevalier-n-2012)

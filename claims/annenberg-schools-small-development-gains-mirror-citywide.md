@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
+recheck_by: 2004
 sources:
   - id: wenzel-2001
     resource: "https://eric.ed.gov/?id=ED452313"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2004**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Between 1996 and 1999 Annenberg schools became stronger in several areas of school leadership, teacher professional community, parent and community support, and social trust, with most development reflecting general citywide patterns. [→ Wenzel 2001](#wenzel-2001)

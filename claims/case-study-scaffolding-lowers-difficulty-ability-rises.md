@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shuyan-huang-2026
     resource: "https://doi.org/10.48550/arxiv.2605.01097"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one representative QATD2k dialogue, after incorrect responses the tutor decomposed the question into simpler sub-tasks, decreasing estimated difficulty from 0.671 to 0.360, while estimated ability rose from 0.224 to 0.628 despite errors. [→ Shuyan Huang 2026](#shuyan-huang-2026)

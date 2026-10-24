@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-17
 sources:
   - id: andrew-gothro-2023
     resource: "https://www.mathematica.org/publications/math-knowledge-impacts-and-math-perceptions-among-participants-in-the-blueprint-math-fellows"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In exploratory pre/post comparisons, students ending the year in larger tutoring groups exhibited the largest increase in math test scores but reported tutor relationships that were not as strong as those of peers in smaller groups. [→ Andrew Gothro 2023](#andrew-gothro-2023)

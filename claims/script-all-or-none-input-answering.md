@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: judith-schoonenboom-2008
     resource: "https://doi.org/10.1007/s11412-008-9042-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` More students in scripted conditions filled in either all or none of the inputs belonging to one discussion (d=1.5), with a similar difference between the two scripted groups (d=0.9). [→ Judith Schoonenboom 2008](#judith-schoonenboom-2008)

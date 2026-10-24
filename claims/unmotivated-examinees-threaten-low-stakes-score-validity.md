@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-09
+recheck_by: 2017
 sources:
   - id: steven-wise-2014
     resource: "https://www.nwea.org/research/publication/the-utility-of-adaptive-testing-in-addressing-the-problem-of-unmotivated-examinees/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In low-stakes testing programs, examinees who do not put forth effort undermine the validity of the scores produced. [→ Steven Wise 2014](#steven-wise-2014)

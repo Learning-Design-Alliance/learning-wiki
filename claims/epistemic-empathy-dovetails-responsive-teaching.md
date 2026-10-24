@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: chen-2026
     resource: "https://doi.org/10.1007/s11251-026-09777-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Science teachers' development of epistemic empathy dovetails with their learning of responsive teaching, positioning emotion as integral to learning processes rather than merely an antecedent or obstacle. [→ Chen 2026](#chen-2026)

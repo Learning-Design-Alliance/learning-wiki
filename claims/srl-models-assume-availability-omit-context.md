@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-22
 sources:
   - id: adar-ben-eliyahu-matthew-l-bernacki-2026
     resource: "https://doi.org/10.1007/s10648-026-10144-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Very few SRL models include references to the broader social context in which the task is situated, and they implicitly assume learners are available to learn. [→ Adar Ben-Eliyahu · Matthew L. Bernacki 2026](#adar-ben-eliyahu-matthew-l-bernacki-2026)

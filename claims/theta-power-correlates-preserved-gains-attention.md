@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: j-a-anguera-2013
     resource: "https://doi.org/10.1038/nature12486"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Within the MTT group, change in midline frontal theta power was positively correlated with 6-month multitasking gain preservation (r = 0.76) and with TOVA response-time improvement (r = 0.56). [→ J. A. Anguera 2013](#j-a-anguera-2013)

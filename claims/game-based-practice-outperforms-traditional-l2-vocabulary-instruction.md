@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-03
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: frolli-et-al-2023
     resource: "https://doi.org/10.3390/pediatric15030046"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large · n=48
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 Rated weak deliberately: the result is clean and the population is unusual on every axis. The
 paper's note on articles is an implementation detail, not a finding: no article outcome was measured.

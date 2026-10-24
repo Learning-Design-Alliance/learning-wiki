@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: what-works-clearinghouse-2020
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/705"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two studies meeting WWC standards with reservations, implementing eMINTS may increase general mathematics achievement, with an average improvement index of +2 percentile points. [→ What Works Clearinghouse 2020](#what-works-clearinghouse-2020)

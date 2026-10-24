@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: zimiles-2025
     resource: "https://eric.ed.gov/?id=ED677597"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Students, caregivers, and school staff reported improvements in grades and achievement attributed to Compass Care's goal-setting, accountability check-ins, and study strategies. [→ Zimiles 2025](#zimiles-2025)

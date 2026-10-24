@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-18
 sources:
   - id: shah-pe-2023
     resource: "https://doi.org/10.3389/fpsyg.2023.986221"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the main effects model, children in very safe neighborhoods had higher curiosity than children in fairly safe (ref) neighborhoods (β = 0.07, p = 0.002), with no difference for unsafe vs fairly safe (β = 0.01, p = 0.42). [→ Shah PE 2023](#shah-pe-2023)

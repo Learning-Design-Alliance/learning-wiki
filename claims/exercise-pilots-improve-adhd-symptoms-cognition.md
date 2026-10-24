@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: berwid-olga-g-2012
     resource: "https://doi.org/10.1007/s11920-012-0297-4"
@@ -47,6 +48,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Acute 30-minute aerobic exercise in boys with ADHD immediately improved response speed, response speed variability, vigilance, and anticipatory responding relative to a stretching control. [→ Berwid Olga G. 2012](#berwid-olga-g-2012)

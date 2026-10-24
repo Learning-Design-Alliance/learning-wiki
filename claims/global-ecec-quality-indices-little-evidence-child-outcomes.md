@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: steven-j-howard-2024
     resource: "https://doi.org/10.1007/s10648-023-09832-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the synthesised associations, there was little evidence that global ECEC quality indices (integrating process quality indicators with structural elements) related to child outcomes. [→ Steven J. Howard 2024](#steven-j-howard-2024)

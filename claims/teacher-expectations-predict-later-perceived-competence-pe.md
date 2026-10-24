@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: david-trouilloud-2006
     resource: "https://doi.org/10.1037/0022-0663.98.1.75"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Teachers' early expectations significantly predicted students' end-of-year perceived competence after controlling for initial perceived competence, gender and age (β = .16, p < .01). [→ David Trouilloud 2006](#david-trouilloud-2006)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: hammerstein-svenja-2021
     resource: "https://doi.org/10.3389/fpsyg.2021.746289"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The review's main differential finding was that younger children were more negatively affected in their learning than older children, with effects of −0.37 SD versus −0.10 SD reported by Tomasik et al. (2020). [→ Hammerstein Svenja 2021](#hammerstein-svenja-2021)

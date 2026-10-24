@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: silver-2022
     resource: "https://doi.org/10.1037/edu0000679"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The interaction between parental number talk and children's inhibitory control predicting children's math achievement was statistically significant, explaining an additional 3.2% of variance. [→ Silver 2022](#silver-2022)

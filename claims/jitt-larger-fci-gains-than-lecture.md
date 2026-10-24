@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: s-p-formica-2010
     resource: "https://doi.org/10.1103/PhysRevSTPER.6.020106"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across five semesters, overall FCI gains were 37.6%±2.0% in Just-in-Time Teaching courses versus 17.9%±2.5% in traditional lecture courses. [→ S. P. Formica 2010](#s-p-formica-2010)

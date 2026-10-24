@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1979
 sources:
   - id: rickards-1979
     resource: "https://doi.org/10.1007/BF00054983"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Young readers' self-generated underlining preponderantly targets subordinate, passage details rather than superordinate, conceptual material, even with conceptual postquestions focusing on topic sentences. [→ Rickards 1979](#rickards-1979)

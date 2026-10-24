@@ -8,6 +8,8 @@ generated:
 id: spaced-retrieval-improves-retention
 aliases: [spaced-retrieval-practice-improves-retention, spaced-retrieval-beats-massed-g-0-74]
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-14
 sources:
   - id: latimier-et-al-2021
     resource: "https://doi.org/10.1007/s10648-020-09572-8"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=39 effect sizes (subset 1)
+> **Currency** · newest study 2021 · checked against its sources 2026-10-14 (automated, 1 of 1 entry) · not reviewed by a person
 
 Combining spaced repetition (distributing practice over time) with retrieval practice (actively recalling material rather than rereading it) produces stronger long-term retention than massed study or passive review. The two mechanisms are complementary: retrieval makes recall effortful, and spacing ensures that recall occurs after partial forgetting, when reconstruction is most beneficial.
 

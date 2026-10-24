@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: wartenberg-2023
     resource: "https://doi.org/10.1007/s10648-023-09831-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The rater perspective significantly moderated associations with absenteeism, general teacher-student interactions (β = 0.16), and students' motivation (β = 0.24), with self-report effect sizes larger than external-report ones. [→ Wartenberg 2023](#wartenberg-2023)

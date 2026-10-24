@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: ming-fai-pang-2011
     resource: "https://doi.org/10.1007/s11251-011-9191-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In class 4B, after the lesson was changed so students actively sought and compared other groups' data, correct answers on the Part C volume items rose from 11% (pre-test) to 80% (post-test), an increase of 69%. [→ Ming Fai Pang 2011](#ming-fai-pang-2011)

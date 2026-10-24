@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: du-p-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1922087"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When habitually enlisted for self-formative dialogue, the synthetic position tends to absorb the integrative functions the theory assigns to the meta-position and promoter position, a migration the article terms synthetic promotion. [→ Du P 2026](#du-p-2026)

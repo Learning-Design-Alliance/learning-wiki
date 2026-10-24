@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: uchicago-consortium-on-school-research-2024
     resource: "https://consortium.uchicago.edu/events-and-resources"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a sample of 93,617 Chicago students in grades 3-8 (SY2010-11), On-Track students (GPA 3.0+, attendance 90%+) had higher four-year graduation rates and were more likely to graduate with a 3.0+ GPA than Intensive, Academic, or Attendance Support peers. [→ UChicago Consortium on School Research 2024](#uchicago-consortium-on-school-research-2024)

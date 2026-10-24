@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: schillinger-2021
     resource: "https://doi.org/10.1007/s10648-021-09601-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adding a quadratic term for arousal did not significantly improve model fit for any performance measure or for the mathematics grade, contradicting a Yerkes-Dodson-style prediction. [→ Schillinger 2021](#schillinger-2021)

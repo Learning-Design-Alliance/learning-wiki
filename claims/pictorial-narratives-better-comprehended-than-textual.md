@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: markus-huff-2025
     resource: "https://aspredicted.org/WT9_TK6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Comprehension was higher for picture than text codality in the main experiment (OR 0.57 for text vs picture). [→ Markus Huff 2025](#markus-huff-2025)

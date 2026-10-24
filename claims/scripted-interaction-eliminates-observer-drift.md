@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jana-gonnermann-müller-2026
     resource: "https://doi.org/10.48550/arxiv.2605.06307"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Scripted education conversations showed no detectable observer-rated decline, contrasting with the unscripted decline, with a 97% descriptive reduction in drift for high-intensity personas. [→ Jana Gonnermann-Müller 2026](#jana-gonnermann-muller-2026)

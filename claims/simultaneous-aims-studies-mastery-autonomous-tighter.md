@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: janke-2024
     resource: "https://doi.org/10.1007/s10648-024-09968-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across five simultaneous-investigation studies (1832 participants), mastery aims correlated r = 0.57 with autonomous reasons versus r = 0.18 with controlled reasons; performance-aim associations were more equidistant (r = 0.43 autonomous; r = 0.34 controlled). [→ Janke 2024](#janke-2024)

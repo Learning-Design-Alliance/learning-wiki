@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: johanna-lacoe-2019
     resource: "https://www.mathematica.org/publications/disproportionality-in-school-discipline-an-assessment-in-maryland-through-2018-study-snapshot"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Out-of-school suspension and expulsion rates declined for all subgroups of Maryland students over the decade studied. [→ Johanna Lacoe 2019](#johanna-lacoe-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: jones-christopher-r-2012
     resource: "https://doi.org/10.1177/1948550611430166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants with greater speech anxiety gave shorter speeches (r = -.34, p < .01). [→ Jones Christopher R. 2012](#jones-christopher-r-2012)

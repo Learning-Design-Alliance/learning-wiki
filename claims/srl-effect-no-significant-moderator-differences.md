@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: guntur-2024
     resource: "https://doi.org/10.24059/olj.v28i3.4025"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Categorical moderator analysis found no statistically significant variation in effect size across course type, SRL strategy, school level, or learning context (Qb < χ2; p > .05). [→ Guntur 2024](#guntur-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: nwogo-2026
     resource: "https://doi.org/10.48550/arxiv.2608.15738"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bilingual English–Pidgin speakers consistently rated outputs from the fine-tuned models as understandable and context-aware. The authors read this as improved linguistic alignment relative to non-adapted baselines, but the evaluation compared only three quantisation levels of the fine-tuned model with a GPT-4o reference (which rated highest), with no non-fine-tuned version of the model, so it cannot show that fine-tuning caused the improvement. [→ Nwogo 2026](#nwogo-2026)

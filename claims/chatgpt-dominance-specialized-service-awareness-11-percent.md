@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: marienko-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100605"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among educators who responded to the open-ended service recommendation question, ChatGPT dominated at 44% while only 11% named specialized AI services. [→ Marienko 2026](#marienko-2026)

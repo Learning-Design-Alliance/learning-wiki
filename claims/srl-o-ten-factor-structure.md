@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: broadbent-2023
     resource: "https://doi.org/10.1007/s11409-022-09319-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Exploratory factor analysis in a sample of 313 students yielded ten distinct factors accounting for 59% of shared variance among items. [→ Broadbent 2023](#broadbent-2023)

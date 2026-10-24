@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: mohammad-hadra-2026
     resource: "https://doi.org/10.1007/s40979-026-00213-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Originality achieved higher macro-average accuracy (0.69 vs 0.61) and macro-average recall (0.60 vs 0.51) than Turnitin, though both produced macro-average F1-scores below 0.55. [→ Mohammad Hadra 2026](#mohammad-hadra-2026)

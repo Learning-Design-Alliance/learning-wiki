@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kristina-schaaff-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08748"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percentage of female students using Syntea (59.05%) was slightly higher than the percentage of male students (54.94%); only 34.86% of diverse students used it, but that subgroup is very small. [→ Kristina Schaaff 2026](#kristina-schaaff-2026)

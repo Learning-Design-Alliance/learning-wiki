@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lin-2026
     resource: "https://doi.org/10.48550/arxiv.2608.08852"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learner adaptation and content coverage fill eight of the crowd's ten preference reasons and six of the judge's ten recorded criteria, yet the top systems' judge scores are nearly identical. [→ Lin 2026](#lin-2026)

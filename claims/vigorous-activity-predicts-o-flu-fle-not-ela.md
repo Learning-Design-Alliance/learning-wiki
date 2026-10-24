@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: romance-2023
     resource: "https://doi.org/10.1016/j.tsc.2023.101295"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vigorous physical activity significantly accounted for 6.1% of variance of originality (F (1, 136) = 8.888, p = 0.003) and 6.4% of variance of flexibility (F (1, 136) = 9.254, p = 0.003). [→ Romance 2023](#romance-2023)

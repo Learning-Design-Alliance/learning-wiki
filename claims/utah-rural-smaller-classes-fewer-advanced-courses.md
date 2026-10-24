@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rice-2018
     resource: "https://ies.ed.gov/ncee/edlabs/regions/west"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In elementary and secondary schools, rural districts had smaller average class sizes compared to non-rural districts. [→ Rice 2018](#rice-2018)

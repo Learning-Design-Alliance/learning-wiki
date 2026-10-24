@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1992
+source_checked: 2026-10-20
 sources:
   - id: carrier-1992
     resource: "https://doi.org/10.3758/bf03202713"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1992 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The presentation condition x testing day interaction was not reliable (F < 1) in Experiments 1 and 2, so the data give no evidence that the TTST advantage differed across the 5-min and 24-h tests; equivalence was not tested. [→ Carrier 1992](#carrier-1992)

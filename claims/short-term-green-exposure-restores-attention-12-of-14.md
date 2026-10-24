@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: lucia-mason-2022
     resource: "https://doi.org/10.1007/s10648-021-09631-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across educational levels, cognitive benefits emerged in 12 out of 14 studies of short-term exposure to nature lasting 10 to 90 minutes during a study day. [→ Lucia Mason 2022](#lucia-mason-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: gennie-mansi-2026
     resource: "https://doi.org/10.48550/arxiv.2606.30590"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers observed the tool matched their content focuses, including specific definitions of criteria and constraints, soft skills, and student interests. [→ Gennie Mansi 2026](#gennie-mansi-2026)

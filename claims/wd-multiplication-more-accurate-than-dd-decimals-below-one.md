@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lortie-forgues-2017
     title: Lortie-Forgues 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` On multiplication problems with decimals below one, judgments were more accurate on whole-number-decimal (WD) problems (M = 47%) than decimal-decimal (DD) problems (M = 31%), d = 0.41; division showed no WD advantage. [→ Lortie-Forgues 2017](#lortie-forgues-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: jinhee-kim-2026
     resource: "https://doi.org/10.1007/s11423-026-10655-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adult learners perceived AI-powered collaborative workspaces that synthesize contributions and nudge quieter participants as supporting equitable group engagement during collaborative problem-solving. [→ Jinhee Kim 2026](#jinhee-kim-2026)

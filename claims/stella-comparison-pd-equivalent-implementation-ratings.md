@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: implementation-study
     title: implementation-study
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The external evaluator gave similar ratings to the professional development provided to the intervention and comparison groups, while observers rated the STeLLA® group as spending more time on pedagogical issues and lesson analysis and less time on science content. [→ implementation-study](#implementation-study)

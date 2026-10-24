@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: strong
+newest_evidence: 1985
+recheck_by: 1990
 sources:
   - id: rotton-kelly-1985
     resource: "https://doi.org/10.1037/0033-2909.97.2.286"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=aggregated across ~40 studies
+> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1990**: baselines and conditions change
 
 People can perceive a relationship between two variables that does not actually exist — an illusory correlation — and go on believing it even when the underlying rate of the supposedly-related behavior is constant.
 

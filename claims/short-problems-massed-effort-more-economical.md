@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1921
 sources:
   - id: pechstein-1921
     resource: "https://doi.org/10.1037/h0070137"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Provided the maze problem is short, massed effort is more economical than distributed effort whether economy is measured in trials, time or errors. [→ Pechstein 1921](#pechstein-1921)
@@ -49,3 +51,4 @@ Table I reports mean trials, time and errors for two groups of rats (nine per gr
 - [Short maze units learned under massed conditions connect into a serial whole with great economy, whereas units learned under distributed conditions connect only with extreme difficulty](massed-unit-learning-eases-connection.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](rats-whole-method-time-errors-advantage.md) — related

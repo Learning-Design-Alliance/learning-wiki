@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: elaine-allensworth-and-takako-nomi-2014
     resource: "https://consortium.uchicago.edu/publications/skill-based-sorting-era-college-prep-all-costs-and-benefits"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sorting by skill level places low-skilled students at higher risk of disruptive classrooms, so students with low entering skills may experience a weaker instructional environment. [→ Elaine Allensworth and Takako Nomi 2014](#elaine-allensworth-and-takako-nomi-2014)

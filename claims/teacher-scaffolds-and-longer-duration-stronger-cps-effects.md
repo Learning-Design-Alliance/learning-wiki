@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: xu-2023
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Among learning scaffolds, the teacher-supported scaffold had the largest effect (ES = 0.92, P < 0.01), compared with resource-supported (ES = 0.69) and technique-supported (ES = 0.63). [→ Xu 2023](#xu-2023)

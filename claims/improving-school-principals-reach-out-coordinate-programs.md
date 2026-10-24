@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
 sources:
   - id: luppescu-2003
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-torvalds"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior Consortium studies documented that principals in improving schools engage local actors in school improvement and show strong strategic orientation toward program coordination and quality implementation. [→ Luppescu 2003](#luppescu-2003)

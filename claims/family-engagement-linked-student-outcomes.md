@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-16
 sources:
   - id: uchicago-consortium-on-school-research-2025
     resource: "https://consortium.uchicago.edu/events-and-resources"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Family engagement is closely linked to improved achievement, enhanced social skills, fewer behavior issues, better relationships, and positive school environments. [→ UChicago Consortium on School Research 2025](#uchicago-consortium-on-school-research-2025)

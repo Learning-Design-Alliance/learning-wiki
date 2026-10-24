@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: ginns-2005
     resource: "https://doi.org/10.1016/j.learninstruc.2005.07.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Effect sizes differed reliably between fields: science (d = 1.20) exceeded social science (d = -0.13), and maths/logic, engineering and English comprehension also differed from social science. [→ Ginns 2005](#ginns-2005)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1922
 sources:
   - id: cobb-1922
     resource: "https://eric.ed.gov/?q=The+Limits+Set+to+Educational+Achievement+by+Limited+Intelligence"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among Army recruits, 4 in 100 of those scoring below 35 on Alpha reported having entered high school, versus 92 in 100 of those scoring 155 or better, 23 times as many; the comparable contrast for college entrance is a quarter of 1 per cent versus 53 per cent. [→ Cobb 1922](#cobb-1922)

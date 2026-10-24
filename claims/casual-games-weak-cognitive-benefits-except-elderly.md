@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The synthesis finds weak to no support for cognitive benefits of casual games relative to other interventions, with benefits existing for elderly adults and those with cognitive impairments. [→ Kurt Squire 2023](#kurt-squire-2023)

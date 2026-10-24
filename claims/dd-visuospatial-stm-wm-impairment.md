@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: szucs-denes-2013
     resource: "https://doi.org/10.1016/j.cortex.2013.06.007"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` DD children performed worse than controls on visuo-spatial STM (Dot Matrix) and visuo-spatial WM (OOO Recall, OOO Processing) measures. [→ Szucs Denes 2013](#szucs-denes-2013)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-15
 sources:
   - id: alfieri-2011
     resource: "https://doi.org/10.1037/a0021017"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2011 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the unassisted meta-analysis, acquisition scores (d = -0.95) yielded larger explicit-instruction advantages than post-tests or time to solution; in the enhanced meta-analysis, reaction-time measures (d = -0.72) favored comparison conditions, opposite to post-tests (d = 0.28). [→ Alfieri 2011](#alfieri-2011)

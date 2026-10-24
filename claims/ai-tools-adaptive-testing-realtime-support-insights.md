@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zhan-2026
     resource: "https://doi.org/10.53761/wakxak53"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-enhanced tools facilitate adaptive testing, real-time learner support, and data-driven insights that foster deeper engagement and learning outcomes. [→ Zhan 2026](#zhan-2026)

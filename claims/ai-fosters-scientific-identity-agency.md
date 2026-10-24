@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: li-2025
     resource: "https://doi.org/10.4236/ce.2025.1611114"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers perceive that AI tools help students develop ownership, agency, and a scientific identity as active investigators rather than passive learners. [→ Li 2025](#li-2025)

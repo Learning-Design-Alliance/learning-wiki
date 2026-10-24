@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: julia-schiefer-2022
     resource: "https://doi.org/10.1007/s10648-022-09661-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across academic and nonacademic tracks, younger samples contained more students with absolutistic, evidence-based, or multiplistic profiles, and academic track schools and higher grades contained more students with sophisticated profiles. [→ Julia Schiefer 2022](#julia-schiefer-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: lemke-2025
     resource: "https://eric.ed.gov/?id=ED677637"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 67% of students who met benchmarks at BOY of grade 1 met or exceeded MCAS expectations, versus 50% of those who met benchmark by EOY of grade 1 and only 15% of students who never met benchmark in grades 1 or 2. [→ Lemke 2025](#lemke-2025)

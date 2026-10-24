@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: robinson-2021
     resource: "https://doi.org/10.54300/407.455"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The report cites a study finding the United States loses $156 billion in tax revenues and income over the life span of the yearly cohort of students who fail to graduate from high school, alongside other cost estimates. [→ Robinson 2021](#robinson-2021)

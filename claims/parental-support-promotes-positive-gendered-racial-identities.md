@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: burnett-marketa-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.933476"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among adolescent Black girls, awareness of educational difficulties co-occurred with parental support promoting positive gendered racial identities in middle school and high school. [→ Burnett Marketa 2022](#burnett-marketa-2022)

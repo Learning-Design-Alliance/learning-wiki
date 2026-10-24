@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: huatong-sun-2006
     resource: "https://doi.org/10.1207/s15427625tcq1504_3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The localization success of text messaging occurs only at the user's site, and fieldwork already showed some participants reducing use when promotions ended or other technologies became available. [→ Huatong Sun 2006](#huatong-sun-2006)

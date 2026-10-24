@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: ramsook-k-ashana-2020
     resource: "https://doi.org/10.1111/sode.12425"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Initial levels of vocabulary (β = .27, p < .01) and social communication skills (β = .31, p < .001) each predicted better kindergarten reading, and rate of growth in social communication skills (β = .33, p < .001) but not vocabulary growth (β = .10, p = .18) predicted reading. [→ Ramsook K. Ashana 2020](#ramsook-k-ashana-2020)

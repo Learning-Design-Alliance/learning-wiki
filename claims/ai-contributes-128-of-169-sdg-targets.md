@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ben-kei-daniel-2026
     resource: "https://doi.org/10.1007/s10791-025-09861-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The review reports, citing prior research, that artificial intelligence positively contributes to 128 of the 169 SDG targets, particularly in health, education, environmental monitoring, and urban development. [→ Ben Kei Daniel 2026](#ben-kei-daniel-2026)

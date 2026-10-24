@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: naeimeh-bakshiri-2011
     resource: "https://doi.org/10.26634/jelt.1.2.1457"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Upper-intermediate learners receiving proactive FOF outperformed those receiving reactive FOF on the grammar achievement posttest (t(44) = 2.612, p = .012). [→ Naeimeh Bakshiri 2011](#naeimeh-bakshiri-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: kevin-booker-2014
     resource: "https://www.mathematica.org/publications/impacts-of-new-leaders-on-student-achievement"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i1` small
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Students with New Leaders-trained principals in OUSD showed greater growth in ELA achievement than other OUSD students, with an effect size of 0.06. [→ Kevin Booker 2014](#kevin-booker-2014)

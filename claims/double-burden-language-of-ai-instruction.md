@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: avijit-roy-2026
     resource: "https://doi.org/10.48550/arxiv.2608.12278"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Exposure to academic content in a foreign language without explicit language support significantly reduced both content and language learning outcomes compared to native-language instruction (Roussel et al., 294 students). [→ Avijit Roy 2026](#avijit-roy-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: wang-2020
     resource: "https://www.nwea.org/research/publication/calibration-of-spanish-map-growth-math-tests/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Student scores based on items with calibration status 10 versus without it differ very little by grade and ethnicity, with correlations of 1.00 between Spanish RIT and Spanish NRIT. [→ Wang 2020](#wang-2020)

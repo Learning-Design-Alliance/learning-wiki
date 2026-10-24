@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: feyisa-mulisa-and-tesfa-mezgebu-2026
     resource: "https://doi.org/10.1007/s40979-026-00231-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost all participants viewed GenAI as creating an uneven playing field between students who do not use GenAI and those who do, with independent workers tending to score lower. [→ Feyisa Mulisa and Tesfa Mezgebu 2026](#feyisa-mulisa-and-tesfa-mezgebu-2026)

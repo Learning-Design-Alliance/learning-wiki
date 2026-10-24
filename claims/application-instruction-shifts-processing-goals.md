@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: knellesen-2024
     resource: "https://doi.org/10.1007/s11409-023-09371-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Experiment 2, application processing goal ratings differed significantly between instruction groups (η² = 0.16), with the application group rating them as more relevant. [→ Knellesen 2024](#knellesen-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: laczko-kerr-2002
     title: Laczko-Kerr 2002
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students of certified teachers out-performed students of under-certified teachers on the reading, mathematics, and language arts subtests of the SAT-9, by about 2 months on a grade equivalent scale. [→ matched-pairs-1](#laczko-kerr-2002)

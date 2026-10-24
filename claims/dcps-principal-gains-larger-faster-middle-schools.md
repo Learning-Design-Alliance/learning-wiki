@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: elias-walsh-2014
     resource: "https://www.mathematica.org/publications/in-focus-brief-the-impact-of-replacing-principals-on-student-achievement-in-dc-public-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Achievement gains in both math and reading were larger and happened faster in middle schools than in elementary schools, with middle school students gaining 9 percentile points in math and 8 in reading. [→ Elias Walsh 2014](#elias-walsh-2014)

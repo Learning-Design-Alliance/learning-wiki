@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: hurtado-nereyda-2008
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2898277/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In mediation models, the total effect of maternal talk on vocabulary (.24, 14% of variance) was reduced to non-significance after controlling for processing speed, and the total effect on processing speed (−.33) was no longer significant after controlling for vocabulary. [→ Hurtado Nereyda 2008](#hurtado-nereyda-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: janke-2024
     resource: "https://doi.org/10.1007/s10648-024-09968-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a single unanchored study, performance goals correlated almost equally with autonomous reasons (r = 0.30) and controlled reasons (r = 0.39), unlike mastery aims in the same dataset (r = 0.62 with autonomous reasons). [→ Janke 2024](#janke-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: harris-2023
     resource: "https://eric.ed.gov/?id=ED638494"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i0` Intervention students slightly outperformed comparison students on the standardized Iowa science assessment, but the difference was not statistically significant (g = 0.09, p > .60). [→ Harris 2023](#harris-2023)

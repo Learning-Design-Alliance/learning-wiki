@@ -8,6 +8,7 @@ generated:
 id: generation-effect-improves-retention
 aliases: [generation-effect-generated-better-than-read]
 evidence_strength: unestablished
+newest_evidence: 2016
 sources:
   - id: slamecka-graf-1978
     resource: "https://doi.org/10.1037/0278-7393.4.6.592"
@@ -40,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q1`–`q4` · `i2` medium · n=445 generation effects, 17,711 subjects
+> **Currency** · newest study 2016 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Information that learners actively generate (completing a word, producing an answer, deriving a rule) is remembered better than information they passively read, even when generation takes longer or produces errors.
 

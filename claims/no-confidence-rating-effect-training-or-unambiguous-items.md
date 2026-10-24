@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kit-s-double-2025
     resource: "https://doi.org/10.1007/s11409-025-09413-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Training accuracy showed no significant main effect of condition and no condition × block interaction. [→ Kit S. Double 2025](#kit-s-double-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: catherine-p-bradshaw-2012
     resource: "https://doi.org/10.1542/peds.2012-0243"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11) -->
 <!-- title before 2026-10-14: SWPBIS improves emotion regulation among elementary school children -->
 

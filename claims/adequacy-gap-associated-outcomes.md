@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: levin-2022
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Colleges in the largest adequacy-gap quintile earned 2.24 milestones per FTE versus 2.46 in the smallest-gap quintile, a difference of about one standard deviation. [→ Levin 2022](#levin-2022)

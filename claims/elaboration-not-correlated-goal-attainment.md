@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: kizilcec-2017
     resource: "https://doi.org/10.1016/j.compedu.2016.10.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Elaboration showed no correlation with any of the three personal course goals (certification, completing assessments, completing lectures). [→ Kizilcec 2017](#kizilcec-2017)

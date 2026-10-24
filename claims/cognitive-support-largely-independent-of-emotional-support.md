@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: zeytinoglu-2019
     resource: "https://doi.org/10.1177/0165025418757706"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across all time points, cognitive support correlated modestly with emotional responsiveness (r = .20–.39) but not with intrusiveness or negativity, indicating the two support dimensions are largely distinct in structured problem-solving contexts. [→ Zeytinoglu 2019](#zeytinoglu-2019)

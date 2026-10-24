@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: kamil-2008
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All of the strong experimental studies supporting comprehension strategy instruction taught more than one strategy to the same students, and the panel concludes multiple-strategy training results in better comprehension than single-strategy training. [→ Kamil 2008](#kamil-2008)

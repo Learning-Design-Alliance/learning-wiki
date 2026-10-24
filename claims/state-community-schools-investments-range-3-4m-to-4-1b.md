@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: maier-2023
     resource: "https://doi.org/10.54300/612.402"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the eight featured states, investments range from $3.4 million to $4.1 billion, mostly within the past 3 years, with most states primarily or exclusively using state funding and some using federal ESSER funds or blending the two. [→ Maier 2023](#maier-2023)

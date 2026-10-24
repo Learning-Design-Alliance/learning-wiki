@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: jiang-2016
     resource: "https://eric.ed.gov/?id=ED562786"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` On both value-added and observation scores, teachers with the lowest scores are overrepresented in schools with the highest concentration of low-income students. [→ Jiang 2016](#jiang-2016)

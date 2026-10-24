@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: powell-v-2020
     resource: "https://doi.org/10.1007/s00787-019-01463-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Peer problems remained a mediator when the victimisation item was removed, accounting for 12.50% of the association. [→ Powell V 2020](#powell-v-2020)

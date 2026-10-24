@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: kim-young-suk-grace-2017
     resource: "https://doi.org/10.1037/edu0000129"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Inference was independently related to writing quality whereas theory of mind was not, after accounting for spelling, handwriting fluency, and working memory; this model explained 59% of variance in writing. [→ Kim Young-Suk Grace 2017](#kim-young-suk-grace-2017)
@@ -51,3 +53,4 @@ SEM model (Figure 2) fitted to data from 193 Grade 1 children with excellent fit
 - [Higher order cognitive skills (inference, perspective taking, monitoring) are differentially related to writing quality, writing productivity, and correctness in writing in Grade 2](higher-order-cognitions-differential-writing-dimensions-grade2.md) — related
 - [Total effects on writing quality are largest for discourse-level oral language (.46), working memory (.43), and spelling (.37)](total-effects-on-writing-quality-ranking.md) — related
 - [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) — related
+- [Transcription, planning, revision, and self-efficacy explain 76% of writing-quality variance in Grades 4-6 and 82% in Grades 7-9](writing-model-explained-variance-76-82.md) — related

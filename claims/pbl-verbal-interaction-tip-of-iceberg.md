@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 1996
+source_checked: 2026-10-20
+recheck_by: 1999
 sources:
   - id: de-grave-1996
     resource: "https://doi.org/10.1007/BF00118111"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 1996 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1999**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The verbal communication among group members during problem analysis reveals only a portion of the cognitive and metacognitive processes on which it is based. [→ de Grave 1996](#de-grave-1996)

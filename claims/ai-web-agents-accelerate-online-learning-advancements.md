@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: wang-2025
     resource: "https://doi.org/10.1007/978-3-031-98417-4_21"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors state that AI web agents have the potential to accelerate meaningful advancements in online learning by giving fast, low-cost, and helpful insights for new learning experiences. [→ Wang 2025](#wang-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: lexia-core5-reading-evidence-rating-moderate-2022
     resource: "https://www.lexialearning.com/core5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the largest and most recent study (2021-2022), Core5 students in grades 3-5 experienced significantly larger reading achievement gains on the NWEA MAP than students in matched comparison schools, with an effect size of +0.11. [→ Lexia® Core5® Reading — Evidence Rating: Moderate 2022](#lexia-core5-reading-evidence-rating-moderate-2022)

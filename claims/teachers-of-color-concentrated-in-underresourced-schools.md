@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: carver-thomas-2025
     resource: "https://doi.org/10.54300/216.666"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 62% of teachers of color taught in schools serving more than 75% students of color (vs. 20% of White teachers), and 50% taught in schools with more than 75% students from low-income families (vs. 28% of White teachers). [→ Carver-Thomas 2025](#carver-thomas-2025)

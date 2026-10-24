@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-19
+recheck_by: 2014
 sources:
   - id: gonny-schellings-2011
     resource: "https://doi.org/10.1007/s11409-011-9069-5"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When a questionnaire and think-aloud method were aimed at the same learning task and the same learning activities, they correlated r=.51 (one-tailed, marginal significance; p=.05), above the regularly reported range of -.07 to .42. [→ Gonny Schellings 2011](#gonny-schellings-2011)

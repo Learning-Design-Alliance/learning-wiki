@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ogunsakin-ib-2026
     title: Ogunsakin IB 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review found no basis for treating ITSs as uniformly effective; reported benefits varied across multiple design, learner, and contextual factors. [→ Ogunsakin IB 2026](#ogunsakin-ib-2026)

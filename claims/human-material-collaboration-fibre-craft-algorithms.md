@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: michael-j-baker-2024
     resource: "https://doi.org/10.1007/s11412-024-09419-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The editorial reports, citing the Keune article in this issue, that following a posthumanist lens, materials should be recognised as collaborative actors in computational production, and human-material interactions produce algorithmic outcomes that evolve over time. [→ Michael J. Baker 2024](#michael-j-baker-2024)

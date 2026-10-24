@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: howard-ziyu-han-2026
     resource: "https://doi.org/10.48550/arxiv.2608.04166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` On the item asking whether the activity changed design thinking, the Interactive Engagement group scored significantly higher than Self Reflection (g = 1.30), while the Stepwise Guidance contrast was not significant. [→ Howard Ziyu Han 2026](#howard-ziyu-han-2026)

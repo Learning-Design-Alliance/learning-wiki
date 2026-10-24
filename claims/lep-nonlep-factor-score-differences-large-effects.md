@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: foorman-barbara-r-2015
     resource: "https://doi.org/10.1037/edu0000026"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` After correction for multiple testing, t tests on estimated factor scores showed large Hedges' g advantages for non-LEP students on all factors in both grades (e.g., oral language g = 1.28 in fifth grade). [→ Foorman Barbara R. 2015](#foorman-barbara-r-2015)

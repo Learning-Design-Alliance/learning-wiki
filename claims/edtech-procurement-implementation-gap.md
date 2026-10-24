@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: digital-promise-2026
     resource: "https://doi.org/10.51388/20.500.12265/301"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Between 2019 and 2025 the average number of edtech tools accessed per school district grew by more than 350%, but most edtech tools are not used at all or used at low levels of intensity, with only a small share of students engaging at the dosage needed for impact. [→ Digital Promise 2026](#digital-promise-2026)

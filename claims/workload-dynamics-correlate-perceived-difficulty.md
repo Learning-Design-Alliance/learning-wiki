@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: paul-v-sargent-2026
     resource: "https://doi.org/10.18608/jla.2026.8725"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` WTS course time-on-task correlates with perceived course difficulty at r=0.86, and variability measures such as WTS Time-on-Task Range (r=0.81) and LMS Time-on-Task SD (r=0.75) are key indicators of perceived difficulty. [→ Paul V. Sargent 2026](#paul-v-sargent-2026)

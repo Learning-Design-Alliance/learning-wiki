@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1912
 sources:
   - id: walter-r-miles-and-julian-e-butterworth-1912
     resource: "https://www.google.com/search?q=%22A+Tentative+Standardization+of+a+Completion+Test%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The average times of 25 subjects for the eleven sentence units, as percentages of total test time, vary from 12.8% (unit 1) to 3.4% (unit 11). [→ Walter R. Miles and Julian E. Butterworth 1912](#walter-r-miles-and-julian-e-butterworth-1912)

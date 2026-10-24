@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: dekker-2022
     resource: "https://orcid.org/0000-0002-6858-4001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Total intervention costs of €98,400 divided by 255 invited students amount to €385.88 per student; spreading set-up costs lowers this to about €154. [→ Dekker 2022](#dekker-2022)

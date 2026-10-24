@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: inge-molenaar-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2019.05.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret close multiple spikes as indicating students whose regulation challenges were possibly resolved when the adaptive system took over control and monitoring. [→ Inge Molenaar 2021](#inge-molenaar-2021)

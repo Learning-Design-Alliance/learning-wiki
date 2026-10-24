@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: ana-rothes-2017
     resource: "https://doi.org/10.1177/0741713616669588"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` MANCOVA showed a significant multivariate effect of cluster membership on self-efficacy and academic self-concept (η²p = .082) and on engagement and learning variables (η²p = .076); the clusters were naturally occurring, so these are adjusted group differences, not evidence that profile membership causes the outcomes. [→ Ana Rothes 2017](#ana-rothes-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: karim-2025
     resource: "https://doi.org/10.51388/20.500.12265/264"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Youth designers emphasized setting ground rules before starting the game so participants know what to expect and feel safe to be vulnerable, with rules including honesty, confidentiality, non-judgmental listening, and temporarily disconnecting from devices. [→ Karim 2025](#karim-2025)

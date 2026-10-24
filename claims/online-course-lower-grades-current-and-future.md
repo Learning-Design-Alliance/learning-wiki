@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: eric-p-bettinger-2017
     resource: "https://www.mathematica.org/publications/virtual-classrooms-how-online-college-courses-affect-student-success"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For students with access to both online and in-person options, grades are lower for the course taken online relative to in-person, and lower in future courses as well; the estimates may not apply to students for whom online courses are the only option. [→ Eric P. Bettinger 2017](#eric-p-bettinger-2017)

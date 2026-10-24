@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: lovett-2026
     resource: "https://doi.org/10.1177/15344843261470602"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the most AI-exposed occupations, workers ages 22-25 showed a 16% relative employment decline (October 2022 to September 2025) while workers aged 35-49 in those same occupations grew by over 8%, a cohort-specific pattern the article attributes to AI adoption rather than broader economic trends. [→ Lovett 2026](#lovett-2026)

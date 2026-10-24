@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rismanchian-2026
     resource: "https://doi.org/10.48550/arxiv.2605.21629"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Logistic item and quarter fixed-effects models estimate a 2.61% per-quarter decline in log-odds of correct response on AI-susceptible items in proctored conditions, cumulating to a 25.0% odds reduction (odds-ratio multiplier 0.75). [→ Rismanchian 2026](#rismanchian-2026)

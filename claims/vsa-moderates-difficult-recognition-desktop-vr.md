@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: birgit-brucker-2024
     resource: "https://doi.org/10.1007/s10648-024-09895-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Study 1 showed a significant interaction format × visuospatial ability interaction on difficult recognition. [→ Birgit Brucker 2024](#birgit-brucker-2024)

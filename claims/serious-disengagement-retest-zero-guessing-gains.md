@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-15
 sources:
   - id: wise-2019
     resource: "https://www.nwea.org/research/publication/the-relationship-between-test-taking-disengagement-and-performance-on-map-growth-retests/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For students serious rapid-guessing on the initial test, zero rapid guesses on the retest was associated with mean RIT differences around 6 points for the Reading tests and about 12 points for the Math tests. [→ Wise 2019](#wise-2019)

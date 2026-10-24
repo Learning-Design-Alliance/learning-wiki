@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: building-a-national-early-childhood-education-system-that-works-2021
     resource: "https://eric.ed.gov/?id=ED614493"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` CCDBG and Head Start have significantly different minimum quality standards, contributing to uneven quality at the state level, and families with lower incomes tend to access lower-quality programs. [→ Building a National Early Childhood Education System That Works 2021](#building-a-national-early-childhood-education-system-that-works-2021)

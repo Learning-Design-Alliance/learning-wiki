@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: duncan-chaplin-2014
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The three measures are positively, if moderately, correlated, which the authors interpret as suggesting validity and complementarity. [→ Duncan Chaplin 2014](#duncan-chaplin-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ernesto-lee-2026
     resource: "https://doi.org/10.35542/osf.io/u6xef_v2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The within-frontier band widens at cell level: Claude Opus 4.7 under dimension-preserving constrained generation reaches J = 0.704 (with Flesch sigma = 20.8, more than triple Gemini's under the same prompt) while Gemini 3.1 Pro under structured chain-of-thought reaches J = 0.900. [→ Ernesto Lee 2026](#ernesto-lee-2026)

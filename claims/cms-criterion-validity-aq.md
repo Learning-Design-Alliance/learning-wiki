@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: dos-santos-kawata-kh-2021
     title: dos Santos Kawata KH 2021
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The CMS metacognition score was significantly associated with the AQ-J-50 social skills subscale (r = 0.22, p < 0.01) and total score (r = 0.20, p < 0.05). [→ dos Santos Kawata KH 2021](#dos-santos-kawata-kh-2021)

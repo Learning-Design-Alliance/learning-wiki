@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: johnson-2024
     resource: "https://consortium.uchicago.edu/publications/mitigating-the-academic-impacts-of-proximity-to-homicide"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students living within 0.2 miles of a homicide had on average lower attendance, lower standardized test scores, reduced GPA, and greater likelihood of behavioral infractions, suspension, or expulsion afterward compared to before the homicide. [→ Johnson 2024](#johnson-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tang-j-2026
     title: Tang J 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both modes produced significant within-group score gains in each task, but the teacher-feedback gain fell from 4.06 to 2.73 points while the AI-assisted peer feedback gain stayed stable at 3.87 then 3.89 points. [→ Tang J 2026](#tang-j-2026)

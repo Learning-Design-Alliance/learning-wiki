@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: lopera-oquendo-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101992"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For weak essays, more participants' analytic grades fell within expert-acceptable ranges than holistic grades (54.1% vs. 46.7%); for strong essays the pattern reversed slightly (44.6% holistic vs. 39.8% analytic). [→ Lopera-Oquendo 2024](#lopera-oquendo-2024)

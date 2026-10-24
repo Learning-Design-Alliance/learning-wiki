@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: phonological-awareness-training-2012
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized block design with 22 children ages 4 to 6 with developmental delays, phonological awareness training with a blending focus yielded three statistically significant positive differences over the comparison group on blending-knowledge outcomes. [→ Phonological Awareness Training 2012](#phonological-awareness-training-2012)

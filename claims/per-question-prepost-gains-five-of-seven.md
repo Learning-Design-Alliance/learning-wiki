@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hosseini-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05472"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost all questions showed significant improvement (p < 0.05) with mean gains ranging 0.46–0.77; the exceptions were Q1 (DBMS use) and Q4 (basic normalization) due to high pre-assessment scores. [→ Hosseini 2026](#hosseini-2026)

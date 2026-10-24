@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: dimitris-tsirmpas-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28643"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the facilitator detection task, models score unreliably across diverse datasets, indicating a structural issue with the datasets rather than confusion with the moderator role. [→ Dimitris Tsirmpas 2026](#dimitris-tsirmpas-2026)

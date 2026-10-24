@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: bradley-irwin-and-theron-muller-2026
     resource: "https://doi.org/10.3390/educsci16040544"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Repeated exposure to exemplar-based calibration is expected to reduce systematic gaps between student ratings and expert ratings, with trained students' rubric scores showing stronger agreement with teacher or expert judgments than untrained peers, especially on analytic criteria such as organization and delivery. [→ Bradley Irwin and Theron Muller 2026](#bradley-irwin-and-theron-muller-2026)

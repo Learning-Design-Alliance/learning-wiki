@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-15
 sources:
   - id: viki-m-young-2024
     resource: "https://doi.org/10.51388/20.500.12265/213"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across all four pilots, participants reported that hearing and working directly with students fundamentally altered their orientation toward youth and shaped their subsequent practice. [→ Viki M. Young 2024](#viki-m-young-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hasan-ozgur-kapici-2025
     resource: "https://doi.org/10.1007/s11251-025-09711-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The experimental group improved inquiry skills significantly (t(147) = 6.939, p =.000) while the control group did not (t(157) = 0.276, p =.783), and the posttest difference favored the experimental group, d = 0.707. [→ Hasan Ozgur Kapici 2025](#hasan-ozgur-kapici-2025)

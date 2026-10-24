@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
 sources:
   - id: melissa-roderick-2003
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-results-summer-bridge"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Summer Bridge students had slightly larger learning gains over two years than comparable students who did not attend, but effects were small and did not substantially alter school-year learning rates. [→ Melissa Roderick 2003](#melissa-roderick-2003)

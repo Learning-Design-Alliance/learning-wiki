@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: charter-school-performance-in-new-mexico-2019
     resource: "https://credo.stanford.edu/reports/item/charter-school-performance-in-new-mexico-2/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Urban charter students post stronger reading growth worth 30 extra days of learning; urban math and all other locales' reading and math are on par with TPS VCRs. [→ Charter School Performance in New Mexico 2019](#charter-school-performance-in-new-mexico-2019)

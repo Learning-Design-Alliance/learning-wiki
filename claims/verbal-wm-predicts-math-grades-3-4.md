@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: pellizzoni-2021
     resource: "https://doi.org/10.1111/nyas.14722"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Listening span (verbal WM) was significantly positively associated with math performance at the start of grade 3 (β = 0.15, P = 0.05) and grade 4 (β = 0.21, P < 0.01). [→ Pellizzoni 2021](#pellizzoni-2021)

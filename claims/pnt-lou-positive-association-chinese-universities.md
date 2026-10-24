@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yang-z-2026
     title: Yang Z 2026
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 associational `r2`–`r3` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In the theory-constrained six-path model, PNT was positively associated with self-reported LOU (β = 0.568, p < 0.001), and the model explained 32.2% of variance in LOU. [→ Yang Z 2026](#yang-z-2026)

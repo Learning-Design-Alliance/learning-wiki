@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: pretesting-can-harm-motivation
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: janelli-lipnevich-2021
     resource: "https://doi.org/10.1016/j.compedu.2020.104076"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=399
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Pretesting Can Harm Motivation -->
 
 Pretesting — attempting to answer questions about not-yet-learned material before instruction — reduced persistence in one randomized MOOC experiment. The study measured persistence and post-test learning, not motivation itself; that pre-test failure discourages learners is the proposed explanation (see Discussion), not a recorded finding.

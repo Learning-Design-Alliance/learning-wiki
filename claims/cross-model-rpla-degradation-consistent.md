@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: saqib-shouqi-2026
     resource: "https://doi.org/10.48550/arxiv.2608.03166"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Under identical multi-strategy adversarial conditions on the Healthcare Assistant persona, Claude-3.5-Haiku scored highest overall (0.712±0.041), GPT-4o-mini intermediate (0.681±0.035), and Llama-3.3-70B lowest (0.634±0.038), with paired t-tests significant between Llama-3.3 and Claude-3.5-Haiku (p<0.01). [→ Saqib Shouqi 2026](#saqib-shouqi-2026)

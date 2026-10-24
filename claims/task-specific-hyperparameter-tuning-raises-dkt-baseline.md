@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: jaewook-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2605.04727"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On Assignment 439, DKT's AUC improves from 0.6821 to 0.7480 (approximately +0.07) solely through task-specific tuning. [→ Jaewook Kim 2026](#jaewook-kim-2026)

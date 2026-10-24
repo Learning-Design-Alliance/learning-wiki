@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: credo-at-stanford-university-2023
     resource: "https://credo.stanford.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the three CREDO national charter school studies, annual charter student learning in reading has risen by 22 days and math learning by 23 days. [→ CREDO at Stanford University 2023](#credo-at-stanford-university-2023)

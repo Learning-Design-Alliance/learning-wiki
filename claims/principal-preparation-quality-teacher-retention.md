@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: campoli-2022
     resource: "https://doi.org/10.54300/438.376"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teachers in schools led by principals with higher-quality preservice preparation are more likely to remain at their school the following year (overall preparation quality odds ratio 1.130, p<0.05). [→ Campoli 2022](#campoli-2022)

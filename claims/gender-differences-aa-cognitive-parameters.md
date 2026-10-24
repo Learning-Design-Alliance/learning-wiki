@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: cancela-j-2019
     resource: "https://www.jstage.jst.go.jp/article/jpts/31/7/31_17-478/_article"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Gender significantly influenced academic achievement (p=0.002), working memory (p=0.003; p=0.013), processing speed (p=0.001) and cognitive flexibility (p=0.042), with no significant differences in social skills (p=0.960) or inhibition/interference (p=0.925). [→ Cancela J 2019](#cancela-j-2019)

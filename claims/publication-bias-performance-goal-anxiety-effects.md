@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: diaconu-gherasim-2024
     resource: "https://doi.org/10.1007/s10648-024-09943-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Egger's tests indicate significant publication bias for the performance-approach (t(33) = 3.44, p = 0.002) and performance-avoidance (t(22) = 2.11, p = 0.04) anxiety effects, suggesting overestimation. [→ Diaconu-Gherasim 2024](#diaconu-gherasim-2024)

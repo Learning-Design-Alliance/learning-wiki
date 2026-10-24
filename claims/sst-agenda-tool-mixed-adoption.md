@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cocuzza-2026
     resource: "https://doi.org/10.51388/20.500.12265/303"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` School staff usage of the AI-enabled SST meeting agenda tool across grade levels was mixed, with overall usage analytics falling short of expectations, though participants in co-facilitated meetings showed enthusiasm. [→ Cocuzza 2026](#cocuzza-2026)

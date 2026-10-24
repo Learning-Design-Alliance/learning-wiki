@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yu-s-2026
     title: Yu S 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` TBI participants rated critical-thinking emphasis higher (M = 5.82) than SBI participants (M = 3.45), and SBI participants rated technique emphasis higher (M = 5.95 vs 3.61). [→ Yu S 2026](#yu-s-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-19
 sources:
   - id: coppens-2019
     resource: "https://doi.org/10.1007/s11251-019-09484-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2019 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Students in the EPEP condition reported greater perceived competence after learning (η²p = .06) than PEPE students, with no sequence differences in autonomy or enjoyment. [→ Coppens 2019](#coppens-2019)

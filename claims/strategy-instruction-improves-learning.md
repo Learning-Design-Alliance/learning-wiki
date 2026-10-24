@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: unrated
+newest_evidence: 2016
 sources:
   - id: dignath-büttner-2008
     resource: "https://doi.org/10.1007/s11409-008-9029-x"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i1`–`i2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 Explicitly teaching learners cognitive and metacognitive strategies — how to plan, monitor, and evaluate their own thinking — improves learning outcomes across domains. The claim covers both domain strategies (e.g., reading comprehension strategies, problem-solving heuristics) and self-regulation strategies (goal-setting, self-monitoring, self-evaluation).
 

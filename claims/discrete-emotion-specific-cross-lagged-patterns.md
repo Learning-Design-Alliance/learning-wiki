@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: goetz-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101349"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Better initial relationships predicted more enjoyment (math, German, French), more pride (German, French), and less anger and shame (French) one year later; no such associations for anxiety and boredom. [→ Goetz 2021](#goetz-2021)

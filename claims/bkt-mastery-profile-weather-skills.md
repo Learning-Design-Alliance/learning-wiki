@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: ying-cui-2019
     resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/397"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Final BKT mastery estimates were high for wind direction (mean 0.821) and air movement (0.751) but near zero for wind speed (0.003) and precipitation type (0.012). [→ Ying Cui 2019](#ying-cui-2019)

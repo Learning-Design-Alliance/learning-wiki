@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: maier-2017
     resource: "https://learningpolicyinstitute.org/product/community-schools-effective-school-improvement-report"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Collaborative leadership, practice, and relationships can create conditions necessary to improve student learning and well-being and relationships within and beyond school. [→ Maier 2017](#maier-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nguyen-2026
     resource: "https://doi.org/10.1007/s10648-026-10218-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Across 65 studies, teachers' SEC and students' SEC are moderately correlated overall, though the magnitude varies considerably across studies. [→ Nguyen 2026](#nguyen-2026)

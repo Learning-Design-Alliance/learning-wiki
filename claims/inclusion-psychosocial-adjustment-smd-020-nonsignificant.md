@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: dalgaard-2022
     resource: "https://doi.org/10.1002/cl2.1291"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Across pooled non-randomised studies, the random effects weighted standardised mean difference favouring inclusion for overall psychosocial adjustment was 0.20 and not statistically significant. [→ Dalgaard 2022](#dalgaard-2022)

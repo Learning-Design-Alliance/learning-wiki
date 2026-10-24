@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: epstein-2008
     resource: "https://doi.org/10.1037/e602222011-001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In a national teacher survey, only 36 percent of students had teachers who reported receiving at least 8 hours of professional development related to behavior management over three years, whereas 81 percent had teachers who received that level related to reading and language arts instruction. [→ Epstein 2008](#epstein-2008)

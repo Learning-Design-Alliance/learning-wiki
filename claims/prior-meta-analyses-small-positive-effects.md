@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: verhoeven-2022
     resource: "https://doi.org/10.1016/j.edurev.2022.100486"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q2` · `i0`–`i1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Blok et al. (2002) reported an overall positive effect size of 0.19 for computer-assisted reading instruction across 42 experimental programs. [→ Verhoeven 2022](#verhoeven-2022)

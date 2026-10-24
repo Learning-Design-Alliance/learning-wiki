@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: matthew-p-steinberg-2011
     resource: "https://consortium.uchicago.edu/publications/student-and-teacher-safety-chicago-public-schools-roles-community-context-and-school"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High rates of student suspensions show no benefit for school safety; schools with high suspension rates are less safe than schools with lower suspension rates even when serving similar students from similar neighborhoods. [→ Matthew P. Steinberg 2011](#matthew-p-steinberg-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: craig-2020
     resource: "https://doi.org/10.1007/s11409-020-09222-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The number of subcomponents recovered from self-report measures varied widely across measures and across repeated assessments of the same measure, so no conclusion can be made about assessing distinct subcomponents. [→ Craig 2020](#craig-2020)

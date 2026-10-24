@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` CS achievement significantly predicts vibe-coding performance (r = .39). [→ intro-coefs](#intro-coefs)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-10
 sources:
   - id: what-works-clearinghouse-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/576"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC rating for the reading comprehension domain is potentially positive effects, based on two studies with 78 students and an average improvement index of +7 percentile points (range +2 to +11). [→ What Works Clearinghouse 2014](#what-works-clearinghouse-2014)

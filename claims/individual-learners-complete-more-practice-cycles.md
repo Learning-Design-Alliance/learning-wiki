@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: imundo-2024
     resource: "https://link.springer.com/journal/11409/articles"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiment 1, Individual learners completed about one more learning cycle than Paired learners (d = 0.68). [→ Imundo 2024](#imundo-2024)

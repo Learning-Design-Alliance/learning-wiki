@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1984
+source_checked: 2026-10-20
 sources:
   - id: thomas-c-toppino-and-william-digeorge-1984
     resource: "https://scholar.google.com/scholar?q=The+spacing+effect+in+free+recall+emerges+with+development+Memory+%26+Cognition+1984"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1984 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` First-graders recalled spaced repetitions better than massed repetitions in free recall. [→ Thomas C. Toppino and William DiGeorge 1984](#thomas-c-toppino-and-william-digeorge-1984)

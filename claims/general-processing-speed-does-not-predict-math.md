@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: cheng-dazhi-2022
     resource: "https://doi.org/10.3390/jintelligence10010001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the hierarchical regressions, choice reaction time and figure matching contributed no significant unique variance to mathematics achievement in either grade. [→ Cheng Dazhi 2022](#cheng-dazhi-2022)

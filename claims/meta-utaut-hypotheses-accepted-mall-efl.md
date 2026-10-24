@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: tuan-thanh-nguyen-2023
     resource: "https://doi.org/10.9743/jeo.2024.21.4.13"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PLS-SEM analysis of 396 survey responses supported all six hypothesized positive paths (SI→ATT, PE→BI, EE→BI, ATT→BI, PBC→BI, BI→UB) at p < 0.05. [→ Tuan Thanh Nguyen 2023](#tuan-thanh-nguyen-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: yijun-ruan-2024
     resource: "https://doi.org/10.1007/s10648-024-09915-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` Fluency training appeared as the most effective intervention method with a large effect of g = 1.78. [→ Yijun Ruan 2024](#yijun-ruan-2024)

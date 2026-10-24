@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: arps-1917
     resource: "https://eric.ed.gov/?q=Arps+attitude+spelling+efficiency"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In immediate recall the orderly procedure was more efficient than the random procedure by 9.4% (33 vs. 40 errors across 104 word groups). [→ Arps 1917](#arps-1917)

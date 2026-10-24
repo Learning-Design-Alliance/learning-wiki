@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: sanderud-k-2016
     resource: "https://doi.org/10.3402/ejpt.v7.32061"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` A one-way ANOVA found significant differences between abuse groups on ADHD scores, F(2, 2,939)=40.07, p<0.001; post hoc tests showed only the non-abused group differed significantly from the three abuse groups. [→ Sanderud K. 2016](#sanderud-k-2016)

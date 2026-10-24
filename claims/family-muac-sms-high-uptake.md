@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: choo-esther-m-2026
     resource: "https://doi.org/10.1371/journal.pone.0358775"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 94% of intervention-arm families responded to at least one text message, and caregivers sent a median of 20 messages over six-month enrollment. [→ Choo Esther M. 2026](#choo-esther-m-2026)

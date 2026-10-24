@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: swanson-2010
     resource: "https://doi.org/10.1002/pits.20484"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Blending or segmenting phonemes occupied only 20% of the 60 minutes of PA instruction, or less than 1% of total reading instructional time. [→ Swanson 2010](#swanson-2010)

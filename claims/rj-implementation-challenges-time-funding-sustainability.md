@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: guckenburg-2015
     resource: "https://eric.ed.gov/?id=ED568378"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experts report the large amount of time and funding needed to implement RJ causes resistance from teachers and principals. [→ Guckenburg 2015](#guckenburg-2015)

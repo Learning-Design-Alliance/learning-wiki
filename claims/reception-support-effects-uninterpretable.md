@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: hornstein-2025
     resource: "https://doi.org/10.1007/s10648-025-10017-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Content-specific and generic support during feedback reception showed no significant effects on the quality of feedback reception or subject-matter-related knowledge, but degrees of freedom below four make these analyses non-interpretable. [→ Hornstein 2025](#hornstein-2025)

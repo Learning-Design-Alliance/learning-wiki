@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: really-great-reading-2023
     resource: "https://www.reallygreatreading.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Grade 2 RGR students scored higher on the winter 2022 NWEA MAP Reading Growth assessment, with an effect size of +0.24. [→ Really Great Reading 2023](#really-great-reading-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: christina-luke-and-viki-m-young-2020
     resource: "https://doi.org/10.51388/20.500.12265/103"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among participating teachers surveyed, collaborative planning time with colleagues was the top support, cited by roughly three-quarters (74 percent) of respondents. [→ Christina Luke and Viki M. Young 2020](#christina-luke-and-viki-m-young-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: daches-cohen-l-and-rubinsten-o-2017
     title: Daches Cohen L and Rubinsten O 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Math fluency scores significantly explained 17.6% of the variance in children's explicitly measured math anxiety (AMAS), such that higher arithmetic skills were associated with lower math anxiety. [→ Daches Cohen L and Rubinsten O 2017](#daches-cohen-l-and-rubinsten-o-2017)

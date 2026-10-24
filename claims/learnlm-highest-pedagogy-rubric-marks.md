@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: learnlm-team-2024
     resource: "https://doi.org/10.48550/arxiv.2412.16429"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` On the five-category pedagogy rubric, experts assigned LearnLM the highest marks across all rubric categories and almost all 29 rubric questions, with particularly large leads on inspiring active learning, deepening metacognition, and stimulating curiosity. [→ LearnLM Team 2024](#learnlm-team-2024)

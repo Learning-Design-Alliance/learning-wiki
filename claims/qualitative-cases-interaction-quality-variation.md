@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: johanna-pöysä-tarhonen-2022
     resource: "https://doi.org/10.1007/s11251-021-09562-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Micro-level analysis of interaction exemplifies a quality gradient across groups, from individual autonomous chains (Group B) to synchronized actions (Group D) to the highest-quality contemplative interaction (Group C). [→ Johanna Pöysä-Tarhonen 2022](#johanna-poysa-tarhonen-2022)

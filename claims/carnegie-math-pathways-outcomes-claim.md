@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: carnegie-impact
     title: carnegie-impact
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in Carnegie Math Pathways earned college-level math credits at three to four times the rate of peers in traditional remedial sequences, in half the usual time, and graduated at double the rate. [→ carnegie-impact](#carnegie-impact)

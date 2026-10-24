@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: psathas-2023
     resource: "https://doi.org/10.1007/s11412-023-09394-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Retention was statistically significantly higher after both the personalized and the general intervention than in control; retention was 87.5% personalized, 80.0% general, 62.5% control. [→ Psathas 2023](#psathas-2023)

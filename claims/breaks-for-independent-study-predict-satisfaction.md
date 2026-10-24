@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-23
 sources:
   - id: liborius-2019
     resource: "https://doi.org/10.1016/j.learninstruc.2017.10.006"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Time spent on independent study during lecture breaks positively predicted daily study satisfaction (b = 0.15) above and beyond lecture and independent study time, with no significant random-slope variance. [→ Liborius 2019](#liborius-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: rosenzweig-2021
     resource: "https://doi.org/10.1037/edu0000456"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Among students who left biomedical fields, URM status predicted reporting disenchantment rather than attraction as the reason (OR = 1.66). [→ Rosenzweig 2021](#rosenzweig-2021)

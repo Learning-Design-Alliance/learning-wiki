@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: ricker-timothy-j-2014
     resource: "https://doi.org/10.1037/a0034301"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Significant forgetting over the retention interval was observed in all experiments regardless of presentation method, and longer consolidation times always produced slower forgetting. [→ Ricker Timothy J. 2014](#ricker-timothy-j-2014)

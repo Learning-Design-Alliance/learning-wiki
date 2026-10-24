@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: dimitri-eckert-and-christian-kautz-2026
     resource: "https://doi.org/10.48550/arxiv.2605.26966"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Existing collections and inventories of novice programming difficulties have mostly sorted difficulties only under broad concepts rather than creating finer-grained classifications. [→ Dimitri Eckert and Christian Kautz 2026](#dimitri-eckert-and-christian-kautz-2026)

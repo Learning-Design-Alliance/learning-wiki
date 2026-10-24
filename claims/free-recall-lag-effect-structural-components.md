@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1979
 sources:
   - id: glenberg-1979
     resource: "https://doi.org/10.3758/bf03197590"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Subjects encouraged to form associations showed a strong lag effect in free recall, while subjects prevented from doing so improved only from Lag 2 to Lag 5 and then showed no improvement out to Lag 17. [→ Glenberg 1979](#glenberg-1979)

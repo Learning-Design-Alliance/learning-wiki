@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: rose-niousha-2026
     resource: "https://doi.org/10.48550/arxiv.2608.10492"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On test_OP, models fine-tuned with INSIDE produce code distributions closest to real student submissions across pass rate, LOC, AST depth/width, and PEP 8 metrics, outperforming both SFT and prompting baselines. [→ Rose Niousha 2026](#rose-niousha-2026)

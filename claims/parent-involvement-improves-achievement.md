@@ -8,6 +8,7 @@ generated:
 id: parent-involvement-improves-achievement
 aliases: [parental-involvement-improves-achievement]
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: hill-tyson-2009
     resource: "https://doi.org/10.1037/a0015362"
@@ -42,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r?` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2015 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 <!-- title before 2026-10-15: Parent Involvement Improves Achievement -->
 

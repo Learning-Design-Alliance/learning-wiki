@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: hardy-2023
     resource: "https://doi.org/10.51388/20.500.12265/111"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In May/June 2023 the authors specified that historical argumentation must be in relation to evidence and evaluated by the student, refocused contextualization on explaining relevance of contextual factors, and added selecting and listing to Level 1 descriptions. [→ Hardy 2023](#hardy-2023)

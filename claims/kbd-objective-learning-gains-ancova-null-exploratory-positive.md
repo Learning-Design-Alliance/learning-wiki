@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: stephan-vonschallen-2026
     resource: "https://doi.org/10.48550/arxiv.2607.22345"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q2`–`q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the ANCOVA with pretest as covariate, the KBD group's mean learning gain (0.75 points) versus the control group's (0 points) was not significant. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)

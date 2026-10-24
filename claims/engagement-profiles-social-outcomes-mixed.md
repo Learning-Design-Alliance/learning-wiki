@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: mcwayne-2016
     resource: "https://doi.org/10.1037/a0040343"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spanish-speaking children in higher engagement profiles scored significantly better on play interaction and total language than children in lower profiles. [→ McWayne 2016](#mcwayne-2016)

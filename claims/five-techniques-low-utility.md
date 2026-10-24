@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: dunlosky-2013
     resource: "https://doi.org/10.1177/1529100612453266"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The monograph rates summarization, highlighting, the keyword mnemonic, imagery use for text learning, and rereading as low utility because their benefits are limited in generality or evidence. [→ Dunlosky 2013](#dunlosky-2013)

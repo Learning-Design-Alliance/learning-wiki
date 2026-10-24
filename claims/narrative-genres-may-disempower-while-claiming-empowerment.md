@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 1995
 sources:
   - id: goodson-1995
     resource: "https://doi.org/10.1080/0951839950080109"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The new narrative genres have strengths but also weaknesses that may prove incapacitating, so sponsoring them in the name of empowerment may effectively disempower the people and causes they seek to work with. [→ Goodson 1995](#goodson-1995)

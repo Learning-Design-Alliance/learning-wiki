@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: floris-m-van-blankenstein-2019
     resource: "https://doi.org/10.1007/s11251-019-09482-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the direct measure, the modeling example condition generated significantly more positive judgments (Mdn 7.00 vs 4.00) and negative judgments (Mdn 2.00 vs 1.00) than the practice condition. [→ Floris M. van Blankenstein 2019](#floris-m-van-blankenstein-2019)

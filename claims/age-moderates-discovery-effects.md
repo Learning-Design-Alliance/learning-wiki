@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-15
 sources:
   - id: alfieri-2011
     resource: "https://doi.org/10.1037/a0021017"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2011 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 <!-- title before 2026-10-15: Age moderates discovery-learning effects: adolescents suffer most from unassisted discovery, adults benefit most from enhanced discovery -->
 

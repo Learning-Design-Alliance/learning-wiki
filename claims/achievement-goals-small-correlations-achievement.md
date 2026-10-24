@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: detlef-urhahne-lisette-wijnia-2023
     resource: "https://doi.org/10.1007/s10648-023-09767-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Mastery approach goals correlate between r = .10 and r = .14 with grades and test performance across meta-analyses. [→ Detlef Urhahne · Lisette Wijnia 2023](#detlef-urhahne-lisette-wijnia-2023)

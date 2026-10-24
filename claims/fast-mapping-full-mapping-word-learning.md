@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: ponniah-2011
     resource: "https://doi.org/10.26634/jelt.1.2.1452"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` School-age children glean partial word knowledge from a single exposure during natural reading; repeated encounters with the same word in different contexts lead to acquisition of the word's complete meaning. [→ Ponniah 2011](#ponniah-2011)

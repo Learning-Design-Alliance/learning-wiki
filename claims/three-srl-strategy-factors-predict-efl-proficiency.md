@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: fukuda-2018
     resource: "https://doi.org/10.25256/PAAL.22.1.4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Metacognitive strategies (r = .307), effort regulation (r = .332), and coping with problems (r = .270) each significantly correlated with and predicted TOEIC proficiency variance, with metacognitive strategies β = .374. [→ Fukuda 2018](#fukuda-2018)

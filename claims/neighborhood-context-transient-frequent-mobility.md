@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: wodtke-2011
     resource: "https://doi.org/10.1177/0003122411420816"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 37.53% of blacks and 16.52% of nonblacks never moved between neighborhood quintiles; 29.86% of blacks and 44.24% of nonblacks moved between contexts at least three times. [→ Wodtke 2011](#wodtke-2011)

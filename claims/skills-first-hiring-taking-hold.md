@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: skills-hiring-1
     title: skills-hiring-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Employers increasingly prioritize skills over degrees, with 45% of businesses finding skills training an effective financial investment for connecting talent to employment and states launching skills-based hiring initiatives. [→ skills-hiring-1](#skills-hiring-1)

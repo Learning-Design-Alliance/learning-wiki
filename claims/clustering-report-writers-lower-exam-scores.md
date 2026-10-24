@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In fall-semester K-means clusters, coding-question groups trended toward higher average exam scores (89±7.3) than report-writers (83.8±11.7), though cluster membership added no statistically significant explanatory power. [→ cluster-exam](#cluster-exam)

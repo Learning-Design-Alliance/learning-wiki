@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: allensworth-2004
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-dropout-rates-chicago-after-implementation-eighth-grade"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eighth-grade retention rose sharply after the gate: 8.3 percent the first year, continuing upward as cutoff scores rose, peaking at 11.1 percent before declining to 9.3 percent. [→ Allensworth 2004](#allensworth-2004)

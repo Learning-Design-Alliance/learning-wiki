@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: yılmaz-mutlu-2019
     resource: "https://doi.org/10.26822/iejee.2019553343"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Group-level results show the HA group has the lowest math anxiety score and the MLD group the highest. [→ Yılmaz Mutlu 2019](#ylmaz-mutlu-2019)

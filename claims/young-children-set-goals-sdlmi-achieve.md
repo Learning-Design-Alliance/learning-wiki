@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2003
+source_checked: 2026-10-15
 sources:
   - id: palmer-2003
     resource: "http://dx.doi.org/10.1177/07419325030240020601"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2003 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Even the youngest students (ages 5-6) were able to set goals and use the Self-Determined Learning Model of Instruction to achieve. [→ Palmer 2003](#palmer-2003)

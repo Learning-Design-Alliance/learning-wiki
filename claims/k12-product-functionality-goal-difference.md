@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: goals-k12-1
     title: goals-k12-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` K-12 participants felt more strongly about the need to improve product functionality, features, and experiences than higher ed participants, yet slightly less strongly about enhancing tools to adapt to individual learning preferences. [→ goals-k12-1](#goals-k12-1)

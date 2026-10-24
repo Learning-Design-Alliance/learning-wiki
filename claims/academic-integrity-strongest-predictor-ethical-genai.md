@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: tabares-cruz-yb-2026
     title: Tabares-Cruz YB 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Academic integrity and transparency exhibited the strongest standardized effect on ethical GenAI use (β = 0.231), with all six paths positive and significant. [→ Tabares-Cruz YB 2026](#tabares-cruz-yb-2026)

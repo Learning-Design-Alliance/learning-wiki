@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cogevol-team-2026
     resource: "https://doi.org/10.48550/arxiv.2608.30968"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Qwen3.8-Max ties CogEvol-27B's 83.7 slide score only with the full 34 KB specification, but collapses to 35.3 on HTML-500 with 204 of 500 pages dead at the probe. [→ CogEvol Team 2026](#cogevol-team-2026)

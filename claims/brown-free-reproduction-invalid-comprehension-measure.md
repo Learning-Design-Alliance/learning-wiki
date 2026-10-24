@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: arthur-i-gates-1921
     resource: "https://doi.org/10.1037/h0064253"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Assuming the criteria's validity, the Brown test's free reproduction record correlates only 0.16 with the comprehension criteria. [→ Arthur I. Gates 1921](#arthur-i-gates-1921)

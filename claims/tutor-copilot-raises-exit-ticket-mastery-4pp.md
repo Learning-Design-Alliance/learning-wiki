@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: strong
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: rose-e-wang-2025
     resource: "https://doi.org/10.48550/arxiv.2410.03017"
@@ -56,6 +58,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies (5 entries) · 2 causal `r2`–`r3`, 1 review `r2` · `q2`–`q4`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 5 of 5 entries) · not reviewed by a person
 
 ## Subclaims
 

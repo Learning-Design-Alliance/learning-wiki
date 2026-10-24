@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yao-x-c-and-fan-l-2026
     title: Yao X-C and Fan L 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No coded misunderstanding appeared in 84.0% of Diagnostic Review reflection records versus 77.8% of the 135 available Control follow-up records; Control records included more accepting AI without judgment (6.9%) and ignored feedback (4.2%). [→ Yao X-C and Fan L 2026](#yao-x-c-and-fan-l-2026)

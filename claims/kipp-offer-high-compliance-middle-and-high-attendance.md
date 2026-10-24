@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: alicia-demers-2023
     resource: "https://www.mathematica.org/publications/long-term-impacts-of-kipp-middle-and-high-schools-on-college-enrollment-persistence-and-attainment"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Among lottery winners, most received-offer students enrolled in a KIPP middle school, and many subsequently attended a KIPP high school. [→ Alicia Demers 2023](#alicia-demers-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: blair-2015
     resource: "https://doi.org/10.1146/annurev-psych-010814-015221"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` CSRP significantly improved executive function, reduced behavior problems, and improved vocabulary, letter-naming, and math skills, with effect sizes ranging from 0.34 to 0.63. [→ Blair 2015](#blair-2015)

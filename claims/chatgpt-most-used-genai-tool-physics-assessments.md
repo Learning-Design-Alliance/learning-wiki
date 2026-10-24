@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zachery-quince-and-emily-faulconer-2026
     resource: "https://doi.org/10.1186/s40594-026-00651-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ChatGPT was the most used tool across all three assessments (A1 n = 16, A2 n = 13, A3 n = 21), while Copilot's uptake was notably lower (n = 5 in each). [→ Zachery Quince and Emily Faulconer 2026](#zachery-quince-and-emily-faulconer-2026)

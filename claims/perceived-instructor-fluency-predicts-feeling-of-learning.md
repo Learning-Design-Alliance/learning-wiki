@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: deslauriers-l-2019
     resource: "https://doi.org/10.1073/pnas.1821936116"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who perceived the instructor as highly fluent reported feeling of learning more than half an SD (0.51) higher than those who perceived the instructor as disfluent (P < 0.001). [→ Deslauriers L. 2019](#deslauriers-l-2019)

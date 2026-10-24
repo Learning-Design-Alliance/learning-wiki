@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: gates-1922
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Emphasis on speed rather than accuracy was argued to produce the most expeditious and effective learning, said to hold for certain industrial processes, adding, and reading. [→ Gates 1922](#gates-1922)

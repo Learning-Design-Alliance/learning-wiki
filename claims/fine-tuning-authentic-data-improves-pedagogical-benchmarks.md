@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2028
 sources:
   - id: janos-perczel-2025
     resource: "https://doi.org/10.48550/arxiv.2510.05087"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Parameter-efficient fine-tuning of Gemini 2.5 Flash and GPT-4o on authentic Polygence data improves student talk time, words per tutor turn, questions per interrogative turn, turns before wrap-up, uncovering student background, and coding-skill checks. [→ Janos Perczel 2025](#janos-perczel-2025)

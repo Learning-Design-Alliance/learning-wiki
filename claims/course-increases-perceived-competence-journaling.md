@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: sven-scheu-2026
     resource: "https://doi.org/10.1186/s41239-026-00589-7"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The course had a small significant effect on perceived competence (η² = 0.04); access to the assistant made no significant difference, and actual days of assistant use showed no significant impact on competence. [→ Sven Scheu 2026](#sven-scheu-2026)

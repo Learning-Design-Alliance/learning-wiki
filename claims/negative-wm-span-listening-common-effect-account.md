@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ma-2023
     resource: "https://www.nwnu.edu.cn"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors attribute the negative A4–D1 bridge to common effect relationships and to excessive listening information overwhelming children's working memory. [→ Ma 2023](#ma-2023)

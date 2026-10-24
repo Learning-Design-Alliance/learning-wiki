@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: the-federal-role-in-advancing-education-equity-and-excellence-2020
     resource: "https://eric.ed.gov/?id=ED610926"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The benefits of learning in diverse environments in ECE and k-12 settings are well documented: stronger achievement for historically underserved groups with no detriment to others, plus positive effects on critical thinking, intergroup relationships, and civic engagement for all groups. [→ The Federal Role in Advancing Education Equity and Excellence 2020](#the-federal-role-in-advancing-education-equity-and-excellence-2020)

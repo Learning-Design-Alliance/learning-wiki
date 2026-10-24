@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: steven-j-howard-2024
     resource: "https://doi.org/10.1007/s10648-023-09832-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Methodological quality of included studies was mixed: Newcastle–Ottawa risk of bias ratings ranged from 3 to 9 (M = 6.92, SD = 1.43), with studies scoring 0–6 coded high risk and 7–9 low risk. [→ Steven J. Howard 2024](#steven-j-howard-2024)

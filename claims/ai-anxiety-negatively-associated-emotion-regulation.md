@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhang-y-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1918525"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` AI anxiety correlates negatively with emotion regulation (r = −0.172). [→ Zhang Y 2026](#zhang-y-2026)

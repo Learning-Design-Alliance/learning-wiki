@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: julia-kollmer-2020
     resource: "https://doi.org/10.1007/s11251-020-09521-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Drawing quality correlated with posttest performance when drawings were scaffolded (r = 0.70) but not when made from scratch (r = 0.18); the difference between the correlations was significant (z = − 2.49, p = 0.006). [→ Julia Kollmer 2020](#julia-kollmer-2020)

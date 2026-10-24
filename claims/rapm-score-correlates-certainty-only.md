@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: adam-chuderski-2021
     resource: "https://doi.org/10.1007/s11409-020-09236-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The RAPM score correlated reliably only with Certainty, r = .328. [→ Adam Chuderski 2021](#adam-chuderski-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mørch-2024
     resource: "https://doi.org/10.1007/s11412-024-09432-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the reconstruction phase, the group created a social object (discussions leading to a role-play script) and a technology object (a Minecraft building for staging the role-play), whose contents became increasingly knowledge based as the activity progressed. [→ Mørch 2024](#mrch-2024)

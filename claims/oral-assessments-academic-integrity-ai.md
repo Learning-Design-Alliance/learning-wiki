@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: fenton-2025
     resource: "https://doi.org/10.3102/0013189X251333638"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Oral assessments are recognized as a strong strategy to maintain academic integrity, especially when questions are unknown ahead of time, removing students' ability to use AI to generate and memorize answers. [→ Fenton 2025](#fenton-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-24
 sources:
   - id: schneider-wolfgang-2017
     resource: "https://doi.org/10.3390/jintelligence5020026"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In SEM models for Grade 2 outcomes, intelligence was the only significant predictor of all academic outcomes, although WMC and intelligence were highly intercorrelated latent variables. [→ Schneider Wolfgang 2017](#schneider-wolfgang-2017)

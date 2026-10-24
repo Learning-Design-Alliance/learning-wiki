@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: considering-the-opposite-reduces-bias
 evidence_strength:
+newest_evidence: 2021
 sources:
   - id: korteling-et-al-2021
     resource: "https://doi.org/10.3389/fpsyg.2021.629354"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · n=12 studies (17 experiments) reviewed overall
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Considering The Opposite Reduces Bias -->
 

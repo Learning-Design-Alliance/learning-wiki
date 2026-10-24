@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-09
 sources:
   - id: steven-glazerman-2006
     resource: "https://www.mathematica.org/publications/an-evaluation-of-american-board-teacher-certification-progress-and-plans"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Mathematica's five-year study is analyzing the impacts of the Passport to Teaching credential on teacher performance, measured in terms of student achievement. [→ Steven Glazerman 2006](#steven-glazerman-2006)

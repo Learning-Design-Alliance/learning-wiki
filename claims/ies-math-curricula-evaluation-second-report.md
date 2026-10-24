@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-08
 sources:
   - id: agodini-2010
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` This report is the second from a large-scale study for the U.S. Department of Education's Institute of Education Sciences, under the Evaluation of Mathematics Curricula project spanning 2005-2013. [→ Agodini 2010](#agodini-2010)

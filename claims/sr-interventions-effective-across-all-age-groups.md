@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: pandey-a-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6059379/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no particular age group in which interventions were most effective; they improved SR scores across all age groups. [→ Pandey A 2018](#pandey-a-2018)

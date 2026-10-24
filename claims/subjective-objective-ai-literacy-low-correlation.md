@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: daniele-verí-2026
     resource: "https://doi.org/10.48550/arxiv.2609.15624"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across three directly reported same-sample correlations, the pooled subjective-objective AI-literacy correlation was r = .055 with a 95% interval that includes zero, so self-ratings cannot substitute for performance scores. [→ Daniele Verí 2026](#daniele-veri-2026)

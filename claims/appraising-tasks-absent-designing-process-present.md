@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: van-hooijdonk-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101823"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within the planning your approach element, no students questioned whether CPS was a suitable choice for the task (appraising tasks), but all students showed metacognitive designing-process utterances. [→ Van Hooijdonk 2023](#van-hooijdonk-2023)

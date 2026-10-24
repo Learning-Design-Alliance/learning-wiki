@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: mohamed-a-ahmed-2014
     resource: "https://doi.org/10.14740/jnr268w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ADHD patients scored significantly lower on the modified Myklebust learning disability scale than controls (P < 0.000). [→ Mohamed A. Ahmed 2014](#mohamed-a-ahmed-2014)

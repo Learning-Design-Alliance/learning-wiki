@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: alyson-burnett-2021
     resource: "https://www.mathematica.org/publications/impacts-of-uncommon-schools-in-a-turnaround-setting"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` TurnNJ enrollment had positive, statistically significant impacts on English language arts achievement that persisted up to four years after enrollment. [→ Alyson Burnett 2021](#alyson-burnett-2021)

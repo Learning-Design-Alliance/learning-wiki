@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zaki-kurdya-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05842"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In preliminary user acceptance testing with 68 participants, 84% (57/68) rated the personalization feature as beneficial, with engagement and future-use items scoring at least 4 on a 5-point scale. [→ Zaki Kurdya 2026](#zaki-kurdya-2026)

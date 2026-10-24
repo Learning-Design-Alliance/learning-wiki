@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: martin-rebecca-b-2014
     resource: "https://doi.org/10.1016/j.lindif.2014.05.006"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Symbolic number identification and comparison were consistently uniquely predictive of all four grade 1 math outcomes, and adding them eliminated the unique contribution of counting variables, while the reverse was not true. [→ Martin Rebecca B. 2014](#martin-rebecca-b-2014)

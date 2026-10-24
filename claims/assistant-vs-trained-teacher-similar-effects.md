@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: vembye-2022
     resource: "https://osf.io/ur2bs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Interventions involving trained teachers and those involving assistants with no teaching qualifications yielded effects of mostly the same size. [→ Vembye 2022](#vembye-2022)

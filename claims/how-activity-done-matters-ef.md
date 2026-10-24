@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: diamond-adele-2012
     resource: "https://doi.org/10.1177/0963721412453722"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Adolescent juvenile delinquents trained in traditional tae kwon do showed less aggression and anxiety and improved social ability and self-esteem, whereas those trained in modern martial arts showed more delinquency and aggressiveness and decreased self-esteem and social ability. [→ Diamond Adele 2012](#diamond-adele-2012)

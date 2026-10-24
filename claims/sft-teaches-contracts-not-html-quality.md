@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cogevol-team-2026
     resource: "https://doi.org/10.48550/arxiv.2608.30968"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Under the pre-hardening reward, HTML quality declines monotonically with update count on Qwen3.6-27B (88.4 at 6,710 updates, 83.7 at 10,711, ~73.5 at 13,421), and the Qwen3.8 run lands at 73.2, below its own bare base of 78.3. [→ CogEvol Team 2026](#cogevol-team-2026)

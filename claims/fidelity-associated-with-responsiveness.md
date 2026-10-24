@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2006
 sources:
   - id: al-otaiba-2006
     resource: "https://journals.sagepub.com/doi/10.1177/00222194060390050401"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Responsiveness status was associated with quality of Ladders implementation and fall first-grade PALS fidelity, but not with K-PALS or spring PALS fidelity. [→ Al Otaiba 2006](#al-otaiba-2006)

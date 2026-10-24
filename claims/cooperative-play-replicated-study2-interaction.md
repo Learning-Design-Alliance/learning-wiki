@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: yuill-n-2014
     title: Yuill N 2014
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Study 2 there was a significant interaction between playset and behavior, F(2, 18) = 33.82, p < 0.001, η2 = 0.79, with cooperative play more frequent in the AKC condition, F(1, 32) = 71.48, p < 0.001. [→ Yuill N 2014](#yuill-n-2014)

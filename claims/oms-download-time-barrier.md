@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: michele-d-dickey-2007
     resource: "https://doi.org/10.1080/09687760701482218"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eight students complained about the time it took to download OMS media, and requests for CDs and DVDs increased over the semester due to download times. [→ Michele D. Dickey 2007](#michele-d-dickey-2007)

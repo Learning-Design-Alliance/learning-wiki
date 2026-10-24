@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: nwea-research-2026
     resource: "https://www.nwea.org/research/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The brief highlights post-COVID-19 declines in middle school reading and pathways forward for struggling adolescent readers. [→ NWEA Research 2026](#nwea-research-2026)

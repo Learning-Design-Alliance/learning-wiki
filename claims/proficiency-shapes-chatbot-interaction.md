@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: steve-woollaston-2026
     resource: "https://doi.org/10.48550/arxiv.2607.14575"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Behavioural state frequencies differed significantly by proficiency (χ2 = 25.4, p < .003), with high-proficiency learners over-represented in user_chat and low-proficiency learners over-represented in check_button. [→ Steve Woollaston 2026](#steve-woollaston-2026)

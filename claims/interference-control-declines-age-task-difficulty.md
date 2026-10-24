@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: patrick-d-gajewski-2020
     resource: "https://doi.org/10.1016/j.neuroimage.2019.116430"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Reaction times increase with age and block difficulty, with a significant three-way interaction of Block x Congruity x Group. [→ Patrick D. Gajewski 2020](#patrick-d-gajewski-2020)

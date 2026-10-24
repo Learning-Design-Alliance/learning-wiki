@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: chen-2016
     resource: "https://hdl.handle.net/1959.4/55865"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Per Klahr and Nigam (2004) as cited in the thesis, there was no difference between the quality of knowledge of science learners who discovered a science principle and those to whom it was explicitly presented; discovery took more time. [→ Chen 2016](#chen-2016)

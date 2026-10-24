@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: graciela-n-borsato-2013
     resource: "https://consortium.uchicago.edu/publications/college-readiness-indicator-systems-framework"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The CRIS framework builds upon and enhances existing early warning systems by targeting college readiness, adding non-academic readiness dimensions, and adding setting- and system-level indicators. [→ Graciela N. Borsato 2013](#graciela-n-borsato-2013)

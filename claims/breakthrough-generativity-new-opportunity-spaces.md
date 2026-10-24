@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: friedman-2026
     resource: "https://doi.org/10.51388/20.500.12265/297"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A breakthrough innovation enables follow-on innovations, adaptation, and scaling, often arising through recombination of existing ideas and interdisciplinary perspectives that create new opportunity spaces. [→ Friedman 2026](#friedman-2026)

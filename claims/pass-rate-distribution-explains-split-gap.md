@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: rose-niousha-2026
     resource: "https://doi.org/10.48550/arxiv.2608.10492"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` test_OP students fail at 55% and succeed at 28% (roughly 2:1), whereas test_NP students fail at 47% and succeed at 34% (roughly 1.4:1); where failures are more common, INSIDE has more mismatch over SFT to correct. [→ Rose Niousha 2026](#rose-niousha-2026)

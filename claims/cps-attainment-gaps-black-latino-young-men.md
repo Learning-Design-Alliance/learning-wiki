@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: the-educational-attainment-of-chicago-public-schools-students-2018-2018
     resource: "https://consortium.uchicago.edu/publications/the-educationa-attainment-of-chicago-public-schools-students-2018"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among students who completed ninth grade in 2018, 10 percent of Black young men and 14 percent of Latino young men are projected to earn a bachelor's degree within 10 years, versus a 20 percent district average. [→ The Educational Attainment of Chicago Public Schools Students: 2018 2018](#the-educational-attainment-of-chicago-public-schools-students-2018-2018)

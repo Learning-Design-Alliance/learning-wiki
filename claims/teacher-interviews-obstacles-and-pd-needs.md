@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: nikolai-maurer-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100376"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The most frequently cited obstacles were insufficient AI output quality and concerns about declining students' cognitive engagement (n = 9 each). [→ Nikolai Maurer 2026](#nikolai-maurer-2026)

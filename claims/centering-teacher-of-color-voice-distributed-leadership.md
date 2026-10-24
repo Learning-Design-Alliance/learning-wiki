@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: interviews-1
     title: interviews-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the participating LEAs, distributed leadership that continually centers teachers of color was the most frequently discussed and broadly appreciated aspect of the Design Teams, yielding authentic, locally relevant problems of practice and solutions. [→ interviews-1](#interviews-1)

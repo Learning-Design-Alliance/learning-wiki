@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-24
 sources:
   - id: szczygieł-m-szűcs-d-toffalini-e-2024
     resource: "https://dx.doi.org/10.1016/j.learninstruc.2024.101906"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` MATH at T1 predicted MA at T2 and MA at T1 predicted MATH at T2, supporting the Reciprocal Theory over the Deficit and Debilitating Anxiety theories. [→ Szczygieł M.; Szűcs D.; Toffalini E 2024](#szczygie-m-szucs-d-toffalini-e-2024)

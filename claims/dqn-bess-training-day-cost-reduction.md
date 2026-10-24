@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: junjie-yin-2026
     resource: "https://doi.org/10.48550/arxiv.2608.02599"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The DQN greedy training-day rollout had a complete cost of $180.19 versus $191.58 without storage and $216.34 for a straightforward cycle rule, a 5.9% reduction. [→ Junjie Yin 2026](#junjie-yin-2026)

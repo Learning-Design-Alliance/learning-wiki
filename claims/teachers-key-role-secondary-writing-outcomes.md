@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: jasmine-forde-2021
     resource: "https://www.mathematica.org/publications/teacher-factors-that-drive-improvement-in-secondary-writing-outcomes-a-landscape-analysis"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teachers, in both explicit and subtle ways, play a key role in engaging their students in writing and, in turn, improving writing outcomes. [→ Jasmine Forde 2021](#jasmine-forde-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: flunger-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101873"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the student level, perceptions of individual and class-directed autonomy support are two distinct factors for the autonomy-supportive strategies measured. [→ Flunger 2024](#flunger-2024)

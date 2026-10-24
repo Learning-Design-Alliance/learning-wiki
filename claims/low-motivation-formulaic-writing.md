@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: honglan-wei-2018
     resource: "https://doi.org/10.5430/wje.v8n5p198"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interviewed seniors attribute low motivation for English writing to its lack of real-life application and to formulaic compositions composed of fixed outlines, sentence patterns and styles. [→ Honglan Wei 2018](#honglan-wei-2018)

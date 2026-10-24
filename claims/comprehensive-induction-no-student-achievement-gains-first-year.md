@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: steven-glazerman-2008
     resource: "https://www.mathematica.org/publications/impacts-of-comprehensive-teacher-induction-results-from-the-first-year-of-a-randomized-controlled-study"
@@ -40,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 causal `r?` · `q3`
+> **Currency** · newest study 2010 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

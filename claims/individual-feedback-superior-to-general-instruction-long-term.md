@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: luotong-hui-2021
     resource: "https://doi.org/10.1007/s10648-021-09604-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the short term both general feedback (d = .29) and the retrieval-benefit subgroup receiving individual feedback (d = .34) increased retrieval practice choice. [→ Luotong Hui 2021](#luotong-hui-2021)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1995
+source_checked: 2026-10-08
+recheck_by: 1998
 sources:
   - id: sebring-1995
     resource: "https://consortium.uchicago.edu/publications/charting-reform-prairie-school-results-student-and-teacher-surveys"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1995 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1998**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The surveys were administered in Spring 1994 to sixth, eighth and tenth grade students and elementary and high school teachers, with 266 elementary schools and 40 high schools participating at reportable response rates. [→ Sebring 1995](#sebring-1995)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: rohit-mehra-2026
     resource: "https://doi.org/10.48550/arxiv.2607.06074"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i0` Baseline prompt-quality averaged 63.04, with a near-zero Pearson correlation between years of experience and baseline score (r = 0.11), suggesting prompt-writing is a distinct skill. [→ Rohit Mehra 2026](#rohit-mehra-2026)

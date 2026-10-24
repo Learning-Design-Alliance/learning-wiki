@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: blair-2015
     resource: "https://doi.org/10.1146/annurev-psych-010814-015221"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Across 99 studies, teacher-reported relationship quality relates to student achievement at roughly one-quarter of a standard deviation, with smaller estimates (approximately d = 0.15) for standardized achievement measures and larger estimates for academically or behaviorally at-risk children. [→ Blair 2015](#blair-2015)

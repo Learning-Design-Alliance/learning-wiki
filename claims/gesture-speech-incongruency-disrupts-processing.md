@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: manuela-macedonia-2026
     resource: "https://doi.org/10.1007/s10648-026-10222-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Kandana Arachchige et al. (2021), that gesture–speech incongruency disrupts multimodal processing, increasing response times and error rates as working-memory resources are recruited to resolve semantic mismatches. [→ Manuela Macedonia 2026](#manuela-macedonia-2026)

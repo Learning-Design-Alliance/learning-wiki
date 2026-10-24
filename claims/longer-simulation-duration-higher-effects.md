@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: olga-chernikova-2020
     resource: "https://doi.org/10.3102/0034654320933544"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Very short simulations (under 1 hour) had lower effects (g = 0.65) than simulations lasting hours to a month (g = 0.80–0.81), and simulations over a month showed g = 1.31 but with inconclusive evidence. [→ Olga Chernikova 2020](#olga-chernikova-2020)

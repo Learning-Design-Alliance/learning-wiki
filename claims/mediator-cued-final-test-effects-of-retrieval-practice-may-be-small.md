@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2` · `i0` negligible
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Pyc and Rawson (2010), a retrieval practice effect when mediators were used as final-test cues. [→ Karpicke 2017](#karpicke-2017)

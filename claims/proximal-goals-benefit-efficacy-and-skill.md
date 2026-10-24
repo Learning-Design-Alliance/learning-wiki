@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1995
 sources:
   - id: schunk-1995
     resource: "http://www.taylorandfrancis.com/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Bandura and Schunk (1981) found proximal goals led to the highest motivation, posttest skill, self-efficacy, and intrinsic interest, while distant goals gave no benefit over a general goal. [→ Schunk 1995](#schunk-1995)

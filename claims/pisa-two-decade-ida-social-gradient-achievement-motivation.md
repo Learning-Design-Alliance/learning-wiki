@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: sarah-grünthal-2024
     resource: "https://osf.io"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article’s stated topic is the social gradient in students’ achievement motivation, addressed with an integrative data analysis of PISA data covering two decades. [→ Sarah Grünthal 2024](#sarah-grunthal-2024)

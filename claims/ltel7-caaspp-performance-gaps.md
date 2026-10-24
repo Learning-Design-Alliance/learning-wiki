@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: price-2024
     resource: "https://doi.org/10.54300/496.998"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students designated as LTEL7 performed at lower levels than other ever-ELs on the grades 6–8 and grade 11 CAASPP state tests in both ELA and math. [→ Price 2024](#price-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 1998
 sources:
   - id: keith-topping-1998
     resource: "https://doi.org/10.3102/00346543068003249"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 25 studies comparing teacher and peer marks or grades, 18 (72%) reported acceptably high reliability. [→ Keith Topping 1998](#keith-topping-1998)

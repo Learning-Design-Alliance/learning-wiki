@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: robinson-2022
     resource: "https://doi.org/10.1007/s10648-022-09706-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`–`q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article defines relational self-efficacy as a distinct, task-specific belief construct that existing multi-dimensional teacher self-efficacy scales do not directly measure. [→ Robinson 2022](#robinson-2022)

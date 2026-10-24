@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: jenna-howard-terrell-2023
     resource: "https://eric.ed.gov/?id=ED633310"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interviewees identified three equity concerns: performance assessments could be perceived as less rigorous and lead to tracking into remedial pathways; implementation quality could vary across districts due to varying teacher and leader capacity; and assessment scoring could be inequitable or unreliable. [→ Jenna Howard Terrell 2023](#jenna-howard-terrell-2023)

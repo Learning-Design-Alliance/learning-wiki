@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: mooney-2005
     resource: "https://doi.org/10.1007/s10864-005-6298-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 22 included studies involving 78 participants, the overall mean effect size of academic self-management interventions for students with emotional and behavioral disorders was 1.80 (range –0.46 to 3.00), indicating generally large and educationally meaningful effects. [→ Mooney 2005](#mooney-2005)

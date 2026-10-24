@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: meijuan-xie-2025
     resource: "https://doi.org/10.48550/arxiv.2503.13533"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Teaching beliefs negatively predict AI-TPK (β = -0.09) and AI-TCK (β = -0.15); H2a and H2c were rejected, and H2b (no significant AI-TK effect) was deleted as insignificant. [→ Meijuan Xie 2025](#meijuan-xie-2025)

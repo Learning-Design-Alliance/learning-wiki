@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2003
 sources:
   - id: patrick-c-kyllonen-susanne-p-lajoie-2003
     resource: "https://doi.org/10.1207/S15326985EP3802_2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Implicit learning, measured by repetition priming tasks, predicts skill learning such as learning new rules to solve problems. [→ Patrick C. Kyllonen & Susanne P. Lajoie 2003](#patrick-c-kyllonen-susanne-p-lajoie-2003)

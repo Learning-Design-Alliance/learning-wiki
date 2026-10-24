@@ -7,6 +7,7 @@ generated:
   at: 2026-08-30
 id: interleaving-improves-discrimination
 evidence_strength: unrated
+newest_evidence: 2019
 sources:
   - id: kornell-bjork-2008
     resource: "https://doi.org/10.1111/j.1467-9280.2008.02127.x"
@@ -38,6 +39,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 Interleaving — mixing different problem or category types within a practice sequence rather than blocking them — improves learners' ability to discriminate between confusable concepts and select the appropriate strategy.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 1994
 sources:
   - id: zambo-1994
     resource: "https://eric.ed.gov/?id=ED375005"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reviews and meta-analyses agree females tend to be superior in computational activities while males tend to be superior in problem solving, and the problem-solving difference increases with age. [→ Zambo 1994](#zambo-1994)

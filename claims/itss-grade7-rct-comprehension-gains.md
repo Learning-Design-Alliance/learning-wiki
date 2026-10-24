@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: gsrt-7-1
     title: gsrt-7-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Seventh-grade students using ITSS outperformed comparison students on the GSRT (effect size 0.17, improvement index +7, p < .01) and on seven researcher-designed measures, with outcome average effect size 0.23. [→ gsrt-7-1](#gsrt-7-1)

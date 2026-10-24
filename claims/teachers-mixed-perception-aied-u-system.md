@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: luiz-rodrigues-2026
     resource: "https://doi.org/10.1186/s40561-026-00465-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis of semi-structured interviews found teachers valued ready-made exercise lists and reports for lesson preparation while reporting recognition errors, processing waits, and manual reevaluation as added demands. [→ Luiz Rodrigues 2026](#luiz-rodrigues-2026)

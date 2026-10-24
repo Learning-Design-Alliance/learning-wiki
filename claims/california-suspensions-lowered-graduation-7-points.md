@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: cardichon-2019
     resource: "https://doi.org/10.33682/a3vc-nfcx"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A 3-year California study found suspensions lowered graduation rates by nearly 7 percentage points after controlling for other major dropout factors. [→ Cardichon 2019](#cardichon-2019)

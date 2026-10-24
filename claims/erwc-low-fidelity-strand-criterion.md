@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: anthony-b-fong-2015
     resource: "https://eric.ed.gov/?id=ED559522"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 56 ERWC teachers, 10 (17.9 percent) taught at least 8 modules with fidelity, defined as teaching at least one activity in each of a module's six strands. [→ Anthony B. Fong 2015](#anthony-b-fong-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: loyens-2008
     resource: "https://doi.org/10.1007/s10648-008-9082-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Comparing groups of three, six, and nine students, the PBL course led to higher SDL in small and medium groups but lower SDL in large groups, with medium and large groups differing significantly. [→ Loyens 2008](#loyens-2008)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: mattingly-jameson-k-md-2018
     resource: "https://doi.org/10.1097/MAO.0000000000001998"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` In NH controls, Subset RPM scores computed from the same 12 items correlated with Harvard Standard sentences (r = .56) and PRESTO sentences (r = .49). [→ Mattingly Jameson K MD 2018](#mattingly-jameson-k-md-2018)

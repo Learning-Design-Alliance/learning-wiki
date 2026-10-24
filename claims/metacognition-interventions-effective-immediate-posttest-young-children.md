@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: janina-eberhart-2024
     resource: "https://doi.org/10.1007/s11409-024-09405-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Metacognition interventions show an overall positive effect at immediate post-test across general cognitive outcomes in young children. [→ Janina Eberhart 2024](#janina-eberhart-2024)

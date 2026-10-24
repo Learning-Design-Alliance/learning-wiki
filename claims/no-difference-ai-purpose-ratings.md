@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: daniusevičiūtė-brazaitė-l-2026
     title: Daniusevičiūtė-Brazaitė L 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A Friedman test found no statistically significant differences among the three rated purposes of AI use, χ2(2) = 2.69, p = 0.261. [→ Daniusevičiūtė-Brazaitė L 2026](#daniuseviciute-brazaite-l-2026)

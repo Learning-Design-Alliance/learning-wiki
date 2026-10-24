@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: megan-kuhfeld-2020
     resource: "https://www.nwea.org/research/publication/niss-ingram-olkin-forum-covid-and-the-schools-modeling-openings-closings-and-learning-loss/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The 2020 NISS Ingram Olkin Forum presentation addressed statistical modeling of school openings, closings, and learning loss during the COVID-19 pandemic. [→ Megan Kuhfeld 2020](#megan-kuhfeld-2020)

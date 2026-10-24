@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: fu-2016
     resource: "https://doi.org/10.1007/s11412-016-9245-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bidea^ represented 45.87% of total discourse; the most frequent sub-codes were Bfact^ (29.10%) in G5S and Bopinion^ (20.6%) in G10LS. [→ Fu 2016](#fu-2016)

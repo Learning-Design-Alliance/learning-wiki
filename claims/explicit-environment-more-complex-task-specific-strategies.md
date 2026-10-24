@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: aiso-heinze-2018
     resource: "https://doi.org/10.1007/s11251-018-9457-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` At post-test, children from the explicit learning environment used indirect subtraction strategies 61 vs. 26 times and simplifying strategies 45 vs. 18 times compared with the implicit group, supporting Hypothesis 3. [→ Aiso Heinze 2018](#aiso-heinze-2018)

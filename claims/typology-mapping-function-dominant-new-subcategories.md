@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jasmin-breitwieser-2026
     resource: "https://doi.org/10.1007/s10648-026-10164-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Most of the 283 labels referred to function (n = 114), followed by presentation (n = 93), content (49), and source (13); refinement added technological platform, response format, and system integration subcategories. [→ Jasmin Breitwieser 2026](#jasmin-breitwieser-2026)

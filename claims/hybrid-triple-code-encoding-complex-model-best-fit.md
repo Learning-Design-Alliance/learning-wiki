@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: rhodes-katherine-t-2017
     resource: "https://doi.org/10.1037/edu0000189"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The post-hoc hybrid full measurement model was an approximate excellent fit (χ2(124)=327.82, RMSEA=.04, CFI=.97), outperforming each theory's full model. [→ Rhodes Katherine T. 2017](#rhodes-katherine-t-2017)

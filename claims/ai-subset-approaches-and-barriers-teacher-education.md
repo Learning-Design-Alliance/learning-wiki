@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: patiño-hernández-jf-2026
     resource: "https://doi.org/10.3389/feduc.2026.1949296"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 40 AI-focused studies, AI-supported professional development and teacher accompaniment was the most frequent primary approach (n = 14; 35.0%), followed by instructional design and assessment for learning (n = 13; 32.5%). [→ Patiño Hernández JF 2026](#patino-hernandez-jf-2026)

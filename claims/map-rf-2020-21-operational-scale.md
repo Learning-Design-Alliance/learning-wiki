@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-09
 sources:
   - id: nwea-2024
     resource: "https://www.nwea.org/research/publication/english-map-reading-fluency-technical-report/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the 2020–2021 school year, 407,964 students received Foundational Skills scores and 277,920 students received Oral Reading Fluency scores. [→ NWEA 2024](#nwea-2024)

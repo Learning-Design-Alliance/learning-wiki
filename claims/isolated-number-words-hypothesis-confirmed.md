@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: krajewski-2009
     resource: "https://doi.org/10.1016/j.jecp.2009.03.009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After controlling for its impact on basic numerical skills, phonological awareness did not directly predict higher-level QNC or Grade 3 mathematics achievement. [→ Krajewski 2009](#krajewski-2009)

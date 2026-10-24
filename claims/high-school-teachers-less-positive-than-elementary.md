@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1995
+recheck_by: 2000
 sources:
   - id: sebring-1995
     resource: "https://consortium.uchicago.edu/publications/charting-reform-chicago-teachers-take-stock"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2000**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The average response among high schools is roughly comparable to responses among the lowest quarter of elementary schools on recent changes and reform impact. [→ Sebring 1995](#sebring-1995)

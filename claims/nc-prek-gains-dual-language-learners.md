@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: wechsler-2016
     resource: "http://creativecommons.org/licenses/by-nc/4.0/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research found that NC Pre-K participants made greater gains than would be expected for normal developmental growth, with particular benefits for dual language learners and low-income students. [→ Wechsler 2016](#wechsler-2016)

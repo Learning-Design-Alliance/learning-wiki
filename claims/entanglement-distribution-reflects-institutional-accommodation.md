@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: sun-2026
     resource: "https://doi.org/10.1007/s42438-026-00697-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The skewed distribution across entanglement types is interpreted as reflecting which forms of student–GenAI engagement have become legitimate and adoptable within higher education practice, not what GenAI can do. [→ Sun 2026](#sun-2026)

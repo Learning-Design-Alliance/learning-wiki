@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kit-s-double-2025
     resource: "https://doi.org/10.1007/s11409-025-09413-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among the 557 participants who met the learning criterion (at least 11/12 on at least one training block), the confidence rating group again performed significantly worse on ambiguous transfer items than both comparison groups. [→ Kit S. Double 2025](#kit-s-double-2025)

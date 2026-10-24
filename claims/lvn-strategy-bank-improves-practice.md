@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: medha-tare-2022
     resource: "https://doi.org/10.51388/20.500.12265/157"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 100 percent of educators reported gaining a better understanding of strategies they already use, 97 percent identified new strategies to implement, and 91 percent changed their implementation of an existing strategy. [→ Medha Tare 2022](#medha-tare-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: credo-2020
     resource: "https://credo.stanford.edu/reports/item/charter-school-performance-in-the-state-of-washington-2/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learning growth did not differ statistically from VCR peers in any of the first three years of charter attendance. [→ CREDO 2020](#credo-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: cook-1913
     resource: "https://www.google.com/search?q=%22The+problem+of+sex+education%22+Cook+1913"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The amorous emotion in its unsocial manifestations can be conquered by fear, disgust, self-respect and desire for the regard of others, so instruction should seize on any motive it encounters. [→ Cook 1913](#cook-1913)

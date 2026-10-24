@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: rebetez-2010
     resource: "https://doi.org/10.1007/s11251-009-9117-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Providing snapshots of critical steps of the system had opposite effects by learning setting: marginally beneficial when studying individually, significantly detrimental when studying in dyads. [→ Rebetez 2010](#rebetez-2010)

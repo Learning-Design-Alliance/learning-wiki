@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: lotan-2019
     resource: "https://learningpolicyinstitute.org/product/instructional-leadership-corps-teachers-leading"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Lasting changes in pedagogy are more likely when teachers have opportunities to try out new strategies, receive feedback, address implementation challenges, and iteratively improve over multiple workshops with advisors and coaches at hand. [→ Lotan 2019](#lotan-2019)

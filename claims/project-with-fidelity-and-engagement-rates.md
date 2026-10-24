@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: nakamoto-2025
     resource: "https://eric.ed.gov/?id=ED673580"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Facilitator fidelity logs showed 89 percent of Project With activities were completed, with youth listening during 83 percent and interacting during 76 percent of activities. [→ Nakamoto 2025](#nakamoto-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: mason-2012
     resource: "https://doi.org/10.1007/s11251-012-9210-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Performance-avoidance goals have negative effects on both self-concept and self-efficacy at each grade level. [→ Mason 2012](#mason-2012)

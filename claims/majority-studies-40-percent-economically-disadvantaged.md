@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: ask-an-expert-421-college-and-career-readiness-interventions-2022
     resource: "https://ies.ed.gov/ncee/rel/Products/Resource/-89626"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Many studies of the reviewed interventions measured students' economic circumstances, and the majority used samples with at least 40 percent of students living in economically disadvantaged circumstances. [→ Ask an Expert 4.2.1: College- and Career-Readiness Interventions 2022](#ask-an-expert-421-college-and-career-readiness-interventions-2022)

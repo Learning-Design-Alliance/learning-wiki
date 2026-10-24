@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: gerry-stahl-2011
     resource: "https://doi.org/10.1007/s11412-011-9135-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Tabletop interfaces provide a hands-on multi-modal medium for co-located interaction within small groups, sitting between personal devices and public whiteboards. [→ Gerry Stahl 2011](#gerry-stahl-2011)

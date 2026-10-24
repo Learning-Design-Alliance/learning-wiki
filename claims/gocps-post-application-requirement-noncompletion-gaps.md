@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
+recheck_by: 2024
 sources:
   - id: barrow-2019
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of applicants applying to at least one choice program with post-application screens, 54 percent did not complete at least one requirement; conditional on applying, 71 percent of Black and 52 percent of Latino students missed at least one screen, making them ineligible for an offer at that program. [→ Barrow 2019](#barrow-2019)

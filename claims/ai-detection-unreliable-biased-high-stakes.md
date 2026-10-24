@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2028
 sources:
   - id: sangwa-2025
     resource: "https://doi.org/10.35542/osf.io/kj4vt_v1"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` OpenAI's classifier showed meaningful false positives (9% on its challenge set) and was discontinued due to low accuracy. [→ Sangwa 2025](#sangwa-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ying-zhan-2025
     resource: "https://doi.org/10.1007/s10734-025-01588-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the reviewed studies, 29 assessed knowledge construction, 22 assessed professional skills, and 29 assessed 21st-century skills, with critical thinking (n = 17), communication (n = 13) and problem-solving (n = 7) the top three; only five studies focused on digital literacy. [→ Ying Zhan 2025](#ying-zhan-2025)

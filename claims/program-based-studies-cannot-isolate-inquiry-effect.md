@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: lin-zhang-2022
     resource: "https://doi.org/10.1007/s10648-021-09646-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Because inquiry programs incorporate many instructional elements (technology, teacher professional development, extra resources), favorable findings capture the impact of the program as a whole and cannot support claims that inquiry-based approach caused the gains. [→ Lin Zhang 2022](#lin-zhang-2022)

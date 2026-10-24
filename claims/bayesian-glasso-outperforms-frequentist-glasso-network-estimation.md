@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: joran-jongerling-2022
     resource: "https://www.nwea.org/research/publication/bayesian-uncertainty-estimation-for-gaussian-graphical-models-and-centrality-indices/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The Bayesian GLASSO outperformed the frequentist GLASSO with respect to bias in edge weights, centrality measures, correlation between estimated and true partial correlations, and specificity in extensive simulations. [→ Joran Jongerling 2022](#joran-jongerling-2022)

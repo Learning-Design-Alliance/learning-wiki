@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: aitken-2026
     resource: "https://doi.org/10.1007/s10648-026-10197-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Writing quality, assessed in 33 comparisons across 16 studies, showed an effect of 0.33. [→ Aitken 2026](#aitken-2026)

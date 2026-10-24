@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: strong
+newest_evidence: 2025
 sources:
   - id: benjamin-lira-2025
     resource: "https://doi.org/10.48550/arxiv.2502.02880"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` On a no-AI writing test, participants who practiced with AI wrote higher-quality cover letters than those who practiced with Google Search (d=0.46). [→ Benjamin Lira 2025](#benjamin-lira-2025)

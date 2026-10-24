@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: dowdall-2020
     resource: "https://doi.org/10.1111/cdev.13225"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across six RCTs, interventions produced a large pooled effect on caregiver book-sharing competence (d=1.01). [→ Dowdall 2020](#dowdall-2020)

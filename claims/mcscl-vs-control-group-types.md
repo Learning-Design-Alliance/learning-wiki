@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: sung-yao-ting-2017
     resource: "https://doi.org/10.3102/0034654317704307"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` mCSCL effect sizes were largest against non-CL controls (g = 0.587), smaller against non-computer CL (g = 0.472), and not significant against desktop CSCL (g = 0.201). [→ Sung Yao-Ting 2017](#sung-yao-ting-2017)

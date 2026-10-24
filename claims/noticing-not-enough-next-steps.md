@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: jones-2024
     resource: "https://eric.ed.gov/?id=ED673605"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps -->
 
 ## Subclaims

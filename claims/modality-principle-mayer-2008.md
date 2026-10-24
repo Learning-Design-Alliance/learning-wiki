@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: richard-e-mayer-2008
     resource: "https://doi.org/10.1037/0003-066x.63.8.760"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · `i3` large
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In 17 of 17 experiments, learners scored higher on transfer tests when words were presented in spoken form rather than printed form, median d = 1.02. [→ Richard E. Mayer 2008](#richard-e-mayer-2008)

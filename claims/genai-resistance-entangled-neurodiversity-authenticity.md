@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: fawns-2026
     resource: "https://doi.org/10.1007/s10734-026-01730-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vivian positioned GenAI use as depriving learners of the rigour of skill-building, framing avoidance as a moral choice tied to personal identity and protecting cognitive development. [→ Fawns 2026](#fawns-2026)

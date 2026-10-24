@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: garcía-martínez-2023
     resource: "https://doi.org/10.7821/naer.2023.1.1240"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The average pre-post effect was g∆ = 0.552 with a confidence interval crossing zero and was not statistically significant. [→ García-Martínez 2023](#garcia-martinez-2023)

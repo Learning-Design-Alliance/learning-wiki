@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1979
 sources:
   - id: glenberg-1979
     resource: "https://doi.org/10.3758/bf03197590"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Subjects who studied the same list in two different rooms recalled an average of 40% more words than subjects who studied it twice in the same context, illustrating differential storage of environmental contextual components. [→ Glenberg 1979](#glenberg-1979)

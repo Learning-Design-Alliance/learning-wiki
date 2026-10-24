@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: camille-lemieux-2021
     resource: "https://go.usa.gov/xecdz"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 58 percent of additional certificate holders earned certificates through the traditional in-state pathway and 34 percent through individual evaluation; out-of-state (3 percent) and alternative in-state (1 percent) pathways were rarely used. [→ Camille Lemieux 2021](#camille-lemieux-2021)

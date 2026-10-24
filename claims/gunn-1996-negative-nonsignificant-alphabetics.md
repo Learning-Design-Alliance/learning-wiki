@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-18
 sources:
   - id: lindamood-phoneme-sequencing-lips-beginning-reading-2015
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/280"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i1` small
+> **Currency** · newest study 2015 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Gunn (1996) found negative, substantively important, non-significant effects on WRMT-R Word Identification and Word Attack subtests (domain average effect size –0.33, improvement index –13). [→ Lindamood Phoneme Sequencing® (LiPS®): Beginning Reading 2015](#lindamood-phoneme-sequencing-lips-beginning-reading-2015)

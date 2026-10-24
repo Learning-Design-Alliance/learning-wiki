@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: strong
+newest_evidence: 2024
 sources:
   - id: tanja-bross-2024
     resource: "https://doi.org/10.1007/s10648-024-09931-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Across 355 studies with 155,208 participants, specific achievement goals show systematic interrelations with fifteen specific achievement emotions, mainly corroborating theoretical assumptions. [→ Tanja Bross 2024](#tanja-bross-2024)

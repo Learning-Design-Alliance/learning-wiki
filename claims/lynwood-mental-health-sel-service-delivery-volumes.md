@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: germain-2026
     resource: "https://doi.org/10.54300/947.934"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` District-collected data for one school year show 509 students referred to the health collaborative, 2,022 students receiving direct therapeutic support, and nearly 1,400 hours spent on crisis calls, assessment, stabilization, and prevention of escalation. [→ Germain 2026](#germain-2026)

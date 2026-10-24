@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: arana-chicas-e-2026
     resource: "https://doi.org/10.1007/s10552-026-02257-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants expressed concerns that statistics or strongly worded risk messages could evoke fear, anxiety, and fatalistic beliefs, and generally preferred balanced communication acknowledging risks while emphasizing benefits of early detection. [→ Arana-Chicas E 2026](#arana-chicas-e-2026)

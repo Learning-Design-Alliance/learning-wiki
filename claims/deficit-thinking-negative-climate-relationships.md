@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: evelyn-ezikwelu-2020
     resource: "https://www.iastatedigitalpress.com/jctp/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Deficit thinking about Black students by White teachers results in a negative campus racial climate, which is often the primary cause of unfriendly relationships between White teachers and Black students. [→ Evelyn Ezikwelu 2020](#evelyn-ezikwelu-2020)

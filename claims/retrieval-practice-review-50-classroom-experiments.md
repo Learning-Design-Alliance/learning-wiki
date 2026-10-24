@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-19
 sources:
   - id: dillon-h-murphy-2023
     resource: "https://doi.org/10.1007/s10648-023-09808-3"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Retrieval practice yielded medium to large benefits in most (57%) of 50 classroom experiments, across education levels, content areas, designs, delays, and formats. [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)

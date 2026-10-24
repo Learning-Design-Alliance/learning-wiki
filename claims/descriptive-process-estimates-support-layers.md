@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: gao-x-2026
     title: Gao X 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Differentiated materials were associated with lower cognitive load for low-proficiency learners (a = −2.54, p < 0.001) and higher discourse awareness for intermediate learners (a = 1.36, p < 0.001), with product estimates crossing zero. [→ Gao X 2026](#gao-x-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-17
 sources:
   - id: wallace-2020
     resource: "https://doi.org/10.1146/annurev-psych-010419-051112"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis quantified that multisensory impairments, particularly for social stimuli, are moderately to strongly correlated with clinical autism symptoms including impaired social communication. [→ Wallace 2020](#wallace-2020)

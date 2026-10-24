@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: patel-nilam-2016
     resource: "https://doi.org/10.1111/psyp.12582"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Accuracy was lower during threat than safe conditions in the 1-back and 2-back tasks, but did not differ between conditions in the 3-back task, across age groups. [→ Patel Nilam 2016](#patel-nilam-2016)

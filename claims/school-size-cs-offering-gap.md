@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: barrow-2020
     resource: "https://eric.ed.gov/?id=ED606832"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` In 2012, 58 percent of high schools with 900 or more students offered CS, compared with 14 percent of schools under 500 students; by 2018, 94 percent of the largest schools offered CS versus 68 percent of the smallest. [→ Barrow 2020](#barrow-2020)

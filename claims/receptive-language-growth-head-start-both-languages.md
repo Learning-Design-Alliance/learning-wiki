@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: davison-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3138808/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` All four language measures showed positive linear growth across Head Start, with English measures favoring HEC children and Spanish measures favoring SEC children. [→ Davison 2011](#davison-2011)

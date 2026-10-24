@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: snipes-2016
     resource: "https://eric.ed.gov/?id=ED573499"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The credits indicator had a true-positive rate of 64 percent versus 32 percent for attendance; Fs identified 65 percent and GPA below 2.0 identified 55 percent of eventual off-track students. [→ Snipes 2016](#snipes-2016)

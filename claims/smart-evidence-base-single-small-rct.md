@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://www.getsmartoregon.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only one study of SMART® met WWC evidence standards, with 84 analyzed students across six schools, so the WWC rated the intervention as having potentially positive effects rather than positive effects in all three domains. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

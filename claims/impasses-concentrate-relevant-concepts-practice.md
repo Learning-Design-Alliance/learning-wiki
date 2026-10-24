@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ahtisham-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38346"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 52.3% of impasse turns occurred while identifying relevant concepts, 18.1% during strategy, and 14.5% during execution, and impasse type depended strongly on practice (χ2(10) = 2313.9, p<.001, Cramér's V=.42). [→ Ahtisham 2026](#ahtisham-2026)

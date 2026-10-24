@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: von-hagen-2021
     resource: "https://doi.org/10.1007/s10648-020-09566-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Performance on foreign language reading comprehension varied to a similar extent across poor-literacy and control participant groups (CVR −0.24, non-significant). [→ von Hagen 2021](#von-hagen-2021)

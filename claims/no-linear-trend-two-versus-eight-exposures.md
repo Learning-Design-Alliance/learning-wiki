@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: marie-josée-bisson-2014
     resource: "https://doi.org/10.1111/lang.12085"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Linear contrasts showed no significant effect of exposure number in block 1 or block 2, but a one-tailed comparison of two versus eight exposures was significant in the participant analysis in block 1 (d = 0.21). [→ Marie-Josée Bisson 2014](#marie-josee-bisson-2014)

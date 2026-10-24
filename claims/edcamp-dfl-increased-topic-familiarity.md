@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: familiarity-1
     title: familiarity-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the four Edcamp events, participants reported increases in being very familiar with each topic: individual variability 17 percent, identity 29 percent, motivation 32 percent, and cognition 21 percent. [→ familiarity-1](#familiarity-1)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: print-1
     title: print-1
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The study authors reported a statistically significant positive effect on the TERA-3 (effect size 0.32, above the 0.25 substantively-important threshold), but no significant effects on the WJ-III Letter-Word Identification or Spelling subtests, and the print knowledge domain average (effect size 0.21) was neither statistically significant nor substantively important. [→ print-1](#print-1)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: sten-ludvigsen-2018
     resource: "https://doi.org/10.1007/s11412-018-9291-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In CSCL settings with real-time labs, students needed both procedural and conceptual support, and the teacher acted as an adaptive expert closing cognitive, social, and design gaps. [→ Sten Ludvigsen 2018](#sten-ludvigsen-2018)

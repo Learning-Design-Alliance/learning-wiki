@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: sartain-2020
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` About 60 percent of teachers and 70 percent of administrators were satisfied with the REACH evaluation process as a whole, with wide variation in teacher satisfaction across schools. [→ Sartain 2020](#sartain-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: pittaway-2014
     resource: "https://doi.org/10.14221/ajte.2014v39n7.10"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reported increased personal motivation because structured social opportunities helped them know each other, and peer visibility of work encouraged academic skill growth. [→ Pittaway 2014](#pittaway-2014)

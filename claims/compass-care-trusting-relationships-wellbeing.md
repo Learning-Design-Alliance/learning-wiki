@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: zimiles-2025
     resource: "https://eric.ed.gov/?id=ED677597"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students described developing close, trusting relationships with Compass Care staff that helped them feel more comfortable and safer coming to school, and school staff observed improved attitudes toward school. [→ Zimiles 2025](#zimiles-2025)

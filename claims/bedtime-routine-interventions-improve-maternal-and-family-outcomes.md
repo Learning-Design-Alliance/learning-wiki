@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: mindell-jodi-a-2018
     resource: "https://doi.org/10.1016/j.smrv.2017.10.007"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the Adams and Rickert study of 36 toddlers and preschoolers with bedtime tantrums, families implementing a bedtime routine reported significant improvements in marital satisfaction, whereas comparison intervention and control families did not. [→ Mindell Jodi A. 2018](#mindell-jodi-a-2018)

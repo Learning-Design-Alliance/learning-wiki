@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: pardos-za-2024
     title: Pardos ZA 2024
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A Two-Way ANOVA on ranked data found significant main effects of condition (F(2, 262) = 5.037, p = 0.0071) and subject (F(3, 262) = 6.737, p = 0.0002) on learning gains. [→ Pardos ZA 2024](#pardos-za-2024)

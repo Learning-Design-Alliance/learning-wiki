@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1922
 sources:
   - id: sackett-1922
     resource: "https://psycnet.apa.org/journals/edu"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A supplementary list of ten easy questions was ranked by ten judges and answered by a class of 27 high-school pupils; question E was answered by all pupils, and interpolation placed the zero of difficulty 2.191 units below the median. [→ Sackett 1922](#sackett-1922)

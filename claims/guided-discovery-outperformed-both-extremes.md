@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-19
 sources:
   - id: manu-kapur-2016
     resource: "https://doi.org/10.1080/00461520.2016.1155457"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mayer's (2004) review showed direct instruction was not the most effective condition; guided discovery outperformed both unguided discovery and direct instruction. [→ Manu Kapur 2016](#manu-kapur-2016)

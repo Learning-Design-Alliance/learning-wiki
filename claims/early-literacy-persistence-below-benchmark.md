@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: lemke-2023
     resource: "https://eric.ed.gov/?id=ED638519"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Sixty percent of students below benchmark at the beginning of the year were still below benchmark at the end; persistence ranged from 67 to 80 percent for economically disadvantaged, English learner, special education, Black, and Hispanic students. [→ Lemke 2023](#lemke-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: slotnik-2015
     resource: "https://eric.ed.gov/?id=ED568386"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Eighty percent of principals versus 52% of teachers agree the frameworks use validated observation measures, and 93% of principals versus 66% of teachers agree observers are qualified. [→ Slotnik 2015](#slotnik-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kristina-schaaff-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08748"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bachelor's students used Syntea at 58.17% versus 54.25% of Master's students, but the difference may partly reflect Master's programs' proportionally larger thesis phase, during which Syntea is generally not used. [→ Kristina Schaaff 2026](#kristina-schaaff-2026)

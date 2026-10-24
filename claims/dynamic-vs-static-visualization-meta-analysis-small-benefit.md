@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: paul-ginns-jimmie-leppink-2019
     resource: "https://doi.org/10.1007/s10648-019-09474-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 46 identified experimental studies, the meta-analysis found a small average benefit of dynamic visualizations over static visualizations, with gender examined as a potential moderator alongside educational level, learning domain, media compared, and reporting reliability measures. [→ Paul Ginns & Jimmie Leppink 2019](#paul-ginns-jimmie-leppink-2019)

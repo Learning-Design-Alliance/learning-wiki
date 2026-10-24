@@ -8,6 +8,8 @@ generated:
 id: dialogic-reading-improves-language-outcomes
 aliases: [dialogic-reading-improves-expressive-language]
 evidence_strength:
+newest_evidence: 2009
+source_checked: 2026-10-15
 sources:
   - id: mol-et-al-2008
     resource: "https://doi.org/10.1080/10409280701838603"
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2009 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 Dialogic reading — an adult reading interactively with a child using prompts, questions, feedback, and expansion of the child's utterances — produces larger gains in expressive vocabulary and oral language than simple read-alouds.
 

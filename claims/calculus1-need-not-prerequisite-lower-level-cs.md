@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+source_checked: 2026-10-19
 sources:
   - id: albert-lionelle-2024
     title: Albert Lionelle 2024
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Calc 1 showed the greatest variability in blocking across schools, and the authors state their data supports not requiring Calculus 1 as a prerequisite for lower-level CS courses, consistent with ACM recommendations. [→ Albert Lionelle 2024](#albert-lionelle-2024)

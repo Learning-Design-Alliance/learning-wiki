@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: graf-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101869"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Climate-emotion associations and indirect effects persist with controls, but the paths from class-related boredom to the outcomes and from class-related enjoyment to knowledge become non-significant. [→ Graf 2023](#graf-2023)

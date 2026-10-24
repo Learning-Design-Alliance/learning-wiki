@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-17
 sources:
   - id: elaine-k-horwitz-2010
     resource: "https://doi.org/10.1017/S026144480999036X"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Early studies on the relationship between anxiety and achievement provided mixed and confusing results, which the article attributes to the multifaceted nature of the anxiety construct. [→ Elaine K. Horwitz 2010](#elaine-k-horwitz-2010)

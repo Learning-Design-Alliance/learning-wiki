@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: cansu-koyuturk-2026
     resource: "https://doi.org/10.48550/arxiv.2605.18372"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a linear regression predicting final ranking accuracy, users' baseline accuracy was a significant predictor (b = 0.414, p < .001) while condition, time, and their interaction were not significant. [→ Cansu Koyuturk 2026](#cansu-koyuturk-2026)

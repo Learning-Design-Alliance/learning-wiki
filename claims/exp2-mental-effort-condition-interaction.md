@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: steven-f-raaijmakers-2019
     resource: "https://doi.org/10.1007/s11409-019-09189-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A test moment × condition interaction on mental effort (ηp² = .063) showed the contrast condition's effort rose from learning to test phase while other conditions' effort fell. [→ Steven F. Raaijmakers 2019](#steven-f-raaijmakers-2019)

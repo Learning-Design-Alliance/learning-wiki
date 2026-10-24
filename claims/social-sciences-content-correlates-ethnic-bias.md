@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: josmario-albuquerque-2026
     resource: "https://doi.org/10.18608/jla.2026.8905"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The contextual feature disc social (social sciences discipline) showed a statistically significant positive correlation with the bias score (r = 0.163, p = 0.002). [→ Josmario Albuquerque 2026](#josmario-albuquerque-2026)

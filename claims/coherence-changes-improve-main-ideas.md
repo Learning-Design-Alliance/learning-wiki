@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: vidal-abarca-1998
     resource: "https://www.sciencedirect.com/science/article/abs/pii/S0959475297000200"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reading the coherence version outperformed those reading the original version on the main-ideas test, with coherence the only reliable main effect. [→ Vidal-Abarca 1998](#vidal-abarca-1998)

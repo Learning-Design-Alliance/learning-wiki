@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: james-burdumy-2010
     resource: "http://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study found no clear pattern in how student, teacher, and school characteristics related to the effectiveness of the interventions. [→ James-Burdumy 2010](#james-burdumy-2010)

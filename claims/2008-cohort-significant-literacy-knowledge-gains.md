@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: pufpaff-2010
     resource: "https://doi.org/10.1002/pits.20485"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 2008 cohort (n = 10) evidenced a statistically significant improvement in literacy knowledge from pretest to posttest. [→ Pufpaff 2010](#pufpaff-2010)

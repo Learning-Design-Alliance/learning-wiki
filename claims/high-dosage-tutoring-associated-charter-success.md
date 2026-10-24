@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: philip-m-gleason-2016
     resource: "https://doi.org/10.1080/15582159.2017.1395620"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Moderately strong evidence suggests high-dosage tutoring is positively associated with charter school success. [→ Philip M. Gleason 2016](#philip-m-gleason-2016)

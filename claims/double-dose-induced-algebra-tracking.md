@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-15
 sources:
   - id: takako-nomi-and-elaine-m-allensworth-2008
     resource: "http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: flex-time-usage
     title: flex-time-usage
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students in a rural North Dakota district's flex scheduling program had an average of 80 minutes of flex-time daily but spent only 19 percent of it on academic activities, with 78 percent going to nonacademic pursuits. [→ flex-time-usage](#flex-time-usage)

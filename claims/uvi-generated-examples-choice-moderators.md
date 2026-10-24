@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: carol-sansone-2026
     resource: "https://doi.org/10.1007/s10648-026-10142-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The intervention is most effective when students generate examples of utility for themselves rather than being provided with reasons why course topics might be useful. [→ Carol Sansone 2026](#carol-sansone-2026)

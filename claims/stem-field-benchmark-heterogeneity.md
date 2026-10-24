@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mehmet-bicakci-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100803"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Science raw quartiles (0.36, 0.69, 1.16) exceed mathematics raw quartiles (0.16, 0.38, 0.73), a difference the authors call highly consequential for interpretation. [→ Mehmet Bicakci 2026](#mehmet-bicakci-2026)

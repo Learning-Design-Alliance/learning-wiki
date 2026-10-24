@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: elias-walsh-2015
     resource: "https://www.mathematica.org/publications/measuring-teacher-and-school-value-added-in-oklahoma-20132014-school-year"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Teacher value-added results for Oklahoma in 2013-2014 were estimated using test scores from that school year together with other information about teachers and students. [→ Elias Walsh 2015](#elias-walsh-2015)

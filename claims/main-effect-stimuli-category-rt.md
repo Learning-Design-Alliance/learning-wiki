@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: wengaard-e-2017
     title: Wengaard E 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A significant main effect of stimuli (F = 6.01, p = 0.003) was found on reaction time across the three cue conditions. [→ Wengaard E 2017](#wengaard-e-2017)

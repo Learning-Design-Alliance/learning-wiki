@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: bembenutty-2023
     resource: "https://doi.org/10.1007/s10648-023-09743-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The tribute authors characterize McInerney as a thinker who invited the field to reconsider how it conceptualizes, assesses, and applies scientific investigations in teaching and learning practices. [→ Bembenutty 2023](#bembenutty-2023)

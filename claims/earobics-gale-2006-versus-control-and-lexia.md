@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2009
 sources:
   - id: what-works-clearinghouse-2009
     resource: "https://www.earobics.com"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Against the no-supplemental-instruction control, Earobics® showed positive, statistically significant effects on Initial Sounds Fluency (kindergarten, effect size 2.12), Phoneme Segmentation Fluency (kindergarten effect size 2.39; grade 1 effect size 1.73), and Nonsense Words Fluency (grade 1, effect size 1.29). [→ What Works Clearinghouse 2009](#what-works-clearinghouse-2009)

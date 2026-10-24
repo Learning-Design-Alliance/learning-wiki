@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: catherine-p-bradshaw-2010
     resource: "https://doi.org/10.1177/1098300709334798"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-14: Suspension rates declined significantly over time in SWPBIS schools but not comparison schools -->
 
 ## Subclaims

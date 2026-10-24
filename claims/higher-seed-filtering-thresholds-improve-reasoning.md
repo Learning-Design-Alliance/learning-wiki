@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: xianyang-liu-2025
     resource: "https://doi.org/10.48550/arxiv.2510.19361"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using Mistral-7B, raising the Stage 1 filtering threshold from score 2 to 3 to 4 improves average benchmark accuracy (33.4, 34.9, 35.0). [→ Xianyang Liu 2025](#xianyang-liu-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-17
 sources:
   - id: rakib-2025
     resource: "https://doi.org/10.48550/arxiv.2607.00979"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants valued combining visualization with hands-on interaction but found overly complex or unclear visualizations hindered comprehension of interconnected mechanics concepts. [→ Rakib 2025](#rakib-2025)

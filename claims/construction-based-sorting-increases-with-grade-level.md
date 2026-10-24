@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: kim-2020
     resource: "https://doi.org/10.15858/engtea.75.s1.202006.55"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The proportion of entirely construction-based sorting rose steadily across grade levels, from 0% in G1 to 81% in G5, while entirely verb-based sorting fell from 54% to 0%. [→ Kim 2020](#kim-2020)

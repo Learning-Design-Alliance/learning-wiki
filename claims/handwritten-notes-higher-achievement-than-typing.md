@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: craig-wright-2026
     resource: "https://doi.org/10.1007/s40979-026-00234-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: Handwritten note-taking yields higher achievement than typing, grounding a learning-outcome boundary where transcription tools bypass the assessed skill -->
 
 ## Subclaims

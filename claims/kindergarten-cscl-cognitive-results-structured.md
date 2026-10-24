@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9155-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Contrary to the view that CSCL benefits apply only to older students, the editors report that the Lim study shows technology can promote important cognitive results among kindergarten students if properly structured. [→ Stahl 2012](#stahl-2012)

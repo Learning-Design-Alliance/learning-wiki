@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bang-an-2026
     resource: "https://doi.org/10.48550/arxiv.2609.19617"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the WindowDash case, only three orders satisfied both the above-$100 price and above-45-minute delivery-time conditions, and their mean rating of 2.0 provides limited support for the designed pattern. [→ Bang An 2026](#bang-an-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: zakani-2019
     resource: "https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Engineering Technology programs, the cognitive process required by physics questions depends heavily on content: topics directly related to the program's focus area are examined at higher cognitive levels within a disciplinary context, while other topics require only remembering or understanding. [→ Zakani 2019](#zakani-2019)

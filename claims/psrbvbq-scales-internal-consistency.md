@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: grădinariu-2021
     resource: "https://doi.org/10.35923/JES.2021.2.03"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Item analysis showed satisfactory internal consistency for all three PSRBVBQ factors, with the response-to-victim and response-to-bully scales the most reliable. [→ Grădinariu 2021](#gradinariu-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: chu-2019
     resource: "https://eric.ed.gov/?id=ED601889"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Contextualized story problems, plus small-group formats, featured prominently in the five lessons highly rated on both sense-making and student questioning/reasoning. [→ Chu 2019](#chu-2019)

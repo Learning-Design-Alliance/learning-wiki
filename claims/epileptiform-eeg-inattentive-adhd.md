@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: mohamed-a-ahmed-2014
     resource: "https://doi.org/10.14740/jnr268w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among 40 ADHD children, 15 (37.5%) had abnormal non-epileptiform EEG activity and 5 (15%) had epileptiform activity, with the inattentive subtype showing the highest proportion of epileptiform activity (4 of 9, 44.4%). [→ Mohamed A. Ahmed 2014](#mohamed-a-ahmed-2014)

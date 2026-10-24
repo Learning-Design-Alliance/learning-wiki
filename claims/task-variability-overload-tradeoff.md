@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: slava-kalyuga-2010
     resource: "https://doi.org/10.1007/s10648-010-9132-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` While increased variability of learning tasks can facilitate de-contextualization and generalization of procedural knowledge, relating many components and levels of knowledge in working memory can in some cases overload working memory and decrease learning efficiency. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)

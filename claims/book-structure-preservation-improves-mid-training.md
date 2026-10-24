@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jiawen-tao-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28109"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On a 3B-active MoE model, keeping TOC-planned textbooks as complete documents outperforms treating each section as an independent document on 22 of 28 benchmarks, with a +1.02 overall mean gain. [→ Jiawen Tao 2026](#jiawen-tao-2026)

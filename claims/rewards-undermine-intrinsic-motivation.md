@@ -8,6 +8,7 @@ generated:
 id: rewards-undermine-intrinsic-motivation
 aliases: [extrinsic-rewards-undermine-intrinsic-motivation, overjustification-effect-reduces-intrinsic-motivation]
 evidence_strength:
+newest_evidence: 2001
 sources:
   - id: deci-koestner-ryan-1999
     resource: "https://doi.org/10.1037/0033-2909.125.6.627"
@@ -60,6 +61,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 2 quant-synthesis `r2`, 2 review `r2`, 1 causal `r?` · `q3`–`q4` · `i1` small
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence): Rewards Undermine Intrinsic Motivation -->
 
 Extrinsic rewards — particularly tangible, expected rewards offered contingent on task engagement or completion — can reduce learners' intrinsic motivation for activities they initially found interesting.

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: rexhäuser-2026
     resource: "https://doi.org/10.1007/s11412-026-09468-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Trainees who learned by self-explaining worked examples showed a significant pre-post improvement in declarative knowledge of CDR strategies compared with the problem-solving group. [→ Rexhäuser 2026](#rexhauser-2026)

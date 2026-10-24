@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: oral-1
     title: oral-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` On the PPVT-III (effect size 0.12) and TOLD-P:3 Grammatic Understanding subtest (effect size 0.18), differences between the Bright Beginnings and comparison groups were not statistically significant, with a domain average effect size of 0.15. [→ oral-1](#oral-1)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: panadero-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102168"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants in the 4–1 order condition visited PL4 more frequently and spent more fixation time on it than those in the 1–4 condition, who attended more to PL1 and PL2. [→ Panadero 2025](#panadero-2025)

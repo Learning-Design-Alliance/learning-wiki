@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with strong baseline motivation described that knowing AI could complete the assignment changed how worthwhile their effort felt, calling it demoralizing. [→ cost-effort-1](#cost-effort-1)

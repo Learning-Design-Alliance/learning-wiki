@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: younghoon-jeon-2026
     resource: "https://doi.org/10.48550/arxiv.2602.10620"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation of prior knowledge (d = 0.29), both p < 0.001. [→ YoungHoon Jeon 2026](#younghoon-jeon-2026)

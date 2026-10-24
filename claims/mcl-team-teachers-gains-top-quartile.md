@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: center-on-school-turnaround-at-wested-2018
     resource: "https://eric.ed.gov/?id=ED592986"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teachers on MCL teams produced gains equal to top-quartile teachers in math and nearly that in reading, per an independent AIR/Brookings study. [→ Center on School Turnaround at WestEd 2018](#center-on-school-turnaround-at-wested-2018)

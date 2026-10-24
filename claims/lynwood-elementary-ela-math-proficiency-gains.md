@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: germain-2026
     resource: "https://doi.org/10.54300/947.934"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared with 2022–23, most Lynwood elementary schools (11 of 12 in ELA, 10 in math) increased the percentage of students meeting or exceeding CAASPP proficiency standards by 2024–25. [→ Germain 2026](#germain-2026)

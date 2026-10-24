@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: rife-2025
     resource: "https://doi.org/10.31446/JCP.2025.1.07"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the author's course, an assignment tasking students to eulogize an extinct or near-extinct species, place, or way of life facilitated recognition of the more-than-human as co-participants in shared reality rather than mere objects for exploitation. [→ Rife 2025](#rife-2025)

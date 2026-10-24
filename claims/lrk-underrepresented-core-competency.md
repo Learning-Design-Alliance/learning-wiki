@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: veronika-hackl-2025
     resource: "https://doi.org/10.48550/arxiv.2509.18900"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` LRK appeared in only 2 of 27 analyzed sources, but the authors include it as a core Heptagon dimension because the regulatory landscape, exemplified by the EU AI Act, is rapidly evolving. [→ Veronika Hackl 2025](#veronika-hackl-2025)

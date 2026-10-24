@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: teguh-triwiyanto-2024
     resource: "https://doi.org/10.11591/edulearn.v18i4.21692"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among digital transformation capability indicators, teacher competence in communication technology scored highest, and use of technology that makes many processes virtual scored lowest. [→ Teguh Triwiyanto 2024](#teguh-triwiyanto-2024)

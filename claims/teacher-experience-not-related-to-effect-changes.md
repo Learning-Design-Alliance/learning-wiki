@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: larissa-campuzano-2009
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Changes in software product effects between the first and second year were not systematically related to teacher experience using the software. [→ Larissa Campuzano 2009](#larissa-campuzano-2009)

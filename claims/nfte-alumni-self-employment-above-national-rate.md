@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: nakamoto-2017
     resource: "https://eric.ed.gov/?id=ED582976"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of employed NFTE alumni respondents, 16 percent reported being self-employed or having a business open in the past year, compared with a cited national rate of 6 percent for young adults ages 25–34. [→ Nakamoto 2017](#nakamoto-2017)

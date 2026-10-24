@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: ann-e-person-2014
     resource: "https://www.mathematica.org/publications/measurement-and-segmentation-of-college-students-noncognitive-attributes-a-targeted-review"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There is some convergence in the literature and among expert opinions regarding a limited number of key noncognitive attributes that matter for students' success, and multiple instruments are available to measure these attributes. [→ Ann E. Person 2014](#ann-e-person-2014)

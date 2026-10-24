@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2006
+recheck_by: 2011
 sources:
   - id: huatong-sun-2006
     resource: "https://doi.org/10.1207/s15427625tcq1504_3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` At the American site participants mostly used text messaging for fun conversations and short small-talk exchanges, while Chinese participants sent more messages to inform and engaged in longer, more in-depth conversations. [→ Huatong Sun 2006](#huatong-sun-2006)

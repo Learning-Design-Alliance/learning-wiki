@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: what-works-clearinghouse-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/641"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 12 eligible studies, none met WWC group design standards without reservations; three met standards with reservations, and the extent of evidence is rated small for the domains with qualifying studies. [→ What Works Clearinghouse 2016](#what-works-clearinghouse-2016)

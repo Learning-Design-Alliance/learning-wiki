@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: angeline-s-lillard-2019
     resource: "https://doi.org/10.1007/s10648-019-09483-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Kindergartners in a classroom with decorated, cluttered walls spent more time looking at the walls than the teacher and learned significantly less than in a sparse-walls classroom. [→ Angeline S. Lillard 2019](#angeline-s-lillard-2019)

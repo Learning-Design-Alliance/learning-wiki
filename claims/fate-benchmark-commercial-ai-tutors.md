@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: tahmid-al-hannan-2026
     resource: "https://doi.org/10.48550/arxiv.2607.10647"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Gemini achieved the highest overall average accuracy (82.88%), leading in Mistake Identification, Mistake Location, and Actionability, while DeepSeek performed best on Providing Guidance. [→ Tahmid Al Hannan 2026](#tahmid-al-hannan-2026)

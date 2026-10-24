@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-15
 sources:
   - id: rogde-k-2019
     resource: "https://doi.org/10.1002/cl2.1059"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i0` negligible
+> **Currency** · newest study 2019 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The review found no clear evidence of an immediate effect of linguistic comprehension instruction on generalized reading comprehension outcomes in the trials it included: the pooled posttest effect was close to zero and not significant (g = 0.05, 95% CI [−0.01, 0.12], p = .13, 16 effect sizes), which does not show the true effect is zero. [→ Rogde K 2019](#rogde-k-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: steven-glazerman-and-jeffrey-max-2011
     resource: "https://ies.ed.gov/ncee/pubs/20114016/pdf/20114016_app.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Depending on district, subject, and grade level, the average highest-performing teacher produced student gains of 4 to 14 percentile points in a school year compared to the average teacher in the district. [→ Steven Glazerman and Jeffrey Max 2011](#steven-glazerman-and-jeffrey-max-2011)

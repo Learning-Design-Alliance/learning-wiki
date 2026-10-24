@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: scheibe-2009
     resource: "https://doi.org/10.1037/a0013807"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across time, all participants in all conditions increased N-Back performance, with the largest increase from baseline to T1, reflected in a strong multivariate main effect of time. [→ Scheibe 2009](#scheibe-2009)

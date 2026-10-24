@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: victor-angelier-2026
     resource: "https://doi.org/10.1007/s43681-026-01376-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` After commercial humanizer rewriting that inserted meta-instructions at twelve points and increased word count from 4,808 to 6,227 words (a 29.5% increase), Originality.ai reported 81% Likely AI for the original and 78% Likely AI for the rewritten version. [→ Victor Angelier 2026](#victor-angelier-2026)

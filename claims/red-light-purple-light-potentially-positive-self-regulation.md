@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-10
 sources:
   - id: what-works-clearinghouse-2022
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/725"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1`–`r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-10 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across two studies meeting WWC standards, the average effect of Red Light, Purple Light on self-regulation outcomes was statistically significant, yielding a potentially positive effectiveness rating. [→ What Works Clearinghouse 2022](#what-works-clearinghouse-2022)

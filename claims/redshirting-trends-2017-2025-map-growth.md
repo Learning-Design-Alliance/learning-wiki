@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: megan-kuhfeld-2026
     resource: "https://www.nwea.org/research/publication/should-kindergartners-be-redshirted-costs-likely-outweigh-academic-benefits/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study documents redshirting trends between fall 2017 and 2025 using national data from over three million kindergartners on the NWEA MAP Growth K-2 assessment. [→ Megan Kuhfeld 2026](#megan-kuhfeld-2026)

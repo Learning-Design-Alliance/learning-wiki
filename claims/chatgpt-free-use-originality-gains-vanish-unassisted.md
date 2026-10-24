@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-15
 sources:
   - id: wong-2026
     resource: "https://doi.org/10.1007/s10648-026-10118-7"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r3`, 1 theoretical `r2` · `q2`–`q3` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

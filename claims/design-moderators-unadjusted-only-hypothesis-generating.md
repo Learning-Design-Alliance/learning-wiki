@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yijia-yuan-yiran-du-2026
     resource: "https://doi.org/10.1007/s10648-026-10227-3"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Guided interventions (g = 0.760) showed a larger unadjusted estimate than unguided interventions (g = 0.479), F(1, 31) = 4.84, p = .035; immediate-feedback interventions (g = 0.744) larger than delayed (g = 0.408), p = .025; and system-directed interventions (g = 0.780) larger than learner-directed (g = 0.499), p = .030. [→ Yijia Yuan & Yiran Du 2026](#yijia-yuan-yiran-du-2026)

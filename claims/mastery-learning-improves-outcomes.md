@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: mastery-learning-improves-outcomes
 evidence_strength: pending
+newest_evidence: 1990
+source_checked: 2026-10-15
 sources:
   - id: kulik-et-al-1990
     resource: "https://doi.org/10.3102/00346543060002265"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=108 studies
+> **Currency** · newest study 1990 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 When learners must demonstrate mastery of each unit before advancing, achievement improves relative to time-fixed, group-paced instruction. The mechanism is holding learning constant and varying time, rather than holding time constant and varying learning.
 

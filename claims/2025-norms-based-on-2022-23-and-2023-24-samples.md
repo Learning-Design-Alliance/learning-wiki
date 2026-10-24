@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: map-growth-national-dashboard-user-guide-and-faq-2026
     resource: "https://www.nwea.org/map-growth-national-dashboard"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The 2025 MAP Growth Norms draw on the national sample of tests taken in 2022–23 and 2023–24, and achievement percentiles, CGPs, and proficiency projections are not comparable between the dashboard and reports reflecting the 2020 norms. [→ MAP Growth National Dashboard user guide and FAQ 2026](#map-growth-national-dashboard-user-guide-and-faq-2026)

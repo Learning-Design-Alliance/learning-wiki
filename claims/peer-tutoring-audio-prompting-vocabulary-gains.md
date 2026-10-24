@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: mackiewicz-2011
     resource: "https://doi.org/10.1177/0741932510362507"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean correct selections were greater for the peer tutoring with audio prompting condition (M = 4.1 of 6) than for incidental learning alone (M = 1.2 of 6). [→ Mackiewicz 2011](#mackiewicz-2011)

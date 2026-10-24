@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: xiaotian-su-2026
     resource: "https://doi.org/10.48550/arxiv.2610.01518"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Compared with Standard Chatbot, Engage-to-Unlock participants spent about 4.77 minutes longer writing and 4.80 minutes less evaluating, a significant cross-task difference-in-differences of −9.57 minutes, while total task duration did not differ significantly across conditions. [→ Xiaotian Su 2026](#xiaotian-su-2026)

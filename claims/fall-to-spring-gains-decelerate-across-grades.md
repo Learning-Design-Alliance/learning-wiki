@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: soland-2019
     resource: "https://www.nwea.org/research/publication/school-effectiveness-summer-loss-and-federal-accountability-applying-the-compound-polynomialmodel-in-a-program-evaluation-context/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Fixed-effect estimates show fall-to-spring growth in math decelerates linearly at roughly 1.4 RIT (centered at grade two) and 1.99 RIT (centered at grade four), and in reading by almost 4 and 2.5 RIT respectively. [→ Soland 2019](#soland-2019)

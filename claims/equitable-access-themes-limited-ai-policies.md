@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: eldredge-c-2026
     resource: "https://doi.org/10.1093/jamia/ocag150"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Mentions of inclusion (n = 9), accessibility (n = 9), accommodations (n = 4), and equitable access (n = 2) were few, indicating a limited focus on digital inclusion. [→ Eldredge C 2026](#eldredge-c-2026)

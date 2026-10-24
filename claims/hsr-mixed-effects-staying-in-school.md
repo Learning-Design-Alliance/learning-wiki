@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2007
 sources:
   - id: high-school-redirection-2007
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the Stockton randomized trial, High School Redirection youth were enrolled more days than control youth in the first and second follow-up years and fewer had dropped out by year three. [→ High School Redirection 2007](#high-school-redirection-2007)

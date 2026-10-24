@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: qin-xie-2026
     resource: "https://doi.org/10.48550/arxiv.2609.10842"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` AI-generated content raises epistemic monoculture and synthetic misinformation; cognitive offloading threatens critical thinking and academic integrity; and large-scale AI imposes environmental costs and geopolitical dependencies. [→ Qin Xie 2026](#qin-xie-2026)

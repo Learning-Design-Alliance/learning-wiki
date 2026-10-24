@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: de-la-torre-2023
     resource: "https://consortium.uchicago.edu/publications/exploring-chicago-connected"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 36% of eligible students with an index of 6 or higher participated, vs. 23% with an index of 4 or 5 and 12% with an index of 3 or lower; the index remained statistically significant in multilevel models. [→ de la Torre 2023](#de-la-torre-2023)

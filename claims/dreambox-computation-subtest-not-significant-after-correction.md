@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: computation
     title: computation
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The MAP Computation subtest showed a raw effect size of 0.15 favoring DreamBox Learning (p = 0.03), but a multiple-comparison correction set a critical p-value of 0.01, so the WWC does not find this result statistically significant. [→ computation](#computation)

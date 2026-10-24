@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: olga-vogel-2024
     resource: "https://doi.org/10.1007/s11251-023-09653-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a multiple regression with all four competencies as simultaneous predictors, each showed a significant positive relationship with knowledge integration, together explaining 36% of its variance. [→ Olga Vogel 2024](#olga-vogel-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: leonardo-silva-2023
     resource: "https://doi.org/10.1007/s11412-023-09388-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Regulatory support raised course grades even though students' SRL aptitude, measured pre and post with the MSLQ, did not increase. [→ Leonardo Silva 2023](#leonardo-silva-2023)

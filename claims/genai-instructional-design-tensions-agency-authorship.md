@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ó-ceallaigh-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100367"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Educators grapple with balancing GenAI's generative affordances against maintaining student agency, creativity, and deep engagement, while co-authorship with AI challenges traditional definitions of academic integrity and originality. [→ Ó Ceallaigh 2026](#o-ceallaigh-2026)

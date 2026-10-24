@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: williams-2025
     resource: "https://doi.org/10.15173/ijsap.v9i1.5802"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A co-creation initiative explored the use of generative artificial intelligence (AI) technologies in the context of higher education assessments. [→ Williams 2025](#williams-2025)

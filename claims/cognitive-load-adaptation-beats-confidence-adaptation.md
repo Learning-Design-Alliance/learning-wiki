@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: anselm-strohmaier-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102364"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an open-ended social psychology quiz, only adaptation based on generic self-reported cognitive load led to higher learning gains than a non-adaptive control condition, while adaptation based on domain-specific criterion-based confidence ratings did not. [→ Anselm Strohmaier 2026](#anselm-strohmaier-2026)

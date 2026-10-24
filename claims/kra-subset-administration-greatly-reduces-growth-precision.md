@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: lisa-dragoset-2019
     resource: "https://www.mathematica.org/publications/measuring-school-performance-for-early-elementary-grades-in-maryland"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Administering the Kindergarten Readiness Assessment to a subset of students in each classroom, as opposed to all students, greatly reduces the precision of schools' K-3 growth estimates. [→ Lisa Dragoset 2019](#lisa-dragoset-2019)

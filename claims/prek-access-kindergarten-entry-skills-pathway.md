@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: connors-2021
     resource: "https://consortium.uchicago.edu/publications/a-path-to-equity"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across all student groups, improved second grade outcomes were related to pre-k policy changes through greater access to full-day pre-k, and subsequently improved kindergarten entry skills. [→ Connors 2021](#connors-2021)

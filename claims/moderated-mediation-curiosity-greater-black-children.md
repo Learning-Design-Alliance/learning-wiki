@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: goldstein-2021
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Family resilience's moderated-mediation effect on the relationship between ACEs and curiosity in learning was statistically significantly greater for Black than for White children. [→ Goldstein 2021](#goldstein-2021)

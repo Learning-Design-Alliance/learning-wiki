@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: arifani-2016
     resource: "https://doi.org/10.5539/ies.v9n2p111"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the second cycle, 90% of the thirty students reached the success criterion with an average score of 85.8, compared with 36.7% meeting the criterion in the first cycle. [→ Arifani 2016](#arifani-2016)

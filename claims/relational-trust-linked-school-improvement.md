@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
+source_checked: 2026-10-20
 sources:
   - id: penny-bender-sebring-and-anthony-s-bryk-2000
     resource: "https://consortium.uchicago.edu/publications/school-leadership-and-bottom-line-chicago"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2000 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In improving schools with strong trust and cooperative adult efforts, students report feeling safe, sensing teachers care, and experiencing greater academic challenge; in flat or declining schools, teachers report mistrust and both teachers and students report less satisfaction. [→ Penny Bender Sebring and Anthony S. Bryk 2000](#penny-bender-sebring-and-anthony-s-bryk-2000)

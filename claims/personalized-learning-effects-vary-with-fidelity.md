@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: personalized-learning-effects-vary-with-fidelity
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: pane-et-al-2017
     resource: "https://doi.org/10.7249/rr2042"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible · n=~40 Next Generation Learning Challenges (NGLC) schools; 5,539 students (math) / 5,474 students (reading), 2014–15
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 The measured benefits of personalized learning depend heavily on how faithfully a program is implemented — effects observed in efficacy trials often shrink or disappear when implementation drifts from the intended design.
 

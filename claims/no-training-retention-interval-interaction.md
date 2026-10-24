@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: rachatasumrit-2023
     resource: "https://doi.org/10.31234/osf.io/eyxfw"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` No interaction between type of training and retention interval was found, and accuracy on fact vs. skill questions did not vary with retention interval duration. [→ Rachatasumrit 2023](#rachatasumrit-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: schachner-2025
     resource: "https://edworkingpapers.com/ai25-1153"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Program eligibility was associated with a 0.05 point lower fall 2020 GPA in the full analytic sample, and this magnitude did not vary by students' pre-pandemic academic performance. [→ Schachner 2025](#schachner-2025)

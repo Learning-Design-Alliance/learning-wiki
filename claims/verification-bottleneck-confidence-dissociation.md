@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: tsim-2026
     resource: "https://doi.org/10.48550/arxiv.2608.28373"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A performance–metacognition dissociation occurs in AI-mediated environments: error-detection accuracy falls with increasing reliance while user confidence holds steady. [→ Tsim 2026](#tsim-2026)

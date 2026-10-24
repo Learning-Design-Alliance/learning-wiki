@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: faulkner-bond-2026
     resource: "https://eric.ed.gov/?id=ED681359"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Replication analyses with 2022-23 data yielded results similar to the original 2018-19 analyses, with both datasets identifying ELPAC overall PL 4 as the level at which EL students have similar chances of being proficient or not proficient on the SBAC ELA. [→ Faulkner-Bond 2026](#faulkner-bond-2026)

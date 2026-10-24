@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: sung-je-2015
     title: Sung JE 2015
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Partial correlation between WM and priming-noncanonical accuracy remained significant (r = .296, p < .05) after controlling for age; the other three conditions did not. [→ Sung JE 2015](#sung-je-2015)

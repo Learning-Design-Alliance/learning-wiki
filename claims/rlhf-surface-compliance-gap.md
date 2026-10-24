@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: peng-wang-2026
     resource: "https://doi.org/10.1007/s10648-026-10195-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` RLHF improves surface-level compliance with rater-endorsed norms, but questions about principle-level generalization and robustness across contexts remain open. [→ Peng Wang 2026](#peng-wang-2026)

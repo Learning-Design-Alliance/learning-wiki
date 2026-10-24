@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: financial-incentives-for-teen-parents-to-stay-in-school-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither the LEAP nor the Cal-Learn study reported a statistically significant effect on completing high school or a GED. [→ Financial Incentives for Teen Parents to Stay in School 2006](#financial-incentives-for-teen-parents-to-stay-in-school-2006)

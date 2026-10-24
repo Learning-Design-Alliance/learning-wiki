@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: johns-2016
     resource: "https://doi.org/10.3758/s13423-015-0980-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Subjects were significantly more accurate at recognizing novel words seen across highly variable contexts than those seen in redundant contexts. [→ Johns 2016](#johns-2016)

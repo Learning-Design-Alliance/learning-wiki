@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: arthuk-s-otis-stanford-university-1917
     resource: "https://eric.ed.gov/?q=Otis+criticism+Yerkes-Bridges+point+scale"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Points assigned to repeating 3, 4, 5, 6, and 7 digits (1, 2, 3, 4, 5 points) implicitly assume equal increments of mental growth, but the Binet placement of these tests indicates growth intervals of approximately 1, 3, 3, and 4 years. [→ ARTHUK S. OTIS (Stanford University) 1917](#arthuk-s-otis-stanford-university-1917)

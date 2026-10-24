@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: the-education-trust-2022
     resource: "https://eric.ed.gov/?id=ED626435"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The brief reports that 18% of principals leave schools each year and half of new principals leave within three years, and that turnover has cascading consequences including teacher turnover and disruption of school environments and student achievement. [→ The Education Trust 2022](#the-education-trust-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: todd-rosenkranz-2002
     resource: "https://consortium.uchicago.edu/publications/2001-cps-trend-review-iowa-tests-basic-skills"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The two largest eighth-grade math gains (1997 and 1999) share the Form L to Form M progression and the three lowest gains (1994, 1996, and 2001) share the Form K to Form L progression, a pattern the authors say is consistent with test form effects. [→ Todd Rosenkranz 2002](#todd-rosenkranz-2002)

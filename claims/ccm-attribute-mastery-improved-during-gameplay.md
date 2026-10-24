@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: jiaqi-yu-2022
     resource: "https://doi.org/10.18608/jla.2022.7639"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All quantiles of attribute mastery distributions differed significantly at the .05 nominal level between first and second halves of gameplay, with second-half values higher. [→ Jiaqi Yu 2022](#jiaqi-yu-2022)

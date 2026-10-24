@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: kievit-2017
     resource: "https://doi.org/10.1177/0956797617710785"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The mutualism model could be equality constrained across sexes without notable fit loss, and allowing age to directly predict change scores did not improve fit. [→ Kievit 2017](#kievit-2017)

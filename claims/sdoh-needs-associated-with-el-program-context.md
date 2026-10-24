@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: jacobson-2025
     resource: "https://eric.ed.gov/?id=ED673563"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Logistic regression analysis using the CDC Social Determinants of Health framework finds out-of-school economic and social needs significantly associated with program context variables such as students served, program size, and staff. [→ Jacobson 2025](#jacobson-2025)

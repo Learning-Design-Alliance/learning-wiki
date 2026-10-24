@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: wang-2025
     resource: "https://doi.org/10.54300/600.551"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TK enrollment rose substantially during expansion, but uptake among eligible 4-year-olds fell from 64% in 2021–22 to 59% in 2023–24 as the eligible population grew. [→ Wang 2025](#wang-2025)

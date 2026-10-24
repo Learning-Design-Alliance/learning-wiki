@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: qi-2022
     resource: "https://doi.org/10.29140/jaltcall.v18n1.569"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teaching in the blended mode led the teacher to reconceive students as co-facilitators and teachers and students as co-designers of the curriculum. [→ Qi 2022](#qi-2022)

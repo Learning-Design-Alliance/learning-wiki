@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hou-2026
     resource: "https://doi.org/10.48550/arxiv.2609.22993"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Turns not aimed at the decision under support were followed by concession 40.3% of the time against 28.8% for aimed turns; depth of the turn did not order the concession rates. [→ Hou 2026](#hou-2026)

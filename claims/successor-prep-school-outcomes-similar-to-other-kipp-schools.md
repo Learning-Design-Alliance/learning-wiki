@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: elias-walsh-2022
     resource: "https://www.mathematica.org/publications/findings-from-an-evaluation-of-kipp-school-leadership-programs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Outcomes in Successor Prep schools—including principal tenure, student achievement, student retention, and teacher retention—generally appeared similar to outcomes in other KIPP schools, although substantial differences cannot be ruled out. [→ Elias Walsh 2022](#elias-walsh-2022)

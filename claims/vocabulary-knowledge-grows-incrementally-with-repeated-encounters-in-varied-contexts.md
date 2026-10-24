@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: swanborn-de-glopper-1999
     resource: "https://doi.org/10.3102/00346543069003261"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Word knowledge is not acquired all-at-once; it accumulates gradually across multiple exposures, with each encounter in a different context adding a facet of meaning, usage, and collocation.
 

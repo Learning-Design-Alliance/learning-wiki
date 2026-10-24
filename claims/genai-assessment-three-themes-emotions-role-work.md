@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: nicola-richmond-2025
     resource: "https://doi.org/10.53761/zpp2ja61"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis of semi-structured interviews with academics and students produced three themes about GenAI and assessment: emotions, academic role and identity; assessment must change; and the work and expertise required to change assessment. [→ Nicola-Richmond 2025](#nicola-richmond-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: williams-2025
     resource: "https://doi.org/10.15173/ijsap.v9i1.5802"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` A collaborative student-staff partnership focused on evaluating ChatGPT-generated output produced in response to diverse coursework assessments on an undergraduate medical sciences programme. [→ Williams 2025](#williams-2025)

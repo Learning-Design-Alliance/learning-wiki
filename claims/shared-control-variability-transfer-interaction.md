@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: slava-kalyuga-2010
     resource: "https://doi.org/10.1007/s10648-010-9132-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The transfer benefit of shared instructional control over task selection depended on variability of task surface features: shared control yielded higher transfer under high variability, system control under low variability. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)

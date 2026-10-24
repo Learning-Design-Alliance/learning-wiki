@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: guillermo-cruces-2026
     resource: "https://doi.org/10.2139/ssrn.6246347"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Completion time falls by 0.961 minutes for low-education and 1.514 minutes for high-education participants; the difference in treatment effects is not statistically significant. [→ Guillermo Cruces 2026](#guillermo-cruces-2026)

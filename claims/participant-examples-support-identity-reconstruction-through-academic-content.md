@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: cohen-et-al-2023
     resource: "https://doi.org/10.1080/10508406.2023.2185147"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1` · `i2` medium · n=1 focal case (a 9th-grade secular Jewish-Israeli student), drawn from a class of 38 in a design combining collaborative online knowledge-building with humanistic classroom practices
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 Over a four-month knowledge-building unit presenting national identity as a contested, multiply-defined category, one student's language use shifted from essentialist uncertainty about his own identity category membership toward a confident, constructionist stance — a shift documented through his use of an academic case as a [participant example](../elements/participant-examples.md), positioning himself as analogous to the case's subject.
 

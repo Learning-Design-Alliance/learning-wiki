@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across engagement-level bins, total uncertainty from the NIG regression head is heavily dominated by epistemic uncertainty, and raw engagement scores correlate negligibly with both aleatoric (r=0.016) and epistemic (r=0.025) uncertainty. [→ uncert-1](#uncert-1)

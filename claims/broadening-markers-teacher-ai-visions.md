@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: daniusevičiūtė-brazaitė-l-2026
     title: Daniusevičiūtė-Brazaitė L 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In teachers' essays, the most frequent broadening markers were wider ranges of actions and strategies (Broad5: 24%), enhanced futures thinking (Broad1: 20%), and broader methodological approaches (Broad2: 18%). [→ Daniusevičiūtė-Brazaitė L 2026](#daniuseviciute-brazaite-l-2026)

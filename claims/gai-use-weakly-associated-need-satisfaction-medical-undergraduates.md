@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: he-qian-2026
     resource: "https://doi.org/10.3390/bs16091694"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After controlling for gender, year of study, and academic program, GAI use was significantly but weakly positively associated with basic psychological need satisfaction (β = 0.155, p = 0.002). [→ He Qian 2026](#he-qian-2026)

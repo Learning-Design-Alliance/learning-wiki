@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: daloglu-2020
     resource: "https://doi.org/10.5539/elt.v13n10p158"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2` · `i0`–`i1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i1` Prep School students scored significantly higher than other students on overall beliefs (d = .22). [→ Daloglu 2020](#daloglu-2020)

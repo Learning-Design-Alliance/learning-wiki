@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: aynur-ismayilli-karakoc-2019
     resource: "https://doi.org/10.7575/aiac.alls.v.10n.4p.166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The compiled evidence indicates RC and LC are divisible, containing both overlapping and modality-specific subskills rather than a single unitary comprehension process. [→ Aynur Ismayilli Karakoc 2019](#aynur-ismayilli-karakoc-2019)

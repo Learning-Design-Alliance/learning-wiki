@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: niolaki-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101635"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experience with spelling significantly predicted irregular, regular and pseudoword spelling scores across year groups. [→ Niolaki 2022](#niolaki-2022)

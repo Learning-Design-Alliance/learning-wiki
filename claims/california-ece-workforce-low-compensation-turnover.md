@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: melnick-2018
     resource: "https://learningpolicyinstitute.org/product/early-learning-ca"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Over 107,000 professionals provide ECE in California, but inconsistent state requirements across programs lead to disparate qualifications, and programs struggle to recruit and retain qualified educators amid extremely low compensation. [→ Melnick 2018](#melnick-2018)

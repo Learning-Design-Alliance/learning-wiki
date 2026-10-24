@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: hämäläinen-2023
     resource: "https://doi.org/10.1007/s11251-022-09597-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 4.1% of intervention students showed a reliable or clear positive change in specifying information need, 24.6% in search queries, 18.5% in credibility judgments, and 20.5% in written product; most students showed no change. [→ Hämäläinen 2023](#hamalainen-2023)

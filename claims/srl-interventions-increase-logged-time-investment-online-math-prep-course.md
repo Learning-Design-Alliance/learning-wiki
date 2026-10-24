@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: bellhäuser-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Mean logged time was 21.03 h (Group C), 28.23 h (Group D), 29.32 h (Group TD) and 33.56 h (Group TDP), a significant difference (F(3, 132) = 3.08; p = 0.030; ηp2 = 0.06). [→ Bellhäuser 2022](#bellhauser-2022)

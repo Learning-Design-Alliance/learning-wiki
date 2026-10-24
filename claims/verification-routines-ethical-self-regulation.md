@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: alshehri-oao-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1830103"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students recognized hallucinated or fabricated AI content and verified AI claims through systematic triangulation with external sources, with verification becoming a habitual practice (Theme 2 in 100% of reflections; Theme 3 in 81%). [→ Alshehri OAO 2026](#alshehri-oao-2026)

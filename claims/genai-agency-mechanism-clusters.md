@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: wang-guanhua-2026
     resource: "https://doi.org/10.3390/bs16071150"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Self-regulation recurs as an overarching linking construct: when learners set goals, monitor, evaluate, and revise strategies, GenAI is more likely to function as a scaffold than a substitute for thinking. [→ Wang Guanhua 2026](#wang-guanhua-2026)

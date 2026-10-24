@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: vogelzang-2021
     resource: "https://doi.org/10.1007/s11251-021-09554-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The six experimental teachers significantly differed in students' perceived support by teacher (η2 = 0.382), with two teachers scoring considerably higher (M = 4.49) and four lower (M = 3.70). [→ Vogelzang 2021](#vogelzang-2021)

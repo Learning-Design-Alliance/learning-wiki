@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 design `r3` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the V1 dataset, underlining (45%), circles (29%), boxes (9%) and braces (2%) dominated, and 85% of queries contained at least one visible mark. [→ penmark](#penmark)

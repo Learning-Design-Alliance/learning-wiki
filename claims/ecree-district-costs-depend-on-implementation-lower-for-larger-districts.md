@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: tareena-musaddiq-2023
     resource: "https://www.mathematica.org/publications/teaching-and-learning-writing-with-ecree-insights-for-school-and-district-leaders"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` District costs for Ecree vary with implementation and support needs, and per-student price would likely be lower for larger districts. [→ Tareena Musaddiq 2023](#tareena-musaddiq-2023)

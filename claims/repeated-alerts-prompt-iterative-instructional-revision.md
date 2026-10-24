@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: osama-swidan-2026
     resource: "https://doi.org/10.1007/s11858-026-01810-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` An extended procedural explanation after a first alert did not reorganize Rusol's engagement structure, which remained stable rather than activated. [→ Osama Swidan 2026](#osama-swidan-2026)

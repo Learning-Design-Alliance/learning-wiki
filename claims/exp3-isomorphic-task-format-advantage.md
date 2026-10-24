@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: tamara-van-gog-liesbeth-kester-kim-dirkx-vincent-hoogerheide-joris-boerboom-peter-p-j-l-verkoeijen-2015
     resource: "https://doi.org/10.1007/s10648-015-9297-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Participants who tested/restudied isomorphic tasks performed better on the delayed test (M=63.63%) than those who tested/restudied identical tasks (M=52.31%; ηp2=0.035). [→ Tamara van Gog & Liesbeth Kester & Kim Dirkx & Vincent Hoogerheide & Joris Boerboom & Peter P. J. L. Verkoeijen 2015](#tamara-van-gog-liesbeth-kester-kim-dirkx-vincent-hoogerheide-joris-boerboom-peter-p-j-l-verkoeijen-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: tang-j-2026
     title: Tang J 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i2` Teacher feedback total items (316) significantly exceeded AI-assisted peer feedback (185) in task 1, with significant differences in vocabulary errors (Cohen's d = 0.66) and technical details (d = 0.58). [→ Tang J 2026](#tang-j-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: martine-baars-lisette-wijnia-anique-de-bruin-fred-paas-2020
     resource: "https://doi.org/10.1007/s10648-020-09569-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Concurrent monitoring judgments correlate more negatively with effort than prospective judgments. [→ Martine Baars & Lisette Wijnia & Anique de Bruin & Fred Paas 2020](#martine-baars-lisette-wijnia-anique-de-bruin-fred-paas-2020)

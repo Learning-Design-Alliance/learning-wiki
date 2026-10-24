@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: dawid-ratajczyk-2026
     resource: "https://doi.org/10.31234/osf.io/83jum_v1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` On Stage 2 completion time, the effect of incentives depended on prior genAI access: incentives slowed participants without prior genAI access but did not differ among those with prior genAI access. [→ Dawid Ratajczyk 2026](#dawid-ratajczyk-2026)

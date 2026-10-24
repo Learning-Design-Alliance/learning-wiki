@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-10
 sources:
   - id: alharbi-2026
     resource: "https://doi.org/10.53761/xwb6h668"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` EAP educators showed significant pre- and post-program gains in ethical awareness with a large printed effect size (d = 0.93), alongside gains in digital andragogical competence. [→ Alharbi 2026](#alharbi-2026)

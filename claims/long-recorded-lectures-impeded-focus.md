@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-15
 sources:
   - id: means-2020
     resource: "https://digitalpromise.dspacedirect.org/items/7900cb79-6ea5-44d0-aad6-34aa81e9bf4b"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated -->
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 

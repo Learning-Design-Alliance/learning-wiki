@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: marie-josée-bisson-2014
     resource: "https://doi.org/10.1111/lang.12085"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Normalized incidental learning effects (effect divided by number of exposures) showed a significant negative linear trend, with additional encounters contributing less learning as exposure count rose (ηp2 = .06). [→ Marie-Josée Bisson 2014](#marie-josee-bisson-2014)

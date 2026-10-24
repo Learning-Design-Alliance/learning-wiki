@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: j-t-gilde-2021
     resource: "https://doi.org/10.1080/0305764X.2021.1906845"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a collaborative action research project, the authors investigated how primary school teachers can use students' funds of knowledge/identity in superdiverse classrooms. [→ J. 't Gilde 2021](#j-t-gilde-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: husain-et-al-2026
     resource: "https://doi.org/10.1002/brb3.71733"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that parieto-occipital alpha augmentation during prostration was equivalent between actual prayer and mimicked conditions, indicating posture rather than concurrent recitation principally drives the EEG relaxation response. [→ Husain et al. 2026](#husain-et-al-2026)

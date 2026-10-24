@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: fluency-formula-wwc-intervention-report-2007
     resource: "http://teacher.scholastic.com/products/fluencyformula/pdfs/FF_EffectivessReport.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only one study met WWC evidence standards, based on 128 second-grade students, and the extent of evidence is rated small for fluency and comprehension. [→ Fluency Formula™ WWC Intervention Report 2007](#fluency-formulatm-wwc-intervention-report-2007)

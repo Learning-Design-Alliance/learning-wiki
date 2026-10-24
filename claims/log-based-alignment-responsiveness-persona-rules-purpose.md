@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: riahi-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29993"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Bot-level evaluation of 27 unique chatbots across four criteria found responsiveness was the strongest dimension (88.9% pass, Avg = 3.67) and purpose alignment the weakest (59.3% pass, Avg = 3.00). [→ Riahi 2026](#riahi-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: christodoulou-ja-2014
     title: Christodoulou JA 2014
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` When typical readers' Fast > Slow contrast was compared to dyslexic readers' Medium > Slow contrast under matched in-scanner accuracy, typical readers showed greater activation in almost all brain regions engaged by the task. [→ Christodoulou JA 2014](#christodoulou-ja-2014)

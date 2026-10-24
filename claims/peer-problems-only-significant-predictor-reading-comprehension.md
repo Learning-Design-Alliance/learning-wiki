@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: kaprea-f-johnson-2013
     resource: "https://doi.org/10.11114/jets.v2i1.245"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a multiple regression, peer problems significantly predicted reading comprehension (beta=-.309, p<.01), while the three-variable model explained 9.8% of variance. [→ Kaprea F Johnson 2013](#kaprea-f-johnson-2013)

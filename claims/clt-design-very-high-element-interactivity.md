@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2002
 sources:
   - id: kirschner-2002
     resource: "https://dspace.library.uu.nl/handle/1874/16884"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` One special-issue article addresses CLT-based instructional design when dealing with very high element interactivity material. [→ Kirschner 2002](#kirschner-2002)

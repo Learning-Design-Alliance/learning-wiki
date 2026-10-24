@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Weeks dominated by academic concern framing were associated with lower physical activity, and weeks characterized by emotional exhaustion language were associated with poorer sleep quality and lower heart rate variability. [→ rq1-assoc](#rq1-assoc)

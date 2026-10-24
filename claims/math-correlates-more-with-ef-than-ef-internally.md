@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-22
 sources:
   - id: nguyen-2019
     resource: "https://doi.org/10.1016/j.cedpsych.2019.04.002"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Within each ECLS-K wave, EF–math correlations (rs=0.30–0.57) exceeded EF–EF intercorrelations (rs=0.16–0.29); all correlations were significant at p < .001. [→ Nguyen 2019](#nguyen-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: imundo-2024
     resource: "https://link.springer.com/journal/11409/articles"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Test Delay x Condition interaction was significant in Experiment 3, with the Individual condition's rate of forgetting greater than the Paired condition's. [→ Imundo 2024](#imundo-2024)

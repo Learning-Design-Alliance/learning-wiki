@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: multiple-representations-improve-learning
 evidence_strength: unrated
+newest_evidence: 2025
 sources:
   - id: hahn-and-klein-2025
     resource: "https://doi.org/10.3389/fpsyg.2025.1544764"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 review `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Presenting the same content in more than one representational format (e.g., verbal and visual, or concrete and abstract) can support learning by giving learners complementary routes into the material. The benefit depends on the representations being relevant, well-coordinated, and manageable within working memory.
 

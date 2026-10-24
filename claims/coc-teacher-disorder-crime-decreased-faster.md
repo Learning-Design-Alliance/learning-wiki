@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: rachel-levenstein-2011
     resource: "https://consortium.uchicago.edu/publications/findings-investigation-culture-calm-initiative"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Between 2009 and 2011, teacher-reported Disorder and Crime decreased at a faster rate in CoC schools than in non-CoC comparison schools, an effect the authors call moderately strong (d = 0.4). [→ Rachel Levenstein 2011](#rachel-levenstein-2011)

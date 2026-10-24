@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: jiayi-wang-2025
     resource: "https://doi.org/10.48550/arxiv.2508.16659"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across automatic evaluations on the QM and Integrated Learning Sciences rubrics, the largest gap between systems within a model was ≤ 0.7 points (< 7% of scale), and Foundational Alignment and Inclusivity dimensions saturated near their maxima. [→ Jiayi Wang 2025](#jiayi-wang-2025)

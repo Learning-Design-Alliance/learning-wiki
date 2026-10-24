@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: garcía-lópez-2017
     resource: "https://doi.org/10.5539/ies.v10n4p78"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 37 item-level chi-square tests, three found a significant association between educational level and the competence item: defining OER elements (module 1, question 6; p = .006), communicating in another language (p = .011), and OER search (p = .001). These are associations in a survey, not evidence that educational level causes the differences. [→ García-López 2017](#garcia-lopez-2017)

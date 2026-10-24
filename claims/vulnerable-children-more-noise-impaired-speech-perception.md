@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-18
 sources:
   - id: klatte-m-2013
     title: Klatte M 2013
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r2`–`r3` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children with language or attention disorders are more impaired than normally developing children by noise in speech perception tasks. [→ Klatte M 2013](#klatte-m-2013)

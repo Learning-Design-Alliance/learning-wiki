@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: malyn-smith-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100422"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across five of six expert-constructed 2030 scenarios, students are positioned as critical agentic partners who question, verify and selectively adopt AI suggestions rather than accepting them outright. [→ Malyn-Smith 2026](#malyn-smith-2026)

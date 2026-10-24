@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: mixed
+newest_evidence: 2023
+source_checked: 2026-10-14
 sources:
   - id: steven-c-pan-2023
     resource: "https://doi.org/10.1007/s10648-023-09814-5"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-14 (automated, 2 of 2 entries) · not reviewed by a person
 
 <!-- title before 2026-10-14: Immediate correct answer feedback is necessary for pretesting benefits with paired associates, but delayed feedback suffices for more semantically detailed materials -->
 

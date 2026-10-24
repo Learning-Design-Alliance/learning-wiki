@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: yanghee-kim-and-amy-l-baylor-2006
     resource: "https://doi.org/10.1007/s11423-006-0637-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both male and female college students perceived a male PAL's persona more positively and recalled more after working with a male PAL than with a female PAL. [→ Yanghee Kim and Amy L. Baylor 2006](#yanghee-kim-and-amy-l-baylor-2006)

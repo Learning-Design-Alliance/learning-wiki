@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: eliana-khoury-xiaoyan-ma-2026
     resource: "https://doi.org/10.22329/jtl.v20i4.11850"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` AI agents designed for specific educational purposes can support joyful assessment by creating low-stakes opportunities for practice, feedback, reflection, personalization, and multimodal demonstration of learning. [→ Eliana Khoury & Xiaoyan Ma 2026](#eliana-khoury-xiaoyan-ma-2026)

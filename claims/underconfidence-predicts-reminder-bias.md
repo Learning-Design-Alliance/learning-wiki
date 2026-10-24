@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: lea-fröscher-2022
     resource: "https://doi.org/10.1186/s41235-022-00416-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Participants were significantly underconfident about both internal memory (d = 0.21) and reminder accuracy (d = 0.75). [→ Lea Fröscher 2022](#lea-froscher-2022)

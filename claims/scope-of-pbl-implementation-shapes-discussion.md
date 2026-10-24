@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-19
 sources:
   - id: janneke-m-frambach-2014
     resource: "https://doi.org/10.1080/03075079.2012.754865"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The more learning content was covered in lectures instead of PBL sessions, the less likely students were to engage in critical and in-depth discussions to construct their own knowledge. [→ Janneke M. Frambach 2014](#janneke-m-frambach-2014)

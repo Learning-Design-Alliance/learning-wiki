@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: susan-sporte-2010
     resource: "https://consortium.uchicago.edu/publications/chicago-high-school-redesign-initiative-schools-students-and-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although new-start schools served students with stronger backgrounds and showed stronger raw outcomes, differences in absences, on-track rates, core GPA, and ACT scores between similar students in new-start versus redesigned CHSRI schools were not large enough to be statistically significant. [→ Susan Sporte 2010](#susan-sporte-2010)

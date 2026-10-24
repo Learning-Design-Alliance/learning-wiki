@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: guttormsen-schär-2007
     resource: "https://doi.org/10.1080/15391523.2007.10782497"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The animation+voice group averaged 8.54 navigation actions versus about 34 in the picture groups, suggesting animations induce a passive learning mode while static presentations encourage active model building. [→ Guttormsen Schär 2007](#guttormsen-schar-2007)

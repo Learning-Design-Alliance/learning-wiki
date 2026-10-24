@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: brodersen-2025
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/examining-mentoring-experiences-first-year-teachers-missouri"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` About a third of teachers (32 percent) reported receiving a moderate amount or a lot of guidance on all 10 MO DESE topics, and another 32 percent received that level of guidance on three or fewer topics. [→ Brodersen 2025](#brodersen-2025)

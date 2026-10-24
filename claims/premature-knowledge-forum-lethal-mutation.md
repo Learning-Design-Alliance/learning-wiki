@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: chan-2011
     resource: "https://doi.org/10.1007/s11412-011-9121-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` New teachers who were first introduced to Knowledge Forum used it as a venue for teacher-directed instruction, resembling a lethal mutation of the innovation. [→ Chan 2011](#chan-2011)

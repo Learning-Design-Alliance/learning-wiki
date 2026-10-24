@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: guha-2016
     resource: "https://learningpolicyinstitute.org/product/teacher-residency"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After controlling for school and district characteristics, two rigorous studies found significant differences in retention between residency graduates and non-residency peers (e.g., 82% vs. 72% still teaching in Year 3 or 4 in the TQP study). [→ Guha 2016](#guha-2016)

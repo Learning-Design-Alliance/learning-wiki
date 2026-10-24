@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: alazne-fernández-ortube-2024
     resource: "https://doi.org/10.1007/s10648-024-09919-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Michalsky's (2021) intervention achieved the highest effect size (d = 3.12) in metacognitive knowledge, and Pieschl et al. (2021) obtained d = 2.9 in academic performance. [→ Alazne Fernández Ortube 2024](#alazne-fernandez-ortube-2024)

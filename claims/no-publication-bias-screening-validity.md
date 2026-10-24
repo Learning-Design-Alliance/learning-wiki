@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: keles-2025
     resource: "https://doi.org/10.1007/s10648-025-10077-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` PET and PEESE models found non-significant slopes (PET slope −2.292, p = .396; PEESE slope −9.39, p = .669), indicating no substantial evidence of publication bias; published (r = .52) and grey literature (r = .49) did not differ significantly. [→ Keles 2025](#keles-2025)

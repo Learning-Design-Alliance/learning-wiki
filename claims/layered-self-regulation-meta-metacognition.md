@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: charles-crook-2022
     resource: "https://doi.org/10.1007/s11412-022-09364-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that metacognitive regulation of collaboration is distributed and hierarchical across analytic layers, so that the portfolio of regulation layers is itself regulated, resisting simple labelling as metacognition. [→ Charles Crook 2022](#charles-crook-2022)

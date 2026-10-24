@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: wilding-2024
     resource: "https://doi.org/10.1007/s10648-024-09928-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The evidence base is heavily Eurocentric: only 15% of samples were of non-European ancestry, and no study reported predictions from non-WEIRD countries. [→ Wilding 2024](#wilding-2024)

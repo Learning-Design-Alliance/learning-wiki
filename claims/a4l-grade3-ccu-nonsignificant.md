@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: jonathan-nakamoto-2015
     resource: "https://eric.ed.gov/?id=ED560945"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Grade 3 treatment students had higher CCU scores than control students in years 1 through 3, but none of the differences were statistically significant. [→ Jonathan Nakamoto 2015](#jonathan-nakamoto-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-13
 sources:
   - id: campoli-2022
     resource: "https://doi.org/10.54300/438.376"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Gains in mathematics are significantly more pronounced for historically underserved students of color (relative coefficient 1.654*) as principals' instructional leadership professional development increases, with no statistically significant ELA differences across racial/ethnic groups. [→ Campoli 2022](#campoli-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: alexei-kaltchenko-and-gurnivaj-tiwana-2026
     resource: "https://doi.org/10.48550/arxiv.2608.19707"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Deterministic personalization allowed ChatGPT to produce parameterized solutions because seeds altered parameters rather than creating new reasoning problems. [→ Alexei Kaltchenko and Gurnivaj Tiwana 2026](#alexei-kaltchenko-and-gurnivaj-tiwana-2026)

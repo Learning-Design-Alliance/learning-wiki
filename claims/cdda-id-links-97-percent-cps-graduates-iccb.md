@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: jenny-nagaoka-and-shelby-mahaffie-2020
     resource: "https://consortium.uchicago.edu/publications/tracking-two-year-college-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using the CDDA ID, 19,209 of 19,801 CPS graduates (97 percent) were successfully linked to at least one record in the ICCB data, and the unmatched 3 percent did not appear to be missing systematically. [→ Jenny Nagaoka and Shelby Mahaffie 2020](#jenny-nagaoka-and-shelby-mahaffie-2020)

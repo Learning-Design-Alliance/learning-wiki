@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: stewart-1917
     resource: "https://doi.org/10.1037/h0070804"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Individual variation within age-grade groups is so large that applying group averages to individual pupils would be misleading. [→ Stewart 1917](#stewart-1917)
@@ -51,3 +53,4 @@ Descriptive comparison of individual records within the freshman group. Among th
 - [Among boys of the same age, those one year above normal grade average both heavier and taller than boys of normal grade, and in some cases boys one year below normal also average heavier and taller](above-grade-boys-heavier-taller.md) — related
 - [Cross-sectional measurements of children of the same age may yield spurious growth facts because of great individual differences](cross-sectional-growth-facts-may-be-spurious-individual-differences.md) — possibly the same claim (merge candidate)
 - [Physiological age, as evidenced by the advent of pubescence or first menstruation, shows wide variations and low correlations with other traits](physiological-age-low-correlations-other-traits.md) — related
+- [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](mental-age-grouping-unreliable-for-educational-treatment.md) — a narrower finding that bears on this claim

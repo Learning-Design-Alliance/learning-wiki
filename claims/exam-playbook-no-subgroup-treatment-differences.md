@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: peters-2022
     resource: "https://doi.org/10.51388/20.500.12265/162"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q4`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Moderation analyses found no statistically significant differences in the treatment effect between males and females, among racial groups, among class standings, or between low- and high-performing students. [→ Peters 2022](#peters-2022)

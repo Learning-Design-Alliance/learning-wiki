@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: curi-2026
     resource: "https://doi.org/10.48550/arxiv.2609.05143"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Applying 2024-derived prompts to a 1,000-text sample of the 2025 test produced accuracy very similar to 2024, with only minor adjustments to items referencing the yearly writing topic. [→ Curi 2026](#curi-2026)

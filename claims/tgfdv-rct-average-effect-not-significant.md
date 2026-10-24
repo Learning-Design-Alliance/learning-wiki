@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://www.mendezfoundation.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The average effect size across all knowledge, attitudes, and values outcomes in the RCT was 0.35, substantively important by WWC criteria but not statistically significant. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-18
+recheck_by: 2017
 sources:
   - id: person-2014
     resource: "https://www.mathematica.org/publications/developing-competency-based-program-models-in-three-community-colleges"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The report provides the first analysis of program implementation by a Sinclair-led consortium creating competency-based information technology programs in three community colleges, documenting each college's program model at or near baseline. [→ Person 2014](#person-2014)

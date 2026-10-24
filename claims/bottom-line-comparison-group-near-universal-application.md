@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: what-works-clearinghouse-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/714"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A Cohort 1 survey found almost all respondents in both groups applied for college and financial aid, indicating the comparison condition was not an absence of advising. [→ What Works Clearinghouse 2021](#what-works-clearinghouse-2021)

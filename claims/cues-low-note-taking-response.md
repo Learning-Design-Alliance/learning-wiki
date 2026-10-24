@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: sarah-manlove-2007
     resource: "https://doi.org/10.1007/s11409-007-9012-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 3.83% of cues triggered note taking, though 9.82% of PC+ notes were taken in response to a cue and 5.98% of cues led to other PC actions. [→ Sarah Manlove 2007](#sarah-manlove-2007)

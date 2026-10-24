@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: françois-parlant-2025
     resource: "https://doi.org/10.35542/osf.io/bmh7k_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The framework's evidence base is self-described as anecdotal and qualitative, drawn from reflective practice, with formal outcome studies still required. [→ François PARLANT 2025](#francois-parlant-2025)

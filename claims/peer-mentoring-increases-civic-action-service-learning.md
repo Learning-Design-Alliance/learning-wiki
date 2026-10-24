@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence): Peer mentoring by SLAMs increases posttest civic action scores in service-learning courses -->
 
 ## Subclaims

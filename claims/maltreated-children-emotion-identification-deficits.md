@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: karen-e-smith-and-seth-d-pollak-2020
     resource: "https://doi.org/10.1186/s11689-020-09337-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Maltreated children, including those experiencing neglect and other forms of abuse, show less accurate identification of facial emotions in general and particular difficulty identifying positive emotions. [→ Karen E. Smith and Seth D. Pollak 2020](#karen-e-smith-and-seth-d-pollak-2020)

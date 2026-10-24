@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-24
 sources:
   - id: gasiewski-2012
     resource: "https://doi.org/10.1007/s11162-011-9247-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who described the course as predominantly lecture-based reported significantly less engagement (p < 0.001), whereas greater reported proportions of class time devoted to discussion (p < 0.05) and group work (p < 0.01) predicted more engagement. [→ Gasiewski 2012](#gasiewski-2012)

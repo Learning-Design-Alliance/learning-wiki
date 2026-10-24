@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: lisbeth-goble-2021
     resource: "https://www.mathematica.org/publications/from-outreach-to-enrollment-strategies-to-engage-adults-in-education-beyond-high-school"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Adult learners often need high-touch approaches, including navigators to guide them through enrollment and financial aid and additional support once engaged with an institution. [→ Lisbeth Goble 2021](#lisbeth-goble-2021)

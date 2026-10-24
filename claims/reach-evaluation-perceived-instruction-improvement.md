@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: sartain-2020
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` 83 percent of teachers and 93 percent of administrators said the teacher evaluation process helped them improve classroom instruction, and about 70 percent agreed it improved student learning. [→ Sartain 2020](#sartain-2020)

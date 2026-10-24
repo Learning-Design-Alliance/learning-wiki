@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: nadja-m-gentner-2024
     resource: "https://doi.org/10.1007/s11251-024-09671-x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For self-reported cognitive strategy use in unit 2 there was a main effect of time but no main effect of condition and no time × condition interaction, F(3,216)=0.23, p=.87; strategy use decreased irrespective of condition. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

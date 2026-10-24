@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: greg-king-2019
     resource: "https://www.nwea.org/research/publication/a-path-to-completion-the-impacts-of-statewide-articulation-agreements-on-enrollment-and-attainment/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study measures the effect of adopting statewide articulation agreement policies on college enrollment, associate degree attainment, and bachelor's degree attainment using a Difference-in-Difference approach with IPEDS data. [→ Greg King 2019](#greg-king-2019)

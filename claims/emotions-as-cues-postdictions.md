@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: prinz-weiß-2023
     resource: "https://doi.org/10.1007/s11409-022-09331-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Stronger positive emotions were associated with higher postdictions and stronger negative emotions (including boredom) with lower postdictions, with small to medium correlations. [→ Prinz-Weiß 2023](#prinz-wei-2023)

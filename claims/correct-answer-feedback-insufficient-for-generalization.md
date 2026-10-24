@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: michael-w-asher-paulo-f-carvalho-2026
     resource: "https://doi.org/10.1007/s10648-025-10103-6"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 1's exploratory model, correct-response feedback was significantly less effective than lecture for generalization (.36 SD difference). [→ Michael W. Asher & Paulo F. Carvalho 2026](#michael-w-asher-paulo-f-carvalho-2026)

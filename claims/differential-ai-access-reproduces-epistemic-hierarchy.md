@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: brady-d-lund-and-zoë-abbie-teel-2026
     resource: "https://doi.org/10.48550/arxiv.2607.27547"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Access to AI capabilities is structured by three intersecting inequalities: economic (premium models available only to paying subscribers), educational (interrogation capacity correlated with educational attainment), and geopolitical (uneven connectivity and Western-dominated training data). [→ Brady D. Lund and Zoë Abbie Teel 2026](#brady-d-lund-and-zoe-abbie-teel-2026)

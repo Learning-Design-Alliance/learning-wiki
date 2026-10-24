@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: kevin-booker-2014
     resource: "https://www.mathematica.org/publications/charter-high-schools-effects-on-longterm-attainment-and-earnings"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using Florida and Chicago data, the analysis suggests charter high schools increase postsecondary educational attainment. [→ Kevin Booker 2014](#kevin-booker-2014)

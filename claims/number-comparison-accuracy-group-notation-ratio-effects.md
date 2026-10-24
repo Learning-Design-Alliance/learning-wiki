@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: cantlon-jessica-f-2009
     resource: "https://doi.org/10.1162/jocn.2008.21159"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adults were more accurate than children, Arabic numerals more accurate than dot arrays, and 0.5 ratio trials more accurate than 0.8 ratio trials. [→ Cantlon Jessica F. 2009](#cantlon-jessica-f-2009)

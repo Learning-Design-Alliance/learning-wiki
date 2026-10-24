@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-15
 sources:
   - id: macarthur-m-2025
     title: MacArthur M 2025
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students described AI feedback as valuable for both higher-order and sentence-level comments, but sometimes found it too general or surface-level. [→ MacArthur M 2025](#macarthur-m-2025)

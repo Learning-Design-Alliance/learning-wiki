@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: dropout-prevention-intervention-report-check-connect-2015
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/78"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the 2005 RCT, a larger percentage of intervention students (31%) than comparison students (14%) were still enrolled at the end of the fourth year (ES = 0.62). [→ Dropout Prevention intervention report: Check & Connect 2015](#dropout-prevention-intervention-report-check-connect-2015)

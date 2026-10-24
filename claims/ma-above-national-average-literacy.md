@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: mariann-lemke-2024
     resource: "https://eric.ed.gov/?id=ED663754"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` At EOY the median national percentile for Massachusetts students was 58; Black students performed about the same as the national sample, White slightly better, Asian significantly better, and Hispanic less well. [→ Mariann Lemke 2024](#mariann-lemke-2024)

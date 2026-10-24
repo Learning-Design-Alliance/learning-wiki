@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
+recheck_by: 2022
 sources:
   - id: megan-kuhfeld-2019
     resource: "https://doi.org/10.1177/2332858419858324"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The analyses indicate a high degree of congruence between SEDA growth estimates and estimates derived from the vertically scaled MAP Growth assessment. [→ Megan Kuhfeld 2019](#megan-kuhfeld-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: eva-vives-2024
     resource: "https://doi.org/10.3102/00346543241230064"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the reviewed literature, the jigsaw classroom overall leads to positive effects, though findings vary by academic subject and by the psychosocial variables measured. [→ Eva Vives 2024](#eva-vives-2024)

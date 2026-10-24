@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: zhang-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1773198"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the qualitative barrier-identification theme, 50.39% of issues stemmed from academic-related challenges such as difficulty understanding material or failing exams. [→ Zhang 2026](#zhang-2026)

@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-15
 sources:
   - id: kalyuga-2003
     resource: "https://doi.org/10.1207/S15326985EP3801_4"
@@ -40,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 quant-synthesis `r2`, 1 review `r2` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-15 (automated, 3 of 3 entries) · not reviewed by a person
 <!-- title before 2026-10-15: The review reports that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, as found in the Kalyuga et al. (1998) and Yeung et al. (1998) studies it cites -->
 
 ## Subclaims

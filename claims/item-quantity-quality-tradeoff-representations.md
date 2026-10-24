@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: jeroen-janssen-2008
     resource: "https://doi.org/10.1007/s11251-008-9078-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Including more items in a representation was associated with significantly lower average item quality (r = -.66). [→ Jeroen Janssen 2008](#jeroen-janssen-2008)

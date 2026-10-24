@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: lowell-1917
     resource: "https://psycnet.apa.org/journals/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grade I children chronologically 7 years old with average mental age 7.1-7.5 pass 9.8 tests out of Groups V, VI and VII, while Grade II children of the same chronological age and average mental age, in school two years, pass 10 tests out of Groups VI, VII and VIII. [→ Lowell 1917](#lowell-1917)

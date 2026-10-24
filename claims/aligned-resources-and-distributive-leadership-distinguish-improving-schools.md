@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
 sources:
   - id: smylie-2003
     resource: "https://eric.ed.gov/?id=ED"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schools that were strong or improved were more effective at securing resources aligned with a particular development agenda and employing them efficiently and strategically, and distinguished themselves by cultivating strong, distributive leadership in which the principal played a make-or-break role. [→ Smylie 2003](#smylie-2003)

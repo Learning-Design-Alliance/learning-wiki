@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: nelson-barber-2015
     resource: "https://eric.ed.gov/?id=ED570362"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Fourth-grade American Indian students at a Washington reservation public school scored average and above on discrete literacy skills but low in comprehension, specifically using textual information to answer questions. [→ Nelson-Barber 2015](#nelson-barber-2015)

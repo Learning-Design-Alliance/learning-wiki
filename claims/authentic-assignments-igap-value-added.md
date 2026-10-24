@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
+source_checked: 2026-10-08
 sources:
   - id: fred-m-newmann-2001
     resource: "https://consortium.uchicago.edu/publications/authentic-intellectual-work-and-standardized-tests-conflict-or-coexistence"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2001 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Two otherwise similar students would differ by 32 points on IGAP reading, 48 points on IGAP math, and 2.3 points on the IGAP writing rubric depending on exposure to high- versus low-quality assignments, corresponding to effect sizes of 0.43, 0.64, and 0.52. [→ Fred M. Newmann 2001](#fred-m-newmann-2001)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-17
 sources:
   - id: gregory-chojnacki-2023
     resource: "https://www.mathematica.org/publications/examining-student-and-teacher-math-learning-lessons-from-three-summer-programs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the three programs, evidence of changes in students' growth mindset or confidence was minimal. [→ Gregory Chojnacki 2023](#gregory-chojnacki-2023)

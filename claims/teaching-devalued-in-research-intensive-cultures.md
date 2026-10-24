@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: oliveira-2024
     resource: "https://doi.org/10.3102/00346543231226336"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The career game has generated comparative neglect of teaching and students in favour of research and writing in countries with strong managerial cultures. [→ Oliveira 2024](#oliveira-2024)

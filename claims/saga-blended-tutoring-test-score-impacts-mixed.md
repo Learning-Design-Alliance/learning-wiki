@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: laura-meyer-2024
     resource: "https://www.mathematica.org/publications/impacts-of-blended-learning-tutoring-models-on-math-achievement-after-covid-19"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Saga had a large, positive impact on algebra standardized test scores in one district and on geometry standardized test scores in another district. [→ Laura Meyer 2024](#laura-meyer-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: delgado-2026
     resource: "https://consortium.uchicago.edu/publications/classroom-composition-affects-teacher-performance-ratings"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Under a simulated policy adjusting ratings for classroom context, Black teachers' rankings improved by about 8 percentile points. [→ Delgado 2026](#delgado-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: runcong-zhao-2025
     resource: "https://doi.org/10.48550/arxiv.2507.04295"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On 100 authentic student answers to a five-mark short-essay science question, LearnLens achieves MSE 3.19 (8–13% below any baseline), correlation 0.388, and exact and ±1 accuracies surpassing the best baseline QwQ-32B, with average latency 11.4 s and per-request cost $0.0099. [→ Runcong Zhao 2025](#runcong-zhao-2025)

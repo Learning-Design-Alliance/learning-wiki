@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: stern-2018
     resource: "https://www.wested.org/resources/effects-of-school-based-law-enforcement-on-school-safety"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A systematic review and meta-analysis reports that SRO presence may be associated with higher rates of exclusionary discipline, with schools recording an increase of 21 percent more incidents after SRO introduction; the finding is correlational. [→ Stern 2018](#stern-2018)

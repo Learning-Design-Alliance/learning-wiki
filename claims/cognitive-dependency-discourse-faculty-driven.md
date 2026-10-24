@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: pelin-yüce-2026
     resource: "https://doi.org/10.48550/arxiv.2605.17712"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Learning Quality & Cognitive Dependency theme (5.3% of corpus) has the highest faculty share (Fac% 82.3), with concerns about AI eroding critical thinking, problem-solving, and coding skills concentrated in r/Teachers and r/Professors. [→ Pelin Yüce 2026](#pelin-yuce-2026)

@@ -7,6 +7,7 @@ generated:
   at: 2026-08-30
 id: experimenter-underlining-effective-as-student-underlining
 evidence_strength: moderate
+newest_evidence: 1985
 sources:
   - id: nist-1985
     resource: "https://eric.ed.gov/?id=ED265520"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=not reported in what was read
+> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 13 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Experimenter-generated underlining is as effective as student-generated underlining for test performance -->
 

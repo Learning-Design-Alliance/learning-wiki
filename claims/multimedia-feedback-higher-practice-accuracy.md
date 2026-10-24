@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: gök-2025
     resource: "https://doi.org/10.1037/edu0000943"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants who received multimedia feedback had higher overall practice accuracy than those who received text-only feedback. [→ Gök 2025](#gok-2025)

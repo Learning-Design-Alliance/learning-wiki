@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: mix-2014
     resource: "https://doi.org/10.1111/cdev.12197"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Kindergarteners performed above chance on items solvable by digit recognition or knowing that hundred signals more digits, but at chance on items requiring place-by-place mapping. [→ Mix 2014](#mix-2014)

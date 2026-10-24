@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tanya-chichekian-2026
     resource: "https://doi.org/10.18608/jla.2026.9077"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Prior coding experience positively correlated with digital literacy (r = .22) and coding comfort (r = .29), and negatively with perceived task difficulty (r = –.22). [→ Tanya Chichekian 2026](#tanya-chichekian-2026)

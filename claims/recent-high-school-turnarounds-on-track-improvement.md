@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: de-la-torre-2013
     resource: "https://consortium.uchicago.edu/publications/turning-around-low-performing-schools-chicago-full-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the seven high schools reformed under models other than Reconstitution with at least one year of data, six showed some improvement in on-track rates above comparison schools. [→ de la Torre 2013](#de-la-torre-2013)

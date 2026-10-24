@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: martin-storey-2014
     resource: "https://doi.org/10.1080/10888691.2014.876276"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For low-income youth, perceived neighborhood safety interacted with physical disorder to predict school attachment (beta = .24, p < .05), with high perceived safety associated with higher attachment in high-disorder neighborhoods. [→ Martin-Storey 2014](#martin-storey-2014)

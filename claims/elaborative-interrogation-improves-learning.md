@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: elaborative-interrogation-improves-learning
 evidence_strength:
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: dunlosky-et-al-2013
     resource: "https://doi.org/10.1177/1529100612453266"
@@ -41,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r2`, 1 review `r?` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 Elaborative interrogation — prompting learners to answer "why is this true?" or "why does this make sense?" about factual statements — supports learning by connecting new material to prior knowledge.
 

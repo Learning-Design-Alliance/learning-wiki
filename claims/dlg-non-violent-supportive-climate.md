@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ruiz-eugenio-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100534"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of DLG discussions found 132 expressions combining the language of desire and the language of ethics towards non-violent relationships. [→ Ruiz-Eugenio 2023](#ruiz-eugenio-2023)

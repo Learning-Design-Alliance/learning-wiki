@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: tärning-et-al-2020
     resource: "https://doi.org/10.1080/10508406.2020.1770092"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · n=46 Swedish fifth-graders (36 with complete eye-tracking data), 424-451 feedback instances
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 Using eye-tracking and interaction logs to separate noticing, reading, acting-upon, and progress, only 4.5% of feedback instances in a real classroom digital game survived all four measured stages of the authors' five-stage model (the third, making sense, was not measured directly); a pointing, gazing pedagogical agent significantly increased noticing and reading (but not acting-upon or progress), while an equivalent arrow cue did not.
 

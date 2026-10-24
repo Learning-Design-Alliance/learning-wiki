@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2014
 sources:
   - id: wenting-ma-2014
     resource: "https://doi.org/10.1037/a0037123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 107 effect sizes involving 14,321 participants, the random-effects weighted mean effect size favoring ITS was g = .41, p < .001. [→ Wenting Ma 2014](#wenting-ma-2014)

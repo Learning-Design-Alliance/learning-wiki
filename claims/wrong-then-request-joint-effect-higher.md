@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: lu-2024
     resource: "https://doi.org/10.31219/osf.io/3k7z2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Joint-effect simulations show that inserting a "wrong response" before each help request raises the predicted probability of a correct response relative to the request alone. [→ Lu 2024](#lu-2024)

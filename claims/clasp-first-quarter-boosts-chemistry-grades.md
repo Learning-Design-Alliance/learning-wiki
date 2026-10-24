@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: potter-2012
     resource: "https://doi.org/10.48550/arxiv.1205.6970"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an NSF-supported study with a control group starting chemistry first, students taking CLASP first quarter showed grade increases of 0.59, 0.62, and 0.43 grade-points over the course average in the three chemistry quarters (p < 0.001, p < 0.001, p < 0.03), while the control group's marginal advantage was not significant. [→ Potter 2012](#potter-2012)

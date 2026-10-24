@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-16
 sources:
   - id: sifatul-anindho-2026
     resource: "https://doi.org/10.48550/arxiv.2607.23317"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the ONA difference network, faster groups show much stronger transitions among curious and optimistic, whereas slower groups show stronger bidirectional transitions among confused, conflicted, and frustrated, including a stronger confused-to-conflicted transition (0.11). [→ Sifatul Anindho 2026](#sifatul-anindho-2026)

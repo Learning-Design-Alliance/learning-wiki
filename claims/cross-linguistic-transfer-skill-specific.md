@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: spanish-map-reading-fluency-technical-report-2026
     resource: "https://www.nwea.org/research/publication/spanish-map-reading-fluency-technical-report/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Foundational skills such as phonological awareness and print concepts are more likely to transfer across languages, whereas vocabulary and comprehension are more language-dependent. [→ Spanish MAP Reading Fluency Technical Report 2026](#spanish-map-reading-fluency-technical-report-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: mahaffie-2022
     resource: "https://toandthrough.uchicago.edu/tool/cps/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Four-year graduation was 77.5% for the 2,644 students with learning-disability IEPs and 46.4% for the 1,420 students with other-disability IEPs, versus 84.6% for students without IEPs. [→ Mahaffie 2022](#mahaffie-2022)

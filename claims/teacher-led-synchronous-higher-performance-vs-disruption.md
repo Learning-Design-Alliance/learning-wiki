@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: giang-pham-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102366"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After controlling for previous PISA performance and other covariates, Cluster 2 countries outperformed Cluster 3 countries in mathematics (about 7 PISA points, p = .04), reading (10 points, p = .02), and science (5.8 points, p = .08, not significant). [→ Giang Pham 2026](#giang-pham-2026)

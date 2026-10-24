@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: seidel-2021
     resource: "https://doi.org/10.1007/s10648-020-09532-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Novices cited hand raising and quality of answers significantly more often than experts when diagnosing student profiles. [→ Seidel 2021](#seidel-2021)

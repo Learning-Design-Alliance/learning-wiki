@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: belland-2017
     resource: "https://doi.org/10.3102/0034654316670999"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect size estimate among adult learners was significantly higher than among college, secondary, middle level, and primary students, p < .01, but rests on one outcome. [→ Belland 2017](#belland-2017)

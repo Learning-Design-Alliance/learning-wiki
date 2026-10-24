@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: diamond-adele-2011
     resource: "https://doi.org/10.1126/science.1204529"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Aerobic running with increasing demands improved 8–12 year-olds' cognitive flexibility and creativity more than standard physical education, without affecting non-EF skills. [→ Diamond Adele 2011](#diamond-adele-2011)

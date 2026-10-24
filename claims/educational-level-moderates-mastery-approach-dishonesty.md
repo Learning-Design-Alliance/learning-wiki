@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: tanja-fritz-2023
     resource: "https://doi.org/10.1007/s10648-023-09753-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mastery-approach goals showed no correlation with academic dishonesty among elementary students (r = -0.019), significantly different from the negative average in secondary students (r = -0.197). [→ Tanja Fritz 2023](#tanja-fritz-2023)

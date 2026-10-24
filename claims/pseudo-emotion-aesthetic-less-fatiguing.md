@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1916
 sources:
   - id: henry-1916
     resource: "https://psycnet.apa.org/journals/edu/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` An emotion aroused by a presented picture or literary situation is an aesthetic emotion, which Thorndike calls a pseudo-emotion, and does not cause the same strain as an actual emotion. [→ Henry 1916](#henry-1916)

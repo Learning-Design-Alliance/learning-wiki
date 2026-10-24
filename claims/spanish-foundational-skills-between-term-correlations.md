@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: wei-he-2026
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-spanish-map-reading-fluency-foundational-skills-report/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pearson correlations between fall, winter, and spring scores range from 0.34 to 0.58 for Phonological Awareness, 0.51 to 0.82 for Phonics & Word Recognition, and 0.57 to 0.74 for Language Comprehension, indicating moderate between-term correlations. [→ Wei He 2026](#wei-he-2026)

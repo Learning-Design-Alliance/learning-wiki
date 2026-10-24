@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-19
 sources:
   - id: ehrlich-2014
     resource: "https://consortium.uchicago.edu/publications/preschool-attendance-chicago-public-schools-relationships-learning-outcomes-and-reasons"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

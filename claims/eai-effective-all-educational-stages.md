@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: garcía-martínez-2023
     resource: "https://doi.org/10.7821/naer.2023.1.1240"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 25 included studies, effectiveness of AI was reported at primary, secondary, vocational and university stages, with eleven secondary and ten university studies. [→ García-Martínez 2023](#garcia-martinez-2023)

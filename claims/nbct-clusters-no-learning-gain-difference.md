@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: hart-2008
     resource: "https://consortium.uchicago.edu/publications/teacher-and-principal-leadership-chicago-ongoing-analyses-preparation-programs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No significant differences in one-year learning gains were found for schools with clusters of NBCTs at the elementary or high school level. [→ Hart 2008](#hart-2008)

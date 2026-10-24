@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: sutedjo-a-2026
     title: Sutedjo A 2026
@@ -21,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among 127 surveyed faculty, mean self-perceived knowledge was high for PK (4.58), CK (5.15), and PCK (4.69), but low for TPK (2.62), TCK (2.75), and TPACK (2.55) on a six-point scale. [→ Sutedjo A 2026](#sutedjo-a-2026)

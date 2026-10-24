@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: sharon-greenberg-anthony-s-bryk-2024
     resource: "https://consortium.uchicago.edu/publications/change-that-matters"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After CMSI reforms including middle-school algebra access, teacher endorsements, and curriculum-based professional development, the 8th-grade algebra pass rate climbed to about 20% by 2017, still below the national average. [→ Sharon Greenberg & Anthony S. Bryk 2024](#sharon-greenberg-anthony-s-bryk-2024)

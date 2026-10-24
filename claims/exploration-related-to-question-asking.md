@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: jirout-2011
     resource: "https://www.sciencedirect.com/journal/developmental-review"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In observational work reviewed, children's exploration of novel objects was significantly related to their question asking. [→ Jirout 2011](#jirout-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: strother-2019
     resource: "https://carnegiemathpathways.org/reports/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing prior research, that only 20 percent of students in a traditional developmental math sequence earn college-level math credit within three years and only 6 percent within a single year, below the corequisite offerings' rates. [→ Strother 2019](#strother-2019)

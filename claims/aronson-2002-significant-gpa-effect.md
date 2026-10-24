@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: growth-mindset-interventions-2022
     resource: "https://whatworks.ed.gov"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q4` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` In an RCT with 51 students in the analytic sample, the intervention group outperformed the control pen-pal comparison group on quarter GPA, with effect size 0.85, improvement index +30, and p < .01. [→ Growth Mindset Interventions 2022](#growth-mindset-interventions-2022)

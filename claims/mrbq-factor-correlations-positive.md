@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: op-t-eynde-2003
     resource: "https://eric.ed.gov/?id=ED475708"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students holding a more social, dynamic view of mathematics (Factor 3) attach more value to mathematics and have more confidence in their mathematical capacities (Factor 2) (r = .48), and also tend to have more positive beliefs about the teacher (Factor 1) (r = .41); Factors 1 and 2 correlate .38. [→ Op 't Eynde 2003](#op-t-eynde-2003)

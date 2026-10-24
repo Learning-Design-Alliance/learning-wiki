@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: léonard-boussioux-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38183"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All seven chat-driven builders' sessions match the canonical generate-and-check loop more often than a shuffled within-person null (conformance 0.21–0.80; z = +2.8 to +6.2), and the strongest recurring motif appears about 1.89 times more often than a first-order Markov null predicts. [→ Léonard Boussioux* 2026](#leonard-boussioux-2026)

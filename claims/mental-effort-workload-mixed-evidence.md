@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: jimmie-leppink-patricia-pérez-fuster-2019
     resource: "https://doi.org/10.1007/s10648-018-09460-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the reanalysis of Aldekhyl et al. (2018) data, AIC preferred a quadratic and BIC a linear model for the mental effort–workload relation; the quadratic term was statistically significant at α = 0.05 but the evidence was not strong. [→ Jimmie Leppink & Patricia Pérez-Fuster 2019](#jimmie-leppink-patricia-perez-fuster-2019)

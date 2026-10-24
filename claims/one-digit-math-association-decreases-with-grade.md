@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: brankaer-2017
     resource: "https://doi.org/10.3758/s13428-016-0792-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Grade 1 one-digit correlation with mathematics achievement differed significantly from those in Grades 4, 5, and 6, whereas two-digit correlations did not differ between grades. [→ Brankaer 2017](#brankaer-2017)

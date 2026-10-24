@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: melissa-clark-2013
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Elementary school students taught by teachers from less selective alternative routes had similar test scores to peers taught by teachers from traditional routes. [→ Melissa Clark 2013](#melissa-clark-2013)

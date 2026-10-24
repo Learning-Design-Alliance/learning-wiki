@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: priniski-2019
     resource: "https://doi.org/10.1037/edu0000343"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Performance expectations moderated the self-first versus other-first contrast on grades (β = −0.08, p = .045); low-expectation students did better with self-first variety (β = 0.11, p = .017), while high-expectation students performed equally in both (β = −0.05, p = .231). [→ Priniski 2019](#priniski-2019)

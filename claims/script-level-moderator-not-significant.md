@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: freydis-vogel-christof-wecker-ingo-kollar-frank-fischer-2016
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Differences among play-, scene-, and scriptlet-level script subgroups on domain-specific knowledge were not statistically significant. [→ Freydis Vogel & Christof Wecker & Ingo Kollar & Frank Fischer 2016](#freydis-vogel-christof-wecker-ingo-kollar-frank-fischer-2016)

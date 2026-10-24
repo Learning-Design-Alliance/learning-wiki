@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: mills-2025
     resource: "https://doi.org/10.51388/20.500.12265/274"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Use of LLM-based GenAI tools may interfere with learners' reading comprehension and information retention even though learners self-report the tools are helpful for learning. [→ Mills 2025](#mills-2025)

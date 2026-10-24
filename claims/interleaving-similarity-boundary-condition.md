@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: jonathan-firth-2021
     resource: "https://doi.org/10.1002/rev3.3266"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The interleaving advantage is moderated by item and category similarity: interleaving helps when exemplars are similar and easily confused, while blocking may benefit diverse categories. [→ Jonathan Firth 2021](#jonathan-firth-2021)

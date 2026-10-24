@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: nele-claes-2024
     resource: "https://doi.org/10.1037/edu0000881"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Parental education, family cultural capital, and family economic capital are each positive predictors of PISA test performance in Studies 2a and 2b. [→ Nele Claes 2024](#nele-claes-2024)

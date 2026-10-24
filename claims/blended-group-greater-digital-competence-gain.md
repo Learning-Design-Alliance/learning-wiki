@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: martínez-alcalá-ci-2018
     title: Martínez-Alcalá CI 2018
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mann-Whitney U tests showed that after the workshop the blended learning group furthermore increased its digital competence relative to the face-to-face group. [→ Martínez-Alcalá CI 2018](#martinez-alcala-ci-2018)

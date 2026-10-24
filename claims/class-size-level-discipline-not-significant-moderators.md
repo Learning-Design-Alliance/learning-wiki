@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: theobald-elli-j-et-al-2020
     resource: "https://doi.org/10.1073/pnas.1916903117"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Moderator analyses indicated class size, course level, and discipline did not explain a significant amount of variation in how achievement gaps changed. [→ Theobald Elli J. et al 2020](#theobald-elli-j-et-al-2020)

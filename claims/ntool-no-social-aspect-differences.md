@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: pieter-j-beers-2007
     resource: "https://doi.org/10.1007/s11251-007-9018-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No significant differences between Stringent and Idiosyncratic conditions were found for sociability or social presence, ruling out lack of social affordances as an explanation. [→ Pieter J. Beers 2007](#pieter-j-beers-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: what-works-clearinghouse-2010
     resource: "http://www.mcgraw-hill.co.uk/sra/downloads/Reading%20Mastery/Reading%20Mastery%20Signature%20Edition%20Brochure.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 175 studies reviewed on Reading Mastery for adolescent learners, one met WWC evidence standards and one met standards with reservations; the remaining 173 did not. [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)

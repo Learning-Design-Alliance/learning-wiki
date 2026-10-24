@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: wells-1915
     resource: "https://www.google.com/search?q=%22An+Apparatus+for+the+Mirror-Drawing+Test%22"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q1`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that scales built on percentile differences are crude and fallacious, and that raw percentile values from different tests cannot be equated, translated or combined. [→ Wells 1915](#wells-1915)

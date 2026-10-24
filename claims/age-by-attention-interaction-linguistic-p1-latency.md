@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: karns-christina-m-2015
     resource: "https://doi.org/10.1016/j.dcn.2015.03.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Attention affected linguistic P1 latency differently by age group: 10-year-olds showed marginally shorter unattended than attended latency, while older groups showed the reverse pattern. [→ Karns Christina M. 2015](#karns-christina-m-2015)

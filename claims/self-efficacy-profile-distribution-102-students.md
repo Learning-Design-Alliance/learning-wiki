@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: suriá-martínez-r-2026
     resource: "https://doi.org/10.3389/feduc.2026.1956192"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The low profile contained 30 students (29.4%) with below-average scores, the moderate profile 42 students (41.2%) near the mean, and the high profile 30 students (29.4%) above average on all dimensions. [→ Suriá-Martínez R 2026](#suria-martinez-r-2026)

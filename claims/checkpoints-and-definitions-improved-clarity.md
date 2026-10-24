@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Clarity decreased when new topics were introduced without defining key terms or checking understanding; later additions of checkpoints helped mitigate these issues. [→ clarity-1](#clarity-1)

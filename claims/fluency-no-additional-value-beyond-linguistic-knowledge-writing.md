@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2003
+recheck_by: 2006
 sources:
   - id: r-schoonen-2003
     resource: "https://doi.org/10.1111/1467-9922.00213"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2006**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Fluency (speed of processing) measures correlated with overall writing performance in both L1 and L2, but had no additional predictive value over linguistic knowledge resources. [→ R. Schoonen 2003](#r-schoonen-2003)

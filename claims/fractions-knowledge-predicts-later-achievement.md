@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-24
 sources:
   - id: geary-david-c-2017
     resource: "https://doi.org/10.1037/edu0000159"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In 8th grade, the effect of 6th-grade fractions comparison on mathematics achievement (β = .206, p = .002) was at least as large as the central executive effect (β = .18, p = .007); in grades 6 and 7 the fractions effect was significant but smaller than the central executive's (β = .150 and .178 against .252 and .248). [→ Geary David C. 2017](#geary-david-c-2017)

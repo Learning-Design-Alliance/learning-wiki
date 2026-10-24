@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: sophie-wacker-2024
     resource: "https://doi.org/10.1007/s11409-023-09351-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 22.6% of judgments confidence was rated lower than the prior pre-monitoring judgment, which the authors read as a decrease in overconfidence. [→ Sophie Wacker 2024](#sophie-wacker-2024)

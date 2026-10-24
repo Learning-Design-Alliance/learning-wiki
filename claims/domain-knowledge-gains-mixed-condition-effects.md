@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2003
 sources:
   - id: triona-2003
     resource: "https://doi.org/10.1207/s1532690xci2102_02"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Domain knowledge about variable effects improved from before to after experimentation in both the spring and ramp domains, with no overall condition main effect. [→ Triona 2003](#triona-2003)

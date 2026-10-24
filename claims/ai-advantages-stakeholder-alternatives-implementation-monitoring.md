@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dimitrios-gousopoulos-2026
     resource: "https://doi.org/10.62225/2583049X.2026.6.3.6516"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Advantages of AI-assisted inquiry over the other groups were clearest on four specific decision-making steps: stakeholder engagement, alternatives, implementation, and monitoring. [→ Dimitrios Gousopoulos 2026](#dimitrios-gousopoulos-2026)

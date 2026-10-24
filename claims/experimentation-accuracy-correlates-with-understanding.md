@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: flegr-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101778"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students' accuracy of experimentation on the worksheets did not differ between conditions (η2 = 0.01) but correlated strongly with post-test scores (rs = .61) and relatively strongly with follow-up scores (rs = .41). [→ Flegr 2023](#flegr-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: melnick-2018
     resource: "https://learningpolicyinstitute.org/product/early-learning-ca"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` California's ECE programs are funded by and accountable to multiple uncoordinated agencies at the county, state, and federal levels, creating complexity and confusion. [→ Melnick 2018](#melnick-2018)

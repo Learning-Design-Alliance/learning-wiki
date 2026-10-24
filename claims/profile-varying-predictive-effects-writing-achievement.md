@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: jianhua-zhang-2025
     resource: "https://doi.org/10.1007/s11409-025-09434-0"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i1`–`i3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` For the overall sample, linguistic self-efficacy significantly predicted argumentative writing achievement (β = 0.164, p = .01), but no variable significantly predicted narrative achievement for the overall sample. [→ Jianhua Zhang 2025](#jianhua-zhang-2025)

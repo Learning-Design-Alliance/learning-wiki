@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: kuhfeld-2022
     resource: "https://www.nwea.org/research/publication/student-achievement-in-2021-22-cause-for-hope-and-continued-urgency/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The pandemic's achievement impacts were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students. [→ Kuhfeld 2022](#kuhfeld-2022)

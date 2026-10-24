@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: hurtado-nereyda-2008
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2898277/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Measures of maternal talk at 18 months were significantly correlated with children's reaction time at 24 months, accounting for 18–26% of the variance, and children of more talkative mothers had significantly faster mean RTs. [→ Hurtado Nereyda 2008](#hurtado-nereyda-2008)

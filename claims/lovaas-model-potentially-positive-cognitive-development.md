@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: lovaas-model-of-applied-behavior-analysis-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/295"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC rates the Lovaas Model as having potentially positive effects on cognitive development; the WWC-calculated difference was not statistically significant but the effect size was substantively important (at least 0.25). [→ Lovaas Model of Applied Behavior Analysis 2010](#lovaas-model-of-applied-behavior-analysis-2010)

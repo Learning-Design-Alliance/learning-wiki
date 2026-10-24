@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022
     title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r2`–`r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A 6-week harmonica training RCT showed a significant group × time interaction (p = 0.015) in digit span backward performance. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutierrez-c-2022)

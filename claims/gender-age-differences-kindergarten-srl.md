@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: heyi-zhang-2014
     resource: "https://www.repository.cam.ac.uk"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i2` medium
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Girls showed more cognitive (U=1540.50, p<.01), metacognitive (U=1637.50, p<.05), and motivational (U=1501.50, p<.01) strategic behaviours, with no performance difference. [→ Heyi Zhang 2014](#heyi-zhang-2014)

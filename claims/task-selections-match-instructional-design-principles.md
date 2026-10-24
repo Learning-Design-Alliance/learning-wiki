@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: milou-van-harsel-2022
     resource: "https://doi.org/10.1007/s11251-022-09589-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 80.9% of students scored 4 or higher out of 5 on adherence to the five instructional design principles, with the example-based-learning, example-first, and lowest-level-first principles matched by most students and the simple-to-complex principle fully matched by only half. [→ Milou van Harsel 2022](#milou-van-harsel-2022)

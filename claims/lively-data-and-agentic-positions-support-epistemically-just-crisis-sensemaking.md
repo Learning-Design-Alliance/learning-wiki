@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: sedawi-calabrese-barton-2024
     resource: "https://doi.org/10.1080/10508406.2024.2381205"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · n=4 focal case studies (Wael, Rama, Qassem, Dima), drawn from a larger pool of 19 Palestinian-Arab minority youth in Israel within a broader 51-youth/45-adult multi-country project
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 When official/institutional data about a crisis is incomplete, delayed, or inaccessible to a minoritized community, youth who take up active roles with data — researching, analyzing, authoring, and communicating it, rather than only receiving it — can use their own embodied and community experience as a legitimate epistemic resource, and can surface gaps and contradictions in dominant narratives that comparing across local, national, and global scales makes visible.
 

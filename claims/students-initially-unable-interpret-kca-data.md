@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: yang-2016
     resource: "https://doi.org/10.1007/s11412-016-9239-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Many students were initially unable to interpret the KCA data productively upon first introduction of the tool. [→ Yang 2016](#yang-2016)

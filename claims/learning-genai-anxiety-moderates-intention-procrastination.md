@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: li-zilin-2026
     resource: "https://doi.org/10.3390/bs16071256"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The negative association between behavioral intention and GenAI-assisted learning procrastination was significant at high learning GenAI anxiety (b = −0.268, p < 0.001) and mean anxiety (b = −0.131, p = 0.002) but not significant at low anxiety (b = 0.006, p = 0.915). [→ Li Zilin 2026](#li-zilin-2026)

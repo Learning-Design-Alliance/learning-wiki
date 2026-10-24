@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the full sample (N = 288), a six-profile solution fit best, including an overestimation profile (high SR, lower OB; n = 43), an alignment profile (n = 40), an underestimation profile (low SR, near-average OB; n = 59), and profiles near the overall mean. [→ lpa-full](#lpa-full)

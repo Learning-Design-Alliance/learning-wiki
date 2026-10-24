@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: title-as-printed-2021
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among elementary schools with strong 5Essentials results, high-poverty schools improved more than low-poverty schools on more than one-half of measures, suggesting greater benefit of climate improvement for student learning in high-poverty schools. [→ Title as printed 2021](#title-as-printed-2021)

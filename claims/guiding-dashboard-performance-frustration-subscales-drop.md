@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: reet-kasepalu-2023
     resource: "https://doi.org/10.1007/s11412-023-09414-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The performance subscale (feeling accomplished) showed a large drop in the alerting & guiding vs no dashboard condition (Cohen's d = 1.2, p = 0.003). [→ Reet Kasepalu 2023](#reet-kasepalu-2023)

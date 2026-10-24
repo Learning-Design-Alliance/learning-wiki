@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kaliisa-2025
     resource: "https://doi.org/10.18608/jla.2025.8495"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In January 2025, Executive Order 14110 was revoked and replaced by an order emphasizing economic competitiveness and removing barriers to AI innovation rather than establishing binding regulations. [→ Kaliisa 2025](#kaliisa-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: naihobe-gonzalez-2023
     resource: "https://www.mathematica.org/publications/evaluation-of-tntps-turnaround-leadership-teams-strategy-2018-2022"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q4`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` After two years, TLTS had no detectable effect on student achievement in science (0.03 standard deviations, p = 0.266). [→ Naihobe Gonzalez 2023](#naihobe-gonzalez-2023)

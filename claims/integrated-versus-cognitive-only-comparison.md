@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: heng-zhang-2025
     resource: "https://doi.org/10.1007/s10648-025-10086-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Integrated cognitive and emotional support was more effective for knowledge acquisition than cognitive-only support, but less effective for perception, with similar effects on affect. [→ Heng Zhang 2025](#heng-zhang-2025)

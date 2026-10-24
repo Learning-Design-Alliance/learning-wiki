@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: daniel-robinson-2009
     resource: "https://doi.org/10.1007/s10648-009-9115-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rosenshine credits Brophy with coining teaching in small steps to describe the instructional behaviors of teachers whose students had a high proportion of correct responses. [→ Daniel Robinson 2009](#daniel-robinson-2009)

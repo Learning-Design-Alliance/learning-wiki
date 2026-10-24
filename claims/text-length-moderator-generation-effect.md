@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: julia-schindler-tobias-richter-2023
     resource: "https://doi.org/10.1007/s10648-023-09758-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The text generation effect was medium-sized for short texts (0–300 words, g = 0.36), largest for 301–600 words (g = 0.63), smaller for 601–900 words (g = 0.43), and small and nonsignificant for texts over 900 words (g = 0.05). [→ Julia Schindler · Tobias Richter 2023](#julia-schindler-tobias-richter-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chow-tak-sang-2026
     resource: "https://doi.org/10.3390/bs16081448"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Digital competence predicted critical evaluation, creative application, and ethical competence but not technical proficiency or communication proficiency; perceived resources predicted only communication proficiency (β = 0.22, p < 0.001) and creative application (β = 0.17, p < 0.05). [→ Chow Tak Sang 2026](#chow-tak-sang-2026)

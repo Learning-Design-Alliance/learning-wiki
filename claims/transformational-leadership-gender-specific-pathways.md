@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: alave-mamani-2026
     resource: "https://doi.org/10.1186/s40359-026-05450-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Transformational leadership's effect on harassment was significant among women (β=-0.238, p<0.001) but not men (β=-0.022, n.s.); its effect on self-efficacy was significant among men (β=0.157, p<0.05) but not women (β=-0.024, n.s.). [→ Alave Mamani 2026](#alave-mamani-2026)

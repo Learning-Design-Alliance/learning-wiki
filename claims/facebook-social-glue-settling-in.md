@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: clare-madge-2008
     resource: "https://doi.org/10.1080/17439880902923606"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A majority of respondents reported Facebook was important or very important in helping them form friendships and settle into university. [→ Clare Madge 2008](#clare-madge-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: john-sweller-2023
     resource: "https://doi.org/10.1007/s10648-023-09817-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Leahy and Sweller (2011) first replicated the failure to obtain the modality effect with lengthy text, obtaining a reverse modality effect with visual-only information superior to dual modality. [→ John Sweller 2023](#john-sweller-2023)

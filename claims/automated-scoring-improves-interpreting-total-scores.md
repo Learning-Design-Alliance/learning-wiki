@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chen-c-and-liu-t-2026
     title: Chen C and Liu T 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` After 14 weeks, the experimental group scored significantly higher than the control group at post-test (d = 1.03). [→ Chen C and Liu T 2026](#chen-c-and-liu-t-2026)

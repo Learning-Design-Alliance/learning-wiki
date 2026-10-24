@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mengjia-liu-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100795"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Subgroup analysis showed effect sizes trending toward increasing effectiveness at higher educational levels: primary (k = 5; g = 0.29), secondary (k = 11; g = 0.35), tertiary (k = 17; g = 0.44), with overlapping confidence intervals indicating the between-level differences did not reach statistical significance. [→ Mengjia Liu 2026](#mengjia-liu-2026)

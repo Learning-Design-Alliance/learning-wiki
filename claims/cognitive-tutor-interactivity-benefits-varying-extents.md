@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: kenneth-r-koedinger-2007
     resource: "https://doi.org/10.1007/s10648-007-9049-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The learning benefits of Cognitive Tutors' forms of interactivity are supported, to varying extents, by a growing number of experimental studies. [→ Kenneth R. Koedinger 2007](#kenneth-r-koedinger-2007)

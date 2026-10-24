@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-03
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zingaretti-et-al-2026
     resource: "https://doi.org/10.22599/jesla.152"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · n=18
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 A pilot study, and three weeks is not months — but the gain held almost exactly, which is a
 different result from decaying slowly.

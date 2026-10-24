@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system-2015
     resource: "https://doi.org/10.1108/978-1-62396-776-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The potential heterogeneity of teacher effects across students of different aptitudes or other differing characteristics has impacts on growth modeling and teacher evaluation. [→ The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system 2015](#the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system-2015)

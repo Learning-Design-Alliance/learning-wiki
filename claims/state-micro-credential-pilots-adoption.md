@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: berry-2019
     resource: "https://doi.org/10.51388/20.500.12265/104"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` At least 10 state education agencies had launched official micro-credential pilots, and Tennessee's third-year pilot had grown to almost 800 educators from more than 25 school districts. [→ Berry 2019](#berry-2019)

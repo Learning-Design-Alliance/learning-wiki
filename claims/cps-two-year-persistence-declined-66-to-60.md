@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: nagaoka-2018
     resource: "https://consortium.uchicago.edu/publications/educational-attainment-chicago-public-schools-students-2017"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of 8,708 CPS 2014 graduates who enrolled directly in a four-year college, 60 percent persisted continuously for four semesters, down from 66 percent five years earlier, though total persisters rose to 5,206 from 4,325 in 2009. [→ Nagaoka 2018](#nagaoka-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: nurit-viesel-nordmeyer-2023
     resource: "https://doi.org/10.1007/s10648-023-09735-3"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i1` In inhibition, shifting, and updating, RDMD children were less impaired than expected under additivity (gAdd = 0.22, p < 0.01), i.e., clearly under-additive. [→ Nurit Viesel-Nordmeyer 2023](#nurit-viesel-nordmeyer-2023)

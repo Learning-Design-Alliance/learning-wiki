@@ -8,6 +8,7 @@ generated:
 id: retrieval-practice-improves-retention
 aliases: [retrieval-practice-enhances-long-term-retention, retrieval-practice-improves-learning, testing-effect-improves-learning, testing-effect-improves-retention, testing-effect-retrieval-practice-improves-retention, testing-improves-retention, retrieval-practice-improves-long-term-retention, retrieval-practice-outperforms-repeated-study-rowland-meta-analysis]
 evidence_strength: strong
+newest_evidence: 2017
 sources:
   - id: rowland-2014
     resource: "https://doi.org/10.1037/a0037559"
@@ -49,6 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 quant-synthesis `r3`, 1 causal `r?`, 1 review `r3` · `q3`–`q4` · `i2`–`i3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 Actively recalling information from memory (rather than rereading or reviewing it) strengthens long-term retention of that information. This is one of the most consistently replicated effects in cognitive psychology of learning, often called the "testing effect."
 

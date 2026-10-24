@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: lim-2023
     resource: "https://doi.org/10.1007/s11251-023-09616-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across near transfer, far transfer, calculation and the two recall variables, giftedness produced a significant multivariate main effect with η2 p = .178, a large multivariate effect size. [→ Lim 2023](#lim-2023)

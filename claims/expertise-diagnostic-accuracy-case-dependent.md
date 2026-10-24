@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-22
 sources:
   - id: cloude-2025
     resource: "https://doi.org/10.1007/s11251-025-09729-4"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For Case 4, diagnostic accuracy was significantly related to expertise (OR = 14.7); for Case 1, the relation was negative and significant, with novices achieving higher diagnostic accuracy than experts. [→ Cloude 2025](#cloude-2025)

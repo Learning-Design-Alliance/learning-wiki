@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wong-2026
     resource: "https://doi.org/10.1007/s10648-026-10118-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Both the human-only and general-AI groups declined in originality from the product improvement task to the more complex product invention task (d = −0.31 and d = −1.05 respectively), while the regulated-AI group sustained their originality (d = 0.08). [→ Wong 2026](#wong-2026)

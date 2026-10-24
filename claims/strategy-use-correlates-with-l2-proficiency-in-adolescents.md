@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-03
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mantovani-2026
     resource: "https://doi.org/10.14746/gl.2026.53.1.10"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · n=157
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 Correlational, so the direction is open: strategies may build proficiency, proficiency may afford
 strategies, or both may follow from something else.

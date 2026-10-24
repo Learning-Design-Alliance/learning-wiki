@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: riikonen-2020
     resource: "https://doi.org/10.1007/s11412-020-09330-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` UrPo had nearly as high a proportion of off-task activity as the unsuccessful Plant team yet completed a successful project because the shared epistemic object enabled quick regrouping. [→ Riikonen 2020](#riikonen-2020)

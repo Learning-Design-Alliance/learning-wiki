@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: lelièvre-2025
     resource: "https://doi.org/10.48550/arxiv.2506.18710"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Among open-weight models with known parameter counts, CDPK accuracy scales with size; the Pareto efficiency frontier shows a sharp drop-off below around 8B parameters, though at 7B parameters performance still spans over 20 percentage points (46% to 66%). [→ Lelièvre 2025](#lelievre-2025)

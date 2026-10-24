@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ariel-2018
     resource: "https://doi.org/10.1037/xap0000133"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the Experiment 2 transfer session with neutral instructions and new Swahili materials, the previously instructed group recalled items about three times on average, more than controls. [→ Ariel 2018](#ariel-2018)

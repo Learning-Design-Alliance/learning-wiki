@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: carnegie-learning-high-school-math-solution-algebra-i-2014
     resource: "https://evidenceforessa.org/program/carnegie-learning-high-school-math-solution/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In comparison with schools following a traditional Algebra I curriculum, schools using Carnegie Learning High School Math Solution Algebra I scored higher on the Algebra Proficiency Exam (effect size = +0.07) in the first cohort. [→ Carnegie Learning High School Math Solution Algebra I 2014](#carnegie-learning-high-school-math-solution-algebra-i-2014)

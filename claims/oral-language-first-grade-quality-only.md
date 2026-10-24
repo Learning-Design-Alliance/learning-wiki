@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2014
+source_checked: 2026-10-17
 sources:
   - id: kent-2014
     resource: "https://doi.org/10.1007/s11145-013-9480-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Oral language showed no unique relation to first-grade compositional fluency (γ = −.07, p = .50) but a unique relation to quality (γ = .16, p = .05); in kindergarten its relation to fluency was non-significant (γ = −.10, p = .237). [→ Kent 2014](#kent-2014)

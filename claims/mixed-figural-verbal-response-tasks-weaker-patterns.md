@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: ota-potters-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100532"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When tasks use a combination of figural and verbal responses, developmental patterns for general creativity and some subdimensions are less pronounced. [→ O.T.A. Potters 2023](#ota-potters-2023)

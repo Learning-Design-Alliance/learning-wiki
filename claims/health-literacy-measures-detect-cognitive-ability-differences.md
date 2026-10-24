@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: wolf-2012
     resource: "https://doi.org/10.1007/s11606-012-2079-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors conclude that the most common measures used in health literacy studies are detecting individual differences in cognitive abilities, which may predict capacity to engage in self-care and achieve desirable health outcomes. [→ Wolf 2012](#wolf-2012)

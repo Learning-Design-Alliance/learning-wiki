@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: phalet-2004
     resource: "https://hdl.handle.net/1874/23520"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceived instrumentality interacts with affective attitudes toward one's individual future: it enhances motivation only under a positive personal future attitude and reverses under a negative outlook. [→ Phalet 2004](#phalet-2004)

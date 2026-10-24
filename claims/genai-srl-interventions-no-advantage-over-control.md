@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tim-fütterer-2026
     resource: "https://doi.org/10.1007/s10648-026-10133-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No statistically significant advantages of either intervention over the control condition were found for effort, domain-specific knowledge, or elaboration-based strategy use. [→ Tim Fütterer 2026](#tim-futterer-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: strong
+newest_evidence: 2025
 sources:
   - id: keles-2025
     resource: "https://doi.org/10.1007/s10648-025-10077-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 127 eligible studies, only 18 provided convergent validity data (correlations, sensitivity, specificity), and no study examined the effect of screening itself on academic outcomes. [→ Keles 2025](#keles-2025)

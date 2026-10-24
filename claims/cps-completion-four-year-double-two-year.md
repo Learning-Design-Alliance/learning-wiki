@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: malone-2021
     resource: "http://toandthrough.uchicago.edu/tool/cps/hs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Completion among immediate four-year enrollees rose from 54 to 56 percent for the class of 2013, while immediate two-year enrollees rose from 26 to 28 percent—half the four-year rate. [→ Malone 2021](#malone-2021)

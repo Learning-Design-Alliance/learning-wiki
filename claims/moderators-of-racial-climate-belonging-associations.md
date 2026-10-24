@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: christy-m-byrd-2026
     resource: "https://doi.org/10.1007/s10648-025-10078-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The meta-analysis incorporated moderator tests for country (US vs non-US), marginalized group membership, school level, and publication type using random-effects meta-regression. [→ Christy M. Byrd 2026](#christy-m-byrd-2026)

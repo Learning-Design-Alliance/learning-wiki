@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: wechsler-2016
     resource: "http://creativecommons.org/licenses/by-nc/4.0/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An evaluation by the Washington Institute for Public Policy showed that the state's preschool students made impressive test score gains in both reading and math, and the gains persisted through 5th grade. [→ Wechsler 2016](#wechsler-2016)

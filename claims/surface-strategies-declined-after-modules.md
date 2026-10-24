@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: breakstone-2021
     resource: "https://doi.org/10.37016/mr-2020-56"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Belief that a dot-org domain conferred reliability fell from 23 students at pretest to 7 at posttest, a decrease of 69%, with similar declines for links, appearance, and About-page reliance. [→ Breakstone 2021](#breakstone-2021)

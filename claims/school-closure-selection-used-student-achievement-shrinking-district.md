@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: john-engberg-2011
     resource: "https://doi.org/10.1016/j.jue.2011.10.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` An urban district closing schools due to shrinking enrollment made student achievement a factor in closure decision making, and the study examined whether student outcomes depended on which schools were closed. [→ John Engberg 2011](#john-engberg-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: malkiewich-2016
     resource: "https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Relative-Hard Code Downgrades correlated negatively with challenge time (r = -0.56, p = .02; partial r = -0.62, p < .01 after correction), but added no unique variance beyond Relative-Hards Solved Complex. [→ Malkiewich 2016](#malkiewich-2016)

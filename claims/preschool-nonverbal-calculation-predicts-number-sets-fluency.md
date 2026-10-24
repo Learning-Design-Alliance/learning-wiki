@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: moore-2016
     resource: "https://doi.org/10.1016/j.jecp.2016.05.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the beginning of preschool, dropping nonverbal calculation from the best Bayes model yielded a model only 3.4% as probable, and dropping give-a-number 0.4% as probable, indicating substantial evidence for both predictors. [→ Moore 2016](#moore-2016)

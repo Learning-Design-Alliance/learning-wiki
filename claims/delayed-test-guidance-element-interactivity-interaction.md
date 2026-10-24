@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: relations-between-the-worked-example-and-generation-effects-on-immediate-and-delayed-tests-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2016.06.007"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The guidance x element interactivity interaction was significant on the delayed test, with low guidance superior for low element interactivity material (d = .44). [→ Relations Between the Worked Example and Generation Effects on Immediate and Delayed Tests 2016](#relations-between-the-worked-example-and-generation-effects-on-immediate-and-delayed-tests-2016)

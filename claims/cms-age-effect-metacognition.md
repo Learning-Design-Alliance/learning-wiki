@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: dos-santos-kawata-kh-2021
     title: dos Santos Kawata KH 2021
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` A negative correlation was observed between child age and the CMS metacognition score (r = -0.27, p < 0.01), indicating metacognitive ability increases with age. [→ dos Santos Kawata KH 2021](#dos-santos-kawata-kh-2021)

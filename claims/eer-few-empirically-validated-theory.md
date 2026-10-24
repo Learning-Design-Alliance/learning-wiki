@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: vorderobermeier-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100625"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of the 24 included articles, only four (Gordillo et al. 2020, Hacke 2019, Hamilton et al. 2021, Veldkamp et al. 2022; Wynn 2021 bracketed) reached the pattern of theoretical grounding with empirical validation. [→ Vorderobermeier 2024](#vorderobermeier-2024)

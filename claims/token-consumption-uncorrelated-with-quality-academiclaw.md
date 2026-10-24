@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: junjie-yu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.02661"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pooling all 480 model–task evaluations, the Pearson correlation between token consumption and task score is r = −0.03 (p = 0.49), effectively zero; even within individual models no correlation exceeds |r| = 0.08. [→ Junjie Yu 2026](#junjie-yu-2026)

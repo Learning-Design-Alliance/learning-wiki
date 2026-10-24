@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: us-department-of-education-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/381"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Differences between the intervention group and the comparison group on the TERA-III and WJ-III Letter-Word Identification and Spelling subtests were not statistically significant; the domain average effect size was 0.08. [→ U.S. Department of Education 2013](#us-department-of-education-2013)

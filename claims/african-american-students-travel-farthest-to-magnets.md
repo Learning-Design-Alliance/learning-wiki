@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
+source_checked: 2026-10-20
 sources:
   - id: elaine-m-allensworth-2000
     resource: "https://consortium.uchicago.edu/publications/access-magnet-schools-chicago"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average distance traveled to magnet elementary schools was 3.27 miles for African-American students versus about 2.6 to 2.7 miles for white, Latino, and Asian students. [→ Elaine M. Allensworth 2000](#elaine-m-allensworth-2000)

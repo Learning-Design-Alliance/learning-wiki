@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-19
 sources:
   - id: adesope-2017
     resource: "https://doi.org/10.3102/0034654316689306"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2017 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Transfer-appropriate processing moderated the testing effect: identical practice and final test formats yielded significantly higher effects than dissimilar formats. [→ Adesope 2017](#adesope-2017)

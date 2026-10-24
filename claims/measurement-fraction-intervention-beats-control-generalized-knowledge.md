@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-23
 sources:
   - id: fuchs-2016
     resource: "https://doi.org/10.1037/edu0000073"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Each intervention condition outperformed CON on NAEP fraction knowledge, number line, and calculations (ESs 0.57–1.98 for EXP; 0.70–2.08 for WP). [→ Fuchs 2016](#fuchs-2016)

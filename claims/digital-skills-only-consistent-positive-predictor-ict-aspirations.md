@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: popa-2026
     resource: "https://doi.org/10.48550/arxiv.2605.27391"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In multivariate country-level regression, digital skills show a small positive standardized association with ICT aspiration growth (β = 0.072), while teacher support (β = -0.324) and autonomy (β = -0.192) are negatively associated. [→ Popa 2026](#popa-2026)

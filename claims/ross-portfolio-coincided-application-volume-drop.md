@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: willis-2022
     resource: "https://doi.org/10.54300/756.774"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Implementing the Ross Admissions Portfolio coincided with BBA applications falling from roughly 13,000 in 2015 to under 6,500 in 2018, which the authors suggest may reflect testing applicants' interest, with volume rising above 8,000 by 2022 after continued outreach. [→ Willis 2022](#willis-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: roschelle-2018
     resource: "https://digitalpromise.dspacedirect.org/items/7a123d3c-22ec-46db-b7cf-709c3aa65583"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Follow-up a year after the formal research found that more than 50% of teachers continued using the intervention without further incentives, and teachers perceiving coherence and unique value were more likely to continue. [→ Roschelle 2018](#roschelle-2018)

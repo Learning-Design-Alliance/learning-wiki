@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: wisniewski-b-2020
     title: Wisniewski B 2020
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The random-effects integration of all study effects yields a weighted average effect size of d = 0.55 (95% CI 0.48–0.62), reduced to d = 0.48 after excluding 3.5% extreme values. [→ Wisniewski B 2020](#wisniewski-b-2020)

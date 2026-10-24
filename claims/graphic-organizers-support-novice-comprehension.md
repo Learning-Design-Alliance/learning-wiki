@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: graphic-organizers-support-novice-comprehension
 evidence_strength:
+newest_evidence: 2018
 sources:
   - id: nesbit-adesope-2006
     resource: "https://doi.org/10.3102/00346543076003413"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 Graphic organizers — visual displays such as concept maps, advance organizers, and structured diagrams that depict relationships among ideas — are claimed to help novice learners comprehend and retain new material by making structure explicit and reducing the burden of building a mental model unaided.
 

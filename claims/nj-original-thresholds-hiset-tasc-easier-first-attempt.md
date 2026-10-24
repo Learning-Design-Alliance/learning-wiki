@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: jacob-hartog-2021
     resource: "https://ies.ed.gov/ncee/rel/regions/midatlantic"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under the original passing thresholds, exam takers in the study sample were more likely to pass the HiSET and TASC than the GED on the first attempt, after grade 8 standardized test scores were controlled for. [→ Jacob Hartog 2021](#jacob-hartog-2021)

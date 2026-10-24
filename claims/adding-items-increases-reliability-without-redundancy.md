@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: steffen-zitzmann-2025
     resource: "https://doi.org/10.1007/s10648-025-10015-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Because the error variance term in alpha depends on the number of items, reliability can be improved by lengthening the test, requiring only that added items are not much less reliable than existing ones. [→ Steffen Zitzmann 2025](#steffen-zitzmann-2025)

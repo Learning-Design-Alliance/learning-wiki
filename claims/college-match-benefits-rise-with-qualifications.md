@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: roderick-2018
     resource: "https://consortium.uchicago.edu/publications/high-school-future-delivering-dream-college-graduation"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eliminating undermatch yields a 13-point graduation gain for very selective-access students but only about 5 points districtwide. [→ Roderick 2018](#roderick-2018)

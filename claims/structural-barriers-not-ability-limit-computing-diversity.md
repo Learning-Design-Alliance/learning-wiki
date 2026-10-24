@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: barriers
     title: "In its current-state section the report states that \"The lack of diversity in computing is not due to the lack of ability nor interest in computing among women and people of color,\" citing Google Inc. & Gallup Inc. (2016), Pinkard et al. (2017), and Ryoo (2019). It attributes the gap instead to social and structural barriers including stereotypes and inequitable tracking (Margolis et al., 2008; Ryoo, 2019; Wang & Moghadam, 2017)."
@@ -22,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The report asserts, citing multiple studies, that stereotypes about who should excel in computing lead to inequitable tracking of young women and students of color out of computing courses. [→ barriers](#barriers)

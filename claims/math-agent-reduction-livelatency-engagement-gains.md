@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: udeshi-2026
     resource: "https://doi.org/10.1007/978-3-032-29755-6_14"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A concise-response prompt on the Math Agent decreased time to full response latency (P50) by 32.7% ± 1.0% and increased behavioral engagement by 4.65 ± 2.98%. [→ Udeshi 2026](#udeshi-2026)

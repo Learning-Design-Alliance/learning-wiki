@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: reedy-2015
     resource: "http://www.kansasmtss.org/pdf/ex_eval/2015_KS_MTSS_Eval_Report.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` By 2014, 48.0 percent of Kansas's 1,472 public schools had participated in some level of formal MTSS training, representing 67.0 percent of the state's 293 districts. [→ Reedy 2015](#reedy-2015)

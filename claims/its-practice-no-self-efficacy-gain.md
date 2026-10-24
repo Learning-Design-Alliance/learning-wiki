@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: xinfei-cen-2026
     resource: "https://doi.org/10.48550/arxiv.2606.17470"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Training condition did not significantly predict post-training self-efficacy (t(57.96) = 0.49, p = .629), contrary to expectation. [→ Xinfei Cen 2026](#xinfei-cen-2026)

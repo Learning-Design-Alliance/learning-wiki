@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: james-soland-2017
     resource: "https://www.nwea.org/research/publication/combining-academic-noncognitive-and-college-knowledge-measures-to-identify-students-not-on-track-for-college-a-data-driven-approach/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The accuracy rates of the college-readiness models were higher than those from 97 percent of the studies predicting high school completion catalogued by Bowers, Sprott, and Taff (2013). [→ James Soland 2017](#james-soland-2017)

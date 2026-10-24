@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: gazzaley-a-2012
     resource: "https://doi.org/10.1016/j.tics.2011.11.014"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Retro-cues trigger top-down biasing of maintained representations and consistently confer large benefits to WM performance; Kuo et al. showed modulation of the WM representations themselves, not just anticipatory attention to the probe. [→ Gazzaley A 2012](#gazzaley-a-2012)

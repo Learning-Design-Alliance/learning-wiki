@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: dialogic-reading-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/136"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` According to WWC calculations, dialogic reading significantly outperformed the Conversational Language Training Program comparison on two of six outcomes: lexical diversity during play (effect size 0.92) and total utterances during book reading (effect size 1.67). [→ Dialogic Reading 2010](#dialogic-reading-2010)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: burton-2021
     resource: "https://doi.org/10.1177/17470218211008895"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` No evidence of moderation by clinical sample versus healthy controls overall, nor separately for ADHD versus healthy controls or SUD versus healthy controls. [→ Burton 2021](#burton-2021)

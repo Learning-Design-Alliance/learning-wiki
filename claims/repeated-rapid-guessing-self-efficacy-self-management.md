@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: james-soland-2020
     resource: "https://www.nwea.org/research/publication/do-students-rapidly-guess-repeatedly-over-time-a-longitudinal-analysis-of-student-test-disengagement-background-and-attitudes/"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

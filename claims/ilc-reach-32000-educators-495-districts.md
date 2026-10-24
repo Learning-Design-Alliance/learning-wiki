@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: lotan-2019
     resource: "https://learningpolicyinstitute.org/product/instructional-leadership-corps-professional-learning"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Between November 2014 and September 2018, ILC leaders provided multi-session professional learning workshops to more than 32,000 educators statewide, in more than 2,000 schools and at least 495 districts. [→ Lotan 2019](#lotan-2019)

@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants consistently preferred support that preserved opportunities for problem solving, valuing the option to try problems on their own and receive hints when needed. [→ hints-1](#hints-1)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bi-t-2026
     title: Bi T 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The theme–strategy matrix recorded 1,051 coded co-occurrences: technical prompts totaled 398, practical 310, exploratory 158, structured 105, narrative 80; by theme, instructional activities appeared most frequently (265), then learning objectives (212) and assessment design (189). [→ Bi T 2026](#bi-t-2026)

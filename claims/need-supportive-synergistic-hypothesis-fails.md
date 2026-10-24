@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: olivier-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101389"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Classrooms combining high levels of two or three need-supportive practices do not show the greatest engagement benefits. [→ Olivier 2021](#olivier-2021)

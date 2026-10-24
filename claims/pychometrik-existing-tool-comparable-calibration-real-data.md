@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-09
+recheck_by: 2024
 sources:
   - id: he-2021
     resource: "https://www.nwea.org/research/publication/a-comparison-of-item-parameter-estimates-in-pychometrik-and-the-existing-item-calibration-tool/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across the 517 items with differing results, average RIT differences between the tools ranged from 0.33 RIT for mathematics to 0.91 RIT for science, and differences in Pvalue, Pbm, and ExpCorr were almost zero. [→ He 2021](#he-2021)

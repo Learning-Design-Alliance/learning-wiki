@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: zwickl-2013
     resource: "https://doi.org/10.48550/arxiv.1307.5760"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 20 of 45 classes had a matching pre/post response rate greater than 40%. [→ Zwickl 2013](#zwickl-2013)

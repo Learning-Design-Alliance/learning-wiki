@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: mahamad-2025
     resource: "https://doi.org/10.3390/fi17090383"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Against traditional LMS baselines with manual grading, NLP-based automated essay scoring achieves grading times up to 80% faster than human graders while maintaining comparable accuracy. [→ Mahamad 2025](#mahamad-2025)

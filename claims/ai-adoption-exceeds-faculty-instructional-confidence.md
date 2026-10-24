@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: sangwa-2025
     resource: "https://doi.org/10.35542/osf.io/kj4vt_v1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In U.S. national instructor survey evidence, 72% experimented with GenAI as an instructional tool yet only 14% report confidence using it instructionally. [→ Sangwa 2025](#sangwa-2025)

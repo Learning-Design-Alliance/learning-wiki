@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: h-p-a-boshuizen-2016
     resource: "https://doi.org/10.1007/s11251-016-9377-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Pedagogical experts reverted to explanations when tutoring in a biological domain and generated less deep learning than tutors with less pedagogical expertise, who were more interactive and scaffolded their tutee's learning. [→ H. P. A. Boshuizen 2016](#h-p-a-boshuizen-2016)

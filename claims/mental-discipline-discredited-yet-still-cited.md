@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: j-c-h-1915
     resource: "https://doi.org/10.1037/h0063797"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Editorial asserts that dozens of investigations have shown the limitations of mental discipline, but administrators still use it to arrange curricula and defend subjects. [→ J. C. H 1915](#j-c-h-1915)
@@ -46,3 +48,4 @@ Editorial assertion in the Journal of Educational Psychology, offered without ci
 
 - [Investigations in educational psychology percolate slowly into the thinking of college administrators](ed-psychology-slow-uptake-administrators.md) — a broader claim this one bears on
 - [Lecturing persists for identifiable psychological and practical reasons: it is easy, exploits personal opinion, and satisfies pupils' craving for authority and ready-made knowledge](why-lecturing-persists.md)
+- [The editorial asserts that public education is still dominated by traditional aims and accomplishes little in inculcating the scientific temper of thought.](education-dominated-by-traditional-aims-1915.md) — a broader claim this one bears on

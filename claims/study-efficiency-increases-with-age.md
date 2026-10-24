@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: gönül-2021
     resource: "https://doi.org/10.1007/s11409-021-09262-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Efficiency showed a main effect of age group: adults and 14-year-olds each exceeded 10-year-olds, but adults did not differ from 14-year-olds; the age group by condition interaction was not significant. [→ Gönül 2021](#gonul-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lo-s-2026
     title: Lo S 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` As students encountered diverse GPT outputs, they moved from rigid adherence to predefined design principles toward judging responses by contextual appropriateness and user utility, valuing responses that technically failed a principle if they offered unexpected insights. [→ Lo S 2026](#lo-s-2026)

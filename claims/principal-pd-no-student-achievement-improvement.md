@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: herrmann-2019
     resource: "https://www.mathematica.org/publications/study-highlights-the-effects-of-a-principal-professional-development-program-focused"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On average, students had similar achievement in English language arts and math whether they were in schools that received the program or not, with both groups scoring near the 40th percentile on state assessments. [→ Herrmann 2019](#herrmann-2019)

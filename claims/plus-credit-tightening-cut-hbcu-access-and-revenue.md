@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: victoria-jackson-2023
     resource: "https://edtrust.org/resource/parent-plus-loans-are-a-double-edged-sword-for-black-borrowers"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` After the Department of Education tightened Parent PLUS credit standards in October 2011, the share of PLUS recipients at HBCUs fell 45.7% in 2012-13 versus 28.7% at non-HBCUs serving low-income students, and HBCUs lost about $168 million in PLUS revenue. [→ Victoria Jackson 2023](#victoria-jackson-2023)

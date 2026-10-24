@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: jaeger-2024
     resource: "https://doi.org/10.1007/s11409-023-09370-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Study 1b, approximately 38% of participants reported using visual cues for draw judgments, while almost none reported visual cues for explain or test judgments. [→ Jaeger 2024](#jaeger-2024)

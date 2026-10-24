@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: murphy-2009
     resource: "https://doi.org/10.19173/irrodl.v10i3.579"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` E-teachers reported that building community and all interactions online required conscious, deliberate, and planned approaches, unlike the natural co-presence of F2F schools. [→ Murphy 2009](#murphy-2009)

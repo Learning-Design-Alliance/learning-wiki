@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9159-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Sequential small-group interaction brings in resources from the individual, small-group and community planes, shares them through co-attention, and may generate new or modified resources retained at the various planes. [→ Stahl 2012](#stahl-2012)

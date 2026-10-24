@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: mixed
+newest_evidence: 2008
 sources:
   - id: stelzer-2008
     resource: "https://doi.org/10.48550/arxiv.0806.0405"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2008 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The MLM-script group scored above the Textbook group but below the MLM group on both assessments, in accord with predictions from the coherence and dual-channel principles. [→ Stelzer 2008](#stelzer-2008)

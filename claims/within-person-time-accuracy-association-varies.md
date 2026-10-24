@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: domingue-2021
     resource: "https://doi.org/10.1111/jedm.12291"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Idiosyncratic within-person changes in response time have inconsistent implications for accuracy: additional response time predicts higher accuracy in some cases and declines in accuracy in others. [→ Domingue 2021](#domingue-2021)

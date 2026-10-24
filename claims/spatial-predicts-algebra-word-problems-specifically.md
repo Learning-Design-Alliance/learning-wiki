@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: geary-david-c-2023
     resource: "https://doi.org/10.1037/edu0000763"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adding a direct path from Spatial to Algebra Word Problems (Model 5) significantly improved model fit, and the spatial boost was higher for word problems (.16) than general mathematics (.14). [→ Geary David C. 2023](#geary-david-c-2023)

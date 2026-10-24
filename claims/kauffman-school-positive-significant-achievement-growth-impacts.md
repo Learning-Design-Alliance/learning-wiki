@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: matthew-johnson-2016
     resource: "https://www.mathematica.org/publications/ewing-marion-kauffman-school-evaluation-impact-report-year-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the 2011-2012 through 2014-2015 school years, the Kauffman School produced positive, statistically significant, and educationally meaningful impacts on student achievement growth in mathematics, reading, and science. [→ Matthew Johnson 2016](#matthew-johnson-2016)

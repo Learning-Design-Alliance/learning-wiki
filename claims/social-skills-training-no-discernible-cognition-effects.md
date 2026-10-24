@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: social-skills-training-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/578"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the one study reporting cognition outcomes (Ferentino, 1991), the effect on the WPPSI-R Comprehension subtest was not statistically significant (effect size 0.19, p = 0.14, improvement index +7) and not substantively important by WWC criteria. [→ Social Skills Training 2013](#social-skills-training-2013)

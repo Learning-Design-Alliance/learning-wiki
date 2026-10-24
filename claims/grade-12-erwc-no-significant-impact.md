@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: fong-2022
     resource: "https://www.wested.org/resources/expanding-the-erwc-evaluation/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The grade 12 quasi-experimental evaluation detected no statistically significant achievement difference between students enrolled in ERWC and students enrolled in the comparison English course, for both the Non-PT ICA and PT ICA samples. [→ Fong 2022](#fong-2022)

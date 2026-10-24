@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: poquet-2026
     resource: "https://doi.org/10.48550/arxiv.2606.10434"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Side-by-side visualisation of the two clustering solutions shows that volume-based profiling obscures qualitative differences, such as Strategic Offloaders actively structuring while Full and Comprehension Offloaders delegate entire segments passively. [→ Poquet 2026](#poquet-2026)

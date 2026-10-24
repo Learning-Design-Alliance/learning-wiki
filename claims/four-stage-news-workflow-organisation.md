@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: laurence-dierickx-2026
     resource: "https://doi.org/10.1007/s42438-026-00690-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The paper addresses four main news-production stages: collection (newsgathering), analysis (making sense of information), production (editing), and dissemination (publication/distribution). [→ Laurence Dierickx 2026](#laurence-dierickx-2026)

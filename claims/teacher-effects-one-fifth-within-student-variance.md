@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: elaine-m-allensworth-and-stuart-luppescu-2016
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Accounting for teacher effects decreases within-student grade variance from 0.87 to 0.70, while leaving between-student GPA variance nearly unchanged (0.95 versus 0.96). [→ Elaine M. Allensworth and Stuart Luppescu 2016](#elaine-m-allensworth-and-stuart-luppescu-2016)

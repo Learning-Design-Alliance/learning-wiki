@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: steven-c-pan-2021
     resource: "https://doi.org/10.1007/s10648-021-09611-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis of 20 experimental and quasi-experimental K-12 studies found spelling instruction was associated with improved reading skills, but the meta-analytic conclusions have been criticized methodologically. [→ Steven C. Pan 2021](#steven-c-pan-2021)

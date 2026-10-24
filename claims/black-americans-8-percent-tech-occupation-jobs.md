@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
+recheck_by: 2028
 sources:
   - id: underrep-stat
     title: underrep-stat
@@ -21,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Out of 5.3 million U.S. tech occupation jobs, Black Americans hold only 8%, indicating substantial underrepresentation. [→ underrep-stat](#underrep-stat)

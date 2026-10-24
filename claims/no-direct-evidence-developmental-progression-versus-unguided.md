@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-09
 sources:
   - id: frye-2013
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/18"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` None of the 23 studies contributing to the Recommendation 1 evidence base evaluated progression-based instruction against instruction not guided by a developmental progression, so the panel could not identify evidence for any particular progression. [→ Frye 2013](#frye-2013)

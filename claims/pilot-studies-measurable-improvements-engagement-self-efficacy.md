@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: wang-j-and-li-p-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1790916"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pilot studies within computing-related majors demonstrated measurable improvements in student engagement, self-efficacy, and learning outcomes, and teachers reported reduced administrative workload. [→ Wang J and Li P 2026](#wang-j-and-li-p-2026)

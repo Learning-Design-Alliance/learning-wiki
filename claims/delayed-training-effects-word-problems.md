@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-23
 sources:
   - id: laura-gabler-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101902"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Training effects on both outcomes were not significant directly after the training, but emerged at follow-up. [→ Laura Gabler 2024](#laura-gabler-2024)

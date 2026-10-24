@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: kearney-ca-2019
     title: Kearney CA 2019
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Absenteeism severity rates spike in kindergarten and first grade, decline during elementary school, spike again in middle school, and increase through high school, peaking at 12th grade. [→ Kearney CA 2019](#kearney-ca-2019)

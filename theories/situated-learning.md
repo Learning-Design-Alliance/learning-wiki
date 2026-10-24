@@ -18,7 +18,7 @@ moved_from: [principle/situated-learning]
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (9 for, 3 mixed, 1 against) · 17 studies (5 causal, 5 qualitative, 2 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 17 report an effect size · 11 claims rest on one study
+> **Evidence** · 14 claims (10 for, 3 mixed, 1 against) · 18 studies (6 qualitative, 5 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 2 of 18 report an effect size · 12 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.
@@ -44,6 +44,7 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Students' spatial positions in the simulator display their understanding of bridge work roles, and instructors use these positions as a basis for embedded assessment and correction](../claims/spatial-positions-display-work-role-understanding.md) [+W]
 - [Students reconstruct authentic work practices in the simulator even when the simulation has removed the relevant environmental elements.](../claims/students-reconstruct-authentic-practice-in-simplified-simulation.md) [~W]
 - [Learning in ecologically valid, authentic contexts is more rapid, durable, and transferable](../claims/authentic-contexts-improve-durability-transfer.md) [+W]
+- [Different FUSE challenges facilitated different types of spatial reasoning, with CAD-software challenges eliciting relatively high intrinsic-dynamic and extrinsic-dynamic reasoning](../claims/challenges-elicited-different-spatial-reasoning.md) [+M] — attached 2026-10-24 from Ramey et al. (2019), which proposed "Distributed spatial sensemaking: spatial reasoning as distributed practices drawing on social and material resources"; tests this page's relationship.
 
 ## The evidence by question
 - *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]

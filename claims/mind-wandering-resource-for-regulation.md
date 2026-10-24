@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: tina-seufert-2026
     resource: "https://doi.org/10.1007/s10648-026-10119-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A systematic review applying the SMA Grid to 134 empirical studies on mind wandering argues that mind wandering can function as a resource for regulation, provided learners possess metacognitive awareness to respond to attentional shifts. [→ Tina Seufert 2026](#tina-seufert-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: magdalena-novak-stephan-schwan-2021
     resource: "https://doi.org/10.1007/s10648-020-09551-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Negative affect increased substantially from before the exhibition to after visiting the showrooms, with a large main effect of showroom (ηp² = 0.48), consistent with the abstract's report of heightened negative affect due to the haptic experience. [→ Magdalena Novak & Stephan Schwan 2021](#magdalena-novak-stephan-schwan-2021)

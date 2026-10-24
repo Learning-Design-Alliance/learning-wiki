@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: gripshover-2022
     resource: "https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Meaningful Work, Teacher Caring, and Feedback for Growth all worsened by .07 to .15 points on a seven-point Likert scale between October and February, a statistically significant decrease. [→ Gripshover 2022](#gripshover-2022)

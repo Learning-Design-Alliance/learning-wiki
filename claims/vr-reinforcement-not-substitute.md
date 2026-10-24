@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: vargas-2024
     resource: "https://eric.ed.gov/?id=EJ1445872"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Technologies like virtual reality should be seen as a reinforcement, not a substitute, for the original educational action, strengthening the situated dimension. [→ Vargas 2024](#vargas-2024)

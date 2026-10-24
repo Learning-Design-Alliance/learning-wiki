@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: suriá-martínez-r-2026
     resource: "https://doi.org/10.3389/feduc.2026.1956192"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` AI use for educational support differed significantly across profiles, F(2,99) = 27.84, p < .001, η2 = .36, with the High profile highest (M = 4.68) and the Low profile lowest (M = 2.41). [→ Suriá-Martínez R 2026](#suria-martinez-r-2026)

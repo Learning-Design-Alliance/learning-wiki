@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: student-hat-learning
     title: student-hat-learning
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r2`, 1 qualitative `r?` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Student hat activities supported teachers' learning about science content ideas, their students, and the OpenSciEd instructional approach. [→ student-hat-learning](#student-hat-learning)

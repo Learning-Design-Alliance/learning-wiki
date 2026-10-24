@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: petersen-2016
     resource: "https://doi.org/10.1016/j.dr.2016.02.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceptual inhibition tasks showed the youngest useful age ranges and the motivational task Less is More a later range than other groupings, suggesting perceptual inhibition develops earlier and motivational inhibition later. [→ Petersen 2016](#petersen-2016)

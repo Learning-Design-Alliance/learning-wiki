@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: anja-prinz-2021
     resource: "https://doi.org/10.1007/s11251-021-09535-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Compared to before studying, the number of misconceptions was reduced at immediate and delayed testing with all three instructional methods, with a large main effect of time of assessment (η² = .34). [→ Anja Prinz 2021](#anja-prinz-2021)

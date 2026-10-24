@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: iwatani-2021
     resource: "https://doi.org/10.1109/respect51740.2021.9620610"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Following the coal industry's departure, Eastern KY educators and organizations directed attention to CS and CT education for K-16 students, partly through the NSF-funded Tough As Nails partnership. [→ Iwatani 2021](#iwatani-2021)

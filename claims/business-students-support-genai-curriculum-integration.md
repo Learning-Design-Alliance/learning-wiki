@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rook-2026
     resource: "https://doi.org/10.53761/jjzzd330"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis of qualitative responses from 166 capstone business students revealed strong support for integrating GenAI knowledge and application into higher education curricula. [→ Rook 2026](#rook-2026)

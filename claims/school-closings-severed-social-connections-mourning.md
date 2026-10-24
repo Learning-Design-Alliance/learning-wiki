@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: molly-f-gordon-2017
     resource: "http://consortium.uchicago.edu/publications/school-closings-chicago-staff-and-student-experiences-and-academic-outcomes"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Closing schools severed longstanding social connections that families and staff had with their schools and one another, resulting in a period of mourning. [→ Molly F. Gordon 2017](#molly-f-gordon-2017)

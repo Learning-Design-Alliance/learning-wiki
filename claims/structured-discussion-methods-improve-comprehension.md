@@ -8,6 +8,7 @@ generated:
 id: structured-discussion-methods-improve-comprehension
 aliases: [discussion-quality-drives-comprehension, structured-discussion-approaches-improve-comprehension]
 evidence_strength:
+newest_evidence: 2018
 sources:
   - id: murphy-et-al-2009
     resource: "https://doi.org/10.1037/a0015576"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Structured Discussion Methods Improve Comprehension -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): Structured discussion methods — such as Accountable Talk, reciprocal teaching, and structured academic controversy — organize classroom talk around explicit norms, roles, and prompts, with the aim of deepening learners' comprehension of texts and content. The claim concerns comprehension outcomes specifically, not general engagement or participation. -->

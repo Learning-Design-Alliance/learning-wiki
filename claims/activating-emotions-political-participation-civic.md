@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: graf-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101869"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Enjoyment, shame, and anxiety relate positively and boredom negatively to intended political participation at the within level; enjoyment mediates the climate-participation link positively, anxiety shows a significant negative indirect (competitive mediation) effect. [→ Graf 2023](#graf-2023)

@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 67 primary evaluations, school-based interventions were associated with a small but statistically significant reduction in school exclusion (SMD = 0.104). [→ meta-main](#meta-main)

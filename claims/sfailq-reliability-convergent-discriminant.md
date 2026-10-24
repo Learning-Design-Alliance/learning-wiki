@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: liu-qingqi-2026
     resource: "https://doi.org/10.3390/bs16071110"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Internal consistency coefficients for all six dimensions and the total scale exceed 0.85; dimension and total scores correlate with the digital literacy scale at 0.49–0.68; HTMT ratios among the six factors did not exceed 0.80. [→ Liu Qingqi 2026](#liu-qingqi-2026)

@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pre-session survey responses showed broad and generalized concerns about AI, including distrust of technology companies' self-regulation (76%), fears of societal harm (74%), and privacy worries (75%). [→ pre-survey-1](#pre-survey-1)

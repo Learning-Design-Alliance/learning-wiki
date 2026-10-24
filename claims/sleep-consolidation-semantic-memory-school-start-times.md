@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: fandakova-2016
     resource: "https://doi.org/10.1111/mbe.12123"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sleep and consolidation processes play a significant role in semantic memory development, and given that most adolescents do not get sufficient sleep on school nights partly due to early school start times, delaying start times may benefit memory formation. [→ Fandakova 2016](#fandakova-2016)

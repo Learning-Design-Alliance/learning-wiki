@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lovett-2017
     resource: "https://doi.org/10.1037/edu0000181"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On standardized foundational word reading skills, 1st- and 2nd-grade intervention children made relative gains almost twice those of 3rd-grade intervention children. [→ Lovett 2017](#lovett-2017)

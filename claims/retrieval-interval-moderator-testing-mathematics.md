@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: murray-2023
     resource: "https://osf.io/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an exploratory univariate moderator analysis, retrieval interval (less than one day versus more) neared significance (β=0.626, SE=0.162, p=.058); restricting to intervals over one day gave g = 0.378 with a CI still crossing zero. [→ Murray 2023](#murray-2023)

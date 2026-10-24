@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: menken-miriam-s-2023
     resource: "https://doi.org/10.1016/j.dcn.2023.101247"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Bullied children had significantly lower reading (d = -0.33), processing speed (d = -0.31), and inhibitory control and attention (d = -0.20) scores than matched non-bullied children. [→ Menken Miriam S. 2023](#menken-miriam-s-2023)

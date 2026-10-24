@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: jan-d-vermunt-vincent-donche-2017
     resource: "https://doi.org/10.1007/s10648-017-9414-6"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In disciplines where lecturers applied more direct instruction students scored lower on external regulation; where teachers were more learning-focused, students scored higher on all processing strategies and were more regulated. [→ Jan D. Vermunt & Vincent Donche 2017](#jan-d-vermunt-vincent-donche-2017)

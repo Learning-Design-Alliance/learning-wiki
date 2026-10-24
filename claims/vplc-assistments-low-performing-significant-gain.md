@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: huang-2025
     resource: "https://eric.ed.gov/?id=ED677665"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Treatment students scoring below the 50th percentile on the pretest scored significantly higher than their VCG (214.38 versus 213.18, difference = 1.20, p = 0.020; ES = 0.10). [→ Huang 2025](#huang-2025)

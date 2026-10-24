@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: adam-chuderski-2021
     resource: "https://doi.org/10.1007/s11409-020-09236-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Correct trials yielded larger Suddenness (ΔM = 2.52) and Certainty (ΔM = 6.36) and lower Intuition (ΔM = −1.32) than incorrect trials. [→ Adam Chuderski 2021](#adam-chuderski-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ben-swift-2026
     resource: "https://doi.org/10.1145/3786228.3786237"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In delivered workshops the room's engagement visibly shifts after groups share their generated text, and the questions participants ask about LLMs become more incisive from that point onward. [→ Ben Swift 2026](#ben-swift-2026)

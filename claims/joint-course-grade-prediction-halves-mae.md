@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: paul-savala-2026
     resource: "https://doi.org/10.48550/arxiv.2608.13409"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A Transformer trained to predict both next-semester course sets and grades achieved MAE 0.1339 versus 0.2496 for a grades-only Transformer, a 46.4% reduction, on a held-out 10% test set. [→ Paul Savala 2026](#paul-savala-2026)

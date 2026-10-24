@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: bastani-hamsa-2025
     resource: "https://doi.org/10.1073/pnas.2422633122"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` GPT Base students who performed worse on the exam did not perceive worse performance or learning, and GPT Tutor students perceived improvements that did not occur. [→ Bastani Hamsa 2025](#bastani-hamsa-2025)

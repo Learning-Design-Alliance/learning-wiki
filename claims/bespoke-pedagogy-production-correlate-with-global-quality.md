@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: romain-puech-2026
     resource: "https://doi.org/10.48550/arxiv.2609.26540"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Spearman correlations between rubric dimensions and global quality were ρ = 0.68 for pedagogy (C) and ρ = 0.66 for production (D), versus ρ = 0.46 for content (A). [→ Romain Puech 2026](#romain-puech-2026)

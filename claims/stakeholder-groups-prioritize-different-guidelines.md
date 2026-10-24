@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 19 guidelines, instructors most frequently commented on usability (G4) and students on the amount of educational support provided (G13), while researcher comments concentrated on instructional best practices (G8, G9, G10) and learning engineering (G14); guideline G3 was raised only by researchers. [→ stakeholder-dist-1](#stakeholder-dist-1)

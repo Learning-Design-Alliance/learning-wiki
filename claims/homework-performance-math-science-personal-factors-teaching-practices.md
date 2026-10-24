@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: fernández-alonso-2015
     resource: "https://doi.org/10.1037/edu0000032"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study addresses adolescents' homework performance in mathematics and science as related to personal factors and teaching practices. [→ Fernández Alonso 2015](#fernandez-alonso-2015)

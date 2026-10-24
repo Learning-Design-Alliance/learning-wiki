@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: nie-j-2026
     title: Nie J 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the structural model, GAA-LS scores were positively associated with feedback engagement (β = .56), which was positively associated with academic integrity intention (β = .37), with a significant indirect association (β = .21, 95% CI [.15, .28]). [→ Nie J 2026](#nie-j-2026)

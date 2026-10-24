@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: zhang-hui-2026
     resource: "https://doi.org/10.2196/96819"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI and expert total scores correlated positively (r=0.61; ICC=0.51), with agreement strongest on cognitive-process dimensions and near-zero or negative ICC for role-play quality and the two 5-point dimensions. [→ Zhang Hui 2026](#zhang-hui-2026)

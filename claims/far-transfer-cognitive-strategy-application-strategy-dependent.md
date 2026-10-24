@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2020
 sources:
   - id: schuster-2020
     resource: "https://doi.org/10.1007/s11409-020-09237-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Hybrid training (ME) increased cognitive strategy application at T3 in the far-transfer MST_T task compared to control (R) but not compared to non-hybrid (E) training. [→ Schuster 2020](#schuster-2020)

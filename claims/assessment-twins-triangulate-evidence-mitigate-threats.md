@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jasper-roe-2026
     resource: "https://doi.org/10.37074/jalt.2026.9.2.3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The twin approach helps mitigate GenAI validity threats by triangulating evidence across pedagogically valuable, yet GenAI-vulnerable, assessment formats. [→ Jasper Roe 2026](#jasper-roe-2026)

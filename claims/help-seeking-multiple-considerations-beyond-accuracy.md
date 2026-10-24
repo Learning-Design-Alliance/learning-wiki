@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: monika-undorf-2021
     resource: "https://doi.org/10.1007/s11409-021-09259-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors interpret the weaker confidence-help seeking association and the absent accuracy benefit as evidence that help seeking serves goals such as informativeness, curiosity, and feedback, and is inhibited by self-esteem and time costs. [→ Monika Undorf 2021](#monika-undorf-2021)

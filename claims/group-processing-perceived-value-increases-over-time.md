@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: lachowsky-2021
     resource: "https://doi.org/10.5278/ojs.jpblhe.v9i2.2883"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Retrospective ratings of group processing's importance to learning rose significantly from before the seminar (5.4) to after the seminar (8.6, p<0.001) and from after the seminar to the present (8.9, p=0.03). [→ Lachowsky 2021](#lachowsky-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-15
 sources:
   - id: adesope-2012
     resource: "https://doi.org/10.1037/a0026147"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Spoken–written presentations without images showed a statistically detectable advantage over spoken-only (g = 0.45), but with images or animation included the advantage was not statistically detectable (g = 0.06 in both cases). [→ Adesope 2012](#adesope-2012)

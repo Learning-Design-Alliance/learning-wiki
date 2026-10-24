@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: kristin-hallgren-2013
     resource: "https://www.mathematica.org/publications/the-teacherstudent-data-link-project-firstyear-implementation"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` An implementation study of the Teacher-Student Data Link project yielded findings from its first year of implementation in 2011. [→ Kristin Hallgren 2013](#kristin-hallgren-2013)

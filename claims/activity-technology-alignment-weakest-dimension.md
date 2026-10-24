@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: younghoon-jeon-2026
     resource: "https://doi.org/10.48550/arxiv.2602.10620"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across all agents, Activity-Technology alignment had the lowest mean score (2.19 on the 0-3 scale). [→ YoungHoon Jeon 2026](#younghoon-jeon-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: nama-2026
     resource: "https://doi.org/10.48550/arxiv.2605.27396"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Real-world 2025 attacks targeted agents processing external content rather than human users, and users cannot apply literacy skills against threats in a channel they cannot observe. [→ Nama 2026](#nama-2026)

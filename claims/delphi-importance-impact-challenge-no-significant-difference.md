@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: rwitajit-majumdar-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100405"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 15 themes, mean importance (M = 7.31) exceeded mean impact (M = 7.24) and challenge (M = 6.89), but the differences were not statistically significant, F(2, 42) = 0.91907, p > .05. [→ Rwitajit Majumdar 2026](#rwitajit-majumdar-2026)

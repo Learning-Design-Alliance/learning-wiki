@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Starting from the Base R1 candidate pool, TEI@4 raises Explore from 20.3% to 31.1% (+10.8pp) and lowers General by −11.7pp, while Verify is roughly preserved (16.0→16.9%). [→ schoenfeld-tei-1](#schoenfeld-tei-1)

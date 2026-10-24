@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: amogh-sirnoorkar-and-omkar-mamidpalliwar-2026
     resource: "https://doi.org/10.48550/arxiv.2607.29385"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among activity respondents, 52% chose Combination, 39.6% chose Direct Answers, and only 7.6% chose Guided Q&A as their anticipated chatbot preference. [→ Amogh Sirnoorkar and Omkar Mamidpalliwar 2026](#amogh-sirnoorkar-and-omkar-mamidpalliwar-2026)

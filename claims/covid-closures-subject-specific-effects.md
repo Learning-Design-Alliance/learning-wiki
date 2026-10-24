@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: hammerstein-svenja-2021
     resource: "https://doi.org/10.3389/fpsyg.2021.746289"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i0` When averaging across all studies, the median effect was d = −0.10 SD for mathematics and −0.09 SD for reading, but some included studies found larger losses in reading than mathematics and others the reverse. [→ Hammerstein Svenja 2021](#hammerstein-svenja-2021)

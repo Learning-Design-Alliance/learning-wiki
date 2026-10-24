@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-03
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: bäck-romano-et-al-2025
     resource: "https://doi.org/10.54103/2037-3597/30422"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · n=not reported here
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 Having gender in your first language does not transfer as a rule. The advantage it confers is
 specific to particular item configurations, and it does not appear in every task.

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: tim-kühl-2022
     resource: "https://doi.org/10.1007/s10648-021-09650-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the reanalysis of pooled data from four experiments, quadratic interactions were found and the largest difference between visual design variations was obtained for medium ability, as the conceptualization expected. [→ Tim Kühl 2022](#tim-kuhl-2022)

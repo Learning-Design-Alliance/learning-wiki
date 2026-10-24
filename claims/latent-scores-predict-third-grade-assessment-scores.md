@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: allensworth-2026
     resource: "https://doi.org/10.1080/19345747.2026.2636957"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pre-pandemic, latent scores and most assessments predict third grade scores with correlations from 0.67 (kindergarten latent score to PARCC/IAR) to 0.82 (second grade latent score to MAP). [→ Allensworth 2026](#allensworth-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: g-m-w-1915
     resource: "https://worldcat.org/search?q=Journal+of+Educational+Psychology+Volume+VI+1915"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Where systematic training appears to improve sensory performance, the improvement is invariably located in central factors like direction of attention and ability to understand what is to be observed, so sensu stricto there is no such thing as sense training. [→ G. M. W 1915](#g-m-w-1915)

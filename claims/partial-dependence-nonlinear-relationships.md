@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: kole-norberg-2025
     resource: "https://doi.org/10.5281/zenodo.15870274"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Higher word counts were associated with higher probability the model classified a problem as having potential poor readability, reversing the descriptive means pattern. [→ Kole Norberg 2025](#kole-norberg-2025)

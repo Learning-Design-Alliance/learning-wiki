@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: deke-2012
     resource: "http://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The treatment-on-the-treated estimate of participating in SES is -0.10 SD for reading and 0.11 SD for math, neither statistically significant. [→ Deke 2012](#deke-2012)

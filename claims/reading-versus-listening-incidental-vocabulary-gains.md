@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: restrepo-ramos-2015
     resource: "http://dx.doi.org/10.15446/profile.v17n1.43957"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r3`, 1 review `r2` · `q3` · `i3` large · n=24 studies (29 effect sizes, N=2,771)
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-09-30, contradicted by the synthesis added below): Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners -->
 
 ## Subclaims

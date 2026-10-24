@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: alberto-quilez-robres-2020
     resource: "https://doi.org/10.1016/j.stueduc.2021.101020"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In 3rd grade, the regression model predicted 59% of academic achievement variance (p<.001), with IQ (β = .406) and study habits (β = .546) as significant predictors and sex, age and memory non-significant. [→ Alberto Quilez-Robres 2020](#alberto-quilez-robres-2020)

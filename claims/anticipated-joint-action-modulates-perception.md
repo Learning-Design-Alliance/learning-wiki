@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: juliene-madureira-ferreira-2021
     resource: "https://doi.org/10.1007/s10648-021-09607-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The belief of engagement with others in a joint action and the resulting social expectation impact both object perception and task execution, with anticipated effort modulating perception of an object's properties. [→ Juliene Madureira Ferreira 2021](#juliene-madureira-ferreira-2021)

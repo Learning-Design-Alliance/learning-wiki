@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: casal-otero-2023
     resource: "https://doi.org/10.1186/s40594-023-00418-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Learning experiences in schools have focused on technical, conceptual, and applied skills in some domains of interest, while US and China proposals reveal significant efforts to design models framing AI literacy. [→ Casal-Otero 2023](#casal-otero-2023)

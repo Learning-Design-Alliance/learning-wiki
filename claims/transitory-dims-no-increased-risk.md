@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: stormark-km-2019
     title: Stormark KM 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Transitory DIMS showed no increased risk of poor academic performance at T2 (fully adjusted OR 0.50, 95% CI 0.25–1.02), with a non-significant trend toward lower risk. [→ Stormark KM 2019](#stormark-km-2019)

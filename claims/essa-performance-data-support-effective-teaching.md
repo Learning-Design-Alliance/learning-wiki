@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-08
 sources:
   - id: gill-2020
     resource: "https://www.mathematica.org/publications/the-transition-to-essa-state-and-district-approaches-to-implementing-title-i-and-title-ii"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` States and districts increasingly used performance data as a means to support effective teaching between 2014 and 2018. [→ Gill 2020](#gill-2020)

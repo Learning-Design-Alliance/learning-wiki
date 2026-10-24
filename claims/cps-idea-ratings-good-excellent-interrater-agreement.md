@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: van-hooijdonk-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101823"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Intraclass correlation coefficients for the top 1 to top 3 ratings ranged from 0.75 to 0.87 for originality, 0.68 to 0.80 for completeness, and 0.79 to 0.89 for practicality. [→ Van Hooijdonk 2023](#van-hooijdonk-2023)

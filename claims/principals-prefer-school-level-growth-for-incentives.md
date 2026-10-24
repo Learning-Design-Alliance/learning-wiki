@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: duncan-chaplin-2009
     resource: "https://www.mathematica.org/publications/2008-principalvice-principal-survey-results-for-evaluation-of-the-effective-practice-incentive-community-epic"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Principals generally prefer school-level performance and achievement growth, rather than teacher-level performance alone or test-score levels, to determine incentive awards. [→ Duncan Chaplin 2009](#duncan-chaplin-2009)

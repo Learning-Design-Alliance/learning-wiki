@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: garvin-brod-2023
     resource: "https://doi.org/10.1007/s10648-023-09749-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Initial data from Corbalan et al. (2006) indicate higher learning scores with shared instructional control than with full system control. [→ Garvin Brod 2023](#garvin-brod-2023)

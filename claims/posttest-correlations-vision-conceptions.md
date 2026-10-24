@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: heinonen-2023
     resource: "https://doi.org/10.1007/s11251-022-09603-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Post-training, teachers with better professional vision and reasoning showed conception changes toward less transmission and innate-quality beliefs and more support of knowledge construction, and better reasoners had fewer misconceptions (r = −0.246, p = 0.050). [→ Heinonen 2023](#heinonen-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: brendan-a-schuetze-2024
     resource: "https://doi.org/10.1007/s10648-024-09853-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The overall distributions of simulated and empirical correlations showed clear resemblance, with Godwin et al. (2021) data showing slightly smaller correlations on average. [→ Brendan A. Schuetze 2024](#brendan-a-schuetze-2024)

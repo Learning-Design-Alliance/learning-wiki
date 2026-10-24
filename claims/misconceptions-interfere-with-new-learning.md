@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: misconceptions-interfere-with-new-learning
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: guzzetti-et-al-1993
     resource: "https://doi.org/10.2307/747886"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3`–`q4`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Misconceptions Interfere With New Learning -->
 
 The two syntheses recorded here (a meta-analysis and a review, both of science and reading-education studies, both read from abstracts) find that interventions which deliberately confront learners' misconceptions, by producing conceptual conflict or by refuting the misconception explicitly in text, are more likely to produce conceptual change than standard expository instruction. Neither measures interference itself; that pre-existing misconceptions — coherent but incorrect mental models — interfere with acquiring accurate new knowledge is the theoretical reading of these results, not something the entries test directly.

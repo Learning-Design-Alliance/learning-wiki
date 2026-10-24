@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: berry-2019
     resource: "https://doi.org/10.51388/20.500.12265/104"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The vast majority of states (44) require continuing education units measured in seat time or clock hours for recertification, while only six states require performance indicators such as summative evaluation ratings for licensure renewal. [→ Berry 2019](#berry-2019)

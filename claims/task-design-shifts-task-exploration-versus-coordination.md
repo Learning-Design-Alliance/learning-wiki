@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: johanna-pöysä-tarhonen-2022
     resource: "https://doi.org/10.1007/s11251-021-09562-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across task designs, cognitive sub-element emphases differed: Task 1 involved more task exploration than coordination, while Task 2 involved more coordination than task exploration. [→ Johanna Pöysä-Tarhonen 2022](#johanna-poysa-tarhonen-2022)

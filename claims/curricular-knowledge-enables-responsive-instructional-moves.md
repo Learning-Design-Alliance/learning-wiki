@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: robertson-et-al-2021
     resource: "https://doi.org/10.1080/07370008.2020.1832096"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · n=14 undergraduate Learning Assistants, three 10-week academic quarters, one introductory physics course sequence at a US university
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 Undergraduate physics Learning Assistants who developed a shared model of why a research-based tutorial curriculum's activities and question sequences were designed as they were subsequently made six distinct, responsive instructional moves — such as choosing when to intervene, referring students to other sections, and inventing on-the-fly activities — that they explicitly attributed to that knowledge.
 

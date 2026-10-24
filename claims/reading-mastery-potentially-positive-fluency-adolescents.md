@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-18
 sources:
   - id: what-works-clearinghouse-2010
     resource: "http://www.mcgraw-hill.co.uk/sra/downloads/Reading%20Mastery/Reading%20Mastery%20Signature%20Edition%20Brochure.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For the reading fluency domain, one study showed substantively important positive effects of Reading Mastery on adolescent learners. [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)

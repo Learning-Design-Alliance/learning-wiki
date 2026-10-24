@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: kahne-2006
     resource: "https://consortium.uchicago.edu/publications/small-schools-larger-scale-first-three-years-chicago-high-school-redesign-initiative"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructional-experience measures were mostly similar between CHSRI and comparable schools; the notable exception was juniors reporting significantly greater academic press, with juniors also experiencing moderately higher expectations and more academic and social support. [→ Kahne 2006](#kahne-2006)

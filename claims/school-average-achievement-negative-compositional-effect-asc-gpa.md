@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09726-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Model M5, school-average achievement negatively predicted ASC (−0.23) and GPA (−0.23). [→ Marsh 2023](#marsh-2023)
@@ -56,3 +58,4 @@ Doubly-latent multilevel SEM analysis of ELS:2002 data (N = 16,197 students, 751
 - [Adding a quadratic achievement term leaves the negative contextual-mean effect essentially unchanged](curvature-adjustment-does-not-eliminate-bflpe.md) — related
 - [Classroom-average mathematics achievement shows no statistically significant association with ASC development when clique achievement is modeled simultaneously](classroom-achievement-no-significant-asc-effect.md) — reports the opposite
 - [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — a narrower finding that bears on this claim
+- [The school-level BFLPE on math self-concept is weak once class-level achievement is controlled](school-level-bflpe-weak-after-class-control.md) — related

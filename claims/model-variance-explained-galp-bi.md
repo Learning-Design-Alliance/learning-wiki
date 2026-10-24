@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: li-zilin-2026
     resource: "https://doi.org/10.3390/bs16071256"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The TPB-based model explained 58.5% of the variance in behavioral intention (R2 = 0.585) and 71.6% of the variance in GenAI-assisted learning procrastination (R2 = 0.716). [→ Li Zilin 2026](#li-zilin-2026)

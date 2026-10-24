@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
+recheck_by: 2003
 sources:
   - id: betsann-smith-1998
     resource: "https://consortium.uchicago.edu/publications/its-about-time-opportunities-learn"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers identify only two good periods—seven weeks from October 1 to November 20 and six weeks from about January 15 to March 1—totaling 13 of 40 weeks reliably focused on grade-level curriculum. [→ BetsAnn Smith 1998](#betsann-smith-1998)

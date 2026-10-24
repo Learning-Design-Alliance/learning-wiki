@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1979
 sources:
   - id: glenberg-1979
     resource: "https://doi.org/10.3758/bf03197590"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The shape of the paired-associate lag effect depends on retention interval: decreasing at very short retention intervals, inverted U-shaped at slightly longer intervals, and monotonically increasing at long intervals. [→ Glenberg 1979](#glenberg-1979)

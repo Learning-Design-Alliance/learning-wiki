@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: kimmo-sorjonen-2025
     resource: "https://doi.org/10.1007/s10648-025-10083-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In SIM-ORG data simulated to resemble the data used by Marsh et al., the reversed model yielded a positive focal effect (β = 0.418), which the authors interpret as indicating a paradoxical decreasing effect of within-individual self-concept on achievement, contradicting the REM's predicted increasing effect. [→ Kimmo Sorjonen 2025](#kimmo-sorjonen-2025)

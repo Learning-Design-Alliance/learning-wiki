@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: sandra-baroudi-2026
     resource: "https://doi.org/10.1186/s41239-026-00616-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that empowering and distributive leadership styles were associated with higher faculty engagement, willingness to innovate, and openness to change in AI implementation. [→ Sandra Baroudi 2026](#sandra-baroudi-2026)

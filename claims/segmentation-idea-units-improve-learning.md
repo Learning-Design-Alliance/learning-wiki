@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1993
 sources:
   - id: innwoo-park-and-michael-j-hannafin-1993
     resource: "http://www.jstor.org/stable/30218388"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Properly segmented text facilitates initial decoding as well as subsequent encoding and retrieval better than poorly segmented text, implying multimedia lesson segments should form internally consistent idea units. [→ Innwoo Park and Michael J. Hannafin 1993](#innwoo-park-and-michael-j-hannafin-1993)

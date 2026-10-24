@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: shute-2013
     resource: "https://doi.org/10.1007/978-1-4614-3185-5_25"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A controlled evaluation testing 268 ninth-grade students showed assessment quality was unimpaired by feedback provision, and ACED students showed significantly greater learning of the content compared with a control group. [→ Shute 2013](#shute-2013)

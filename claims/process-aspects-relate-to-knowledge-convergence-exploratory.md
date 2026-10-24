@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2005
 sources:
   - id: frank-fischer-2005
     resource: "https://telearn.hal.science/hal-00190855"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exploratory qualitative and quantitative analyses found evidence for a relation between aspects of the collaborative process and knowledge convergence. [→ Frank Fischer 2005](#frank-fischer-2005)

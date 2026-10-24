@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: peters-2018
     resource: "https://doi.org/10.1007/s10212-017-0344-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Generating peer feedback before generating internal feedback had no effect on the quality of the subsequent internal feedback. [→ Peters 2018](#peters-2018)

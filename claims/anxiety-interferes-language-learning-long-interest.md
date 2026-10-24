@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: elaine-k-horwitz-2010
     resource: "https://doi.org/10.1017/S026144480999036X"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The possibility that anxiety interferes with language learning has long interested scholars, language teachers, and language learners themselves, and it is intuitive that anxiety would inhibit L2 learning and/or production. [→ Elaine K. Horwitz 2010](#elaine-k-horwitz-2010)

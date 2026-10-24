@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: ansari-2018
     resource: "https://doi.org/10.1037/edu0000255"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There was no consistent evidence for moderation of preschool effects by children's gender, race/ethnicity, or disability status; among 80 interactions tested, only one reached conventional significance and was not interpreted. [→ Ansari 2018](#ansari-2018)

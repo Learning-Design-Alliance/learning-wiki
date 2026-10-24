@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1916
 sources:
   - id: henry-1916
     resource: "https://psycnet.apa.org/journals/edu/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A sound and healthy emotional life requires the same conditions for the body; bodily health and activity make for a normal and happy emotional life. [→ Henry 1916](#henry-1916)

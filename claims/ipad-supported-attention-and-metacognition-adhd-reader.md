@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: mcclanahan-2012
     resource: "https://link.springer.com/journal/11528"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The iPad helped the student focus attention and facilitated his becoming much more metacognitive in his reading. [→ McClanahan 2012](#mcclanahan-2012)

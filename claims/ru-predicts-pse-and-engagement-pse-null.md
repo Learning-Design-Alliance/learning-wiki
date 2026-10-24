@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wang-s-and-zhao-j-2026
     title: Wang S and Zhao J 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reflective use significantly predicted programming self-efficacy (β = 0.519, p < 0.001) and engagement (β = 0.273, p = 0.034), whereas the direct TA→PSE path (p = 0.057) and PSE→ENG path (p = 0.813) were not significant. [→ Wang S and Zhao J 2026](#wang-s-and-zhao-j-2026)

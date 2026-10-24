@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: guido-makransky-gustav-bøg-petersen-2023
     resource: "https://doi.org/10.1007/s10648-023-09822-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies found that perceived presence and co-presence in a collaborative setting were higher in XRCL than in computer-based collaborations. [→ Guido Makransky · Gustav Bøg Petersen 2023](#guido-makransky-gustav-bg-petersen-2023)

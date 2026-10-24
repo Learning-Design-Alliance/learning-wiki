@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: damşa-2014
     resource: "https://doi.org/10.1007/s11412-014-9193-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Coding of group discussions showed Groups D and E interacted most frequently through idea- and knowledge-generating actions, with low frequencies of regulative actions. [→ Damşa 2014](#damsa-2014)

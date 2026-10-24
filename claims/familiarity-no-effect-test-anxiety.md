@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: conijn-2022
     resource: "https://doi.org/10.1111/jcal.12651"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The quartile of the exam, used as an approximation of familiarity, did not influence test anxiety. [→ Conijn 2022](#conijn-2022)

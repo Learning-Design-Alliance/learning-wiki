@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28890"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Per-model win rates against human coders ranged from 58.8% (Claude Opus, p = 0.092) down to 37.3% (Claude Haiku, p = 0.013); GPT-4o (39.8%, p = 0.048) and Claude Haiku were preferred significantly less often than human coders. [→ Liu 2026](#liu-2026)

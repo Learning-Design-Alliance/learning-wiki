@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: gates-1922
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students deprived of sleep for thirty hours, some for forty-eight, showed efficiency loss no greater than practice gains, although they reported feelings of fatigue. [→ Gates 1922](#gates-1922)

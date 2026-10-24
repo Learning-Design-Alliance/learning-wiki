@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-17
 sources:
   - id: rc-1
     title: rc-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reading Recovery improved students' receptive communication skills at the end of the implementation year, based on one study with fewer than 350 students. [→ rc-1](#rc-1)

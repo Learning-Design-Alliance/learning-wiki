@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hans-van-der-meij-2016
     resource: "https://doi.org/10.1007/s11251-016-9394-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A significant main effect of condition favored the review tutorial (d = 0.92), with significant pairwise advantages on practice (d = 0.83), immediate post-test (d = 0.53) and delayed post-test (d = 0.52). [→ Hans van der Meij 2016](#hans-van-der-meij-2016)

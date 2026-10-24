@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: barrow-2020
     resource: "https://eric.ed.gov/?id=ED606832"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` The share of CPS high schools offering at least one CS course increased from 34 percent in 2009 to 80 percent in 2018, with most growth following the December 2013 CS4All announcement. [→ Barrow 2020](#barrow-2020)

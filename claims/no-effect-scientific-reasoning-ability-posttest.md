@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: omarchevska-2022
     resource: "https://doi.org/10.1007/s10648-021-09652-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Contrast analyses revealed no group differences in scientific reasoning posttest scores, so H1a and H1b were not supported. [→ Omarchevska 2022](#omarchevska-2022)

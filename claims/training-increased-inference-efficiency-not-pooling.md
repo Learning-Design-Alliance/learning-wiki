@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: deiglmayr-2011
     resource: "https://doi.org/10.1016/j.learninstruc.2010.06.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Information pooling frequency showed a main effect of information distribution (partial η2 = .19) but no effect of kind of training. [→ Deiglmayr 2011](#deiglmayr-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: fong-2018
     resource: "https://eric.ed.gov/?id=ED592524"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Four-year course record availability was lower for students in high-FRPM schools (56%), small schools (36%), and nontraditional school types (31%) than for all students (62%). [→ Fong 2018](#fong-2018)

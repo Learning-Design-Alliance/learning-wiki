@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-10
 sources:
   - id: albert-y-liu-2017
     resource: "https://www.mathematica.org/publications/wp-the-characteristics-and-experiences-of-english-learner-students-with-disabilities-in-secondary"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In school, ELSWDs are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners. [→ Albert Y. Liu 2017](#albert-y-liu-2017)

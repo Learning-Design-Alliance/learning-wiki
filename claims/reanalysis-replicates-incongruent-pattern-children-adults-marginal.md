@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: gilmore-c-2013
     resource: "https://doi.org/10.1371/journal.pone.0067374"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In reanalysed data from Inglis and colleagues, children's incongruent-trial correlation with mathematics was significant (r = .34) while the congruent correlation was nonsignificant and negative (r = -.22); for adults the difference was only marginally significant. [→ Gilmore C 2013](#gilmore-c-2013)

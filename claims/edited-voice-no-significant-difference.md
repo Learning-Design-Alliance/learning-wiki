@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who edited their transcribed voice prompts before submission did not significantly differ from text prompters in immediate success on P1 or P2. [→ edited-voice](#edited-voice)

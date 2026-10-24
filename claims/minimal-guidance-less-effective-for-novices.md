@@ -8,6 +8,7 @@ generated:
 id: minimal-guidance-less-effective-for-novices
 aliases: [minimal-guidance-ineffective-for-novices, minimal-guidance-instruction-less-effective, minimally-guided-instruction-less-effective-for-novices, unguided-discovery-less-effective-than-guided-instruction, guided-inquiry-outperforms-pure-discovery, guided-discovery-outperforms-pure-discovery, explicit-instruction-beats-unassisted-discovery]
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: alfieri-et-al-2011
     resource: "https://doi.org/10.1037/a0021017"
@@ -42,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r?` · `q2`–`q4` · `i1` small
+> **Currency** · newest study 2011 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 For learners who lack relevant prior knowledge, discovery- or inquiry-style approaches with minimal instructional support produce weaker learning than approaches that provide explicit structure, modeling, and worked examples.
 

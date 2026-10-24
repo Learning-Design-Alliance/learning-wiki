@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: guanglei-hong-2015
     resource: "https://www.mathematica.org/publications/ratioofmediatorprobability-weighting-for-causal-mediation-analysis-in-the-presence"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` RMPW decomposes total effects into natural direct and indirect effects under treatment-by-mediator interaction. [→ Guanglei Hong 2015](#guanglei-hong-2015)

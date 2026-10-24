@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-16
 sources:
   - id: tanmay-sinha-and-manu-kapur-2021
     resource: "https://doi.org/10.3102/00346543211019105"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The overall PF fidelity score (percentage of seven criteria implemented) was a significant positive predictor of effect size in meta-regression. [→ Tanmay Sinha and Manu Kapur 2021](#tanmay-sinha-and-manu-kapur-2021)

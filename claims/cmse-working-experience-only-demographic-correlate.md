@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: duan-2024
     resource: "https://doi.org/10.1007/s10648-024-09881-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Teachers' CMSE is positively correlated with working experience (r=0.127, k=29), indicating more experienced teachers hold higher CMSE. [→ Duan 2024](#duan-2024)

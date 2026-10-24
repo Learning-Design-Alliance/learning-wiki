@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: najem-2026
     resource: "https://doi.org/10.1007/s44217-026-02181-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Chi-square tests show a significant association between cluster membership and gender (χ²(5) = 345.52, p < 0.001, Cramér's V = 0.157), which the authors interpret as supporting external validity of the profiles. [→ Najem 2026](#najem-2026)

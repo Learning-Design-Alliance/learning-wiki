@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: krausen-2020
     resource: "https://www.wested.org/resources/strategic-resource-allocation/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Despite economic recovery, 22 states provided less per-pupil K–12 funding in fiscal year 2017 than in 2008–09, and some districts still had not restored pre-recession programs. [→ Krausen 2020](#krausen-2020)

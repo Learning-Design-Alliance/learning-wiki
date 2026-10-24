@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: bouzidi-2009
     resource: "https://www.ifets.info/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the CA-2006 exam, peer marks were slightly below the teacher's: by 0.39 points for peer-only marks and 0.12 for peer marks incorporating self-assessment (Table 3), a difference a t-test did not find significant (Table 5). [→ Bouzidi 2009](#bouzidi-2009)

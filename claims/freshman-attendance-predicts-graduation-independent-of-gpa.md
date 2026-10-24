@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: seeskin-2020
     resource: "https://consortium.uchicago.edu/publications/the-forgotten-year"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among students with a freshman GPA between 2.0 and 2.5, more than 90 percent of those attending at least 95 percent graduated, versus 59 percent of those attending 80-85 percent. [→ Seeskin 2020](#seeskin-2020)

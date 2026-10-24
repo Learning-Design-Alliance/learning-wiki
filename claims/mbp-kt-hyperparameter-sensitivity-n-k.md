@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yuhao-jia-2026
     resource: "https://doi.org/10.48550/arxiv.2605.08697"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The optimal window size N lies between 2 and 4, with values too large or too small both degrading performance; choosing a relatively large K yields better performance, with overall variation within 2%. [→ Yuhao Jia 2026](#yuhao-jia-2026)

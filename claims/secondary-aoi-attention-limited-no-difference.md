@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zekun-wu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.00445"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Fixation duration on the secondary AOI (gaze-based M = 1.08s vs. baseline M = 1.02s) showed no statistically significant difference between conditions. [→ Zekun Wu 2026](#zekun-wu-2026)

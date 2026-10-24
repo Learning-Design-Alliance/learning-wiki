@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: dynarski-2004
     resource: "https://www.mathematica.org/publications/when-schools-stay-open-late-the-national-evaluation-of-the-21st-century-community-learning-centers-program-new-findings"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The national evaluation found that 21st Century after-school programs had only limited influence on academic performance, measured by test scores, grades, and homework completion. [→ Dynarski 2004](#dynarski-2004)

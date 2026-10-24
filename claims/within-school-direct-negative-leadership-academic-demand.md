@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: james-sebastian-and-elaine-allensworth-2012
     resource: "https://doi.org/10.1177/0013161X11436273"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the within-school model, academic demands tend to be lower in classrooms of teachers reporting stronger instructional relationships with the principal, controlling for the mediated pathways. [→ James Sebastian and Elaine Allensworth 2012](#james-sebastian-and-elaine-allensworth-2012)

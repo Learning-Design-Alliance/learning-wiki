@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: emmanuel-imiere-2019
     resource: "https://eric.ed.gov/?id=ED613714"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Duncan (1996), that cognitive apprenticeship instructional methods were significantly more effective than traditional methods in college-level writing skills. [→ Emmanuel Imiere 2019](#emmanuel-imiere-2019)

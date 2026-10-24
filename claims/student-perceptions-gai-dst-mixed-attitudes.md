@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: wei-2025
     resource: "https://doi.org/10.1186/s41239-025-00526-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students expressed strong willingness to use GAI tools (e.g., unique insights M = 4.48) but moderate worry about over-reliance (M = 3.38) and low concern about GAI limiting social interaction (M = 2.68). [→ Wei 2025](#wei-2025)

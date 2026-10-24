@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: lea-waters-2015
     resource: "https://doi.org/10.1007/s10648-014-9258-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TM programmes had a higher percentage of significant well-being effects (83%) than mindfulness-based (44%) and other meditation programmes (42%), but the review attributes this possibly to settings and programme delivery rather than the technique itself. [→ Lea Waters 2015](#lea-waters-2015)

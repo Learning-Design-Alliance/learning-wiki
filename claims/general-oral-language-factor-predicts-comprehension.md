@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-24
 sources:
   - id: foorman-barbara-r-2015
     resource: "https://doi.org/10.1037/edu0000026"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The general oral language factor significantly predicted latent reading comprehension in all grades, with standardized coefficients from 0.72 to 0.96, and the latent factors of oral language and decoding fluency together (not oral language alone) accounted for 72%–99% of comprehension variance; decoding fluency made no significant unique contribution in any grade. [→ Foorman Barbara R. 2015](#foorman-barbara-r-2015)

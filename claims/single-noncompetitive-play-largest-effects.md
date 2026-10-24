@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: clark-2016
     resource: "https://doi.org/10.3102/0034654315582065"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Effects were largest for single noncollaborative/noncompetitive play (g = 0.45), the only player-configuration category with significant gains; single competitive play showed no significant effect (g = −0.06). [→ Clark 2016](#clark-2016)

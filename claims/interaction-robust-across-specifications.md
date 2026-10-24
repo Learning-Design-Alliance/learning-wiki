@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: anatolia-batruch-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102303"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The hypothesized interaction replicated in 3 of 3 models without controls, 5 of 6 weighted models, and 12 of 12 alternative models; MICE results were substantively unchanged. [→ Anatolia Batruch 2026](#anatolia-batruch-2026)

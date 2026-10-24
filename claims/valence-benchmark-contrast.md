@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mehmet-bicakci-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100803"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Raw desired-outcome quartiles (0.26, 0.55, 0.92) far exceed undesired-outcome quartiles (0.09, 0.17, 0.34), and the contrast persists after adjustment. [→ Mehmet Bicakci 2026](#mehmet-bicakci-2026)

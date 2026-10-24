@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: valdemar-stenberdt-2025
     resource: "https://doi.org/10.1007/s10648-025-10096-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` A significant, small increase in serial dilution accuracy over time (ηp2 = 0.042), though neither group's post-hoc improvement was significant and the robustness check could not detect the effect. [→ Valdemar Stenberdt 2025](#valdemar-stenberdt-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: carver-thomas-2022
     resource: "https://doi.org/10.54300/443.847"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2019, public school teachers earned about 20% less in weekly wages than nonteacher college graduates, per the wage competitiveness analysis the report draws on. [→ Carver-Thomas 2022](#carver-thomas-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: sonja-dieterich-2025
     resource: "https://doi.org/10.1007/s10648-025-10071-x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` With low prior knowledge, correct examples were more beneficial, while Con-ErrEx were more beneficial for high-prior-knowledge learners in far transfer. [→ Sonja Dieterich 2025](#sonja-dieterich-2025)

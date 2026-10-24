@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: mckim-2016
     resource: "https://doi.org/10.5032/jae.2016.01073"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceived efficacy of student teachers accounted for 17% of the variance in career intent, and self-efficacy was positively related to career commitment and job satisfaction across multiple studies. [→ McKim 2016](#mckim-2016)

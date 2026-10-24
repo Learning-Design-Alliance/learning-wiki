@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: pellizzoni-2021
     resource: "https://doi.org/10.1111/nyas.14722"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teacher-rated general anxiety negatively predicted verbal WM (listening span) performance (β = −0.37, P < 0.001), consistent with anxiety reducing WM resources. [→ Pellizzoni 2021](#pellizzoni-2021)

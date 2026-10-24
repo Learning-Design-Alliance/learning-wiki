@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: kate-place-2019
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On average, admission to the study's charter middle schools had no significant effect on achievement. [→ Kate Place 2019](#kate-place-2019)

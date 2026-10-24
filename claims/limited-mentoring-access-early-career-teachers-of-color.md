@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-18
+recheck_by: 2030
 sources:
   - id: carver-thomas-2025
     resource: "https://doi.org/10.54300/216.666"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2018, fewer than half of teachers overall (38%) or of teachers of color (44%) received regular mentoring, and in 2021 early-career teachers of color were less likely than White peers to report receiving mentoring (79% vs. 83%) or induction (71% vs. 74%) in their first year. [→ Carver-Thomas 2025](#carver-thomas-2025)

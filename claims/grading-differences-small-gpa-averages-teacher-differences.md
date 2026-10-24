@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: key-questions-how-important-are-course-grades-as-predictors-of-students-future-success-2025
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Although grading practices and standards differ across teachers and schools, the research body shows grades remain very predictive because those differences are small relative to students' actual academic preparation. [→ Key Questions: How important are course grades as predictors of students' future success? 2025](#key-questions-how-important-are-course-grades-as-predictors-of-students-future-success-2025)

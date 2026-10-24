@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: mcmahon-2024
     resource: "https://doi.org/10.51388/20.500.12265/211"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A fourth-grade teacher used a Mathspace fraction smart shape that immediately updated to reflect different denominator inputs, showing students that the number and size of equal parts changed while the whole remained the same. [→ McMahon 2024](#mcmahon-2024)

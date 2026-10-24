@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 1990
 sources:
   - id: payne-1990
     resource: "https://doi.org/10.1207/s15516709cog1403_4"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · n=students in three schools (number not stated in the abstract)
+> **Currency** · newest study 1990 · not yet checked against its sources · not reviewed by a person
 
 A mal-rule is a buggy rewriting rule (for example, an incorrect way of moving a term across an equation) used to explain a student's error. This claim is about how stable and how general such rules are.
 

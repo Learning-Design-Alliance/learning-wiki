@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1919
 sources:
   - id: j-c-bell-1919
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The most serious drawback of judging comprehension from oral reading is that estimates rest entirely on the unaided subjective judgment of the listener, with no guarantee that evaluations are stable across times or judges. [→ J. C. Bell 1919](#j-c-bell-1919)

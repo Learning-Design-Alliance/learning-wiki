@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: burgos-2021
     resource: "https://doi.org/10.17583/redimat.2021.6778"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In configuration EC4 of Starbird's presentation, two abusive generalization processes are identified: obtaining distances for five time values via limit procedures, and inferring the general distance formula p(t)=t² from only five pairs of values. [→ Burgos 2021](#burgos-2021)

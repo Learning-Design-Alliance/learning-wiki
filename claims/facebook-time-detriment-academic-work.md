@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: clare-madge-2008
     resource: "https://doi.org/10.1080/17439880902923606"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 25 per cent of respondents felt their academic work was often or very often affected by time spent on Facebook; only 17 per cent said it was never adversely affected. [→ Clare Madge 2008](#clare-madge-2008)

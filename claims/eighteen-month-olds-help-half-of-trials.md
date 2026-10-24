@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: dahl-a-2019
     resource: "https://doi.org/10.1177/0963721419830386"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Eighteen-month-olds' helping is unreliable: they help on about half of laboratory trials and often choose play or observation instead, whereas 30-month-olds are less likely to engage in unhelpful behaviors. [→ Dahl A. 2019](#dahl-a-2019)

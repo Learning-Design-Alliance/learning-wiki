@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: ricker-timothy-j-2014
     resource: "https://doi.org/10.1037/a0034301"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The rate of time-based forgetting was greater with simultaneous than sequential presentation, shown by a significant Presentation Method x Retention-Interval Duration interaction. [→ Ricker Timothy J. 2014](#ricker-timothy-j-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: wei-he-2021
     resource: "https://www.nwea.org/research/publication/an-investigation-of-item-parameter-invariance-using-focused-calibration-samples-for-map-growth/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On-grade and original item difficulty estimates are highly correlated, and the correlation between calibration sample size difference and parameter estimate difference is small for most grades. [→ Wei He 2021](#wei-he-2021)

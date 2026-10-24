@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: jaime-thomas-2018
     resource: "https://doi.org/10.1177/0193841x18786818"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Comparing causal estimates from the state-level scale-up study to those from earlier, smaller pilot, efficacy, and effectiveness studies, effect sizes decreased over time, consistent with the authors' scale-up framework. [→ Jaime Thomas 2018](#jaime-thomas-2018)

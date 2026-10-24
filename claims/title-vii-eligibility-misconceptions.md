@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: rmc-research-corporation-2015
     resource: "https://eric.ed.gov/?id=ED559751"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some unfunded LEA respondents incorrectly believed they were ineligible due to low AI/AN enrollment or because they already received Impact Aid or Johnson-O'Malley funding. [→ RMC Research Corporation 2015](#rmc-research-corporation-2015)

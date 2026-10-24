@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: regional-educational-laboratory-mid-atlantic-2020
     resource: "https://www.mathematica.org/publications/use-data-to-refine-your-remote-learning-strategies-with-the-evidence-to-insights-coach"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` As of mid-2020, the evidence base on effective remote learning approaches was scant, and schools and teachers were responding by trying many approaches. [→ Regional Educational Laboratory Mid-Atlantic 2020](#regional-educational-laboratory-mid-atlantic-2020)

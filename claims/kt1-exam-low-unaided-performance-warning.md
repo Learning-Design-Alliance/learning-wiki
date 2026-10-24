@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: m-mikhasenko-2026
     resource: "https://doi.org/10.48550/arxiv.2609.05719"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 27 students who took the AI-free written examination received a mean score of 20.6 out of 80, with only two reaching 40 points; the score was confounded by the homework-heavy incentive structure. [→ M. Mikhasenko 2026](#m-mikhasenko-2026)

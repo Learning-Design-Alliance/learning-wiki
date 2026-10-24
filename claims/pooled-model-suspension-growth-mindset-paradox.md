@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: soland-2019
     resource: "https://www.nwea.org/research/publication/identifying-students-who-are-off-track-academically-in-9th-grade-the-role-of-social-emotional-learning-trajectories/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A one-SD increase in the combined self-efficacy/self-management slope is associated with suspension odds about 80% lower than students with average growth. [→ Soland 2019](#soland-2019)

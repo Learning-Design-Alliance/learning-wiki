@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: esse-ciego-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28203"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis of 163 open-ended responses identified appropriate avenues (simple topics, visualizations, summaries, supplemental material) and inappropriate avenues (complex topics, subjective topics, replacing lectures, interactive learning). [→ Esse Ciego 2026](#esse-ciego-2026)

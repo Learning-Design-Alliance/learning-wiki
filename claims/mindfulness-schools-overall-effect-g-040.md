@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: charlotte-zenner-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.00603"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 24 studies of school-based mindfulness interventions, the weighted mean between-group effect size was Hedges's g = 0.40 and the within-group effect size was g = 0.41 (p < 0.0001). [→ Charlotte Zenner 2014](#charlotte-zenner-2014)

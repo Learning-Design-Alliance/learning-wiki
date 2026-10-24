@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: houichi-2020
     resource: "https://dx.doi.org/10.24093/awej/vol11no4.8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-14: A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect -->
 

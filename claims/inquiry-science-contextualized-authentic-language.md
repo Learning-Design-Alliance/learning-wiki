@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-18
 sources:
   - id: diranna-2013
     resource: "https://eric.ed.gov/?id=ED580368"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Inquiry science provides a highly contextualized setting for authentic language uses and opportunities for higher-level thinking and dialogue without dependence on text or print. [→ DiRanna 2013](#diranna-2013)

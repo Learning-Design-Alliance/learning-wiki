@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: klatte-m-2013
     title: Klatte M 2013
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r2`–`r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Single-talker speech and classroom noise produced substantial decrements in elementary school children's execution of complex oral instructions, while adults were less affected. [→ Klatte M 2013](#klatte-m-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: gladstone-2025
     resource: "https://doi.org/10.1007/s10648-025-10050-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 84 comparisons from 22 studies, PAs showed a small but statistically significant effect on broadly defined motivation measures (g = 0.20, p = 0.03). [→ Gladstone 2025](#gladstone-2025)

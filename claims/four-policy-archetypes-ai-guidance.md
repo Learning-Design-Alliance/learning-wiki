@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kai-yao-2026
     resource: "https://doi.org/10.48550/arxiv.2607.19988"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nine packages were higher-clarity, four boundary-forward, eight had limited evidence visibility, and nine were partially connected, showing a design gradient rather than a permissive/restrictive divide. [→ Kai Yao 2026](#kai-yao-2026)

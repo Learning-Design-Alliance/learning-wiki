@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-qingqi-2026
     resource: "https://doi.org/10.3390/bs16071110"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All four items assessing negative affective experiences failed psychometric criteria: low means (M = 1.94–2.22), positive skewness (0.46–0.77), 65.0%–72.3% of participants choosing the lowest two options, corrected item-total correlations below 0.30, and EFA loadings below 0.40. [→ Liu Qingqi 2026](#liu-qingqi-2026)

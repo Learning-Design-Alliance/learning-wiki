@@ -8,6 +8,8 @@ generated:
 id: peer-tutoring-improves-achievement
 aliases: [tutoring-benefits-tutors-and-tutees]
 evidence_strength: insufficient
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: cohen-et-al-1982
     resource: "https://doi.org/10.3102/00028312019002237"
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i1` small
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 Learners who take part in school peer-tutoring programs, as tutees or as tutors, tend to show higher achievement than comparable learners without tutoring. One meta-analysis (65 evaluations) found gains for tutees and the same pattern of gains for tutors, without a pooled effect size in the abstract read; another (50 mathematics studies) found a small average effect for participants (g = 0.333). Neither recorded entry shows that tutors gain more than tutees.
 

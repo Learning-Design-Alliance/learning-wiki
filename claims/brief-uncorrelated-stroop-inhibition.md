@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: bellon-e-2016
     title: Bellon E 2016
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The behavioral teacher questionnaire measure of inhibition was not significantly correlated with the two cognitive stroop measures of inhibition. [→ Bellon E 2016](#bellon-e-2016)

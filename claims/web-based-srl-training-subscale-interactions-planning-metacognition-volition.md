@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: bellhäuser-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.813381"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Univariate ANOVAs showed significant interactions for planning, self-motivation, volition, elaboration and metacognition, with Group TDP outperforming the other two intervention groups. [→ Bellhäuser 2022](#bellhauser-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: rivkin-2023
     resource: "https://consortium.uchicago.edu/publications/training-retaining-effective-school-leaders"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In schools near the award threshold, math and reading scores increased more strongly than in other schools after the announcement; the closer to the cut-off, the larger the improvement. [→ Rivkin 2023](#rivkin-2023)

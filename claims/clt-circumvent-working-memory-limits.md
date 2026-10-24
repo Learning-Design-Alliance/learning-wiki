@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2002
+source_checked: 2026-10-23
 sources:
   - id: kirschner-2002
     resource: "https://dspace.library.uu.nl/handle/1874/16884"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2002 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` According to the theory, working-memory limitations can be circumvented by coding multiple elements as one element in cognitive schemata, by automating rules, and by using more than one presentation modality. [→ Kirschner 2002](#kirschner-2002)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: robinson-2010
     resource: "https://doi.org/10.1007/s10648-010-9147-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Moreno was listed among the top 20 most productive educational psychologists in the world for 1991–2002 and again for 2003–2008, as reported by productivity reviews in Contemporary Educational Psychology. [→ Robinson 2010](#robinson-2010)

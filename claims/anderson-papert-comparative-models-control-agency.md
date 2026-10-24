@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: mishra-2025
     resource: "https://doi.org/10.1007/s11528-025-01064-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A comparative analysis positions John Anderson's structured cognitive tutoring systems against Seymour Papert's constructionist approach emphasizing creative agency as contrasting AI-driven educational models in the struggle between control and autonomy. [→ Mishra 2025](#mishra-2025)

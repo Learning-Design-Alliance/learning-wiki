@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2003
+source_checked: 2026-10-20
+recheck_by: 2006
 sources:
   - id: miller-2003
     resource: "https://consortium.uchicago.edu/publications/how-well-do-vivaldi-students-succeed-after-elementary-school"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2003 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2006**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` First-year on-track status is strongly related to a student's likelihood of graduating, which is why the report uses it as its central achievement measure. [→ Miller 2003](#miller-2003)

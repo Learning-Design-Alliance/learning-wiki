@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: geers-ann-e-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157037/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Seventy-one percent of teenagers with more than 10 years of CI experience obtained WISC-III VIQ scores at or above 85, within or above one SD of typically developing hearing age-mates. [→ Geers Ann E. 2011](#geers-ann-e-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ulrike-cress-joachim-kimmerle-2023
     resource: "https://doi.org/10.1007/s11412-023-09409-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In human-AI interactions, the concept of group awareness needs to be refined to allow for more asymmetrical relationships, since humans may know about the AI's competencies and shortcomings while the reverse is uncertain. [→ Ulrike Cress · Joachim Kimmerle 2023](#ulrike-cress-joachim-kimmerle-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: deborah-k-anderson-2023
     resource: "https://doi.org/10.1128/jmbe.00151-22"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across both semesters, students rated the textbook as less effective than clicker questions (d = 0.70) and than standard lecture/discussion (d = 0.80). [→ Deborah K. Anderson 2023](#deborah-k-anderson-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: dweck-2019
     resource: "https://doi.org/10.1177/1745691618804166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Online growth-mindset interventions raised lower-achieving students' GPA by around .10 grade points and improved on-track rates by 4 to 8 percentage points, with effects typically appearing for higher-risk students. [→ Dweck 2019](#dweck-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: faulkner-bond-2026
     resource: "https://eric.ed.gov/?id=ED681358"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who meet Criterion 1 appear to achieve at the same level regardless of whether they remain in EL status or exit. [→ Faulkner-Bond 2026](#faulkner-bond-2026)

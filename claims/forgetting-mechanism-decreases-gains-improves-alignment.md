@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: rachatasumrit-2023
     resource: "https://doi.org/10.31234/osf.io/eyxfw"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i2` Introducing the memory mechanism decreased overall learning gains (13.7% vs 22.2%) but did not negate the worked-example benefit for skills, and forgetting agents more effectively utilized correct production rules. [→ Rachatasumrit 2023](#rachatasumrit-2023)

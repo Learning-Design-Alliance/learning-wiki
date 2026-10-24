@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: banihashem-2025
     resource: "https://doi.org/10.1186/s41239-025-00548-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among the 84 reviewed studies, AI's impact on the metacognitive aspect of SRL was the primary focus in 73 studies, cognition was investigated in 51, and the motivational aspect was examined in only 20. [→ Banihashem 2025](#banihashem-2025)

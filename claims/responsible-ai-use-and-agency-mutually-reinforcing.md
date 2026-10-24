@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: wood-2026
     resource: "https://doi.org/10.65201/CJHS2205"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The paper argues that responsible AI use and student agency are mutually reinforcing, so that learners engage with technology intentionally rather than passively depending on it. [→ Wood 2026](#wood-2026)

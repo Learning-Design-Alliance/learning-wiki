@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-17
 sources:
   - id: mol-se-and-jolles-j-2014
     title: Mol SE and Jolles J 2014
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2014 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Among higher-track non-leisure readers, main effects emerged for sex (η2 = 0.03) and reading enjoyment (η2 = 0.01); girl enjoyers scored 0.22 and boy enjoyers 0.34 grade points higher. [→ Mol SE and Jolles J 2014](#mol-se-and-jolles-j-2014)

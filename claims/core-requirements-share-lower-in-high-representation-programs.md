@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Core CS courses made up 26% of total credits in Group 1 programs versus 33% in Group 3, and Group 1 more often allowed one of multiple courses to fill a requirement. [→ Albert Lionelle 2024](#albert-lionelle-2024)

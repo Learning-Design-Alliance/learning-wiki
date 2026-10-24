@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-07
 sources:
   - id: core-plus-mathematics-2010
     resource: "http://www.wmich.edu/cpmp"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Based on one quasi-experimental study meeting WWC standards with reservations, Core-Plus Mathematics was rated as having potentially positive effects on high school mathematics achievement, with an average improvement index of +15 percentile points (range –15 to +36). [→ Core-Plus Mathematics 2010](#core-plus-mathematics-2010)

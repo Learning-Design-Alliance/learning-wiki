@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: collins-2014
     resource: "https://doi.org/10.3758/s13423-013-0564-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Auditory verbal labels facilitate orientation discrimination for associated objects whereas equally associated non-verbal sounds do not, and the label priming effect is greater for typical category members. [→ Collins 2014](#collins-2014)

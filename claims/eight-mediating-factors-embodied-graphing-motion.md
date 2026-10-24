@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: carolien-duijzer-2019
     resource: "https://doi.org/10.1007/s10648-019-09471-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review's analysis of the included articles uncovered eight mediating factors: real-world context, multimodality, linking motion to graph, multiple representations, semiotics, student control, attention capturing, and cognitive conflict. [→ Carolien Duijzer 2019](#carolien-duijzer-2019)

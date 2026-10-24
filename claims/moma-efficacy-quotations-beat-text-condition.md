@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: gaspard-2021
     resource: "https://dx.doi.org/10.1037/edu0000663"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The efficacy study's quotations condition showed stronger effects on utility value (d = 0.30 at posttest, d = 0.26 at follow-up) than the text condition (d = 0.14 at posttest, d = 0.16 at follow-up). [→ Gaspard 2021](#gaspard-2021)

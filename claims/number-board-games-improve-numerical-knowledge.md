@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: number-board-games-improve-numerical-knowledge
 evidence_strength:
+newest_evidence: 2008
 sources:
   - id: ramani-siegler-2008
     resource: "https://doi.org/10.1111/j.1467-8624.2007.01131.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=124
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 Linear number board games — in which players move counters along a numbered track — improve young children's numerical knowledge, including counting, number identification, and numerical magnitude comparison.
 

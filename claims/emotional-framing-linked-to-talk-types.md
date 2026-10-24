@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: ludvigsen-2016
     resource: "https://doi.org/10.1007/s11412-016-9236-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Low-intensity emotional framing is usually related to cumulative talk, and disputational talk is often characterized by high-intensity emotional framing, though many interactional phases cannot be classified by these talk types. [→ Ludvigsen 2016](#ludvigsen-2016)

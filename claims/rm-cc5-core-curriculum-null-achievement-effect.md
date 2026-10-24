@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: nicole-shechtman-2019
     resource: "https://doi.org/10.1177/2332858419850482"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a 46-school RCT, the main effect of assignment to the RM-CC5 condition on Grade 5 WVGSA mathematics scores was not statistically significant; equivalence was not tested. [→ Nicole Shechtman 2019](#nicole-shechtman-2019)

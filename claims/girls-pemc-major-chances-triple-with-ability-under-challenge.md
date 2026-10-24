@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: perez-felkner-l-2017
     title: Perez-Felkner L 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among 12th grade girls, predicted probabilities of declaring a PEMC major rose from 1.8% at the most negative to 5.6% at the most positive perceptions of mathematics ability under challenge, all else equal — a 3.1-fold difference. [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

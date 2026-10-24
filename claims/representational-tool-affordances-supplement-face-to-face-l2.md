@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: wen-2015
     resource: "https://doi.org/10.1007/s11412-015-9208-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The representational tool's affordances supplement face-to-face communication in support of second-language learning in small-group collaborative writing. [→ Wen 2015](#wen-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: krausen-2020
     resource: "https://www.wested.org/resources/strategic-resource-allocation/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students ages 3–21 served in special education increased from 6.4 to 7.0 million, or 12.9 to 13.7 percent of total public school enrollment, between 2011–12 and 2017–18, with rising rates in higher-cost categories like autism. [→ Krausen 2020](#krausen-2020)

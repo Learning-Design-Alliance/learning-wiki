@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ciğercci-fm-and-uygun-n-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1741116"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers who reported using AI more frequently tended to report more positive perception scores across all dimensions, especially in the total score and personal-experiences dimension; the relationship is an association, not a demonstrated directional effect. [→ Ciğercci FM and Uygun N 2026](#cigercci-fm-and-uygun-n-2026)

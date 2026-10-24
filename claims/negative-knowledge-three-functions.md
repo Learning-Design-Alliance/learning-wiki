@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: m-gartmeier-2008
     resource: "https://doi.org/10.1007/s12186-008-9006-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article proposes that negative knowledge (1) supports certainty in how to proceed, (2) increases efficiency during actions, and (3) enhances the quality and depth of reflection on action. [→ M. Gartmeier 2008](#m-gartmeier-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: li-li-2025
     resource: "https://doi.org/10.48550/arxiv.2606.09598"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When an anomaly (an opened flask lid) made the AI's prediction deviate from the actual value, students attributed the error to contextual information missing from the model's data, showing understanding that human inference can complement AI prediction. [→ Li Li 2025](#li-li-2025)

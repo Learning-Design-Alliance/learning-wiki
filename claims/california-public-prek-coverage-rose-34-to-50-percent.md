@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: melnick-2024
     resource: "https://learningpolicyinstitute.org/product/progressing-toward-universal-prekindergarten-california"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The overall uptake across TK, CSPP, and Head Start combined increased from about 34% of 4-year-olds in 2019–20 to 50% in 2023–24, driven by enrollment growth and a 13% decline in the 4-year-old population. [→ Melnick 2024](#melnick-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: rosell-aguilar-2017
     resource: "https://doi.org/10.1558/cj.27623"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Burston (2014), that language-learning activities on mobile apps are basic and have mostly replicated what was done before with other technologies. [→ Rosell-Aguilar 2017](#rosell-aguilar-2017)

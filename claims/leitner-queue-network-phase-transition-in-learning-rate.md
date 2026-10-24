@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q1`–`q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Under the mean-recall approximation, when the arrival rate exceeds the threshold the lowest Leitner deck accumulates items and delays blow up, so the learning rate goes to 0. [→ Reddy 2016](#reddy-2016)

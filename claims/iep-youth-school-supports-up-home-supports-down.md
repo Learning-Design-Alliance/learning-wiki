@@ -9,6 +9,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: johanna-lacoe-2018
     resource: "https://www.mathematica.org/publications/preparing-youth-in-special-education-for-life-after-high-school-in-focus-brief"
@@ -32,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r?` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 

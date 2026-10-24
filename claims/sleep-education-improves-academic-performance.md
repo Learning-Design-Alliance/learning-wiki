@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: amandine-eve-rey-2020
     resource: "https://doi.org/10.1016/j.learninstruc.2019.101270"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The school-based sleep education program improved academic performance in children. [→ Amandine Eve Rey 2020](#amandine-eve-rey-2020)

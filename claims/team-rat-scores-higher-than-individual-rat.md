@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: peterson-2015
     resource: "https://visionandchange.org/files/2011/03/Revised-Vision-and-Change-Final-Report.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students scored 24.9% higher on the team RAT than on the individual RAT, a statistically significant difference (p < 0.0001). [→ Peterson 2015](#peterson-2015)

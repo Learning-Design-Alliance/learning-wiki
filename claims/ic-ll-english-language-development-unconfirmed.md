@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-18
 sources:
   - id: what-works-clearinghouse-2006
     resource: "http://crede.berkeley.edu/research/crede/research/llaa/1.5pubs.html"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Saunders (1999) reported a statistically significant difference favoring the intervention group on English language development, but the WWC could not confirm the significance; the domain average effect size was 0.61 with individual outcomes (CTBS Language 0.56, Writing 0.66) not statistically significant. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

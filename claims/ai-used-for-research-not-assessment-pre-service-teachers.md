@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: amponsah-2026
     resource: "https://doi.org/10.31014/aior.1993.09.03.724"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The most common purposes of AI use were research and information searching (67.6%), content explanation (40.8%), and lesson planning (28.2%), while assessment and feedback were least selected (14.1%). [→ Amponsah 2026](#amponsah-2026)

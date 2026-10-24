@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: daniusevičiūtė-brazaitė-l-2026
     title: Daniusevičiūtė-Brazaitė L 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The predominant approaching markers were Ap1 (30%) — the future becoming more imaginable — and Ap2 (28%) — awareness that current actions influence future results. [→ Daniusevičiūtė-Brazaitė L 2026](#daniuseviciute-brazaite-l-2026)

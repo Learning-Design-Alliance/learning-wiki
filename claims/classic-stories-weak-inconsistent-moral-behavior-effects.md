@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: luciano-gasser-yvonne-dammert-p-karen-murphy-2022
     resource: "https://doi.org/10.1007/s10648-022-09667-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experimental studies of classic stories' effects on children's honesty and generosity produced contradictory findings, with only some stories showing effects. [→ Luciano Gasser · Yvonne Dammert · P. Karen Murphy 2022](#luciano-gasser-yvonne-dammert-p-karen-murphy-2022)

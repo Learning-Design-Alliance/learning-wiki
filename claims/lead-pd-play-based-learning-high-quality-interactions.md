@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: leading-early-childhood-achievement-and-development-lead-partnership-2025
     resource: "https://ies.ed.gov/use-work/regional-educational-laboratories-rel/southwest/partnerships/leading-early-childhood-achievement-and-development"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` LEAD's core professional development content is research-based early learning practices, specifically play-based learning and high-quality teacher-student interactions, delivered to both school leaders and preK/kindergarten teachers. [→ Leading Early Childhood Achievement and Development (LEAD) Partnership 2025](#leading-early-childhood-achievement-and-development-lead-partnership-2025)

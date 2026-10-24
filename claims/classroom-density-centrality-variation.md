@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: krijnen-2024
     resource: "https://doi.org/10.1007/s10648-024-09870-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Density ranged from 0.06 to 0.29 (M = 0.14, SD = 0.04) and centrality from 0.11 to 0.34 (M = 0.19, SD = 0.05) across classrooms, showing some classrooms are more socially connected and egalitarian than others. [→ Krijnen 2024](#krijnen-2024)

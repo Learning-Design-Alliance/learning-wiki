@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1920
 sources:
   - id: thomas-h-briggs-1920
     resource: "https://doi.org/10.1037/h0074597"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The author interprets the raw coefficients as showing the test is a fairly good measure of a class's knowledge, but detailed pairings indicate it is unreliable for an individual. [→ Thomas H. Briggs 1920](#thomas-h-briggs-1920)

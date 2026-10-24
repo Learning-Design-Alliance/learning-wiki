@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: balta-2018
     resource: "https://doi.org/10.5430/ijhe.v7n6p106"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i1` small
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Continuous and intentional thinking correlated positively with learning effort (r=0,123; p<0,05) and learning process/expert knowledge (r=0,311; p<0,01), and negatively with innate/fixed ability (r=-0,133; p<0,01) and certainty of knowledge (r=-0,098; p<0,05). [→ Balta 2018](#balta-2018)
@@ -86,3 +89,4 @@ Correlation analysis (Table 6, n=410) for the looking professional dimension, wh
 - [Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers](avoidant-style-higher-certainty-knowledge.md) — related
 - [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](combination-preferrers-higher-axis4-axis5-scores.md) — related
 - [Epistemological belief dimensions offer an understanding of human-GAI engagement](epistemological-dimensions-explain-human-gai-engagement.md) — related
+- [Self-reported learning gains and correlational analyses suggest interrelations among second-order and strategy knowledge, epistemological beliefs, explanation ability, topic knowledge, and interest](correlational-interrelatedness-history-reasoning-constructs.md) — related

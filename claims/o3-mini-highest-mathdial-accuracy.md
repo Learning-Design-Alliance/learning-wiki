@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: jarosław-a-chudziak-and-adam-kostka-2025
     resource: "https://doi.org/10.48550/arxiv.2507.12484"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Model comparison on MathDial problem-solving accuracy: o3-mini(high) and Claude 3.5 Sonnet obtained the highest accuracy of 90.00%, followed by Gemini 2.0 Flash (88.67%), with GPT-4o (78.67%) and GPT-4o-mini (77.33%) lowest. [→ Jarosław A. Chudziak and Adam Kostka 2025](#jarosaw-a-chudziak-and-adam-kostka-2025)

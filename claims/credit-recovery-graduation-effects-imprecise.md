@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: angela-johnson-2019
     resource: "https://www.nwea.org/research/publication/summer-credit-recovery-impact-on-newcomer-english-learners/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study did not detect precise effects of summer credit recovery on 4- and 5-year graduation rates; the estimates were imprecise rather than demonstrably null. [→ Angela Johnson 2019](#angela-johnson-2019)

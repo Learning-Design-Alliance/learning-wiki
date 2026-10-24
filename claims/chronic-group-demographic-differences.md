@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: kirkpatrick-2020
     resource: "https://doi.org/10.5334/cie.5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i0` The chronic medical condition group included more females (g = 0.33), the healthy group more minority students (g = 0.22), and the healthy group had higher reported parent education (g = 0.11); all differences had small effect sizes below d = 0.2 or near that boundary, and no differences were found for age or prior grades. [→ Kirkpatrick 2020](#kirkpatrick-2020)

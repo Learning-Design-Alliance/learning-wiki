@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: alexander-skulmowski-2024
     resource: "https://doi.org/10.1007/s10648-024-09869-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A review on learning by drawing found learner-generated drawings support learning from texts better than text alone, but often less well than other strategies such as pre-made drawings. [→ Alexander Skulmowski 2024](#alexander-skulmowski-2024)

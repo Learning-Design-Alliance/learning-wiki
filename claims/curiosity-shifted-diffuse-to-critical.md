@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Curiosity responses fell from 71% (24 of 34) pre-survey to 50% (11 of 22) post-survey, interpreted as a shift from diffuse curiosity to more concrete and critical engagement. [→ curiosity-1](#curiosity-1)

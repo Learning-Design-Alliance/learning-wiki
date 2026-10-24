@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yufei-guo-qun-ye-2026
     resource: "https://doi.org/10.1057/s41599-026-06621-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the review's framework, substitutive offloading (fully replacing internal processing) leads to severe performance decline when external stores are unavailable, whereas duplicative offloading (supplementing internal processing) maintains accuracy through internal encoding. [→ Yufei Guo & Qun Ye 2026](#yufei-guo-qun-ye-2026)

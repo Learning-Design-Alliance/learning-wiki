@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: francesca-mangili-2026
     resource: "https://doi.org/10.48550/arxiv.2608.24632"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For question 6, the lower bound of the probability of sufficiency of feedback help for a 0D answer is 0.94, and skill-level 1D is likely necessary for answers above 0D complexity, indicating the question discriminates algorithmic skill levels well. [→ Francesca Mangili 2026](#francesca-mangili-2026)

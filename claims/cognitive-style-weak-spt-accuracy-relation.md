@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: gehlbach-2004
     resource: "https://doi.org/10.1023/B:EDPR.0000034021.12899.11"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i1` small
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Meta-analytic average effect size for cognitive style and perspective taking accuracy was .16, varying from .27 to .08 depending on how cognitive style was assessed. [→ Gehlbach 2004](#gehlbach-2004)

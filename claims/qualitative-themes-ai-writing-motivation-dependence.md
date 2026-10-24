@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: liu-l-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1905037"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Thematic analysis of interviews and open-ended responses yielded two motivation themes (efficiency, peer influence) and two dependence-perception themes (confidence, rule ambiguity). [→ Liu L 2026](#liu-l-2026)

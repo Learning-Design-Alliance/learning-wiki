@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: cummins-1917
     resource: "https://psycnet.apa.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No cases of marked change from 'Bright' to 'Slow' or vice versa were found between the early-grade period and high school in either group. [→ Cummins 1917](#cummins-1917)
@@ -45,3 +47,4 @@ Observational analysis of the Ethical Culture School's high school and elementar
 ## Related Claims
 - [Ranking by the Scholastic Quotient corresponded very closely with the consensus ranking of all teachers across more than 4,000 report cards](scholastic-quotient-matches-teacher-consensus.md) — related
 - [Screening assessment benchmarks indicating significant risk shift up and down on the MCAS scale within and across grades, so students with the same skills may be classified differently at different times](benchmark-cut-scores-shift-on-mcas-scale.md) — related
+- [Pupil standing in one subject is more stable across successive school years than across subjects of different nature, with 13 of 32 pupils in the same group for all four years of English](year-to-year-stability-of-standing-1912.md) — related

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yuan-hsuan-lee-and-jiun-yu-wu-2026
     resource: "https://doi.org/10.1186/s41239-026-00615-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Initial Inquiry behaviors comprised 70.3% of all queries, with Definition (42.1%) and Copy (24.3%) codes together constituting 66.4% of interactions. [→ Yuan-Hsuan Lee and Jiun-Yu Wu 2026](#yuan-hsuan-lee-and-jiun-yu-wu-2026)

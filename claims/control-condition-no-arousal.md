@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: henk-g-schmidt-jerome-i-rotgans-2021
     resource: "https://doi.org/10.1007/s10648-020-09539-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Control-group students who read the explanatory text before the problem showed no significant changes in epistemic curiosity or situational interest across measurements. [→ Henk G. Schmidt & Jerome I. Rotgans 2021](#henk-g-schmidt-jerome-i-rotgans-2021)

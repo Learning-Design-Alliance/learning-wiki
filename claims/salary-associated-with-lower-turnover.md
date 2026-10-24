@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tan-2026
     resource: "https://doi.org/10.54300/248.479"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Predicted turnover fell from 17.6% to 10.9% as salaries rose from $50,000 to around $70,000; working multiple jobs and holding student loans were associated with higher turnover. [→ Tan 2026](#tan-2026)

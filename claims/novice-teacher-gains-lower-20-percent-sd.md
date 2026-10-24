@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2002
+recheck_by: 2007
 sources:
   - id: laczko-kerr-2002
     title: Laczko-Kerr 2002
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: baselines and conditions change
 
 ## Subclaims
 `q2 i1` New teachers' average student gains in 4th and 5th grades are lower by roughly 20 percent of a standard deviation than those of more experienced teachers. [→ experience-1](#laczko-kerr-2002)

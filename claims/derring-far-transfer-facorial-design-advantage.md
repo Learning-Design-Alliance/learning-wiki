@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: sarah-shi-hui-wong-2026
     resource: "https://doi.org/10.1007/s11251-026-09819-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The derr-explain-fix group outperformed both errorless practice (d = 0.56) and spot-explain-fix (d = 0.45) on far transfer; spot-explain-fix did not differ from errorless practice (d = 0.09, p = .50). [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)

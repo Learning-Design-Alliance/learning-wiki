@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: kenneth-silseth-2024
     resource: "https://doi.org/10.1007/s11412-023-09413-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students gave detailed descriptions of people they encountered in the VR film, treating bodily expressions (e.g., fiddling fingers) as reflections of emotional states that frame how the story should be treated. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)

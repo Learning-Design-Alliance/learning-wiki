@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: matthew-keenan-2026
     resource: "https://doi.org/10.48550/arxiv.2608.23309"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the second deployment no student ever specifically deleted an evaluation step, whereas 33%, 50%, and 0% of students did so across the first deployment's inductions. [→ Matthew Keenan 2026](#matthew-keenan-2026)

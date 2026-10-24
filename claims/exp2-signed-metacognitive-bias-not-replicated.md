@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ceri-ngai-and-sam-j-gilbert-2026
     resource: "https://doi.org/10.1186/s41235-026-00714-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Analysis of signed metacognitive bias scores in Experiment 2 showed no significant group effect and no significant linear trend across the four intervention groups. [→ Ceri Ngai and Sam J. Gilbert 2026](#ceri-ngai-and-sam-j-gilbert-2026)

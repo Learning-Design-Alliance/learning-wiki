@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: bruce-s-rawlings-sarah-j-cutting-2024
     resource: "https://doi.org/10.1007/s10648-024-09973-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis of 120 studies found a modest but positive relationship between creativity (largely divergent thinking) and academic achievement, stronger for psychometric creativity measures, standardized achievement tests, verbal measures, and middle school. [→ Bruce S. Rawlings & Sarah J. Cutting 2024](#bruce-s-rawlings-sarah-j-cutting-2024)

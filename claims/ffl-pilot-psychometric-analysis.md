@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: moira-mccullough-2016
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` During its pilot implementation in 2012/13 and 2013/14, the Framework for Leadership was studied for score variation, internal consistency, score stability, and concurrent validity. [→ Moira McCullough 2016](#moira-mccullough-2016)

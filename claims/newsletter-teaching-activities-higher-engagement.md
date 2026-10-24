@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: pooja-k-agarwal-2024
     resource: "https://doi.org/10.1007/s10648-023-09839-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The first newsletter sharing a specific teaching activity (a "brain dump") resulted in a significantly higher email open rate than previous content focused on newly published research. [→ Pooja K. Agarwal 2024](#pooja-k-agarwal-2024)

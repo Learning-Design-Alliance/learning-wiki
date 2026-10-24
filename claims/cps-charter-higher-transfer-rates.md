@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: gwynne-2017
     resource: "http://cps.edu/NewSchools/Pages/RFP2017.aspx"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Among students with typical eighth-grade skills entering high school in 2010-13, 24.2 percent of charter ninth-graders changed schools within three years versus 17.2 percent of non-charter students, after controlling for incoming characteristics. [→ Gwynne 2017](#gwynne-2017)

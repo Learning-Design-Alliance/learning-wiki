@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: marije-van-amelsvoort-2016
     resource: "https://doi.org/10.1007/s11251-016-9378-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Content was the most-mentioned judgment feature when available (77–93% of judgments), and color was the most important cue when text was absent (84–87%). [→ Marije van Amelsvoort 2016](#marije-van-amelsvoort-2016)

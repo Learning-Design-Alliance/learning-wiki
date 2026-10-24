@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: julia-b-smith-2001
     resource: "https://consortium.uchicago.edu/publications/instruction-and-achievement-chicago-elementary-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Teachers' reports of professional development quality showed the strongest association with interactive instruction use, an effect size of .21 SD units. [→ Julia B. Smith 2001](#julia-b-smith-2001)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1990
 sources:
   - id: patsy-m-lightbown-and-nina-spada-1990
     resource: "https://doi.org/10.1017/S0272263100009517"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1990 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The developing oral English of approximately 100 second language learners in four intact classes was examined, using learners aged 10–12 who had received a 5-month intensive ESL course in grade 5 or grade 6 in Quebec elementary schools. [→ Patsy M. Lightbown and Nina Spada 1990](#patsy-m-lightbown-and-nina-spada-1990)

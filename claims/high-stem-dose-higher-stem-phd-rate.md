@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: wai-2004
     resource: "https://scholar.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among talent-search participants followed longitudinally, the high STEM dose group earned STEM PhDs at a higher proportion than the low dose group (15.6% vs 10.6%, gain ratio 1.463, 95% CI 1.119–1.913). [→ Wai 2004](#wai-2004)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: kullberg-2023
     resource: "https://doi.org/10.1007/s11251-022-09613-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Among thematic units containing integration, intratextual integration accounted for 51.61% of instances while intertextual integration accounted for only 15.05%, observed in just 7.17% of thematic units. [→ Kullberg 2023](#kullberg-2023)

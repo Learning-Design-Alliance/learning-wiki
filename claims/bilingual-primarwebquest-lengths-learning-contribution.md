@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: baschek-2022
     resource: "https://math-primwq-bilingual.sd.uni-frankfurt.de/length-laengen/introduction-einleitung/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The research project aims to investigate the contribution of a bilingual PrimarWebQuest about lengths to students' mathematical and linguistic learning, with interest spanning subject-related, linguistic and digital levels. [→ Baschek 2022](#baschek-2022)

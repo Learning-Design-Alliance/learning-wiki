@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 1994
+source_checked: 2026-10-21
 sources:
   - id: smith-1994
     resource: "https://doi.org/10.1207/s15327809jls0302_1"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1` · n=not applicable (case analyses of published misconceptions research)
+> **Currency** · newest study 1994 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 This is a theoretical claim about what a misconception is, set against the view that a misconception is a stable, coherent wrong idea. It is the core statement of the [knowledge-in-pieces](../theories/knowledge-in-pieces.md) view.
 

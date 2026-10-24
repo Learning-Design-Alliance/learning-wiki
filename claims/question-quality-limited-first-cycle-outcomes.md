@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: arifani-2016
     resource: "https://doi.org/10.5539/ies.v9n2p111"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the first cycle, student-generated questions were not detailed and failed to represent the fundamental patterns of the journal articles, contributing to unsatisfactory scores. [→ Arifani 2016](#arifani-2016)

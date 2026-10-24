@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: cassie-pickens-jewell-2014
     resource: "https://www.mathematica.org/publications/changing-education-agencies-from-the-inside-out-year-2-report-on-the-strategic-data-project"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Agencies built data systems that included linked data from multiple sources. [→ Cassie Pickens Jewell 2014](#cassie-pickens-jewell-2014)

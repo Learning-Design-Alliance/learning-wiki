@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: darling-hammond-2017
     resource: "https://learningpolicyinstitute.org/product/expanding-high-quality-options"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A large-scale CREDO study of student data from 16 states found 17% of charter schools produced greater academic gains than traditional public schools while 37% performed worse than their traditional public school counterparts serving similar students. [→ Darling-Hammond 2017](#darling-hammond-2017)

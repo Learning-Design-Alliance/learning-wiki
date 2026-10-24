@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: roschelle-2020
     resource: "https://doi.org/10.51388/20.500.12265/106"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The report argues that when AI lacks grasp of context (e.g., misdiagnosing weak math knowledge because of English vocabulary difficulty, or not knowing an aide was present), systematic replication of the flawed decision pattern across tens of thousands of students could systematically harm a student group. [→ Roschelle 2020](#roschelle-2020)

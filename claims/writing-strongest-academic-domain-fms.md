@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: sebastian-p-suggate-2025
     resource: "https://doi.org/10.1016/j.edurev.2025.100748"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` FMS correlated more strongly with writing (r = .343) than with reading (r = .310; p = .029), and more strongly with mathematics than with cognition (p = .006); writing and mathematics did not differ significantly (p = .805). [→ Sebastian P. Suggate 2025](#sebastian-p-suggate-2025)

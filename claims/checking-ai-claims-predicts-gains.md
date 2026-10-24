@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dimitrios-gousopoulos-2026
     resource: "https://doi.org/10.62225/2583049X.2026.6.3.6516"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q3`
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who checked the AI's claims against sources more often showed larger decision-making gains. [→ Dimitrios Gousopoulos 2026](#dimitrios-gousopoulos-2026)

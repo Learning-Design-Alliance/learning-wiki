@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: meltzer-2007
     resource: "https://www.guilford.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children with executive function dysfunction, usually attached to an ADHD diagnosis, develop academic difficulties in written expression first and reading comprehension next as they age. [→ Meltzer 2007](#meltzer-2007)

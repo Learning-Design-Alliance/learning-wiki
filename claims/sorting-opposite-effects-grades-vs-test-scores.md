@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-16
 sources:
   - id: elaine-allensworth-and-takako-nomi-2014
     resource: "https://consortium.uchicago.edu/publications/skill-based-sorting-era-college-prep-all-costs-and-benefits"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under sorting, the grades and pass rates of high-skilled students decline while the grades of low-skilled students improve. [→ Elaine Allensworth and Takako Nomi 2014](#elaine-allensworth-and-takako-nomi-2014)

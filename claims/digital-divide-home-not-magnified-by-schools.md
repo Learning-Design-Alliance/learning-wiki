@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: holly-m-hart-2002
     resource: "https://consortium.uchicago.edu/publications/educational-technology-its-availability-and-use-chicagos-public-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Differences in schools' technology availability and use are not strongly related to the racial composition or family income levels of students in the school. [→ Holly M. Hart 2002](#holly-m-hart-2002)

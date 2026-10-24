@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-16
 sources:
   - id: bos-2018
     resource: "https://evidenceforessa.org/program/families-and-schools-together-fast/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` FAST showed a small statistically significant negative effect on family conflict for Cohort 2 at end of Grade 1 (effect size .26 SD), not found for Cohort 1 or other time points, and may be spurious. [→ Bos 2018](#bos-2018)

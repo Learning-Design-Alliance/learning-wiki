@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: binkowski-2026
     resource: "https://doi.org/10.48550/arxiv.2605.07056"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article argues that universities failing to progress beyond Levels 0 or 1 risk a reactive mode producing fragmented teaching practices, growing misalignment between assessment and real-world practice, and missed opportunities to prepare students for AI-enabled professional environments. [→ Binkowski 2026](#binkowski-2026)

@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The share of respondents answering 'don't know/not familiar enough to say' about AI fell from 23% (8 of 35) pre-session to 0% (0 of 24) post-session. [→ dk-drop-1](#dk-drop-1)

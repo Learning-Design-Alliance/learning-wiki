@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: rachel-levenstein-2011
     resource: "https://consortium.uchicago.edu/publications/findings-investigation-culture-calm-initiative"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Coordinators most often reported time (21 schools) and student attendance (20 schools) as barriers, and vendors reported slow Statements of Work approval that cut program implementation time. [→ Rachel Levenstein 2011](#rachel-levenstein-2011)

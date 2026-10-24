@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: smith-2026
     resource: "https://doi.org/10.48550/arxiv.2608.11540"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Across four retrospective capstone cases, the no-thin-pillar rule surfaced cyber-physical and data-driven-decision gaps hidden behind strong analytics profiles in three cases and blocked certification in one. [→ Smith 2026](#smith-2026)

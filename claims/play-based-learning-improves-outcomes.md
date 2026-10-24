@@ -8,6 +8,8 @@ generated:
 id: play-based-learning-improves-outcomes
 aliases: [guided-play-improves-academic-outcomes]
 evidence_strength: weak-to-moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: skene-et-al-2022
     resource: "https://doi.org/10.1111/cdev.13730"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small · n=39 studies (3,893 children in all; 17 pooled)
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: Play Based Learning Improves Outcomes -->
 
 Guided play and structured play-based approaches can improve academic, social, and self-regulation outcomes relative to didactic instruction, though the strength of the effect depends heavily on how much adult scaffolding is built into the play.

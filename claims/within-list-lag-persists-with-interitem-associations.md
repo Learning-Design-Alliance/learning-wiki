@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1980
+source_checked: 2026-10-20
 sources:
   - id: glenberg-1980
     resource: "https://doi.org/10.3758/bf03213772"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 1980 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 2 (superordinate generation task), a significant within-list lag effect appeared in almost every list regardless of retention interval, and the predicted four-way interaction was far from significant (F < 1). [→ Glenberg 1980](#glenberg-1980)

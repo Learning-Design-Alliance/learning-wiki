@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jiajing-li-2026
     resource: "https://doi.org/10.1080/15391523.2026.2672515"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Evidence on AI's motivational impact is inconclusive: some studies report enhanced motivation, others nonsignificant effects, and still others potential negative consequences. [→ Jiajing Li 2026](#jiajing-li-2026)

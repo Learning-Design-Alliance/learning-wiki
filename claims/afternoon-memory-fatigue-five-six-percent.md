@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1912
+source_checked: 2026-10-24
 sources:
   - id: winch-1912
     resource: "https://doi.org/10.1037/h0070728"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1912 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The morning group improved 10.7 per cent from preliminary to final tests while the afternoon group improved 5.0 per cent, a difference the author takes as a fatigue effect of between 5 and 6 per cent. [→ Winch 1912](#winch-1912)

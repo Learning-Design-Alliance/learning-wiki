@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: stark-2026
     resource: "https://doi.org/10.35542/osf.io/3nmgp_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an analysis of 1,375 chatbots, 63.6 percent carried at least one gender cue, and where a cue was present it was overwhelmingly female, leading the study's authors to recommend against female-by-default designs. [→ Stark 2026](#stark-2026)

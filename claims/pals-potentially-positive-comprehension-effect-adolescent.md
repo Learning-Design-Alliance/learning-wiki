@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: peer-assisted-learning-strategies-2012
     resource: "https://kc.vanderbilt.edu/pals/"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering -->
 
 ## Subclaims

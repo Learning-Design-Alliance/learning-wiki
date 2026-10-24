@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-21
 sources:
   - id: verhoeven-2022
     resource: "https://doi.org/10.1016/j.edurev.2022.100486"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2022 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across computer-supported word reading interventions and outcome measures in primary school children, the multilevel average effect size was 0.36 (95% CI 0.28–0.43). [→ Verhoeven 2022](#verhoeven-2022)

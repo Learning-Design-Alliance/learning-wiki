@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: łucja-biel-2026
     resource: "https://doi.org/10.48550/arxiv.2608.04641"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A 2023 survey of 474 respondents from 24 institutions reports NMT uptake of ca. 80% for legal translation, while a much lower uptake of 41% was reported among UK-based freelance translators. [→ Łucja Biel 2026](#ucja-biel-2026)

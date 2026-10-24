@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kakimoto-akihiro-2026
     resource: "https://doi.org/10.2196/104397"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All 20 participants reported that radiation invisible during conventional training became perceptible in VR, and all 20 reported operability differences, citing absent haptic feedback and distance-judgment difficulty. [→ Kakimoto Akihiro 2026](#kakimoto-akihiro-2026)

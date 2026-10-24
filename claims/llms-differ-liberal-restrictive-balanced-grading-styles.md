@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: marcin-jukiewicz-2025
     resource: "https://doi.org/10.48550/arxiv.2509.26483"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Models such as gpt-4o and claude-haiku-3.5 assign high proportions of maximum grades, deepseek-reasoner and gpt-4.1-nano are dominated by failing grades, and models such as claude-sonnet-4 and gemini-2.0-flash-lite extensively use the intermediate 0.5 grade. [→ Marcin Jukiewicz 2025](#marcin-jukiewicz-2025)

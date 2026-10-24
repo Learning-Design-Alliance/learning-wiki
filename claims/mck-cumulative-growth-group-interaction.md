@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mark-feng-teng-2024
     resource: "https://doi.org/10.1007/s11409-023-09360-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The main effect of time on MCK was significant, indicating cumulative increase across the four measurements. [→ Mark Feng Teng 2024](#mark-feng-teng-2024)

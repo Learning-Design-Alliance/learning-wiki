@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: kyle-dunbar-2025
     resource: "https://doi.org/10.51388/20.500.12265/266"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 16 interviewed districts, assessment approaches for Portrait of a Graduate skills varied widely, with the seven districts having assessments in place using multiple approaches across contexts and grade levels. [→ Kyle Dunbar 2025](#kyle-dunbar-2025)

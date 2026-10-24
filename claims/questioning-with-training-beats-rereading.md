@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 1978
 sources:
   - id: marli-eda-andre-and-thomas-h-anderson-1978
     resource: "https://eric.ed.gov/?q=The+Development+and+Evaluation+of+a+Self-Questioning+Study+Technique"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1978 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 2, the questioning-with-training group scored significantly higher on the posttest than the rereading control group, while the two questioning groups did not differ from each other. [→ Marli E.D.A. Andre and Thomas H. Anderson 1978](#marli-eda-andre-and-thomas-h-anderson-1978)

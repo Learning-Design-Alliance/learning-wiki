@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: geboers-b-2018
     resource: "https://doi.org/10.1186/s12877-018-0766-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Better cognitive functioning measured 10 years earlier was associated with lower odds of low health literacy (education-adjusted ORs per SD 0.51–0.75, all p < .05; n = 729–734), which the authors read as health literacy reflecting lifelong general cognitive ability; the association cannot show cause. [→ Geboers B 2018](#geboers-b-2018)

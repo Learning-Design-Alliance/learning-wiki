@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-15
 sources:
   - id: voyager-universal-literacy-system-wwc-intervention-report-2007
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/538"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2` · `i1` small
+> **Currency** · newest study 2007 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Individual phonological awareness, letter knowledge, print awareness and phonics findings were not statistically significant after WWC corrections for clustering and multiple comparisons. [→ Voyager Universal Literacy System® — WWC Intervention Report 2007](#voyager-universal-literacy-system-wwc-intervention-report-2007)

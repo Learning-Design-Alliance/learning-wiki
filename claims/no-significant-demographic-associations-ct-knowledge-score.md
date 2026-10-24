@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hadi-yasser-h-2026
     resource: "https://doi.org/10.1002/jmrs.70119"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Radiographers with a CT-specific qualification were more likely to achieve a high knowledge score than those without (58.3% vs. 55.7%), but the association was not statistically significant (OR 1.11, 95% CI 0.70–1.76; p = 0.72). [→ Hadi Yasser H. 2026](#hadi-yasser-h-2026)

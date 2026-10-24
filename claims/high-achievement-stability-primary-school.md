@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kulakow-2023
     resource: "https://osf.io/cyqak/?view_only=37eade9dd7c142e88fe9bef9451c125e"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Autoregressive effects showed high rank-order stability of achievement across grades 1–4, stronger for written language than mathematics. [→ Kulakow 2023](#kulakow-2023)

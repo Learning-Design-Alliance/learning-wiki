@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: chakrabartty-2021
     resource: "https://dx.doi.org/10.52380/ijpes.2021.8.3.190"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Difficulty value of a test (DiffT) equals the ratio of the length of the observed score vector to the length of the ideal vector multiplied by cos∅, which equals the test mean divided by m, with higher values indicating an easier test. [→ Chakrabartty 2021](#chakrabartty-2021)

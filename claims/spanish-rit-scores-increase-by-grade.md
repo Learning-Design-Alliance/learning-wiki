@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: map-growth-technical-report-spanish-addendum-for-20242025-2026
     resource: "https://www.nwea.org/research/publication/map-growth-spanish-technical-report-addendum/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average Math scores ranged from 158 to 218 and Reading from 151 to 206 across grades; score variability tended to increase by grade, and high school Reading averaged lower than grade 8 Reading. [→ MAP Growth Technical Report Spanish Addendum for 2024–2025 2026](#map-growth-technical-report-spanish-addendum-for-20242025-2026)

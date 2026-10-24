@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-21
+recheck_by: 2028
 sources:
   - id: schuessler-2025
     resource: "https://doi.org/10.1007/s11251-024-09692-6"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The four within-task difficulty categories differ significantly in relative item difficulty (Welch's F(3, 63.882) = 19.07, p ≤ 0.001), with most difficult items exceeding all other categories. [→ Schuessler 2025](#schuessler-2025)

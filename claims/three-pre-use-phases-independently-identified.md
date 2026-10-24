@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 1978
 sources:
   - id: hall-1978
     resource: "https://eric.ed.gov/?id=ED190626"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1978 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both the PAEI/CBAM research and the NDN evaluation proposed three pre-use phases distinguished by the same decision points, providing a strong basis for future decision-makers, change agents, and researchers. [→ Hall 1978](#hall-1978)

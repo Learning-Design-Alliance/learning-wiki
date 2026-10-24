@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: eldredge-c-2026
     resource: "https://doi.org/10.1093/jamia/ocag150"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 48 CAHIIM-accredited master's programs, 40 (83%) had at least one publicly available AI-related document, and guidelines (21, 53%) outnumbered formal policies (7, 18%). [→ Eldredge C 2026](#eldredge-c-2026)

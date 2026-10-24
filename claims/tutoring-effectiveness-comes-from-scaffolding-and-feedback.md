@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: tutoring-effectiveness-comes-from-scaffolding-and-feedback
 evidence_strength:
+newest_evidence: 2011
 sources:
   - id: chi-et-al-2001
     resource: "https://doi.org/10.1207/s15516709cog2504_1"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q3` · `i2` medium
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Tutoring Effectiveness Comes From Scaffolding And Feedback -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): The learning benefits of tutoring are attributed to the tutor's ability to scaffold tasks within the learner's zone of proximal development and to provide immediate, adaptive feedback — not merely to one-on-one attention. -->

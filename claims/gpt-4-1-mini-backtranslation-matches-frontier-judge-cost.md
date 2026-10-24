@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: vishal-kumar-2025
     resource: "https://doi.org/10.48550/arxiv.2511.08283"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Because back-translation decouples parsing TikZ from verifying correctness, the weakest model (GPT-4.1-Mini) performs similarly with back-translation to the best LLM-judge (GPT-5) at 10.3x lower cost. [→ Vishal Kumar 2025](#vishal-kumar-2025)

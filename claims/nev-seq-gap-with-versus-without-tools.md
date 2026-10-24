@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: julián-méndez-2026
     resource: "https://doi.org/10.48550/arxiv.2607.18864"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average SEQ ratings for solving tasks with the tools were at least 2.5 points easier than participants' imagined difficulty without the tools, with the largest differences on tasks 3 (3.57), 6 (3.14), and 7 (3.07). [→ Julián Méndez 2026](#julian-mendez-2026)

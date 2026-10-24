@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ethan-dickey-2026
     resource: "https://doi.org/10.48550/arxiv.2607.27586"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the midterm aligned question there was no significant difference (U=5,644.5, p=.30, r=-0.058), but a pronounced floor effect (median = 0 in both groups) limits sensitivity. [→ Ethan Dickey 2026](#ethan-dickey-2026)

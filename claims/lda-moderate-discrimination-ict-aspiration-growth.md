@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: popa-2022
     resource: "https://doi.org/10.48550/arxiv.2605.27391"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Linear discriminant analysis using autonomy, digital skills and teacher support achieves moderate out-of-sample classification of high- versus low-growth ICT aspiration countries, with substantial overlap between groups. [→ Popa 2022](#popa-2022)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-09
+recheck_by: 2025
 sources:
   - id: wei-he-2022
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-english-map-reading-fluency-foundational-skills/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Graphical checks (histograms, Q-Q plots, CDF curves, and model residuals) indicated some deviations from the straight line at the tails, but the authors concluded the model normality assumption was met for all domains and grades. [→ Wei He 2022](#wei-he-2022)

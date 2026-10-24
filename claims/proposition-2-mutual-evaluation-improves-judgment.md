@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: william-j-rothwell-2026
     resource: "https://doi.org/10.46787/ijaipil.v2i1.8053"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The framework proposes that mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than self-rating without explanation. [→ William J. Rothwell 2026](#william-j-rothwell-2026)

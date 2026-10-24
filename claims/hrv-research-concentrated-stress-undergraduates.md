@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: hyun-jin-kim-2024
     resource: "https://doi.org/10.1007/s10648-024-09878-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 44 of 48 reviewed studies focused on stress while 12 focused on attention, showing stress dominates educational HRV research. [→ Hyun Jin Kim 2024](#hyun-jin-kim-2024)

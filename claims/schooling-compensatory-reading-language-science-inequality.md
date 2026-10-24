@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: dennis-condron-2021
     resource: "https://doi.org/10.1177/00380407211041542"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Seasonal comparisons of national assessment data indicate that skill inequality in reading, language use, and science grows more slowly during school years than summers, consistent with a compensatory effect of schooling. [→ Dennis Condron 2021](#dennis-condron-2021)

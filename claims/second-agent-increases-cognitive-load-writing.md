@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: harsh-kumar-2026
     resource: "https://doi.org/10.48550/arxiv.2604.02677"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher reports of feeling overwhelmed or confused during writing were most pronounced in the Duo condition, and the Single condition reported the lowest independent-writing confidence while Duo reported higher confidence than Single. [→ Harsh Kumar 2026](#harsh-kumar-2026)

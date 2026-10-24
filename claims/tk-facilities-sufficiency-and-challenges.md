@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: wang-2025
     resource: "https://doi.org/10.54300/600.551"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eighty-eight percent of LEAs projected having enough classroom space by 2025–26, up from 82%; LEAs lacking space projected needing 488 additional classrooms, about half the prior year's 946. [→ Wang 2025](#wang-2025)

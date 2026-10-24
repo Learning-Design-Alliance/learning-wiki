@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: azzurra-ruggeri-2022
     resource: "https://doi.org/10.1177/09637214221112114"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Designing environments that let learners actively control what to study, when, and for how long leads to enhanced learning from age 7 years until adulthood, per Study 1 of Ruggeri, Markant, et al. (2019). [→ Azzurra Ruggeri 2022](#azzurra-ruggeri-2022)

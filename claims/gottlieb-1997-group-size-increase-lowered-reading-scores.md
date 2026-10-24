@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: bondebjerg-2023
     resource: "https://doi.org/10.1002/cl2.1345"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Increases in resource room instructional group sizes from 5 to at most 8 students per teacher led to decreases in reading achievement scores, per the review's account of Gottlieb (1997). [→ Bondebjerg 2023](#bondebjerg-2023)

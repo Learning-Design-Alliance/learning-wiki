@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: tim-silva-2014
     resource: "https://www.mathematica.org/publications/teaching-residency-programs-a-multisite-look-at-a-new-model-to-prepare-teachers-for-highneed-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The study examined the characteristics of 30 different TRPs and their current and former participants, covering coursework, teacher backgrounds and experiences, and retention. [→ Tim Silva 2014](#tim-silva-2014)

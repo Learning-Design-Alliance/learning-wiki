@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fine-grained prompting raises usability scores across all models in the computer science task, with Qwen2.5-7B increasing from 74.56% to 98.94%. [→ fgp-uniqueness-2](#fgp-uniqueness-2)

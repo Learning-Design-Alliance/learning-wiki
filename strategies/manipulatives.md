@@ -58,9 +58,11 @@ Manipulatives leverage embodied and dual-coding pathways: pairing a concept with
 5. Fade toward representational drawings and then abstract symbols, connecting each stage back to the object.
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples-first.md) — a demonstration with manipulatives shows the object–concept mapping before learners manipulate independently
 - [Analogies](../strategies/analogies.md) — manipulatives function as physical analogies; both rely on learners mapping structure from a familiar surface to an unfamiliar target
 - [Multiple Representations](../strategies/multiple-representations.md) — concrete objects are one representation among several; coordinating them builds flexible understanding
+- [Külppe's recommendations: formal exercises in thinking, more abstract thinking, and practice strengthening determining tendencies](kulpp-formal-exercises-in-thinking.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — manipulation must be followed by practice that consolidates the concept

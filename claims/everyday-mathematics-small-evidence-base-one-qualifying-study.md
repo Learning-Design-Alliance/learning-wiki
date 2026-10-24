@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: evidence-base
     title: evidence-base
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 34 eligible studies identified, only one quasi-experimental study (Waite, 2000) met WWC group design standards (with reservations); no studies met the standards without reservations. [→ evidence-base](#evidence-base)

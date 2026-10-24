@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: amrita-ganguly-2025
     resource: "https://doi.org/10.1007/s43681-025-00916-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Articles focusing only on GenAI and LLM-based agents address educational impact and cognitive challenges less than other challenges (38.1% highest), indicating research prioritizes technical, ethical, and operational aspects over pedagogical outcomes. [→ Amrita Ganguly 2025](#amrita-ganguly-2025)

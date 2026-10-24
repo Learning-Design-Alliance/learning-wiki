@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xiaotian-su-2026
     resource: "https://doi.org/10.48550/arxiv.2610.01518"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among detected flaws, Engage-to-Unlock participants classified errors more accurately than Standard Chatbot participants (90.43% versus 78.12%, pHolm=.003), but not significantly more than Time-Matched Unlock participants (83.58%, pHolm=.051). [→ Xiaotian Su 2026](#xiaotian-su-2026)

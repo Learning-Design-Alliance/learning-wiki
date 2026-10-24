@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: marques-2026
     resource: "https://doi.org/10.48550/arxiv.2610.07205"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Case 1, a participant who initially read the visualization as direct gender bias began acknowledging data-quality factors and sample-size limitations after chatbot prompts, becoming cautious about student–professor gender interactions. [→ Marques 2026](#marques-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: h-p-a-boshuizen-2016
     resource: "https://doi.org/10.1007/s11251-016-9377-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Experts have developed monitoring strategies that help them identify upcoming complications before these have become full-blown, whereas novices are distracted by phenomena that may not be relevant to the goals pursued. [→ H. P. A. Boshuizen 2016](#h-p-a-boshuizen-2016)

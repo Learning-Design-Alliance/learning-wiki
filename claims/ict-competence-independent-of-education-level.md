@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: garcía-lópez-2017
     resource: "https://doi.org/10.5539/ies.v10n4p78"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 73.9% of teachers reported applying ICT efficiently, and a chi-square independence test found no dependence between educational level and ICT-use competence (Chi-square = 2.67, p = .61). [→ García-López 2017](#garcia-lopez-2017)

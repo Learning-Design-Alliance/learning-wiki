@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: success-for-all-2017
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/672"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across six studies, general reading achievement outcomes were positive and substantively important for one study and indeterminate for five studies. [→ Success for All® 2017](#success-for-all-2017)

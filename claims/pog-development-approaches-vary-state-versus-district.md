@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: terrell-2025
     resource: "https://eric.ed.gov/?id=ED673550"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` About a dozen state education agencies, such as Indiana, North Carolina, Virginia, and Washington, have led development of a standardized POG framework outlining essential competencies every student in the state must achieve. [→ Terrell 2025](#terrell-2025)

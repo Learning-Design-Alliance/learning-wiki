@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: teacher-practice-summary
     title: teacher-practice-summary
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` CW-FIT produced a statistically significant positive average effect on teacher practice (summary effect size 1.15, improvement index +37, p<0.01), rated Positive effects at the PROMISING tier based on 321 teachers. [→ teacher-practice-summary](#teacher-practice-summary)

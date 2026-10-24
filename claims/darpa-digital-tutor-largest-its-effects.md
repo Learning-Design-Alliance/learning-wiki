@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: kulik-2016
     resource: "https://doi.org/10.3102/0034654315581420"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In two summative evaluations of the DARPA Digital Tutor against standard Navy classroom courses, average effect sizes were ES = 1.97 and ES = 3.18 standard deviations. [→ Kulik 2016](#kulik-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: jacob-levine-2026
     resource: "https://doi.org/10.48550/arxiv.2605.19043"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across all tested questions and models, Gemini-3-flash had the highest rubric-item accuracy, from 89% (Course 2) to over 99% (Course 1). [→ Jacob Levine 2026](#jacob-levine-2026)

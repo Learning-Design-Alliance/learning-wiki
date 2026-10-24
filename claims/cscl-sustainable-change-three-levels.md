@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: sten-ludvigsen-2018
     resource: "https://doi.org/10.1007/s11412-018-9291-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Hod et al. argue that major CSCL initiatives have produced sustainable change at three levels—classroom microstructures, schools, and school systems—and that design-centric research practice partnerships will continue to do so. [→ Sten Ludvigsen 2018](#sten-ludvigsen-2018)

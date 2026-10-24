@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 54 claims (25 for, 26 mixed, 3 against) · 39 studies (18 causal, 8 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 12 of 39 report an effect size · 49 claims rest on one study
+> **Evidence** · 55 claims (25 for, 27 mixed, 3 against) · 40 studies (19 causal, 8 review, 7 quant-synthesis, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 12 of 40 report an effect size · 50 claims rest on one study
 
 ## Description
 
@@ -132,6 +132,7 @@ The examples are local design instances, not additional observations from those 
 - [The massed-versus-distributed question is tied to the whole-versus-part question: the hard problem remains hard unless learned in parts under massed conditions](../claims/massed-distribution-tied-to-whole-part.md) [~W]
 - [The more the substitution practice was distributed over days, the larger the practice gains and the more pronounced the negative transfer effects](../claims/kline-distributed-practice-amplifies-transfer-effects.md) [~W]
 - [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](../claims/distributed-drill-repetitions-better-than-succession.md) [+W]
+- [The motor habit for a maze section shows practically no disintegration over the intervals between part-learning trials](../claims/negligible-motor-disintegration-over-interval.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

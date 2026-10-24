@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: harsh-kumar-2026
     resource: "https://doi.org/10.48550/arxiv.2604.02677"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both LLM conditions outperformed Control on combined essay quality (Single Δ=0.332, t(244)=6.21, p<.0001; Duo Δ=0.234, t(244)=4.21, p=0.0001), and Single and Duo did not significantly differ (p=0.363). [→ Harsh Kumar 2026](#harsh-kumar-2026)

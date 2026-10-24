@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-17
 sources:
   - id: w-lewis-johnson-james-c-lester-2015
     resource: "https://doi.org/10.1007/s40593-015-0065-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis of 43 studies with more than three thousand subjects found statistically significant learning benefits for learning environments featuring pedagogical agents over those without agents. [→ W. Lewis Johnson & James C. Lester 2015](#w-lewis-johnson-james-c-lester-2015)

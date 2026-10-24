@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sara-caviola-2026
     resource: "https://doi.org/10.1007/s10648-026-10125-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The Type of content × Grade interaction significantly improved model fit, with grade a significant positive predictor for broad mathematics (B = 0.015, p < .001), computation (B = 0.014, p = .018), and geometry (B = 0.048, p = .003), but not for advanced mathematics, basic numeracy, or national tests. [→ Sara Caviola 2026](#sara-caviola-2026)

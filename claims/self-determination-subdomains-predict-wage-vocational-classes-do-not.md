@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1997
 sources:
   - id: michael-wehmeyer-1997
     resource: "https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A linear regression with hourly pay rate as dependent variable yielded an R2 of .81, with IQ and three self-determination subscales as significant predictors. [→ Michael Wehmeyer 1997](#michael-wehmeyer-1997)

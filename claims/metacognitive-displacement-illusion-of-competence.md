@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: hoyun-cho-2026
     resource: "https://doi.org/10.1007/s10648-026-10210-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When AI automates the diagnostic and evaluative loops of learning, students lose opportunities to calibrate their understanding, which can foster an illusion of competence and weaken autonomous self-regulation. [→ Hoyun Cho 2026](#hoyun-cho-2026)

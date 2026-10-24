@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: fan-ouyang-and-weiqi-xu-2024
     resource: "https://doi.org/10.1186/s40594-024-00469-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The subgroup with interventions longer than one month had the largest effect size (g = 0.672, p < 0.001), while shorter durations showed non-significant effects. [→ Fan Ouyang and Weiqi Xu 2024](#fan-ouyang-and-weiqi-xu-2024)

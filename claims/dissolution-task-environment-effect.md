@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: scharlott-2024
     resource: "https://doi.org/10.1021/acs.jchemed.3c00517"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` On the dissolution task, 20%, 19%, and 40% of student responses exhibited causal mechanistic reasoning in the active, didactic, and core ideas learning environments, respectively, and a chi-square test showed a significant environment effect with a moderate effect size of 0.352. [→ Scharlott 2024](#scharlott-2024)

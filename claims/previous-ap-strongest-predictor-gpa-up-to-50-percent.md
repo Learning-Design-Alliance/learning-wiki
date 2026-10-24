@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: juan-carlos-pérez-gonzález-2022
     resource: "https://doi.org/10.1007/s11409-022-09315-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Step 2 of the hierarchical regressions, previous AP was the only significant cognitive predictor of GPA in each year, with adjusted R² reaching 0.46–0.50. [→ Juan-Carlos Pérez-González 2022](#juan-carlos-perez-gonzalez-2022)

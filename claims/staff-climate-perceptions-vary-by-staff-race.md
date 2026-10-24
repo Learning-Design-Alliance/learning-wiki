@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: voight-2013
     resource: "https://eric.ed.gov/?id=ED580366"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Irrespective of school racial demographics, White and Asian staff were more likely than African American and Hispanic staff to report their school provided a positive, supportive, and safe learning environment and that students come ready to learn. [→ Voight 2013](#voight-2013)

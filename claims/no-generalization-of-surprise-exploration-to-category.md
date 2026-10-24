@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: stahl-aimee-e-2019
     resource: "https://doi.org/10.1111/tops.12389"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Infants who saw a ball violate solidity showed no significant preference for a new ball over a car, and did not differ from infants who saw an expected outcome. [→ Stahl Aimee E. 2019](#stahl-aimee-e-2019)

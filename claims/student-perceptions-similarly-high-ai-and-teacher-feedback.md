@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: grion-2026
     resource: "https://dx.doi.org/10.1080/02602938.2026.2697962"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students' perceptions of mastery, emotions, and satisfaction did not differ meaningfully between AI-generated and teacher feedback conditions, with perceptions similarly high in each. [→ Grion 2026](#grion-2026)

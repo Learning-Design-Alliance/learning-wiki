@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1989
 sources:
   - id: sadler-1989
     resource: "https://doi.org/10.1007/BF00117714"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article identifies three things students must possess to monitor their own work quality: an appreciation of what high quality work is, evaluative skill to compare their production with the higher standard, and a store of tactics for modifying their work. [→ Sadler 1989](#sadler-1989)

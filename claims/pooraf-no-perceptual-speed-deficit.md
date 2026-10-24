@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
+recheck_by: 2013
 sources:
   - id: mussolin-2008
     resource: "https://doi.org/10.2174/1874350100801010026"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The two groups did not differ in a perceptual shape-matching task requiring no memory retrieval, so the findings did not support a general speed-of-processing deficit explanation (one non-significant task, not a refutation). [→ Mussolin 2008](#mussolin-2008)

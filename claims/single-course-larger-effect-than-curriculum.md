@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: wijnia-2024
     resource: "https://doi.org/10.1007/s10648-024-09864-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` In the CHE model, single-course implementations and interventions showed a moderate positive effect while curriculum-wide implementations showed a trivial positive effect, a statistically significant difference. [→ Wijnia 2024](#wijnia-2024)

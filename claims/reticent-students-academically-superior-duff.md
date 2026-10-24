@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: chen-2016
     resource: "https://doi.org/10.7575/aiac.alls.v.7n.3p.168"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The review attributes to Duff (2002) the finding that seemingly reticent students who had not appropriated local norms of classroom interaction were academically superior based on other kinds of performance. [→ Chen 2016](#chen-2016)

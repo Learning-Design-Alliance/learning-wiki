@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: rowe-meredith-l-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3440540/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Parent narrative utterances at 42 months significantly predict PPVT scores at 54 months after controlling for parent education, prior PPVT, and word tokens. [→ Rowe Meredith L 2012](#rowe-meredith-l-2012)

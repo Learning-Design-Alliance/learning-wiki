@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: qing-xiao-2026
     resource: "https://doi.org/10.48550/arxiv.2609.13479"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Friend and Romantic Partner scenarios, 14 teachers described the AI as a low-stakes place to practice interaction for students who cannot easily practice with peers. [→ Qing Xiao 2026](#qing-xiao-2026)

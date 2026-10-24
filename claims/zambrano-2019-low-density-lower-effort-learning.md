@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: jimmy-zambrano-2019
     resource: "https://doi.org/10.1007/s11251-019-09495-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` During the learning phase, groups with low information density perceived lower mental effort than groups with high information density. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)

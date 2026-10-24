@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: burr-2022
     resource: "https://eric.ed.gov/?id=ED655645"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2018/19, multilingual learners were under 20 percent of California's student population but nearly 30 percent of students with disabilities, and over 50 percent of multilingual learners with disabilities were identified with SLD versus 37 percent of nonmultilingual peers. [→ Burr 2022](#burr-2022)

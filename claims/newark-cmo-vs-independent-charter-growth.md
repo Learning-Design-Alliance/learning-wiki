@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: city-study-2022-newark-2022
     resource: "https://credo.stanford.edu"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i1` Newark CMO-affiliated charter students outgrew the state average by effect sizes of 0.12 SD in reading (67 days) and 0.15 SD in math (89 days); independent charter students outgrew the state average in math (0.08 SD, 45 days) but not reading (0.02 SD). [→ City Study 2022: NEWARK 2022](#city-study-2022-newark-2022)

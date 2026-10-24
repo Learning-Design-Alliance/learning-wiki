@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Comparing optimal schedules for different item difficulties at the same budget (Fig. 12) suggests uniform deck time for easy items and more lower-deck time for harder items. [→ Reddy 2016](#reddy-2016)

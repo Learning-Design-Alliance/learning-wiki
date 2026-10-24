@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: winstone-2017
     resource: "https://doi.org/10.1080/00461520.2016.1207538"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 159 empirical papers on proactive recipience, 55% used surveys, only 19% assessed learners' actual behavior, and 55% sampled only undergraduates, so the evidence base is skewed toward Higher Education and self-report. [→ Winstone 2017](#winstone-2017)

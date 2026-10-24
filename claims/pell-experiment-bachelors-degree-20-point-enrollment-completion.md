@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: jaime-thomas-2020
     resource: "https://ies.ed.gov/ncee/pubs/2021001/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among Pell-eligible, un- or underemployed students with a bachelor's degree, being offered experimental Pell Grant funds increased enrollment in and completion of short occupational programs by about 20 percentage points relative to not being offered the funds. [→ Jaime Thomas 2020](#jaime-thomas-2020)

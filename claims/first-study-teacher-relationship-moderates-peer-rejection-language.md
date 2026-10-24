@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: femke-van-der-wilt-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102217"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Prior research on the moderating role of the teacher-child relationship focused on social-emotional outcomes rather than academic outcomes such as language competence; this study addresses that gap. [→ Femke van der Wilt 2025](#femke-van-der-wilt-2025)

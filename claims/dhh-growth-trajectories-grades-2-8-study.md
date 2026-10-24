@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: stephanie-cawthon-2020
     resource: "https://www.nwea.org/research/publication/growth-patterns-and-distance-learning-tips-for-students-who-are-deaf-and-hard-of-hearing-webinar/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The study followed the academic growth trajectories of students who are DHH from grades 2-8. [→ Stephanie Cawthon 2020](#stephanie-cawthon-2020)

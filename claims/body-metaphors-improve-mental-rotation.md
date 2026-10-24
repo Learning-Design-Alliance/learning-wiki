@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: björn-b-de-koning-huib-k-tabbers-2011
     resource: "https://doi.org/10.1007/s10648-011-9173-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Embodied versions of a mental rotation task, adding a head to the abstract stimulus or replacing it with a human body picture, produced faster reaction times and fewer errors. [→ Björn B. de Koning & Huib K. Tabbers 2011](#bjorn-b-de-koning-huib-k-tabbers-2011)

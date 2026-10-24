@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: chunpeng-zhai-2024
     resource: "https://doi.org/10.1186/s40561-024-00316-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Khalil and Er reported that Turnitin and iThenticate could detect plagiarism in less than 15% of essays based on existing literature. [→ Chunpeng Zhai 2024](#chunpeng-zhai-2024)

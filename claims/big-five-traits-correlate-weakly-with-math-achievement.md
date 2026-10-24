@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: breit-et-al-2025
     resource: "https://doi.org/10.1016/j.lindif.2024.102621"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i2` medium · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 Conscientiousness correlates r = .22 with mathematics achievement and openness .13; agreeableness (.01), extraversion (−.02) and neuroticism (−.09) are negligible (Meyer et al. 2023, about 85–100 effect sizes each, children and adolescents). These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 
@@ -64,3 +66,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](conscientiousness-predicts-academic-performance-review.md) — a broader claim this one bears on
 - [Most extracted associations are small: 219 of nearly 500 coefficients fall below a medium effect size, with conscientiousness–academic adjustment (.64) the largest](mostly-small-associations-conscientiousness-largest.md) — related
 - [Conscientiousness is a reliable meta-analytic predictor of academic achievement](conscientiousness-predicts-academic-achievement.md) — a broader claim this one bears on
+- [Student-reported teacher neuroticism negatively predicts student performance self-efficacy, with effects that differ across mathematics and English](teacher-neuroticism-predicts-performance-self-efficacy.md) — related

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: nagaoka-2016
     resource: "http://consortium.uchicago.edu/publications/educational-attainment-chicago-public-schools-students-2015-focus-four-year-college"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 2014 four-year college enrollment rate among CPS graduates was 42 percent, up from 33 percent in 2006, and combined two- and four-year enrollment reached 62 percent. [→ Nagaoka 2016](#nagaoka-2016)

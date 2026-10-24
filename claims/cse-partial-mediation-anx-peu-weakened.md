@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: saadé-2009
     resource: "https://jite.org/documents/Vol8/JITEv8p177-191Saade708.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When PEU was regressed on both ANX and CSE, both paths remained significant (CSE→PEU: β = 0.117, t=-4.011, p = 0.0001; ANX→PEU: β = -0.094, t =-3.466, p =0.001), indicating partial mediation with reduced path strength. [→ Saadé 2009](#saade-2009)

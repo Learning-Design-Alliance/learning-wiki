@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: linnenbrink-garcia-2026
     resource: "https://doi.org/10.1007/s10648-026-10177-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Study 2, teachers rated CORI students higher in reading self-efficacy, intrinsic reading motivation, and extrinsic reading motivation than SI teachers rated their students (effect sizes 0.95, 1.29, 1.28). [→ Linnenbrink-Garcia 2026](#linnenbrink-garcia-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: reed-orchinik-2026
     resource: "https://doi.org/10.48550/arxiv.2609.16432"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 1 (N = 1,992), the general warning significantly decreased persuasive effects of an LLM conversation about housing policy. [→ Reed Orchinik 2026](#reed-orchinik-2026)

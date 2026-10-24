@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: fries-2020
     resource: "https://doi.org/10.1007/s10648-020-09561-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Understanding is the ability to perceive a domain's underlying structure as coherent mental schemas, which enables transferable and flexible application of domain principles. [→ Fries 2020](#fries-2020)

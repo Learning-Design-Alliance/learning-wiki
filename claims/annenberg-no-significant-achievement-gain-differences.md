@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: smylie-2003
     resource: "https://eric.ed.gov/?id=ED"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 1996 and 2001, student academic achievement improved across Annenberg schools as it did across the Chicago Public School system, with no statistically significant differences between Annenberg schools and non-Annenberg schools in rates of achievement gain. [→ Smylie 2003](#smylie-2003)

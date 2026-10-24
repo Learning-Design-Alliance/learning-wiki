@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: fitz-2024
     resource: "https://doi.org/10.54300/515.306"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Despite COVID-19 disruptions, 21CSLA provided no-cost professional learning to approximately 8,300 unique California leaders, with 333 communities of practice and localized offerings and coaching for 384 leaders in Year 3. [→ Fitz 2024](#fitz-2024)

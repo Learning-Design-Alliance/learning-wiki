@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: marcel-v-j-veenman-2011
     resource: "https://doi.org/10.1007/s11409-011-9080-x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Cromley and Azevedo (this issue) obtained correlations ranging from .23 to .74 between strategy-use MC-questions and other measures for background knowledge, inference, vocabulary, and word reading. [→ Marcel V. J. Veenman 2011](#marcel-v-j-veenman-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: susan-kowalski-2025
     resource: "https://www.nwea.org/research/publication/integrating-literacy-and-science-a-powerful-partnership-for-student-success/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There is a productive connection between science and literacy instruction that the brief frames as a powerful partnership for student success. [→ Susan Kowalski 2025](#susan-kowalski-2025)

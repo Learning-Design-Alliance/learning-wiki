@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1997
+source_checked: 2026-10-08
 sources:
   - id: anthony-bryk-1997
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-john-tyler-high-school"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1997 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Half of top-quartile teachers describe strong joint problem solving and an additional 13 percent describe very strong processes, whereas bottom-quartile teachers are most likely to describe their joint problem solving as weak (46 percent). [→ Anthony Bryk 1997](#anthony-bryk-1997)

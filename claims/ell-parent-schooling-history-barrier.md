@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: beth-tarasawa-2015
     resource: "https://doi.org/10.1080/10796126.2015.1058243"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Immigrant and ELL parents may have had negative experiences with educational institutions or less exposure to formal schooling, limiting their involvement. [→ Beth Tarasawa 2015](#beth-tarasawa-2015)

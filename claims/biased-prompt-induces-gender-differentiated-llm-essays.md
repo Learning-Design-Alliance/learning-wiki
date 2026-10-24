@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ariyan-hossain-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15914"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The biased LLM produced an agentic gap of Δ=0.343 (d=1.903, p<.001) versus Δ=0.019 (d=0.115, p=.105) for the neutral LLM, validating the bias stimulus. [→ Ariyan Hossain 2026](#ariyan-hossain-2026)

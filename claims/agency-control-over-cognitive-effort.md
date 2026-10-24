@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+source_checked: 2026-10-20
 sources:
   - id: agency-theme
     title: agency-theme
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students framed manual tracing as essential to feeling in control of their reasoning and used visualizations for verification of their own reasoning rather than as primary tools for understanding execution. [→ agency-theme](#agency-theme)

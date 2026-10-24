@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1997
 sources:
   - id: susan-ryan-1997
     resource: "https://consortium.uchicago.edu/publications/charting-reform-lscs%E2%80%94local-leadership-work"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of seven inactivity criteria, only one occurs in more than 20 percent of schools: having fewer than two active committees. [→ Susan Ryan 1997](#susan-ryan-1997)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: moira-mccullough-2016
     resource: "https://www.mathematica.org/publications/districtcharter-collaboration-grant-implementation-final-findings-from-interviews-and-site-visits"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceptions of the sustainability of collaboration efforts beyond the end of the grant period were mixed across grantee sites, and a handful of respondents across many sites doubted that cooperation alone is a viable mechanism for improving school effectiveness. [→ Moira McCullough 2016](#moira-mccullough-2016)

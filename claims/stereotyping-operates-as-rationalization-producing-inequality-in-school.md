@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: göktürk-2021
     resource: "https://doi.org/10.24106/kefdergi.732138"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The article interprets interview results with black girls in Ispa-Landa's study as showing stereotyping functioning as a form of constructing uniformities, characterizing blacks as aggressive, tough, and poor. [→ Göktürk 2021](#gokturk-2021)

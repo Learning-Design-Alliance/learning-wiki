@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-16
+recheck_by: 2031
 sources:
   - id: wei-he-2026
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-spanish-map-reading-fluency-foundational-skills-report/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Within grades, mean scores generally increased from fall to spring, with the largest gains in kindergarten and grade 1, and both within-grade and cross-grade growth became less pronounced in higher grades, particularly from grade 2 to grade 3. [→ Wei He 2026](#wei-he-2026)

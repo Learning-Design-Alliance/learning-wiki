@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: walker-2023
     resource: "https://doi.org/10.14434/ijpbl.v17i2.35844"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, covered only one of the two findings after the fold): In a dummy-coded meta-regression of PBL tutor background, no tutor expertise category significantly predicts student learning -->
 
 ## Subclaims

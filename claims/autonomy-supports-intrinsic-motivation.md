@@ -35,12 +35,14 @@ sources:
     rigour: 2
 id: autonomy-supports-intrinsic-motivation
 evidence_strength: strong
+newest_evidence: 2004
 ---
 
 # Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 quant-synthesis `r2`, 1 review `r?`, 1 theoretical `r2` · `q1`–`q4` · `i2` medium
+> **Currency** · newest study 2004 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- title before 2026-10-15: Autonomy support increases intrinsic motivation, engagement, and persistence in learning. -->
 
 When learners experience meaningful choice, volition, and internal causality — rather than external control — they show greater intrinsic motivation, deeper engagement, and longer persistence. The mechanism is not choice for its own sake but perceived self-determination: the sense that one is acting from one's own values rather than external pressure.
@@ -211,3 +213,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Class-level instructional quality is positively related to student intrinsic motivation, with all three dimensions similarly important](instructional-quality-related-intrinsic-motivation.md) — a narrower finding that bears on this claim
 - [The authors propose, without testing it here, that competitive environments may provide clear goals, structures, and rewards that foster engagement, particularly for students less familiar with such environments](competitive-environments-clear-goals-engagement-interpretation.md) — reports the opposite
 - [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](low-autonomy-climate-harmful-low-expectation-students.md) — a narrower finding that bears on this claim
+- [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](instructional-style-main-effect-limited-autonomy-satisfaction.md) — reports the opposite

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2022
+source_checked: 2026-10-16
 sources:
   - id: peters-2022
     resource: "https://doi.org/10.51388/20.500.12265/162"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The University of South Florida chemistry innovation found statistically significant positive outcomes overall (Tier 3) but statistically nonsignificant positive outcomes for Black, Hispanic, or American Indian students. [→ Peters 2022](#peters-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: tapio-rasa-2022
     resource: "https://doi.org/10.1007/s11251-021-09572-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The theme of new futures thinking skills systematising thinking appeared in 76% of interviews; students valued concrete thinking tools such as the Futures Cone and backcasting. [→ Tapio Rasa 2022](#tapio-rasa-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: nwea-psychometrics-and-analytics-2024
     resource: "https://www.nwea.org/research/publication/predicting-amira-reading-mastery-based-on-nwea-map-reading-fluency-benchmark-assessment-scores/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Among three linking methods compared by RMSE on the common student sample, linear regression showed the lowest error for grades 2–5 in both terms, though equipercentile was slightly better for grade 1 fall. [→ NWEA Psychometrics and Analytics 2024](#nwea-psychometrics-and-analytics-2024)

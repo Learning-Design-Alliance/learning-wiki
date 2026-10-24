@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: datashop-geometry
     title: datashop-geometry
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Koedinger and Stamper (2013) demonstrated that a cognitive model built from statistical data analysis of DataShop data could be used iteratively, and their model was successful in improving learner mastery in a redesigned geometry tutor unit. [→ datashop-geometry](#datashop-geometry)

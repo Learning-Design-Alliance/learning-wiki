@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: xin-tian-2026
     resource: "https://doi.org/10.1186/s41239-026-00613-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The structural model explained 50.5% of variance in behavioral intention and 46.0% in use behavior, with ARCS motivation showing a large effect on use behavior (f2 = 0.351) versus small UTAUT3 effects (f2 ≈ 0.01–0.06). [→ Xin Tian 2026](#xin-tian-2026)

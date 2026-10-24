@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: cowan-nelson-2014
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207727/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants incidentally learned which words came from the same list better for short lists of 3 items (about 59%) than for lists of 6 or 9 items (about 53%), supporting binding in the focus of attention. [→ Cowan Nelson 2014](#cowan-nelson-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: brian-gill-2009
     resource: "https://www.mathematica.org/publications/an-exploratory-analysis-of-adequate-yearly-progress-identification-for-improvement-and-student-achievement-in-two-states-and-three-cities"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The report explicitly limits the generalizability of its findings to a national estimate. [→ Brian Gill 2009](#brian-gill-2009)

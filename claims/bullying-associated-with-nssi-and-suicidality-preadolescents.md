@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: menken-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.925727"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Bullied children had higher odds of NSSI or passive suicidality (OR 2.4) and active suicidality (OR 3.4) than non-bullied children. [→ Menken 2022](#menken-2022)

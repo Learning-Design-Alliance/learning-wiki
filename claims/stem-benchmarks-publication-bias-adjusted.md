@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mehmet-bicakci-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100803"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After limit meta-analysis adjustment, the overall quartiles fall to 0.14, 0.32, and 0.59, below Cohen's cut points at each quartile. [→ Mehmet Bicakci 2026](#mehmet-bicakci-2026)

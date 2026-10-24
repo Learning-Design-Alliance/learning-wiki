@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yun-hwa-noh-hee-jeong-kim-2026
     resource: "https://doi.org/10.63311/mathedu.26.6525"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Explain-the-screen, in which the teacher explained mathematical concepts via OneNote on the electronic board, was observed 24 times, the most frequent type. [→ Yun Hwa Noh & Hee-jeong Kim 2026](#yun-hwa-noh-hee-jeong-kim-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: griffith-2024
     resource: "https://doi.org/10.54300/682.951"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The report estimates the net cost of the Universal ESA program at $242.7 million in 2022–23, increasing to $295.2 million so far in 2023–24, with non-public school students accounting for the largest share. [→ Griffith 2024](#griffith-2024)

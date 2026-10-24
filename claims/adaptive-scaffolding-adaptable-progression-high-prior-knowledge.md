@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: chernikova-2025
     resource: "https://doi.org/10.1016/j.edurev.2024.100662"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The combination of adaptive scaffolding and adaptable task progression yielded g = 2.11 for high prior knowledge learners but g = 0.39 (ns) for low prior knowledge learners. [→ Chernikova 2025](#chernikova-2025)

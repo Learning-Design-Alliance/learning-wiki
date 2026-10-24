@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: todd-rosenkranz-2002
     resource: "https://consortium.uchicago.edu/publications/2001-cps-trend-review-iowa-tests-basic-skills"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The 1998-99 bilingual education policy change produced a large increase in students tested but excluded, a decline of more than 5,000 students not tested, and an increase of more than 12,000 students tested and included from 1998. [→ Todd Rosenkranz 2002](#todd-rosenkranz-2002)

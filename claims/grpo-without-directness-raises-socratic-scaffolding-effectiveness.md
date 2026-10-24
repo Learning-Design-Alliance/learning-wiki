@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: xiaokun-wang-2026
     resource: "https://doi.org/10.48550/arxiv.2607.22996"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On 30 held-out questions, PT-GRPO w/o Rdir reaches SE=0.633 with 13.3% leakage, up from PT-Base's SE=0.300 with 30.0% leakage. [→ Xiaokun Wang 2026](#xiaokun-wang-2026)

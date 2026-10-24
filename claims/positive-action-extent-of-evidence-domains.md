@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: wwc-intervention-report-positive-action-2007
     resource: "http://www.positiveaction.net"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two studies covering 56 schools and over 2,660 students support the behavior and achievement domains, while no studies met standards for the knowledge, attitudes, and values domain. [→ WWC Intervention Report: Positive Action 2007](#wwc-intervention-report-positive-action-2007)

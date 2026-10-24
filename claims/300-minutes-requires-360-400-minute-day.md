@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: betsann-smith-1998
     resource: "https://consortium.uchicago.edu/publications/its-about-time-opportunities-learn"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Even restricting attention to the most able schools and teachers observed, the report finds no evidence that 300 minutes of instruction fits within a 330-minute day, and suggests a 360-400 minute day is needed. [→ BetsAnn Smith 1998](#betsann-smith-1998)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: sophia-c-weissgerber-2021
     resource: "https://doi.org/10.1007/s10648-020-09579-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Weissgerber and Reinhard (2017) were wrongly categorized as having no test expectancy, and Weltman and Eakin (2014) were wrongly categorized as 'no image'. [→ Sophia C. Weissgerber 2021](#sophia-c-weissgerber-2021)

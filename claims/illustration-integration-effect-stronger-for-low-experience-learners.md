@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1995
 sources:
   - id: mayer-1995
     resource: "https://doi.org/10.1007/BF02300480"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The transfer advantage of the integrated group over the separated group was stronger for students who lacked experience in meteorology than for high-experience students. [→ Mayer 1995](#mayer-1995)

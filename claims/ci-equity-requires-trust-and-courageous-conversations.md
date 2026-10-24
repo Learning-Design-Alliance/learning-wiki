@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: valdez-2020
     resource: "https://eric.ed.gov/?id=ED606089"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Conversations about race and class within continuous improvement are emotionally sensitive, take time, and require trust and psychological safety. [→ Valdez 2020](#valdez-2020)

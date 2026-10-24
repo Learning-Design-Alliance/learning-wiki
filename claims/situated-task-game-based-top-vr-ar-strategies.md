@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: haozhe-jiang-2025
     resource: "https://doi.org/10.1007/s10639-024-13210-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the ten coded learning strategies, situated learning (51 articles), task-based learning (37) and game-based learning (35) were the most applied; storytelling was least used (six articles). [→ Haozhe Jiang 2025](#haozhe-jiang-2025)

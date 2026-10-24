@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: preregistration-and-registered-reports-2021
     resource: "https://osf.io/ya594"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` If hypotheses and analyses are not predesignated, the denominator of possible tests is undefinable, so null-hypothesis tests lose their informative value; exploratory tests carry no evidential weight. [→ Preregistration and Registered Reports 2021](#preregistration-and-registered-reports-2021)

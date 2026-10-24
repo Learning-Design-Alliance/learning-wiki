@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: richard-m-ryan-2024
     resource: "https://doi.org/10.1007/s10648-024-09858-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Counter-claims that autonomy is not a basic need in East Asian cultures were answered by subsequent meta-analytic evidence supporting universality, with student and teacher autonomy predicting better outcomes across cultures. [→ Richard M. Ryan 2024](#richard-m-ryan-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: keenan-tiarnán-d-2020
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328271/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i2` In AREDS, participants in the highest fish intake quartile had lower odds of cognitive impairment than those in the lowest quartile (OR = 0.36 for 3MS, P = .001). [→ Keenan Tiarnán D. 2020](#keenan-tiarnan-d-2020)

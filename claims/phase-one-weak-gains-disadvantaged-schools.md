@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
+source_checked: 2026-10-17
+recheck_by: 2006
 sources:
   - id: sebring-2003
     resource: "https://www.consortium-chicago.org/publications"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2003 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2006**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Phase I productivity analyses found weak improvements in very disadvantaged, racially isolated African-American elementary schools, which became explicit Phase II reform targets. [→ Sebring 2003](#sebring-2003)

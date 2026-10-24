@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: gilmore-c-2013
     resource: "https://doi.org/10.1371/journal.pone.0067374"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Experiment 1, performance on incongruent dot comparison trials correlated strongly with mathematics achievement (r = .55) while congruent trials did not (r = .03), and the two correlations differed significantly. [→ Gilmore C 2013](#gilmore-c-2013)

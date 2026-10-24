@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: uraipong-2024
     resource: "https://doi.org/10.5539/hes.v14n2p88"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article states, citing Gazzaley and Rosen (2016), that children attached to smartphones often exhibit irritability, impatience, impulsive behavior, and tendencies toward Pseudo-ADHD symptoms. [→ Uraipong 2024](#uraipong-2024)

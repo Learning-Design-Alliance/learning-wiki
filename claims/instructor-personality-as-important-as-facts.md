@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: foster-1911
     resource: "https://www.google.com/search?q=%22School+Instruction+in+Matters+of+Sex%22+Foster"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The personality and attitudes of the instructor play as important a part in results as the facts taught. [→ Foster 1911](#foster-1911)

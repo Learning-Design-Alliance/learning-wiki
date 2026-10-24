@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: hart-2008
     resource: "https://consortium.uchicago.edu/publications/teacher-and-principal-leadership-chicago-ongoing-analyses-preparation-programs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At the elementary level, NLNS principals' schools were rated more positively on principal instructional leadership, innovation, and reflective dialogue; UIC-led elementary schools were rated more highly on principal instructional leadership, teacher influence, professional development, and teacher-parent interaction. [→ Hart 2008](#hart-2008)

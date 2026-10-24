@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: arthars-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2341390"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · n=18 students across 4 graduate teams (3-5 students each), projects lasting 5-13 weeks, two Australian graduate interdisciplinary courses
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Interdisciplinary student teams constructing a shared problem statement used five recurring, profoundly multimodal (not purely verbal) interaction moves — knowledge sharing, perspective-taking, simulation, knowledge validation, and negotiation — and these moves regularly surfaced disciplinary differences in what counts as trustworthy evidence and how quickly a problem framing should be treated as settled, but these differences were rarely explicitly discussed as disciplinary in origin.
 

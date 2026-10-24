@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: bailey-2016
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/23"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: A substantial share of students are misplaced by single placement tests, more often into developmental courses than the reverse -->
 

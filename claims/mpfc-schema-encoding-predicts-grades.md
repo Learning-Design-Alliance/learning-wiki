@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: van-kesteren-2014
     resource: "https://doi.org/10.1162/jocn_a_00630"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` mPFC activity for the schema subsequent memory contrast correlated positively with normalized second-year grades (effect size r = .43, p < .05), while MTL activity showed no such relation. [→ van Kesteren 2014](#van-kesteren-2014)

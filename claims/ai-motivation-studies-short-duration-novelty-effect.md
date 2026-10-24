@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jiajing-li-2026
     resource: "https://doi.org/10.1080/15391523.2026.2672515"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 96 of 156 studies (61.5%) lasted less than 10 weeks, so findings may be clouded by a novelty effect. [→ Jiajing Li 2026](#jiajing-li-2026)

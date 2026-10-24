@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: j-patrick-meyer-2023
     resource: "https://www.nwea.org/research/publication/content-proximity-spring-2022-pilot-study-research-report/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Regression-adjusted math score differences favoring the pilot group were statistically significant at the 0.05 level in every grade, ranging from 0.76 adjusted RIT in grade 2 to 6.42 in grade 6, with Hedge's g from 0.05 to 0.37. [→ J. Patrick Meyer 2023](#j-patrick-meyer-2023)

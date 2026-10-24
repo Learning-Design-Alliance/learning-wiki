@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: suya-liu-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100813"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Classroom instruction approach (F(3, 168) = 1.570, p = .198), type of AI technologies (F(2, 169) = 0.960, p = .385), assessment instrument (F(2, 169) = 1.145, p = .321), educational level (F(3, 168) = 1.174, p = .321), and publication year (F(1, 170) = 0.030, p = .862) were non-significant moderators. [→ Suya Liu 2026](#suya-liu-2026)

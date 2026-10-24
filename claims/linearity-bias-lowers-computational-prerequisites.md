@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: rares-alexandru-roșcan-2026
     resource: "https://doi.org/10.48550/arxiv.2604.08947"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Whereas unpenalized semantic alignment (λ = 0) often requires large-parameter models and GPU acceleration, the linearity heuristic enables lower-dimensional embeddings to yield robust alignments on standard CPU architectures. [→ Rares-Alexandru Roșcan 2026](#rares-alexandru-roscan-2026)

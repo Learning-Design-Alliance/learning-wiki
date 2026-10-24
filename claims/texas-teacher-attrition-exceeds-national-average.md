@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: bland-2025
     resource: "https://doi.org/10.54300/871.327"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Texas's teacher attrition rate is more than 50% higher than the national average, with 45,231 teachers exiting districts (a 12% attrition rate) prior to 2023–24. [→ Bland 2025](#bland-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: marcin-jukiewicz-and-michał-wyrwa-2026
     resource: "https://doi.org/10.3390/app16020680"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Initial results indicate GPT-4 generally outperforms GPT-3.5 in short-answer grading accuracy, though the advantage is not yet consistent across tasks and domains. [→ Marcin Jukiewicz and Michał Wyrwa 2026](#marcin-jukiewicz-and-micha-wyrwa-2026)

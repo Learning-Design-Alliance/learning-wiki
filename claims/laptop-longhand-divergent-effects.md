@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: jansen-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.10.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schoen (2012) and Bui et al. (2013, study 1) found computer note-taking led to better memory performance than longhand, while Mueller and Oppenheimer (2014) found the opposite pattern for conceptual questions. [→ Jansen 2017](#jansen-2017)

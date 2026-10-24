@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: singh-2023
     resource: "https://doi.org/10.3390/educsci13090924"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More than 73% of students voted for designing assessments requiring original thinking or providing guidance on positive use, rather than forbidding the tool. [→ Singh 2023](#singh-2023)

@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: argumentation-improves-reasoning
 evidence_strength: unrated
+newest_evidence: 2023
 sources:
   - id: zhou-2023
     resource: "https://doi.org/10.1080/10494820.2023.2205904"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q3` · `i2` medium
+> **Currency** · newest study 2023 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Engaging learners in constructing, critiquing, and defending arguments improves their reasoning skills — including the quality of their justifications, their ability to evaluate evidence, and their transfer of reasoning to new problems.
 

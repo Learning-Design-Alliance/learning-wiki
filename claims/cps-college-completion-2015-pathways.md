@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: usher-2023
     resource: "https://toandthrough.uchicago.edu/tool/cps/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the CPS graduating class of 2015, 51.1% of immediate four-year enrollees completed a bachelor's degree within six years, 9.9% of immediate two-year enrollees completed a bachelor's degree plus 22.6% an associate degree or certificate, and only 2.8% of delayed/non-enrollees completed a bachelor's degree. [→ Usher 2023](#usher-2023)

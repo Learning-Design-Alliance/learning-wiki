@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Kang et al. (2007, Experiment 1), that without feedback students answered 86% of initial multiple-choice versus 54% of short-answer items correctly and did better on the final test after multiple-choice. [→ Karpicke 2017](#karpicke-2017)

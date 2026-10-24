@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: illinois-workforce-and-education-research-collaborative-iwerc-2024
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Most students who enrolled in CTE also participated in college-level coursework such as dual credit, dual enrollment, AP, and IB courses; however, CTE students had slightly lower participation than non-CTE students in AP coursework. [→ Illinois Workforce and Education Research Collaborative (IWERC) 2024](#illinois-workforce-and-education-research-collaborative-iwerc-2024)

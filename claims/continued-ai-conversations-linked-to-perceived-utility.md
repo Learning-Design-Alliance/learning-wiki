@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: sperber-2025
     resource: "https://doi.org/10.1016/j.compcom.2025.102921"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 35% of spring students continued a feedback conversation; 71% of continuers versus 50% of non-continuers preferred AI and peer feedback together. [→ Sperber 2025](#sperber-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: betsann-smith-1998
     resource: "https://consortium.uchicago.edu/publications/its-about-time-opportunities-learn"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The average rate of non-instructional time in observed elementary classrooms was 23 percent, higher than the 18 percent found in comparable studies. [→ BetsAnn Smith 1998](#betsann-smith-1998)

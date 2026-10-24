@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: breideband-2025
     resource: "https://doi.org/10.1007/s40593-025-00509-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most students (75%) were content with teachers and researchers seeing their data, but some demanded confidentiality, and teachers initially framed CoBi as monitoring performance rather than supporting reflection. [→ Breideband 2025](#breideband-2025)

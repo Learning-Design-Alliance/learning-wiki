@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-17
+recheck_by: 2028
 sources:
   - id: usher-2023
     resource: "https://toandthrough.uchicago.edu/tool/cps/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Within each race/ethnicity group, young men graduated from high school at a rate lower than young women of the same race/ethnicity, and Black young men (75.6%) and Latino young men (81.6%) graduated below the district average of 84.0%. [→ Usher 2023](#usher-2023)

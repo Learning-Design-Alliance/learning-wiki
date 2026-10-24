@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: jemstedt-2017
     resource: "https://doi.org/10.1007/s11409-017-9172-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i0` In Experiment 1, gamma was reliably higher against the binary criterion than the TTL criterion, but the article describes the effect size as very small (d =. 1 4, below d = 0.2). [→ Jemstedt 2017](#jemstedt-2017)

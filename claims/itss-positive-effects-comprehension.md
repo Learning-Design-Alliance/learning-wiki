@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: wwc-rating-1
     title: wwc-rating-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The WWC found strong evidence of a positive and statistically significant effect of ITSS on comprehension, with an outcome-average effect size of 0.23 and an improvement index of +9 percentile points. [→ wwc-rating-1](#wwc-rating-1)

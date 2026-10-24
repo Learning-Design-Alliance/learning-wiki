@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: schnotz-2007
     resource: "https://doi.org/10.1007/s10648-007-9053-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors doubt Sweller's argument that a smaller working memory is more efficient, since a larger working memory would allow longer operation sequences to be stored and anticipated. [→ Schnotz 2007](#schnotz-2007)

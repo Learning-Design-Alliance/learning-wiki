@@ -8,6 +8,8 @@ generated:
 id: segmenting-improves-multimedia-learning
 aliases: [segmenting-principle-improves-multimedia-learning, segmenting-effect-retention-transfer-meta-analysis]
 evidence_strength:
+newest_evidence: 2019
+source_checked: 2026-10-14
 sources:
   - id: rey-et-al-2019
     resource: "https://doi.org/10.1007/s10648-018-9456-4"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=56 studies / 88 pairwise comparisons
+> **Currency** · newest study 2019 · checked against its sources 2026-10-14 (automated, 1 of 1 entry) · not reviewed by a person
 
 Presenting continuous multimedia material (e.g., a narrated animation) in segments rather than as a continuous unit reduces cognitive load and improves retention and transfer. The segmenting effect is usually defined for learner-paced segments; the one meta-analysis recorded here reports that its effects on retention, transfer, cognitive load and learning time are confirmed for system-paced segmentation as well.
 <!-- deprecated (2026-10-14, misread "These four effects are confirmed for a system-paced segmentation" as "only"): The segmenting effect is usually defined for learner-paced segments, but in the one meta-analysis recorded here the effects on retention, transfer, cognitive load and learning time held specifically for system-paced segmentation. -->

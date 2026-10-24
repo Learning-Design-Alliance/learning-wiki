@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: steven-glazerman-2005
     resource: "https://www.mathematica.org/publications/the-nih-undergraduate-scholarship-program-career-outcomes-of-scholars-and-nonawarded-finalists"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 associational `r?` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

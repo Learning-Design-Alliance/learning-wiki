@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: kim-young-suk-2015
     resource: "https://doi.org/10.1016/j.lindif.2014.11.009"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A two-factor model of narrative and expository writing quality fit better than a single-factor model (Δχ²[Δdf = 1] = 18.99, p < .001), with the two factors correlated r = .70. [→ Kim Young-Suk 2015](#kim-young-suk-2015)

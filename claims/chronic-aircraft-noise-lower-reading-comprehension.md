@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: klatte-m-2013
     title: Klatte M 2013
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r2` · `q2`–`q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In the RANCH study, with SES controlled, aircraft noise showed no effect on sustained attention, working memory, or delayed story recall, but a linear exposure–effect relationship with decreasing reading comprehension. [→ Klatte M 2013](#klatte-m-2013)

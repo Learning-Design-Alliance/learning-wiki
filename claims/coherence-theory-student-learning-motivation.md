@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2001
 sources:
   - id: newmann-2001
     resource: "https://eric.ed.gov/?id=ED"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students are more likely to learn when their experiences connect with and build upon one another, and coherent instruction develops competence that builds motivation to engage in learning. [→ Newmann 2001](#newmann-2001)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: kou-murayama-2019
     resource: "https://doi.org/10.1007/s10648-019-09499-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The framework treats specific curiosity as information-seeking to close a knowledge gap and argues there is no pure exploratory motivation to increase knowledge gaps, since all epistemic behavior is guided by closing some gap. [→ Kou Murayama 2019](#kou-murayama-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: julian-bernado-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27043"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across 221 assertions annotated by five LLMs, cross-model agreement is moderate with a median Krippendorff's alpha of 0.401, and construct-derived assertions agree more than corpus-derived ones; filtering at alpha ≥ 0.5 leaves 33 of 74 corpus-derived and 11 of 48 construct-derived assertions. [→ Julian Bernado 2026](#julian-bernado-2026)

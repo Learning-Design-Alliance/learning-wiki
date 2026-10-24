@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: gage-2024
     resource: "https://eric.ed.gov/?id=ED655758"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Treatment-school students were significantly less likely than matched comparison students to have at least one behavior incident by the end of 2022/23 (OR = 0.32; g = -0.63). [→ Gage 2024](#gage-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: reupert-2023
     resource: "https://doi.org/10.3102/00346543221149418"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Substitute teachers are an essential part of school improvement efforts because they allow release time for other teachers to participate in professional learning, complete administrative duties, and attend to personal matters. [→ Reupert 2023](#reupert-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-22
 sources:
   - id: björn-b-de-koning-2017
     resource: "https://doi.org/10.1007/s10648-016-9380-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2017 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` A significant training group × time interaction on reading motivation (ηp² = 0.14) reflects increased enjoyment of reading comprehension after the mental simulation training in Grades 3 and 4. [→ Björn B. de Koning 2017](#bjorn-b-de-koning-2017)

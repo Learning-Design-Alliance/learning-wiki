@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: what-works-clearinghouse-2023
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/728"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` Across 10 studies meeting WWC standards, Good Behavior Game had positive effects on student behavior, with a summary effect size of 0.91 and improvement index of +32, statistically significant at p<0.01. [→ What Works Clearinghouse 2023](#what-works-clearinghouse-2023)

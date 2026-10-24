@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: fosco-2019
     resource: "https://doi.org/10.1007/s10802-018-0504-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A main effect of task on MRT (BF10 = 8.27 x 10^12; d = 0.76) showed slower responding during the stop-signal task; groups were equivalent (BF01 = 3.43; d = 0.17). [→ Fosco 2019](#fosco-2019)

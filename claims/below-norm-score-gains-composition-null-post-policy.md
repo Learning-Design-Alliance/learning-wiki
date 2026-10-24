@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: takako-nomi-2010
     resource: "https://consortium.uchicago.edu/publications/effects-tracking-supports-instructional-climate-and-student-outcomes-high-school"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Below-norm students improved test scores by an additional 0.32 points post-policy, totaling 0.88 points higher than similar low-ability students pre-policy. [→ Takako Nomi 2010](#takako-nomi-2010)

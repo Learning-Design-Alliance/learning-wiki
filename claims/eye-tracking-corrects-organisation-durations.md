@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: yizhou-fan-2022
     resource: "https://doi.org/10.1007/s11409-022-09304-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` With Log+eye-tracking, First-reading accounted for 49.86% of session duration (between Nav_only's 65.09% and Enhanced_log's 16.11%) and Organisation fell to 4.58% from 43.03%. [→ Yizhou Fan 2022](#yizhou-fan-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: fronius-2019
     resource: "https://eric.ed.gov/?id=ED595733"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Nine of ten interview participants stated that district-provided professional development and support was necessary for effective implementation of restorative practices. [→ Fronius 2019](#fronius-2019)

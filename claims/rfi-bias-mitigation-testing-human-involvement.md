@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: bias-mitigation
     title: bias-mitigation
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among respondents naming algorithmic bias as a risk, 61.9% described testing and monitoring strategies and 22.7% described human involvement such as human-in-the-loop workflows and co-design. [→ bias-mitigation](#bias-mitigation)

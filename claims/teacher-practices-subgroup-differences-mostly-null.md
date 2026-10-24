@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: james-burdumy-2010
     resource: "http://ies.ed.gov/ncee"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` None of the teacher practices subgroup differences were statistically significant for the second cohort of fifth graders. [→ James-Burdumy 2010](#james-burdumy-2010)

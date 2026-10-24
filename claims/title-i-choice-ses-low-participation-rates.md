@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: ron-zimmer-2007
     resource: "https://doi.org/10.7249/rp1265"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Although eligible, relatively few students participated in either Title I school choice or supplemental educational services. [→ Ron Zimmer 2007](#ron-zimmer-2007)

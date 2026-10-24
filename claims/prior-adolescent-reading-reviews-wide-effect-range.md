@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: julia-j-yi-2026
     resource: "https://doi.org/10.1007/s10648-026-10124-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Previous meta-analyses and systematic reviews (2003-2023) generally reported significant positive mean effects of reading interventions on adolescent word reading, ranging from 0 to 1.31, but did not distinguish specific word-reading approaches. [→ Julia J. Yi 2026](#julia-j-yi-2026)

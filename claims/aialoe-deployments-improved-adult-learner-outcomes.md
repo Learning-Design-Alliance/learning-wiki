@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Use of Jill Watson was associated with higher average course grades and improved retention compared to control sections. [→ deploy-outcomes-1](#deploy-outcomes-1)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: jacob-2019
     resource: "https://aspredicted.org/sv3zv.pdf"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A main effect of learning activity on mental effort ratings emerged, F(2, 110) = 5.15, p = .007, η²p = .069, with oral explaining rated more effortful than retrieval (p < .001). [→ Jacob 2019](#jacob-2019)

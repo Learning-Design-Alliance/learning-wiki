@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: terhi-vessonen-2026
     resource: "https://doi.org/10.1007/s10648-025-10112-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies whose word problems included demanding number types, operations, or realistic considerations showed null effects for representational pictures. [→ Terhi Vessonen 2026](#terhi-vessonen-2026)

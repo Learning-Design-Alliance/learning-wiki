@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: ilhan-2018
     resource: "https://doi.org/10.14689/ejer.2018.75.6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Combining this study's crossed design with Huang et al.'s (2014) nested design, the authors infer CTT and MFRM agree on item difficulty for open-ended questions under either design. [→ Ilhan 2018](#ilhan-2018)

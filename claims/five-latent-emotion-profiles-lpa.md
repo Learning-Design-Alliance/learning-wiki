@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dirk-tempelaar-alexandra-niculescu-2026
     resource: "https://doi.org/10.1007/s10648-026-10155-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` LPA on Anxiety, Boredom, Hopelessness, and Enjoyment identified five profiles, four differing quantitatively along academic control and one (HghLBO, 4.4% of the sample) with disproportionately high boredom, overrepresented by male students. [→ Dirk Tempelaar · Alexandra Niculescu 2026](#dirk-tempelaar-alexandra-niculescu-2026)

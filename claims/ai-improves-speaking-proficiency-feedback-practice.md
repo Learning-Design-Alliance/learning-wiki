@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-16
 sources:
   - id: zhang-s-2026
     title: Zhang S 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-powered corrective feedback and repeated practice enhance oral language skills, coded in 28 studies. [→ Zhang S 2026](#zhang-s-2026)

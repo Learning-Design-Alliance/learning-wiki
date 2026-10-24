@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: emily-berger-2022
     resource: "https://doi.org/10.1007/s10648-022-09690-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The review found no initiative had been the subject of multiple RCTs, precluding a Level I systematic review of efficacy. [→ Emily Berger 2022](#emily-berger-2022)

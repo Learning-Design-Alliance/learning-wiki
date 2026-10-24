@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2002
 sources:
   - id: reinhard-pekrun-2002
     resource: "https://doi.org/10.1207/s15326985ep3702_4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Intraindividual correlations over six weeks of daily measurements (N = 72) revealed that for many emotions relations were homogeneous across persons, but daily anxiety related differently to motivation in different students, positively for some and negatively for others. [→ Reinhard Pekrun 2002](#reinhard-pekrun-2002)

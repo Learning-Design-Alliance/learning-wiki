@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1910
 sources:
   - id: carrie-bansom-squire-1910
     resource: "https://eric.ed.gov/?q=Graded+Mental+Tests+Squire"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the alternative test, where each item offers two possibilities and the experiences involved were familiar, correct judgment was manifested to a very high degree in the youngest group. [→ Carrie Bansom Squire 1910](#carrie-bansom-squire-1910)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: jan-d-vermunt-vincent-donche-2017
     resource: "https://doi.org/10.1007/s10648-017-9414-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Compared to SRL models, the learning patterns model is less normative, multi-dimensional, postulates three forms of regulation, and includes dimensions such as application-directed and undirected learning absent from most SRL models. [→ Jan D. Vermunt & Vincent Donche 2017](#jan-d-vermunt-vincent-donche-2017)

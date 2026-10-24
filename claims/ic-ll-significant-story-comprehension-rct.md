@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "http://crede.berkeley.edu/research/crede/research/llaa/1.5pubs.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In a randomized controlled trial, English language learners receiving Instructional Conversations and Literature Logs outperformed comparison students on factual comprehension (effect size 0.82) and interpretive comprehension (effect size 0.80), both statistically significant. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

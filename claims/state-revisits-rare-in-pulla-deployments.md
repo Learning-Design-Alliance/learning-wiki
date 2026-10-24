@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: daniel-prol-2026
     resource: "https://doi.org/10.48550/arxiv.2609.15944"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 6% and 12% of University of Houston solving sessions contained at least one state revisit, below the 21–33% reported by Helminen et al. for similar Parsons tasks; at Aalto, revisits were rare (0–3%) and absent in P3. [→ Daniel Prol 2026](#daniel-prol-2026)

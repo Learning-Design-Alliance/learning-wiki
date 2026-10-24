@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: fabian-wolff-jens-möller-2022
     resource: "https://doi.org/10.1007/s10648-022-09686-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In the I/E model, effects of achievements on self-concepts within subjects represent not only social comparison effects but the difference between positive social and negative dimensional comparison effects; reinterpreting Möller et al.'s (2020) meta-analytic betas yields social comparison effects of about β = .36 in the math domain. [→ Fabian Wolff · Jens Möller 2022](#fabian-wolff-jens-moller-2022)

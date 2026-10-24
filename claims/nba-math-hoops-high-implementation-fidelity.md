@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: mckinney-2026
     resource: "https://eric.ed.gov/?id=ED681343"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Teachers implemented NBA Math Hoops on 12 of 14-15 potential instruction days, completed 8.31 of 10 lessons on average, and 71% of classrooms played more than 10 games. [→ McKinney 2026](#mckinney-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: gunderson-elizabeth-a-2013
     resource: "https://doi.org/10.1111/cdev.12064"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cumulatively, 24.4% of praise boys received was process praise versus 10.3% for girls, a difference significant across all three ages and all measures. [→ Gunderson Elizabeth A. 2013](#gunderson-elizabeth-a-2013)

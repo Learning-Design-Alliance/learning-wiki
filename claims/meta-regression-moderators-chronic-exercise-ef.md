@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: liu-s-2020
     title: Liu S 2020
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Open motor skill interventions (β = 0.451645, p = 0.007) and age (β = −0.608123, p = 0.029) are significantly associated with inhibitory control effects. [→ Liu S 2020](#liu-s-2020)

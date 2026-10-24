@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: carver-thomas-2017
     resource: "https://doi.org/10.54300/454.278"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Turnover in Title I schools is nearly 50% greater than in non-Title I schools (16% versus 11%), with math/science turnover nearly 70% greater and alternative certification turnover more than 80% higher. [→ Carver-Thomas 2017](#carver-thomas-2017)

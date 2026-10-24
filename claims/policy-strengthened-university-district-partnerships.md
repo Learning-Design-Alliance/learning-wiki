@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: mcilhagga-2016
     resource: "https://consortium.uchicago.edu/publications/navigating-shift-intensive-principal-preparation-illinois-depth-look-stakeholder"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The new policy strengthened partnerships between universities and school districts to help ensure preparation reflects local schools' needs. [→ McIlhagga 2016](#mcilhagga-2016)

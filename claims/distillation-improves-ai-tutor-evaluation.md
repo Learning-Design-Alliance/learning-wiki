@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tahmid-al-hannan-2026
     resource: "https://doi.org/10.48550/arxiv.2607.10647"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding a synthetic knowledge-distillation dataset improved performance on all four pedagogical evaluation dimensions, with lenient F1 for Mistake Identification increasing from 84.04% to 96.08%. [→ Tahmid Al Hannan 2026](#tahmid-al-hannan-2026)

@@ -9,6 +9,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-22
+recheck_by: 2029
 sources:
   - id: joni-lämsä-2026
     resource: "https://doi.org/10.1007/s10648-025-10113-4"
@@ -40,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 review `r1`, 1 associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-22 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 

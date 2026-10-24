@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-07
 sources:
   - id: synthesis-1
     title: synthesis-1
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across three cluster randomized trials totaling 3,221 children, Building Blocks improved preschool mathematics achievement with a pooled effect size of 0.58 and improvement index of +22, statistically significant at p < 0.01. [→ synthesis-1](#synthesis-1)

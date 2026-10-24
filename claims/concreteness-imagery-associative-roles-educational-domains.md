@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1991
 sources:
   - id: clark-1991
     resource: "https://doi.org/10.1007/bf01320076"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The research reviewed demonstrates that concreteness, imagery, and verbal associative processes play major roles in educational domains including knowledge representation and comprehension, learning and memory of school material, effective instruction, individual differences, achievement motivation and test anxiety, and motor skill learning. [→ Clark 1991](#clark-1991)

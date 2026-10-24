@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: ouhao-chen-fred-paas-john-sweller-2023
     resource: "https://doi.org/10.1007/s10648-023-09782-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studying worked examples reduces extraneous cognitive load compared with problem solving because learners process fewer interacting elements, and for more knowledgeable learners the advantage is reduced or eliminated. [→ Ouhao Chen · Fred Paas · John Sweller 2023](#ouhao-chen-fred-paas-john-sweller-2023)

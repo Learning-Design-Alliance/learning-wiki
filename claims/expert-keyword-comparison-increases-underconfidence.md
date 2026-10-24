@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: waldeyer-2021
     resource: "https://doi.org/10.1007/s11409-020-09235-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Contrary to the optimization hypothesis, bias (underconfidence) increased from the first to the second measurement time point in the keyword+external standard group but remained unchanged in the keyword-only group. [→ Waldeyer 2021](#waldeyer-2021)

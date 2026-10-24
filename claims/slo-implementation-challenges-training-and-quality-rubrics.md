@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: slotnik-2014
     resource: "http://marylandpublicschools.org/MSDE/programs/tpe/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interviewees believe teachers receive insufficient training on how to understand and develop an SLO, and most grapple with understanding what constitutes a high quality SLO, with very few reporting access to a quality rating rubric. [→ Slotnik 2014](#slotnik-2014)

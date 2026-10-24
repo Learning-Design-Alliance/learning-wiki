@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
 sources:
   - id: the-uchicago-consortium-2003
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student learning improves most in schools implementing multiple, related essential supports on an ongoing basis. [→ The UChicago Consortium 2003](#the-uchicago-consortium-2003)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: crone-eveline-a-2009
     resource: "https://doi.org/10.1111/j.1467-7687.2008.00743.x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` A strong group x condition x timepoint interaction in DLPFC reflected children's late REL-1 activation and adults' larger early REL-2 peak. [→ Crone Eveline A. 2009](#crone-eveline-a-2009)

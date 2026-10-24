@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: mixed
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: lazonder-2016
     resource: "https://doi.org/10.3102/0034654315627366"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q2` · `i0`–`i1`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The meta-analysis's background reports, citing Furtak et al. (2012), that inquiry with minimal teacher guidance yielded d = 0.25 over traditional instruction, while teacher-directed inquiry comparisons yielded d = 0.65. [→ Lazonder 2016](#lazonder-2016)

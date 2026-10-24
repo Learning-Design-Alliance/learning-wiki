@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: neil-s-seftor-2009
     resource: "http://www.ed.gov/about/offices/list/opepd/ppss/reports.html#upward-2009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participation in Regular Upward Bound increases the likelihood of earning a postsecondary certificate or license from a vocational school; the report states the increase is statistically significant but prints no effect size. [→ Neil S. Seftor 2009](#neil-s-seftor-2009)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: chao-wen-2026
     resource: "https://doi.org/10.48550/arxiv.2606.03626"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Performance improvements from fine-tuning mainly come from DSReal and DSSyn, while performance on the hand-drawn DSCraft dataset remains low. [→ Chao Wen 2026](#chao-wen-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: thakore-2024
     resource: "https://doi.org/10.1007/s10648-024-09948-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 1 free recall, the negative narrative was recalled significantly better than both the positive and neutral narratives, and the neutral narrative worse than the positive. [→ Thakore 2024](#thakore-2024)

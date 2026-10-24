@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-22
 sources:
   - id: viljaranta-2017
     resource: "https://scholar.google.com/scholar?q=Maternal+Homework+Assistance+and+Children%E2%80%99s+Task-Persistent+Behavior+in+Elementary+School"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The more autonomy granting mothers reported in Grade 2, the more task-persistent behavior teachers reported children exhibiting in Grade 3, controlling for academic performance. [→ Viljaranta 2017](#viljaranta-2017)

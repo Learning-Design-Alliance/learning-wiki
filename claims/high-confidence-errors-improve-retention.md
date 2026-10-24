@@ -26,12 +26,14 @@ sources:
     rigour: "?"
 id: high-confidence-errors-improve-retention
 evidence_strength: strong
+newest_evidence: 2017
 ---
 
 # High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r?` · `q2`–`q3`
+> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 The "hypercorrection effect" describes the phenomenon where errors committed with high confidence are more likely to be corrected and remembered accurately later than low-confidence errors, likely due to increased attention triggered by the surprise of being wrong.
 

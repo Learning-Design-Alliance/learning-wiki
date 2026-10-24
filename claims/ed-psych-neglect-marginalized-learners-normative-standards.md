@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-08
 sources:
   - id: what-we-know-about-learning-taking-responsibility-for-interdisciplinary-complexity-in-educating-youth-in-mathematics-2025
     resource: "https://consortium.uchicago.edu/publications/what-we-know-about-learning"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Despite the ubiquity of its knowledge base, educational psychology has long neglected outcomes of historically and systemically marginalized learners and remains complicit in imposing normative standards and social stratification. [→ What We Know About Learning: Taking Responsibility for Interdisciplinary Complexity in Educating Youth in Mathematics 2025](#what-we-know-about-learning-taking-responsibility-for-interdisciplinary-complexity-in-educating-youth-in-mathematics-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: jenny-nagaoka-2013
     resource: "https://consortium.uchicago.edu/publications/readiness-college-role-noncognitive-factors-and-context"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across a range of studies summarized by the CCSR review, noncognitive factors relate positively both to school performance and to future outcomes. [→ Jenny Nagaoka 2013](#jenny-nagaoka-2013)

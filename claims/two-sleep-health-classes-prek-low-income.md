@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: turnbull-khara-l-p-phd-mateus-deiby-mayaris-cubides-locasale-crouch-jennifer-phd-lewin-daniel-s-phd-2022
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10621568/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Latent class analysis of parent-reported sleep timing, duration, and behaviors identified two classes, with 87% of children in the earlier, longer, consistent class and 13% in the later, shorter, inconsistent class. [→ Turnbull Khara L. P. PhD; Mateus Deiby Mayaris Cubides; LoCasale-Crouch Jennifer PhD; Lewin Daniel S. Ph.D. 2022](#turnbull-khara-l-p-phd-mateus-deiby-mayaris-cubides-locasale-crouch-jennifer-phd-lewin-daniel-s-phd-2022)

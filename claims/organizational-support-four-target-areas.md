@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
+source_checked: 2026-10-20
 sources:
   - id: kara-finnigan-and-jennifer-oday-2003
     resource: "https://doi.org/10.1037/e565292006-001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2003 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The organizational-level efforts of both external partners and probation managers targeted one or more of four areas: coordination and leadership, professional norms for teachers and teaching, monitoring of instruction and student learning, and resources for learning and instruction. [→ Kara Finnigan and Jennifer O'Day 2003](#kara-finnigan-and-jennifer-oday-2003)

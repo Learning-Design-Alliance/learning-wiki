@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhanxin-hao-2026
     resource: "https://doi.org/10.48550/arxiv.2603.21288"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` CI students showed significantly lower semantic coupling with the AI than DR students (b = −0.076, SE = 0.015, p < .001), while DE did not differ significantly from DR (b = −0.013, SE = 0.014, p = .363). [→ Zhanxin Hao 2026](#zhanxin-hao-2026)

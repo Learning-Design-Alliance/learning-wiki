@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: matthias-stadler-2024
     resource: "https://doi.org/10.1016/j.chb.2024.108386"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Students in the LLM condition reported significantly lower germane cognitive load than students in the web search condition, adjusted for prior knowledge (η² = 0.27), the strongest difference among the three load facets. [→ Matthias Stadler 2024](#matthias-stadler-2024)

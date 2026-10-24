@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: drijbooms-2017
     resource: "https://doi.org/10.1007/s11145-016-9670-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Between fourth and sixth grade, syntactic complexity of narratives showed a significant increase (d = .82), but text length and story content showed no developmental progression. [→ Drijbooms 2017](#drijbooms-2017)

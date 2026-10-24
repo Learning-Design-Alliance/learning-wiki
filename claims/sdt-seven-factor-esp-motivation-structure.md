@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: liu-2016
     resource: "https://doi.org/10.5539/elt.v9n4p92"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exploratory factor analysis of the ESP motivation questionnaire yielded seven factors representing the hypothesized motivational constructs, accounting for 64.76% of the variance. [→ Liu 2016](#liu-2016)

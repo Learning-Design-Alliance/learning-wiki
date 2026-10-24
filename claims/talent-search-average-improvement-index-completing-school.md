@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: talent-search-2006
     resource: "http://www.ed.gov/programs/triotalent/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The WWC computed a domain-average improvement index of +17 percentile points for completing school across the Texas and Florida studies, with a range of +14 to +19 and a domain-average effect size of 0.43. [→ Talent Search 2006](#talent-search-2006)

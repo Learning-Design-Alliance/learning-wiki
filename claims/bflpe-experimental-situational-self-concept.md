@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: lisa-hasenbein-2024
     resource: "https://doi.org/10.1007/s11251-023-09646-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The 80% hand-raising condition produced a significant negative effect on situational self-concept versus 20% (β = −0.12, p = 0.015, d = 0.30), while 35% and 65% showed no significant effect. [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

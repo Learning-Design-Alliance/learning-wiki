@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rienties-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100607"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across Studies 1-3, the most preferred feature among 315 participants was 24/7 availability with immediate feedback in the learner's academic setting rather than generic content, and roughly 60% wanted to use an AIDA. [→ Rienties 2026](#rienties-2026)

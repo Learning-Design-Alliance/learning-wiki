@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: susac-a-2014
     title: Susac A 2014
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most frequent concrete strategy was inserting numbers (37% of participants); the most common rule-based strategy was standard multiplication/division operations (38%). [→ Susac A 2014](#susac-a-2014)

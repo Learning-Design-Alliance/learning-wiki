@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: strong
+newest_evidence: 2024
 sources:
   - id: achraf-ammar-2024
     resource: "https://doi.org/10.1007/s10648-024-09892-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Of 10 tested moderator variables, only age significantly moderated both CI effects (p < 0.0001 for Δ pre-post and Δ pre-retention), and female proportion significantly moderated the Δ pre-post effect (p = 0.009). [→ Achraf Ammar 2024](#achraf-ammar-2024)

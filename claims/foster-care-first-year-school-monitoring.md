@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
 sources:
   - id: sebring-2003
     resource: "https://www.consortium-chicago.org/publications"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A planning study identified close monitoring of school experiences in the first year of foster care, and communication among social worker, foster family, and teacher, as key needs. [→ Sebring 2003](#sebring-2003)

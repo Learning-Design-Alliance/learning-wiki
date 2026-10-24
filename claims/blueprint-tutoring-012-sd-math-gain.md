@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: andrew-gothro-2023
     resource: "https://www.mathematica.org/publications/math-knowledge-impacts-and-math-perceptions-among-participants-in-the-blueprint-math-fellows"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Students participating in Blueprint tutoring scored 0.12 standard deviations higher in math than nonparticipant peers in the same schools and grades, after controlling for baseline scores and characteristics. [→ Andrew Gothro 2023](#andrew-gothro-2023)

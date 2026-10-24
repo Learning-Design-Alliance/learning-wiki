@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shenqi-lu-and-liangwei-zhang-2026
     resource: "https://doi.org/10.48550/arxiv.2601.01196"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The constructed educational benchmark contains 108 instances split evenly across simple, composite, and complex difficulty labels, each pairing a natural language command with generated Python code. [→ Shenqi Lu and Liangwei Zhang 2026](#shenqi-lu-and-liangwei-zhang-2026)

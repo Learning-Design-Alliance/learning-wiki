@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: cornelius-1
     title: cornelius-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among low-performing seventh- and eighth-grade students, those receiving 30 minutes of supplemental Odyssey® Math instruction scored significantly higher on the STAR Math Assessment than peers receiving teacher-directed supplemental instruction. [→ cornelius-1](#cornelius-1)

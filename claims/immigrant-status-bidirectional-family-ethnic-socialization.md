@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: umaña-taylor-2014
     resource: "https://doi.org/10.1111/cdev.12196"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For youth in immigrant families, ERI development was driven by family members' ethnic socialization efforts, whereas in U.S.-born-parent families, family socialization efforts were driven by youth's ERI. [→ Umaña-Taylor 2014](#umana-taylor-2014)

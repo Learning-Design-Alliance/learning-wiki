@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: jessica-massonnié-2018
     resource: "https://doi.org/10.1016/j.learninstruc.2018.01.005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adding a direct path from T1 decoding precursors to T2 reading comprehension significantly improved the model (β = .31), indicating decoding skills do not fully mediate the precursors' effect. [→ Jessica Massonnié 2018](#jessica-massonnie-2018)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-15
+recheck_by: 2021
 sources:
   - id: cook-harvey-2016
     resource: "http://learningpolicyinstitute.org/product/equity-essa"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Tracking suspension and expulsion data by student group can highlight racially disparate practices and promote positive behavioral interventions that improve engagement and academic success. [→ Cook-Harvey 2016](#cook-harvey-2016)

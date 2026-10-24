@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: tricia-a-zucker-2021
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior studies of pre-k language and literacy curricula report substantial variability in adherence (e.g., 76–82% average; 79–93% range; one study averaging 38% of core targets) and dosage (73% of intended lessons). [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shu-zhao-2026
     resource: "https://doi.org/10.1007/s11423-026-10663-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pre-test scores did not differ significantly between the high and low CT groups, reducing the likelihood that post-test differences stemmed from initial knowledge disparities. [→ Shu Zhao 2026](#shu-zhao-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: foorman-barbara-r-2015
     resource: "https://doi.org/10.1037/edu0000026"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After controlling for the general oral language factor, the specific vocabulary factor significantly predicted reading comprehension only in seventh grade and the specific syntax factor only in fourth grade. [→ Foorman Barbara R. 2015](#foorman-barbara-r-2015)
@@ -50,3 +52,4 @@ Structural analysis of the bifactor model tested whether residual variance in sy
 - [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](general-oral-language-factor-predicts-comprehension.md) — a broader claim this one bears on
 - [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](decoding-fluency-no-unique-prediction-grades-4-10.md) — related
 - [A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th](bifactor-model-best-fit-grades-4-10.md) — related
+- [No common underlying proficiency emerges for oral language: bifactor models of expressive and definitional vocabulary did not converge](no-common-underlying-proficiency-oral-language.md) — related

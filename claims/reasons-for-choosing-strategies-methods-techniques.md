@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: kaygısız-2020
     resource: "https://doi.org/10.33828/sei.v31.i1.12"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most selected reason for determining instructional strategy, method, and technique was "appropriateness of the content of the objectives" (juniors 73.9%, seniors 53.1%), with active participation of students prominent in the learning process theme (juniors 18.8%, seniors 56.2%). [→ Kaygısız 2020](#kaygsz-2020)

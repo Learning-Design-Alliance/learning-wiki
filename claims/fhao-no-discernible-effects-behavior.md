@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://ies.ed.gov/ncee/WWC/InterventionReport/169"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eighth-grade students in FHAO classrooms reported less fighting than comparison students, but the difference was not statistically significant and the effect size (0.20) did not meet WWC substantively-important criteria. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

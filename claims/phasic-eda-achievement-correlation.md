@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: kennett-2025
     resource: "https://doi.org/10.1037/edu0000964.supp"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In a physics classroom arousal study with 24 students, phasic EDA extracted via Ledalab's curve matching correlated strongly with achievement (r = .66). [→ Kennett 2025](#kennett-2025)

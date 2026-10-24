@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: regional-educational-laboratory-rel-central-2024
     resource: "https://www.mathematica.org/publications/seven-questions-to-consider-about-teacher-apprenticeship-programs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Because teacher apprenticeships are a relatively new approach to mitigating teacher shortages, there is minimal rigorous research available on their development and implementation. [→ Regional Educational Laboratory (REL) Central 2024](#regional-educational-laboratory-rel-central-2024)

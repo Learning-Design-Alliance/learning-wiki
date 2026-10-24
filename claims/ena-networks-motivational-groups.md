@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: cui-2026
     resource: "https://doi.org/10.1186/s41239-026-00610-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The intrinsic group's network showed stronger higher-order connections (M4-M5, M5-M6, M4-M6), while the extrinsic group's was dominated by M2-M4 and M1-M2. [→ Cui 2026](#cui-2026)

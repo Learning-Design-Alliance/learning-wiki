@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: calvin-isley-2026
     resource: "https://doi.org/10.48550/arxiv.2609.22549"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In the 2025 cycle, 56% of applicants submitted at least one essay flagged as primarily AI-generated, with usage climbing roughly 20 percentage points per year after ChatGPT's release. [→ Calvin Isley 2026](#calvin-isley-2026)

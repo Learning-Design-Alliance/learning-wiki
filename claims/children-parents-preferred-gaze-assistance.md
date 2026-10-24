@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zekun-wu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.00445"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 15 of 22 children preferred the gaze-based condition, 4 preferred the baseline, and 3 reported no preference. [→ Zekun Wu 2026](#zekun-wu-2026)

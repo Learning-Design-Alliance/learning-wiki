@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: hernández-2022
     resource: "https://doi.org/10.54300/165.102"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A study of inquiry-based mathematics instruction in schools serving low-income students found outcome disparities were reduced when teachers made problems relevant to students' lives and had students discuss thinking collaboratively. [→ Hernández 2022](#hernandez-2022)

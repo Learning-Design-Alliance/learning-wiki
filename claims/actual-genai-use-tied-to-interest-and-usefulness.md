@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: markus-h-hefter-2026
     resource: "https://doi.org/10.3390/aieduc2030027"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Actual genAI use correlated significantly with interest in genAI (r = 0.54) and perceived usefulness (r = 0.58), but not with knowledge, epistemic orientation, intellectual values, or NFC. [→ Markus H. Hefter 2026](#markus-h-hefter-2026)

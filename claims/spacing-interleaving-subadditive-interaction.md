@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: monica-s-birnbaum-2013
     resource: "https://doi.org/10.3758/s13421-012-0272-7"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A significant interaction between presentation order (interleaved vs. blocked) and presentation mode (contiguous vs. spaced) was obtained. [→ Monica S. Birnbaum 2013](#monica-s-birnbaum-2013)

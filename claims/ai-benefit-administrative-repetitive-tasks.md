@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: pınar-nuhoğlu-kibar-hale-ilgaz-2026
     resource: "https://doi.org/10.1007/s11423-026-10624-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The leading benefit theme is Assisting with Administrative and Repetitive Tasks (n = 18), followed by Inspiration and Idea Generation (n = 11), Facilitating Teacher Professional Growth (n = 8), Data-Driven Decisions (n = 7), and Academic Language and Communication Development (n = 3). [→ Pınar Nuhoğlu Kibar & Hale Ilgaz 2026](#pnar-nuhoglu-kibar-hale-ilgaz-2026)

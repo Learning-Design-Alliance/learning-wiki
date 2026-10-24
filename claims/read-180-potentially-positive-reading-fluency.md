@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: read-180-2016
     resource: "http://www.hmhco.com/products/read-180/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In two studies meeting standards without reservations, READ 180® showed a statistically significant positive fluency effect in one study and an indeterminate effect in the other, yielding a potentially positive rating (average improvement index +4). [→ READ 180® 2016](#read-180-2016)

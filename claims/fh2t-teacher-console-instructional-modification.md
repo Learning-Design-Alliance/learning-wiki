@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: tarik-buli-2025
     resource: "https://doi.org/10.51388/20.500.12265/262"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Confirmatory study educators reported gaining insights about students' mathematical understanding through the teacher console and using them to modify instruction, and recommended the console convey what students can and cannot do mathematically. [→ Tarik Buli 2025](#tarik-buli-2025)

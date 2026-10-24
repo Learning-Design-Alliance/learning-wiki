@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1905
 sources:
   - id: j-e-wallace-wallin-1905
     resource: "https://archive.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 1905 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article reviews reported transfer across spatial discrimination, sound-intensity and brightness discrimination, card sorting to typewriting, neatness transferring from geography to other school subjects, and memorizing. [→ J. E. Wallace Wallin 1905](#j-e-wallace-wallin-1905)

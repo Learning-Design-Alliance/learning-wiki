@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: michael-levere-2023
     resource: "https://www.mathematica.org/publications/the-importance-of-schools-in-driving-childrens-applications-for-disability-benefits"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Counties with virtual learning had about 15 percent lower children’s SSI applications than counties where all learning was in person. [→ Michael Levere 2023](#michael-levere-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: kittle-2024
     resource: "https://doi.org/10.1007/s10648-024-09942-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Systematic reviews found L1 (Spanish) reading comprehension positively correlated with English reading comprehension, and this relationship was weaker for students with lower levels of English language proficiency. [→ Kittle 2024](#kittle-2024)

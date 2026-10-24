@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hosseini-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05472"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pearson correlations showed gains were uncorrelated with AI literacy (r = 0.05, p = .88) and weakly, non-significantly related to database literacy (r = −0.09, p = .77). [→ Hosseini 2026](#hosseini-2026)

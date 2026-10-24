@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: andrew-ash-and-john-hu-2026
     resource: "https://doi.org/10.48550/arxiv.2608.02420"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A fourth-year EE student consistently found that GPT-4o provided accurate, detailed descriptions of circuit components, wiring, and intended purpose during hardware debugging. [→ Andrew Ash and John Hu 2026](#andrew-ash-and-john-hu-2026)

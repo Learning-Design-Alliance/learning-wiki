@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: susan-e-sporte-2013
     resource: "https://consortium.uchicago.edu/publications/teacher-evaluation-practice-implementing-chicagos-reach-students"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Because ratings carry stakes, some teachers mask instructional weaknesses rather than seek support from the administrator who also evaluates them. [→ Susan E. Sporte 2013](#susan-e-sporte-2013)

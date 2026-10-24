@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: pollard-2025
     resource: "https://doi.org/10.24059/olj.v29i3.4555"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Based on the audit, the authors argue that without an output that received feedback, information about what the student did would be limited, and feedback enables learning analytics to show what students have done. [→ Pollard 2025](#pollard-2025)

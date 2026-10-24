@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: charleen-brand-2023
     resource: "https://doi.org/10.1007/s11251-023-09619-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In exploratory condition-wise correlations, quality of solutions was significantly associated with awareness of knowledge gaps and conceptual knowledge in the individual condition but not in the collaborative condition. [→ Charleen Brand 2023](#charleen-brand-2023)

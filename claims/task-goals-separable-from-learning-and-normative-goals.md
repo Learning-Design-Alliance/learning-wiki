@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: daumiller-2019
     resource: "https://doi.org/10.1037/edu0000271"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adequate model fit was only realized when task goals were modeled separately from learning and normative goals with approach/avoidance components; task goals correlated moderately (ρ = .30–.61) with those classes. [→ Daumiller 2019](#daumiller-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mohamed-abdalla-2026
     resource: "https://doi.org/10.48550/arxiv.2605.09680"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret the low concern about military uses of labour as consistent with syllabus coverage: none of the syllabi examined by Fiesler, Garrett, and Beard addressed military applications, while just over half discussed privacy and surveillance. [→ Mohamed Abdalla 2026](#mohamed-abdalla-2026)

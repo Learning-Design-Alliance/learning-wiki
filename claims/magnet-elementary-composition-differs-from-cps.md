@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
+source_checked: 2026-10-20
+recheck_by: 2005
 sources:
   - id: elaine-m-allensworth-2000
     resource: "https://consortium.uchicago.edu/publications/access-magnet-schools-chicago"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2005**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In fall 1999, magnet elementary enrollment was 48.3 percent African-American, 26.5 percent Latino, 17.7 percent white, and 6.9 percent Asian, versus 52.8, 33.9, 10.2, and 2.9 percent respectively for all CPS elementary schools. [→ Elaine M. Allensworth 2000](#elaine-m-allensworth-2000)

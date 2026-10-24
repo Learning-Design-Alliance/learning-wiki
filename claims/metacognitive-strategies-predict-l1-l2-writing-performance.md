@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: wandong-xu-2024
     resource: "https://doi.org/10.1007/s11409-024-09387-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` L1 and L2 writing performance are directly and positively influenced by corresponding metacognitive strategies (β = 0.32 L1; β = 0.41 L2, both p < 0.001). [→ Wandong Xu 2024](#wandong-xu-2024)

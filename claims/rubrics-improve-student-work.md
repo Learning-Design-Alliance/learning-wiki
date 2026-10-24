@@ -8,6 +8,7 @@ generated:
 id: rubrics-improve-student-work
 aliases: [rubrics-improve-student-work-quality]
 evidence_strength:
+newest_evidence: 2014
 sources:
   - id: andrade-et-al-2010
     resource: "https://doi.org/10.1080/09695941003696172"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Rubrics improve student work -->
 
 Rubrics — explicit scoring guides describing performance criteria across quality levels — improve the quality of student work by making expectations visible before and during task completion. Two non-randomised comparison studies are recorded, both of rubric-referenced *self-assessment* (middle-school writers and pre-service teachers), neither reporting a standardised effect size; no study here tests rubrics used only by the instructor or merely handed out. <!-- deprecated (2026-10-05, stale: entries had been added): This page is currently a plausible hypothesis awaiting evidence: no studies have yet been added to the Evidence section. -->

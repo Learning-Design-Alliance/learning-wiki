@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: boosting-students-academic-self-concepts-2024
     resource: "https://osf.io/xbv4q/?view_only=62ce423079de44dba59a9e7b132417e6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Confirmatory factor analyses at T1 and T2 show the five-factor model (social comparison-related belief in math/German, dimensional comparison-related belief, temporal comparison-related belief in math/German) fits best, indicating the five beliefs are empirically distinguishable. [→ Boosting Students' Academic Self-Concepts 2024](#boosting-students-academic-self-concepts-2024)

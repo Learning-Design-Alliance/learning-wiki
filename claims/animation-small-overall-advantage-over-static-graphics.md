@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: strong
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: berney-2016
     resource: "https://doi.org/10.1016/j.compedu.2016.06.005"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i1` small
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across 140 pairwise comparisons, animated graphics yielded a small positive effect on knowledge acquisition compared to static graphics (Hedges's g = 0.226). [→ BERNEY 2016](#berney-2016)

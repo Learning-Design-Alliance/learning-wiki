@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: chang-zhu-2010
     resource: "https://doi.org/10.1080/02619761003631849"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Chinese teachers put more emphasis on competition among students than Flemish teachers (p < .001), but the two groups do not differ significantly on power distance teacher-student or student collaboration. [→ Chang Zhu 2010](#chang-zhu-2010)

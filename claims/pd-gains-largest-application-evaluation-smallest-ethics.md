@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: marienko-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100605"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Gains varied by competency dimension: practical application +27% and critical evaluation +26% were largest, while ethical awareness gained least (+18%) from the highest baseline (67%). [→ Marienko 2026](#marienko-2026)

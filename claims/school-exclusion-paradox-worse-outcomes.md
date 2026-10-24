@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: kearney-ca-2019
     title: Kearney CA 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` School district policies emphasizing suspension and expulsion to address attendance problems lead paradoxically to more dropout, delinquency, academic lag, and juvenile justice involvement. [→ Kearney CA 2019](#kearney-ca-2019)

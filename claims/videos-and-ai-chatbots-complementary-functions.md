@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kaşarcı-ismail-2026
     resource: "https://doi.org/10.3390/bs16071050"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a 2 × 2 factorial experiment, instructional videos produced large main effects on science learning (η2 = 0.27) while the AI chatbot produced significant interaction effects on extraneous cognitive load. [→ Kaşarcı İsmail 2026](#kasarc-ismail-2026)

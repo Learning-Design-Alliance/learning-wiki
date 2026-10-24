@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: marie-geurten-patrick-lemaire-2017
     resource: "https://www.google.com/search?q=Metacognition+for+Strategy+Selection+during+Arithmetic+Problem+Solving+in+Young+and+Older+Adults"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Participants did not give higher EoS scores on homogeneous (M = 2.72) than heterogeneous (M = 2.64) problems, F < 1. [→ Marie Geurten & Patrick Lemaire 2017](#marie-geurten-patrick-lemaire-2017)

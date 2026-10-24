@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: vu-2021
     resource: "https://doi.org/10.1007/s10648-021-09616-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ehm et al. (2019) found that a cross-lagged panel model supported reciprocal motivation-achievement relations while other models, such as the random-intercept CLPM, did not. [→ Vu 2021](#vu-2021)

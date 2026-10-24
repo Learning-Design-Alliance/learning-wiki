@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2001
 sources:
   - id: newmann-2001
     resource: "https://eric.ed.gov/?id=ED"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teachers who participate in coherent professional development experiences are more likely to learn from them and integrate new knowledge into teaching, and professionals working together on integrated activities toward clear goals produce higher quality work. [→ Newmann 2001](#newmann-2001)

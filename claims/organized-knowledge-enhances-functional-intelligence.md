@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: kalyuga-2026
     resource: "https://doi.org/10.1007/s10648-026-10135-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Acquiring extensive and well-organized schemas in long-term memory could improve functional use of intelligence by providing analogies and general principles for novel reasoning, and may increase effective working memory capacity through chunking. [→ Kalyuga 2026](#kalyuga-2026)

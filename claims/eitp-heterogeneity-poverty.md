@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-17
 sources:
   - id: matthew-p-steinberg-and-lauren-sartain-2015
     resource: "https://doi.org/10.1162/EDFP_a_00173"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2015 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Schools one standard deviation below the mean poverty level improved by an additional 0.09 SD in math and 0.10 SD in reading beyond the pilot effect at average-poverty schools. [→ Matthew P. Steinberg and Lauren Sartain 2015](#matthew-p-steinberg-and-lauren-sartain-2015)

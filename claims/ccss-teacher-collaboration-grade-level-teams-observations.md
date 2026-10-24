@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: julia-a-gwynne-and-jennifer-r-cowhy-with-r-steven-quispe-2018
     resource: "https://consortium.uchicago.edu/publications/getting-ready-common-core-state-standards-experiences-cps-teachers-and-administrators"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Around 50 percent of elementary and 40 percent of high school teachers reported meeting at least weekly in grade-level team meetings to help implement the new standards. [→ Julia A. Gwynne and Jennifer R. Cowhy with R. Steven Quispe 2018](#julia-a-gwynne-and-jennifer-r-cowhy-with-r-steven-quispe-2018)

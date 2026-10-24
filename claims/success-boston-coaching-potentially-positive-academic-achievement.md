@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2020
 sources:
   - id: what-works-clearinghouse-2020
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/708"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the two studies, the outcome average improvement index on cumulative GPA was +4, but the effect was statistically significant in only one of the two studies. [→ What Works Clearinghouse 2020](#what-works-clearinghouse-2020)

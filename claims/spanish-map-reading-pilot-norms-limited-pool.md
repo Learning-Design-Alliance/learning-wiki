@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: nwea-2021
     resource: "https://www.nwea.org/research/publication/spanish-map-growth-reading-technical-report/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The pilot user norms, released with the July 2019 Spanish MAP Growth Reading test, are drawn from a limited pool of test events and are not nationally representative, providing only basic contextual information about fall and spring performance and growth. [→ NWEA 2021](#nwea-2021)

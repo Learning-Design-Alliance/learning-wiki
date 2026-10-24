@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: mixed
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: kim-m-mitchell-2023
     resource: "https://doi.org/10.1007/s10648-023-09798-2"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Most pretest–posttest studies found statistically significant improvement in writing self-efficacy across a single term of study. [→ Kim M. Mitchell 2023](#kim-m-mitchell-2023)

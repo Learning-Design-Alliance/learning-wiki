@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: tanja-fritz-2023
     resource: "https://doi.org/10.1007/s10648-023-09753-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Egger's Regression, Begg's Rank Correlation, and Tests of Excess Significance found no indication of publication bias. [→ Tanja Fritz 2023](#tanja-fritz-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-17
 sources:
   - id: dowdall-2020
     resource: "https://doi.org/10.1111/cdev.13225"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Medium-to-high intensity interventions (>60 minutes) showed a significant expressive-language effect (d=0.54) while low-intensity interventions did not (d=0.19, non-significant); the dose contrast itself showed weak evidence (p=0.07) for expressive language. [→ Dowdall 2020](#dowdall-2020)

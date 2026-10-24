@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: huber-2024
     resource: "https://doi.org/10.1007/s10648-024-09868-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Barriers to educational games span a socio-cultural dimension (social rejection of games), an educational dimension (limited accessibility to educational games), and a technological dimension (limited accessibility to technology and high development costs). [→ Huber 2024](#huber-2024)

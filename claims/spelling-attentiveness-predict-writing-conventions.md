@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: kim-2013
     resource: "https://doi.org/10.1016/j.ecresq.2013.01.001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children's spelling was uniquely related to the writing conventions dimension of written composition (p < .001) after accounting for all other variables in the model. [→ Kim 2013](#kim-2013)

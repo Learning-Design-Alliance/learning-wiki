@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 1995
 sources:
   - id: moust-1995
     resource: "https://link.springer.com/journal/11251"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In both units, staff tutors exhibited more authoritarian behavior than student tutors, though the authors note the differences are smaller than some would expect. [→ Moust 1995](#moust-1995)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: allensworth-2005
     resource: "https://consortium.uchicago.edu/publications/track-indicator-predictor-high-school-graduation"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The more credits students earn freshman year, the more likely they are to graduate in four years; more than 70 percent of students earning six credits graduated and 85 percent of those earning seven or more. [→ Allensworth 2005](#allensworth-2005)

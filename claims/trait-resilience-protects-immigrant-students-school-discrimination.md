@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: van-viersen-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102254"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Trait resilience promoted academic performance for both immigrant and non-immigrant students and mitigated the negative effect of school discrimination among first- and second-generation immigrant students. [→ van Viersen 2026](#van-viersen-2026)

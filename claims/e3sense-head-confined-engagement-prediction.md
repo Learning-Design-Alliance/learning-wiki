@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
+recheck_by: 2029
 sources:
   - id: sidharth-anupkrishnan-2026
     resource: "https://doi.org/10.48550/arxiv.2609.26569"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` AdaBoost on the fused 166-dimensional head-confined representation achieved 75.0%±7.0 balanced 1-off accuracy and 1.043±0.158 macro-MAE on 15 held-out forehead participants, exceeding the sensor-free mode baseline (63.0%) by 12.0 percentage points; comparisons are descriptive. [→ Sidharth Anupkrishnan 2026](#sidharth-anupkrishnan-2026)

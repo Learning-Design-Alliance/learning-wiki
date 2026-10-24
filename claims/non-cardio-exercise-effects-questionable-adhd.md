@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: den-heijer-2017
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Tai chi practice produced both acute and chronic behavioral effects: less anxiety, improved conduct, less daydreaming, less inappropriate emotions, and less hyperactivity, with asocial behavior unchanged. [→ Den Heijer 2017](#den-heijer-2017)

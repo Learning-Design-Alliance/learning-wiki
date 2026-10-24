@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/723"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q4`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The WWC found indeterminate effects of Project QUEST on medium-term earnings (improvement index +7), long-term earnings (+4), and short-term earnings (+4), none statistically significant. [→ Project QUEST (Quality Employment through Skills Training) Intervention Report | Postsecondary Career and Technical Education Topic Area 2021](#project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021)

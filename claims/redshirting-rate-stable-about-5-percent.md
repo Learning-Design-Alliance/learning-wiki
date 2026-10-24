@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: kindergarten-redshirting-what-families-should-know-2026
     resource: "https://www.nwea.org/research/publication/kindergarten-redshirting-what-families-should-know/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Redshirting has stayed at about 5% of kindergarteners on average each year, comparable to rates of 5–7% in the 1990s and 2010s, despite rising rhetoric. [→ Kindergarten redshirting: What families should know 2026](#kindergarten-redshirting-what-families-should-know-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wang-w-and-zhang-q-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1848291"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Hardiness correlates most strongly with reduced academic accomplishment (r = −0.631, p < 0.001). [→ Wang W and Zhang Q 2026](#wang-w-and-zhang-q-2026)

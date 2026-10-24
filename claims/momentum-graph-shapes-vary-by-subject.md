@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: steven-s-christensen-jonathan-s-spackman-2016
     resource: "https://doi.org/10.9743/jeo.2017.14.2.7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Subject-level breakdowns show, for example, 75.0% of math courses with convex slope shape and 0.0% with steep wall, while 63.6% of political science courses showed steep wall shape. [→ Steven S. Christensen & Jonathan S. Spackman 2016](#steven-s-christensen-jonathan-s-spackman-2016)

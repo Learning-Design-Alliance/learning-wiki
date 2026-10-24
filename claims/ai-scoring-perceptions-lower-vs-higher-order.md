@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yildirim-erbasli-2026
     resource: "https://doi.org/10.3390/bs16071196"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Most participants agreed AI scoring accurately grades grammar and mechanics (73 vs. 20) and organization and clarity (63 vs. 30), but few agreed it fairly evaluates diverse writing styles (27 vs. 66) or accurately assesses complex or creative writing (31 vs. 62). [→ Yildirim-Erbasli 2026](#yildirim-erbasli-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: actsat-test-preparation-and-coaching-programs-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/664"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2` · `i0` negligible
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` In a comparison of 64,567 students who retook the ACT, students self-reporting a test preparation course did not differ significantly from students reporting no test preparation on ACT composite scores (effect size 0.02, improvement index +1). [→ ACT/SAT Test Preparation and Coaching Programs 2016](#actsat-test-preparation-and-coaching-programs-2016)

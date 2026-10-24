@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: van-dijk-2020
     resource: "https://doi.org/10.3390/jintelligence8040037"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The overall MANOVA returned a significant interaction effect between condition and selective attention on the combined creativity measures. [→ van Dijk 2020](#van-dijk-2020)

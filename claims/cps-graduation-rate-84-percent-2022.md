@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: usher-2023
     resource: "https://toandthrough.uchicago.edu/tool/cps/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Among 2018–19 first-time ninth-graders, 84.0% graduated from high school by spring 2022, an increase of over 2 percentage points from 81.8% in 2021, and the rate has steadily increased over the past decade aside from the 2021 decline. [→ Usher 2023](#usher-2023)

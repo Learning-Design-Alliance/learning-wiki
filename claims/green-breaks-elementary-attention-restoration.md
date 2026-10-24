@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2022
+source_checked: 2026-10-21
 sources:
   - id: lucia-mason-2022
     resource: "https://doi.org/10.1007/s10648-021-09631-8"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · checked against its sources 2026-10-21 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Berto et al. (2015), fourth and fifth graders showed higher CPT accuracy after a 90-minute walk in an alpine wood than after mindful silence (g = 0.44) or playing in the school courtyard (g = 1.16). [→ Lucia Mason 2022](#lucia-mason-2022)

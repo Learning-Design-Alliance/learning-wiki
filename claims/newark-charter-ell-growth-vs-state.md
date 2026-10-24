@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: city-study-2022-newark-2022
     resource: "https://credo.stanford.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i2` Newark charter school ELL students outgrew the statewide ELL average by effect sizes of 0.22 SD in reading (128 days) and 0.20 SD in math (120 days), both statistically significant. [→ City Study 2022: NEWARK 2022](#city-study-2022-newark-2022)

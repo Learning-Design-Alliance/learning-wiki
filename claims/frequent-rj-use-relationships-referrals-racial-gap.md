@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: fronius-2019
     resource: "https://eric.ed.gov/?id=ED595733"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers who implemented RJ frequently had better relationships with their students and generally issued fewer referrals. [→ Fronius 2019](#fronius-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: van-de-pol-2024
     resource: "https://doi.org/10.1007/s11409-023-09349-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Van de Pol et al. (2021b), that performance cues were most diagnostic for students' reading comprehension performance, with correlations of at least 0.40 that were significant. [→ van de Pol 2024](#van-de-pol-2024)

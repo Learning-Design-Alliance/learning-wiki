@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: elisabet-pladevall-ballester-2020
     resource: "http://dx.doi.org/10.14746/ssllt.2020.10.3.3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant three-way interaction (F(1, 72) = 4.225, p = .043) yielded significantly higher clarification requests at Time 1 (M = 4.99) than Time 2 (M = 1.41) in matched dyads and in the L1. [→ Elisabet Pladevall-Ballester 2020](#elisabet-pladevall-ballester-2020)

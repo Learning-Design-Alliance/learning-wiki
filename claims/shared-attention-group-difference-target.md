@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: maikki-pouta-2020
     resource: "https://doi.org/10.1007/s10648-020-09536-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall amounts of shared-attention attempts were similar, but student teachers' attempts occurred mostly in non-supportive episodes (73.0%) while experienced teachers' occurred mostly in supportive episodes (76.0%). [→ Maikki Pouta 2020](#maikki-pouta-2020)

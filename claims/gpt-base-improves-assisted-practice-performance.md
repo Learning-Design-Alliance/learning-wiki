@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: bastani-hamsa-2025
     resource: "https://doi.org/10.1073/pnas.2422633122"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students with GPT Base access scored 0.137 higher (out of 1) on assisted practice problems than control students, a 48% improvement over the control mean. [→ Bastani Hamsa 2025](#bastani-hamsa-2025)

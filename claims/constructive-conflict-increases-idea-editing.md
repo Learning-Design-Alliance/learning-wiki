@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: howard-ziyu-han-2026
     resource: "https://doi.org/10.48550/arxiv.2608.04166"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Stepwise Guidance participants primarily made enhancements, whereas Interactive Engagement participants made both revisions and enhancements. [→ Howard Ziyu Han 2026](#howard-ziyu-han-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: mattson-2023
     resource: "https://eric.ed.gov/?id=ED628329"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Teams that participate in the Systems Review process reportedly increase their ability to develop a shared purpose, provide direction, make decisions, and be adaptive and resilient through policy and leadership changes. [→ Mattson 2023](#mattson-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: nancy-law-2018
     resource: "https://doi.org/10.1007/s11412-018-9280-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in a history class worked in groups through three phases (game design, playing another group's game, producing a media product) using a location-based game authoring tool, with activities aligned to the national curriculum. [→ Nancy Law 2018](#nancy-law-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: voicu-2026
     resource: "https://doi.org/10.61071/jdp.2665"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students increasingly produce texts blending human and AI-generated content, often without explicit awareness of the boundary between personal reasoning and algorithmic output, raising questions of intellectual ownership and academic integrity. [→ Voicu 2026](#voicu-2026)

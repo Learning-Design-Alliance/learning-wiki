@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-19
 sources:
   - id: hertzog-c-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903298/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Training older individuals to monitor learning via self-testing and to focus restudy on unlearned items produced greater performance improvements than traditional encoding-strategy training when individuals self-paced their study. [→ Hertzog C 2011](#hertzog-c-2011)

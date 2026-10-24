@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-21
 sources:
   - id: televantou-2023
     resource: "https://doi.org/10.1007/s10648-023-09816-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Class-average mathematics achievement has a negative, statistically significant effect on mathematics self-concept in the USA, Canada (Ontario), and New Zealand, with effect sizes from -.606 to -.878. [→ Televantou 2023](#televantou-2023)
@@ -56,3 +59,4 @@ In the integrated doubly latent path model with all covariates, the BFLPE on pos
 - [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — related
 - [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related
 - [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](big-fish-little-pond-only-self-concepts-end-of-schooling.md) — related
+- [The school-level BFLPE on math self-concept is weak once class-level achievement is controlled](school-level-bflpe-weak-after-class-control.md) — related

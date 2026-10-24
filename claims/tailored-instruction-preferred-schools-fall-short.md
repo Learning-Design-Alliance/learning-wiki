@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: digital-promise-global-2019
     resource: "https://doi.org/10.51388/20.500.12265/66"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 79 percent of parents, 80 percent of the general public, and 86 percent of teachers see tailored instruction as the better way for students to learn. [→ Digital Promise Global 2019](#digital-promise-global-2019)

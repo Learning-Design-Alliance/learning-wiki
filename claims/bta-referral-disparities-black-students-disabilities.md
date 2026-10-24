@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: depaoli-2025
     resource: "https://doi.org/10.54300/808.437"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the large-scale Virginia study, male students, Black students, and students with disabilities were more likely to initially receive a threat assessment referral than their peers, even though disciplinary outcomes did not differ by race or gender. [→ DePaoli 2025](#depaoli-2025)

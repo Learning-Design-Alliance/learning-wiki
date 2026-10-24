@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: james-burdumy-2005
     resource: "https://www.mathematica.org/publications/when-schools-stay-open-late-the-national-evaluation-of-the-21st-century-community-learning-centers-program"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no difference between the treatment and control groups on homework assistance or completion. [→ James-Burdumy 2005](#james-burdumy-2005)

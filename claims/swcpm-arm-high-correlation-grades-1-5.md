@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: nwea-psychometrics-and-analytics-2024
     resource: "https://www.nwea.org/research/publication/predicting-amira-reading-mastery-based-on-nwea-map-reading-fluency-benchmark-assessment-scores/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Correlation coefficients between MAP Reading Fluency SWCPM and ARM scores range from 0.90 to 0.96 across grades 1–5 and both terms, which the authors cite as validity evidence for prediction. [→ NWEA Psychometrics and Analytics 2024](#nwea-psychometrics-and-analytics-2024)

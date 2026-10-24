@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: langman-2018
     resource: "https://www.wested.org/resources/five-misconceptions-about-school-shootings/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Research finds no accurate or useful profile of students who engaged in targeted school violence; shooters vary in age, demographics, attack type, and school connection. [→ Langman 2018](#langman-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: wei-dai-and-cecilia-ka-yuk-chan-2026
     resource: "https://doi.org/10.1186/s41239-026-00609-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students consistently rejected GenAI generating research ideas, original arguments, or whole papers, viewing such use as delegating core scholarly work to AI and violating authorship and originality norms, while accepting mechanical support such as language polishing. [→ Wei Dai and Cecilia Ka Yuk Chan 2026](#wei-dai-and-cecilia-ka-yuk-chan-2026)

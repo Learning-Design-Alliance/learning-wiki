@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yongkyung-oh-2026
     resource: "https://doi.org/10.48550/arxiv.2606.18548"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Among 91 bioscience graduate and postdoctoral trainees, reported LLM usage frequency correlates with all five pre-instruction perception outcomes after Holm correction, with the largest association for complex-task trust (ρ=.409). [→ Yongkyung Oh 2026](#yongkyung-oh-2026)

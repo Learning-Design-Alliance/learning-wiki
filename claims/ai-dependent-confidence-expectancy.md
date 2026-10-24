@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+source_checked: 2026-10-20
 sources:
   - id: expectancy-1
     title: expectancy-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Five students described confidence that appeared to depend on AI being available, reporting substantial expected drops in confidence or skill without AI. [→ expectancy-1](#expectancy-1)

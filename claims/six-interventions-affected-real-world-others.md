@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: schrijvers-2019
     resource: "https://doi.org/10.3102/0034654318812914"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the included studies, six interventions affected students’ understanding of, views on, or intended behavior toward real-world others. [→ Schrijvers 2019](#schrijvers-2019)

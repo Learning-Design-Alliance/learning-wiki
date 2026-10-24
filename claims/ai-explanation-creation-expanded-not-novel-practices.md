@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dalsgaard-2026
     resource: "https://doi.org/10.1080/15391523.2026.2695013"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In explanation and creation processes, AI merely supplements or substitutes other tools, so these practices are termed expanded or transformed rather than novel. [→ Dalsgaard 2026](#dalsgaard-2026)

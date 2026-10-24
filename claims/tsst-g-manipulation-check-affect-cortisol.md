@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: shields-grant-s-2016
     resource: "https://doi.org/10.1080/10253890.2016.1192603"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Negative affect rose in the stress group and fell in controls (Time × Condition interaction significant). [→ Shields Grant S. 2016](#shields-grant-s-2016)

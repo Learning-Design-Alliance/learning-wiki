@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: boetje-2026
     resource: "https://doi.org/10.3102/00346543251338057"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Included studies primarily assessed short-term knowledge and skills in searching and selecting information, while defining the problem, processing, and presenting information were less emphasized. [→ Boetje 2026](#boetje-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: volkow-nd-2011
     resource: "https://doi.org/10.1038/mp.2010.97"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` In ADHD participants, Positive Emotionality correlated significantly with midbrain D2/D3 receptor availability (r=0.41, p<0.005), but correlations with Negative Emotionality and Constraint were not significant. [→ Volkow ND 2011](#volkow-nd-2011)

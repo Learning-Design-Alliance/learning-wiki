@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: lorenz-weise-2024
     resource: "https://doi.org/10.1007/s11409-024-09411-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The number of wager categories in free-choice designs ranges from 3 to 100 (median 5), with 88% including fewer than 12 amounts, and 45% of free-choice designs match some other confidence or awareness instrument. [→ Lorenz Weise 2024](#lorenz-weise-2024)

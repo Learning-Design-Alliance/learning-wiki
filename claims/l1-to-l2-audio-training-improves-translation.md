@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: tetiana-zubenko-2019
     resource: "https://doi.org/10.20535/2410-8286.165717"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-hoc analysis of the Translating from Ukrainian to English sub-section showed a significant positive effect for the LWPA group (Q = 5.41, p = .000), supporting the hypothesis that L1-to-L2 training aids accurate translation. [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2002
 sources:
   - id: metropolitan-area-child-study-research-group-2002
     resource: "https://doi.org/10.1037/0022-006x.70.1.179"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Level C Condition × Community interaction found for the early intervention was replicated in the early-plus-late sample. [→ Metropolitan Area Child Study Research Group 2002](#metropolitan-area-child-study-research-group-2002)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: elaine-allensworth-and-john-q-easton-2001
     resource: "https://consortium.uchicago.edu/publications/calculating-cohort-dropout-rate-chicago-public-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cohorts defined by age are not affected by new patterns of grade retention, unlike ninth-grade-defined cohorts whose composition changed under the 1996 promotion policy. [→ Elaine Allensworth and John Q. Easton 2001](#elaine-allensworth-and-john-q-easton-2001)

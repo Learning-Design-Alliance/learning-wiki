@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: dietrichson-j-2020
     resource: "https://doi.org/10.1002/cl2.1081"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The average effect size at follow-up more than three months after intervention end was small and not statistically significant (ES = 0.05), based on only seven studies. [→ Dietrichson J 2020](#dietrichson-j-2020)

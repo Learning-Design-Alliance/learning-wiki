@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: sermier-dessemontet-2019
     resource: "https://doi.org/10.1016/j.edurev.2019.01.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Across the included studies, researcher-designed tests yielded larger effect sizes than standardized tests as outcome measures of decoding gains. [→ Sermier Dessemontet 2019](#sermier-dessemontet-2019)

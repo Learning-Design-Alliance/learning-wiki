@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: anniken-furberg-2016
     resource: "https://doi.org/10.1007/s11412-016-9229-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Excerpt 3 the teacher reformulated the assignment question by replacing the scientific terms 'evidence' and 'reference profile' with everyday concepts, enabling a student to suggest an answer, and guided the students toward relevant information and contextualisation of the experiment. [→ Anniken Furberg 2016](#anniken-furberg-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: tim-silva-2015
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TRP teachers who moved to different schools in the same district tended to join ones where a similar proportion of students were from low-income families, a lower percentage were black, and achievement was higher. [→ Tim Silva 2015](#tim-silva-2015)

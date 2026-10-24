@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: sinha-2021
     resource: "https://doi.org/10.1037/edu0000483"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Unscaffolded problem-solving before instruction gives students opportunities to entertain their exploratory hypotheses at the expense of experiencing initial failures. [→ Sinha 2021](#sinha-2021)

@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: tofel-grehl-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2409101"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · n=9 queer-identifying youth and allies, ages 10-17, 5-day/15-hour camp
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 When a STEM maker space explicitly invites participants to author identity into their design choices, queer youth can experience STEM and identity as mutually reinforcing rather than needing to compartmentalize or choose between them, and may extend that openness to questioning other imposed binary categories.
 

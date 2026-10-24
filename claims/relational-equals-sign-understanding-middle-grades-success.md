@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: haiwen-chu-2024
     resource: "https://eric.ed.gov/?id=ED671702"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Success in middle grades mathematics has been associated with relational understandings of the equals sign and flexible comparison of approaches focused on structure and relation. [→ Haiwen Chu 2024](#haiwen-chu-2024)

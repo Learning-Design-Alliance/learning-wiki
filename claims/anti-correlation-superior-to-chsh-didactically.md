@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: vongehr-2012
     resource: "https://doi.org/10.48550/arXiv.1207.5294"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that demanding anti-correlation at zero relative angle is superior to CHSH for the QRC because it connects to well-known optics and makes the classical correlation visibly insufficient. [→ Vongehr 2012](#vongehr-2012)

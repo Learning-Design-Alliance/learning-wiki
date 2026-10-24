@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2010
 sources:
   - id: stuart-luppescu-and-holly-hart-2005
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-sample-elementary-details-2005"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In top-quartile schools 39 percent of teachers report very strong teacher-principal trust and 47 percent strong trust, while a little less than half of teachers in bottom-quartile schools describe minimal or no trust. [→ Stuart Luppescu and Holly Hart 2005](#stuart-luppescu-and-holly-hart-2005)

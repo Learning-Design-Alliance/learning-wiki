@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: dechamps-2025
     resource: "https://doi.org/10.1007/s10648-025-10026-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A recent meta-analysis found drawing increases factual, inferential, and transfer knowledge, with the largest effect on factual knowledge, contrary to Van Meter and Garner's higher-level account. [→ Dechamps 2025](#dechamps-2025)

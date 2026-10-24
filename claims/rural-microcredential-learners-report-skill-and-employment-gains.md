@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: key-findings-1
     title: key-findings-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the four initiatives, the majority of learner participants reported micro-credentials yielded increased opportunity for skill development, job promotion, salary increase, credential attainment and/or enrollment in additional educational programming. [→ key-findings-1](#key-findings-1)

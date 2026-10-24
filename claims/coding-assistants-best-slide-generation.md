@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Educators rated Cursor and Claude Code as producing the most compelling slides among five GenAI tools, with Cursor rated accurate, complete, and strong in pedagogical soundness. [→ anchor-tool-assessment](#anchor-tool-assessment)

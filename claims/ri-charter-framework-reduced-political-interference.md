@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: margaret-e-raymond-2025
     resource: "https://credo.stanford.edu/reports/item/rhode-island-2025/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Officials perceived that standardized, transparent data and consistent processes reduced political interference in charter authorization and increased the system's credibility. [→ Margaret E. Raymond 2025](#margaret-e-raymond-2025)

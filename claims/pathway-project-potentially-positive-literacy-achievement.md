@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-17
 sources:
   - id: what-works-clearinghouse-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/724"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i0` negligible
+> **Currency** · newest study 2021 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i0` A randomized controlled trial meeting WWC standards without reservations shows a statistically significant positive effect on literacy achievement (effect size 0.07, improvement index +3). [→ What Works Clearinghouse 2021](#what-works-clearinghouse-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: compagnoni-2019
     resource: "https://doi.org/10.1007/s11409-019-09190-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The trait beliefs × goal orientation interaction on CBSR showed a small effect size but did not reach conventional significance (p = .11). [→ Compagnoni 2019](#compagnoni-2019)

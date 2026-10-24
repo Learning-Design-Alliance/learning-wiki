@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: cunningham-2024
     resource: "https://eric.ed.gov/?id=ED655697"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r1` · `q1`–`q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a 1st-grade math lesson, only 3 of 9 girls (33%) present participated compared to 5 of 12 boys (42%), and the teacher had been calling on fewer than half of her students, a pattern she discovered only through the EQUIP data report. [→ Cunningham 2024](#cunningham-2024)

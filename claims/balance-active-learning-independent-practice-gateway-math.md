@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: higgin-2025
     resource: "https://eric.ed.gov/?id=ED677594"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Large class sizes, standardized curricula, and limited pedagogical training constrain active learning at large four-year institutions, while asynchronous formats challenge interactive learning elsewhere; students also need productive struggle. [→ Higgin 2025](#higgin-2025)

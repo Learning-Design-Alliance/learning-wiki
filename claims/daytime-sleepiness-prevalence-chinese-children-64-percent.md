@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: li-shenghui-2013
     resource: "https://doi.org/10.1371/journal.pone.0067928"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In a national cross-sectional survey of 20,778 Chinese school-aged children, 64.44% showed daytime sleepiness (37.50% sometimes, 26.94% frequently). [→ Li Shenghui 2013](#li-shenghui-2013)

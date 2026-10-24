@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: canning-2018
     resource: "https://doi.org/10.1037/edu0000244"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among students who began with a STEM major, UV students were more likely to persist in that major (96.1% vs. 89.2%; Wald = 4.44, B = .51, p = .035). [→ Canning 2018](#canning-2018)

@@ -8,6 +8,7 @@ generated:
 id: learners-misjudge-spacing-benefits
 aliases: [learners-misjudge-spacing]
 evidence_strength: 
+newest_evidence: 2009
 sources:
   - id: kornell-bjork-2008
     resource: "https://doi.org/10.1111/j.1467-9280.2008.02127.x"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q3`
+> **Currency** · newest study 2009 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Learners systematically predict that massed practice will serve them better than spaced practice, even though spacing reliably produces stronger long-term retention — a metacognitive error that leads them to choose study schedules that undermine their own learning.
 
@@ -131,3 +133,4 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related
 - [In Experiment 1, personalized feedback after the test made students significantly more positive about interleaved studying, yet they still did not consider it more effective or desirable than blocked studying](feedback-improves-interleaved-considerations-exp1.md) — a narrower finding that bears on this claim
 - [In Experiment 1, students' prospective judgments of learning were higher for blocked studying even though actual test performance was higher for interleaved studying](jol-outcome-dissociation-interleaved-exp1.md) — a narrower finding that bears on this claim
+- [Material learned with the expectation of delayed reproduction is retained better than material learned for near-term reproduction](delayed-reproduction-expectation-improves-retention.md) — related

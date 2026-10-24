@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: darnon-2010
     resource: "https://doi.org/10.1037/a0018161"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior work cited by the article (Régner, Escribe, and Dupeyrat, 2007) demonstrated that performance-approach, performance-avoidance, and mastery goals are each related to social comparison orientation. [→ Darnon 2010](#darnon-2010)

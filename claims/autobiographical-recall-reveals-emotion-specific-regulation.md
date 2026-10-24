@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: davis-2010
     resource: "https://doi.org/10.1037/a0018428"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Strategy reports differed by emotion in Study 2 (autobiographical events) but not in Study 1 (hypothetical stories), which the authors attribute to children drawing on richer personal experience. [→ Davis 2010](#davis-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: demir-2025
     resource: "https://doi.org/10.21203/rs.3.rs-6786882/v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Paired-samples t-tests showed significant post-intervention improvement on all three subscales in the experimental group (e.g., Media Reading t = -4.894, p < .001). [→ Demir 2025](#demir-2025)

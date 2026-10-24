@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-08
+recheck_by: 2022
 sources:
   - id: matthew-johnson-2019
     resource: "https://www.mathematica.org/publications/ewing-marion-kauffman-school-year-7-impacts"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Kauffman School students showed substantial positive achievement growth in mathematics, English language arts, and science compared with similar students in other Kansas City public schools. [→ Matthew Johnson 2019](#matthew-johnson-2019)

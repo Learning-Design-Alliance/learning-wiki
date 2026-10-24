@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: inga-glogger-frey-2022
     resource: "https://doi.org/10.1007/s11251-022-09577-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` During future learning, the worked example group showed more elaboration processes than the inventing group (BF+0 = 3.608, d = .68). [→ Inga Glogger-Frey 2022](#inga-glogger-frey-2022)

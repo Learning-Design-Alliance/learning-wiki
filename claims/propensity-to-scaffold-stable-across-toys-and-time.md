@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: dave-neale-david-whitebread-2019
     resource: "https://doi.org/10.1007/s11409-019-09196-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Mothers who spent more time scaffolding at 12 and 18 months also spent more time scaffolding at 24 months, and propensity to scaffold correlated across the two toys at 12 months. [→ Dave Neale & David Whitebread 2019](#dave-neale-david-whitebread-2019)

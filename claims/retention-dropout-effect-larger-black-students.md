@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: hughes-2018
     resource: "https://doi.org/10.1037/edu0000243"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the retention x ethnicity interaction, Black students showed a larger effect of retention than White students on dropping out rather than graduating (odds ratio = 5.97, p = .041). [→ Hughes 2018](#hughes-2018)

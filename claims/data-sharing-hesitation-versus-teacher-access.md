@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students wanted their data kept private but were willing to let their own teachers access it, and wanted transparency about what data are shared, with whom, and how they are used. [→ data-students](#data-students)

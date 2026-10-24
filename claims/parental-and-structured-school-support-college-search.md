@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: melissa-roderick-2008
     resource: "https://consortium.uchicago.edu/publications/high-school-future-potholes-road-college"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 105 CPS students studied qualitatively, only a small number left high school qualified for a very selective college, completed a thorough search, and enrolled in their chosen college; these students combined family support with one-on-one adult support at school. [→ Melissa Roderick 2008](#melissa-roderick-2008)

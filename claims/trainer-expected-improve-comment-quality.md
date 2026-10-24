@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: bradley-irwin-and-theron-muller-2026
     resource: "https://doi.org/10.3390/educsci16040544"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Short, task-aligned Trainer units before giving feedback are expected to yield comments that are more numerous, specific, criterion-referenced, and evidence-based than those from peers receiving only a rubric and generic guidance. [→ Bradley Irwin and Theron Muller 2026](#bradley-irwin-and-theron-muller-2026)

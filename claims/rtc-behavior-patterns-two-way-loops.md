@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ting-chia-hsu-2021
     resource: "https://doi.org/10.1007/s11412-021-09357-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Multi-user programming on the RTC produced significant sequential behavior patterns absent from individual programming, including a two-way loop BMOΔBCC, the cycle DEL◊DCR, and more significant OI interaction followed by DCR. [→ Ting-Chia Hsu 2021](#ting-chia-hsu-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: haozhe-jiang-2025
     resource: "https://doi.org/10.1007/s10639-024-13210-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Non-immersive devices were used in 96 of the 117 reviewed studies versus 28 studies using immersive devices; smartphone/tablet-based AR was the most used device (42 studies), and AR head-mounted displays were used in only three studies. [→ Haozhe Jiang 2025](#haozhe-jiang-2025)

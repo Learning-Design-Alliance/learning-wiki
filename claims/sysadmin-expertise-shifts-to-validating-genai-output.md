@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: rana-abou-khamis-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28650"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` As GenAI handles more execution, sysadmins increasingly evaluate and correct AI-generated output rather than devise solutions, and stress that complex or high-stakes tasks still require human reasoning. [→ Rana Abou Khamis 2026](#rana-abou-khamis-2026)

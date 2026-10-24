@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: george-efthimiou-2026
     resource: "https://doi.org/10.35542/osf.io/m5erf_v1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Inductive thematic analysis of open-ended reflections coded developmental inappropriateness as the most frequent limitation (45%), followed by vagueness and repetition (32%) and implementation feasibility (23%). [→ George Efthimiou 2026](#george-efthimiou-2026)

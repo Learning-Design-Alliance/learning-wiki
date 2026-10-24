@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 1995
 sources:
   - id: peter-smagorinsky-1995
     resource: "https://doi.org/10.2307/1170682"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Every means of data elicitation embodies a culturally biased sense of telos; instruments of data elicitation are never neutral but always mediational, so choosing an assessment means already assumes it can determine learning. [→ Peter Smagorinsky 1995](#peter-smagorinsky-1995)

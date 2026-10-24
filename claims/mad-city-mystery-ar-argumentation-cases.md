@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: squire-2007
     resource: "https://doi.org/10.1007/s10956-006-9037-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In three cross-case studies (roughly 28 students total), the Mad City Mystery augmented reality curriculum was used to support learning in environmental science, and the authors argue that such games "hold potential for engaging students in meaningful scientific argumentation"; the abstract reports no measured outcome. [→ Squire 2007](#squire-2007)

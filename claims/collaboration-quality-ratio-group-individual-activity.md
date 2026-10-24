@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: gerry-stahl-2014
     resource: "https://doi.org/10.1007/s11412-014-9204-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Schneider and Pea eye-tracking study, the quality of collaboration is related to the ratio of group to individual activity. [→ Gerry Stahl 2014](#gerry-stahl-2014)

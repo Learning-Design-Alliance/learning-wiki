@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2007
+recheck_by: 2010
 sources:
   - id: gersten-2007
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Twenty-one studies demonstrated that phonological processing, letter and alphabetic knowledge, and word/text reading measures validly determine which English learners will benefit from typical classroom reading instruction and which need extra support. [→ Gersten 2007](#gersten-2007)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: greg-king-2019
     resource: "https://www.nwea.org/research/publication/a-path-to-completion-the-impacts-of-statewide-articulation-agreements-on-enrollment-and-attainment/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Over 31 million students over the last 20 years have enrolled in but not completed post-secondary education in the US, per the estimate the paper cites. [→ Greg King 2019](#greg-king-2019)

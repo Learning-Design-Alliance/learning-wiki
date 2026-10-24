@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-17
 sources:
   - id: jacobson-2011
     resource: "https://doi.org/10.1080/09297049.2010.532204"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Verbal attention/span, verbal working memory, and spatial working memory each added significant unique variance to Coding models (total R2 ranging .594-.633), while reaction time, intra-subject variability, inhibition, and naming speed did not. [→ Jacobson 2011](#jacobson-2011)

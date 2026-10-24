@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: kuo-m-2019
     title: Kuo M 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students randomly assigned to classrooms with views of greenery perform better on concentration tests than students assigned to built views or windowless classrooms. [→ Kuo M 2019](#kuo-m-2019)

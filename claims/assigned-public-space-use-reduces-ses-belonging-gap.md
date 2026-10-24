@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: bart-plange-2025
     resource: "https://doi.org/10.1007/s10648-025-10061-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the control condition higher-SES students reported more belonging than lower-SES students, but in the assigned public-space-use condition this difference was significantly reduced. [→ Bart-Plange 2025](#bart-plange-2025)

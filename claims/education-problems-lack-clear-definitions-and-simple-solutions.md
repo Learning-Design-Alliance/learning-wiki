@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: andrew-hegedus-2013
     resource: "https://www.nwea.org/research/publication/moving-from-data-to-making-a-difference/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Education problems are characterized as lacking clear definitions, having many potential causes, lacking simple solutions, and defying straightforward measurement, resembling problems in many social settings. [→ Andrew Hegedus 2013](#andrew-hegedus-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: deslauriers-l-2019
     resource: "https://doi.org/10.1073/pnas.1821936116"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In structured follow-up interviews, most students (15 of 17) found active-classroom instruction disjointed and lacking in flow compared with the fluent passive lecture. [→ Deslauriers L. 2019](#deslauriers-l-2019)

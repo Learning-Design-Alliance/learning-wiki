@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: annette-kujawski-taylor-2011
     resource: "https://doi.org/10.1177/0098628311421330"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Quiz accuracy did not differ significantly between the basic and comprehensive texts, and complexity did not interact with medium. [→ Annette Kujawski Taylor 2011](#annette-kujawski-taylor-2011)

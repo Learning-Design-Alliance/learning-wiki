@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: geary-david-c-2015
     resource: "https://doi.org/10.1016/j.jecp.2015.07.010"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Equation memory, coordinate plane PAE, and expression evaluation speed and accuracy each predicted algebra achievement in independent regressions (βs = .170 to .349) and when simultaneously entered (βs = .100 to .272). [→ Geary David C. 2015](#geary-david-c-2015)

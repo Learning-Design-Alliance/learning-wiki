@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: victor-alexandru-pădurean-2026
     resource: "https://doi.org/10.1145/3765964.3811639"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` For each reported strategy there was no significant relationship with problems solved in B2, except Writing code as prompt (r = .20, p < .05), which the authors caution should be treated cautiously as only twelve students used it. [→ Victor-Alexandru Pădurean 2026](#victor-alexandru-padurean-2026)

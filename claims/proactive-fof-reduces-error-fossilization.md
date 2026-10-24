@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: naeimeh-bakshiri-2011
     resource: "https://doi.org/10.26634/jelt.1.2.1457"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret proactive pre-selection of grammar points as preventing learners from fossilizing their own and peers' erroneous forms, unlike delayed reactive correction. [→ Naeimeh Bakshiri 2011](#naeimeh-bakshiri-2011)

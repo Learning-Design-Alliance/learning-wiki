@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: james-soland-2021
     resource: "https://doi.org/10.1186/s40536-021-00100-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Previous studies comparing threshold-setting methods typically used simulated or small-scale data, or large-scale data that was not from a CAT, used few items, or did not examine many methods. [→ James Soland 2021](#james-soland-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: dimitris-anastasiou-clare-nangsin-wirngo-pantelis-bagos-2024
     resource: "https://doi.org/10.1007/s10648-024-09877-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a secondary meta-analysis restricted to exceptional learners, the mean effect was large for low-achieving students (g = 2.019; k = 5) and moderate for high-achieving students (g = 0.610; k = 4), with no significant between-group difference. [→ Dimitris Anastasiou · Clare Nangsin Wirngo · Pantelis Bagos 2024](#dimitris-anastasiou-clare-nangsin-wirngo-pantelis-bagos-2024)

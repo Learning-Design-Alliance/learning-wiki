@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: shuanghong-shen-2021
     resource: "https://doi.org/10.48550/arxiv.2105.15106"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports a classroom experiment in which DragonBox users enjoyed the experience more but Lynnette users performed significantly better on the test. [→ Shuanghong Shen 2021](#shuanghong-shen-2021)

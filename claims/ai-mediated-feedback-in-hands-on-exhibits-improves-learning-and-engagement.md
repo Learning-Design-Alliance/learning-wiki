@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: strong
+newest_evidence: 2022
 sources:
   - id: yannier-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2022.2032071"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large · n=32 elementary-school children (median grade 2) for the learning comparison; naturalistic museum-floor logs (~13.5 hours, 104 visits) for the engagement comparison
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 A museum exhibit that adds computer-vision sensing and a real-time predict-observe-explain feedback cycle to hands-on tower-building produces substantially better concept learning and engineering transfer than the same physical materials without feedback, without reducing enjoyment, and holds visitors' voluntary attention over four times longer.
 

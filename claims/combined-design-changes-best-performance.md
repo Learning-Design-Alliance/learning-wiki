@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: jesse-chandler-2021
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The design combining the STAR link relocation and points-possible reporting performed best on all measured outcomes. [→ Jesse Chandler 2021](#jesse-chandler-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: carita-kiili-2026
     resource: "https://doi.org/10.1080/00461520.2026.2717081"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The more strongly pre-service teachers believed in learning styles, the more difficult it was for them to question the credibility of online texts containing learning-styles misinformation. [→ Carita Kiili 2026](#carita-kiili-2026)

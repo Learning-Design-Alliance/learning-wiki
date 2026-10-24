@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-17
 sources:
   - id: seet-participation
     title: seet-participation
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students from different race, gender, and linguistic backgrounds report contributing to class discussions at high levels and say their ideas influence the class. [→ seet-participation](#seet-participation)

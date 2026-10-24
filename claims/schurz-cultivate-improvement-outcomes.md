@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: uchicago-consortium-on-school-research-2026
     resource: "https://consortium.uchicago.edu/events-and-resources"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the 2024-25 school year, Schurz educators' Cultivate-focused improvement work was followed by positive student feedback, students feeling more welcomed, and out-of-school suspensions dropping to one-half of the prior year's number. [→ UChicago Consortium on School Research 2026](#uchicago-consortium-on-school-research-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: lisa-e-kim-2019
     resource: "https://doi.org/10.1007/s10648-018-9458-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` For every Big Five domain, the other-reported subgroup shows a larger pooled correlation with outcomes than the self-reported subgroup (e.g., extraversion: other-reported r = 0.37 vs self-reported r = 0.09). [→ Lisa E. Kim 2019](#lisa-e-kim-2019)
@@ -49,3 +52,4 @@ Source-of-report moderator analysis in Table 2 of the meta-analysis: for extrave
 - [A prior meta-analysis found only a small teacher personality–effectiveness relationship (r = .08), attributed to treating personality as unidimensional and pooling effectiveness measures](prior-teacher-personality-meta-analysis-small-effect.md) — related
 - [Teacher Big Five domains show their largest associations with burnout for emotional stability and conscientiousness, but none of the burnout effects are statistically significant](teacher-personality-burnout-null-findings.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
+- [Student-reports of teacher personality predict subjective teacher-effectiveness measures more strongly than teacher self-reports](student-reports-beat-self-reports-teacher-personality.md) — possibly the same claim (merge candidate)

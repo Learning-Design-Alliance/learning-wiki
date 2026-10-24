@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: ismail-şan-and-hanife-gülhan-orhan-karsak-2026
     resource: "https://doi.org/10.1186/s41239-026-00621-w"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across 65 canonical codes and 1376 responses, no governance-related concept appears in any form — an absence the authors call a structural zero rather than a low-frequency result. [→ İsmail Şan and Hanife Gülhan Orhan Karsak 2026](#ismail-san-and-hanife-gulhan-orhan-karsak-2026)

@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: clark-et-al-2024
     resource: "https://doi.org/10.1080/10508406.2024.2397762"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=43 pre-service teachers (28 in course version 1, 15 in version 2)
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Pre-service teachers move toward more "informed designer" stances — treating problems of practice as reframable, systemic, and stakeholder-centered rather than fixed and routine — when a design-focused course explicitly teaches problem reframing and stakeholder inquiry, and this shift is associated with teachers proposing more systemic and equity-oriented classroom interventions.
 

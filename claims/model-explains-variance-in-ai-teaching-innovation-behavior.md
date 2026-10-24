@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bai-x-and-hsieh-t-s-2026
     title: Bai X and Hsieh T-S 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Predictors explained 62.50% of variance in AI-TIB, 29.60% in AIL, 46.00% in TSE, and 39.80% in PI; all Q2 values exceeded zero, SRMR was 0.027, and NFI was 0.898. [→ Bai X and Hsieh T-S 2026](#bai-x-and-hsieh-t-s-2026)

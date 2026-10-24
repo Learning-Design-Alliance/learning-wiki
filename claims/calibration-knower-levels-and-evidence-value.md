@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: negen-2011
     resource: "https://doi.org/10.3758/s13428-011-0134-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bayesian inference on the calibration data (423 sessions) inferred 9 0-knowers, 48 1-knowers, 50 2-knowers, 53 3-knowers, 67 4-knowers, and 196 CP-knowers, with an evidence value v of 16.94 (SD = 0.69). [→ Negen 2011](#negen-2011)

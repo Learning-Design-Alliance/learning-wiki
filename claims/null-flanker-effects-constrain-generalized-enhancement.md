@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: david-moreau-2026
     resource: "https://doi.org/10.1007/s10648-026-10150-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Brief, light-to-moderate classroom-feasible exercise did not robustly alter domain-general inhibition, suggesting exercise benefits are selective and contingent rather than generalized. [→ David Moreau 2026](#david-moreau-2026)

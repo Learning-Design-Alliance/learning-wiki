@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: sun-dl-2015
     title: Sun DL 2015
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The correlation between a student's perceived benefit of peer assessment and their estimated actual benefit was virtually zero (r = .01). [→ Sun DL 2015](#sun-dl-2015)

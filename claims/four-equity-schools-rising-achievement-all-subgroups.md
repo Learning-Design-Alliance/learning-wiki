@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: equity-focused-schools-carry-all-students-to-high-levels-2014
     resource: "https://eric.ed.gov/?id=ED559627"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The four selected schools served 46 to 80 percent low-income students and showed rising achievement for 5 to 10 years across disaggregated subgroups. [→ Equity-focused Schools Carry All Students to High Levels 2014](#equity-focused-schools-carry-all-students-to-high-levels-2014)

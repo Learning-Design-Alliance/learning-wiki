@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: schuster-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.04.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Employing technology to support and deliver WIL can remove geographical barriers, enabling rural (regional) and external students to engage in WIL-based activities. [→ Schuster 2017](#schuster-2017)

@@ -8,6 +8,7 @@ generated:
 id: spaced-practice-improves-retention
 aliases: [spaced-practice-improves-long-term-retention, spacing-improves-long-term-retention, spacing-improves-retention, distributed-practice-improves-retention, spacing-effect-robust-verbal-recall, spaced-repetition-improves-retention]
 evidence_strength:
+newest_evidence: 2022
 sources:
   - id: cepeda-et-al-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
@@ -60,6 +61,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 3 quant-synthesis `r?`, 2 causal `r2` · `q3`–`q4` · `i2`–`i3`
+> **Currency** · newest study 2022 · 3 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 Practicing or reviewing material across multiple sessions separated in time produces stronger long-term retention than concentrating the same amount of practice into a single session (massed practice).
 
@@ -353,3 +355,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related
 - [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](spaced-practice-optimal-gaps-between-presentations.md) — a narrower finding that bears on this claim
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
+- [Material learned with the expectation of delayed reproduction is retained better than material learned for near-term reproduction](delayed-reproduction-expectation-improves-retention.md) — related

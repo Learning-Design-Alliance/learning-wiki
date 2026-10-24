@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: carolyn-p-rosé-sanna-järvelä-2020
     resource: "https://doi.org/10.1007/s11412-020-09329-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` According to the editorial, the article by Jiang and Kahn found that teachers scaffold students' collaborative sensemaking with interactive data visualization tools through collaborative discourse, reasoning alongside students as they construct narratives of the data. [→ Carolyn P. Rosé & Sanna Järvelä 2020](#carolyn-p-rose-sanna-jarvela-2020)

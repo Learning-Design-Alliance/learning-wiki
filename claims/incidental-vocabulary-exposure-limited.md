@@ -8,6 +8,7 @@ generated:
 id: incidental-vocabulary-exposure-limited
 aliases: [incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure, incidental-word-learning-while-reading-about-15-percent]
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: swanborn-de-glopper-1999
     resource: "https://doi.org/10.3102/00346543069003261"
@@ -50,6 +51,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 3 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3` · `i2`–`i3`
+> **Currency** · newest study 2023 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 <!-- title before 2026-10-15: Incidental Vocabulary Exposure Limited -->
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: e-d-jennings-1911
     resource: "https://eric.ed.gov/?q=elimination+of+freshmen+from+the+university+of+texas"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among questionnaire respondents grouped by first-ranked elimination cause, the money group studied most and the tired-of-school group least, with low-grade students next to bottom in study time. [→ E. D. Jennings 1911](#e-d-jennings-1911)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-22
 sources:
   - id: melina-klepsch-2020
     resource: "https://doi.org/10.1007/s11251-020-09502-9"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the clutch study, both groups reached similar performance levels despite the GCL difference. [→ Melina Klepsch 2020](#melina-klepsch-2020)

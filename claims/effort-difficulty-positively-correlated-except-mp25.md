@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: katrin-schuessler-2026
     resource: "https://doi.org/10.1007/s10648-025-10105-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Invested mental effort and perceived task difficulty correlate positively at all measuring points (r = .10 to .38) except measuring point 5 in the second worked example. [→ Katrin Schuessler 2026](#katrin-schuessler-2026)

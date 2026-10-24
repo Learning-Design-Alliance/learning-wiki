@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: gu-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100784"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 36 studies reviewed, applying specific training programs and techniques effectively fosters creativity in formal schooling settings. [→ Gu 2026](#gu-2026)

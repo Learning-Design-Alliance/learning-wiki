@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: anmarkrud-2022
     resource: "https://doi.org/10.1007/s10648-021-09640-7"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q2`–`q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Two of five studies found a statistically significant relationship between working memory and sourcing. [→ Anmarkrud 2022](#anmarkrud-2022)

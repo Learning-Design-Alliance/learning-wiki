@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: gardiner-paul-2020
     resource: "https://doi.org/10.1016/j.tsc.2020.100749"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups outperform individuals when asked to devise creative solutions to real-world complex problems, and diverse groups are more creative than homogeneous teams. [→ Gardiner Paul 2020](#gardiner-paul-2020)

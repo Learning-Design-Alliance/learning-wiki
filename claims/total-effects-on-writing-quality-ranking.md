@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-24
 sources:
   - id: kim-young-suk-grace-2017
     resource: "https://doi.org/10.1037/edu0000129"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Total effects (direct plus indirect) on writing quality ranked: discourse-level oral language (.46), working memory (.43), spelling (.37), vocabulary (.19), handwriting (.17), theory of mind (.12), inference (.10), grammatical knowledge (.10). [→ Kim Young-Suk Grace 2017](#kim-young-suk-grace-2017)

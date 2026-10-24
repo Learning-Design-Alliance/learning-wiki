@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Institutional support has a strong, statistically significant positive effect on teacher confidence in adopting AI (V = 0.537, p < 0.001), with the model explaining 47.6% of variance in confidence. [→ mmr-model1](#mmr-model1)

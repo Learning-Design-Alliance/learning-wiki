@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: sunae-kim-2025
     resource: "https://doi.org/10.1007/s11409-025-09444-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants were less likely to opt out on correct than on incorrect trials in Experiment 2. [→ Sunae Kim 2025](#sunae-kim-2025)

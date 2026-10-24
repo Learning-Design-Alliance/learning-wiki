@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-19
 sources:
   - id: janneke-van-de-pol-2021
     resource: "https://doi.org/10.1007/s11409-021-09268-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The hypothesized relation between monitoring accuracy and regulation accuracy (H3.1) was supported for both relative and absolute accuracy, with an indirect effect of condition via monitoring accuracy. [→ Janneke van de Pol 2021](#janneke-van-de-pol-2021)

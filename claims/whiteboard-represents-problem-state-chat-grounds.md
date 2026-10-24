@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: pierre-dillenbourg-2006
     resource: "https://doi.org/10.1207/s15327809jls1501_9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The whiteboard is primarily used to represent the state of problem solving and the chat is used for grounding information created on the whiteboard, rather than the whiteboard disambiguating chat utterances. [→ Pierre Dillenbourg 2006](#pierre-dillenbourg-2006)

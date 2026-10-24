@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: lewis-m-terman-and-clara-harbison-town-1917
     resource: "https://www.jstor.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Applying a well planned and well written Binet guide is within the power of the average teacher or school principal, as with pedagogical tests such as those of Courtis, Ayres and Thorndike. [→ Lewis M. Terman and Clara Harbison Town 1917](#lewis-m-terman-and-clara-harbison-town-1917)

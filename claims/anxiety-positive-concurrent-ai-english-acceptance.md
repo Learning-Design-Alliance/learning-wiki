@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: wu-j-2026
     title: Wu J 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Anxiety was positively associated with each acceptance outcome in separate adjusted models (all p < 0.001), an exploratory concurrent pattern the authors caution should not be interpreted as anxiety being beneficial. [→ Wu J 2026](#wu-j-2026)

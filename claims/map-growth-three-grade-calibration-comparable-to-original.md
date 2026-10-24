@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2024
 sources:
   - id: wei-he-2021
     resource: "https://www.nwea.org/research/publication/an-investigation-of-item-parameter-invariance-using-focused-calibration-samples-for-map-growth/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In Study 2 (Grades 4–7), the report says differences between three-grade and original estimates are "in general" no different from on-grade versus original differences; mean three-grade-minus-original differences ranged from −0.11 logit (Grade 5 math) to 0.01, and the 0.05 logit the report calls the largest average difference is the largest gap between the two columns (Grade 7 math). [→ Wei He 2021](#wei-he-2021)

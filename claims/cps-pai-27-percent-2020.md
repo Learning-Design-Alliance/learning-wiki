@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: malone-2021
     resource: "http://toandthrough.uchicago.edu/tool/cps/hs"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` If current rates hold, 27 percent of current CPS ninth-graders would complete a college credential within 10 years, though nearly 75 percent of ninth-graders aspire to at least an associate degree. [→ Malone 2021](#malone-2021)

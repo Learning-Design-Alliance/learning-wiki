@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: teresa-m-ober-2026
     resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/1008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-14: Disciplinary variation emerged in communication assessment, with STEM teachers emphasizing technical precision and humanities teachers audience adaptation -->
 

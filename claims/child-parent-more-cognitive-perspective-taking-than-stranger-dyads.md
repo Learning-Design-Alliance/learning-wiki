@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: bai-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102286"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Child-parent dyads manifested more Listen/understand and Extend/revise behaviors than child-stranger dyads without control variables, but this effect became insignificant when Utterance number and Inviting behavior were controlled. [→ Bai 2026](#bai-2026)

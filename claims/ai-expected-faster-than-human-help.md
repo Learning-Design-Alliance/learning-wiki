@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sunny-yu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.23177"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants predicted AI assistance to reduce completion times by 68.5 seconds, a speedup expectation significantly greater than for another participant, and preferred AI assistance. [→ Sunny Yu 2026](#sunny-yu-2026)

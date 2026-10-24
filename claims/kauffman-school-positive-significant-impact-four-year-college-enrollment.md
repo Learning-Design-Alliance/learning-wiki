@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: matthew-johnson-2021
     resource: "https://www.mathematica.org/publications/ewing-marion-kauffman-school-year-9-impacts"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Kauffman School has a positive and statistically significant impact on enrollment in four-year colleges that is large enough to close the enrollment-rate gap for Black high school seniors in Missouri. [→ Matthew Johnson 2021](#matthew-johnson-2021)

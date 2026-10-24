@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ye-2026
     resource: "https://doi.org/10.1186/s41239-026-00606-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For ARPG+, extraneous load declines 64% (5.8 to 2.1) while germane load rises from 2.3 to 6.8, and total load descends from 9.95 to 7.05 (29% reduction). [→ Ye 2026](#ye-2026)

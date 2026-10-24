@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: buttelmann-f-and-karbach-j-2017
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Four sessions of task-switching training improved performance in an untrained switching task, inhibition, verbal and visuo-spatial working memory, and fluid intelligence in 8- to 10-year-olds compared to single-task training controls. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)

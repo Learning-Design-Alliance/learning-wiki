@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: peter-seban-2025
     resource: "https://doi.org/10.1007/s11251-024-09686-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the one-week delayed test, the MTR group differed significantly from the 1R control group (p < 0.001) and the RR group also differed significantly from controls (p = 0.039). [→ Peter Seban 2025](#peter-seban-2025)

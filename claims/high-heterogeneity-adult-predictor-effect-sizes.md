@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-18
 sources:
   - id: tighe-2016
     resource: "https://doi.org/10.1177/0022219414555415"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Statistically significant Q statistics emerged for all predictors except morphological awareness and working memory, and I² values ranged from 50.26% to 95.45%, with most predictors showing high heterogeneity. [→ Tighe 2016](#tighe-2016)

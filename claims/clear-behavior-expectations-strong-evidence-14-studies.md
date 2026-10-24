@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2024
+source_checked: 2026-10-18
 sources:
   - id: lane-2024
     resource: "https://ies.ed.gov/ncee/WWC/PracticeGuide/31"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards -->
 
 ## Subclaims

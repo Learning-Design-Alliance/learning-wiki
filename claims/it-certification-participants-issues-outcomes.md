@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2004
+recheck_by: 2007
 sources:
   - id: joshua-haimson-2004
     resource: "https://www.mathematica.org/publications/developing-the-it-workforce-certification-programs-participants-and-outcomes-in-high-schools-and-twoyear-colleges"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The report examines the mix of students participating, the issues programs face, and the extent to which students secure certifications and achieve other outcomes. [→ Joshua Haimson 2004](#joshua-haimson-2004)

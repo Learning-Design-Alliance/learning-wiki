@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: joni-lämsä-2026
     resource: "https://doi.org/10.1007/s10648-025-10113-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A systematic review of 80 empirical studies distinguished two waves of motivation research: situation-specific measures (n = 62) and dynamic moment-to-moment measures (n = 18). [→ Joni Lämsä 2026](#joni-lamsa-2026)

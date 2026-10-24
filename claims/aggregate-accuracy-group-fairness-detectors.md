@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: victor-angelier-2026
     resource: "https://doi.org/10.1007/s43681-026-01376-w"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` GPTZero achieved 97.22% aggregate accuracy on scholarly abstracts while its over-detection rate in the AI-assisted readability condition was 25% for non-native-authored abstracts versus 11% for native-authored abstracts. [→ Victor Angelier 2026](#victor-angelier-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: dropout-prevention-intervention-report-check-connect-2015
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/78"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In the 2005 RCT, there was no statistically significant or substantively important effect on on-time high school completion (ES = 0.03, improvement index +1). [→ Dropout Prevention intervention report: Check & Connect 2015](#dropout-prevention-intervention-report-check-connect-2015)

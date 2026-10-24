@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: shuanghong-shen-2021
     resource: "https://doi.org/10.48550/arxiv.2105.15106"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review reports experimental results indicating DKT performs better with binarized engagement covariates such as playback speed, pausing and video completion. [→ Shuanghong Shen 2021](#shuanghong-shen-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: melnick-2024
     resource: "https://learningpolicyinstitute.org/product/progressing-toward-universal-prekindergarten-california"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When subsidized child care enrollment is added to TK, CSPP, and Head Start, the share of 4-year-olds in publicly funded programs rose from about 37% in 2019–20 to 55% in 2023–24. [→ Melnick 2024](#melnick-2024)

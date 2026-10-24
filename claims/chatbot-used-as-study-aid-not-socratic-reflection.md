@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: hilliger-2026
     resource: "https://doi.org/10.18608/jla.2026.9143"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite its Socratic design, students in the third cycle mainly used the chatbot to answer questions in line with their individual study habits, including collaborative study sessions and targeted queries about text details. [→ Hilliger 2026](#hilliger-2026)

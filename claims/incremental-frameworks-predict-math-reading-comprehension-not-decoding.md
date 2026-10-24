@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: gunderson-2018
     resource: "https://doi.org/10.1037/dev0000444"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Incremental motivational frameworks predicted 4th grade math achievement (r(48) = .49, p < .001) and reading comprehension (r(48) = .32, p = .02), but not reading decoding (r(48) = .19, p = .19). [→ Gunderson 2018](#gunderson-2018)

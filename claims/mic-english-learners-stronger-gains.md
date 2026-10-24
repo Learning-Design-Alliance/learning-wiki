@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: perry-2019
     resource: "https://eric.ed.gov/?id=ED601900"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Annual percentage gains for English learners exceeded the statewide gain in all MiC districts except Elk Grove in 2016–2017, even though achievement levels for many districts stayed at level 1 across multiple years. [→ Perry 2019](#perry-2019)

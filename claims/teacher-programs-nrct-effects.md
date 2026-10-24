@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: joanne-r-beames-2023
     resource: "https://doi.org/10.1007/s10648-023-09720-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In nRCTs, controlled post-intervention effects were significant and moderate for stress (g=0.50) and small for anxiety (g=0.38) and wellbeing (g=0.38). [→ Joanne R. Beames 2023](#joanne-r-beames-2023)

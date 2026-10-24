@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: bo-yang-2024
     resource: "https://doi.org/10.1007/s11412-024-09426-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Tacit knowledge (self-disclosed experiences and personal opinions) accounted for the majority of danmaku knowledge sharing, while explicit math knowledge was mainly shared on the discussion board. [→ Bo Yang 2024](#bo-yang-2024)

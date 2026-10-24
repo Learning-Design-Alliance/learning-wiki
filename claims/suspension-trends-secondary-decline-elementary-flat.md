@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-17
+recheck_by: 2025
 sources:
   - id: losen-2020
     resource: "https://eric.ed.gov/?id=ED608537"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The Black secondary student suspension risk declined 6 percentage points since 2009-10, versus -5.4 for Latinx and -2.5 for White students, while elementary rates rose by less than half a percentage point. [→ Losen 2020](#losen-2020)

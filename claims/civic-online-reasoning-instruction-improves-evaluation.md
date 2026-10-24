@@ -8,6 +8,7 @@ generated:
 id: civic-online-reasoning-instruction-improves-evaluation
 aliases: [lateral-reading-improves-source-evaluation]
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: wineburg-et-al-2022
     resource: "https://doi.org/10.1037/edu0000740"
@@ -42,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 causal `r2` · `q2`–`q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Explicit instruction in evaluating online information — including lateral reading, source checking, and attention to evidence — improves learners' ability to judge the credibility of web content.
 

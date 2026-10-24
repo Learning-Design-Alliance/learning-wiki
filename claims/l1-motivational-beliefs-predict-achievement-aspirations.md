@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: david-w-putwain-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102365"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reporting higher expectancy and utility value, and lower effort cost, than classmates showed higher achievement and aspirations two weeks later beyond prior levels, with mainly large effect sizes; the effort-cost-to-achievement relation was moderate and negative. [→ David W. Putwain 2026](#david-w-putwain-2026)

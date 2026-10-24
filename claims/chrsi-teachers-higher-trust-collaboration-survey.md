@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: stevens-2006
     resource: "https://consortium.uchicago.edu/publications/professional-communities-and-instructional-improvement-practices-study-small-high"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On survey measures, CHSRI teachers had statistically significantly higher perceptions of trust and collaboration between colleagues than non-CHSRI teachers, and were more likely to discuss instruction and share commitment to school improvement. [→ Stevens 2006](#stevens-2006)

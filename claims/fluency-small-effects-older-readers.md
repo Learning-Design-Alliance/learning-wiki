@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: roberts-2008
     resource: "https://doi.org/10.1111/j.1540-5826.2008.00264.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Scammacca et al. (2007) review found fluency interventions had a very small effect on reading rate and accuracy (g = .26) and virtually no effect on standardized comprehension (g = −.07). [→ Roberts 2008](#roberts-2008)

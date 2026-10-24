@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dicke-2026
     resource: "https://doi.org/10.1007/s10648-026-10216-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 811 effect sizes from 186 articles, teacher well-being is positively associated with student motivation and achievement with a pooled r = .18, a small-to-moderate association. [→ Dicke 2026](#dicke-2026)

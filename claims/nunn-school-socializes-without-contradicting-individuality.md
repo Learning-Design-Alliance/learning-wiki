@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: new-publications-1921
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The reviewer reports that Nunn marshals experimental findings and current opinion to support the theory that the school's main function is to socialize its pupils, while arguing in a final chapter that this in no wise contradicts the aim of cultivating individuality. [→ New Publications 1921](#new-publications-1921)

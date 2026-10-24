@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: piya-amornphan-n-2020
     resource: "https://doi.org/10.1186/s12887-020-2017-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Across all 1447 participants aged 6–17, active play was associated with time with family and peers (r = 0.485, p < 0.001), the highest association among the physical activity indicators. [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)

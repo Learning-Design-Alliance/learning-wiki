@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: elaine-m-allensworth-shazia-rafiullah-miller-2002
     resource: "https://consortium.uchicago.edu/publications/declining-high-school-enrollment-exploration-causes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among students off schedule before age 15, about 43 percent of the 1991-92 cohorts were still off schedule at 17, versus about 38 percent of the 1993-94 cohorts, suggesting gate-related delays were easier to recover from than course-failure delays. [→ Elaine M. Allensworth & Shazia Rafiullah Miller 2002](#elaine-m-allensworth-shazia-rafiullah-miller-2002)

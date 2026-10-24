@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: feng-2023
     resource: "https://osf.io/exqpn"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students who used ASSISTments in grade 7 scored 0.8 points higher on the grade 8 EOG math test than comparison students (Hedges' g = 0.10, p = 0.011), one year after the intervention ended. [→ Feng 2023](#feng-2023)

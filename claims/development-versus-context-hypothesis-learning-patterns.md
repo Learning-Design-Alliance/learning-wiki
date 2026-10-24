@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: vermunt-2004
     resource: "https://dspacelibrary.uu.nl/handle/1874/11958"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within one type of education, learning components become more differentiated and interrelated as students progress; entering a new type of education produces a disorganized factor pattern explained by the context hypothesis. [→ Vermunt 2004](#vermunt-2004)

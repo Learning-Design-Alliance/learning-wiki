@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: plasencia-2024
     resource: "https://doi.org/10.54300/639.507"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research on universal PreK suggests school-based PreK classrooms tend to be about as diverse as first-grade classrooms in the same state, whereas Black and Latino/a children in means-tested programs are less likely to interact with children from other racial backgrounds. [→ Plasencia 2024](#plasencia-2024)

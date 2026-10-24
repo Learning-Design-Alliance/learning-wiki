@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: writing-improves-mathematical-understanding
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: graham-et-al-2020
     resource: "https://doi.org/10.3102/0034654320914744"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=56 experiments
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Writing Improves Mathematical Understanding -->
 

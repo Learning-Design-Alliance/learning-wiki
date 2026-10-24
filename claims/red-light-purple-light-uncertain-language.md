@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: what-works-clearinghouse-2022
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/725"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The language domain finding was not statistically significant, based on one study meeting WWC standards. [→ What Works Clearinghouse 2022](#what-works-clearinghouse-2022)

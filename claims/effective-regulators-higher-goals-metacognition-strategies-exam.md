@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: anneke-vrugt-frans-j-oort-2008
     resource: "https://doi.org/10.1007/s11409-008-9022-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with high effort investment (N=421) scored significantly higher than low-effort students (N=383) on all three achievement goals, metacognition, all study strategies and exam scores (M=27.75 vs 24.92), while mean intellectual ability did not differ (p=0.279). [→ Anneke Vrugt & Frans J. Oort 2008](#anneke-vrugt-frans-j-oort-2008)

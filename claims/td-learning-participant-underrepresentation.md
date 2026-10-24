@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: weiwei-liu-2025
     resource: "https://doi.org/10.1016/j.edurev.2025.100747"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 36 reviewed studies, 32 (88.9%) examined student experiences, while only seven (19.4%) included all three participant categories. [→ Weiwei Liu 2025](#weiwei-liu-2025)

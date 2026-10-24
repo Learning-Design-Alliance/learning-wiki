@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: arthur-wwc-intervention-report-2006
     resource: "http://pbskids.org/arthur/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the one study meeting WWC evidence standards, 51 children were assigned to watch Arthur and 57 to watch Between the Lions, three 30-minute episodes per week from October to May, with teachers directed not to use follow-up activities. [→ Arthur (WWC Intervention Report) 2006](#arthur-wwc-intervention-report-2006)

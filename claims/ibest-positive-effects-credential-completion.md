@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2020
 sources:
   - id: cred-1
     title: cred-1
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across three studies meeting WWC standards (44,367 students), I-BEST increased industry-recognized credential, certificate, or license completion, with an average effect size of 0.48 and improvement index of +18. [→ cred-1](#cred-1)

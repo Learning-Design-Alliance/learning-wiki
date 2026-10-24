@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the MTA, despite improved disruptive and prosocial behaviors after 14 months of intensive behavioral management and/or medication, children with ADHD did not improve in peer rejection and friendlessness by sociometric nomination. [→ Mikami 2015](#mikami-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-10
 sources:
   - id: read-naturally-updated-july-2013-wwc-intervention-report-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/407"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized controlled trial of 106 third-grade students, the Read Naturally® group outperformed the comparison group on DIBELS CBM-R passages and GORT-4 Fluency and Accuracy subtests (average improvement index +14, statistically significant). [→ Read Naturally® Updated July 2013 — WWC Intervention Report 2013](#read-naturally-updated-july-2013-wwc-intervention-report-2013)

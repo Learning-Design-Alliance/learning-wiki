@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: mccarthy-2020
     resource: "https://eric.ed.gov/?id=ED613373"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` APTT attendees agreed much more strongly than non-attendees that the preschool provided information on kindergarten preparation; multilingual-home parents agreed much more strongly that APTT helped prepare their child. [→ McCarthy 2020](#mccarthy-2020)

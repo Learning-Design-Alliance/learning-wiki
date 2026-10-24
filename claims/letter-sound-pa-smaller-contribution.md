@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: puranik-cynthia-s-2014
     resource: "https://doi.org/10.1016/j.jecp.2014.07.009"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q1`–`q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For 5-year-olds, knowing a letter's sound was associated with a higher predicted probability of writing it correctly (60% against 50%), a smaller difference than for letter-name knowledge; the cross-sectional data cannot show cause. [→ Puranik Cynthia S. 2014](#puranik-cynthia-s-2014)

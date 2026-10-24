@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: tanja-fritz-2023
     resource: "https://doi.org/10.1007/s10648-023-09753-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Performance-approach goals are not significantly associated with academic dishonesty on average (r = 0.034, CI includes zero), with roughly as many positive as negative effect sizes. [→ Tanja Fritz 2023](#tanja-fritz-2023)

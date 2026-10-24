@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: royel-m-johnson-2026
     resource: "https://doi.org/10.1007/s10648-025-10104-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`–`q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A randomized controlled trial showed a brief social belonging intervention significantly improved academic outcomes and well-being, especially among students experiencing identity threat at historically white institutions. [→ Royel M. Johnson 2026](#royel-m-johnson-2026)

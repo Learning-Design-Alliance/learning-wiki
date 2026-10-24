@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: feng-z-and-huang-k-2026
     title: Feng Z and Huang K 2026
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` After correcting 14 misspecified A5 q-entries flagged by the δ-method, the prerequisite-violating '00001' pattern fell from 14.2% to 3.8%. [→ Feng Z and Huang K 2026](#feng-z-and-huang-k-2026)

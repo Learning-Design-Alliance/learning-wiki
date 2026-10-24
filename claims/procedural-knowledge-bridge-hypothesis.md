@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kyong-mi-choi-2026
     resource: "https://doi.org/10.1007/s10648-025-10115-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The document analysis supports a follow-up hypothesis that procedural knowledge (the Applying domain) may mediate the development of domain-specific reasoning. [→ Kyong Mi Choi 2026](#kyong-mi-choi-2026)

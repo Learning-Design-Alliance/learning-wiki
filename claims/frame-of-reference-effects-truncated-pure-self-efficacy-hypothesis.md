@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: marsh-2019
     resource: "https://doi.org/10.1037/edu0000281"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article theoretically predicts that negative social and dimensional comparison effects should be largely or completely truncated in relatively pure measures of self-efficacy. [→ Marsh 2019](#marsh-2019)

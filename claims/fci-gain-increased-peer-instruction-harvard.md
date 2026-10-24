@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: crouch-2007
     resource: "https://doi.org/10.1119/RevPERv1.1.3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average FCI posttest score in the calculus-based course increased dramatically when instruction changed from traditional (1990) to PI (1991), and normalized gain continued to rise with continued use and course improvements. [→ Crouch 2007](#crouch-2007)

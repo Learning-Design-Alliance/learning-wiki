@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: ying-xu-2023
     resource: "https://osf.io/j7upd"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Children in the pseudo-interactive condition performed better than those in the non-interactive condition by 0.16 standard deviations (p = .04), indicating that even question-asking without contingency aids learning. [→ Ying Xu 2023](#ying-xu-2023)

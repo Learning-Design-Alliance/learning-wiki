@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: rahimi-2021
     resource: "https://doi.org/10.46328/ijtes.118"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Each additional gold trophy predicted a 1% decrease and each silver trophy a .4% decrease in average persistence, and these were the only significant level-2 predictors. [→ Rahimi 2021](#rahimi-2021)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
+recheck_by: 2015
 sources:
   - id: pauker-2010
     resource: "https://doi.org/10.1111/j.1467-8624.2010.01511.x"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Out-group stereotyping differed by age group (simple effect, F(3, 85) = 12.38, p < .0001, η2 = .30): 7–10-year-olds (M = .67) exhibited more out-group stereotyping than both younger groups, while 6–7-year-olds (M = .60) exhibited more than 3–5-year-olds (p < .001) and only marginally more than 5–6-year-olds (p = .08). [→ Pauker 2010](#pauker-2010)

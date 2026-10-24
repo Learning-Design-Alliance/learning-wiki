@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: johnson-2026
     resource: "https://consortium.uchicago.edu/publications/co-designing-new-approaches-to-school-safety"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Both groups identified multiple dimensions for measuring WSS success: participation of students, families, and community members in safety planning; student outcomes such as suspensions, police referrals, arrests, absenteeism, and graduation; district resource provisions; and students' and families' experiences of feeling supported and connected to school. [→ Johnson 2026](#johnson-2026)

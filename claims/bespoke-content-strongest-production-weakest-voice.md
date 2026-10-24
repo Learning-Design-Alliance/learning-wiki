@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: romain-puech-2026
     resource: "https://doi.org/10.48550/arxiv.2609.26540"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Content was the strongest rubric dimension (A = 4.03, SD = 0.67; 99% of videos at or above 3), and production the weakest (D = 3.41), driven by spoken-language quality D1 = 3.16 (SD = 1.09). [→ Romain Puech 2026](#romain-puech-2026)

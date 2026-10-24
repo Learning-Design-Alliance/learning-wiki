@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: tare-2019
     resource: "https://doi.org/10.51388/20.500.12265/81"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Assignment Lexile levels averaged around 375 points higher than students' own Lexile levels (95% CI 215-535; t = 4.7, p < .01). [→ Tare 2019](#tare-2019)

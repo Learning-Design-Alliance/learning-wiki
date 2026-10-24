@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: de-la-torre-2021
     resource: "https://consortium.uchicago.edu/publications/English-learners-in-Chicago-Public-Schools-an-exploration-of-the-influence-of-pre-K"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ELs with identified disabilities progressed toward English skills at a slower pace, mostly had lower attendance, and were more likely to opt out of bilingual services, limiting access to services and academic progress. [→ de la Torre 2021](#de-la-torre-2021)

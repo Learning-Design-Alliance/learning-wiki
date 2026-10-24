@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: sangers-2025
     resource: "https://doi.org/10.1007/s10648-025-10068-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Egger's regression test was non-significant (β = −0.50, p = .466), and the non-significant peer-review moderator suggested absence of publication bias. [→ Sangers 2025](#sangers-2025)

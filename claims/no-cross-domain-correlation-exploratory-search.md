@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: van-den-driessche-2019
     resource: "https://doi.org/10.1038/s41598-019-46761-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A linear regression between composite exploratory indices for visual and semantic search, controlling for ADHD score, was not significant. [→ Van den Driessche 2019](#van-den-driessche-2019)

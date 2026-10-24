@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-17
 sources:
   - id: chunpeng-zhai-2024
     resource: "https://doi.org/10.1186/s40561-024-00316-7"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study of 16 college students, AI dialogue systems decreased research and information retrieval time, but over-reliance fostered complacency and undue dependency. [→ Chunpeng Zhai 2024](#chunpeng-zhai-2024)

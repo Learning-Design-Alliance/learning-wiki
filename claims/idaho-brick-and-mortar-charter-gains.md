@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: credo-2019
     resource: "https://credo.stanford.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Brick-and-mortar charter students exhibit stronger growth in reading and math, equivalent to 30 and 35 extra days of learning respectively, versus average TPS students. [→ CREDO 2019](#credo-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: dominguez-2021
     resource: "https://doi.org/10.51388/20.500.12265/119"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adults in the intervention condition tended to initiate more conversations before and after episode viewing than comparison adults, while initiations during viewing did not differ across conditions. [→ Dominguez 2021](#dominguez-2021)

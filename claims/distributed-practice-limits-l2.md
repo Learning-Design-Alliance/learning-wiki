@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: robert-dekeyser-2010
     resource: "https://www.um.es/ijes"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · n=48 experiments (98 effect sizes, N=3,411)
+> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence): Distributed practice benefits L2 learning, but distribution over years can be worse than distribution over months -->
 
 ## Subclaims

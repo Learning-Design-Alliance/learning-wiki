@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
+recheck_by: 2022
 sources:
   - id: rel-mid-atlantic-2019
     resource: "https://www.mathematica.org/publications/measuring-up-considerations-for-adopting-computerized-adaptive-testing"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The publication asserts that CAT has the potential to be more valid and reliable than non-adaptive tests. [→ REL Mid-Atlantic 2019](#rel-mid-atlantic-2019)

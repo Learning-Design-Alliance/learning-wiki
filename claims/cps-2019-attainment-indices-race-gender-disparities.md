@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-16
+recheck_by: 2025
 sources:
   - id: nagaoka-2020
     resource: "https://toandthrough.uchicago.edu/tool/cps/2019/#/milestones"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The 2019 PAI ranges from 12.6 percent for Black young men to 62.0 percent for Asian/Pacific Islander young women, with Black young men's DBDAI at 8.6 percent and BDAI at 9.4 percent. [→ Nagaoka 2020](#nagaoka-2020)

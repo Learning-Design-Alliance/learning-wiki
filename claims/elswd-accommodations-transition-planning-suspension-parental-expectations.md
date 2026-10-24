@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-09
+recheck_by: 2022
 sources:
   - id: albert-y-liu-2017
     resource: "https://www.mathematica.org/publications/wp-the-characteristics-and-experiences-of-english-learner-students-with-disabilities-in-secondary"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` ELSWDs are less likely than other SWDs to receive extra time on schoolwork, but attend transition-planning meetings at a comparable rate, are suspended less, and parental expectations for their outcomes are higher. [→ Albert Y. Liu 2017](#albert-y-liu-2017)

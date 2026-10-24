@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: merging-cognitive-science-and-curriculum-to-strengthen-middle-school-math-2014
     resource: "https://eric.ed.gov/?id=ED559573"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a 2012 classroom study, sixth and eighth graders using redesigned curriculum units showed trends toward greater pre-to-post math score improvements compared with peers using the original curriculum, but data analysis was still underway. [→ Merging Cognitive Science and Curriculum to Strengthen Middle School Math 2014](#merging-cognitive-science-and-curriculum-to-strengthen-middle-school-math-2014)

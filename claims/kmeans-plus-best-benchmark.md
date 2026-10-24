@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: najem-2026
     resource: "https://doi.org/10.1007/s44217-026-02181-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Among five benchmarked algorithms, K-Means++ achieved the highest Silhouette (0.62), lowest Davies-Bouldin (0.47), and highest Calinski-Harabasz (78.62) values under the reported evaluation settings. [→ Najem 2026](#najem-2026)

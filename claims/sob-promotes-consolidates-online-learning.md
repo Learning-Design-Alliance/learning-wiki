@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: peacock-2019
     resource: "https://doi.org/10.24059/olj.v23i2.1488"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SoB can help promote and consolidate learning in online settings. [→ Peacock 2019](#peacock-2019)

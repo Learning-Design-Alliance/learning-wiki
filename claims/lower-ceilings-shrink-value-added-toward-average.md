@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: alexandra-resch-2014
     resource: "https://www.mathematica.org/publications/how-do-test-scores-at-the-floor-and-ceiling-affect-value-added-estimates"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Value-added estimates shrink toward the average teacher as the test score ceiling gets lower, because test scores at the ceiling contain imprecise information about students' achievement. [→ Alexandra Resch 2014](#alexandra-resch-2014)

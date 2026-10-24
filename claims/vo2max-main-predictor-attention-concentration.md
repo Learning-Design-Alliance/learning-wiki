@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: reigal-re-2020
     title: Reigal RE 2020
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In stepwise linear regressions, maximum oxygen consumption was the main predictor of d2 attention and concentration measures; in boys, horizontal jump (strength) was also a significant predictor. [→ Reigal RE 2020](#reigal-re-2020)

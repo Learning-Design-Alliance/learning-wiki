@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: enrico-sella-monica-bolognesi-emma-bergamini-lucia-mason-francesca-pazzaglia-2023
     resource: "https://doi.org/10.1007/s10648-023-09750-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The 16 studies used varied informants and instruments: seven self-reported questionnaires, seven cognitive/behavioral tasks, four ad hoc measurements, four observational scales, and only two objective accelerometer measures. [→ Enrico Sella · Monica Bolognesi · Emma Bergamini · Lucia Mason · Francesca Pazzaglia 2023](#enrico-sella-monica-bolognesi-emma-bergamini-lucia-mason-francesca-pazzaglia-2023)

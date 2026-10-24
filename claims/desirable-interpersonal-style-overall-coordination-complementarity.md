@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: pennings-2017
     resource: "https://doi.org/10.29173/cmplct29338"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ethan's classroom cross-correlations (.71 Communion, -.86 Agency) were consistent with the complementarity principle, whereas Sam's (-.39 Communion, -.06 Agency) were not consistent on Communion and only very weakly on Agency. [→ Pennings 2017](#pennings-2017)

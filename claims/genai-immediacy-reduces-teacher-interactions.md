@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tiina-leino-lindell-2026
     resource: "https://doi.org/10.1007/s12528-025-09488-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' use of GenAI reduces teacher-student interactions when performing generalizable tasks, driven by the contradiction between new expectations for self-directed, efficient support and teachers' limited capacity to meet them. [→ Tiina Leino Lindell 2026](#tiina-leino-lindell-2026)

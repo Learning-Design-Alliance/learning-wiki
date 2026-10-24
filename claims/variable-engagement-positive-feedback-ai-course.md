@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hosseini-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05472"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Weekly page views averaged 63.9 (SD = 33.1; median = 63; range = 29–128), indicating variable engagement, and student feedback was largely positive. [→ Hosseini 2026](#hosseini-2026)

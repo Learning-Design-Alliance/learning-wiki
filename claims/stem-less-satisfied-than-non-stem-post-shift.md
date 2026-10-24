@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: means-2020
     resource: "https://doi.org/10.51388/20.500.12265/102"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 27% of non-STEM coursetakers were very satisfied after going fully online versus 15% of STEM coursetakers; the gap existed before the shift (60% vs 47%). [→ Means 2020](#means-2020)

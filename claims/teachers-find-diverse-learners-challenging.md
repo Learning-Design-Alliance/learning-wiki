@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: rowan-2021
     resource: "https://doi.org/10.3102/0034654320979171"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Research across multiple countries has persistently shown that working with learners regarded as diverse is experienced as challenging and complex by many teachers, including new graduates. [→ Rowan 2021](#rowan-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: aydinbek-c-2022
     resource: "https://doi.org/10.5897/ERR2022.4230"
@@ -50,6 +51,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 3 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3`
+> **Currency** · newest study 2022 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instruction incorporating explicit techniques leads to more substantial effects than implicit instruction in L2 learning. [→ Aydinbek C 2022](#aydinbek-c-2022)
@@ -157,3 +159,4 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 - [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](instruction-little-effect-on-route-of-acquisition.md) — reports the opposite
 - [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — a narrower finding that bears on this claim
 - [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](explicit-strategy-instruction-associated-with-performance-gain.md) — related
+- [Explicit teaching does not improve overall quality of written causal explanations but improves use of second-order language and causal connections](explicit-teaching-second-order-language-explanation-criterion.md) — related

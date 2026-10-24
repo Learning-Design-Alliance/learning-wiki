@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: gemma-muncer-2021
     resource: "https://doi.org/10.1007/s10648-021-09620-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Nineteen of 31 included studies reported statistically significant positive associations between metacognition and math performance; eight reported non-significant positive associations and four reported mixed findings. [→ Gemma Muncer 2021](#gemma-muncer-2021)

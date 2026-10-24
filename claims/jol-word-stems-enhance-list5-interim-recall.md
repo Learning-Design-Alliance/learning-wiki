@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: veit-kubik-2022
     resource: "https://doi.org/10.1007/s11409-022-09307-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Making JOLs with word stems after Lists 1–4 improved interim free recall of criterial List 5 relative to restudy (d = 0.51). [→ Veit Kubik 2022](#veit-kubik-2022)

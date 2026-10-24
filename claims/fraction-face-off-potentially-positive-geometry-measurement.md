@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: geom-1
     title: geom-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` In one RCT meeting WWC standards without reservations, Fraction Face-Off! produced a positive and statistically significant effect on geometry and measurement (average effect size 0.96, improvement index +33, 212 students). [→ geom-1](#geom-1)

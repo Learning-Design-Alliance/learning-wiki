@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The webinar shares new research on academic growth trends of students with disabilities in special education during the school year as compared to the summer before the pandemic. [→ webinar-desc-3](#webinar-desc-3)

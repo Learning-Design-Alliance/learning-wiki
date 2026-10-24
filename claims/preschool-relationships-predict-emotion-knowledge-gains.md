@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: torres-2015
     resource: "https://doi.org/10.1016/j.appdev.2015.04.008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In a longitudinal SEM of Head Start children, positive interpersonal relationships (student-teacher closeness and positive peer interactions) in fall of preschool significantly predicted gains in emotion knowledge by spring (β = .27, p < .01). [→ Torres 2015](#torres-2015)

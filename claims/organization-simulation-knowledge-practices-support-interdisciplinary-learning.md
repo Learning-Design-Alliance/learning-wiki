@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: muukkonen-kajamaa-2024
     resource: "https://doi.org/10.1080/10508406.2024.2344794"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · n=84 students (48% of 175 enrolled across 4 course iterations), 12 teams of 11-15 students each; video subsample of 2 teams (11h22m across 9 meetings)
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 Interdisciplinary student teams in a multi-week organization simulation engaged in six identifiable collective knowledge practices while jointly building a shared knowledge object (a client offer); material tools (whiteboards, flip charts) visibly mediated shifts from unfocused discussion to structured, integrated problem-solving, while unclear leadership and time pressure were the most commonly reported barriers to productive collaboration.
 

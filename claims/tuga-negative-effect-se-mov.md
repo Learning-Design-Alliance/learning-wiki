@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hui-zhao-huijuan-gu-2026
     resource: "https://doi.org/10.1038/s41598-026-54337-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TUGA negatively predicts MOV (β = −0.54) and SE (β = −0.37), both p < .001. [→ Hui Zhao & Huijuan Gu 2026](#hui-zhao-huijuan-gu-2026)

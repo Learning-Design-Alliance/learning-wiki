@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: ogunsakin-ib-2026
     title: Ogunsakin IB 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Son's (2024) synthesis using the SAMR framework found many ITS applications augmented existing practices while fewer transformed instruction. [→ Ogunsakin IB 2026](#ogunsakin-ib-2026)

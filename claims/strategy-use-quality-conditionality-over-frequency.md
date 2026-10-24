@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: patricia-a-alexander-2017
     resource: "https://doi.org/10.1007/s10648-017-9409-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Dinsmore's review concludes that the developmental nature of strategic processing is under-studied, that the quality and conditionality of strategy use matters more than frequency of use, and that conditions within the learner and environment determine which strategies are effective. [→ Patricia A. Alexander 2017](#patricia-a-alexander-2017)

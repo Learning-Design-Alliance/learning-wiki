@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: nugteren-2018
     resource: "https://doi.org/10.1007/s11251-018-9448-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Compared with selections calculated from actual performance and mental-effort scores per the SRLTS model, participants deviated more than half a difficulty level (Mdn = 0.57) and more than half a support level (Mdn = 0.57). [→ Nugteren 2018](#nugteren-2018)

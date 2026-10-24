@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: goetz-2023
     resource: "https://osf.io/ftr4g/?view_only=beac4ca87987492294aeac4a1bb96c86"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Trait and state test boredom means were significantly above the scale floor, with effect sizes d = 0.61 to 1.04. [→ Goetz 2023](#goetz-2023)

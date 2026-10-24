@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-22
 sources:
   - id: anna-h-miller-2025
     resource: "https://doi.org/10.1007/s10648-025-10070-y"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For every 1-h increase in intervention dosage, predicted effect sizes increased by 0.03 on average in the two-predictor model. [→ Anna H. Miller 2025](#anna-h-miller-2025)

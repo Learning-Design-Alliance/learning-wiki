@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: stewart-1917
     resource: "https://doi.org/10.1037/h0070804"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For the twenty-nine boys, curve correlations of weight and height increments with scholarship show no decided relation; height increment shows slightly more negative than positive correlation. [→ Stewart 1917](#stewart-1917)
@@ -67,3 +69,4 @@ Chart IX distributes yearly curve correlations of all twenty-nine boys by school
 - [Groups one year ahead of normal grade increase more rapidly in both weight and height than normal groups of the same age, with one exception](above-grade-faster-growth-increments.md) — related
 - [Tall, heavy children with good lung capacity are further along toward mental maturity as evidenced by school progress, based on 21,682 final term grades](physical-size-school-progress-relation.md) — related
 - [In a same-age, same-class group of eight boys followed through high school, the higher-scholarship half averaged taller in all four years and heavier in all years except the junior year](high-scholarship-half-taller-heavier.md) — related
+- [Most high-school students made rapid or normal elementary progress, yet most fail in some high-school work, and schools appear better fitted for girls than for boys](progress-and-sex-patterns-high-school.md) — related

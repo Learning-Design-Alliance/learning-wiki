@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-17
 sources:
   - id: cardichon-2019
     resource: "https://doi.org/10.33682/a3vc-nfcx"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 2006-07 and 2012-13, African American students' suspension rate in DPS fell from 17.61% to 10.42% and the Black-White gap fell from almost 5.88% to 2.28%. [→ Cardichon 2019](#cardichon-2019)

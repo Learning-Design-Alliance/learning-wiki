@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: stern-2018
     resource: "https://www.wested.org/resources/effects-of-school-based-law-enforcement-on-school-safety"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The body of research on SRO effectiveness does not address whether their presence in schools has deterred mass shootings. [→ Stern 2018](#stern-2018)

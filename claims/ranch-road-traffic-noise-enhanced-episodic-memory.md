@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: klatte-m-2013
     title: Klatte M 2013
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Alongside the aircraft noise effect, the RANCH study found enhanced performance in episodic memory with increasing exposure to road traffic noise, a counter-intuitive finding the review says remains unexplained. [→ Klatte M 2013](#klatte-m-2013)

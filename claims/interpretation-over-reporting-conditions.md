@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: the-meetings-at-mobile-1911
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The reporter contends that reports of actual conditions and real progress are being emphasized at the expense of interpretation, and that determining the meaning and significance of the data is the important problem. [→ The Meetings at Mobile 1911](#the-meetings-at-mobile-1911)

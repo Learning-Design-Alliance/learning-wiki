@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tongxi-liu-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100565"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three expert graders achieved excellent agreement after calibration discussions, with Task Response highest (ICC = 0.929) and Grammatical Accuracy lowest (ICC = 0.893). [→ Tongxi Liu 2026](#tongxi-liu-2026)

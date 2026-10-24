@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: lea-waters-2015
     resource: "https://doi.org/10.1007/s10648-014-9258-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Programmes longer than 24 weeks had 83% significant effects versus 38% for 6–24 weeks; more-than-daily practice 67% versus 40% daily; teacher-delivered programmes 75% versus 30% for other instructors; senior students 64% versus middle school 25%. [→ Lea Waters 2015](#lea-waters-2015)

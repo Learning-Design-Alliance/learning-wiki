@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1996
+source_checked: 2026-10-20
 sources:
   - id: bryk-1996
     resource: "https://consortium.uchicago.edu/publications/social-trust-moral-resource-school-improvement"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 1996 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In multilevel models controlling for school, teacher, and student composition, principal leadership was associated with positive trust relations, especially teacher-principal trust, and principal supervision showed significant effects on teacher-teacher and teacher-parent trust. [→ Bryk 1996](#bryk-1996)

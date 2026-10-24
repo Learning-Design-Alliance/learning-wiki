@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: stea-th-2014
     resource: "https://doi.org/10.1186/1471-2458-14-829"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` High lemonade intake was associated with lower odds of high achievement in girls (AOR 0.42) and boys (AOR 0.67); high sugar-sweetened soft drink (AOR 0.47) and salty snack (AOR 0.63) intake were significant in girls only. [→ Stea TH 2014](#stea-th-2014)

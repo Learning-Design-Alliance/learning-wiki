@@ -19,7 +19,7 @@ sources:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (27 for, 5 mixed) · 23 studies (5 review, 5 theoretical, 4 quant-synthesis, 4 associational, 3 qualitative, 2 causal), `q1`–`q3` · 3 of 23 report an effect size · 30 claims rest on one study
+> **Evidence** · 33 claims (28 for, 5 mixed) · 24 studies (5 review, 5 associational, 5 theoretical, 4 quant-synthesis, 3 qualitative, 2 causal), `q1`–`q3` · 3 of 24 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Claims this page cited before, or found while rewriting it, that bear on it less
 - [All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice](../claims/perceived-hll-advantage-and-dialect-difficulty.md) [+W]
 - [Successful and unsuccessful listening performance in this study is associated with learners' strategic behaviour rather than with heritage or non-heritage status](../claims/strategy-use-not-group-status-explains-listening-success.md) [+W]
 - [Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy](../claims/reversed-perceptions-textbook-listening-activities.md) [+W]
+- [Spanish-speaking language-minority preschoolers show a common underlying proficiency for phonological awareness, with bifactor models fitting better than correlated-factors models](../claims/common-underlying-proficiency-phonological-awareness.md) [+W] — attached 2026-10-24 from Goodrich J. Marc (2017), which proposed "Evidence-based instruction in either language should build code-related skills in both languages for language-minority preschoolers, but language instruction benefits only the language of instruction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

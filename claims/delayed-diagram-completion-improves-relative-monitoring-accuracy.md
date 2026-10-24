@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-22
 sources:
   - id: janneke-van-de-pol-2020
     resource: "https://doi.org/10.1007/s10648-020-09560-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Ninth-grade students who completed diagrams at a delay discriminated better between well- and less well-learned texts than control students (G = 0.56 vs G = 0.07). [→ Janneke van de Pol 2020](#janneke-van-de-pol-2020)

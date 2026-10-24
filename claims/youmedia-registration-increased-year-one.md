@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: kimberly-austin-2011
     resource: "https://youmediachicago.org"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Registration data reflect a constant increase in participation from the program's opening to the close of its first year, with 1,593 teens registered between October 2009 and August 2010. [→ Kimberly Austin 2011](#kimberly-austin-2011)

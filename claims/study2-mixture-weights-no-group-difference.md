@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: the-dynamic-interplay-between-goal-setting-2022
     resource: "https://gpemodel.shinyapps.io/gpe-model/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Independent-samples t-tests on estimated mixture weights found no differences between control and experimental groups for either the pre-learning or post-learning emotions models, so the groups' data were combined. [→ The Dynamic Interplay Between Goal Setting 2022](#the-dynamic-interplay-between-goal-setting-2022)

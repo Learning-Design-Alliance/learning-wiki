@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: ahlquist-2020
     resource: "https://doi.org/10.17161/jomr.v6i1.12051"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the first observed presentation the teacher used only instructional moves, with no reconstructing, reorienting, or generative moves. [→ Ahlquist 2020](#ahlquist-2020)

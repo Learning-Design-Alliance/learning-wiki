@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: blair-2024
     resource: "https://doi.org/10.1007/s11251-024-09661-z"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i0`–`i2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Total student-focused codes showed a marginal pre-to-post increase (t(16) = -1.77, p = .096, d = 0.43), consistent with hypothesized shifts. [→ Blair 2024](#blair-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: nederhand-2020
     resource: "https://doi.org/10.1007/s11409-020-09233-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No statistically detectable interaction effects between intervention group and time on calibration accuracy; the hypothesis that support level would influence improvement was not supported. [→ Nederhand 2020](#nederhand-2020)

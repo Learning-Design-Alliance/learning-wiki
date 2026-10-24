@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: megan-kuhfeld-2021
     resource: "https://www.nwea.org/research/publication/understanding-the-initial-educational-impacts-of-covid-19-on-communities-of-color/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All BIPOC groups made learning gains from fall 2019 to fall 2020, but Black, AIAN, and Latinx students made only 55-66% of their pre-pandemic math gains and at least 70% of their historical reading gains, whereas Asian American students made 88% of pre-pandemic math gains and gained equivalently in reading. [→ Megan Kuhfeld 2021](#megan-kuhfeld-2021)

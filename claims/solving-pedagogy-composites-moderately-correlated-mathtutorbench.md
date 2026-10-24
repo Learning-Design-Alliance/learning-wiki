@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: junyi-yao-2026
     resource: "https://doi.org/10.48550/arxiv.2606.16206"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across eight publicly reported models, the Pearson correlation between solving and pedagogy composites is 0.421 and the Spearman correlation is 0.690, reported descriptively rather than as hypothesis tests. [→ Junyi Yao 2026](#junyi-yao-2026)

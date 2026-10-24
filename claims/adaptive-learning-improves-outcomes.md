@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: adaptive-learning-improves-outcomes
 evidence_strength:
+newest_evidence: 2016
+source_checked: 2026-10-15
 sources:
   - id: ma-et-al-2014
     resource: "https://doi.org/10.1037/a0037123"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2016 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- title before 2026-10-15: Adaptive learning improves outcomes -->
 
 Learning environments that adjust task difficulty, sequencing, or support to individual learner performance can improve outcomes relative to fixed, one-size-fits-all sequences — but the effect depends heavily on how adaptation is implemented and for whom.

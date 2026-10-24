@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: patricia-d-simon-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100360"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reviewed studies attribute disengagement to complicated or frustrating platforms, technical issues, overly long or irrelevant modules, limited content, and declines in lesson activity over time attributed to fatigue. [→ Patricia D. Simon 2026](#patricia-d-simon-2026)

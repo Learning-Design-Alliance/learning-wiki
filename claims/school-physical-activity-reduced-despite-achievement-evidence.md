@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: chaddock-heyman-l-2015
     resource: "https://doi.org/10.1371/journal.pone.0134115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors state that physical activity opportunities during the school day are being reduced or eliminated in response to mandates for increased academic classroom time, and that their findings suggest this trend may be counterproductive for achievement. [→ Chaddock-Heyman L 2015](#chaddock-heyman-l-2015)

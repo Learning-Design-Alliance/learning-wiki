@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: catrysse-2025
     resource: "https://doi.org/10.1007/s10648-025-10000-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In mixed-effects models, strength increases with working memory capacity for all sentence types (β = 0.014, p = 0.049). [→ Catrysse 2025](#catrysse-2025)

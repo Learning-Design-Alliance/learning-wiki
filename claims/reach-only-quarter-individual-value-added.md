@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: jennie-y-jiang-2014
     resource: "https://www.cps.edu/Pages/reachstudents.aspx"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 2012-13, almost 10,000 teachers received the school-wide literacy value-added score while only about 5,000 received an individual value-added score. [→ Jennie Y. Jiang 2014](#jennie-y-jiang-2014)

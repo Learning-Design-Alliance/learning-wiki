@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: vincent-zhang-2025
     resource: "https://doi.org/10.1007/s40593-025-00510-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Compared with trees without feature selection (6.1-13.9 leaf nodes on average), CFS and GR reduced leaf nodes to 3.4-4.7 and 3.2-4.1 without degrading performance. [→ Vincent Zhang 2025](#vincent-zhang-2025)

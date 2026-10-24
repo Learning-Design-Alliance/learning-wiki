@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: vadasy-2023
     resource: "https://doi.org/10.1080/02702711.2023.2166636"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The authors' discussion states that among students with 100% attendance in week 6 the Flex treatment showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading, but the results section and the abstract report no significant treatment differences or treatment interactions, and no moderation by total attendance. [→ Vadasy 2023](#vadasy-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: lydia-manikonda-and-dominique-outlaw-2026
     resource: "https://doi.org/10.48550/arxiv.2608.03584"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Except for UC-Berkeley and Northwestern, business school policies differ from their university's policy; school-level policies focus on pedagogy while university-level policies primarily focus on risk management. [→ Lydia Manikonda and Dominique Outlaw 2026](#lydia-manikonda-and-dominique-outlaw-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: kailai-he-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21154"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The grader's recovery of persona misconception labels from learner answers reaches F1 ≈ 0.56, computed post hoc by token-overlap matching over all 132 rounds. [→ Kailai He 2026](#kailai-he-2026)

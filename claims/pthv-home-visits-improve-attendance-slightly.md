@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-19
 sources:
   - id: parent-teacher-home-visits-2021
     resource: "https://evidenceforessa.org/program/parent-teacher-home-visits-attendance/"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2021 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

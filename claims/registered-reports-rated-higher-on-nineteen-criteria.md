@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: preregistration-and-registered-reports-2021
     resource: "https://osf.io/ya594"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a metascience comparison in psychology and neuroscience, 353 peer reviewers found registered reports outperformed typical papers on all nineteen criteria evaluated, including methodological quality and overall paper quality. [→ Preregistration and Registered Reports 2021](#preregistration-and-registered-reports-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: belle-dang-2024
     resource: "https://doi.org/10.18608/jla.2024.8393"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Process mining showed PIA groups reached agreement and implemented generated options more often (60%) than TFA groups (55%), and attempted ideas less frequently (f = 80 vs. f = 144). [→ Belle Dang 2024](#belle-dang-2024)

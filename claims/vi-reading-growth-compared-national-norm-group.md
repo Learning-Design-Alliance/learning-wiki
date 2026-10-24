@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: boroson-2017
     resource: "https://www.nwea.org/research/publication/a-longitudinal-study-of-reading-growth-for-students-with-visual-impairments-2/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Reading growth for students with visual impairments was compared with a nationally normed group of students from the general population. [→ Boroson 2017](#boroson-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: pitcher-2016
     resource: "https://consortium.uchicago.edu/publications/network-college-success-capacity-building-model-school-improvement"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Graduation rates improved 17 percentage points, from 57 to 74 percent, over the same period. [→ Pitcher 2016 (2)](#pitcher-2016-2)

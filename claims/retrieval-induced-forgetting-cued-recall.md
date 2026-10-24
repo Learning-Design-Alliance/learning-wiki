@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: dillon-h-murphy-2023
     resource: "https://doi.org/10.1007/s10648-023-09808-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cued-recall tests can sometimes impair later ability to answer questions about related information, and this has occasionally been shown with educational materials. [→ Dillon H. Murphy 2023](#dillon-h-murphy-2023)

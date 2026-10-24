@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: jafar-tavakoli-2025
     resource: "https://doi.org/10.1007/s11251-025-09762-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nearly all interviewed instructional designers regarded dispositions as important and stated they incorporate them into their designs. [→ Jafar Tavakoli 2025](#jafar-tavakoli-2025)

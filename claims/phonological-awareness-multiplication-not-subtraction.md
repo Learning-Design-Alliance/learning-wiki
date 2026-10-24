@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: bert-de-smedt-2010
     resource: "https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` After removing two individuals with very high subtraction retrieval frequencies, the association between phonological awareness and subtraction fact retrieval disappeared (r(23) = .11, p = .61), in line with the control group. [→ Bert De Smedt 2010](#bert-de-smedt-2010)

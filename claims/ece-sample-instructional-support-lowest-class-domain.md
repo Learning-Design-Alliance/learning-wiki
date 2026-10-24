@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: ehrlich-2018
     resource: "https://consortium.uchicago.edu/publications/organizing-early-education-improvement-testing-new-survey-tool"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across classrooms in the 81-site validation sample, average CLASS Pre-K Instructional Support scores (3.16) were well below Emotional Support (6.13) and Classroom Organization (5.99) scores. [→ Ehrlich 2018](#ehrlich-2018)

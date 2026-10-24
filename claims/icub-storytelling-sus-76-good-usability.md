@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-24
 sources:
   - id: maria-lombardi-2025
     resource: "https://doi.org/10.48550/arxiv.2508.02505"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a usability study with 25 adult participants, the iCub narrative system reached a total SUS score of 76.70, which the authors interpret as overall good product usability. [→ Maria Lombardi 2025](#maria-lombardi-2025)

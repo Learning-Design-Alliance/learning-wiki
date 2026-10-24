@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: babette-park-andreas-korbach-paul-ginns-roland-brünken-2023
     resource: "https://doi.org/10.1007/s10648-023-09833-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The omnibus MANOVA for learning performance was significant, Λ = 0.831, F(6, 156) = 2.53, p = 0.023, η2 = 0.089. [→ Babette Park · Andreas Korbach · Paul Ginns · Roland Brünken 2023](#babette-park-andreas-korbach-paul-ginns-roland-brunken-2023)

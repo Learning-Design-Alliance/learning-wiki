@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-08
+recheck_by: 2019
 sources:
   - id: hanley-chiang-2016
     resource: "https://www.mathematica.org/publications/performance-measures-based-on-test-scores-issue-brief"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Measures that account for students' past achievement (school value-added and adjusted school value-added) provide, at most, a small amount of information for predicting principals' contributions to student achievement in the following year. [→ Hanley Chiang 2016](#hanley-chiang-2016)

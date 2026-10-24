@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: burns-2021
     resource: "https://learningpolicyinstitute.org/product/students-experiencing-homelessness"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2018–19, the chronic absence rate among California students experiencing homelessness was 25%, double the 12% state average, exceeding 40% for African American and Native American/Alaskan students. [→ Burns 2021](#burns-2021)

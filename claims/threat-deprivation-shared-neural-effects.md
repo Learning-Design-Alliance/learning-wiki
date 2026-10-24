@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: karen-e-smith-and-seth-d-pollak-2020
     resource: "https://doi.org/10.1186/s11689-020-09337-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Both threat and deprivation have been linked to negative PFC-amygdala connectivity in late childhood and adolescence, and both abuse and neglect have been demonstrated to have specific effects on hippocampal volume. [→ Karen E. Smith and Seth D. Pollak 2020](#karen-e-smith-and-seth-d-pollak-2020)

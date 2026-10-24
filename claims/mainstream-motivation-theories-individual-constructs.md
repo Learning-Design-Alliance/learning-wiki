@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: daniel-t-hickey-2026
     resource: "https://doi.org/10.1007/s10648-026-10219-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Social cognitive, self-determination, expectancy-value/situated expectancy-value, and achievement goal theories have become more attentive to social relationships, culture, identity, and context, yet their central explanatory constructs generally remain located within individuals. [→ Daniel T. Hickey 2026](#daniel-t-hickey-2026)

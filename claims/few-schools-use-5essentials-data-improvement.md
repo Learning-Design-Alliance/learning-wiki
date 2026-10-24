@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: title-as-printed-2021
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interviews showed few schools used 5Essentials Survey data in improvement efforts because data seemed opaque, the focus on principals made impartial engagement difficult, and district-wide strategy or guidance was absent. [→ Title as printed 2021](#title-as-printed-2021)

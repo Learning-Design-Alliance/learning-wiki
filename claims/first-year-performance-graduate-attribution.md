@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: miller-2003
     resource: "https://consortium.uchicago.edu/publications/how-well-do-vivaldi-students-succeed-after-elementary-school"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Because first-year performance matters, students are counted as graduates of the high school they first enrolled in, not the one they ultimately graduated from. [→ Miller 2003](#miller-2003)

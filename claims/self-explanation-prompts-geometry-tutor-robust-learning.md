@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: koedinger-2009
     resource: "https://doi.org/10.4324/9780203876428-29"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who explained their steps with the tutor showed greater gains on Reason items and Not Enough Info transfer items than students who only solved problems. [→ Koedinger 2009](#koedinger-2009)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: melissa-roderick-2009
     resource: "https://doi.org/10.1353/foc.0.0024"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2003-04, 50.9 percent of high-SES graduates took an AP course versus 16.3 percent of low-SES graduates; 33 percent of white graduates took AP compared with 16 percent of African American graduates. [→ Melissa Roderick 2009](#melissa-roderick-2009)

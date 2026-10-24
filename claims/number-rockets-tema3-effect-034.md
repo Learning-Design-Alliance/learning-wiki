@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: number-rockets-2020
     resource: "https://www.air.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Among first-grade students below the 38th percentile in math, students in Number Rockets scored significantly higher than control students who received no tutoring or organized remediation, with an effect size of +0.34 on TEMA-3. [→ Number Rockets 2020](#number-rockets-2020)

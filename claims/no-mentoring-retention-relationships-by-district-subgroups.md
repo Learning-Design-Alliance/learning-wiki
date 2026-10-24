@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: brodersen-2025
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/examining-mentoring-experiences-first-year-teachers-missouri"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Regressions estimated separately by district subgroups found no statistically significant mentoring–retention relationships; nine descriptive differences exceeded 10 percentage points but none was statistically significant in the small subgroup samples. [→ Brodersen 2025](#brodersen-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: milou-van-harsel-2022
     resource: "https://doi.org/10.1007/s11251-022-09589-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Total scores of how well students' task selections matched the principles did not correlate with any of the cognitive or motivational variables, though some individual principles showed small significant correlations. [→ Milou van Harsel 2022](#milou-van-harsel-2022)

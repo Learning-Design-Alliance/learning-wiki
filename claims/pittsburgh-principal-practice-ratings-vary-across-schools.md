@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: duncan-chaplin-2014
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Between-school variation in professional practice ratings assigned by principals suggests principals' standards might not be fully consistent across schools. [→ Duncan Chaplin 2014](#duncan-chaplin-2014)

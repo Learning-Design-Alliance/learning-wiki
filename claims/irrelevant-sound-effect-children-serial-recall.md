@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: mixed
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: klatte-m-2013
     title: Klatte M 2013
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r2`–`r3` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Irrelevant sounds with a changing-state characteristic (distinct varying auditory objects) impair serial recall, whereas steady-state sounds such as continuous broadband noise have minor or no effect. [→ Klatte M 2013](#klatte-m-2013)

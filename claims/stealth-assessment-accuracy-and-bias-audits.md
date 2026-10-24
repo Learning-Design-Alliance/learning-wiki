@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: kaşarcı-ismail-2026
     resource: "https://doi.org/10.3390/bs16071050"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Deep learning stealth assessment accurately predicts science content knowledge and reflection depth from gameplay, and demographic bias can be reduced without accuracy loss. [→ Kaşarcı İsmail 2026](#kasarc-ismail-2026)

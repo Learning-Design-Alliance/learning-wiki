@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: kullberg-2023
     resource: "https://doi.org/10.1007/s11251-022-09613-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Reading comprehension assessed with open questions was a unique positive predictor of integration performance, whereas reading comprehension measured with the cloze test was not. [→ Kullberg 2023](#kullberg-2023)

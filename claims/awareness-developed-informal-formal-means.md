@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: rogers-2007
     resource: "https://doi.org/10.1007/s11423-007-9033-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants became aware of cultural differences through informal means (exposure, open disposition) and formal means (simulations, classes, research, multicultural design teams, field visits). [→ Rogers 2007](#rogers-2007)

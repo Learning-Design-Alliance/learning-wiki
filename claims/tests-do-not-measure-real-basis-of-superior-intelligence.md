@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: sandiford-1922
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Root feels that no tests measure the real basis of superior intelligence, which consists of ability to suspend judgment, freedom from suggestibility, critical attitude, etc. [→ Sandiford 1922](#sandiford-1922)
@@ -45,3 +47,4 @@ The review reports this as Root's stated opinion, offered with no evidence or ar
 ## Related Claims
 - [Root's case histories characterize the superior child as having a good home and superior parents](superior-child-good-home-superior-parents.md) — related
 - [In Root's study, superior children (IQ 135+ younger, 120+ older) excelled normal children on all administered tests](superior-children-excelled-normal-on-all-tests.md) — related
+- [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](mental-tests-more-needed-for-superior-selection.md) — related

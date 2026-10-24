@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: graham-2023
     resource: "https://doi.org/10.24059/olj.v27i3.4001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i0`–`i3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Support for Affective Engagement strongly predicted Affective Engagement (β = 1.163, p < .001) and also predicted Behavioral (β = 0.802) and Cognitive Engagement (β = 0.589). [→ Graham 2023](#graham-2023)

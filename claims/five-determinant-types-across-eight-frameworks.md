@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: nilsen-p-2015
     resource: "https://doi.org/10.1186/s13012-015-0242-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite disparate terms, eight commonly cited determinant frameworks account for the same five general types of determinants: characteristics of the implementation object, of users/adopters, of end users, of context, and of the implementation strategy. [→ Nilsen P 2015](#nilsen-p-2015)

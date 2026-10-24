@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1909
 sources:
   - id: patterson-1909
     resource: "https://books.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 8.5 per cent more of the pupils teachers classed as good were classed A rather than C by the memory tests, leading the authors to conclude good memory is not necessarily accompanied by intellectual acuteness. [→ Patterson 1909](#patterson-1909)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: russell-ae-2015
     title: Russell AE 2015
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Descriptively, the ADHD group contained more boys (83.9% vs 50.5%), more families in financial difficulty (27.78% vs 14.44%) and more council/housing-association tenancy (17.8% vs 10.1%). [→ Russell AE 2015](#russell-ae-2015)

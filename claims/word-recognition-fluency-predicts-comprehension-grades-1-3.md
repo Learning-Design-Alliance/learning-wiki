@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-09
 sources:
   - id: map-reading-fluency-with-coach-evidence-base-2024
     resource: "https://www.nwea.org/research/publication/map-reading-fluency-with-coach-evidence-base/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-09 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Word recognition fluency, a measure including both accuracy and rate, significantly predicted reading comprehension of students in grades 1-3. [→ MAP Reading Fluency with Coach Evidence Base 2024](#map-reading-fluency-with-coach-evidence-base-2024)

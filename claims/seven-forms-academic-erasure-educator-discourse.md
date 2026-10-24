@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: chinomso-nwagboso-sunday-atuba-2026
     resource: "https://doi.org/10.1080/13562517.2026.2707601"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Thematic analysis of 49 Reddit posts by educators identified seven themes of erasure: epistemic labour, authentic voice, educator efficacy, trust, pedagogical method, the human-AI boundary, and institutional legibility. [→ Chinomso Nwagboso & Sunday Atuba 2026](#chinomso-nwagboso-sunday-atuba-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: fronius-2016
     resource: "https://eric.ed.gov/?id=ED596786"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Gregory et al. (2014) found preliminary indications that frequent RJ use led to reductions in the racial discipline gap, with better teacher-student relationships and fewer referrals, but disparate discipline patterns were not eliminated. [→ Fronius 2016](#fronius-2016)

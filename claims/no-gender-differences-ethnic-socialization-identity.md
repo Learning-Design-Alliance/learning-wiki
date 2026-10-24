@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: umaña-taylor-adriana-j-2013
     resource: "https://doi.org/10.1037/a0031105"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Multi-group analyses by adolescent gender showed no significant differences in the cross-lagged paths between family ethnic socialization and ethnic identity, contrary to the hypothesis that associations would be stronger for females. [→ Umaña-Taylor Adriana J. 2013](#umana-taylor-adriana-j-2013)

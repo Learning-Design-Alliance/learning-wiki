@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: perez-felkner-l-2017
     title: Perez-Felkner L 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In ordered logistic regressions of the highest high school science course taken, 10th grade perceived mathematics ability under challenge was the most influential predictor, and girls' odds of completing the most advanced science courses were 24.0% lower than boys', all else equal. [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

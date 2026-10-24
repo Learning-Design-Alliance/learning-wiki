@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: feng-2025
     resource: "https://eric.ed.gov/?id=ED677784"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers using ASSISTments alone had marginally higher end-of-year scores (225.9 versus 223.4, p = 0.051) and a higher percentage of students outperforming VCG (average 63% versus 54%). [→ Feng 2025](#feng-2025)

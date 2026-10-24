@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022
     title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One case-control study found significantly improved Verbal Fluency scores (p = 0.016) after at least 2 years of instrument-based training, but the remaining fluency studies found no significant association. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutierrez-c-2022)

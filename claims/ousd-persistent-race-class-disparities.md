@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: noguera-2017
     resource: "https://learningpolicyinstitute.org/product/deeper-learning-to-scale"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` On the mathematics CST, African American (35%) and Latino (45%) proficiency rates were far below White (72%) and Asian (82%) rates despite a high district average. [→ Noguera 2017](#noguera-2017)

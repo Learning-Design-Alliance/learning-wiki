@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: melanie-turner-2025
     resource: "https://doi.org/10.1007/s10648-025-10016-4"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In a randomized-controlled trial included in the review (Stieger et al. 2021), digital coaching significantly increased conscientiousness for participants who desired to improve it, on both self-reports (d = 0.58) and observer-reports (d = 0.22). [→ Melanie Turner 2025](#melanie-turner-2025)

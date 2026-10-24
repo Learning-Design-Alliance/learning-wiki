@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: jimmy-zambrano-2019
     resource: "https://doi.org/10.1007/s11251-019-09495-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the short-term retention test, experienced groups were more efficient than inexperienced groups for high information density tasks (η²p = .03) but not for low information density tasks. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)

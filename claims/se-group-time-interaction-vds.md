@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: zacharopoulos-g-2014
     title: Zacharopoulos G 2014
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The 3x2 mixed-design ANOVA on VDS changes showed a significant group (high, low, control) by time (pre, post) interaction in the orientation task, F(2,59) = 3.450, p = .038, and in the contrast task, F(2,53) = 3.307, p = .044. [→ Zacharopoulos G 2014](#zacharopoulos-g-2014)

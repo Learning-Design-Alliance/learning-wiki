@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: susan-sporte-2010
     resource: "https://consortium.uchicago.edu/publications/chicago-high-school-redesign-initiative-schools-students-and-outcomes"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For the 2004 cohort, CHSRI students were more likely to graduate than similar non-CHSRI peers across all five graduation-probability strata, but the advantage was largest for the lowest stratum (slightly more than six percentage points) and smallest for the highest (about two percentage points). [→ Susan Sporte 2010](#susan-sporte-2010)

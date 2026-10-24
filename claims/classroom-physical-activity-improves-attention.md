@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: classroom-physical-activity-improves-attention
 evidence_strength:
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: watson-et-al-2017
     resource: "https://doi.org/10.1186/s12966-017-0569-9"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 review `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- title before 2026-10-14: Classroom Physical Activity Improves Attention -->
 
 Brief bouts of physical activity integrated into classroom instruction — movement breaks, active lessons, standing or walking tasks — produce short-term improvements in students' on-task behavior; the reviews below do not show consistent gains on [attention](../elements/attention.md) measured by cognitive tests.

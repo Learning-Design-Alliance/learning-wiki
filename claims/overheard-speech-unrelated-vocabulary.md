@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: weisleder-adriana-2013
     resource: "https://doi.org/10.1177/0956797613488145"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Exposure to overheard speech directed to other adults and children was not related to vocabulary size at 24 months (r = .25, p = .2). [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

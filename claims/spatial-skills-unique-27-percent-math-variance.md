@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: verdine-2014
     resource: "https://doi.org/10.1016/j.jecp.2014.02.012"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Entering TOSA and VMI after the EF measures significantly added 27.1% of variance (adj. R2 = .271) to prediction of WIAT math scores, leading the authors to reject the null that spatial skills add nothing beyond EF. [→ Verdine 2014](#verdine-2014)

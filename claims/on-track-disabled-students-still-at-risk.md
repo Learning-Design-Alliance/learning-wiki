@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
+recheck_by: 2014
 sources:
   - id: julia-gwynne-2009
     resource: "https://consortium.uchicago.edu/publications/what-matters-staying-track-and-graduating-chicago-public-schools-focus-students"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among on-track students, five-year graduation rates are 87 percent for students without disabilities versus 78 percent for students two or more years below grade level, 77 percent for learning disabilities, 67 percent for mild cognitive disabilities, and 57 percent for emotional disturbances. [→ Julia Gwynne 2009](#julia-gwynne-2009)

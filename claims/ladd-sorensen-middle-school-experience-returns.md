@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: kini-2016
     resource: "https://doi.org/10.54300/625.642"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3` · `i0`–`i2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A teacher with 12 years of experience raised test scores 0.08 SD in ELA and 0.18 SD in math compared to a teacher with no prior experience. [→ Kini 2016](#kini-2016)

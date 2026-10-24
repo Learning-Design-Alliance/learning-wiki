@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: germain-2025
     resource: "https://learningpolicyinstitute.org/product/new-mexico-community-schools-outcomes-brief"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After adopting the community schools strategy in 2018 following a More Rigorous Intervention designation, Los Padillas Elementary saw marked reading and math improvements and a 50% chronic absence reduction from 2021 to 2024. [→ Germain 2025](#germain-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-16
 sources:
   - id: browning-2020
     resource: "https://californias3.wested.org/wp-content/uploads/Mindfulness-Based-Practices-for-Schools.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` MBIs are a promising approach for supporting students, but implementation varies widely (e.g., program length) and the child/youth evidence base is not developed enough for definitive recommendations about specific practices, citing Renshaw et al. (2017), Felver et al. (2016), and Zenner et al. (2014). [→ Browning 2020](#browning-2020)

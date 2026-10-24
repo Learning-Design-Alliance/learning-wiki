@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: tongxi-liu-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100565"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Grammatical Accuracy yielded the highest correlations (r = 0.45-0.63) and lowest MAEs (0.67-0.94), which the authors attribute to grammatical features being more rule-based; Task Response correlations ranged from non-significant (Claude, r = 0.22) to strong (Llama, r = 0.61). [→ Tongxi Liu 2026](#tongxi-liu-2026)

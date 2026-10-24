@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2010
+source_checked: 2026-10-20
+recheck_by: 2013
 sources:
   - id: stephen-lipscomb-2010
     resource: "https://www.mathematica.org/publications/estimating-teacher-and-school-effectiveness-in-pittsburgh-valueadded-modeling-and-results"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2013**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Value-added models were developed to estimate teachers' and schools' contributions to the achievement of their students in Pittsburgh Public Schools. [→ Stephen Lipscomb 2010](#stephen-lipscomb-2010)

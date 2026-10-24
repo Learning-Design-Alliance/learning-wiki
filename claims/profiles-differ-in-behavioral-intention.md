@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: pei-hua-chen-2026
     resource: "https://doi.org/10.1186/s40594-026-00634-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The four latent profiles show large between-profile variance in behavioral intention, consistent with the configurational logic that combined construct patterns predict intention better than single constructs. [→ Pei-Hua Chen 2026](#pei-hua-chen-2026)

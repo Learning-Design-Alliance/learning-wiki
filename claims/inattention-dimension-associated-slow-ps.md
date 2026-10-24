@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: braaten-eb-2020
     resource: "https://doi.org/10.1007/s00787-019-01455-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a logistic regression of eight symptom dimensions, only inattention significantly predicted slow PS (OR = 1.44, p = .007). [→ Braaten EB 2020](#braaten-eb-2020)

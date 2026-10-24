@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: freydis-vogel-2016
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Collaborative learning with a CSCL script produces a statistically significant large positive average effect on collaboration skills relative to collaborative learning without a script. [→ Freydis Vogel 2016](#freydis-vogel-2016)

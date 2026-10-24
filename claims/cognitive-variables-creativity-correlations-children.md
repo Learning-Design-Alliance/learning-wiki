@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-17
+recheck_by: 2023
 sources:
   - id: krumm-2018
     resource: "http://dx.doi.org/10.1016/j.tsc.2018.07.006"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Correlational analyses show associations between all the cognitive variables under study (creativity, Gc, Gf, working memory, inhibition, shifting). [→ Krumm 2018](#krumm-2018)

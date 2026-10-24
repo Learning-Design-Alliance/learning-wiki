@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: nick-gerrit-hasche-2026
     resource: "https://doi.org/10.1007/s10648-026-10176-x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Different terms were often used for the same competence aspect and vice versa across instruments, creating confusion between knowledge, beliefs, and motivation. [→ Nick Gerrit Hasche 2026](#nick-gerrit-hasche-2026)

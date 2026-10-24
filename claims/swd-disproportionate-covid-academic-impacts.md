@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: academic-growth-for-students-with-disabilities-lessons-from-school-year-learning-gains-and-summer-learning-lossimplications-for-covid-19-recovery-and-beyond-2022
     resource: "https://www.nwea.org/research/publication/academic-growth-for-students-with-disabilities-lessons-from-school-year-learning-gains-and-summer-learning-loss-implications-for-covid-19-recovery-and-beyond/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Students with disabilities may have experienced disproportionate academic impacts from COVID-19. [→ Academic growth for students with disabilities: Lessons from school-year learning gains and summer learning loss—Implications for COVID-19 recovery and beyond 2022](#academic-growth-for-students-with-disabilities-lessons-from-school-year-learning-gains-and-summer-learning-lossimplications-for-covid-19-recovery-and-beyond-2022)

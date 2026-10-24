@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lan-luo-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28886"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Four forms of mediation recurred across the corpus: producing materials, structuring dialogue, interpreting contextual information, and connecting family activity with external knowledge and values. [→ Lan Luo 2026](#lan-luo-2026)

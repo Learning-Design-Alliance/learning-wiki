@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: g-m-w-1915
     resource: "https://worldcat.org/search?q=Journal+of+Educational+Psychology+Volume+VI+1915"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The literal doctrine of presenting infants with as many sense impressions as possible is a manifest absurdity that would not increase natural intelligence development. [→ G. M. W 1915](#g-m-w-1915)

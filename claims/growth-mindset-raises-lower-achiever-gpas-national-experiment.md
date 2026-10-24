@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2019
 sources:
   - id: yeager-2019
     resource: "https://doi.org/10.1038/s41586-019-1466-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q2`–`q4` · `i1` small
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Lower-achieving ninth-graders assigned to the growth mindset intervention earned higher end-of-year core-course GPAs than control peers, standardized mean difference effect size 0.11. [→ Yeager 2019](#yeager-2019)

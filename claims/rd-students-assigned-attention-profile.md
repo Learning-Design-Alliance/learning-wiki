@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: kulesz-2024
     resource: "https://doi.org/10.1037/edu0000832"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cross-tabulation of profile membership against RD status showed students with RD more often fell into Profile 2 and typical readers more often into Profile 1 (odds of a typical student in Profile 1 vs 2 = 1.95; discussion reports OR = 2.80 for RD students in Profile 2). [→ Kulesz 2024](#kulesz-2024)

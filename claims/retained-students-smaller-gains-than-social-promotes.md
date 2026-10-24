@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2000
 sources:
   - id: roderick-2000
     resource: "https://www.consortium-chicago.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After Rasch equating, retained third graders gained about the same as social promotes (1.6 logits each; 1.3 for retained twice), but retained sixth graders, especially double-retained, still showed smaller gains. [→ Roderick 2000](#roderick-2000)

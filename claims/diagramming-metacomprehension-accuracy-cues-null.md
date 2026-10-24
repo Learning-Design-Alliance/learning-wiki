@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-19
 sources:
   - id: joep-van-der-graaf-2023
     resource: "https://doi.org/10.1007/s11409-023-09364-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Diagramming conditions showed higher metacomprehension accuracy, but no differences between conditions were found in the cues used to monitor comprehension. [→ Joep van der Graaf 2023](#joep-van-der-graaf-2023)

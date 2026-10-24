@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: hong-qu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18505"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-course ratings were highest for the flipped-learning component (mean = 4.17), lower for the GenAI module (mean = 3.63), and GenAI items scored higher for expanding creative boundaries (4.06) than for saving time (3.00) or direct incorporation into final outcomes (2.94). [→ Hong Qu 2026](#hong-qu-2026)

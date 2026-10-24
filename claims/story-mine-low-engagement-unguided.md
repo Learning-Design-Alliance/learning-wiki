@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lases-mitch-n-2026
     resource: "https://doi.org/10.2196/83948"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants logged in on average 2.71 days (SD 1.49) over 12 weeks and consumed between 0 and 7 narratives, with 4 participants consuming none. [→ Lases Mitch N 2026](#lases-mitch-n-2026)

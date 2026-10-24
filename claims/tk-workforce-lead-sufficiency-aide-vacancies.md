@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: wang-2024
     resource: "https://doi.org/10.54300/597.103"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost all LEAs (92%) indicated having enough fully qualified staff to accommodate TK classrooms, and only 1% of TK lead teacher positions were vacant at the beginning and middle of 2022–23. [→ Wang 2024](#wang-2024)

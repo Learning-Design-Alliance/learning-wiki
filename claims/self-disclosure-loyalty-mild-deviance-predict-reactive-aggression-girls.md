@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: uz-baş-2016
     resource: "http://dx.doi.org/10.12738/estp.2016.1.0287"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q3 i1` In a multiple regression with high school girls, self-disclosure (β = .179), loyalty (β = .230), and mild deviance (β = .223) each significantly and positively predicted reactive aggression, together accounting for R² = .219. [→ Uz Baş 2016](#uz-bas-2016)

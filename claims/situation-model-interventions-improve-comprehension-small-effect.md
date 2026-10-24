@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: anja-prinz-stefanie-golke-jörg-wittwer-2020
     resource: "https://doi.org/10.1007/s10648-020-09558-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A further meta-analysis on comprehension in the selected studies found the interventions beneficial for directly improving comprehension overall, with a small effect. [→ Anja Prinz & Stefanie Golke & Jörg Wittwer 2020](#anja-prinz-stefanie-golke-jorg-wittwer-2020)

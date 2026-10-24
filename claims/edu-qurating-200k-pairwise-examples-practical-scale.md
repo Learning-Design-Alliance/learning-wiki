@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: garrod-2026
     resource: "https://doi.org/10.48550/arxiv.2609.09425"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Best validation loss falls from 0.307 at 20k to 0.245 at 200k pairwise examples, while 300k and 400k examples yield almost no additional gain (0.245 and 0.244). [→ Garrod 2026](#garrod-2026)

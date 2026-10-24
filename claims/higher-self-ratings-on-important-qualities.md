@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: knight-1921
     resource: "https://doi.org/10.1037/h0073817"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fifty college students rated themselves 0 to 20 in each quality, giving themselves an average of 14.75 points on A qualities, 13.5 on B, 11.1 on E, and 7.0 on F qualities. [→ Knight 1921](#knight-1921)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: osman-sabancı-2026
     resource: "https://doi.org/10.1007/s11251-026-09805-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After metaconceptual teaching activities, the four participants replaced their alternative ideas about the republic with scientifically accurate views. [→ Osman Sabancı 2026](#osman-sabanc-2026)

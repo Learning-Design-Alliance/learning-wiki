@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: abderrahim-agnaou-hayat-el-asri-2025
     resource: "https://doi.org/10.5590/JERAP.2025.15.2120"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Findings revealed no significant differences in student perceptions based on digital familiarity, AI comfort, or prior AI use. [→ Abderrahim Agnaou; Hayat El Asri 2025](#abderrahim-agnaou-hayat-el-asri-2025)

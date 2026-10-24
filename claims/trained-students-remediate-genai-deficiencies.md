@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: huang-2026
     resource: "https://doi.org/10.1186/s40594-026-00652-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Control students rarely successfully identified and addressed GenAI limitations, while many trained students identified deficiencies and derived correct results using appropriate strategies. [→ Huang 2026](#huang-2026)

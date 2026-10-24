@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: janneke-m-frambach-2014
     resource: "https://doi.org/10.1080/03075079.2012.754865"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Six contextual factors — prior school education, scope of PBL implementation, personal characteristics, language of instruction, tutor behavior, and the assessment system — either inhibited or enhanced discussion behaviors. [→ Janneke M. Frambach 2014](#janneke-m-frambach-2014)

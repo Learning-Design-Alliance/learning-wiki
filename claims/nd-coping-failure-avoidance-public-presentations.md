@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: cynthia-zastudil-2026
     resource: "https://doi.org/10.1145/3803400.3809386"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Failure of ND students' coping mechanisms resulted in avoidance of socialization in courses and of collaborative active learning requiring frequent public presentations. [→ Cynthia Zastudil 2026](#cynthia-zastudil-2026)

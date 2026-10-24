@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-08
+recheck_by: 2028
 sources:
   - id: porter-2025
     resource: "https://consortium.uchicago.edu/publications/early-insights-from-the-revalidation-of-the-cultivate-survey"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Each of the nine Cultivate learning condition measures has a Rasch person reliability index of 0.82 or higher, exceeding the 0.80 strong-reliability threshold. [→ Porter 2025](#porter-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: dargue-2020
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101331"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant benefit of producing gestures on narrative comprehension was found. [→ Dargue 2020](#dargue-2020)

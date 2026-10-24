@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: moira-mccullough-2016
     resource: "https://www.mathematica.org/publications/do-principals-professional-practice-ratings-reflect-their-contributions-to-student-achievement"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Higher FFL scores were associated with larger value-added among middle school principals, while no relationships were detected for elementary or high school principals. [→ Moira McCullough 2016](#moira-mccullough-2016)

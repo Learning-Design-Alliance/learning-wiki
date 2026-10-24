@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: byrnes-c-2026
     resource: "https://doi.org/10.12688/hrbopenres.14332.2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` At systems level, reported barriers include lack of clinical expertise among speech and language therapists and teachers, lack of congruency between the user's communication needs and the provided AAC system, difficulty accessing funding for expensive systems, and reduced social networks with communication partners unfamiliar with AAC. [→ Byrnes C 2026](#byrnes-c-2026)

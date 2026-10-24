@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shannon-2026
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/examining-english-language-arts-course-placement-system-college-marshall-islands"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students initially placed into Level 3 and Level 4 intensive pathways had the highest passing rates on credit-bearing ELA courses on their first attempt; Level 2 placements, particularly the Level 2 intensive pathway, had the lowest passing rates. [→ Shannon 2026](#shannon-2026)

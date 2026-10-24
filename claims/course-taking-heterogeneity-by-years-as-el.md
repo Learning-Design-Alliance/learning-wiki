@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: angela-johnson-2019
     resource: "https://doi.org/10.3102/0162373719867087"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There is substantial heterogeneity in general and advanced course-taking based on time spent as an EL. [→ Angela Johnson 2019](#angela-johnson-2019)

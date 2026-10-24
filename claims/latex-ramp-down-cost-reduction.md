@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jesse-a-rodríguez-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05410"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean extra time per assignment spent writing solutions in LaTeX fell from 87 min (SD = 63) at the beginning of term to 47 min (SD = 48) at the end, a mean reduction of ≈46%. [→ Jesse A. Rodríguez 2026](#jesse-a-rodriguez-2026)

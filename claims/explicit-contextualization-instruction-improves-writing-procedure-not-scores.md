@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: sendur-et-al-2021
     resource: "https://doi.org/10.1080/10508406.2021.1939029"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=140 undergraduate L2 English learners (B2 CEFR level) at a university in Istanbul; experimental n=60, control n=80
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 In a quasi-experiment with 140 university L2 history students, explicit instruction in historical contextualization did not raise contextualization rubric scores relative to a content-matched active control, but it unexpectedly improved claim-writing and shifted how (not how much) students used and placed contextualization in their essays.
 

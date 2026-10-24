@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: mary-beth-calhoon-2013
     resource: "https://doi.org/10.1007/s11145-013-9442-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` English language status, age, some reading-related skills, avoidance of reading, previous adult education experience, class assignment, and receipt of WIC benefits all significantly predicted persistence; English language status, gender, age, some reading skills, and information access best differentiated completers from early withdrawers. [→ Mary Beth Calhoon 2013](#mary-beth-calhoon-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: taveras-elsie-m-md-2017
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545152/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In multivariable models, children sleeping <10 hours/day at 3-4 years scored 2.11 points higher (95% CI: 0.17, 4.05) on maternal-reported BRIEF global executive composite at age 7 than children sleeping ≥11 hours/day. [→ Taveras Elsie M. MD 2017](#taveras-elsie-m-md-2017)

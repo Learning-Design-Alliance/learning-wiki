@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: linus-brunnström-lisa-palmqvist-2026
     resource: "https://doi.org/10.1080/02602938.2026.2731261"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` At nearly every step the default output was too broad or too complex, and the learner had to intervene with meta-level prompts such as 'simplify' and 'make it approachable' before responses became pedagogically useful. [→ Linus Brunnström & Lisa Palmqvist 2026](#linus-brunnstrom-lisa-palmqvist-2026)

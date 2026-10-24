@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2018
 sources:
   - id: erin-dillon-2015
     resource: "https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Mathematica's study was the first to examine the extent to which PARCC assessments succeed in identifying college-ready students, and was commissioned by Massachusetts to inform its assessment choice. [→ Erin Dillon 2015](#erin-dillon-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1992
 sources:
   - id: howard-wainer-1992
     resource: "https://doi.org/10.17763/haer.62.3.1p1555011301r133"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1992 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among almost 47,000 men and women matched on type of math course taken and grade received, women on average scored about 33 SAT points lower than men with the same course and grade. [→ Howard Wainer 1992](#howard-wainer-1992)

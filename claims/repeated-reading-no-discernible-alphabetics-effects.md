@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/576"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the one study reporting alphabetics outcomes, the estimated impact was neither statistically significant nor large enough to be substantively important (improvement index +4). [→ What Works Clearinghouse 2014](#what-works-clearinghouse-2014)

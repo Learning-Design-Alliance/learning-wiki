@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-18
 sources:
   - id: summer-learning-and-beyond-opportunities-for-creating-equity-2021
     resource: "https://learningpolicyinstitute.org/product/summer-learning-creating-equity"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research demonstrates tutoring can be highly effective and that older peers as tutors, mentors, and coaches support learning gains for both older and younger students. [→ Summer Learning and Beyond: Opportunities for Creating Equity 2021](#summer-learning-and-beyond-opportunities-for-creating-equity-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: marsh-2007
     resource: "https://doi.org/10.3758/bf03194051"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students answered more cued recall questions correctly when the fact had been previously tested by multiple choice than when it had not, even without feedback. [→ Marsh 2007](#marsh-2007)

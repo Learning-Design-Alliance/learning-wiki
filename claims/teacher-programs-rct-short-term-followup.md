@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: joanne-r-beames-2023
     resource: "https://doi.org/10.1007/s10648-023-09720-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Short-term follow-up effects in RCTs were significant and large for stress (g=1.79) and moderate for professional burnout (g=0.82). [→ Joanne R. Beames 2023](#joanne-r-beames-2023)

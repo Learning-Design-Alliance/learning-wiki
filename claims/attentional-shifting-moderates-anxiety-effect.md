@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: jones-christopher-r-2012
     resource: "https://doi.org/10.1177/1948550611430166"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When attentional shifting was the moderator, the ACS-PRCS interaction on judged quality was significant (b = .14, t(56) = 2.15, p = .04). [→ Jones Christopher R. 2012](#jones-christopher-r-2012)

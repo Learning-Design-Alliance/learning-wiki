@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: hayashi-2020
     resource: "https://doi.org/10.1007/s11412-020-09333-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For the visible-gaze/visible-agent condition the process–performance regression was significant (R2 = 0.322), supporting H2-2. [→ Hayashi 2020](#hayashi-2020)

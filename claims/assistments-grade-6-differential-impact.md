@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: feng-2025
     resource: "https://eric.ed.gov/?id=ED677784"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` 6th graders significantly outperformed their comparison group (p = 0.026; effect size = 0.07), whereas no significant differences were detected for 7th grade (p = 0.204) or 8th grade (p = 0.594). [→ Feng 2025](#feng-2025)

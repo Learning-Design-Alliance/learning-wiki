@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: adopting-adapting-skyline-ela-curriculum-launch-infographic-2021
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers whose leaders prioritized investments in at least one of the five organizational capacity levers reported greater confidence and satisfaction with Skyline curricular materials than teachers whose leaders did not. [→ Adopting & Adapting: Skyline ELA curriculum launch infographic 2021](#adopting-adapting-skyline-ela-curriculum-launch-infographic-2021)

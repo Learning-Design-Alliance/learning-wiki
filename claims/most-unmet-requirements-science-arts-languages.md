@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: hanson-2020
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/implementation-career-and-college-ready-requirements-high-school-graduation-washington"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Laboratory science, fine arts, and world languages were the requirements most often unmet by 2018 on-time graduates, and credit gaps in these areas mirrored group disparities (e.g., 21 percent of high-poverty-school students earned two laboratory science credits versus 79 percent in low-poverty schools). [→ Hanson 2020](#hanson-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: darder-2015
     resource: "https://doi.org/10.7821/naer.2015.4.110"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In consultations with experienced online supervisors and their former students, the most frequently cited desirable supervisor characteristics were a supportive attitude (61.54% total), mastery of the research field (57.69%), being directive (53.85%), and being accessible, friendly and empathetic (50% total). [→ Darder 2015](#darder-2015)

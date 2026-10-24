@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: inge-molenaar-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2019.05.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A linear regression showed transfer was significantly predicted by the count of all curve forms, and separated multiple spikes had a negative impact on transfer score. [→ Inge Molenaar 2021](#inge-molenaar-2021)

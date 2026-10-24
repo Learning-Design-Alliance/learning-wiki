@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: farnaz-baksh-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15239"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a within-subjects benchmark, four RSC developers rated the v4.1 chassis substantially more usable than v4, with SUS jumping from 59.4 (Poor) to 89.4 (Excellent). [→ Farnaz Baksh 2026](#farnaz-baksh-2026)

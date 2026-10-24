@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: dupéré-2021
     resource: "https://doi.org/10.1037/edu0000484"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`–`q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Model 4, only occurrences of dropout in one's network within the past year predicted participants' dropout (OR = 3.11, 95% CI 1.78-6.27). [→ Dupéré 2021](#dupere-2021)

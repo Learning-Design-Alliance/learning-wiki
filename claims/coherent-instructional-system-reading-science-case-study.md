@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nwea-research-2026
     resource: "https://www.nwea.org/research/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A U.S. school district case study examines the practices and conditions of a coherent instructional system and where it had the most impact, offering a practical model for leaders. [→ NWEA Research 2026](#nwea-research-2026)

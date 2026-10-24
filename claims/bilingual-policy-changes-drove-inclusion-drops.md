@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
+recheck_by: 2003
 sources:
   - id: john-q-easton-2000
     resource: "https://eric.ed.gov/?q=Annual+CPS+Test+Trend+Review+1999"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` When CPS moved bilingual students' entry into the accountability system from after three years to after four years in the program, the fourth-grade inclusion rate dropped; an earlier-testing allowance caused the 1997 third-grade drop. [→ John Q. Easton 2000](#john-q-easton-2000)

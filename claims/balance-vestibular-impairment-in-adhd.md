@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: ghanizadeh-a-2011
     resource: "https://doi.org/10.4306/pi.2011.8.2.89"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Balance performance and postural control are more impaired in children with ADHD combined type than typically developing children, and more than one third have poor balance and coordination. [→ Ghanizadeh A 2011](#ghanizadeh-a-2011)

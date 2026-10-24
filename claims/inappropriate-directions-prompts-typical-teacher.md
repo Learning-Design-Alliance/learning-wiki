@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: fatima-zehra-allahverdi-2025
     resource: "https://doi.org/10.1007/s11251-025-09725-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The typical teacher's students received more inappropriate directions and prompts to set a purpose than the high-change teacher's students, and her low-change students were seldom reminded to read with their purpose in mind or find evidence for it. [→ Fatima Zehra Allahverdi 2025](#fatima-zehra-allahverdi-2025)

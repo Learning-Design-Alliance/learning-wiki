@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: dishon-et-al-2024
     resource: "https://doi.org/10.1080/07370008.2023.2248641"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3` · `i?` · n=120 first-year undergraduates (24 groups of 5), one Introduction to Psychology course, Israeli research university
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 After a semester of collaboratively critiquing and redesigning flawed psychological studies, introductory psychology students significantly increased their use of disciplinary evidence-evaluation ideals (valid methods, replication, procedural objectivity) and significantly decreased reliance on personal experience and a naive, value-free notion of objectivity — while their evaluation of *lay* evidence sources (source credibility, outlet reliability) did not significantly change.
 

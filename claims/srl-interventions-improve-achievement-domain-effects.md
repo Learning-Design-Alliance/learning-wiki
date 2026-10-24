@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ulrich-trautwein-2026
     resource: "https://doi.org/10.1007/s10648-026-10190-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Meta-analyses report sizable average effects of SRL strategy interventions on achievement, ranging from g = 0.26 for reading to g = 1.25 for writing. [→ Ulrich Trautwein 2026](#ulrich-trautwein-2026)

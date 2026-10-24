@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: chiang-2015
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the program's second year, more teachers understood their bonus eligibility and evaluation than in the first year, yet more than one-third still did not understand they were eligible, and teachers believed the largest bonuses were only about two-fifths the actual maximum size. [→ Chiang 2015](#chiang-2015)

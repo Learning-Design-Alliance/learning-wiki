@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: lai-y-2015
     title: Lai Y 2015
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` ANCOVA controlling for IQ showed a significant group effect on self-image (F(3, 211) = 3.84, p < .05, ηp2 = .11, 1 - β = .81), with MLD children (M = 3.21) significantly lower than TA (M = 3.76) and HA (M = 3.98) children. [→ Lai Y 2015](#lai-y-2015)

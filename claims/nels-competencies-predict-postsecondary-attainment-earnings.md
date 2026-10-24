@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-18
 sources:
   - id: john-deke-2006
     resource: "https://www.mathematica.org/publications/valuing-student-competencies-which-ones-predict-postsecondary-educational-attainment-and-earnings-and-for-whom"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Indicators of several academic and nonacademic competencies are related to postsecondary earnings and to postsecondary attendance and completion in NELS data. [→ John Deke 2006](#john-deke-2006)

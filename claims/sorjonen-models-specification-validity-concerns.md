@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: fernando-núñez-regueiro-2025
     resource: "https://doi.org/10.1007/s10648-025-10059-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In the authors' view, the models proposed by Sorjonen et al. relied on specifications that raised concerns about model validity or did not fully capture the temporal structure central to the extended REM. [→ Fernando Núñez-Regueiro 2025](#fernando-nunez-regueiro-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: schnaubert-2021
     resource: "https://doi.org/10.1007/s11409-021-09269-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` After viewing partner information, the absolute distance between own and partner answers decreased significantly (d = 0.78). [→ Schnaubert 2021](#schnaubert-2021)

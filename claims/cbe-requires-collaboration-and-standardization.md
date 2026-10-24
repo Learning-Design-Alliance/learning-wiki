@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: ann-e-person-2015
     resource: "https://www.mathematica.org/publications/implementation-of-competencybased-education-in-community-colleges-findings-from-the-evaluation"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` CBE curriculum development demands more collaboration and standardization than typical community college programs. [→ Ann E. Person 2015](#ann-e-person-2015)

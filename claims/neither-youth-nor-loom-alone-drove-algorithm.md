@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: anna-keune-2024
     resource: "https://doi.org/10.1007/s11412-023-09412-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one participant's gap-pattern weaving, the loom's material arrangement obstructed continuation of the established algorithm and demanded simultaneous building of both sides, showing mutual human-material determination of the algorithm. [→ Anna Keune 2024](#anna-keune-2024)

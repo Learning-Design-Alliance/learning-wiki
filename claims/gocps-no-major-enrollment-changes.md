@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: sebring-2021
     resource: "https://www.5-essentials.org/cps/5e/2018/s/610268/essentials/families/#trends?c=district&o=-change"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The GoCPS common application system did not result in major changes in enrollment patterns, though it made applying easier and broadened the elementary schools feeding high schools. [→ Sebring 2021](#sebring-2021)

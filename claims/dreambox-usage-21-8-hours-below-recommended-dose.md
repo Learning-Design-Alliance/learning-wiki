@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: usage
     title: usage
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Although scheduled for 20 to 40 minutes per day, intervention students averaged 21.8 hours of DreamBox Learning usage over the study, approximately 16 minutes per day. [→ usage](#usage)

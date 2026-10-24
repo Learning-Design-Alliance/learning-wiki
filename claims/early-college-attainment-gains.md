@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: darling-hammond-2017
     resource: "https://learningpolicyinstitute.org/product/expanding-high-quality-options"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` An evaluation found Early College high school students were significantly more likely than comparison students to graduate from high school, enroll in college, and complete college, with the greatest college attainment impacts for students of color and low-income students. [→ Darling-Hammond 2017](#darling-hammond-2017)

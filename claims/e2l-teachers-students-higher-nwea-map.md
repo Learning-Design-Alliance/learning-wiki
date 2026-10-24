@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: engage2learn-e2l-evidence-rating-2022
     resource: "https://www.evidenceforlearning.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In a retrospective matched study of 169 teachers in 10 Texas schools, students of e2L teachers outscored students of non-e2L teachers in the same schools (effect size = +0.33) and students in comparison schools (effect size = +0.19) on NWEA MAP. [→ engage2learn (e2L): Evidence Rating 2022](#engage2learn-e2l-evidence-rating-2022)

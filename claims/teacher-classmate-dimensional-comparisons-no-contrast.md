@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: jens-möller-2024
     resource: "https://doi.org/10.1007/s10648-024-09918-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When teachers and classmates were asked about students' subject-specific self-concepts, no contrast effects from dimensional comparisons emerged; Dai (2002) found dimensional comparison effects only for parents judging children's abilities, not self-concepts. [→ Jens Möller 2024](#jens-moller-2024)

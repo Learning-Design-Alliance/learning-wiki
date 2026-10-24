@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: graham-la-2023
     resource: "https://doi.org/10.1111/1475-6773.14106"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Applying the adapted CTA framework in the ongoing discharge planning pilot uncovered key stakeholders in the discharge process of which the team was initially unaware, as well as numerous barriers to discharging a patient after surgery. [→ Graham LA 2023](#graham-la-2023)

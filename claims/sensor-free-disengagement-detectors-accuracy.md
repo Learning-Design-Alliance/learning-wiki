@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: kenneth-r-koedinger-2012
     resource: "http://learnlab.org/datashop"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Gaming-the-system detectors validated on new students and lessons achieved A' / AUC over 0.8 using interaction features such as repeated fast errors on poorly known skills. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)

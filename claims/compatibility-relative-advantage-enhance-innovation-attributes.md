@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: al-rahmi-2026
     resource: "https://doi.org/10.53761/fskfah39"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Technological characteristics, including compatibility with existing systems and perceived relative advantage, strongly enhance the perceived innovation attributes of AI technologies. [→ Al-Rahmi 2026](#al-rahmi-2026)

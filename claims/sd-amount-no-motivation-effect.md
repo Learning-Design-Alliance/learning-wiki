@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lukas-wesenberg-2026
     resource: "https://doi.org/10.1007/s11251-026-09781-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Contrary to the motivational view (H3), the SD amount did not affect intrinsic motivation in Study 1 (b = 0.01, p = .892) or Study 2 (b = −0.06, p = .628). [→ Lukas Wesenberg 2026](#lukas-wesenberg-2026)

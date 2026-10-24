@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who initially used unedited voice prompting had lower odds of immediate success than text prompters on P1 (OR = 0.50) and P2 (OR = 0.43). [→ rq1-logistic](#rq1-logistic)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-17
 sources:
   - id: miri-2007
     resource: "https://doi.org/10.1007/s11165-006-9029-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group improved significantly on disposition towards critical thinking subscales such as truth-seeking, open-mindedness, self-confidence, and maturity relative to control groups. [→ Miri 2007](#miri-2007)

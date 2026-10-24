@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: hoyniak-2015
     resource: "https://doi.org/10.1080/87565641.2015.1016162"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Behavioral accuracy and response time on the Oddball task were uncorrelated with target P3 amplitudes and latencies, suggesting behavioral performance may capture different individual differences than ERPs. [→ Hoyniak 2015](#hoyniak-2015)

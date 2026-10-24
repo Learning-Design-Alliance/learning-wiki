@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2020
 sources:
   - id: john-f-pane-2015
     resource: "https://doi.org/10.7249/rr1365"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Where flexibility and choice were offered, they appeared teacher-driven rather than student-driven; most teachers did not report high levels of student choice in content or path. [→ John F. Pane 2015](#john-f-pane-2015)

@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-16
 sources:
   - id: takako-nomi-2010
     resource: "https://consortium.uchicago.edu/publications/effects-tracking-supports-instructional-climate-and-student-outcomes-high-school"
@@ -40,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-16 (automated, 3 of 3 entries) · not reviewed by a person
 
 <!-- title before 2026-10-15: Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01) -->
 

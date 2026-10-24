@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: huber-2024
     resource: "https://doi.org/10.1007/s10648-024-09868-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Over-reliance on LLMs in educational contexts risks learners losing essential ingredients of expertise development, with associated risks of deskilling, automation bias, and reduced human autonomy and judgment competence. [→ Huber 2024](#huber-2024)

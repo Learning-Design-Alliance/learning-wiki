@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: tino-endres-2020
     resource: "https://doi.org/10.1007/s11251-020-09526-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Situational interest was higher after free-recall than after short-answer retrieval practice, and recall performance differences positively predicted interest differences. [→ Tino Endres 2020](#tino-endres-2020)

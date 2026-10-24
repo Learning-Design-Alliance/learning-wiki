@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: magar-2025
     resource: "https://doi.org/10.1007/978-3-031-98465-5_15"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors learn a BERT model with embeddings for strategies and develop a prediction task distinguishing successful from unsuccessful strategies, analyzing its results for insights into student strategies. [→ Magar 2025](#magar-2025)

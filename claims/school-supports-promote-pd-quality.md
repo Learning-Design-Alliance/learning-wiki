@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: mark-a-smylie-2001
     resource: "https://consortium.uchicago.edu/publications/teacher-professional-development-chicago-supporting-effective-practice"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The quality of professional development can be promoted by principal leadership, school orientation toward innovation, and the strength of teacher professional community. [→ Mark A. Smylie 2001](#mark-a-smylie-2001)

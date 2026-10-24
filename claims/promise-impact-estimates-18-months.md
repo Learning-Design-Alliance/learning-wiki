@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: arif-mamun-2019
     resource: "https://www.mathematica.org/publications/es-promoting-readiness-of-minors-in-ssi-promise-evaluation-interim-services-and-impact-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The evaluation measured impacts of the six PROMISE programs on primary outcomes at 18 months after youth enrolled in the evaluation. [→ Arif Mamun 2019](#arif-mamun-2019)

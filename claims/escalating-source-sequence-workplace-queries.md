@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2003
+recheck_by: 2008
 sources:
   - id: david-boud-and-heather-middleton-2003
     resource: "https://doi.org/10.1108/13665620310483895"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When a difficulty or query about organisational processes arises, workers typically seek answers first from documentary sources, then progressively from peers, more distant peers or senior roles, and finally supervisors. [→ David Boud and Heather Middleton 2003](#david-boud-and-heather-middleton-2003)

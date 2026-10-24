@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: łucja-biel-2026
     resource: "https://doi.org/10.48550/arxiv.2608.04641"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in a pilot survey generally adopted a cautious and pragmatic approach to GenAI, using NMT for draft translations and LLMs mainly for terminology research, style improvement and background research. [→ Łucja Biel 2026](#ucja-biel-2026)

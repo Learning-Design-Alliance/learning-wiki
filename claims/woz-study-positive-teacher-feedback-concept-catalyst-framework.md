@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: singh-2025
     resource: "https://doi.org/10.48550/arxiv.2605.20511"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Teachers who trialed the Concept Catalyst framework in a Wizard-of-Oz study reported positive feedback on efficiency, quality, and diversity of content, and said it helped them engage more deeply with the EDP. [→ Singh 2025](#singh-2025)

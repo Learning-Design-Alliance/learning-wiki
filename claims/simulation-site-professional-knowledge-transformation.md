@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: charlott-sellberg-oskar-lindwall-2025
     resource: "https://doi.org/10.1007/s11251-025-09763-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the special issue studies, simulation emerges as a setting where professional knowledge itself is produced, debated, and reconfigured, including the collaborative redesign of organisational routines in healthcare. [→ Charlott Sellberg & Oskar Lindwall 2025](#charlott-sellberg-oskar-lindwall-2025)

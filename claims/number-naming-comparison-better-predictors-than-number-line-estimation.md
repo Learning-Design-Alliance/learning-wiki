@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-18
 sources:
   - id: praet-2013
     resource: "https://www.sciencedirect.com/science/article/LAEIND-D-12-OO174R1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the estimation-tasks regression, number comparison (p = .009) and number naming (p = .011) were significant predictors of kindergarten arithmetic but number line estimation was not (p = .199). [→ Praet 2013](#praet-2013)

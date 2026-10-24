@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yuan-an-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27063"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average perceived learning benefit dropped from 0.67 in Week 3 to 0.47 in the final survey on a −1 to +2 scale, even as satisfaction remained high. [→ Yuan An 2026](#yuan-an-2026)

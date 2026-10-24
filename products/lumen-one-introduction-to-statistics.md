@@ -38,7 +38,8 @@ Lumen Learning's online statistics courseware replaces or supplements textbooks 
 - [Three fidelity components—completing Apply It problems, following up on Time-Sensitive Interventions, and having Automated Messages on—differentiate classes with better-vs-poorer-than-expected grades.](../claims/three-key-fidelity-components-achievement.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Jones' A First Course in Statistics](jones-a-first-course-in-statistics.md)
 
 ## Key Sources
 - Barbara Means, Julie Neisler, Daniel Parker, Vanessa Peters Hinton, and Emily Pressler. (2026). Lessons From Implementing Courseware in Gateway Statistics Courses. Digital Promise. https://digitalpromise.dspacedirect.org/items/12bb84f5-0073-40e6-85bb-41561222891b

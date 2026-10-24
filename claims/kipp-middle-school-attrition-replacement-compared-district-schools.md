@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: ira-nichols-barrer-2012
     resource: "https://www.mathematica.org/publications/student-selection-attrition-and-replacement-in-kipp-middle-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Longitudinal student-level data allow examination of entry and exit of students in KIPP middle schools and comparison of attrition and replacement rates with nearby district-run schools. [→ Ira Nichols-Barrer 2012](#ira-nichols-barrer-2012)

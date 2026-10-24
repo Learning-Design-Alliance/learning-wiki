@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: charles-crook-2022
     resource: "https://doi.org/10.1007/s11412-022-09364-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Embedding the regulation of a private reading task in a collaborative script was reported to be effective in shaping the group's regulative activity, though only at a low level. [→ Charles Crook 2022](#charles-crook-2022)

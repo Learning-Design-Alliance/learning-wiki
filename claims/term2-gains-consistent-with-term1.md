@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: stuart-webb-and-anna-c-s-chang-2015
     resource: "https://doi.org/10.1017/S0272263114000606"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The learning gains in Term 2 were consistent with those from Term 1, replicating the group-level gain pattern across a second set of graded readers and target words. [→ Stuart Webb and Anna C.-S. Chang 2015](#stuart-webb-and-anna-c-s-chang-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: baoyi-w-and-khan-fu-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1881032"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers report being increasingly unable to tell whether a student can actually communicate or is performing AI-recommended responses. [→ Baoyi W and Khan FU 2026](#baoyi-w-and-khan-fu-2026)

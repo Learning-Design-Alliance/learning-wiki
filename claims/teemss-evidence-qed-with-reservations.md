@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: qed-1
     title: qed-1
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The single qualifying study is a quasi-experimental design in which the same teachers taught the treatment group (2005–06) and an earlier comparison group (2004–05) taught with regular methods. [→ qed-1 (2)](#qed-1-2)

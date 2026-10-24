@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: paradise-unified-school-district-building-school-mental-health-systems-to-support-healing-and-recovery-through-project-cal-well-2024
     resource: "https://eric.ed.gov/?id=ED655970"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` An increased percentage of PUSD secondary students reported that people talk openly about mental health at school and that they know where to go at school when feeling sad, stressed, lonely, or depressed. [→ Paradise Unified School District: Building School Mental Health Systems to Support Healing and Recovery Through Project Cal-Well 2024](#paradise-unified-school-district-building-school-mental-health-systems-to-support-healing-and-recovery-through-project-cal-well-2024)

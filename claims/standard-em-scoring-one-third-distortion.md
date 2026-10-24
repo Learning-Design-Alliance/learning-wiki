@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: steven-wise-2020
     resource: "https://doi.org/10.1111/jedm.12275"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a retest-based evaluation, standard E-M scoring accounted for roughly one-third of the score distortion attributable to differential disengagement. [→ Steven Wise 2020](#steven-wise-2020)

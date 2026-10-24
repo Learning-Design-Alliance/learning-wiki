@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across models of acceptance of peers with ADHD and depression, participant age, participant gender, and perceived responsibility of the target were the three most important predictors. [→ ev-abstract-results](#swords-2011)

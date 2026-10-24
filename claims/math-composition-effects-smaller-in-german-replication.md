@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kopatz-2025
     resource: "https://osf.io/n5xur/?view_only=48daea427ab44c9abd13b21b1e2b42f6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effects of class mean mathematics achievement on individual achievement were smaller and less often statistically significant compared with Lavrijsen et al. (2022). [→ Kopatz 2025](#kopatz-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ciğercci-fm-and-uygun-n-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1741116"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers with 6–10 years of experience reported more positive scores than teachers with 21 years or more on the overall score and several sub-dimensions, with no significant difference in the personal-experiences dimension. [→ Ciğercci FM and Uygun N 2026](#cigercci-fm-and-uygun-n-2026)

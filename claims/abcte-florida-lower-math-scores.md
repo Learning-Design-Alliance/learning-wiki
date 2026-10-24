@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: christina-clark-tuttle-2009
     resource: "https://www.mathematica.org/publications/abcte-teachers-in-florida-and-their-effect-on-student-performance"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students of ABCTE teachers scored lower than their counterparts on the state math test. [→ Christina Clark Tuttle 2009](#christina-clark-tuttle-2009)

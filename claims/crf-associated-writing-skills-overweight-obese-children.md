@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: cadenas-sanchez-2020
     resource: "https://doi.org/10.1080/02640414.2020.1729516"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` After adjustment for age, sex, and maternal education, field-based cardiorespiratory fitness (20m shuttle-run) was associated with writing (β=0.281) and written expression (β=0.365) on the Woodcock-Muñoz test. [→ Cadenas-Sanchez 2020](#cadenas-sanchez-2020)

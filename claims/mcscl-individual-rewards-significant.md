@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: sung-yao-ting-2017
     resource: "https://doi.org/10.3102/0034654317704307"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Studies using individual rewards had the largest ES (g = 0.580); group rewards for individual learning (g = 0.476) and group rewards for group outcomes (g = −0.069) were not significant. [→ Sung Yao-Ting 2017](#sung-yao-ting-2017)

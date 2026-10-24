@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: zahra-2025
     resource: "https://doi.org/10.48550/arxiv.2610.00338"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative content analysis of 50 double-coded messages classified exchanges into the three typological paths, with R1 final classifications of 46% Path 1, 18% Path 2, and 36% Path 3. [→ Zahra 2025](#zahra-2025)

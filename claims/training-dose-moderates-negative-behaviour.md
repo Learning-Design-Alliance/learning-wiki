@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: dunning-2019
     resource: "https://doi.org/10.1111/jcpp.12980"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across all 33 RCTs, total hours of mindfulness training significantly moderated reduction in Negative Behaviour (Q = 7.30, p = .007), with larger effect sizes related to more hours of training. [→ Dunning 2019](#dunning-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://www.failurefreeonline.com/index_parents.php"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Although neither comprehension outcome was statistically significant, the average effect size across the two comprehension outcomes (0.26) was large enough to be substantively important, yielding a WWC rating of potentially positive effects. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

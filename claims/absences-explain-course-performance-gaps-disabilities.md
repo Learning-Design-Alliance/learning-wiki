@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-17
 sources:
   - id: julia-gwynne-2009
     resource: "https://consortium.uchicago.edu/publications/what-matters-staying-track-and-graduating-chicago-public-schools-focus-students"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Once higher absence rates are taken into account, course failures and grades of students with disabilities are similar to those of students without disabilities; background characteristics and school type explain less of the difference. [→ Julia Gwynne 2009](#julia-gwynne-2009)

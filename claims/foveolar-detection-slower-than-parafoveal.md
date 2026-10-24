@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: poletti-martina-2017
     resource: "https://doi.org/10.1038/nn.4622"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Observers were slower to detect foveolar than parafoveal targets (p<0.0001), with an average reaction-time increment of 46 ± 3 ms, even though stimuli were equally detectable across experiments. [→ Poletti Martina 2017](#poletti-martina-2017)

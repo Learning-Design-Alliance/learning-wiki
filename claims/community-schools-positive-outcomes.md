@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: cookson-2022
     resource: "https://doi.org/10.54300/121.698"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A Rand Corporation study of the New York City Community Schools Initiative found positive impacts on student attendance, grade progress, math achievement, and students' sense of connectedness to peers and school. [→ Cookson 2022](#cookson-2022)

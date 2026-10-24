@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: academy-breaks-the-isolation-of-special-education-directors-2014
     resource: "https://eric.ed.gov/?id=ED559625"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` All graduates polled in a recent survey said they would recommend Academy participation to a colleague, and graduates report peer networks that continue after the program ends. [→ Academy Breaks the Isolation of Special Education Directors 2014](#academy-breaks-the-isolation-of-special-education-directors-2014)

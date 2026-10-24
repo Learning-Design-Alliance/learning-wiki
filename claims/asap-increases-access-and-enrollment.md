@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2019
 sources:
   - id: what-works-clearinghouse-2019
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/695"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In two RCTs meeting WWC standards, ASAP produced a positive, statistically significant effect on access and enrollment, with a domain-average effect size of 0.34 and improvement index of +13. [→ What Works Clearinghouse 2019](#what-works-clearinghouse-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: russell-scheinberg-2026
     resource: "https://doi.org/10.48550/arxiv.2606.22225"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After accounting for input volume and learner output, condition does not reliably predict lexical adoption (β=−1.77, p=.062). [→ Russell Scheinberg 2026](#russell-scheinberg-2026)

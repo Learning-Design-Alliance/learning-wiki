@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: math-180-evidence-rating-summary-2017
     resource: "https://www.hmhco.com/math-180"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In a 2014-2015 randomized study with 6th grade students across six schools, students receiving Math 180 exhibited greater growth on NWEA MAP mathematics assessments than students in the comparison condition, with an effect size of +0.31. [→ Math 180® Evidence Rating Summary 2017](#math-180-evidence-rating-summary-2017)

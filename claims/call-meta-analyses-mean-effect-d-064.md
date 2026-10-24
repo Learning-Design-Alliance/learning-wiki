@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: boulton-2016
     resource: "https://doi.org/10.14705/rpnet.2016.eurocall2016.538"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 12 meta-analyses of CALL effects versus control or comparison groups, the mean effect size is d=.64, characterised as barely a medium effect under field-specific benchmarks. [→ Boulton 2016](#boulton-2016)

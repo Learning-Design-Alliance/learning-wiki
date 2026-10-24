@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-21
 sources:
   - id: john-hattie-2025
     resource: "https://doi.org/10.1007/s10648-025-10002-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across four meta-analyses capturing 143 studies and 401 effects, matching or meshing teaching to students' preferred learning style has an overall effect size of d = 0.04, providing little to no support for the matching hypothesis. [→ John Hattie 2025](#john-hattie-2025)

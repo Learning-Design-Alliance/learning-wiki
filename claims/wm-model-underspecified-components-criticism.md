@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: demir-2021
     resource: "https://doi.org/10.34293/education.v9iS2-Sep.4366"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A stated limitation of the WM model is that it is not perfectly specified and its components and interrelationships are underspecified, causing it to fail as a tool for making predictions and explaining phenomena. [→ Demir 2021](#demir-2021)

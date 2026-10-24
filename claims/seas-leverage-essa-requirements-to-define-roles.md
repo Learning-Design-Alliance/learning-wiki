@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: dunn-2019
     resource: "https://eric.ed.gov/?id=ED602966"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Many SEAs use ESSA requirements to define an increased district role, and the majority of interviewed personnel described leveraging ESSA flexibility to design improvement plans meeting their districts' specific needs. [→ Dunn 2019](#dunn-2019)

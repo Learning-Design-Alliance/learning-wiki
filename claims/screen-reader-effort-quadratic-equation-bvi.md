@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: steinbach-2022
     resource: "https://www.nwea.org/research/publication/looking-beyond-vision-supports-for-students-who-are-blind-or-visually-impaired-in-mathematics/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using a keystroke-level model task analysis, JAWS users completed a quadratic-equation information task in 132 seconds while NVDA users took 203.28 seconds, with JAWS users requiring fewer mental operations. [→ Steinbach 2022](#steinbach-2022)

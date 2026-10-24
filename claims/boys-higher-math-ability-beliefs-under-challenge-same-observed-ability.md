@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: perez-felkner-l-2017
     title: Perez-Felkner L 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the observed ability distribution, boys consistently rate their perceived mathematics ability under challenge more highly than girls, with gaps of 0.29, 0.34, and 0.24 standard deviations at the 50th, 70th, and 90th percentiles of 10th grade ability. [→ Perez-Felkner L 2017](#perez-felkner-l-2017)

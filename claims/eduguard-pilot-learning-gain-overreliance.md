@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: s-m-asif-hossain-2026
     resource: "https://doi.org/10.48550/arxiv.2607.15738"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` EduGuard produced higher immediate post-test accuracy, larger normalized learning gain, lower confidence calibration error, and lower overreliance behavior than GPT-4o-mini Tutor in a counterbalanced within-subject pilot. [→ S M Asif Hossain 2026](#s-m-asif-hossain-2026)

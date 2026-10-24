@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: sesame-1
     title: sesame-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The report attributes Sesame Street's educational success to a model combining curriculum development, formative research on children's learning needs, and summative research on ongoing impact, citing over a thousand studies of its impact. [→ sesame-1](#sesame-1)

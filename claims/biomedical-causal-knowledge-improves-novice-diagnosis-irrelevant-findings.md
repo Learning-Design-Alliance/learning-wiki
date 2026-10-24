@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2007
+source_checked: 2026-10-18
 sources:
   - id: woods-2007
     resource: "https://doi.org/10.1007/s10459-006-9054-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Novices taught causal mechanisms outperform feature-list-trained novices on cases containing irrelevant findings. [→ Woods 2007](#woods-2007)

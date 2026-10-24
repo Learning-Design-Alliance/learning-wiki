@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: karns-christina-m-2015
     resource: "https://doi.org/10.1016/j.dcn.2015.03.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Late-N1 peak latency for linguistic probes decreased with age, with 10-, 13-, and 16-year-olds showing longer latencies than adults. [→ Karns Christina M. 2015](#karns-christina-m-2015)

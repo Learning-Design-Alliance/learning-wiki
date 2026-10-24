@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: kleibeuker-2013
     resource: "https://doi.org/10.3389/fnhum.2013.00905"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` ROI analysis revealed a significant age group × condition interaction on left IFG/MFG contrast estimates, with adults showing larger condition effects than adolescents (η2 = 0.15). [→ Kleibeuker 2013](#kleibeuker-2013)

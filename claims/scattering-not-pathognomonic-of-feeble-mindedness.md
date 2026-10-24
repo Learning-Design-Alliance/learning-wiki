@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1921
 sources:
   - id: wallin-1921
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A five-fold analysis of 2206 Binet records found little support for the view that want of equilibrium differentiates defective children. [→ Wallin 1921](#wallin-1921)
@@ -53,3 +55,4 @@ Descriptive group-comparison analysis of 2206 Binet records from clinic and inst
 - [The author predicts the six elemental tests will not vary with age in children old enough to apply themselves, roughly five to ten years](prediction-no-age-variation-children-elemental-tests.md) — related
 - [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](binet-simon-scale-valuable-trained-dangerous-untrained.md) — related
 - [In Goddard's Vineland examination of 1547 pupils, only about half of mentally over-age and under-age pupils show corresponding advancement or retardation in school grading](goddard-binet-mental-age-vs-pedagogical-age.md) — related
+- [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](mental-age-grouping-unreliable-for-educational-treatment.md) — related

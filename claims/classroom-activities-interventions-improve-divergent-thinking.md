@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: bruce-s-rawlings-sarah-j-cutting-2024
     resource: "https://doi.org/10.1007/s10648-024-09973-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spanish 9–10-year-olds given reading and writing tasks in classroom cooperation over 2 months improved divergent thinking, while those given the same tasks in a non-cooperative context did not improve. [→ Bruce S. Rawlings & Sarah J. Cutting 2024](#bruce-s-rawlings-sarah-j-cutting-2024)

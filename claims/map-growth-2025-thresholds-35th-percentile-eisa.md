@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: he-2021
     resource: "https://www.nwea.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A July 2025 memorandum updates the screening thresholds to the 35th percentile for mathematics and reading, referencing the 2025 MAP Growth norms and adjusting for comparability with EISA-based assessments. [→ He 2021](#he-2021)

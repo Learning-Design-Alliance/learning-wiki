@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: gehlbach-2021
     resource: "https://osf.io/suhvj/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Treatment teachers did not perceive greater similarity with their focal students than control teachers (Cohen's d = -0.07, 95% CI -0.51 to 0.36); the printed effect is negligible and the interval spans zero. [→ Gehlbach 2021](#gehlbach-2021)

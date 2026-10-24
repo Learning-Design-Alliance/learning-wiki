@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: karavi-2022
     resource: "https://doi.org/10.29333/ejmste/12173"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Viirman's (2021) study as reviewed, meta-rules emerged in lecturers' mathematical discourse that were either endorsed (explicitly displayed) or enacted (implied by discursive activity), all serving to produce or substantiate a narrative about a mathematical object. [→ Karavi 2022](#karavi-2022)

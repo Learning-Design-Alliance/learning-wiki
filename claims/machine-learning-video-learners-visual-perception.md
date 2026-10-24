@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: jarodzka-2020
     resource: "https://doi.org/10.1007/s10648-020-09565-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Goldberg et al. used machine learning to automatically analyze regular video recordings of an authentic lecture, allowing conclusions on learners' visual perception where eye-tracking large numbers of learners is infeasible. [→ Jarodzka 2020](#jarodzka-2020)

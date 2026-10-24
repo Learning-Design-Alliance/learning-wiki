@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: elaheh-sanoubari-2026
     resource: "https://doi.org/10.48550/arxiv.2604.00300"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Children's perceived self-efficacy for defending increased significantly from pre-test to post-test after playing REMind, with a medium-to-large effect size. [→ Elaheh Sanoubari 2026](#elaheh-sanoubari-2026)

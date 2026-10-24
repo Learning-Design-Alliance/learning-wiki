@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: daniel-r-espinas-2024
     resource: "https://doi.org/10.1007/s10648-024-09889-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Twelve studies examined metacognition; comprehension monitoring, strategy knowledge, and multiple-text strategy use correlated between r = 0.05 and r = 0.36 with intertextual integration. [→ Daniel R. Espinas 2024](#daniel-r-espinas-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: huey-1911
     resource: "https://en.wikisource.org/wiki/The_Binet_Scale_for_Measuring_Intelligence_and_Retardation"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The Binet norms may need revision when applied to other social classes and regions because they were derived from Paris working-class children. [→ Huey 1911](#huey-1911)
@@ -48,3 +50,4 @@ Huey's caution, attributed partly to Binet himself, about the generalizability o
 - [Prosocial behavior, aggression, and peer relationships are stratified along gender, ethnoracial, and socioeconomic lines](citizenship-behavior-sociodemographic-stratification.md) — related
 - [Taylor's Sheffield study suggests the Binet scale is broadly suitable for English children, though tests for ages 6 and 7 seem too easy and tests above 11 seem unsatisfactory.](sheffield-103-children-binet-suitable-english-ages-6-7-easy.md) — a narrower finding that bears on this claim
 - [Six independent applications of the Binet scale in widely separated countries show surprising agreement in the age ranking of the tests, suggesting many tests are correctly placed](binet-scale-cross-national-agreement-age-ranking.md) — related
+- [Binet-Simon intelligence tests are applicable only to European and American conditions; other tests are needed for primitive peoples](binet-simon-tests-culturally-limited.md) — related

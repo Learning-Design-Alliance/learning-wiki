@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: tripathi-2026
     resource: "https://doi.org/10.48550/arxiv.2605.21962"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Early LLM-based educational systems showed mixed results, with impressive conversational capabilities coexisting with pedagogical aimlessness—the tendency for conversation to drift without a coherent instructional objective. [→ Tripathi 2026](#tripathi-2026)

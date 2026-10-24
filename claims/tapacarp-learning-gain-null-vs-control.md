@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: cuendet-2015
     resource: "https://doi.org/10.1007/s11412-015-9213-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning gain measured with a pre-test/post-test mechanism did not show any significant difference compared to that of a control group. [→ Cuendet 2015](#cuendet-2015)

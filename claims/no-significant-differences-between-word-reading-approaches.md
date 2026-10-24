@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: julia-j-yi-2026
     resource: "https://doi.org/10.1007/s10648-026-10124-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Moderator analyses found no statistically significant differences in effects between intervention approaches (e.g., morphological instruction, phonics, syllabication), with trends suggesting whole word recognition interventions were associated with null effects. [→ Julia J. Yi 2026](#julia-j-yi-2026)

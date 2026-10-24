@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: tania-vieites-2024
     resource: "https://doi.org/10.1007/s11409-024-09376-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The hypothesised post-test advantage of the MITCA group in information seeking and help management skills was not confirmed; at pre-test the control group was actually higher (d = 0.14). [→ Tania Vieites 2024](#tania-vieites-2024)

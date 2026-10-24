@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: angela-johnson-2019
     resource: "https://doi.org/10.3102/0162373719867087"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` English learners lag behind their peers in academic achievement and attainment, partly due to limited exposure to academic content. [→ Angela Johnson 2019](#angela-johnson-2019)
@@ -63,6 +66,7 @@ The abstract states this as framing: ELs "lag behind their peers in academic ach
 
 
 ## Related Claims
+
 - [In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss](el-reading-graded-growth-pattern-summer-loss.md) — related
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [All three English Learner groups have lower mean math and reading achievement than the all-student average in kindergarten](el-groups-lower-kindergarten-achievement.md) — related
@@ -78,3 +82,4 @@ The abstract states this as framing: ELs "lag behind their peers in academic ach
 - [Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma compared to 86% of other ever-EL peers](ltel7-graduation-disparities.md) — a narrower finding that bears on this claim
 - [Former English Learners graduated from CPS high school at a higher rate (89.0%) than students never classified as English Learners (84.1%)](cps-former-els-graduate-higher-than-never-els.md) — related
 - [Statewide mathematics achievement gaps between English learners and English speakers increased from 2015 to 2017, a pattern evident in all but one MiC district](el-english-speaker-gap-increasing-statewide.md) — a narrower finding that bears on this claim
+- [Children's school attainments show a far-reaching dependence on those of their ancestors, not attributable to similarity of environment](peters-ancestral-heredity-school-records.md)

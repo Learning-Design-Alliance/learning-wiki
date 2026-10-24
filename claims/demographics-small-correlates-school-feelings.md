@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: moeller-2017
     resource: "https://scholar.google.com/scholar?q=High+school+students%E2%80%99+feelings+Moeller+Brackett+Ivcevic+White"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Positive feelings were higher for male, older, higher-SES, private-school, and ethnic-minority students, but all effects were small, with SES the largest (β = .209**). [→ Moeller 2017](#moeller-2017)

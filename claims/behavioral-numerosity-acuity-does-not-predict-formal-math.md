@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: haist-frank-2015
     resource: "https://doi.org/10.1002/hbm.22666"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither RT nor accuracy behavioral ratio effects significantly predicted the WJ-III Broad Math index, its four subtests, reading achievement, or full scale IQ in the full sample or any age group. [→ Haist Frank 2015](#haist-frank-2015)

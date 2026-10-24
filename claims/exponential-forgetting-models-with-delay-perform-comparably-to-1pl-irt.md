@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: reddy-2016
     resource: "https://doi.org/10.1145/2939672.2939850"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Exponential forgetting models 5, 8, 10 and 13, which include the delay term, performed comparably to 1PL-IRT (model 3), the best benchmark among 0PL-IRT, 1PL-IRT and logistic regression; comparable performance was read from AUC curves and equivalence was not tested. [→ Reddy 2016](#reddy-2016)

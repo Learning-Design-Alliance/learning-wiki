@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ali-ansari-2026
     resource: "https://doi.org/10.48550/arxiv.2609.13009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Fable 5 High's pre-audit and corrected mean@4 are 39.50% and 87.64% on PHYBench, 7.50% and 84.80% on PRISM-Physics, and 78.25% and 87.80% on UGPhysics. [→ Ali Ansari 2026](#ali-ansari-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: melissa-roderick-2013
     resource: "https://consortium.uchicago.edu/publications/high-school-future-challenge-senior-year-chicago-public-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Regardless of achievement level and advanced coursetaking, the overwhelming majority of seniors in the qualitative study described senior year as unchallenging, with multiple classes requiring little work. [→ Melissa Roderick 2013](#melissa-roderick-2013)

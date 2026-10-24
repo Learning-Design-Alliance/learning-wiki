@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: christopher-ormerod-and-youngkoung-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2608.10154"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On a held-out test set of mathematics items, the fine-tuned Qwen3.5-9B model attains a Pearson correlation of 0.85 on the difficulty parameter b, with RMSE 0.55 after a linear development-set correction, exceeding both regression baselines. [→ Christopher Ormerod and YoungKoung Kim 2026](#christopher-ormerod-and-youngkoung-kim-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fang-l-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1832451"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` GenAI showed positive effects on both intrinsic motivation (g = 0.549) and extrinsic motivation (g = 0.382), but the between-group comparison was not statistically significant (QBET = 1.415, p = 0.234). [→ Fang L 2026](#fang-l-2026)

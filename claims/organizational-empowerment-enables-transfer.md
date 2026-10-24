@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liang-2026
     resource: "https://doi.org/10.3389/fneur.2026.1915268"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When hospitals clarified specialty nurses' roles and responsibilities and granted practical authority, training outcomes were more likely to become stable specialty practice; without clear roles, training content was difficult to implement. [→ Liang 2026](#liang-2026)

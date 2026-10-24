@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: roderick-2014
     resource: "https://consortium.uchicago.edu/publications/preventable-failure-improvements-long-term-outcomes-when-high-schools-focused-ninth"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The CPS on-track rate rose from 57 to 82 percent between 2007 and 2013, an estimated 6,900 additional students finishing ninth grade each year without significant course failures. [→ Roderick 2014](#roderick-2014)

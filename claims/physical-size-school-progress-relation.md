@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: bird-t-baldwin-1922
     resource: "https://psycnet.apa.org/journals/edu/13/1/193"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Tall, heavy boys and girls with good lung capacity are older physiologically and further along in stages toward mental maturity, as evidenced by school progress, than short, light children. [→ Bird T. Baldwin 1922](#bird-t-baldwin-1922)
@@ -48,3 +50,4 @@ Analysis of school grades and physical measurements from two schools, treating p
 - [When individual growth-increment curves are correlated with scholarship without reference to body size or stage of development, no decided relation between scholarship and physical growth appears](growth-increment-scholarship-no-decided-relation.md) — related
 - [Physiological age, as evidenced by the advent of pubescence or first menstruation, shows wide variations and low correlations with other traits](physiological-age-low-correlations-other-traits.md) — reports the opposite
 - [Anatomical development measured by wrist-bone radiographs correlates very highly with height and weight in the Baldwin study](wrist-radiograph-development-high-correlations-height-weight.md) — related
+- [Most high-school students made rapid or normal elementary progress, yet most fail in some high-school work, and schools appear better fitted for girls than for boys](progress-and-sex-patterns-high-school.md) — related

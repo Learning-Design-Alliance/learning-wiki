@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: catherine-pratt-2023
     resource: "https://www.mathematica.org/publications/impacts-of-cignition-group-tutoring-on-students-math-knowledge-and-perceptions"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who participated in virtual group tutoring reported positive relationships with their tutors, and reported relationship quality varied little across tutors. [→ Catherine Pratt 2023](#catherine-pratt-2023)

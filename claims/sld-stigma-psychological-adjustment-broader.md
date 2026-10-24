@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: haft-stephanie-l-2023
     resource: "https://doi.org/10.1177/00222194221087383"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 12 studies (52 effect sizes), greater SLD stigma was generally related to less optimal psychological adjustment, including greater anxiety and depression and lower adaptive coping, self-efficacy, and quality of life; only the self-esteem association was powered enough for pooling. [→ Haft Stephanie L. 2023](#haft-stephanie-l-2023)

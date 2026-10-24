@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ann-kathrin-krause-2025
     resource: "https://doi.org/10.1007/s10648-025-10087-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Habit theory suggests habitual tendencies most strongly undermine intention-guided behavior under unfavorable conditions (stress, time pressure, low self-control), while favorable conditions let intentions guide behavior. [→ Ann-Kathrin Krause 2025](#ann-kathrin-krause-2025)

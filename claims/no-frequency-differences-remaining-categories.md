@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: faisal-channa-2026
     resource: "https://doi.org/10.1007/s11251-026-09818-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mann–Whitney U tests found no statistically significant differences for sociocognitive challenges, planning, monitoring, socioemotional challenges, socioemotional regulation or motivational challenges. [→ Faisal Channa 2026](#faisal-channa-2026)

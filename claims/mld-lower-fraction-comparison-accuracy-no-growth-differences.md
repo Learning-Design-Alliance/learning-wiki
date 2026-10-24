@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: mazzocco-2013
     resource: "https://doi.org/10.1016/j.jecp.2013.01.005"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across all 60 SymMCoF fraction items, TA students outperformed LA students, who outperformed MLD students, and all groups improved from Grades 4 to 8; the MLD and LA groups did not differ in Grade 4 (p = .180) and differed from Grade 5 on. [→ Mazzocco 2013](#mazzocco-2013)

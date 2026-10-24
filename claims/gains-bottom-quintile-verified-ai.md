@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dang-2026
     resource: "https://doi.org/10.48550/arxiv.2610.07097"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Quantile difference-in-differences shows a gain of 11.0 marks at the 10th percentile (95% interval 5.0 to 13.0), 5.0 marks at the 20th, and estimates near zero from the 30th percentile upward. [→ Dang 2026](#dang-2026)

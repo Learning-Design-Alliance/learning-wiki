@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: sussman-2022
     resource: "https://doi.org/10.54300/422.974"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Children who are Black, Hispanic/Latino/a, or Multiracial were more likely to attend Tier 3 programs and less likely to attend Tier 4 and 5 programs than Asian/Pacific Islander, White, or Native American children, with Black children least likely to be in Tier 5 programs. [→ Sussman 2022](#sussman-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-16
 sources:
   - id: conijn-2022
     resource: "https://doi.org/10.1111/jcal.12651"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in online exams showed higher test anxiety than students in on-campus exams or assignments (β = 0.82, SE = 0.15, p < 0.001). [→ Conijn 2022](#conijn-2022)

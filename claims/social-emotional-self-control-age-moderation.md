@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: li-2021
     resource: "https://doi.org/10.3102/0034654320979160"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Effect sizes for the association between school discipline and social-emotional self-control were stronger for older students. [→ Li 2021](#li-2021)

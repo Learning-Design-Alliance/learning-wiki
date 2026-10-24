@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: stephen-lipscomb-2018
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Compared with other students in 2012, youth with disabilities were more likely to live in low-income households and with parents receiving federal food benefits. [→ Stephen Lipscomb 2018](#stephen-lipscomb-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: iordanou-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102209"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students made significantly more opinion statements supporting the other-side when reading the other-side text (n = 16) than the own-side text (n = 4). [→ Iordanou 2025](#iordanou-2025)

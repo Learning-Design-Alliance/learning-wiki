@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: ira-nichols-barrer-2022
     resource: "https://doi.org/10.1080/19345747.2022.2049406"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Persistence in college over the first two postsecondary years is an outcome measured by the study alongside enrollment, though the provided text reports no persistence result. [→ Ira Nichols-Barrer 2022](#ira-nichols-barrer-2022)

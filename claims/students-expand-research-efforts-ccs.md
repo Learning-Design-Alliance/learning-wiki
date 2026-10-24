@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: erin-bridges-bird-heidi-l-ballard-margaret-harte-2023
     resource: "https://doi.org/10.1007/s11251-022-09612-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A majority of focal students (7 of 10) saw expanding research efforts on-campus and off-campus as a way to help the birds, proposing ideas like cameras and networks of Ornithology Clubs. [→ Erin Bridges Bird · Heidi L. Ballard · Margaret Harte 2023](#erin-bridges-bird-heidi-l-ballard-margaret-harte-2023)

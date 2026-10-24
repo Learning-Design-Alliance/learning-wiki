@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: designing-and-implementing-the-next-generation-of-teacher-evaluation-systems-2017
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Districts designing and implementing new teacher evaluation systems under PERA faced challenges around cultivating buy-in and understanding. [→ Designing and Implementing the Next Generation of Teacher Evaluation Systems 2017](#designing-and-implementing-the-next-generation-of-teacher-evaluation-systems-2017)

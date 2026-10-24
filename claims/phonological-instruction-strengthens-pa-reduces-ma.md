@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: learning-to-read-in-chinese-a-meta-analytic-structural-equation-modeling-analysis-of-cognitive-linguistic-skills-in-chinese-word-reading-2025
     resource: "https://osf.io/s7tjp/?view_only=4865c0558529407aa0a9e35777761117"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children receiving phonological instruction showed a significantly greater unique effect of PA (Δβ = .071, p = .034) and a significantly smaller effect of MA (Δβ = -.093, p = .003) on word reading than look-and-say learners in Hong Kong. [→ Learning to read in Chinese: A Meta-analytic Structural Equation Modeling analysis of cognitive-linguistic skills in Chinese word reading 2025](#learning-to-read-in-chinese-a-meta-analytic-structural-equation-modeling-analysis-of-cognitive-linguistic-skills-in-chinese-word-reading-2025)

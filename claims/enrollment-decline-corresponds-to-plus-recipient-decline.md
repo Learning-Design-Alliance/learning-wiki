@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: matthew-johnson-2015
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The enrollment decline at HBCUs corresponded to the larger decline in PLUS recipients at HBCUs, suggesting an association between PLUS access and enrollment. [→ Matthew Johnson 2015](#matthew-johnson-2015)

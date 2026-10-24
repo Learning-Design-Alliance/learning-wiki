@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1918
+source_checked: 2026-10-24
 sources:
   - id: buford-johnson-1918
     resource: "https://www.google.com/search?q=The+Use+of+Tests+in+the+Evaluation+of+Methods+of+Instruction+Johnson+1918"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1918 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A seventh-grade boy was consistently capable in subtraction but never attained a high score in multiplication, illustrating the need for diagnosing specific disabilities. [→ Buford Johnson 1918](#buford-johnson-1918)

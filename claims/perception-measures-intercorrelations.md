@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: robles-chella-2026
     resource: "https://doi.org/10.5964/sotrap.17345"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Correlations among the dependent variables were mostly significant, ranging from -.241 to .667, with one weak non-significant exception. [→ Robles Chella 2026](#robles-chella-2026)

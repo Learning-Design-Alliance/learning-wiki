@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: miller-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950374/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The ADHD-C and control groups did not differ significantly on fearful affect errors (p = .629), nor did the ADHD-I and ADHD-C groups (p = .151); no effect sizes were reported for these null contrasts. [→ Miller 2011](#miller-2011)

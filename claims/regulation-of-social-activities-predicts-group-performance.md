@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: carol-k-k-chan-2012
     resource: "https://doi.org/10.1007/s11409-012-9086-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students engage most often in regulation of task-related activities, and regulation of social activities predicts group performance, whereas social activities themselves are negatively related to group performance. [→ Carol K. K. Chan 2012](#carol-k-k-chan-2012)

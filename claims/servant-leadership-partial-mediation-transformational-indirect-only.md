@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: alave-mamani-2026
     resource: "https://doi.org/10.1186/s40359-026-05450-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Servant leadership's indirect effect via self-efficacy (βstd=0.217) and its direct residual effect (β=0.251) were both significant, indicating complementary partial mediation. [→ Alave Mamani 2026](#alave-mamani-2026)

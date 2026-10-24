@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: espinoza-2023
     resource: "https://doi.org/10.54300/546.264"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A review of all 50 state funding formulas found only California ($183.3 million one-time), Massachusetts ($23 million transportation), New York ($22.6 million), and Washington ($3.2 million) provide dedicated state funding. [→ Espinoza 2023](#espinoza-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shihao-yang-2026
     resource: "https://doi.org/10.48550/arxiv.2609.23958"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In voice weeks the same students produced 1.34 dialogue turns per minute versus 0.75 in text weeks (31 of 32 higher in voice) and asked 11.3 questions versus 4.6 (2.4×; 25 of 32 higher in voice), with engaged time modality-neutral. [→ Shihao Yang 2026](#shihao-yang-2026)

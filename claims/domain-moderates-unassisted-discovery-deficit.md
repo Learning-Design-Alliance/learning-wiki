@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-16
 sources:
   - id: alfieri-2011
     resource: "https://doi.org/10.1037/a0021017"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2011 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Domain moderated the unassisted-discovery deficit, Q(5) = 91.75, p < .001; the verbal/social skills effect (d = -0.95) exceeded those in math, computer skills, science, problem solving, and physical/motor skills. [→ Alfieri 2011](#alfieri-2011)

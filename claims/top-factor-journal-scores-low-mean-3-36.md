@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: mellor-2021
     resource: "https://orcid.org/0000-0002-3125-5888"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 683 journals evaluated as of January 2021, the mean TOP Factor score is 3.36 and the median is 1, indicating most journals take only minimal disclosure steps. [→ Mellor 2021](#mellor-2021)

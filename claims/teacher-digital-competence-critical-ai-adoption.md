@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: gerasimos-kalogeratos-2026
     resource: "https://doi.org/10.62225/2583049X.2026.6.3.6209"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Without adequate training and support, the potential benefits of AI technologies in education cannot be fully realized. [→ Gerasimos Kalogeratos 2026](#gerasimos-kalogeratos-2026)

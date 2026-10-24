@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lases-mitch-n-2026
     resource: "https://doi.org/10.2196/83948"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An exploratory sensitivity analysis excluding 2 crisis-affected participants yielded noticeably smaller change scores and very small to small effect sizes (e.g., MHCS Cohen d=0.16; MHRM d=−0.27). [→ Lases Mitch N 2026](#lases-mitch-n-2026)

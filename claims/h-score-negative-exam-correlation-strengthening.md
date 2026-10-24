@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: david-racovan-2026
     resource: "https://doi.org/10.48550/arxiv.2609.36073"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The per-semester correlation between average H-score and exam performance was near-zero in 2020–2023 and strengthened to a strongly negative value by Spring 2026. [→ David Racovan 2026](#david-racovan-2026)

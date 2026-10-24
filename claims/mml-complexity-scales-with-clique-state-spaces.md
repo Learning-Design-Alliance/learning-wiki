@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: rijmen-2009
     resource: "https://doi.org/10.1002/j.2333-8504.2009.tb02160.x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The computational complexity of a full information MML procedure exploiting the model's conditional independence relations scales with the number of latent variables within a subset, which may be substantially lower than the total number of latent variables. [→ Rijmen 2009](#rijmen-2009)

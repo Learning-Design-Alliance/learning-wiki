@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: 5essentials-survey-new-insights-for-school-leaders-2026
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Strong 5Essentials measure scores and score growth are predictive of GPA, attendance, test scores, and college enrollment, across elementary and high schools serving students of different backgrounds and economic circumstances. [→ 5Essentials Survey: New insights for school leaders 2026](#5essentials-survey-new-insights-for-school-leaders-2026)

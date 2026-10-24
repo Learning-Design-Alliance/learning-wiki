@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: slotnik-2014
     resource: "http://marylandpublicschools.org/MSDE/programs/tpe/index.html"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` On survey items about TPE, elementary teachers agree at higher rates than middle school teachers, who agree at higher rates than high school teachers. [→ Slotnik 2014](#slotnik-2014)

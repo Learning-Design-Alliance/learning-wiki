@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: juliene-madureira-ferreira-2021
     resource: "https://doi.org/10.1007/s10648-021-09607-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies of small-group collaboration found initial positive correlations between physiological synchrony and collaboration quality, task performance, and learning gains, computed via cycles between low and high synchronization. [→ Juliene Madureira Ferreira 2021](#juliene-madureira-ferreira-2021)

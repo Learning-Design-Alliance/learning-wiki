@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: alice-xu-2026
     resource: "https://doi.org/10.18608/jla.2026.9099"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Models using behavioral-only metrics engineered from students' textbook interactions were developed to detect at-risk students early in flipped introductory statistics courses. [→ Alice Xu 2026](#alice-xu-2026)

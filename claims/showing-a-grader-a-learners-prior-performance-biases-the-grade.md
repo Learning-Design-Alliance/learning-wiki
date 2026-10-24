@@ -7,6 +7,8 @@ generated:
   at: 2026-10-19
 id: showing-a-grader-a-learners-prior-performance-biases-the-grade
 evidence_strength:
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: porcaro-2026
     resource: "https://doi.org/10.5281/zenodo.23480844"
@@ -22,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
 Telling an LLM grader how a learner has performed before — either by showing a previous attempt with its mark, or by supplying an attainment estimate — shifts the grade for identical work: an attainment label in its own direction, a low prior mark downward (a high one does not raise it). It is not shown to improve how well the grader ranks the work. Whether the shift moves a learner's mark toward or away from the teacher's depends on the grader.

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2006 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Yeh (2003), findings favored the phonemic segmentation group over the rhyme/alliteration group on all phonological processing measures, with an average improvement index of +20 percentile points (range +9 to +33), not statistically significant but substantively important. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

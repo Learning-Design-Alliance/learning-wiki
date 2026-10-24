@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: de-laat-2007
     resource: "https://doi.org/10.1007/s11251-006-9007-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A dominant student with a combating and critical tone gave the beginner tutor a major crisis, contributing to her marginal participation. [→ de Laat 2007](#de-laat-2007)

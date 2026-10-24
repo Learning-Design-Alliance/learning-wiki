@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2018
 sources:
   - id: sartain-2015
     resource: "https://consortium.uchicago.edu/publications/suspending-chicagos-students-differences-discipline-practices-across-schools"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` About a quarter of high schools and 10 percent of schools with middle grades have very high suspension rates, and almost all predominantly serve African-American students from the poorest neighborhoods with the lowest incoming achievement. [→ Sartain 2015](#sartain-2015)

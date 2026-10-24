@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2005
 sources:
   - id: paul-decker-2005
     resource: "https://www.mathematica.org/publications/the-evaluation-of-teacher-preparation-models"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` As of 2005, little research existed to provide guidance on the effectiveness of different teacher training strategies, even as alternative programs expanded rapidly. [→ Paul Decker 2005](#paul-decker-2005)

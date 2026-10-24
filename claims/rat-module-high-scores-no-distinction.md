@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: bell-2022
     resource: "https://doi.org/10.29333/iji.2022.15142a"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` IRAT and TRAT scores showed very low-to-low correlations with module high scores, with only chemical equivalency (IRAT) and dilution and concentration (TRAT) reaching significance. [→ Bell 2022](#bell-2022)

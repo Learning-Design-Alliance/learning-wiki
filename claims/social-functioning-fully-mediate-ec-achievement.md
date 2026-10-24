@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-18
 sources:
   - id: valiente-carlos-2011
     resource: "https://doi.org/10.1080/10409289.2010.505259"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` T2 social functioning (social competence and externalizing problems as one latent variable) fully mediated the T1 EC to T3 achievement relation in a structural equation model. [→ Valiente Carlos 2011](#valiente-carlos-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: wei-2025
     resource: "https://doi.org/10.51388/20.500.12265/257"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Gutierrez et al. (2023), that randomly assigned postgraduate trainees using CLT-informed preparatory modules showed lower extraneous load, higher germane load, and significantly better OSCE performance. [→ Wei 2025](#wei-2025)

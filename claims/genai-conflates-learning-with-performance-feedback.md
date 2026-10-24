@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: peter-wulff-and-marcus-kubsch-2025
     resource: "https://doi.org/10.1186/s40594-025-00588-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that many commercial GenAI products lack grounding in STEM education research and may promote superficial understanding by treating learning as task performance and feedback delivery. [→ Peter Wulff and Marcus Kubsch 2025](#peter-wulff-and-marcus-kubsch-2025)

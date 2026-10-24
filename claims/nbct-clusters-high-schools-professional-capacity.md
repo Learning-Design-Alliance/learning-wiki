@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: hart-2006
     resource: "https://consortium.uchicago.edu/publications/principal-and-teacher-leadership-chicago-continuing-analysis-three-initiatives"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High schools with clusters of at least three national-board-certified teachers scored significantly higher on collective responsibility, reflective dialogue, and teacher-teacher trust; in elementary schools the trend was evident but not statistically significant, though NBCT-cluster elementary schools were more likely to use reformed literacy practices. [→ Hart 2006](#hart-2006)

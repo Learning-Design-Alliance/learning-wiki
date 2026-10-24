@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: ashlyn-pierson-2024
     resource: "https://doi.org/10.1007/s11251-024-09674-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding the Language Storybook and Jonathan and the Sun discussion with facilitation tying big ideas to practical, real-world stories was more successful in shifting the PD community towards anti-deficit discussions including equity-as-transformation. [→ Ashlyn Pierson 2024](#ashlyn-pierson-2024)

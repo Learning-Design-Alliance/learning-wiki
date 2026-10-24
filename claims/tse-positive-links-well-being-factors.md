@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: m-zee-2016
     resource: "https://doi.org/10.3102/0034654315626801"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the review's criteria-based synthesis, TSE shows positive links with factors underlying teachers' psychological well-being, including personal accomplishment, job satisfaction, and commitment. [→ M. Zee 2016](#m-zee-2016)

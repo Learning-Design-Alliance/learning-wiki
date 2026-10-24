@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: markus-deimann-and-robert-farrow-2013
     resource: "https://doi.org/10.19173/irrodl.v14i3.1370"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Openness in education necessarily shifts the focus from content (OER) to practices (OEP) necessary for using that content. [→ Markus Deimann and Robert Farrow 2013](#markus-deimann-and-robert-farrow-2013)

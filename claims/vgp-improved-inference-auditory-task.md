@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
+recheck_by: 2013
 sources:
   - id: green-2010
     resource: "https://doi.org/10.1016/j.cub.2010.07.040"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2013**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` In Experiment 2, the integration rate parameter was significantly greater in VGPs (Cohen's d = 1.66), the decision bound significantly smaller, and log odds were 48% higher in VGPs across SNR levels. [→ Green 2010](#green-2010)

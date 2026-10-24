@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: sobocinski-2020
     resource: "https://doi.org/10.1007/s11409-020-09224-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Visual inspection of per-group sequence charts yielded four categories of group progress, differing in sequence frequencies and phase distribution, including a category with the least on-track behavior (50.74%) and highest adaptive regulation frequency (44.85%). [→ Sobocinski 2020](#sobocinski-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wang-2026
     resource: "https://doi.org/10.54300/540.887"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` TK enrollment grew from 88,883 children in 2019–20 to 177,570 in 2024–25, but uptake among eligible 4-year-olds dropped from 65% in 2021–22 to 55% in 2024–25. [→ Wang 2026](#wang-2026)

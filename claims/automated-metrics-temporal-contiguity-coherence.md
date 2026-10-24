@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: metric-eval-1
     resource: "https://doi.org/10.48550/arxiv.2608.19812"
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 14 videos (7 topics × 2 conditions), temporal contiguity (0.294 vs. 0.273, p=.021) and coherence (0.729 vs. 0.646, p=.011) improved significantly; the other three metrics showed no significant difference. [→ metric-eval-1](#metric-eval-1)

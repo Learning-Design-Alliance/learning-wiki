@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: crompton-2026
     resource: "https://doi.org/10.1186/s41239-026-00602-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Academic integrity emerged as the paramount and most frequently cited theme, with panelists agreeing that policies must define GenAI-related academic misconduct and set enforceable consequences. [→ Crompton 2026](#crompton-2026)

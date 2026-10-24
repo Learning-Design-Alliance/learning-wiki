@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2002
 sources:
   - id: agran-2002
     resource: "https://doi.org/10.1177/07419325020230050301"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Baseline means were 9% (Andy), 20% (Jane), and 0% (Joan and Natalie), and Andy, Jane, and Joan all maintained a mean of 100% during the maintenance condition. [→ Agran 2002](#agran-2002)

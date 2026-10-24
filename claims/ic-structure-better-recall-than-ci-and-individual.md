@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: amante-2026
     resource: "https://doi.org/10.1007/s11251-025-09764-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` I+C students scored higher globally on comprehension and recall post-tests than C+I and I students, with significant differences in recall (η² = 0.12) and comprehension versus the individual condition only (η² = 0.03). [→ Amante 2026](#amante-2026)

@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: chi-2018
     resource: "https://doi.org/10.1111/cogs.12626"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Five-year-olds who explained how a gear machine works while watching (Constructive) outperformed children who only watched (Passive) on causal explanation and exclusion of an irrelevant part. [→ Chi 2018](#chi-2018)

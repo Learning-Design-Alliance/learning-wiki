@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: thum-2020
     resource: "https://www.nwea.org/research/publication/nwea-2020-map-growth-achievement-status-and-growth-norms-for-students-and-schools/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The report asserts that the MAP Growth scale remains stable and the measurement model for status and growth is valid and reliable, even though student status patterns differ from the 2015 norms. [→ Thum 2020](#thum-2020)

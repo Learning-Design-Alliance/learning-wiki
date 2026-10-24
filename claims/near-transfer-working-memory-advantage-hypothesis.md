@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: stebner-2022
     resource: "https://doi.org/10.1007/s11409-022-09322-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that metacognitive skills increase strategy-application quality equally in near and far transfer tasks, but far transfer leaves less free working memory capacity for content knowledge acquisition because different criteria must be retrieved from metacognitive knowledge. [→ Stebner 2022](#stebner-2022)

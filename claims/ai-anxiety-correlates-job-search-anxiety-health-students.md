@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dağ-2026
     resource: "https://doi.org/10.1038/s41598-026-42030-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Among 821 Turkish health sciences students, AI anxiety showed a moderate, positive, significant correlation with job search anxiety (r = 0.233, p < 0.001). [→ Dağ 2026](#dag-2026)

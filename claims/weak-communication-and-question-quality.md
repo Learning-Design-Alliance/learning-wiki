@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: daniel-c-humphrey-2009
     resource: "https://eric.ed.gov/?q=High+School+Reform+in+Chicago+Public+Schools+An+Overview"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The majority of teachers in IDS and Renaissance 2010 schools failed to reach the proficient level for key communication skills such as communicating the importance of the lesson, setting high expectations for learning, and providing clear explanation of content. [→ Daniel C. Humphrey 2009](#daniel-c-humphrey-2009)

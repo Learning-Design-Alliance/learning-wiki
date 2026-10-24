@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: john-q-easton-2007
     resource: "https://consortium.uchicago.edu/publications/2006-isat-reading-and-math-scores-chicago-and-rest-state"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The math gap falls from 21 points (0.72 SDs) in third grade to 15 points (0.52 SDs) in eighth grade. [→ John Q. Easton 2007](#john-q-easton-2007)

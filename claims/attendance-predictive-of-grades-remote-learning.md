@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: gwynne-2024
     resource: "https://www.cps.edu/about/district-data/metrics/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Relationships between attendance (official attendance or time in synchronous instruction) and course grades were as large or larger during the remote/hybrid year as in pre-pandemic years, so attendance remained an effective indicator of students at risk of failing courses. [→ Gwynne 2024](#gwynne-2024)

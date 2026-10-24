@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: garcía-lópez-2017
     resource: "https://doi.org/10.5539/ies.v10n4p78"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 56.7% of teachers defined precisely where they found OER and declared at least two improvements for diffusion; 41.8% were general with at least two improvements; 1.5% gave no improvements. [→ García-López 2017](#garcia-lopez-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: nora-a-mcintyre-tom-foulsham-2018
     resource: "https://doi.org/10.1007/s11251-017-9445-x"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` With expertise controlled, teachers' attentional scanpaths were not more similar within-culture than across (p = 0.08). [→ Nora A. McIntyre & Tom Foulsham 2018](#nora-a-mcintyre-tom-foulsham-2018)

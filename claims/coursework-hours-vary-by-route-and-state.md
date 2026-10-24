@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: jill-constantine-2009
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Total hours required ranged from 75 to 795 in alternative certification programs and from 240 to 1,380 in traditional programs, so not all alternative programs required fewer hours than traditional programs. [→ Jill Constantine 2009](#jill-constantine-2009)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1910
 sources:
   - id: e-a-kirkpatrick-1910
     resource: "https://doi.org/10.1037/h0074078"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Consciousness becomes prominent in new activities and gradually disappears as activities become uniform, so it must be studied as a phenomenon of change. [→ E. A. Kirkpatrick 1910](#e-a-kirkpatrick-1910)

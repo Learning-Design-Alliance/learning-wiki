@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 associational `r2`, 1 design `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For query-imminence prediction, observable metrics alone performed best at AUROC 0.726, an absolute improvement of 0.037 over raw telemetry (0.689). [→ pred-1](#pred-1)

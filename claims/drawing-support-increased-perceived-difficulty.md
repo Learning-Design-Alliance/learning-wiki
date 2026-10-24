@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-19
 sources:
   - id: steffen-p-schmidgall-2020
     resource: "https://doi.org/10.1007/s11251-020-09513-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The control condition reported significantly lower perceived difficulty than the global and local support conditions, and no support reported less difficulty than global support (partial η2 = 0.10). [→ Steffen P. Schmidgall 2020](#steffen-p-schmidgall-2020)

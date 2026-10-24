@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/723"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q4` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` One study showed an effect size less than -0.25 on postsecondary degree attainment that was not statistically significant, and another showed an indeterminate effect; the WWC rating is potentially negative effects. [→ Project QUEST (Quality Employment through Skills Training) Intervention Report | Postsecondary Career and Technical Education Topic Area 2021](#project-quest-quality-employment-through-skills-training-intervention-report-postsecondary-career-and-technical-education-topic-area-2021)

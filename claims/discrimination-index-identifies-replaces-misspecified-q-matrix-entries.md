@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: jimmy-de-la-torre-and-chia-yi-chiu-2016
     resource: "https://doi.org/10.1007/s11336-015-9467-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The proposed discrimination index identifies and replaces misspecified entries in the Q-matrix, within the class of CDMs subsumed by the G-DINA model. [→ Jimmy de la Torre and Chia-Yi Chiu 2016](#jimmy-de-la-torre-and-chia-yi-chiu-2016)

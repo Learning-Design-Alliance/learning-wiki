@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: regional-educational-laboratory-central-at-mathematica-2026
     resource: "https://ies.ed.gov/ncee/rel/algebra-middle-and-high-school/intro"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` School leader time for toolkit implementation includes 1 to 2 hours of recruitment, participation in PLC session 4 in Modules 1–3 and PLC session 2 in Module 4, and 1 to 3 hours visiting educators. [→ Regional Educational Laboratory Central at Mathematica 2026](#regional-educational-laboratory-central-at-mathematica-2026)

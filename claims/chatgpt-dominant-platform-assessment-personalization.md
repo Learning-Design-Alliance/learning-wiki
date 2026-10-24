@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: alsheikh-mh-2026
     resource: "https://doi.org/10.3389/feduc.2026.1871468"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among the reviewed studies, ChatGPT was the most widely adopted AI tool, and AI was predominantly employed for assessment tasks (plagiarism detection, automated grading, formative feedback) and personalized learning support (adaptive pathways, recommender systems). [→ AlSheikh MH 2026](#alsheikh-mh-2026)

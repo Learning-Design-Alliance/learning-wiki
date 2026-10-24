@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: dillenbourg-2016
     resource: "https://doi.org/10.1007/s11412-016-9235-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The finding that partner models are symmetrical does not rule out the fact that individual abilities also contribute to the quality of the modelling process. [→ Dillenbourg 2016](#dillenbourg-2016)

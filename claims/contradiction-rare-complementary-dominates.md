@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yubo-li-2026
     resource: "https://doi.org/10.48550/arxiv.2607.22606"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 1,772,261 comparisons, 91.1% are ABSENT; among 156,876 non-absent pairs, 57.3% are COMPLEMENTARY, 22.9% CONSISTENT, 19.8% DIVERGENT, and 0.06% CONTRADICTORY. [→ Yubo Li 2026](#yubo-li-2026)

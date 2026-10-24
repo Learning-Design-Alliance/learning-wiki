@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: anchor-root
     title: "This is the article's own synthesis of cited literature, offered with no data or detailed argument of its own; it attributes the claim to Paetsch, Felbrich, and Stanat (2015). No effect size is printed."
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article asserts, citing prior research, that math struggles may often be rooted in language difficulties rather than inability to grasp numerical concepts. [→ anchor-root](#anchor-root)

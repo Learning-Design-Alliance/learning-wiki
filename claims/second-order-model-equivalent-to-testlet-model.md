@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2012
 sources:
   - id: rijmen-2009
     resource: "https://doi.org/10.1002/j.2333-8504.2009.tb02194.x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Algebraic manipulation of the second-order model's equations shows it is formally equivalent to the testlet model, which itself is a bifactor model with proportionality restrictions within each testlet. [→ Rijmen 2009](#rijmen-2009)

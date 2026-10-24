@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: mccarthy-2011
     resource: "https://eric.ed.gov/?id=ED533408"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nearly all participating teachers implemented the program as planned despite diversity in class size, teacher experience, and program type. [→ McCarthy 2011](#mccarthy-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: julia-kollmer-2020
     resource: "https://doi.org/10.1007/s11251-020-09521-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Drawing quality was a significant predictor of JOLs (b = 0.29, p = 0.03, r = 0.28), and the condition-by-quality interaction was not significant (p = 0.21, r = 0.17). [→ Julia Kollmer 2020](#julia-kollmer-2020)

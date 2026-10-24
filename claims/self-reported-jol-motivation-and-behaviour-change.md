@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: graf-2026
     resource: "https://doi.org/10.1007/s10639-026-14082-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 83% of participants reported submitting their JoL out of curiosity to see the system's rating, and 70% did not actively attend to the LA metrics when judging. [→ Graf 2026](#graf-2026)

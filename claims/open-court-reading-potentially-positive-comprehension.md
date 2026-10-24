@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: open-court-reading-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/347"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` One randomized controlled trial (Borman et al., 2008; 679 students in grades 1–3) reported positive effects of Open Court Reading© on the CTBS/5 Terra Nova Reading Composite, with an average effect size large enough to be considered substantively important (at least .25). [→ Open Court Reading© 2014](#open-court-reading-2014)

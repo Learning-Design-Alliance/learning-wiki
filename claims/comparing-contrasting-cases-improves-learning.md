@@ -8,6 +8,7 @@ generated:
 id: comparing-contrasting-cases-improves-learning
 aliases: [comparing-contrasting-cases-improve-learning, multiple-contrasting-cases-support-abstraction, analogical-reasoning-improves-transfer]
 evidence_strength:
+newest_evidence: 2013
 sources:
   - id: alfieri-et-al-2013
     resource: "https://doi.org/10.1080/00461520.2013.775712"
@@ -42,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2013 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Comparing Contrasting Cases Improves Learning -->
 
 Learners who compare two or more cases that differ on key features — side by side, with attention directed to what varies and why — learn more than learners who study the same cases one at a time or study a single case (d = .50 across 57 experiments), and transfer the principle more often (48% vs 19% in one negotiation experiment); in one algebra experiment the gain was in procedural knowledge and flexibility, not conceptual knowledge. <!-- deprecated (2026-10-05, overstated for Rittle-Johnson & Star 2007): learn the underlying principles better than learners who study the same cases one at a time. -->

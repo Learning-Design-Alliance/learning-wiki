@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: gage-2024
     resource: "https://eric.ed.gov/?id=ED655758"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` One-to-one optimal matching on demographics, fall 2020 MAP ELA scores, and 2021 behavior incidents yielded groups equivalent (g < 0.25) on all baseline variables for 653 matched pairs. [→ Gage 2024](#gage-2024)

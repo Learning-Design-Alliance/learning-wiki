@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-17
 sources:
   - id: mary-c-english-2013
     resource: "https://doi.org/10.7771/1541-5015.1339"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students must take responsibility for the learning process by setting goals, monitoring, reflecting, and sustaining motivation from the beginning to the end of a PBL project, but for many students these processes do not occur naturally or easily. [→ Mary C. English 2013](#mary-c-english-2013)

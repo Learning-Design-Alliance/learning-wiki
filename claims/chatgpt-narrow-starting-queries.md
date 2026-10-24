@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: shravika-mittal-2026
     resource: "https://doi.org/10.48550/arxiv.2606.11669"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` ChatGPT participants began with narrow or specified queries in 32.65% of diary entries versus 3.57% for Google participants, suggesting reduced exploration of the knowledge space. [→ Shravika Mittal 2026](#shravika-mittal-2026)

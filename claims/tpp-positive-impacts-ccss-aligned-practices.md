@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: dolfin-2019
     resource: "https://www.mathematica.org/publications/evaluation-of-the-teacher-potential-project"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` TPP showed positive impacts on specific instructional practices aligned to the Common Core State Standards: engaging students in reading, writing, and/or speaking about texts; supporting students' use of text evidence; and supporting students to engage in higher order thinking. [→ Dolfin 2019](#dolfin-2019)

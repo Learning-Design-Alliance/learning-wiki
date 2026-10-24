@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: joshua-furgeson-2014
     resource: "https://www.mathematica.org/publications/fr-the-equity-project-charter-school-impacts-on-student-achievement-final-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` TEP served a high-poverty, mostly Hispanic student population comparable to other neighborhood New York City public schools, with similar special education service rates. [→ Joshua Furgeson 2014](#joshua-furgeson-2014)

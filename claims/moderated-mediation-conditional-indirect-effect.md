@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wang-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1892204"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Conditional indirect effects increase monotonically with professional commitment: 0.204 (low), 0.289 (mean), 0.374 (high), all significant; the index of moderated mediation was significant (β = 0.307). [→ Wang 2026](#wang-2026)

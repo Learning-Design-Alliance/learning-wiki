@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: null-subtests
     title: null-subtests
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The MAP Problem Solving (effect size 0.07, p = 0.31), Number Sense (effect size 0.10, p = 0.17), and Statistics and Probability (effect size 0.10, p = 0.20) subtests showed small positive but non-significant differences favoring DreamBox Learning. [→ null-subtests](#null-subtests)

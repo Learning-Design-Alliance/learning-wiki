@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: boetje-2026
     resource: "https://doi.org/10.3102/00346543251338057"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies using peer-expert videos showing short fragments of each IPS process step, interspersed with reflective prompts or explicit instruction and followed by practice, showed a significant, medium to large, positive effect on IPS performance versus practice-only groups, persisting after one week; no standardized effect size is printed for this finding. [→ Boetje 2026](#boetje-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: kenneth-r-koedinger-2007
     resource: "https://doi.org/10.1007/s10648-007-9049-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Texts implicitly request understanding but do not explicitly request students to produce a written or spoken output; any resulting learning event (e.g., note-taking) is not explicitly prompted. [→ Kenneth R. Koedinger 2007](#kenneth-r-koedinger-2007)

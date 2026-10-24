@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: gerry-stahl-friedrich-hesse-2010
     resource: "https://doi.org/10.1007/s11412-010-9087-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite a significant difference in scripting between conditions, little difference in learning outcomes was measured, suggesting scripting is secondary to how tasks are defined. [→ Gerry Stahl & Friedrich Hesse 2010](#gerry-stahl-friedrich-hesse-2010)

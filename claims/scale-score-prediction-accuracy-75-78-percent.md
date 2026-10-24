@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: chun-wei-huang-2016
     resource: "https://eric.ed.gov/?id=ED567123"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Logistic regression models using grade 6 CST scale scores alone, grade 7 CST scale scores alone, grade 7 MDTP, or combinations all predicted algebra I proficiency accurately between 75 and 78 percent of the time. [→ Chun-Wei Huang 2016](#chun-wei-huang-2016)

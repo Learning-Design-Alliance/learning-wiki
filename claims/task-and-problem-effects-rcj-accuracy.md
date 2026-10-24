@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: marie-geurten-patrick-lemaire-2018
     resource: "https://doi.org/10.1080/13825585.2018.1464114"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` RCJ accuracy was higher for selection-only (.67) than selection-execution (.60), and higher on homogeneous (.71) than heterogeneous (.57) problems. [→ Marie Geurten & Patrick Lemaire 2018](#marie-geurten-patrick-lemaire-2018)

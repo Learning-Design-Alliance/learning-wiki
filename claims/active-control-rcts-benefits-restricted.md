@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-16
 sources:
   - id: dunning-2019
     resource: "https://doi.org/10.1111/jcpp.12980"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the 17 RCTs with active control conditions, significant MBI benefits remained only for Mindfulness, Depression and Anxiety/Stress; effects on Social Behaviour, Negative Behaviour, Executive Functions and Attention were not significant. [→ Dunning 2019](#dunning-2019)

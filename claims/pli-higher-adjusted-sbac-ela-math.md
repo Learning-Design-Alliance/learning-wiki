@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: peters-2018
     resource: "https://doi.org/10.51388/20.500.12265/53"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After adjusting for prior scores, demographics, and school climate, PLI students outscored non-PLI students on ELA in grades 3, 4, 5, 7 and 8 and on math in grades 3, 4, 5, 6 and 8. [→ Peters 2018](#peters-2018)

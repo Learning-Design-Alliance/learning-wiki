@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: matlen-2013
     resource: "https://doi.org/10.1007/s11251-012-9248-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean time on task was longer for the low-guidance set-ups than for the high-guidance set-ups during instruction. [→ Matlen 2013](#matlen-2013)

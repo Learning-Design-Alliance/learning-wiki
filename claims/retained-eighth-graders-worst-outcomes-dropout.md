@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1999
+recheck_by: 2002
 sources:
   - id: melissa-roderick-1999
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-results-first-two-years"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2002**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Only 27% of retained or Transition Center eighth graders met the promotional criteria by May 1998, and roughly 16% of officially retained eighth graders dropped out by fall 1998. [→ Melissa Roderick 1999](#melissa-roderick-1999)

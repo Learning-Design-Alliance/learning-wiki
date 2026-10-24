@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1914
 sources:
   - id: w-s-painter-1914
     resource: "https://psycnet.apa.org/journals/edu/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Time per problem showed a gradual rise, a relatively steady middle period, and a marked rise at the end, with no obvious correlation between time and accuracy scores. [→ W. S. Painter 1914](#w-s-painter-1914)

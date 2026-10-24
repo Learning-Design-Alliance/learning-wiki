@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: saadé-2009
     resource: "https://jite.org/documents/Vol8/JITEv8p177-191Saade708.pdf"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The relationship between ANX and CSE was significant (β = 1.061, p = 0.0001). [→ Saadé 2009](#saade-2009)

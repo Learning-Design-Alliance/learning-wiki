@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: growth-mindset-interventions-2022
     resource: "https://whatworks.ed.gov"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`–`q4`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Yeager et al. (2016), an RCT with 3,837 students in the analytic sample, showed indeterminate effects on full-time enrollment (effect size 0.06, p = .32) and completing 12 or more credits (0.06, p = 0.35). [→ Growth Mindset Interventions 2022](#growth-mindset-interventions-2022)

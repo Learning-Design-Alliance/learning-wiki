@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: cress-2015
     resource: "https://doi.org/10.1007/s11412-015-9214-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A marginally reported finding of the hierarchy study was that no group effects were found; the non-significant intra-group correlation suggested group membership had no specific influence on individuals' learning and performance. [→ Cress 2015](#cress-2015)

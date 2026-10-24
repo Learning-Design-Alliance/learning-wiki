@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: how-the-organization-of-schools-and-local-communities-shape-educational-improvement-2017
     resource: "https://consortium.uchicago.edu/publications/how-organization-schools-and-local-communities-shape-educational-improvement"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` School improvement is related to the ways in which staff interact with each other and to their relationships with families and the broader school community. [→ How the Organization of Schools and Local Communities Shape Educational Improvement 2017](#how-the-organization-of-schools-and-local-communities-shape-educational-improvement-2017)

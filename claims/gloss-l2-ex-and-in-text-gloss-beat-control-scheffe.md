@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: cheng-2009
     resource: "https://doi.org/10.64152/10125/66828"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Scheffé post-hoc tests showed significant differences favoring L1-gloss-L2-ex and L1-in-text-gloss over no-gloss on VocTests 1, 2, and 3, but no significant differences for L1-MG-gloss or the control. [→ Cheng 2009](#cheng-2009)

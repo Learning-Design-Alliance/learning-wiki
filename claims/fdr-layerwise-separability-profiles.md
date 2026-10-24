@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yi-zhang-julia-rayz-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08009"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The general model reaches peak linear separability at Layer 29 (FDR ≈ 0.0303) for difficulty and Layer 28 (FDR ≈ 0.0224) for Bloom targets, while the coder model's difficulty peak FDR remains low (≈ 0.0108 at Layer 28) and its Bloom peak shifts to Layer 36 of 48. [→ Yi Zhang & Julia Rayz 2026](#yi-zhang-julia-rayz-2026)

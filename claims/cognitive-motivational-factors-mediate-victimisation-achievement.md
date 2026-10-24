@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: muthanna-2021
     resource: "https://doi.org/10.3390/ijerph18052209"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The pooled indirect effect of victimisation on academic achievement through cognitive-motivational factors is significant (k = 8, OR = 0.74, 95% CI 0.72-0.77, p = 0.000). [→ Muthanna 2021](#muthanna-2021)

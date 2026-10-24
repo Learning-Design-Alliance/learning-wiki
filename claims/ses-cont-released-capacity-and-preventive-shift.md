@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: vinicius-santana-gomes-2026
     resource: "https://doi.org/10.48550/arxiv.2606.01517"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Aggregating the time gains over 1,581 cases processed in 2024, the article estimates released capacity equivalent to approximately 352 additional cases, a 22.3% capacity increase, with no case over 10 days in the inbox at year end. [→ Vinicius Santana Gomes 2026](#vinicius-santana-gomes-2026)

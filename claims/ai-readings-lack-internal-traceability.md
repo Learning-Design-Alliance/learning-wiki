@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: sidorkin-2026
     resource: "https://doi.org/10.55982/openpraxis.18.3.1141"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across the 4,487-page corpus, only about 0.80% of pages contained APA-style in-text citations, about 0.53% contained URLs, and DOI strings were essentially absent, leaving most claims difficult to audit from within the artifact. [→ Sidorkin 2026](#sidorkin-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bergh-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21194"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a between-subjects experiment, AI-Assisted students achieved higher coding assessment scores than No AI students (M=0.89 vs M=0.69, Hedges' g = -1.24). [→ Bergh 2026](#bergh-2026)

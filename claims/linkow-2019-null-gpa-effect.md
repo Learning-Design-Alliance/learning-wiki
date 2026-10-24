@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-19
 sources:
   - id: what-works-clearinghouse-2020
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/708"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2020 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` The 2019 study found intervention students earned a 2.37 cumulative GPA versus 2.36 for comparison students, an effect size of 0.01 and improvement index of 0, not statistically significant (p = 0.82). [→ What Works Clearinghouse 2020](#what-works-clearinghouse-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: terrell-2026
     resource: "https://eric.ed.gov/?id=ED681344"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among matched students who took neither AP nor IB, those who enrolled in dual enrollment and did not pass had a +6.4 percentage point higher college enrollment probability than observationally similar students who never enrolled in any advanced coursework. [→ Terrell 2026](#terrell-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: piya-amornphan-n-2020
     resource: "https://doi.org/10.1186/s12887-020-2017-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` All three physical activity indicators were associated with each other in 1447 participants; sedentary behavior correlated weakly with active play (r = 0.081) and family/peers time (r = 0.088). [→ Piya-amornphan N 2020](#piya-amornphan-n-2020)

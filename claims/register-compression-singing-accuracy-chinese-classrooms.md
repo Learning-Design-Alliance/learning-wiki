@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: wei-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1905847"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i0` Low-register pitches were sung correctly with probability 0.749 versus 0.703 for high-register pitches, a 4.6-percentage-point gap the article reports as a small standardized effect (Cohen's h ≈ 0.10), stable across robustness checks. [→ Wei 2026](#wei-2026)

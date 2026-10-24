@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: bradshaw-2015
     resource: "https://doi.org/10.1037/a0037630"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` African American children were less likely to be in the socially-emotionally skilled class but more likely to be in the at-risk and high-risk classes; younger children were less likely to be in the skilled and high-risk classes. [→ Bradshaw 2015](#bradshaw-2015)

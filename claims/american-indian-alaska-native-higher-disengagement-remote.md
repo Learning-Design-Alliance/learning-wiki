@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: steven-wise-2022
     resource: "https://doi.org/10.1080/10627197.2022.2087621"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` American Indian/Alaska Native students showed higher disengagement when the adaptive interim assessment was administered remotely than when it was administered in school. [→ Steven Wise 2022](#steven-wise-2022)

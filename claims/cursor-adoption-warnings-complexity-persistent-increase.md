@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: reshaping-undergraduate-computer-science-education-in-the-generative-ai-era-2026
     resource: "https://doi.org/10.48550/arxiv.2606.07545"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The whitepaper reports a large-scale causal difference-in-differences study of Cursor adoption across open-source GitHub projects finding a statistically significant short-term velocity increase that was transient, alongside a substantial and persistent increase in static analysis warnings and code complexity. [→ Reshaping Undergraduate Computer Science Education in the Generative AI Era 2026](#reshaping-undergraduate-computer-science-education-in-the-generative-ai-era-2026)

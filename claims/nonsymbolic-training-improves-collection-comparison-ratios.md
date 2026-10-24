@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: honoré-n-2016
     title: Honoré N 2016
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The non-symbolic group improved collection comparison performance for ratios 1:2, 2:3 and 3:4; the symbolic group improved only for ratio 1:2. [→ Honoré N 2016](#honore-n-2016)

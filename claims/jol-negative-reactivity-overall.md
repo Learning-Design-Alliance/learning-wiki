@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: murphy-2024
     resource: "https://doi.org/10.1007/s11409-024-09391-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across ages and pair types, participants making JOLs recalled fewer word pairs (M = 0.60) than participants not making JOLs (M = 0.65), exemplifying negative reactivity. [→ Murphy 2024](#murphy-2024)

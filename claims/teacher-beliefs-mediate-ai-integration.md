@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lin-j-and-al-hada-nm-2026
     title: Lin J and Al-Hada NM 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing multiple structural-equation-modeling studies, that theoretical and practical AI knowledge contributed to sustainable AI-integration ability only indirectly, with teachers' beliefs and attitudes serving as critical mediators. [→ Lin J and Al-Hada NM 2026](#lin-j-and-al-hada-nm-2026)

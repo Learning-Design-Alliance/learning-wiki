@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: li-2023
     resource: "https://doi.org/10.1007/s10648-023-09834-1"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` SES significantly predicted later reading performance, overall r = 0.24, 95% CI [0.20, 0.28]. [→ Li 2023](#li-2023)

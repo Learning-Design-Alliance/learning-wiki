@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: yeager-2016
     resource: "https://doi.org/10.1037/edu0000098"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The revised intervention produced a larger pre-to-post reduction in self-reported fixed mindset (Δ=−0.48) than the original intervention (Δ=−0.22), both significant. [→ Yeager 2016](#yeager-2016)

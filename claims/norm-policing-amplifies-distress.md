@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: juvonen-2019
     resource: "https://doi.org/10.1080/00461520.2019.1655645"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Controlling for school-level victimization and victim reputations, the loneliness of students with higher weight is intensified in schools with stronger weight policing. [→ Juvonen 2019](#juvonen-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: darling-hammond-2022
     resource: "https://doi.org/10.54300/641.201"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Principal learning programs reflecting exemplary practices (authentic learning, critical content, collegial supports, proactive recruitment) are associated with principals' preparedness, more effective practices, teacher retention, and student achievement gains. [→ Darling-Hammond 2022](#darling-hammond-2022)

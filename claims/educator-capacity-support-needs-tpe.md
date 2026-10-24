@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: slotnik-2016
     resource: "https://eric.ed.gov/?id=ED589981"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Majorities of principals and roughly half or fewer of teachers agree they need more school-level support in areas including analyzing student data for action and using assessments to measure growth. [→ Slotnik 2016](#slotnik-2016)

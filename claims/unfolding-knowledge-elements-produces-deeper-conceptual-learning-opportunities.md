@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: ademmer-prediger-2025
     resource: "https://doi.org/10.1080/07370008.2025.2527688"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · n=8 experienced mathematics teachers (12+ years), Grades 5-7, 549 minutes of video recorded, 280 minutes fully transcribed
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 Across video-recorded whole-class discussions on formal volume calculation, teacher facilitation practices that explicitly grounded higher-order student contributions in lower-order concept elements (rows, layers, structured counting) produced extensively connected, deep conceptual learning opportunities, while practices that jumped straight to procedure or funneled toward an answer produced only shallow ones — and the same eight teachers, using identical curriculum materials, varied substantially in which they enacted.
 

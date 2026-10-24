@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2025
 sources:
   - id: air-reading-2025
     resource: "https://www.evidenceforlearning.org.au"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Pooling the two randomized studies, Air Reading has a positive impact on reading achievement with a weighted average effect size of +0.20. [→ Air Reading 2025](#air-reading-2025)

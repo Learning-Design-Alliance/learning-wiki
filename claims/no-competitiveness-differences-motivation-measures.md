@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: daniell-difrancesca-2025
     resource: "https://doi.org/10.1007/s11251-025-09741-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Self-efficacy, metacognitive self-regulation and performance avoidance showed no significant group, time, or interaction effects; mastery approach and mastery avoidance showed no group or interaction effects but did change over time (mastery approach decreased, mastery avoidance increased), and performance approach was the one measure that differed by competitiveness group (higher in highly competitive students, with a group-by-time interaction). [→ Daniell DiFrancesca 2025](#daniell-difrancesca-2025)

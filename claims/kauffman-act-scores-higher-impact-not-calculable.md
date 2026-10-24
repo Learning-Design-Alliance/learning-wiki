@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-08
+recheck_by: 2022
 sources:
   - id: matthew-johnson-2019
     resource: "https://www.mathematica.org/publications/ewing-marion-kauffman-school-year-7-impacts"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Kauffman School students' ACT scores are higher than the average across other Kansas City high schools, though the data needed to estimate the school's causal impact on ACT scores were unavailable. [→ Matthew Johnson 2019](#matthew-johnson-2019)

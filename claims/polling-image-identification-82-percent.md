@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an interactive polling activity, attendees correctly identified AI-generated images in 82% of responses and explained their rationales. [→ polling-1](#polling-1)

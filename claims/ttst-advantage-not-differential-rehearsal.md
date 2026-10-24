@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1992
 sources:
   - id: carrier-1992
     resource: "https://doi.org/10.3758/bf03202713"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1992 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When items were studied in pure lists rather than mixed lists, the TTST method still yielded higher cued recall, eliminating differential rehearsal as an explanation. [→ Carrier 1992](#carrier-1992)

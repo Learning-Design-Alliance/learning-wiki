@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: kudina-2025
     resource: "https://doi.org/10.48550/arxiv.2606.16626"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In a 2023-24 questionnaire of 100 higher-education students dominated by engineering fields, the most prevalent LLM use pattern (27%) was drafting, improving and refining text, followed by learning and conceptual clarification (20%), programming support (17%) and brainstorming (13%). [→ Kudina 2025](#kudina-2025)

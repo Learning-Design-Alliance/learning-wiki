@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1995
 sources:
   - id: stuart-luppescu-1995
     resource: "https://consortium.uchicago.edu/publications/school-reform-retention-policy-and-student-achievement-gains"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In almost all cases, students who were retained made smaller gains than students who were promoted, holding propensity for retention constant. [→ Stuart Luppescu 1995](#stuart-luppescu-1995)

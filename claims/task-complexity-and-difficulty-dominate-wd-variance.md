@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: sweet-2012
     resource: "https://doi.org/10.5281/zenodo.3554649"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 21 four-way ANOVAs of individual-learner WD values with task difficulty, specificity, content, and complexity as predictors, task complexity and task difficulty explain the majority of the variance, with some effect of task specificity. [→ Sweet 2012](#sweet-2012)

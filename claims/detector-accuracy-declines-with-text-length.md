@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mohammad-hadra-2026
     resource: "https://doi.org/10.1007/s40979-026-00213-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both detectors performed best on short texts (300–330 words) with accuracy declining for medium and long texts; the length–accuracy association was statistically significant for both (Turnitin χ²(2)=8.41, p=0.0149; Originality χ²(2)=13.17, p=0.0014). [→ Mohammad Hadra 2026](#mohammad-hadra-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: mcclanahan-2012
     resource: "https://link.springer.com/journal/11528"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Once taught the INSERT strategy on the iPad, the student used it consistently and independently on every subsequent reading passage and suggested it would help in his regular classes. [→ McClanahan 2012](#mcclanahan-2012)

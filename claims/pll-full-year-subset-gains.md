@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: 95-phonics-lesson-library-evidence-rating-2024
     resource: "https://evidenceforessa.org/program/phonics-lesson-library-basic-advanced-multisyllable/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` An additional full year analysis with the subset of students who scored lower on MAP at pretest showed significant improvement in reading scores for 95 PLL students relative to the comparison group on Acadience (effect size = +0.19) and MAP Growth (effect size = +0.30), with fifth grade results holding on the Ohio State Test (effect size = +0.54). [→ 95 Phonics Lesson Library — Evidence Rating 2024](#95-phonics-lesson-library-evidence-rating-2024)

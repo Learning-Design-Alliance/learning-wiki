@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-17
 sources:
   - id: gage-2025
     resource: "https://eric.ed.gov/?id=ED677579"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Students were more likely to score in a higher Ability to Reason benchmark category at post compared to pre (b = 2.16, p = .012; d ≈ 1.20). [→ Gage 2025](#gage-2025)

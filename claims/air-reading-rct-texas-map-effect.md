@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: air-reading-2025
     resource: "https://www.evidenceforlearning.org.au"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students randomly assigned to Air Reading scored significantly higher on the NWEA MAP reading assessment than control peers, with similar impacts across demographic groups. [→ Air Reading 2025](#air-reading-2025)

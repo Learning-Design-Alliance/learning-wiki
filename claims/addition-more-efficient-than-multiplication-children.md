@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: ineke-imbo-andré-vandierendonck-2008
     resource: "https://doi.org/10.1007/s00426-007-0112-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Retrieval latencies were faster on addition than multiplication problems, F(1, 57) = 6.2, with no grade × operation interaction, and procedural efficiencies were higher on addition, F(1, 57) = 52.5. [→ Ineke Imbo · André Vandierendonck 2008](#ineke-imbo-andre-vandierendonck-2008)

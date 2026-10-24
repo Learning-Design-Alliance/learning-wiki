@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: molenaar-2010
     resource: "https://doi.org/10.1007/s11251-010-9154-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Scaffolding did not significantly affect free recall, knowledge test scores, or transfer of domain knowledge; all effect sizes were very low (r = 0.01 to 0.08). [→ Molenaar 2010](#molenaar-2010)

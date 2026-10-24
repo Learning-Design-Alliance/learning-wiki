@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: mark-h-ashcraft-and-jeremy-a-krause-2007
     resource: "https://doi.org/10.3758/bf03194059"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High-math-anxious participants often sacrifice accuracy for speed, especially on more difficult problems, interpreted as avoidance-like effort to finish the session quickly. [→ Mark H. Ashcraft and Jeremy A. Krause 2007](#mark-h-ashcraft-and-jeremy-a-krause-2007)

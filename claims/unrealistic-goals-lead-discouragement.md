@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: map-growth-goal-explorer-user-guide-and-faq-2026
     resource: "https://www.nwea.org/research/publication/map-growth-goal-explorer-users-guide/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Pursuing an unrealistic goal can lead to discouragement and frustration; the tool therefore contextualizes goals against average observed growth to support realistic goal setting. [→ MAP Growth Goal Explorer user guide and FAQ 2026](#map-growth-goal-explorer-user-guide-and-faq-2026)

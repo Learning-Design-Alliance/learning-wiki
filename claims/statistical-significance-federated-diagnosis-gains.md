@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yagna-manasa-boyapati-2026
     resource: "https://doi.org/10.48550/arxiv.2609.02947"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Paired t-tests show p<0.001 with Cohen's d=0.85 for ε=2.0 on ASSIST09, p<0.01 with d=0.62 on GSM8K, and p<0.001 with d=0.78 on UCI; the non-private ASSIST09 result shows d=0.89. [→ Yagna Manasa Boyapati 2026](#yagna-manasa-boyapati-2026)

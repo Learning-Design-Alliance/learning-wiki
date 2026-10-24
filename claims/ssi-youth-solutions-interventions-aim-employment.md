@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: todd-honeycutt-2021
     resource: "https://www.mathematica.org/publications/considerations-for-the-papers-developed-for-the-ssi-youth-solutions-project"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The 12 proposed interventions share a long-term goal of increasing employment among youth with disabilities, making their goals broadly compatible with state and federal policymakers in the youth transition space. [→ Todd Honeycutt 2021](#todd-honeycutt-2021)

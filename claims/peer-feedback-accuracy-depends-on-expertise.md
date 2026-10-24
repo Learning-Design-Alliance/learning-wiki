@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: peer-feedback-accuracy-depends-on-expertise
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: wu-schunn-2023
     resource: "https://doi.org/10.1037/edu0000768"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Peer Feedback Accuracy Depends On Expertise -->
 
 In the two correlational studies recorded here, both with U.S. secondary-school writers, a peer reviewer's own writing performance predicted whether their comments were rated helpful, but not whether they correctly identified real problems; and peer ratings made with a well-specified rubric were about as reliable and valid in lower- as in higher-performing schools. The page concerns the *accuracy* and *helpfulness* of feedback given, not the *benefit* of receiving or producing it. Neither study manipulated expertise, so neither shows a causal effect.

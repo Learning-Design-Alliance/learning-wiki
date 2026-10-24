@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: schildkraut-2019
     resource: "https://www.wested.org/resources/are-metal-detectors-effective-at-making-schools-safer"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In NYC, 48 percent of Black and 38 percent of Hispanic high school students, versus 14 percent of White students, pass through metal detectors each day. [→ Schildkraut 2019](#schildkraut-2019)

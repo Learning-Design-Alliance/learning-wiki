@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-21
 sources:
   - id: anabela-caetano-santos-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100535"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Raval et al. (2018), emotion regulation showed no association with behavioural engagement; in Bryce et al. (2020), the compensation subscale of intentional self-regulation was not associated with engagement dimensions for middle or high school students. [→ Anabela Caetano Santos 2023](#anabela-caetano-santos-2023)

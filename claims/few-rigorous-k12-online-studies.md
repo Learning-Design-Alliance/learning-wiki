@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: means-2009
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` An extensive systematic search of literature from 1994 through 2006 found no experimental or controlled quasi-experimental K–12 studies comparing online versus face-to-face instruction with sufficient data to compute an effect size; a subsequent search through July 2008 identified just five published studies meeting meta-analysis criteria. [→ Means 2009](#means-2009)

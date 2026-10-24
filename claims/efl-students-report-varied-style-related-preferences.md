@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: ozlem-yagcioglui-2016
     resource: "https://doi.org/10.5281/zenodo.166311"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In a survey of 90 university EFL students, most indicated liking music, internet use and travelling while studying English, with smaller majorities liking drawing, photos, acting and dancing, mobile-phone use and cooking. [→ Ozlem Yagcioglui 2016](#ozlem-yagcioglui-2016)

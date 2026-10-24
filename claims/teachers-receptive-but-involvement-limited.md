@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: mccullough-2015
     resource: "https://www.mathematica.org/publications/districtcharter-collaboration-grant-implementation-findings-from-interviews-and-site-visits"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers interviewed in district, charter, and other sectors are receptive to collaboration on average, yet grantee districts have involved only a limited proportion of teachers in collaboration grant activities. [→ McCullough 2015](#mccullough-2015)

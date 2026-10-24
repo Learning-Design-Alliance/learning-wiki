@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: ying-cui-2019
     resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/397"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under BKT, error rates for wind direction, air movement, and cloud type decreased with more learning opportunities, while wind speed and precipitation type and amount remained high. [→ Ying Cui 2019](#ying-cui-2019)

@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: watkins-2023
     resource: "https://doi.org/10.1080/07370008.2022.2156512"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1` · n=1 elementary teacher, 18-month online graduate certificate program (Tufts TEEP)
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 Over an 18-month graduate certificate program, a white, working-class elementary teacher's discourse about the engineering design process (EDP) shifted from describing it as a fixed linear sequence to describing it as nonlinear and personally-owned, and she used this reframed understanding to reclassify her own family's work as engineering, to advocate for student tinkering time in colleagues' classrooms, and to reinterpret her son's non-traditional academic path as "still STEM."
 

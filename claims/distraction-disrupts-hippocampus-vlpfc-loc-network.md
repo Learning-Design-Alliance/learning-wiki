@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: wais-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.00280"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Functional connectivity of the hippocampus-VLPFC-LOC network decreased during retrieval with visual distractors and no longer distinguished correct from incorrect retrieval. [→ Wais 2014](#wais-2014)

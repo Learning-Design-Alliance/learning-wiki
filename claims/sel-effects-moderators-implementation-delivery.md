@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: greenberg-2023
     resource: "https://doi.org/10.54300/928.269"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Moderation analyses indicate higher implementation quality relates to more significant outcomes, and the most effective secondary programs were longer, included insight building and problem-solving, provided in-session skill practice, and involved the entire school staff. [→ Greenberg 2023](#greenberg-2023)

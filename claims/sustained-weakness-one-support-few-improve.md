@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-08
+recheck_by: 2021
 sources:
   - id: ehrlich-2016
     resource: "http://consortium.uchicago.edu/surveys"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` It was unlikely that a school had a sustained weakness in just one essential support over time, and in the rare cases when that occurred, fewer than 10 percent of such schools showed improvements in student outcomes. [→ Ehrlich 2016](#ehrlich-2016)

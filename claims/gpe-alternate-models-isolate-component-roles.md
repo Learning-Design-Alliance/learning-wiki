@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: the-dynamic-interplay-between-goal-setting-2022
     resource: "https://gpemodel.shinyapps.io/gpe-model/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Four alternate models were specified: separate GPD effects after goal success and failure, no GPD effect on goal setting, no GPD effect on performance, and no emotion effects, to test each component's necessity. [→ The Dynamic Interplay Between Goal Setting 2022](#the-dynamic-interplay-between-goal-setting-2022)

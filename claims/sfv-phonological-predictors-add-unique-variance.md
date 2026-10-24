@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: edwards-2022
     resource: "https://doi.org/10.1037/edu0000696"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding phonological predictors to the cross-classified model explained an extra 19.22% of child-level, 17.36% of word-level, and 26.48% of school-level variance above the general predictor model. [→ Edwards 2022](#edwards-2022)

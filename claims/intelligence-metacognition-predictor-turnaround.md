@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-17
 sources:
   - id: van-der-stel-2010
     resource: "https://doi.org/10.1007/s11858-009-0224-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the youngest group intellectual ability is the most important predictor of math performance, whereas in the oldest group the unique contribution of metacognitive quality outweighs that of intelligence. [→ Van der Stel 2010](#van-der-stel-2010)

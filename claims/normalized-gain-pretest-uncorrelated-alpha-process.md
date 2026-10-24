@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2007
+recheck_by: 2010
 sources:
   - id: lei-bao-2007
     resource: "https://doi.org/10.48550/arxiv.0710.1375"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The analytic derivation of the normalized gain under the α-process, g_k = 1 − e^(−α_k T), shows the gain depends only on the α coefficient and not explicitly on the pretest score. [→ Lei Bao 2007](#lei-bao-2007)

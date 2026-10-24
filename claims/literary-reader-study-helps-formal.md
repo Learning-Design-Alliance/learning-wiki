@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1921
 sources:
   - id: l-z-1921
     resource: "https://eric.ed.gov/?q=Empirical+Studies+in+School+Reading"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study helps, questions and directions to pupils in the analyzed literary readers were decidedly formal in nature, in contrast to the aims advocated by literary authorities. [→ L. Z 1921](#l-z-1921)

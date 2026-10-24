@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: leman-figen-gül-2025
     resource: "https://doi.org/10.58278/0.2025.109"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In sixth-week and thirteenth-week surveys, 95% (N:18) and 96% (N:24) of students respectively felt the used GenAI models positively affected their creativity during the design process. [→ Leman Figen Gül 2025](#leman-figen-gul-2025)

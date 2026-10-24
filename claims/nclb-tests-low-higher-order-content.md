@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: darling-hammond-2017
     resource: "https://eric.ed.gov/?id=ED606777"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 2 percent of math items and about 20 percent of English language arts items on NCLB-era state tests represented higher-order thinking skills, which the RAND evaluation attributed largely to the limits of multiple-choice testing. [→ Darling-Hammond 2017](#darling-hammond-2017)

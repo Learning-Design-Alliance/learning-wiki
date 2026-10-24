@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: sonja-kälin-2022
     resource: "https://doi.org/10.1007/s11409-022-09306-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Inhibition assessed in kindergarten was the only significant longitudinal predictor of monitoring accuracy in 2nd grade, explaining 11% of variance, with better inhibition associated with less overconfidence. [→ Sonja Kälin 2022](#sonja-kalin-2022)

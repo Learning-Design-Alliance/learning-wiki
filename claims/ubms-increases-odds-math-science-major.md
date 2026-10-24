@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: robert-b-olsen-2007
     resource: "https://www.mathematica.org/publications/upward-bound-mathscience-program-description-and-interim-impact-estimates"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Preliminary estimates suggest UBMS participation increases the odds of majoring in math or science. [→ Robert B. Olsen 2007](#robert-b-olsen-2007)

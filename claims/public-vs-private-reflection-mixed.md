@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: mixed
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: sturgill-2014
     resource: "https://doi.org/10.20343/teachlearninqu.2.1.81"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Private journal paragraphs were more likely to be analytic or integrative (64 percent) than public ones (41 percent), yet nearly one-third of public reflections were integrative. [→ Sturgill 2014](#sturgill-2014)

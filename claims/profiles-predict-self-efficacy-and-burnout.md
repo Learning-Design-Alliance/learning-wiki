@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: wu-y-2026
     title: Wu Y 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Self-efficacy increased progressively from maladaptive (M = 3.94) to moderate (M = 4.61) to positive adaptation (M = 5.11), Wald χ²(2) = 42.13, p < 0.001, with all pairwise differences significant. [→ Wu Y 2026](#wu-y-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: jacob-2004
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-response-teachers-and-students"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over 80 percent of teachers and 90 percent of principals agreed or strongly agreed that Summer Bridge and Lighthouse had a positive impact on the students who attended. [→ Jacob 2004](#jacob-2004)

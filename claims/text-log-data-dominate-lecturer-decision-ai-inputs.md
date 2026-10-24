@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: köroğlu-2026
     resource: "https://doi.org/10.1186/s41239-026-00623-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Text-based data were the most frequently reported input type (16 studies, 59.3%), followed by log data (11, 40.7%) and multimodal data (7, 25.9%), while biological and image data each appeared in a single study. [→ Köroğlu 2026](#koroglu-2026)

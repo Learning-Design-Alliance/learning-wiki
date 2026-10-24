@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: julian-f-lohmann-2025
     resource: "https://doi.org/10.1007/s10648-025-10029-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In simulation study 1, RMSE for individual-level judgment accuracy components was considerably higher for the PS method than for the ML-LVM across conditions, particularly at low level-1 sample sizes. [→ Julian F. Lohmann 2025](#julian-f-lohmann-2025)

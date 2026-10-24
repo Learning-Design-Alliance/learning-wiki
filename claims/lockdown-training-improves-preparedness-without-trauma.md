@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: schildkraut-2020
     resource: "https://www.wested.org/resources/schools-lockdown-drills/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Zhe and Nickerson (2007) found students who received lockdown training and participated in a drill retained response knowledge without induced anxiety or significantly changed perceptions of school safety. [→ Schildkraut 2020](#schildkraut-2020)

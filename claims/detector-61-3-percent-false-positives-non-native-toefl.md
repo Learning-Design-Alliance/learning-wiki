@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: victor-angelier-2026
     resource: "https://doi.org/10.1007/s43681-026-01376-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across seven detectors, authentic TOEFL essays by non-native English speakers were misclassified as AI-generated at a mean false-positive rate of 61.3%, while native-speaker comparator essays were recognised far more reliably. [→ Victor Angelier 2026](#victor-angelier-2026)

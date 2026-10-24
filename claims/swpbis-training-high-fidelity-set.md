@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: strong
+newest_evidence: 2012
 sources:
   - id: catherine-p-bradshaw-2010
     resource: "https://doi.org/10.1177/1098300709334798"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2`–`q3` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

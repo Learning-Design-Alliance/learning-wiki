@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` GATs significantly improved immediate performance across topics at TU Delft, mainly driven by the While-loop intervention where the treatment group outperformed the control group. [→ delft-immediate](#delft-immediate)

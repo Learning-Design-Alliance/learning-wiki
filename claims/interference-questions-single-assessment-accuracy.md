@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: clark-2010
     resource: "https://doi.org/10.48550/arxiv.1009.0260"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Because student response to vector-based topics is sensitive to whatever physics instruction is being received at the time, instructors are cautioned against reading too much into any single assessment. [→ Clark 2010](#clark-2010)

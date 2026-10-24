@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: kirschner-2018
     resource: "https://doi.org/10.1007/s11412-018-9277-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When collaborating on a highly complex task with asymmetric knowledge, if prior-knowledge differences have not been recognized and members lack prior experience together, learning is negatively affected due to task-unrelated transactive activities. [→ Kirschner 2018](#kirschner-2018)

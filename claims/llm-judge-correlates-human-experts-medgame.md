@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: qian-wu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.21570"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Average correlation between LLM judge and human ratings was r = 0.81 for Medical Narrative Generation and r = 0.61 for Story Direction. [→ Qian Wu 2026](#qian-wu-2026)

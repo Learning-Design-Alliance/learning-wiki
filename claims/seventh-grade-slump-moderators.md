@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: said-metwaly-2019
     resource: "https://scholar.google.com/scholar?q=Does+the+Fourth-Grade+Slump+in+Creativity+Actually+Exist"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For the Grade 6–7 difference, figural tasks showed a significant negative SMD (-0.30, p = .003) versus a non-significant negative SMD for verbal tasks (-0.14, p = .15); no standardized effect size is printed for the moderation itself. [→ Said-Metwaly 2019](#said-metwaly-2019)

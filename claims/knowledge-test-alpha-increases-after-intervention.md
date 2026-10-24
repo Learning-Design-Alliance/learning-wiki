@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: peter-a-edelsbrunner-2025
     resource: "https://doi.org/10.1007/s10648-024-09982-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Alpha increases in intervention studies from before to after learning, from 0.77 at T1 to 0.84 at T2 (p = .020). [→ Peter A. Edelsbrunner 2025](#peter-a-edelsbrunner-2025)

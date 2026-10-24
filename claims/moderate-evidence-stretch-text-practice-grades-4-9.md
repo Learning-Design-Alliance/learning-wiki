@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: vaughn-2022
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/29"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC panel assigned a moderate level of evidence to providing students opportunities to practice making sense of stretch text, supported by 15 studies. [→ Vaughn 2022](#vaughn-2022)

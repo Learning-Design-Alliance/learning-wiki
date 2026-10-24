@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fumie-watanabe-2026
     resource: "https://doi.org/10.48550/arxiv.2608.20822"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The interaction between the CE factor and the TT format was significant and positive for ARCS motivation (b = 0.162, p < .001, f = .17). [→ Fumie Watanabe 2026](#fumie-watanabe-2026)

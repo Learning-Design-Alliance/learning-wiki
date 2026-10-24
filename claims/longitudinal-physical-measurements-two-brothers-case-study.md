@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1930
 sources:
   - id: king-1930
     resource: "https://psycnet.apa.org/journal/edu"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q1`
+> **Currency** · newest study 1930 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author took repeated measurements of weight, height, limb lengths and head dimensions of two brothers at regular intervals from birth onward. [→ King 1930](#king-1930)
@@ -65,3 +67,4 @@ For the first child, measurements covered "a period of six years and four months
 - [Different limbs and limb sections show alternating periods of acceleration and retardation in individual growth curves](alternating-acceleration-retardation-limb-growth.md) — related
 - [Cephalic index computed from calliper head measurements shows fluctuations in both children, with parental indices of 78.8 and 81.8](cephalic-index-fluctuations-two-children.md) — related
 - [Growth is not uniform but proceeds with variations in the limbs, trunk, and head, so gross measures require finer analysis](growth-nonuniform-segmental-development.md) — related
+- [Town's intensive study gave 52 first-year school children unusually thorough physical, anthropometric and mental measurement](town-52-children-thorough-measurement.md) — related

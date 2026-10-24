@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bautista-2026
     resource: "https://doi.org/10.18608/jla.2026.9037"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Hierarchical clustering on principal components of function count and function diversity identified three distinct student profiles in function art activities. [→ Bautista 2026](#bautista-2026)

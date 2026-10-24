@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1988
 sources:
   - id: ross-1988
     resource: "http://www.jstor.org/stable/30218252"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1988 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Completion times were significantly longer for high-density (M = 26.5 min) than low-density text (M = 21.0 min), F(1,144) = 8.60, p < .01. [→ Ross 1988](#ross-1988)

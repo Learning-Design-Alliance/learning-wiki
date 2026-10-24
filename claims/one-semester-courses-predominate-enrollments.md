@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1918
 sources:
   - id: hall-quest-1918
     resource: "https://eric.ed.gov/?id=EJ"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sixty-one one-semester courses were offered compared with forty-one two-semester courses, and enrollment totaled 2,259 undergraduate and 356 graduate students. [→ Hall-Quest 1918](#hall-quest-1918)

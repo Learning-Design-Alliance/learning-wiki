@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: mckenna-2023
     resource: "https://eric.ed.gov/?id=ED628907"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 29 states, 23 have one center housed in one agency or organization, 3 have one center split between at least two departments or agencies, and 3 have two centers operating independently. [→ McKenna 2023](#mckenna-2023)

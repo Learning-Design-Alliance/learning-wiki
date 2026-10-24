@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2031
 sources:
   - id: nick-gerrit-hasche-2026
     resource: "https://doi.org/10.1007/s10648-026-10176-x"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Two studies of national competence levels reached opposite conclusions: relatively high self-efficacy among Irish teachers versus the opposite for German teachers. [→ Nick Gerrit Hasche 2026](#nick-gerrit-hasche-2026)

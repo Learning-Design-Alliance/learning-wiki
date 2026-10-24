@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: marcus-kubsch-2026
     resource: "https://doi.org/10.48550/arxiv.2606.16822"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Because the disposition to evaluate is unevenly distributed, integrating AI uniformly is likely to widen the gap between better- and less-prepared students. [→ Marcus Kubsch 2026](#marcus-kubsch-2026)

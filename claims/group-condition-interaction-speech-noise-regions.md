@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: wong-patrick-c-m-2009
     resource: "https://doi.org/10.1016/j.neuropsychologia.2008.11.032"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Bilateral STG showed increased activation with noise in younger subjects but lower, condition-undifferentiated activation in older subjects; MTG showed the opposite pattern with increased activation in older subjects in SNR -5. [→ Wong Patrick C. M. 2009](#wong-patrick-c-m-2009)

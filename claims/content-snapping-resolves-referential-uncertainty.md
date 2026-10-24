@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants reported that Content Snapping provided immediate visual confirmation of their intended referents, resolving anxiety caused by ambiguous feedback in V1. [→ snap-qual](#snap-qual)

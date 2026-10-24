@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-08
 sources:
   - id: what-works-clearinghouse-2023
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/728"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2023 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Across two studies, the average effect of Good Behavior Game on literacy achievement was 0.07 (improvement index +3) and not statistically significant (p=0.30). [→ What Works Clearinghouse 2023](#what-works-clearinghouse-2023)

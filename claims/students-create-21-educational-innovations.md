@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: jirasatjanukul-2023
     resource: "https://doi.org/10.5539/hes.v13n4p119"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The 60 participating students created 21 educational innovations, of which four were accepted to be showcased in an academic conference. [→ Jirasatjanukul 2023](#jirasatjanukul-2023)

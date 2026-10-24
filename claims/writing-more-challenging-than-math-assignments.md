@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
+source_checked: 2026-10-08
 sources:
   - id: newmann-1998
     resource: "https://consortium.uchicago.edu/publications/quality-intellectual-work-chicago-schools-baseline-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1998 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared to mathematics, writing assignments made more challenging demands in all three grades, and sixth and eighth grades tended to show higher proportions of assignments in the top two challenge categories than third grade. [→ Newmann 1998](#newmann-1998)

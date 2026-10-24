@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: plebanek-2017
     resource: "https://doi.org/10.1177/0956797617693005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that selectivity reduces the ability to encode unattended information and induces learned inattention, making future learning more difficult. [→ Plebanek 2017](#plebanek-2017)

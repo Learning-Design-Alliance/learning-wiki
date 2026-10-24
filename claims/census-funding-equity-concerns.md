@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: elizabeth-dhuey-2013
     resource: "https://doi.org/10.1162/edfp_a_00098"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Census funding has raised concerns about funding equity in special education. [→ Elizabeth Dhuey 2013](#elizabeth-dhuey-2013)

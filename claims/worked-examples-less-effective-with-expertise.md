@@ -27,12 +27,14 @@ sources:
 id: worked-examples-less-effective-with-expertise
 aliases: [worked-examples-expertise-reversal]
 evidence_strength: moderate
+newest_evidence: 2003
 ---
 
 # Worked-example guidance becomes less effective as learner expertise increases.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r?`, 1 theoretical `r?` · `q3`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 The supports that help novices during initial acquisition can become redundant for more experienced learners, reducing efficiency and sometimes depressing performance.
 

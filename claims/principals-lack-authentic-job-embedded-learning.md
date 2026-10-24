@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: levin-2020
     resource: "http://learningpolicyinstitute.org/product/professional-learning-principals"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 32% of principals shared leadership practices with peers three or more times in the past 2 years, 23% had a mentor or coach, and 56% met with a PLC three or more times in the past 2 years. [→ Levin 2020](#levin-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: marsh-2017
     resource: "https://doi.org/10.1037/edu0000144"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Retention positively affects math self-concept at Lag 1 (ES = .597), with non-significant Lag 2-4 effects indicating maintenance. [→ Marsh 2017](#marsh-2017)

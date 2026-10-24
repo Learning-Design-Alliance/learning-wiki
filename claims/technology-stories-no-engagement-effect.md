@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: takacs-2015
     resource: "https://doi.org/10.3102/0034654314566989"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 12 contrasts, the technology-enhanced condition did not significantly affect child engagement and child-initiated communication during reading. [→ Takacs 2015](#takacs-2015)

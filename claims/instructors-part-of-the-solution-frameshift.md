@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: chang-2022
     resource: "https://doi.org/10.51388/20.500.12265/156"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the dialogue, framing instructors as "part of the solution" shifted the discussion from an AI that determines unproductive engagement to an AI that supports instructors in determining whether there is unproductive behavior, and opened a path to co-design with impacted community members. [→ Chang 2022](#chang-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: richard-e-mayer-2010
     resource: "https://doi.org/10.1007/s11251-009-9113-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` DeLeeuw and Mayer (2008) found that extraneous, essential, and generative processing are tapped by different assessment instruments, partially validating the triarchic theory. [→ Richard E. Mayer 2010](#richard-e-mayer-2010)

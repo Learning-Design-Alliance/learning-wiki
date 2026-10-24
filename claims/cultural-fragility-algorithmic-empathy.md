@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: aponte-ml-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1935683"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Socio-emotional AI systems operate through universalist assumptions about expression and emotional normality, and when these fail due to cultural bias, context, irony, or ambivalence, the system can invalidate experiences, pathologise legitimate responses, or induce performative pressure. [→ Aponte ML 2026](#aponte-ml-2026)

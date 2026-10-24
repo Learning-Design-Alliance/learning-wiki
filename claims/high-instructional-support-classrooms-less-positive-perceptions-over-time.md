@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: catherine-corbin-2020
     resource: "https://doi.org/10.1016/j.appdev.2020.101144"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in classrooms characterized by high Instructional Support rated their teachers less positively over time, an unexpected finding. [→ Catherine Corbin 2020](#catherine-corbin-2020)

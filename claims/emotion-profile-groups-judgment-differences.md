@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: prinz-weiß-2023
     resource: "https://doi.org/10.1007/s11409-022-09331-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants in the positive-emotion profile group provided higher predictions than the negative and neutral groups, and more overconfident predictions than the other groups. [→ Prinz-Weiß 2023](#prinz-wei-2023)

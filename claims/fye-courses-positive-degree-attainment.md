@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: first-year-experience-courses-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/662"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Clouse (2012) found statistically significant differences in undergraduate degree attainment at the home institution and at any US college favoring first year experience participants. [→ First Year Experience Courses 2016](#first-year-experience-courses-2016)

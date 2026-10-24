@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: bingxi-zhao-2026
     resource: "https://doi.org/10.48550/arxiv.2604.26962"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` In a blind pairwise study on 45 TutorBench sessions, human and LLM DeepTutor win rates are strongly correlated across the ten metric-level win-rate pairs (Pearson r = 0.82; Spearman ρ = 0.83). [→ Bingxi Zhao 2026](#bingxi-zhao-2026)

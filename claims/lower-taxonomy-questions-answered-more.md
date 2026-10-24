@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: bates-2013
     resource: "https://doi.org/10.48550/arxiv.1308.2202"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the four course datasets, questions in lower taxonomic categories tended to be answered more, by a relatively small factor (e.g. category 1 and 2 questions in Physics 1A 2011 averaged 21(4) and 18(4) answers). [→ Bates 2013](#bates-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: dianne-a-vella-brodrick-krystyna-gilowska-2022
     resource: "https://doi.org/10.1007/s10648-022-09658-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One reviewed study using the Go/No-Go task found no significant positive effect on impulse control after green structured play compared with a built playground. [→ Dianne A. Vella-Brodrick · Krystyna Gilowska 2022](#dianne-a-vella-brodrick-krystyna-gilowska-2022)

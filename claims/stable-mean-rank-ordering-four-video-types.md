@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tomlinson-2026
     resource: "https://doi.org/10.1038/s41598-026-52798-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spring cohort mean ranks were 1.44 (human-recorded personalized), 2.31 (AI-generated personalized), 2.69 (human-recorded non-personalized), 3.56 (AI-generated non-personalized); Fall showed a nearly identical pattern (1.57, 2.21, 2.69, 3.52). [→ Tomlinson 2026](#tomlinson-2026)

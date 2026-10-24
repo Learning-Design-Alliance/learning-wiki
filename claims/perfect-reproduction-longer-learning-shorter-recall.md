@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: myers-1913
     resource: "https://www.google.com/search?q=%22Some+correlations+between+learning+and+recall%22+Myers"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the same 50-girl study, average learning time was higher for perfect reproduction (531.2 sec) than imperfect reproduction (490.1 sec), while average recall time was lower for perfect (122.7 sec) than imperfect (219.6 sec) reproduction. [→ Myers 1913](#myers-1913)

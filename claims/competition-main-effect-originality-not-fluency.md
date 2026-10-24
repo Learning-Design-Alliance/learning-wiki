@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: boot-nathalie-2017
     resource: "https://doi.org/10.1177/1087054717727352"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across groups, participants generated more original ideas under competition (M = 1.86, SD = 0.56) than in its absence (M = 1.72, SD = 0.33), F(1, 87) = 12.89, p = .001, ηp2 = .13. [→ Boot Nathalie 2017](#boot-nathalie-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1914
 sources:
   - id: carl-c-brigham-1914
     resource: "https://doi.org/10.1037/h0071183"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 28 selected 12- and 13-year-old subjects, pass rates on the twelve-year tests ranged from 11 per cent (repetition of sentences) to 71 per cent (line suggestion). [→ Carl C. Brigham 1914](#carl-c-brigham-1914)

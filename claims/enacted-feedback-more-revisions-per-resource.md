@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: omar-alsaiari-2026
     resource: "https://doi.org/10.48550/arxiv.2608.11625"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Model-estimated revision counts were highest in Enacted Feedback (0.602 per resource), exceeding Directed Feedback (0.239; IRR = 2.52) and Self-Directed Feedback (0.0034); no standardised effect size was printed. [→ Omar Alsaiari 2026](#omar-alsaiari-2026)

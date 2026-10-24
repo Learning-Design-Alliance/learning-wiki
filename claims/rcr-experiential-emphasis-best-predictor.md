@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: johannes-katsarov-2021
     resource: "https://doi.org/10.1007/s10648-021-09630-9"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In meta-regression, a practical, experiential engagement with concrete ethical problems significantly predicted judgment-related learning (coefficient 1.10, p < .001). [→ Johannes Katsarov 2021](#johannes-katsarov-2021)

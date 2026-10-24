@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2011
+source_checked: 2026-10-16
 sources:
   - id: alfieri-2011
     resource: "https://doi.org/10.1037/a0021017"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i1` small
+> **Currency** · newest study 2011 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across 360 comparisons, outcomes favored enhanced discovery (generation, elicited explanation, guided discovery) over other instruction, d = 0.30, 95% CI [.23, .36]. [→ Alfieri 2011](#alfieri-2011)

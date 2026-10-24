@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 1998
 sources:
   - id: ton-de-jong-1998
     resource: "https://telearn.hal.science/hal-00190680v1"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a simple disease-spread simulation, model progression had no overall positive effect on performance and was less efficient than immediate full complexity. [→ Ton de Jong 1998](#ton-de-jong-1998)

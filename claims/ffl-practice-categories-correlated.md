@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: bing-ru-teh-2014
     resource: "https://www.mathematica.org/publications/measuring-school-leaders-effectiveness-an-interim-report-from-a-multiyear-pilot-of-pennsylvanias"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher scores in one measured category of leadership practices were associated with higher scores in the other categories. [→ Bing-ru Teh 2014](#bing-ru-teh-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: fu-jinbin-zhao-fang-2026
     resource: "https://doi.org/10.3390/bs16081393"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Artificial intelligence connectedness is claimed to uniquely predict disclosure depth, offline social withdrawal, and mental health changes after controlling for usage frequency, social presence, and anthropomorphism. [→ Fu Jinbin & Zhao Fang 2026](#fu-jinbin-zhao-fang-2026)

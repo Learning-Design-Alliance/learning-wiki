@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: gerry-stahl-2013
     resource: "https://doi.org/10.1007/s11412-013-9171-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Gweon, Jain, McDonough, Raj and Rosé argue that a measure of speech-style accommodation should positively correlate with prevalence of other-oriented transactions, so acoustic analysis can predict a level of transactive reasoning. [→ Gerry Stahl 2013](#gerry-stahl-2013)

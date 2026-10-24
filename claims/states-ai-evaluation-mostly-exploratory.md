@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: ruiz-2025
     resource: "https://doi.org/10.51388/20.500.12265/280"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A majority of the 32 states and Puerto Rico reviewed show only exploratory AI evaluation guidance, with fewer at piloting and only a handful at systematic, student outcomes-based evaluation. [→ Ruiz 2025](#ruiz-2025)

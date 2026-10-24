@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: bedny-2015
     resource: "https://doi.org/10.1523/jneurosci.0634-15.2015"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In young children, occipital cortices respond to sound in blind but not sighted children. [→ Bedny 2015](#bedny-2015)

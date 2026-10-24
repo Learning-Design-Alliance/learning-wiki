@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: southwest-english-learner-literacy-swell-partnership-2023
     resource: "https://ies.ed.gov/nrel/southwest"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The logic model hypothesizes positive impacts on teachers' literacy instruction, their ability to accommodate language learning for students developing proficiency, and their ability to embed CLRI in instruction. [→ Southwest English Learner Literacy (SWELL) Partnership 2023](#southwest-english-learner-literacy-swell-partnership-2023)

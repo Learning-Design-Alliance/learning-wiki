@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shan-li-2026
     title: "Shan Li, Juan Zheng. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence. (No DOI or URL: the ORCID link recorded at ingest was malformed, and no record was found on Crossref or DataCite, 2026-10-15.)"
@@ -29,6 +30,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

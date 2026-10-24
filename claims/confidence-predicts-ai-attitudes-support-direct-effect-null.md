@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Confidence had a strong, statistically significant positive effect on attitudes toward AI (V = 0.855, p < 0.001), while the direct effect of support on attitudes was not significant (V = 0.128, p = 0.106). [→ mmr-model2](#mmr-model2)

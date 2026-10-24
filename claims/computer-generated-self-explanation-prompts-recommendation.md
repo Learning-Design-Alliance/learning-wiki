@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: bisra-2018
     resource: "https://doi.org/10.1007/s10648-018-9434-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors recommend that future research explore computer generation of self-explanation prompts because relying on instructor-scripted prompts has limitations. [→ Bisra 2018](#bisra-2018)

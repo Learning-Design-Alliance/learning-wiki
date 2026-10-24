@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: seaton-eleanor-k-2009
     resource: "https://doi.org/10.1111/j.1467-8624.2009.01268.x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Nested model comparisons showed the discrimination–private regard relation differed by age group, with more frequent discrimination at Time 2 associated with lower private regard at Time 3 among late adolescents. [→ Seaton Eleanor K. 2009](#seaton-eleanor-k-2009)

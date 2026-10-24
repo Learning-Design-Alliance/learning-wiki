@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-19
 sources:
   - id: leppink-2012
     resource: "https://doi.org/10.1007/s10734-011-9476-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect of instructional method on conceptual understanding depends on students' prior knowledge level: a statistically significant interaction was found, F(3, 97) = 2.762, with η² = 0.079. [→ Leppink 2012](#leppink-2012)

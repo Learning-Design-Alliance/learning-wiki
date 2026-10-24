@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
+recheck_by: 2003
 sources:
   - id: john-q-easton-2000
     resource: "https://eric.ed.gov/?q=Annual+CPS+Test+Trend+Review+1999"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The count of students in the appropriate age range for grades three through eight classified as grade 20 fell from 6,180 in 1992 to 773 in 1999, moving them into regular grades where they are counted as not tested or tested but excluded. [→ John Q. Easton 2000](#john-q-easton-2000)

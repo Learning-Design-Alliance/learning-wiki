@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: song-2023
     resource: "https://academiccommons.columbia.edu/doi/Song_columbia_0054D_18218"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group showed greater skill in generating advanced counterarguments relative to the comparison group, in both dialogs and essays. [→ Song 2023](#song-2023)

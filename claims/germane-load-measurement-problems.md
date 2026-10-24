@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: felix-krieglstein-2022
     resource: "https://doi.org/10.1007/s10648-022-09683-4"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the Leppink et al. (2013) validation studies, GCL and learning outcomes did not correlate, contradicting theoretical assumptions of CLT. [→ Felix Krieglstein 2022](#felix-krieglstein-2022)

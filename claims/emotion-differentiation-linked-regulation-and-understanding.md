@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: elena-savina-2025
     resource: "https://doi.org/10.1007/s10648-025-10018-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The ability to differentiate emotions (labeling emotional experience with accuracy and specificity) is linked to more effective emotion regulation and more accurate understanding of others' emotions. [→ Elena Savina 2025](#elena-savina-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: jennie-y-jiang-2014
     resource: "https://www.cps.edu/Pages/reachstudents.aspx"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` About 3 percent of principals were muted (awarding nearly the same rating regardless of component difficulty) and about 5 percent were erratic. [→ Jennie Y. Jiang 2014](#jennie-y-jiang-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: apoyos-utilizados
     title: apoyos-utilizados
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Los consejeros participantes compartieron más de 80 apoyos utilizados, agrupados en ocho categorías, siendo las personas y conexiones los más mencionados y los servicios los segundos. [→ apoyos-utilizados](#apoyos-utilizados)

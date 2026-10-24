@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: john-duplice-2025
     resource: "https://doi.org/10.29140/vli.v14n1.102482"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interactions of treatment with post-test 1 (z = 2.62, p = .009) and post-test 2 (z = 2.56, p = .012) were significant for Knowledge scores, indicating generation scores increased from pre-test more than baseline. [→ John Duplice 2025](#john-duplice-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ridwan-whitehead-andy-nguyen-sanna-järvelä-2026
     resource: "https://doi.org/10.1007/s11412-026-09478-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Adaptive MAI groups showed strong transitions from joint attention, mutual gaze, and prox_close to monitoring; static MAI groups showed more prominent transitions toward selecting and enacting strategy; the conditions differed significantly along RR1 (U = 60.00, p < 0.001, r = −1.00). [→ Ridwan Whitehead · Andy Nguyen · Sanna Järvelä 2026](#ridwan-whitehead-andy-nguyen-sanna-jarvela-2026)

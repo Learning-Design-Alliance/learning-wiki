@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: daisyquest-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across four studies meeting WWC evidence standards (223 students aged five to seven), DaisyQuest was rated as having positive effects on alphabetics, with an average improvement index of +23 percentile points (range -18 to +45). [→ DaisyQuest 2006](#daisyquest-2006)

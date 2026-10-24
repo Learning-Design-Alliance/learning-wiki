@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: michael-dahlin-and-beth-tarasawa-2013
     resource: "https://www.nwea.org/research/publication/a-level-playing-field-college-readiness-standards-whitepaper/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Over 95% of high achievers in low-poverty middle schools were on track for ACT college readiness benchmarks, versus over 85% in reading and just over 80% in mathematics among high-poverty schools, with status stable over three years. [→ Michael Dahlin and Beth Tarasawa 2013](#michael-dahlin-and-beth-tarasawa-2013)

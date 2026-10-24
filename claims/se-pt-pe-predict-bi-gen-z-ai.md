@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mohd-shafie-rosli-2026
     resource: "https://doi.org/10.1007/s41979-025-00171-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Behavioural intention to adopt AI among Gen Z university students is influenced by self-efficacy, perceived trust and perceived expectancy. [→ Mohd Shafie Rosli 2026](#mohd-shafie-rosli-2026)

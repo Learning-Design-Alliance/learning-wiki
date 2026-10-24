@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: elliott-2021
     resource: "https://doi.org/10.30707/TLCSD5.1.1624982519.538001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants reported widespread agreement that weekly debriefing meetings let them discuss questions, and that guided exploration of psychometric properties benefited their clinical knowledge. [→ Elliott 2021](#elliott-2021)

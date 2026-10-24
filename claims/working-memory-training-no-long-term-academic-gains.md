@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: andrew-c-butler-shana-k-carpenter-2015
     resource: "https://doi.org/10.1007/s10648-015-9344-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Working memory training programs produce some short-term gains on tasks similar to the training activities, but evidence does not support consistent long-term gains in reading, mathematics, and spelling. [→ Andrew C. Butler & Shana K. Carpenter 2015](#andrew-c-butler-shana-k-carpenter-2015)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: zhao-h-and-ji-j-2026
     title: Zhao H and Ji J 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Descriptive statistics show Counter increased from 0.840 (first drafts) to 1.241 (peer) and 1.338 (AI); Endorse rose to 0.384 in peer revisions but fell to 0.100 in AI revisions; Pronounce declined in both. [→ Zhao H and Ji J 2026](#zhao-h-and-ji-j-2026)

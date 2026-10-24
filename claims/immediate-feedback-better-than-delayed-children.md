@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: fyfe-emily-r-2023
     resource: "https://doi.org/10.1080/00461520.2022.2108426"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In mathematics studies with children ages eight to 11, trial-by-trial immediate feedback was more helpful than delayed feedback, though few studies examined delayed timing. [→ Fyfe Emily R. 2023](#fyfe-emily-r-2023)

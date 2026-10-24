@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: lewis-m-terman-and-clara-harbison-town-1917
     resource: "https://www.jstor.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Tests appraise individuals only when the user can translate simple responses into terms of the mental process involved and avoid confusing mental content with mental process. [→ Lewis M. Terman and Clara Harbison Town 1917](#lewis-m-terman-and-clara-harbison-town-1917)

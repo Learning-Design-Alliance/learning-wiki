@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: roschelle-2021
     resource: "https://doi.org/10.4324/9781315685779-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The chapter reports that investigators have found inquiry activities especially beneficial for students in low-income schools, while noting that some inquiry environments require resources and teacher skills that are less available or inequitably allocated in those schools. [→ Roschelle 2021](#roschelle-2021)

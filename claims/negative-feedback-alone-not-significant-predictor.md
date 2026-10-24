@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2005
 sources:
   - id: kim-mcdonough-2005
     resource: "https://doi.org/10.1017/S0272263105050047"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the logistic regression model, negative feedback provision by itself was not a significant predictor; only modified output with advanced forms was. [→ Kim McDonough 2005](#kim-mcdonough-2005)

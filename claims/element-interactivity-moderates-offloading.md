@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: chen-2026
     resource: "https://doi.org/10.1007/s10648-026-10132-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The cognitive offloading group would perform better than the no cognitive offloading group when materials are high in element interactivity, whereas the advantage may be reduced when materials are low in element interactivity. [→ Chen 2026](#chen-2026)

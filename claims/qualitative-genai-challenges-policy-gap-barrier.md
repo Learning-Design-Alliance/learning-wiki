@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: alharbi-2026
     resource: "https://doi.org/10.53761/xwb6h668"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Interviews with fifteen educators confirmed challenges of plagiarism and student overreliance on AI and revealed an unexpected barrier: reconciling institutional policy gaps with personal ethical values. [→ Alharbi 2026](#alharbi-2026)

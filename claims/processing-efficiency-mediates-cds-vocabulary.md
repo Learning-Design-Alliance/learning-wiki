@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: weisleder-adriana-2013
     resource: "https://doi.org/10.1177/0956797613488145"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Including 19-month processing efficiency in the model reduced the path coefficient from child-directed speech to vocabulary from 12.61 to 7.41, with a significant bootstrap indirect effect (95% CI 0.44 to 13.61); the final model explained 47% of vocabulary variance. [→ Weisleder Adriana 2013](#weisleder-adriana-2013)

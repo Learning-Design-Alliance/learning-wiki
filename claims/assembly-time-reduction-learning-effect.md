@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: farnaz-baksh-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15239"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Assembly times trended downward from 21.4 to 13.7 minutes across versions, compressing the assembly-to-disassembly ratio from 4.3x to 2.9x. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)

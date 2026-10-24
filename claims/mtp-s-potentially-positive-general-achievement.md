@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: domain-average
     title: domain-average
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The WWC-computed average effect across the two time points is positive and statistically significant (domain average effect size 0.14, improvement index +6), yielding a rating of potentially positive effects with small extent of evidence. [→ domain-average](#domain-average)

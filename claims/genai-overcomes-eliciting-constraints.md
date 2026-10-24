@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ying-zhan-2025
     title: Ying Zhan 2025
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` GenAI's constant availability and less intimidating environment may help students overcome time, access and top-down-culture constraints on feedback eliciting. [→ Ying Zhan 2025](#ying-zhan-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: francisco-josé-jiménez-hornero-2026
     resource: "https://doi.org/10.1007/s11251-026-09808-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among technical-execution criteria, Axis labeling and units (β = −0.49) and Annotations or key labels (β = −0.47) showed the steepest significant declines; among conceptual criteria, Explanation of scales and units (β = −0.30) and terminology (β = −0.28) declined most. [→ Francisco José Jiménez-Hornero 2026](#francisco-jose-jimenez-hornero-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: cerni-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102119"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Performance differences based on transcription complexity provided insights into the extent to which children internalized lexical representations. [→ Cerni 2025](#cerni-2025)

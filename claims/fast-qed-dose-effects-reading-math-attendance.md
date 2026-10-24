@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-10
 sources:
   - id: bos-2018
     resource: "https://evidenceforessa.org/program/families-and-schools-together-fast/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the student-level QED subsample, students attending FAST three or more times showed strong positive effects on Grade 1 reading achievement and more modest mathematics effects, alongside a strong negative effect on kindergarten school attendance. [→ Bos 2018](#bos-2018)

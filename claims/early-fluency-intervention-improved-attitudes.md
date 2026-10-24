@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: deslauriers-l-2019
     resource: "https://doi.org/10.1073/pnas.1821936116"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a 20-min early-semester presentation on fluency, feeling of learning, and actual learning, over 65% of students reported their feelings about active learning's effectiveness significantly improved over the semester. [→ Deslauriers L. 2019](#deslauriers-l-2019)

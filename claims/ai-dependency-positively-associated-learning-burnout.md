@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: huang-q-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1889053"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Higher AI dependency is associated with higher learning burnout (β = 0.451, p < 0.001), controlling for self-efficacy and teacher support. [→ Huang Q 2026](#huang-q-2026)

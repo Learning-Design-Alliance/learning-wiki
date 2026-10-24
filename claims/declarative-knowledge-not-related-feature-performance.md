@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: christian-leukel-2025
     resource: "https://doi.org/10.1007/s11251-024-09700-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Logistic regression showed no significant relationship between declarative knowledge of a feature and positive pre-to-post change in its execution, for any of the five features. [→ Christian Leukel 2025](#christian-leukel-2025)

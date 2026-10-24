@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: leman-figen-gül-2025
     resource: "https://doi.org/10.58278/0.2025.109"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interview participants' main concerns were perceived imperfection or incompleteness of AI-generated outputs, and some expressed hesitancy about depending solely on AI-generated assets, preferring to modify or recreate them to preserve a personal connection with their work. [→ Leman Figen Gül 2025](#leman-figen-gul-2025)

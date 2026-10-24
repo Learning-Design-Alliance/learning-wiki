@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1913
 sources:
   - id: myers-1913
     resource: "https://www.google.com/search?q=%22Some+correlations+between+learning+and+recall%22+Myers"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article reports, citing Bigham, that the longer the interval after learning the longer the recall time, that errors increased with recall time, and that quicker memory discharge gave better results, while noting Bigham presented very little evidence; Myers' incidental memory study similarly reported subjects using least time remembered the most correct words. [→ Myers 1913](#myers-1913)

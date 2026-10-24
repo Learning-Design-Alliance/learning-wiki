@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: john-burghardt-2017
     resource: "https://www.mathematica.org/publications/national-longitudinal-transition-study-2012-design-documentation"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` NLTS 2012 is the third in the series of NLTS studies sponsored by the U.S. Department of Education examining youth with disabilities receiving services under IDEA. [→ John Burghardt 2017](#john-burghardt-2017)

@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 1979
 sources:
   - id: cummins-1979
     resource: "https://doi.org/10.3102/00346543049002222"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Immersion programs communicate to children their success, whereas submersion programs often make children acutely aware of their failure. [→ Cummins 1979](#cummins-1979)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: alonso-carracedo-2026
     resource: "https://doi.org/10.48550/arxiv.2607.02432"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` GPT 5.2, Claude Opus 4.6, Gemini 3.0 Pro and GLM 5 all show a dominant 90% peak and secondary 0% peak, with Variant 2 generally amplifying the 90% peak while modestly reducing the 0% bin. [→ Alonso-Carracedo 2026](#alonso-carracedo-2026)

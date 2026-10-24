@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: molenaar-2010
     resource: "https://doi.org/10.1007/s11251-010-9154-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students in problematizing triads scored significantly higher on the near transfer test than students in structuring triads, t(147) = 1.64, p < 0.05, r = 0.13. [→ Molenaar 2010](#molenaar-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1991
 sources:
   - id: ahmad-tarmizi-1991
     resource: "http://hdl.handle.net/1959.4/69310"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` With guidance presented in a unitary format, students learning from worked examples outperformed students solving conventional problems. [→ Ahmad Tarmizi 1991](#ahmad-tarmizi-1991)

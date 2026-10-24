@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: morphological-instruction-improves-literacy
 evidence_strength: unrated
+newest_evidence: 2013
+source_checked: 2026-10-15
 sources:
   - id: goodwin-ahn-2013
     resource: "https://doi.org/10.1080/10888438.2012.689791"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i1` small
+> **Currency** · newest study 2013 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- title before 2026-10-15: Morphological Instruction Improves Literacy -->
 
 Explicit teaching of morphemes (roots, prefixes, suffixes) and how they combine to form words improves students' word reading, spelling, vocabulary and morphological knowledge; the meta-analysis on this page with pooled effects found no reliable effect on reading comprehension or fluency.

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: ron-zimmer-2008
     resource: "https://www.mathematica.org/publications/evaluating-the-performance-of-philadelphias-charter-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` There is little evidence that charter schools either help or harm the achievement of students in nearby district schools in Philadelphia. [→ Ron Zimmer 2008](#ron-zimmer-2008)

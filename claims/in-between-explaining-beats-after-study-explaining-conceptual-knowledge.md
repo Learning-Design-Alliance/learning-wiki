@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: lachner-2020
     resource: "https://doi.org/10.1037/edu0000396"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students who explained between the two study phases scored higher on the conceptual knowledge posttest than students who explained after the entire study phase. [→ Lachner 2020](#lachner-2020)

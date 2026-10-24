@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2018
 sources:
   - id: eric-isenberg-2015
     resource: "https://doi.org/10.1080/19345747.2014.974232"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Under the Full Roster Method, co-taught students receive a full weight with each of their teachers, so such students receive extra weight when calculating the relationship between student characteristics and achievement. [→ Eric Isenberg 2015](#eric-isenberg-2015)

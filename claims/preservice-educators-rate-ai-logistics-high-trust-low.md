@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: george-efthimiou-2026
     resource: "https://doi.org/10.35542/osf.io/m5erf_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 131 preservice educators, trust in the LLM received the lowest mean rating (M = 3.08) while time saving received the highest (M = 3.95) on 5-point Likert items. [→ George Efthimiou 2026](#george-efthimiou-2026)

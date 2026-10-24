@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: vu-2021
     resource: "https://doi.org/10.1007/s10648-021-09616-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When effort is measured as quality of learning there is some evidence of a positive link with achievement, whereas quantity-of-learning effort is weak, significant only after controlling for quality, or negative (labour-in-vain effect). [→ Vu 2021](#vu-2021)

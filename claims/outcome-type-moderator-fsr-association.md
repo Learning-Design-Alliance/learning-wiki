@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fathi-2026
     resource: "https://doi.org/10.1007/s10648-025-10100-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In univariate meta-regression, coding persistence as 0 and GPA/grades as 1 yielded a significant negative coefficient, indicating stronger FSR associations with persistence. [→ Fathi 2026](#fathi-2026)

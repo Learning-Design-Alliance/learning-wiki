@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: maksum-2022
     resource: "https://doi.org/10.36681/tused.2022.161"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experimental-class students taught with TEFA-T scored significantly higher on post-test learning achievement than control-class students taught with teacher-based instruction (Sig. 2-tailed 0.000 < 0.05). [→ Maksum 2022](#maksum-2022)

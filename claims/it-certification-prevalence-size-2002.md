@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: joshua-haimson-2004
     resource: "https://www.mathematica.org/publications/developing-the-it-workforce-certification-programs-participants-and-outcomes-in-high-schools-and-twoyear-colleges"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The report documents how prevalent and how large IT skill certification programs were in 2002. [→ Joshua Haimson 2004](#joshua-haimson-2004)

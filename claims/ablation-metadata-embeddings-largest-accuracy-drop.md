@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-22
+recheck_by: 2029
 sources:
   - id: shen-x-2026
     title: Shen X 2026
@@ -27,6 +30,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Removing metadata-enriched embeddings drops overall accuracy from 69.8% to 65.3%, the largest decline among tested ablations. [→ Shen X 2026](#shen-x-2026)

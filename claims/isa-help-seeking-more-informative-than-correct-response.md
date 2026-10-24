@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: lu-2024
     resource: "https://doi.org/10.31219/osf.io/3k7z2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` By the importance-of-a-single-action measure, single instances of "answer requested" (ISA 1.1293) and "explanation requested" (ISA 1.0983) have higher relative importance than "correct response" (0.9456) and "open response" (0.9933). [→ Lu 2024](#lu-2024)

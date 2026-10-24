@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: francis-2019
     resource: "https://doi.org/10.1016/j.cpr.2018.09.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For general internalising problems, anxiety, and depression, none of the eight planned moderator subgroup analyses could be run reliably because there were fewer than 10 studies per subgroup; narrative synthesis was substituted. [→ Francis 2019](#francis-2019)

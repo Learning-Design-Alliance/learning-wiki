@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: john-duplice-2022
     resource: "https://doi.org/10.22492/ije.10.1.05"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative observation during the study identified students forgetting notebooks, omitting dates on headlists and distillations, and finding the method's steps unclear early in implementation. [→ John Duplice 2022](#john-duplice-2022)

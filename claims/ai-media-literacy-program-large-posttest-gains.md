@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: demir-2025
     resource: "https://doi.org/10.21203/rs.3.rs-6786882/v1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Between-group post-test comparisons favored the experimental group on all three subscales, with Cohen's d of 1.12 (Reading), 1.18 (Writing), and 1.31 (Total Literacy). [→ Demir 2025](#demir-2025)

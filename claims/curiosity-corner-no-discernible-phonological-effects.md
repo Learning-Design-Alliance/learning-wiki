@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-20
 sources:
   - id: curiosity-corner-2009
     resource: "https://www.successforall.org/early/early_curiosity.htm"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the PCER Consortium (2008) trial, Curiosity Corner participants did not differ significantly or substantively from controls on the Pre-CTOPPP Elision subtest. [→ Curiosity Corner 2009](#curiosity-corner-2009)

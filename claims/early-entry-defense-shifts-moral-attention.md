@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1914
 sources:
   - id: winch-1914
     resource: "https://books.google.com/books?q=%22When+Should+a+Child+Begin+School%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Winch observes that when driven from intellectual advantage, the defense of early entry retreats to moral advantage and then to advantage in attention development. [→ Winch 1914](#winch-1914)

@@ -5,6 +5,8 @@ title: Total retrieval spacing improved one-week vocabulary recall while relativ
 description: One learn-to-criterion word-pair experiment separated total intervening trials from the expanding, equal, or contracting arrangement of those trials.
 status: review
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-16
 generated:
   by: codex/unspecified
   at: 2026-09-29
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=96 undergraduate students
+> **Currency** · newest study 2011 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 One experiment tested three repeated retrievals after an initial successful recall of Swahili–English pairs. Its lags were **intervening trials within a learning session**, not days between sessions.
 

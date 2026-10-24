@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-09
 sources:
   - id: melissa-a-clark-2011
     resource: "https://www.mathematica.org/publications/do-charter-schools-improve-student-achievement-evidence-from-a-national-randomized-study"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The first national randomized study of the impacts of charter schools on student achievement examined charter school effects on achievement. [→ Melissa A. Clark 2011](#melissa-a-clark-2011)

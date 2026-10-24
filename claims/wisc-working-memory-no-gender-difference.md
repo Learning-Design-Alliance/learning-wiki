@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: d-giofrè-k-allen-e-toffalini-s-caviola-2022
     resource: "https://doi.org/10.1007/s10648-022-09705-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The pooled gSM effect was near zero (d = -0.04) and not statistically significant (p = 0.09), despite a hypothesized female advantage. [→ D. Giofrè · K. Allen · E. Toffalini · S. Caviola 2022](#d-giofre-k-allen-e-toffalini-s-caviola-2022)

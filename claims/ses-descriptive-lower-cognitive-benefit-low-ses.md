@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: michaela-arztmann-2023
     resource: "https://doi.org/10.1080/03057267.2022.2057732"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Studies with only high-SES samples report larger cognitive effect sizes (g = 1.98, g = 0.71) than studies with only low-SES samples (g = 0.09, g = 0.06), though the moderator test was not significant. [→ Michaela Arztmann 2023](#michaela-arztmann-2023)

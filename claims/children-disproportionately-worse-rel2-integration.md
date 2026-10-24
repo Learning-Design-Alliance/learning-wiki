@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: crone-eveline-a-2009
     resource: "https://doi.org/10.1111/j.1467-7687.2008.00743.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The age-group difference in accuracy was more pronounced for REL-2 than for REL-1 trials, while the REL-1 vs REL-0 difference showed no age interaction. [→ Crone Eveline A. 2009](#crone-eveline-a-2009)

@@ -8,6 +8,7 @@ generated:
 id: learners-misjudge-effective-learning-strategies
 aliases: [learners-misjudge-effective-study-strategies, learners-misjudge-retrieval-benefit]
 evidence_strength:
+newest_evidence: 2013
 sources:
   - id: karpicke-butler-roediger-2009
     resource: "https://doi.org/10.1080/09658210802647009"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r?`, 1 associational `r1` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 Learners systematically overestimate the effectiveness of low-effort, fluency-based strategies (rereading, highlighting) and underestimate high-effort, generative strategies (retrieval practice, spacing, interleaving). This claim concerns metacognitive monitoring and strategy selection, not the effectiveness of the strategies themselves — those are covered in their own claim pages.
 

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: dry-mj-2012
     title: Dry MJ 2012
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` IT showed reliable dose-related decline with rising BAC and convenient non-invasive task properties, leading the authors to recommend it as a marker test. [→ Dry MJ 2012](#dry-mj-2012)

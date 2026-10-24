@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: wai-2004
     resource: "https://scholar.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The high dose group attained at least one STEM accomplishment at 42.2% versus 35.3% for low dose (gain ratio 1.194, 95% CI 1.049–1.359). [→ Wai 2004](#wai-2004)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: li-2020
     resource: "https://www.cde.ca.gov/ds/dd/index.asp"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During in-school implementation, teachers reported issues with digital game loading time, though students navigated the game without significant problems once it loaded. [→ Li 2020](#li-2020)

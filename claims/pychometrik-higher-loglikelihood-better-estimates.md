@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: he-2021
     resource: "https://www.nwea.org/research/publication/a-comparison-of-item-parameter-estimates-in-pychometrik-and-the-existing-item-calibration-tool/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For the 1,180 AGC items, the mean log-likelihood was -2803.94 for the existing tool versus -2801.66 for Pychometrik; for the 517 items with RIT differences the means were -2739.59 versus -2734.39. [→ He 2021](#he-2021)

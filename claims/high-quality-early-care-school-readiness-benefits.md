@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: a-call-to-action-on-behalf-of-us-babies-2014
     resource: "http://forourbabies.org/wp/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` High-quality early care has been shown to increase school readiness, improve math and language ability, reduce cognitive and social difficulties, and decrease the likelihood of grade repetition or special education placement. [→ A Call to Action on Behalf of U.S. Babies 2014](#a-call-to-action-on-behalf-of-us-babies-2014)

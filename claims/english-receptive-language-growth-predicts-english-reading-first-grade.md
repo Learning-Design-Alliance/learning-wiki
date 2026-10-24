@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: davison-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3138808/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Growth in English oral comprehension (TELD-3) positively predicted English letter-word identification (t = 17.50) and passage comprehension (t = 15.39) at the end of first grade. [→ Davison 2011](#davison-2011)

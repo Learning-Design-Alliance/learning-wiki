@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: retrieval-failure-reduces-benefit
 evidence_strength:
+newest_evidence: 2014
 sources:
   - id: rowland-2014
     resource: "https://doi.org/10.1037/a0037559"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=159 effect sizes (61 studies)
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 When learners attempt retrieval practice but fail to successfully retrieve the target information, the learning benefit of the retrieval attempt is reduced compared with successful retrieval. The claim concerns the *quality* of the retrieval attempt, not the presence of failure per se — see Discussion for boundary conditions.
 

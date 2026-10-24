@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: robert-dekeyser-2010
     resource: "https://www.um.es/ijes"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · `i2` medium · n=15 studies (N=827); recasts n=7 studies, k=13
+> **Currency** · newest study 2010 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The corrective-feedback literature is overall supportive of recasts because they provide positive evidence when the learner is maximally receptive, yet recast effectiveness varies by language area and learner variables. [→ Robert DeKeyser 2010](#robert-dekeyser-2010)

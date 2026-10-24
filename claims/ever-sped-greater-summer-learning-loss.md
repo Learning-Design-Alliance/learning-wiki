@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: angela-johnson-2021
     resource: "https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education-paper/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ever-SPED students lost more learning during every summer than never-SPED students across the studied grades. [→ Angela Johnson 2021](#angela-johnson-2021)

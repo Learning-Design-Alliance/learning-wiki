@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: endedijk-2022
     resource: "https://doi.org/10.3102/00346543211051428"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Negative aspects of the teacher–student relationship were especially predictive of peer relationships, consistent with the hypothesis that negative aspects show stronger associations than positive ones. [→ Endedijk 2022](#endedijk-2022)

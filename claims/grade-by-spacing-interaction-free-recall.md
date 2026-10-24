@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1984
 sources:
   - id: thomas-c-toppino-and-william-digeorge-1984
     resource: "https://scholar.google.com/scholar?q=The+spacing+effect+in+free+recall+emerges+with+development+Memory+%26+Cognition+1984"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1984 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A mixed ANOVA on grade level (first-grade vs. preschool) and spacing (massed vs. spaced) found a significant interaction. [→ Thomas C. Toppino and William DiGeorge 1984](#thomas-c-toppino-and-william-digeorge-1984)

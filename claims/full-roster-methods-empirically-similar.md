@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: eric-isenberg-2013
     resource: "https://www.mathematica.org/publications/accounting-for-coteaching-a-guide-for-policymakers-and-developers-of-valueadded-models"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The full roster method and the full roster-plus method produce empirically similar results when used to account for co-teaching in value-added models. [→ Eric Isenberg 2013](#eric-isenberg-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: lowrie-2010
     resource: "https://doi.org/10.1016/j.learninstruc.2009.11.005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors report no gender differences on items requiring 2D to 2D processing, while significant differences appeared on items requiring 2D-3D movement (Retinal-list Item 10, Map Item 16) and horizontal Connection processing (Item 20). [→ Lowrie 2010](#lowrie-2010)

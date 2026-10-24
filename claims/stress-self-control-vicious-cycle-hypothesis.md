@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: duckworth-2013
     resource: "https://doi.org/10.3389/fpsyg.2012.00608"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article speculates that negative life events might precipitate a positive feedback loop through decreases in self-control. [→ Duckworth 2013](#duckworth-2013)

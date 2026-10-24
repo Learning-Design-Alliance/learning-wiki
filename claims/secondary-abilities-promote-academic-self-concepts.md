@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: geary-2022
     resource: "https://doi.org/10.1007/s10648-022-09669-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article proposes that developing secondary academic abilities promotes academic self-concepts, which are supported by evolved systems for self-awareness and self-knowledge. [→ Geary 2022](#geary-2022)

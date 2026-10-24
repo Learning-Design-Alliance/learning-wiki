@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: moll-2014
     resource: "https://doi.org/10.1016/j.learninstruc.2013.09.003"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The first principal component analysis of the five literacy measures indicated a two-component solution with reading speed measures on the first and reading accuracy measures on the second component. [→ Moll 2014](#moll-2014)

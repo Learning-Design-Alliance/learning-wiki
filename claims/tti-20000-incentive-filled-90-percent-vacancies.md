@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: steven-glazerman-2012
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A $20,000 per-teacher transfer incentive filled 90 percent of targeted vacancies in hard-to-staff schools with some of the districts' highest-performing teachers. [→ Steven Glazerman 2012](#steven-glazerman-2012)

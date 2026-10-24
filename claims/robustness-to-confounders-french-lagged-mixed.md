@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: núñez-regueiro-2026
     resource: "https://doi.org/10.1007/s10648-026-10131-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After adjusting for background covariates, self-concept still predicted later skill development in mathematics (β2 = [.120, .177], p < .001) and skills still predicted immediate changes in self-concept (β3′ = [.154, .218], p < .001). [→ Núñez-Regueiro 2026](#nunez-regueiro-2026)

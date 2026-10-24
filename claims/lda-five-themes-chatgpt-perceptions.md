@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: elizondo-garcía-me-2025
     title: Elizondo-García ME 2025
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` LDA topic modeling of open-ended survey responses revealed five key themes, including information retrieval, rapid learning with technology, ease and speed of use, research support, and AI as a support tool. [→ Elizondo-García ME 2025](#elizondo-garcia-me-2025)

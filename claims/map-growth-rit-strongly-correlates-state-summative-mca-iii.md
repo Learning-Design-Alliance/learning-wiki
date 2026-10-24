@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2024
 sources:
   - id: ann-hu-2021
     resource: "https://www.nwea.org/resource/type/linking-studies/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Correlations between MAP Growth and MCA-III Mathematics scores in Spring 2019 range from r = 0.92 to r = 0.93 across Grades 3–8, which the authors cite as validity evidence for prediction. [→ Ann Hu 2021](#ann-hu-2021)

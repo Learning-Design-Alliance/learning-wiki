@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: ira-nichols-barrer-2022
     resource: "https://doi.org/10.1080/19345747.2022.2049406"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A middle school admission offer raises 4-year college enrollment rates, with the estimated impact of 6.9%, using admission lotteries as a random assignment instrument. [→ Ira Nichols-Barrer 2022](#ira-nichols-barrer-2022)

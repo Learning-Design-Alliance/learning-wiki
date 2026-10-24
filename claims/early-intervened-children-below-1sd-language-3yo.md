@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: ching-teresa-y-c-2010
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094718/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Despite early detection and intervention, children experienced disadvantages in language development at 3 years. [→ Ching Teresa Y. C. 2010](#ching-teresa-y-c-2010)

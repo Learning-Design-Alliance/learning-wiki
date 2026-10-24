@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: haist-frank-2015
     resource: "https://doi.org/10.1002/hbm.22666"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adults, but not children or adolescents, showed robust negative NRE-achievement activation in the hippocampus bilaterally. [→ Haist Frank 2015](#haist-frank-2015)

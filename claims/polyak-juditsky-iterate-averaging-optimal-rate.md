@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2003
+recheck_by: 2006
 sources:
   - id: harold-j-kushner-and-g-george-yin-2003
     resource: "https://doi.org/10.1007/b97441"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2006**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When coefficients go to zero slower than O(1/n), the averaged iterate sequence converges to its limit at an optimal rate, allowing relatively large step sizes with offline averaging handling increased noise. [→ Harold J. Kushner and G. George Yin 2003](#harold-j-kushner-and-g-george-yin-2003)

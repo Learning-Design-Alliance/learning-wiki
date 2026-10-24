@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: robinson-2021
     resource: "https://doi.org/10.1007/s10648-020-09588-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Institution-wide undergraduate average GPA rose by 0.07 between 2008 and 2011, less than the reported 0.11 and 0.12 differences, so grade inflation cannot fully account for the gains. [→ Robinson 2021](#robinson-2021)

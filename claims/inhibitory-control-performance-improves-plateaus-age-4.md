@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: petersen-2016
     resource: "https://doi.org/10.1016/j.dr.2016.02.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Average POM performance on inhibitory control measures improved with age, and some tasks plateaued at later ages beginning around 4 years, indicating ceiling effects for older children. [→ Petersen 2016](#petersen-2016)

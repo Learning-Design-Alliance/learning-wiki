@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: gsrt-45-1
     title: gsrt-45-1
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r3` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Fourth- and fifth-grade students using ITSS outperformed comparison students on the Gray Silent Reading Test (effect size 0.15, improvement index +6, p < .01) and on five researcher-designed structure-strategy measures. [→ gsrt-45-1](#gsrt-45-1)

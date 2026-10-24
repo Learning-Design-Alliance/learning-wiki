@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: suleiman-2026
     resource: "https://doi.org/10.48550/arxiv.2607.11129"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Across four academic years, the 14 portfolio projects were used in 44 classroom trials at seven universities with 8 instructors, 22 courses, and about 2,000 students. [→ Suleiman 2026](#suleiman-2026)

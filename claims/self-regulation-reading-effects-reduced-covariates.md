@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: blair-2015
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5264531/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3` · `i1` small
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Executive function at 48 months predicts prekindergarten letter–word knowledge (ES = .19) but not growth. [→ Blair 2015](#blair-2015)

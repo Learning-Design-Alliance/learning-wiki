@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: isuru-nanayakkara-and-thilina-halloluwa-2026
     resource: "https://doi.org/10.48550/arxiv.2608.16541"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` FDR-corrected Welch's t-tests on trial-aggregated PSD features found robust domain differences (e.g., F4 Low Gamma, t(35)=5.14, p_FDR=0.0013) but no familiarity contrast surviving correction (minimum adjusted p=0.195). [→ Isuru Nanayakkara and Thilina Halloluwa 2026](#isuru-nanayakkara-and-thilina-halloluwa-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: potter-2012
     resource: "https://doi.org/10.48550/arxiv.1205.6970"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing about five years of MCAT data around the switch from Physics 5 to CLASP (N = 386 Physics 5, N = 347 CLASP), Biological Science averages were 9.71 ± 0.10 for both groups, and the Physical Science gap of 0.16 ± 0.15 was not statistically significant (t-test p = 0.29). [→ Potter 2012](#potter-2012)

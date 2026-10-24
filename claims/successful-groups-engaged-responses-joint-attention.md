@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: janssen-2010
     resource: "https://doi.org/10.1007/s10648-010-9131-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Members of successful groups displayed higher levels of engaged responses to correct proposals and better maintained joint attention than members of less successful groups, and outperformed them on individual mastery and transfer tests. [→ Janssen 2010](#janssen-2010)

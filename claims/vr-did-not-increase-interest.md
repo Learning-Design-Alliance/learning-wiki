@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: mulders-2025
     resource: "https://doi.org/10.1007/s11251-024-09697-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The VR application did not influence interest (d = 0.03), nor did the traditional-lesson control group (d = 0.25, not significant). [→ Mulders 2025](#mulders-2025)

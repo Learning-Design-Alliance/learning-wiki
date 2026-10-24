@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: darder-2015
     resource: "https://doi.org/10.7821/naer.2015.4.110"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study's results revealed consensus that the student-tutor relationship suffices for the student but is not advisable; students need to mix with peers in the same situation, which favors information exchange, makes loneliness disappear, enriches work and provides motivation, and virtual communities facilitate this. [→ Darder 2015](#darder-2015)

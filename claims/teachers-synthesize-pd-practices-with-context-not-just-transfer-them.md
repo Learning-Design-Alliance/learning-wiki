@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: marshall-horn-2025
     resource: "https://doi.org/10.1080/10508406.2025.2468230"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2` · n=2 focal cases (from 12 observed teachers)
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 When teachers bring a practice learned in professional development back to their classroom, they actively reshape it by synthesizing it with their own problems of practice, professional identity, implementation constraints, and goals — meaning two teachers from the same PD session can end up with substantially different, but each personally meaningful, versions of the same practice. This means fidelity of implementation (whether a teacher used the practice "as designed") is an incomplete lens for evaluating what teachers actually learned.
 

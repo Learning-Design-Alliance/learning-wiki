@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: melissa-e-hudson-and-david-w-test-2011
     resource: "http://www.education.uncc.edu/access/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In every reviewed study shared story reading was embedded in a package including task analysis, systematic prompting, and adapted literature, and it is not known how much any single component contributed to the practice's success. [→ Melissa E. Hudson and David W. Test 2011](#melissa-e-hudson-and-david-w-test-2011)

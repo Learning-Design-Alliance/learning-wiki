@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: early-literacy-performance-in-massachusetts-key-findings-from-202324-school-year-data-2025
     resource: "https://eric.ed.gov/?id=ED677570"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` School- and district-level factors, including concentration of students from low income backgrounds and racial isolation, are associated with higher early literacy risk rates. [→ Early Literacy Performance in Massachusetts: Key Findings From 2023/24 School Year Data 2025](#early-literacy-performance-in-massachusetts-key-findings-from-202324-school-year-data-2025)

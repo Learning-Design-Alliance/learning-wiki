@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: gerry-stahl-2014
     resource: "https://doi.org/10.1007/s11412-014-9204-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Mercier, Higgins and da Costa multi-touch tablet study, a leadership move counts only when a bid is taken up by others, so leadership takes place at the interactional group unit of analysis. [→ Gerry Stahl 2014](#gerry-stahl-2014)

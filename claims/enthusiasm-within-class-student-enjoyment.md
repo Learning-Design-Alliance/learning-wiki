@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2009
+source_checked: 2026-10-24
 sources:
   - id: frenzel-2009
     resource: "https://doi.org/10.1037/a0014695"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2009 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the within-class level, perceived teacher enthusiasm had a positive effect on individual student enjoyment in Grade 8 (β = .31, p < .01) beyond the autoregression from Grade 7 enjoyment (β = .53, p < .01). [→ Frenzel 2009](#frenzel-2009)

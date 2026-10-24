@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: er-2024
     resource: "https://doi.org/10.1111/bjet.13558"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the robust ANCOVA, the midterm covariate coefficient (0.01) was not statistically significant (p = 0.83), indicating initial knowledge did not confound the difference in feedback use. [→ Er 2024](#er-2024)

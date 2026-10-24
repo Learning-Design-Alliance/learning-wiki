@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: michos-2025
     resource: "https://doi.org/10.18608/jla.2025.8567"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teacher data literacy (skill), availability of data technologies (tool), and positive beliefs about technologies (will) each significantly and positively predict digital data use, with skill the strongest predictor. [→ Michos 2025](#michos-2025)

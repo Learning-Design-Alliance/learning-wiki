@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: haozhe-jiang-2026
     resource: "https://doi.org/10.1186/s40594-026-00628-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the 24 articles, ChatGPT was most frequently applied in the investigation phase (n = 20), followed by conceptualization (n = 17) and discussion (n = 13), with far fewer studies in orientation (n = 5) and conclusion (n = 8). [→ Haozhe Jiang 2026](#haozhe-jiang-2026)

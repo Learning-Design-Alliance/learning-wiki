@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: lanqin-zheng-2016
     resource: "https://doi.org/10.1007/s12564-016-9426-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Supporting the whole process of SRL had the highest effect size (ES = 0.469) and supporting reflection the lowest (ES = -0.105), but the difference among categories was not statistically significant (Q = 4.561, df = 3, p = 0.207). [→ Lanqin Zheng 2016](#lanqin-zheng-2016)

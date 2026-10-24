@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: meijuan-xie-2025
     resource: "https://doi.org/10.48550/arxiv.2503.13533"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ANOVA found no significant between-grade differences in AI-TK, AI-TCK, AI-TPK or AI-TPACK, but significant differences in self-efficacy (F=4.68, Sig=0.010) and teaching beliefs (F=7.58, Sig=0.001). [→ Meijuan Xie 2025](#meijuan-xie-2025)

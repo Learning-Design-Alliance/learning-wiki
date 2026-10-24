@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rwitajit-majumdar-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100405"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Evolved roles of teachers while teaching with AI agents shared the second-highest Impact rating (M = 8.13) but was rated one of the most challenging themes (M = 8.40), yielding a negative priority indicator. [→ Rwitajit Majumdar 2026](#rwitajit-majumdar-2026)

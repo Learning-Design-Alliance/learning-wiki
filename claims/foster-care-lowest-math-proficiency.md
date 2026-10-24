@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: shared-data-reveal-the-invisible-achievement-gap-of-students-in-foster-care-2014
     resource: "https://www.wested.org/bookstore"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` On the statewide mathematics test administered in grades 2-7, students in foster care had the lowest proficiency of any group, including other at-risk subgroups such as low-SES students, English language learners, and students with disabilities. [→ Shared Data Reveal the Invisible Achievement Gap of Students in Foster Care 2014](#shared-data-reveal-the-invisible-achievement-gap-of-students-in-foster-care-2014)

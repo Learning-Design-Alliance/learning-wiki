@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2003
+recheck_by: 2006
 sources:
   - id: easton-2003
     resource: "https://www.consortium-chicago.org/publications/briefs/onlineresources.html"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2006**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Scores on the two tests are highly correlated in grades three, five, and eight in both subjects, with printed correlations of r = 0.83 to 0.87, rising to around 0.90 when corrected for unreliability. [→ Easton 2003](#easton-2003)

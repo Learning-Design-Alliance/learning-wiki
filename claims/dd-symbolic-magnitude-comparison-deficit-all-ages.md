@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: noël-m-p-and-rousselle-l-2011
     title: Noël M-P and Rousselle L 2011
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across studies of children aged 6 to 14, DD children show impaired symbolic number magnitude comparison relative to controls. [→ Noël M-P and Rousselle L 2011](#noel-m-p-and-rousselle-l-2011)

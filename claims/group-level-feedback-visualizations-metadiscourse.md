@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: gerry-stahl-2015
     resource: "https://doi.org/10.1007/s11412-015-9220-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Resendes et al. study, social-network analysis of Knowledge Forum notes showed control-condition students mostly weakly connected while experimental-condition students were strongly connected through shared vocabulary terms, indicating higher intersubjective shared understanding. [→ Gerry Stahl 2015](#gerry-stahl-2015)

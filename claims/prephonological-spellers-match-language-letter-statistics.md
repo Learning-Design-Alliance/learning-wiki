@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: treiman-rebecca-2013
     resource: "https://doi.org/10.1080/15475441.2013.812016"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Brazilian prephonological spellers (mean age about 4;3) tended to use letters and digrams common in Portuguese words. [→ Treiman Rebecca 2013](#treiman-rebecca-2013)

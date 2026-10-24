@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: saar-2022
     resource: "https://doi.org/10.18608/jla.2022.7505"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In two case studies, teachers using the AMTI during actual teaching found the collected data informative and useful without feeling overwhelmed by workload. [→ Saar 2022](#saar-2022)

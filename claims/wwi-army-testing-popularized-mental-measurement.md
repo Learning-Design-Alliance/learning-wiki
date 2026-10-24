@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1919
 sources:
   - id: j-c-b-1919
     resource: "https://archive.org/search?query=Journal+of+Educational+Psychology+1919"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The editorial asserts that military psychological testing during the war caught the popular imagination and made the public newly favorable to mental measurement in education. [→ J. C. B 1919](#j-c-b-1919)

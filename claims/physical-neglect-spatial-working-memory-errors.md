@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: majer-m-2010
     resource: "https://doi.org/10.1186/1471-2377-10-61"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher physical neglect scores were significantly associated with a higher number of double errors in the Spatial Working Memory test. [→ Majer M 2010](#majer-m-2010)

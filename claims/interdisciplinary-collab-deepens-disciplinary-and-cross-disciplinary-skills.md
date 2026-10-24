@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: warr-2020
     resource: "https://doi.org/10.14434/ijpbl.v14i1.28590"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` By working with students from other fields, students expanded interpersonal skills, deepened disciplinary knowledge, and learned skills from other disciplines (rating "I learned new things unrelated to my previous areas of expertise" at 4.44). [→ Warr 2020](#warr-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: test-boredom-while-working-on-difficult-versus-easy-tasks-online-supplementary-materials-2022
     resource: "https://www.google.com/search?q=%22Test+Boredom+While+Working+on+Difficult+Versus+Easy+Tasks%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i0` negligible
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` dMACS effect sizes for measurement noninvariance across situations were small for items 2 and 3 (0.032-0.110), with the easy part underchallenge condition as reference group. [→ Test Boredom While Working on Difficult Versus Easy Tasks: Online Supplementary Materials 2022](#test-boredom-while-working-on-difficult-versus-easy-tasks-online-supplementary-materials-2022)

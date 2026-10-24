@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: fu-jinbin-zhao-fang-2026
     resource: "https://doi.org/10.3390/bs16081393"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` AI-generated experiences of being understood and accepted are subjectively real for adolescents, while the relationship fails the ontological moral standards of reciprocal caring because AI lacks consciousness and moral motivation. [→ Fu Jinbin & Zhao Fang 2026](#fu-jinbin-zhao-fang-2026)

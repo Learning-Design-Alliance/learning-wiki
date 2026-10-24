@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: amanda-vite-2024
     resource: "https://doi.org/10.1007/s10648-024-09967-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` The pooled correlation between autonomy need satisfaction and ill-being is statistically significantly negative. [→ Amanda Vite 2024](#amanda-vite-2024)

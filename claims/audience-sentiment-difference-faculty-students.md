@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: yunjo-an-2025
     resource: "https://doi.org/10.1186/s41239-025-00507-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Kruskal–Wallis testing revealed statistically significant differences in sentiment across audience categories, with post-hoc Dunn's test showing significant divergence between faculty- and student-targeted documents (p = 0.000460). [→ Yunjo An 2025](#yunjo-an-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: joshi-u-2026
     resource: "https://doi.org/10.1186/s12909-026-10080-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Paired pre-to-post MCQ gains were significant at both centres, with mean differences of 3.9 at Centre 1 (dz 0.42) and 7.3 at Centre 2 (dz 0.55). [→ Joshi U 2026](#joshi-u-2026)

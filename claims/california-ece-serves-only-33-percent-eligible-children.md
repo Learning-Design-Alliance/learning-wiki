@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: melnick-2017
     resource: "https://learningpolicyinstitute.org/product/ca-ece-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2015–16, only 33% of California children under age 5 eligible for publicly funded ECE based on family income and working parents were served, and nearly 650,000 eligible children birth to age 5 lacked access. [→ Melnick 2017](#melnick-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: weaver-2022
     resource: "https://doi.org/10.51388/20.500.12265/166"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The National Skills Coalition reports 13 percent of American earners lack any digital skills, and half of Black and 57 percent of Latino earners have limited or no digital skills, with digital skill level correlating with earnings quintile. [→ Weaver 2022](#weaver-2022)

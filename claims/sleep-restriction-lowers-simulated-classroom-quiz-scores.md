@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: beebe-2010
     resource: "https://doi.org/10.1016/j.jadohealth.2010.03.005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Adolescents performed worse on educational-film quizzes after 5 nights of 6.5-hour sleep restriction than after 5 nights of 10-hour healthy sleep, with a large effect size. [→ Beebe 2010](#beebe-2010)

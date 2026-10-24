@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: angela-johnson-2020
     resource: "https://www.nwea.org/research/publication/catching-up-or-falling-behind-measuring-middle-school-achievement-trajectories-for-college-readiness/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Hierarchical generalized linear models on the 28% initially on-track subsample show odds ratios of 1.381 for male, 1.398 for Black, and 1.171 for Hispanic students for falling off track in math by spring of 8th grade. [→ Angela Johnson 2020](#angela-johnson-2020)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: denton-carolyn-a-2012
     resource: "https://doi.org/10.1177/0022219412442155"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vaughn et al. (2006) reported significant differences favoring treatment groups in phonological and word-level skills but not in reading comprehension for first-grade ELLs. [→ Denton Carolyn A 2012](#denton-carolyn-a-2012)

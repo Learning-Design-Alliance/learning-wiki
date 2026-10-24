@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: jerin-george-mathew-2026
     resource: "https://doi.org/10.48550/arxiv.2603.23714"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across ASAP and DREsS datasets, LLM-human score agreement (QWK below 0.30 on ASAP; at most 0.34 on DREsS) is substantially weaker than human inter-rater agreement (QWK 0.72). [→ Jerin George Mathew 2026](#jerin-george-mathew-2026)

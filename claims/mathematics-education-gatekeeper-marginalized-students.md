@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2030
 sources:
   - id: what-we-know-about-learning-taking-responsibility-for-interdisciplinary-complexity-in-educating-youth-in-mathematics-2025
     resource: "https://consortium.uchicago.edu/publications/what-we-know-about-learning"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Mathematics education functions as a gatekeeper to academic opportunity, with disproportionate effects on students from historically marginalized communities. [→ What We Know About Learning: Taking Responsibility for Interdisciplinary Complexity in Educating Youth in Mathematics 2025](#what-we-know-about-learning-taking-responsibility-for-interdisciplinary-complexity-in-educating-youth-in-mathematics-2025)

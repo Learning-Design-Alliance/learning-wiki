@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: clayton-c-kohl-1911
     resource: "https://www.google.com/search?q=%22Needed+Research+in+Method%22+Kohl"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Nearly all experimental work on method so far has been in the habit group of studies, and the next step is applying the same methods to other subjects of the curriculum. [→ Clayton C. Kohl 1911](#clayton-c-kohl-1911)

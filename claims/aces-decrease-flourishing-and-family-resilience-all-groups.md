@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: goldstein-2021
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` As ACEs increased, the estimated probability of all three flourishing indicators and family resilience decreased across race/ethnicity and FPL groups. [→ Goldstein 2021](#goldstein-2021)

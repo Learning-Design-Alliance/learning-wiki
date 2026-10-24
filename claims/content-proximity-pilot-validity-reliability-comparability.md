@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: patrick-meyer-2023
     resource: "https://doi.org/10.1355/9789815011449-002"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A spring 2022 pilot study of the Content Proximity item-selection algorithm produced information on the validity, reliability, and test score comparability of MAP Growth assessments that leverage the algorithm. [→ Patrick Meyer 2023](#patrick-meyer-2023)

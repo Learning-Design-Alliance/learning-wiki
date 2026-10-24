@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: bly-2026
     resource: "https://doi.org/10.1007/s10648-026-10215-7"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In a behavioural-genetic twin design of children aged 5 to 12 years, children's challenging behaviour (irritability, negativity, impulsivity, distractibility, hyperactivity), but not ability (IQ), was the major source of demand on the teacher. [→ Bly 2026](#bly-2026)

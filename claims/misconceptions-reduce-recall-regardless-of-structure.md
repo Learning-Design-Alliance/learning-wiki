@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: kendeou-2007
     resource: "https://doi.org/10.3758/bf03193491"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In both experiments, recall showed a significant main effect of prior knowledge (Experiment 1: F(1,74) = 5.8, p = .02, η² = .08; Experiment 2: F(1,54) = 6.6, p = .01, η² = .11), with no text structure effects. [→ Kendeou 2007](#kendeou-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: schildkraut-2019
     resource: "https://www.wested.org/resources/are-metal-detectors-effective-at-making-schools-safer"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` At Red Lake High School in 2005, a student shot the guard operating the metal detector and brought three weapons through the device. [→ Schildkraut 2019](#schildkraut-2019)

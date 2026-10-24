@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: rutschow-rct
     title: rutschow-rct
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In the Rutschow et al. (2019) randomized controlled trial (1,411 students), DCMP significantly increased completion of the developmental math sequence (57.00% vs. 33.50%, effect size 0.59) and ever passing a college-level math class (25.30% vs. 18.50%, effect size 0.24). [→ rutschow-rct](#rutschow-rct)

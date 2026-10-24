@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: marcel-v-j-veenman-2011
     resource: "https://doi.org/10.1007/s11409-011-9080-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Retrospective questions may prompt recall of strategy use that never occurred, elicit socially desirable answers and incorrect labeling, and induce overconfidence (e.g., learners taking paraphrasing for summarizing). [→ Marcel V. J. Veenman 2011](#marcel-v-j-veenman-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: zakani-2019
     resource: "https://doi.org/10.5206/cjsotl-rcacea.2019.1.7994"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Content coverage in calculus and physics final exams varied distinctly among institutions within sectors, contradicting the notion that Engineering programs vary less among themselves than Technology and Engineering programs differ across sectors. [→ Zakani 2019](#zakani-2019)

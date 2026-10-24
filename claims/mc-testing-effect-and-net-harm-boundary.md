@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: andrew-c-butler-and-henry-l-roediger-iii-2008
     resource: "https://doi.org/10.3758/MC.36.3.604"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The no-feedback tested condition produced a significantly greater proportion of correct responses than the no-test condition, showing the basic testing effect. [→ Andrew C. Butler and Henry L. Roediger III 2008](#andrew-c-butler-and-henry-l-roediger-iii-2008)

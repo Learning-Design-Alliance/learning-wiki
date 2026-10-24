@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: li-zilin-2026
     resource: "https://doi.org/10.3390/bs16071256"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Behavioral attitude (β = −0.164), subjective norm (β = −0.171), perceived behavioral control (β = −0.331), and behavioral intention (β = −0.137) each showed a negative association with GenAI-assisted learning procrastination (all p < 0.001). [→ Li Zilin 2026](#li-zilin-2026)

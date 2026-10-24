@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shile-zhang-and-shuhan-zhang-2026
     resource: "https://doi.org/10.1186/s40594-026-00623-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A t-test showed a significant difference between vocational school and college students on CTAT total scores, with college cohorts achieving substantially higher scores. [→ Shile Zhang and Shuhan Zhang 2026](#shile-zhang-and-shuhan-zhang-2026)

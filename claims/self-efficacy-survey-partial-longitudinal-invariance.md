@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: soland-2019
     resource: "https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Configural and weak invariance held; strong invariance showed a significant fit decrement traced to three threshold constraints, and the partial strong model (RMSEA = .02) was preferred. [→ Soland 2019](#soland-2019)

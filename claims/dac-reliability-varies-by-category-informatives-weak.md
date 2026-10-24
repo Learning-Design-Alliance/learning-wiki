@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2008
 sources:
   - id: erkens-2008
     resource: "https://doi.org/10.1007/s11412-008-9052-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Category kappas range from 0.04 to 1.00, and 5 of the 29 coding categories fall below the 0.70 agreement criterion, with three of these five in the Informatives category. [→ Erkens 2008](#erkens-2008)

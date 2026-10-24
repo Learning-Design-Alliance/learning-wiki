@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
+recheck_by: 2010
 sources:
   - id: vanessa-coca-2007
     resource: "https://consortium.uchicago.edu/publications/trends-access-computing-technology-and-its-use-chicago-public-schools-2001-2005"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Principals' overall technology use changed dramatically from 2001 to 2005, with 2003-average use corresponding to exceptionally high use in 2001, and high school principals rising slightly higher than elementary principals. [→ Vanessa Coca 2007](#vanessa-coca-2007)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
+source_checked: 2026-10-20
+recheck_by: 2003
 sources:
   - id: roderick-1998
     resource: "https://ccsr.uchicago.edu/publications/changing-standards-changing-relationships-building-family-school-relationships-promote"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 1998 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2003**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Ninth-grade teachers report significantly less emphasis on communicating and working with parents than eighth-grade teachers. [→ Roderick 1998](#roderick-1998)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: mollborn-2014
     resource: "https://doi.org/10.1016/j.alcr.2014.03.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the relationship's peak (age ~4–4½), an increase in maternal education equivalent to going from a high school degree to a college degree predicted about 0.4 SD higher cognitive/reading and math scores. [→ Mollborn 2014](#mollborn-2014)

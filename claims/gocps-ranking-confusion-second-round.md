@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: andria-shyjka-2021
     resource: "https://consortium.uchicago.edu/publications/student-experience-with-the-high-school-choice-process-in-Chicago-Public-Schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Students shared confusion and frustration about the correct approach to ranking schools in GoCPS, reflecting disparate messaging from adults. [→ Andria Shyjka 2021](#andria-shyjka-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ask-an-expert-421-college-and-career-readiness-interventions-2022
     resource: "https://ies.ed.gov/ncee/rel/Products/Resource/-89626"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among WWC-reviewed college- and career-readiness interventions, only dual enrollment and early college high school studies documented including rural schools, and none reported separate analyses of rural students, so there is no evidence of program effectiveness in rural areas. [→ Ask an Expert 4.2.1: College- and Career-Readiness Interventions 2022](#ask-an-expert-421-college-and-career-readiness-interventions-2022)

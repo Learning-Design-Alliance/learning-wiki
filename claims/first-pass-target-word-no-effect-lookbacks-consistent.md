@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: catharina-tibken-2025
     resource: "https://doi.org/10.1007/s11409-025-09440-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` First-pass reading time and lookback probability at the target word had no main effect on consistency judgement accuracy (b = 0.22, p =.153; b = -0.10, p =.222). [→ Catharina Tibken 2025](#catharina-tibken-2025)

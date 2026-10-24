@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kulakow-2023
     resource: "https://osf.io/cyqak/?view_only=37eade9dd7c142e88fe9bef9451c125e"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Writing difficulties at T1 strongly predicted all four problem facets at T2 (β = 0.15 to 0.18), supporting a unidirectional achievement-to-behavior path in writing. [→ Kulakow 2023](#kulakow-2023)

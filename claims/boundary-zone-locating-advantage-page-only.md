@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1997
 sources:
   - id: annie-piolat-1997
     resource: "https://doi.org/10.1006/ijhc.1997.0145"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The presentation-by-zone interaction was marginal (p = 0.11); only with Page were boundary-zone sentences located more accurately than central-zone ones. [→ Annie Piolat 1997](#annie-piolat-1997)

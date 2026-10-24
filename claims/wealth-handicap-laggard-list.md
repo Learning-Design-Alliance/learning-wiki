@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1910
 sources:
   - id: j-b-miner-1910
     resource: "https://www.google.com/search?q=%22The+College+Laggard%22+Miner+Journal+of+Educational+Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percentage of students from private schools on the laggard list was about twice that from public schools, 15 versus 8 per cent. [→ J. B. Miner 1910](#j-b-miner-1910)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: mixed
+newest_evidence: 1917
 sources:
   - id: monroe-1917
     resource: "https://eric.ed.gov/?q=Kansas+Silent+Reading+Tests"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Iowa medians are conspicuously above the total and Kansas medians, while South Atlantic medians are on the whole the lowest and Western medians among the highest. [→ Monroe 1917](#monroe-1917)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: nagaoka-2021
     resource: "https://consortium.uchicago.edu/publications/navigating-the-maze"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Being continuously enrolled in one college and graduating was not the standard path for CPS graduates, who took more than 6,000 post-secondary paths in six years. [→ Nagaoka 2021](#nagaoka-2021)

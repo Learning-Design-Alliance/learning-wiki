@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: seth-bernstein-2026
     resource: "https://doi.org/10.48550/arxiv.2606.28882"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In thematic analysis of how students used the explanations, DD students were less likely to dismiss explanations (resid = −1.21) while GG students were more likely to do so (resid = +0.72) and less likely to mention conceptual support (resid = −0.80); no differences reached statistical significance. [→ Seth Bernstein 2026](#seth-bernstein-2026)

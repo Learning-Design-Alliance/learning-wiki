@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: building-assets-reducing-risks-barr-evidence-rating-2023
     resource: "https://www.barrcenter.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` In a student-level randomized study in a large suburban high school in southern California (n = 483), BARR showed a statistically significant effect on NWEA MAP math scores (effect size = +0.33), with somewhat stronger impacts for struggling students (+0.35). [→ Building Assets Reducing Risks (BARR) — Evidence Rating 2023](#building-assets-reducing-risks-barr-evidence-rating-2023)

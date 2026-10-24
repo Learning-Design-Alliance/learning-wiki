@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: mareike-ehlert-2025
     resource: "https://doi.org/10.1007/s10648-025-10048-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one mixed-methods study with a comparator, teachers in organized PD groups reported fewer negative emotions than teachers learning informally in the workplace. [→ Mareike Ehlert 2025](#mareike-ehlert-2025)

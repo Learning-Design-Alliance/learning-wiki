@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2011
 sources:
   - id: karin-d-könings-2010
     resource: "https://doi.org/10.1007/s11251-010-9152-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participatory design reduced co-designers' perceived-desired discrepancy in class 4 but had negative or absent effects for non-co-designing classmates. [→ Karin D. Könings 2010](#karin-d-konings-2010)

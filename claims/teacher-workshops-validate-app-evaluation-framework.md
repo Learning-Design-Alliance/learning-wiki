@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: rosell-aguilar-2017
     resource: "https://doi.org/10.1558/cj.27623"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In workshop evaluations with 18 language teachers in Ireland (2014) and 26 language teachers in Cyprus (2015), participants were positive about the criteria and their feedback shaped the framework's revision. [→ Rosell-Aguilar 2017](#rosell-aguilar-2017)

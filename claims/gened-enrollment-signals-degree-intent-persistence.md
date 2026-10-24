@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: bloemer-2017
     resource: "https://doi.org/10.24059/olj.v21i3.1233"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The very act of enrolling in this kind of general education course was associated with increased persistence across student types and levels, most plausibly as a signal of degree intent rather than curricular resonance. [→ Bloemer 2017](#bloemer-2017)

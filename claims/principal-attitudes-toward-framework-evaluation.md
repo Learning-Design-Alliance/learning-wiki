@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: lauren-sartain-2010
     resource: "http://ccsr.uchicago.edu/publications/Joyce_TE_yr1_finaldoc.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fifty-seven percent of principals had positive attitudes about the Framework and their conferences with teachers, perceived teacher buy-in as high, and saw instructional changes resulting from the system; 43 percent held mixed to mostly negative attitudes. [→ Lauren Sartain 2010](#lauren-sartain-2010)

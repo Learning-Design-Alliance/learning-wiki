@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: polyanskaya-2024
     resource: "https://doi.org/10.1007/s11409-024-09380-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Metacognition is higher in the auditory than visual modality among Arabic speakers, whereas the pattern is reversed for Chinese speakers; the group*modality interaction on meta-d' was significant (η²p = 0.121). [→ Polyanskaya 2024](#polyanskaya-2024)

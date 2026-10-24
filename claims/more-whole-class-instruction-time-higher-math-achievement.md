@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: douglas-h-clements-2013
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Increased student achievement was associated with teachers dedicating more time to whole-class instruction. [→ Douglas H. Clements 2013](#douglas-h-clements-2013)

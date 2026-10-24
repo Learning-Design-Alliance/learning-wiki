@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Study 1, participants adapted their behavioral processing (eye tracking patterns, study times, metacognitive ratings) as a function of their epistemic cognition and the type of conceptual discrepancy encountered. [→ study1-adaptation](#study1-adaptation)

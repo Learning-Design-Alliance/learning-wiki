@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mahbub-ul-alam-2026
     resource: "https://doi.org/10.48550/arxiv.2609.13155"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with GPT-4 access outperformed controls during use but underperformed them after tool removal, and randomised trials (N=1,222) add causal evidence plus reduced persistence. [→ Mahbub Ul Alam 2026](#mahbub-ul-alam-2026)

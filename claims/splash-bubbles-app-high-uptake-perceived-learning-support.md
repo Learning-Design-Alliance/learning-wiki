@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-15
 sources:
   - id: leones-2021
     resource: "https://doi.org/10.51388/20.500.12265/120"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 96.55% of participating families reported using the app, and 96.55% of families in interviews thought the app helped them and their children learn science and have rich conversations. [→ Leones 2021](#leones-2021)

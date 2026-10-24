@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: ali-al-issa-ali-al-bulushi-2010
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 74.2 per cent of trainees agreed their trainers told them how to teach, and five trainers agreed they did so, which the authors call contrary to preparing a reflective practitioner. [→ Ali Al-Issa & Ali Al-Bulushi 2010](#ali-al-issa-ali-al-bulushi-2010)

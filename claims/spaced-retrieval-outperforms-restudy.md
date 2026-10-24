@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: spaced-retrieval-outperforms-restudy
 evidence_strength: pending
+newest_evidence: 2021
 sources:
   - id: latimier-et-al-2021
     resource: "https://doi.org/10.1007/s10648-020-09572-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=39 effect sizes (subset 1)
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Spaced Retrieval Outperforms Restudy -->
 

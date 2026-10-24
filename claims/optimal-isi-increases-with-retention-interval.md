@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-19
 sources:
   - id: cepeda-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The difference-lag analyses found the optimal ISI difference grew with the retention interval, the absolute-ISI analyses found the optimal ISI bin grew with it, and a qualitative within-study analysis (subject to the authors' caveats about local maxima and coarse ISI sampling) pointed the same way. [→ Cepeda 2006](#cepeda-2006)

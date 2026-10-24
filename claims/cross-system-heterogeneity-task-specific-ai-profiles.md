@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: holster-2026
     resource: "https://doi.org/10.35542/osf.io/a39rp_v1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The configuration of slopes across tasks shows residual heterogeneity (QE(135) = 229.57, p < .001), with heterogeneity largest for assessment/marking (I² = 48.7%) and special education (I² = 39.4%) and least for planning (I² = 11.8%). [→ Holster 2026](#holster-2026)

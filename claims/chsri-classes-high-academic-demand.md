@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: david-stevens-2008
     resource: "https://consortium.uchicago.edu/publications/lessons-high-performing-small-high-schools-chicago"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In almost all of 23 observed English/language arts classes, students completed activities aimed at building high-level skills such as literary analysis, research and writing, and conceptual thinking without a template. [→ David Stevens 2008](#david-stevens-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: anabela-caetano-santos-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100535"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Oshri et al. (2018), self-esteem and school engagement were associated at all three waves with no differences between longitudinal correlations, indicating a reciprocal association; Marques (2016) similarly found reciprocal influence between hope and engagement. [→ Anabela Caetano Santos 2023](#anabela-caetano-santos-2023)

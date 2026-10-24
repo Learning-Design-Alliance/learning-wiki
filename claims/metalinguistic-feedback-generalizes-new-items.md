@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: rod-ellis-2006
     resource: "https://doi.org/10.1017/S0272263106060141"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On delayed posttests, the metalinguistic group was significantly more accurate than both the recast and control groups on new (untreated) verb items in the oral imitation test, and more accurate than the recast group on new items in the grammaticality judgment test. [→ Rod Ellis 2006](#rod-ellis-2006)

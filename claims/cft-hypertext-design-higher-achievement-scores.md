@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: chokri-barhoumi-pier-giuseppe-rossi-2013
     resource: "https://doi.org/10.30935/cedtech/6109"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%) -->
 
 ## Subclaims

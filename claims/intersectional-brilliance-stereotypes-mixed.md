@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: christina-a-bauer-2025
     resource: "https://doi.org/10.1007/s10648-025-10034-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Some evidence shows Black women viewed as more brilliant than Black men (invisibility), while other evidence shows US adults showed weaker implicit Black women–brilliance associations than Black men–brilliance ones (double jeopardy). [→ Christina A. Bauer 2025](#christina-a-bauer-2025)

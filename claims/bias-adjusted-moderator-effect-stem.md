@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: bicakci-2026
     resource: "https://doi.org/10.1007/s10648-026-10172-1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` RoBMA-PSMA yielded a model-averaged overall moderator effect of g = 0.27 (95% CrI [0.20, 0.34]) with decisive evidence for heterogeneity (τ = 0.48). [→ Bicakci 2026](#bicakci-2026)

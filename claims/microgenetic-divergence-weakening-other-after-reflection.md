@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: iordanou-2022
     resource: "https://doi.org/10.1007/s11409-021-09289-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the first four dialog sessions the two conditions showed comparable Weakening-Other usage; a difference appeared in the last four sessions, after reflective activities began. [→ Iordanou 2022](#iordanou-2022)

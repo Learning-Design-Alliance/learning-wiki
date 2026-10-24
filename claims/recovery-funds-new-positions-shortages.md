@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: carver-thomas-2022
     resource: "https://doi.org/10.54300/899.809"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Nine of 12 districts reported using recovery funds specifically to recruit and retain teachers, and creation of new positions (e.g., 4x4 block schedules, intervention roles) increased demand for teachers. [→ Carver-Thomas 2022](#carver-thomas-2022)

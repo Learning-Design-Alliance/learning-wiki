@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: seyyed-kazem-banihashem-2022
     resource: "https://doi.org/10.1016/j.edurev.2022.100489"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 46 reviewed studies, LA feedback objectives included reflection (43%), personalization (28%), prediction (24%), assessment (24%), adaptation (22%), recommendation (22%) and monitoring (13%). [→ Seyyed Kazem Banihashem 2022](#seyyed-kazem-banihashem-2022)

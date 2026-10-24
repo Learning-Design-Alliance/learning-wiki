@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: brookman-byrne-a-2018
     title: Brookman-Byrne A 2018
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Accuracy was lower on misconception trials (54.7%) than control trials (82.2%) in the science and maths misconceptions task. [→ Brookman-Byrne A 2018](#brookman-byrne-a-2018)

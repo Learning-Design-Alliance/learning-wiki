@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: steven-j-howard-2024
     resource: "https://doi.org/10.1007/s10648-023-09832-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Widely used ECEC quality scales (CLASS, ECERS, ITERS, SSTEW) vary widely in the balance of structural and process dimensions they consider, their observation approach, and how they derive quality indices. [→ Steven J. Howard 2024](#steven-j-howard-2024)

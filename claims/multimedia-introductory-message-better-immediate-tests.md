@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: lauc-2020
     resource: "https://doi.org/10.29333/iji.2020.13431a"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students taught with multimedia motivational messages in the lesson introduction scored significantly better on several immediate knowledge tests than students taught the same content with traditional aids. [→ Lauc 2020](#lauc-2020)

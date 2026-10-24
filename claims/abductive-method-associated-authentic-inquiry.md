@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: do-yong-park-and-mira-park-2013
     resource: "https://doi.org/10.5408/12-360.1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Selecting own variable was related to the abductive method on 60.0% of occasions, using analog models on 66.7%, and developing theories about mechanisms on 62.5%. [→ Do-Yong Park and Mira Park 2013](#do-yong-park-and-mira-park-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: dollinger-2026
     resource: "https://doi.org/10.53761/20z06b11"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue that GenAI creates an opportunity to move away from assessment practices that sort and rank students toward approaches that recognise diverse ways of knowing. [→ Dollinger 2026](#dollinger-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2012
     resource: "http://kc.vanderbilt.edu/pals/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the one qualifying mathematics study (Fuchs et al., 1995), WWC calculations found no statistically significant effects on two mathematics measures, and the average effect size was below the 0.25 substantively-important threshold, yielding a no-discernible-effects rating. [→ What Works Clearinghouse 2012](#what-works-clearinghouse-2012)

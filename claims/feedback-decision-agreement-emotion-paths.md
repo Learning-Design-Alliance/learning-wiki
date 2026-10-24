@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: feedback-processing-and-emotion-regulation-in-nursing-students-during-internship-2022
     resource: "https://eric.ed.gov/?q=feedback+processing+and+emotion+regulation+in+nursing+students+during+internship"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Agreement with negative information accompanied by unpleasant deactivating emotions led students to conclude they were not up to the task, lowering self-esteem and producing defensive behaviors. [→ Feedback processing and emotion regulation in nursing students during internship 2022](#feedback-processing-and-emotion-regulation-in-nursing-students-during-internship-2022)

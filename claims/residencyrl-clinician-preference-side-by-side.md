@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: liévin-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07418"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In blinded side-by-side evaluations by board-certified clinicians (n=97), the ResidencyRL-trained agent was preferred in 87.6% of cases for overall clinical impression, with a 90.7% win rate for completeness of information gathering and 75.3% for management plan appropriateness. [→ Liévin 2026](#lievin-2026)

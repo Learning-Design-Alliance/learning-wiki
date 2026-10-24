@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sidorkin-2026
     resource: "https://doi.org/10.55982/openpraxis.18.3.1141"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an end-of-course survey of 24 consenting graduate students, 75% agreed they learned more than they would have in a comparable course without an AI companion (M = 2.96, SD = 0.91). [→ Sidorkin 2026](#sidorkin-2026)

@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: collaborative-writing-improves-text-quality
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: graham-and-perin-2007
     resource: "https://doi.org/10.1037/0022-0663.99.3.445"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2007 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Students who compose texts collaboratively — co-planning, co-drafting, and co-revising with peers — produce written products of higher quality than students writing alone. The claim concerns the quality of the written product, not (yet) gains in individual writing ability.
 
@@ -89,3 +91,4 @@ Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in
 - [Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors](half-of-texts-showed-collaborative-learning.md) — related
 - [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](contract-yields-more-student-work.md) — related
 - [Classroom activities and targeted interventions—peer collaboration, mind mapping, storytelling, and perspective-taking—improve children's divergent thinking](classroom-activities-interventions-improve-divergent-thinking.md) — related
+- [Revision skill was not related to writing quality in either grade group](revision-not-related-writing-quality.md) — related

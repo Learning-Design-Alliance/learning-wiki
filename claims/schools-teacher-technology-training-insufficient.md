@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-09
+recheck_by: 2029
 sources:
   - id: train-1
     title: train-1
@@ -21,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 18 percent of schools strongly agree that teachers are sufficiently trained to use technology for instruction. [→ train-1](#train-1)

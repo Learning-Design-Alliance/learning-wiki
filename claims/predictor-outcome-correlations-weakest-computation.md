@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: martin-rebecca-b-2014
     resource: "https://doi.org/10.1016/j.lindif.2014.05.006"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Zero-order correlations between kindergarten predictors and grade 1 outcomes ranged from .23 to .60 (median .47), with symbolic number predictors showing the highest median (r = .56) and relations weakest for computation. [→ Martin Rebecca B. 2014](#martin-rebecca-b-2014)

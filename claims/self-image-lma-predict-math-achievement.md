@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: lai-y-2015
     title: Lai Y 2015
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Hierarchical regression showed self-image (β = 0.20, p < .05) and LMA (β = -2.51, p < .01) significantly predicted mathematics achievement scores with IQ partialled out, while self-regulation, strategies, motivation, and MEA did not. [→ Lai Y 2015](#lai-y-2015)

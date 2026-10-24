@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chloe-qianhui-zhao-2026
     resource: "https://doi.org/10.48550/arxiv.2601.15280"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Overall active-learning actions did not differ significantly between conditions (U = 4075.5, p = 0.0738). [→ Chloe Qianhui Zhao 2026](#chloe-qianhui-zhao-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: equal-access-to-content-instruction-for-english-learners-an-example-from-science-2012
     resource: "https://eric.ed.gov/?id=ED580362"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the AMSTI evaluation, science teachers were more likely to report higher levels of student engagement than control group science teachers, with the differences statistically significant. [→ Equal Access to Content Instruction for English Learners: An Example from Science 2012](#equal-access-to-content-instruction-for-english-learners-an-example-from-science-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: christina-merten-and-cristina-conati-2005
     resource: "https://www.cs.ubc.ca"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Actions accompanied by self-explanation took significantly longer on average than actions without it, and ROC analysis determined 16 seconds as the sufficient-time threshold. [→ Christina Merten and Cristina Conati 2005](#christina-merten-and-cristina-conati-2005)

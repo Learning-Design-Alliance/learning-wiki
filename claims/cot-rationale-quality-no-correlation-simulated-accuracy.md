@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: luis-marquez-carpintero-2025
     resource: "https://doi.org/10.48550/arxiv.2511.06078"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In simulating student answers to exam questions, the quality of CoT-generated rationales did not correlate with the accuracy of simulated responses, though CoT can still be used to simulate flawed reasoning with typical misconceptions. [→ Luis Marquez-Carpintero 2025](#luis-marquez-carpintero-2025)

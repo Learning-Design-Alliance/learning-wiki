@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: dietrichson-j-2020
     resource: "https://doi.org/10.1002/cl2.1081"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In meta-regressions including all instructional methods and moderators, small group instruction was associated with significantly larger effect sizes than CAI and incentive components. [→ Dietrichson J 2020](#dietrichson-j-2020)

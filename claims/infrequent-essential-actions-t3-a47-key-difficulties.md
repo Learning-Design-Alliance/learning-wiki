@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: shupin-li-johanna-pöysä-tarhonen-päivi-häkkinen-2022
     resource: "https://doi.org/10.1007/s11412-022-09369-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Some actions in the most efficient solution path (e.g., T3, A47) showed lower transition frequency than other path actions, indicating few pairs recognized their importance; these represent key difficulties for dyads. [→ Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen 2022](#shupin-li-johanna-poysa-tarhonen-paivi-hakkinen-2022)

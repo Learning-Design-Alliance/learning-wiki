@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2001
+source_checked: 2026-10-24
 sources:
   - id: ws-de-grave-2001
     resource: "https://link.springer.com/journal/11251"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2001 · checked against its sources 2026-10-24 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The number of explanatory and descriptive propositions in recall did not differ significantly, and there was no significant treatment-by-type interaction. [→ W.S. de Grave 2001](#ws-de-grave-2001)

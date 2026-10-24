@@ -8,6 +8,7 @@ generated:
 id: summarization-improves-learning
 aliases: [summarization-effective-with-training]
 evidence_strength:
+newest_evidence: 2024
 sources:
   - id: selinger-et-al-1993
     resource: "https://files.eric.ed.gov/fulltext/ED364296.pdf"
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Summarization Improves Learning -->
 
 Writing summaries of to-be-learned material means identifying main ideas and condensing them into the learner's own words. Two studies are recorded: explicit training in a text's hierarchical structure improved the quality of developmental college students' summaries, with only a marginal effect on delayed recall and no transfer to a reading test (Selinger et al. 1993); and in a multi-document writing task, adults who summarized each source wrote worse integrated essays than adults who reread (McNamara et al. 2024).

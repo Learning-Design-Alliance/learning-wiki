@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: james-sebastian-and-elaine-allensworth-2012
     resource: "https://doi.org/10.1177/0013161X11436273"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The indirect relationship of principal leadership with EPAS gains and GPA via learning climate and classroom instruction is significant between schools. [→ James Sebastian and Elaine Allensworth 2012](#james-sebastian-and-elaine-allensworth-2012)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-24
 sources:
   - id: edwards-2022
     resource: "https://doi.org/10.1037/edu0000696"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All child-level predictors were significantly correlated with SfV, with the largest associations for word identification (.79), word attack (.76), phonological awareness (.66), and vocabulary (.50). [→ Edwards 2022](#edwards-2022)

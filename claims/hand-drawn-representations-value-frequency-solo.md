@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: lyn-d-english-and-jane-m-watson-2015
     resource: "https://doi.org/10.1186/s40594-015-0016-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 90 hand-drawn representations, 58% focused on frequency of measurements and 36% on the measured values, and of 84 summary statements the most frequent response was a strict description of the graph (35%, SOLO code 1) rather than a message combining variation and expectation (17%, code 3). [→ Lyn D English and Jane M Watson 2015](#lyn-d-english-and-jane-m-watson-2015)

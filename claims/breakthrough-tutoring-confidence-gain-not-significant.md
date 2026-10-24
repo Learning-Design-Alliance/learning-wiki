@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: breyon-williams-2023
     resource: "https://www.mathematica.org/publications/math-knowledge-gains-and-math-perceptions-among-participants-of-the-breakthrough-collaborative"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Math confidence increased slightly, on average, among students who completed both the baseline and end-of-year surveys, although this difference was not statistically significant. [→ Breyon Williams 2023](#breyon-williams-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: zawacki-richter-2019
     resource: "https://doi.org/10.1186/s41239-019-0171-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most recent meta-analysis of ITS found moderate effects on learning, with ITS less effective than human tutoring but outperforming other instruction methods. [→ Zawacki-Richter 2019](#zawacki-richter-2019)

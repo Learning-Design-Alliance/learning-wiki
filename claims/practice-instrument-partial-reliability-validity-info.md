@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: christine-ross-2015
     resource: "https://ies.ed.gov/ncee/edlabs/regions/midatlantic"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The developers of the principal practice instruments used by pilot districts provided partial information about reliability (consistency across raters and observations) and validity (accurate measurement of true principal performance). [→ Christine Ross 2015](#christine-ross-2015)

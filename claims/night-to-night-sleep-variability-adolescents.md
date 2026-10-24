@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: stefansdottir-2020
     resource: "https://doi.org/10.1038/s41598-020-73774-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Intra-individual standard deviation in nightly sleep duration was 1.2 ± 0.7 h and in rest duration 1.4 ± 0.8 h over the week. [→ Stefansdottir 2020](#stefansdottir-2020)

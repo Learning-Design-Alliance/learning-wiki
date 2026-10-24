@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: anouk-ten-peze-2024
     resource: "https://doi.org/10.1007/s11251-023-09647-3"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the first panel, creative writing instruction had an effect on creative text quality compared to argumentative writing instruction, and AWI had no effect on argumentative text quality compared to CWI, indicating a transfer effect. [→ Anouk ten Peze 2024](#anouk-ten-peze-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-08
 sources:
   - id: bleeker-2019
     resource: "https://ies.ed.gov/ncee/edlabs/regions/mid-atlantic"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors state that the Go-Learn-Grow materials can help support districts, schools, and early childhood providers in improving school attendance in pre-kindergarten and kindergarten. [→ Bleeker 2019](#bleeker-2019)

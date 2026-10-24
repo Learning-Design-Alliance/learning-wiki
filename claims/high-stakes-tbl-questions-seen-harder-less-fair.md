@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: cynthia-j-miller-2015
     resource: "http://dx.doi.org/10.5430/wje.v5n4p1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared to dental students, medical students reported TBL questions were more difficult than exam questions, less fair, and less reflective of their understanding (mean differences of 0.72, 1.27, and 1.08 Likert points, p < .00001). [→ Cynthia J. Miller 2015](#cynthia-j-miller-2015)

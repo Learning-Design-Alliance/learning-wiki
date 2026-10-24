@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: praveen-pathak-2026
     resource: "https://doi.org/10.48550/arxiv.2608.20521"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Across three assessments (OE1, OE2, QM), AI total scores tracked official human scores with Pearson correlations of 0.91–0.97 in Round I and 0.93–0.96 in Round II. [→ Praveen Pathak 2026](#praveen-pathak-2026)

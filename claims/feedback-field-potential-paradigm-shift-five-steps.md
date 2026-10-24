@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: panadero-2023
     resource: "https://doi.org/10.1080/00461520.2023.2223642"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The feedback field may already be experiencing a paradigm shift, and the author outlines five steps to solidify it. [→ Panadero 2023](#panadero-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-13
 sources:
   - id: wei-j-and-shang-y-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1965371"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an error-correction paradigm with pre- and post-tests, findings suggest that effort during correction matters for learning, though the study did not examine naturalistic GenAI use. [→ Wei J and Shang Y 2026](#wei-j-and-shang-y-2026)

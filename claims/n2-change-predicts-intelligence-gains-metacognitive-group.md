@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: pozuelos-2019
     resource: "https://doi.org/10.1111/desc.12756"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Within the metacognitive scaffolding group, changes in the N2 component predicted gains in intelligence. [→ Pozuelos 2019](#pozuelos-2019)

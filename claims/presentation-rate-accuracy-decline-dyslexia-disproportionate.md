@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: christodoulou-ja-2014
     title: Christodoulou JA 2014
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Accuracy declined with greater rates of presentation, and the dyslexic group performed significantly worse than typical readers on the Fast and Medium conditions but not on the Slow condition. [→ Christodoulou JA 2014](#christodoulou-ja-2014)

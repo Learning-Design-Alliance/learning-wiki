@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: hamilton-2009
     resource: "https://ies.ed.gov/ncee/wwc/PracticeGuide/12"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The panel judged that none of the five recommendations has more than low-level evidence supporting a causal claim of improved student achievement. [→ Hamilton 2009](#hamilton-2009)

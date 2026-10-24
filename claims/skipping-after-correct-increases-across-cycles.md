@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: matthew-jensen-hays-2010
     resource: "https://doi.org/10.3758/PBR.17.6.797"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Skipping after correct responses rose from below half on Cycle 1 (M = .49) to reliably more on Cycles 2 and 3, reaching a level matching their incorrect-assessment rate by Cycle 4. [→ Matthew Jensen Hays 2010](#matthew-jensen-hays-2010)

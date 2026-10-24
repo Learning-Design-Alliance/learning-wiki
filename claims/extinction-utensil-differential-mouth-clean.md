@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: groff-2011
     resource: "https://doi.org/10.1901/jaba.2011.44-949"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During extinction, acceptance and mouth clean were high with the spoon, but mouth clean was low with the cup despite high acceptance. [→ Groff 2011](#groff-2011)

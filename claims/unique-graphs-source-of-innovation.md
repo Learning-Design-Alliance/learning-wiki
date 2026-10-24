@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: smadar-szekely-2018
     resource: "https://doi.org/10.48550/arxiv.2608.08543"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Each learner develops a unique graph reflecting individual experiences, artifacts, and development, and this uniqueness creates conditions for creative problem solving and the emergence of new ideas. [→ Smadar Szekely 2018](#smadar-szekely-2018)

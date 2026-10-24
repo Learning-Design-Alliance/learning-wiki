@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: rosenberg-lee-2014
     resource: "https://doi.org/10.1111/desc.12216"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Quasi-event-related analysis showed both correct and incorrect trials produced robust activity in bilateral IPS and other hyperactive regions, with none of the trial-type differences overlapping operation-specific group differences. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)

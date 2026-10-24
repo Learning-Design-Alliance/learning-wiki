@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: qian-shen-2026
     resource: "https://doi.org/10.48550/arxiv.2605.13709"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Welch's T-tests comparing best-performing fine-tuned 8B stories against GPT-4o and Llama 3.3 70B stories show all p-values below 0.001 and all Cohen's d greater than 0.8 for coherence, syntactic complexity, Spache readability, and LM-PPL. [→ Qian Shen 2026](#qian-shen-2026)

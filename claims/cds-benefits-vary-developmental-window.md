@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: schwab-jessica-f-2016
     resource: "https://doi.org/10.1002/wcs.1393"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Preference for CDS over ADS follows a U-shaped developmental pattern, and by 27 months children learn new words equally well from CDS and ADS. [→ Schwab Jessica F. 2016](#schwab-jessica-f-2016)

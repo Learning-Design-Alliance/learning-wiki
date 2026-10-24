@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: murphy-2023
     resource: "https://doi.org/10.1007/s10648-023-09754-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that CT lacks conceptual precision, has been reduced to a set of cognitive skills disconnected from its philosophical underpinnings, and is constrained by narrow criteriological and normative perspectives. [→ Murphy 2023](#murphy-2023)

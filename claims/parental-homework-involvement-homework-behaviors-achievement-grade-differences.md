@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: núñez-pérez-2015
     resource: "https://doi.org/10.1007/s11409-015-9135-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceived parental involvement in homework, student homework behaviors, and academic achievement are related, and the pattern of these relationships differs across elementary, junior high, and high school levels. [→ Núñez Pérez 2015](#nunez-perez-2015)

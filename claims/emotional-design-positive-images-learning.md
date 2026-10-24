@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: sascha-schneider-2021
     resource: "https://doi.org/10.1007/s10648-021-09626-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Positively emotional images have a learning effect compared to negative images and increase learner satisfaction, an effect replicated in a second study. [→ Sascha Schneider 2021](#sascha-schneider-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: anja-prinz-stefanie-golke-jörg-wittwer-2020
     resource: "https://doi.org/10.1007/s10648-020-09558-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 26 effect sizes in a random-effects meta-analysis, situation-model-approach interventions significantly improved relative metacomprehension accuracy with a medium effect size. [→ Anja Prinz & Stefanie Golke & Jörg Wittwer 2020](#anja-prinz-stefanie-golke-jorg-wittwer-2020)

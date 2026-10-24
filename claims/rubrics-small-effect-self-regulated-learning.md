@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: panadero-2023
     resource: "https://doi.org/10.1007/s10648-023-09823-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across five studies (17 effect sizes), the pooled standardized mean difference for self-regulated learning was 0.23, with a confidence interval including zero. [→ Panadero 2023](#panadero-2023)

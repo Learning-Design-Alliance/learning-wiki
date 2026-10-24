@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: ramsook-k-ashana-2020
     resource: "https://doi.org/10.1111/sode.12425"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Initial levels (β = .19, p < .05) and rate of growth (β = .29, p < .001) in social communication skills predicted kindergarten EF, while vocabulary level (β = .14, p = .15) and growth (β = .02, p = .84) did not. [→ Ramsook K. Ashana 2020](#ramsook-k-ashana-2020)

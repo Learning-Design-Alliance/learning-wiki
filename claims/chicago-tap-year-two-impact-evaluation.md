@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2010
+recheck_by: 2013
 sources:
   - id: steven-glazerman-2010
     resource: "https://www.mathematica.org/publications/an-evaluation-of-the-teacher-advancement-program-tap-in-chicago-year-two-impact-report"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The Chicago TAP evaluation produced a Year Two impact report detailing second-year results of the study of the Teacher Advancement Program in Chicago Public Schools. [→ Steven Glazerman 2010](#steven-glazerman-2010)

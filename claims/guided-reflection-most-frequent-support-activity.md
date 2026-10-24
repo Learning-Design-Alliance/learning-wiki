@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: mok-2022
     resource: "https://doi.org/10.1016/j.edurev.2023.100552"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Guided reflection occurred in 11 studies (17 effects), more than feedback on lesson plans (5 studies, 7 effects), feedback on lessons (8 studies, 12 effects), or modeling (5 studies, 6 effects). [→ Mok 2022](#mok-2022)

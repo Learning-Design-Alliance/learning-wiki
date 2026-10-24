@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: negar-kamali-2026
     resource: "https://doi.org/10.48550/arxiv.2606.28510"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The estimated training effect was largest for portrait images, a statistically significant 39.8 percentage point increase in accuracy (95% CI: [27.5, 52.0]). [→ Negar Kamali 2026](#negar-kamali-2026)

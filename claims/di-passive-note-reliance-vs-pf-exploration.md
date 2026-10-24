@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-23
 sources:
   - id: jacobson-2017
     resource: "https://doi.org/10.1016/j.learninstruc.2017.03.007"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Qualitative classroom observations indicated DI students spent most of their time checking notes and rarely used the models to reason, whereas PF students discussed ideas and explored the models collaboratively. [→ Jacobson 2017](#jacobson-2017)

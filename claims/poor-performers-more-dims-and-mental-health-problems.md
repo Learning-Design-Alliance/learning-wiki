@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: stormark-km-2019
     title: Stormark KM 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The poor academic performance group had a larger proportion of children with DIMS and more internalizing and externalizing problems than the average-to-good group (all comparisons p < .001). [→ Stormark KM 2019](#stormark-km-2019)

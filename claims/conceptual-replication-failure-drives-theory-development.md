@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: john-sweller-2023
     resource: "https://doi.org/10.1007/s10648-023-09817-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that inadequate theory development can cause conceptual replication failure, and that such failures can be an important component of subsequent theory development. [→ John Sweller 2023](#john-sweller-2023)

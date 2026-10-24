@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-17
 sources:
   - id: stuart-webb-and-anna-c-s-chang-2015
     resource: "https://doi.org/10.1017/S0272263114000606"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Relative gains from pretest to immediate posttest were 63.18%, 44.64%, and 28.12% for the high-, intermediate-, and low-level groups respectively, indicating prior vocabulary knowledge may have a large impact on learning through extensive reading. [→ Stuart Webb and Anna C.-S. Chang 2015](#stuart-webb-and-anna-c-s-chang-2015)

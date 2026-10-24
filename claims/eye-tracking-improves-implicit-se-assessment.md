@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: christina-merten-and-cristina-conati-2005
     resource: "https://www.cs.ubc.ca"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A student model using both time and gaze shifts classifies implicit self-explanation more accurately (73.0% combined) than a time-only model (63.9%), with the ROC area difference statistically significant at the z > 1.96 level. [→ Christina Merten and Cristina Conati 2005](#christina-merten-and-cristina-conati-2005)

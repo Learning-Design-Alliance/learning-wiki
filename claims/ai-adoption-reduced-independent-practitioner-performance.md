@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: lovett-2026
     resource: "https://doi.org/10.1177/15344843261470602"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Endoscopists who adopted AI-assisted detection systems showed reduced independent accuracy compared to baseline, and a cross-specialty review documents consistent patterns of reduced independent diagnostic performance under AI adoption. [→ Lovett 2026](#lovett-2026)

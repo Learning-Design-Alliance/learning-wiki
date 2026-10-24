@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: baker-2024
     resource: "https://doi.org/10.1007/s11412-024-09433-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A survey-based measure of task cohesion was put into relation with collaborative learning team members' interactions, and relations were found between perceived task cohesion strength and team performance. [→ Baker 2024](#baker-2024)

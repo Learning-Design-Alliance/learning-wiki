@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-16
 sources:
   - id: farrokhnia-2026
     resource: "https://doi.org/10.1186/s41239-026-00579-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A repeated-measures ANOVA revealed a significant large main effect of time on essay quality across all three feedback conditions. [→ Farrokhnia 2026](#farrokhnia-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: grosemans-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.03.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceptions of what has to be learned during the transition differ among employers, educators, and graduates, but all three groups value generic competences most. [→ Grosemans 2017](#grosemans-2017)

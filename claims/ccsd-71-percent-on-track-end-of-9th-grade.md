@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: snipes-2016
     resource: "https://eric.ed.gov/?id=ED573499"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Among 22,335 CCSD students who were 8th graders in 2014/15, 71 percent were on track and 29 percent off track at the end of 9th grade. [→ Snipes 2016](#snipes-2016)

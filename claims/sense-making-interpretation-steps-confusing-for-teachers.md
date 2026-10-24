@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: saar-2022
     resource: "https://doi.org/10.18608/jla.2022.7505"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers found distinguishing sense-making (finding patterns) from interpretation (adding pedagogical knowledge) difficult, as the two seem to happen simultaneously but not consciously. [→ Saar 2022](#saar-2022)

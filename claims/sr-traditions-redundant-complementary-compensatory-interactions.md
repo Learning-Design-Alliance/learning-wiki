@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: wortha-2026
     resource: "https://doi.org/10.1007/s10648-026-10196-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Traditions' mechanisms frequently intersect redundantly (similar outcomes explained by different constructs), complementarily (coordination among monitoring, motivation, and resources), and compensatorily (one mechanism offsetting weakness in another). [→ Wortha 2026](#wortha-2026)

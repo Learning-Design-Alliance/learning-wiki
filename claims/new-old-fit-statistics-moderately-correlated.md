@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: he-2019
     resource: "https://www.nwea.org/research/publication/map-growth-k-2-item-fit-analysis-study/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` All but one Pearson correlation between new and old infit/outfit statistics fell between 0.50 and 0.79 (the exception, AllYr Mathematics outfit, was 0.81). [→ He 2019](#he-2019)

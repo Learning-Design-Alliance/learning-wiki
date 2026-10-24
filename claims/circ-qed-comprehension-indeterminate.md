@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: bramlett-comprehension
     title: bramlett-comprehension
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bramlett (1994) reported a significant positive difference on CAT Reading Comprehension, but WWC calculations accounting for clustering and multiple comparisons found the difference not statistically significant; the domain average effect size was 0.09. [→ bramlett-comprehension](#bramlett-comprehension)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: frerejean-2021
     resource: "https://doi.org/10.1007/s11251-021-09540-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Designing a PD program through the Ten Steps, including a cognitive task analysis with expert recruitment, transcription, and iterative refinement, required considerable investment of time and resources. [→ Frerejean 2021](#frerejean-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: blair-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2015.10.001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Executive function in preschool was positively related to both kindergarten math measures with similar effect sizes (β = 0.14 and β = 0.15). [→ Blair 2016 (2)](#blair-2016-2)

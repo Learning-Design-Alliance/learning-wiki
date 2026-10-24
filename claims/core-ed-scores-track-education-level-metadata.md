@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: garrod-2026
     resource: "https://doi.org/10.48550/arxiv.2609.09425"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` On ~15,800 external educational materials, Overall Education Level and Primary-level Suitability scores correlate with education-level metadata at r = 0.62 and r = 0.64, and a linear model combining all six dimensions achieves a cross-validated R2 of 0.449. [→ Garrod 2026](#garrod-2026)

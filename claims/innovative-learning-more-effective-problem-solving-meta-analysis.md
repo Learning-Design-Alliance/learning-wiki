@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ridwan-2021
     resource: "https://doi.org/10.46328/ijres.2287"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 31 grouped studies, the random-effects summary effect of innovative versus conventional learning on mathematics problem-solving ability was 0.95 with a 95% confidence interval of 0.71 to 1.19, excluding zero. [→ Ridwan 2021](#ridwan-2021)

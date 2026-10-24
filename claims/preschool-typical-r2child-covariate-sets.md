@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: martin-brunner-2025
     resource: "https://doi.org/10.1007/s10648-024-09981-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Applying covariate sets of sociodemographic characteristics plus a baseline measure, typical values for cognitive outcomes were Mdn R2Child = 0.24/0.21 (standardized tests/parent reports) and for SEL outcomes Mdn R2Child = 0.26/0.18 (teacher/parent reports) in the available US studies. [→ Martin Brunner 2025](#martin-brunner-2025)

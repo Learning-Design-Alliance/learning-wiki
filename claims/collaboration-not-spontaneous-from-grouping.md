@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: juliene-madureira-ferreira-2021
     resource: "https://doi.org/10.1007/s10648-021-09607-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that collaboration does not emerge spontaneously from mere grouping, and that students use different interaction repertoires depending on their partners, implying an intersubjective component emerging within the interaction itself. [→ Juliene Madureira Ferreira 2021](#juliene-madureira-ferreira-2021)

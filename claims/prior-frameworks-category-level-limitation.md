@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: fiorella-2023
     resource: "https://doi.org/10.1007/s10648-023-09769-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` SOI and ICAP emphasize differences across categories of learning activities rather than within them, so they cannot specify how different GLA types uniquely and collectively support sense-making or interact with distinct instructor-provided representations. [→ Fiorella 2023](#fiorella-2023)

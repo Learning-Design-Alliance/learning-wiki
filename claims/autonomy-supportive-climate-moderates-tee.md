@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: david-trouilloud-2006
     resource: "https://doi.org/10.1037/0022-0663.98.1.75"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The product of classroom autonomy-supportive climate and squared teacher expectations significantly predicted students' final perceived competence (p < .05), a cross-level interaction. [→ David Trouilloud 2006](#david-trouilloud-2006)

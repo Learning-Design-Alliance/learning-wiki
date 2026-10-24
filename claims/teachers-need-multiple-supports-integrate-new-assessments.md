@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: kamler-2014
     resource: "https://www.mathematica.org/publications/using-multiple-child-assessments-to-inform-practice-in-early-childhood-programs-lessons-from"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When given the opportunity to integrate a new assessment tool into their practice, teachers might need a range of supports. [→ Kamler 2014](#kamler-2014)

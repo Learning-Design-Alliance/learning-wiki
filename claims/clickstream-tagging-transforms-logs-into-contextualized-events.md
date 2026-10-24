@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: tagging-process
     title: tagging-process
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During CLICKSTREAM prototyping, learning scientists and instructors co-developed a course-specific tagging schema (resource type, content topic, coverage date, expected timing) that, when mapped to LMS events, transformed raw log data into structured event data reflecting course design and temporal context. [→ tagging-process](#tagging-process)

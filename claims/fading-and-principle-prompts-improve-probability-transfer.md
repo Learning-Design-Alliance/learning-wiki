@@ -5,6 +5,7 @@ title: "Backward fading and principle prompts supported transfer in probability 
 description: "Backward fading and principle prompts supported transfer in probability learning"
 status: review
 evidence_strength: moderate
+newest_evidence: 2003
 generated:
   by: codex/unspecified
   at: 2026-09-30
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=78 (Experiment 1)
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

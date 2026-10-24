@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: zachariah-2025
     resource: "https://doi.org/10.51388/20.500.12265/271"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` AI tools used in hiring processes have demonstrated concerning biases in which jobseekers see postings and how applications are selected and ranked, with disproportionate negative impacts on women, individuals with disabilities, and underrepresented ethnic and racial groups. [→ Zachariah 2025](#zachariah-2025)

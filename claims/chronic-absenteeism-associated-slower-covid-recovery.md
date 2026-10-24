@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-10
 sources:
   - id: sofia-postell-2026
     resource: "https://www.nwea.org/research/publication/chronic-absenteeism-a-continued-impediment-to-academic-recovery/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Districts with persistently high absenteeism rates showed slower recovery in math and reading following COVID-era disruptions to learning. [→ Sofia Postell 2026](#sofia-postell-2026)

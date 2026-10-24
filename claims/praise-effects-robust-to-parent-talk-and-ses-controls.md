@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: gunderson-2018
     resource: "https://doi.org/10.1037/dev0000444"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Adding total parent utterances as a control left the indirect path from process praise through frameworks to achievement significant in both math and reading comprehension models. [→ Gunderson 2018](#gunderson-2018)

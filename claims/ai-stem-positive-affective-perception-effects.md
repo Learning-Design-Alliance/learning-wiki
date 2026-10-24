@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: weiqi-xu-and-fan-ouyang-2022
     resource: "https://doi.org/10.1186/s40594-022-00377-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A majority of reviewed studies (N = 17) revealed effects of AI technologies on students' affective perception such as attitude, interest, and motivation, with students showing satisfaction and positive attitudes. [→ Weiqi Xu and Fan Ouyang 2022](#weiqi-xu-and-fan-ouyang-2022)

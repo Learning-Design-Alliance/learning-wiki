@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: bruce-s-rawlings-sarah-j-cutting-2024
     resource: "https://doi.org/10.1007/s10648-024-09973-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A review of studies in Spain and Italy found that providing teachers with research-led creativity-based programs and training enhanced children's divergent thinking compared to control groups. [→ Bruce S. Rawlings & Sarah J. Cutting 2024](#bruce-s-rawlings-sarah-j-cutting-2024)

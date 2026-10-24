@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: jacobson-2020
     resource: "https://doi.org/10.1016/j.learninstruc.2019.101222"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Both groups showed a large pretest-to-posttest gain in complex systems explanatory knowledge, with no Condition effect or Condition × Time interaction. [→ Jacobson 2020](#jacobson-2020)

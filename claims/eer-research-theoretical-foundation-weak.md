@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: vorderobermeier-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100625"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 341 articles screened in full text, only 7% explicitly linked educational or learning theories with EERs, while about 37% lacked any theoretical basis and 56% engaged only in name-dropping. [→ Vorderobermeier 2024](#vorderobermeier-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1918
 sources:
   - id: herring-1918
     resource: "https://doi.org/10.1037/h0075736"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In March 1917 the forty second-edition exercises were submitted to 140 grade school pupils and 141 high school pupils; seven exercises were discarded, leaving thirty-three, and about 1800 grade pupils took the test in May 1917. [→ Herring 1918](#herring-1918)

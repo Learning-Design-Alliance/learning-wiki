@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Stakeholders' preferences for AI interaction depend on existing human-human relationships between teachers and students, outside of AI use. [→ relationship](#relationship)

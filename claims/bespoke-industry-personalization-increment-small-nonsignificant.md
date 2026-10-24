@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: romain-puech-2026
     resource: "https://doi.org/10.48550/arxiv.2609.26540"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Industry-targeted videos scored 0.32 points higher on personalization depth B1 than generic-audience videos (3.97 vs. 3.65); a mixed model with a reviewer random intercept estimated the increment at 0.25 (95% CI[−0.06, 0.56], p = 0.11). [→ Romain Puech 2026](#romain-puech-2026)

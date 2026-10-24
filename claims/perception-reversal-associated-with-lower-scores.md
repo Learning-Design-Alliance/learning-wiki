@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: laura-graf-2026
     resource: "https://doi.org/10.48550/arxiv.2606.23237"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Reversal teams scored lower (medians 94.5 vs. 98 percentage points; Mann–Whitney U = 192, p = .011, r_rb = .427), and the association held in robust regression controlling for initial misalignment and prior performance (b = −1.90, t = −2.32, p = .021). [→ Laura Graf 2026](#laura-graf-2026)

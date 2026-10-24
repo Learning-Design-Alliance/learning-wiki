@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: gao-x-2026
     title: Gao X 2026
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 causal `r2` · `q3` · `i0`–`i3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Within-proficiency planned contrasts showed differentiated-AI exceeded unified-AI on reading comprehension for low-proficiency learners by d = 0.60. [→ Gao X 2026](#gao-x-2026)

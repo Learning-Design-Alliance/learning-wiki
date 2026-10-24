@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: nagaoka-2014
     resource: "https://consortium.uchicago.edu/publications/framework-developing-young-adult-success-21st-century"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review attributes to Farrington et al. (2012) the finding that academic mindsets, learning strategies, perseverance, and behaviors were significantly related to school performance. [→ Nagaoka 2014](#nagaoka-2014)

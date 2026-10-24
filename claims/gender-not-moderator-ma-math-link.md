@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: caviola-2022
     resource: "https://doi.org/10.1007/s10648-021-09618-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Gender did not significantly moderate the math anxiety–performance relationship (B = .09, p = .075), though the point estimate was slightly stronger in females. [→ Caviola 2022](#caviola-2022)

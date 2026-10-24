@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: sini-davies-2024
     resource: "https://doi.org/10.1007/s11412-024-09427-2"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The Button Presser team applied computer engineering and product design practices significantly less than the other two teams. [→ Sini Davies 2024](#sini-davies-2024)

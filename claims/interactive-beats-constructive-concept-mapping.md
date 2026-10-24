@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: chi-2018
     resource: "https://doi.org/10.1111/cogs.12626"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Collaborative concept mapping enhances learning more than individual concept mapping, supporting Interactive over Constructive engagement -->
 
 ## Subclaims

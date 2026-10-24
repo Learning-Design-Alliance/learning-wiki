@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: sackett-1922
     resource: "https://psycnet.apa.org/journals/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Unlike arithmetic and spelling tests, pupils' history answers could not be graded on an absolute right-or-wrong standard, so two grading directors defined answers worth 10 per cent, 5 per cent, and intermediate points, and it was impracticable for one person to make eighty judgments each on 933 pupils. [→ Sackett 1922](#sackett-1922)

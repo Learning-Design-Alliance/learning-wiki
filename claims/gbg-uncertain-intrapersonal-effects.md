@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: what-works-clearinghouse-2023
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/728"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Across two studies, the average effect of Good Behavior Game on intrapersonal competencies was 0.14 (improvement index +5) and not statistically significant (p=0.22). [→ What Works Clearinghouse 2023](#what-works-clearinghouse-2023)

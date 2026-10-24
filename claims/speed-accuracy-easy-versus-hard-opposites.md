@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1911
 sources:
   - id: irving-king-and-hugo-gold-1911
     resource: "https://eric.ed.gov/?q=A+Tentative+Standardization+of+Certain+Opposites+Tests"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Comparing penalty-based accuracy groups with average completion times, a slight speed-accuracy correlation appeared for easy lists, while on hard lists the more accurate and less accurate took practically identical times. [→ Irving King and Hugo Gold 1911](#irving-king-and-hugo-gold-1911)

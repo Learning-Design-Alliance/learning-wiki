@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hämmerle-2026
     resource: "https://doi.org/10.1007/s11251-026-09822-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No mediation effects were found for affect, motivation, or cognitive load on the relationship between condition and CVS posttest performance. [→ Hämmerle 2026](#hammerle-2026)

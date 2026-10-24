@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: cookson-2022
     resource: "https://doi.org/10.54300/121.698"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who experienced a $1,000 increase in district per-pupil revenue from the state in grades 10–12 had a 5.3 percentage-point increase in high school graduation rates, on average, under the 2013–14 Local Control Funding Formula reform. [→ Cookson 2022](#cookson-2022)

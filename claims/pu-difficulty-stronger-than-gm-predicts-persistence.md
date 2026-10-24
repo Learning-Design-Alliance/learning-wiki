@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: rahimi-2021
     resource: "https://doi.org/10.46328/ijtes.118"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In HLM analyses, one unit increase in physics understanding (PU) difficulty raised predicted persistence by about 11%, versus 3% for game mechanics (GM) difficulty, and PU's standardized coefficient (.19) exceeded GM's (.04). [→ Rahimi 2021](#rahimi-2021)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-08
+recheck_by: 2021
 sources:
   - id: lisa-barrow-2018
     resource: "https://consortium.uchicago.edu/publications/gocps-first-look-applications-and-offers"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-08 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In round 1, 93 percent of applicants received an offer at a ranked program; for 51 percent it was their most-preferred program and 81 percent received one of their top three. [→ Lisa Barrow 2018](#lisa-barrow-2018)

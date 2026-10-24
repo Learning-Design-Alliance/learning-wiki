@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: kelly-ann-allen-2025
     resource: "https://doi.org/10.1007/s10648-025-10055-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The disconnect between belonging theory and school practice stems partly from the complexity of translating theoretical concepts into concrete strategies and insufficient dialogue between researchers, policymakers, and educators. [→ Kelly-Ann Allen 2025](#kelly-ann-allen-2025)

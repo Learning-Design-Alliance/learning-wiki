@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: what-works-clearinghouse-2009
     resource: "https://www.earobics.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across four studies meeting WWC standards, Earobics® showed positive effects on alphabetics, with a domain average effect size of 0.49 and an average improvement index of +25 percentile points. [→ What Works Clearinghouse 2009](#what-works-clearinghouse-2009)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: rachel-levenstein-2011
     resource: "https://consortium.uchicago.edu/publications/findings-investigation-culture-calm-initiative"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The student Academic Personalism measure improved for CoC schools between 2009 and 2011 compared to non-CoC schools, with a large printed effect size (d = 1.1), but the authors caution the change may not be substantively substantial. [→ Rachel Levenstein 2011](#rachel-levenstein-2011)

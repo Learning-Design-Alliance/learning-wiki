@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1918
 sources:
   - id: truman-l-kelley-ernest-c-witham-1918
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students who had studied the scale rated sets of 32 seventh-grade compositions, exchanged papers, and rated again, so that each composition was rated by two students whose marks were then compared for agreement. [→ Truman L. Kelley; Ernest C. Witham 1918](#truman-l-kelley-ernest-c-witham-1918)

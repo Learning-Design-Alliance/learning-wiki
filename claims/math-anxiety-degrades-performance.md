@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: math-anxiety-degrades-performance
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: barroso-et-al-2021
     resource: "https://doi.org/10.1037/bul0000307"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium · n=332 independent samples (~385,441 participants) from 223 studies
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Math Anxiety Degrades Performance -->
 
 Math anxiety — feelings of tension, apprehension, or dread when manipulating numbers or solving mathematical problems — goes with lower mathematical achievement. The one synthesis recorded here pools correlations, so it shows the association and its moderators, not that anxiety causes the lower scores: the relation may run both ways. The usual causal account, that anxiety consumes working memory needed for computation and reasoning and so impairs performance most under evaluative pressure or high working memory demand, is discussed below as a mechanism no entry here tests.

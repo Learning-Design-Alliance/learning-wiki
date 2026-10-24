@@ -530,6 +530,14 @@ def run(args) -> None:
                            "--top", "5000", "--min-designs", "3", "--budget", "2"], SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/check_load_bearing.py", "--report"],
                           SCRAPE_CONSOLE_LOG_PATH)
+        # How current each claim is: its newest study, when the judge just above last
+        # found its entries faithful to their sources, and a recheck year for the kinds
+        # that age quickly (add_currency.py). After the judge, so its verdicts land on the
+        # pages; then the indexes again, because wiki-index.json carries the three fields.
+        print(f"\n=== claim currency ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/add_currency.py", "--apply"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+        _run_chained_step([sys.executable, "-u", "scripts/build_indexes.py"], SCRAPE_CONSOLE_LOG_PATH)
 
         print(f"\n=== lint ===", flush=True)
         lint_rc = _run_chained_step([sys.executable, "-u", "scripts/lint.py"],

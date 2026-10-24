@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: boosting-students-academic-self-concepts-2024
     resource: "https://osf.io/xbv4q/?view_only=62ce423079de44dba59a9e7b132417e6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The model analyzing correlated T1 levels and change scores of all constructs (Model 3) shows good fit (RMSEA = .030, CFI = .970, TLI = .966). [→ Boosting Students' Academic Self-Concepts 2024](#boosting-students-academic-self-concepts-2024)

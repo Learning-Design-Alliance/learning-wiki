@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-22
 sources:
   - id: rau-2025
     resource: "https://doi.org/10.1007/s10648-025-10012-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across most reviewed studies, taking a practice test increased participants' susceptibility to misinformation (RES), even though testing benefited memory for non-contradicted control items. [→ Rau 2025](#rau-2025)

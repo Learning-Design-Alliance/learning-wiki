@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: tricia-a-zucker-2021
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adherence to the scaffolding approach (62.46% to 76.00%) was lower than adherence to scripted features such as vocabulary instruction and inferential questions (72.50% to 95.76%). [→ Tricia A. Zucker 2021](#tricia-a-zucker-2021)

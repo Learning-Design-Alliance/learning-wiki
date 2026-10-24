@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: lopera-oquendo-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101992"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher experiential attitudes toward feedback increased the likelihood of expert-consistent holistic (OR = 1.658, p = .009) and analytic (OR = 1.554, p = .021) grades for the weak essay. [→ Lopera-Oquendo 2024](#lopera-oquendo-2024)

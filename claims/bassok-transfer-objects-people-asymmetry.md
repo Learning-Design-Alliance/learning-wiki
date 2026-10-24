@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: hippolyte-gros-2020
     resource: "https://doi.org/10.1080/00461520.2019.1691004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After training on an objects-to-people assignment problem, participants transferred the solution successfully to other objects-to-people problems (89%) but not to people-to-objects problems (0%), because world knowledge about assignment roles shaped the interpreted structure. [→ Hippolyte Gros 2020](#hippolyte-gros-2020)

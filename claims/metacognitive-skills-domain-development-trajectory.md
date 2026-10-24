@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: roger-azevedo-2020
     resource: "https://doi.org/10.1007/s11409-020-09231-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Metacognitive skills initially develop in separate domains and later become generalized across domains, but future research must determine the processes responsible for this transfer along the developmental trajectory. [→ Roger Azevedo 2020](#roger-azevedo-2020)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: zhi-y-2026
     title: Zhi Y 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Selective coding of 15 main categories from professor interviews yielded five higher-order functional domains: cognitive foundation, operational skills, higher-order thinking, metacognitive reflection, and ethical responsibility. [→ Zhi Y 2026](#zhi-y-2026)

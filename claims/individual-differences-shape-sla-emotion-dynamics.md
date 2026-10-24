@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: peng-wang-2024
     resource: "https://doi.org/10.1007/s10648-024-09946-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Resnik and Dewaele (2023), that learners with higher trait emotional intelligence tend to experience more positive emotions and fewer negative emotions during language development across different contexts, and that more autonomous learners generally enjoy language classes more, especially in challenging circumstances like emergency remote teaching. [→ Peng Wang 2024](#peng-wang-2024)

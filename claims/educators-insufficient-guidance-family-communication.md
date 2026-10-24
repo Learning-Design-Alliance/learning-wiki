@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: orta-2022
     resource: "https://consortium.uchicago.edu/publications/improving-school-family-communication-and-engagement"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across focus groups, participants expressed feeling overwhelmed, and teachers cited insufficient guidance from school leadership on the goals and methods of family communication. [→ Orta 2022](#orta-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: angela-johnson-2020
     resource: "https://www.nwea.org/research/publication/catching-up-or-falling-behind-measuring-middle-school-achievement-trajectories-for-college-readiness/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students always on-track in math attended schools averaging 33% FRPL-eligible and 33% Black, Hispanic, or Asian enrollment, versus 56% and 49% for always off-track students. [→ Angela Johnson 2020](#angela-johnson-2020)

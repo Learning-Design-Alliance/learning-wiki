@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: teegelbeckers-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100511"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` An extensive search and snowballing process identified 2093 unique publications, from which 54 interventions in 51 quantitative effect studies (2010–2020) were included. [→ Teegelbeckers 2023](#teegelbeckers-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shahin-hossain-2026
     resource: "https://doi.org/10.48550/arxiv.2606.28749"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`–`q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Strategic users, who use AI most thoughtfully, consistently score lowest on all outcome measures, an inversion the authors attribute to instruments measuring AI usage rather than writing quality. [→ Shahin Hossain 2026](#shahin-hossain-2026)

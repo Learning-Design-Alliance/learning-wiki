@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: dor-abrahamson-franz-mechsner-2022
     resource: "https://doi.org/10.1007/s10648-022-09668-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Most people are hardly able to maintain a 90° phase-shifted inward circling pattern and lose it when speeding up, per anecdotal evidence and unpublished pilot observations. [→ Dor Abrahamson · Franz Mechsner 2022](#dor-abrahamson-franz-mechsner-2022)

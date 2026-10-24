@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: baker-2025
     resource: "https://doi.org/10.1007/s11251-024-09679-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the non-game condition, no significant difference between male and female students' gaming was observed in either the problem-solving (F(1,81)=0.17, p=0.68) or self-explanation steps (F(1,81)=0.07, p=0.79). [→ Baker 2025](#baker-2025)

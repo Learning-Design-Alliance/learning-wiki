@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: babineau-2025
     resource: "https://doi.org/10.51388/20.500.12265/263"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Across 10 participating districts, more than 700 students enrolled in the first pathway year (SY 23-24) of the national Cybersecurity Pathways Initiative. [→ Babineau 2025](#babineau-2025)

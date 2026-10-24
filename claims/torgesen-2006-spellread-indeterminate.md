@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: torgesen-alphabetics
     title: torgesen-alphabetics
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In a randomized trial of 104 fifth-grade students across eight school units, WWC-calculated alphabetics effects were not statistically significant and the domain-average effect size of 0.19 was below the 0.25 substantively-important threshold. [→ torgesen-alphabetics](#torgesen-alphabetics)

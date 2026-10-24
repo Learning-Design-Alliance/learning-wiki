@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: map-growth-technical-report-spanish-addendum-for-20242025-2026
     resource: "https://www.nwea.org/research/publication/map-growth-spanish-technical-report-addendum/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Spanish Math item mean p values rose modestly from fall (0.48) to spring (0.52) while mean point-biserial correlations stayed constant at 0.32 across terms. [→ MAP Growth Technical Report Spanish Addendum for 2024–2025 2026](#map-growth-technical-report-spanish-addendum-for-20242025-2026)

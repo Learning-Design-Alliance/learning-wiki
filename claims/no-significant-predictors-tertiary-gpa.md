@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: mussel-2022
     resource: "https://doi.org/10.3390/jintelligence10020023"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` None of the three constructs was significantly associated with tertiary GPA, in conflict with prior literature. [→ Mussel 2022](#mussel-2022)

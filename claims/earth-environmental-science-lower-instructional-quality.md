@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: montgomery-2010
     resource: "https://consortium.uchicago.edu/publications/passing-through-science-effects-raising-graduation-requirements-science-course-taking"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Student survey reports indicated earth or environmental science courses were less engaging and rigorous, with less inquiry-based pedagogy, even after controlling for student skills and school clustering. [→ Montgomery 2010](#montgomery-2010)

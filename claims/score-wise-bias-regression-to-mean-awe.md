@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: john-maurice-gayed-2026
     resource: "https://doi.org/10.48550/arxiv.2606.12801"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Both models over-predict low scores (positive bias at 1.0–2.5) and underpredict high scores (negative bias at 3.5–5.0), a pattern the authors link to class imbalance; error increases monotonically above score 3.0, with Gemma RMSE 0.671 and LLaMA 0.781 at score 5.0. [→ John Maurice Gayed 2026](#john-maurice-gayed-2026)

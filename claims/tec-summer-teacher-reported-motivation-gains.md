@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: mccarthy-2011
     resource: "https://eric.ed.gov/?id=ED533408"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fourteen of 16 teachers reported students progressed or grew significantly in motivation and confidence for literacy learning activities. [→ McCarthy 2011](#mccarthy-2011)

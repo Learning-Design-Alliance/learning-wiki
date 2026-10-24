@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: collins-2014
     resource: "https://doi.org/10.3758/s13423-013-0564-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Neuropsychological dissociations and lesion evidence argue against a strong embodied account: apraxic patients retain conceptual knowledge of object use, and left-hemisphere sensorimotor lesion site does not predict motor-verb conceptual processing. [→ Collins 2014](#collins-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: doğan-yunus-2026
     resource: "https://doi.org/10.3390/jintelligence14060109"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Science (g = 0.676) and mathematics (g = 0.650) showed slightly higher effect sizes than technology/engineering (g = 0.501), but between-group heterogeneity was not statistically significant (Q = 4.85, df = 2, p = 0.088). [→ Doğan Yunus 2026](#dogan-yunus-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 1994
 sources:
   - id: roy-d-pea-1994
     resource: "https://telearn.hal.science/hal-00190572"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Within a sociocultural framework informed by conversation analysis, meaning negotiation and appropriation are identified as the mechanisms by which conceptual change in scientific thinking is achieved. [→ Roy D. Pea 1994](#roy-d-pea-1994)

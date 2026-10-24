@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: sanna-järvelä-carolyn-p-rosé-2022
     resource: "https://doi.org/10.1007/s11412-022-09383-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Mixed-method analysis found several emotion recognition strategies revealing idiosyncratic emotional social language lacking common ground, and gaps between composers' labeling and others' recognition. [→ Sanna Järvelä · Carolyn P. Rosé 2022](#sanna-jarvela-carolyn-p-rose-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: wen-liang-2026
     resource: "https://doi.org/10.48550/arxiv.2606.27380"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The survey reports, citing Aiba et al. (2024), that a multimodal conference Q&A practice system combining ASR, ChatGPT-based question generation, and TTS reduced anxiety and improved perceived preparedness. [→ Wen Liang 2026](#wen-liang-2026)

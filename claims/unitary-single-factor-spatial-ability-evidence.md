@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: kelsey-e-schenck-2024
     resource: "https://doi.org/10.1007/s10648-024-09935-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that a battery of gamified spatial measures given to twin pairs indicated a one-factor model of spatial ability fit better than a two-factor model, even controlling for a common genetic factor. [→ Kelsey E. Schenck 2024](#kelsey-e-schenck-2024)

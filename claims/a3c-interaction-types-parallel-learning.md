@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: ludvigsen-2017
     resource: "https://doi.org/10.1007/s11412-017-9257-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Jeong et al. emphasize that all four A3C interaction types (attendance, coordination, cooperation, collaboration) can individually contribute to learning processes and outcomes, and their coexistence in parallel shows how complex mass collaboration is. [→ Ludvigsen 2017](#ludvigsen-2017)

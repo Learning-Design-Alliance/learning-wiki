@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: little-2021
     resource: "https://doi.org/10.1037/edu0000635"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` WID-decoding showed a significant positive intercept-slope correlation (r = .42), indicating a cumulative growth pattern. [→ Little 2021](#little-2021)

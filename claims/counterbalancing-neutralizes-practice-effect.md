@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1914
 sources:
   - id: heck-1914
     resource: "https://www.jstor.org/stable/1412814"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` By dividing practice between school and home conditions, the arithmetic practice effect was slightly negative in computation (second test 2.7 percent lower) and slightly positive in reasoning (second test 4.9 percent higher). [→ Heck 1914](#heck-1914)

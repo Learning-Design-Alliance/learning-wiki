@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1920
 sources:
   - id: pintner-1920
     resource: "https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 21.5 per cent of cases having Differences of minus 9 or below are judged to be wasting ability, and one stated reason is misplacement in grade. [→ Pintner 1920](#pintner-1920)

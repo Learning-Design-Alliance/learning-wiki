@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: triona-2003
     resource: "https://doi.org/10.1207/s1532690xci2102_02"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Confidence rose from pretest to posttest and transfer in both conditions, with no main effect of condition. [→ Triona 2003](#triona-2003)

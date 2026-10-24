@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: btos-heartland
     title: btos-heartland
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the 19 Heartland states, BTOS puts current employer AI adoption at an average of 15.3%, ranging from 9.0% in North Dakota to 19.7% in Minnesota, with six of the 19 states meeting or exceeding the national rate. [→ btos-heartland](#btos-heartland)

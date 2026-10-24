@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: laura-graf-2026
     resource: "https://doi.org/10.48550/arxiv.2606.23237"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Alignment improved significantly from t1 to t3 (Wilcoxon signed-rank W = 2292, p = .003, r = .35) but not from t2 to t3 (p = .156); 49% of teams became better aligned, 25% worse, 26% unchanged. [→ Laura Graf 2026](#laura-graf-2026)

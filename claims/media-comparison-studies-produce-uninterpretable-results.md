@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: clark-1983
     resource: "https://doi.org/10.3102/00346543053004445"
@@ -40,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 theoretical `r?`, 1 review `r?` · `q2`–`q3`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 A "media comparison study" treats an entire delivery medium (e.g., distance vs. face-to-face instruction) as the independent variable and student achievement as the dependent variable. This design confounds learner characteristics, specific media attributes, instructional strategy, and underlying learning theory into a single undifferentiated "treatment," which makes the near-universal "no significant difference" result these studies produce uninterpretable rather than reassuring.
 

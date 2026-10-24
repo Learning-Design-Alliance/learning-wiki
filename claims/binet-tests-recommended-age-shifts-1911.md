@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1912
 sources:
   - id: j-c-b-1912
     resource: "https://openlibrary.org/search?q=recent+literature+on+the+binet+tests"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The cross-investigator comparison yields a list of tests whose age assignments should be changed, including VI 3, 4 and 5 to VII; VII 3 to VI; VII 5 to VIII; and others upward. [→ J. C. B 1912](#j-c-b-1912)

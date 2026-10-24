@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: jungnam-kim-2017
     resource: "https://www.nwea.org/research/publication/robust-irt-scaling-considerations-in-constructing-item-bank-from-tests-across-years/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Neither the order in which a test was equated to the bank nor content-specific properties showed a clear relationship with the number of items flagged by RMSD or the area measure. [→ Jungnam Kim 2017](#jungnam-kim-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: siddhartha-pradhan-2026
     resource: "https://doi.org/10.48550/arxiv.2605.23048"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For the learn parameter P(T), all posterior contrast estimates were centered near zero with credible intervals spanning zero for both spacing and color cues; equivalence was not tested. [→ Siddhartha Pradhan 2026](#siddhartha-pradhan-2026)

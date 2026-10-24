@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kim-m-mitchell-2023
     resource: "https://doi.org/10.1007/s10648-023-09798-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In most postsecondary studies, writing apprehension or anxiety achieves high negative correlations with writing self-efficacy, with mean r = −0.49. [→ Kim M. Mitchell 2023](#kim-m-mitchell-2023)

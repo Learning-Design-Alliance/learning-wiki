@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 1991
 sources:
   - id: catherine-doughty-1991
     resource: "https://doi.org/10.1017/S0272263100010287"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learners with formal SL instruction attained more marked relativization than learners with only informal exposure. [→ Catherine Doughty 1991](#catherine-doughty-1991)

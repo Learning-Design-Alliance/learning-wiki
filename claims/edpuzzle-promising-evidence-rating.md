@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: edpuzzle-evidence-summary-2025
     resource: "https://doi.org/10.2139/ssrn.5265891"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Because random assignment occurred at the school level and analyses were conducted at the student level, the study qualifies Edpuzzle for a Promising evidence rating rather than a stronger one. [→ Edpuzzle evidence summary 2025](#edpuzzle-evidence-summary-2025)

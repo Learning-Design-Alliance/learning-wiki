@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: duan-2024
     resource: "https://doi.org/10.1007/s10648-024-09881-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Principal leadership (r=0.092, k=5) and school culture (r=0.143, k=2) are positively related to CMSE with low-level effects. [→ Duan 2024](#duan-2024)

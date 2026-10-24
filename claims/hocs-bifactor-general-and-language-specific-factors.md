@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: kim-young-suk-grace-2022
     resource: "https://doi.org/10.1037/edu0000516"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The general factor captured 61% of common variance (ECV = .61) and was reliable (ω = .85), while the English and Spanish specific factors were not reliable (ω = .49 and .43). [→ Kim Young-Suk Grace 2022](#kim-young-suk-grace-2022)
@@ -49,3 +51,6 @@ CFA of inference, theory of mind, and comprehension monitoring tasks in English 
 - [Higher order cognitive skills (inference, perspective taking, monitoring) are differentially related to writing quality, writing productivity, and correctness in writing in Grade 2](higher-order-cognitions-differential-writing-dimensions-grade2.md) — related
 - [The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models](second-order-model-equivalent-to-testlet-model.md) — related
 - [Bifactor-(S-1) models of teacher Big Five personality fit student and teacher data better than single-domain or three-facets models](bifactor-s1-teacher-personality-best-fit.md) — related
+- [Spanish-speaking language-minority preschoolers show a common underlying proficiency for phonological awareness, with bifactor models fitting better than correlated-factors models](common-underlying-proficiency-phonological-awareness.md) — related
+- [A common underlying proficiency exists for print knowledge, and it accounted for more variance than for phonological awareness, contrary to the authors' hypothesis](common-underlying-proficiency-print-knowledge.md) — related
+- [No common underlying proficiency emerges for oral language: bifactor models of expressive and definitional vocabulary did not converge](no-common-underlying-proficiency-oral-language.md) — related

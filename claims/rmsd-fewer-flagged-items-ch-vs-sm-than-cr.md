@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: jungnam-kim-2017
     resource: "https://www.nwea.org/research/publication/robust-irt-scaling-considerations-in-constructing-item-bank-from-tests-across-years/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For tests prior to 2009F, RMSD flagged fewer items between CH and SM (with two exceptions of 2005S and 2006S, a maximum of 12 items, 7%) than between either transformation and CR (up to 11% of items). [→ Jungnam Kim 2017](#jungnam-kim-2017)

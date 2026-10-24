@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2008
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/430"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i0` negligible
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Neither RCT found a statistically significant effect on oral language measured by PPVT-III or TOLD-P:3, and average effect sizes were below the WWC substantively-important threshold of 0.25. [→ What Works Clearinghouse 2008](#what-works-clearinghouse-2008)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-16
 sources:
   - id: dhanya-pramod-and-kanchan-pranay-patil-2026
     resource: "https://doi.org/10.1007/s44217-026-02168-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceived autonomy (β = 0.504), perceived competence (β = 0.425), and perceived relatedness (β = 0.189) each had a positive relationship with learning motivation in the PLS-SEM model. [→ Dhanya Pramod and Kanchan Pranay Patil 2026](#dhanya-pramod-and-kanchan-pranay-patil-2026)

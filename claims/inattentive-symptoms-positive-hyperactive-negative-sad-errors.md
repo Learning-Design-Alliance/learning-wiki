@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: miller-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950374/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In hierarchical regression, inattentive symptoms predicted more sad affect errors (β = .54, p = .011) and hyperactive-impulsive symptoms predicted fewer errors (β = −.53, p = .014), with the overall model significant (R² = .10, p = .014). [→ Miller 2011](#miller-2011)

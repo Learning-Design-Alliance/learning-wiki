@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: joanne-eaves-2018
     resource: "https://figshare.com/s/230ee9491e0b67d9d3f3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Participants classified as shortcut users on the self-report measure solved significantly more conducive problems correctly (d = 1.28) and attempted more conducive problems (d = 1.32) than non-users, with no difference on non-conducive problems. [→ Joanne Eaves 2018](#joanne-eaves-2018)

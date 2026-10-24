@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: steiss-2023
     resource: "https://eric.ed.gov/?q=Comparing+the+Quality+of+Human+and+ChatGPT+Feedback+on+Students+Writing"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Human feedback scored higher than AI feedback on clarity of directions, accuracy, prioritization of essential features, and supportive tone (all p < .001), but AI feedback scored higher on criteria-based feedback (3.64 vs 3.40, p = .03). [→ Steiss 2023](#steiss-2023)

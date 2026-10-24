@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: bls-automation
     title: bls-automation
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The Bureau of Labor Statistics projects employment of computer programmers to decline by 10% from 2021 to 2031 due to increased automation. [→ bls-automation](#bls-automation)

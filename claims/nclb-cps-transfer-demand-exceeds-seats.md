@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
+recheck_by: 2006
 sources:
   - id: sebring-2003
     resource: "https://www.consortium-chicago.org/publications"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2006**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In 2003-04, about 19,000 of 270,000 eligible CPS students requested transfers but only about 1,000 seats were available. [→ Sebring 2003](#sebring-2003)

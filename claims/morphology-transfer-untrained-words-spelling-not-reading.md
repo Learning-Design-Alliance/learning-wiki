@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: danielle-colenbrander-2024
     resource: "https://doi.org/10.1007/s10648-024-09953-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Effects on untrained spelling items were significant (SMC/SMD = 0.55), while effects on untrained reading items (SMC/SMD = 0.31) were not. [→ Danielle Colenbrander 2024](#danielle-colenbrander-2024)

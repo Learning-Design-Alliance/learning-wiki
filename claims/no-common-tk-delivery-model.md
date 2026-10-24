@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: leung-gagné-2023
     resource: "https://doi.org/10.54300/109.432"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 23% of LEAs planned multiple TK models, 20% stand-alone only, 19% TK/K combination only, 1% TK/CSPP or locally funded preschool combination only, and 32% did not indicate. [→ Leung-Gagné 2023](#leung-gagne-2023)

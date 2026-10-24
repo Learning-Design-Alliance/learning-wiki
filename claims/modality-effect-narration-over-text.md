@@ -8,6 +8,7 @@ generated:
 id: modality-effect-narration-over-text
 aliases: [modality-principle-narration-beats-on-screen-text, modality-principle-spoken-narration-beats-on-screen-text, modality-effect-audio-with-visuals-improves-learning, modality-effect-overall-audio-visual-advantage, modality-effect-spoken-text-visual-information]
 evidence_strength: unrated
+newest_evidence: 2022
 sources:
   - id: ginns-2005
     resource: "https://doi.org/10.1016/j.learninstruc.2005.07.001"
@@ -49,6 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 quant-synthesis `r3`, 1 causal `r?`, 1 review `r2` · `q2`–`q4` · `i1`–`i2`
+> **Currency** · newest study 2022 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 Presenting words as spoken narration rather than on-screen text — alongside graphics or animation — improves learning, because distributing information across the auditory and visual channels reduces overload in the visual channel.
 

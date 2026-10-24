@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: de-la-torre-2013
     resource: "https://consortium.uchicago.edu/publications/turning-around-low-performing-schools-chicago-full-report"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Elementary schools that underwent reform improved reading and math scores more than matched comparison schools, but improvements were only marginal in the first year and grew over four years. [→ de la Torre 2013](#de-la-torre-2013)

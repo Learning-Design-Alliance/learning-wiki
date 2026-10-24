@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: naval-2022
     resource: "https://doi.org/10.3390/educsci12040240"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experience of civic education in the form of a specific subject provides valuable and necessary knowledge, but that alone is insufficient for civic competence development. [→ Naval 2022](#naval-2022)

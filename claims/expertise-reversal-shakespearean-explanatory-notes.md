@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: slava-kalyuga-2010
     resource: "https://doi.org/10.1007/s11251-009-9102-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Explanatory notes integrated line by line with Shakespearean text lowered cognitive load and improved comprehension for Grade 10 novices, but the control group outperformed the experimental group among Shakespearean experts. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)

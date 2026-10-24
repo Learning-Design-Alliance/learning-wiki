@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: camille-a-farrington-2019
     resource: "https://consortium.uchicago.edu/publications/do-classroom-environments-matter-for-noncognitive-aspects-of-student-performance-and-students-course-grades"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Classroom environment showed a significant, positive, moderate within-student association with motivation (β=0.234) and smaller significant associations with belonging, performance avoidance, learning strategies, delay of gratification, self-regulation, and participation. [→ Camille A. Farrington 2019](#camille-a-farrington-2019)

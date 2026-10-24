@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-09
+recheck_by: 2028
 sources:
   - id: karyn-lewis-2023
     resource: "https://www.nwea.org/research/publication/technical-appendix-2022-23-achievement-data-reveal-stalled-progress-toward-pandemic-recovery/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The analysis compared the COVID year student group's achievement with that of their pre-pandemic peers to track the gap between the cohorts. [→ Karyn Lewis 2023](#karyn-lewis-2023)

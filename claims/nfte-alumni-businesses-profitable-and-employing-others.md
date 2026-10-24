@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: nakamoto-2017
     resource: "https://eric.ed.gov/?id=ED582976"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the 484 respondents who launched a business, 47 percent had a business open in the past year, 65 percent of those businesses were profitable, and 52 percent employed at least one individual other than themselves. [→ Nakamoto 2017](#nakamoto-2017)

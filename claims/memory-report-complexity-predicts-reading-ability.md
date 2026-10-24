@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: fandakova-2016
     resource: "https://doi.org/10.1111/mbe.12123"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among 6–8-year-olds, children with superior reading ability and higher IQ scores reported memories with more different words and more diverse connections, and memory report complexity predicted future reading ability concurrently and 3–4 months later over and above IQ. [→ Fandakova 2016](#fandakova-2016)

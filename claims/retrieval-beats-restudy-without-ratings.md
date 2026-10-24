@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: higham-2023
     resource: "https://doi.org/10.1007/s10648-023-09809-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Experiment 3, without memory ratings, retrieval outperformed restudy at all practice frequencies (1, 2, or 3 encounters across the LPSs). [→ Higham 2023](#higham-2023)

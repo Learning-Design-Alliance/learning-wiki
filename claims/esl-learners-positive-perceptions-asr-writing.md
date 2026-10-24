@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-08
 sources:
   - id: johnson-2021
     resource: "https://doi.org/10.14705/rpnet.2021.54.1327"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After training and two ASR-based writing tasks, 17 ESL students' TAM survey means for perceived usefulness, perceived ease of use, and intention to use were all above the neutrality level of four on a seven-point scale. [→ Johnson 2021](#johnson-2021)

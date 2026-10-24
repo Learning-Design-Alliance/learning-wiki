@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2004
+source_checked: 2026-10-20
 sources:
   - id: nagaoka-2004
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-effects-retention"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2004 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students initially retained who rejoined age-appropriate classmates showed no evidence of harm or substantial benefit in tested achievement, though the authors advise caution. [→ Nagaoka 2004](#nagaoka-2004)

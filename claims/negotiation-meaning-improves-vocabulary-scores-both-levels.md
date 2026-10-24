@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-28
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: baoshu-yi-zhinong-sun-2013
     resource: "https://doi.org/10.5539/elt.v6n10p120"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experimental groups outperformed control groups on post-vocabulary tests held a week later in both the high school and college samples. [→ Baoshu Yi & Zhinong Sun 2013](#baoshu-yi-zhinong-sun-2013)

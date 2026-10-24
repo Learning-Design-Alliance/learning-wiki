@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: aynur-ismayilli-karakoc-2019
     resource: "https://doi.org/10.7575/aiac.alls.v.10n.4p.166"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A cross-comparison of theoretical, test, and coursebook subskill lists, with repetitions eliminated, produced ten common RC/LC subskills, seven reading-exclusive subskills, and four listening-exclusive subskills. [→ Aynur Ismayilli Karakoc 2019](#aynur-ismayilli-karakoc-2019)

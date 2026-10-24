@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: espinoza-2023
     resource: "https://doi.org/10.54300/546.264"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Black students were about 27% of students identified as experiencing homelessness in 2019–20 but only 15% of all students; about 17% of students experiencing homelessness are English learners and 19% are students with disabilities. [→ Espinoza 2023](#espinoza-2023)

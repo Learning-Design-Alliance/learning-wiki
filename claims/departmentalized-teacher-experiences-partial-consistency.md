@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: alison-wellington-2024
     resource: "https://www.mathematica.org/publications/evaluation-of-departmentalized-instruction-in-elementary-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers using departmentalized instruction reported experiences consistent with some, but not all, of the potential benefits and challenges hypothesized for the approach. [→ Alison Wellington 2024](#alison-wellington-2024)

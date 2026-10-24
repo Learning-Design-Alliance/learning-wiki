@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: magdalena-novak-stephan-schwan-2021
     resource: "https://doi.org/10.1007/s10648-020-09551-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant effects of vision or haptics in the first showroom were found on duration of stay, posters read, situational interest, or knowledge acquisition concerning the second showroom, either immediately or at follow-up. [→ Magdalena Novak & Stephan Schwan 2021](#magdalena-novak-stephan-schwan-2021)

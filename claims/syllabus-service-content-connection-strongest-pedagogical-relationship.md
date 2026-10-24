@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: stokamer-2013
     resource: "https://www.proquest.com/docview/3468983"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` A syllabus clearly connecting service work to course content correlated with civic competence at r = .569, the strongest pedagogical relationship found in this correlational survey analysis. [→ Stokamer 2013](#stokamer-2013)

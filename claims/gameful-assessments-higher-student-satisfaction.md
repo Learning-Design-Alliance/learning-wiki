@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: meg-guerreiro-2018
     resource: "https://doi.org/10.1080/15391523.2018.1426063"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students taking gameful assessment prototypes reported higher satisfaction than students taking traditional assessments. [→ Meg Guerreiro 2018](#meg-guerreiro-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: haataja-2021
     resource: "https://doi.org/10.1007/s10648-020-09538-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Teacher agency and the durations of student-started eye contacts were negatively correlated (r = −.147), with longer gaze durations corresponding with lower teacher agency. [→ Haataja 2021](#haataja-2021)

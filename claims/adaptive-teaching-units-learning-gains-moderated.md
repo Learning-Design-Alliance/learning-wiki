@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: lachner-2024
     resource: "https://doi.org/10.1007/s10648-024-09876-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the adaptive-teaching project, quantitative findings showed significant learning gains across teaching units regardless of subject domain, with larger increases for students with low prior knowledge and when implementation fidelity was high. [→ Lachner 2024](#lachner-2024)

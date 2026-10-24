@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: rohit-mehra-2026
     resource: "https://doi.org/10.48550/arxiv.2607.06101"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a controlled study cited by the authors, developers who used AI assistance scored 17% lower on a subsequent comprehension assessment than those who completed the same tasks without AI, and full delegators showed the steepest decline in skill formation. [→ Rohit Mehra 2026](#rohit-mehra-2026)

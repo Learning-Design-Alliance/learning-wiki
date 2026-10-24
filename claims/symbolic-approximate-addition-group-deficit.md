@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: bert-de-smedt-2011
     resource: "https://doi.org/10.1016/j.jecp.2010.09.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` TA children solved symbolic approximate addition more accurately than children with LA (d = 1.19) and MLD (d = 1.14), while no group differences appeared on the non-symbolic task. [→ Bert De Smedt 2011](#bert-de-smedt-2011)

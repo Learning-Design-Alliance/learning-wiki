@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: vocabulary-improvement-program-for-english-language-learners-and-their-classmates-2006
     resource: "http://www.brookespublishing.com/store/books/lively-6342/index.htm"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In a randomized controlled trial with differential attrition, VIP improved cloze-passage reading performance for English language learners with an effect size of 0.50 that was not statistically significant but was substantively important by WWC standards. [→ Vocabulary Improvement Program for English Language Learners and Their Classmates 2006](#vocabulary-improvement-program-for-english-language-learners-and-their-classmates-2006)

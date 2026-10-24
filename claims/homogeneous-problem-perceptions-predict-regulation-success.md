@@ -7,6 +7,8 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: spang-greisel-kollar-2026
     resource: "https://doi.org/10.1080/10508406.2025.2553543"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium · n=311 pre-service teachers in 112 online groups (subsample n=62 for groups with substantial problems)
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 Groups whose members perceive the problems they face during collaboration (comprehension, motivation, coordination, resource problems) similarly to one another report higher satisfaction, greater perceived success in addressing those problems, and higher subjective learning gain than groups whose members perceive the same problems differently.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: omarchevska-2022
     resource: "https://doi.org/10.1007/s10648-021-09652-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the VM conditions, Monitoring and Control had strong self-loops and were not tied to specific scientific reasoning processes, whereas in the control condition Problem Identification, Hypothesis Generation, and Monitoring were disconnected from other processes with no self-loops. [→ Omarchevska 2022](#omarchevska-2022)

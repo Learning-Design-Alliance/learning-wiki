@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: strong
+newest_evidence: 2012
 sources:
   - id: peer-assisted-learningliteracy-strategies-2012
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/364"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` The WWC confirmed a statistically significant positive difference between the K-PALS group and the comparison group on Rapid Letter Sounds for each of the three K-PALS conditions (workshop, workshop plus booster, workshop plus booster plus helper), with a domain average effect size of 0.86 and improvement index of +30. [→ Peer-Assisted Learning/Literacy Strategies 2012](#peer-assisted-learningliteracy-strategies-2012)

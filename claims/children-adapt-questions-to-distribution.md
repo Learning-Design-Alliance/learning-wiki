@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: azzurra-ruggeri-2022
     resource: "https://doi.org/10.1177/09637214221112114"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Seven- to 10-year-olds ask more constraint-seeking questions under uniform distributions and more hypothesis-scanning questions under skewed distributions, adapting as promptly as adults. [→ Azzurra Ruggeri 2022](#azzurra-ruggeri-2022)

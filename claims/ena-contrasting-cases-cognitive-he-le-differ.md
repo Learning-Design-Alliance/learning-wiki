@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: valentina-nachtigall-2022
     resource: "https://doi.org/10.1007/s10648-022-09676-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` HE and LE studies differ significantly on the first ENA dimension with a moderate effect (Cohen's d = 0.78). [→ Valentina Nachtigall 2022](#valentina-nachtigall-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: wilding-2024
     resource: "https://doi.org/10.1007/s10648-024-09928-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across four GWAS published between 2013 and 2022, polygenic score predictions of educational attainment rose from ~2% to ~14% of variance as discovery samples grew from N ~ 130,000 to ~ 3 million. [→ Wilding 2024](#wilding-2024)

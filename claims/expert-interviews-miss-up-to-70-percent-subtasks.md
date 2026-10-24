@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: graham-la-2023
     resource: "https://doi.org/10.1111/1475-6773.14106"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Expert interviews are often incomplete and may miss up to 70% of the subtasks needed to describe a specific cognitive task for teaching purposes. [→ Graham LA 2023](#graham-la-2023)

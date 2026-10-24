@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: vaughn-2022
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Group size in reading interventions typically varies, with smaller groups in grades 4 and 5 than in elective reading courses in middle and high schools. [→ Vaughn 2022](#vaughn-2022)

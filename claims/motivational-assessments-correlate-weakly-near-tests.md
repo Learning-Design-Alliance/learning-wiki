@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: lauc-2020
     resource: "https://doi.org/10.29333/iji.2020.13431a"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students' ratings of how interesting, instructive and fun the introductory activities were correlated positively and mainly significantly, but weakly, with test results close in time, with no significant relationship to the more distant exams. [→ Lauc 2020](#lauc-2020)

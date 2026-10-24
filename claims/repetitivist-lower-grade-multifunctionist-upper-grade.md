@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: bautista-2026
     resource: "https://doi.org/10.18608/jla.2026.9037"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Post hoc comparisons using adjusted residuals showed the Repetitivist group had a significantly higher proportion of Grade 8 and 9 students, while the Multifunctionist group had significantly greater representation of Grade 10 and 11 students. [→ Bautista 2026](#bautista-2026)

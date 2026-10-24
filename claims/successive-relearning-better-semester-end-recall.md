@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: philip-a-higham-2020
     resource: "https://osf.io/nx4va/?view_only=049ee04aab4f420e9fa0091b3b69b9d0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Recall of course material at the end of the semester was better for relearning compared to restudying. [→ Philip A. Higham 2020](#philip-a-higham-2020)

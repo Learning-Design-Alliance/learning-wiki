@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: coursemojo-evidence-summary-2024
     resource: "https://www.coursemojo.com"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Coursemojo students scored significantly higher on the STAAR reading assessment (effect size = +0.11), with 68% meeting the state passing benchmark versus 59% of comparison students. [→ Coursemojo evidence summary 2024](#coursemojo-evidence-summary-2024)

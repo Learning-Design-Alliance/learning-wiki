@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: joint-book-reading-predicts-literacy-success
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: bus-et-al-1995
     resource: "https://doi.org/10.3102/00346543065001001"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2011 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 The frequency and quality of adult–child shared book reading during early childhood is associated with later reading achievement, vocabulary growth, and emergent literacy skills. The claim is predictive rather than causal: the association is well established, but the unique causal contribution of shared reading itself remains contested.
 

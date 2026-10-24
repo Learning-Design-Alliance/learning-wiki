@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: pedro-c-mendonça-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100663"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Five rubric-assignment combinations exceeded the ±5-point equivalence threshold, concentrated in code questions in Assignments 1 and 2, with the largest deviations about 9.19 and −9.11 points. [→ Pedro C. Mendonça 2026](#pedro-c-mendonca-2026)

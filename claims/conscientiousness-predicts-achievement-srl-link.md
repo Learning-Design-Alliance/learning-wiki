@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mathias-allemand-2026
     resource: "https://doi.org/10.1007/s10648-026-10127-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Conscientiousness is a robust and consistent predictor of academic performance and achievement, even after accounting for cognitive ability, and encompasses planning, goal setting, persistence, and self-control fundamental to self-regulation. [→ Mathias Allemand 2026](#mathias-allemand-2026)

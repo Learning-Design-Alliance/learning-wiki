@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-18
 sources:
   - id: stephanie-m-jones-2017
     resource: "https://www.mathematica.org/publications/the-evidence-base-for-how-we-learn-supporting-students-social-emotional-and-academic-development"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Compelling research demonstrates that young people's success in school and beyond is inextricably linked to healthy social and emotional development. [→ Stephanie M. Jones 2017](#stephanie-m-jones-2017)

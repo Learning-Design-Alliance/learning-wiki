@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: u-cress-2019
     resource: "https://doi.org/10.1007/s11412-019-09305-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three of the eight components — connecting knowledge, transactivity, authority — were present in the large majority of Knowledge Forum notes. [→ U. Cress 2019](#u-cress-2019)

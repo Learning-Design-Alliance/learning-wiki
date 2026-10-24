@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: bobby-hoffman-2010
     resource: "https://doi.org/10.1007/s11423-009-9134-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ego scores and need for cognition scores were dropped from the regression model due to lack of significant F change, so neither significantly predicted engagement. [→ Bobby Hoffman 2010](#bobby-hoffman-2010)

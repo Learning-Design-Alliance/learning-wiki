@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: ellen-b-goldring-2020
     resource: "https://doi.org/10.59656/el-ls5579.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers' perceptions of principals' performance showed no improvement attributable to the PSI. [→ Ellen B. Goldring 2020](#ellen-b-goldring-2020)

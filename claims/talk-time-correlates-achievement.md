@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: sedova-2023
     resource: "https://doi.org/10.1007/s11251-022-09609-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Individual talk time showed a modest positive partial correlation with reading literacy test success (r = 0.18, p < 0.01). [→ Sedova 2023](#sedova-2023)

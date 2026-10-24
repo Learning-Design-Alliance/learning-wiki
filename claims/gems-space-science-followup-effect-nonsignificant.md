@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: followup
     title: followup
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the five-month follow-up, the effect of GEMS® Space Science Sequence on the Space Science Content test was 0.19 mean difference, effect size 0.07, improvement index +3, p = 0.19, which is not statistically significant. [→ followup](#followup)

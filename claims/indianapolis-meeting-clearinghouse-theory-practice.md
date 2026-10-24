@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1910
 sources:
   - id: communications-and-discussions-1910
     resource: "https://eric.ed.gov"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r?` · `q1`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The mid-winter meeting of the Department of Superintendence has come to serve as a clearing-house between the educational theorist and specialist and the practical schoolman. [→ Communications and Discussions 1910](#communications-and-discussions-1910)

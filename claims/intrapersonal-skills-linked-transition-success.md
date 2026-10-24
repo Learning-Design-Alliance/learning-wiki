@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bagnall-2026
     resource: "https://doi.org/10.1007/s10648-026-10174-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The ability to self-regulate was identified in several studies as linking to successful transitions, with children experiencing less anxiety and better able to manage threatening situations. [→ Bagnall 2026](#bagnall-2026)

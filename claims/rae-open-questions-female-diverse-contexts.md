@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: weak
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: cobley-2009
     resource: "https://doi.org/10.2165/00007256-200939030-00005"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The authors identify as open questions the mechanisms by which RAEs magnify and subside, and whether RAEs exist in female and more culturally diverse contexts. [→ Cobley 2009](#cobley-2009)

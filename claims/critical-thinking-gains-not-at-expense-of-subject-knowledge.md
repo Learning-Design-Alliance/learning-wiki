@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-23
 sources:
   - id: frijters-2008
     resource: "https://doi.org/10.1016/j.learninstruc.2006.11.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The higher scores on critical-thinking variables in the lessons were not at the expense of the subject-matter knowledge of Biology taught in those lessons. [→ Frijters 2008](#frijters-2008)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-15
+recheck_by: 2025
 sources:
   - id: wei-he-2022
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-tests/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Examination of Q-Q plots, CDF curves, and residuals indicated the normality assumptions of the model "seemed reasonable" for the course-specific tests; in the worked example shown (Integrated Math 2), most data fell close to the 45-degree reference line except at the very low and high ends. [→ Wei He 2022](#wei-he-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 1993
 sources:
   - id: blosser-1993
     resource: "https://eric.ed.gov/?id=ED351207"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Audio-tape analysis in Basili and Sanford's pretest-posttest control-group study found a significantly lower proportion of misconceptions for four of the five concepts on the posttest for the experimental group. [→ Blosser 1993](#blosser-1993)

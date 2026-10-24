@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: tam-nguyen-2026
     resource: "https://doi.org/10.48550/arxiv.2607.14044"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All three learners preparing with only the framework's knowledge base passed the vendor-administered NCP-AAI exam, with 14 more in progress. [→ Tam Nguyen 2026](#tam-nguyen-2026)

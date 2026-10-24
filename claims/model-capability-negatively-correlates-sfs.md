@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: heejin-do-2026
     resource: "https://doi.org/10.48550/arxiv.2605.12748"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Across the seven evaluated models, capability proxied by flip rate under generic feedback (FG) is strongly negatively correlated with SFS, with reasoning-augmented models showing higher flip rates but lower sensitivity. [→ Heejin Do 2026](#heejin-do-2026)

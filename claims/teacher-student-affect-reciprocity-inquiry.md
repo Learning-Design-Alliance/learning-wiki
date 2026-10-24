@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: tarja-pietarinen-tuire-palonen-marja-vauras-2021
     resource: "https://doi.org/10.1007/s11412-021-09347-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers' perceptions of their own affect and guidance aligned with their students' self-reported affect, e.g., Henrik's negative perceptions matched his students' less intense but similar affect. [→ Tarja Pietarinen · Tuire Palonen · Marja Vauras 2021](#tarja-pietarinen-tuire-palonen-marja-vauras-2021)

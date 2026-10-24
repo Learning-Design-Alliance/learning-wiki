@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: zeinab-moradi-khazaei-2012
     resource: "https://doi.org/10.5539/elt.v5n11p181"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-hoc Tukey comparisons showed class A (5 students) differed significantly from classes B and C, while class B (10 students) and class C (15 students) did not differ significantly from each other. [→ Zeinab Moradi Khazaei 2012](#zeinab-moradi-khazaei-2012)

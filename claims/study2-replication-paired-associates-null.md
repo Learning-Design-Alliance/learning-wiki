@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: buehler-2021
     resource: "https://doi.org/10.1007/s11409-021-09261-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 2, the paired-associates task MANOVA again showed no significant group differences between 36 native and 36 non-native speaking fourth graders in recognition or monitoring resolution. [→ Buehler 2021](#buehler-2021)

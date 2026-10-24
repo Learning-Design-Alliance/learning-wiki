@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: steven-wise-2018
     resource: "https://doi.org/10.1080/20004508.2018.1490127"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cheating is treated as a construct-irrelevant factor whose effects computer-based testing can help manage. [→ Steven Wise 2018](#steven-wise-2018)

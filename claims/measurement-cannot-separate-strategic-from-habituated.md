@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: patricia-a-alexander-2017
     resource: "https://doi.org/10.1007/s10648-017-9409-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In empirical practice, researchers cannot reliably determine whether observed behavior reflects intentionality and effortfulness of strategies or habituated, cognitively effortless skills, since even eye tracking cannot reliably make this distinction. [→ Patricia A. Alexander 2017](#patricia-a-alexander-2017)

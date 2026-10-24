@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: jessica-massonnié-2018
     resource: "https://doi.org/10.1016/j.learninstruc.2018.01.005"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At T1, confirmatory factor analyses showed a three-factor model (decoding precursors, LLL skills, discourse skills) fit significantly better than a model grouping LLL and discourse skills together. [→ Jessica Massonnié 2018](#jessica-massonnie-2018)

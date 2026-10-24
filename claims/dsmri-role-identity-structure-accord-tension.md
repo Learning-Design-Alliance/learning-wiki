@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: avi-kaplan-joanna-k-garner-2026
     resource: "https://doi.org/10.1007/s10648-026-10221-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Role identities form a nested, temporal, fractal-like hierarchy, and relations among elements reflect accord (coherence) or tension (disharmony), with accord commonly accompanied by positive emotion and tension experienced as a dilemma or lack of motivation. [→ Avi Kaplan · Joanna K. Garner 2026](#avi-kaplan-joanna-k-garner-2026)

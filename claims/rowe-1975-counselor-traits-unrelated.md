@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 1975
 sources:
   - id: rowe-1975
     resource: "https://doi.org/10.3102/00346543045002231"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1975 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across reviewed studies of counselor characteristics, most variables investigated were not significantly related to the criterion of effectiveness employed. [→ Rowe 1975](#rowe-1975)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2007
 sources:
   - id: shazia-rafiullah-miller-and-robert-m-gladden-2002
     resource: "https://consortium.uchicago.edu/publications/changing-special-education-enrollments-causes-and-distribution-among-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The rise in ninth-grade special education eligibility was almost entirely due to increased learning disability classification, which grew from 7.2 to 11.4 percent; by 1999–00 seven of every ten students classified eligible had a learning disability. [→ Shazia Rafiullah Miller and Robert M. Gladden 2002](#shazia-rafiullah-miller-and-robert-m-gladden-2002)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: angela-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2606.10051"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Counterfactual re-scoring of logged turns showed the deployed weighting beat all alternatives: equal weights lost 10.5 pp, empathy-only lost 15.8 pp, and exploration-only lost only 7.2 pp of agreement. [→ Angela Chen 2026](#angela-chen-2026)

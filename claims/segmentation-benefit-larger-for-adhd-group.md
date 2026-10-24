@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: veronica-pimenova-2026
     resource: "https://doi.org/10.48550/arxiv.2607.24612"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 <!-- title before 2026-10-14: Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant -->
 

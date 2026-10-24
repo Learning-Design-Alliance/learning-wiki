@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: nagaoka-2021
     resource: "https://consortium.uchicago.edu/publications/navigating-the-maze"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Approximately 90 percent of CPS graduates who stopped out for at least one semester did not complete a degree within six years, and most students stopped out at least once. [→ Nagaoka 2021](#nagaoka-2021)

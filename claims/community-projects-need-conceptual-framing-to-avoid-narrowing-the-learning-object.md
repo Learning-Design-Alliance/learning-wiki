@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: engeström-käyhkö-2021
     resource: "https://doi.org/10.1080/10508406.2021.1908296"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1` · n=1 school, 11 students in the focal course year, plus teachers, entrepreneurs, and municipal decision-makers
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 When a real-world or community-partnered project is not anchored to explicit disciplinary or conceptual content, the different groups involved (students, teachers, outside partners) tend to converge on whichever meaning system is easiest to coordinate around — often a narrow, transactional one — rather than the broader learning object the design intended.
 

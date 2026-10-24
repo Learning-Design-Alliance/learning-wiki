@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: plasencia-2024
     resource: "https://doi.org/10.54300/639.507"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study of over 700 state preschool classrooms in six states, children's language and math outcomes improved as average class income increased, and greater income variance was associated with improved language outcomes. [→ Plasencia 2024](#plasencia-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: gilmore-camilla-k-2010
     resource: "https://doi.org/10.1016/j.cognition.2010.02.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When number word and symbol mastery was entered before non-symbolic addition performance, non-symbolic numerical performance no longer contributed significantly to school mathematics achievement (R2 change = .007, p = .286). [→ Gilmore Camilla K. 2010](#gilmore-camilla-k-2010)

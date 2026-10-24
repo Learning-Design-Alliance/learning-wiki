@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: brian-gill-2020
     resource: "https://www.mathematica.org/publications/considerations-for-reopening-pennsylvania-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The authors assert that Pennsylvania schoolchildren missing in-person instruction since March 2020 are likely missing substantial learning, and that losses and hardships are likely greater for populations disproportionately harmed by COVID-19 itself, creating an equity challenge. [→ Brian Gill 2020](#brian-gill-2020)

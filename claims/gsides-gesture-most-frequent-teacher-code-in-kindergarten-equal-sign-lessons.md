@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: sung-2022
     resource: "https://eric.ed.gov/?id=ED630361"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Qualitative video coding of one teacher across seven lessons recorded 38 GSIDES, 28 ISA, 26 BAL, 17 DEF, 11 GBAL and 6 FORM instances. [→ Sung 2022](#sung-2022)

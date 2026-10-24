@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: marks-2021
     resource: "https://doi.org/10.29333/iejme/11198"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teacher efficacy underpins effective differentiation and is dependent on PCK; teachers lacking confidence in PCK are less able to adjust lessons to learner needs. [→ Marks 2021](#marks-2021)

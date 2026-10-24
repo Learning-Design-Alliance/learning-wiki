@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: stephenson-2025
     resource: "https://doi.org/10.51388/20.500.12265/258"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Larger-scale research, including impact and longitudinal studies, on AI's effect on EL literacy development remains limited. [→ Stephenson 2025](#stephenson-2025)

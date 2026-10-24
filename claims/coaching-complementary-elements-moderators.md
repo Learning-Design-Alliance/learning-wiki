@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-15
 sources:
   - id: kraft-2018
     resource: "https://doi.org/10.3102/0034654318759268"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 <!-- title before 2026-10-15: Pairing coaching with group trainings and instructional materials is associated with larger effects, while video libraries are associated with smaller effects -->
 

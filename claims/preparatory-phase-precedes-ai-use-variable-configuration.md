@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: pinto-f-2026
     title: Pinto F 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In eight of eleven studies, use of AI tools is preceded by a preparatory phase; in six it focuses on AI concepts and tool functioning, while two prioritize mathematical content and didactic knowledge. [→ Pinto F 2026](#pinto-f-2026)

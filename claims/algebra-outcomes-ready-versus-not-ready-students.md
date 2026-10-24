@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: megan-kuhfeld-2026
     resource: "https://www.nwea.org/research/publication/getting-algebra-placement-right-expanding-opportunity-and-strengthening-preparation/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study examines outcomes separately for students who were ready for the course and students who were not ready for it. [→ Megan Kuhfeld 2026](#megan-kuhfeld-2026)

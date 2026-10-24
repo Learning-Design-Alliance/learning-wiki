@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1910
 sources:
   - id: communications-and-discussions-1910
     resource: "https://www.jstor.org"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r?` · `q1`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Dr. Snedden argues the published school report is a communication to the public and that current educational measurement cannot answer how much a given type of educational procedure pays, because relative values of different studies are not measured. [→ Communications and Discussions 1910](#communications-and-discussions-1910)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: chris-piech-2013
     resource: "https://arxiv.org/abs/1307.2579"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a classification task predicting whether a student participates in the next assignment, adding grader bias and reliability to a linear classifier with the student's grade improved AUC from 0.93 to 0.98 (a 5pp improvement). [→ Chris Piech 2013](#chris-piech-2013)

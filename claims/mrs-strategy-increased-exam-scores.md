@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: de-bruin-2017
     resource: "https://doi.org/10.1007/s11409-016-9159-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who received the Monitoring and Regulation Strategy scored higher on the course exam than those who did not, in a multilevel analysis controlling for GPA. [→ de Bruin 2017](#de-bruin-2017)

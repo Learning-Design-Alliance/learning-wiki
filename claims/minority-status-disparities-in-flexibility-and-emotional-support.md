@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: zeytinoglu-2019
     resource: "https://doi.org/10.1177/0165025418757706"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i2` Child minority status correlated with lower cognitive flexibility (r = −.22 to −.38) and lower observed emotional support across time points. [→ Zeytinoglu 2019](#zeytinoglu-2019)

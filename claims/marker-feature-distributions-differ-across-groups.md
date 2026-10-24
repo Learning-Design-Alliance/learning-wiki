@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: liang-2025
     resource: "https://doi.org/10.1007/s11412-025-09452-9"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` A one-way ANOVA on the four group marker features showed a statistically significant difference among groups (F(3, 36) = 7.0755, p = .0007), with η² = 0.371. [→ Liang 2025](#liang-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-14
 sources:
   - id: tanmay-sinha-and-manu-kapur-2021
     resource: "https://doi.org/10.3102/00346543211019105"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-14 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The pooled effect size estimate was negative for younger students (2nd to 5th graders) and became more positive with increasing grade level, with marginally significant subgroup differences for all subcategories except undergraduates. [→ Tanmay Sinha and Manu Kapur 2021](#tanmay-sinha-and-manu-kapur-2021)

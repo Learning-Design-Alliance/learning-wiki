@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-17
+recheck_by: 2026
 sources:
   - id: ap-enrollment
     title: ap-enrollment
@@ -21,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2019 girls comprised only 29 percent of AP Computer Science exam takers, and Black, Latinx, Native, and Pacific Islander students comprised less than 25 percent of exam takers despite being about 44% of the total student population. [→ ap-enrollment](#ap-enrollment)

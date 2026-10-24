@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: gerry-stahl-2012
     resource: "https://doi.org/10.1007/s11412-012-9142-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Silseth's case study showed that a student's experiences from outside school (television, gaming, hobbies) were drawn on as resources that shaped classroom meaning making and the student's learning trajectory. [→ Gerry Stahl 2012](#gerry-stahl-2012)

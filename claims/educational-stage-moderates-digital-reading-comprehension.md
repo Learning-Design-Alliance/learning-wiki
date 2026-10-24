@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: altamura-2023
     resource: "https://doi.org/10.3102/00346543231216463"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Educational stage is a significant moderator of the association between leisure digital reading habits and reading comprehension (p = .047; R2 = .57). [→ Altamura 2023](#altamura-2023)

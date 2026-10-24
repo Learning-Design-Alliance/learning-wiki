@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2001
+source_checked: 2026-10-08
 sources:
   - id: fred-m-newmann-2001
     resource: "https://consortium.uchicago.edu/publications/authentic-intellectual-work-and-standardized-tests-conflict-or-coexistence"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2001 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In mathematics, gains for initially low-achieving students were 29 percent larger in high-quality-assignment classrooms versus 17 percent for high achievers; in reading the pattern reversed, with 42 percent for high achievers versus 28 percent for low achievers. [→ Fred M. Newmann 2001](#fred-m-newmann-2001)

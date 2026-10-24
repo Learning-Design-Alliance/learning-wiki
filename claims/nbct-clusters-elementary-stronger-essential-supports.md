@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: hart-2008
     resource: "https://consortium.uchicago.edu/publications/teacher-and-principal-leadership-chicago-ongoing-analyses-preparation-programs"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Elementary schools with NBCT clusters show significantly higher scores on teacher influence, collective responsibility, reflective dialogue, innovation, school commitment, teacher-teacher trust, and parent involvement, controlling for demographic differences. [→ Hart 2008](#hart-2008)

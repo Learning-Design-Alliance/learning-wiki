@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: emhardt-2023
     resource: "https://doi.org/10.1007/s10648-023-09731-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sports/physical education studies mostly cite revealing and teaching a quiet eye strategy; medicine studies cite strategy revelation and attention guidance; STEM studies use a variety of rationales and refer to social mechanisms more frequently than other domains. [→ Emhardt 2023](#emhardt-2023)

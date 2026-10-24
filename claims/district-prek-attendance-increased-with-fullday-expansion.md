@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ehrlich-2021
     resource: "https://consortium.uchicago.edu/publications/meeting-families-needs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` As full-day pre-k enrollment grew more than threefold, overall district pre-k attendance rose by a statistically significant 1.5 percentage points, and Black students' attendance rose 3 percentage points, equivalent to five additional days in school. [→ Ehrlich 2021](#ehrlich-2021)

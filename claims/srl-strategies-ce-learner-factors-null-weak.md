@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: yvonne-m-hemmler-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100629"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant relationships were detected between SRL strategies and age, educational level, or job tenure in CE. [→ Yvonne M. Hemmler 2024](#yvonne-m-hemmler-2024)

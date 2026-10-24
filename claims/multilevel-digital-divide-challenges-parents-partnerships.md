@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2030
 sources:
   - id: badiuzzaman-2025
     resource: "https://doi.org/10.3102/00346543251400771"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i?` A systematic review of 10 high-quality studies found that the multilevel digital divide presents multiple challenges for parents. [→ Badiuzzaman 2025](#badiuzzaman-2025)

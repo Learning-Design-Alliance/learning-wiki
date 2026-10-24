@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: martine-baars-lisette-wijnia-anique-de-bruin-fred-paas-2020
     resource: "https://doi.org/10.1007/s10648-020-09569-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a supplementary analysis of 26 studies, absolute monitoring accuracy did not affect the effort–monitoring relationship. [→ Martine Baars & Lisette Wijnia & Anique de Bruin & Fred Paas 2020](#martine-baars-lisette-wijnia-anique-de-bruin-fred-paas-2020)

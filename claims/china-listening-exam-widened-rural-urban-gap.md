@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: guo-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29672"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the staggered introduction of a listening component worth 20% of the English score, rural candidates' English percentile ranks fell by about two points and the rural-urban gap in college access widened by roughly 30%. [→ Guo 2026](#guo-2026)
@@ -49,3 +51,4 @@ The article reports, citing Li et al. (2024), an analysis of administrative reco
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — a broader claim this one bears on
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
+- [The authors attribute rural children's superiority to city-school conditions: lack of correlation between the urban community and the school and inflexibility of the grade system](city-school-inflexibility-attribution.md) — related

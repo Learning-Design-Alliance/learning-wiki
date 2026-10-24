@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: mixed
+newest_evidence: 2022
 sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
@@ -57,6 +58,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies (5 entries) · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r3` · `q2`–`q3`
+> **Currency** · newest study 2022 · 2 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The chapter reports that Karpicke and Bauernschmidt (2011) found no discernable difference among expanding, equally spaced, and contracting relative spacing conditions. [→ Karpicke 2017](#karpicke-2017)

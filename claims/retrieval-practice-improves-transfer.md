@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: retrieval-practice-improves-transfer
 evidence_strength: provisional
+newest_evidence: 2018
 sources:
   - id: pan-rickard-2018
     resource: "https://doi.org/10.1037/bul0000151"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q3`–`q4` · `i2` medium
+> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Practicing retrieval of learned material (rather than rereading or restudying) improves learners' ability to apply that knowledge to new problems and contexts, not just to recall it verbatim.
 

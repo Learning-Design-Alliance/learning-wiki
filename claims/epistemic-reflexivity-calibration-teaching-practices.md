@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: feucht-2017
     resource: "https://doi.org/10.1080/00461520.2017.1350180"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Changes in teaching occur when reflexivity about teaching practices is associated with epistemic cognition, through a calibration process that leads to classroom action. [→ Feucht 2017](#feucht-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yu-jr-lan-2026
     resource: "https://doi.org/10.1007/s11251-026-09814-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` SCL change from baseline showed no significant condition difference in either learning or task phase. [→ Yu-Jr Lan 2026](#yu-jr-lan-2026)

@@ -26,12 +26,14 @@ sources:
     rigour: "?"
 id: process-goals-outperform-outcome-goals-for-novices
 evidence_strength: moderate
+newest_evidence: 2000
 ---
 
 # Process goals lead to better skill acquisition for novices than outcome goals.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 theoretical `r?` · `q3`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 In the initial stages of learning complex tasks, focusing on the specific techniques or steps (process goals) is more effective for building expertise than focusing solely on the final result (outcome goals).
 

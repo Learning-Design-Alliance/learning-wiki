@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: childs-1915
     resource: "https://doi.org/10.1037/h0075575"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Median drawing scores increase across grades, yet adjacent grades are so similar that norms can only be established for groups of grades, not for each grade individually. [→ Childs 1915](#childs-1915)

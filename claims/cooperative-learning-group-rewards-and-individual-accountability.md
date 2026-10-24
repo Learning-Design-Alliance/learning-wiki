@@ -8,6 +8,7 @@ generated:
 id: cooperative-learning-group-rewards-and-individual-accountability
 aliases: [cooperative-learning-free-rider-without-accountability]
 evidence_strength: weak
+newest_evidence: 2003
 sources:
   - id: slavin-1996
     resource: "https://doi.org/10.1006/ceps.1996.0004"
@@ -42,6 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r3` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2003 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Group rewards combined with individual accountability make cooperative learning effective -->
 
 Cooperative learning raises achievement more when the group's success depends on each member's learning (individual accountability) and groups are recognised or rewarded on members' learning gains (group rewards). The recorded evidence is from elementary and secondary schools: a best-evidence review, an elementary meta-analysis and one randomised component analysis. It does not make the rewards strictly necessary, since Slavin (1996) also reports structured-interaction methods that work without them, and no entry measures free-riding directly.

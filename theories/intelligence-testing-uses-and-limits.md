@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 102 claims (35 for, 60 mixed, 7 against) · 53 studies (32 associational, 10 review, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 7 of 53 report an effect size · 101 claims rest on one study
+> **Evidence** · 106 claims (35 for, 62 mixed, 9 against) · 56 studies (33 associational, 12 review, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 7 of 56 report an effect size · 105 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -153,6 +153,10 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [The Binet scale is heavily verbal — 43 of its 54 tests use words rather than acts — a criticism Ayres raises and the reviewer partially rebuts](../claims/binet-scale-43-of-54-tests-verbal.md) [~W]
 - [A mental appraisement of an individual is even more dependent upon the adequate training and quality of the examiner than upon the standardization of the tests used](../claims/examiner-training-over-test-standardization-for-appraisal.md) [~W]
 - [The large majority of freshmen scoring below 77.5 Alpha drop out before senior year](../claims/below-77-5-alpha-freshmen-drop-out-before-senior-year.md) [~W]
+- [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](../claims/mental-age-grouping-unreliable-for-educational-treatment.md) [-W]
+- [Binet-Simon intelligence tests are applicable only to European and American conditions; other tests are needed for primitive peoples](../claims/binet-simon-tests-culturally-limited.md) [-W]
+- [Relative to mental age, 68% of pupils do arithmetic work comparable to same-mental-age children, 59.8% in language, but only 13.5% in silent reading](../claims/detroit-prevocational-attainment-relative-to-mental-age.md) [~W]
+- [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](../claims/mental-tests-more-needed-for-superior-selection.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

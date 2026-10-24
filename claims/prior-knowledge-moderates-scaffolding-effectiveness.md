@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-18
 sources:
   - id: olga-chernikova-2020
     resource: "https://doi.org/10.3102/0034654320933544"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learners showed a lower increase of complex skills in an unfamiliar context (g = 0.67) than in a familiar context (g = 0.83), but learners in both contexts benefited from simulation-based learning. [→ Olga Chernikova 2020](#olga-chernikova-2020)

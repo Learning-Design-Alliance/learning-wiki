@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: fiorella-2023
     resource: "https://doi.org/10.1007/s10648-023-09769-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` College students performed best on a transfer test when they created drawings of a circulatory-system text before, rather than after, viewing an instructor-provided visual (Zhang & Fiorella, 2019, as reported). [→ Fiorella 2023](#fiorella-2023)

@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pairwise agreement between Phi-2 and human judges on correct answers (mean Cohen's kappa = 0.76) exceeded agreement among human judges themselves (0.70), and Phi-2 matched the human majority with 90.6% accuracy. [→ phi2-answer-agreement-1](#phi2-answer-agreement-1)

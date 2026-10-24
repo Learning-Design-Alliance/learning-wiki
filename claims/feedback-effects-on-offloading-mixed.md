@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-15
 sources:
   - id: yufei-guo-qun-ye-2026
     resource: "https://doi.org/10.1057/s41599-026-06621-5"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Metacognitive advice feedback reduced learners' reminder bias in memory tasks, producing more accurate metacognitive evaluations and wiser offloading strategies. [→ Yufei Guo & Qun Ye 2026](#yufei-guo-qun-ye-2026)

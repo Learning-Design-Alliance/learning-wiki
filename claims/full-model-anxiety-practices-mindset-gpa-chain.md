@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ramirez-gerardo-2018
     resource: "https://doi.org/10.1177/2332858418756052"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The final SEM showed indirect effects from teacher math anxiety through process-oriented practices to perceived teacher fixed mindset (b = .08, p = .007) and from practices through perceived mindset to GPA (b = .04, p = .005). [→ Ramirez Gerardo 2018](#ramirez-gerardo-2018)

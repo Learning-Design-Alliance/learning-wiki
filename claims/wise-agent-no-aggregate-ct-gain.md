@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: qi-zhu-2026
     resource: "https://doi.org/10.1007/978-3-032-29788-4_37"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` After the three-month intervention, aggregate CT disposition scores improved but the increment did not reach statistical significance, with a negligible printed effect size (Cohen's d=0.054). [→ Qi Zhu 2026](#qi-zhu-2026)

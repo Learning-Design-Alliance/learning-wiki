@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-09
 sources:
   - id: nwea-research-2019
     resource: "https://www.nwea.org/research/publication/school-effectiveness-summer-loss-and-federal-accountability/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Seasonality, specifically summer loss, affects estimates of school effectiveness, and ignoring summer loss can change which schools are identified as low performers. [→ NWEA Research 2019](#nwea-research-2019)

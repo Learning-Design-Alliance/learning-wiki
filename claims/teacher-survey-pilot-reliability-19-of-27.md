@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: ehrlich-2016
     resource: "http://consortium.uchicago.edu/surveys"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most teacher survey measures (19 of 27) had Rasch reliabilities at or above 0.80, and all but one met the 0.70 minimum threshold; the Early Childhood Discipline measure fell below 0.70 and was removed. [→ Ehrlich 2016](#ehrlich-2016)

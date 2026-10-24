@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zirui-shan-2026
     resource: "https://doi.org/10.48550/arxiv.2607.02361"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Visualisation literacy was a significant positive predictor of correct rate (β1 = 0.371, p = 0.004), and the VL × condition interaction was not significant (β3 = 0.059, p = 0.745), so the literacy–accuracy relationship was consistent across conditions. [→ Zirui Shan 2026](#zirui-shan-2026)

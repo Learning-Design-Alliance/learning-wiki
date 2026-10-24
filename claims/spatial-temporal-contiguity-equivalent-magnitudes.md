@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: ginns-2006
     resource: "https://doi.org/10.1016/j.learninstruc.2006.10.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The mean weighted effect size for temporal contiguity studies (d = 0.78) did not differ significantly from that for spatial contiguity studies (d = 0.72); equivalence was not tested. [→ Ginns 2006](#ginns-2006)

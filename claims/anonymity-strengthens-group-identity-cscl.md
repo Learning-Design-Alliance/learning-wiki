@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: cress-2015
     resource: "https://doi.org/10.1007/s11412-015-9214-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In anonymous situations group members can develop an even stronger group identity than in non-anonymous face-to-face situations, because anonymity hides member heterogeneity and focuses attention on the group as a whole. [→ Cress 2015](#cress-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: nummijoki-2018
     resource: "https://doi.org/10.1080/10508406.2017.1412970"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the four cases, clients shifted 10 times from defensive to expansive and 8 times from expansive to defensive, while workers shifted 5 times in each direction. [→ Nummijoki 2018](#nummijoki-2018)

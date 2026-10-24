@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: iva-i-hrastinski-2023
     resource: "https://doi.org/10.5937/specedreh22-37415"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Teachers' ratings of students' language skills (0.305) and reading ability (0.239) were significantly correlated with the PSP-1 total score. [→ Iva I. Hrastinski 2023](#iva-i-hrastinski-2023)

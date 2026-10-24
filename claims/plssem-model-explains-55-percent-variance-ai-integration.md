@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: riandi-riandi-2026
     resource: "https://doi.org/10.1038/s41598-025-34422-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The combination of AI Knowledge, Attitude Toward AI in ESD, ESD Teaching Material, and Use of AI explained R² = 0.554 of the variance in AI Integration Ability. [→ Riandi Riandi 2026](#riandi-riandi-2026)

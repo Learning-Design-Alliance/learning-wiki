@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1922
 sources:
   - id: bird-t-baldwin-1922
     resource: "https://psycnet.apa.org/journals/edu/13/1/193"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` For 49 girls, partial correlation (with age constant) between height and mental age is +0.53, between height and weight +0.57, and between height and ar-ray +0.52, indicating physiologically accelerated girls are mentally accelerated. [→ Bird T. Baldwin 1922](#bird-t-baldwin-1922)
@@ -50,3 +52,4 @@ Partial-correlation analysis of height, weight, carpal-bone area and Stanford-Bi
 - [Pupils designated accelerated by their teachers, or selected by age-grade criteria, score above grade standards on the alertness tests](accelerated-pupils-above-standard.md) — related
 - [Physiological age, as evidenced by the advent of pubescence or first menstruation, shows wide variations and low correlations with other traits](physiological-age-low-correlations-other-traits.md) — reports the opposite
 - [Anatomical development measured by wrist-bone radiographs correlates very highly with height and weight in the Baldwin study](wrist-radiograph-development-high-correlations-height-weight.md) — related
+- [Town's intensive study gave 52 first-year school children unusually thorough physical, anthropometric and mental measurement](town-52-children-thorough-measurement.md) — related

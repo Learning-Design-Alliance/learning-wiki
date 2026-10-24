@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: edda-sant-2019
     resource: "https://doi.org/10.3102/0034654319862493"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Deliberative democratic educators recommend pedagogies including communities of inquiry, generic deliberative strategies, work with controversial issues, and structured academic controversies in which students interrogate issues from multiple perspectives and seek consensual solutions. [→ Edda Sant 2019](#edda-sant-2019)

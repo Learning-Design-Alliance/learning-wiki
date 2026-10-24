@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jessica-t-decuir-gunby-2026
     resource: "https://doi.org/10.1007/s10648-026-10220-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A scoping review found belongingness more strongly associated with academic achievement for marginalized students compared to white students. [→ Jessica T. DeCuir-Gunby 2026](#jessica-t-decuir-gunby-2026)

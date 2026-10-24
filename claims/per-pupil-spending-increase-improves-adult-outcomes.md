@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: cook-harvey-2016
     resource: "http://learningpolicyinstitute.org/product/equity-essa"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Increasing per-pupil spending by 20% across k-12 schooling led to a 23 percentage-point increase in high school completion rates, adult earnings gains of almost 25% for individuals and 52% for families, and a reduction in adult poverty of almost 20%. [→ Cook-Harvey 2016](#cook-harvey-2016)

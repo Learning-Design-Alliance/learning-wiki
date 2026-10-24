@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: marsh-2008
     resource: "https://doi.org/10.1007/s10648-008-9075-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` BFLPE findings generalize over individual and contextual characteristics, settings, countries, long-term follow-ups, and research designs. [→ Marsh 2008](#marsh-2008)

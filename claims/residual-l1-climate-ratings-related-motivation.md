@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: burić-2020
     title: Burić 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` At the student level, residualized climate ratings positively correlated with student self-efficacy and intrinsic motivation, indicating systematic individual differences beyond shared class perceptions. [→ Burić 2020](#buric-2020)

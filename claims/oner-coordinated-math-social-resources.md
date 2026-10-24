@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: gerry-stahl-2013
     resource: "https://doi.org/10.1007/s11412-013-9169-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants solving a dynamic-geometry problem rely on two major resource categories — mathematical/tool-enabled and collaboration resources — and Öner proposes analyzing the coordination of these resources, which characterizes collaborative dynamic-geometry problem solving, as a way to understand productive math learning (a methodological proposal from a case analysis; no learning outcome was assessed). [→ Gerry Stahl 2013](#gerry-stahl-2013)

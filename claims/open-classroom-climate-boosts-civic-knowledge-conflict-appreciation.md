@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: david-e-campbell-2008
     resource: "https://doi.org/10.1007/s11109-008-9063-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An open classroom climate positively affects adolescents' civic knowledge and their appreciation of political conflict, even after controlling for numerous individual, classroom, school, and district characteristics. [→ David E. Campbell 2008](#david-e-campbell-2008)

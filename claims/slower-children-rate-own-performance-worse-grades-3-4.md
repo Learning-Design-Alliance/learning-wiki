@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: desoete-2019
     resource: "https://doi.org/10.1007/s11858-018-01020-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Grades 3 and 4, children evaluated their own performance as worse when they were slower. [→ Desoete 2019](#desoete-2019)

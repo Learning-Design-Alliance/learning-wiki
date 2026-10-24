@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: carter-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01325"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Self-Both participants stayed with their original choice 108 times for yes and 293 times for no, and changed from no to yes 30 times and from yes to no 13 times. [→ Carter 2014](#carter-2014)

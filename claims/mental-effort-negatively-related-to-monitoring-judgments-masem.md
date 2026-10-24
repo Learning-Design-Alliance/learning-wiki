@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: louise-david-2024
     resource: "https://doi.org/10.1007/s10648-024-09903-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 83 independent samples, higher perceived mental effort is associated with lower monitoring judgments of learning. [→ Louise David 2024](#louise-david-2024)

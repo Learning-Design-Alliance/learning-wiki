@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: jansen-2019
     resource: "https://doi.org/10.1016/j.edurev.2019.100292"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors propose that factors other than the coded moderators, such as task motivation and time on task, potentially influence the effectiveness of SRL interventions. [→ Jansen 2019](#jansen-2019)

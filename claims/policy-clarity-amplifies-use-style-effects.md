@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: fan-y-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1969217"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Clear rules strengthened both the protective pattern for reflective use and the risk pattern for unreflective use regarding academic impostor syndrome. [→ Fan Y 2026](#fan-y-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: mccarthy-2011
     resource: "https://eric.ed.gov/?id=ED533408"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fifteen of 16 teachers reported the TEC summer activities increased their motivation and confidence in leading groups. [→ McCarthy 2011](#mccarthy-2011)

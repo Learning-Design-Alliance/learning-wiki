@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yibo-meng-2026
     resource: "https://doi.org/10.48550/arxiv.2606.07765"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A linear mixed-effects model on per-minute depth accuracy found a highly significant Group×Minute interaction (β=+0.030 per minute, p<.001). [→ Yibo Meng 2026](#yibo-meng-2026)

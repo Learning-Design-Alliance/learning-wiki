@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: ramadoni-2022
     resource: "https://doi.org/10.47750/pegegog.12.03.17"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PTFC posttest conceptual understanding (M=78.89) was significantly higher than CFC (M=73.44) after controlling for pretest, F(1,67)=6.51, p=.013. [→ Ramadoni 2022](#ramadoni-2022)

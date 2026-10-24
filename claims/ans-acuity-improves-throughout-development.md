@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: noël-m-p-and-rousselle-l-2011
     title: Noël M-P and Rousselle L 2011
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Number acuity (indexed by w) improves with age, and the article proposes this refinement may be stimulated by manipulation of exact numbers rather than only brain maturation. [→ Noël M-P and Rousselle L 2011](#noel-m-p-and-rousselle-l-2011)

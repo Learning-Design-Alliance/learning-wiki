@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: graf-2026
     resource: "https://doi.org/10.1007/s10639-026-14082-1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the tell condition, no correlation between JoL and any system metric was significant (confidence r = −0.075, progress r = 0.164, mastery r = 0.143). [→ Graf 2026](#graf-2026)

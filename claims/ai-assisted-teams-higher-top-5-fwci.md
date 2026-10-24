@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: haoyang-wang-2026
     resource: "https://doi.org/10.48550/arxiv.2605.27404"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-assisted publications more often reach the top 5% of FWCI (PLoS 7.34% vs 5.01% pre-GPT and 4.31% post-GPT; Nature 7.40%), and logistic coefficients are positive (2.66; 6.36). [→ Haoyang Wang 2026](#haoyang-wang-2026)

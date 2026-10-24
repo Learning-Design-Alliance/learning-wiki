@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2005
+source_checked: 2026-10-20
 sources:
   - id: tim-silva-2005
     resource: "https://www.mathematica.org/publications/process-analysis-on-the-operation-of-the-nih-undergraduate-scholarship-program"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 associational `r?` · `q2`
+> **Currency** · newest study 2005 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

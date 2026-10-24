@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: randi-a-engle-2011
     resource: "https://doi.org/10.1007/s11251-010-9145-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` On the post-tutoring survey, expansive-condition students scored a mean of 39.4 versus 32.4 in the bounded condition on the expansive framing score (d = 1.4; F(1,19) = 10.6, p = .004). [→ Randi A. Engle 2011](#randi-a-engle-2011)

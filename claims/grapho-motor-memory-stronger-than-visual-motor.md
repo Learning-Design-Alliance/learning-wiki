@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1909
 sources:
   - id: patterson-1909
     resource: "https://books.google.com"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 34 usable high school subjects, the results from 29 (85.3 per cent) showed greater grapho-motor than visual-motor memory, while five subjects showed little difference between the two capacities. [→ Patterson 1909](#patterson-1909)

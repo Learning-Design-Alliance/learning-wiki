@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: wade-2020
     resource: "https://doi.org/10.51272/pmena.42.2020-386"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` CFA fit indices met accepted cutoffs, confirming the 4C/ID components have meaningful relationships with observed instructional-experience variables from the FICSMath dataset. [→ Wade 2020](#wade-2020)

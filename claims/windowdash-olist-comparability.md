@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bang-an-2026
     resource: "https://doi.org/10.48550/arxiv.2609.19617"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both datasets contain 15,000 unique orders and nine reference patterns; ratings concentrate at four or five stars in both (77.6% in Olist, 79.5% in WindowDash), cumulative-distribution maxima are 0.084 for ratings, 0.127 for prices, and 0.201 for durations, and pooled Spearman correlations are −0.029/−0.006 for price-rating and −0.222/−0.010 for duration-rating. [→ Bang An 2026](#bang-an-2026)

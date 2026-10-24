@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: haft-stephanie-l-2023
     resource: "https://doi.org/10.1177/00222194221087383"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across six experimental studies (270 participants, eight effect sizes), all effect sizes favored the low-threat condition, but four of eight were non-significant; the largest effects were on academic self-efficacy (g = 1.16) and academic persistence (g = 1.05). [→ Haft Stephanie L. 2023](#haft-stephanie-l-2023)

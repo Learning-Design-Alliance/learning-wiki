@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: drawing-improves-learning
 evidence_strength: unverified
+newest_evidence: 2021
+source_checked: 2026-10-07
 sources:
   - id: zhang-et-al-2021
     resource: "https://doi.org/10.1109/EITT53287.2021.00025"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=3635 (160 effects, 35 studies)
+> **Currency** · newest study 2021 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Drawing Improves Learning -->
 
 Learners who create drawings of to-be-learned material during study learn more than learners who do not draw (g = 0.362) and than learners using other active strategies such as imaging, explaining or re-watching (g = 0.400), in one meta-analysis of 35 STEM studies read from its abstract. No recorded study compares drawing with summarizing, and none covers subjects outside STEM. <!-- deprecated (2026-10-05, stale and overstated: an entry had been added, and it does not compare drawing with reading or summarizing): Learners who create drawings of to-be-learned material during study show better understanding and recall than learners who read or summarize the same material. This page's evidence base has not yet been populated; no effect direction or magnitude should be asserted from it until studies are added. -->

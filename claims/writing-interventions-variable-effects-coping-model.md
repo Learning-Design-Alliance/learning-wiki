@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: kim-m-mitchell-2023
     resource: "https://doi.org/10.1007/s10648-023-09798-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the nine interventional studies, effects on writing performance and writing self-efficacy were variable, sometimes showing improvement and sometimes no change by condition. [→ Kim M. Mitchell 2023](#kim-m-mitchell-2023)

@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: prior-knowledge-needed-for-accurate-self-assessment
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: zell-krizan-2014
     resource: "https://doi.org/10.1177/1745691613518075"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 associational `r?` · `q2`–`q4` · `i2` medium
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 Learners need sufficient domain knowledge to accurately judge their own understanding and performance; without it, self-assessments tend to be miscalibrated.
 

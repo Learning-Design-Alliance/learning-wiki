@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: cunningham-2025
     resource: "https://hdl.handle.net/10446/299265"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Implementation fidelity was good, with four out of five schools consistently delivering all key components of MAST when delivered by teachers in the first year of school. [→ Cunningham 2025](#cunningham-2025)

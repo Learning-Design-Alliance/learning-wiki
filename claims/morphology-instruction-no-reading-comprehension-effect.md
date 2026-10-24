@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: danielle-colenbrander-2024
     resource: "https://doi.org/10.1007/s10648-024-09953-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At immediate post-test, the pooled effect on reading comprehension (SMC/SMD = 0.13) was not statistically distinguishable from zero. [→ Danielle Colenbrander 2024](#danielle-colenbrander-2024)

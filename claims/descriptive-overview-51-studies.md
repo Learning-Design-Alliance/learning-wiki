@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: coppe-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100818"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the 51 included studies, 30 were conducted in the United States, 23 used quantitative designs, 18 mixed methods, and 10 qualitative designs; sample sizes ranged from one teacher to 53 schools and 1,323 teachers. [→ Coppe 2026](#coppe-2026)

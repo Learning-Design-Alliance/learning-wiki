@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Scores on the Digitspan and Shapedance package varied significantly between general-population and autistic candidates, with a small effect (d = 0.22). [→ Willis 2021](#willis-2021)

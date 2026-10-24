@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: moore-2011
     resource: "https://doi.org/10.48550/arxiv.1110.2764"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The correlation between LCTSR pre-score and TUG-K normalized gain (slope 0.64, r=0.59) is stronger than for DIRECT (slope 0.45, r=0.50), consistent with theoretical content depending more on reasoning development. [→ Moore 2011](#moore-2011)

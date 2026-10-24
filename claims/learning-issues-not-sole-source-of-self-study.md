@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 1994
+source_checked: 2026-10-18
 sources:
   - id: dolmans-1994
     resource: "https://doi.org/10.1007/BF00891779"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1994 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A low proportion of variance in self-study topic scores could be predicted from student-generated learning issues, so other factors influence what students study. [→ Dolmans 1994](#dolmans-1994)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: tim-silva-2015
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The retention analyses focus on teachers from six districts served by 12 TRPs, comparing them to a representative sample of non-TRP teachers in their first or second year of teaching in 2011-2012. [→ Tim Silva 2015](#tim-silva-2015)

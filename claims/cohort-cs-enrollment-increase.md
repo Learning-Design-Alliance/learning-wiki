@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: barrow-2020
     resource: "https://eric.ed.gov/?id=ED606832"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cohort enrollment in at least one CS course over four years of high school rose from 8 percent for the 2010-11 cohort to 26 percent for the 2014-15 cohort. [→ Barrow 2020](#barrow-2020)

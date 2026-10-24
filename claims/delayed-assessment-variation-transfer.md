@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: lyn-d-english-and-jane-m-watson-2015
     resource: "https://doi.org/10.1186/s40594-015-0016-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the delayed written assessment (26 marks possible, 66 students), the median score was 18, and many students demonstrated transfer of their understanding of variation to a different scenario. [→ Lyn D English and Jane M Watson 2015](#lyn-d-english-and-jane-m-watson-2015)

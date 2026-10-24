@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: de-la-torre-2021
     resource: "https://consortium.uchicago.edu/publications/English-learners-in-Chicago-Public-Schools-an-exploration-of-the-influence-of-pre-K"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ELs enrolled in pre-k prior to age four showed stronger kindergarten readiness in English language development and early reading skills than those enrolling at age four. [→ de la Torre 2021](#de-la-torre-2021)

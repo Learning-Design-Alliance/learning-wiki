@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: madigan-2020
     resource: "https://doi.org/10.1007/s10648-020-09533-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Objectivity of the achievement measure and gender did not emerge as moderating factors, and burnout manifested similarly for secondary and tertiary students. [→ Madigan 2020](#madigan-2020)

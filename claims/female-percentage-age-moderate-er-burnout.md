@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: ioana-alexandra-iuga-oana-alexandra-david-2024
     resource: "https://doi.org/10.1007/s10648-024-09930-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Higher female percentage is associated with smaller ER difficulties–burnout correlations (β = -0.0055, p < 0.001); mean age shows a similar negative moderation (β = -0.0184, p < 0.01). [→ Ioana Alexandra Iuga · Oana Alexandra David 2024](#ioana-alexandra-iuga-oana-alexandra-david-2024)

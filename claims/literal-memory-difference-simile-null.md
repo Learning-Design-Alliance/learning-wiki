@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: kate-cain-2001
     resource: "https://doi.org/10.3758/bf03196414"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Skilled comprehenders recalled more literal information than less skilled comprehenders. [→ Kate Cain 2001](#kate-cain-2001)

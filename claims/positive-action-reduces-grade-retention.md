@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: wwc-intervention-report-positive-action-2007
     resource: "http://www.positiveaction.net"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i3` large
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Grade retention differed significantly favoring intervention schools (1 versus 6 students retained per 1,000; effect size 1.09). [→ WWC Intervention Report: Positive Action 2007](#wwc-intervention-report-positive-action-2007)

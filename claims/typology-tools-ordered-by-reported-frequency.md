@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: matt-bower-2026
     resource: "https://doi.org/10.35542/osf.io/4eqrk_v1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within each of the nine categories, tools are listed from most frequently used to least frequently used based on the number of educators reporting use. [→ Matt Bower 2026](#matt-bower-2026)

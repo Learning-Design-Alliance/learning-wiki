@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
+recheck_by: 2022
 sources:
   - id: thomas-coen-2019
     resource: "https://www.mathematica.org/publications/an-impact-that-lasts-kipp-middle-schools-boost-college-enrollment"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` The evidence base is a long-term tracking study of 1,177 students who applied through 5th- or 6th-grade admissions lotteries in 2008 or 2009 to enter one of 13 oversubscribed KIPP middle schools. [→ Thomas Coen 2019](#thomas-coen-2019)

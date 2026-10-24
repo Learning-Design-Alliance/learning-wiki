@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1991
 sources:
   - id: easton-1991
     resource: "https://consortium.uchicago.edu/publications/charting-reform-teachers-turn"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More than half of teachers said reform had not affected their classroom practices, and only 45 percent see the SIP as changing their instructional practices despite two-thirds believing the SIP will make the school better. [→ Easton 1991](#easton-1991)

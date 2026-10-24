@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: strong
+newest_evidence: 2022
 sources:
   - id: colin-lescarret-2022
     resource: "https://doi.org/10.21203/rs.3.rs-1998147/v1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A strong simple effect of Source on perceived expertise (η²p=.417): the researcher was rated more expert than the consumer. [→ Colin Lescarret 2022](#colin-lescarret-2022)

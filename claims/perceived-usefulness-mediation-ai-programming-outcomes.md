@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: fan-2025
     resource: "https://doi.org/10.1186/s40594-025-00537-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Indirect effects through perceived usefulness were significant for CLS, SPQ, and performance, while the direct effect on performance remained significant, indicating partial mediation. [→ Fan 2025](#fan-2025)

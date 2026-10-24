@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liu-y-2026
     title: Liu Y 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effort expectancy (β = −0.317, p = 0.038) and facilitating conditions (β = −0.200, p = 0.028) showed significant negative associations with behavioral intention, contradicting H2 and H4a. [→ Liu Y 2026](#liu-y-2026)

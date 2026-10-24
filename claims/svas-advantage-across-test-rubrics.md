@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: tetiana-zubenko-2022
     resource: "https://doi.org/10.20535/2410-8286.250501"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On rubrics 1a, 1b, 3 and 4 of the End-of-Experiment test, the SVAS group scored 91.8%, 71.4%, 90 and 83.6% while the Comparison group scored 74.5%, 36.5%, 64.6% and 66.9% respectively. [→ Tetiana Zubenko 2022](#tetiana-zubenko-2022)

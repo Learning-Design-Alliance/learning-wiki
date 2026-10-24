@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: darling-hammond-2020
     resource: "http://learningpolicyinstitute.org/product/restarting-reinventing-school-covid"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` School designs that support caring and continuity in student-teacher relationships are more able to address trauma and strengthen achievement than traditional factory-model schools. [→ Darling-Hammond 2020](#darling-hammond-2020)

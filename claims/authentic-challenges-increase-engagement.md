@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1998
 sources:
   - id: newmann-1998
     resource: "https://consortium.uchicago.edu/publications/quality-intellectual-work-chicago-schools-baseline-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students exposed to authentic intellectual challenges are more engaged in their schoolwork than students exposed to more conventional schoolwork. [→ Newmann 1998](#newmann-1998)

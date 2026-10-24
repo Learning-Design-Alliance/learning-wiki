@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: a-committee-of-five-representing-the-association-of-teachers-of-psychology-in-iowa-1911
     resource: "https://www.apa.org/pubs/journals/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Professor W. P. Dearborn's study of pupils' relative standing in high school and university demonstrated that students maintain to a marked degree the same relative ranking they held in the high school. [→ A committee of five representing the Association of Teachers of Psychology in Iowa 1911](#a-committee-of-five-representing-the-association-of-teachers-of-psychology-in-iowa-1911)
@@ -47,3 +49,4 @@ Second-hand report: the article summarizes Dearborn's Wisconsin study as backgro
 - [Students tended to hold the same relative rank from the first to the last trials of practice, with a small positive correlation between initial and final standing.](relative-rank-stable-across-practice.md) — related
 - [Correlations between individual gains in code practice and gains in the tests were generally small and positive, with the largest correlation for the code-translation test and a slight negative correlation for Test 5 suggesting interference between translating into and from code.](small-positive-gain-correlations-negative-for-code-translation.md) — related
 - [The article's own correlation study uses 106 Iowa City records covering at least the last four elementary years and first two high-school years](iowa-city-106-records-correlation-study.md)
+- [Average elementary school standing correlates strongly with average high school standing (r = +.71)](elementary-high-school-standing-correlation-71.md) — related

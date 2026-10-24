@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: yu-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18861"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Basic Education, CoT raises Qwen3-30B-A3B's Final Pass from 10.0% to 27.7% and Qwen3-4B-2507's from 3.2% to 20.8%, but Llama-3.1-8B's Validity declines from 19.2% to 14.6%. [→ Yu Liu 2026](#yu-liu-2026)

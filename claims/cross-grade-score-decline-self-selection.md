@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: wei-he-2022
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-tests/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Descriptive statistics show average test scores decreased as grades increased for each course-specific test, with lower-grade students tending to perform better and achieve more between-term growth than students at the targeted grade. [→ Wei He 2022](#wei-he-2022)

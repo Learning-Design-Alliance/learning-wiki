@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: satoshi-takahashi-2026
     resource: "https://doi.org/10.48550/arxiv.2609.25790"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Cronbach's α between HDR problems and a reading-comprehension control problem was low (0.36 for the original, 0.41 for the ChatGPT-generated problem), indicating HDR measures an ability unrelated to simple reading comprehension. [→ Satoshi Takahashi 2026](#satoshi-takahashi-2026)

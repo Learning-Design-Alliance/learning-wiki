@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: roschelle-2019
     resource: "https://doi.org/10.1186/s41039-019-0107-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` In the USA, low-income schools focus the most on testing and have the fewest resources to sustain interest-driven activities, with most time, energy, and money going to test prep. [→ Roschelle 2019](#roschelle-2019)

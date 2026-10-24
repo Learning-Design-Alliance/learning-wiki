@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: naihobe-gonzalez-2023
     resource: "https://www.mathematica.org/publications/evaluation-of-tntps-turnaround-leadership-teams-strategy-2018-2022"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Across Cohort 2 (2019–2020) and Cohort 3 (2020–2021) schools, TNTP achieved fidelity for diagnosing school needs and for developing and supporting SLTs. [→ Naihobe Gonzalez 2023](#naihobe-gonzalez-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: oakes-2020
     resource: "https://learningpolicyinstitute.org/product/improving-education-new-mexico-way"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` On average, 40% fewer students were learning at grade level in mathematics in high-poverty schools compared to peers in schools serving lower concentrations of low-income students. [→ Oakes 2020](#oakes-2020)

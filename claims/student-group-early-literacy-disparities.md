@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: lemke-2023
     resource: "https://eric.ed.gov/?id=ED638519"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 76 percent of economically disadvantaged students were ever below benchmark versus 53 percent of non–economically disadvantaged students, a relative risk of 1.4; English learner and Hispanic students also had relative risks of 1.4, special education students 1.3, and Black students 1.2. [→ Lemke 2023](#lemke-2023)

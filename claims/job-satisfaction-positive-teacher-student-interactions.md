@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: wartenberg-2023
     resource: "https://doi.org/10.1007/s10648-023-09831-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Job satisfaction correlates positively with emotional support (r = 0.14), classroom management (r = 0.18), instructional support (r = 0.10), and general teacher-student interaction (r = 0.28). [→ Wartenberg 2023](#wartenberg-2023)

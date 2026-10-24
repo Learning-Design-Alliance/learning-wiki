@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: pas-p-2021
     resource: "https://doi.org/10.1016/j.dcn.2021.101012"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During reactive inhibition, self-regulation scores showed a moderate relationship with coupling between the left motor cortex and right striatum (p = 0.04); during proactive inhibition there was no effect (p = 0.37). [→ Pas P. 2021](#pas-p-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: lisette-hornstra-2023
     resource: "https://doi.org/10.1007/s10648-023-09788-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In high expectation classrooms students showed average achievement gains of d = 1.05 over one academic year, versus d = 0.05 in low expectation classes. [→ Lisette Hornstra 2023](#lisette-hornstra-2023)

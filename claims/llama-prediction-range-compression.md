@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: john-maurice-gayed-2026
     resource: "https://doi.org/10.48550/arxiv.2606.12801"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` LLaMA never predicts below 2.0 and assigns 85 essays a score of 4.0 but only 16 at 4.5 and 2 at 5.0, despite ground truth containing 46 and 25 essays at those levels; Gemma's prediction distribution more closely mirrors the ground truth. [→ John Maurice Gayed 2026](#john-maurice-gayed-2026)

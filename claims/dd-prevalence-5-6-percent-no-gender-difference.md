@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: devine-2017
     resource: "https://doi.org/10.1037/edu0000222"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Using mathematics performance below 1 SD below the mean with reading above 1 SD below the mean, 99 children (5.6%) met DD criteria, with similar numbers of girls and boys. [→ Devine 2017](#devine-2017)

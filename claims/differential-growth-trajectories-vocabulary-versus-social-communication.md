@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: ramsook-k-ashana-2020
     resource: "https://doi.org/10.1111/sode.12425"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Vocabulary showed significant linear increases (b = 4.61, p < .001) with acceleration (b = 1.71, p < .01); social communication showed linear increases (b = .36, p < .001) with deceleration (b = −.22, p < .001). [→ Ramsook K. Ashana 2020](#ramsook-k-ashana-2020)

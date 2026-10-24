@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: jueng-2026
     resource: "https://doi.org/10.48550/arxiv.2607.10802"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across 10 seeds, the greedy policy learned by the tool's Q-learning rule lies in the optimal action set for 98.5% of non-terminal states on average, with maximum absolute value error averaging 0.34. [→ Jueng 2026](#jueng-2026)

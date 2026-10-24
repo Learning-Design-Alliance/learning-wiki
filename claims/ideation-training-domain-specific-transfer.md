@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: gu-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100784"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Verbal ideation training produced significant increases in both verbal and figural creativity, while figural training improved only figural tasks. [→ Gu 2026](#gu-2026)

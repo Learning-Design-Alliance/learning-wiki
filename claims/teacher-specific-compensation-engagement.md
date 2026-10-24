@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-24
 sources:
   - id: núñez-regueiro-2024
     resource: "https://hal.science/hal-04920252v1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When discrepancy between peer and teacher relatedness was high, high teacher relatedness compensated for low peer relatedness in supporting engagement. [→ Núñez-Regueiro 2024](#nunez-regueiro-2024)

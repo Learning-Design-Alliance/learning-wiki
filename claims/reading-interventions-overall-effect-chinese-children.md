@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: yijun-ruan-2024
     resource: "https://doi.org/10.1007/s10648-024-09915-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 28 RCTs, existing reading interventions had a significant overall effect on Chinese children's literacy achievement of g = 0.68. [→ Yijun Ruan 2024](#yijun-ruan-2024)

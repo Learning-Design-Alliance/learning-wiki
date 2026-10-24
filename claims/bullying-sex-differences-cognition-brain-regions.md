@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: menken-miriam-s-2023
     resource: "https://doi.org/10.1016/j.dcn.2023.101247"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Bullied girls performed worse than non-bullied girls on the processing speed task, while boys performed similarly regardless of bullying status; no bullying-by-sex interaction was significant. [→ Menken Miriam S. 2023](#menken-miriam-s-2023)

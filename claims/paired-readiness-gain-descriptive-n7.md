@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In a small paired pre/post assessment (N=7) using a preliminary, unvalidated six-item instrument, scores increased from pre-session (M=82.5%, SD=15.5%) to post-session (M=89.9%, SD=17.5%), a mean gain of 7.4 percentage points; five of seven clients improved, one remained at ceiling, and one declined. [→ readiness-1](#readiness-1)

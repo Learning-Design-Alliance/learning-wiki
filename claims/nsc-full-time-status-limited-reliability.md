@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: jenny-nagaoka-and-shelby-mahaffie-2020
     resource: "https://consortium.uchicago.edu/publications/tracking-two-year-college-outcomes"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` 17.6 percent of students attempted at least 12 credit hours in fall 2012 per ICCB records, while NSC data contained full-time enrollment for only 12.9 percent of students. [→ Jenny Nagaoka and Shelby Mahaffie 2020](#jenny-nagaoka-and-shelby-mahaffie-2020)

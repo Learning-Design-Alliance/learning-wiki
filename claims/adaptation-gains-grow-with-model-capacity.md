@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: rashid-azraf-jahin-2026
     resource: "https://doi.org/10.48550/arxiv.2610.00664"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Accuracy improvements increase monotonically with parameter count (+5.5, +15.0, +23.3 pp from 0.6B to 4B), observed across accuracy, Token F1 and BERTScore. [→ Rashid Azraf Jahin 2026](#rashid-azraf-jahin-2026)

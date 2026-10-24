@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 919 students, 813 (88.5%) used only text prompting, 44 (4.8%) only voice, and 62 (6.7%) both. [→ usage-counts](#usage-counts)

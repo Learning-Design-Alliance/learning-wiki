@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: maëlle-neveu-2023
     resource: "https://doi.org/10.1007/s10648-023-09722-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Six of seven cohort or longitudinal studies showed FMS significantly predicted arithmetic skills years later, with effect sizes the review describes as ranging from very small to large without printed values. [→ Maëlle Neveu 2023](#maelle-neveu-2023)

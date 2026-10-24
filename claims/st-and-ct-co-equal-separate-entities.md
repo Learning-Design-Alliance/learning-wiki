@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: namsoo-shin-2022
     resource: "https://doi.org/10.1007/s11251-022-09590-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Although CT and ST overlap and support each other, the authors view them as co-equal in the modeling context and define them as separate entities in the framework, distinguishing CT's design of efficient computational solutions from ST's construction and analysis of relationships for generalization. [→ Namsoo Shin 2022](#namsoo-shin-2022)

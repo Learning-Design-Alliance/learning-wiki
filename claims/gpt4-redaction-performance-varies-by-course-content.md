@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: s-singhal-2024
     resource: "https://doi.org/10.5281/zenodo.12729884"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Cohen's Kappa between GPT-4 and human redactions ranged from 0.267 (Poetry) to 0.843 (Design), with lower performance in courses with longer average posts and frequent mentions of public figures or historical locations. [→ S. Singhal 2024](#s-singhal-2024)

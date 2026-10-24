@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: robert-m-dekeyser-2000
     resource: "https://doi.org/10.1017/S0272263100004022"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The findings replicate those of Johnson and Newport (1989) and provide an explanation for the apparent exceptions in their study. [→ Robert M. DeKeyser 2000](#robert-m-dekeyser-2000)

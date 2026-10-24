@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: survey-1
     title: survey-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among surveyed developers of certified products, 73% strongly agreed and 27% agreed that grounding in learning sciences research lets them more clearly name their expected impact on learning, and 57% strongly agreed and 43% agreed it makes evaluating impact easier. [→ survey-1](#survey-1)

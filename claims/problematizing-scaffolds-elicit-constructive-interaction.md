@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: molenaar-2011
     resource: "https://doi.org/10.1007/s11412-011-9130-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Discourse excerpts show structuring scaffolds followed by implementation or elaboration of the example, and problematizing scaffolds triggering chains of co-constructed metacognitive activities. [→ Molenaar 2011](#molenaar-2011)

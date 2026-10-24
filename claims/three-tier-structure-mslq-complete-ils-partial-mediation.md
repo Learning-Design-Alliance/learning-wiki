@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: loyens-2008
     resource: "https://doi.org/10.1007/s11251-008-9065-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For the MSLQ model, relations between conceptions and cognitive strategy use were entirely mediated by self-regulation (Δχ² nonsignificant). [→ Loyens 2008](#loyens-2008)

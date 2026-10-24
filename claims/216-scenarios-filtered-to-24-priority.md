@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: gibson-2025
     resource: "https://doi.org/10.48550/arxiv.2605.24142"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The six-node model with stated constraints generates 216 mathematically valid scenarios, and four sequential constraint-based filters reduce this to 24 priority scenarios distributed as 6 novice, 10 developing, and 8 expert/adaptive. [→ Gibson 2025](#gibson-2025)

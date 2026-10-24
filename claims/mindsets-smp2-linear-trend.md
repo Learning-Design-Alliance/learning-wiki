@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
+recheck_by: 2030
 sources:
   - id: gage-2025
     resource: "https://eric.ed.gov/?id=ED677579"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i2` The linear effect of time on Ability to Reason benchmark level was significant (b = 1.41, p = .006; d ≈ 0.78), while the quadratic term was non-significant. [→ Gage 2025](#gage-2025)

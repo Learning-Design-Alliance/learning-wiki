@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: goal-setting-improves-performance
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: wood-et-al-1987
     resource: "https://doi.org/10.1037/0021-9010.72.3.416"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3`–`q4` · `i1`–`i2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 Setting a goal raises performance or behavior change on average, by a medium effect for specific, difficult goals on work and laboratory tasks (smaller on complex tasks) and a small one across randomized behavior-change trials, mostly in health. Neither recorded meta-analysis studies academic learning outcomes, so applying the claim to learning is an inference.
 <!-- deprecated (2026-10-05, stale beside two recorded entries): The claim is currently a placeholder: no scope or mechanism has been specified and no evidence has been curated yet (see Subclaims and Evidence below). -->

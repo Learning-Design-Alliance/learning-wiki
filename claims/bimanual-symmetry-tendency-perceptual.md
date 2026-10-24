@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: dor-abrahamson-franz-mechsner-2022
     resource: "https://doi.org/10.1007/s10648-022-09668-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Mechsner et al.'s (2001) four-hand-position variant of Kelso's paradigm, the symmetrical oscillation pattern remained stable at high frequencies regardless of hand position, while the parallel pattern switched to symmetry, supporting a psychological over a physiological interpretation. [→ Dor Abrahamson · Franz Mechsner 2022](#dor-abrahamson-franz-mechsner-2022)

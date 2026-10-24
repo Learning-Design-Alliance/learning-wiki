@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: kielstra-2022
     resource: "https://doi.org/10.1007/s11412-022-09365-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students improved in determining a correct task representation of high-level tasks and in reflecting on the most appropriate reading strategy after working with the collaboration script. [→ Kielstra 2022](#kielstra-2022)

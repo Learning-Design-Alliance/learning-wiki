@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: fred-paas-john-sweller-2011
     resource: "https://doi.org/10.1007/s10648-011-9179-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Moved by Reading intervention, in which children act out sentences with toys physically, by imagining, or via computer manipulation, yields substantially better comprehension than re-reading. [→ Fred Paas & John Sweller 2011](#fred-paas-john-sweller-2011)

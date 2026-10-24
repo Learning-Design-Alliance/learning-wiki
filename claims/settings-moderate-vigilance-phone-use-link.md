@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: liao-2026
     resource: "https://doi.org/10.1007/s11251-026-09794-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The positive effect of SV on PUF was stronger in the NR group than in the NH group (moderation β = −0.468, p = .001, f² = 0.106; group paths β = 0.477 vs 0.389). [→ Liao 2026](#liao-2026)

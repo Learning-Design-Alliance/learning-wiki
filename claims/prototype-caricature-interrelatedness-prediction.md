@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1996
 sources:
   - id: goldstone-1996
     resource: "https://doi.org/10.3758/bf03201087"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The framework predicts a prototype advantage for purely isolated concepts and a growing caricature advantage as interrelatedness increases. [→ Goldstone 1996](#goldstone-1996)

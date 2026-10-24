@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: patrick-phuoc-do-2026
     resource: "https://doi.org/10.48550/arxiv.2607.15176"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Gemini-3.1-Pro-Preview achieves 88.6% overall accuracy on SVLAT, exceeding the human overall accuracy, while Qwen3.5-9B (68.8%), InternVL3.5-8B (64.3%), and LLaVA-OneVision (64.1%) trail humans in combined accuracy. [→ Patrick Phuoc Do 2026](#patrick-phuoc-do-2026)

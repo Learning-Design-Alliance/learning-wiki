@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: kuhfeld-2019
     resource: "https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness-paper/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Only the fall-to-fall linear growth difference between unadjusted and filtered models was significant at the .05 level; other parameter differences were not significant and magnitudes were modest. [→ Kuhfeld 2019](#kuhfeld-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1996
+source_checked: 2026-10-20
 sources:
   - id: t-sima-paribakht-and-marjorie-wesche-1996
     resource: "https://doi.org/10.1017/CBO9781139524643.013"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 1996 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The chapter's classroom experiments use instructional procedures designed to increase the salience and cognitive processing of targeted words encountered by L2 students in reading texts, aiming to make incidental acquisition more directed and efficient. [→ T. Sima Paribakht and Marjorie Wesche 1996](#t-sima-paribakht-and-marjorie-wesche-1996)

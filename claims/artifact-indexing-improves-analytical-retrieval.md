@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: dawei-xie-2026
     resource: "https://doi.org/10.48550/arxiv.2605.17259"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On 20 analytical queries whose evaluative vocabulary does not appear in student speech, transcript-only retrieval achieved Recall@5 = .371, while combining all artifact types yielded the strongest performance (Recall@5 = .739, Recall@10 = .804, MRR@5 = .942). [→ Dawei Xie 2026](#dawei-xie-2026)

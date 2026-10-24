@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: eason-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2602.14477"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The comment Gini coefficient of 0.91 substantially exceeds MOOC forum values (0.5–0.7) and Stack Overflow values (0.7–0.8). [→ Eason Chen 2026](#eason-chen-2026)

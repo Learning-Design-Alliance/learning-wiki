@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: gerry-stahl-2013
     resource: "https://doi.org/10.1007/s11412-013-9185-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In the WoW data, arguments extend over brief chat postings of multiple players reacting to each other, constituting a transactive, collaborative, or group argument presented by a sequence of interacting team members rather than an individual thinker. [→ Gerry Stahl 2013](#gerry-stahl-2013)

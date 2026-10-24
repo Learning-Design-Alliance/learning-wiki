@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: kulik-2016
     resource: "https://doi.org/10.3102/0034654315581420"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2`–`r3` · `q2`–`q4`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Test type was the study feature most strongly related to effect size: average ES was 0.73 for local tests, 0.13 for standardized tests, and 0.45 for both. [→ Kulik 2016](#kulik-2016)

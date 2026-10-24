@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: van-den-driessche-2019
     resource: "https://doi.org/10.1038/s41598-019-46761-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` More distant consecutive animals in word2vec semantic space yielded longer inter-item response times. [→ Van den Driessche 2019](#van-den-driessche-2019)

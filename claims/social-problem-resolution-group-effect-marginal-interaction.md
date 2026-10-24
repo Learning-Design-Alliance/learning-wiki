@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: honoré-n-2020
     title: Honoré N 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across testing times the experimental group scored higher on the RES (5.34 ± 0.76) than the control group (5.04 ± 0.87; group effect η² = 0.044), and the interaction was marginal (p = 0.069). [→ Honoré N 2020](#honore-n-2020)

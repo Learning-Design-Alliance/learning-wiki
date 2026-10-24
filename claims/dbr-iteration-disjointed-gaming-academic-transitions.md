@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: mørch-2024
     resource: "https://doi.org/10.1007/s11412-024-09432-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student teachers reported that the transitions between gaming and academic work in the first iteration were disjointed and should be smoother, leading the team to add a domain-knowledge-acquisition step and an excursion to a historical site in iteration 2. [→ Mørch 2024](#mrch-2024)

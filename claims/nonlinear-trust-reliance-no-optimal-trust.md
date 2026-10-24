@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: griffin-pitts-2026
     resource: "https://doi.org/10.48550/arxiv.2604.01114"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A quadratic trust term improved model fit (R2 = .185 vs. .173) and was significant (b = 0.56, p = .011). [→ Griffin Pitts 2026](#griffin-pitts-2026)

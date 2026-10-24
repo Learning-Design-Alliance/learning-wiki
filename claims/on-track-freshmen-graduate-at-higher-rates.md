@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: allensworth-2005
     resource: "https://consortium.uchicago.edu/publications/track-indicator-predictor-high-school-graduation"
@@ -40,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r2`, 1 associational `r3`, 1 design `r2` · `q2`–`q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 

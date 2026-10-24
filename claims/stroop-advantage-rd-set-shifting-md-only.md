@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: willcutt-2013
     resource: "https://doi.org/10.1177/0022219413477476"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only groups with math difficulties showed significant weakness on set shifting, and groups with reading difficulties outperformed controls on Stroop interference. [→ Willcutt 2013](#willcutt-2013)

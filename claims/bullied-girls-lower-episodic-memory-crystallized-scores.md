@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: menken-2022
     resource: "https://doi.org/10.3389/fpsyg.2022.925727"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Bullied girls had lower visuospatial sequencing/memory and crystallized composite scores than non-bullied girls. [→ Menken 2022](#menken-2022)

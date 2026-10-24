@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 1,145 answered decision demands, 15.3% got an answer that was not a decision; after the agent's second ask, 55% ended in a commitment averaging 3.82 in certainty, about half a point below every other kind. [→ second-ask](#second-ask)

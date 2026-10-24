@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2019
 sources:
   - id: van-leeuwen-2019
     resource: "https://doi.org/10.1007/s11412-019-09299-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Conditions differed significantly in number of indicator views (F(2,50) = 5.03, η2 = 0.167), with a specific mirroring-versus-alerting difference (d = 0.52). [→ van Leeuwen 2019](#van-leeuwen-2019)

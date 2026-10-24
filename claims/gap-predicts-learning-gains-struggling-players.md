@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: ventura-2013
     resource: "https://eric.ed.gov/?q=Assessing+Persistence+in+Educational+Games"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The GAP related to post-test scores of low performers even after controlling for gender, video game experience, physics pretest, and enjoyment (pr = 0.26, p < 0.05). [→ Ventura 2013](#ventura-2013)

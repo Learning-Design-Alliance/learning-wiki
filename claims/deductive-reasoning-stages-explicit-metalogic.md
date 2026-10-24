@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: demetriou-2011
     resource: "https://doi.org/10.1007/s10648-011-9178-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Awareness of inference first appears at about ages 5-6, when inference becomes explicit but logic remains implicit. [→ Demetriou 2011](#demetriou-2011)

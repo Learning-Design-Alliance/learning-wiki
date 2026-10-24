@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: easton-2023
     resource: "https://consortium.uchicago.edu/publications/lasting-differences"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In unweighted points the gender difference was largest in assignments (6.13) and smallest in assessments (3.47); after weights were applied, assessments showed the largest difference (4.06) and assignments near zero (0.11), with a total weighted difference of 4.11 points. [→ Easton 2023](#easton-2023)

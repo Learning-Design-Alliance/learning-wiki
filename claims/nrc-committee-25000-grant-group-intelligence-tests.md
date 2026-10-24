@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1919
 sources:
   - id: bell-1919
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Early in 1919 a special committee of the National Research Council, chaired by R. M. Yerkes, secured a $25,000 grant from the General Education Board to work out a series of intelligence tests for use with school children. [→ Bell 1919](#bell-1919)

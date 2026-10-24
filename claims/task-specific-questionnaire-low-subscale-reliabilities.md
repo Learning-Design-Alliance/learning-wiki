@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
+recheck_by: 2014
 sources:
   - id: gonny-schellings-2011
     resource: "https://doi.org/10.1007/s11409-011-9069-5"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In Study 1 (n=16) the full 58-item instrument reached α=.87 but subscales ranged from α=.26 (Executing) to α=.85 (Elaboration & evaluation); in Study 2 (n=190) the full instrument reached α=.79 with subscales from α=.35 to α=.69. [→ Gonny Schellings 2011](#gonny-schellings-2011)

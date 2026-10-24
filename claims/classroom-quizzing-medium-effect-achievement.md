@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: strong
+newest_evidence: 2021
+source_checked: 2026-10-19
 sources:
   - id: yang-2020
     resource: "https://doi.org/10.1037/bul0000309"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i2` medium
+> **Currency** · newest study 2021 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Across 222 independent classroom studies integrating 48,478 students' data, quizzing raises academic achievement with a medium pooled effect size (g = 0.499). [→ Yang 2020](#yang-2020)

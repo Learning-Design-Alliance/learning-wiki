@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: islem-rekik-2026
     resource: "https://doi.org/10.48550/arxiv.2605.16292"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 2026, a pronounced shift toward human intelligence emerged in opening-lecture polls, with 90% of students in a Design Thinking for AI course favoring investment in human intelligence. [→ Islem Rekik 2026](#islem-rekik-2026)

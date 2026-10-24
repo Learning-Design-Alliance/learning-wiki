@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: winstone-2017
     resource: "https://doi.org/10.1080/00461520.2016.1207538"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learners with positive academic self-concepts increased self-reported effort after feedback whereas those with negative self-concepts did not, and the relation between achievement and proactive recipience is not always positive. [→ Winstone 2017](#winstone-2017)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: van-leeuwen-2019
     resource: "https://doi.org/10.1007/s11412-019-09299-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the between-subjects experiment (n = 53), the type of dashboard support (mirroring, alerting, or advising) did not influence detection of events, but did influence teachers' interpretation of the CSCL situation. [→ van Leeuwen 2019](#van-leeuwen-2019)

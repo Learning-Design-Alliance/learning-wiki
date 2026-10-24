@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: wendt-2019
     resource: "https://eric.ed.gov/?id=ED601907"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The evaluation operationalized implementation with fidelity as at least 85 percent of a grade level's students enrolled in ST Math during the year and at least 50 percent of grade-level material covered on average. [→ Wendt 2019](#wendt-2019)

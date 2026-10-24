@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: shupin-li-johanna-pöysä-tarhonen-päivi-häkkinen-2022
     resource: "https://doi.org/10.1007/s11412-022-09369-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study did not find a significant difference across pairs in alternating sequences of two or three actions (reciprocity and triadic patterns). [→ Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen 2022](#shupin-li-johanna-poysa-tarhonen-paivi-hakkinen-2022)

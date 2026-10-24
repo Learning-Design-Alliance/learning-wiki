@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: lortie-forgues-2017
     title: Lortie-Forgues 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Contrary to expectation, no student explained WD multiplication judgments with decimals below one via repeated addition; many explanations were compatible with an unanticipated part-whole logic. [→ Lortie-Forgues 2017](#lortie-forgues-2017)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: stephan-vonschallen-2026
     resource: "https://doi.org/10.48550/arxiv.2607.22345"
@@ -39,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Teachy Mini linked 81.5% of its claims to the lecture slides while the control robot never provided sources. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)

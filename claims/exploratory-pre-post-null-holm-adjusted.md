@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: hochberg-n-and-waitzman-r-2026
     resource: "https://doi.org/10.3389/feduc.2026.1905833"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Reflective teaching was descriptively higher post-program (mean difference 0.40, Hedges' g = 0.41) with a confidence interval including zero, and none of the four comparisons was statistically significant after Holm adjustment. [→ Hochberg N and Waitzman R 2026](#hochberg-n-and-waitzman-r-2026)

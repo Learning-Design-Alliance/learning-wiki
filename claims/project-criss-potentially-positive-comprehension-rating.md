@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: project-criss-creating-independence-through-student-owned-strategies-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/388"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Based on two studies meeting evidence standards, the WWC assigned Project CRISS® its potentially positive effects rating for the comprehension domain, with an average improvement index of +20 percentile points ranging from –2 to +38. [→ Project CRISS® (CReating Independence through Student-owned Strategies) 2010](#project-criss-creating-independence-through-student-owned-strategies-2010)

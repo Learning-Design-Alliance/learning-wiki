@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: margina-ruiter-sofie-loyens-fred-paas-2015
     resource: "https://doi.org/10.1007/s10648-015-9324-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Gender was related to final math test scores (β=0.23, t(113)=2.45, p=0.016), with boys (M=8.40, SD=2.39) outperforming girls (M=7.27, SD=2.73). [→ Margina Ruiter & Sofie Loyens & Fred Paas 2015](#margina-ruiter-sofie-loyens-fred-paas-2015)

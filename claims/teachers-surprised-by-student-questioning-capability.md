@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: iwatani-2020
     resource: "https://doi.org/10.51388/20.500.12265/93"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Many teachers found that student-generated questions matched or exceeded what they would have asked, while also discovering students lacked experience in questioning, sensemaking, and independent research. [→ Iwatani 2020](#iwatani-2020)

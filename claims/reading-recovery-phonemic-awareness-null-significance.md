@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2013
 sources:
   - id: reading-recovery-2013
     resource: "http://www.readingrecovery.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Schwartz (2005) reported no statistically significant differences on phonemic awareness measures, though effects were positive and met the WWC substantively-important threshold of at least 0.25. [→ Reading Recovery® 2013](#reading-recovery-2013)

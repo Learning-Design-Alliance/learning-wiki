@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: linn-damsgaard-2022
     resource: "https://doi.org/10.1007/s10648-022-09671-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The whole-body movement group improved letter-sound naming significantly more than the control group from T1 to T2 (p < 0.001, d = 2.8) and from T1 to T3 (p < 0.05, d = 0.7). [→ Linn Damsgaard 2022](#linn-damsgaard-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rogat-2026
     resource: "https://doi.org/10.1007/s11251-025-09772-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Concurrent correlations among behavioral, collaborative, metacognitive, and disciplinary engagement ratings were positive and primarily moderate to large (e.g., CE-DE r = 0.63), while socioemotional engagement correlated near zero with the other dimensions. [→ Rogat 2026](#rogat-2026)

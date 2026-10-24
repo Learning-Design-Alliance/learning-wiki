@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: tan-2026
     resource: "https://doi.org/10.54300/248.479"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Schools with the highest NSLP-eligibility share had 18.3% turnover, with a leaver rate (8.7%) higher than the lowest-poverty schools' leaver rate (7.5%). [→ Tan 2026](#tan-2026)

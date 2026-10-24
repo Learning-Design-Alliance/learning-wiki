@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: rose-e-wang-2025
     resource: "https://doi.org/10.48550/arxiv.2410.03017"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` The study did not find statistically significant improvements in end-of-year math test scores, which the authors attribute to little variation in treatment exposure and the two-month duration. [→ Rose E. Wang 2025](#rose-e-wang-2025)

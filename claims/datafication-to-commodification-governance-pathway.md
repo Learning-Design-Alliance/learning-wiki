@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: adeeb-obaid-alsuhaymi-and-fouad-ahmed-atallah-2026
     resource: "https://doi.org/10.3390/su18031257"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-driven digitalization can shift education toward commodification through the pathway datafication → platform governance → market-aligned accountability → commodification, and this pathway is institutionally mediated rather than technologically inevitable. [→ Adeeb Obaid Alsuhaymi and Fouad Ahmed Atallah 2026](#adeeb-obaid-alsuhaymi-and-fouad-ahmed-atallah-2026)

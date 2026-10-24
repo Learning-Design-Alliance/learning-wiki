@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: chai-rui-2026
     resource: "https://doi.org/10.1038/s41598-026-51608-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Learners with reinforcement learning-optimized content sequencing showed approximately 2.2 times higher normalized learning gains than those following fixed curricula (Cohen's d = 1.34), with stronger engagement maintained throughout training. [→ Chai Rui 2026](#chai-rui-2026)

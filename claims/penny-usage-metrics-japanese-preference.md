@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: steve-woollaston-2026
     resource: "https://doi.org/10.48550/arxiv.2607.14575"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the semester learners averaged about 39 writing sessions and 177 messages each, and chose Japanese for 98.16% of chatbot messages versus 1.84% in English. [→ Steve Woollaston 2026](#steve-woollaston-2026)

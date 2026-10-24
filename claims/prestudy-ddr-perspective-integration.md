@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: heimbuch-2018
     resource: "https://doi.org/10.1007/s11412-018-9283-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q1` · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` At t1 the odds of incorporating the partner's evidence into answers on the pirate-status question were 10.80 times higher for DDR dyads, χ²(1, N = 28) = 7.34, p = .007; the conviction question showed no relevant differences. [→ Heimbuch 2018](#heimbuch-2018)

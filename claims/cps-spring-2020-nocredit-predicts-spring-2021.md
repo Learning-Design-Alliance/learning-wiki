@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: gwynne-2022
     resource: "https://www.cps.edu/about/departments/office-of-equity/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in grades 4-8 with at least one no-credit grade in spring 2020 were more than twice as likely to earn at least one no-credit grade in spring 2021 (34 percent vs. 13 percent); 11,892 students (14 percent) earned no-credit grades in both spring terms. [→ Gwynne 2022](#gwynne-2022)

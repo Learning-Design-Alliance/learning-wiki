@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: öztürk-2023
     resource: "https://doi.org/10.29329/epasr.2023.600.13"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between-group tests for cooperative learning model (computer-supported vs face-to-face), outcome type, quality, bias status, and report type were non-significant. [→ Öztürk 2023](#ozturk-2023)

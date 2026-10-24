@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: hossain-2026
     resource: "https://doi.org/10.48550/arxiv.2607.14301"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Confirmatory factor analyses of six competing models indicated support for a five-factor structure with Strategic reliance split into two facets. [→ Hossain 2026](#hossain-2026)

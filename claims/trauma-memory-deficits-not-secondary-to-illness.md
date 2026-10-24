@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: majer-m-2010
     resource: "https://doi.org/10.1186/1471-2377-10-61"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The cognitive deficits linked to childhood trauma were found in adults free of current medical or psychiatric illness, suggesting they are not secondary to such conditions. [→ Majer M 2010](#majer-m-2010)

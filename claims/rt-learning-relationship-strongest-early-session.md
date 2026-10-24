@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the earliest session quartile, RT propensity is modestly but significantly negatively correlated with learning rate (r = −0.12, p < .001), whereas later-slice correlations are smaller and not statistically reliable. [→ slice-1](#slice-1)

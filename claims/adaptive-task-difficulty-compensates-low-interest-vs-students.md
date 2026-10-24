@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: mixed
+newest_evidence: 2025
+source_checked: 2026-10-22
 sources:
   - id: sarah-i-hofer-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102177"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For vocational school students, the positive effect of adaptive task difficulty declined for highly-interested students, supporting the hypothesized compensatory interaction for interest. [→ Sarah I. Hofer 2025](#sarah-i-hofer-2025)

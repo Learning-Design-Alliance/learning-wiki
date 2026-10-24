@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhenxin-zhang-2026
     resource: "https://doi.org/10.1186/s41239-026-00607-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` After PPO optimization, all four evaluated policy–reward configurations achieved competitive QWK, with LLaMA2-7B-based configurations slightly outperforming Qwen2.5-Instruct-7B-based ones and Mistral-7B reward models generally stronger than GPT2-XL. [→ Zhenxin Zhang 2026](#zhenxin-zhang-2026)

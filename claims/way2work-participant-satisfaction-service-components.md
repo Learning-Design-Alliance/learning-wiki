@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: frank-martin-2021
     resource: "https://www.mathematica.org/publications/way2work-maryland-demonstration-final-implementation-evaluation-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The evaluation summarizes findings on participants' satisfaction with selected Way2Work Maryland service components. [→ Frank Martin 2021](#frank-martin-2021)

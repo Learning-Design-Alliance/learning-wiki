@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sarah-shi-hui-wong-2026
     resource: "https://doi.org/10.1007/s11251-026-09819-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Spot-explain-fix and derr-explain-fix both outperformed errorless practice on the design critique test (both ds = 0.37) and did not differ from each other. [→ Sarah Shi Hui Wong 2026](#sarah-shi-hui-wong-2026)

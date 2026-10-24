@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: penuel-et-al-2022
     resource: "https://doi.org/10.1080/07370008.2021.2010207"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · n=27 participants (19 teachers, 7 researchers, 1 district science coordinator); 12-member "Unit Lead" core team meeting weekly for 2 years (2019-2020)
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Across a two-year co-design partnership, teachers and researchers reported that specific tools — unpacking standards, writing target explanations, collecting disaggregated student-interest data, and rehearsing unit launches with peers — each directly supported balancing the dual goals of standards coverage and student/community interest, while also producing new critical perspectives on how the process itself should change.
 

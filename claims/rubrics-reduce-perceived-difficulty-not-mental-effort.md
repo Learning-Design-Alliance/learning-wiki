@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: rebecca-krebs-2022
     resource: "https://doi.org/10.1007/s11409-022-09302-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The rubric group perceived forming self-assessments as easier than the control group (d = 0.52), while mental effort did not differ (d = 0.16). [→ Rebecca Krebs 2022](#rebecca-krebs-2022)

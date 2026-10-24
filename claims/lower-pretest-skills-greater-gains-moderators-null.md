@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: honoré-n-2020
     title: Honoré N 2020
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Change in the EF factor correlated negatively with EF factor at pre-test (r = −0.457) and change in the social cognition factor with social cognition at pre-test (r = −0.535), both p < 0.001. [→ Honoré N 2020](#honore-n-2020)

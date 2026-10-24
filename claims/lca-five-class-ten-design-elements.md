@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: alqassab-2023
     resource: "https://doi.org/10.1007/s10648-023-09723-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The 5-class model had the lowest BIC (31,462.1) and CAIC (31,864.1); ten design elements with R² > 0.20 discriminated between classes, led by unit of assessment assessee (R² = 0.880) and group constellation (R² = 0.681). [→ Alqassab 2023](#alqassab-2023)

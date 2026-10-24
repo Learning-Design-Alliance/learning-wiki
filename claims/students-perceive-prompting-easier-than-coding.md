@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: victor-alexandru-pădurean-2026
     resource: "https://doi.org/10.1145/3765964.3811639"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students tended towards agreeing that it was easier to solve problems by writing natural language than by writing code, with a mean Likert response of 3.80 (SD = 0.93), significantly greater than the neutral midpoint. [→ Victor-Alexandru Pădurean 2026](#victor-alexandru-padurean-2026)

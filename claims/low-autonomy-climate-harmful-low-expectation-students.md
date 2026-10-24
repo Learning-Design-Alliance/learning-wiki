@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-23
 sources:
   - id: trouilloud-et-al-2006
     resource: "https://doi.org/10.1037/0022-0663.98.1.75"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · n=421 students in 22 classes
+> **Currency** · newest study 2006 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In low autonomy-supportive classrooms, the perceived competence of students labeled with low expectations was weaker than that of students associated with high expectations and/or in a high autonomy-supportive climate (Figure 2). [→ Trouilloud et al. 2006](#trouilloud-et-al-2006)

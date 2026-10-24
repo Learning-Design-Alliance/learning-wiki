@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-17
 sources:
   - id: jiang-hongzhan-2026
     resource: "https://doi.org/10.2196/95167"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Evidence from the 3 RCTs supports short-term gains in communication confidence and structured knowledge, but shows limited or inferior effects for tactile psychomotor skills compared to standardized patients. [→ Jiang Hongzhan 2026](#jiang-hongzhan-2026)

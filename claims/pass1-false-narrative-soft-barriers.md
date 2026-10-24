@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A drop in Pass@1 under intervention does not necessarily mean the barrier failed, since both successful barriers and model failures reduce Pass@1 with opposite meanings. [→ pass1-analysis](#pass1-analysis)

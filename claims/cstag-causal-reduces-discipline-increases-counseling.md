@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: depaoli-2025
     resource: "https://doi.org/10.54300/808.437"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: Causal studies find CSTAG reduces exclusionary discipline and bullying and increases counseling, with fidelity moderating effects -->
 
 ## Subclaims

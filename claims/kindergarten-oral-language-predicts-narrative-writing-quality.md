@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: kim-young-suk-2015
     resource: "https://doi.org/10.1016/j.lindif.2014.11.009"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Kindergarten oral language (vocabulary, grammatical knowledge, sentence memory) was independently related to narrative writing quality in third grade (β = .35, p < .001). [→ Kim Young-Suk 2015](#kim-young-suk-2015)

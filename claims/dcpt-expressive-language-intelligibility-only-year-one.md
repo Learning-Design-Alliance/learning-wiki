@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2004
 sources:
   - id: horn-2004
     resource: "https://doi.org/10.1016/j.ics.2004.07.048"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Correlations between the dCPT and speech intelligibility were more modest and significant only to the p<0.05 level, with a printed coefficient of r = 0.42 at postimplant year 1, and after controlling for age and length of CI use, relations with expressive language and intelligibility remained significant only at 1 year post implantation. [→ Horn 2004](#horn-2004)

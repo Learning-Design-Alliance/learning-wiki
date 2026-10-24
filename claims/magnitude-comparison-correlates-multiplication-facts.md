@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: schleepen-tmj-2016
     title: Schleepen TMJ 2016
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children faster at comparing symbolic and nonsymbolic magnitudes are also faster at solving multiplication fact problems, with correlations remaining significant after controlling for general reaction time. [→ Schleepen TMJ 2016](#schleepen-tmj-2016)

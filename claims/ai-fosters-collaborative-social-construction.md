@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-13
 sources:
   - id: li-2025
     resource: "https://doi.org/10.4236/ce.2025.1611114"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers perceive that AI tools move students from individual work toward collaboration and critical review of AI-generated outputs. [→ Li 2025](#li-2025)

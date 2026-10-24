@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: what-works-clearinghouse-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/419"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 18 studies reviewed, only one met WWC evidence standards (with reservations), so the extent of evidence for the comprehension domain is small and other domains were not examined. [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)

@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: learning-strategy-instruction-contextualized-more-effective
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: okkinga-et-al-2018
     resource: "https://doi.org/10.1007/s10648-018-9445-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i1` small · n=17 experimental comparisons (16 language arts, 1 content area)
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Strategy instruction is more effective when contextualized in authentic content-area tasks -->
 
 The hypothesis this page tracks is that strategy instruction is more effective when strategies are taught within authentic content-area tasks rather than as generic, decontextualized routines. No study recorded here tests it directly, and the one quantitative comparison recorded points the other way (see the subclaim and entry below).

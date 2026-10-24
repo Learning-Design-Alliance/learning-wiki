@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: mixed
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: kristin-reedy-2015
     resource: "https://eric.ed.gov/?id=ED559729"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average fall-to-spring gains in the percentage of students at benchmark were positive for reading (largest in kindergarten and first grade) and for math except third grade, with the largest math gain in kindergarten. [→ Kristin Reedy 2015](#kristin-reedy-2015)

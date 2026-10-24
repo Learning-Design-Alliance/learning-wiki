@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2013
+source_checked: 2026-10-17
 sources:
   - id: read-naturally-updated-july-2013-wwc-intervention-report-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/407"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across four studies including 440 students, Read Naturally® had mixed effects on reading fluency, with an average improvement index of +7 percentile points (range +1 to +18). [→ Read Naturally® Updated July 2013 — WWC Intervention Report 2013](#read-naturally-updated-july-2013-wwc-intervention-report-2013)

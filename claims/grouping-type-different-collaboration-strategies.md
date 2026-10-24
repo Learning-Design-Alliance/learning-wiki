@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: ting-chia-hsu-2021
     resource: "https://doi.org/10.1007/s11412-021-09357-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Heterogeneous groups B and C showed significantly different complexity of behaviors and inconsistent OI and BCO patterns, attributable to different cooperation strategies such as working separately versus completing part of the synchronization step by step. [→ Ting-Chia Hsu 2021](#ting-chia-hsu-2021)

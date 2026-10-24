@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: dunlosky-2013
     resource: "https://doi.org/10.1177/1529100612453266"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Undergraduates who answered interspersed why-prompts while studying a human digestion text outperformed controls on a true/false test even after controlling for prior knowledge and verbal ability. [→ Dunlosky 2013](#dunlosky-2013)

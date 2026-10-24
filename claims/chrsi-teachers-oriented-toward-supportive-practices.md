@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: stevens-2006
     resource: "https://consortium.uchicago.edu/publications/professional-communities-and-instructional-improvement-practices-study-small-high"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most discussions about instruction happened informally between pairs of teachers and provided short-term assistance, and teachers rarely used group meetings to discuss systemic aspects of core instructional practices. [→ Stevens 2006](#stevens-2006)

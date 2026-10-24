@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: joachim-wirth-2020
     resource: "https://doi.org/10.1007/s10648-020-09568-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Instructional aids beneficial for novices became ineffective or negative for performance and mental effort as expertise increased, and fading-out prompts produced higher learning outcomes than permanent prompts. [→ Joachim Wirth 2020](#joachim-wirth-2020)

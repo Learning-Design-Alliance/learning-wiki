@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: nagaoka-2016
     resource: "http://consortium.uchicago.edu/publications/educational-attainment-chicago-public-schools-students-2015-focus-four-year-college"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Six years after high school graduation, 8 percent of students who immediately enrolled in a two-year college and 4 percent of students who did not immediately enroll had earned a four-year degree, compared to 50 percent of immediate four-year college enrollees. [→ Nagaoka 2016](#nagaoka-2016)

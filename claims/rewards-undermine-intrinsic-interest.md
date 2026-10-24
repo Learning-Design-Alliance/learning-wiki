@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1994
+source_checked: 2026-10-22
 sources:
   - id: kohn-1994
     resource: "https://eric.ed.gov/?id=ED376990"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 1994 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the kefir study, children rewarded for drinking an unfamiliar beverage found it significantly less appealing a week later, while unrewarded children liked it as much as or more than before. [→ Kohn 1994](#kohn-1994)

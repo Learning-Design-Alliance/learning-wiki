@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: inge-molenaar-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2019.05.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Curve form differed significantly across subskills of increasing difficulty, chi-square χ2(df = 6, N = 265) = 73.91, p < 0.001. [→ Inge Molenaar 2021](#inge-molenaar-2021)

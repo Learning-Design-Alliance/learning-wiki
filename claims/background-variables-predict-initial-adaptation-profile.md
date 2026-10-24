@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wu-y-2026
     title: Wu Y 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Relative to the maladaptive profile, higher self-rated proficiency (OR = 1.68, p = 0.003), more frequent AI use (OR = 1.42, p = 0.012), and prior AI-related training (OR = 2.16, p < 0.001) predicted positive-profile membership; gender, age, year of study, and major status were not significant. [→ Wu Y 2026](#wu-y-2026)

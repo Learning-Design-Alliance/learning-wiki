@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: margaret-sullivan-2015
     resource: "https://www.mathematica.org/publications/implementing-the-virginia-rethinks-health-sciences-education-taaccct-grant"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` College-specific barriers related to resources, time, and local labor market conditions limited implementation of the proposed statewide E-HLTH career studies certificate. [→ Margaret Sullivan 2015](#margaret-sullivan-2015)

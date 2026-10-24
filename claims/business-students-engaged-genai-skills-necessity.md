@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: drummond-2026
     resource: "https://doi.org/10.53761/6jvtax83"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a mixed-methods survey of 149 first-year undergraduates at a UK business school following newly implemented AI-focused learning activities, students reported high engagement and recognised the necessity of developing GenAI skills for their future careers. [→ Drummond 2026](#drummond-2026)

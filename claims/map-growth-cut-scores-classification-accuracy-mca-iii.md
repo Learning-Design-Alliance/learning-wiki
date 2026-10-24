@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2024
 sources:
   - id: ann-hu-2021
     resource: "https://www.nwea.org/resource/type/linking-studies/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Overall classification accuracy of MAP Growth spring RIT cuts against MCA-III Mathematics proficiency ranges from 0.87 to 0.90 across Grades 2–8, with AUCs from 0.78 to 0.88. [→ Ann Hu 2021](#ann-hu-2021)

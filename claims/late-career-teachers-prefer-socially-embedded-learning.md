@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: brouhier-2026
     resource: "https://doi.org/10.1016/j.edurev.2025.100757"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review identifies late-career teachers' preference for socially embedded and collaborative learning opportunities, such as mentoring, dialogue and reflective practice. [→ Brouhier 2026](#brouhier-2026)

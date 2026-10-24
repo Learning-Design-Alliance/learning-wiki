@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: abry-2017
     resource: "https://doi.org/10.1007/s11121-016-0743-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The strongest relations between Responsive Classroom component use and interaction quality emerged for teachers with the lowest baseline interaction quality. [→ Abry 2017](#abry-2017)

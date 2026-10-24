@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
 sources:
   - id: takeuchi-2020
     resource: "https://doi.org/10.1080/07370008.2020.1825438"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cathy and Iris used survey data and graphs to persuade audiences (peers, teachers, principal, school council), and their leader identities thickened into “agents of change.” [→ Takeuchi 2020](#takeuchi-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: dos-santos-kawata-kh-2021
     title: dos Santos Kawata KH 2021
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` CMS metacognition score showed a significant positive weak correlation with BCIS self-reflectiveness (r = 0.16, p = 0.047). [→ dos Santos Kawata KH 2021](#dos-santos-kawata-kh-2021)

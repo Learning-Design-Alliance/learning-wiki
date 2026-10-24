@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-09
+recheck_by: 2028
 sources:
   - id: alison-cheng-2025
     resource: "https://doi.org/10.18608/jla.2025.8761"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · checked against its sources 2026-10-09 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Applying ThresholdOptimizer produced a significant decrease in Demog_Parity_Diffs bias at all stages (p-value < 0.005) with very large effect sizes, but increased PPDs bias. [→ Alison Cheng 2025](#alison-cheng-2025)

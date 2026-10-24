@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: r-schoonen-2003
     resource: "https://doi.org/10.1111/1467-9922.00213"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` L2 writing proficiency correlated more strongly with L1 writing proficiency than with either L2 linguistic knowledge or accessibility of that knowledge. [→ R. Schoonen 2003](#r-schoonen-2003)

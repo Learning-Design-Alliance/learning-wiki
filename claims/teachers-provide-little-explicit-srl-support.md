@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-22
+recheck_by: 2026
 sources:
   - id: charlotte-dignath-2021
     resource: "https://doi.org/10.1007/s11409-021-09285-5"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers typically provide only little explicit support for SRL, indicating a gap between SRL research and classroom practice. [→ Charlotte Dignath 2021](#charlotte-dignath-2021)

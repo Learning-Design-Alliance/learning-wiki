@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: gomathy-ramaswami-2023
     resource: "https://doi.org/10.18608/jla.2023.7935"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the 30 participants, the share classified as high-risk dropped from 59% at week 4 (before dashboard access) to 39% by week 6. [→ Gomathy Ramaswami 2023](#gomathy-ramaswami-2023)

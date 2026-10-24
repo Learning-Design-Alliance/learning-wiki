@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: guo-2016
     resource: "https://doi.org/10.1177/2332858415626884"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Latent correlations showed self-concept was most strongly correlated with low cost (r = .82) and intrinsic value (r = .80), and moderately with attainment value (r = .55) and utility value (r = .45). [→ Guo 2016](#guo-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: manyee-wong-2015
     resource: "https://doi.org/10.1080/19345747.2013.878011"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Adding multiple design elements to the basic ITS structure serves to promote causal inference by limiting alternative interpretations, as demonstrated using No Child Left Behind as an example. [→ Manyee Wong 2015](#manyee-wong-2015)

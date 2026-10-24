@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: sanna-järvelä-carolyn-rosé-2021
     resource: "https://doi.org/10.1007/s11412-021-09348-4"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In-depth analysis revealed differences between teacher guidance and support depending on teacher perceptions and group outcomes. [→ Sanna Järvelä · Carolyn Rosé 2021](#sanna-jarvela-carolyn-rose-2021)

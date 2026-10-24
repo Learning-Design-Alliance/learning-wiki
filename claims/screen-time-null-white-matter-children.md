@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: marciano-laura-2021
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a large sample of 10-year-olds, screen time was not significantly associated with any global DTI metrics including FA and MD. [→ Marciano Laura 2021](#marciano-laura-2021)

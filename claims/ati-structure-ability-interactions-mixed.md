@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2009
 sources:
   - id: pashler-2009
     resource: "https://journals.sagepub.com/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some studies found ability-by-structure crossovers (low-ability learners better with high structure, high-ability with low structure), while other studies in different domains found no interaction. [→ Pashler 2009](#pashler-2009)

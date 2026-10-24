@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-18
+recheck_by: 2025
 sources:
   - id: megan-kuhfeld-2020
     resource: "https://doi.org/10.3102/0013189X20965918"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The projections indicate losing ground during school closures was not universal, with the top third of students potentially making gains in reading. [→ Megan Kuhfeld 2020](#megan-kuhfeld-2020)

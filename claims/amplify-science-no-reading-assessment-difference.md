@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: harris-2023
     resource: "https://eric.ed.gov/?id=ED638494"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` There were essentially no differences in standardized Iowa reading performance between intervention and comparison students at year's end, with an effect size below 0.01. [→ Harris 2023](#harris-2023)

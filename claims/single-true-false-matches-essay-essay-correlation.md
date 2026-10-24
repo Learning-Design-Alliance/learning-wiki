@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1920
 sources:
   - id: arthur-i-gates-1920
     resource: "https://eric.ed.gov/?q=true-false+test+as+a+measure+of+achievement+in+college+courses+gates"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The true-false with essay correlation (.33) is as high as the average essay-essay inter-correlation (.35), and the standard errors indicate real differences between these coefficients are improbable. [→ Arthur I. Gates 1920](#arthur-i-gates-1920)

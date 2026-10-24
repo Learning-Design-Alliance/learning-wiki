@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: lemke-2024
     resource: "https://eric.ed.gov/?id=ED663858"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who receive special education services, are English learners, or come from a low income background are more likely to be identified as at significant risk of reading difficulty, and the chances increase as these characteristics intersect. [→ Lemke 2024](#lemke-2024)

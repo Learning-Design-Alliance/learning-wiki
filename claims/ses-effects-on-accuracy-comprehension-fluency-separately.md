@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: strong
+newest_evidence: 2021
 sources:
   - id: li-2021
     resource: "https://www.frontiersin.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the reading comprehension model, the indirect effect through vocabulary knowledge (β = 0.10) was larger than through phonological awareness (β = 0.05), consistent with vocabulary being more instrumental for comprehension. [→ Li 2021](#li-2021)

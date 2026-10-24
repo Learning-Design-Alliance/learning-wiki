@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: howard-ziyu-han-2026
     resource: "https://doi.org/10.48550/arxiv.2608.04166"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` On the reconsideration item, both the Stepwise Guidance and Interactive Engagement groups scored significantly higher than Self Reflection, with a large omnibus effect (ε² = .19). [→ Howard Ziyu Han 2026 (2)](#howard-ziyu-han-2026-2)

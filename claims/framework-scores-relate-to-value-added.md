@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: elias-walsh-2013
     resource: "https://www.mathematica.org/publications/classroom-observations-from-phase-2-of-the-pennsylvania-teacher-evaluation-pilot-assessing-internal-consistency-score-variation-and-relationships-with-value-added"
@@ -40,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 

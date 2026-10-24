@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: mismatched-graphic-organizers-increase-extraneous-load
 evidence_strength: low
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: schnotz-baadte-2015
     resource: "https://doi.org/10.3758/s13421-014-0490-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium · n=157 (Experiment 1) and n≈134 (Experiment 2), German university students
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Mismatched Graphic Organizers Increase Extraneous Load -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): A graphic organizer helps learning only when its structure matches the structure of the content and the task; a mismatched organizer forces learners to reconcile two incompatible representations, consuming working-memory resources that do not contribute to schema construction. -->

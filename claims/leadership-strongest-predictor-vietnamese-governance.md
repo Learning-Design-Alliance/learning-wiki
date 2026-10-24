@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: truong-2025
     resource: "https://doi.org/10.22521/edupij.2025.19.605"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In a multiple linear regression on survey data from 455 respondents, leadership was the strongest and most significant predictor of governance effectiveness (β = 0.21, p < 0.001). [→ Truong 2025](#truong-2025)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-13
+recheck_by: 2023
 sources:
   - id: allensworth-2018
     resource: "https://ncs.uchicago.edu/freshman-on-track-toolkit"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-13 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students entering high schools where students generally feel safe and supported tend to come to school more often and have higher grades than similar students entering schools with weaker school climates. [→ Allensworth 2018](#allensworth-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2013
 sources:
   - id: bing-ru-teh-2010
     resource: "https://www.mathematica.org/publications/student-achievement-in-new-york-city-middle-schools-affiliated-with-achievement-first-and-uncommon-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` After three years, the estimated reading impact of attending these NYC charter middle schools is statistically significant and substantively meaningful, translating to an estimated additional 0.7 years of growth. [→ Bing-ru Teh 2010](#bing-ru-teh-2010)

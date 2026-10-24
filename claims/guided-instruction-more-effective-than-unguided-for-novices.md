@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: fred-paas-2010
     resource: "https://doi.org/10.1007/s10648-010-9133-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A body of controlled-experiment research shows that relatively guided instructional procedures supported by cognitive load theorists are more effective, at least for novice students, than relatively unguided procedures used by advocates of discovery or inquiry learning. [→ Fred Paas 2010](#fred-paas-2010)

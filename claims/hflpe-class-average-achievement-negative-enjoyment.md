@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: basarkod-2023
     resource: "https://osf.io/kb29h/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Class-level achievement negatively predicted student-level enjoyment in all three domains: math (β = -.173), science (β = -.124), reading (β = -.070, considered trivial). [→ Basarkod 2023](#basarkod-2023)

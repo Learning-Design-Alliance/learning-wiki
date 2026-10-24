@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: meyer-2023
     resource: "https://doi.org/10.1007/s10648-023-09736-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q4` · `i0` negligible
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i0` Neuroticism shows more negative correlations in STEM (ρ = –0.09) than language (ρ = –0.03) domains and with test scores (ρ = –0.10) than grades (ρ = –0.03). [→ Meyer 2023](#meyer-2023)
@@ -68,3 +70,4 @@ In the specific comparisons, test scores showed more negative neuroticism correl
 - [For agreeableness, the language–STEM difference in achievement correlations is significant only for test scores, yielding a significant domain × measure interaction](agreeableness-domain-measure-interaction.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
+- [Student-reported teacher neuroticism negatively predicts student performance self-efficacy, with effects that differ across mathematics and English](teacher-neuroticism-predicts-performance-self-efficacy.md) — related

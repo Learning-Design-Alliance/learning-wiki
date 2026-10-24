@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ivory-2026
     resource: "https://doi.org/10.1007/s10805-026-09729-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On MCQs requiring students to run R code, ChatGPT could not execute code itself and produced code with incorrect object names; when run with the dataset named correctly, accuracy was 60%. [→ Ivory 2026](#ivory-2026)

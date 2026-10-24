@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-18
 sources:
   - id: takako-nomi-2010
     resource: "https://consortium.uchicago.edu/publications/effects-tracking-supports-instructional-climate-and-student-outcomes-high-school"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Peers in double-dose algebra were more likely to be absent by one day and have disciplinary problems by 0.07 SD than classmates in pre-policy algebra classes. [→ Takako Nomi 2010](#takako-nomi-2010)

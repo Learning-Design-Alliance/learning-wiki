@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: keller-2021
     resource: "http://dx.doi.org/10.1037/edu0000685"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Across six PISA cycles and 82 countries, only 40% of students in the top 5% in mathematics were female, a female-to-male ratio of 1:1.50. [→ Keller 2021](#keller-2021)

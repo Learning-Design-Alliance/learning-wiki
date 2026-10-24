@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zachery-quince-and-emily-faulconer-2026
     resource: "https://doi.org/10.1186/s40594-026-00651-w"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Assessment 1 (Purpose-Specific Use), student usage was dominated by Learning (54.5%) and Formatting (40.9%). [→ Zachery Quince and Emily Faulconer 2026](#zachery-quince-and-emily-faulconer-2026)

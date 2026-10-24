@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: fu-l-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1900061"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Procedural justice at Time 2 significantly predicted intrinsic motivation at Time 3 (β = 0.16) but not extrinsic motivation (β = 0.04, p = 0.310). [→ Fu L 2026](#fu-l-2026)

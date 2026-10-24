@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-17
 sources:
   - id: sofia-postell-2025
     resource: "https://www.nwea.org/research/publication/technical-appendix-for-hot-test-days-lower-math-scores-how-heat-affects-student-achievement/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The report examines the impact of environmental temperatures on student performance in math and reading. [→ Sofia Postell 2025](#sofia-postell-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: terrell-2026
     resource: "https://eric.ed.gov/?id=ED681373"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When surveyed about their main support in dual enrollment courses, OUSD students identified the point person at higher rates than the instructor, peers, or family. [→ Terrell 2026](#terrell-2026)

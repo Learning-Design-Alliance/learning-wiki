@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: ehrenfeld-stengel-2025
     resource: "https://doi.org/10.1080/10508406.2025.2468205"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2` · n=2 teacher teams, one over 1 year (3 video-feedback sessions), one over 2+ years (6 sessions plus a Year 3 follow-up)
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 Reflective, video-based examination of one's own practice appears most generative during a teacher team's problematization and conservation phases, while invoking and experimenting with external practices, frameworks, or curricular resources appears more generative during reorganization and growth phases — meaning the same PD design can produce very different trajectories for two teams depending on what phase (per the [adaptive cycles framework](../theories/adaptive-cycles-framework.md)) they enter it in and what resources their broader context provides.
 

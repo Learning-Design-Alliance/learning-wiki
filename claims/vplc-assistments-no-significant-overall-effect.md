@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-17
 sources:
   - id: huang-2025
     resource: "https://eric.ed.gov/?id=ED677665"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On average, treatment students scored 0.67 points higher than their virtual comparison group, a difference that was not statistically significant at the .05 level (p = 0.172). [→ Huang 2025](#huang-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: pittaway-2014
     resource: "https://doi.org/10.14221/ajte.2014v39n7.10"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors' emerging understanding is that learning communities in fully-online units require deliberate design and scaffolding, with staff and students establishing intellectual, academic, social, personal, and professional presence. [→ Pittaway 2014](#pittaway-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: gehlbach-2010
     resource: "https://doi.org/10.1007/s10648-010-9138-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that in-group members usually allocate more resources to, cooperate more with, and evaluate more positively members of their own group, even under trivial group designations. [→ Gehlbach 2010](#gehlbach-2010)

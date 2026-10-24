@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: wang-2025
     resource: "https://doi.org/10.54300/600.551"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eighty-four percent of LEAs offered full-day TK in 2023–24, up from 82%, and 87% provided an expanded learning option, while 13% offered none. [→ Wang 2025](#wang-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-19
 sources:
   - id: what-works-clearinghouse-2007
     resource: "http://www.devstu.org/csrd/cdp_index.html"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two studies meeting WWC standards with reservations, the behavior domain average improvement index was +8 percentile points, ranging from –2 to +27. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

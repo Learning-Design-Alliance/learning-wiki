@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: huib-k-tabbers-2010
     resource: "https://doi.org/10.1007/s11251-009-9119-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Knowledge increase correlated significantly with number of slides viewed (r = .47) and menu clicks (r = .46), but interactive behavior measures showed no significant correlation with transfer. [→ Huib K. Tabbers 2010](#huib-k-tabbers-2010)

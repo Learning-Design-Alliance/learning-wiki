@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: meer-2009
     resource: "https://doi.org/10.1007/s10648-009-9097-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` One meta-analysis found the effect of MS on cognitive tasks (M = 1.44) significantly larger than on motor (M = 0.43) or strength (M = 0.20) tasks, and MS effectiveness increases with the cognitive involvement of the task. [→ Meer 2009](#meer-2009)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: laura-meyer-2024
     resource: "https://www.mathematica.org/publications/impacts-of-blended-learning-tutoring-models-on-math-achievement-after-covid-19"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Saga had larger impacts on students with lower prior achievement in math and on Black students. [→ Laura Meyer 2024](#laura-meyer-2024)

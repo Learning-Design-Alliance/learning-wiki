@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: lorna-uden-gwo-jen-hwang-2026
     resource: "https://doi.org/10.1007/s40692-026-00398-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Because GAI can autonomously generate complete solutions, classical scaffolding theories risk cognitive substitution; LEARN therefore redefines scaffolding to require learners to interrogate, evaluate, justify, and reflect on AI-generated content. [→ Lorna Uden · Gwo-Jen Hwang 2026](#lorna-uden-gwo-jen-hwang-2026)

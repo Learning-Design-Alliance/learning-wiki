@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zabaleta-2026
     resource: "https://doi.org/10.48550/arxiv.2609.11559"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among LLM papers, 54% report an unmet high bar, 40% parameter or prompt sensitivity, 32% limited validation, and 45% small or narrow data; software/product papers report the same categories less often. [→ Zabaleta 2026](#zabaleta-2026)

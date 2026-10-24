@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: what-works-clearinghouse-2014
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/630"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across six RCTs meeting WWC standards without reservations, effects on academic achievement, degree attainment, postsecondary enrollment, credit accumulation, and progress in developmental education were neither statistically significant nor substantively important. [→ What Works Clearinghouse 2014](#what-works-clearinghouse-2014)

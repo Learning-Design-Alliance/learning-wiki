@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: porowski-2024
     resource: "https://ies.ed.gov/use-work/resource-library/reports/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 18 interventions, 12 incorporate a structured curriculum, 8 are designed for small-group delivery only, five have embedded progress monitoring tools, and eight include discrete assessment tools. [→ Porowski 2024](#porowski-2024)

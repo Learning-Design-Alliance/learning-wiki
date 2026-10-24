@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: stormark-km-2019
     title: Stormark KM 2019
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mediation through internalizing and externalizing problems was significant for all DIMS groups, but a significant relative direct effect on poor school performance remained only in the Persistent DIMS group (log odds ratio 0.7076, p < .001). [→ Stormark KM 2019](#stormark-km-2019)

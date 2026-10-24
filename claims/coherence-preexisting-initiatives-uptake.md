@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: hernández-2023
     resource: "https://doi.org/10.54300/621.856"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When RCS work aligned with or reinforced efforts already underway, such as restorative practices initiatives, it was more readily embraced because it was understood as enhancing other initiatives. [→ Hernández 2023](#hernandez-2023)

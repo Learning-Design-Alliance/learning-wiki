@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: pierroux-et-al-2022
     resource: "https://doi.org/10.1080/10508406.2022.2025813"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · n=4 students (ages 12-13) analyzed in depth from a workshop of 20 students, ~8 hours of focal-group video from a 35-hour total corpus
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 The same adolescent group produced shared, distributed creative influence during a well-defined modeling task with accessible materials, and unproductive social conflict during an ill-defined form-design task with resource-constrained materials — with a formally designated "expert" role failing to protect a student's merit-based argument from being overridden by peer social dominance in the latter task.
 

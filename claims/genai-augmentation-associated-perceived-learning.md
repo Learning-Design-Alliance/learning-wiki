@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: manikonda-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18676"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` SHAP rankings from a gradient-boosting classifier indicate greater perceived learning benefits when students perceive GenAI as improving work quality, creativity, organizing ideas, skill confidence, and discovering insights. [→ Manikonda 2026](#manikonda-2026)

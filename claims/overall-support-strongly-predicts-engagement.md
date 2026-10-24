@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: graham-2023
     resource: "https://doi.org/10.24059/olj.v27i3.4001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a structural equation model, the regression path from Support for Academic Engagement to Academic Engagement was significant (p < .001) with β = 0.915. [→ Graham 2023](#graham-2023)

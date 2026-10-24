@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: tam-nguyen-2026
     resource: "https://doi.org/10.48550/arxiv.2607.14044"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article's survey of related work finds no surveyed framework covers end-to-end results from knowledge acquisition through successful industry assessment, incorporates claim-level verification, or validates against an external certification standard. [→ Tam Nguyen 2026](#tam-nguyen-2026)

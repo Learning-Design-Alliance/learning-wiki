@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
+recheck_by: 2019
 sources:
   - id: rosenberg-lee-2014
     resource: "https://doi.org/10.1111/desc.12216"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` gPPI analysis revealed children with DD had greater IPS connectivity than TD children with bilateral middle, superior and left inferior frontal gyri, bilateral supramarginal and angular gyri, ventral medial prefrontal cortex, and anterior and posterior cingulate cortex. [→ Rosenberg-Lee 2014](#rosenberg-lee-2014)

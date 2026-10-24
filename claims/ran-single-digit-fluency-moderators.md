@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: koponen-2017
     resource: "https://doi.org/10.1037/edu0000182"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Single- vs. multi-digit calculation type was a significant within-study moderator (β = .14, p < .01), correlations higher for single-digit calculations. [→ Koponen 2017](#koponen-2017)

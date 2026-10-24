@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: demetriou-2011
     resource: "https://doi.org/10.1007/s10648-011-9178-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A detailed study of reasoning found inductive reasoning develops in three main levels from age 6 to age 12. [→ Demetriou 2011](#demetriou-2011)

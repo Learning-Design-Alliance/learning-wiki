@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: angevine-2019
     resource: "https://doi.org/10.51388/20.500.12265/86"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Over 10 years, Tamarack's collective impact model produced significant poverty reductions, with a number of cities reporting a 10 percent reduction and overall positive impact for 202,931 low-income Canadians. [→ Angevine 2019](#angevine-2019)

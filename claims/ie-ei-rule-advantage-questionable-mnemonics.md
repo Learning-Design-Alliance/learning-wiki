@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: cook-1917
     resource: "https://scholar.google.com/scholar?q=%22Shall+we+teach+spelling+by+rule%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most collegians who cited the ie-ei rule as consciously used relied on the word Alice and other mnemonic devices giving a clue to only one or two of the 11 words, so their slight superiority does not seem entirely due to the rule itself. [→ Cook 1917](#cook-1917)

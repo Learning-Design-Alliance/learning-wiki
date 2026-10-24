@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
+recheck_by: 2024
 sources:
   - id: bulthé-jessica-2019
     resource: "https://doi.org/10.1016/j.neuroimage.2018.06.012"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Whole-brain and ROI-based univariate analyses found no significant group differences in activation for either format. [→ Bulthé Jessica 2019](#bulthe-jessica-2019)

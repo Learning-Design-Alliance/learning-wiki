@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: anne-m-cleary-2026
     resource: "https://doi.org/10.1007/s10648-026-10188-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that learners' impressions during learning tend to be the opposite of outcomes: they feel restudying helps more than testing despite testing producing better retention. [→ Anne M. Cleary 2026](#anne-m-cleary-2026)

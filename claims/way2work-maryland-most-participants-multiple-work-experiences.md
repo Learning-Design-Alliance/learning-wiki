@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: frank-martin-2021
     resource: "https://www.mathematica.org/publications/way2work-maryland-demonstration-final-implementation-evaluation-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most participants (92 percent) had at least one work experience during their participation in Way2Work Maryland. [→ Frank Martin 2021](#frank-martin-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: litam-2019
     resource: "https://doi.org/10.15241/sdal.9.4.396"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Previous training correlated with lower rape myth acceptance (r = .127, p < .05) and with the Self-Other Awareness empathy subscale. [→ Litam 2019](#litam-2019)

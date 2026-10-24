@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2023
 sources:
   - id: wills-2018-praise
     title: wills-2018-praise
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 causal `r2`–`r3` · `q4` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` In Wills et al. (2018), teacher praise statements averaged 15.20 in CW-FIT classes versus 3.10 in comparison classes (effect size 2.36, improvement index +49, p<0.01). [→ wills-2018-praise](#wills-2018-praise)

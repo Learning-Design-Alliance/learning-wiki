@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: özgür-tutal-2026
     resource: "https://doi.org/10.1038/s41598-026-50770-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interviewed experimental-group participants highlighted CCCT's strengths in communication, teamwork and engagement, while reporting unequal participation and time constraints as challenges. [→ Özgür Tutal 2026](#ozgur-tutal-2026)

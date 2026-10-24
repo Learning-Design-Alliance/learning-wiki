@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: junjie-yu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.02661"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cross-category variation in mean score far exceeds cross-model variation, with Language & Creativity highest (76.9) and STEM Reasoning lowest (50.6). [→ Junjie Yu 2026](#junjie-yu-2026)

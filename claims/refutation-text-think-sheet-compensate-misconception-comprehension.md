@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: anja-prinz-2021
     resource: "https://doi.org/10.1007/s11251-021-09535-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomized experiment, the negative effect of misconceptions on comprehension in the control condition was compensated when learners read a refutation text or completed a think sheet, with no difference between the two methods. [→ Anja Prinz 2021](#anja-prinz-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: noviello-2026
     resource: "https://doi.org/10.48550/arxiv.2605.16295"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a rubric-based evaluation with 11 CS/SE educators across nine CS topics, analogy criteria TCC and MS had medians of 3-4 for most topics (BST lower), animations showed high ATA medians, and VC medians were generally 3 with lower clarity for Stack. [→ Noviello 2026](#noviello-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mackenzieshalders-2026
     resource: "https://doi.org/10.1111/jhn.70351"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Workshop participants reported increased confidence to undertake pro-environmental change in personal life from 4.1 ± 0.7 to 4.5 ± 0.8/5 and in professional life from 3.6 ± 1.1 to 4.3 ± 0.9/5 (p < 0.05). [→ MacKenzie‐Shalders 2026](#mackenzieshalders-2026)

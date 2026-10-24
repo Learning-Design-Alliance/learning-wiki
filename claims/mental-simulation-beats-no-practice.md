@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: meer-2009
     resource: "https://doi.org/10.1007/s10648-009-9097-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Practicing through mental simulation is significantly more beneficial than no practice, with meta-analytic effect sizes of 0.48, 0.53 and 0.68 reported. [→ Meer 2009](#meer-2009)

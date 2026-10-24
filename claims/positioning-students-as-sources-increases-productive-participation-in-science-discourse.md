@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: furberg-silseth-2022
     resource: "https://doi.org/10.1080/10508406.2021.1954521"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2` · n=38 lower-secondary students and one teacher, 330 minutes of transcribed whole-class video across 11 lessons
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 When a teacher positions students who invoke everyday experiences as accountable "sources" of information — rather than as "listeners" seeking validation — students produce more arguments and counter-arguments and a wider range of students engage, compared to sequences where the teacher retains sole authority over the correct answer.
 

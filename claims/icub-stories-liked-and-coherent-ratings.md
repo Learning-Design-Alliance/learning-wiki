@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: maria-lombardi-2025
     resource: "https://doi.org/10.48550/arxiv.2508.02505"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` During-interaction ratings showed participants liked the stories invented by iCub (mean 8.61 ± 1.38) and perceived them as coherent (mean 8.28 ± 1.27). [→ Maria Lombardi 2025](#maria-lombardi-2025)

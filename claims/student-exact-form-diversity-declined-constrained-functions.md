@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: runlong-ye-2026
     resource: "https://doi.org/10.48550/arxiv.2610.00863"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Relative to 2021, distinct exact AST forms per 1,000 files in 2025 were lower by 51.1% for my_and, 25.4% for exists_triangle, 22.9% for sum_string, and 18.4% for is_square, but 5.1% higher for loopy_madness with an interval including zero. [→ Runlong Ye 2026](#runlong-ye-2026)

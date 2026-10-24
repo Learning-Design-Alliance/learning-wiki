@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: johnson-2023
     resource: "https://doi.org/10.54300/529.194"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A $1,000 per-pupil spending increase over 3 consecutive years reduced the likelihood of suspension or expulsion in a high school year by 5–6 percentage points for boys and 3 points for girls. [→ Johnson 2023](#johnson-2023)

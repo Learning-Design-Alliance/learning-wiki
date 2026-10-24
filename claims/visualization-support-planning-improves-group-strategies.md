@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: järvelä-2019
     resource: "https://doi.org/10.1007/s11412-019-09313-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups receiving visualization support at the planning phase reported effectiveness in planning and teamwork strategies and were more successful in their strategy than groups without visualization support. [→ Järvelä 2019](#jarvela-2019)

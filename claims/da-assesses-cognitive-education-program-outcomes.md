@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2000
 sources:
   - id: tzuriel-2000
     resource: "https://doi.org/10.1023/A:1009032414088"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The DA approach was found useful in assessing outcome effects of cognitive education programs aimed at enhancing learning-how-to-learn skills. [→ Tzuriel 2000](#tzuriel-2000)

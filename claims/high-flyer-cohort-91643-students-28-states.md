@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: yun-xiang-2013
     resource: "https://www.nwea.org/research/publication/do-high-flyers-maintain-their-altitude-performance-trends-of-top-students/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The middle school/high school cohort analyzed consisted of 91,643 students drawn from more than 800 schools across 28 states. [→ Yun Xiang 2013](#yun-xiang-2013)

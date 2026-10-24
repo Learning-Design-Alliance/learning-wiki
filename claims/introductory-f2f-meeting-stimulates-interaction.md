@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-21
 sources:
   - id: boelens-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.06.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In six of the nine studies that explicitly reported on interaction, an introductory face-to-face meeting was organized to create a sense of community, with additional online synchronous and asynchronous communication afterwards. [→ Boelens 2017](#boelens-2017)

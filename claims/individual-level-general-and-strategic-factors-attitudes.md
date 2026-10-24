@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: zhang-2023
     resource: "https://doi.org/10.1007/s10488-022-01248-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Individual-level perceptions of both general and strategic leadership and climate were significantly associated with Requirement and Openness attitudes. [→ Zhang 2023](#zhang-2023)

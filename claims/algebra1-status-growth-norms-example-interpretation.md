@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: thum-2019
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-algebra-1-geometry-and-algebra-2-tests/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Conditional growth norms give the expected fall-to-spring gain and its SD for any fall score, and a student's actual gain can be located in a growth percentile distribution. [→ Thum 2019](#thum-2019)

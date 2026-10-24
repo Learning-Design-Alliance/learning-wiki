@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: hepner-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101922"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Model answers had a small significant main effect on monitoring-based regulation accuracy (partial η2 = .04) and on comprehension-based regulation accuracy (partial η2 = .02). [→ Hepner 2024](#hepner-2024)

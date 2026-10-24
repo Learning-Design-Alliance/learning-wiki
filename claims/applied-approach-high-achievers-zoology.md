@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1909
 sources:
   - id: gilbert-1909
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the distribution of semester averages, Section B had 46.6% of pupils above 85 versus 29.4% in Section A, which the author reads as a rather clear advantage for Section B. [→ Gilbert 1909](#gilbert-1909)

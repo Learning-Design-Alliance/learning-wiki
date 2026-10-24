@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: kroesbergen-2023
     resource: "https://doi.org/10.3102/00346543221132773"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Across 283 effect sizes from 145 studies, MLD groups performed substantially worse than typically performing groups in mathematics, Hedges's g = 1.52, p < .001. [→ Kroesbergen 2023](#kroesbergen-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: bell-2022
     resource: "https://doi.org/10.29333/iji.2022.15142a"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Team readiness assurance test scores exhibited predominantly weak correlations with lecture assessment scores, with statistical significance observed only for TRAT 1 and TRAT 5 with the final exam and TRAT 1 with Exam 1. [→ Bell 2022](#bell-2022)

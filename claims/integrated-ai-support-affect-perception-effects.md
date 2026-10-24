@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: heng-zhang-2025
     resource: "https://doi.org/10.1007/s10648-025-10086-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Integrated cognitive and emotional AI support yielded a near-medium effect on students' affective experience (g = 0.42, k = 11). [→ Heng Zhang 2025](#heng-zhang-2025)

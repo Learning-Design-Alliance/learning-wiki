@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: barbara-jones-2024
     resource: "https://eric.ed.gov/?id=ED673602"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Actionable and descriptive feedback to students is a powerful response that research has shown to move student learning forward. [→ Barbara Jones 2024](#barbara-jones-2024)

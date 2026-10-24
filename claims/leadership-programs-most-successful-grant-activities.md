@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: moira-mccullough-2016
     resource: "https://www.mathematica.org/publications/districtcharter-collaboration-grant-implementation-final-findings-from-interviews-and-site-visits"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while the grant time period and scope were perceived as too limited to yield widespread impacts and lack of clarity around goals hindered implementation. [→ Moira McCullough 2016](#moira-mccullough-2016)

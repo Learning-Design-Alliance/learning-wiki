@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: guckenburg-2015
     resource: "https://eric.ed.gov/?id=ED568378"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experts contend RJ can avert discipline issues preventatively and build social and emotional learning skills such as communicating with peers and teachers. [→ Guckenburg 2015](#guckenburg-2015)

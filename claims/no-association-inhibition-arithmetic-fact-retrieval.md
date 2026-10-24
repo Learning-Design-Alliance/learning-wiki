@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: bellon-e-2016
     title: Bellon E 2016
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither stroop-based cognitive inhibition nor teacher-rated inhibition (BRIEF) correlated significantly with arithmetic fact retrieval in 86 third graders. [→ Bellon E 2016](#bellon-e-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: may-2009
     resource: "https://www.mathematica.org/publications/using-state-tests-in-education-experiments-a-discussion-of-the-issues"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The length of time required for review and approval of a data request and transfer of the data typically ranges between one and six months, and researchers should expect negotiations with states or districts to take at least three months. [→ May 2009](#may-2009)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: kakimoto-akihiro-2026
     resource: "https://doi.org/10.2196/104397"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning satisfaction (F) and self-evaluation (G) were rated significantly higher after VR-based training (F: 4.52 vs 3.88; G: 4.48 vs 3.81), both P<.001 with large effect sizes. [→ Kakimoto Akihiro 2026](#kakimoto-akihiro-2026)

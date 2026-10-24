@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: uraipong-2024
     resource: "https://doi.org/10.5539/hes.v14n2p88"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Working memory and inhibition scores of Nonthaburi kindergarten children were significantly lower than the T=56 criterion at the .05 level. [→ Uraipong 2024](#uraipong-2024)

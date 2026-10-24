@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: sinha-2022
     resource: "https://doi.org/10.1080/10508406.2021.1964506"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small · n=132 university students (59% male), novices to data science, 43-45 per condition
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Automated frame-by-frame facial-emotion coding of 132 university students across three randomized problem-solving-before-instruction scaffolding conditions found that failure-driven scaffolding produces more shame and more diverse emotion sequences than success-driven scaffolding, and that the same emotions (e.g., disgust, contempt) correlate with opposite learning-outcome directions depending on which scaffolding condition a student was in.
 

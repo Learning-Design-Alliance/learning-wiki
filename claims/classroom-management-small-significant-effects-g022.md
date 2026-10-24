@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-14
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: korpershoek-2016
     resource: "https://doi.org/10.3102/0034654315626799"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i1` small
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across 54 controlled intervention studies, classroom management strategies and programs produced small but significant average effects (average g = 0.22) on all outcomes except motivational outcomes. [→ Korpershoek 2016](#korpershoek-2016)

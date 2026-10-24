@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-09
+recheck_by: 2022
 sources:
   - id: wise-2019
     resource: "https://www.nwea.org/research/publication/the-relationship-between-test-taking-disengagement-and-performance-on-map-growth-retests/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Score gains associated with lower retest rapid guessing support the assumption that rapid guesses reflect a lack of engagement rather than a lack of knowledge, since re-engagement should not improve performance on unknown content. [→ Wise 2019](#wise-2019)

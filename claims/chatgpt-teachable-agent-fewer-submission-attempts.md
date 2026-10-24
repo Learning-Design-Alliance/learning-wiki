@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: angxuan-chen-2024
     resource: "https://doi.org/10.48550/arxiv.2412.15226"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Platform log data showed the experimental group averaged 1.95 code submission attempts versus 2.90 for the control group. [→ Angxuan Chen 2024](#angxuan-chen-2024)

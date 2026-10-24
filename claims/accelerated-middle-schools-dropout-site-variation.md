@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2008
 sources:
   - id: what-works-clearinghouse-2008
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/11"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2`–`r3` · `q3` · `i1` small
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the Michigan RCT, 2% of accelerated middle school students had dropped out two years after entering, compared with 9% of control students, a statistically significant difference. [→ What Works Clearinghouse 2008](#what-works-clearinghouse-2008)

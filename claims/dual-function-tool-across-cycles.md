@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: engeström-2010
     resource: "https://www.sciencedirect.com/journal/educational-research-review"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` W analizie sieci monitorującej konflikty etyczne wprowadzenie modelu wskaźnikowego było działaniem o podwójnym znaczeniu: ewaluacją i konsolidacją pierwszego cyklu oraz analizą prowadzącą do nowej formy aktywności w drugim cyklu. [→ Engeström 2010](#engestrom-2010)

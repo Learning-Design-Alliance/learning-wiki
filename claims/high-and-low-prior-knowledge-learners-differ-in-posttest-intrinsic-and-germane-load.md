@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Prior knowledge (high vs low) had significant main effects on the posttest (F1, 107 = 121.64, p < .001, ŋ2 = .53), intrinsic load (ŋ2 = .17) and germane load (ŋ2 = .15). [→ Gupta 2020](#gupta-2020)

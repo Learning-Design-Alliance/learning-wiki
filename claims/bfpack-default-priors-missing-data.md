@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: mulder-2021
     resource: "https://doi.org/10.18637/jss.v100.i18"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` BFpack supports common statistical analyses (linear regression, generalized linear models, (multivariate) analysis of (co)variance, correlation analysis, random intercept models) using default priors and while allowing data to contain missing observations that are missing at random. [→ Mulder 2021](#mulder-2021)

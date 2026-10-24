@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: roy-2014
     resource: "https://doi.org/10.1037/a0036984"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Interactions between residential mobility and baseline neighborhood poverty and between residential mobility and fifth-grade neighborhood poverty were significantly related to children's BIS-BRIEF ratings. [→ Roy 2014](#roy-2014)

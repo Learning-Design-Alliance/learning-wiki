@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: mabotja-2018
     resource: "https://doi.org/10.4102/pythagoras.v39i1.371"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors claim non-explicit teacher interventions encourage learners' self-awareness of the limitations of their current understanding, without prescribing a solution. [→ Mabotja 2018](#mabotja-2018)

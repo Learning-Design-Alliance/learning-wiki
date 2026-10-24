@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 1984
 sources:
   - id: nagy-1984
     resource: "https://eric.ed.gov/?id=ED248470"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1984 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The amount of word-meaning learning from context did not differ between the spy narrative and the river-systems exposition. [→ Nagy 1984](#nagy-1984)

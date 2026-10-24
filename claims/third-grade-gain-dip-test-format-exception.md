@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1995
 sources:
   - id: stuart-luppescu-1995
     resource: "https://consortium.uchicago.edu/publications/school-reform-retention-policy-and-student-achievement-gains"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The pattern of smaller gains among retained students does not hold in third grade, and the authors attribute the third-grade gain dip at least partly to the change in test format from ITBS Level 8 to ITBS Level 9. [→ Stuart Luppescu 1995](#stuart-luppescu-1995)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: evan-2019
     resource: "https://dcpcsb.egnyte.com/dl/hdsUO9pDbh/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students attending Perry Street improved significantly more academically during the turnaround period than counterfactual comparison students at other schools. [→ Evan 2019](#evan-2019)

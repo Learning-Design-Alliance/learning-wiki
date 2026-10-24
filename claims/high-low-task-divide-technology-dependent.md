@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: laurence-dierickx-2026
     resource: "https://doi.org/10.1007/s42438-026-00690-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` As LLMs reshape what can be delegated, the division between high-level tasks (hard to automate) and low-level tasks (readily delegated) is not fixed but shifts with available technology. [→ Laurence Dierickx 2026](#laurence-dierickx-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: gerry-stahl-2013
     resource: "https://doi.org/10.1007/s11412-013-9185-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an ethnographic study of 22 teenage boys identified as disengaged at school, subjects chatting in the fantasy multiuser videogame World of Warfare engaged in quality argumentation in 81% of their argumentative exchanges. [→ Gerry Stahl 2013](#gerry-stahl-2013)

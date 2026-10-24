@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: kimmo-sorjonen-2025
     resource: "https://doi.org/10.1007/s10648-025-10083-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In simulated data (SIM-NEW, N = 3527) generated with no direct effects between achievement and self-concept, the RI-CCLPM-C still yielded a statistically significant positive focal effect (β = 0.145), showing such effects can arise under non-causal data-generating processes. [→ Kimmo Sorjonen 2025](#kimmo-sorjonen-2025)

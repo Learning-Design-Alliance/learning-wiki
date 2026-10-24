@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: wang-2024
     resource: "https://doi.org/10.54300/597.103"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 2022–23, 81% of responding LEAs (74% of school districts, 92% of charter schools) reported offering TK at all of their elementary sites, and 88% of the 9,000 reported elementary school sites offered TK. [→ Wang 2024](#wang-2024)

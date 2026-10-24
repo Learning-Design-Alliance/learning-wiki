@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: evelyn-ezikwelu-2020
     resource: "https://www.iastatedigitalpress.com/jctp/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` African Americans developed a sense of belonging and showed intent to continue enrollment in mostly White schools when the campus racial climate was welcoming. [→ Evelyn Ezikwelu 2020](#evelyn-ezikwelu-2020)

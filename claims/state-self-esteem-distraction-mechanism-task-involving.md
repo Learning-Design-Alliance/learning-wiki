@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: cheng-hong-liu-2026
     resource: "https://doi.org/10.1007/s11251-026-09789-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Person-praise participants scored higher on state self-esteem than no-praise participants, t(144) = 2.39, p =.018, d = 0.40. [→ Cheng-Hong Liu 2026](#cheng-hong-liu-2026)

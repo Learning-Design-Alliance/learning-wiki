@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: kim-2006
     resource: "https://doi.org/10.1007/s11423-006-8805-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no main effect of PAL interaction type on attitudes; the hypothesis that a responsive PAL would positively affect attitudes was not supported. [→ Kim 2006](#kim-2006)

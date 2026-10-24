@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: zhao-j-2026
     resource: "https://doi.org/10.3389/feduc.2026.1907589"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparative studies reported benefits particularly when GenAI was embedded within faculty-guided CBL or PBL rather than used as an unrestricted answer source. [→ Zhao J 2026](#zhao-j-2026)

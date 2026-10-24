@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
+recheck_by: 2016
 sources:
   - id: greenberg-daphne-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3237050/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Adults reading at 3.0–5.9 grade equivalency made significant gains in word identification, word attack, passage comprehension, and reading fluency across pretest, midpoint, and posttest, independent of instruction group, with small effect sizes. [→ Greenberg Daphne 2011](#greenberg-daphne-2011)

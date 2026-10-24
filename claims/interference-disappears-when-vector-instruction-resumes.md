@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: clark-2010
     resource: "https://doi.org/10.48550/arxiv.1009.0260"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student response rebounds to its initial values once instruction returns to vector-based topics involving magnetic fields. [→ Clark 2010](#clark-2010)

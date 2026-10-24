@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-07
 sources:
   - id: lindamood-phoneme-sequencing-lips-beginning-reading-2015
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/280"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At 1-year follow-up versus comparison, the WRMT-R Passage Comprehension effect was not statistically significant after multiple-comparison correction, while several alphabetics subtests (e.g., Word Attack effect size 0.70, +26, p < .01) remained significant. [→ Lindamood Phoneme Sequencing® (LiPS®): Beginning Reading 2015](#lindamood-phoneme-sequencing-lips-beginning-reading-2015)

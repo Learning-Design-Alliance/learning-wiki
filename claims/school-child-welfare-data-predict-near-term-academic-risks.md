@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: regional-educational-laboratory-mid-atlantic-2020
     resource: "https://www.mathematica.org/publications/using-school-and-child-welfare-data-to-predict-near-term-academic-risks-fact-sheet"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A predictive model developed from school and child welfare data was assessed for how well it identifies at-risk students facing academic problems in the next quarter or semester. [→ Regional Educational Laboratory Mid-Atlantic 2020](#regional-educational-laboratory-mid-atlantic-2020)

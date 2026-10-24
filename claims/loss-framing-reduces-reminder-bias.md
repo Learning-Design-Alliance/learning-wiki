@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: lea-fröscher-2022
     resource: "https://doi.org/10.1186/s41235-022-00416-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiment 1, the framing × indifference point interaction was significant (ηp2 = 0.07), with reminder bias 1.19 points greater in the gain than the loss condition. [→ Lea Fröscher 2022](#lea-froscher-2022)

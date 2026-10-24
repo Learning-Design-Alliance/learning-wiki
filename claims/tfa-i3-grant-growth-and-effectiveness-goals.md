@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: zukiewicz-2015
     resource: "https://www.mathematica.org/publications/implementation-of-the-teach-for-america-investing-in-innovation-scaleup"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` TFA's i3 scale-up plan set a goal of growing its corps by 80 percent and aimed for a majority of its teachers to be rated as highly effective by the 2014-2015 school year. [→ Zukiewicz 2015](#zukiewicz-2015)

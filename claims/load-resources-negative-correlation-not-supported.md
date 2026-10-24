@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: seufert-2024
     resource: "https://doi.org/10.1007/s10648-024-09890-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across all subjects the mean load–resources correlation was positive (r = 0.22, p = 0.037), contradicting the assumed negative relationship, with a heterogeneous pattern across subjects. [→ Seufert 2024](#seufert-2024)

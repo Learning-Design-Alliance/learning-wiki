@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2005
 sources:
   - id: van-meter-2005
     resource: "https://doi.org/10.1007/s10648-005-8136-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Empirical evidence on the effectiveness of learner-generated drawing is inconsistent, and the review makes sense of it by organizing the research review around a series of hypotheses grounded in current understandings of cognitive and strategic processing. [→ Van Meter 2005](#van-meter-2005)

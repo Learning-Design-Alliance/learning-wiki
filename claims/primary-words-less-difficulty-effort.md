@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: kate-m-xu-2024
     resource: "https://doi.org/10.1007/s10648-024-09880-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Primary knowledge words were experienced with less difficulty (d = -0.96) and less effort (d = -0.78) than secondary knowledge words. [→ Kate M. Xu 2024](#kate-m-xu-2024)

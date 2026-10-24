@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: popa-2022
     resource: "https://doi.org/10.48550/arxiv.2605.27391"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under counterfactual perturbation of the fitted regression model, a one-SD autonomy increase produces limited predicted changes in ICT aspirations, small relative to digital skills and teacher support effects. [→ Popa 2022](#popa-2022)

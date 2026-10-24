@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: romance-2023
     resource: "https://doi.org/10.1016/j.tsc.2023.101295"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Vigorous physical activity correlates positively and significantly with cognitive flexibility (r = 272, p < 0.01) and fluency (r = 216, p < 0.05), and positively and highly significantly with originality (r = 189, p < 0.01) and overall creativity (r = 163, p < 0.01). [→ Romance 2023](#romance-2023)

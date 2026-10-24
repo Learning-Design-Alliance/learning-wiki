@@ -7,6 +7,7 @@ generated:
   at: 2026-08-30
 id: redundancy-hurts-learning
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: kalyuga-et-al-1999
     resource: "https://doi.org/10.1002/(SICI)1099-0720(199908)13:4<351::AID-ACP589>3.0.CO;2-6"
@@ -30,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q3`–`q4`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-14: Redundancy Hurts Learning -->
 

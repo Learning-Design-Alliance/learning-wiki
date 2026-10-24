@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2006
+recheck_by: 2009
 sources:
   - id: joseph-torgesen-2006
     resource: "https://www.mathematica.org/publications/closing-the-reading-gap-first-year-findings-from-a-randomized-trial-of-four-reading-interventions-for-striving-readers"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` The report describes implementation of the interventions and presents end-of-year impacts on reading achievement for a study population of nearly 800 children. [→ Joseph Torgesen 2006](#joseph-torgesen-2006)

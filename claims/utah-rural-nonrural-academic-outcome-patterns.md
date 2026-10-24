@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rice-2018
     resource: "https://ies.ed.gov/ncee/edlabs/regions/west"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In each year from 2014 to 2017, a larger proportion of students in non-rural districts were proficient in English language arts and science compared to rural districts. [→ Rice 2018](#rice-2018)

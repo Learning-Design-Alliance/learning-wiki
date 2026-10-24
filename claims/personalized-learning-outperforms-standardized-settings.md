@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: meriem-zerkouk-2025
     resource: "https://arxiv.org/abs/2507.18882"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 <!-- title before 2026-10-15: Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings -->
 
@@ -65,3 +68,4 @@ Narrative review attribution: the review reports, citing [17], that empirical st
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — a broader claim this one bears on
 - [Intelligent tutoring systems show moderate learning benefits but are less effective than human tutoring](its-moderate-effect-less-than-human-tutoring.md) — related
 - [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — related
+- [The article's title asserts that artificial intelligence enhances children's science learning from television shows, though the supplied text contains no results supporting this assertion](ai-enhances-children-science-learning-television-title-assertion.md) — related

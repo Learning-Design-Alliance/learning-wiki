@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: f-egert-2018
     resource: "https://doi.org/10.3102/0034654317751918"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` The nine-study subset shows a medium effect at the corresponding classroom level (ES = 0.45, SE = 0.11, p < .001). [→ F. Egert 2018](#f-egert-2018)

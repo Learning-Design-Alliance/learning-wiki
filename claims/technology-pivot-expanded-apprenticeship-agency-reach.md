@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: ryan-ruggiero-2023
     resource: "https://www.mathematica.org/publications/how-the-covid-19-pandemic-affected-state-apprenticeship-systems-takeaways-from-eight-states"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Apprenticeship administrators reported that leveraging technology allowed them to pivot work online quickly, streamline processes, and continue supporting partners while expanding reach and responsiveness. [→ Ryan Ruggiero 2023](#ryan-ruggiero-2023)

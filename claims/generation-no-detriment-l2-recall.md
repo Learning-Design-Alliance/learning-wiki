@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-17
 sources:
   - id: john-duplice-2025
     resource: "https://doi.org/10.29140/vli.v14n1.102482"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The generation treatment did not negatively influence recall for either Confidence or Knowledge scores, unlike Barcroft (2009), who found lower short-term recall when generation was the sole study method. [→ John Duplice 2025](#john-duplice-2025)

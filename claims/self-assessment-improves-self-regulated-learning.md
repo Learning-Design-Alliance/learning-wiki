@@ -8,6 +8,7 @@ generated:
 id: self-assessment-improves-self-regulated-learning
 aliases: [self-assessment-against-criteria-supports-self-regulated-learning]
 evidence_strength: unrated
+newest_evidence: 2017
 sources:
   - id: panadero-et-al-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.08.004"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small · n=2,305 students across 19 studies
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 When learners appraise the quality of their own work against criteria, they gain the evaluative information needed to plan, monitor, and adjust their studying — the core operations of [self-regulated learning](../theories/self-regulated-learning.md).
 

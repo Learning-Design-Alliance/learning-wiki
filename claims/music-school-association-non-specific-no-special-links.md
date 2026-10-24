@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: olive-emil-wetter-2009
     resource: "https://doi.org/10.1007/s11251-008-9052-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret their mark advantage as spreading across all subjects except sports, arguing against domain-specific 'special links' between music and single school subjects. [→ Olive Emil Wetter 2009](#olive-emil-wetter-2009)

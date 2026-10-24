@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: reflective-practice-evidence-mixed-in-professional-education
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-07
 sources:
   - id: guo-2022
     resource: "https://doi.org/10.1080/14623943.2021.1995856"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=2010 (23 studies, 23 effect sizes)
+> **Currency** · newest study 2022 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Reflective practice shows mixed evidence of effectiveness in professional education -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): Structured reflection on one's own professional practice is widely embedded in professional education (teaching, nursing, medicine, social work), but the evidence that it improves learning or practice outcomes is mixed rather than consistently positive. [~W] -->

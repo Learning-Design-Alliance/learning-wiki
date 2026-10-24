@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: niri-2026
     resource: "https://doi.org/10.1186/s40594-026-00629-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Fundamental AI Concepts, Computational Thinking and Data Literacy were the most frequently developed AILEs, while Managing AI, Designing AI and Creative Imagination appeared least often. [→ Niri 2026](#niri-2026)

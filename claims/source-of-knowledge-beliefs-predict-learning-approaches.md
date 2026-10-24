@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: jo-lunn-brownlee-2017
     resource: "https://doi.org/10.1080/00461520.2017.1333430"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Beliefs that knowledge stems from external authorities were positively related to surface learning approaches and negatively related to deeper approaches, while beliefs that learning entails effort related positively to deep and achieving approaches. [→ Jo Lunn Brownlee 2017](#jo-lunn-brownlee-2017)

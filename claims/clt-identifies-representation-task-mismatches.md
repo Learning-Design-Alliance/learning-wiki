@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2002
 sources:
   - id: bruggen-2002
     resource: "https://dspace.library.uu.nl/handle/1874/16871"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` CLT can be used to identify mismatches between representational schemes and the execution of (sub)tasks. [→ Bruggen 2002](#bruggen-2002)

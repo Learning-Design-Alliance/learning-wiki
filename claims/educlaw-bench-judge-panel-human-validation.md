@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lee-2026
     resource: "https://doi.org/10.48550/arxiv.2608.03206"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A three-family LLM judge panel agrees with two blind domain experts on every judged axis (permutation p < 0.05), reaching the expert ceiling on answer-holding and tracking Helpfulness and the curriculum axes as a positive but more modest proxy. [→ Lee 2026](#lee-2026)

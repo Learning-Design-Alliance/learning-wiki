@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: van-heijst-2019
     resource: "https://doi.org/10.1007/s11412-019-09303-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Notes open on transactivity and authority were less likely to receive follow-up, while the components ownership and positioning towards the knowledge claim were not significantly associated with follow-up. [→ van Heijst 2019](#van-heijst-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: bill-vanpatten-2010
     resource: "https://doi.org/10.6018/ijes/2010/1/113951"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge -->
 
 ## Subclaims

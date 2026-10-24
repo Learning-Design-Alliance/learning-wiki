@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: peter-holtz-joachim-kimmerle-ulrike-cress-2018
     resource: "https://doi.org/10.1007/s11412-018-9285-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the reported SNA studies, new knowledge in the form of edits or newly created articles centered around articles with high centrality within a domain or high betweenness between domains, showing friction can be productive. [→ Peter Holtz & Joachim Kimmerle & Ulrike Cress 2018](#peter-holtz-joachim-kimmerle-ulrike-cress-2018)

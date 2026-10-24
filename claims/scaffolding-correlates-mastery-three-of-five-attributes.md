@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: jiaqi-yu-2022
     resource: "https://doi.org/10.18608/jla.2022.7639"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Scaffold use significantly correlated with mastery of attributes 1, 3, and 4 (r = 0.468, 0.537, 0.425), but not attributes 2 and 5. [→ Jiaqi Yu 2022](#jiaqi-yu-2022)

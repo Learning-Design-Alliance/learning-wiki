@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: dupéré-2014
     resource: "https://eric.ed.gov/?q=Stressors+and+Turning+Points+in+High+School+and+Dropout"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` As many as 40% of dropouts do not show clear signs of disengagement or major academic or behavioral problems in the years before dropping out. [→ Dupéré 2014](#dupere-2014)

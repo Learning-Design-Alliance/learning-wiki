@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: mcclanahan-2012
     resource: "https://link.springer.com/journal/11528"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When the student recorded and listened to his own reading, he made significantly fewer mistakes and seemed to comprehend more than when following the teacher's reading. [→ McClanahan 2012](#mcclanahan-2012)

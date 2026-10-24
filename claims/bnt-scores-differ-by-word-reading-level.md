@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: hall-2012
     resource: "https://doi.org/10.1111/j.1467-9817.2012.01537.x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` A one-way ANOVA on BNT raw scores across third-, fourth-, and fifth-grade word-reading levels showed significant group differences, with the fifth-grade group outperforming the third-grade group. [→ Hall 2012](#hall-2012)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2002
 sources:
   - id: picciano-2002
     resource: "https://doi.org/10.24059/olj.v6i1.1870"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The research literature on Web-based learning supports the assumption that interaction is important for a successful course, yet questions exist about the nature and extent of interaction and its effects on student performance. [→ Picciano 2002](#picciano-2002)

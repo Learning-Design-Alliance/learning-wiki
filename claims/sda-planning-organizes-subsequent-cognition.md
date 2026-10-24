@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: azevedo-2014
     resource: "https://doi.org/10.1007/s11409-014-9123-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In statistical discourse analysis of 51,338 turns from eighteen scaffolded triads, after low cognition, high cognition, planning, or evaluation both low and high cognition were more likely to occur, and after a denial high cognition was less likely to occur. [→ Azevedo 2014](#azevedo-2014)

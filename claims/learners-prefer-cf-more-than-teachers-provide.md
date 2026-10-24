@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: roy-lyster-2013
     resource: "https://doi.org/10.1017/S0261444812000365"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across preference research, learners tend to prefer receiving corrective feedback more than teachers feel they should provide it. [→ Roy Lyster 2013](#roy-lyster-2013)

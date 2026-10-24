@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: jeffrey-capizzano-2007
     resource: "https://www.mathematica.org/publications/ingredients-of-a-successful-summer-learning-program-a-case-study-of-the-building-educated-leaders-for-life-bell-accelerated-learning-summer-program"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` An earlier evaluation by the authors using random assignment found the summer learning intervention to be effective. [→ Jeffrey Capizzano 2007](#jeffrey-capizzano-2007)

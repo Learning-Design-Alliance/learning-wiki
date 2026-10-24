@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1919
 sources:
   - id: bell-1919
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The individual Binet scale's time cost restricts its employment to special cases, while a group scale permits examining fifty or a hundred children in an hour, with further labor only in scoring and tabulating. [→ Bell 1919](#bell-1919)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nikhil-sanjay-borse-2026
     resource: "https://doi.org/10.48550/arxiv.2608.12533"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups prepared with MAPS-based reflection more often identified expert-aligned issues (missing numerical integration, unclear notation, qualitative rather than quantitative plotting) than groups prepared by solving a related problem. [→ Nikhil Sanjay Borse 2026](#nikhil-sanjay-borse-2026)

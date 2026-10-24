@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: podolefsky-2013
     resource: "https://doi.org/10.48550/arxiv.1306.6544"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a case-study interview with no written guidance and only prompts to think aloud, a 6th-grade student began interacting with the sim in less than 10 seconds and verbalized an attempt to explain the skater's motion. [→ Podolefsky 2013](#podolefsky-2013)

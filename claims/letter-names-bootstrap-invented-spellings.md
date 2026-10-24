@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: treiman-rebecca-2013
     resource: "https://doi.org/10.1080/15475441.2013.812016"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` U.S. children produce spellings like ‹R› and ‹KR› for car, based on letter names, before they can isolate the phonemes within the /αɹ/ unit. [→ Treiman Rebecca 2013](#treiman-rebecca-2013)

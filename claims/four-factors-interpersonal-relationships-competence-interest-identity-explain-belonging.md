@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: katherine-rainey-2018
     resource: "https://doi.org/10.1186/s40594-018-0115-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Coding of interview explanations yielded four themes—interpersonal relationships, competence, personal interest, and science identity; interpersonal relationships were the largest factor cited for positive belonging by every demographic group, and absence of interpersonal relationships was the most common reason majors and leavers gave for not belonging. [→ Katherine Rainey 2018](#katherine-rainey-2018)

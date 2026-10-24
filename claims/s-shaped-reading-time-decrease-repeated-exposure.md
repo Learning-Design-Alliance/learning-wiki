@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
+recheck_by: 2022
 sources:
   - id: aline-godfroid-2017
     resource: "https://doi.org/10.1017/S1366728917000219"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Growth curve modeling revealed that reading times on unfamiliar words decreased non-linearly, following an S-shaped curve across repeated exposures. [→ Aline Godfroid 2017](#aline-godfroid-2017)

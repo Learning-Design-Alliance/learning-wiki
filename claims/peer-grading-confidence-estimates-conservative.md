@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
+recheck_by: 2016
 sources:
   - id: chris-piech-2013
     resource: "https://arxiv.org/abs/1307.2579"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Binned confidence estimates were validated against actual pass rates; when the model claims 90–95% confidence, its estimate is correct over 95% of the time, indicating conservative rather than overconfident calibration. [→ Chris Piech 2013](#chris-piech-2013)

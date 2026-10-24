@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: wayne-harrison-2026
     resource: "https://doi.org/10.48550/arxiv.2609.14789"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The treatment-by-Pupil Premium status interaction was not statistically clear (0.57 marks, 95% CI -2.25 to 3.39); stratified estimates were positive for both groups. [→ Wayne Harrison 2026](#wayne-harrison-2026)

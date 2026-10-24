@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: first-step-to-success-wwc-intervention-report-2012
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/179"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Walker et al. (2009) found no statistically significant difference between treatment and comparison groups on oral reading fluency, and the WWC-rated domain effect was –0.04. [→ First Step to Success: WWC Intervention Report 2012](#first-step-to-success-wwc-intervention-report-2012)

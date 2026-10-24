@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: courtney-hattan-2023
     resource: "https://scholar.google.com/scholar?q=Leveraging+What+Students+Know+to+Make+Sense+of+Texts+Prior+Knowledge+Activation"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The review identified 30 unique activation techniques in eight categories from 88 investigated techniques across 54 articles and 68 studies. [→ Courtney Hattan 2023](#courtney-hattan-2023)

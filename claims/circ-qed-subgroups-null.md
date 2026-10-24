@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-18
 sources:
   - id: bramlett-subgroups
     title: bramlett-subgroups
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Subgroup analyses for medium-ability and high-ability third graders showed no statistically significant differences on any CAT outcome (all p > 0.05), with effect sizes ranging from –0.09 to 0.26. [→ bramlett-subgroups](#bramlett-subgroups)

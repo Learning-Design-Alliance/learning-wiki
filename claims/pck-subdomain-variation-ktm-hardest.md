@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: copur-gencturk-2026
     resource: "https://doi.org/10.1007/s11858-026-01796-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` GradeOpt's Cohen's κ varied across PCK subdomains: .66 for knowledge of mathematical tasks, .79 for knowledge of students' mathematical thinking, and .59 for knowledge of teaching mathematics. [→ Copur-Gencturk 2026](#copur-gencturk-2026)

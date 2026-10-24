@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 1993
+recheck_by: 1996
 sources:
   - id: katz-1993
     resource: "https://doi.org/10.21236/ada273789"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1996**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Solve attributes were the most powerful classifiers across proficiency and status groups, classifying all 41 low-proficiency examinees. [→ Katz 1993](#katz-1993)

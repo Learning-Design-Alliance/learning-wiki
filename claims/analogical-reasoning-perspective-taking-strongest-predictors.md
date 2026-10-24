@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: olga-vogel-2024
     resource: "https://doi.org/10.1007/s11251-023-09653-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the simultaneous regression model, analogical reasoning (b = 0.29) and perspective taking (b = 0.26) showed the highest predictability, ahead of tolerance of ambiguity and uncertainty (b = 0.21) and reflexivity (b = 0.12). [→ Olga Vogel 2024](#olga-vogel-2024)

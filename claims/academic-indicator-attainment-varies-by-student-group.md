@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: hester-2022
     resource: "https://ies.ed.gov/ncee/edlabs/regions/southwest/rel_2023-145.asp"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` For Black versus White students, NSLP-eligible versus ineligible students, and students entering grade 6 after versus before age 13, substantial differences occurred for seven of the eight academic indicators. [→ Hester 2022](#hester-2022)

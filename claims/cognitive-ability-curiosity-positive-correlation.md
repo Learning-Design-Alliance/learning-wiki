@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
+recheck_by: 2027
 sources:
   - id: mussel-2022
     resource: "https://doi.org/10.3390/jintelligence10020023"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i1` Cognitive ability and curiosity showed a positive bivariate correlation (r = 0.27 at T1) in a large longitudinal panel. [→ Mussel 2022](#mussel-2022)

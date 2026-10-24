@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: kaygısız-2020
     resource: "https://doi.org/10.33828/sei.v31.i1.12"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Content analysis of open-ended answers showed the most chosen reason for choosing objectives was that teaching is easy (juniors 33.3%, seniors 62.5%), followed by having sufficient professional knowledge (juniors 43.5%, seniors 46.8%), with juniors more often citing material support. [→ Kaygısız 2020](#kaygsz-2020)

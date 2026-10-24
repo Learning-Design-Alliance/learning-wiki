@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: dağ-2026
     resource: "https://doi.org/10.1038/s41598-026-42030-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In hierarchical regression, AI anxiety remained a significant predictor of job search anxiety (β = 0.234, p < 0.001) after socio-demographic controls, adding ΔR2 = 0.053 explained variance. [→ Dağ 2026](#dag-2026)

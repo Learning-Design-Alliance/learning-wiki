@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: merueña-2023
     resource: "https://eric.ed.gov/?id=ED637673"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The framework aligns with Vygotsky's social constructivism through collaborative learning and with Piaget's cognitive constructivism through active application of language skills in meaningful contexts. [→ Merueña 2023](#meruena-2023)

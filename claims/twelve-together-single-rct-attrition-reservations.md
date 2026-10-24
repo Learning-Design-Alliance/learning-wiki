@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: what-works-clearinghouse-2007
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` One study (Dynarski, Gleason, Rangarajan, & Wood, 1998), a randomized controlled trial with 219 students, met WWC evidence standards with reservations because of differential attrition between the intervention and control groups; a second study did not meet WWC evidence screens. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

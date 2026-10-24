@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: ali-protik-2013
     resource: "https://www.mathematica.org/publications/does-tracking-of-students-bias-value-added-estimates-for-teachers"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Controlling for two classroom characteristics—mean classroom achievement and its standard deviation—may reduce tracking bias for middle school math teachers. [→ Ali Protik 2013](#ali-protik-2013)

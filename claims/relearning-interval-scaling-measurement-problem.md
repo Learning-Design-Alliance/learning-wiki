@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: gary-d-phye-2012
     resource: "https://doi.org/10.1007/s10648-012-9211-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` As learning episodes vary in size and scope, proportions of the same value mean quite different things, making generalizability of optimal relearning intervals to the level of principles difficult. [→ Gary D. Phye 2012](#gary-d-phye-2012)

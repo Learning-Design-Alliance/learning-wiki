@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: lea-waters-2015
     resource: "https://doi.org/10.1007/s10648-014-9258-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2` · `i2`–`i3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Mendelson et al. (2010) found significant improvements in self-reported involuntary responses to stress in the meditation group versus controls, with significant differences on rumination, intrusive thoughts and emotional arousal subscales (involuntary engagement d=.83). [→ Lea Waters 2015](#lea-waters-2015)

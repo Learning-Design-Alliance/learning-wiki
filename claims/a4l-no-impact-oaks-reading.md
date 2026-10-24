@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: jonathan-nakamoto-2015
     resource: "https://eric.ed.gov/?id=ED560945"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4` · `i0` negligible
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i0` Differences between treatment and control students on the OAKS after one, two, and three years of program participation were not statistically significant, with effect sizes ranging from -0.03 to 0.05. [→ Jonathan Nakamoto 2015](#jonathan-nakamoto-2015)

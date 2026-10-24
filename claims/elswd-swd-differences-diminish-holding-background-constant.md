@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: albert-y-liu-2017
     resource: "https://www.mathematica.org/publications/wp-the-characteristics-and-experiences-of-english-learner-students-with-disabilities-in-secondary"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Most differences between ELSWDs and other SWDs diminish when background characteristics are held constant. [→ Albert Y. Liu 2017](#albert-y-liu-2017)

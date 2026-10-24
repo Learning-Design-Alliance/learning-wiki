@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: holster-2026
     resource: "https://doi.org/10.35542/osf.io/a39rp_v1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The correct three-pair mapping ranks first of six (OR = 1.167) versus the best alternative (OR = 1.118), and remains first in every two-task subset. [→ Holster 2026](#holster-2026)

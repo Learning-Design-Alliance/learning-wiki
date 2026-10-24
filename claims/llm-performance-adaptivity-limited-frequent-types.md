@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: norah-almousa-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28026"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The teacher's feedback differs significantly between high- and low-performing students in Task Constraints and Praise, while models that show performance-based adaptivity do so only in the focus type they produce most frequently, and only large or closed models show any such adaptivity. [→ Norah Almousa 2026](#norah-almousa-2026)

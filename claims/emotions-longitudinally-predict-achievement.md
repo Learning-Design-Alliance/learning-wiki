@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2002
+source_checked: 2026-10-24
 sources:
   - id: reinhard-pekrun-2002
     resource: "https://doi.org/10.1207/s15326985ep3702_4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` University students' emotions measured early in the semester predicted cumulative grades and final course exam scores; positive emotions predicted high achievement and negative emotions low achievement, except relief. [→ Reinhard Pekrun 2002](#reinhard-pekrun-2002)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 1996
+recheck_by: 1999
 sources:
   - id: schunk-1996
     resource: "https://eric.ed.gov/?id=ED394663"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1999**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Internal consistency coefficients of self-efficacy measures have generally been high, ranging from .62 to .94, and test-retest coefficients ranged from .79 to .92 across domains. [→ Schunk 1996](#schunk-1996)

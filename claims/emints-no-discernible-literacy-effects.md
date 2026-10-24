@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: what-works-clearinghouse-2020
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/705"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two studies meeting WWC standards, eMINTS results in little or no change in general literacy achievement, with an average improvement index of 0. [→ What Works Clearinghouse 2020](#what-works-clearinghouse-2020)

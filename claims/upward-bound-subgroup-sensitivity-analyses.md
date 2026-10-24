@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: neil-s-seftor-2009
     resource: "http://www.ed.gov/about/offices/list/opepd/ppss/reports.html#upward-2009"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The report includes extensive subgroup and sensitivity analyses alongside its main impact estimates. [→ Neil S. Seftor 2009](#neil-s-seftor-2009)

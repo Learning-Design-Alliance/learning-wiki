@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: hou-2025
     resource: "https://doi.org/10.1007/s11409-025-09442-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The lowest performing quartile accessed solutions significantly more often than the high, mid-high, and mid-low groups (η² = 0.04, a small effect size), but the four groups did not differ in hint access. [→ Hou 2025](#hou-2025)

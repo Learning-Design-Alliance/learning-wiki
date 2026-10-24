@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: krause-wichmann-2025
     resource: "https://doi.org/10.1007/s11251-024-09694-4"
@@ -47,6 +48,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the provided-examples condition, all direct paths (PC→KR, PC→KT, KR→KT), the indirect effect and the total effect were significant and positive. [→ Krause-Wichmann 2025](#krause-wichmann-2025)

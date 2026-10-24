@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: kevin-booker-2010
     resource: "https://www.mathematica.org/publications/the-unknown-world-of-charter-high-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who attend a charter high school are 7 to 15 percentage points more likely to earn a standard diploma than students who attend a traditional public high school, after controlling for demographics, prior test scores, and prior charter middle school enrollment. [→ Kevin Booker 2010](#kevin-booker-2010)

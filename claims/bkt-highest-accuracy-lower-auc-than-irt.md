@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: wei-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1905847"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` BKT achieved accuracy 0.7520, BCE 0.5528 and Brier 0.180, beating IRT on accuracy by 0.025, while its AUC of 0.653 was 0.019 below the IRT AUC. [→ Wei 2026](#wei-2026)

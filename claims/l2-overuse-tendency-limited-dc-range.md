@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: hu-2015
     resource: "https://doi.org/10.5539/hes.v5n4p30"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the detailed item comparisons, L2 writers have a general tendency to overuse more DCs than underuse them, especially Hong Kong students who overuse 17 items but underuse only 7 among the 57 DCs listed. [→ Hu 2015](#hu-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: noetel-2021
     resource: "https://doi.org/10.3102/0034654321990713"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 83 randomised comparisons, swapping other teaching for video significantly improved learning with a small pooled effect (g = 0.28), with about half of true effects helpful and 19% potentially unhelpful. [→ Noetel 2021](#noetel-2021)

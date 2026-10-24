@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: marisa-de-la-torre-2009
     resource: "https://consortium.uchicago.edu/publications/when-schools-close-effects-displaced-students-chicago-public-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The summer after schools closed, only a quarter of displaced students enrolled in Summer Bridge compared to 29 percent of similar comparison-group students. [→ Marisa de la Torre 2009](#marisa-de-la-torre-2009)

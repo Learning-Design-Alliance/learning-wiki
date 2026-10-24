@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2006
 sources:
   - id: yanghee-kim-and-amy-l-baylor-2006
     resource: "https://doi.org/10.1007/s11423-006-0637-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` College students working with same-ethnicity agents perceived them as more credible, engaging, and affable than different-ethnicity agents, more strongly among African-American students. [→ Yanghee Kim and Amy L. Baylor 2006](#yanghee-kim-and-amy-l-baylor-2006)

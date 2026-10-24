@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: anderson-jason-r-2017
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7433257/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sleep quality (rs=-.24, p=.17) and Verrucomicrobia (rs=.18, p=.31) were not independently associated with Stroop Word performance in partial correlations. [→ Anderson Jason R. 2017](#anderson-jason-r-2017)

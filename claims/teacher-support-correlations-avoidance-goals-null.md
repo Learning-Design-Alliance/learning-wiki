@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yongliang-wang-yaobo-wang-2026
     resource: "https://doi.org/10.1057/s41599-026-07636-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bivariate correlations showed teacher support positively associated with mastery-approach (r = 0.304), performance-approach (r = 0.277), and engagement (r = 0.435), but not significantly related to mastery-avoidance (r = 0.010) or performance-avoidance (r = 0.019) goals. [→ Yongliang Wang & Yaobo Wang 2026](#yongliang-wang-yaobo-wang-2026)

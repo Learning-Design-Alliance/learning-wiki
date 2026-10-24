@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: belle-dang-2024
     resource: "https://doi.org/10.18608/jla.2024.8393"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 80% of groups displayed a consistent deliberation pattern across phases, exclusively or almost exclusively adhering to either Type 1 (30%) or Type 2 (50%), rather than alternating in response to triggers. [→ Belle Dang 2024](#belle-dang-2024)

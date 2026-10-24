@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: e-de-bree-2021
     resource: "https://doi.org/10.1177/0142723720941680"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the best-fitting indirect SEM model, verbal short-term memory and self-efficacy were each positively associated with children's vocabulary. [→ E. de Bree 2021](#e-de-bree-2021)

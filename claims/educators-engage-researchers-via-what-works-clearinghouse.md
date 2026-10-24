@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: mark-dynarski-2010
     resource: "https://www.mathematica.org/publications/connecting-education-research-to-practitioners-and-practitioners-to-education-research"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Educators can more effectively engage with researchers to advance practice, using the What Works Clearinghouse and other sources of research findings as a base. [→ Mark Dynarski 2010](#mark-dynarski-2010)

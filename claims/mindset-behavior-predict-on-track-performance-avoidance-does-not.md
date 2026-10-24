@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-16
 sources:
   - id: snipes-2016
     resource: "https://eric.ed.gov/?id=ED573499"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In logistic regression, 8th grade self-reported growth mindset and academic behavior were positively related to the probability of being on track at the end of 9th grade. [→ Snipes 2016](#snipes-2016)

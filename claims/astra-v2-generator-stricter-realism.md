@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: solomon-sunday-oyelere-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100633"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The v2 generator encodes increased prevalence of incorrect final code, more iterative retries before success, and longer dialogues, especially in pair conditions, with added cross-session variance. [→ Solomon Sunday Oyelere 2026](#solomon-sunday-oyelere-2026)

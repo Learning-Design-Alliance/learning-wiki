@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: merueña-2023
     resource: "https://eric.ed.gov/?id=ED637673"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The DL2F framework aligns with communicative language teaching principles, prioritizing communication as the key objective of language learning and implementing CLT through real-life scenarios and cultural interactions. [→ Merueña 2023](#meruena-2023)

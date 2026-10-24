@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: paul-p-martin-2026
     resource: "https://doi.org/10.1007/s11191-026-00789-7"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` ML methodologies are generally better at coding productive and canonically correct ideas than the diverse ways students articulate unproductive ideas. [→ Paul P. Martin 2026](#paul-p-martin-2026)

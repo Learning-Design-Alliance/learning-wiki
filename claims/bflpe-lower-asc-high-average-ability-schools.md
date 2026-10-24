@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: marsh-2008
     resource: "https://doi.org/10.1007/s10648-008-9075-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students have lower academic self-concepts when attending schools where the average ability of other students is high, compared to equally able students in low-average-ability schools. [→ Marsh 2008](#marsh-2008)
@@ -64,3 +66,4 @@ Review of secondary analyses of the PISA 2003 international assessment across 41
 - [In more competitive school environments, students from lower SES backgrounds report more positive self-views than their more advantaged peers, narrowing SES gaps in self-views](competitive-schools-narrow-ses-gaps-self-views.md) — related
 - [In more competitive school environments, lower-SES students perform better academically than their more advantaged peers, narrowing SES achievement gaps](competitive-schools-narrow-ses-gaps-achievement.md) — related
 - [Students with higher initial achievement in German benefited more from higher class mean achievement levels](german-class-mean-achievement-benefits-high-initial-achievers.md) — related
+- [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](math-class-strongest-bflpe-course-tracking.md) — a narrower finding that bears on this claim

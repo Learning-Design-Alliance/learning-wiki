@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-18
 sources:
   - id: burns-2022
     resource: "https://doi.org/10.54300/118.471"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` County coordinators identified organizational, logistical, and data challenges, including fragmented data systems (CWS/CMS, CALPADS, and district SIS not readily integrated), LCFF visibility without additional resources, transportation barriers to school stability, and child welfare capacity constraints. [→ Burns 2022](#burns-2022)

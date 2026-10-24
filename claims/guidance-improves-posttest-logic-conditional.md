@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: tessa-eysink-2002
     resource: "https://doi.org/10.1023/A:1016018210897"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Guidance, operationalised by problems guiding learners to all different types of basic problem situations derived from the conditional, significantly influenced scores from pre- to post test. [→ Tessa Eysink 2002](#tessa-eysink-2002)

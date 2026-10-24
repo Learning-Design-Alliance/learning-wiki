@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: keller-2021
     resource: "http://dx.doi.org/10.1037/edu0000685"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2`–`r3` · `q4`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Male top performers' math–reading profile distributions overlap so little with females' that the mean nonoverlap is 44%, which the article classifies as a large effect. [→ Keller 2021](#keller-2021)

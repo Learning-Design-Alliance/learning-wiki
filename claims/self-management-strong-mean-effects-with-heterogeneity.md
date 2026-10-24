@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: mixed
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: briesch-2019
     resource: "https://doi.org/10.1007/s10864-018-9303-1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Strong mean effect sizes were identified across self-management intervention configurations in the reviewed single-case studies. [→ Briesch 2019](#briesch-2019)

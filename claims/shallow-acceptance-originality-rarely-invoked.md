@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: léonard-boussioux-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38183"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spoken verdicts are fast and generic, and originality is invoked in only 3.4% of 440 verdicts. [→ Léonard Boussioux* 2026](#leonard-boussioux-2026)

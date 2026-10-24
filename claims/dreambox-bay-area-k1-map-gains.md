@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: dreambox-math-evidence-summary-2024
     resource: "https://support.dreambox.com/hc/en-us/articles/204906318-System-Requirements-for-Schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` DreamBox users gained significantly more than controls on the Measurement and Geometry subtest of the NWEA MAP, effect size +0.16. [→ DreamBox Math evidence summary 2024](#dreambox-math-evidence-summary-2024)

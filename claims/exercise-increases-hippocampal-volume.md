@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: exercise-increases-hippocampal-volume
 evidence_strength:
+newest_evidence: 2018
 sources:
   - id: erickson-et-al-2011
     resource: "https://doi.org/10.1073/pnas.1015950108"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3`–`q4`
+> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Aerobic exercise is associated with increased volume of the hippocampus, a brain structure critical for memory formation, with potential implications for learning outcomes.
 

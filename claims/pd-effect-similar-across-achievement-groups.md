@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: prast-2018
     resource: "https://doi.org/10.1016/j.learninstruc.2018.01.009"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` PD in Year 1 positively predicted slope for average-achieving (β = 0.10, p = .040) and high-achieving students (β = 0.12, p = .036); for low-achieving students the effect was similar in size but did not reach significance (β = 0.12, p = 0.051). [→ Prast 2018](#prast-2018)

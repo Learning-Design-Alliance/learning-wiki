@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: cowhy-2017
     resource: "https://consortium.uchicago.edu/publications/success-project-implementation-and-early-outcomes-middle-grade-program"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2` · `i0` negligible
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Improving students' GPAs was the coordinator task where schools struggled most, and GPAs showed little improvement over two years. [→ Cowhy 2017](#cowhy-2017)

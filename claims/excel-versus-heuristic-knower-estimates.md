@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: negen-2011
     resource: "https://doi.org/10.3758/s13428-011-0134-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Using the modal posterior as a point estimate, the Excel sheet matched the heuristic's knower level for 38 of 56 children; of the remaining 18, in only 1 case was the Excel estimate a lower knower level than the heuristic's. [→ Negen 2011](#negen-2011)

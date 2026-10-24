@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jana-gonnermann-müller-2026
     resource: "https://doi.org/10.48550/arxiv.2605.06307"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Under minimal persona instruction, default personas' self-report scores aligned with the moderate-intensity condition while observer ratings remained much closer to the low-intensity condition. [→ Jana Gonnermann-Müller 2026](#jana-gonnermann-muller-2026)

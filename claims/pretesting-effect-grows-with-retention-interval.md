@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-18
 sources:
   - id: steven-c-pan-2023
     resource: "https://doi.org/10.1007/s10648-023-09814-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within a single experiment testing 1-minute, 30-minute, and 1-week retention intervals, the pretesting effect magnitude increased with delay. [→ Steven C. Pan 2023](#steven-c-pan-2023)

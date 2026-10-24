@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-08
+recheck_by: 2024
 sources:
   - id: emily-gardner-2021
     resource: "https://www.mathematica.org/publications/toolkit-to-support-capacity-building-for-strategic-learning-initiatives"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` From May 2020 to September 2021, Mathematica and Catalyst:Ed partnered with the Bill & Melinda Gates Foundation and nine K-12 education grantees in the Capacity Building for Strategic Learning pilot initiative. [→ Emily Gardner 2021](#emily-gardner-2021)

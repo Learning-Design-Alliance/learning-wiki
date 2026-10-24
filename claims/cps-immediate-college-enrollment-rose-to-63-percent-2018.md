@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: nagaoka-2020
     resource: "https://toandthrough.uchicago.edu/tool/cps/2019/#/milestones"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Around two-thirds of CPS graduates enrolled immediately in college in 2018: 42 percent in a four-year institution, 21 percent in a two-year institution, and 37 percent not immediately. [→ Nagaoka 2020](#nagaoka-2020)

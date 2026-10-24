@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: jan-a-a-engelen-2018
     resource: "https://doi.org/10.1007/s11409-018-9187-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pearson correlations between each teacher's average T-JOL per student and that student's average test performance yielded a grand mean of .528, with no significant cue-prompt effect. [→ Jan A. A. Engelen 2018](#jan-a-a-engelen-2018)

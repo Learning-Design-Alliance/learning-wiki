@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1989
 sources:
   - id: schmidt-1989
     resource: "https://doi.org/10.1037//0022-0663.81.4.610"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Novices tended to produce separate explanations for each phenomenon and searched for analogies based on surface characteristics, whereas experts postulated a not-directly-observable process and recognized the problem as an instance of a general principle. [→ Schmidt 1989](#schmidt-1989)

@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-21
 sources:
   - id: tamara-van-gog-nikol-rummel-2010
     resource: "https://doi.org/10.1007/s10648-010-9134-7"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 review `r1`–`r3` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1911
 sources:
   - id: a-committee-of-five-representing-the-association-of-teachers-of-psychology-in-iowa-1911
     resource: "https://www.apa.org/pubs/journals/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Elementary examination represents the equivalent of three semester hours, or one half of the advanced requirements. [→ A committee of five representing the Association of Teachers of Psychology in Iowa 1911](#a-committee-of-five-representing-the-association-of-teachers-of-psychology-in-iowa-1911)

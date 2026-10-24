@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: nückles-2020
     resource: "https://doi.org/10.1007/s10648-020-09541-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experiments varying prompt provision showed strategy prompts strongly increased use of the prompted strategies in learning journals, and the increased use was accompanied by enhanced learning outcomes. [→ Nückles 2020](#nuckles-2020)

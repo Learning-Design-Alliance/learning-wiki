@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: liao-2026
     resource: "https://doi.org/10.1007/s10639-026-13958-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The AI was significantly more effective at eliciting Facts (t(6)=2.76, p=.033), while the teacher prompted vastly more Feelings utterances (t(6)=−6.54, p<.001); Findings and Future showed no significant differences. [→ Liao 2026](#liao-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: leung-gagné-2025
     resource: "https://doi.org/10.54300/518.478"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 74% of respondents said the grant was influential or very influential in their decision to pursue teaching, 93% said it was important for completing preparation, and 69% said it incentivized them to teach in a priority school. [→ Leung-Gagné 2025](#leung-gagne-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: charlotte-dignath-2021
     resource: "https://doi.org/10.1007/s11409-021-09271-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Regression analyses showed profile 2 teachers scored significantly higher than profile 1 teachers on knowledge of promoting SRL, beliefs, and self-efficacy, with no significant difference for self-reported situated approaches. [→ Charlotte Dignath 2021](#charlotte-dignath-2021)

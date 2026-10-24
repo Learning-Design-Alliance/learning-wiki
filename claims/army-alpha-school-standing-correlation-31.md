@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1918
 sources:
   - id: e-b-skaggs-1918
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 153 juniors and seniors (mostly women) at Millersville State Normal School, the correlation between general intelligence standing on the Army Alpha and school standing (average final marks for one term) was r = +.31. [→ E. B. Skaggs 1918](#e-b-skaggs-1918)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: craig-2020
     resource: "https://doi.org/10.1007/s11409-020-09222-y"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q2`–`q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The systematic review concludes there is not a single self-report that can be recommended as the industry standard. [→ Craig 2020](#craig-2020)

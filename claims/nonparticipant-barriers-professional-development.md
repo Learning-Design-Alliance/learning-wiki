@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: corcoran-2003
     resource: "https://doi.org/10.1037/e383112004-001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the Partnership changed workshop structure, timing, and offerings, 34% of previously non-participating teachers recruited the following summer, eventually two-thirds of early non-participants. [→ Corcoran 2003](#corcoran-2003)

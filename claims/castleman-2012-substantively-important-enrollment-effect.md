@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: summer-counseling-2018
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/693"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Among 162 graduates of seven Rhode Island schools, intervention students enrolled at higher rates (58.0% vs 45.0%; effect size 0.32, +12) and full-time enrollment also favored the intervention (46.0% vs 32.0%; effect size 0.36, +14), but neither contrast was statistically significant. [→ Summer Counseling 2018](#summer-counseling-2018)

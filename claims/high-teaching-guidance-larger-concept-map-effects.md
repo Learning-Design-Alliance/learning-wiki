@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: dimitris-anastasiou-clare-nangsin-wirngo-pantelis-bagos-2024
     resource: "https://doi.org/10.1007/s10648-024-09877-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Highly directed concept mapping (g = 1.792) showed a significantly higher effect than low guidance (g = 0.470) or scaffolded/interactive approaches (g = 0.905), but this became marginal (p = 0.074) after removing two influential studies. [→ Dimitris Anastasiou · Clare Nangsin Wirngo · Pantelis Bagos 2024](#dimitris-anastasiou-clare-nangsin-wirngo-pantelis-bagos-2024)

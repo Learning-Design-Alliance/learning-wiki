@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-19
 sources:
   - id: aikens-2023
     resource: "https://doi.org/10.1187/cbe.22-04-0076"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
+> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Self-efficacy for solving HWE and population growth problems significantly increased from pre to post survey (r = 0.58 and r = 0.51). [→ Aikens 2023](#aikens-2023)

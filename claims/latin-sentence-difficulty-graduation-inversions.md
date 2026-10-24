@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: henmon-1917
     resource: "https://eric.ed.gov/?q=Henmon+Measurement+of+Ability+in+Latin+Sentence+Tests"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The sixth sentence of Test II shows an inversion in the third year (percents correct 35.9, 61.9, 60.6, 66.2), while the fifth sentence is very satisfactory. [→ Henmon 1917](#henmon-1917)

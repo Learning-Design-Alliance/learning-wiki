@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: johanna-lacoe-2018
     resource: "https://doi.org/10.1080/0161956x.2018.1435047"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Serious incidents of student misconduct increased after the reform limited suspensions for nonviolent misconduct. [→ Johanna Lacoe 2018](#johanna-lacoe-2018)

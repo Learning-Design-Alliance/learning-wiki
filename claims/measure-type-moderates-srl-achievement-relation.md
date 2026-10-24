@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-21
 sources:
   - id: ben-eliyahu-2015
     resource: "https://doi.org/10.1007/s11409-015-9134-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A meta-analysis of SRL research demonstrates that observing SRL with online measures versus offline measures moderates the strength of the relationship observed between SRL processes and achievement measures. [→ Ben-Eliyahu 2015](#ben-eliyahu-2015)

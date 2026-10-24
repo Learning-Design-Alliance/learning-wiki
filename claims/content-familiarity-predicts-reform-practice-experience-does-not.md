@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: corcoran-2003
     resource: "https://doi.org/10.1037/e383112004-001"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i0`–`i1`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Each additional semester of college science was associated with a statistically significant .11 of a standard deviation increase in reform-based teaching practice. [→ Corcoran 2003](#corcoran-2003)

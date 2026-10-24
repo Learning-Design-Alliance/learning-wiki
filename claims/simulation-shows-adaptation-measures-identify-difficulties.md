@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: nwea-research-2020
     resource: "https://www.nwea.org/research/publication/three-measures-of-test-adaptation-based-on-optimal-test-information/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Applying the three measures to simulated adaptive, multistage, and fixed form tests demonstrates how they could be used in operational settings to identify difficulties with adaptation. [→ NWEA Research 2020](#nwea-research-2020)

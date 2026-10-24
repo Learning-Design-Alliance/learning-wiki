@@ -8,6 +8,8 @@ generated:
   by: claude/unspecified
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 1990
+source_checked: 2026-10-15
 sources:
   - id: kulik-et-al-1990
     resource: "https://doi.org/10.3102/00346543060002265"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=103 studies
+> **Currency** · newest study 1990 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 Which features of a mastery learning program, and of the evaluation, go with larger achievement effects.
 

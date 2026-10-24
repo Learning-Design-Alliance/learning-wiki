@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jorge-fábrega-2026
     resource: "https://doi.org/10.48550/arxiv.2610.02731"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Direction is visible in 146 of 150 sampled conversations (97.3%) and in every conversation with at least five student turns. [→ Jorge Fábrega 2026](#jorge-fabrega-2026)

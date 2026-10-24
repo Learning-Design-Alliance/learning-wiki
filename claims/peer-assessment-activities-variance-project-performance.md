@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: jingyan-lu-2012
     resource: "https://doi.org/10.1007/s11251-011-9177-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' online collaboration and evaluation activities explained about 12.8% of project performance variance, and peer feedback activities added a significant 14.2% variance change beyond controls and grading. [→ Jingyan Lu 2012](#jingyan-lu-2012)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: leman-figen-gül-2025
     resource: "https://doi.org/10.58278/0.2025.109"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Images aligning with future-themed prompts resembled science-fiction stage sets and yielded more favorable results, while prompts referencing architectural styles or local architectures did not yield the same desired outcomes. [→ Leman Figen Gül 2025](#leman-figen-gul-2025)

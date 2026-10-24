@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 1973
 sources:
   - id: pikulski-1973
     resource: "https://doi.org/10.1080/19388077409557262"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 1973 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Criterion-referenced measurement indicates mastery or absence of a defined skill rather than relative standing among test takers. [→ Pikulski 1973](#pikulski-1973)

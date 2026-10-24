@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: baumgartner-2025
     resource: "https://doi.org/10.1007/s11251-025-09709-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Years 1 and 2, participation significantly predicted end-of-semester conceptual understanding assessments (standardized β = 0.18–0.21); in Year 3 only the first assessment was significant (β = 0.13) and in Year 4 none were. [→ Baumgartner 2025](#baumgartner-2025)

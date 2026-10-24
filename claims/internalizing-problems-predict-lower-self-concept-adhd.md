@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: houck-2011
     resource: "https://doi.org/10.1016/j.pedn.2010.02.004"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` More internalizing problems are related to lower self-concept scores (r = -.29, p = .001), and internalizing problems uniquely predict self-concept in regression (β = -.36, p < .01). [→ Houck 2011](#houck-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: alicia-demers-2026
     resource: "https://www.mathematica.org/publications/evaluation-of-kipp-atlanta-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` KIPP Atlanta Collegiate High School is associated with higher rates of initial college enrollment among its students. [→ Alicia Demers 2026](#alicia-demers-2026)

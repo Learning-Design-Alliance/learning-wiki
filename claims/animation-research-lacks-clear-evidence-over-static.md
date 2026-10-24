@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: rebetez-2010
     resource: "https://doi.org/10.1007/s11251-009-9117-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The literature up to the study's date had not confirmed the intuitive expectation that animated graphics improve comprehension relative to static graphics, including in computer-supported collaborative learning settings. [→ Rebetez 2010](#rebetez-2010)

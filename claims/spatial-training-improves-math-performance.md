@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: spatial-training-improves-math-performance
 evidence_strength: emerging
+newest_evidence: 2022
 sources:
   - id: hawes-et-al-2022
     resource: "https://doi.org/10.1037/dev0001281"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small · n=3,765 participants across 29 studies, k=89 effect sizes
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Training learners' spatial skills — through mental rotation, spatial visualization, and similar tasks — transfers to improved performance in mathematics, particularly in areas with strong spatial components such as geometry, measurement, and graph interpretation.
 

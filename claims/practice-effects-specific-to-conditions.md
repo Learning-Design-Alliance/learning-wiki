@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1910
 sources:
   - id: foster-1910
     resource: "https://doi.org/10.1037/h0075685"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Increased ability depends on the particular material, time, instructions and conditions; tricks gained with dot-figures were valueless with other material, and the observers were not better observers or memorizers in general. [→ Foster 1910](#foster-1910)
@@ -48,3 +50,4 @@ Theoretical conclusion drawn from the experiment's results and introspections. T
 - [Practice increases observers' ability to reproduce briefly exposed visual material, with final-over-initial gains ranging from 6% to 44% (average 22%).](practice-improves-visual-reproduction-6-44-percent.md) — related
 - [Practice gains are greater for nonsense material (average final gain 28%) than for sense-material (average final gain 10%).](nonsense-material-gains-exceed-sense-material.md) — related
 - [Systematic practise gives little warrant for markedly improving adults' quick visual perception; the slight poetry gain is attributed to familiarity with the poem](practise-negligible-effect-apprehension.md) — related
+- [Retroactive inhibition fails to appear when memorized syllables are merely recognized rather than actively reproduced](retroactive-inhibition-absent-for-recognition.md) — related

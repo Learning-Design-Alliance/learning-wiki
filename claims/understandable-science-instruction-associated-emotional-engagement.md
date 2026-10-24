@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xin-xia-2026
     resource: "https://doi.org/10.1007/s11251-026-09800-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the main-effects multilevel model, each unit increase in perceived understandable science instruction is associated with a 0.18 increase in emotional engagement (b = 0.18, CI [0.16, 0.21], p < 0.001). [→ Xin Xia 2026](#xin-xia-2026)

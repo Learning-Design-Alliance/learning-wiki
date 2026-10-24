@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: matthew-barr-2020
     resource: "https://doi.org/10.25304/rlt.v28.2326"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students playing both local and online multiplayer scored more highly on I-ADAPT-M and CAS than other groups, and players engaging both cooperative types showed a U-shaped advantage in adaptability over those playing only team-based shooters. [→ Matthew Barr 2020](#matthew-barr-2020)

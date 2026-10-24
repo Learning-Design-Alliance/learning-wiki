@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: megan-kuhfeld-2026
     resource: "https://www.nwea.org/research/publication/tech-appendix-for-struggling-adolescent-readers-left-behind-evidence-of-post-covid-19-declines-and-pathways-forward/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A U.S. school district case study examines practices and conditions of a coherent instructional system and where it had the most impact. [→ Megan Kuhfeld 2026](#megan-kuhfeld-2026)

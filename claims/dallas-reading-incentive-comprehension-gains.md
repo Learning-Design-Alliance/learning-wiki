@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: roland-g-fryer-2010
     resource: "http://www.nber.org/papers/w15898"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effects on vocabulary were small and statistically insignificant; effects on language were marginally significant. [→ Roland G. Fryer 2010](#roland-g-fryer-2010)

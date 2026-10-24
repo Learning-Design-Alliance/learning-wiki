@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: marshall-c-2015
     title: Marshall C 2015
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On the Expressive One Word Picture Vocabulary Test, non-native signers scored below native signers, who scored below hearing children. [→ Marshall C 2015](#marshall-c-2015)

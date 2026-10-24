@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2012
     resource: "http://kc.vanderbilt.edu/pals/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Fuchs et al. (1997), the full sample showed significantly higher scores for PALS students on both reading outcome measures, but WWC calculations on the learning-disability subset found no statistically significant difference. [→ What Works Clearinghouse 2012](#what-works-clearinghouse-2012)

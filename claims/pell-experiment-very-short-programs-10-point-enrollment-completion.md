@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: jaime-thomas-2020
     resource: "https://ies.ed.gov/ncee/pubs/2021001/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among eligible low-income, un- or underemployed students, being offered Pell Grants usable in very short-term occupational programs increased enrollment in and completion of those programs by about 10 percentage points relative to not being offered the grants. [→ Jaime Thomas 2020](#jaime-thomas-2020)

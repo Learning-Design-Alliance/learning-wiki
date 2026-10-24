@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: jordan-j-bird-2024
     resource: "https://doi.org/10.48550/arxiv.2411.17593"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Among eight fine-tuned transformers, BERT achieved the highest unimodal F1 score of 0.75. [→ Jordan J. Bird 2024](#jordan-j-bird-2024)

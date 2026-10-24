@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: minsun-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2607.21257"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 62 studies (69%) targeted introductory programming learners, 57 studies (63%) were short-term, and supervision type and study environment were strongly associated (χ2(9) = 110.40, p < .001, Cramer's V = .66). [→ Minsun Kim 2026](#minsun-kim-2026)

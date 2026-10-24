@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: paneth-2024
     resource: "https://doi.org/10.1007/s11412-024-09422-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spearman correlations show the QCGE dimensions are weakly correlated except for CE and CC (moderate); a second model found no significant relationship between nonverbal behaviors and the experimental condition. [→ Paneth 2024](#paneth-2024)

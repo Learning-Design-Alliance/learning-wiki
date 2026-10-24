@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: charlott-sellberg-amit-sharma-2025
     resource: "https://doi.org/10.1007/s11412-024-09435-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In Episode 2, a lookout positioned at the chart table occasioned correction addressed through the hierarchically responsible officer-of-the-watch, showing spatial position as a display of role understanding. [→ Charlott Sellberg · Amit Sharma 2025](#charlott-sellberg-amit-sharma-2025)

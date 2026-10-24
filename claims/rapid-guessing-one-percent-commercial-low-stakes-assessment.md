@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-18
 sources:
   - id: steven-wise-2013
     resource: "https://www.nwea.org/research/publication/an-investigation-of-examinee-test-taking-effort-on-a-large-scale-assessment/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On average, rapid-guessing behavior was observed on only 1% of item responses in the studied instrument. [→ Steven Wise 2013](#steven-wise-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ahtisham-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38346"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Repeating a scripted question after it failed was followed by recovery in 28.1% of cases (AOR = 0.48 vs onset), whereas switching to addressing the error preserved recovery at 39.8% (AOR = 0.78, not different from onset). [→ Ahtisham 2026](#ahtisham-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-23
 sources:
   - id: rawlings-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101776"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Latent growth curve modeling over four time points showed a significant overall decrease in mathematics enjoyment and a significant increase in mathematics boredom across grades 1–3. [→ Rawlings 2023](#rawlings-2023)

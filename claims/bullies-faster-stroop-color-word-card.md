@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: medeiros-w-2016
     title: Medeiros W 2016
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` On the third Stroop card (color-word), the bully group had a shorter execution time than victims and bully-victims (r = −0.50 in both comparisons). [→ Medeiros W 2016](#medeiros-w-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: russell-scheinberg-2026
     resource: "https://doi.org/10.48550/arxiv.2606.22225"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Directional sentiment scores increased significantly after the task (mean +0.48, d=0.64), with 75% of participants becoming more positive. [→ Russell Scheinberg 2026](#russell-scheinberg-2026)

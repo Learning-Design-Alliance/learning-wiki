@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019
     resource: "https://doi.org/10.1007/s11409-019-09204-9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the high challenge process model, social challenge and off-task activities form an isolated process with a bi-directional pathway. [→ Cindy Paans & Erdem Onan & Inge Molenaar & Ludo Verhoeven & Eliane Segers 2019](#cindy-paans-erdem-onan-inge-molenaar-ludo-verhoeven-eliane-segers-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: danna-2021
     resource: "https://orcid.org/0000-0002-3596-880X"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` First-letter writing duration decreased with grade, with 1st graders slower than 3rd and 5th graders, who did not differ from each other. [→ Danna 2021](#danna-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: melissa-roderick-2013
     resource: "https://consortium.uchicago.edu/publications/high-school-future-challenge-senior-year-chicago-public-schools"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After matching students across schools to address selection bias, senior-year AP coursetaking is associated with increased likelihood of enrolling in colleges students are qualified to attend, but no association with retention is found. [→ Melissa Roderick 2013](#melissa-roderick-2013)

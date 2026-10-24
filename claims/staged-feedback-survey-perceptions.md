@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: sara-riazi-and-pedram-rooshenas-2026
     resource: "https://doi.org/10.48550/arxiv.2610.00870"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 28 survey respondents, 18 (64.3%) agreed they could make their own design decisions and 21 (75.0%) disagreed that the system revealed too much information too early. [→ Sara Riazi and Pedram Rooshenas 2026](#sara-riazi-and-pedram-rooshenas-2026)

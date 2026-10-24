@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: einziger-tzlil-2021
     resource: "https://doi.org/10.3390/brainsci11010100"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Path analysis found no indirect paths from effortful control or paternal inattention through childhood inattention symptoms to N2 amplitude (β = −0.06 and β = 0.03, both non-significant), while the model explained 29% of N2 variance with good fit. [→ Einziger Tzlil 2021](#einziger-tzlil-2021)

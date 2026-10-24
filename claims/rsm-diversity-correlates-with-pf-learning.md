@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: manu-kapur-2012
     resource: "https://doi.org/10.1007/s11251-012-9235-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The diversity of student-generated RSMs significantly correlates with how much students learn from productive failure. [→ Manu Kapur 2012](#manu-kapur-2012)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: liu-qingqi-2026
     resource: "https://doi.org/10.3390/bs16071110"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using the critical ratio for high-score versus low-score group differences (top and bottom 27%), eight items with nonsignificant or CR < 3 differences were removed, leaving 56 items. [→ Liu Qingqi 2026](#liu-qingqi-2026)

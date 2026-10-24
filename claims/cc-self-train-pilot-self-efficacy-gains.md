@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zain-naboulsi-2026
     resource: "https://doi.org/10.48550/arxiv.2604.17460"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` All 10 self-efficacy items showed statistically significant pre/post gains (p <0.001) with large effect sizes (Cohen's d range: 0.89–2.79) in a within-subjects pilot with 27 participants. [→ Zain Naboulsi 2026](#zain-naboulsi-2026)

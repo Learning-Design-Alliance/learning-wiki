@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: stereotype-risk
     title: stereotype-risk
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` If not developed carefully and with empathy, personas can cause problems by creating stereotypes; the authors report mitigating this by grounding personas in lived experiences and background situations. [→ stereotype-risk](#stereotype-risk)

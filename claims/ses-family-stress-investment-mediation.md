@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: tan-2024
     resource: "https://doi.org/10.1007/s10648-024-09929-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review identifies processes mediating SES influence, including how economic stress affects parenting in low-SES families (family stress model) and what high-SES parents do to support learning (family investment model). [→ Tan 2024](#tan-2024)

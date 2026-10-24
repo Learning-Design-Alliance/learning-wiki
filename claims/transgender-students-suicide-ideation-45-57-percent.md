@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: cerna-2021
     resource: "https://www.wested.org/resources/lgbtq-students-in-california/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Suicide ideation was reported by 45–57% of transgender students across all race/ethnicity groups, while no more than 20 percent of non-transgender students in each group reported seriously considering suicide in the past year. [→ Cerna 2021](#cerna-2021)

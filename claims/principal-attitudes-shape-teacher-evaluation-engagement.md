@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: shyjka-2022
     resource: "https://www.cps.edu/about/departments/talent/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Principals' attitudes toward and framing of REACH teacher evaluation mattered for teacher engagement in the evaluation process, with teachers reporting less engagement under principals who disliked or took a compliance approach to REACH. [→ Shyjka 2022](#shyjka-2022)

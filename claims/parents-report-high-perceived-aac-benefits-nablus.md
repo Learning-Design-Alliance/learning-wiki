@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jarrar-hala-2026
     resource: "https://doi.org/10.1186/s12887-026-07161-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a cross-sectional survey of 75 parents/caregivers, the perceived AAC benefit score had a median of 6 (IQR 4–6) out of 6, with 97.3% endorsing increased communication opportunities. [→ Jarrar Hala 2026](#jarrar-hala-2026)

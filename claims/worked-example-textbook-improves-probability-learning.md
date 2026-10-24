@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: begolli-2021
     resource: "https://doi.org/10.1007/s11251-021-09550-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Classrooms randomly assigned to the revised textbook with correct and incorrect worked examples and self-explanation prompts showed significantly greater probabilistic reasoning gains at posttest than control classrooms. [→ Begolli 2021](#begolli-2021)

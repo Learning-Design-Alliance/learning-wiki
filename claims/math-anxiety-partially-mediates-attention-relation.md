@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-17
 sources:
   - id: wu-2017
     resource: "https://doi.org/10.1016/j.cognition.2017.05.016"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Attention problems showed a direct positive path to math anxiety, which was in turn negatively related to WM, providing an additional attention-to-math pathway. [→ Wu 2017](#wu-2017)

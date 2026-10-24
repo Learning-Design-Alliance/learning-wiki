@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: junjie-yu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.02661"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across all six models, the Pearson correlation between safety score and task score is weak (|r| < 0.29; p > 0.05 for five of six models, with GPT-5.4 a marginal exception at r = 0.28, p = 0.01). [→ Junjie Yu 2026](#junjie-yu-2026)

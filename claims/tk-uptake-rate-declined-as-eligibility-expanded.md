@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: melnick-2024
     resource: "https://learningpolicyinstitute.org/product/progressing-toward-universal-prekindergarten-california"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` While TK enrollment numbers rose, the uptake rate among eligible 4-year-olds declined over the past 2 years because the eligible population increased more rapidly than enrollment. [→ Melnick 2024](#melnick-2024)

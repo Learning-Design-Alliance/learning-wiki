@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: kostopoulos-2025
     resource: "https://doi.org/10.1109/ACCESS.2025.3620473"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a field study with 10 faculty across two institutions, agentic teaching-assistant use was associated with a 25% reduction in administrative load and improved LMS data utilization. [→ Kostopoulos 2025](#kostopoulos-2025)

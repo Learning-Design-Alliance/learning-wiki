@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-15
 sources:
   - id: lorna-uden-gwo-jen-hwang-2026
     resource: "https://doi.org/10.1007/s40692-026-00398-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across experimental and review-based studies, GAI can enhance learning when embedded within appropriate pedagogical designs, but without explicit instructional and assessment structures it may undermine effortful cognitive processing and reflective engagement. [→ Lorna Uden · Gwo-Jen Hwang 2026](#lorna-uden-gwo-jen-hwang-2026)

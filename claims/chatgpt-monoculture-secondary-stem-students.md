@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: martin-lnenicka-and-petr-coufal-2026
     resource: "https://doi.org/10.1186/s40594-026-00637-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among the surveyed students, ChatGPT is overwhelmingly the most-used generative AI tool, far ahead of Gemini and Copilot. [→ Martin Lnenicka and Petr Coufal 2026](#martin-lnenicka-and-petr-coufal-2026)

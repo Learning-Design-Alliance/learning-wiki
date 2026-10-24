@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: new-research-chicago-showed-instructional-improvements-under-standards-reform-2022
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` District instructional resources were helpful for implementing strong practices when they were instruction-ready and tied to professional learning, while other instructional resources showed a null or negative relationship with practices. [→ New research: Chicago showed instructional improvements under standards reform 2022](#new-research-chicago-showed-instructional-improvements-under-standards-reform-2022)

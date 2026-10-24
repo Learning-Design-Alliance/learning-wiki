@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: bing-ru-teh-2014
     resource: "https://www.mathematica.org/publications/measuring-school-leaders-effectiveness-an-interim-report-from-a-multiyear-pilot-of-pennsylvanias"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors conclude that the pilot findings do not yet establish the validity of FFL scores for identifying effective and ineffective school leaders. [→ Bing-ru Teh 2014](#bing-ru-teh-2014)

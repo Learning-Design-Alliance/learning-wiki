@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: hassinger-das-2013
     resource: "https://doi.org/10.1016/j.jecp.2013.09.008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When controlling for other variables, executive functioning did not uniquely predict first-grade reading achievement, in contrast to its prediction of mathematics outcomes. [→ Hassinger-Das 2013](#hassinger-das-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: gupta-2026
     resource: "https://doi.org/10.48550/arxiv.2608.03531"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Under Equation (14a), the attainable capture-degradation threshold is nondecreasing in the accommodation coefficient, and at full accommodation the guarantee of Equation (5) is vacuous because an unsynchronised channel recovers content at the same fidelity as a legitimate one. [→ Gupta 2026](#gupta-2026)

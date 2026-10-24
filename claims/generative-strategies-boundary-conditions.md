@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: fiorella-2016
     resource: "https://doi.org/10.1007/s10648-015-9348-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` For each of the eight generative learning strategies, the review identifies potential boundary conditions that qualify when and for whom the strategy promotes learning. [→ Fiorella 2016](#fiorella-2016)

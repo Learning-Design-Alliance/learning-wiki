@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ye-2026
     resource: "https://doi.org/10.1186/s41239-026-00606-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ARPG+ reaches each quality threshold earliest: 2.2 ± 0.52 turns for threshold 4.0 versus 3.5 ± 0.85 for Rule, 4.8 ± 1.12 for Template, and 15.2 ± 2.85 for Baseline. [→ Ye 2026](#ye-2026)

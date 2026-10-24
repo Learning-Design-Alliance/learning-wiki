@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: li-2021
     resource: "https://www.frontiersin.org"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Age significantly moderated the vocabulary knowledge to reading accuracy and vocabulary knowledge to reading comprehension paths, with effects increasing with age (β = 0.05 and β = 0.09, both p < 0.001). [→ Li 2021](#li-2021)

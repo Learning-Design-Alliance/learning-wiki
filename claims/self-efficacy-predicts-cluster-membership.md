@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: adama-2026
     resource: "https://doi.org/10.48550/arxiv.2606.18541"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Binary logistic regression with GSE score predicting cluster membership was significant (χ2(234) = −3.4962, p < .0001; OR = 1.08, 95% CI [1.053, 1.117]); SeBIS and Pew showed no significant results. [→ Adama 2026](#adama-2026)

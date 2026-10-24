@@ -8,6 +8,7 @@ generated:
 id: teacher-expectation-effects-on-achievement
 aliases: [teacher-expectancy-effects-influence-student-achievement]
 evidence_strength:
+newest_evidence: 2010
 sources:
   - id: de-boer-et-al-2010
     resource: "https://doi.org/10.1037/a0017289"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · n=large (about 11,000 students, followed for 5 years)
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Teacher expectation effects on achievement -->
 
 The proposition behind this page is that teacher expectations about individual students' ability can influence those students' subsequent achievement, in part through differences in instructional treatment and interaction quality (the self-fulfilling-prophecy pathway: expectation → differential treatment → achievement change), not the accuracy of teacher judgments per se. The one study recorded here is associational: it shows that the part of teachers' expectations not explained by measured student characteristics predicts later performance, but it did not manipulate expectations, so it cannot show that they cause the difference.

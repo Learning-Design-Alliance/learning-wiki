@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: favero-2025
     resource: "https://doi.org/10.48550/arxiv.2507.06878"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Over one-third of U.S. adults aged 18–24 use ChatGPT regularly, with more than a quarter of their messages education-related, and 61% of surveyed students worry about data privacy. [→ Favero 2025](#favero-2025)

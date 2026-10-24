@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: saunders-2024
     resource: "https://doi.org/10.54300/358.825"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A 2015 study of the Urban Teacher Residency found students of UTR residents and graduates outperformed a matched group of peers taught by other novice teachers on 16 of 22 comparisons of state Regents exam scores. [→ Saunders 2024](#saunders-2024)

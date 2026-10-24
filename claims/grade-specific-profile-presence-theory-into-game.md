@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: er-2024
     resource: "https://doi.org/10.18608/jla.2024.8133"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The theory-into-game profile emerged only from Grades 1 to 5, the theory-into-practice profile appeared across all grades, and the traditional comprehensive profile did not emerge among Grade 1 students. [→ Er 2024](#er-2024)

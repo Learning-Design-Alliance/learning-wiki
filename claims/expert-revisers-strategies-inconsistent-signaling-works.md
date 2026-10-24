@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1991
 sources:
   - id: mary-h-sawyer-1991
     resource: "https://doi.org/10.1080/10862969109547744"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Britton et al.'s (1989) revisions of army training manual passages, only three of revisers' eight strategies corresponded to improved texts, all relating to signaling structure and together accounting for 50% of the variance in performance. [→ Mary H. Sawyer 1991](#mary-h-sawyer-1991)

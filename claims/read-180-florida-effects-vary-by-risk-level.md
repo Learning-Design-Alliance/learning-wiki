@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: read-180-evidence-summary-2012
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q3` · `i1` small
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In one Florida study, READ 180 outcomes were positive for students at moderate risk but negative for students at high risk, with an average effect size of +0.12. [→ READ 180 evidence summary 2012](#read-180-evidence-summary-2012)

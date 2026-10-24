@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
+recheck_by: 2012
 sources:
   - id: international-baccalaureate-diploma-program-students-in-chicagos-neighborhood-high-schools-more-likely-to-go-to-college-2007
     resource: "http://www.ccsr.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` IB DP students often lack the social capital necessary to navigate college course selection and access the support of college faculty, despite strong academic qualifications. [→ International Baccalaureate Diploma Program students in Chicago's neighborhood high schools more likely to go to college 2007](#international-baccalaureate-diploma-program-students-in-chicagos-neighborhood-high-schools-more-likely-to-go-to-college-2007)

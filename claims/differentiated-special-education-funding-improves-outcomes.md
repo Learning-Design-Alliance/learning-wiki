@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: krausen-2020
     resource: "https://www.wested.org/resources/strategic-resource-allocation/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A weighting study cited in the report found that differentiating resources by disability, disability category, or student need can lead to improved outcomes for students with disabilities. [→ Krausen 2020](#krausen-2020)

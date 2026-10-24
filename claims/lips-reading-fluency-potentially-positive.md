@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: what-works-clearinghouse-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/279"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Study authors found statistically significant effects favoring the LiPS group on the GORT–III Reading Accuracy and Reading Rate subtests, but WWC analyses found neither comparison statistically significant; the WWC-calculated effect size for each subtest was 0.43. [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)

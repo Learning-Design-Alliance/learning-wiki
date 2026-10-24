@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: scotty-d-craig-2008
     resource: "https://doi.org/10.1080/02699930701516759"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two of seven participants expressed too few affective states verbally, and anger, disgust, contempt, and curiosity were dropped due to floor effects, leaving reliable data only for boredom, confusion, and frustration. [→ Scotty D. Craig 2008](#scotty-d-craig-2008)

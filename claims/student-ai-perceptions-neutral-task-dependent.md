@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: padhy-2026
     resource: "https://doi.org/10.70593/deepsci.0202038"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student perceptions of AI use span viewing it as a valid learning resource and viewing it as a cheating method, varying with task type, transparency, and assessment design. [→ Padhy 2026](#padhy-2026)

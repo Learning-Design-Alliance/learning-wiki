@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-08
 sources:
   - id: what-works-clearinghouse-2007
     resource: "http://www.pearsondigital.com/pdfs/werp/researchsummary-werp.pdf"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2007 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Hecht & Close (2002) began with 140 full-day, at-risk Kindergarten students randomly selected from six schools; students from four intervention schools were matched to students in two comparison schools, and 64 students attrited, leaving a final analysis sample of 76. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

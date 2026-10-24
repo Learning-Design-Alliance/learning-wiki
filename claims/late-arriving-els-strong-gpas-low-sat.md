@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: de-la-torre-2024
     resource: "https://consortium.uchicago.edu/publications/english-learners-in-chicago-public-schools-a-spotlight-on-high-school-students"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Late-arriving English Learners who graduated had a 2.87 cumulative GPA, near the district average, but SAT scores of 882, well below the district average of 977. [→ de la Torre 2024](#de-la-torre-2024)

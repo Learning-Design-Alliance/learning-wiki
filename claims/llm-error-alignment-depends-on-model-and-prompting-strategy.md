@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ali-keramati-2026
     resource: "https://doi.org/10.48550/arxiv.2606.14113"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Mean nearest edit distances to human submissions show LLMs can resemble student errors (best 16.35, Claude Sonnet 4 with Self-Refine), but GPT-5 and Gemini 2.5 Pro often exceed 80. [→ Ali Keramati 2026](#ali-keramati-2026)

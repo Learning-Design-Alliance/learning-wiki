@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: iiskala-2021
     resource: "https://doi.org/10.1007/s11251-021-09558-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` VMSR was present at 5.9% (less successful) and 3.9% (more successful) in veterinary science, 1.3% in the more successful high school group, and 0.9% in the less successful engineering group. [→ Iiskala 2021](#iiskala-2021)

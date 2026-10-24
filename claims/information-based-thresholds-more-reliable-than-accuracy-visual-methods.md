@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-09
+recheck_by: 2022
 sources:
   - id: wise-2019
     resource: "https://www.nwea.org/research/publication/an-information-based-approach-to-identifying-rapid-guessing-thresholds/"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` In an empirical comparison study, the new information-based threshold methods more reliably set rapid-guessing thresholds than methods based on response accuracy or visual inspection of response-time distributions. [→ Wise 2019](#wise-2019)

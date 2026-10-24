@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: biotteau-m-2019
     resource: "https://doi.org/10.2147/NDT.S120514"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Positive effects of motor intervention were reported in 85% of studies reviewed by Yu et al, and interventions improved motor, cognitive, emotional, and psychological performances. [→ Biotteau M 2019](#biotteau-m-2019)

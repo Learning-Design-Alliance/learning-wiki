@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: mahir-akgun-and-sacip-toker-2026
     resource: "https://doi.org/10.48550/arxiv.2606.22328"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analyses of session logs indicated total exchange length per session did not differ significantly across the three conditions. [→ Mahir Akgun and Sacip Toker 2026](#mahir-akgun-and-sacip-toker-2026)

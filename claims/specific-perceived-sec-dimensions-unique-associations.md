@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-23
 sources:
   - id: collie-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101656"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Two specific perceived-SEC dimensions had unique associations beyond the global factor: social regulation (negative with external motivation and conduct problems) and tolerance (positive with autonomous motivation). [→ Collie 2022](#collie-2022)

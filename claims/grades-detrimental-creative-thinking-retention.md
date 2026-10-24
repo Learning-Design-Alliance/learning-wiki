@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1994
+source_checked: 2026-10-19
 sources:
   - id: kohn-1994
     resource: "https://eric.ed.gov/?id=ED376990"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 1994 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grades have been found to detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks, an effect attributed to grading itself rather than grade quality. [→ Kohn 1994](#kohn-1994)

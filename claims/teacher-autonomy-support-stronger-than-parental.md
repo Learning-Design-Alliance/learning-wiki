@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: mixed
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: bureau-2022
     resource: "https://doi.org/10.3102/00346543211042426"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the meta-analytic path model including both providers, direct and indirect paths from teacher autonomy support to self-determined motivation types and amotivation were stronger than those from parental autonomy support. [→ Bureau 2022](#bureau-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: shira-haderlein-2021
     resource: "https://doi.org/10.3102/00028312211046360"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When parents evaluate school quality, status carries more weight than achievement. [→ Shira Haderlein 2021](#shira-haderlein-2021)

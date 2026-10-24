@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: jia-nan-2026
     resource: "https://doi.org/10.1038/s41598-026-50711-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The authors report that Adaptive G-UKT achieves competitive state-of-the-art predictive performance on four benchmark datasets, with its strongest advantage under sparse observation regimes. [→ Jia Nan 2026](#jia-nan-2026)

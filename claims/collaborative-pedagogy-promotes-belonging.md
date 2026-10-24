@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: kelly-ann-allen-2025
     resource: "https://doi.org/10.1007/s10648-025-10055-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Pedagogies requiring students to work together are more likely to promote a sense of belonging, at least to other students, than many lecture-based pedagogies, though the degree depends on other students' attributes, values, and attitudes. [→ Kelly-Ann Allen 2025](#kelly-ann-allen-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: anique-b-h-de-bruin-2023
     resource: "https://doi.org/10.1007/s10648-023-09766-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ratings of experienced effort are a type of metacognitive judgment resulting from heuristic processing and therefore prone to biases, inferred from cues such as effort beliefs, prior task experience, fatigue, interest, and processing fluency. [→ Anique B. H. de Bruin 2023](#anique-b-h-de-bruin-2023)

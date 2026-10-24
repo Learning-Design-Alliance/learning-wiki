@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: de-la-torre-2019
     resource: "https://consortium.uchicago.edu"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 2018 CPS eighth-grade ELA PARCC data, only 1.3 percent of active ELs met expectations while 31.5 percent of former ELs did, and former ELs outperformed students never classified as ELs (25.9 percent). [→ de la Torre 2019](#de-la-torre-2019)

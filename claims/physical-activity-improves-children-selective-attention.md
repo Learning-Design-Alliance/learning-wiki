@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: bidzan-bluma-ilona-2018
     resource: "https://doi.org/10.3390/ijerph15040800"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Even a 12 min session of aerobic exercise improved the selective attention of children. [→ Bidzan-Bluma Ilona 2018](#bidzan-bluma-ilona-2018)

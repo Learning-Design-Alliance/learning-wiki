@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ernesto-lee-2026
     resource: "https://doi.org/10.35542/osf.io/u6xef_v2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Relative to zero-shot, few-shot anchoring lowers pairwise cosine (delta = -0.035), lowers construct equivalence (delta = -0.130), and raises readability dispersion (delta = +4.0 Flesch points), each at p = 0.004. [→ Ernesto Lee 2026](#ernesto-lee-2026)

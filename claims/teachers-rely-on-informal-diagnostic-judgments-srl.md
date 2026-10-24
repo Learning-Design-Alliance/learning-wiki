@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: yves-karlen-charlotte-dignath-2026
     resource: "https://doi.org/10.1007/s10648-026-10171-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers frequently depend on intuitive judgments rather than systematic diagnostic procedures grounded in SRL theory, increasing the risk of inaccurate judgments of students' SRL. [→ Yves Karlen · Charlotte Dignath 2026](#yves-karlen-charlotte-dignath-2026)

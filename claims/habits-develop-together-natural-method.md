@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1908
 sources:
   - id: book-1908
     resource: "https://scholar.google.com/scholar?q=The+Role+of+the+Teacher+in+the+Most+Expeditious+and+Economic+Learning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 1908 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` None of the elementary habits reach complete maturity before the next higher-order habits become possible; the various associations develop together. [→ Book 1908](#book-1908)

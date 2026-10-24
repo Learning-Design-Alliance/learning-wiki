@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: philip-i-pavlik-2021
     resource: "https://doi.org/10.1109/TLT.2021.3128569"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the Chinese tone learning dataset, models with memory features were not the best predictors; simpler models such as Model 8 were sufficient. [→ Philip I. Pavlik 2021](#philip-i-pavlik-2021)

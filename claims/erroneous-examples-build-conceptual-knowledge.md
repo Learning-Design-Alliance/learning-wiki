@@ -26,12 +26,14 @@ sources:
     rigour: "?"
 id: erroneous-examples-build-conceptual-knowledge
 evidence_strength: moderate
+newest_evidence: 2017
 ---
 
 # Erroneous examples improve conceptual understanding by forcing comparison with correct models.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 Studying a hypothetical peer's incorrect solution and being prompted to find, explain, and fix the error leads to deeper conceptual understanding, as it requires learners to discriminate between correct and incorrect features of a problem.
 

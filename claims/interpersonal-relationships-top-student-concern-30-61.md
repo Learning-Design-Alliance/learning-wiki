@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zhang-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1773198"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the qualitative interview component, interpersonal relationships accounted for 30.61% of coded responses, the most prominent concern. [→ Zhang 2026](#zhang-2026)

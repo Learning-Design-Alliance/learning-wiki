@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: abigail-victoria-gurin-schleifer-2026
     resource: "https://doi.org/10.48550/arxiv.2605.07647"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The authors summarise AI-model performance on the extremes of the quality spectrum (best and worst responses) as excellent regardless of model type and amount of task-specific data, with exceptions in their own table: two-shot GPT-4o on Item 2 at the low end, and Claude Opus 4.5 on Item 2, which was far off at every score level. [→ Abigail Victoria Gurin Schleifer 2026](#abigail-victoria-gurin-schleifer-2026)

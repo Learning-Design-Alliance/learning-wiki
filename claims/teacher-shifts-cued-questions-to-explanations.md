@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: anniken-furberg-2016
     resource: "https://doi.org/10.1007/s11412-016-9229-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the analysed excerpt on interpreting DNA profiles, repeated failures under cued questioning led the teacher to abandon prompting and explain the denotations of the DNA profiles directly, after which a student correctly identified the perpetrator's profile. [→ Anniken Furberg 2016](#anniken-furberg-2016)

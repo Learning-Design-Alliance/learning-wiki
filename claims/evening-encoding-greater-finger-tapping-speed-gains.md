@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: holz-j-2012
     resource: "https://doi.org/10.1371/journal.pone.0040963"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Evening-group adolescents improved finger-tapping speed significantly more than afternoon-group adolescents across both retention intervals. [→ Holz J 2012](#holz-j-2012)

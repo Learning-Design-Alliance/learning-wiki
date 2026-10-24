@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: montgomery-2010
     resource: "https://consortium.uchicago.edu/publications/passing-through-science-effects-raising-graduation-requirements-science-course-taking"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among CPS graduates, completion of three or more years of science rose from 35 percent (1993-95 cohorts) to 86 percent in the first policy year and 90 percent the next, in models controlling for incoming student characteristics. [→ Montgomery 2010](#montgomery-2010)

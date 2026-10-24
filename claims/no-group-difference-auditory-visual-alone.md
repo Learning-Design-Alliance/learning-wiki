@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: lorin-lachs-2001
     resource: "https://www.ncbi.nlm.nih.gov/pmc/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no significant difference between auditory-alone and visual-alone performance, t(19) = −0.72, n.s.; individually, eight children had higher visual-alone scores, nine higher auditory-alone, and three equal. [→ Lorin Lachs 2001](#lorin-lachs-2001)

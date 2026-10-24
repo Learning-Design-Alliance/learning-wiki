@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: read-summary-1
     title: read-summary-1
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The average effect of Pre-K Mathematics on reading & literacy related outcomes was not statistically significant (summary effect size 0.09, p = 0.40), based on two studies. [→ read-summary-1](#read-summary-1)

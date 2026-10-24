@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1999
+recheck_by: 2004
 sources:
   - id: shazia-rafiullah-miller-1999
     resource: "https://consortium.uchicago.edu/publications/how-do-kenwood-graduates-perform"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2004**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Table 8 reports counts of freshmen receiving Fs in English, in math, and in both subjects, to show whether the same students fail both. [→ Shazia Rafiullah Miller 1999](#shazia-rafiullah-miller-1999)

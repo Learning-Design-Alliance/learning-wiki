@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: cooper-2010
     resource: "https://doi.org/10.1080/10790195.2010.10850328"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ANOVA showed significant differences in mean cumulative GPA among the three visit groups for all reported quarters (e.g., Fall 2008: F=7.387, p=0.001), with the contrast between >10 visits and no visits significant at p=.029. [→ Cooper 2010](#cooper-2010)

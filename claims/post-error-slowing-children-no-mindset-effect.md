@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: schroder-hans-s-2017
     resource: "https://doi.org/10.1016/j.dcn.2017.01.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` RTs on correct hits following false alarms were longer than those following correct hits (F(1, 122) = 55.81, p < 0.001, η2p = 0.31), with no Accuracy x Mindset interaction; post-error and post-correct accuracy did not differ without the covariate. [→ Schroder Hans S. 2017](#schroder-hans-s-2017)

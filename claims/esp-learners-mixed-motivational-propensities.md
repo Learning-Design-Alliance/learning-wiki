@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-20
+recheck_by: 2021
 sources:
   - id: liu-2016
     resource: "https://doi.org/10.5539/elt.v9n4p92"
@@ -47,6 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 4 of 4 entries) · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Amotivation items scored high (means above 3.8), which the author attributes to compulsory English requirements. [→ Liu 2016](#liu-2016)

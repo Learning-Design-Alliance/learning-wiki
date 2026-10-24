@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2007
+recheck_by: 2012
 sources:
   - id: shogren-2007
     title: Shogren 2007
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2012**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The article examines individual and ecological predictors of self-determination for students with learning disabilities, mild and moderate mental retardation, and other health impairments. [→ Shogren 2007](#shogren-2007)

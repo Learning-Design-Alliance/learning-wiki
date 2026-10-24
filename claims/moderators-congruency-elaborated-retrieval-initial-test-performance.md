@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: steven-c-pan-and-timothy-c-rickard-2018
     resource: "http://dx.doi.org/10.1037/bul0000151"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Moderator analyses indicate that response congruency, elaborated retrieval practice, and initial test performance strongly influence whether positive transfer occurs. [→ Steven C. Pan and Timothy C. Rickard 2018](#steven-c-pan-and-timothy-c-rickard-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: gershenson-2013
     resource: "http://www.bls.gov/tus/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The estimated ten-minute summer reading gap between children of college-educated parents and parents who did not complete high school is not statistically significant. [→ Gershenson 2013](#gershenson-2013)

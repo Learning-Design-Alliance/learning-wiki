@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1990
+recheck_by: 1995
 sources:
   - id: patsy-m-lightbown-and-nina-spada-1990
     resource: "https://doi.org/10.1017/S0272263100009517"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 1990 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1995**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across four intact classes of intensive ESL learners, substantial between-class differences were found in accuracy of use of English structures including progressive -ing and adjective–noun order in noun phrases. [→ Patsy M. Lightbown and Nina Spada 1990](#patsy-m-lightbown-and-nina-spada-1990)

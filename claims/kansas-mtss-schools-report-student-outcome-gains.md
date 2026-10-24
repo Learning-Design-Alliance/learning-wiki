@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: kristin-reedy-2015
     resource: "https://eric.ed.gov/?id=ED559729"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the 2014 survey, 89.5% of respondents reported MTSS positively affected students scoring at benchmark to some or a great extent, 70.3% reported effects on state assessment proficiency, 77.1% on decreases in office discipline referrals, and 63.4% on decreases in special education referrals. [→ Kristin Reedy 2015](#kristin-reedy-2015)

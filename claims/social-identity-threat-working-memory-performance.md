@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: alexander-s-browman-2025
     resource: "https://doi.org/10.1007/s10648-025-10009-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Women reminded of gender-math stereotypes showed greater intrusive negative thoughts and working memory load and performed worse on a math task than women not experiencing threat and men, who performed similarly. [→ Alexander S. Browman 2025](#alexander-s-browman-2025)

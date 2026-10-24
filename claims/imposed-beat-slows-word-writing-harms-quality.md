@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1918
 sources:
   - id: west-1918
     resource: "https://scholar.google.com/scholar?q=%22The+Relation+of+Rhythm+to+the+Handwriting+Movement%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A writer with habituated speed and rhythm is slowed by any beat slow enough to be consciously followed. [→ West 1918](#west-1918)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: jacobson-2025
     resource: "https://eric.ed.gov/?id=ED673563"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Cluster analysis finds that districts with similar English Learner student populations, program sizes, and instructional staff demographics and qualifications are not confined to the same geographic areas. [→ Jacobson 2025](#jacobson-2025)

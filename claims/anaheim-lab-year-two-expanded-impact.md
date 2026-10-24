@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: schiner-2025
     resource: "https://doi.org/10.51388/20.500.12265/261"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q1 i?` In 2024-25, Anaheim High School's lab saw continued cross-disciplinary use, student management of technical and logistical project components, growing student use that prompted plans for a second lab, and emerging but still-limited teacher engagement. [→ Schiner 2025](#schiner-2025)

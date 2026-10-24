@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: christina-clark-tuttle-2013
     resource: "https://www.mathematica.org/publications/kipp-middle-schools-impacts-on-achievement-and-other-outcomes"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For this phase the sample was nearly doubled to 43 KIPP middle schools, including all KIPP middle schools open at the start of the study in 2010 for which relevant data could be acquired from local districts or states. [→ Christina Clark Tuttle 2013](#christina-clark-tuttle-2013)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: maaike-e-prangsma-2008
     resource: "https://doi.org/10.1007/s11251-007-9026-5"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In each condition pupils' scores increased significantly from pre-test to post-test and from pre-test to retention test (p = .00). [→ Maaike E. Prangsma 2008](#maaike-e-prangsma-2008)

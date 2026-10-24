@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: nwea-2021
     resource: "https://www.nwea.org/research/publication/spanish-map-growth-reading-technical-report/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Because the English and Spanish assessments measure similar but not identical reading constructs, NWEA statistically linked the two scales based on a bilingual group design to allow score comparisons across languages and create the Spanish vertical scale. [→ NWEA 2021](#nwea-2021)

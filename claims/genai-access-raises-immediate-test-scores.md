@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: zara-contractor-and-germán-reyes-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08849"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Undergraduates randomly allowed to use generative AI while learning an unfamiliar topic score 7.2 pp (0.28 SD) higher on an immediate unaided knowledge test than the AI-forbidden control group. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)

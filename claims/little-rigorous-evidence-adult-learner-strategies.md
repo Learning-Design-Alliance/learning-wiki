@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-18
 sources:
   - id: kelley-borradaile-2021
     resource: "https://www.mathematica.org/publications/adult-education-strategies-identifying-and-building-evidence-of-effectiveness"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A systematic research review of adult education strategies finds that there is not yet much evidence to guide decision making around instructional and support strategies for adult learners. [→ Kelley Borradaile 2021](#kelley-borradaile-2021)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: hornung-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07965"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a classroom deployment, undergraduate participants rated scenario authenticity highest (M = 4.21) and challenge difficulty alignment lowest (M = 3.12) on 5-point Likert items. [→ Hornung 2026](#hornung-2026)

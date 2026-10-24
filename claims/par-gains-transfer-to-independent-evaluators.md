@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: heejin-do-2026
     resource: "https://doi.org/10.48550/arxiv.2609.03215"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using a DeBERTa-based scorer, GRPO achieves average trait-level QWK of 0.598 versus 0.479 for SFT (+0.119); using an evaluation-only verifier, 0.647 versus 0.501 (+0.146). [→ Heejin Do 2026](#heejin-do-2026)

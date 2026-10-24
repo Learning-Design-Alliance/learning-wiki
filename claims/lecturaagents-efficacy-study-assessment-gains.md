@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: jaward-sesay-2026
     resource: "https://doi.org/10.48550/arxiv.2606.16428"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an efficacy study with 45 students across three systems, LecturaAgents achieved the strongest post-learning assessment performance across all learner groups, followed by Learn Your Way and Adobe Reader. [→ Jaward Sesay 2026](#jaward-sesay-2026)

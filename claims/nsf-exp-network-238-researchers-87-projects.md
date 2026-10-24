@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: prado-2024
     resource: "https://doi.org/10.51388/20.500.12265/230"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Social network analysis of NSF project collaborations from 2011 to 2022 depicted 238 researchers connected to 87 projects representing 116 expertise areas. [→ Prado 2024](#prado-2024)

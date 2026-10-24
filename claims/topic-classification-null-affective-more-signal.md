@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Zero-shot classification of concern topics showed no consistent evidence of association with wearable outcomes. [→ topic-null](#topic-null)

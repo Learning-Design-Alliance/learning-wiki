@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: yoon-2016
     resource: "https://doi.org/10.1007/s11251-016-9388-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Results from students' classroom experiences and learning over the 2 years are offered to further illustrate the impact of the instructional supports. [→ Yoon 2016](#yoon-2016)

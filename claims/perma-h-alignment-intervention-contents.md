@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: pauliina-avola-2025
     resource: "https://doi.org/10.1007/s10648-025-09986-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 43 of the 46 interventions had content aligning with the PERMA-H model; engagement aligned with 25 interventions, relationships with 17, positive emotions with 14, and health with 8. [→ Pauliina Avola 2025](#pauliina-avola-2025)

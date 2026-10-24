@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: viki-m-young-2024
     resource: "https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative analysis of post-pilot interviews identified four key lessons for sustaining solutions: garnering buy-in at multiple levels, iterating on implementation, embedding and leveraging existing systems, and demonstrating benefits. [→ Viki M. Young 2024](#viki-m-young-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: vi-ly-dianne-a-vella-brodrick-2024
     resource: "https://doi.org/10.1007/s10648-024-09963-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Positive affect significantly increased after nature-related activities in school nature grounds and relaxing in school greenspace, but school garden lessons showed no significant effect on positive affect overall. [→ Vi Ly · Dianne A. Vella-Brodrick 2024](#vi-ly-dianne-a-vella-brodrick-2024)

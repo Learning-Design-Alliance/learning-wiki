@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mathias-mejeh-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102394"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The interaction between joy and transformative feedback was significant, unexpectedly attenuating the positive joy–regulation association. [→ Mathias Mejeh 2026](#mathias-mejeh-2026)

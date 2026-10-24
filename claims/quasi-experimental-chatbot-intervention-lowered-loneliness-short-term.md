@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yan-d-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1827795"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A quasi-experimental mixed-method study reported lower loneliness after a short social-chatbot intervention, followed by lower social-anxiety scores; causal leverage remains below a well-controlled randomized experiment. [→ Yan D 2026](#yan-d-2026)

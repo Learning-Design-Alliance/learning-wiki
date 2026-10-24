@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-16
 sources:
   - id: sandra-leaton-gray-2025
     resource: "https://doi.org/10.1007/s10805-025-09642-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Murdock and Anderman's integrated model indicates extrinsic goals focused on external rewards are more strongly associated with cheating, while mastery-oriented classrooms reduce its likelihood. [→ Sandra Leaton Gray 2025](#sandra-leaton-gray-2025)

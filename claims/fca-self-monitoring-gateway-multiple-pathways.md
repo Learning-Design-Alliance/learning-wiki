@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: gibson-2025
     resource: "https://doi.org/10.48550/arxiv.2605.24142"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Formal concept analysis of the scenario taxonomy found self-monitoring present in all scenarios beyond foundational novice, and that bidirectional integration and bottom-up specialization represent viable alternative routes to expertise. [→ Gibson 2025](#gibson-2025)

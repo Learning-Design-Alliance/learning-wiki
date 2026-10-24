@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: fong-2018
     resource: "https://eric.ed.gov/?id=ED592524"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across all A-G categories, about 75% of courses had the same annualized units in CALPADS and UC data, with small improvement from 74.3% (2011-12) to 76.4% (2013-14). [→ Fong 2018](#fong-2018)

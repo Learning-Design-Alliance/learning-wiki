@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1996
 sources:
   - id: sebring-1996
     resource: "https://consortium.uchicago.edu/publications/charting-reform-chicago-students-speak"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only 28 percent of tenth graders, compared to 42 percent of eighth graders, report that teachers show considerable personal concern. [→ Sebring 1996](#sebring-1996)

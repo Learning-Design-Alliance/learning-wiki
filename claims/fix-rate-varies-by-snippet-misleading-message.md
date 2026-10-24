@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: alexandru-radu-moraru-2026
     resource: "https://doi.org/10.48550/arxiv.2608.20896"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Fix rate varied significantly across snippets, with snippet A showing the lowest success rate (53%), attributed to the standard interpreter output failing to reveal the true root cause and pointing to the non-offending line. [→ Alexandru-Radu Moraru 2026](#alexandru-radu-moraru-2026)

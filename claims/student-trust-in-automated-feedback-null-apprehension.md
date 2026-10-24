@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: matey-yordanov-2026
     resource: "https://doi.org/10.48550/arxiv.2607.23566"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An independent samples t-test on Trust in Automated Feedback Validity showed no statistically significant apprehension; students explicitly favoured the objective, granular marginalia over conventional human remarks. [→ Matey Yordanov 2026](#matey-yordanov-2026)

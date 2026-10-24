@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: imses-og-evidence-rating-moderate-2023
     resource: "https://www.imse.com"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Kindergarten and first-grade students in IMSE OG+ classrooms made significantly greater gains on NWEA MAP Reading than peers, with an overall effect size of +0.33. [→ IMSE's OG+ (Evidence Rating: Moderate) 2023](#imses-og-evidence-rating-moderate-2023)

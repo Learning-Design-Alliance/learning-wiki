@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: nadja-m-gentner-2024
     resource: "https://doi.org/10.1007/s11251-024-09671-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Self-efficacy showed no statistically significant change over the four prompted journals of unit 1 (a failure to detect change; equivalence was not tested), F(2.72,198.68)=2.27, p=.09, ηp²=0.03. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

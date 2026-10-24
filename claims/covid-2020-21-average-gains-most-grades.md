@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: learning-during-covid-19-reading-and-math-achievement-in-the-2020-2021-school-year-2021
     resource: "https://www.nwea.org/research/publication/learning-during-covid-19-reading-and-math-achievement-in-the-2020-2021-school-year/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Despite pandemic disruptions, students across most grades in the studied range still made gains in reading and math on average during 2020-21, though outcomes were lower across multiple dimensions. [→ Learning during COVID-19: Reading and math achievement in the 2020-2021 school year 2021](#learning-during-covid-19-reading-and-math-achievement-in-the-2020-2021-school-year-2021)

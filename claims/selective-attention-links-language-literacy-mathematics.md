@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: stevens-2012
     resource: "https://doi.org/10.1016/j.dcn.2011.11.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review relates selective attention processes to three domains important to academic foundations: language, literacy, and mathematics. [→ Stevens 2012](#stevens-2012)

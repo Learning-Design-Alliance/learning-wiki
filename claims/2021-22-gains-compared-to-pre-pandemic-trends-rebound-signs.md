@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: kuhfeld-2022
     resource: "https://www.nwea.org/research/publication/technical-appendix-for-student-achievement-in-2021-22-cause-for-hope-and-continued-urgency/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The study's first research question asked how achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether any initial signs of rebounding or recovery appeared. [→ Kuhfeld 2022](#kuhfeld-2022)

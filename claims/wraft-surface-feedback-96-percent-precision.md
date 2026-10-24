@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: adnan-labib-2026
     resource: "https://doi.org/10.48550/arxiv.2607.14524"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Expert raters judged 1970 of 2049 ERRANT-tagged edits (96.14%) both necessary and effective in the surface-level feedback test of 40 essays. [→ Adnan Labib 2026](#adnan-labib-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: michael-noetel-2023
     resource: "https://doi.org/10.1007/s10648-023-09786-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Elastic-net regression models trained on 70% of the data predicted 4.39% of the variance in students' change in engagement on held-out data. [→ Michael Noetel 2023](#michael-noetel-2023)

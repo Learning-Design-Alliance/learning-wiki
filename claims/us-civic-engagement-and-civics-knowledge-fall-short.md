@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: brian-p-gill-2019
     resource: "https://www.mathematica.org/publications/a-life-lesson-in-civics-how-democracy-prep-charter-schools-boost-student-voting"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Recent presidential-election voter turnout in the United States is about 61 percent, and only 22 percent of U.S. 8th graders passed the 2014 NAEP civics test. [→ Brian P. Gill 2019](#brian-p-gill-2019)

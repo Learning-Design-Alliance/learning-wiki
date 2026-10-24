@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1914
 sources:
   - id: downey-1914
     resource: "https://www.google.com/search?q=%22Form+and+position+in+handwriting+interpretation%22+Downey+Anderson"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Among unmutilated illegible-writing samples, A 1 and B 1 correlate r = .552 in reading speed, A 1 and C 1 correlate .410, and B 1 and C 1 give a coefficient too low to be significant. [→ Downey 1914](#downey-1914)

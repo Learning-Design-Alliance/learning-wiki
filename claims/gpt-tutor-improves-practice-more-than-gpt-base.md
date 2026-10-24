@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-17
 sources:
   - id: bastani-hamsa-2025
     resource: "https://doi.org/10.1073/pnas.2422633122"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` GPT Tutor raised assisted practice scores by 0.361 (out of 1) relative to control, a 127% improvement, exceeding GPT Base's 0.137. [→ Bastani Hamsa 2025](#bastani-hamsa-2025)

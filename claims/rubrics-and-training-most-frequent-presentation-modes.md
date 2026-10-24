@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: xingshi-gao-2024
     resource: "https://doi.org/10.1016/j.edurev.2023.100588"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among presentation modes, rubrics (n = 33) and training (n = 31) were the most frequently implemented supports in the reviewed online peer feedback studies. [→ Xingshi Gao 2024](#xingshi-gao-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: deliang-wang-and-cunling-bian-2026
     resource: "https://doi.org/10.48550/arxiv.2607.28630"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the intervention, students reported establishing norms to cross-check AI hallucinations and to engage in iterative negotiation with the tool instead of accepting the first response. [→ Deliang Wang and Cunling Bian 2026](#deliang-wang-and-cunling-bian-2026)

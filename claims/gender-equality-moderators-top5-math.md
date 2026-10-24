@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: keller-2021
     resource: "http://dx.doi.org/10.1037/edu0000685"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q4`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` A rise in the tertiary enrollment ratio by 1% was associated with an increase of 0.04% in the percentage of female students in the top 5% in mathematics (b = 0.04). [→ Keller 2021](#keller-2021)

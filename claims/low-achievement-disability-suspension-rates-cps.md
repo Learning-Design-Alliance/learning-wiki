@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: stevens-2015
     resource: "https://consortium.uchicago.edu/publications/discipline-practices-chicago-schools-trends-use-suspensions-and-arrests"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Among high school students in the bottom quartile of prior test scores, 27 percent received an OSS in 2013-14; students with disabilities had a 24 percent OSS rate versus 15 percent for those without. [→ Stevens 2015](#stevens-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: preregistration-and-registered-reports-2021
     resource: "https://osf.io/ya594"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a large-scale online learning experiment, significant effects found after revising exclusion criteria post hoc did not replicate when the study was re-run in a new wave under a new preregistration. [→ Preregistration and Registered Reports 2021](#preregistration-and-registered-reports-2021)

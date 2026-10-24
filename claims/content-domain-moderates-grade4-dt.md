@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: said-metwaly-2019
     resource: "https://scholar.google.com/scholar?q=Does+the+Fourth-Grade+Slump+in+Creativity+Actually+Exist"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Task content domain was the only significant moderator of the Grade 3–4 overall DT difference, explaining 19.61% of between-study and 56.30% of within-study variance, though neither domain's SMD differed significantly from zero. [→ Said-Metwaly 2019](#said-metwaly-2019)

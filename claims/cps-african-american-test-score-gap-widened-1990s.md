@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
 sources:
   - id: todd-rosenkranz-2002
     resource: "https://consortium.uchicago.edu/publications/2001-cps-trend-review-iowa-tests-basic-skills"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although African-American students' average scores improved, the gap between them and other ethnic groups widened over ten years, and by 2001 Latino students averaged two to three months higher in reading and three to four months higher in math than African-American students. [→ Todd Rosenkranz 2002](#todd-rosenkranz-2002)

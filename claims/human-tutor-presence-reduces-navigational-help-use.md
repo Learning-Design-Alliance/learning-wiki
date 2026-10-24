@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-20
 sources:
   - id: bruno-de-lièvre-2006
     resource: "https://doi.org/10.1007/s11251-005-6076-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Activations of the navigational help were significantly lower when an HT tutor was accessible (F=6.490, p=0.011), with no proactivity or interaction effect. [→ Bruno De Lièvre 2006](#bruno-de-lievre-2006)

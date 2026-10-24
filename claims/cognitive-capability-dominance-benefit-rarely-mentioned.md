@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: vosniadou-2024
     resource: "https://doi.org/10.1007/s11409-024-09374-1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most common SRL capability promoted was cognitive (56.1%), followed by metacognitive (22%) and motivational (14.2%), with only two instances of affective capability promotion. [→ Vosniadou 2024](#vosniadou-2024)

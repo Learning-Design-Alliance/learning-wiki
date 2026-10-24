@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: digital-promise-2017
     resource: "https://doi.org/10.51388/20.500.12265/62"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A 2015 Google/Gallup poll found 9 out of 10 U.S. parents want their kids to learn how to code at school, with lower-income parents valuing it even more. [→ Digital Promise 2017](#digital-promise-2017)

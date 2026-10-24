@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: garron-gianopulos-2019
     resource: "https://www.nwea.org/research/publication/from-through-course-summative-to-adaptive-through-year-models-for-large-scale-assessment-a-literature-review/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` If districts follow conflicting pacing guides under a distributed blueprint, some students may be tested on content they did not have an opportunity to learn, violating Standards Standard 12.8. [→ Garron Gianopulos 2019](#garron-gianopulos-2019)

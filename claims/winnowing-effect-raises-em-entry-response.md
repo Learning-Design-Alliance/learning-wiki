@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: clark-2010
     resource: "https://doi.org/10.48550/arxiv.1009.0260"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` E&M students enter with 66% initial response, significantly higher than their Mechanics exit, which the authors attribute most likely to weaker students leaving the sequence before E&M. [→ Clark 2010](#clark-2010)

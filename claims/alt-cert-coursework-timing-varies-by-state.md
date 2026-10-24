@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: jill-constantine-2009
     resource: "https://ies.ed.gov/ncee"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Most alternatively certified teachers completed some of their coursework before entering the classroom, although the extent varied by state. [→ Jill Constantine 2009](#jill-constantine-2009)

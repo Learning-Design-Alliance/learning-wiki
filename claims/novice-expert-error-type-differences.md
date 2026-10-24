@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: m-gartmeier-2008
     resource: "https://doi.org/10.1007/s12186-008-9006-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Brodbeck et al. (1992) found no significant differences between computer novices and experts in total errors, but novices made far more knowledge-lacking errors while experts committed more routine errors. [→ M. Gartmeier 2008](#m-gartmeier-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: keith-weber-2013
     resource: "https://doi.org/10.1080/00461520.2013.865527"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most of 118 surveyed research-active mathematicians agreed that publication in a journal, journal quality, or a trusted authority increased their confidence that a proof is correct. [→ Keith Weber 2013](#keith-weber-2013)

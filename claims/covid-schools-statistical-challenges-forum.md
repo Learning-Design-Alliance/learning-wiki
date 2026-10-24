@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: megan-kuhfeld-2020
     resource: "https://www.nwea.org/research/publication/niss-ingram-olkin-forum-covid-and-the-schools-modeling-openings-closings-and-learning-loss/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The forum gathered experts from around the country to share the statistical and data-analytic challenges they faced in reporting on and researching the impact of COVID-19 in U.S. schools. [→ Megan Kuhfeld 2020](#megan-kuhfeld-2020)

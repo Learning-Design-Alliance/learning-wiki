@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-21
 sources:
   - id: de-bruin-2025
     resource: "https://doi.org/10.1007/s10648-025-10042-2"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across two experiments, increasing the utility value of distinguishing as a task goal and providing conditional knowledge that distinguishing and detection differences matter fostered learners' use of interleaving. [→ de Bruin 2025](#de-bruin-2025)

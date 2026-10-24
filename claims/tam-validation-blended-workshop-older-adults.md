@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: martínez-alcalá-ci-2018
     title: Martínez-Alcalá CI 2018
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the TAM-based validation, most BLG participants agreed the system was easy to use, useful, attractive to use, and that they intended to keep using it. [→ Martínez-Alcalá CI 2018](#martinez-alcala-ci-2018)

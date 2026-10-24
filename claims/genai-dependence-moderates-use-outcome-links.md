@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shojaei-sa-2026
     title: Shojaei SA 2026
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The GenAI use × GenAI dependence interaction is negative and significant for critical-thinking disposition (β = −0.239) and employability (β = −0.191), both p < 0.001. [→ Shojaei SA 2026](#shojaei-sa-2026)

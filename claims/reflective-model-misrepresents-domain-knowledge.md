@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A high alpha on a domain knowledge test may reflect general learner-related factors, so the latent factor could be misinterpreted as general intelligence rather than domain knowledge. [→ misrep-1](#stadler-2021)

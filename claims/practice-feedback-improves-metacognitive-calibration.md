@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: michael-w-asher-paulo-f-carvalho-2026
     resource: "https://doi.org/10.1007/s10648-025-10103-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Study 2, both practice conditions showed prediction errors about 13 points lower than lecture, which overestimated performance by 26 percentage points; the practice conditions did not differ. [→ Michael W. Asher & Paulo F. Carvalho 2026](#michael-w-asher-paulo-f-carvalho-2026)

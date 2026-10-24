@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: naomi-duran-and-susan-kowalski-2026
     resource: "https://www.nwea.org/research/publication/the-middle-school-science-course-landscape-course-offerings-enrollment-patterns-and-implications-for-assessment/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret their growth results as running counter to prevailing assumptions about the importance of aligning standards, curriculum, instruction, and assessment. [→ Naomi Duran and Susan Kowalski 2026](#naomi-duran-and-susan-kowalski-2026)

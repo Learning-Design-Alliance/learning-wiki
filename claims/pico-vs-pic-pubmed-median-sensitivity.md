@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: mette-brandt-eriksen-2018
     resource: "https://doi.org/10.5195/jmla.2018.345"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An observational study of 15 PubMed search strategies reported that PICO queries gave increased median sensitivity and precision compared with truncated PIC queries when the first 40 records were assessed, but on the full output PIC detected about 85% of relevant records versus about 69% for PICO. [→ Mette Brandt Eriksen 2018](#mette-brandt-eriksen-2018)

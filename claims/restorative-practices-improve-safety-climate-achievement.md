@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: depaoli-2023
     resource: "https://doi.org/10.54300/701.445"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r?` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Studies of restorative practice programs consistently find they reduce exclusionary discipline, decrease student misbehavior, and improve school climate. [→ dePaoli 2023](#depaoli-2023)

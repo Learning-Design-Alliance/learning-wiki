@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: urban-2024
     resource: "https://doi.org/10.1016/j.compedu.2024.105031"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Task resolution with ChatGPT was perceived as moderately easier, F(1,142) = 12.16, η2p = .08 (d = 0.56 in Table 2). [→ Urban 2024](#urban-2024)

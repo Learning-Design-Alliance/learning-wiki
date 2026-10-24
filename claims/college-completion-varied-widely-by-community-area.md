@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: mckoy-2021
     resource: "https://toandthrough.uchicago.edu/tool/cps/comm"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among immediate college enrollees in the class of 2013, community-area college completion rates ranged from 24 to 74 percent, and in 29 of 99 high schools the rate was below 30 percent. [→ McKoy 2021](#mckoy-2021)

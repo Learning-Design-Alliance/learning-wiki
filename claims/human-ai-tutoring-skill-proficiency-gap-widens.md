@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: ashish-gurung-2026
     resource: "https://doi.org/10.48550/arxiv.2605.11155"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- title before 2026-10-15: Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students -->
 
 ## Subclaims

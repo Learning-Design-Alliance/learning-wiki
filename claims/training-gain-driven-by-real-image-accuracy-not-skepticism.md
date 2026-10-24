@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: negar-kamali-2026
     resource: "https://doi.org/10.48550/arxiv.2606.28510"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Accuracy on real images increased by 14.2 percentage points (95% CI: [0.7, 27.7]) after training, a corresponding reduction in false-positive errors on real images. [→ Negar Kamali 2026](#negar-kamali-2026)

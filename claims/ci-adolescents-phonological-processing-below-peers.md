@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: geers-ann-e-hayes-heather-2011
     resource: "https://doi.org/10.1097/AUD.0b013e3181fa41fa"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` CI-HS students averaged a Word Attack quotient of 70 (2 SD below norms), made 62% phonologically plausible spelling errors versus 89% for controls, and repeated only 42% of phonemes correctly versus 96% for controls. [→ Geers Ann E.; Hayes Heather 2011](#geers-ann-e-hayes-heather-2011)

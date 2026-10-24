@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: stenbom-2026
     resource: "https://doi.org/10.19173/irrodl.v27i2.9314"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that AI's roles in learning communities underscore risks of passivity, diminished authenticity, and overdependence when reflective inquiry is bypassed. [→ Stenbom 2026](#stenbom-2026)

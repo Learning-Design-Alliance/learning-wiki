@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: map-growth-technical-report-for-20242025-2026
     resource: "https://www.nwea.org/research/publication/map-growth-technical-report/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Differential item functioning analyses indicate the vast majority of items show negligible DIF across gender and racial/ethnic groups. [→ MAP Growth Technical Report for 2024–2025 2026](#map-growth-technical-report-for-20242025-2026)

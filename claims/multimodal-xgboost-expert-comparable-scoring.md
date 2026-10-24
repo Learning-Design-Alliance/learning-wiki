@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hung-yue-suen-and-kuo-en-hung-2026
     resource: "https://doi.org/10.1109/TLT.2026.3693864"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Seven speaker-independent XGBoost regression models trained on 10,360 MOOC video segments reached R² = 0.48–0.61, Spearman's ρ = 0.69–0.78, and MAE = 0.43–0.57 against expert BARS ratings. [→ Hung-Yue Suen and Kuo-En Hung 2026](#hung-yue-suen-and-kuo-en-hung-2026)

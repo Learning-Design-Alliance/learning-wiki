@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zijing-wu-and-qiang-li-2026
     resource: "https://doi.org/10.1186/s41239-026-00604-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AHP analysis of 18 experts' pairwise ratings produced a clear hierarchy: curriculum design (0.3878) ranked first, nearly double the second-ranked dimension, while cross-cultural adaptability (0.0735) ranked last. [→ Zijing Wu and Qiang Li 2026](#zijing-wu-and-qiang-li-2026)

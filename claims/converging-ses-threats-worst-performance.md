@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2007
 sources:
   - id: spencer-2007
     resource: "https://dx.doi.org/10.1007/s11211-007-0047-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Performance of low-SES students is at its worst when the threatening conditions converge, relative to the other reported conditions. [→ Spencer 2007](#spencer-2007)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: equity-focused-schools-carry-all-students-to-high-levels-2014
     resource: "https://eric.ed.gov/?id=ED559627"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` None of the four schools had extensive formative assessment training, yet their equity focus led teachers to apply formative assessment elements and use evidence regularly. [→ Equity-focused Schools Carry All Students to High Levels 2014](#equity-focused-schools-carry-all-students-to-high-levels-2014)

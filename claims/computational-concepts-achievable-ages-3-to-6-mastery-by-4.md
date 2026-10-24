@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children aged 3 to 6 could achieve the basic computational concepts addressed by the voluntary game, and full mastery was possible by age 4 irrespective of gender. [→ analytics-1](#zapata-caceres-2021)

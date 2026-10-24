@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: ali-protik-2013
     resource: "https://www.mathematica.org/publications/working-paper-staffing-a-lowperforming-school-behavioral-responses-to-selective"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The incentive program offers high-performing teachers $20,000 to transfer into the district's hardest-to-staff schools across 10 school districts. [→ Ali Protik 2013](#ali-protik-2013)

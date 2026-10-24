@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: honig-2021
     resource: "https://doi.org/10.24059/olj.v25i2.2237"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The consistent course layout of a program-wide template offered cross-course familiarity that supported the Learner Intentions quality of learner presence and produced high ratings for course organization. [→ Honig 2021](#honig-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2000
 sources:
   - id: eva-erdosne-toth-2000
     resource: "https://doi.org/10.1207/s1532690xci1804_1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean robust CVS use scores rose from .57 of 9 (6.3%) preinstruction to 7.0 (78%) postinstruction, and no student was a consistent robust user before instruction versus 12 of 22 after. [→ Eva Erdosne Toth 2000](#eva-erdosne-toth-2000)

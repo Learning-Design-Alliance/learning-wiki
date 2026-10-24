@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: rivkin-2023
     resource: "https://consortium.uchicago.edu/publications/training-retaining-effective-school-leaders"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In their first two years, students at schools with residency completers scored about 0.07 standard deviations more per year in math and roughly 0.05 standard deviations more in reading than at schools with non-residency new principals. [→ Rivkin 2023](#rivkin-2023)

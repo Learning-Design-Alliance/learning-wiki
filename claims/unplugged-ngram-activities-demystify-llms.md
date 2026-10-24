@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ben-swift-2026
     resource: "https://doi.org/10.1145/3786228.3786237"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants across secondary, tertiary and executive-education workshops consistently report that the hands-on activity helps them build a new mental model of how LLMs work, with the most common insight being that LLMs do probability and randomness at scale rather than reasoning. [→ Ben Swift 2026](#ben-swift-2026)

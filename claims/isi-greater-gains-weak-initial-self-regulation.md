@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-17
 sources:
   - id: connor-carol-mcdonald-2010
     resource: "https://doi.org/10.1016/j.jsp.2010.06.003"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2010 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Students with HTKS scores in the lowest quartile (fewer than 25 of 40 points) in ISI classrooms showed significantly greater self-regulation gains than peers in control classrooms, with the difference growing as teachers' A2i use increased (d = .19 at 70 minutes; d = .96 at 285 minutes). [→ Connor Carol McDonald 2010](#connor-carol-mcdonald-2010)

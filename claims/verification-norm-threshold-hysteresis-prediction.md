@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: muminova-2026
     resource: "https://doi.org/10.29333/ejmste/19481"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Below a critical value of the teacher-set verification requirement the class settles into treating model output as authoritative, while above it a self-sustaining regime of critical verification is expected to emerge. [→ Muminova 2026](#muminova-2026)

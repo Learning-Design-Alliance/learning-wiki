@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-17
 sources:
   - id: kiguel-2023
     resource: "https://www.proquest.com/dissertations-theses/docview/30488487"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schools' 5Essentials Survey results explained 36% of the differences across schools in their effects on bullying, driven by Supportive Environment, which on its own explained 35% of the variation. [→ Kiguel 2023](#kiguel-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kim-m-mitchell-2023
     resource: "https://doi.org/10.1007/s10648-023-09798-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Across postsecondary studies, the average correlation between writing self-efficacy and writing performance is weak, with only 20% of performance-measuring studies achieving r, rs, or β > 0.40. [→ Kim M. Mitchell 2023](#kim-m-mitchell-2023)

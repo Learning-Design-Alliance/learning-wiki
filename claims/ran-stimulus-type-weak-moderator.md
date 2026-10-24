@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: koponen-2017
     resource: "https://doi.org/10.1037/edu0000182"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Numeric RAN produced nominally larger correlations than non-numeric RAN (β = .04, p < .01), but the authors flag the small beta as a possible type I error artifact. [→ Koponen 2017](#koponen-2017)

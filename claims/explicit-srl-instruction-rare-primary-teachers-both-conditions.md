@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: patrick-sins-2024
     resource: "https://doi.org/10.1007/s11409-023-09368-5"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In a quasi-experimental observation study of primary teachers, explicit SRL strategy instruction was rare in both the experimental and the control condition. [→ Patrick Sins 2024](#patrick-sins-2024)

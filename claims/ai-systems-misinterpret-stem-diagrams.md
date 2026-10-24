@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: sun-y-2026
     resource: "https://doi.org/10.1186/s40561-026-00459-9"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Existing AI systems fail to accurately capture topological relationships such as node adjacency and edge directionality in real-world STEM diagrams, producing incomplete or distorted structures. [→ Sun Y. 2026](#sun-y-2026)

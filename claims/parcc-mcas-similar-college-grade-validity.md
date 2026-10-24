@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
+recheck_by: 2018
 sources:
   - id: ira-nichols-barrer-2015
     resource: "https://www.mathematica.org/publications/predictive-validity-of-mcas-and-parcc-comparing-10th-grade-mcas-tests-to-parcc-integrated-math-ii"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The validity of PARCC assessment scores in predicting college grades is similar to the validity of MCAS scores. [→ Ira Nichols-Barrer 2015](#ira-nichols-barrer-2015)

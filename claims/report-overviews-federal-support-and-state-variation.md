@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: alicia-harrington-2022
     resource: "https://www.mathematica.org/publications/understanding-the-capacity-of-state-apprenticeship-systems-apprenticeship-evidence-building"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The first report in the series describes federal support for state apprenticeship systems and how systems vary across states in key characteristics. [→ Alicia Harrington 2022](#alicia-harrington-2022)

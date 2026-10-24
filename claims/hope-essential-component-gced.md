@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: stewart-williams-2020
     resource: "https://doi.org/10.32674/jise.v9isi.1877"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In his 2014 peace proposal Ikeda devotes an entire section to how value creation starts with hope, positioning hope as an essential component of global citizenship education. [→ Stewart Williams 2020](#stewart-williams-2020)

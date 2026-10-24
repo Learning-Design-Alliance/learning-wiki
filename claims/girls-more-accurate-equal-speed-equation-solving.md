@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: susac-a-2014
     title: Susac A 2014
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q3` · `i1` small
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Girls were more accurate than boys (Gender main effect on accuracy, effect size η2 p = 0.019). [→ Susac A 2014](#susac-a-2014)
@@ -66,3 +68,4 @@ Same ANOVA design on reaction times: the Gender main effect was not statisticall
 - [No significant gender differences in CTAT performance within either educational pathway](no-gender-differences-ctat-performance.md) — related
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
+- [In this group the average girl's grades equal or exceed the average boy's in all six subjects, with the largest advantage in Latin](girl-boy-average-grade-comparison-1912.md) — related

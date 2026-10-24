@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
 sources:
   - id: allensworth-2004
     resource: "https://consortium.uchicago.edu/publications/ending-social-promotion-dropout-rates-chicago-after-implementation-eighth-grade"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Age-17 dropout rates stayed at 29-30 percent for the first two postpolicy cohorts, declined slightly with the third, and fell to 25 percent with the fourth cohort through the gate. [→ Allensworth 2004](#allensworth-2004)

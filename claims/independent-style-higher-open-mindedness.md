@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: balta-2018
     resource: "https://doi.org/10.5430/ijhe.v7n6p106"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Games Howell post hoc analysis showed individuals with independent learning style scored significantly higher on open-mindedness than those with avoidant, collaborative, and competitive learning styles. [→ Balta 2018](#balta-2018)

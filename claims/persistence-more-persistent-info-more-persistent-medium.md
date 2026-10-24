@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: pierre-dillenbourg-2006
     resource: "https://doi.org/10.1207/s15327809jls1501_9"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Results are interpreted in terms of persistence, with more persistent information exchanged through the more persistent medium. [→ Pierre Dillenbourg 2006](#pierre-dillenbourg-2006)

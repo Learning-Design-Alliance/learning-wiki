@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: gottfried-2013
     resource: "http://epaa.asu.edu/ojs/article/view/1361"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Participation in math club has a positive, statistically significant relationship with cumulative high school math GPA after controlling for student, family, and school covariates, with a standardized regression coefficient of 0.27 in the full model. [→ Gottfried 2013](#gottfried-2013)

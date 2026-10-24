@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: lavie-sfard-2019
     resource: "https://doi.org/10.1080/10508406.2019.1646650"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q3` · n=4 children (1 focal case followed in depth, 3 corroborating), ages 2(1)-4(6) across the sample
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 A longitudinal teaching experiment tracing one child's numerical development over 18 months (corroborated by three additional cases) found a consistent three-stage sequence — unbonded precursor routines, then separately vertically-bonded quantitative and numerical routines, then horizontally-bonded coalescence into a discourse of cardinality — with the same qualitative sequence, though not the same pace, across all four children studied.
 

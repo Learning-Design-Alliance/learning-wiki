@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: veraksa-ne-2021
     resource: "https://doi.org/10.18844/cjes.v16i5.6224"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In 22 kindergarten groups, the ESOS Teaching about Emotions subscale correlated positively with the ECERS-R Space and Furnishings subscale (r = 0.431, p = .038). [→ Veraksa N.E. 2021](#veraksa-ne-2021)

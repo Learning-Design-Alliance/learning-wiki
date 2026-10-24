@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: guttormsen-schär-2007
     resource: "https://doi.org/10.1080/15391523.2007.10782497"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-14: Learner flow control over animations was rarely used and did not correlate with learning performance -->
 

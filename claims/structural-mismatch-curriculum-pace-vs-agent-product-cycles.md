@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: nama-2026
     resource: "https://doi.org/10.48550/arxiv.2605.27396"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` A structural mismatch exists between the speed of agentic AI deployment and the pace of institutional learning systems, which the author argues is permanent unless literacy delivery is redesigned. [→ Nama 2026](#nama-2026)

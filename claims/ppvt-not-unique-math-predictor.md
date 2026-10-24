@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: verdine-2014
     resource: "https://doi.org/10.1016/j.jecp.2014.02.012"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Model 2, the PPVT was not a significant predictor in the overall model (std. = 0.193, t = 1.69, p = .100), although entered alone at step 1 it accounted for 41% of variability in mathematics skills. [→ Verdine 2014](#verdine-2014)

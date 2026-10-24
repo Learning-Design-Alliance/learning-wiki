@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: mixed
+newest_evidence: 2007
+source_checked: 2026-10-07
 sources:
   - id: sra-real-math-building-blocks-prek-2007
     resource: "http://www.gse.buffalo.edu/org/buildingblocks/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2007 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The 2007 trial found a statistically significant difference favoring Building Blocks for Math on the Geometry section of the Building Blocks Assessment (effect size 1.40, improvement index +42). [→ SRA Real Math Building Blocks PreK 2007](#sra-real-math-building-blocks-prek-2007)

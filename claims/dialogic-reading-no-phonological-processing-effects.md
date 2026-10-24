@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: wwc-intervention-report-dialogic-reading-2007
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The WWC rating for phonological processing is no discernible effects, based on one study (Lonigan et al., 1999) finding no statistically significant effects on any of four measures. [→ WWC Intervention Report: Dialogic Reading 2007](#wwc-intervention-report-dialogic-reading-2007)

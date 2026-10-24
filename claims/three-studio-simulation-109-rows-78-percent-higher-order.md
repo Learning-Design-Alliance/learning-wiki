@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nizam-kadir-2026
     resource: "https://doi.org/10.48550/arxiv.2610.00085"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The three-studio simulation produced 109 evidence rows, of which 85 (78.0%) were assigned to higher-order Bloom categories and 24 (22.0%) to lower-order categories. [→ Nizam Kadir 2026](#nizam-kadir-2026)

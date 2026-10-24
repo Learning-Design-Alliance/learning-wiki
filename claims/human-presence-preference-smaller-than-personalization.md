@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tomlinson-2026
     resource: "https://doi.org/10.1038/s41598-026-52798-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When formats were grouped by source, 73.8% of students ranked human-recorded videos as most preferred, significantly above chance (p<0.001) but smaller in magnitude than the personalization effect. [→ Tomlinson 2026](#tomlinson-2026)

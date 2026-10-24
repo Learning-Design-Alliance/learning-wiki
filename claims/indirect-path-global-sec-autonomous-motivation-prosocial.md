@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: collie-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101656"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The only significant indirect association ran from global perceived-SEC through autonomous motivation to prosocial behavior (β = .23, SE = .05, p < .001, 95% CI[.14, .33]). [→ Collie 2022](#collie-2022)

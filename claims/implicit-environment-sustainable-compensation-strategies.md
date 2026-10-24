@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: aiso-heinze-2018
     resource: "https://doi.org/10.1007/s11251-018-9457-1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The implicit group used compensation-type strategies more frequently than the explicit group at post-test (55 vs. 29) and at both follow-ups (65 vs. 35 at T3; 75 vs. 23 at T4), with the frequency increasing from T2 to T4. [→ Aiso Heinze 2018](#aiso-heinze-2018)

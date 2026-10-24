@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: andrea-boyle-2014
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 11 schools, a greater reported PD focus on ELL-related topics was generally associated with teachers reporting improved effectiveness teaching ELLs. [→ Andrea Boyle 2014](#andrea-boyle-2014)

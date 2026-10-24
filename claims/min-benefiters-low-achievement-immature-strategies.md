@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: rhodes-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11360214/"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Seventeen adolescents (9 solution-time only, 8 dual benefiters) were predicted extreme min-counting benefits, yet used it less than peers (t(186) = −4.51, p < .001) and relied on immature sum, max, and finger counting (t(186) = 5.80, p < .001). [→ Rhodes 2018](#rhodes-2018)

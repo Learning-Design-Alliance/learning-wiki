@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: spitzer-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102181"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a within-student analysis, students' relative number of closed knowledge gaps was significantly higher when the notification badge was turned on than when it was turned off (b = 0.43, p < .001). [→ Spitzer 2025](#spitzer-2025)

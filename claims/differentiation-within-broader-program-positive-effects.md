@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: deunk-2018
     resource: "https://doi.org/10.1016/j.edurev.2018.02.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Using differentiation as part of a broader program or reform had small to moderate positive effects on students' performance. [→ Deunk 2018](#deunk-2018)

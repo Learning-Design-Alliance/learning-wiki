@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: ancess-2019
     resource: "https://learningpolicyinstitute.org/product/social-and-emotional-learning-case-study-bronxdale"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` A higher percentage of Bronxdale 9th- and 10th-graders earned sufficient credits to be on track for graduation than comparison, borough, and citywide counterparts. [→ Ancess 2019](#ancess-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: marsh-2008
     resource: "https://doi.org/10.1007/s10648-008-9075-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In reanalysis of the Dutch data (876 students, 33 classes), the negative effect of class-average ability on self-evaluations was significant for all seven subjects, and comparison-person choice had no effect. [→ Marsh 2008](#marsh-2008)
@@ -67,3 +69,4 @@ Multilevel reanalysis (Seaton et al. 2008c) of Huguet et al. (2001) data from 1,
 - [Class-average achievement and chosen upward comparisons each make substantial, unique negative contributions to math self-beliefs when modeled simultaneously](bflpe-generalized-and-specific-others-unique-effects.md) — related
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — related
 - [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](bflpe-experimental-situational-self-concept.md) — related
+- [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](math-class-strongest-bflpe-course-tracking.md) — related

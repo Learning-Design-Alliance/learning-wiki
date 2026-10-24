@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2006
+recheck_by: 2009
 sources:
   - id: kahne-2006
     resource: "https://consortium.uchicago.edu/publications/small-schools-larger-scale-first-three-years-chicago-high-school-redesign-initiative"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Principal instructional leadership (effect size = 0.09) and quality professional development (effect size = 0.13) showed no statistically significant CHSRI advantage; only one improvement-practice measure was even marginally significant. [→ Kahne 2006](#kahne-2006)

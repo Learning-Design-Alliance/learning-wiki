@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-14
 sources:
   - id: noetel-2022
     resource: "https://doi.org/10.3102/00346543211052329"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2`–`q3` · `i1` small
+> **Currency** · newest study 2022 · checked against its sources 2026-10-14 (automated, 2 of 2 entries) · not reviewed by a person
 
 <!-- title before 2026-10-14: Multimedia design principles produce a moderate average improvement in learning (g = 0.38), with large differences between principles -->
 

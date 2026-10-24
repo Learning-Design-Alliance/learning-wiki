@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: zixin-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2605.14322"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Model rankings reshuffle across the three benchmark stages: Stage 2 correlates weakly with Stage 1 (ρ=0.24) and Stage 3 (ρ=0.21), while Stages 1 and 3 correlate more closely (ρ=0.58), and the median gap between a model's best and worst stage rank is seven positions. [→ Zixin Chen 2026](#zixin-chen-2026)

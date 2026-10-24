@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: johannes-katsarov-2021
     resource: "https://doi.org/10.1007/s10648-021-09630-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Contrary to hypothesis H11, learner groups differed significantly in meta-regression: high-school students and general citizens benefited more (coefficient 1.02, p < .05) and higher-education students/professionals less (coefficient -0.30, p < .01) than researchers for judgment-related learning. [→ Johannes Katsarov 2021](#johannes-katsarov-2021)

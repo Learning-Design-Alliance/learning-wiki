@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: luxton-reilly-2009
     resource: "https://doi.org/10.1080/08993400903384844"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis comparing peer marks with teacher-assigned marks found a mean correlation of 0.69 between teacher and peer marks over all the studies considered. [→ Luxton-Reilly 2009](#luxton-reilly-2009)

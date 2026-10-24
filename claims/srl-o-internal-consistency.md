@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: broadbent-2023
     resource: "https://doi.org/10.1007/s11409-022-09319-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` In the validation sample, nine of the ten SRL-O factors had internal consistency estimates above 0.70, while study environment was a bit lower (omega = 0.665). [→ Broadbent 2023](#broadbent-2023)

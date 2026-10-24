@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: terrell-2026
     resource: "https://eric.ed.gov/?id=ED681344"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Dual enrollment participation is associated with an approximately 8.5 percentage point increase in the probability of enrolling in college compared to non-participants, an observational association rather than a causal estimate. [→ Terrell 2026](#terrell-2026)

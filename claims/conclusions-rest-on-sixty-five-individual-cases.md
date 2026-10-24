@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1910
+source_checked: 2026-10-24
 sources:
   - id: carrie-bansom-squire-1910
     resource: "https://eric.ed.gov/?q=Graded+Mental+Tests+Squire"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1910 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The number of children tested was too small for sweeping generalizations: eighty children in all, ten per group, of whom fifteen were retarded, leaving sixty-five cases on which conclusions were drawn. [→ Carrie Bansom Squire 1910](#carrie-bansom-squire-1910)

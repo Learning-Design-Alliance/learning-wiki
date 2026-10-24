@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: björn-b-de-koning-huib-k-tabbers-2011
     resource: "https://doi.org/10.1007/s10648-011-9173-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learners profited from instruction with gestures only when the gestures conveyed a different problem-solving strategy than the one expressed in speech. [→ Björn B. de Koning & Huib K. Tabbers 2011](#bjorn-b-de-koning-huib-k-tabbers-2011)

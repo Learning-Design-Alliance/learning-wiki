@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: martinez-roig-2026
     resource: "https://doi.org/10.1007/s44322-026-00072-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 13 studies, Pepper functioned as a tutor or teaching assistant in six studies (46.2%), as a learning partner or tutored agent in four (30.8%), and as a social mediation agent in inclusive contexts in three (23.1%). [→ Martinez-Roig 2026](#martinez-roig-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2004
+recheck_by: 2007
 sources:
   - id: john-q-easton-2004
     resource: "https://consortium.uchicago.edu/publications/teacher-and-principal-responses-grow-network-preliminary-evaluation-use-chicago-public"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` About 60 percent of grade 4-8 teachers reported using their Grow Web account to see student results, and 50-54 percent endorsed each component of Grow as useful or used. [→ John Q. Easton 2004](#john-q-easton-2004)

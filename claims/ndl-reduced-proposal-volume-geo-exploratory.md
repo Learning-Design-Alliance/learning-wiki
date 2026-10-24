@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: fesler-2022
     resource: "https://www.mathematica.org/publications/no-deadlines-synthetic-control-and-exploratory-outcomes-analysis-and-recommendations-for-a-future"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Relative to synthetic control counterfactuals, the Antarctic Research and Arctic Research Opportunities NDL programs received 123 to 128 fewer proposals in the three years after NDL implementation. [→ Fesler 2022](#fesler-2022)

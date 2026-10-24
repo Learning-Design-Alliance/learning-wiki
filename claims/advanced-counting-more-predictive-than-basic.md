@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: nguyen-2016
     resource: "https://doi.org/10.1016/j.ecresq.2016.02.003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In a model including both basic and advanced counting, advanced counting was predictive (β = 0.33, p < 0.001) while basic counting was not significant (β = 0.08, n.s.), and the two coefficients differed significantly (F = 7.28, p < 0.01). [→ Nguyen 2016](#nguyen-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: kurvers-2009
     resource: "https://doi.org/10.1007/s11145-008-9129-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both groups of non-readers differed significantly from literate adults in all tasks except the signs task, while the two non-reader groups did not differ significantly from each other in most tasks. [→ Kurvers 2009](#kurvers-2009)

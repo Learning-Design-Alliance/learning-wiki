@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: mixed
+newest_evidence: 2008
 sources:
   - id: jeroen-janssen-2008
     resource: "https://doi.org/10.1007/s11251-008-9078-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` GD groups produced significantly better essays in terms of total grounds quality, total conceptual quality, and average conceptual quality. [→ Jeroen Janssen 2008](#jeroen-janssen-2008)

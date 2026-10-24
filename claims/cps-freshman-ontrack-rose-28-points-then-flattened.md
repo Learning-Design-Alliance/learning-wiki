@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: nagaoka-2020
     resource: "https://toandthrough.uchicago.edu/tool/cps/2019/#/milestones"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The Freshman OnTrack rate increased from 61 percent for the 2007 cohort to 89 percent for the 2019 cohort, and has held steady since 2015. [→ Nagaoka 2020](#nagaoka-2020)

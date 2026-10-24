@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: evgeny-chukharev-hudilainen-and-tatiana-a-klepikova-2016
     resource: "https://doi.org/10.1558/cj.v33i3.26055"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Fully acquired experimental-group units (set L) received credit at 50.1% versus 60.7% for previously known units, a significant difference (p < 0.001, one-tailed), suggesting students did not reach the knowledge level of familiar words. [→ Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova 2016](#evgeny-chukharev-hudilainen-and-tatiana-a-klepikova-2016)

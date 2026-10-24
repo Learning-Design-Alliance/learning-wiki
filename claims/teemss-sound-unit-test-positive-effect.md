@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: sound-test-1
     title: sound-test-1
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Students taught the TEEMSS sound unit scored significantly higher than comparison students taught the same topic with regular methods (effect size 0.65, improvement index +24, p = 0.03). [→ sound-test-1 (2)](#sound-test-1-2)

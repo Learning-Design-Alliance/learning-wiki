@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: brandon-pardi-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15572"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In a satisfaction survey of 22 previous capstone students, three themes dominated team-assignment priorities: interesting topic, preferred teammates, and skill/career alignment. [→ Brandon Pardi 2026](#brandon-pardi-2026)

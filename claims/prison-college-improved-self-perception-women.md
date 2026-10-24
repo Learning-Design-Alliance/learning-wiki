@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: jillian-baranger-2018
     resource: "https://doi.org/10.1177/0032885518776380"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Former students described shifts from feeling something was wrong with them to feeling capable and qualified, and described empowerment and perseverance gained through coursework. [→ Jillian Baranger 2018](#jillian-baranger-2018)

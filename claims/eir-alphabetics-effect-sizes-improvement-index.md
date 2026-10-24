@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: early-intervention-in-reading-2008
     resource: "http://www.earlyinterventioninreading.com"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The average improvement index for alphabetics was +36 percentile points, ranging from +29 to +42 across findings. [→ Early Intervention in Reading® 2008](#early-intervention-in-reading-2008)

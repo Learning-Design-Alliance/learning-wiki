@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: charlie-thompson-2023
     resource: "https://eric.ed.gov/?id=ED642542"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Most students report feeling close to others at school (70%), experiencing good teacher-student relationships (79%), and feeling happy to be at the school (82%). [→ Charlie Thompson 2023](#charlie-thompson-2023)

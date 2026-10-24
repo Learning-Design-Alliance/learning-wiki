@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: gautam-biswas-2016
     resource: "https://doi.org/10.1007/s40593-015-0057-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A study of 40 students found 18 made very little progress, 16 taught Betty a correct (or nearly correct) map, and 6 made meaningful progress. [→ Gautam Biswas 2016](#gautam-biswas-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: soland-2017
     resource: "https://doi.org/10.1080/08957347.2016.1247844"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` While value-added magnitudes shift with scale, the relative rank ordering of teachers is comparatively stable under mild transformations. [→ Soland 2017](#soland-2017)

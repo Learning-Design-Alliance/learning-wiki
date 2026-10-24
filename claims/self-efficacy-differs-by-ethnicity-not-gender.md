@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: hanson-2017
     resource: "https://doi.org/10.5296/jei.v3i1.10479"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students identifying as White and Asian self-scored significantly higher on self-efficacy for classroom tasks than other subcategories of students' culture. [→ Hanson 2017](#hanson-2017)

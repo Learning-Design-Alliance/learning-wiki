@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: irving-2013
     resource: "https://doi.org/10.48550/arxiv.1312.1953"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In week 1, inter-group exchanges about experiments were tentative, brief, and superficial; by week 8, students engaged in long detailed discussions and shared experiment-specific expertise. [→ Irving 2013](#irving-2013)

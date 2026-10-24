@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-17
+recheck_by: 2028
 sources:
   - id: raymond-a-opoku-2025
     resource: "https://doi.org/10.18608/jla.2025.8543"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A baseline logistic-regression classifier trained on OULAD showed unequal true-positive rates across gender, age, IMD, and disability subgroups, indicating disparate impact; the authors say the same holds for standard models such as XGBoost but show subgroup rates only for LR. [→ Raymond A. Opoku 2025](#raymond-a-opoku-2025)

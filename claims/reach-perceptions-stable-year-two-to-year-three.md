@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: sporte-2016
     resource: "http://consortium.uchicago.edu/page/teacher-evaluation"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Year 3 survey findings were very similar to Year 2 findings, indicating little change in perceptions of fairness and usefulness with more experience. [→ Sporte 2016](#sporte-2016)

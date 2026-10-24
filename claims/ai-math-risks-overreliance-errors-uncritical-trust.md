@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: omirzakova-2026
     resource: "https://doi.org/10.20897/ejsteme/19221"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Heavy dependence on ready-made AI solutions may reduce opportunities to practise problem-solving, and AI tools including specialised Math-LLMs can produce incorrect solutions or flawed strategies on complex problems. [→ Omirzakova 2026](#omirzakova-2026)

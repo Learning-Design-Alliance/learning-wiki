@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: patrick-phuoc-do-2026
     resource: "https://doi.org/10.48550/arxiv.2607.15176"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In qualitative error analysis of model rationales, models struggle with precise quantitative judgment when the answer depends on careful visual estimation, as in Item 3 where Gemini misread waypoint A as lying exactly on the 7200 ft contour line, and Item 41 where Gemini and Claude overestimated a lipid envelope radius as 50 nm when the correct radius is about 40 nm. [→ Patrick Phuoc Do 2026](#patrick-phuoc-do-2026)

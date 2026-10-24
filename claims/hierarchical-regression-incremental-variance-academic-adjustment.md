@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhang-j-and-yin-y-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1909803"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adding course development satisfaction and AI proficiency to demographic covariates substantially increases explained variance, peaking for academic adjustment at R2 = 0.240. [→ Zhang J and Yin Y 2026](#zhang-j-and-yin-y-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: perry-2019
     resource: "https://www.wested.org/project/math-in-common-evaluation/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Districts that included principals found their help vital in interpreting patterns of school variation in student math achievement data, and principals' perspectives served as a reality check on district visions and plans. [→ Perry 2019](#perry-2019)

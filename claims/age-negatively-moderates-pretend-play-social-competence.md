@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: smits-van-der-nat-2024
     resource: "https://doi.org/10.1007/s10648-024-09884-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Age has a small negative effect on the relation between pretend play and social competence (g = −0.004), with the estimated correlation about 0.26 higher for 3-year-olds than for 8-year-olds. [→ Smits-van der Nat 2024](#smits-van-der-nat-2024)

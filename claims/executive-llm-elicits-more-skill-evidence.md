@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: globerson-2026
     resource: "https://doi.org/10.48550/arxiv.2609.15864"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At turn and conversation levels, a skill-matched Executive LLM elicited significantly more evidence for that skill than Independent Agents (Fisher exact test, p≤0.05), with conversation-level evidence rates of 92.4% for PM and 85% for CR. [→ Globerson 2026](#globerson-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: diaz-2021
     resource: "https://consortium.uchicago.edu/publications/CPS-gradebook-technical-report"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Median final-grade weights were 60.0 percent for assessments, 80.0 for mastery-based, and 100.0 for weekly categories; the assessment median exceeded the CPS/CTU guideline that no single category exceed 50 percent. [→ Diaz 2021](#diaz-2021)

@@ -42046,5 +42046,53 @@
  "test-format\tTest II administered in grade 6\tTest I administered in grade 5": {
   "label": "Test II (grade 6) vs Test I (grade 5)",
   "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive instructions\tcontrolling instructions": {
+  "label": "autonomy-supportive instructions vs controlling instructions",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive intervention\tpractice as usual": {
+  "label": "autonomy-supportive intervention vs practice as usual",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive intervention for PE teachers\tpractice-as-usual teaching": {
+  "label": "autonomy-supportive intervention vs practice as usual",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive intervention for teachers\tpractice as usual": {
+  "label": "autonomy-supportive intervention vs practice as usual",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive teacher intervention\tpractice-as-usual teaching": {
+  "label": "autonomy-supportive intervention vs practice as usual",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tdifficult math exercises under autonomy-supportive instructions\teasy-medium math exercises under autonomy-supportive instructions": {
+  "label": "difficult vs easy-medium math exercises",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers trained in autonomy-supportive instruction\tteachers teaching practice as usual": {
+  "label": "autonomy-supportive intervention vs practice as usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicit teaching of strategies, second-order concepts, and epistemological underpinnings\tControl condition": {
+  "label": "explicit instruction vs control condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit teaching of causal-reasoning strategies and second-order concepts\tcontrol condition": {
+  "label": "explicit instruction vs control condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit teaching of strategies, second-order concepts, and epistemological underpinnings\tcontrol condition": {
+  "label": "explicit instruction vs control condition",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tpromises of rewards and goals for good behavior\tadministered penalties and pain-inflicting coercion": {
+  "label": "rewards/incentives vs punishments/penalties",
+  "treatment_is_a": true
+ },
+ "spacing\tsingle-section learning followed by a matched rest interval\tinitial performance before the rest interval": {
+  "label": "delayed vs immediate test",
+  "treatment_is_a": true
  }
 }

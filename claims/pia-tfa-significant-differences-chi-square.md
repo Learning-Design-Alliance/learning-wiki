@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: belle-dang-2024
     resource: "https://doi.org/10.18608/jla.2024.8393"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The deliberative dimension showed significant differences between cluster types (χ2 = 131.9; df = 10; p < .001) with a medium effect size (V = 0.26), and the regulatory dimension was significant (χ2 = 26.8; df = 3; p < .001) with a small effect size (V = 0.12). [→ Belle Dang 2024](#belle-dang-2024)

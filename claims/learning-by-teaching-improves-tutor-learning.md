@@ -8,6 +8,8 @@ generated:
 id: learning-by-teaching-improves-tutor-learning
 aliases: [learning-by-teaching-improves-learning, learning-by-teaching-improves-mastery, teaching-others-generative-strategy]
 evidence_strength:
+newest_evidence: 2019
+source_checked: 2026-10-07
 sources:
   - id: kobayashi-2019
     resource: "https://doi.org/10.1111/jpr.12221"
@@ -33,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2019 · checked against its sources 2026-10-07 (automated, 2 of 2 entries) · not reviewed by a person
 
 Preparing to teach and teaching improve the tutor's own learning. (Whether tutors gain *more* than their tutees is often said but is not established by the evidence below, which does not compare the two.) Preparing to teach, explaining aloud, and responding to a learner's questions drive the tutor to organize, elaborate, and fill gaps in their own understanding.
 

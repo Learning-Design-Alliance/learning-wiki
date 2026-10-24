@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: süleyman-avcı-2025
     resource: "https://doi.org/10.1007/s11409-025-09431-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only the distraction dimension showed no significant relationship with homework quality dimensions, and the homework management factor did not significantly predict the distraction indicator (β = 0.04, non-significant). [→ Süleyman Avcı 2025](#suleyman-avc-2025)

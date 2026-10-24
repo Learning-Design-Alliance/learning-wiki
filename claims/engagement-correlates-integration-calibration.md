@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: lucia-mason-2022
     resource: "https://doi.org/10.1007/s11251-022-09591-8"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across the whole sample, integration of information correlated positively with processing time (r = .46) and response length (r = .63), and negatively with calibration error (r = − .81). [→ Lucia Mason 2022](#lucia-mason-2022)

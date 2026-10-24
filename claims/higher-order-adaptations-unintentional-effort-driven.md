@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1908
 sources:
   - id: book-1908
     resource: "https://scholar.google.com/scholar?q=The+Role+of+the+Teacher+in+the+Most+Expeditious+and+Economic+Learning"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1908 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Forward steps in higher-order habits were never planned but made unintentionally, and were executed marginally before learners became aware of them. [→ Book 1908](#book-1908)

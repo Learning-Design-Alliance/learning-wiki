@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: fosco-2019
     resource: "https://doi.org/10.1007/s10802-018-0504-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Drift rate was equivalent across the stop-signal and no-tone tasks (BF01 = 3.08; d = 0.12), with equivalent changes across groups. [→ Fosco 2019](#fosco-2019)

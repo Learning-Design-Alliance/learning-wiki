@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: lee-2008
     resource: "https://etda.libraries.psu.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some research indicates that low-prior domain knowledge students are unsuccessful in regulating learning via key self-regulatory processes such as planning, activating prior knowledge, monitoring understanding, and deploying effective strategies. [→ Lee 2008](#lee-2008)

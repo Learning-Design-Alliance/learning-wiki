@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: angela-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2606.10051"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High-skill sessions climbed steeper (Δ = +0.85) than low-skill ones (Δ = +0.60) in the predicted direction, but the slope-by-skill interaction did not reach significance. [→ Angela Chen 2026](#angela-chen-2026)

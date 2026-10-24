@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2003
+recheck_by: 2006
 sources:
   - id: sebring-2003
     resource: "https://www.consortium-chicago.org/publications"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2006**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` A commissioned study concluded that CPS professional development spending lacked integration into a comprehensive instruction-improvement strategy. [→ Sebring 2003](#sebring-2003)

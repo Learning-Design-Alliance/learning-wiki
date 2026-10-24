@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: w-david-stevens-2008
     resource: "https://consortium.uchicago.edu/publications/if-small-not-enough-characteristics-successful-small-high-schools-chicago"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schools holding only two of the three characteristics (developmental practices, deep principal leadership, teacher influence) did not produce strong first-year course performance, suggesting the combination of all three is needed. [→ W. David Stevens 2008](#w-david-stevens-2008)

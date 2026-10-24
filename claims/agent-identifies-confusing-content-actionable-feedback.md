@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: wang-2025
     resource: "https://doi.org/10.1007/978-3-031-98417-4_21"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In case studies, qualitative analysis confirms the agent can be used to identify confusing lesson content and provide actionable feedback for the designer. [→ Wang 2025](#wang-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: yueqiao-jin-2025
     resource: "https://doi.org/10.48550/arxiv.2507.04398"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the secondary ENA with epistemic and engagement codes, proactive interactions showed stronger I-CON–EP-CP-Adeq and EP-PS–I-CON links; reactive dialogues emphasised EP-OFF–I-ACT and EP-PS–I-ACT pairings. [→ Yueqiao Jin 2025](#yueqiao-jin-2025)

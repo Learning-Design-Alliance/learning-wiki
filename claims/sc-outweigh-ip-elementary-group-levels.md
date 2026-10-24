@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: stallasch-2024
     resource: "https://doi.org/10.1007/s10648-024-09898-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` With first to fourth graders, sociodemographic characteristics explained more classroom- and school-level variance than IP (Pooled R2L2∣SC = 0.35; Pooled R2L3∣SC = 0.52). [→ Stallasch 2024](#stallasch-2024)

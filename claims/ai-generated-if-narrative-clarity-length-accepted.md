@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: f-rogosch-2026
     resource: "https://doi.org/10.21125/edulearn.2026.1075"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants rated narrative clarity (M = 4.11) and length acceptance (M = 4.14) positively on a five-point scale. [→ F. Rogosch 2026](#f-rogosch-2026)

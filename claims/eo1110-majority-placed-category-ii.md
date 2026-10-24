@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: bracco-2020
     resource: "https://eric.ed.gov/?id=ED613408"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most 2018 CSU entering first-year students were placed in Category II in both WC and QR under the new multiple-measures placement system. [→ Bracco 2020](#bracco-2020)

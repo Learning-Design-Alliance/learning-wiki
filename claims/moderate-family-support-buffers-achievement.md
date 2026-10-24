@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: rothon-catherine-2011
     resource: "https://doi.org/10.1016/j.adolescence.2010.02.007"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For bullied students with moderate family support, bullying was not associated with lower achievement odds (OR 1.00), whereas among those with high (OR 0.20) or low (OR 0.40) family support bullying was associated with lower odds; the interaction test was weak (p = 0.130) and the observational design cannot show that support protects. [→ Rothon Catherine 2011](#rothon-catherine-2011)

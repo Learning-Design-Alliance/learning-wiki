@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: udeshi-2026
     resource: "https://doi.org/10.1007/978-3-032-29755-6_14"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The team observed improvements in primary metrics during the Thanksgiving and Christmas holidays, which they attribute to more motivated students using the platform voluntarily. [→ Udeshi 2026](#udeshi-2026)

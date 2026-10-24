@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: srinivasan-2026
     resource: "https://osf.io/preprints/psyarxiv"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` High self-change paired with low environment-change and/or low pathway flexibility produces motivational dynamics difficult to detect when only self-beliefs are measured. [→ Srinivasan 2026](#srinivasan-2026)

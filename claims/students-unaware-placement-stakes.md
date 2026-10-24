@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: venezia-2010
     resource: "https://eric.ed.gov/?id=ED566386"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Before taking the assessment, most students did not understand that their performance would determine which classes they could take or how quickly they could complete their goals. [→ Venezia 2010](#venezia-2010)

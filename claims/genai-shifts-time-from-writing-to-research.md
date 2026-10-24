@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zara-contractor-and-germán-reyes-2026
     resource: "https://doi.org/10.48550/arxiv.2607.08849"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Treated students spend 5.3 pp less of their learning time on writing activities and 4.4 pp more on research activities, while total time spent learning does not change significantly. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)

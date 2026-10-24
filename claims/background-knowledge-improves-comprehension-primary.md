@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: reid-smith-2021
     title: Reid Smith 2021
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across reviewed studies, children with stronger topic knowledge comprehend texts better than when reading similarly cohesive texts on unfamiliar topics, for both skilled and low-skilled readers. [→ Reid Smith 2021](#reid-smith-2021)

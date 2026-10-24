@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: brian-p-gill-2015
     resource: "https://www.mathematica.org/publications/reimagining-accountability-in-k12-education-a-behavioral-science-perspective"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Whether accountability improves or harms performance depends on the accountability type, the decision context, and the nature of the task, per the behavioral literature. [→ Brian P. Gill 2015](#brian-p-gill-2015)

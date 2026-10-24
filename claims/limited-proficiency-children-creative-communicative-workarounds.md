@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: jin-sook-lee-2016
     resource: "https://www.mathematica.org/publications/an-analysis-of-communicative-language-functions-in-the-speech-patterns-of-bilingual-korean"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Children found creative ways to communicate different linguistic functions as needed, including those with limited proficiency. [→ Jin Sook Lee 2016](#jin-sook-lee-2016)

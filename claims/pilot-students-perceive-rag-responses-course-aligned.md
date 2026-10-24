@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: andy-gray-2026
     resource: "https://doi.org/10.48550/arxiv.2609.21600"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a pilot questionnaire after a structured demonstration, 89% of participants rated the system's responses as highly aligned with course materials, and all participants indicated it was definitely or somewhat helpful for assessment understanding. [→ Andy Gray 2026](#andy-gray-2026)

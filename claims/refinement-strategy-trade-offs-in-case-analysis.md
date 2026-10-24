@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: fareya-ikram-2026
     resource: "https://doi.org/10.48550/arxiv.2604.05160"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In a qualitative case analysis of a signed multiplication problem personalized to Led Zeppelin, Centralized preserves the mathematical form but reduces realism and authenticity, Centralized with Planning improves realism but changes the mathematical form, and Decentralized improves narrative coherence but introduces a logical inconsistency. [→ Fareya Ikram 2026](#fareya-ikram-2026)

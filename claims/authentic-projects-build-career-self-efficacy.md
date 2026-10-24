@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
+source_checked: 2026-10-19
 sources:
   - id: selfefficacy-yahaira
     title: selfefficacy-yahaira
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r?` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A student's authentic engagement with podcasting equipment at the launch event deepened her interest and belief she could succeed as a podcaster. [→ selfefficacy-yahaira](#selfefficacy-yahaira)

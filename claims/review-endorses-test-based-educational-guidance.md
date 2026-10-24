@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1920
 sources:
   - id: a-i-g-1920
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The reviewer endorses educational guidance by early tests and selection by tests at high school and college entrance. [→ A. I. G 1920](#a-i-g-1920)

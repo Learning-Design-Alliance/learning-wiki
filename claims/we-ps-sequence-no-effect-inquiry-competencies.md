@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: eman-ganaiem-2025
     resource: "https://doi.org/10.1007/s11251-025-09750-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In experimental design, a MANCOVA on application and transfer scores with pre-test as covariate found no significant main effect of condition (WE→PS, PS→WE, WE || PS). [→ Eman Ganaiem 2025](#eman-ganaiem-2025)

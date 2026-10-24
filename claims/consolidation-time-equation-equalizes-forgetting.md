@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: ricker-timothy-j-2014
     resource: "https://doi.org/10.1037/a0034301"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When free time between sequential items was removed so consolidation time was equated, the Presentation Method x Retention-Interval Duration interaction was not significant. [→ Ricker Timothy J. 2014](#ricker-timothy-j-2014)

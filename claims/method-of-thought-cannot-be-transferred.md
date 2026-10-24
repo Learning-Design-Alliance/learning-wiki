@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 1997
 sources:
   - id: biesta-1997
     resource: "https://eric.ed.gov/?id=ED422199"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -49,3 +51,4 @@ Reconstruction from lecture XXXIII of Mead's Course 50, in the article's section
 - Mead holds that social interaction precedes and produces reflective self-consciousness — related
 - [Mead observed that rapid change makes yesterday's knowledge useless, requiring education to teach coping with change rather than fixed content](mead-rapid-change-obsoletes-knowledge.md) — related
 - [Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application](washington-tuskegee-method-stifled-new-ideas.md) — related
+- [The editorial holds that the formal disciplinary idea of science as developing accuracy of method dominates science instruction and underlies claims of elementary pupils' immaturity.](formal-disciplinary-ideal-dominates-science-instruction.md) — related

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhanyong-qi-2026
     resource: "https://doi.org/10.1007/s11251-026-09793-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` ANCOVA revealed a significant main effect of video reviewing on interest (ηp2 = 0.043), no main effect of operation type, and a non-significant interaction. [→ Zhanyong Qi 2026](#zhanyong-qi-2026)

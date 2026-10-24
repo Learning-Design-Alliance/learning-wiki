@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: liu-s-2020
     title: Liu S 2020
@@ -33,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r2`–`r3` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Chronic exercises significantly improve working memory (SMD = −0.54, a moderate effect). [→ Liu S 2020](#liu-s-2020)

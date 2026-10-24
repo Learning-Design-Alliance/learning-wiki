@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2000
 sources:
   - id: chiappe-2000
     resource: "https://doi.org/10.3758/bf03211570"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` CNF intrusions were more frequent among participants older than 29, consistent with access-function decline, but this age relation was restricted to skilled readers. [→ Chiappe 2000](#chiappe-2000)

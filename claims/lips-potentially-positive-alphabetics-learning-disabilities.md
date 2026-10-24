@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: what-works-clearinghouse-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/279"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the Torgesen et al. (2001) RCT, LiPS students significantly outperformed Embedded Phonics comparison students on the Lindamood Auditory Conceptualization Test (effect size 0.93) and the WRMT–R Word Attack subtest (effect size 0.99). [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)

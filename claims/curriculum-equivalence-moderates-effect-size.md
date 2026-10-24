@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: means-2009
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Of six methodological variables tested as moderators, only equivalence of curriculum and instruction was significant (Q = 5.40, p < .05): studies with identical or almost identical curriculum and instruction across conditions had smaller effects (+0.20) than studies where conditions varied in multiple instructional aspects (+0.42). [→ Means 2009](#means-2009)

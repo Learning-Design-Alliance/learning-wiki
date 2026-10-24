@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: jonna-malmberg-2019
     resource: "https://doi.org/10.1007/s11412-019-09311-4"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two of four groups showed significant session-level physiological synchrony ( assessed via Monte Carlo shuffling of PC-index correlations ), and both struggled with the exam; the two non-synchronised groups expressed that the task was easy. [→ Jonna Malmberg 2019](#jonna-malmberg-2019)

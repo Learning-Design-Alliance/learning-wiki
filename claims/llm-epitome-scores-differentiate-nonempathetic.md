@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: li-siyan-2026
     resource: "https://doi.org/10.48550/arxiv.2606.26641"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One-way ANOVA on Gemini-annotated EPITOME scores over 237 conversations found significant between-condition differences; post hoc tests show the Non-Empathetic chatbot significantly lower on all three dimensions and Standard vs. Empathetic differences not significant. [→ Li Siyan 2026](#li-siyan-2026)

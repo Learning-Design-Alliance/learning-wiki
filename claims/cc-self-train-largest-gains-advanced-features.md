@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zain-naboulsi-2026
     resource: "https://doi.org/10.48550/arxiv.2604.17460"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The largest effect sizes were on advanced features: setting up hooks (d= 2.79), creating skills (d= 2.55), and understanding hooks (d= 2.18). [→ Zain Naboulsi 2026](#zain-naboulsi-2026)

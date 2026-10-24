@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: stephanie-cawthon-2022
     resource: "https://doi.org/10.1093/deafed/enac033"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Low expectations of what DHH students know and can do are a systemic barrier to their academic success. [→ Stephanie Cawthon 2022](#stephanie-cawthon-2022)

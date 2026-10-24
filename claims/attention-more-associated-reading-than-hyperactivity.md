@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: miller-amanda-c-2014
     resource: "https://doi.org/10.1080/19345747.2014.906691"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Attention and hyperactivity were highly correlated (r = .69, p < .001), but attention correlated more highly with each cognitive, literacy, and language measure than hyperactivity did. [→ Miller Amanda C. 2014](#miller-amanda-c-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-24
 sources:
   - id: putwain-2021
     resource: "https://doi.org/10.1037/edu0000637"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A statistically significant Academic Buoyancy × Anxiety interaction (none for enjoyment or boredom) showed the negative anxiety–performance relation was strongest at high buoyancy and non-significant at low buoyancy: performance was highest with low anxiety and high buoyancy, and the advantage of high buoyancy diminished as anxiety rose. The data are longitudinal survey and test scores, so they cannot show that buoyancy causes the difference. [→ Putwain 2021](#putwain-2021)

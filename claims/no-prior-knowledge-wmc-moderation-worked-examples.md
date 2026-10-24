@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: bichler-2022
     resource: "https://doi.org/10.1007/s11251-022-09579-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The direct effect of worked examples on post-test knowledge or learning gains was not moderated by prior knowledge or WMC, and no interaction with self-explanation quality was significant. [→ Bichler 2022](#bichler-2022)

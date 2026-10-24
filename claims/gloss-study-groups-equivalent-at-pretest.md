@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: samah-zakareya-ahmad-2019
     resource: "https://doi.org/10.5539/elt.v12n12p46"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A Mann-Whitney U-test of pretest scores found no significant difference between the groups, confirming equivalence. [→ Samah Zakareya Ahmad 2019](#samah-zakareya-ahmad-2019)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: connolly-2022
     resource: "https://www.nwea.org/research/publication/the-instructional-legacy-of-covid-19-teacher-adaptation-in-response-to-the-pandemic/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the Spring 2020 survey, 30% of K-8 teachers planned to adopt transformative teaching practices. [→ Connolly 2022](#connolly-2022)

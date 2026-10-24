@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: geonwoo-bang-2026
     resource: "https://doi.org/10.48550/arxiv.2610.03273"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across ASSIST15, Junyi, and EdNet with path lengths 5, 10, and 20, at least one EVOL variant attains the best test EP in every dataset–length cell, with the advantage clearest in longer-path and larger-concept settings. [→ Geonwoo Bang 2026](#geonwoo-bang-2026)

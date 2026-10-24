@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: aaron-j-peltoniemi-2025
     resource: "https://doi.org/10.1007/s11412-025-09447-6"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More than half of group A's dialogues were categorized as orientation or conceptualization, with only two categorized as investigation or discussion, whereas group B showed a fairly equal distribution across orientation, investigation and discussion. [→ Aaron J. Peltoniemi 2025](#aaron-j-peltoniemi-2025)

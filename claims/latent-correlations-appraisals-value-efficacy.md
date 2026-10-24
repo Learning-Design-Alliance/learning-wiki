@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: the-appraisal-of-fear-appeals-as-a-challenge-or-a-threat-influences-a-subsequent-decline-or-increase-in-attainment-value-and-academic-self-efficacy-2014
     resource: "https://eric.ed.gov/?q=appraisal+of+fear+appeals+challenge+threat+attainment+value+academic+self-efficacy"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Challenge appraisal correlated positively and threat appraisal negatively with academic self-efficacy at both waves; threat appraisal correlated positively with attainment value at T1 but negatively at T3. [→ The appraisal of fear appeals as a challenge or a threat influences a subsequent decline or increase in attainment value and academic self-efficacy 2014](#the-appraisal-of-fear-appeals-as-a-challenge-or-a-threat-influences-a-subsequent-decline-or-increase-in-attainment-value-and-academic-self-efficacy-2014)

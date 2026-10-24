@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: browning-2020
     resource: "https://eric.ed.gov/?id=ED606076"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One study of mindfulness in schools found students transferred mindfulness-based conflict resolution strategies to out-of-school settings with siblings and friends. [→ Browning 2020](#browning-2020)

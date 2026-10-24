@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: annelies-raes-2013
     resource: "https://doi.org/10.1080/10508406.2013.836656"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` General-track students' interest in science was significantly lower than science-track students' prior to the intervention, but no difference was found regarding their gain in interest. [→ Annelies Raes 2013](#annelies-raes-2013)

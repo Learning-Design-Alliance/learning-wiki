@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2007
 sources:
   - id: luppescu-2003
     resource: "https://consortium.uchicago.edu/publications/improving-chicagos-schools-torvalds"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Currency** · newest study 2007 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

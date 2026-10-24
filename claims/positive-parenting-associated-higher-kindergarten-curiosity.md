@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: shah-pe-2023
     resource: "https://doi.org/10.3389/fpsyg.2023.986221"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In adjusted models, experiencing more positive parenting was associated with higher curiosity at kindergarten (β = 0.10, p < 0.001). [→ Shah PE 2023](#shah-pe-2023)

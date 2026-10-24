@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: rantavuori-2016
     resource: "http://dx.doi.org/10.14786/flr.v4i3.174"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Transitions and disturbances played a crucial role in the dynamics of the expansive learning process observed. [→ Rantavuori 2016](#rantavuori-2016)

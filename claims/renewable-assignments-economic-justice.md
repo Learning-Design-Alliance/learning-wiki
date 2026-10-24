@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: bali-2020
     resource: "https://doi.org/10.5334/jime.565"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A renewable assignment in which students author multiple-choice questions for an open textbook is a process-oriented, student-centered OEP with pedagogical purpose and economic social justice impact through supporting wider OER adoption. [→ Bali 2020](#bali-2020)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-23
 sources:
   - id: gyöngyvér-molnár-zoltán-hermann-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101706"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
+> **Currency** · newest study 2023 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Compared with pre-pandemic cohorts, first graders assessed after the first wave of kindergarten closures showed the greatest learning loss in numeracy skills (16 points, d = 0.16), and the cumulative loss in the cohort starting school a year later was a quarter of a standard deviation (d = 0.23), significantly larger than the short-term loss. The comparison is between cohorts, not a randomised one. [→ Gyöngyvér Molnár & Zoltán Hermann 2023](#gyongyver-molnar-zoltan-hermann-2023)

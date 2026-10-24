@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1993
+source_checked: 2026-10-20
 sources:
   - id: innwoo-park-and-michael-j-hannafin-1993
     resource: "http://www.jstor.org/stable/30218388"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 1993 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Congruent pictures paired with text generally facilitate reading comprehension over either text alone or pictures alone, supporting the principle that learning improves as complementary stimuli increase. [→ Innwoo Park and Michael J. Hannafin 1993](#innwoo-park-and-michael-j-hannafin-1993)

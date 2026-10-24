@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: niolaki-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101635"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reading was a consistently strong predictor of spelling of all three word types with large effect sizes. [→ Niolaki 2022](#niolaki-2022)

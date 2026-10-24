@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: wei-l-2023
     title: Wei L 2023
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Self-regulation scores rose in both groups, but the enhancement substantially differed between groups, favoring AI-mediated instruction (Group × Time η2 = 0.38). [→ Wei L 2023](#wei-l-2023)

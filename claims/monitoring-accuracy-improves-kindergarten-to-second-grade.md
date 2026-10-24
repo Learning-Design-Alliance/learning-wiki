@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: sophie-wacker-2024
     resource: "https://doi.org/10.1007/s11409-023-09351-0"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i2` Second graders discriminated better between correct and incorrect answers than kindergartners (discrimination main effect of age, ηp² = .10). [→ Sophie Wacker 2024](#sophie-wacker-2024)

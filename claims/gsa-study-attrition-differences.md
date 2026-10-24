@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: rosenbach-2022
     resource: "https://doi.org/10.1002/pits.22513"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Youth lost at Wave 2 reported more frequent immigration discussion, lower hope, and lower perceived peer validation at Wave 1 than retained youth, with no difference in sociopolitical efficacy or critical reflection. [→ Rosenbach 2022](#rosenbach-2022)

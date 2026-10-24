@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: strong
+newest_evidence: 2013
 sources:
   - id: reading-partners-program-description-and-evidence-rating-2013
     resource: "https://www.evidenceforessa.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q4` · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` In a large randomized controlled trial, students who received Reading Partners tutoring gained significantly more on SAT-10 comprehension and other outcomes than students who did not, for a total effect size of +0.10. [→ Reading Partners: Program Description and Evidence Rating 2013](#reading-partners-program-description-and-evidence-rating-2013)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: youssef-medhat-2026
     resource: "https://doi.org/10.48550/arxiv.2606.10736"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The 14 misclassified gold items cluster into surface-keyword traps (7/14), adjacent reasoning topics (5/14), and vague questions or abstention misfires (2/14). [→ Youssef Medhat 2026](#youssef-medhat-2026)

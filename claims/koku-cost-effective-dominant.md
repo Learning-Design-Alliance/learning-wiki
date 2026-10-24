@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: french-chloe-2026
     resource: "https://doi.org/10.1093/ageing/afag291"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i1` small
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` KOKU was associated with an adjusted incremental fall-related cost of −£59.81 (95% CI −£215.37 to £43.39, not significant) and an average incremental QALY gain of 0.020 (95% CI 0.004 to 0.033, significant), making it dominant. [→ French Chloe 2026](#french-chloe-2026)

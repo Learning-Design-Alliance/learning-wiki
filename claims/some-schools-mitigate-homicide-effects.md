@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: johnson-2024
     resource: "https://consortium.uchicago.edu/publications/mitigating-the-academic-impacts-of-proximity-to-homicide"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When comparing schools serving similar students, most student outcomes declined after a homicide near students' homes, but not all schools saw average declines, indicating variation in schools' mitigating capacity. [→ Johnson 2024](#johnson-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://ies.ed.gov/ncee/wwc"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Maslanka and Joseph (2002), findings favored the sound box condition over the sound sort condition on four phonological processing measures, with an average improvement index of +11 percentile points (range -10 to +29), not statistically significant but substantively important. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

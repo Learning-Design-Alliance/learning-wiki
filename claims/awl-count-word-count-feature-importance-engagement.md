@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: gorgun-2022
     resource: "https://doi.org/10.5281/zenodo.6853149"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Decision tree and random forest models identified the same top features (word count, AWL count, type-token ratio, Flesch-Kincaid grade level), while the SVM identified a different set led by second language readability. [→ Gorgun 2022](#gorgun-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-22
 sources:
   - id: garvin-brod-2021
     resource: "https://doi.org/10.1007/s10648-020-09571-9"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Meta-analytic evidence shows self-generated concept mapping improves achievement (0.72 SDs overall), with consistent beneficial effects for 4th–8th graders (0.68 SDs), 9th–12th graders (0.74 SDs), and college students (0.73 SDs). [→ Garvin Brod 2021](#garvin-brod-2021)

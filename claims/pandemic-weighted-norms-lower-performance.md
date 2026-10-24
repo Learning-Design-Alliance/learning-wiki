@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: wei-he-2022
     resource: "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-tests/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student performance in the 2021/22 school year was worse than in the two prior school years, and because at least 50% of norm sample test events came from 2021/22, the updated norms are heavily weighted toward pandemic performance; the updated norm group performed slightly lower than the previous norming group. [→ Wei He 2022](#wei-he-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: hampton-2025
     resource: "https://doi.org/10.51388/20.500.12265/249"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In high school physics classrooms, groups whose teachers controlled the conversation engaged in less conversation with each other and used less socially shared regulation of learning. [→ Hampton 2025](#hampton-2025)

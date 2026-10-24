@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: hastings-2011
     resource: "https://doi.org/10.1080/13825585.2011.575926"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Learning goals had a significant positive effect on subjective performance independent of actual performance (β = .12, p<.05). [→ Hastings 2011](#hastings-2011)

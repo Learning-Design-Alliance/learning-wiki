@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+source_checked: 2026-10-16
 sources:
   - id: kazuki-kawamura-2025
     resource: "https://doi.org/10.48550/arxiv.2608.08990"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2025 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A large-scale analysis of 6.9 million MOOC video-viewing sessions found that the fraction viewed decreased as videos became longer and that median engagement was less than half of the duration for videos longer than nine minutes. [→ Kazuki Kawamura 2025](#kazuki-kawamura-2025)

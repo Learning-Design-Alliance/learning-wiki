@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: terhi-vessonen-2026
     resource: "https://doi.org/10.1007/s10648-025-10112-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Both reviewed studies of informative pictures found negative effects on performance, ranging from g = −1.08 to −0.08. [→ Terhi Vessonen 2026](#terhi-vessonen-2026)

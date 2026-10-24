@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: yang-2016
     resource: "https://doi.org/10.1007/s11412-016-9239-1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The percentage of students with five or more readers increased from 35% after 9 days to 90% from May 20 onward. [→ Yang 2016](#yang-2016)

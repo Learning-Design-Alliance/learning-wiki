@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: catharina-tibken-2025
     resource: "https://doi.org/10.1007/s11409-025-09440-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Condition × Rereading Time interaction was significant at the target word (b = -0.51, z = -4.84), sentence-final word (b = -0.51, z = -4.64), and pre-target text (b = -0.49, z = -5.94), all p <.001. [→ Catharina Tibken 2025](#catharina-tibken-2025)

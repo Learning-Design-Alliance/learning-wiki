@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: sung-yao-ting-2017
     resource: "https://doi.org/10.3102/0034654317704307"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Jigsaw (g = 0.589) and GI (g = 0.562) produced the largest method effects, while TGT (g = 0.442) and STAD (g = 0.162) were not significant; structured and ill-structured categories did not differ significantly. [→ Sung Yao-Ting 2017](#sung-yao-ting-2017)

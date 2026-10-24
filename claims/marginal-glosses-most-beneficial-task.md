@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: zou-2019
     resource: "https://doi.org/10.5539/elt.v12n12p39"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among four reading tasks compared with 125 ESL freshmen, reading with no external aid showed the least efficiency for incidental vocabulary acquisition gains and marginal glosses the most. [→ Zou 2019](#zou-2019)

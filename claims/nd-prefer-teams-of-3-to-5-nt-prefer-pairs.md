@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-14
 sources:
   - id: cynthia-zastudil-2026
     resource: "https://doi.org/10.1145/3803400.3809386"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-14 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ND students felt most comfortable in teams of 3–5 students, then teams of 2, and lastly teams of 6 or more, whereas NT students felt most comfortable in teams of 2 students. [→ Cynthia Zastudil 2026](#cynthia-zastudil-2026)

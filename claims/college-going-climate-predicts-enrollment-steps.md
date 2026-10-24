@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: melissa-roderick-2009
     resource: "https://doi.org/10.1353/foc.0.0024"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A one standard deviation increase in a school's college-going climate was associated with a 7 to 9 percent increase in the likelihood of taking each enrollment step and a 30 percent increase in enrolling at a college matching or exceeding one's qualifications. [→ Melissa Roderick 2009](#melissa-roderick-2009)

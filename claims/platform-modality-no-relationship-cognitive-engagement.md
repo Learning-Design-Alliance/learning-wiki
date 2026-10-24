@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: meg-guerreiro-2017
     resource: "https://www.nwea.org/research/publication/the-impact-of-a-technology-enhanced-math-performance-task-on-student-cognitive-engagement-in-mathematics/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A between-subjects analysis of variance did not suggest a relationship between performance task platform (modality type) and student cognitive engagement; a non-significant result, not evidence that the platforms are equivalent. [→ Meg Guerreiro 2017](#meg-guerreiro-2017)

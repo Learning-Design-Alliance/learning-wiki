@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: strother-2019
     resource: "https://carnegiemathpathways.org/reports/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Institutional success rates rose with total contact hours assigned to the paired courses, with the lowest rate at four contact hours and three of the four highest rates at six contact hours. [→ Strother 2019](#strother-2019)

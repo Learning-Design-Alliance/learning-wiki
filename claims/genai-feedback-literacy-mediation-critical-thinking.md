@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yan-z-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1939286"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` The indirect effect of GenAI use on critical thinking via feedback literacy was significant (β = 0.185, 95% CI [0.134, 0.254]; VAF = 71.98%), and the direct effect became non-significant. [→ Yan Z 2026](#yan-z-2026)

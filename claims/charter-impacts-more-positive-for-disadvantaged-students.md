@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: melissa-a-clark-2015
     resource: "https://doi.org/10.3102/0162373714558292"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` More positive impacts were found for more disadvantaged schools and students, and more negative impacts for the more advantaged. [→ Melissa A. Clark 2015](#melissa-a-clark-2015)

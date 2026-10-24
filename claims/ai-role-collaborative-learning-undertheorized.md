@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: niari-2026
     resource: "https://doi.org/10.60923/issn.2532-8816/24266"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The role of AI in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized, as a consequence of the field's instrumental orientation. [→ Niari 2026](#niari-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: kenneth-silseth-2026
     resource: "https://doi.org/10.1007/s11251-026-09820-4"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a group work sequence, a teacher used a student's everyday experiences of self-esteem as a soccer player and pupil to guide him toward a more complex, context-dependent understanding of the concept. [→ Kenneth Silseth 2026](#kenneth-silseth-2026)

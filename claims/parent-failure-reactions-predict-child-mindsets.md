@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: dweck-2019
     resource: "https://doi.org/10.1177/1745691618804166"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Parents' beliefs about failure and their reactions to children's failures consistently predicted children's mindsets, while parents' and children's mindsets showed little correlation. [→ Dweck 2019](#dweck-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: mosher-2024
     resource: "https://doi.org/10.1037/edu0000868"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Baseline reading measured at the start of Grade 1 correlated with Grade 2 near- (r = .42), mid- (r = .50), and far-transfer (r = .50) comprehension outcomes, and Grade 2 untaught vocabulary correlated with near- (r = .45), mid- (r = .40), and far-transfer (r = .40) outcomes. [→ Mosher 2024](#mosher-2024)

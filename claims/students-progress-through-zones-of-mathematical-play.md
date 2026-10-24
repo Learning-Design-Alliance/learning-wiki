@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: williams-pierce-thevenow-harrison-2021
     resource: "https://doi.org/10.1080/10508406.2021.1913167"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1` · n=14 middle-school students (10 boys, 4 girls, self-selected volunteers), 14-30 minutes of gameplay each
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 Qualitative video/audio analysis of 14 middle-school students playing a designed fraction-based puzzle game found that nearly all progressed through at least three of the theory's five zones, that progression was consistently triggered by failure-feedback cycles, and that students used a variety of mathematical conceptualizations — not only the one the game was designed to evoke — to succeed.
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: hampton-2025
     resource: "https://doi.org/10.51388/20.500.12265/249"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` If learners lack the regulation skills required for collaboration, those skills can be explicitly taught, and all learners can improve their abilities when they become more aware of them. [→ Hampton 2025](#hampton-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: gesa-fee-komar-2025
     resource: "https://doi.org/10.1007/s11409-025-09436-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Participants in the prospective-judgment group predicted masked speech to be significantly more distracting than pure speech (η²p = .63), and relative to the scale midpoint predicted pure speech to be helpful (d = 0.21). [→ Gesa Fee Komar 2025](#gesa-fee-komar-2025)

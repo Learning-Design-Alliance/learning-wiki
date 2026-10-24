@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: meier-2024
     resource: "https://doi.org/10.1007/s11251-023-09651-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant two-way interaction of prompt condition and DRC test score on germane load; below a mean-centered DRC score of −0.98 retrospective prompts induced higher GCL than anticipatory prompts. [→ Meier 2024](#meier-2024)

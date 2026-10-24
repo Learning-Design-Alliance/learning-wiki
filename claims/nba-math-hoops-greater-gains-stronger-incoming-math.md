@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mckinney-2026
     resource: "https://eric.ed.gov/?id=ED681343"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` A significant treatment-by-pre-math interaction (β = 0.26, p < 0.01) shows larger math gains for students with stronger incoming math; no significant interaction with gender, IEP, or incoming SEL. [→ McKinney 2026](#mckinney-2026)

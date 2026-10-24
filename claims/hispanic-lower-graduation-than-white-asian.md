@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2017
 sources:
   - id: ninth-grade-course-performance-found-to-be-the-strongest-predictor-of-high-school-graduation-for-chicago-english-language-learners-2012
     resource: "http://www.betterhighschools.org"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Hispanic, white, and Asian students had similar patterns of course performance and graduation rates, but Hispanic students regardless of ELL status graduated at far lower rates than white and Asian ELL students. [→ Ninth Grade Course Performance Found to Be the Strongest Predictor of High School Graduation for Chicago English Language Learners 2012](#ninth-grade-course-performance-found-to-be-the-strongest-predictor-of-high-school-graduation-for-chicago-english-language-learners-2012)

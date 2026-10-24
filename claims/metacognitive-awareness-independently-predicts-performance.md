@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shan-li-2026
     resource: "https://doi.org/10.1007/s10648-025-10114-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports meta-analytic evidence, citing Ohtani and Hisasaka (2018), that metacognitive awareness and intelligence are weakly correlated and that metacognition independently predicts performance when controlling for intelligence. [→ Shan Li 2026](#shan-li-2026)

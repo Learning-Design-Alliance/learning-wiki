@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-19
 sources:
   - id: yeager-2016
     resource: "https://doi.org/10.1037/edu0000098"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2`–`r3` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-19 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Direct framing led to smaller changes in mindsets than indirect framing in both A/B studies. [→ Yeager 2016](#yeager-2016)

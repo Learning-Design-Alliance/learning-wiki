@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: brian-gill-2008
     resource: "https://www.mathematica.org/publications/title-i-school-choice-and-supplemental-educational-services"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Parents of choice-using students were largely satisfied with the new schools their children attended. [→ Brian Gill 2008](#brian-gill-2008)

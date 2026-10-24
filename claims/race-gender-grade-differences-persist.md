@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-16
 sources:
   - id: elaine-m-allensworth-and-stuart-luppescu-2016
     resource: "https://consortium.uchicago.edu"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Net of controls, Black and Latino students receive lower grades than White students (by 0.26 and 0.12 GPA points) and Asian students higher (by 0.26 points); boys receive about half a grade point lower than girls (0.31 after attendance controls). [→ Elaine M. Allensworth and Stuart Luppescu 2016](#elaine-m-allensworth-and-stuart-luppescu-2016)

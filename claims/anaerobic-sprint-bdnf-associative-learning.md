@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: basso-julia-c-2017
     resource: "https://doi.org/10.3233/BPL-160040"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a cross-over study, the anaerobic sprint condition produced 20% faster associative learning and significant serum BDNF increases, with sustained BDNF positively correlated with learning success. [→ Basso Julia C. 2017](#basso-julia-c-2017)

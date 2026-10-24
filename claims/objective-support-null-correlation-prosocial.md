@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: fu-w-2022
     resource: "https://doi.org/10.1057/s41599-022-01296-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Objective support showed no significant correlation with utilization of support or with prosocial behavior in this sample. [→ Fu W 2022](#fu-w-2022)

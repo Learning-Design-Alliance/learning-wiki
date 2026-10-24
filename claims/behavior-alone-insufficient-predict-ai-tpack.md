@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: sun-2025
     resource: "https://doi.org/10.48550/arxiv.2605.13906"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cluster 3 bifurcated in AI-TK: 2 of 5 sampled teachers produced workflows with detailed instructions encoding precise logic while 3 of 5 created designs with no prompts relying on defaults. [→ Sun 2025](#sun-2025)

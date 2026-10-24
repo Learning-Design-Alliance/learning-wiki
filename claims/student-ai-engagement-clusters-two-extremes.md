@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: liu-2026
     resource: "https://doi.org/10.48550/arxiv.2606.00038"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Across multi-year instructional practice, student engagement with AI tools tends to cluster at two extremes: avoidance driven by fear, mistrust, ethical concern, or lack of access, and rapid uncritical adoption treating outputs as authoritative. [→ Liu 2026](#liu-2026)

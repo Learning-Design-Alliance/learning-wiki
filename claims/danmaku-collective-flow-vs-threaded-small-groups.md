@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-20
 sources:
   - id: bo-yang-2024
     resource: "https://doi.org/10.1007/s11412-024-09426-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a MOOC lecture, danmaku messages flowed continuously along video playback as an undivided collective space, whereas discussion-board participation was divided into 98 threads averaging about 7.54 posts each. [→ Bo Yang 2024](#bo-yang-2024)

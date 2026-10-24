@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 96.7% of labeled first queries from Cold Start learners were dependent, compared with 30.9% and 28.6% dependent rates for Oriented and Struggling learners. [→ w1-1](#w1-1)

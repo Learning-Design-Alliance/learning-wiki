@@ -59,9 +59,11 @@ Visual representations reduce working memory demands by holding intermediate qua
 5. Compare multiple representations of the same problem to build flexibility and support abstraction [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples-first.md) — worked examples can embed completed diagrams, letting learners study expert representation choices
 - [Concrete-Representational-Abstract](concrete-representational-abstract-cra.md) — the broader sequencing framework this strategy fits within
 - [Analogies](../strategies/analogies.md) — a diagram functions as a visual analogy between an unfamiliar problem and a known structure
+- [Külppe's recommendations: formal exercises in thinking, more abstract thinking, and practice strengthening determining tendencies](kulpp-formal-exercises-in-thinking.md)
 
 ## Examples
 - **Singapore Math / Math in Focus** — strip (bar) models are the central representation for word problems across grades K–8; students draw bars to represent known and unknown quantities before writing equations.

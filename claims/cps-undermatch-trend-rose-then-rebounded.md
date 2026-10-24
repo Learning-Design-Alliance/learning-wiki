@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: roderick-2018
     resource: "https://consortium.uchicago.edu/publications/high-school-future-delivering-dream-college-graduation"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Between 2003 and 2013, the share of CPS college-goers undermatching increased, then match rates rose for all selectivity levels after 2013. [→ Roderick 2018](#roderick-2018)

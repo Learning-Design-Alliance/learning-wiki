@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants envisioned three future AI roles: a strategic advisor supporting decision evaluation, a cross-domain translator making disciplinary knowledge accessible, and a perspective challenger introducing viewpoints unlikely to emerge within the team. [→ roles-1](#roles-1)

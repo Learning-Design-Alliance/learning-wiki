@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-20
 sources:
   - id: sadaf-2022
     resource: "https://doi.org/10.24059/olj.v26i4.3474"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Co-regulation correlated .653 with social presence while self-regulation correlated .397, and a similar but slightly weaker pattern held for cognitive and teaching presence. [→ Sadaf 2022](#sadaf-2022)

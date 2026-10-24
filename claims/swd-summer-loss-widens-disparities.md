@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-17
 sources:
   - id: angela-johnson-2021
     resource: "https://doi.org/10.3102/1879659"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students with disabilities experience steeper summer learning loss than students without disabilities, which contributes to widening achievement disparities. [→ Angela Johnson 2021](#angela-johnson-2021)

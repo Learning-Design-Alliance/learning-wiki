@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-22
 sources:
   - id: birgit-brucker-2024
     resource: "https://doi.org/10.1007/s10648-024-09895-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i0` negligible
+> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Contrary to hypothesis H1, no overall positive effect of interactivity or direct object manipulation on learning outcomes was found in Study 1. [→ Birgit Brucker 2024](#birgit-brucker-2024)

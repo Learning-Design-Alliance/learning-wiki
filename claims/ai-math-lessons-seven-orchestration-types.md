@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yun-hwa-noh-hee-jeong-kim-2026
     resource: "https://doi.org/10.63311/mathedu.26.6525"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Across 46 episodes from six lessons, 83 orchestration instances were identified: four existing types (technical-support, explain-the-screen, guide-and-explain, spot-and-show) and three new types (dashboard-monitoring, AI-correcting, AI-mediating). [→ Yun Hwa Noh & Hee-jeong Kim 2026](#yun-hwa-noh-hee-jeong-kim-2026)

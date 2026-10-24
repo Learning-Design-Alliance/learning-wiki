@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: lavrijsen-2022
     resource: "https://doi.org/10.1037/edu0000666"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Even after controlling for intelligence and personality, several motivational processes explained additional, unique variance in achievement, totaling about a quarter of the explained variance in school results. [→ Lavrijsen 2022](#lavrijsen-2022)

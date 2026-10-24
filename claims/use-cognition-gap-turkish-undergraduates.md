@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ismail-şan-and-hanife-gülhan-orhan-karsak-2026
     resource: "https://doi.org/10.1186/s41239-026-00621-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the sample, 77.7% of participants engaged with AI tools at least several times per week (27.5% daily, 50.2% weekly), with ChatGPT the predominant tool across all four institutions. [→ İsmail Şan and Hanife Gülhan Orhan Karsak 2026](#ismail-san-and-hanife-gulhan-orhan-karsak-2026)

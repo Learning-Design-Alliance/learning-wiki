@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2009
 sources:
   - id: anthony-s-bryk-2009
     resource: "https://consortium.uchicago.edu/publications/organizing-schools-improvement-lessons-chicago"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The survey data used to derive the measures came primarily from teacher and student surveys conducted in 1994, and the number of schools contributing to each factor varies across the 1991, 1992, 1994, and 1997 waves. [→ Anthony S. Bryk 2009](#anthony-s-bryk-2009)

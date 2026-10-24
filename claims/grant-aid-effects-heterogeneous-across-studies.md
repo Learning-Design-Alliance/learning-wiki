@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: nguyen-2018
     resource: "http://cepa.stanford.edu/wp18-04"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For on-time degree completion, I2 across 20 studies is 85.136, indicating less than 15 percent of variation is random error. [→ Nguyen 2018](#nguyen-2018)

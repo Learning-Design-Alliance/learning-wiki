@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: catherine-rockey-2020
     resource: "https://doi.org/10.1558/cj.38773"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The number of overall attention-getting devices did not vary by scenario type, though device types varied, with head movements most common in –PD, –SD scenarios. [→ Catherine Rockey 2020](#catherine-rockey-2020)

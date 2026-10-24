@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: janssen-m-2014
     resource: "https://doi.org/10.1186/2193-1801-3-410"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Five of six laboratory studies found a significant effect on cognitive control of attention; three showed significant accuracy improvement with no reaction-time improvement. [→ Janssen M 2014](#janssen-m-2014)

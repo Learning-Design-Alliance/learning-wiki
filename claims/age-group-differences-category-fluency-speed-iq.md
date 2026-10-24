@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: safa-a-elgamal-2011
     resource: "https://doi.org/10.5770/cgj.v14i3.17"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The young group performed better than the older group on category fluency (animal naming) and on the processing speed composite, whereas the older group performed better than the young group on the National Adult Reading Test. [→ Safa A. Elgamal 2011](#safa-a-elgamal-2011)

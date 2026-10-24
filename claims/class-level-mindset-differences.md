@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: beyaztaş-2017
     resource: "https://doi.org/10.13189/ujer.2017.050909"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Entity and incremental scores differed significantly by class level (F=3,41 and F=3,14, p<.05), while performance and learning goal orientation did not (p=,21 and p=,23). [→ Beyaztaş 2017](#beyaztas-2017)

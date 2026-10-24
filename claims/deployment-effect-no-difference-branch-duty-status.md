@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: bøg-m-2018
     resource: "https://doi.org/10.4073/csr.2018.6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` No evidence was found that the effect of deployment on any outcomes differs between branch of service and duty/enlistment status, the only two personnel characteristics it was possible to assess. [→ Bøg M 2018](#bg-m-2018)

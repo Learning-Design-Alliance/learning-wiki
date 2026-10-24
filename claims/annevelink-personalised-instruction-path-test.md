@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-17
 sources:
   - id: filges-2018
     resource: "https://doi.org/10.4073/csr.2018.10"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Annevelink et al. test of Anderson's model path, smaller classes were related to more interactions of all kinds; more task-directed and praising interactions led to more time on task and higher achievement, while more organisational or personal interactions were contrary to expectations. [→ Filges 2018](#filges-2018)

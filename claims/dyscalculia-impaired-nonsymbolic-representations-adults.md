@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: bulthé-jessica-2019
     resource: "https://doi.org/10.1016/j.neuroimage.2018.06.012"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Searchlight MVPA shows significantly less distinct non-symbolic number representations in anterior parietal, frontal and temporal lobes in adults with dyscalculia compared to controls. [→ Bulthé Jessica 2019](#bulthe-jessica-2019)

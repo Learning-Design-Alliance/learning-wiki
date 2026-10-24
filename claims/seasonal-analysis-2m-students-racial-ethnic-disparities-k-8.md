@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: megan-kuhfeld-2019
     resource: "https://doi.org/10.3102/0013189x20977854"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The study analyzes approximately 2 million students to provide insights into seasonal learning and achievement gaps. [→ Megan Kuhfeld 2019](#megan-kuhfeld-2019)

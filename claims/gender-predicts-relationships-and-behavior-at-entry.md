@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: portilla-ximena-a-2014
     resource: "https://doi.org/10.1111/cdev.12259"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Boys experienced more teacher conflict (β = −.17, p < .001) and more inattention/impulsivity (β = −.37, p < .001); girls experienced closer relationships (β = .17, p < .001) and more school engagement (β = .17, p < .01). [→ Portilla Ximena A. 2014](#portilla-ximena-a-2014)

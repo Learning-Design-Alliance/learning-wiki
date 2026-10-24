@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: esposito-2015
     resource: "https://www.mathematica.org/publications/promise-neighborhood-site-profile-berea-college-promise-neighborhood"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Per capita income in Clay, Jackson, and Owsley Counties is significantly lower than the state and national average, and they are among the most economically distressed counties in the country. [→ Esposito 2015](#esposito-2015)

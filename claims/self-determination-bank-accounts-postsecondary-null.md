@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1997
 sources:
   - id: michael-wehmeyer-1997
     resource: "https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There were significant differences between low and high self-determination groups on maintaining a checking account and a savings account. [→ Michael Wehmeyer 1997](#michael-wehmeyer-1997)

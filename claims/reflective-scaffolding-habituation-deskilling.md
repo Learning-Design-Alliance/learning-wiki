@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: sander-de-jong-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27726"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When the same prompts are encountered repeatedly, their effect may wear off through habituation, and the scaffolding may replace the metacognitive capacity it was meant to protect. [→ Sander de Jong 2026](#sander-de-jong-2026)

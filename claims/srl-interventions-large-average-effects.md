@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-21
 sources:
   - id: mathias-allemand-2026
     resource: "https://doi.org/10.1007/s10648-026-10127-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 74 experimental or quasi-experimental studies of SRL interventions in primary and lower secondary school, the average effect size was about three-quarters of a standard deviation. [→ Mathias Allemand 2026](#mathias-allemand-2026)

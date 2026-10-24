@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1918
 sources:
   - id: west-1918
     resource: "https://scholar.google.com/scholar?q=%22The+Relation+of+Rhythm+to+the+Handwriting+Movement%22"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Imposed rhythm increases the proportionate amount of time spent at rest for all groups, especially younger children and finger movement. [→ West 1918](#west-1918)

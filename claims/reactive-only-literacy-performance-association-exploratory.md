@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: yueqiao-jin-2025
     resource: "https://doi.org/10.48550/arxiv.2507.04398"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Exploratory condition-specific mediation found a literacy–performance association in the reactive condition but not the proactive condition; indirect effects and literacy-by-design interactions were not significant. [→ Yueqiao Jin 2025](#yueqiao-jin-2025)

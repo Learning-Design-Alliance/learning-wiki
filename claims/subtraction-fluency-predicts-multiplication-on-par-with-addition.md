@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rautiainen-2026
     resource: "https://doi.org/10.1037/edu0001066"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The subtraction fluency construct strongly predicted multiplication skill, and, as in the addition model, a novel significant working memory association emerged after partialling out subtraction fluency. [→ Rautiainen 2026](#rautiainen-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: christine-c-a-van-nooijen-bjorn-b-de-koning-wichor-m-bramer-anna-isahakyan-maryam-asoodar-ellen-kok-jeroen-j-g-van-merrienboer-fred-paas-2024
     resource: "https://doi.org/10.1007/s10648-024-09848-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Explanations about order of operations become increasingly present after reassurance, allowing novices to build detailed script schemas; experts teaching computer skills gave explanations more often in the second half of a 'turn'. [→ Christine C. A. van Nooijen · Bjorn B. de Koning · Wichor M. Bramer · Anna Isahakyan · Maryam Asoodar · Ellen Kok · Jeroen J. G. van Merrienboer · Fred Paas 2024](#christine-c-a-van-nooijen-bjorn-b-de-koning-wichor-m-bramer-anna-isahakyan-maryam-asoodar-ellen-kok-jeroen-j-g-van-merrienboer-fred-paas-2024)

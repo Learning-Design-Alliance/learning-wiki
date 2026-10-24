@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: soysal-2021
     resource: "https://doi.org/10.21449/ijate.779963"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Item 15 in Booklet A, which appeared as item 9 in Booklet B, was found more difficult by Booklet A test takers, which the authors attribute to a fatigue effect. [→ Soysal 2021](#soysal-2021)

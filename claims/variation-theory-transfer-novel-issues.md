@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2025
+source_checked: 2026-10-20
 sources:
   - id: kristoffer-larsson-klas-andersson-2025
     resource: "https://doi.org/10.1007/s11251-025-09721-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Treatment students significantly outperformed control students on two novel post-test essay tasks (electronic ankle bracelet, life choices), with ηp2 = 0.08 and 0.07 — smaller than the taught-task effect. [→ Kristoffer Larsson · Klas Andersson 2025](#kristoffer-larsson-klas-andersson-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: süleyman-avcı-2025
     resource: "https://doi.org/10.1007/s11409-025-09431-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The indirect effect of teacher homework involvement on homework behavior via homework management was significant (β = 0.28, 95% CI [0.16, 0.40]) while the direct effect remained significant (β = 0.27), indicating partial mediation. [→ Süleyman Avcı 2025](#suleyman-avc-2025)

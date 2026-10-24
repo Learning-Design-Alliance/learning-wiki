@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-20
 sources:
   - id: verdine-2014
     resource: "https://doi.org/10.1016/j.jecp.2014.02.012"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the final hierarchical regression, EF (FIST, Tap Test) entered at step 1 and spatial skills (TOSA, VMI) at step 2 accounted for 70% of variance in WIAT Math Problem Solving scores. [→ Verdine 2014](#verdine-2014)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: marciano-laura-2021
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Excessive smartphone users had diminished functional connectivity between the right OFC and NAcc and between the left OFC and the MCC, and withdrawal symptoms were related to greater cortisol concentrations. [→ Marciano Laura 2021](#marciano-laura-2021)

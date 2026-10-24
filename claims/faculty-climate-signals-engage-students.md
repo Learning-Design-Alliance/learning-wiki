@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: gasiewski-2012
     resource: "https://doi.org/10.1007/s11162-011-9247-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the course level, faculty agreement that there is no such thing as a question too elementary positively predicted engagement, while agreement that success is primarily up to students and that there is not enough time for individualized attention negatively predicted it (all p < 0.05); tenured faculty's students reported more engagement than those of non-tenure-track faculty. [→ Gasiewski 2012](#gasiewski-2012)

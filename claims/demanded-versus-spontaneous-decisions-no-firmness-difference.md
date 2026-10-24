@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Demanded decisions averaged 4.31 in certainty and spontaneous ones 4.35, with weakly worded commitments equally rare (10% vs. 9%); only 115 of 6,491 participant turns revised an earlier position. [→ demanded-vs-spontaneous](#demanded-vs-spontaneous)

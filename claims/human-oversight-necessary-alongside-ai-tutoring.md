@@ -28,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r?` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both participants emphasized that human guidance remained important for effective programming learning alongside SocratiCode, particularly for correcting misconceptions and supporting advanced topics such as recursion and functions. [→ human-1](#human-1)

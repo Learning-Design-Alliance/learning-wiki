@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: lin-2016
     resource: "https://doi.org/10.5539/elt.v9n10p1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In the immediate test, the VNT group achieved a significantly higher MACS comprehension score than the T group and the NT group, with no significant difference between T and NT. [→ Lin 2016](#lin-2016)

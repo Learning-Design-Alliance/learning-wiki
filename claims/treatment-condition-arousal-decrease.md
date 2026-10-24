@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
+source_checked: 2026-10-20
 sources:
   - id: henk-g-schmidt-jerome-i-rotgans-2021
     resource: "https://doi.org/10.1007/s10648-020-09539-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` For treatment-group students lacking prior knowledge, both epistemic curiosity (η2 = .163) and situational interest (η2 = .117) rose significantly after the Mpemba problem and fell after the explanatory text was studied. [→ Henk G. Schmidt & Jerome I. Rotgans 2021](#henk-g-schmidt-jerome-i-rotgans-2021)

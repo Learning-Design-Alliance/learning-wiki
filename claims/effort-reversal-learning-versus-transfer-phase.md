@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: coppens-2019
     resource: "https://doi.org/10.1007/s11251-019-09484-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` EPEP students reported lower effort during learning (η²p = .05) but higher effort on near transfer posttest problems (η²p = .03) than PEPE students. [→ Coppens 2019](#coppens-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xinchen-ma-2026
     resource: "https://doi.org/10.48550/arxiv.2609.24083"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Removing Layout Consistency degrades the Layout score from 9.10 to 7.87; removing Factual Consistency decreases Accuracy & Depth from 0.87 to 0.85; removing Cognitive Clarity decreases Logical Flow from 0.91 to 0.89. [→ Xinchen Ma 2026](#xinchen-ma-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: femke-van-der-wilt-2019
     resource: "https://doi.org/10.1007/s10648-019-09479-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study of 54 children, oral communicative competence was associated with peer acceptance only for boys, and was not associated with peer rejection. [→ Femke van der Wilt 2019](#femke-van-der-wilt-2019)

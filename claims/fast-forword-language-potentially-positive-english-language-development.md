@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
+source_checked: 2026-10-10
 sources:
   - id: what-works-clearinghouse-2006
     resource: "http://www.scilearn.com"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Fast ForWord Language had a statistically significant and substantively important positive effect on English language development for elementary school English language learners. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

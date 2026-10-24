@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: martin-rebecca-b-2014
     resource: "https://doi.org/10.1016/j.lindif.2014.05.006"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In models with demographics, domain general, and counting predictors, conceptual counting was a unique predictor for fluency, computation, and applied problems, whereas procedural counting was unique only for applied problems; neither was unique for story problems. [→ Martin Rebecca B. 2014](#martin-rebecca-b-2014)

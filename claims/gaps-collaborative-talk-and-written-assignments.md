@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: ali-al-issa-ali-al-bulushi-2010
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 42.9 per cent of trainees had not experienced any on-line collaborative talk and 42 per cent had not been asked to produce written assignments (research) about ELT in Oman, despite the literature emphasising both. [→ Ali Al-Issa & Ali Al-Bulushi 2010](#ali-al-issa-ali-al-bulushi-2010)

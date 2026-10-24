@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: arana-chicas-e-2026
     resource: "https://doi.org/10.1007/s10552-026-02257-7"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Focus group participants demonstrated limited awareness of lung cancer screening's availability, eligibility criteria, benefits, and potential harms, often learning of screening through personal online research rather than clinician recommendations. [→ Arana-Chicas E 2026](#arana-chicas-e-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: joshi-u-2026
     resource: "https://doi.org/10.1186/s12909-026-10080-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In the LMM, post-to-delayed change was significant only at Centre 2 (Holm-adjusted p = 0.033), while Centre 1 remained above baseline at delayed follow-up. [→ Joshi U 2026](#joshi-u-2026)

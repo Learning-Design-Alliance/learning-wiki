@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-20
 sources:
   - id: lovaas-model-of-applied-behavior-analysis-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/295"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` None of three social-emotional/behavior outcomes was statistically significant; one finding was substantively important but the mean effect size across outcomes was not, yielding a no-discernible-effects rating. [→ Lovaas Model of Applied Behavior Analysis 2010](#lovaas-model-of-applied-behavior-analysis-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: feng-x-2020
     title: Feng X 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both flexibility groups reached their learning point in the second block (high CF group 244 trials, low CF group 257 trials), with no reported test of the difference. [→ Feng X 2020](#feng-x-2020)

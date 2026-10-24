@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: katia-tödt-2026
     resource: "https://doi.org/10.1007/978-3-032-26816-7_1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors identify quantification, data sovereignty and algorithmic decision-making as unresolved risks of data-based educational infrastructures. [→ Katia Tödt 2026](#katia-todt-2026)

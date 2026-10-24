@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: li-2025
     resource: "https://doi.org/10.1186/s40594-025-00566-y"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Personalized learning model type significantly moderated effects (QB = 14.199, p = 0.001); Model C (learner-driven, 20% automated) showed g = 0.764 versus Model A (fully automated) g = 0.257. [→ Li 2025](#li-2025)

@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-30
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: boers-and-lindstromberg-2012
     resource: "https://doi.org/10.1017/s0267190512000050"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2` · n=?
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 Formulaic sequences are multiword units such as collocations and fixed expressions. This claim concerns second-language learners of any age; the one source here is a review of experimental and intervention studies published since 2004.
 

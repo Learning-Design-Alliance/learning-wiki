@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: babineau-2025
     resource: "https://doi.org/10.51388/20.500.12265/263"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Student participation in Talladega County Schools' cybersecurity program rose from 81 students in 2023-2024 to 208 in 2024-2025, with a second cohort entering Cybersecurity 1 and a new Cybersecurity 2 course added. [→ Babineau 2025](#babineau-2025)

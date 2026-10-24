@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1922
 sources:
   - id: sandiford-1922
     resource: "https://psycnet.apa.org/journal/edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The sociological case histories of the superior children generally depict a good home and superior parents. [→ Sandiford 1922](#sandiford-1922)
@@ -46,3 +48,4 @@ From the review of the sociological portion of Root's monograph, which includes 
 - [In Root's study, superior children (IQ 135+ younger, 120+ older) excelled normal children on all administered tests](superior-children-excelled-normal-on-all-tests.md) — related
 - [Root argues that no current tests measure the real basis of superior intelligence, which he holds consists of ability to suspend judgment, freedom from suggestibility, and a critical attitude](tests-do-not-measure-real-basis-of-superior-intelligence.md) — related
 - [Pedagogy has developed for average and subnormal children but still lacks a pedagogy of supernormal children](lacking-pedagogy-of-supernormal-children.md) — related
+- [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](mental-tests-more-needed-for-superior-selection.md) — related

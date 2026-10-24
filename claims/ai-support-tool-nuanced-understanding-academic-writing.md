@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: benali-taouis-2026
     resource: "https://doi.org/10.53761/28y4hw95"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the AI-integrated course activities, students showed a more nuanced understanding of AI capabilities and limitations and treated AI as a support tool rather than a substitute for original work. [→ Benali Taouis 2026](#benali-taouis-2026)

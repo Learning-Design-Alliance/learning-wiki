@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: malikova-z-2026
     resource: "https://doi.org/10.3389/feduc.2026.1964629"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Lu et al. (2025), AI-hint use during homework was significantly associated with exam performance only for items closely matching homework content (b = 0.40, p = .004); no significant association was observed for other items. [→ Malikova Z 2026](#malikova-z-2026)

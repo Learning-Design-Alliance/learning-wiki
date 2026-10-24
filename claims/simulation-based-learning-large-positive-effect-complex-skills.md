@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-18
 sources:
   - id: olga-chernikova-2020
     resource: "https://doi.org/10.3102/0034654320933544"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2020 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Simulation-based learning had a large positive effect on fostering complex skills compared with waiting control, instructed control, and baseline conditions. [→ Olga Chernikova 2020](#olga-chernikova-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: rebetez-2010
     resource: "https://doi.org/10.1007/s11251-009-9117-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The transfer advantage of animated over static graphics was present for learners studying in dyads but not for learners studying individually (animation × learning-setting interaction). [→ Rebetez 2010](#rebetez-2010)

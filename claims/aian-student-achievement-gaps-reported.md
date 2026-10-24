@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: rmc-research-corporation-2015
     resource: "https://eric.ed.gov/?id=ED559751"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The report cites figures including 18 percent of 4th-grade AI/AN students proficient or above in reading in 2011 versus 42 percent of white students, and a 69 percent versus 83 percent graduation-rate gap. [→ RMC Research Corporation 2015](#rmc-research-corporation-2015)

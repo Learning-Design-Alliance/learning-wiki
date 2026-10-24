@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: lisa-hasenbein-2024
     resource: "https://doi.org/10.1007/s11251-023-09646-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Perceived performance level was significantly negatively related to situational self-concept (β = −0.19, p < 0.001) but not to dispositional self-concept (β = −0.03, p = 0.426). [→ Lisa Hasenbein 2024](#lisa-hasenbein-2024)

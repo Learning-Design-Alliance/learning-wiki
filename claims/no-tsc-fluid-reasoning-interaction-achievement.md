@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: schmidt-ftc-2020
     title: Schmidt FTC 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The hypothesized positive interaction between trait self-control and fluid reasoning was not statistically significant for mGPA (β = 0.03, p = 0.134), mathematics (p = 0.822), or physics (p = 0.460). [→ Schmidt FTC 2020](#schmidt-ftc-2020)

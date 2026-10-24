@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: ma-2023
     resource: "https://www.nwnu.edu.cn"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the male network A4–D3 was strongest (0.20) and A4–D1 was negative (−0.10); in the female network A4 and A3 both predicted D3 at 0.21. [→ Ma 2023](#ma-2023)

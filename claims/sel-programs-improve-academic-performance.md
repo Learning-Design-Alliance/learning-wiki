@@ -9,6 +9,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: greenberg-2023
     resource: "https://doi.org/10.54300/928.269"
@@ -40,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 review `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis -->
 
 ## Subclaims

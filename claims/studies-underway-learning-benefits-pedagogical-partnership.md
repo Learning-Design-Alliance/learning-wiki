@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: maybee-2025
     resource: "https://doi.org/10.21900/j.alise.2025.2017"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Existing and ongoing studies are examining learning benefits of pedagogical partnership in information studies curricula; outcomes are not yet reported in this article. [→ Maybee 2025](#maybee-2025)

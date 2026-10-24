@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fathi-2026
     resource: "https://doi.org/10.1007/s10648-025-10100-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 128 effect sizes from 36 studies, FSRs correlate positively with combined academic outcomes at r = .18. [→ Fathi 2026](#fathi-2026)

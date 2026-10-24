@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2002
 sources:
   - id: jacqueline-leybaert-and-marie-noëlle-van-cutsem-2002
     resource: "https://doi.org/10.1006/jecp.2002.2660"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across age groups, attention and principle error rates did not differ by hearing status, while deaf children produced more sequence number counting errors. [→ Jacqueline Leybaert and Marie-Noëlle Van Cutsem 2002](#jacqueline-leybaert-and-marie-noelle-van-cutsem-2002)

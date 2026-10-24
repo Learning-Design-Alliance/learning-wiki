@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09726-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article presents contrast and assimilation as competing forces underlying compositional effects, with the observed negative BFLPE potentially a net effect of a large negative contrast effect and a smaller positive assimilation effect. [→ Marsh 2023](#marsh-2023)

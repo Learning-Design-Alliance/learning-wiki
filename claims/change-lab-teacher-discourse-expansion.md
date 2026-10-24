@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2010
 sources:
   - id: engeström-2010
     resource: "https://www.sciencedirect.com/journal/educational-research-review"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` W jedenastomiesięcznym longitudinalnym materiale z 11 grupowych dyskusji nauczycielskich, pozytywne wypowiedzi o uczniach pojawiły się pod koniec procesu i utrzymały się, podczas gdy negatywne wypowiedzi nie zniknęły ani nie zmalały. [→ Engeström 2010](#engestrom-2010)

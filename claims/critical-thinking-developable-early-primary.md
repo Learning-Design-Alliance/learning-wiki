@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: silva-2022
     resource: "https://doi.org/10.26822/iejee.2022.274"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study confirms that at the elementary level it is possible to develop critical thinking skills, reinforcing the controversial idea that critical thinking can be developed with young children. [→ Silva 2022](#silva-2022)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: unesco-secretariat-2013
     resource: "https://unesdoc.unesco.org/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The paradigm of lifelong learning, initially introduced in Learning To Be (1972), is linked to the principle of equal opportunity in the democratisation of education and training opportunities. [→ UNESCO Secretariat 2013](#unesco-secretariat-2013)

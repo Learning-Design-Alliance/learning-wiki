@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: project-criss-creating-independence-through-student-owned-strategies-2010
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/388"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a randomized study across three school settings, grade 4 and grade 6 students taught by CRISS-trained teachers showed significantly greater gains on a staff-developed free-recall assessment than control students. [→ Project CRISS® (CReating Independence through Student-owned Strategies) 2010](#project-criss-creating-independence-through-student-owned-strategies-2010)

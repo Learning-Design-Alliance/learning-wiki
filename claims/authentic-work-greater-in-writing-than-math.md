@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2002
+recheck_by: 2007
 sources:
   - id: wenzel-2002
     resource: "https://consortium.uchicago.edu/publications/documentation-1996-2002-chicago-annenberg-research-project-authentic-intellectual"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the study's baseline findings, student work in writing exhibited more authentic intellectual work than student work in mathematics. [→ Wenzel 2002](#wenzel-2002)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: kidd-2015
     resource: "https://doi.org/10.1016/j.neuron.2015.09.010"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Dopamine neuron activity is enhanced by the prospect of both a possible reward and early information, suggesting subcortical reward structures treat informational value like other valued goods. [→ Kidd 2015](#kidd-2015)

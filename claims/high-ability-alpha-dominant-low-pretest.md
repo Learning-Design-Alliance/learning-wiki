@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2007
+source_checked: 2026-10-20
 sources:
   - id: lei-bao-2007
     resource: "https://doi.org/10.48550/arxiv.0710.1375"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2` · `i1` small
+> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Honor students' change-score data show a more linear relation indicating dominant α-process even at low pretest scores, and Coletta et al. found Harvard students (r = 0.04) differed from average-university students (r = 0.15~0.33). [→ Lei Bao 2007](#lei-bao-2007)

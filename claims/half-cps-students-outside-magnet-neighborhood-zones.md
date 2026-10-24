@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
+recheck_by: 2003
 sources:
   - id: elaine-m-allensworth-2000
     resource: "https://consortium.uchicago.edu/publications/access-magnet-schools-chicago"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2003**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Approximately half of CPS students live outside the 1.5-mile neighborhood zone of every magnet elementary school. [→ Elaine M. Allensworth 2000](#elaine-m-allensworth-2000)

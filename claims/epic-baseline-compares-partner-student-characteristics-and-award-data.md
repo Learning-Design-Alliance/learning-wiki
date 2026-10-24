@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2009
 sources:
   - id: cody-2009
     resource: "https://www.mathematica.org/publications/baseline-statistics-for-evaluation-of-the-effective-practice-incentive-community-epic"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The report compares student characteristics across EPIC's three partner organizations as part of establishing baseline statistics for the evaluation. [→ Cody 2009](#cody-2009)

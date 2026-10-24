@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: what-works-clearinghouse-2008
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/430"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` PCER Consortium (2008) reported a negative, statistically significant effect on one math measure, but WWC recalculations found it neither statistically significant nor substantively important; the domain average effect size was –0.04. [→ What Works Clearinghouse 2008](#what-works-clearinghouse-2008)

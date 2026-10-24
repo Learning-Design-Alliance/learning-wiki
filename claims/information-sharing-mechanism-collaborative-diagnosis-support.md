@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: amadeus-j-pickal-2026
     resource: "https://doi.org/10.1007/s11412-026-09494-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors interpret increased information sharing as the mechanism behind collaboration support's enhancement of collaborative diagnosis. [→ Amadeus J. Pickal 2026](#amadeus-j-pickal-2026)

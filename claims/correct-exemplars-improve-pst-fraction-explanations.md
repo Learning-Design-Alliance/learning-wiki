@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-18
 sources:
   - id: guba-2026
     resource: "https://doi.org/10.1007/s11251-025-09773-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Preservice teachers provided with a correct and complete exemplar of a fraction magnitude comparison showed greater improvements in their explanations than those who studied example explanations displaying common misconceptions and errors, with Hedges' g ranging from 0.64 to 0.95 across the three comparison tasks. [→ Guba 2026](#guba-2026)

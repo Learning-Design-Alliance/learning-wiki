@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-22
 sources:
   - id: harris-thomas-2026
     resource: "https://doi.org/10.1007/s10648-026-10181-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that sense of belonging is robustly associated with psychological well-being, academic motivation, and academic performance in several contexts, citing prior reviews. [→ Harris-Thomas 2026](#harris-thomas-2026)

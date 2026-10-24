@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: diane-vassallo-2026
     resource: "https://doi.org/10.1007/s10805-026-09726-3"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Guilt correlated with limiting use due to uneasiness (r = .62), avoiding AI for peer-reviewed work (r = .51), avoiding disclosure to colleagues (r = .50), and emotional responses influencing use (r = .48), all p < .001. [→ Diane Vassallo 2026](#diane-vassallo-2026)

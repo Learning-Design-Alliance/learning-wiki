@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1995
 sources:
   - id: ellen-p-hall-1995
     resource: "https://doi.org/10.21236/ada303654"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in GUIDON field tests could not make sense of MYCIN's production rules or integrate them into usable knowledge because the underlying tutor did not represent human diagnostic reasoning strategies or knowledge of how the human body works. [→ Ellen P. Hall 1995](#ellen-p-hall-1995)

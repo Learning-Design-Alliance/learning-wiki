@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: ramsook-k-ashana-2020
     resource: "https://doi.org/10.1111/sode.12425"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Initial levels of vocabulary (β = .20, p < .05) and social communication (β = .25, p < .01) predicted math achievement, and growth in both vocabulary (β = .17, p < .05) and social communication (β = .15, p < .05) was associated with better math. [→ Ramsook K. Ashana 2020](#ramsook-k-ashana-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: núñez-regueiro-2024
     resource: "https://doi.org/10.1007/s10648-024-09905-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eight countries (Bahrain, Egypt, Iran, Jordan, Lebanon, Oman, Saudi Arabia, Turkey) shared polynomial family 25, explaining 4.1% of variance, a 41% increase from the additive model. [→ Núñez-Regueiro 2024](#nunez-regueiro-2024)

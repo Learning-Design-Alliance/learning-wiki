@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-17
 sources:
   - id: freeman-s-2014
     resource: "https://doi.org/10.1073/pnas.1319030111"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Effect sizes varied significantly by course size, with active learning having the highest impact in classes of 50 or fewer students, though effects were significant in medium and large classes as well. [→ Freeman S 2014](#freeman-s-2014)

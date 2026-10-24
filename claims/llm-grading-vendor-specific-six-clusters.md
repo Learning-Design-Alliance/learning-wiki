@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: marcin-jukiewicz-2025
     resource: "https://doi.org/10.48550/arxiv.2509.26483"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Spearman correlations between models' grading patterns range from approximately 0.55 to 0.89, with the highest values within same-vendor families such as the gpt-5 group (ρ≈0.80–0.89) and the Gemini family (ρ≈0.79–0.83). [→ Marcin Jukiewicz 2025](#marcin-jukiewicz-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: taehyun-kim-2025
     resource: "https://doi.org/10.1007/s11412-025-09459-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sofia had the highest proportion of anger talk in Red City (12.0%) while also having the highest proportion of science talk (84.2%). [→ Taehyun Kim 2025](#taehyun-kim-2025)

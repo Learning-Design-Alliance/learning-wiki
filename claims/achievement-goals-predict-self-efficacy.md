@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2012
+source_checked: 2026-10-20
 sources:
   - id: mason-2012
     resource: "https://doi.org/10.1007/s11251-012-9210-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In cross-sectional SEM models, mastery and performance-approach goals were positively associated with self-efficacy, and performance-avoidance goals negatively, at all grade levels; the authors note no causal relationship is established. [→ Mason 2012](#mason-2012)

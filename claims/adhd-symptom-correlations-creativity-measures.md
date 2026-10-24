@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: boot-nathalie-2017
     resource: "https://doi.org/10.1177/1087054717727352"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Study 1, ADHD symptoms correlated positively with creative achievements (r = .22) and negatively with the usefulness of problem construction (r = −.36). [→ Boot Nathalie 2017](#boot-nathalie-2017)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 1996
 sources:
   - id: sebring-1996
     resource: "https://consortium.uchicago.edu/publications/charting-reform-chicago-students-speak"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparison of 1994 neighborhood crime statistics for the 30 safest-rated and 30 least-safe-rated elementary schools shows enormous variation in local crime incidence. [→ Sebring 1996](#sebring-1996)

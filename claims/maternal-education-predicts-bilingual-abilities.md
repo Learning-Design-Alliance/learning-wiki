@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: freel-2011
     resource: "https://doi.org/10.4236/psych.2011.21003"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Maternal education level correlated significantly with bilingual abilities (r = 0.521). [→ Freel 2011](#freel-2011)

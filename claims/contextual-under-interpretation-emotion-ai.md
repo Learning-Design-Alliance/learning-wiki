@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhang-yuze-2026
     resource: "https://doi.org/10.3390/bs16071173"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article argues the central limitation of detection-oriented AI is treating an emotional signal as if its meaning were fixed independently of the situation producing it. [→ Zhang Yuze 2026](#zhang-yuze-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: chris-rohlfs-2026
     resource: "https://doi.org/10.48550/arxiv.2609.28478"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Moving from a single judge to three judges under the unanimous-fail rule reduced benchmark activation by approximately 40% on average for Student safety, Diversity & inclusion, and Factual accuracy. [→ Chris Rohlfs 2026](#chris-rohlfs-2026)

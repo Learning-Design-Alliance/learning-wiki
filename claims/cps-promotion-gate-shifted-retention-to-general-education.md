@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: shazia-rafiullah-miller-and-robert-m-gladden-2002
     resource: "https://consortium.uchicago.edu/publications/changing-special-education-enrollments-causes-and-distribution-among-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Before 1995–96, eighth graders with disabilities were retained at higher rates than general education students; after the gate this reversed — general education retention rose from 2.1 to a high of 14.4 percent while retention of students with disabilities fell to 4.7 percent. [→ Shazia Rafiullah Miller and Robert M. Gladden 2002](#shazia-rafiullah-miller-and-robert-m-gladden-2002)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: ritter-2012
     resource: "https://doi.org/10.1016/j.tsc.2011.12.002"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Experiment 2, conscious thinkers were more creative than participants who immediately listed their ideas, while unconscious and conscious thinkers did not differ. [→ Ritter 2012](#ritter-2012)

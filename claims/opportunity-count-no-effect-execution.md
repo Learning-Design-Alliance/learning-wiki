@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: thomas-2026
     resource: "https://doi.org/10.48550/arxiv.2606.18617"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A generalized linear mixed-effects growth model found no statistically significant effect of cumulative opportunity count on successful execution (β=0.06, p=.39), a positive but non-significant lesson-completion effect (β=0.35, p=.098), and a non-significant interaction (β=-0.07, p=.36). [→ Thomas 2026](#thomas-2026)

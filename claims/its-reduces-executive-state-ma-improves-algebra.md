@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-16
 sources:
   - id: rief-2026
     resource: "https://doi.org/10.48550/arxiv.2609.02611"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 In Rief et al. (2026), seventh graders practised algebra in the "Math with Matt" tutoring system. The Mindful version added an LLM-based mindful chat, in which the pedagogical agent Matt gave context-sensitive emotional support, and mindful (not only evaluative) feedback and hint messages; the Cognitive version gave cognitive support only.
 

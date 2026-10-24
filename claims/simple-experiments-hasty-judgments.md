@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1915
 sources:
   - id: ellwood-b-spear-1915
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Continued plain sailing and simple examples tend to make the pupil unguarded in his conclusions and lead to hasty judgments. [→ Ellwood B. Spear 1915](#ellwood-b-spear-1915)
@@ -47,3 +49,4 @@ The author's own experiential claim in the logical-reasoning section, illustrate
 - [Dewey argues that science has not justified its early promises as part of the educational curriculum](dewey-science-not-justified-curriculum-promises.md) — related
 - [Dewey holds the aim of science teaching should be to give pupils the scientific attitude and habit of mind](dewey-aim-scientific-attitude-habit-of-mind.md) — related
 - [The article argues geometry teaching should target ten enumerated outcomes, with the general powers rather than the content as the chief aim](geometry-ten-aims-powers-over-content.md) — related
+- [The editorial holds that the formal disciplinary idea of science as developing accuracy of method dominates science instruction and underlies claims of elementary pupils' immaturity.](formal-disciplinary-ideal-dominates-science-instruction.md) — related

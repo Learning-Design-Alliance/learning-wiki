@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: bialystok-ellen-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139691/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` There was no difference between groups in age, Kbit score, or PPVT. [→ Bialystok Ellen 2011](#bialystok-ellen-2011)

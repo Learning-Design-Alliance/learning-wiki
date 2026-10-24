@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (22 for, 26 mixed, 2 against) · 49 studies (12 review, 9 associational, 8 theoretical, 6 causal, 6 qualitative, 4 quant-synthesis, 4 design), `q1`–`q4` · 6 of 49 report an effect size · 42 claims rest on one study
+> **Evidence** · 52 claims (23 for, 27 mixed, 2 against) · 50 studies (12 review, 9 associational, 8 theoretical, 7 causal, 6 qualitative, 4 quant-synthesis, 4 design), `q1`–`q4` · 6 of 50 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,8 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Students' perceived relative lack of autonomy support positively predicts extrinsic regulation](../claims/relative-lack-of-autonomy-support-predicts-extrinsic-regulation.md) [+W] — attached 2026-10-22 from Flunger et al. (2024), which proposed "Support autonomy at both the individual and class level; class-directed support alone omits essential information"; tests this page's relationship.
 - [Teacher psychological control relates indirectly to reduced vitality and to both disengagement forms through the two need frustrations](../claims/teacher-control-indirect-disengagement-pathways.md) [+W] — attached 2026-10-23 from Stephen R. Earl et al. (2016), which proposed "Avoid psychologically controlling strategies in the classroom to prevent both active and passive disengagement"; tests this page's relationship.
 - [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](../claims/executive-functions-mediate-autonomy-support-achievement.md) [+M] — attached 2026-10-23 from Bindman et al. (2015), which proposed "Caregivers and educators should support children's autonomy rather than control, because early autonomy support uniquely predicts later executive functions and achievement".
+- [Autonomy-supportive instructions dampen the impairing effects of difficult math exercises on need-based experiences](../claims/autonomy-supportive-instructions-dampen-difficulty-effects.md) [+W] — attached 2026-10-24 from Baten et al. (2020), which proposed "Introduce difficult math tasks with autonomy-supportive instructions to buffer their impairing effects".
+- [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](../claims/instructional-style-main-effect-limited-autonomy-satisfaction.md) [~W] — attached 2026-10-24 from Baten et al. (2020), which proposed "Introduce difficult math tasks with autonomy-supportive instructions to buffer their impairing effects"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

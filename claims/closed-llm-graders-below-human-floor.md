@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: habibullah-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29333"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across 570 dual-graded submissions the two human graders' totals agree to MAE 2.61/35 (95% CI [2.37, 2.85]; Pearson r=0.868), treated as the human-grader floor. [→ Habibullah 2026](#habibullah-2026)

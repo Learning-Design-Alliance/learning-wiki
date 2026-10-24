@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lina-shanley-2017
     resource: "https://doi.org/10.1007/s11423-016-9488-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participating instructors reported a range of pre-intervention technological experience with iPads, and this range corresponded with variable student use in terms of within-class variability of student use and percentage of students meeting the duration-of-use target. [→ Lina Shanley 2017](#lina-shanley-2017)

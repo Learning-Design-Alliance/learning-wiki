@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: fatima-zehra-allahverdi-2025
     resource: "https://doi.org/10.1007/s11251-025-09725-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only the high-gain teacher's high change score students received interactional scaffolding via partial and full feedback on how and why readers set purposes; the typical teacher's students received none or inappropriate feedback. [→ Fatima Zehra Allahverdi 2025](#fatima-zehra-allahverdi-2025)

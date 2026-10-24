@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2012
+recheck_by: 2015
 sources:
   - id: shudong-wang-2012
     resource: "https://www.nwea.org/research/publication/examine-construct-validity-of-computerized-adaptive-test-in-k-12-assessments/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Item and response missing data characterized as MCAR for linear tests have no differential effects on model fit across Designs 1 to 4, so linear-test constructs recover reasonably well at the item level. [→ Shudong Wang 2012](#shudong-wang-2012)

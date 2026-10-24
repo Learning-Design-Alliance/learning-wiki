@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: sunny-yu-2026
     resource: "https://doi.org/10.48550/arxiv.2605.22687"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Participants exposed to AI in an exposure phase chose AI on 44.5% of subsequent easy tasks versus 27.7% for those who completed tasks independently. [→ Sunny Yu 2026](#sunny-yu-2026)

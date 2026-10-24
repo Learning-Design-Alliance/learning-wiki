@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: philip-gleason-2019
     resource: "https://www.mathematica.org/publications/charter-schools-and-the-public-interest"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` As the number of charter schools expanded to more than 7,000 nationwide, an active debate arose over whether charter schools help or harm the public school system and over appropriate regulation of charter certification, operation, and expansion. [→ Philip Gleason 2019](#philip-gleason-2019)

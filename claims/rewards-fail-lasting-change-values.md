@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 1994
 sources:
   - id: kohn-1994
     resource: "https://eric.ed.gov/?id=ED376990"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When rewards stop, people usually return to prior behavior, and children whose parents make frequent use of rewards tend to be less generous than their peers. [→ Kohn 1994](#kohn-1994)

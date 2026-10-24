@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: brookman-byrne-a-2018
     title: Brookman-Byrne A 2018
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Trial type × Statement type interaction: the true–false accuracy difference was smaller in control trials (ηp2 = .120) than misconception trials (ηp2 = .256). [→ Brookman-Byrne A 2018](#brookman-byrne-a-2018)

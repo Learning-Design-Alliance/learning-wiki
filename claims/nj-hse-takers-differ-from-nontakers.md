@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: jacob-hartog-2021
     resource: "https://ies.ed.gov/ncee/rel/regions/midatlantic"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among New Jersey grade 8 public school students in the study years, HSE exam takers completed fewer years of school, were more likely to have been eligible for the national school lunch program in grade 8, and were more likely to identify as Black or Hispanic than non-exam takers. [→ Jacob Hartog 2021](#jacob-hartog-2021)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-08
+recheck_by: 2016
 sources:
   - id: brian-gill-2013
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The typical measure of student growth, progress on state assessments from one school year to the next, usually covers only reading and math and only in grades 4-8. [→ Brian Gill 2013](#brian-gill-2013)

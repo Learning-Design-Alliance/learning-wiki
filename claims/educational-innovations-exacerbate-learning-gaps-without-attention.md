@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: finkelstein-2026
     resource: "https://doi.org/10.48550/arxiv.2510.01467"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article warns, citing Reich (2020), that educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals unless attention is paid. [→ Finkelstein 2026](#finkelstein-2026)

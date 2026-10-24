@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: allensworth-2018
     resource: "https://ncs.uchicago.edu/freshman-on-track-toolkit"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Integrating on-track rates into Chicago's accountability system signaled that high schools should attend to ninth-grade performance, and schools developed dropout-prevention practices focused on preventing ninth-grade failures that have been credited with dramatic graduation-rate improvements. [→ Allensworth 2018](#allensworth-2018)

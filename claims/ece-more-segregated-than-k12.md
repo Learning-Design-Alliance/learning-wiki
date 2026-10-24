@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: plasencia-2024
     resource: "https://doi.org/10.54300/639.507"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` ECE programs are, on average, 13% more racially segregated than elementary schools and 20% more segregated than high schools. [→ Plasencia 2024](#plasencia-2024)

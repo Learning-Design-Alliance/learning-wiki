@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: carver-thomas-2017
     resource: "https://learningpolicyinstitute.org/product/ca-teacher-shortage-2017-update"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The proportion of new math and science teachers entering on substandard credentials or permits doubled from about 20% to 40% between 2011–12 and 2015–16. [→ Carver-Thomas 2017](#carver-thomas-2017)

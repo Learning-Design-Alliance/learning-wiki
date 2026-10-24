@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: xingshi-gao-2024
     resource: "https://doi.org/10.1016/j.edurev.2023.100588"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only six of the 73 reviewed studies combined feedback from peers with feedback from other sources such as teachers, self, or computers. [→ Xingshi Gao 2024](#xingshi-gao-2024)

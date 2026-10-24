@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: burton-2021
     resource: "https://doi.org/10.1177/17470218211008895"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Exploratory moderation found no evidence that reward type moderates the reward effect on IC across monetary (k = 62), points (k = 13), and other (k = 3) reward categories. [→ Burton 2021](#burton-2021)

@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-08
+recheck_by: 2016
 sources:
   - id: hallgren-2013
     resource: "https://www.mathematica.org/publications/strategic-data-project-and-education-pioneers-year-1-report-laying-the-groundwork-for-datadriven-decision-making"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` During 2012–2013, the first year of the implementation study, partner education agencies began working with the SDP or EP program. [→ Hallgren 2013](#hallgren-2013)

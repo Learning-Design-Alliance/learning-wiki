@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: doutre-2021
     resource: "https://ies.ed.gov/ncee/edlabs"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Single-district and multidistrict SELPAs showed no meaningful differences in proficiency, graduation, or dropout rates for students receiving special education services. [→ Doutre 2021](#doutre-2021)

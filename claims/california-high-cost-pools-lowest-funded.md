@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: jason-willis-2020
     resource: "https://eric.ed.gov/?id=ED616102"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` California funds its total high-cost pool at $9 per student with a disability, compared with $2,278 in New York and $37 in Pennsylvania, and SELPA directors report the benefit is outweighed by reimbursement paperwork requirements. [→ Jason Willis 2020](#jason-willis-2020)

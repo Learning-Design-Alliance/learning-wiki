@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chen-2026
     resource: "https://doi.org/10.48550/arxiv.2607.17643"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In covariate-adjusted setting-specific models, scaffolded-support presence was associated with higher constructive-turn counts (Poisson count ratios 1.569–2.491) and higher odds of at least one constructive turn (logistic ORs 1.437–2.140). [→ Chen 2026](#chen-2026)

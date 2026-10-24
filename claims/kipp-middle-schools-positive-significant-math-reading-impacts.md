@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
+source_checked: 2026-10-08
 sources:
   - id: christina-clark-tuttle-2010
     resource: "https://www.mathematica.org/publications/student-characteristics-and-achievement-in-22-kipp-middle-schools"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2010 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using a matched comparison group design, the evaluation finds positive, statistically significant, and educationally substantial impacts on state assessment scores in math and reading for the vast majority of the 22 KIPP middle schools evaluated. [→ Christina Clark Tuttle 2010](#christina-clark-tuttle-2010)

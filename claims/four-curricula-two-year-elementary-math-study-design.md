@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-14
 sources:
   - id: agodini-2013
     resource: "https://www.mathematica.org/publications/after-two-years-three-elementary-math-curricula-outperform-a-fourth-infocus-brief"
@@ -24,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-14 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 

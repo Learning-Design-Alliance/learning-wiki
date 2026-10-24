@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: pishtari-2027
     resource: "https://doi.org/10.1007/978-3-032-29770-9_28"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teachers reported significantly lower perceived cognitive effort when designing learning activities with AI access than without AI. [→ Pishtari 2027](#pishtari-2027)

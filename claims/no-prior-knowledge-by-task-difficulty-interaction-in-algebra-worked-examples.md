@@ -8,6 +8,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-24
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant prior knowledge by task difficulty interaction was observed; equivalence was not tested. [→ Gupta 2020](#gupta-2020)

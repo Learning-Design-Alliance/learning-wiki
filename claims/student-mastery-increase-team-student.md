@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: brundidge-2025
     resource: "https://doi.org/10.20429/nyarj.2025.080103"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Student mastery at Lee Roy Myers Middle School rose from 17.5% in 2022 to 19.2% in 2023, with 70% of students meeting or exceeding 50% on common assessments. [→ Brundidge 2025](#brundidge-2025)

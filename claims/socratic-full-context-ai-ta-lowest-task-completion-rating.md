@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: madeleine-eastwood-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29995"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a 2x2 randomized experiment (N=132), condition significantly affected perceived support for task completion, with the Socratic + Full Context AI TA rated lowest (mean rank 48.63, μ=3.53) versus the other three conditions. [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)

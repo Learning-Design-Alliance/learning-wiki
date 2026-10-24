@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: haozhe-jiang-2025
     resource: "https://doi.org/10.1007/s10639-024-13210-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eight reviewed articles reported VR/AR-induced distraction among learners; teachers faced loss of classroom control, difficulty designing activities and lack of technical competence; schools faced costs, inadequate infrastructure, lack of private virtual space and privacy concerns. [→ Haozhe Jiang 2025](#haozhe-jiang-2025)

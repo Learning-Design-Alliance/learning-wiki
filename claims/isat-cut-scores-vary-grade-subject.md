@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: easton-2003
     resource: "https://www.consortium-chicago.org/publications/briefs/onlineresources.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Below-to-Meets Standards cut score rises across grades in mathematics (152.5, 157.5, 161.5) and is lower in eighth-grade reading (151.5), so standards stringency varies by grade and subject. [→ Easton 2003](#easton-2003)

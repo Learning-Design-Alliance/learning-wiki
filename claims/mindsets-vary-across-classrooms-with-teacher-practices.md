@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: allensworth-2018
     resource: "https://consortium.uchicago.edu/page/presentations"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The same student can have different mindsets from one classroom to the next, earning higher or lower grades as their mindsets change, and these differences trace to differences in teachers' instructional practices and learning conditions. [→ Allensworth 2018](#allensworth-2018)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+source_checked: 2026-10-17
 sources:
   - id: benedek-mathias-2014
     resource: "https://doi.org/10.1016/j.intell.2014.05.007"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2014 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the extended model, openness predicted creativity (β = .36, p < .001) but not Gf (β = .16, p = .15), and the residual Gf–creativity correlation dropped to r = .29 (p = .06). [→ Benedek Mathias 2014](#benedek-mathias-2014)

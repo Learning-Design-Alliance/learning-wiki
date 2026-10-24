@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: shaowen-lu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.13918"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` After LoRA fine-tuning at r=16, the 7B model's advantage increased on ROUGE-2 and ROUGE-L while the ROUGE-1 gap narrowed in favor of the 3B model. [→ Shaowen Lu 2026](#shaowen-lu-2026)

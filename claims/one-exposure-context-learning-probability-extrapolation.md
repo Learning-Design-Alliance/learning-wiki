@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 1984
+source_checked: 2026-10-20
+recheck_by: 1989
 sources:
   - id: nagy-1984
     resource: "https://eric.ed.gov/?id=ED248470"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1984 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1989**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Combining the study's per-exposure learning probabilities with estimates of reading volume and unknown-word density yields an estimated 750-5,500 new words learned per year from context, point estimate 3,125. [→ Nagy 1984](#nagy-1984)

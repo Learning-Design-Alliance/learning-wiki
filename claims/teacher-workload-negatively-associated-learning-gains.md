@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: luiz-rodrigues-2026
     resource: "https://doi.org/10.1186/s40561-026-00465-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across robust multilevel regressions controlling for condition, higher teacher workload subscale ratings were associated with lower student learning gains, with Mental Demand (coef −2.569) and Effort (coef −2.436) standing out. [→ Luiz Rodrigues 2026](#luiz-rodrigues-2026)

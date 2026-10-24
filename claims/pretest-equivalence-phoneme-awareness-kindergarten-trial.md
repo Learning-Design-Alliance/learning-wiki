@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 1994
 sources:
   - id: blachman-1994
     resource: "https://doi.org/10.1007/BF01027275"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Prior to the intervention, the 84 treatment and 75 control children did not differ on age, sex, race, SES, PPVT-R score, phoneme segmentation, letter name knowledge, letter sound knowledge, or reading. [→ Blachman 1994](#blachman-1994)

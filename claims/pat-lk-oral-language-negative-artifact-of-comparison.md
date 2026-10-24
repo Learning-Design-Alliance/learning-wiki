@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2006
+source_checked: 2026-10-18
 sources:
   - id: what-works-clearinghouse-2006
     resource: "https://ies.ed.gov/ncee/WWC/InterventionReport/376"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2006 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The WWC attributes the negative oral language rating to the comparison condition's focus on vocabulary and language comprehension rather than to the intervention itself. [→ What Works Clearinghouse 2006](#what-works-clearinghouse-2006)

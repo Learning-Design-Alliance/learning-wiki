@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: coca-2017
     resource: "https://toandthrough.uchicago.edu/tool"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Nationally, about 90 percent of 2013 high school graduates who enrolled in a four-year college had at least a 2.5 GPA, compared to only 62 percent of two-year enrollees and 45 percent of non-enrollees. [→ Coca 2017](#coca-2017)

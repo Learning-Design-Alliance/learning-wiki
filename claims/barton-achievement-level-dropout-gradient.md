@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1999
 sources:
   - id: shazia-rafiullah-miller-1999
     resource: "https://consortium.uchicago.edu/publications/how-do-barton-graduates-perform-cps-high-schools"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the 45 students more than a year below grade level, 17 had dropped out by the fifth year, compared with 2 of the 13 students at or above grade level. [→ Shazia Rafiullah Miller 1999](#shazia-rafiullah-miller-1999)

@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For students identified as having a learning disability, generated feedback focused on word- and sentence-level remediation and relied on simplified vocabulary, positioning these students as needing simplification rather than substantive writing instruction. [→ Tan et al. 2026](#tan-et-al-2026)

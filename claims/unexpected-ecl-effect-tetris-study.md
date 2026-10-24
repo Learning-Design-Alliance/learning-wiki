@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: melina-klepsch-2020
     resource: "https://doi.org/10.1007/s11251-020-09502-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In the Tetris study, ECL differed significantly between difficulty conditions, with the boredom condition reporting the lowest ECL, contrary to the hypothesis of no ECL differences. [→ Melina Klepsch 2020](#melina-klepsch-2020)

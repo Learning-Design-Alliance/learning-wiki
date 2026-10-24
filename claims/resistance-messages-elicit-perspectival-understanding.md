@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: sten-ludvigsen-2016
     resource: "https://doi.org/10.1007/s11412-016-9230-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In asynchronous undergraduate discussions, messages without resistance outnumber messages with resistance, yet resistance messages create most messages with perspectival understanding, together creating conditions for elaboration and new insights. [→ Sten Ludvigsen 2016](#sten-ludvigsen-2016)

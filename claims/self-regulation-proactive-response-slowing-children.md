@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: pas-p-2021
     resource: "https://doi.org/10.1016/j.dcn.2021.101012"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a cross-sectional cohort of 640 children, higher EATQ-R self-regulation scores were significantly associated with more proactive response slowing, regardless of sex. [→ Pas P. 2021](#pas-p-2021)

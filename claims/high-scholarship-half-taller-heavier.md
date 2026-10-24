@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: stewart-1917
     resource: "https://doi.org/10.1037/h0070804"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among eight boys of the same age and class, the half ranking higher in scholarship averaged taller throughout the four high-school years and heavier except in the junior year. [→ Stewart 1917](#stewart-1917)
@@ -48,3 +50,4 @@ Comparison of upper-four and lower-four scholarship groups within eight boys who
 - [Groups one year ahead of normal grade increase more rapidly in both weight and height than normal groups of the same age, with one exception](above-grade-faster-growth-increments.md) — related
 - [When individual growth-increment curves are correlated with scholarship without reference to body size or stage of development, no decided relation between scholarship and physical growth appears](growth-increment-scholarship-no-decided-relation.md) — related
 - [Group averages suggest a positive relation between weight and scholarship in the elementary grades, but the relation in high school is uncertain](weight-scholarship-elementary-positive.md) — a broader claim this one bears on
+- [Most high-school students made rapid or normal elementary progress, yet most fail in some high-school work, and schools appear better fitted for girls than for boys](progress-and-sex-patterns-high-school.md) — related

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: kini-2016
     resource: "https://doi.org/10.54300/625.642"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More experienced teachers support greater student learning for their colleagues and the school as a whole, as well as for their own students. [→ Kini 2016](#kini-2016)

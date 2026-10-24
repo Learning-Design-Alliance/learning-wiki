@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 1983
 sources:
   - id: david-s-weiss-1983
     resource: "https://doi.org/10.1080/01638538309544555"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1983 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Reading phrased formats improved poor readers' comprehension to the level typical of average readers reading standard prose, and average readers' comprehension almost to the level typical of good readers reading prose. [→ David S. Weiss 1983](#david-s-weiss-1983)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: allensworth-2026
     resource: "https://consortium.uchicago.edu/publications/connection-trust-and-learning"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Post-pandemic correlations of absences with test scores ranged from -0.29 to -0.36 and with GPAs from -0.41 to -0.68, somewhat larger than pre-pandemic. [→ Allensworth 2026](#allensworth-2026)

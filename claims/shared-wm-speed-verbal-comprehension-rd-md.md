@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: willcutt-2013
     resource: "https://doi.org/10.1177/0022219413477476"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In multiple regression models including all neuropsychological composites simultaneously, verbal comprehension, working memory, and processing speed significantly predicted both reading and math scores. [→ Willcutt 2013](#willcutt-2013)

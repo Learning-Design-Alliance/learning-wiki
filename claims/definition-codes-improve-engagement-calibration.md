@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: sidharth-anupkrishnan-2026
     resource: "https://doi.org/10.48550/arxiv.2609.26569"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In an exploratory six-fold participant-independent analysis of 18 coded participants, an ordinal calibrator with definition–score interactions reached 71.5% balanced 1-off accuracy and 1.124 macro-MAE versus 64.6% and 1.216 for matched score calibration, a 6.9-point fold-average improvement. [→ Sidharth Anupkrishnan 2026](#sidharth-anupkrishnan-2026)

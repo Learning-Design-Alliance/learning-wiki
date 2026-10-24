@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: hassinger-das-2013
     resource: "https://doi.org/10.1016/j.jecp.2013.09.008"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Contrast tests of the two mediators' indirect effects showed no statistically significant difference between executive functioning and attention problems on any outcome. [→ Hassinger-Das 2013](#hassinger-das-2013)

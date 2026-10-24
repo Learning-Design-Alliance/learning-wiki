@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 1911
 sources:
   - id: winch-1911
     resource: "https://www.google.com/search?q=%22Mental+adaptation+during+the+school+day%22+Winch+1911"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Group A (9.40 A.M.) improved 2 per cent on its preliminary record while Group B (11.15 A.M.) improved 7.7 per cent, an increase of about 5 or 6 per cent attributed to mental adaptation. [→ Winch 1911](#winch-1911)

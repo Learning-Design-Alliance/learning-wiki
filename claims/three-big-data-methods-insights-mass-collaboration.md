@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: sten-ludvigsen-2018
     resource: "https://doi.org/10.1007/s11412-018-9291-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` All three big data approaches applied to Wikipedia environments can provide insights into how learning and knowledge development take place at individual and collective levels. [→ Sten Ludvigsen 2018](#sten-ludvigsen-2018)

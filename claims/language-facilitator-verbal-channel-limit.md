@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: eugenio-tufino-2026
     resource: "https://doi.org/10.48550/arxiv.2607.21349"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The embodied and social dimension of group inquiry remained invisible to the Gem, which had access only to language plus the photographs students chose to send. [→ Eugenio Tufino 2026](#eugenio-tufino-2026)

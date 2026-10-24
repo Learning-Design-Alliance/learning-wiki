@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: dana-petersen-2016
     resource: "https://www.mathematica.org/publications/feip"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The evaluation found improvements in professionals' knowledge and skills related to family engagement practice. [→ Dana Petersen 2016](#dana-petersen-2016)

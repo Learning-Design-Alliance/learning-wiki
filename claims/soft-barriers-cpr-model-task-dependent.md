@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across HumanEval and MBPP with four LLMs and four perturbation families, CPR varies from near zero to near perfect, so no universal Unicode barrier exists. [→ cpr-results](#cpr-results)

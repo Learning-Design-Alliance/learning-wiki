@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: lelièvre-2025
     resource: "https://doi.org/10.48550/arxiv.2506.18710"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Based on results of more than 25,000 teachers from 2017 to 2021, the mean expected score of a human trainee teacher on the CDPK benchmark is estimated at approximately 50%. [→ Lelièvre 2025](#lelievre-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: libertus-melissa-e-2013
     resource: "https://doi.org/10.1016/j.lindif.2013.02.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Accuracy and RT on the ANS acuity task at Time 1 were significant unique predictors of TEMA-3 math scores at Time 2 (partial r2 = 0.07 and 0.06). [→ Libertus Melissa E. 2013](#libertus-melissa-e-2013)

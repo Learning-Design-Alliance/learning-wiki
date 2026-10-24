@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: brizard-2023
     resource: "https://doi.org/10.51388/20.500.12265/176"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-14: Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty -->
 
 ## Subclaims

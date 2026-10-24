@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jonah-deutsch-2026
     resource: "https://www.mathematica.org/publications/the-impact-of-registered-and-unregistered-apprenticeship"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Unregistered apprenticeships had statistically significant ninth-quarter employment and earnings impacts for advanced manufacturing. [→ Jonah Deutsch 2026](#jonah-deutsch-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: oluseyi-olukolaa-2026
     resource: "https://doi.org/10.48550/arxiv.2604.04237"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The multi-objective agent selects Encourage at the highest rate of any condition (32.6% vs. 25.8% for EO), with a C3 violation rate of 58.0% and the worst engagement–mastery ratio (16.34). [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)

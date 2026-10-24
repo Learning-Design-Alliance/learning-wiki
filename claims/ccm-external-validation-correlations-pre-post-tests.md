@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2022
+source_checked: 2026-10-20
+recheck_by: 2025
 sources:
   - id: jiaqi-yu-2022
     resource: "https://doi.org/10.18608/jla.2022.7639"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i0` Correlations between CCM-estimated skills and pre/post-test scores ranged from .018 to .495, most significantly different from zero but a few nonsignificant. [→ Jiaqi Yu 2022](#jiaqi-yu-2022)

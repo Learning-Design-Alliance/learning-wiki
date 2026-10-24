@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: melnick-2022
     resource: "https://doi.org/10.54300/826.674"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Total assistant TK teacher need is projected at 16,000–19,700 by 2025–26, assuming one assistant per class to meet 12:1 and 10:1 child–adult ratios. [→ Melnick 2022](#melnick-2022)

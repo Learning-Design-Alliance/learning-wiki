@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: carolyn-p-rosé-2017
     resource: "https://doi.org/10.1007/s11412-017-9265-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a factorial study of 108 students in a two-week preparatory course for prospective mathematics university students, fading or not and ordering of types of scaffolding were manipulated, with sensitivity to prior knowledge and working-memory capacity. [→ Carolyn P. Rosé 2017](#carolyn-p-rose-2017)

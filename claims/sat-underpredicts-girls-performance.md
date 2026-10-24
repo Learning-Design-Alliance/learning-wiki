@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 1989
+recheck_by: 1992
 sources:
   - id: sex-and-race-differences-on-standardized-tests-oversight-hearings-before-the-subcommittee-on-civil-and-constitutional-rights-of-the-committee-on-the-judiciary-1989
     resource: "https://eric.ed.gov/?id=ED312276"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1992**: tool and model accuracy changes quickly
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -86,3 +89,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores](late-arriving-els-strong-gpas-low-sat.md) — related
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — related
 - [Women were less accurate than men on the opposites tests but were less mature and less advanced in scholarship](sex-differences-opposites-accuracy.md) — related
+- [In this group the average girl's grades equal or exceed the average boy's in all six subjects, with the largest advantage in Latin](girl-boy-average-grade-comparison-1912.md) — related

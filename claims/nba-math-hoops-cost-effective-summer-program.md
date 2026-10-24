@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mckinney-2026
     resource: "https://eric.ed.gov/?id=ED681343"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Total per-pupil cost was $184.41 (analytic sample); materials and in-person training alone cost $17.85 per pupil for a 0.19 SD math gain ($59.23 per pupil total sample for 1 SD). [→ McKinney 2026](#mckinney-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2013
+source_checked: 2026-10-18
 sources:
   - id: social-skills-training-2013
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/578"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2013 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Frequency of sharing behaviors was significantly higher for the social skills training group than the reinforcement-only group (effect size 1.12, improvement index +37, p < 0.05). [→ Social Skills Training 2013](#social-skills-training-2013)

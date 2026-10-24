@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: moderate
+newest_evidence: 1996
 sources:
   - id: simon-veenman-1996
     resource: "https://doi.org/10.2307/1170526"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 1996 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Methodological quality of studies did not significantly predict variance in multigrade cognitive effects (Q(2, N = 40) = 1.6, p = .45), nor did source of publication (Q(3, N = 40) = 1.5, p = .68). [→ Simon Veenman 1996](#simon-veenman-1996)

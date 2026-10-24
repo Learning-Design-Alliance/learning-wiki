@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: small-group-learning-improves-stem-achievement
 evidence_strength: pending
+newest_evidence: 1999
 sources:
   - id: springer-et-al-1999
     resource: "https://doi.org/10.3102/00346543069001021"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium · n=39 studies (49 independent samples)
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Small Group Learning Improves STEM Achievement -->
 
 Undergraduates working in small groups in science, mathematics, engineering and technology courses show higher achievement than those taught without cooperative or collaborative grouping. The one recorded meta-analysis covers North American postsecondary studies only, and compares small-group instruction with non-group instruction without separating structured from unstructured groups; that structure (positive interdependence, individual accountability, explicit roles) is what matters is argued in the Discussion, not shown by that entry.

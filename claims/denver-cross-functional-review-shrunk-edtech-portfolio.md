@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: ruiz-2025
     resource: "https://doi.org/10.51388/20.500.12265/273"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` A district rubric and cross-functional review process reduced the edtech portfolio from over 1,000 tools to fewer than 350 and saved millions of dollars while giving remaining products clear instructional purposes. [→ Ruiz 2025](#ruiz-2025)

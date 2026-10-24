@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-22
 sources:
   - id: deiglmayr-2011
     resource: "https://doi.org/10.1016/j.learninstruc.2010.06.004"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2011 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across a testing phase with no guidance, dyads that had received any training drew more inferences than untrained control dyads. [→ Deiglmayr 2011](#deiglmayr-2011)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: allensworth-2026
     resource: "https://consortium.uchicago.edu/publications/connection-trust-and-learning"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Student reports of feeling safe showed some of the strongest relationships with absences, especially in high schools: adjusted absence rates were about 4 percentage points lower in schools with strong versus weak safety after the pandemic, versus about 1 point before. [→ Allensworth 2026](#allensworth-2026)

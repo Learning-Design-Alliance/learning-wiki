@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: daches-cohen-l-and-rubinsten-o-2017
     title: Daches Cohen L and Rubinsten O 2017
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Mothers' numerical task anxiety explained 22.9% of the variance in children's congruency effect in single-digit trials (r= 0.47). [→ Daches Cohen L and Rubinsten O 2017](#daches-cohen-l-and-rubinsten-o-2017)

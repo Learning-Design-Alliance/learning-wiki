@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: freydis-vogel-2016
     resource: "https://doi.org/10.1007/s10648-016-9361-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effects on domain-specific knowledge were descriptively higher in studies measuring outcomes at the individual level than at the group level, but not significantly so. [→ Freydis Vogel 2016](#freydis-vogel-2016)

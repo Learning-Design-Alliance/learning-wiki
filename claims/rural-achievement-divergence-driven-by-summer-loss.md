@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: angela-johnson-2021
     resource: "https://www.nwea.org/research/publication/the-forgotten-20-percent-achievement-and-growth-in-rural-schools-across-the-nation/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Larger summer learning losses among rural students, rather than slower school-year growth, drive the divergence in achievement between rural and nonrural students. [→ Angela Johnson 2021](#angela-johnson-2021)

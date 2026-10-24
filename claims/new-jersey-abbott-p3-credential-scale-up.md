@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: gardner-2019
     resource: "https://learningpolicyinstitute.org/product/preparing-diverse-high-quality-early-childhood-workforce"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After New Jersey required all Abbott district preschool teachers to hold a B.A. and P-3 credential, the share meeting credential requirements rose from 38% in 1999-2000 to 97% of 2,900 teachers by 2006, many drawn from the existing workforce. [→ Gardner 2019](#gardner-2019)

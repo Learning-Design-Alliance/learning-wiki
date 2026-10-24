@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: gupta-2026
     resource: "https://doi.org/10.48550/arxiv.2609.38967"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the 1,434 participants, mean demand is 2.85 queries (median 2, maximum 36); the most active decile accounts for 34.6% of queries, the most active fifth for 51.9%, and 42.9% of participants raised exactly one query. [→ Gupta 2026](#gupta-2026)

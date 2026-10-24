@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: liane-kaufmann-2020
     resource: "https://doi.org/10.1024/2235-0977/a000294"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Adults with DD exposed difficulties with numerical and temporal processing while length processing was preserved in one study, but another study found preserved temporal discrimination when non-numerical stimuli were processed, and length findings are inconclusive across studies. [→ Liane Kaufmann 2020](#liane-kaufmann-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: angela-johnson-2020
     resource: "https://www.nwea.org/research/publication/within-year-achievement-gains-for-english-learners/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Dually-identified students (eligible for both EL and Special Education services) show smaller gains than the all-student average in math across all grades K-8 and in reading in kindergarten and 1st grade. [→ Angela Johnson 2020](#angela-johnson-2020)

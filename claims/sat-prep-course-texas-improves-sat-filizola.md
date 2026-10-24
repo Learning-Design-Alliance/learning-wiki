@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: actsat-test-preparation-and-coaching-programs-2016
     resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/664"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i1`–`i2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In a quasi-experimental matched comparison of 24 students, intervention students scored statistically significantly higher than matched comparison students on SAT scores (domain average effect size 0.28, improvement index +11), with the mathematics subtest showing the largest effect (effect size 0.67, +18, p .008). [→ ACT/SAT Test Preparation and Coaching Programs 2016](#actsat-test-preparation-and-coaching-programs-2016)

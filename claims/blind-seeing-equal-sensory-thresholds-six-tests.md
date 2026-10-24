@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1922
 sources:
   - id: seashore-1922
     resource: "https://archive.org"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The threshold of sensory discrimination in each of six measurements is about the same for the seeing group as for the non-seeing group. [→ Seashore 1922](#seashore-1922)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: moreno-2022
     resource: "https://doi.org/10.1007/s11409-021-09270-y"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In Study 3 (N = 304), the Thought Valence × Validity interaction on GRE performance was significant, F(1, 300) = 11.152, p = .001, ηp² = .036. [→ Moreno 2022](#moreno-2022)

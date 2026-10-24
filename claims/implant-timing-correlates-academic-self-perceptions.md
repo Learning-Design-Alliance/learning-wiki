@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: marschark-m-2012
     resource: "https://doi.org/10.1080/08856257.2012.719106"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Later implant age correlated positively with math ability views (r = .53), while longer implant use correlated negatively with math (r = −.52) and overall scholastic views (r = −.60). [→ Marschark M 2012](#marschark-m-2012)

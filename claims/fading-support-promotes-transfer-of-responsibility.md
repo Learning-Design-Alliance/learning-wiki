@@ -26,12 +26,14 @@ sources:
     rigour: "?"
 id: fading-support-promotes-transfer-of-responsibility
 evidence_strength: strong
+newest_evidence: 2010
 ---
 
 # Fading support promotes the transfer of responsibility from instructor to learner.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r2` · `q3`
+> **Currency** · newest study 2010 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Fading, or the gradual withdrawal of support, is one way to move from studying examples to independent problem solving. The recorded experiments support this transition at least for near transfer; they do not establish that every scaffold must fade at one rate or that fading prevents long-term dependence.
 

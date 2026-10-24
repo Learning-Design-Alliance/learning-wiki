@@ -7,6 +7,7 @@ generated:
   at: 2026-09-25
 id: scaffolded-close-reading-improves-comprehension-for-struggling-readers
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: fisher-and-frey-2014
     resource: "https://doi.org/10.1002/jaal.266"
@@ -32,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r2` · `q2`–`q3` · `i2` medium
+> **Currency** · newest study 2014 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Struggling readers comprehend challenging texts better when close reading is scaffolded — teacher-guided text-dependent questioning, repeated readings, and gradual release of responsibility — rather than assigned as independent work.
 

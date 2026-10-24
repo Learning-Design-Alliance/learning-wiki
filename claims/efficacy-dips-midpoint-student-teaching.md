@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: mckim-2016
     resource: "https://doi.org/10.5032/jae.2016.01073"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Longitudinal studies of agriculture student teachers found perceived efficacy increased during a four-week on-campus experience, declined to its lowest level at the mid-point of student teaching, and rebounded to its highest level by the end. [→ McKim 2016](#mckim-2016)

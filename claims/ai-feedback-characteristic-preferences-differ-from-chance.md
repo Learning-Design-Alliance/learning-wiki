@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yildirim-erbasli-2026
     resource: "https://doi.org/10.3390/bs16071196"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Chi-square goodness-of-fit tests showed significant deviations from equal distribution for feedback tone, length, format, and focus, while timing preferences did not differ significantly from chance. [→ Yildirim-Erbasli 2026](#yildirim-erbasli-2026)

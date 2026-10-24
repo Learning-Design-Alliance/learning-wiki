@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2023
+source_checked: 2026-10-20
+recheck_by: 2026
 sources:
   - id: delgado-2023
     resource: "https://consortium.uchicago.edu/publications/is-the-best-teacher-the-best-for-everyone"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When teachers moved across schools or grades, Black students in the new assignment showed test-score increases of about one standard deviation if the teacher's prior effectiveness for Black students was one standard deviation above the mean. [→ Delgado 2023](#delgado-2023)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: alexandre-cristovão-maiorano-2026
     resource: "https://doi.org/10.48550/arxiv.2605.06669"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Portuguese (PT-BR) injection queries bypass the multi-layer defense at 73.5% versus 25.1% for English queries, a 48.3 percentage point gap attributed to Layer 1 pattern coverage gaps. [→ Alexandre Cristovão Maiorano 2026](#alexandre-cristovao-maiorano-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: fong-2022
     resource: "https://www.wested.org/resources/expanding-the-erwc-evaluation/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a student-level RCT, assignment to ERWC had a positive and statistically significant impact on grade 11 achievement as measured by the Non-PT ICA, but no statistically significant impact was detected with the Summative Assessment sample. [→ Fong 2022](#fong-2022)

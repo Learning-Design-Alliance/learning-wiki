@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: floris-m-van-blankenstein-2011
     resource: "https://doi.org/10.1007/s11251-009-9124-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Immediately after the discussion, explainers and listeners together had higher recall than the control condition that discussed an unrelated problem (r = 0.27). [→ Floris M. van Blankenstein 2011](#floris-m-van-blankenstein-2011)

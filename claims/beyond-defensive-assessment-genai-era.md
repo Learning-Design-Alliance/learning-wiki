@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: eliana-khoury-xiaoyan-ma-2026
     resource: "https://doi.org/10.22329/jtl.v20i4.11850"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The paper argues that assessment reform in the generative artificial intelligence (GenAI) era should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use. [→ Eliana Khoury & Xiaoyan Ma 2026](#eliana-khoury-xiaoyan-ma-2026)

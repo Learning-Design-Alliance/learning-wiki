@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: feedback-processing-and-emotion-regulation-in-nursing-students-during-internship-2022
     resource: "https://eric.ed.gov/?q=feedback+processing+and+emotion+regulation+in+nursing+students+during+internship"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Positive person-focused feedback caused pleasant emotions with high intensity; negative person-focused feedback caused unpleasant activating emotions such as anger, shame and anxiety with high intensity, plus deactivating emotions like sadness and hopelessness. [→ Feedback processing and emotion regulation in nursing students during internship 2022](#feedback-processing-and-emotion-regulation-in-nursing-students-during-internship-2022)

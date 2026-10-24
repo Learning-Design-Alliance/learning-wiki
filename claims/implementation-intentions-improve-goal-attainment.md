@@ -9,6 +9,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-30
 evidence_strength:
+newest_evidence: 2017
 sources:
   - id: gollwitzer-sheeran-2006
     resource: "https://doi.org/10.1016/S0065-2601(06)38002-1"
@@ -34,6 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 An implementation intention is a plan of the form "If situation Y is encountered, then I will
 initiate goal-directed behavior X", formed in addition to the goal itself. The claim is that the

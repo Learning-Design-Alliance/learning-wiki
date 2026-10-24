@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: ernesto-lee-2026
     resource: "https://doi.org/10.35542/osf.io/u6xef_v2"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Threshold gating at tau_eq = 0.70, tau_cos = 0.25, tau_ov = 0.15 and tau_Flesch = 10 yields no condition passing all measured properties in all nine cells; no-construct-map CoT passes 8/9 and few-shot collapses to 2/9, mostly through difficulty-parity breaches. [→ Ernesto Lee 2026](#ernesto-lee-2026)

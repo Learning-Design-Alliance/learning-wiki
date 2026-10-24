@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: seeskin-2022
     resource: "https://toandthrough.uchicago.edu/middle-grades-network-improvement-community"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 17 percent of Academic Support students earned a 3.0 or higher at high school graduation and only 20 percent enrolled in four-year colleges. [→ Seeskin 2022](#seeskin-2022)

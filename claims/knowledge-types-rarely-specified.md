@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: bittermann-2023
     resource: "https://doi.org/10.1007/s10648-023-09775-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 69% of articles mentioned none of the listed knowledge-type terms, and among 8434 empirical studies only 21% explicitly stated investigating a type, characteristic, or representation of knowledge. [→ Bittermann 2023](#bittermann-2023)

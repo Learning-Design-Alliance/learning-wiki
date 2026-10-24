@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-20
 sources:
   - id: geers-ann-e-hayes-heather-2011
     resource: "https://doi.org/10.1097/AUD.0b013e3181fa41fa"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Duration of deafness was the only significant step-1 predictor (negative influence), and in step 2 gender, PIQ, and sign enhancement were significant, with students whose vocabulary was not enhanced by sign achieving the highest literacy. [→ Geers Ann E.; Hayes Heather 2011](#geers-ann-e-hayes-heather-2011)

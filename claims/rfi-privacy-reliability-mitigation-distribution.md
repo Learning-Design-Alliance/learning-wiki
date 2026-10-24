@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: privacy-reliability-mit
     title: privacy-reliability-mit
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among respondents citing data privacy, 68.9% described data governance and monitoring; among those citing technical reliability, 36.9% described human involvement. [→ privacy-reliability-mit](#privacy-reliability-mit)

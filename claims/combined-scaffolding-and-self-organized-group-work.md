@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: mørch-2024
     resource: "https://doi.org/10.1007/s11412-024-09432-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Groups combined domain-specific (academic) and generic skills (gaming, collaboration, creativity, information seeking), with support split between teachers' scaffolding (top-down) and students' self-organized group work (bottom-up), while integration of historical source materials varied among groups. [→ Mørch 2024](#mrch-2024)

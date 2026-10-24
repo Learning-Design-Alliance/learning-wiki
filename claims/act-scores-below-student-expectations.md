@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: elaine-allensworth-2008
     resource: "https://consortium.uchicago.edu/publications/high-school-future-act-preparation-too-much-too-late"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In interviews, 80 percent of the student sample performed lower on the ACT than they expected, and almost 80 percent wanted to retake the test. [→ Elaine Allensworth 2008](#elaine-allensworth-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1999
 sources:
   - id: valerie-e-lee-1999
     resource: "https://consortium.uchicago.edu/publications/social-support-academic-press-and-student-achievement-view-middle-grades-chicago"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q2`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in high-press schools reporting high support made the greatest reading gains (1.82 GEs), far exceeding mismatched combinations. [→ Valerie E. Lee 1999](#valerie-e-lee-1999)

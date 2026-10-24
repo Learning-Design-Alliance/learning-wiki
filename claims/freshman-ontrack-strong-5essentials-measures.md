@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-13
 sources:
   - id: hart-2020
     resource: "https://consortium.uchicago.edu/publications/supporting-school-improvement"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High schools with strong measures improved Freshman OnTrack rates up to 3.25 percentage points more than schools with average measure scores. [→ Hart 2020](#hart-2020)

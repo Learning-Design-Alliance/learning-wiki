@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2008
 sources:
   - id: yun-2008
     resource: "https://kuscholarworks.ku.edu"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Aust, Kelley and Roby's Spanish study, the hyper-reference group looked up vocabulary and references per minute two times more than the paper group, while proposition recall and comprehension did not differ significantly. [→ Yun 2008](#yun-2008)

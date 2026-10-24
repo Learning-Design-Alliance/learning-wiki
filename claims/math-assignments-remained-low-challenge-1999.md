@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2000
+source_checked: 2026-10-20
+recheck_by: 2005
 sources:
   - id: anthony-s-bryk-2000
     resource: "https://consortium.uchicago.edu/publications/chicago-classroom-demands-authentic-intellectual-work-trends-1997-1999"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2000 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2005**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Despite overall improvement, the level of challenge in mathematics assignments remained quite low, with over 80 percent of sixth and eighth grade math assignments in 1999 offering only minimal or no challenge. [→ Anthony S. Bryk 2000](#anthony-s-bryk-2000)

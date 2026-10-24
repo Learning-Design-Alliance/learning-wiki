@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ngoc-luyen-le-2026
     resource: "https://doi.org/10.48550/arxiv.2608.17618"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a 200-case ablation, IP and Wachter-style baselines have nearly identical average cost (24.127 vs. 24.175) with perfect conformance, but IP with availability constraints drops to conformance 0.875 at the same cost. [→ Ngoc Luyen Le 2026](#ngoc-luyen-le-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: slotnik-2015
     resource: "https://eric.ed.gov/?id=ED568386"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Principals tend to be more positive about TPE on survey items than teachers, while teachers show greater improvement in perceptions. [→ Slotnik 2015](#slotnik-2015)

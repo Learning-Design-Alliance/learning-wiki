@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: elizabeth-barker-2019
     resource: "https://www.nwea.org/research/publication/the-changing-landscape-of-assessment-and-accommodation-policies/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The author argues that accommodations are adopted but feel transitional and rarely seem like an organic and fully equal part of an assessment. [→ Elizabeth Barker 2019](#elizabeth-barker-2019)

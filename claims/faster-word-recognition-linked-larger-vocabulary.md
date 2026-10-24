@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2008
+source_checked: 2026-10-20
 sources:
   - id: hurtado-nereyda-2008
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2898277/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2008 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean RT at 24 months correlated significantly with vocabulary size at 24 months (r(27) = −.55, p < .01) and with vocabulary gains from 18 to 24 months; children grouped by median RT showed faster children knew more words and gained more. [→ Hurtado Nereyda 2008](#hurtado-nereyda-2008)

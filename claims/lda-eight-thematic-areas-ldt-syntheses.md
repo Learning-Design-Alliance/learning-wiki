@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: xiyu-wang-2026
     resource: "https://doi.org/10.1007/s11423-026-10629-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Latent Dirichlet Allocation on titles and abstracts of 242 LDT syntheses identified eight prominent thematic areas, led by computational tools, robotics, and programming (21.7%, n = 53), with generative AI integration in education smallest (8.2%, n = 20). [→ Xiyu Wang 2026](#xiyu-wang-2026)

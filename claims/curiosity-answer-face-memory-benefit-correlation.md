@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: fandakova-yana-2021
     resource: "https://doi.org/10.1111/desc.13005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Exploratory correlation: the curiosity-based enhancement of trivia recall correlated positively with the curiosity-based enhancement of face recognition. [→ Fandakova Yana 2021](#fandakova-yana-2021)

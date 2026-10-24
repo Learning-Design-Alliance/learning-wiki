@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: cecilia-speroni-2011
     resource: "https://www.mathematica.org/publications/determinants-of-students-success-the-role-of-advanced-placement-and-dual-enrollment-programs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The study found that Advanced Placement and dual enrollment participation had similarly positive impacts on student outcomes. [→ Cecilia Speroni 2011](#cecilia-speroni-2011)

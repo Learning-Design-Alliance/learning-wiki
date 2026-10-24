@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: anthony-b-fong-2015
     resource: "https://eric.ed.gov/?id=ED559522"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Positive, statistically significant EPT results held across sensitivity analyses varying matching methods and the types of students included. [→ Anthony B. Fong 2015](#anthony-b-fong-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: giang-pham-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102366"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Performance as affected by COVID-19 deteriorated on average more among the lowest-quartile ESCS students than the highest-quartile students, with a statistically significant negative gap difference in mathematics and science. [→ Giang Pham 2026](#giang-pham-2026)
@@ -50,3 +52,4 @@ Country-level analysis of the Pandemic-Related Performance Gap (difference betwe
 - [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — related
 - [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
+- [School-level socio-economic disadvantage significantly predicted immigrant students' self-efficacy and achievement but not valuing in exploratory multilevel tests](school-ses-disadvantage-predicts-efficacy-achievement-not-valuing.md) — related

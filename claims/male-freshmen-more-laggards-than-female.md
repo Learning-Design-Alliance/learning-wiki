@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1910
 sources:
   - id: j-b-miner-1910
     resource: "https://www.google.com/search?q=%22The+College+Laggard%22+Miner+Journal+of+Educational+Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among non-fraternity students, 10.4 per cent of men versus 6.2 per cent of women were on the laggard list. [→ J. B. Miner 1910](#j-b-miner-1910)

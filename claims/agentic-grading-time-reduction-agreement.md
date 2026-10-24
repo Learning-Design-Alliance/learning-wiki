@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: simon-baradziej-2026
     resource: "https://doi.org/10.1016/j.ssaho.2026.103418"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Agentic assessment systems are reported to reduce grading time by 50–70% while achieving 90–95% agreement with human graders. [→ Simon Baradziej 2026](#simon-baradziej-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-19
 sources:
   - id: zhao-h-and-ji-j-2026
     title: Zhao H and Ji J 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 168 essays, overall appraisal resource frequency was highest in AI-generated revisions, intermediate in peer-feedback revisions, and lowest in first drafts (all ps < .001). [→ Zhao H and Ji J 2026](#zhao-h-and-ji-j-2026)

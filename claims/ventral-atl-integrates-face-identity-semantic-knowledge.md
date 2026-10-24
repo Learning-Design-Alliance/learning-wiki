@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: collins-2014
     resource: "https://doi.org/10.3758/s13423-013-0564-3"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The ventral ATL face patch is up-regulated when faces carry conceptually unique, socially unique, or famous status, and novel objects trained with social versus non-social concepts activate distinct social-brain regions. [→ Collins 2014](#collins-2014)

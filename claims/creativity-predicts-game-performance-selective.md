@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: shute-2020
     resource: "https://www.sciencedirect.com/science/article/pii/S0747563220303940"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Creativity significantly predicted total levels solved (β = .39, p < .001) and silver coins (β = .27, p = .001), but was not a significant predictor of gold coins (β = .11, p = .17). [→ Shute 2020](#shute-2020)

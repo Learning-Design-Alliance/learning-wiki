@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 1991
+recheck_by: 1994
 sources:
   - id: clark-1991
     resource: "https://doi.org/10.1007/bf01320076"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 1991 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1994**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The basic mechanisms of dual coding theory can be used to model a range of educational phenomena, including knowledge representation and comprehension, learning and memory, instruction, motivation, anxiety, and motor skill learning. [→ Clark 1991](#clark-1991)

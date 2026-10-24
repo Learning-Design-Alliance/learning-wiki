@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
+recheck_by: 2029
 sources:
   - id: razavi-2026
     resource: "https://doi.org/10.1016/j.ijaied.2026.100015"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` For math, the feature-based random forest (RMSE = 0.83, MAE = 0.64; r = .87) beat the direct approach and all benchmarks; GBM was strongest overall, cutting RMSE 18.5% versus the dummy regressor on average. [→ Razavi 2026](#razavi-2026)

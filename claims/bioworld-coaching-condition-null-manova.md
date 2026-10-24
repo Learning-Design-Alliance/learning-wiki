@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2001
+source_checked: 2026-10-20
 sources:
   - id: lajoie-2001
     resource: "http://www.jstor.org/stable/41953546"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2001 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A MANOVA comparing three coaching conditions on all dependent measures found no significant differences. [→ Lajoie 2001](#lajoie-2001)

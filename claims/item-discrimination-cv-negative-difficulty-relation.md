@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: chakrabartty-2021
     resource: "https://dx.doi.org/10.52380/ijpes.2021.8.3.190"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Discriminating value of an item equals the coefficient of variation of item scores, is bounded 0 ≤ Disci < 1, and decreases monotonically with increase in k, so its relationship with item difficulty value is negative. [→ Chakrabartty 2021](#chakrabartty-2021)

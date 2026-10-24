@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+source_checked: 2026-10-20
 sources:
   - id: exam-null
     title: exam-null
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ANCOVA models controlling for prior experience showed no significant condition differences on summative exam outcomes at either institution. [→ exam-null](#exam-null)

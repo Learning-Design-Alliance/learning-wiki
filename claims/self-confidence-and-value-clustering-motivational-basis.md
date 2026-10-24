@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: op-t-eynde-2003
     resource: "https://eric.ed.gov/?id=ED475708"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The clustering of self-efficacy and task-value beliefs in one factor indicates students who are confident about their mathematical ability are mostly also convinced about the relevance of mathematics, while those with low self-confidence are also not convinced of its importance. [→ Op 't Eynde 2003](#op-t-eynde-2003)

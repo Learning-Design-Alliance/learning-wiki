@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: belland-brian-r-2013
     resource: "https://doi.org/10.1080/00461520.2013.838920"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Perceived high task value is associated with greater effort and higher achievement relative to perceived low value. [→ Belland Brian R. 2013](#belland-brian-r-2013)

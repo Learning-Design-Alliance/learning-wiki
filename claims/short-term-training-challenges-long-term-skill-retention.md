@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: kapu-h-2026
     resource: "https://doi.org/10.1136/bmjopen-2026-119283"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Studies report significant drawbacks of short-term and non-longitudinal training programmes, including challenges in estimating long-term skill retention due to the accelerated nature of the programmes or lack of follow-up assessments within the same population. [→ Kapu H 2026](#kapu-h-2026)

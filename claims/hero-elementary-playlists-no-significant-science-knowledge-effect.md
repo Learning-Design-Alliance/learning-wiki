@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-20
 sources:
   - id: li-2019
     resource: "https://eric.ed.gov/?id=ED608115"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who received the playlist intervention did not significantly exceed comparison peers on ScienceQuest post-test scores (adjusted difference 0.41, effect size 0.102, CI [-0.51, 1.33]). [→ Li 2019](#li-2019)

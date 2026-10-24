@@ -7,6 +7,7 @@ generated:
   by: claude/unspecified
   at: 2026-08-29
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: meléndez-2021
     resource: "https://doi.org/10.1080/10508406.2020.1807349"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · n=7 Latino community volunteers (Iteration 1), Chicago's 49th Ward (21% Spanish-speaking at home, 30% foreign-born), fiscal years 2012-2014
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-14: Resolving a participation double-bind requires redesigning activity structures, not just adding outreach -->
 
 An embedded case study of a Chicago participatory budgeting process found that outreach plus sequential interpretation failed to sustain Latino immigrant participation (attendance dropped from 7 to 0 within two meetings), while a subsequent formative intervention that redesigned the activity's tools and roles — a dedicated Spanish-Language Committee with native-language deliberation — sustained participation through a full cycle and was later adopted by other wards.

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2017
+source_checked: 2026-10-20
 sources:
   - id: leveled-literacy-intervention-2017
     resource: "http://www.fountasandpinnell.com/intervention/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For the combined female students in grades 1 and 2 sample, the WWC found a positive but not statistically significant difference on the STAR Early Literacy Assessment that was substantively important. [→ Leveled Literacy Intervention 2017](#leveled-literacy-intervention-2017)

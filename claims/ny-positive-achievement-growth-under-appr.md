@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: nwea-research-2016
     resource: "https://doi.org/10.1177/0031721716671910"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Positive student achievement and growth results for students in New York followed implementation of the APPR evaluation system. [→ NWEA Research 2016](#nwea-research-2016)

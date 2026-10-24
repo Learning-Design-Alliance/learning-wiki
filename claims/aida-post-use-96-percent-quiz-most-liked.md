@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rienties-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100607"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 96% of students across both conditions expressed interest in having AIDA available in their formal studies; the quiz function providing five multiple-choice questions per visited page was most liked, with average Likert ratings above 4 out of 5 for all core functions. [→ Rienties 2026](#rienties-2026)

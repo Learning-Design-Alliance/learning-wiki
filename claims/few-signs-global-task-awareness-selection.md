@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: gonny-l-m-schellings-hein-broekkamp-2011
     resource: "https://doi.org/10.1007/s11409-010-9067-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In think-aloud protocols of twelve tenth-graders across three selection tasks, instruction rereading and deep processing of instructions were rare and reflections about selection goals were infrequent, with no dependence between task instruction and global-level selection-goal reflections. [→ Gonny L. M. Schellings & Hein Broekkamp 2011](#gonny-l-m-schellings-hein-broekkamp-2011)

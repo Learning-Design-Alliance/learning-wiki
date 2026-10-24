@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: hock-michael-f-2011
     resource: "https://doi.org/10.1080/19345747.2011.555291"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors' post hoc judgment is that insufficient instructional intensity (dosage) was the primary factor affecting study outcomes, since strategy instruction requires explicit, intensive, and systematic delivery that adult education settings could not sustain. [→ Hock Michael F. 2011](#hock-michael-f-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: pooja-k-agarwal-2024
     resource: "https://doi.org/10.1007/s10648-023-09839-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a review of 50 classroom experiments, student learning consistently increased when teachers included question prompts during lessons, across a wide range of educational levels and content areas, compared to lessons without question prompts. [→ Pooja K. Agarwal 2024](#pooja-k-agarwal-2024)

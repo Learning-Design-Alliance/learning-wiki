@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: uz-baş-2016
     resource: "http://dx.doi.org/10.12738/estp.2016.1.0287"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Confirmatory factor analysis with 728 high school students showed all fit indices were superior for the two-factor reactive–proactive model compared to the one-factor model, with a significant reactive–proactive correlation (r = .66). [→ Uz Baş 2016](#uz-bas-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-13
 evidence_strength: moderate
+newest_evidence: 2011
+source_checked: 2026-10-19
 sources:
   - id: alfieri-2011
     resource: "https://doi.org/10.1037/a0021017"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2011 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants learning with worked examples (d = -0.63) outperformed unassisted discovery to a greater extent than participants learning from direct teaching (d = -0.29), Q(1) = 18.98, p < .001. [→ Alfieri 2011](#alfieri-2011)

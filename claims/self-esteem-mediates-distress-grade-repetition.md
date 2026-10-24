@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: rose-2024
     resource: "https://doi.org/10.1037/edu0000876"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i0` negligible
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Self-esteem significantly mediated links between both perceived stress and depressive symptoms and grade repetition, with small standardized indirect effects (.029 and .030 for stress and depression, respectively). [→ Rose 2024](#rose-2024)

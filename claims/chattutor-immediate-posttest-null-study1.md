@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: guido-makransky-2025
     resource: "https://doi.org/10.1007/s10648-025-10039-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The one-way ANOVA on immediate post-test conceptual knowledge revealed no significant differences between the three conditions, η2 = 0.021. [→ Guido Makransky 2025](#guido-makransky-2025)

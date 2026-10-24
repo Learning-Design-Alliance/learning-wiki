@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: mariëtte-h-van-loon-2021
     resource: "https://doi.org/10.1007/s11409-020-09248-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Frequency of teacher-directed instructions was negatively related to children's strategic selection of incorrectly answered items for restudy (β = −.17, p = .038). [→ Mariëtte H. van Loon 2021](#mariette-h-van-loon-2021)

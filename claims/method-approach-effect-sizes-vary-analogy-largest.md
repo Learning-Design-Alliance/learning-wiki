@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2016
+source_checked: 2026-10-20
 sources:
   - id: şenel-elaldı-2016
     resource: "http://dx.doi.org/10.11114/jets.v4i1.1097"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among studies grouped as methods and approaches, effect sizes ranged from insignificant (Birinci 2008, ES=-0.045; Kaya 2010, ES=-1.948) to very large (Kaya 2006, ES=1.279; Saygılı 2008), and the authors state analogy-enhanced teaching is likely more effective than the other applications listed. [→ Şenel Elaldı 2016](#senel-elald-2016)

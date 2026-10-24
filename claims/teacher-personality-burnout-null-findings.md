@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: lisa-e-kim-2019
     resource: "https://doi.org/10.1007/s10648-018-9458-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pooled burnout correlations were largest for emotional stability (r = .21) and conscientiousness (r = .19) but none reached statistical significance, based on only k = 5 to 6 effect sizes. [→ Lisa E. Kim 2019](#lisa-e-kim-2019)

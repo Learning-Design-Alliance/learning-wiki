@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: bardach-2024
     resource: "https://doi.org/10.1007/s10648-024-09925-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effects declined with publication year (b = -0.008, p = .008), were smaller in Europe and Australia than US/Canada, and were larger in unpublished than published studies (b = 0.130, p < .001), indicating reverse publication bias. [→ Bardach 2024](#bardach-2024)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: hui-zhao-huijuan-gu-2026
     resource: "https://doi.org/10.1038/s41598-026-54337-y"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` MOV (β = 0.68) and SE (β = 0.23) each significantly and positively predict SDL. [→ Hui Zhao & Huijuan Gu 2026](#hui-zhao-huijuan-gu-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: kang-xue-2022
     resource: "https://www.nwea.org/resources/using-artificial-intelligence-ai-to-improve-math-accessibility-for-students-with-visual-impairments/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` This study is part of a larger project that aims to make online math more accessible to students with visual impairments, and the work advanced understanding of barriers and developed a new way to present math content online. [→ Kang Xue 2022](#kang-xue-2022)

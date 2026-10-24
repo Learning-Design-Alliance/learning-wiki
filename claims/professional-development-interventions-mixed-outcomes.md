@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: pauliina-avola-2025
     resource: "https://doi.org/10.1007/s10648-025-09986-2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 14 of 20 professional development interventions were supportive, improving self-efficacy, engagement and work satisfaction and reducing stress and burnout. [→ Pauliina Avola 2025](#pauliina-avola-2025)

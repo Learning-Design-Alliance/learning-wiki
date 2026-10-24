@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: anu-kajamaa-kristiina-kumpulainen-2020
     resource: "https://doi.org/10.1007/s11412-020-09337-z"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Students' relocation of making to the corridor functioned as an improvised spatial expansion supporting interaction, embodied action, and the knowledge practices. [→ Anu Kajamaa & Kristiina Kumpulainen 2020](#anu-kajamaa-kristiina-kumpulainen-2020)

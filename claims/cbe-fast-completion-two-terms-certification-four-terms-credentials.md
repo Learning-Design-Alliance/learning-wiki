@@ -9,6 +9,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-17
 sources:
   - id: ann-person-2016
     resource: "https://www.mathematica.org/publications/competency-based-education-in-focus"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r?` · `q2`
+> **Currency** · newest study 2016 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

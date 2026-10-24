@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: neagu-2026
     resource: "https://doi.org/10.48550/arxiv.2606.15766"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In both real-world categories the Spearman correlation between Chatbot Scaffolding and Student Uptake is weak and inconsistent across datasets, so higher scaffolding does not deterministically produce higher uptake. [→ Neagu 2026](#neagu-2026)

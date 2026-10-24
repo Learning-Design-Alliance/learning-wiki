@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: strong
+newest_evidence: 2020
 sources:
   - id: madigan-2020
     resource: "https://doi.org/10.1007/s10648-020-09533-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i1` The exhaustion symptom of burnout shows a small significant negative weighted mean correlation with academic achievement. [→ Madigan 2020](#madigan-2020)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: graf-2026
     resource: "https://doi.org/10.1007/s10639-026-14082-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in the elicit condition produced significantly more reflection-category messages than students in the tell condition (z = 2.47, p = 0.013). [→ Graf 2026](#graf-2026)

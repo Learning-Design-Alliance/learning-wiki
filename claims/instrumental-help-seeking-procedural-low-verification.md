@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rania-abdelghani-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08568"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among students with at least one REQUEST turn, requests were predominantly instrumental (M=75.1%) rather than executive (M=24.9%), with procedural content most frequent (M=37.4%) and verification low (M=16.3%, median 0%). [→ Rania Abdelghani 2026](#rania-abdelghani-2026)

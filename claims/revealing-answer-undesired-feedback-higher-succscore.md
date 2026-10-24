@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: rose-niousha-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05648"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` revealing_answer is the only pedagogical dimension where the pattern reverses: undesired feedback achieves higher mean SuccScore than desired feedback under both tutors (67.8% vs. 50.9% for BaselineTutor; 79.4% vs. 53.0% for MisconceptionTutor). [→ Rose Niousha 2026](#rose-niousha-2026)

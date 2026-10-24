@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: mixed
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: s-singhal-2024
     resource: "https://doi.org/10.5281/zenodo.12729884"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` GPT-4's recall (0.958) exceeded Farrow et al.'s combined class-list and regular-expression approach (0.905) and Holmes et al.'s fine-tuned RoBERTa (0.84), but the best supervised machine learning approach (recall 0.970, precision 0.827) still outperformed GPT-4 (precision 0.526). [→ S. Singhal 2024](#s-singhal-2024)

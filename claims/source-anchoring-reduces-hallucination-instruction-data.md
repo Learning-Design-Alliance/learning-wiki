@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: shwetha-singaravelu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.23322"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Source-anchored pairs score higher on Teacher Fidelity and yield fewer factual hallucinations in held-out evaluations than non-anchored pairs. [→ Shwetha Singaravelu 2026](#shwetha-singaravelu-2026)

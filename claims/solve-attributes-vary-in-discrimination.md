@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: weak
+newest_evidence: 1993
 sources:
   - id: katz-1993
     resource: "https://doi.org/10.21236/ada273789"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mastery probabilities for the environment attribute rose from .47 (low) to .60 (medium) to .97 (high) proficiency, while the learned-procedure attribute's means were very similar across groups. [→ Katz 1993](#katz-1993)

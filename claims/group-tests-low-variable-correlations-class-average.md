@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1917
 sources:
   - id: sunne-1917
     resource: "https://doi.org/10.1037/h0071727"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Correlations of the battery of standardized tests with general class averages ranged from 0 (Genus-Species) to .25 (Part-Whole), with one negative correlation of -.14 between foreign languages and Marble Statue. [→ Sunne 1917](#sunne-1917)

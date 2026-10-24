@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1998
+source_checked: 2026-10-08
+recheck_by: 2001
 sources:
   - id: newmann-1998
     resource: "https://consortium.uchicago.edu/publications/quality-intellectual-work-chicago-schools-baseline-report"
@@ -31,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1998 · checked against its sources 2026-10-08 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2001**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Across grades three, six, and eight, most writing and math assignments provided no challenge or minimal challenge for authentic intellectual work. [→ Newmann 1998](#newmann-1998)

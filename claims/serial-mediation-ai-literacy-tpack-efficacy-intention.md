@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zou-j-2026
     title: Zou J 2026
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The serial indirect association from AI literacy through AI-TPACK and science teaching self-efficacy to AI integration intention was significant (β = 0.093), interpreted as complementary partial mediation because direct paths remained significant. [→ Zou J 2026](#zou-j-2026)

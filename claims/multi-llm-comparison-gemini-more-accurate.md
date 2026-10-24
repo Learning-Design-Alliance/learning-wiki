@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: nicola-brocca-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100414"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Group G4 compared ChatGPT-3.5, Gemini-1.5 Flash, and Perplexity and observed Gemini produced more accurate results overall, while still failing finer distinctions such as direct versus indirect anaphora. [→ Nicola Brocca 2026](#nicola-brocca-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 1997
 sources:
   - id: roderick-1997
     resource: "https://consortium.uchicago.edu/publications/habits-hard-break-new-look-truancy-chicagos-public-high-schools"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Forty-five percent of females versus 47 percent of males were absent more than two weeks of instructional time in the second semester of ninth grade; males were only slightly more likely to be extreme rather than moderate truants. [→ Roderick 1997](#roderick-1997)

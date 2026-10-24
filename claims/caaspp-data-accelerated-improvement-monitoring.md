@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: perry-2019
     resource: "https://www.wested.org/project/math-in-common-evaluation/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Once CAASPP mathematics results became available, district teams grounded discussions in school-level achievement variation, and analysis of common data alongside theories of improvement seemed to accelerate districts' monitoring of improvement activities. [→ Perry 2019](#perry-2019)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: mixed
+newest_evidence: 1978
 sources:
   - id: marli-eda-andre-and-thomas-h-anderson-1978
     resource: "https://eric.ed.gov/?q=The+Development+and+Evaluation+of+a+Self-Questioning+Study+Technique"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 1978 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When the middle verbal ability group was eliminated, Experiment 2 showed a significant Treatment x Verbal ability interaction, mirroring Experiment 1's finding. [→ Marli E.D.A. Andre and Thomas H. Anderson 1978](#marli-eda-andre-and-thomas-h-anderson-1978)

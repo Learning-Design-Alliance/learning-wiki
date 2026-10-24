@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: scharlott-2024
     resource: "https://doi.org/10.1021/acs.jchemed.3c00517"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the core ideas environment, 50% of class time was invested in causal mechanistic reasoning and 41% of students exhibited it on the dissolution task; where less than 10% of instructional time was invested, 20% or fewer students exhibited it. [→ Scharlott 2024](#scharlott-2024)

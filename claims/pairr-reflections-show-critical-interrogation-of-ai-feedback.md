@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: macarthur-m-2025
     title: Thematic coding of a representative sample of 131 student reflections on peer and AI feedback (of 654 total), conducted in MaxQDA following Saldaña (2021). The larger study also found that when peers and AI offered similar feedback students found this reassuring, and when feedback differed each source often provided complementary advice.
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students perceived peers to better understand assignment and course context, while they perceived AI feedback as constructive and actionable. [→ MacArthur M 2025](#macarthur-m-2025)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: malhotra-2026
     resource: "https://doi.org/10.1007/s44217-026-01275-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review reports facial recognition systems for proctoring achieving 99.21% (Elharrouss et al., MTCNN-based), 98.22% (YOLO Face) and 98.63% (MTCNN) accuracy, with noted limitations in dim-light conditions and blurring. [→ Malhotra 2026](#malhotra-2026)

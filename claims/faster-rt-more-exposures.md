@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: marie-josée-bisson-2014
     resource: "https://doi.org/10.1111/lang.12085"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Average response times in the incidental learning phase decreased significantly with more exposures (linear contrast ηp2 = .41 in the participant analysis). [→ Marie-Josée Bisson 2014](#marie-josee-bisson-2014)

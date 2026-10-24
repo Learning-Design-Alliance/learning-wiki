@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: e-geboers-2013
     resource: "https://doi.org/10.1016/j.edurev.2012.02.001"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A formal curriculum that includes citizenship projects and courses appears to be an effective type of citizenship education. [→ E. Geboers 2013](#e-geboers-2013)

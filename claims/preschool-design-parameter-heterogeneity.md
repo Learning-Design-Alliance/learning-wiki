@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: martin-brunner-2025
     resource: "https://doi.org/10.1007/s10648-024-09981-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The meta-analytic summaries show substantial heterogeneity: the 95% PI of ρCenter for two-level designs was [0.00, 0.24] for cognitive outcomes with standardized tests and [0.01, 0.06]/[0.00, 0.18] for SEL outcomes with parent/educator reports. [→ Martin Brunner 2025](#martin-brunner-2025)

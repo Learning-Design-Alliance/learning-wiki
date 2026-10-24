@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: howe-2018
     resource: "https://gtr.ukri.org/projects?ref=ES/M007103/1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Eight leading scholars' rankings of five transcripts correlated .76 (Spearman rho) with the rank order predicted by the Ratio variables but only .23 with the rank order predicted by absolute frequencies. [→ Howe 2018](#howe-2018)

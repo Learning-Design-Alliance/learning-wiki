@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: kenneth-r-koedinger-2012
     resource: "http://learnlab.org/datashop"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a USA classroom study, an agent that gave supplementary exercises and displayed displeasure when students gamed reduced gaming by half and improved gaming students' learning relative to control. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)

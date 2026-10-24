@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: frerejean-2021
     resource: "https://doi.org/10.1007/s11251-021-09540-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Contributions from experts revealed that novice teachers often suffer from misconceptions about DI, for example that DI equals personalized instruction or that adaptive training software takes care of DI. [→ Frerejean 2021](#frerejean-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: diamond-adele-2011
     resource: "https://doi.org/10.1126/science.1204529"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Using CogMed-like dosage, improvements in 4- and 6-year-olds were found on only 2 of 3 practiced inhibition games, with no transfer to unpracticed tasks. [→ Diamond Adele 2011](#diamond-adele-2011)

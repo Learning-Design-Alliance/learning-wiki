@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: brodersen-2025
     resource: "https://ies.ed.gov/use-work/resource-library/report/descriptive-study/examining-mentoring-experiences-first-year-teachers-missouri"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The most common topics were sharing encouragement or moral support (83 percent), handling administrative or logistical issues (73 percent), and managing classroom routines and student behavior (71 percent), not delivering content or instructional planning. [→ Brodersen 2025](#brodersen-2025)

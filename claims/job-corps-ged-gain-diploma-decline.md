@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2008
 sources:
   - id: job-corps-2008
     resource: "http://jobcorps.dol.gov/about.htm"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Job Corps significantly increased the likelihood of earning a GED certificate (effect size 0.41, improvement index +16). [→ Job Corps 2008](#job-corps-2008)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zemin-guo-2026
     resource: "https://doi.org/10.1016/j.caeai.2026.100679"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 42 educator frameworks, the most frequent categories were teaching, learning, and pedagogy (n = 38), empowering learners (n = 25), curriculum and assessment (n = 25), and professional development (n = 8); information and data literacy (n = 31) and technology literacy (n = 28) were the key competencies. [→ Zemin Guo 2026](#zemin-guo-2026)

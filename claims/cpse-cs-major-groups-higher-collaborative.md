@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ting-chia-hsu-2021
     resource: "https://doi.org/10.1007/s11412-021-09357-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In collaborative learning with RTC, CPSE differed significantly among the three grouping types (Kruskal-Wallis chi-squared=6.380, p=0.041), with the homogeneous CS-major group (c) outperforming the homogeneous non-CS (a) and heterogeneous (b) groups; non-CS and heterogeneous groups did not differ significantly. [→ Ting-Chia Hsu 2021](#ting-chia-hsu-2021)

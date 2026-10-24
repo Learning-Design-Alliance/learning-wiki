@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: simulation-based-education-improves-outcomes
 evidence_strength: none
+newest_evidence: 2011
+source_checked: 2026-10-15
 sources:
   - id: cook-et-al-2011
     resource: "https://doi.org/10.1001/jama.2011.1234"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large · n=609 studies (35,226 trainees)
+> **Currency** · newest study 2011 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
 
 Simulation-based education — structured practice in interactive representations of real tasks (mannequins, virtual patients, flight simulators, role-play) — improves learning and performance outcomes relative to instruction without deliberate practice in the simulated environment.
 

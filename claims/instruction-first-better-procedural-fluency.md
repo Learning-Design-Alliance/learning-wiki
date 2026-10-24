@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: loibl-2020
     resource: "https://doi.org/10.1007/s11251-020-09504-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students who received instruction before problem solving scored significantly higher on procedural fluency than students who solved problems first (η² = 0.04). [→ Loibl 2020](#loibl-2020)

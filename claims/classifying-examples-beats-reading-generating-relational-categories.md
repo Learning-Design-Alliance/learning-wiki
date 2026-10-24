@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: tim-m-steininger-2022
     resource: "https://doi.org/10.1007/s11251-022-09584-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Classifying provided examples led to better learning outcomes than reading or generating examples on the generation, inference, and definition recall tasks of the knowledge test. [→ Tim M. Steininger 2022](#tim-m-steininger-2022)

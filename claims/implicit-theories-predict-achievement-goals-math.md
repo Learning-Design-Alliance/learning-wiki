@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: andrew-j-elliot-nicolas-sommet-2023
     resource: "https://doi.org/10.1007/s10648-023-09785-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In middle school students, incremental theory positively predicted mastery goals and entity theory positively predicted performance goals; performance-approach goals suppressed and performance-avoidance goals mediated the direct negative relation between entity theory and math performance. [→ Andrew J. Elliot · Nicolas Sommet 2023](#andrew-j-elliot-nicolas-sommet-2023)

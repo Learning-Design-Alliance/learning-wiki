@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2001
 sources:
   - id: wilson-2001
     resource: "https://doi.org/10.1023/A:1011050217296"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The existing research inadequately guides policy and practice because many popular school-based prevention approaches have not been well studied. [→ Wilson 2001](#wilson-2001)

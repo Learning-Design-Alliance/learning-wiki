@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: wellington-2016
     resource: "https://ies.ed.gov/ncee/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The report describes programs and implementation experiences of all 2010 TIF grantees in 2013–2014 and provides in-depth implementation and impact analysis for ten evaluation districts that completed three years. [→ Wellington 2016](#wellington-2016)

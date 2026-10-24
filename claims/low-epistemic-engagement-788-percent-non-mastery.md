@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: menggian-wu-2026
     resource: "https://doi.org/10.48550/arxiv.2607.00211"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 200 sampled co-programming sessions, 78.8% of student turns did not exhibit clear mastery-oriented aims and lacked indicators of reliable epistemic strategies. [→ Menggian Wu 2026](#menggian-wu-2026)

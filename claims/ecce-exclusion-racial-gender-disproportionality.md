@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: katherine-m-zinsser-2022
     resource: "https://doi.org/10.3102/00346543211070047"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only two studies could compute racial disproportionality; both found boys, African American, and Hispanic children at greater disproportionate risk of exclusion. [→ Katherine M. Zinsser 2022](#katherine-m-zinsser-2022)

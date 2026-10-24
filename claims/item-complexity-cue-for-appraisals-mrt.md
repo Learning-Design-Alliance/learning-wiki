@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: emely-hoch-2023
     resource: "https://doi.org/10.1007/s10648-023-09779-5"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` In experiment 3 (MRT), mean within-participant appraisal-item complexity correlations were 0.22 (goal-driven effort), 0.21 (data-driven effort), 0.28 (difficulty), and −0.16 (confidence), all significant. [→ Emely Hoch 2023](#emely-hoch-2023)

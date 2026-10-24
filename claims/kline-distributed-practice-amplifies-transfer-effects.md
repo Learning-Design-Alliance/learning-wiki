@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: weak
+newest_evidence: 1909
 sources:
   - id: linus-w-kline-1909
     resource: "https://www.google.com/search?q=%22Some+experimental+evidence+in+regard+to+formal+discipline%22+Kline"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Passing from 1 day to 20 days of practice distribution, average improvement rose from 193.6 to 273.5 per cent, and negative transfer values tended to grow larger. [→ Linus W. Kline 1909](#linus-w-kline-1909)

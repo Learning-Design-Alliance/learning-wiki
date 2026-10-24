@@ -8,6 +8,7 @@ generated:
 id: brief-intervention-empathic-discipline-cuts-suspensions
 aliases: [empathic-mindset-teacher-intervention-lowers-suspensions]
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: okonofua-et-al-2016
     resource: "https://doi.org/10.1073/pnas.1523698113"
@@ -41,6 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r3`, 1 review `r2` · `q3`–`q4`
+> **Currency** · newest study 2022 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- title before 2026-10-15: Brief Intervention Empathic Discipline Cuts Suspensions -->
 
 A short, scalable intervention that reframes discipline as an opportunity to maintain relationships with students — rather than to punish — can reduce suspension rates, particularly for students from historically disciplined groups.

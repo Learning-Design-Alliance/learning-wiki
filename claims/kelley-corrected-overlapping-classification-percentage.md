@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1918
 sources:
   - id: truman-l-kelley-ernest-c-witham-1918
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Applying Kelley's correction to the overlapping reported by F. J. Kelly changes correct classification from the reported 17 per cent to 33 per cent, and the share exceeding or falling short of the adjacent grade's median from 33 per cent to 19.5 per cent. [→ Truman L. Kelley; Ernest C. Witham 1918](#truman-l-kelley-ernest-c-witham-1918)

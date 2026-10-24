@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: gottfried-2013
     resource: "http://epaa.asu.edu/ojs/article/view/1361"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The relationship between math club participation and math GPA, and between science club participation and science GPA, is approximately the same for males and females across OLS and matching models. [→ Gottfried 2013](#gottfried-2013)

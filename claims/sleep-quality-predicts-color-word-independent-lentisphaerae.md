@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: anderson-jason-r-2017
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7433257/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Partial correlations suggested that the relationship between Lentisphaerae and Stroop Color-Word performance was better accounted for by sleep quality: sleep quality remained a significant predictor of Color-Word performance independent of Lentisphaerae proportion (rs=-.34, p=.045), while the relationship between Lentisphaerae and Stroop performance was reduced to a trend (rs=.28, p=.098). [→ Anderson Jason R. 2017](#anderson-jason-r-2017)

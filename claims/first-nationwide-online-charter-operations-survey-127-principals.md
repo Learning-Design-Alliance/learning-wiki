@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2015
+source_checked: 2026-10-20
 sources:
   - id: mathematica-policy-research-2015
     resource: "https://www.mathematica.org/publications/online-charter-schools-operational-and-instructional-practices-highlights-of-findings"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The study supplies the first nationwide data and analysis of the operations and instructional approaches of online charter schools, drawing on a survey completed by 127 principals of online charter schools across the country. [→ Mathematica Policy Research 2015](#mathematica-policy-research-2015)

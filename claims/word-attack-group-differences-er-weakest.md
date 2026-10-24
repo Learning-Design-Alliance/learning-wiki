@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: greenberg-daphne-2011
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3237050/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across three MANCOVAs, only one significant instructional-group finding was detected, for reading achievement, with follow-up ANCOVA showing the C/C, DCEF, and DF groups scored significantly higher on Word Attack than the ER group. [→ Greenberg Daphne 2011](#greenberg-daphne-2011)

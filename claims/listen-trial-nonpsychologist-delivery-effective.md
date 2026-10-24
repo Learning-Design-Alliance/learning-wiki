@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: winterdijk-per-2026
     resource: "https://doi.org/10.1111/dme.70411"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The LISTEN trial found a low-intensity telehealth problem-solving intervention delivered by non-psychologists was more effective than usual care for mild to moderate diabetes distress. [→ Winterdijk Per 2026](#winterdijk-per-2026)

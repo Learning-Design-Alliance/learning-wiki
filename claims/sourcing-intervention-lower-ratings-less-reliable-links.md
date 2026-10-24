@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ana-pérez-2018
     resource: "https://doi.org/10.1016/j.learninstruc.2018.04.006"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After training, trained students gave lower ratings than controls to poor and bad links, and the bad-link effect held at post-test 2 three weeks later. [→ Ana Pérez 2018](#ana-perez-2018)

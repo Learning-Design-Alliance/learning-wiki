@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: xiaoxuan-li-julia-chatain-fan-wang-manu-kapur-2026
     resource: "https://doi.org/10.1007/s10648-026-10194-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Control group characteristics significantly moderated between-subject effect sizes (F = 5.89, p = .02), with larger effects against passive than active controls. [→ Xiaoxuan Li · Julia Chatain · Fan Wang · Manu Kapur 2026](#xiaoxuan-li-julia-chatain-fan-wang-manu-kapur-2026)

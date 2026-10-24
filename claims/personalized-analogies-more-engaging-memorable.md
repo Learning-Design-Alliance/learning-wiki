@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+source_checked: 2026-10-20
 sources:
   - id: engagement
     resource: "https://doi.org/10.48550/arxiv.2609.06095"
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When personalization landed, participants described a qualitative shift in how memorable or intuitive the concept became, sometimes persisting beyond the session. [→ engagement](#engagement)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: kiguel-2023
     resource: "https://www.proquest.com/dissertations-theses/docview/30488487"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students afraid of bullying 'all the time' in eighth grade had graduation rates 8 percentage points higher at schools at the 85th percentile of bullying reduction versus schools at the 15th percentile. [→ Kiguel 2023](#kiguel-2023)

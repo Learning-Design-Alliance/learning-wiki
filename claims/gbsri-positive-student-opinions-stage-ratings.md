@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: wiboonwachara-2022
     resource: "https://doi.org/10.61508/refl.v29i3.262658"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The overall opinion questionnaire mean was 3.37 out of 4 (SD = 0.20); the Independent Practicing and Production stage scored highest (3.49, SD = 0.25) and the Post-writing stage lowest (3.25, SD = 0.11). [→ Wiboonwachara 2022](#wiboonwachara-2022)

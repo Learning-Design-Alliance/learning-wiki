@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2005
 sources:
   - id: mooney-2005
     resource: "https://doi.org/10.1007/s10864-005-6298-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There was evidence to support a claim of the generalization and maintenance of intervention findings across the included studies. [→ Mooney 2005](#mooney-2005)

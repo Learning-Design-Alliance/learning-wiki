@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ehrlich-2018
     resource: "https://consortium.uchicago.edu/publications/organizing-early-education-improvement-testing-new-survey-tool"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A stratified random sample of eligible Chicago ECE sites yielded a final sample of 81 sites (41 school-based, 40 community-based), with 746 teacher surveys and 2,464 parent surveys collected. [→ Ehrlich 2018](#ehrlich-2018)

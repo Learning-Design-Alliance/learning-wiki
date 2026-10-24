@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shu-zhao-2026
     resource: "https://doi.org/10.1007/s11423-026-10663-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The subtracted ENA network showed a significant group difference in average X-dimension positions (t(41.75) = −5.52, p <.001, Cohen's d = 1.53), with high CT networks dense and connected across all three SRL phases and low CT networks sparse with seeking help dominant. [→ Shu Zhao 2026](#shu-zhao-2026)

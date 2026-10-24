@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: mixed
+newest_evidence: 2008
 sources:
   - id: koedinger-2008
     resource: "https://learnlab.org/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students under the Help Tutor sought help more appropriately as measured by conformity to the help-seeking model, but the improvement held only for a subset of action types and not for first actions on new steps. [→ Koedinger 2008](#koedinger-2008)

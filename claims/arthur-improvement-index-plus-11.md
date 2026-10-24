@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: arthur-wwc-intervention-report-2006
     resource: "http://pbskids.org/arthur/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across the three English language development outcomes, the WWC computed a domain average effect size of 0.29 (ns) and an average improvement index of +11 percentile points, with a range of –5 to +17. [→ Arthur (WWC Intervention Report) 2006](#arthur-wwc-intervention-report-2006)

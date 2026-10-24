@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-22
 sources:
   - id: dirk-tempelaar-alexandra-niculescu-2026
     resource: "https://doi.org/10.1007/s10648-026-10155-2"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mixture regression predicting Persistence, Uncertain Control, and Failure Avoidance shows profile-specific breakdown of key emotion–outcome relations in the high-boredom profile. [→ Dirk Tempelaar · Alexandra Niculescu 2026](#dirk-tempelaar-alexandra-niculescu-2026)

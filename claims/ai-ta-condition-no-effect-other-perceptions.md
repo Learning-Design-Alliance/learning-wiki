@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: madeleine-eastwood-2026
     resource: "https://doi.org/10.48550/arxiv.2609.29995"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Differences across the four AI TA conditions were not statistically significant for perceived support for task comprehension, provision of correct information, or stressful interaction, though Socratic conditions descriptively rated lower on comprehension support and Socratic + Full Context rated highest on stress. [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)

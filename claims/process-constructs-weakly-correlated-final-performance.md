@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: shen-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1956939"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Perceived support (r = 0.06), creative experience (r = −0.04), skill transfer (r = 0.03), and quality confidence (r = 0.02) showed negligible correlations with final total score. [→ Shen 2026](#shen-2026)

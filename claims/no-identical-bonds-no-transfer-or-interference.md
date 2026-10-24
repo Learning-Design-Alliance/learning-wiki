@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 1915
 sources:
   - id: poffenberger-1915
     resource: "https://doi.org/10.1037/h0075269"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When two processes share no identical stimulus-response bonds, training in one yields neither positive nor negative effect on the other, as shown in addition-division and cancellation comparisons. [→ Poffenberger 1915](#poffenberger-1915)

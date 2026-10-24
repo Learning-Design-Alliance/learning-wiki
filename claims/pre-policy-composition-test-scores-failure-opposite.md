@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: takako-nomi-2010
     resource: "https://consortium.uchicago.edu/publications/effects-tracking-supports-instructional-climate-and-student-outcomes-high-school"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students with average incoming ability scored .43 points higher in high-ability versus low-ability classrooms, while students one SD above the mean benefited by .89 points; students one SD below the mean did not benefit. [→ Takako Nomi 2010](#takako-nomi-2010)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: bjork-2016
     resource: "https://doi.org/10.1007/s11409-016-9156-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Per McDaniel and Einstein's material-appropriate processing framework, a difficulty's impact on comprehension and memory depends on whether it exercises beneficial processes not already supported by the material. [→ Bjork 2016](#bjork-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2001
 sources:
   - id: fan-2001
     resource: "https://doi.org/10.1023/A:1009048817385"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the quantitative literature synthesized by meta-analysis, parental involvement shows a small to moderate, practically meaningful relationship with students' academic achievement. [→ Fan 2001](#fan-2001)

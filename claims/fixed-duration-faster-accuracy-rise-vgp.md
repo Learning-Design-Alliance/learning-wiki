@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: green-2010
     resource: "https://doi.org/10.1016/j.cub.2010.07.040"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The rate parameter β of accuracy growth was higher in VGPs for both visual motion (p-eta2 = .19) and auditory tone (p-eta2 = .18) tasks. [→ Green 2010](#green-2010)

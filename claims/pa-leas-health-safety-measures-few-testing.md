@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: stephen-lipscomb-2021
     resource: "https://www.mathematica.org/publications/school-instruction-in-pennsylvania-during-the-covid-19-pandemic"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Most students were in LEAs that adopted a wide range of health and safety measures to reduce COVID-19 spread. [→ Stephen Lipscomb 2021](#stephen-lipscomb-2021)

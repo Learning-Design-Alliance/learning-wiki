@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-18
 sources:
   - id: sun-dl-2015
     title: Sun DL 2015
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2015 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Students who participated in peer assessment during a unit scored significantly higher on that unit's quiz than students who did not (d = .115). [→ Sun DL 2015](#sun-dl-2015)

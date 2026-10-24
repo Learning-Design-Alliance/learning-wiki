@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-02
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: lases-mitch-n-2026
     resource: "https://doi.org/10.2196/83948"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spearman rank correlations between number of narratives viewed and outcome changes were near zero (MHCS ρ=−0.11; HHI ρ=0.01; ISMI ρ=0.02; MHRM ρ=−0.19). [→ Lases Mitch N 2026](#lases-mitch-n-2026)

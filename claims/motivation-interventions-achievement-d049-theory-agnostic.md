@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: vu-2021
     resource: "https://doi.org/10.1007/s10648-021-09616-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The Lazowski and Hulleman (2016) meta-analysis found motivation interventions led to positive achievement outcomes with average Cohen's d of 0.49, and all motivation theories performed about equally well. [→ Vu 2021](#vu-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: mm-chiu-2016
     resource: "https://doi.org/10.1177/0022022115617031"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Family characteristics (immigrant status, language spoken at home, SES, books at home, family wealth, family communication), schoolmates' characteristics (SES and social communication), teacher characteristics (teacher-student relationship, teacher support, disciplinary climate), and student characteristics (reading achievement, self-efficacy, self-concept) were linked to SOBAS. [→ M.M. Chiu 2016](#mm-chiu-2016)
@@ -51,3 +53,4 @@ Multilevel analyses of survey and test data from 193,073 15-year-old students in
 - [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — a narrower finding that bears on this claim
 - [Teacher-student interaction quality may reflect pre-existing student characteristics rather than teacher skill unless prior achievement is accounted for](interaction-quality-confounded-by-prior-achievement.md) — related
 - [Prior research attributes reading achievement inequalities to the simultaneous, mutually constitutive operation of SES, immigrant background, and gender](intersectional-reading-inequality-mechanisms.md) — related
+- [School-level socio-economic disadvantage significantly predicted immigrant students' self-efficacy and achievement but not valuing in exploratory multilevel tests](school-ses-disadvantage-predicts-efficacy-achievement-not-valuing.md) — related

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: janneke-van-de-pol-2024
     resource: "https://doi.org/10.1007/s11409-024-09383-0"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Self-reported use of correct boxes (B = 0.25, p = 0.003, R2 = 0.057) and correct relations (B = 0.19, p = 0.004, R2 = 0.040) increased significantly after the intervention. [→ Janneke van de Pol 2024](#janneke-van-de-pol-2024)

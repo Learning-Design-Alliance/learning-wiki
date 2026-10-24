@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2003
 sources:
   - id: david-boud-and-heather-middleton-2003
     resource: "https://doi.org/10.1108/13665620310483895"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of interviews across the four workgroups identified three significant, overlapping areas of informal learning. [→ David Boud and Heather Middleton 2003](#david-boud-and-heather-middleton-2003)

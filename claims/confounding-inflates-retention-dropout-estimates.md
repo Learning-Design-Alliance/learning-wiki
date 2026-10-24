@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: hughes-2018
     resource: "https://doi.org/10.1037/edu0000243"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Without adjusting for baseline confounders, the odds ratio for dropout versus graduation was 3.50, larger than the adjusted estimates, consistent with selection effects biasing naive estimates upward. [→ Hughes 2018](#hughes-2018)

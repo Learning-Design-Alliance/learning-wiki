@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: weak
+newest_evidence: 1994
 sources:
   - id: roy-d-pea-1994
     resource: "https://telearn.hal.science/hal-00190572"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Currency** · newest study 1994 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Making the bridge from macrosocial theories of cultural learning to microanalytic details of situated human activities for learning in specific subject domains has been particularly challenging for theoreticians and researchers. [→ Roy D. Pea 1994](#roy-d-pea-1994)

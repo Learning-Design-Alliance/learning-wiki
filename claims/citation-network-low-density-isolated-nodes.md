@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jasmin-breitwieser-2026
     resource: "https://doi.org/10.1007/s10648-026-10164-1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The complete citation network encompassed 941 publications and 1,547 citation links with very low overall density (0.0017) and 366 isolated nodes (38.90% of the 941 papers). [→ Jasmin Breitwieser 2026](#jasmin-breitwieser-2026)

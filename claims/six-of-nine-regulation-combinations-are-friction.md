@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 1999
 sources:
   - id: jan-d-vermunt-1999
     resource: "http://hdl.handle.net/1874/18753"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the three-by-three interplay of teacher- and student-regulation levels, six of nine cells represent friction between teaching and learning, some destructive and some constructive. [→ Jan D. Vermunt 1999](#jan-d-vermunt-1999)

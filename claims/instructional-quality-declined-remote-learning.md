@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: gwynne-2024
     resource: "https://www.cps.edu/about/district-data/metrics/"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All measures of middle-grade student-reported instructional quality declined considerably in 2020-21, with declines of 0.12, 0.16, 0.25, and 0.20 s.d. in English, math, science, and academic press, and engagement declining 0.11 s.d.; reports had not recovered to pre-pandemic levels by 2022-23. [→ Gwynne 2024](#gwynne-2024)

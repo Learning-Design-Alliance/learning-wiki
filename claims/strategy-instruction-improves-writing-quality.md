@@ -8,6 +8,7 @@ generated:
 id: strategy-instruction-improves-writing-quality
 aliases: [explicit-writing-strategy-instruction-improves-writing, writing-strategy-instruction-improves-writing-quality, self-regulated-learning-strategies-improve-writing]
 evidence_strength:
+newest_evidence: 2007
 sources:
   - id: graham-perin-2007
     resource: "https://doi.org/10.1037/0022-0663.99.3.445"
@@ -24,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large · n=20 studies (154 total effect sizes across the review; Grades 4–10)
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 Explicit instruction in planning, revising, and editing strategies — including self-regulation of the writing process — improves the quality of students' written compositions.
 

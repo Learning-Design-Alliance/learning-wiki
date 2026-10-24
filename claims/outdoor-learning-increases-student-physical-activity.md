@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2024
+source_checked: 2026-10-21
 sources:
   - id: vi-ly-dianne-a-vella-brodrick-2024
     resource: "https://doi.org/10.1007/s10648-024-09963-1"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`–`q4`
+> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Five of seven studies of outdoor learning in nature found significant positive effects on students' physical activity, including an RCT of school garden lessons. [→ Vi Ly · Dianne A. Vella-Brodrick 2024](#vi-ly-dianne-a-vella-brodrick-2024)

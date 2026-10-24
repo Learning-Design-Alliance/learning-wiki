@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-07
 evidence_strength: weak
+newest_evidence: 2013
+source_checked: 2026-10-20
 sources:
   - id: kim-2013
     resource: "https://doi.org/10.1007/s11145-013-9440-9"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In structural equation modeling, letter writing automaticity was not related to word reading but was marginally related to spelling after accounting for phonological awareness, alphabet knowledge fluency, and vocabulary. [→ Kim 2013](#kim-2013)

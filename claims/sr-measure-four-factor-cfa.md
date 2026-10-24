@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` CFA of the self-report measure supported a theoretically coherent four-factor structure (Concept, Use, Evaluate, Ethics), with the refined 13-item model showing good fit (CFI = .970; TLI = .961; RMSEA = .054; SRMR = 0.04). [→ sr-cfa](#sr-cfa)

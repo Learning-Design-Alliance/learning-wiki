@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-20
+recheck_by: 2023
 sources:
   - id: cook-harvey-2020
     resource: "http://learningpolicyinstitute.org/product/social-and-emotional-learning-case-study-gateway"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In a 2018 local climate survey, 92% of middle school students reported a teacher who cares about them, 88% felt part of the school, and 89% felt safe; high school figures were similarly high. [→ Cook-Harvey 2020](#cook-harvey-2020)

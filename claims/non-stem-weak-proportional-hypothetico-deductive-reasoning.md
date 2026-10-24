@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: moore-2011
     resource: "https://doi.org/10.48550/arxiv.1110.2764"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Population averages show significant difficulty with proportional reasoning, isolation of variables, and hypothetico-deductive reasoning, with proportional reasoning lowest at 25% and hypothetico-deductive application at 30%. [→ Moore 2011](#moore-2011)

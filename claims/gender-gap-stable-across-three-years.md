@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-22
 evidence_strength: moderate
+newest_evidence: 2010
 sources:
   - id: lowrie-2010
     resource: "https://doi.org/10.1016/j.learninstruc.2009.11.005"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the language-level MANCOVA the interaction of gender with year was not significant (p = .19); the same held in the difficulty-level analysis (p = .29). [→ Lowrie 2010](#lowrie-2010)

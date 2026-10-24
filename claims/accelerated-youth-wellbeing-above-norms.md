@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: bernstein-brian-o-2021
     resource: "https://doi.org/10.1037/edu0000500"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In both studies, participants scored above average on Psychological Flourishing, Positive Affect, and Life Satisfaction relative to normative benchmarks, and about average on Core Self-Evaluations. [→ Bernstein Brian O. 2021](#bernstein-brian-o-2021)

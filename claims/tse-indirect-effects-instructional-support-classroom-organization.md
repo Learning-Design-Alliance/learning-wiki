@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-20
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: m-zee-2016
     resource: "https://doi.org/10.3102/0034654315626801"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A small number of studies indicated indirect effects between TSE and academic adjustment through instructional support. [→ M. Zee 2016](#m-zee-2016)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-19
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-20
 sources:
   - id: hübner-2023
     resource: "https://doi.org/10.1007/s10648-023-09724-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In simulated data, the RI-CLPM led to biased estimates if the true model was a CLPM with lag-2 effects (FF-CLPM), and vice versa; model fit statistics were unsuitable for choosing between them. [→ Hübner 2023](#hubner-2023)

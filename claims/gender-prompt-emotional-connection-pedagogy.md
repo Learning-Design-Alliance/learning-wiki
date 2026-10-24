@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+source_checked: 2026-10-17
 sources:
   - id: tan-et-al-2026
     resource: "https://doi.org/10.1145/3785022.3785113"
@@ -22,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · no dated study recorded · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Feedback for students identified as female often used first-person pronouns and affective language positioning the model as personally engaged, and more often encouraged linking arguments to empathy and relational responsibility; feedback for male students was more objective and task-oriented, focusing on evidence, reasoning, and clarity. [→ Tan et al. 2026](#tan-et-al-2026)

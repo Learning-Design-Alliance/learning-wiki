@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: hu-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.09.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Effective self-regulated reading (strategy use, planning, monitoring) correlates with better reading outcomes and learning gains. [→ Hu 2017](#hu-2017)

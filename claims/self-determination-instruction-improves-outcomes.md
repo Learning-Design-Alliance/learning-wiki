@@ -7,6 +7,8 @@ generated:
   at: 2026-09-25
 id: self-determination-instruction-improves-outcomes
 evidence_strength: undetermined
+newest_evidence: 2018
+source_checked: 2026-10-20
 sources:
   - id: burke-et-al-2018
     resource: "https://doi.org/10.1177/0741932518802274"
@@ -32,6 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- title before 2026-10-15: Self-determination instruction improves outcomes -->
 
 Teaching students with disabilities the component skills of self-determination — choice-making, decision-making, problem solving, goal setting, self-management and self-advocacy — increases their self-determination. The claim concerns special-education self-determination instruction, not instruction about self-determination theory's basic psychological needs.

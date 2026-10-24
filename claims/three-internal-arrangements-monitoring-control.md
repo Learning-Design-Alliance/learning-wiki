@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: gibson-2025
     resource: "https://doi.org/10.48550/arxiv.2605.24142"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The model specifies three internal arrangements — bottom-up monitoring dominance, top-down control dominance, and fully integrated bidirectional processing — which combine with entry, exit, and topology patterns to define distinct scenarios. [→ Gibson 2025](#gibson-2025)

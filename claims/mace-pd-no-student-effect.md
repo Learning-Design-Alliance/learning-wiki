@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: eveline-m-schoevers-paul-p-m-leseman-evelyn-h-kroesbergen-2019
     resource: "https://doi.org/10.1007/s10763-019-10018-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across GAT, vocabulary, GCT, and VAA outcomes, class growth differences were not explained by PD program participation. [→ Eveline M. Schoevers & Paul P. M. Leseman & Evelyn H. Kroesbergen 2019](#eveline-m-schoevers-paul-p-m-leseman-evelyn-h-kroesbergen-2019)

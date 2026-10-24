@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: g-stahl-s-ludvigsen-n-law-u-cress-2014
     resource: "https://doi.org/10.1007/s11412-014-9200-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Damşa's case study, increases in discourse about the groups' textual objects are concluded to lead to improvements in learning or better knowledge building. [→ G. Stahl & S. Ludvigsen & N. Law & U. Cress 2014](#g-stahl-s-ludvigsen-n-law-u-cress-2014)

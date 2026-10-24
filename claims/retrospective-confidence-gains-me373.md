@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: jesse-a-rodríguez-2026
     resource: "https://doi.org/10.48550/arxiv.2605.05410"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` On all four ME 373 learning objectives, retrospective pre/post confidence rose by more than one Likert point, with Mann–Whitney U p < 10−27 and rank-biserial effect sizes rrb from 0.688 (PDEs) to 0.825 (BVPs). [→ Jesse A. Rodríguez 2026](#jesse-a-rodriguez-2026)

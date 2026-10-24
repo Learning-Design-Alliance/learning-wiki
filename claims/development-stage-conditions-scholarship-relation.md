@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: stewart-1917
     resource: "https://doi.org/10.1037/h0070804"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Heavy boys developing early, average boys developing at medium periods, and light boys developing late rank well in scholarship in eight cases and poor in three; heavy-late and light-early-or-medium boys rank well in no case and poor in four. [→ Stewart 1917](#stewart-1917)
@@ -66,3 +68,4 @@ Chart XIII classifies the same boys by height at fourteen and period of rapid he
 - [When individual growth-increment curves are correlated with scholarship without reference to body size or stage of development, no decided relation between scholarship and physical growth appears](growth-increment-scholarship-no-decided-relation.md) — related
 - [In a same-age, same-class group of eight boys followed through high school, the higher-scholarship half averaged taller in all four years and heavier in all years except the junior year](high-scholarship-half-taller-heavier.md) — related
 - [Group averages suggest a positive relation between weight and scholarship in the elementary grades, but the relation in high school is uncertain](weight-scholarship-elementary-positive.md) — related
+- [Most high-school students made rapid or normal elementary progress, yet most fail in some high-school work, and schools appear better fitted for girls than for boys](progress-and-sex-patterns-high-school.md) — related

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: weak
+newest_evidence: 2001
+source_checked: 2026-10-19
 sources:
   - id: pasana-chularut-2001
     resource: "https://eric.ed.gov/?id=ED3004889"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2001 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a reviewed study of college biology students, students working cooperatively on concept mapping tasks attained meaningful learning better than students working individually. [→ Pasana Chularut 2001](#pasana-chularut-2001)

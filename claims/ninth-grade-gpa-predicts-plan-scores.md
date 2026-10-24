@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: easton-2017
     resource: "https://consortium.uchicago.edu/publications/predictive-power-ninth-grade-gpa"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Controlling for eighth-grade ISAT scores and other factors, A students scored 1.20 PLAN points above average and F students 1.85 points below, a statistically significant association. [→ Easton 2017](#easton-2017)

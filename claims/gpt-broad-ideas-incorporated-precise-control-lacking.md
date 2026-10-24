@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lo-s-2026
     title: Lo S 2026
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Students observed that the only consistent relationship between cGPT materials and instructions and GPT responses was that broad ideas included in instructions would likely appear in responses, while identical instructions could still yield divergent response structures. [→ Lo S 2026](#lo-s-2026)

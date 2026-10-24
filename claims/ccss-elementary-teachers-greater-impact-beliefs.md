@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: julia-a-gwynne-and-jennifer-r-cowhy-with-r-steven-quispe-2018
     resource: "https://consortium.uchicago.edu/publications/getting-ready-common-core-state-standards-experiences-cps-teachers-and-administrators"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 2016, just over 80 percent of elementary teachers in both the ELA and math response groups felt the CCSS would have a great deal of impact on what they teach, versus around 45 percent of high school teachers. [→ Julia A. Gwynne and Jennifer R. Cowhy with R. Steven Quispe 2018](#julia-a-gwynne-and-jennifer-r-cowhy-with-r-steven-quispe-2018)

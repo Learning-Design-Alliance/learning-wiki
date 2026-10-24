@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: hasnain-heickal-and-andrew-lan-2026
     resource: "https://doi.org/10.48550/arxiv.2606.08807"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean change in pass rate between consecutive submissions was near zero across all groups, with no significant differences across conditions (Wald test, p = 0.50). [→ Hasnain Heickal and Andrew Lan 2026](#hasnain-heickal-and-andrew-lan-2026)

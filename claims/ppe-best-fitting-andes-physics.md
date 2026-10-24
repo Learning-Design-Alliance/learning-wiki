@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-25
 evidence_strength: moderate
+newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: philip-i-pavlik-2021
     resource: "https://doi.org/10.1109/TLT.2021.3128569"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For the Andes physics dataset, the PPE model (model 10) was the best fitting model, and models 11-12 also fit well, with model 5 second-best suggesting the recency feature was beneficial. [→ Philip I. Pavlik 2021](#philip-i-pavlik-2021)

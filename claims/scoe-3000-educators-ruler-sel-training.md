@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: sacramento-county-office-of-education-transforming-schools-into-centers-of-wellness-2024
     resource: "https://www.centersofwellness.scoe.net/our-work#collectiveimpact"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Since 2019, SCOE has supported 3,000 educators across almost 200 schools in receiving SEL training through the RULER approach. [→ Sacramento County Office of Education: Transforming Schools Into Centers of Wellness 2024](#sacramento-county-office-of-education-transforming-schools-into-centers-of-wellness-2024)

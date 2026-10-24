@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: gyöngyvér-molnár-zoltán-hermann-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101706"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The lack of explicit kindergarten instruction manifested most in low-SES schools' basic counting and numeracy skills, one-fifth SD lower in 2020 and almost one-third SD lower in 2021 than before COVID. [→ Gyöngyvér Molnár & Zoltán Hermann 2023](#gyongyver-molnar-zoltan-hermann-2023)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: filges-2018
     resource: "https://doi.org/10.4073/csr.2018.10"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review identifies timing (early grades), intensity (how small the class must be), and duration (years spent in small classes) as unresolved moderators of class size effects. [→ Filges 2018](#filges-2018)

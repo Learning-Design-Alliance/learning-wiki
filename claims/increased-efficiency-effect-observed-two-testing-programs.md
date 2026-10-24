@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: weak
+newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: steven-wise-2015
     resource: "https://doi.org/10.1080/15366367.2015.1105062"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Test takers tend to increase their time efficiency during MAP test events, and the author observed this phenomenon after reanalyzing his own data from 2 very different testing programs. [→ Steven Wise 2015](#steven-wise-2015)

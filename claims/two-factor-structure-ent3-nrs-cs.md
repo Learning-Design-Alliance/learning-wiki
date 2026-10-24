@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: verkerk-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102313"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` CFAs at each of six time points supported a two-factor model of NRS and CS over a unidimensional model, though evidence varied by time point. [→ Verkerk 2026](#verkerk-2026)

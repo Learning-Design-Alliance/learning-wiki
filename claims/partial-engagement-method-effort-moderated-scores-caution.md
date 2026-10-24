@@ -8,6 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: weak
+newest_evidence: 2021
+source_checked: 2026-10-20
+recheck_by: 2024
 sources:
   - id: wise-2021
     resource: "https://doi.org/10.1080/08957347.2021.1890745"
@@ -23,6 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A described method for identifying partial test-taking engagement has validation evidence supporting its use, and effort-moderated scores should be interpreted cautiously when test events indicate partial engagement. [→ Wise 2021](#wise-2021)

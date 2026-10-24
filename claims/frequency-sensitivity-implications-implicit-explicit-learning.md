@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: weak
+newest_evidence: 2002
 sources:
   - id: nick-c-ellis-2002
     resource: "https://doi.org/10.1017/S0272263102002024"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Documented frequency sensitivity across language domains constrains and informs theories of implicit learning, explicit learning, and how the two interact in second language acquisition. [→ Nick C. Ellis 2002](#nick-c-ellis-2002)

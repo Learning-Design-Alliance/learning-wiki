@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: potter-2012
     resource: "https://doi.org/10.48550/arxiv.1205.6970"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing four-year entrants to transfer students across graduation years and majors, only the bioscience 2000-2001 cohort (CLASP students) showed a statistically significant UDGPA difference (p = 0.0001), which the authors use to argue selection bias did not dominate the direct comparison. [→ Potter 2012](#potter-2012)

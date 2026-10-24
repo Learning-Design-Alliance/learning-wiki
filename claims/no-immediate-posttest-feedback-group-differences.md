@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: rod-ellis-2006
     resource: "https://doi.org/10.1017/S0272263106060141"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After adjusting for pretest differences, there was no effect for group on the immediate oral imitation posttest, and no group difference on the immediate grammaticality judgment posttest. [→ Rod Ellis 2006](#rod-ellis-2006)

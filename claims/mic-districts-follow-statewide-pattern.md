@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: perry-2019
     resource: "https://eric.ed.gov/?id=ED601900"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across all California districts plotted for 2015 versus 2018, MiC districts' average achievement followed the same pattern as other districts, with slightly tighter clustering in meeting/exceeding percentages. [→ Perry 2019](#perry-2019)

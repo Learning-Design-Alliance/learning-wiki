@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: feng-2025
     resource: "https://eric.ed.gov/?id=ED677784"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Q2 students demonstrated significantly higher math achievement (p = 0.045; effect size = 0.16); Q1 gains were marginal (p = 0.068; effect size = 0.10); Q3 and Q4 did not differ significantly from comparison peers (p = 0.288 and 0.104). [→ Feng 2025](#feng-2025)

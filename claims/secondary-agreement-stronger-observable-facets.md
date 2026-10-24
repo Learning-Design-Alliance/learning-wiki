@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: marsh-2026
     resource: "https://doi.org/10.1037/edu0001035"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The article reports, citing Clausen (2002) and Kunter and Baumert (2007), that secondary-level student–teacher agreement is stronger on observable facets (e.g., classroom management; r = .64) and weaker or less consistent for more internal or interpretive aspects. [→ Marsh 2026](#marsh-2026)

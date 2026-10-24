@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-18
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: daniel-cebrián-robles-antonio-joaquín-franco-mariscal-ángel-blanco-lópez-2018
     resource: "https://doi.org/10.1007/s11251-018-9446-4"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test Mann–Whitney U comparisons ratified that results obtained at the end of the training programme differed significantly between the experimental and control groups. [→ Daniel Cebrián-Robles; Antonio-Joaquín Franco-Mariscal; Ángel Blanco-López 2018](#daniel-cebrian-robles-antonio-joaquin-franco-mariscal-angel-blanco-lopez-2018)

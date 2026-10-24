@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: constantinidis-christos-2019
     resource: "https://doi.org/10.1016/j.tins.2019.07.004"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adult monkeys show higher, faster-ramping pre-stimulus baseline activity, and correct trials are characterized by higher pre-stimulus firing rates. [→ Constantinidis Christos 2019](#constantinidis-christos-2019)

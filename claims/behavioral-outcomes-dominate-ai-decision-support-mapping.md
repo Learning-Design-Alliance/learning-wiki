@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: köroğlu-2026
     resource: "https://doi.org/10.1186/s41239-026-00623-8"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Behavioral outcomes were the most frequently coded outcome group, in particular performance (20 studies, 74.1%) and engagement (15, 55.6%), while motivation was the smallest group (4, 14.8%). [→ Köroğlu 2026](#koroglu-2026)

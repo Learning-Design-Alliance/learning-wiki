@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-23
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: annique-smeding-2013
     resource: "https://doi.org/10.1037/a0032094"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Administering math and verbal tests in a manipulated order functions as an ecological intervention that reduces stereotype threat effects on girls’ math performance. [→ Annique Smeding 2013](#annique-smeding-2013)

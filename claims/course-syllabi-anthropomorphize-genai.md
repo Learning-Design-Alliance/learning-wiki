@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: amrita-ganguly-2026
     resource: "https://doi.org/10.48550/arxiv.2607.12296"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 39% of syllabi were coded as Anthropomorphism of GenAI, attributing living characteristics to GenAI as an assistant or through personification, while this code was absent at the institutional level. [→ Amrita Ganguly 2026](#amrita-ganguly-2026)

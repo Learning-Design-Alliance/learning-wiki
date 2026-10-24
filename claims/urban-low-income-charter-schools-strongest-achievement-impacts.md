@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: philip-m-gleason-2016
     resource: "https://doi.org/10.1080/15582159.2017.1395620"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research summarized in the paper indicates urban charter schools and charter schools primarily serving low-achieving and low-income students have the strongest positive impacts on student achievement. [→ Philip M. Gleason 2016](#philip-m-gleason-2016)

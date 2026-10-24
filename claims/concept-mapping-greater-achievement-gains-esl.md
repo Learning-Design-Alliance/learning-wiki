@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2001
+source_checked: 2026-10-20
 sources:
   - id: pasana-chularut-2001
     resource: "https://eric.ed.gov/?id=ED3004889"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2001 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For achievement, the concept mapping group showed significantly greater gains from pre-test to post-test than the alternative learning strategy group. [→ Pasana Chularut 2001](#pasana-chularut-2001)

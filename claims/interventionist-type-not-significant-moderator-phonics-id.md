@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: moderate
+newest_evidence: 2019
+source_checked: 2026-10-21
 sources:
   - id: sermier-dessemontet-2019
     resource: "https://doi.org/10.1016/j.edurev.2019.01.001"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4`
+> **Currency** · newest study 2019 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Across the included studies, whether the interventionist was of one type or another did not significantly moderate the effect of phonics instruction on decoding skills. [→ Sermier Dessemontet 2019](#sermier-dessemontet-2019)

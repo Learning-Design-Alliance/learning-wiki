@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-17
 evidence_strength: moderate
+newest_evidence: 1998
 sources:
   - id: wolters-1998
     resource: "https://doi.org/10.1023/a:1003035929216"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Task value was the greatest individual predictor of both cognitive and regulatory strategy use in all three subject areas, uniquely explaining 13–24% of the variance. [→ Wolters 1998](#wolters-1998)

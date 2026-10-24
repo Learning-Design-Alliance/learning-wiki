@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-24
 evidence_strength: weak
+newest_evidence: 1917
 sources:
   - id: kohs-1917
     resource: "https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study of 128 students (67 men, 59 women) at the University of Pennsylvania, Travis concluded the two Binet prose-passage reproduction tests have no value for group application and should be eliminated for ages fifteen and over unless given under standard Binet conditions. [→ Kohs 1917](#kohs-1917)

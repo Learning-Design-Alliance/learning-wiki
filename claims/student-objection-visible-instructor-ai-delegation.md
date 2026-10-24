@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: yusuf-pisan-2026
     resource: "https://doi.org/10.48550/arxiv.2608.05175"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students resented the visible delegation of grading and materials creation to AI, and that the AI scores moved no one's marks did not soften the objection. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)

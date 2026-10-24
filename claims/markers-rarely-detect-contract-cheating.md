@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-16
 evidence_strength: moderate
+newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: debby-r-e-cotton-2024
     title: Debby R. E. Cotton 2024
@@ -27,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In research by Lines (2016) none of 26 purchased assignments was identified as suspect by markers and only 3 were flagged on Turnitin. [→ Debby R. E. Cotton 2024](#debby-r-e-cotton-2024)

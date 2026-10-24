@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-20
 sources:
   - id: yun-hwa-noh-hee-jeong-kim-2026
     resource: "https://doi.org/10.63311/mathedu.26.6525"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In dashboard-monitoring orchestration, the teacher monitors students' emotional states, connection status, and answer rates in real time via dashboards and reflects this in lesson operation; it was observed 14 times, the second most frequent type. [→ Yun Hwa Noh & Hee-jeong Kim 2026](#yun-hwa-noh-hee-jeong-kim-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: guha-2016
     resource: "https://learningpolicyinstitute.org/product/teacher-residency"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across teacher residency programs nationally, 45% of residents in 2015-16 were people of color, more than double the 19% national average of entering teachers of color. [→ Guha 2016](#guha-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-21
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: soemer-2015
     resource: "https://doi.org/10.1007/s10648-015-9303-9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The commentary argues that Schweppe and Rummer's rejection of the multicomponent model is based on a misinterpretation, because the model asserts functional rather than structural separation of working memory from long-term memory. [→ Soemer 2015](#soemer-2015)

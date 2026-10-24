@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
+newest_evidence: 2006
 sources:
   - id: talent-search-2006
     resource: "http://www.ed.gov/programs/triotalent/index.html"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Talent Search received the WWC rating of potentially positive effects: two studies showed statistically significant positive effects on completing school with no contrary evidence, but no study met standards for a strong design. [→ Talent Search 2006](#talent-search-2006)
