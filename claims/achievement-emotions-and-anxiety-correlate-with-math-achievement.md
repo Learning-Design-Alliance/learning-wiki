@@ -59,3 +59,4 @@ Correlations only, and the authors expect the relationship to run both ways: ach
 - [Math anxiety correlates negatively with math performance at a pooled r = −.30 across 169 independent samples](math-anxiety-negative-correlation-math-performance.md) — related
 - [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — a narrower finding that bears on this claim
 - [Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational variables](emotions-correlate-motivation-strategies-resources.md) — related
+- [Test boredom correlates negatively with math grades but not with the math test score in Study 1](test-boredom-negative-grades-not-test-score.md) — related

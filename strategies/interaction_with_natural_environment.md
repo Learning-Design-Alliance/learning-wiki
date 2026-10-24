@@ -65,6 +65,7 @@ Nature exposure functions as a low-cost lever on the attentional resources that 
 - Physical activity breaks — share the attention-restoration rationale; movement and green exposure are often combined
 - Classroom climate and lighting design — part of the same environmental-levers family alongside acoustics and air quality
 - [Provide autonomy-supportive outdoor play in nature-rich settings to foster children's creativity](autonomy-supportive-nature-play-creativity.md)
+- [Incorporate self-regulation or classroom-management components into mathematics interventions for lower-achieving students](self-regulation-components-for-low-attention-math-students.md)
 
 ## Examples
 - **Li & Sullivan classroom window study (2016)**: high school students in classrooms with views of greenery showed significantly better attention test scores and stress recovery than peers facing built views or windowless walls

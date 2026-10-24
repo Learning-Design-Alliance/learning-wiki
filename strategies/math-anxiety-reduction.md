@@ -65,6 +65,7 @@ Because anxious learners' working memory is partially occupied by worry, reducin
 - [Expressive Writing Before Assessment](expressive-writing-before-assessment.md) — the best-evidenced single regulation intervention
 - [Scaffolded Problem Sequencing](scaffolded-problem-sequencing.md) — graduated difficulty keeps challenge within reach
 - [Use expressive writing before math situations to offload worry and protect working memory resources](expressive-writing-before-math.md)
+- [Incorporate self-regulation or classroom-management components into mathematics interventions for lower-achieving students](self-regulation-components-for-low-attention-math-students.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — mastery-based, untimed practice with hints and unlimited retries removes speed pressure and public failure from math practice.

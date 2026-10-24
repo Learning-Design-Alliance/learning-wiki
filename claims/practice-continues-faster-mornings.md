@@ -50,3 +50,4 @@ Gross weekly comparison of Groups A (morning) and B (afternoon) from Table II. I
 - [Exception: the top section of afternoon workers did better work than the corresponding morning section](top-section-afternoon-superiority.md) — reports the opposite
 - [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
 - [A letter-cancellation practice group outperformed a control group in the first parts-of-speech test period](kline-practice-group-superior-first-period.md) — related
+- [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — a broader claim this one bears on

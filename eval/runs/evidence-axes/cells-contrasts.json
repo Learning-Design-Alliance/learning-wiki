@@ -41250,5 +41250,29 @@
  "test-format\tgroup intelligence tests\tindividual intelligence tests": {
   "label": "group-administered vs individually administered",
   "treatment_is_a": true
+ },
+ "test-format\tTest A, “Saturday Morning”\tTest B, “A Fishing Trip”": {
+  "label": "Saturday Morning test vs A Fishing Trip test",
+  "treatment_is_a": true
+ },
+ "test-format\tTest A, “Saturday Morning”\tTest C, “An Accident”": {
+  "label": "Saturday Morning test vs An Accident test",
+  "treatment_is_a": true
+ },
+ "test-format\tTest B and Test C administered together\tassociation between pupils’ scores across the two forms": {
+  "label": "Tests B and C administered together vs association between scores on the two test forms",
+  "treatment_is_a": true
+ },
+ "test-format\tTest B scores\tTest C scores": {
+  "label": "Test B scores vs Test C scores",
+  "treatment_is_a": true
+ },
+ "test-format\tTest B, “A Fishing Trip”\tTest C, “An Accident”": {
+  "label": "A Fishing Trip test vs An Accident test",
+  "treatment_is_a": true
+ },
+ "test-format\terror items across Tests A, B, and C\terror items across the alternate test forms": {
+  "label": "Errors across Tests A, B, and C vs errors across alternate test forms",
+  "treatment_is_a": true
  }
 }

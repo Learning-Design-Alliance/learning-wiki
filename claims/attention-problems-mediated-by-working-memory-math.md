@@ -59,3 +59,4 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Academic attention problems do not mediate a long-term relationship between academic-media multitasking and achievement](no-indirect-long-term-effect-via-attention-problems.md) — related
 - [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](whole-number-ccs-one-level-per-wm-unit.md) — related
 - [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related
+- [Mathematics anxiety for learning is indirectly related to seventh-grade mathematics achievement through reduced in-class attention](math-anxiety-indirect-effect-through-attention.md) — related

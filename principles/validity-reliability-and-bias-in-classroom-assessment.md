@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 240 claims (100 for, 124 mixed, 16 against) · 178 studies (61 associational, 44 design, 26 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 178 report an effect size · 234 claims rest on one study
+> **Evidence** · 244 claims (102 for, 126 mixed, 16 against) · 181 studies (64 associational, 44 design, 26 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 16 of 181 report an effect size · 238 claims rest on one study
 
 ## Conditional relationship
 
@@ -314,6 +314,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Group average memory span scores remain nearly identical across days while individual scores vary considerably](../claims/group-averages-stable-individuals-vary.md) [+W]
 - [Thorndike Scale Alpha appears to test comprehension of the questions as much as comprehension of the passage read](../claims/thorndike-scale-alpha-questions-not-passage.md) [+W]
 - [Intercorrelations among analyzed trait ratings show a spread of the general impression, and their size varies extremely with the rating method, from central tendencies of 0.3 to 0.9](../claims/trait-rating-spread-method-variable-intercorrelations.md) [~W]
+- [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](../claims/judge-agreement-classifying-test-units-scales.md) [~W]
+- [SEEQ-S class-average ratings show strong aggregation reliability and high internal consistency, with somewhat lower internal consistency for TEEQ-S](../claims/seeq-s-class-mean-reliability-iccs-omega.md) [+W]
+- [The student growth measure used as criterion is supported by a substantial correlation with course grades (r = .68) reported in prior work](../claims/student-growth-measure-grade-correlation-prior-work.md) [+W]
+- [The Binet-Simon scale accurately graded fairly minute individual differences in mental ability within same-age groups, as validated against teacher and principal judgments](../claims/binet-simon-grades-individual-differences.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

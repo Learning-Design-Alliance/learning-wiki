@@ -45,3 +45,4 @@ Score-validation reporting from the Score Validation section of the preparation 
 ## Related Claims
 - [Subject distribution is uneven, with E-commerce contributing five answers and Machine Learning 88 of 485](uneven-subject-distribution-485-answers.md) — related
 - [The dataset's 12 question templates contain 47 criteria, with question maxima ranging from 5 to 16 marks](twelve-templates-47-criteria.md) — related
+- [Summing all test scores into one general-intelligence rating manufactures the appearance of a general factor](score-summing-manufactures-general-factor.md) — related

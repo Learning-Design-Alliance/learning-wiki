@@ -64,3 +64,4 @@ Same t-test analysis of mean-level differences. The article states the anxiety d
 ## Related Claims
 - [Aggregated state emotions converge substantially but imperfectly with self-reported trait emotions, with averaged correlations ranging from r = 0.391 (shame) to r = 0.608 (boredom)](aggregated-states-traits-substantial-imperfect-convergence.md) — related
 - [Aggregated state emotions show no superior incremental predictive validity over self-reported traits for academic outcomes; traits corrected for states were only systematically correlated with criteria for enjoyment and somewhat for pride](no-superior-incremental-predictive-validity-aggregated-states.md) — related
+- [Students report statistically significant levels of boredom during mathematics tests, for both trait and state measures](test-boredom-occurs-significant-levels.md) — related

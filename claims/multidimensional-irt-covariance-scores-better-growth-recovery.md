@@ -57,3 +57,4 @@ A series of simulation and empirical studies compared growth parameter recovery 
 - [Measurement error in the mediator reduces statistical power for mediator-achievement association estimates](mediator-measurement-error-reduces-power.md) — related
 - [Meaningful longitudinal linking depends on the construct not changing across measurement occasions](construct-stability-assumption-longitudinal-linking.md) — related
 - [Little of the existing IRT scaling and linking expertise from large-scale educational assessment is applied to scaling psychological and social-emotional survey constructs](scaling-expertise-gap-sel-constructs.md) — related
+- [Summing all test scores into one general-intelligence rating manufactures the appearance of a general factor](score-summing-manufactures-general-factor.md) — related

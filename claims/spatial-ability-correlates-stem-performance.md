@@ -55,3 +55,4 @@ The review reports that studies across many STEM disciplines and sub-disciplines
 - [Five hours of Tetris play improved some mental rotation measures but not most spatial skill measures](tetris-play-selective-mental-rotation-gains.md) — related
 - [Evidence for spatial training improving STEM achievement is promising but insufficient; rigorous research is still needed](spatial-training-stem-achievement-evidence-limited.md) — related
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — a narrower finding that bears on this claim
+- [In-class attention and complex spatial ability (MRT) predict seventh-grade mathematics achievement above and beyond prior mathematical knowledge](attention-and-mrt-predict-seventh-grade-math-above-prior-achievement.md) — a narrower finding that bears on this claim

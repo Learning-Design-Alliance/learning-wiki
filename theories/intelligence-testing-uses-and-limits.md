@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 25 claims (12 for, 13 mixed) · 21 studies (12 associational, 5 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 1 of 21 report an effect size · 24 claims rest on one study
+> **Evidence** · 35 claims (16 for, 17 mixed, 2 against) · 25 studies (14 associational, 5 review, 4 theoretical, 2 quant-synthesis), `q1`–`q3` · 1 of 25 report an effect size · 34 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -76,6 +76,16 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Published form-board age norms differ markedly across investigators, yielding discrepant diagnoses](../claims/form-board-norms-discrepant-across-investigators.md) [~W]
 - [Group scales allow examining fifty or a hundred children in an hour, whereas individual Binet testing restricts use to special cases](../claims/group-scale-throughput-versus-binet-individual.md) [~W]
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](../claims/nrc-tests-predicted-routine-school-intelligence-testing.md) [~W]
+- [The Binet-Simon scale measured intelligence development from ages seven to eleven with at least 96 per cent efficiency under the study's conditions](../claims/binet-simon-accurate-ages-7-11.md) [+W]
+- [The twelve-year tests of the Binet-Simon scale were unsatisfactory, with several individual tests too difficult for the children tested](../claims/binet-simon-twelve-year-tests-unsatisfactory.md) [-W]
+- [The Binet-Simon scale accurately graded fairly minute individual differences in mental ability within same-age groups, as validated against teacher and principal judgments](../claims/binet-simon-grades-individual-differences.md) [+W]
+- [Yerkes-Bridges coefficients of intelligence of 1.20 or more are attained by very different percentages of children at successive ages (34.5% at ages 4-5 down to 0% at ages 16-17 and 18-on), so they do not represent the same degree of brightness at all ages.](../claims/non-comparable-brightness-coefficients-yerkes-bridges.md) [~W]
+- [Summing all test scores into one general-intelligence rating manufactures the appearance of a general factor](../claims/score-summing-manufactures-general-factor.md) [~W]
+- [Verbal test segments correlate more highly with the composite intelligence criterion than non-verbal segments](../claims/verbal-tests-correlate-higher-than-non-verbal.md) [+W]
+- [In the Yerkes-Bridges alteration of the Binet Scale, equal point increments are assigned to digit-span steps whose growth intervals, as placed in the Binet Scale, are approximately 1, 3, 3, and 4 years.](../claims/unequal-point-increments-digit-span-yerkes-bridges.md) [~W]
+- [Exceptional Binet-Simon test outcomes were rare (4 per cent) and mostly attributable to error in adult judgments rather than the scale](../claims/binet-simon-exceptional-cases-4-percent.md) [+W]
+- [Correlation magnitude rises with the standard deviation of mental age of the group, so cross-group comparisons of the two traits are spurious](../claims/correlation-magnitude-varies-with-mental-age-sd.md) [~W]
+- [Arbitrarily assigned point values in the Yerkes-Bridges scale yield implausible growth-rate results, such as intellectual ability increasing more than fifty per cent during the fourth year and only approximately fifteen per cent during the seventh.](../claims/binet-point-scale-growth-rate-artifact.md) [-W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

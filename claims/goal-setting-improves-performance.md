@@ -63,7 +63,7 @@ A systematic review and random-effects meta-analysis of randomized controlled tr
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **10 distinct studies** (3 quant-synthesis, 2 review, 2 theoretical, 2 causal, 1 design), `q1`–`q4`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does the forethought phase pay off: do specific goals and if-then plans improve performance, and which goals suit novices?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **10 distinct studies** (3 quant-synthesis, 2 review, 2 theoretical, 2 causal, 1 design), `q1`–`q4`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

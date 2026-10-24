@@ -59,3 +59,4 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers — related
 - [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](rubric-interrater-reliability-visualization-assessment.md) — related
 - Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement — related
+- [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](judge-agreement-classifying-test-units-scales.md) — related

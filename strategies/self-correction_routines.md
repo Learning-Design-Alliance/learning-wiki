@@ -68,6 +68,7 @@ Self correction works because it activates self-monitoring during learning: lear
 - [Put students in charge of soliciting grammatical feedback through pre-taught correction questions](student-initiated-correction-questions.md)
 - [Realign: deploy Socratic withholding protocols that delay direct answers for conceptual or diagnostic queries](realign-socratic-withholding-protocol.md)
 - [Use self-scoring against correct answers as a tool to foster primary students' monitoring accuracy during math problem-solving practice](self-scoring-foster-monitoring-accuracy-strategy.md)
+- [Use a pupil-plays-teacher error-correction game format for language testing](pupil-plays-teacher-error-correction-format.md)
 
 ## Examples
 - **Writing revision checklists** — Students use a COPS-style checklist (Capitalization, Organization, Punctuation, Spelling) to self-edit drafts before peer or teacher review; the routine is taught with modeled think-alouds first.

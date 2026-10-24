@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (85 show a difference, 34 mixed, 10 no difference) · 83 studies (28 associational, 20 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 18 of 83 report an effect size · 126 claims rest on one study
+> **Evidence** · 131 claims (85 show a difference, 36 mixed, 10 no difference) · 84 studies (29 associational, 20 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 19 of 84 report an effect size · 128 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -164,6 +164,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Nursing students experience a wide range of achievement emotions, including joy, hope, pride, gratitude, surprise, contentment, disappointment, shame, anxiety, anger, sadness and hopelessness, during internship feedback situations](../claims/nursing-students-range-achievement-emotions-internship-feedback.md) [+M] — instruction changes it
 - [Only the initial level and rate of change in arithmetic fluency predict third-grade mathematics performance; achievement emotions do not](../claims/fluency-not-emotions-predict-math-performance.md) [-M] — learners who differ on it differ in outcomes
 - [The type and intensity of emotions students experience in feedback situations depend on feedback focus (task vs person) and valence, in interplay with context and student characteristics](../claims/feedback-focus-and-valence-shape-emotions.md) [~M] — instruction changes it
+- [Abundance hypothesis: state test boredom relates negatively to performance on the difficult test part but not the easy part](../claims/abundance-hypothesis-overchallenge-boredom-performance.md) [~M] — learners who differ on it differ in outcomes
+- [Test boredom correlates negatively with math grades but not with the math test score in Study 1](../claims/test-boredom-negative-grades-not-test-score.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

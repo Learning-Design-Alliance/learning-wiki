@@ -65,7 +65,7 @@ Citing Gonzalez and Amanti (1992) and Moll et al. (1992), the digest reports tha
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does learning about learners' homes change how educators read their students, and does it reach the students?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (3 causal, 1 qualitative, 1 associational), `q1`–`q2`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do teachers' visits to and learning about students' homes change how educators read their students, and does it reach the students?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (3 causal, 1 qualitative, 1 associational), `q1`–`q2`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
