@@ -51,3 +51,4 @@ Manipulation check from the rate-of-reading experiment, reported from the readin
 - [Comprehension (ideas recalled) shows very little difference across slow, normal, and rapid silent reading rates](reading-rate-little-comprehension-difference.md) — related
 - [Knowing that reproduction will be demanded slows reading rate across all readers and methods](reproduction-demand-slows-reading.md) — related
 - [Skimming rate correlates strongly with normal silent reading rate (r = +0.71)](skimming-rate-correlates-normal-silent-reading.md) — related
+- [Daily speed drills produced an 18.7% relative gain in silent reading speed among grade 4-6 pupils without injuriously affecting quality of reproduction](speed-drills-raise-reading-speed-without-quality-loss.md) — related

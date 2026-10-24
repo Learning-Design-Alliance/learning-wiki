@@ -26,7 +26,8 @@ A group intelligence test developed by Pintner and colleagues for school childre
 - [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](../claims/mental-index-two-year-reliability.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Pintner's Mental Survey](pintners-mental-survey.md)
 
 ## Key Sources
 - Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall

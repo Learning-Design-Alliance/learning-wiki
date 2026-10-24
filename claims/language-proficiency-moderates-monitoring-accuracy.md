@@ -48,3 +48,4 @@ Exploratory aptitude-treatment interaction analysis within the one-stage IPD met
 - [Non-interactive teaching produces stronger under-confidence (metacognitive bias) than restudy immediately after learning](non-interactive-teaching-under-confidence-bias.md) — related
 - [Immediate unsupported application on a new passage showed no material-condition effect and no Proficiency × Material interaction, indicating no short-term dependence cost](no-short-term-dependence-cost-unsupported-application.md) — related
 - [Meta-analyses report a small but significant advantage of non-interactive teaching over control, with large between-study variability](meta-analytic-small-advantage-non-interactive-teaching.md)
+- [The effect of Tekster does not depend on students' initial writing proficiency](tekster-effect-independent-of-writing-proficiency.md) — related

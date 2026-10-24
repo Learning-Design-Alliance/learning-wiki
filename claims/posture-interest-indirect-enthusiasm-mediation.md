@@ -71,3 +71,4 @@ Bootstrapped mediation analysis (PROCESS, 5000 iterations) in the preregistered 
 - [Instructor body posture affects students' perceived instructor agency, mainly through the vertical dimension](instructor-posture-affects-perceived-agency.md) — related
 - [Instructor body posture affects students' perceived instructor communion on both the vertical and the horizontal dimension](instructor-posture-affects-perceived-communion.md) — related
 - [Instructor body posture shows no significant main or interaction effects on students' motivation, though pairwise contrasts favour conditions over slumped/closed](posture-motivation-null-main-effects.md) — related
+- [Student-perceived teacher enthusiasm mediates the relationship between teacher enjoyment and student enjoyment](teacher-enthusiasm-mediation-enjoyment.md) — related

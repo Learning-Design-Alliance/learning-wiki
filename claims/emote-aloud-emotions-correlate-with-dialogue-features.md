@@ -49,3 +49,4 @@ The review reports Graesser et al.'s (2008) emote-aloud analysis: "significant c
 - [Confusion during learning is associated with facial action units 4, 7, and 12, with tightened lids tending to trigger a lowered brow](confusion-facial-action-units-4-7-12.md) — related
 - [Boredom during learning shows a significant association with facial action unit 43 (eye closure), but no association rules between action units](boredom-facial-action-unit-43-eye-closure.md) — related
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related
+- [On novel, hard tasks, superior trained adults tend to jump at conclusions, accept results without surety, and become confused, more than orthodox psychology supposes](adult-thinking-task-novelty-not-constitutional.md) — related

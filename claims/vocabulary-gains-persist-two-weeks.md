@@ -58,3 +58,4 @@ Delayed posttest administered 2 weeks after the first session to 14 of the initi
 - [Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words](reading-times-drop-three-four-encounters.md) — related
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related
+- [Writing quality gains from Tekster are maintained eight weeks after the intervention ends](tekster-writing-gains-maintained-8-weeks.md) — related

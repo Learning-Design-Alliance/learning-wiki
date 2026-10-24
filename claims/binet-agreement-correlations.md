@@ -66,3 +66,5 @@ In the same 300-case group, the mental-educational index correlation was .62 and
 - [Teachers' estimates show the highest single-measure correlation with the Stanford Revision (.72, 60 cases)](teachers-estimates-highest-correlation-stanford-revision.md) — related
 - [Group scales allow examining fifty or a hundred children in an hour, whereas individual Binet testing restricts use to special cases](group-scale-throughput-versus-binet-individual.md) — related
 - [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related
+- [The Myers Mental Measure requires only 20 minutes and is said to correlate .80 with the Standard Revision of the Binet Scale](myers-mental-measure-20-minutes-80-binet.md) — related
+- [Percentile-difference scales are crude and embody a fundamental fallacy because percentile units are not equal intervals](percentile-scales-crude-fallacy.md) — related

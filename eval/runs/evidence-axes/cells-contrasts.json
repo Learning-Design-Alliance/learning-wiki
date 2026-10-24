@@ -41566,5 +41566,81 @@
  "worked-examples\tstudying worked examples\tsolving problems": {
   "label": "worked examples vs problem solving",
   "treatment_is_a": true
+ },
+ "case-comparison\tsubtraction performance\tmultiplication performance": {
+  "label": "subtraction vs multiplication performance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tClearly and emphatically state the meaning of gauss and its relation to unit-pole force\tLeave the meaning and relation to be inferred from the text": {
+  "label": "explicit instruction vs inferred instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTekster exposure, assessed at delayed posttest M3\tpretest M1 before Tekster": {
+  "label": "post-exposure vs pre-exposure",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTekster posttest M2\tdelayed posttest M3 after returning to regular instruction": {
+  "label": "immediate posttest vs delayed posttest",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction in methods of study\tbefore instruction": {
+  "label": "study-methods instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tovercoming barriers intervention\ttraditional retrieval-practice intervention": {
+  "label": "barrier-overcoming intervention vs traditional retrieval practice",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tanalysis of individual test errors to adjust instruction\troutine group instruction without detailed test analysis": {
+  "label": "individual diagnostic assessment vs routine group instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tindividual standard-test scores and error analysis\tteacher deficiency judgments and routine group instruction": {
+  "label": "individual diagnostic assessment vs teacher judgment and routine group instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstandardized grammar-test results\tteacher English-deficiency markings": {
+  "label": "standardized diagnostic testing vs teacher judgment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstandardized tests used to diagnose individual needs\troutine group instruction and teacher judgment alone": {
+  "label": "standardized diagnostic testing vs teacher judgment and routine group instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tabstract dot-array representations\ta mixture of abstract and multiple concrete representations": {
+  "label": "multiple representations vs single representation",
+  "treatment_is_a": false
+ },
+ "media-design\tabstract dot-array representations\tmultiple concrete representations": {
+  "label": "concrete representations vs abstract representations",
+  "treatment_is_a": false
+ },
+ "media-design\tabstract representations\tchance performance": {
+  "label": "representations vs chance performance",
+  "treatment_is_a": true
+ },
+ "media-design\tmultiple concrete representations\tchance performance": {
+  "label": "representations vs chance performance",
+  "treatment_is_a": true
+ },
+ "media-design\tsingle concrete representation\tmultiple concrete representations": {
+  "label": "multiple representations vs single representation",
+  "treatment_is_a": false
+ },
+ "practice-amount\tdaily silent-reading speed drills with oral reproduction\tusual reading instruction without speed drills": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore completed Tekster lessons\tfewer completed Tekster lessons": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated examinations\tnot stated": {
+  "label": "repeated examinations vs no repeated examinations",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\twage bonus\tno wage bonus or baseline condition": {
+  "label": "wage bonus vs no wage bonus",
+  "treatment_is_a": true
  }
 }

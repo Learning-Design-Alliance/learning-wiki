@@ -84,3 +84,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [Motivational interventions can lower perceived cognitive load and improve retention and transfer, indicating load perception is partly independent of task difficulty](motivation-intervention-lowers-perceived-load.md) — related
 - [Studies collecting both subjective and objective effort measures reveal dissociations between the two types of measures](dissociations-between-subjective-and-objective-effort-measures.md) — related
 - [Recent AI-in-education studies often rely on subjective or performance-during-support measures and weak comparison designs, limiting claims about learning effects](ai-studies-measurement-design-limitations.md) — related
+- [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](overcoming-barriers-intervention-no-perceived-cost-reduction.md) — related

@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (67 show a difference, 18 mixed, 10 no difference) · 39 studies (23 associational, 8 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 14 of 39 report an effect size · 93 claims rest on one study
+> **Evidence** · 98 claims (70 show a difference, 18 mixed, 10 no difference) · 40 studies (23 associational, 9 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 15 of 40 report an effect size · 96 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -130,6 +130,9 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Number knowledge and numerosity discrimination are unique longitudinal predictors of arithmetic development over the first year of formal education](../claims/number-knowledge-numerosity-unique-predictors-arithmetic-growth.md) [+M] — learners who differ on it differ in outcomes
 - [School-entry assessment of numerosity judgments and Arabic number knowledge may identify children at risk of arithmetic difficulties](../claims/school-entry-numerosity-number-knowledge-risk-screening.md) [+M] — learners who differ on it differ in outcomes
 - [Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model](../claims/numerical-abilities-retrieval-fluency-predict-multiplication-baseline.md) [+W] — learners who differ on it differ in outcomes
+- [Children can learn the meanings of novel number symbols through an artificial symbol learning paradigm, performing above chance on a subsequent symbolic comparison task](../claims/children-learn-novel-symbols-artificial-paradigm.md) [+W] — instruction changes it
+- [Learning number symbols from multiple concrete representations carries a cost compared with consistent single representations, whether concrete or abstract](../claims/cost-of-multiple-concrete-representations.md) [+W] — instruction changes it
+- [Performance on the newly learned symbols shows canonical ratio effects, consistent with mapping novel symbols onto Approximate Magnitude System representations](../claims/novel-symbol-ratio-effects-ams-mapping.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

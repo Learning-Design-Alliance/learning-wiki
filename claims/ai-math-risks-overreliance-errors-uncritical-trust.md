@@ -203,3 +203,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Generative AI generates responses based on probability and pattern prediction, not reasoning or understanding](genai-probabilistic-prediction-not-reasoning.md) — related
 - [The IPS evidence base predominantly addresses information search and selection, with library and ecological-validity biases limiting generalizability to broader IPS competence](ips-evidence-base-search-selection-bias.md) — related
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — related
+- [On novel, hard tasks, superior trained adults tend to jump at conclusions, accept results without surety, and become confused, more than orthodox psychology supposes](adult-thinking-task-novelty-not-constitutional.md) — a narrower finding that bears on this claim

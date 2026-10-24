@@ -67,3 +67,4 @@ The review reports that in a sample of pre-kindergarten teachers, Mashburn et al
 ## Related Claims
 - [Teachers' relational self-efficacy—beliefs in their capability to form, maintain, and repair relationships—is hypothesized to motivate TSR-building, but existing global self-efficacy measures show mixed links to TSR quality](relational-self-efficacy-mixed-evidence.md) — related
 - [Teacher-child conflict does not predict subsequent increases in children's inattention and impulsivity, contradicting a bidirectional transaction](no-bidirectional-conflict-to-self-regulation-effect.md) — related
+- [Student-reported motivational beliefs and closeness were collected only at Waves 2 and 3](student-reports-waves-2-and-3-only.md) — related

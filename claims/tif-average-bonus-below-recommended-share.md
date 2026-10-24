@@ -53,3 +53,4 @@ Implementation finding from the two-year TIF snapshot: the average bonus equaled
 - [On average, states required less than half of eight RTT-aligned teacher evaluation policies, though RTT states required more of these policies than non-RTT states](rtt-states-require-more-teacher-evaluation-policies.md) — related
 - School improvement grant awards are small relative to the scale of needed change, averaging about $100,000 per school in 2020-21 — related
 - [TIF districts expected most educators would receive a bonus, inconsistent with guidance for challenging pay-for-performance](tif-districts-expected-most-educators-bonuses.md) — related
+- [A wage bonus incentive raised hand compositors' output by sixty-seven per cent](wage-bonus-compositor-output-increase.md) — related

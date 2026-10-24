@@ -66,3 +66,4 @@ Correlational analysis in Tables XVI and XVII arranged by classes: true-false av
 - [Case studies of sharp test disagreements suggest the better the criterion of achievement, the greater the predictive value of true-false compared with essay examinations](true-false-case-studies-application-deficiency.md) — related
 - [A single true-false test correlates with the criterion of achievement (.65) more highly than an essay examination (.56) or written work (.39)](true-false-criterion-correlation-exceeds-essay.md) — related
 - [No method of presenting true-false questions (oral, oral-and-visual, or visual) shows superiority in criterion correlation](true-false-presentation-method-no-superiority.md) — related
+- [Army intelligence test rankings corresponded with officers' rankings of soldiers (average correlation 0.536 across twelve companies), suggesting the tests measured something beyond literacy](army-tests-officer-ranking-correlation.md) — related

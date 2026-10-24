@@ -34,7 +34,8 @@ A research dataset assembled and analyzed by Angela Johnson (2021) that follows 
 - [Test score disparities between ever-SPED and never-SPED students grew from under 0.4 standard deviations in kindergarten to 0.9 standard deviations in 4th grade](../claims/sped-score-gap-grows-04-to-09-sd.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Dutch COOL triennial cohort study dataset](dutch-cool-triennial-cohort-study-dataset.md)
 
 ## Key Sources
 - Angela Johnson, Elizabeth Barker. (2021). Understanding differential growth during school years and summers for students in special education. NWEA Research Working Paper. https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education-paper/

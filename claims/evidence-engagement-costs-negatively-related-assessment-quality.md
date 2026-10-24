@@ -45,3 +45,4 @@ The article reports, citing Greisel et al. (2023), a study in which pre-service 
 ## Related Claims
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](belonging-task-relevance-mindset-predict-self-efficacy.md) — related
 - [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related
+- [In a structural equation model, self-efficacy for procedural knowledge positively predicts intended use of retrieval practice, while perceived cost negatively predicts reported use](self-efficacy-predicts-intent-cost-predicts-usage.md) — related

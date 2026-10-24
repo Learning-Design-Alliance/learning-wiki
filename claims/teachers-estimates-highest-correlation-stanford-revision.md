@@ -50,3 +50,4 @@ Correlational analysis of survey data from three first grades, comparing teacher
 - [Combinations of two measure types correlate very highly with the composite (.96, .91, .98), with little difference between choices](two-measure-type-combinations-high-composite-correlations.md) — related
 - [Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21](binet-agreement-correlations.md) — related
 - [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related
+- [The Pressey Mental Survey Primer Scale for grades 1-3 requires neither reading nor writing and correlates .58 with teachers' estimates](pressey-primer-scale-correlation-58-teachers-estimates.md) — related

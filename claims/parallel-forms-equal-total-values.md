@@ -46,3 +46,4 @@ Definitional/descriptive statement of the test construction procedure. The artic
 
 - [Cumulative scoring of exercises in ascending difficulty yields a combined measure of rate and power, unlike last-exercise-solved power scoring](cumulative-score-combines-rate-and-power.md) — related
 - [The Organization Test exercises were scaled on 1634 children in grades three to eight, yielding difficulty values from .03 to 6.4 units](greene-organization-test-standardized-1634.md)
+- [Percentile-difference scales are crude and embody a fundamental fallacy because percentile units are not equal intervals](percentile-scales-crude-fallacy.md) — related

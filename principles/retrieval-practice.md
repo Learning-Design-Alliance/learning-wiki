@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 131 claims (59 for, 62 mixed, 10 against) · 59 studies (27 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 59 report an effect size · 124 claims rest on one study
+> **Evidence** · 132 claims (59 for, 63 mixed, 10 against) · 60 studies (28 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 20 of 60 report an effect size · 125 claims rest on one study
 
 ## Conditional relationship
 
@@ -257,6 +257,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](../claims/pupils-improve-with-practice-no-fatigue-effect.md) [+W]
 - [Images that reveal the answer reduce recall compared with images appearing after the retrieval attempt](../claims/answer-revealing-images-worse-than-post-retrieval-images.md) [~W]
 - [Attempted recall during vocabulary study showed no demonstrable superiority over mere reading and re-reading in adult learners](../claims/recall-no-superiority-vocabulary-learning-thorndike.md) [-W]
+- [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](../claims/overcoming-barriers-intervention-no-perceived-cost-reduction.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

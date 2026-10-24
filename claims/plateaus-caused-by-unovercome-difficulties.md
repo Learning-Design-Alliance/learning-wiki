@@ -49,3 +49,4 @@ Careful analysis of the learning consciousness, verified by objective writing re
 - [New adaptations in skill learning were made unintentionally and required intense, carefully applied effort under favorable conditions](higher-order-adaptations-unintentional-effort-driven.md) — related
 - [The Orientation Statistic Read From Learner Records Is a Difficulty Sort](observation-orients-edges-only-where-prerequisites-gate.md) — related
 - [Dynamic psychology research on habit formation is replacing vague verbal maxims of applied psychology with definite insights, including when practice makes perfect and when it does not.](dynamic-psychology-replaces-vague-maxims.md) — a broader claim this one bears on
+- [Grace E. Bird advanced the thesis that emphasizing speed rather than accuracy from the start yields the most effective learning, with generalization flagged as risky](rapid-drill-speed-emphasis-thesis.md) — related

@@ -49,3 +49,4 @@ Development-phase correlational analysis using end-of-class self-reports, pre- a
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) — related
+- [Student-reported motivational beliefs and closeness were collected only at Waves 2 and 3](student-reports-waves-2-and-3-only.md) — related

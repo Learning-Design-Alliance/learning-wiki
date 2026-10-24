@@ -75,6 +75,7 @@ Teacher enthusiasm is measurably linked to student engagement and achievement: o
 - [Activate Background Knowledge](../strategies/activating-prior-knowledge.md) — enthusiasm for student ideas makes activation routines feel genuine rather than procedural
 - [Action-Oriented Feedback](../strategies/action-oriented-feedback.md) — feedback conversations are a high-yield site for relational enthusiasm
 - [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
+- [Teachers displaying enthusiasm during instruction to foster student enjoyment](display-enthusiasm-foster-enjoyment.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — its daily [morning meeting](../elements/check-in.md) structures give teachers a reliable, low-cost routine for positive student contact that sustains relational enjoyment.

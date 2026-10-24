@@ -51,3 +51,4 @@ The review describes Offner's discussion of the "laws of fatigue" as showing how
 - [Subjective symptoms are an unreliable measure of fatigue, and physiological tests have not yet yielded a reliable measurement method (Offner)](unreliable-subjective-physiological-fatigue-measures.md) — related
 - [Studies on the mental fatigue of school children assist in arranging the daily program, including order of subjects and recess periods](fatigue-studies-inform-daily-program.md) — a broader claim this one bears on
 - [Measurement units for changes in learners are essential to an adequate science of education, since most educational practice problems depend on the amount of some change.](measurement-units-essential-science-of-education.md) — related
+- [Thirty to forty-eight hours of sleep loss produced no greater efficiency loss than the gain due to practice, despite reported feelings of fatigue](sleep-loss-efficiency-no-worse-than-practice-gain.md) — related

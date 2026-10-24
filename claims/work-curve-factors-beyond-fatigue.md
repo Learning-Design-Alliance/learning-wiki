@@ -51,3 +51,4 @@ The review summarizes Offner's analysis of factors other than fatigue that condi
 - [Under extreme fatigue, mental multiplication efficiency ends at a definite, relatively abruptly appearing point rather than tailing off by degrees](fatigue-abrupt-end-mental-multiplication.md) — related
 - [Studies on the mental fatigue of school children assist in arranging the daily program, including order of subjects and recess periods](fatigue-studies-inform-daily-program.md) — related
 - [Performance on difficult mental multiplication improves during a continuous work period of about two hours](mental-multiplication-improves-during-continuous-work.md) — a narrower finding that bears on this claim
+- [Thirty to forty-eight hours of sleep loss produced no greater efficiency loss than the gain due to practice, despite reported feelings of fatigue](sleep-loss-efficiency-no-worse-than-practice-gain.md) — related

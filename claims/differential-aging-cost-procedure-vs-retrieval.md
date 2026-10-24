@@ -43,9 +43,11 @@ Authors' descriptive comparison of null-SOA solution times by problem category i
 
 
 ## Related Claims
+
 - [Older adults were slower than young adults overall on solution times, with no age difference in accuracy](age-slowness-no-accuracy-difference.md) — related
 - [Bayesian analyses strongly support sign priming for small addition problems in older adults but only anecdotal support for +1 problems](bayesian-support-priming-older-adults.md) — related
 - [Sign priming effects in addition occur for large, small, and +1 problems but not for tie or +0 problems in older adults](problem-type-priming-pattern-older.md) — related
 - [Problem type modulated solution times, with large problems slowest and +1 problems fastest in both age groups](problem-type-solution-time-structure.md) — related
 - [Presenting the '+' sign 150 ms before operands speeds up addition problem solving in expert older adults, replicating the effect found in young adults](sign-priming-addition-older-adults.md) — related
 - [Older adults can think as divergently as young adults but do so at a slower rate and require more time](older-adults-divergent-thinking-slower-rate.md) — related
+- [Young adults outperformed old adults in all goal conditions, but the age difference was much smaller under nonspecific goals](age-gap-smaller-nonspecific-goal-conditions.md)

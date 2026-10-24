@@ -23,7 +23,7 @@ sources:
 # Drill & Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 3 studies (2 causal, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 against) · 4 studies (3 causal, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 9 claims rest on one study
 
 ## Description
 Drill and practice is the element in which learners repeatedly perform a focused skill or response pattern until it becomes more fluent or automatic. It is useful when subskills need rapid, accurate execution to support later complex performance.
@@ -56,6 +56,8 @@ Drill and practice is the element in which learners repeatedly perform a focused
 - [Second-study results corroborate the first study despite a shorter drill period of 20 versus 30 recitations](../claims/drill-results-corroborate-first-study.md) [+W]
 - [Best and poorest drill pupils both gained more than their non-drill counterparts, narrowing the within-class gap](../claims/drill-narrows-best-poorest-gap.md) [+W]
 - [Drill effect is greatest on the poorest portion of the class and decreases class variability](../claims/drill-effect-greatest-on-poorest-pupils.md) [+W]
+- [Daily speed drills produced an 18.7% relative gain in silent reading speed among grade 4-6 pupils without injuriously affecting quality of reproduction](../claims/speed-drills-raise-reading-speed-without-quality-loss.md) [+W] — attached 2026-10-24 from Peters (1916), which proposed "Daily speed drill with oral reproduction procedure"; tests this page's relationship.
+- [An anomalous third-test result was attributed to urging all pupils to read as rapidly as possible, which spurred the no-drill group more](../claims/test-exhortation-unbalanced-groups.md) [-W]
 
 ## Related Elements
 - [Part-Task Practice](part-task-practice.md)

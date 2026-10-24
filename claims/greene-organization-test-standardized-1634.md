@@ -46,3 +46,5 @@ Standardization study in which seventy mimeographed exercises were sent to coope
 
 - [Cumulative scoring of exercises in ascending difficulty yields a combined measure of rate and power, unlike last-exercise-solved power scoring](cumulative-score-combines-rate-and-power.md) — related
 - [The two test forms were built to pair exercises of closely the same value, equal total values, and similar inter-exercise intervals, with 100 total points per form](parallel-forms-equal-total-values.md)
+- [Percentile-difference scales are crude and embody a fundamental fallacy because percentile units are not equal intervals](percentile-scales-crude-fallacy.md) — related
+- [Specific arithmetic problems were identified as troublesome through percentage analysis of test solutions](troublesome-arithmetic-problems-identified.md) — a narrower finding that bears on this claim

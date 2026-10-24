@@ -25,7 +25,8 @@ A confidential, anonymized dataset assembled by Engzell et al. through a partner
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](../claims/dutch-lockdown-learning-loss-3-percentile-points.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Dutch COOL triennial cohort study dataset](dutch-cool-triennial-cohort-study-dataset.md)
 
 ## Key Sources
 - Engzell P., Frey A., Verhagen M. D. (2021). Learning loss due to school closures during the COVID-19 pandemic. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.2022376118

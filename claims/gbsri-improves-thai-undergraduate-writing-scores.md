@@ -51,3 +51,4 @@ One-group pretest-posttest quasi-experiment with 32 Thai first-year English majo
 - [Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — related
 - [Before the intervention, most students could not write assumptions and conclusions, and only one student achieved the maximum pre-test score](pretest-assumption-conclusion-difficulties.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
+- [Tekster, a strategy-focused writing instruction program, statistically significantly improves the writing quality of upper-elementary students, with an overall effect size of 0.32](tekster-improves-writing-quality-es-032.md) — related
