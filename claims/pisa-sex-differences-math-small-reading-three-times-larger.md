@@ -99,3 +99,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Males show a small overall advantage in mathematics performance (d = 0.083) across studies published 2010–2022](small-overall-male-advantage-mathematics-meta-analysis.md) — related
 - [Boys outperform girls on the final two-digit number test in this sample](gender-gap-final-math-test-first-graders.md) — a narrower finding that bears on this claim
 - [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](girls-stronger-asc-decrease-school-type-null.md) — related
+- [Boys outperform girls on algebra word problems, function mapping, equation memory, and arithmetic fluency, with no sex differences on other mathematics measures](sex-differences-specific-math-measures-geary-2023.md) — a narrower finding that bears on this claim

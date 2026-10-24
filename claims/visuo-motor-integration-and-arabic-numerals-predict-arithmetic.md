@@ -46,3 +46,4 @@ Same hierarchical regression analysis in the kindergarten longitudinal sample (N
 - [Kindergarten spatial orientation performance longitudinally predicts arithmetic performance four months later](spatial-orientation-predicts-arithmetic-kindergarten.md) — related
 - [Kindergarten spatial orientation performance longitudinally predicts number line estimation performance four months later](spatial-orientation-predicts-number-line-estimation.md) — related
 - [Non-symbolic arithmetic performance correlates with children's mastery of number words and Arabic symbols (Experiment 2)](nonsymbolic-arithmetic-correlates-symbol-mastery.md) — related
+- [School-entry assessment of numerosity judgments and Arabic number knowledge may identify children at risk of arithmetic difficulties](school-entry-numerosity-number-knowledge-risk-screening.md) — related

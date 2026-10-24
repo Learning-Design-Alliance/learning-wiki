@@ -69,3 +69,4 @@ In the same 18-student study, three predictors were compared: gaze shifts only, 
 - [Time and gaze-shift evidence are complementary predictors of self-explanation: time alone yields higher sensitivity, gaze shifts alone higher specificity, and the combination the best accuracy](time-and-gaze-evidence-complementary.md) — related
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related
 - [Leave-one-out cross-validation over 36 students confirms significant accuracy and stability gains from eye-tracking in both self-explanation and exploration assessment](cross-validation-confirms-eye-tracking-gains.md) — related
+- [Quality of work rather than time consumed proved the most reliable measure of intelligence across the battery](quality-of-work-over-time-as-intelligence-measure.md) — related

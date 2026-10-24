@@ -47,3 +47,4 @@ Narrative review reporting Norman et al. (2024): college students rated possible
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related
 - [Students' expectancies for success are the strongest direct predictor of subsequent math performance, while the importance attached to math is the strongest direct predictor of intentions to continue taking math](expectancies-predict-performance-values-predict-intentions.md) — related
+- [End-of-course interest in biology and introductory biology grades each predicted lower likelihood of leaving biomedical fields](end-of-course-interest-and-grades-predict-biomedical-attrition.md) — related

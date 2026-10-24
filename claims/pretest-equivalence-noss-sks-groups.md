@@ -53,3 +53,4 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
+- [Model-estimated mixture weights show no detectable difference between control and experimental groups in Study 2](study2-mixture-weights-no-group-difference.md) — related

@@ -66,3 +66,4 @@ For the thirty-two twelve-year-old children, the average mental-minus-chronologi
 - [The Binet-Simon scale measured intelligence development from ages seven to eleven with at least 96 per cent efficiency under the study's conditions](binet-simon-accurate-ages-7-11.md) — related
 - [Exceptional Binet-Simon test outcomes were rare (4 per cent) and mostly attributable to error in adult judgments rather than the scale](binet-simon-exceptional-cases-4-percent.md) — related
 - [Twelve-year-old pupils score a median of 23 on all three test forms](wilson-twelve-year-old-median-23-all-forms.md) — related
+- [Errors of assent to suggestion outnumber errors of dissent in children's selective judgment, and independent judgment develops through three stages](selective-judgment-assent-errors-three-stages.md) — related

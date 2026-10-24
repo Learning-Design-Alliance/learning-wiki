@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 166 claims (120 show a difference, 28 mixed, 18 no difference) · 123 studies (45 causal, 31 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 31 of 123 report an effect size · 160 claims rest on one study
+> **Evidence** · 167 claims (121 show a difference, 28 mixed, 18 no difference) · 124 studies (45 causal, 32 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 31 of 124 report an effect size · 161 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -201,6 +201,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Within-class heterogeneity in achievement or interest did not directly predict outcomes, but differentiated instruction was particularly advantageous in more heterogeneous German classes](../claims/heterogeneity-null-differentiated-instruction-german-interaction.md) [~M] — an instructional effect differs with it
 - [A growth theory of interest intervention increases interest in math and science coursework among liberal arts undergraduates](../claims/growth-theory-interest-intervention-increases-math-science-interest.md) [+M] — instruction changes it
 - [Images during retrieval practice enhanced feelings of competence but not enjoyment](../claims/images-enhance-competence-not-enjoyment.md) [-W] — instruction changes it
+- [Leavers reported lower end-of-semester interest, lower prior achievement, and lower biology grades than stayers, with no differences in FG status, gender, or baseline interest](../claims/leavers-lower-interest-achievement-grades-than-stayers.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

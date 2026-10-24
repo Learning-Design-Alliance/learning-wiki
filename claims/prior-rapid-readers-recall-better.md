@@ -45,3 +45,4 @@ Narrative background attribution: the article reports Quantz's finding of about 
 ## Related Claims
 - [Rapid reading gains about 26% more ideas per second than normal reading, and slow reading about 20% fewer, in all four groups](ideas-per-second-rapid-reading-advantage.md) — related
 - [Comprehension (ideas recalled) shows very little difference across slow, normal, and rapid silent reading rates](reading-rate-little-comprehension-difference.md) — related
+- [Forcing readers to skim at unusually high prescribed rates makes reproduction very poor and the process disagreeable](forced-fast-skimming-degrades-reproduction.md) — related

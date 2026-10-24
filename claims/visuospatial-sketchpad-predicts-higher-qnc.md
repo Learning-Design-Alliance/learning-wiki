@@ -55,3 +55,4 @@ In the reduced final structural equation model (fit: Chi²[4] = 0.75, p = .95), 
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [Kindergarten phonological awareness explains about 34% of the variance in basic numerical skills (QNC Level I) one year later](phonological-awareness-predicts-qnc-level-i.md) — related
+- [Spatial ability predicts algebra word problem performance above and beyond its general relation to mathematics ability](spatial-predicts-algebra-word-problems-specifically.md) — related

@@ -69,3 +69,4 @@ For performance-approach goals and depression (Table 3), the goal model and cult
 - [Mastery-approach goals are negatively related to depression (r = −.18) across 36 samples](mastery-approach-goals-negative-depression-meta.md) — related
 - [Mastery-avoidance goals are not significantly related to anxiety or depression](mastery-avoidance-goals-null-internalizing.md) — related
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related
+- [Higher trait depression, anxiety, and negative emotionality are associated with setting higher baseline goals (Study 1)](trait-negative-emotionality-higher-goal-levels.md) — a narrower finding that bears on this claim

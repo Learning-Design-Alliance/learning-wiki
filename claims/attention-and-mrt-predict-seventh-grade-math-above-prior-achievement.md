@@ -72,3 +72,7 @@ Multilevel models (students recruited from six schools, with seventh-grade schoo
 - [Prior mathematical competence by spatial ability (MRT) interaction was only a trend, with competence slopes strongest in the high-MRT group](prior-competence-by-mrt-interaction-trend.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — a broader claim this one bears on
 - [Prior mathematical competence by in-class attention interaction: attention benefits were strongest among students with stronger prior knowledge](prior-competence-by-attention-interaction-math-gains.md) — related
+- [General ability, spatial abilities, and in-class attention together explain 83% of individual differences in mathematical competence from 6th to 9th grade](cognitive-factors-explain-83-percent-math-variance.md) — related
+- [Sixth-grade understanding of mathematical equality predicts ninth-grade expression evaluation above and beyond general mathematics ability](equality-problems-predict-expression-evaluation.md) — related
+- [Spatial abilities and in-class attention each uniquely predict mathematical competence from 6th to 9th grade, controlling general ability](spatial-and-attention-unique-predictors-math.md) — a broader claim this one bears on
+- [Spatial ability predicts algebra word problem performance above and beyond its general relation to mathematics ability](spatial-predicts-algebra-word-problems-specifically.md) — a narrower finding that bears on this claim

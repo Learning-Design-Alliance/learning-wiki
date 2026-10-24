@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (36 show a difference, 11 mixed, 5 no difference) · 31 studies (13 associational, 8 causal, 7 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 7 of 31 report an effect size · 51 claims rest on one study
+> **Evidence** · 56 claims (39 show a difference, 12 mixed, 5 no difference) · 32 studies (14 associational, 8 causal, 7 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 7 of 32 report an effect size · 55 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -88,6 +88,10 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Visuospatial inferencing relates to hypothesis validation and experimentation but not to generating conclusions when linguistic abilities are controlled](../claims/visuospatial-inferencing-stage-specific-scientific-reasoning.md) [~M] — learners who differ on it differ in outcomes
 - [In-class attention and complex spatial ability (MRT) predict seventh-grade mathematics achievement above and beyond prior mathematical knowledge](../claims/attention-and-mrt-predict-seventh-grade-math-above-prior-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Prior mathematical competence by spatial ability (MRT) interaction was only a trend, with competence slopes strongest in the high-MRT group](../claims/prior-competence-by-mrt-interaction-trend.md) [~M] — an instructional effect differs with it
+- [General ability, spatial abilities, and in-class attention together explain 83% of individual differences in mathematical competence from 6th to 9th grade](../claims/cognitive-factors-explain-83-percent-math-variance.md) [+W] — learners who differ on it differ in outcomes
+- [Spatial abilities and in-class attention each uniquely predict mathematical competence from 6th to 9th grade, controlling general ability](../claims/spatial-and-attention-unique-predictors-math.md) [+W] — learners who differ on it differ in outcomes
+- [Spatial ability predicts algebra word problem performance above and beyond its general relation to mathematics ability](../claims/spatial-predicts-algebra-word-problems-specifically.md) [+W] — learners who differ on it differ in outcomes
+- [The spatial pathway to mathematical competence is relatively more important for boys and the in-class attention pathway for girls, confirming the differential contributions hypothesis](../claims/differential-contributions-pathways-confirmed.md) [~W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

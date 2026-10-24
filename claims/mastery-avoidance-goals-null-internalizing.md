@@ -71,3 +71,4 @@ Random-effects meta-analysis for mastery-avoidance goals and depression (Table 3
 - [The goal–internalizing relations are moderated by goal terminology, goal setting, education level, goal model, and cultural context](moderators-achievement-goals-internalizing.md) — related
 - [Mastery-approach goals are negatively related to anxiety (r = −.10) across 34 samples](mastery-approach-goals-negative-anxiety-meta.md) — related
 - [Mastery-avoidance goals show no significant association with academic dishonesty](mastery-avoidance-null-dishonesty.md) — related
+- [Higher trait depression, anxiety, and negative emotionality are associated with setting higher baseline goals (Study 1)](trait-negative-emotionality-higher-goal-levels.md) — related

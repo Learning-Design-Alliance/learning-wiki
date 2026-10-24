@@ -51,3 +51,4 @@ Post hoc descriptive comparison of pre-monitoring and confidence judgments. "The
 - [All children in the study showed adequate metacognitive processes before and during test taking](all-children-adequate-metacognitive-processes-test-taking.md) — related
 - [In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority](tts-narration-equivalent-instructor-voice-retrospective.md) — related
 - [Monitoring accuracy interventions are more effective for retrospective confidence judgments than for judgments of learning](interventions-more-effective-rcj-than-jol.md) — related
+- [Children judge correctly at a high rate on two-alternative concrete judgment items even in the youngest age groups](alternative-judgment-test-young-groups-high-accuracy.md) — related

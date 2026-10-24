@@ -52,3 +52,4 @@ In Experiment 2, verbal number knowledge was assessed by asking which of two ver
 - [Symbol mastery accounts for the association between non-symbolic arithmetic and school mathematics achievement in hierarchical regression](symbol-mastery-mediates-nonsymbolic-math-link.md) — related
 - [Visuo-motor integration and Arabic-numeral knowledge also longitudinally predict kindergarten arithmetic](visuo-motor-integration-and-arabic-numerals-predict-arithmetic.md) — related
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
+- [School-entry assessment of numerosity judgments and Arabic number knowledge may identify children at risk of arithmetic difficulties](school-entry-numerosity-number-knowledge-risk-screening.md) — related

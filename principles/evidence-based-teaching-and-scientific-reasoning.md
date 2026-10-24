@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (19 for, 13 mixed, 2 against) · 33 studies (9 review, 7 theoretical, 6 causal, 6 associational, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 33 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (19 for, 14 mixed, 2 against) · 34 studies (9 review, 7 associational, 7 theoretical, 6 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 34 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -187,6 +187,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - [About one-third of surveyed educators report that research is not localized enough to guide their school problems](../claims/educators-find-research-insufficiently-localized.md) [~W]
 - [Publication bias is present to a varying degree, with published studies reporting larger belief and student-behavior effects than unpublished studies](../claims/publication-bias-beliefs-student-behavior.md) [~W]
 - [Included reports are methodologically robust overall but weak on implementation fidelity, which was assessed in only about half of the programs](../claims/asp-reviews-fidelity-weakness.md) [~W]
+- [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](../claims/conclusions-rest-on-sixty-five-individual-cases.md) [~W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

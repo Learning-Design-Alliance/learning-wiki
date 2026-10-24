@@ -47,6 +47,7 @@ The article recommends early identification of math risk through assessment of s
 ## Related Strategies
 
 - [Use the SYMP Test as a quick screening measure to identify children at risk for mathematical difficulties or dyscalculia](symp-screening-at-risk-children-strategy.md)
+- [Early identification battery for children at risk for long-term mathematics difficulties](early-math-risk-identification-battery.md)
 
 ## Examples
 -

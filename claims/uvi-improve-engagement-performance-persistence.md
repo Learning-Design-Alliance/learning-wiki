@@ -54,3 +54,4 @@ Narrative review attributing this finding to Harackiewicz et al. (2016) and subs
 - [Attribution reframing interventions improved outcomes for struggling students (review-reported)](attribution-reframing-improves-struggling-student-outcomes.md) — related
 - [Utility-value interventions improve grades, with the largest gains for first-generation and underrepresented minority students, and can improve STEM persistence years later](utility-value-interventions-improve-grades-and-persistence.md) — a narrower finding that bears on this claim
 - [Class-aggregated perceived teacher value messages positively predict students' subsequent expectancy and utility value, but not lower effort cost](l2-teacher-value-messages-predict-expectancy-utility-value.md) — related
+- [End-of-course interest in biology and introductory biology grades each predicted lower likelihood of leaving biomedical fields](end-of-course-interest-and-grades-predict-biomedical-attrition.md) — related

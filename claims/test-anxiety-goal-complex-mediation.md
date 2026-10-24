@@ -53,3 +53,4 @@ The review reports Elliot and McGregor's (1999) undergraduate study measuring tr
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — a broader claim this one bears on
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related
 - [An emotion-control strategy is expected to lower state anxiety early in training, with a stronger negative relationship for trainees high in trait anxiety](emotion-control-lowers-state-anxiety-trait-moderation.md) — related
+- [Higher trait depression, anxiety, and negative emotionality are associated with setting higher baseline goals (Study 1)](trait-negative-emotionality-higher-goal-levels.md) — related

@@ -54,3 +54,4 @@ The brief describes this documented misconception, citing Carpenter et al. (2003
 - [Relational understandings of the equals sign are associated with middle grades mathematics success](relational-equals-sign-understanding-middle-grades-success.md) — related
 - [Across seven kindergarten equivalence lessons, the teacher's sides-of-equation gesture (GSIDES) was coded 38 times, the most of any language or gesture code](gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons.md) — related
 - [Only low-working-memory-capacity students benefited from making pointing gestures when explaining number equations (review attributes this to Marstaller & Burianová, 2013)](low-wmc-students-benefit-from-pointing-gestures.md) — related
+- [Students' knowledge of equals sign definitions relates to their equation-solving performance at the student level](definition-relates-equation-solving.md) — related

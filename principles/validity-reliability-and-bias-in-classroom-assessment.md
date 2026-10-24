@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 244 claims (102 for, 126 mixed, 16 against) · 181 studies (64 associational, 44 design, 26 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 16 of 181 report an effect size · 238 claims rest on one study
+> **Evidence** · 251 claims (106 for, 129 mixed, 16 against) · 183 studies (65 associational, 45 design, 26 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 183 report an effect size · 245 claims rest on one study
 
 ## Conditional relationship
 
@@ -318,6 +318,13 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [SEEQ-S class-average ratings show strong aggregation reliability and high internal consistency, with somewhat lower internal consistency for TEEQ-S](../claims/seeq-s-class-mean-reliability-iccs-omega.md) [+W]
 - [The student growth measure used as criterion is supported by a substantial correlation with course grades (r = .68) reported in prior work](../claims/student-growth-measure-grade-correlation-prior-work.md) [+W]
 - [The Binet-Simon scale accurately graded fairly minute individual differences in mental ability within same-age groups, as validated against teacher and principal judgments](../claims/binet-simon-grades-individual-differences.md) [~W]
+- [A free-reproduction comprehension test (Brown) is not a valid measure of comprehension](../claims/brown-free-reproduction-invalid-comprehension-measure.md) [+W]
+- [The Burgess test correlates more highly with rate and comprehension composites (0.82 and 0.80) than any other single test, and pairs well with the Thorndike-McCall](../claims/burgess-high-composite-correlations-team-with-thorndike-mccall.md) [+W]
+- [Rate tests that mechanically control comprehension yield more reliable results than uncontrolled rate tests](../claims/comprehension-controlled-rate-tests-more-reliable.md) [+W]
+- [Class graphs from the test are judged sufficiently reliable, while individual graphs are usefully suggestive but the least reliable conclusion](../claims/class-graphs-reliable-individual-graphs-suggestive.md) [~W]
+- [The Thorndike-McCall correlates about 0.50 with other single comprehension tests and 0.69 with a composite of group intelligence tests](../claims/thorndike-mccall-correlations-comprehension-intelligence.md) [~W]
+- [The test's exercises were validated by six expert judges who reached practical agreement after modification](../claims/six-judge-validity-agreement-test-exercises.md) [+W]
+- [A single Thorndike-McCall administration deviates about 0.31 of a school year from the five-test composite; measuring monthly progress requires composites of 3 or 4 tests](../claims/single-test-deviation-composite-three-four-tests-monthly-progress.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

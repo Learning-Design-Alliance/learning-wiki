@@ -55,3 +55,4 @@ In the final longitudinal path model, counting and number knowledge at t2 predic
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](numeracy-measurable-54-months-three-competencies.md) — related
 - [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related
 - [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](kindergarten-closure-numeracy-loss.md) — related
+- [Number knowledge and numerosity discrimination are unique longitudinal predictors of arithmetic development over the first year of formal education](number-knowledge-numerosity-unique-predictors-arithmetic-growth.md) — related

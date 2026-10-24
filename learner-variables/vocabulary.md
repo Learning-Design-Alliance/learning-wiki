@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (64 show a difference, 12 mixed, 10 no difference) · 65 studies (21 associational, 20 causal, 13 quant-synthesis, 6 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 17 of 65 report an effect size · 83 claims rest on one study
+> **Evidence** · 87 claims (65 show a difference, 12 mixed, 10 no difference) · 66 studies (22 associational, 20 causal, 13 quant-synthesis, 6 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 17 of 66 report an effect size · 84 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -127,6 +127,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [In a double mediation path model, RCR is associated with listening comprehension, which is associated with vocabulary, with the direct vocabulary-to-RCR effect fully mediated](../claims/path-model-lc-vocabulary-rcr.md) [+W] — learners who differ on it differ in outcomes
 - [Grade 1 and Grade 2 domain-specific vocabulary knowledge explained 69% of the MORE intervention's treatment effect on Grade 2 domain-specific reading comprehension](../claims/vocabulary-mediation-69-percent-treatment-effect.md) [+M] — learners who differ on it differ in outcomes
 - [Grade 1 vocabulary carried the significant mediated pathway, while treatment showed no significant direct path to Grade 2 vocabulary](../claims/grade1-vocabulary-significant-grade2-not.md) [~M] — learners who differ on it differ in outcomes
+- [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](../claims/discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

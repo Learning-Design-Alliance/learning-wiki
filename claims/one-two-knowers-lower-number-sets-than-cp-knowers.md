@@ -48,3 +48,4 @@ Longitudinal comparison of knower-level groups within the 112-child sample; one-
 ## Related Claims
 - [Preschoolers' cardinal knowledge predicts fluent processing of symbolic and nonsymbolic magnitudes on the kindergarten number sets test two years later](preschool-cardinal-knowledge-predicts-kindergarten-number-sets-fluency.md) — a broader claim this one bears on
 - [Preschoolers' implicit understanding of arithmetic (nonverbal calculation) predicts later number sets fluency above and beyond cardinal knowledge](preschool-nonverbal-calculation-predicts-number-sets-fluency.md) — related
+- [Numeral recognition is the strongest predictor of early cardinal principle knower status, with a 1 SD increase yielding a 3.5-fold increase in odds](numeral-recognition-predicts-early-cpk.md) — related

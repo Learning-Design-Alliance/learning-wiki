@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (131 show a difference, 35 mixed, 25 no difference) · 137 studies (37 causal, 36 associational, 32 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 26 of 137 report an effect size · 182 claims rest on one study
+> **Evidence** · 192 claims (132 show a difference, 35 mixed, 25 no difference) · 138 studies (37 causal, 37 associational, 32 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 26 of 138 report an effect size · 183 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -240,6 +240,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Indirect effects via executive functions hold for CPT inhibition, sustained attention, and delay of gratification indicators but not the Day-Night Stroop](../claims/stroop-indicator-mediation-nonsignificant.md) [~M] — learners who differ on it differ in outcomes
 - [Mothers' early autonomy support uniquely predicts children's executive functions at 54 months over and above warmth, cognitive stimulation, and covariates](../claims/autonomy-support-predicts-executive-functions-54-months.md) [+M] — instruction changes it
 - [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](../claims/ef-mediation-robust-to-temperament-vocabulary.md) [+M] — learners who differ on it differ in outcomes
+- [Deficits in executive function and letter recognition predict delayed cardinal principle knower status](../claims/executive-function-letter-recognition-predict-delayed-cpk.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

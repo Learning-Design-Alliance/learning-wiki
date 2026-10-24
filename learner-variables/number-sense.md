@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (64 show a difference, 18 mixed, 10 no difference) · 37 studies (21 associational, 8 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 14 of 37 report an effect size · 90 claims rest on one study
+> **Evidence** · 94 claims (66 show a difference, 18 mixed, 10 no difference) · 38 studies (22 associational, 8 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 14 of 38 report an effect size · 92 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -127,6 +127,8 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders](../claims/supported-self-explaining-improves-magnitude-comparison-accuracy.md) [+W] — instruction changes it
 - [Supported self-explaining produces higher-quality explanations of fraction magnitude differences than a word-problem component](../claims/supported-self-explaining-improves-explanation-quality.md) [+M] — instruction changes it
 - [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](../claims/measurement-fraction-intervention-beats-control-generalized-knowledge.md) [+M] — instruction changes it
+- [Number knowledge and numerosity discrimination are unique longitudinal predictors of arithmetic development over the first year of formal education](../claims/number-knowledge-numerosity-unique-predictors-arithmetic-growth.md) [+M] — learners who differ on it differ in outcomes
+- [School-entry assessment of numerosity judgments and Arabic number knowledge may identify children at risk of arithmetic difficulties](../claims/school-entry-numerosity-number-knowledge-risk-screening.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

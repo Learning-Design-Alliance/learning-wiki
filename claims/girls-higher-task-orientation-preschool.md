@@ -51,3 +51,4 @@ In the longitudinal sample of 467 preschoolers, girls had significantly higher t
 - [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md) — related
 - [Child gender predicts self-regulation trajectory membership, with girls more likely to be earlier developers](gender-predicts-self-regulation-trajectory.md) — related
 - [Fitness–attention relationships are stronger in boys than girls, with higher explained variance in boys' regression models](gender-moderates-fitness-attention-links.md) — related
+- [The spatial pathway to mathematical competence is relatively more important for boys and the in-class attention pathway for girls, confirming the differential contributions hypothesis](differential-contributions-pathways-confirmed.md) — related

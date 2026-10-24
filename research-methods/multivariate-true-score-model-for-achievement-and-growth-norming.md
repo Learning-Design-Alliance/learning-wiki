@@ -42,7 +42,8 @@ The report uses a model-based approach in which observed scores are decomposed i
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](../claims/true-score-correlations-above-090.md) [+W]
 
 ## Related Research Methods
--
+
+- [Mental-age score conversion and norming method](mental-age-score-conversion-and-norming-method.md)
 
 ## Key Sources
 - Wei He. (2022). Achievement and Growth Norms for Course-Specific MAP® Growth™ Tests. NWEA Research Report. https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-tests/
