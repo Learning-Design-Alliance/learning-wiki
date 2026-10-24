@@ -61,3 +61,4 @@ Group randomized controlled effectiveness trial in 37 Maryland elementary school
 - [Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools](bullying-rejection-increase-approaching-middle-school.md) — related
 - [Sex and special education status did not significantly moderate SWPBIS effects on teacher-rated bullying and peer rejection](swpbis-main-effects-robust-across-demographics.md) — related
 - [A two-year quasi-experimental study in Hong Kong found full-implementation restorative whole-school approach students reported significantly less bullying and larger empathy and self-esteem gains than control students](rwsa-hong-kong-less-bullying-empathy-gains.md) — related
+- [Poorer school climate is associated with greater self-reported bullying behaviour, independently of child- and school-level demographics](school-climate-predicts-bullying.md) — related

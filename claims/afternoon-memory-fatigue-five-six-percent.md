@@ -49,3 +49,4 @@ Controlled two-group comparison after equal practice: two initially equal groups
 - [In a London boys' school class, the group working problematic arithmetic later in the morning improved about 5 per cent more than the group working it early](later-morning-group-improves-more-boys-school.md) — related
 - [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — a broader claim this one bears on
+- [During the final fatigue test, time per problem rose gradually, then markedly, with no obvious correlation between time and accuracy](fatigue-time-rise-no-accuracy-correlation.md) — related

@@ -51,3 +51,4 @@ Latent profile analysis of survey data from 191 German primary-school teachers (
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
+- [Interest profiles combine homogeneous and heterogeneous patterns across the six dimensions](interest-profiles-homogeneous-and-heterogeneous-patterns.md) — related

@@ -41394,5 +41394,73 @@
  "test-format\tfree narrative report\tinterrogatory question-and-answer report": {
   "label": "free narrative report vs interrogatory question-and-answer report",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tTriple-Focus intervention in 2nd grade\tcontrol participants receiving usual school instruction": {
+  "label": "explicit instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTriple-Focus intervention in 3rd grade\tcontrol participants receiving usual school instruction": {
+  "label": "explicit instruction vs usual instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-directed combined visual, motor-articulatory, and auditory spelling\tpredominantly visual, mostly silent self-study": {
+  "label": "teacher-directed instruction vs self-study",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-directed visual, motor-articulatory, and auditory spelling\tpredominantly visual, relatively silent self-study": {
+  "label": "teacher-directed instruction vs self-study",
+  "treatment_is_a": true
+ },
+ "practice-amount\t15 days of one-hour daily mental-multiplication practice\tearlier practice stages": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t15 days of one-hour-daily practice\tearlier practice stages": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t40 minutes of practice with the combined spelling method\tno practice before the preliminary test": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t40 minutes of practice with the predominantly visual method\tno practice before the preliminary test": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore UV writing assignments\tfewer UV writing assignments": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tUV writing assignment in the final unit\tcontrol writing assignment in the final unit": {
+  "label": "utility-value writing prompts vs control writing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tUV writing assignment in the final unit for higher-performing students\tcontrol writing assignment in the final unit for higher-performing students": {
+  "label": "utility-value writing prompts vs control writing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tone or more utility-value writing assignments\tno utility-value assignments": {
+  "label": "utility-value writing prompts vs no writing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tutility-value writing assignment\tcourse-material summary assignment": {
+  "label": "utility-value writing prompts vs summary-writing prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tutility-value writing assignments\tsummary writing assignments": {
+  "label": "utility-value writing prompts vs summary-writing prompts",
+  "treatment_is_a": true
+ },
+ "spacing\tnot immediately switching attention to something else after learning\timmediately giving attention to something else": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": true
+ },
+ "spacing\trepetitions distributed in time\tmany repetitions in succession": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\trepetitions well distributed in time\tmany repetitions in succession": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
  }
 }

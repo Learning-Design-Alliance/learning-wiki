@@ -51,3 +51,4 @@ Comparative analysis of first and second test records of drill and non-drill sec
 - [No sex difference in the effect of drill on arithmetic improvement](no-sex-difference-drill-effect.md) — related
 - [Drill effect is greatest on the poorest portion of the class and decreases class variability](drill-effect-greatest-on-poorest-pupils.md) — a narrower finding that bears on this claim
 - [Second-study results corroborate the first study despite a shorter drill period of 20 versus 30 recitations](drill-results-corroborate-first-study.md) — related
+- [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](distributed-drill-repetitions-better-than-succession.md) — related

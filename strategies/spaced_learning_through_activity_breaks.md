@@ -57,10 +57,12 @@ Spacing exploits the fact that memory strengthens when retrieval is required aft
 5. At the curriculum level, revisit each topic in successive sessions at expanding intervals rather than covering it once in a single block.
 
 ## Related Strategies
+
 - Retrieval practice — the mechanism that converts spacing time into memory strength; spacing without retrieval yields far smaller gains
 - Interleaving — a complementary scheduling strategy that varies the *order* of topics rather than the timing
 - Pomodoro-style timeboxing — a work-routine adaptation of the same chunk-and-break structure
 - [Active Recess](active-recess.md) — structured physical movement that can serve as the break component in classroom implementations
+- [Graded-difficulty probe tests interspersed in a fixed work period to locate the difficulty level a fatigued performer can still manage](graded-difficulty-probe-tests-fatigue.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — retrieval practice at spaced intervals is what drives the retention benefit

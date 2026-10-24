@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 100 claims (61 for, 38 mixed, 1 against) · 94 studies (28 review, 22 causal, 11 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 12 of 94 report an effect size · 86 claims rest on one study
+> **Evidence** · 107 claims (67 for, 39 mixed, 1 against) · 95 studies (28 review, 23 causal, 11 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 13 of 95 report an effect size · 93 claims rest on one study
 
 ## Conditional relationship
 
@@ -207,6 +207,8 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [In the prior researcher-delivered efficacy trial, the quotations condition produced stronger utility-value effects than the text condition](../claims/moma-efficacy-quotations-beat-text-condition.md) [+W] — attached 2026-10-23 from Gaspard et al. (2021), which proposed "Combine direct communication of utility value with relevance-inducing reflection tasks and an expectancy component to reach more students".
 - [A classroom-delivered relevance intervention raised ninth-graders' utility value at 3-month follow-up in both delivery conditions, despite an average decline in self-reported utility value](../claims/moma-utility-value-effectiveness-scale.md) [+M] — attached 2026-10-23 from Gaspard et al. (2021), which proposed "Combine direct communication of utility value with relevance-inducing reflection tasks and an expectancy component to reach more students".
 - [In a college biology course, students assigned a variety of self- and other-focused utility-value assignments earned higher course grades than students who wrote the same assignment type three times](../claims/uv-variety-structure-higher-grades.md) [+W] — attached 2026-10-23 from Priniski et al. (2019), which proposed "Combine self-focused and other-focused utility-value assignments through variety or choice rather than repeating one assignment type".
+- [UV dosage shows a nonmonotonic pattern: one or three UV essays outperform two for grades and continuation](../claims/uv-dosage-one-or-three-doses-effective.md) [+W] — attached 2026-10-24 from Canning et al. (2018), which proposed "Time utility-value writing assignments to students' performance history: early for struggling students, late for high performers, with full dosage for the broadest benefit"; tests this page's relationship.
+- [A UV essay in the final unit of the course promotes enrollment in the second biology course, especially for high-performing students](../claims/uv-third-essay-promotes-continuation-for-high-performers.md) [+W] — attached 2026-10-24 from Canning et al. (2018), which proposed "Time utility-value writing assignments to students' performance history: early for struggling students, late for high performers, with full dosage for the broadest benefit"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -235,6 +237,11 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [~W]
 - [UV writing assignments showed more personal focus, more social and cognitive process content, and higher articulated utility value than control summary assignments](../claims/uv-writing-style-content-versus-control.md) [+W]
 - [Students in the self-first variety condition articulated higher utility value than students in the other-first variety condition, indicating quality of utility connections depends on assignment sequence rather than type](../claims/uv-self-first-higher-articulated-utility.md) [+W]
+- [A utility-value writing intervention increases continuation to the second course of the biology sequence](../claims/uv-intervention-increases-sequence-continuation.md) [+W]
+- [The UV manipulation check: UV assignments elicit higher-quality utility-value connections than control summaries, and quality rises with more UV essays](../claims/uv-assignments-raise-articulated-utility-value.md) [+W]
+- [A utility-value writing intervention increases STEM major persistence across the semester](../claims/uv-intervention-increases-stem-major-persistence.md) [+W]
+- [A utility-value writing intervention increases course grades in introductory biology relative to a summarizing control](../claims/uv-intervention-increases-biology-grades.md) [+W]
+- [Biology course grade partially mediates the UV intervention's effects on course continuation and STEM major persistence](../claims/grades-mediate-uv-retention-effects.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

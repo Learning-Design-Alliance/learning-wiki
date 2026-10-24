@@ -72,3 +72,4 @@ The review reports, citing Bukowski et al. (2017, 2020), that low-SES children "
 - [Low warmth trajectories predict lower achievement gains for boys but not for girls](warmth-trajectories-boys-not-girls.md) — related
 - [Children differ substantially in peer-nominated prosocial behavior in elementary classrooms](individual-differences-prosocial-nominations.md) — related
 - [In the early intervention sample, boys increased more in aggression than girls, but intervention effects did not differ by gender](gender-aggression-increase-no-treatment-difference.md) — related
+- [Binet's norms were worked out for Paris working-class children and may need revision for other social classes and regions](binet-norms-paris-working-class-need-revision.md) — related

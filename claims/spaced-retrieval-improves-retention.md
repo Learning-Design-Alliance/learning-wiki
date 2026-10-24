@@ -146,3 +146,4 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](spacing-increases-calculus-retention.md) — a narrower finding that bears on this claim
 - [Spaced quizzing reduces overall performance on calculus practice quizzes relative to massed quizzing](spacing-reduces-quiz-practice-performance.md) — related
+- [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](distributed-drill-repetitions-better-than-succession.md) — a narrower finding that bears on this claim

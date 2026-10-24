@@ -49,3 +49,4 @@ The review describes Offner's discussion of the "laws of fatigue" as showing how
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Elementary school children show substantial day-to-day within-person fluctuations in sleep quality, time in bed, daytime tiredness, and working memory performance](children-daily-fluctuations-sleep-and-working-memory.md) — related
 - [Subjective symptoms are an unreliable measure of fatigue, and physiological tests have not yet yielded a reliable measurement method (Offner)](unreliable-subjective-physiological-fatigue-measures.md) — related
+- [Studies on the mental fatigue of school children assist in arranging the daily program, including order of subjects and recess periods](fatigue-studies-inform-daily-program.md) — a broader claim this one bears on

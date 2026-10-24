@@ -57,9 +57,11 @@ The technique operationalizes two well-supported ideas: that sustained attention
 5. Log completed intervals and reflect briefly — a [Check-In](../elements/check-in.md) — on what blocked or enabled focus.
 
 ## Related Strategies
+
 - [Spaced Practice](distributed-practice.md) — pomodoros schedule *when* to work; spacing schedules *what to revisit when*; the two compose naturally in revision planning
 - [Time Boxing](time-boxing.md) — the general scheduling practice of which Pomodoro is a fixed-interval special case
 - [Goal Setting](../elements/goal-setting.md) — task selection per interval is a micro-goal-setting act
+- [Graded-difficulty probe tests interspersed in a fixed work period to locate the difficulty level a fatigued performer can still manage](graded-difficulty-probe-tests-fatigue.md)
 
 ## Examples
 - **Cirillo's original method** ([pomodorotechnique.com](https://www.pomodorotechnique.com)) — the canonical analog-timer workflow with interruption logging and daily pomodoro counts.

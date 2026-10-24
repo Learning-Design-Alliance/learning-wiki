@@ -49,3 +49,4 @@ The article reports, citing the Yerkes and Wood article's Table III, that a "coe
 - [The probable error of a score on the language error tests is 2.24](wilson-probable-error-224.md) — related
 - [The Yerkes-Bridges Point Scale scoring method fails entirely to accomplish its stated purpose of bringing out the full value of the test material.](yerkes-bridges-point-scale-fails-stated-purpose.md) — related
 - [IQ is only approximately constant across successive examinations, with first-to-fifth IQ correlation of +0.82 and prediction error of 4 to 7 points](iq-approximately-constant-prediction-error.md) — related
+- [Psychological studies of children's endowments show schools must set different aims and materials for different classes of children, and have broken up lock-step promotion](aims-and-materials-matched-to-endowments.md) — related

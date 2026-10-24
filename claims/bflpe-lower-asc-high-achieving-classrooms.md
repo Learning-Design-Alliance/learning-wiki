@@ -54,3 +54,4 @@ The article reports the BFLPE as a replicated contextual effect on academic self
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
 - [The BFLPE is domain-specific: school-average achievement affects academic self-concept but not global self-esteem or non-academic self-concept](bflpe-domain-specificity-asc.md) — related
 - [Class-average achievement and chosen upward comparisons each make substantial, unique negative contributions to math self-beliefs when modeled simultaneously](bflpe-generalized-and-specific-others-unique-effects.md) — related
+- [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](big-fish-little-pond-only-self-concepts-end-of-schooling.md) — related

@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 68 claims (37 for, 29 mixed, 2 against) · 46 studies (25 causal, 10 review, 9 quant-synthesis, 2 theoretical), `q1`–`q4` · 14 of 46 report an effect size · 61 claims rest on one study
+> **Evidence** · 69 claims (38 for, 29 mixed, 2 against) · 47 studies (25 causal, 10 review, 9 quant-synthesis, 3 theoretical), `q1`–`q4` · 14 of 47 report an effect size · 62 claims rest on one study
 
 ## Description
 
@@ -469,6 +469,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](../claims/spaced-practice-optimal-gaps-between-presentations.md) [+W]
 - [Evidence for lasting learning is mixed at 8-week delays: only interleaving, not spacing or retrieval practice in drawing contexts, was supported](../claims/eight-week-delay-evidence-mixed.md) [-W]
 - [The more the substitution practice was distributed over days, the larger the practice gains and the more pronounced the negative transfer effects](../claims/kline-distributed-practice-amplifies-transfer-effects.md) [~W]
+- [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](../claims/distributed-drill-repetitions-better-than-succession.md) [+W]
 
 ## Key Sources
 

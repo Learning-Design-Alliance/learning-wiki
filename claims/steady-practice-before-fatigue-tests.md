@@ -49,3 +49,4 @@ Analysis of preliminary test results from the whole Standard VI class. The fifth
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](pupils-improve-with-practice-no-fatigue-effect.md) — related
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — related
 - [Tests B and C correlate 0.901 when given to the same pupils in grades III to VIII](wilson-tests-b-c-correlation-0901.md) — related
+- [During the final fatigue test, time per problem rose gradually, then markedly, with no obvious correlation between time and accuracy](fatigue-time-rise-no-accuracy-correlation.md) — related

@@ -52,3 +52,4 @@ A free recall experiment with 24 Loyola University students; items presented onc
 - [In Experiment 1, the type-of-recall by varied-constant by distribution interaction was significant, with a massed-distributed effect only in constant cued recall and a distribution effect in both free-recall conditions](cued-free-recall-interaction-varied-constant-distribution.md) — related
 - [Across item types, items given high recall-likelihood ratings are recalled with greater probability than items given lower ratings](jol-predicts-relative-recall-within-types.md) — related
 - [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](preschoolers-no-spacing-effect-free-recall.md) — reports the opposite
+- [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](distributed-drill-repetitions-better-than-succession.md) — a narrower finding that bears on this claim

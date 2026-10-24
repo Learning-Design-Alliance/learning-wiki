@@ -67,3 +67,4 @@ Morning-versus-afternoon correct-judgment totals in the Freeland and Woodland St
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
 - [The digit memory-span increases with age rather than with grade-promotion measures of intelligence, reaching a limit of six digits for most grammar and high school pupils](memory-span-increases-with-age-not-intelligence.md) — related
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — related
+- [Fifteen days of one-hour daily practice produced fairly steady four-place by four-place mental multiplication](practice-steady-four-by-four-multiplication.md) — related

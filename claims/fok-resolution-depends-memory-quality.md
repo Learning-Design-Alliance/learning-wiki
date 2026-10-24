@@ -64,3 +64,4 @@ In the same episodic FOK experiment, older adults tested with a 48-hour delay an
 ## Related Claims
 - [FOK resolution for general-knowledge information is similar for younger and older adults, whereas the literature argues for a deficit in FOK resolution for episodic memory tasks in older adults](fok-resolution-generalknowledge-spared-episodic-mixed.md) — related
 - [The literature is mixed on age differences in the accuracy of retrospective confidence judgments during recognition memory tests, with older adults sometimes producing more high-confidence false alarms and poorer resolution with deceptive lures](mixed-age-differences-confidence-judgment-resolution.md) — related
+- [Knowledge of individual differences in children's memories should shape recitation questioning, and psychology's analysis of school subjects underlies teaching methods](individual-differences-shape-recitations.md) — related

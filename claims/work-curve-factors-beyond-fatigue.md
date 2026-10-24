@@ -48,3 +48,5 @@ The review summarizes Offner's analysis of factors other than fatigue that condi
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — related
 - [Not every hour of study time is equally productive; the benefit of an additional hour depends on the student's position on their learning curve](comsa-study-hours-unequal-productivity.md) — related
 - [The adaptive mode showed a progressive per-question learning-delta increase across the session (from Δ = 3.16 on Q1 to Δ = 19.97 on Q9), suggesting a warm-up effect as participants learned the system](adaptive-mode-per-question-delta-increase-warm-up.md) — related
+- [Under extreme fatigue, mental multiplication efficiency ends at a definite, relatively abruptly appearing point rather than tailing off by degrees](fatigue-abrupt-end-mental-multiplication.md) — related
+- [Studies on the mental fatigue of school children assist in arranging the daily program, including order of subjects and recess periods](fatigue-studies-inform-daily-program.md) — related

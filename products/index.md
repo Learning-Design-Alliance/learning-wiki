@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1883 entries** · 0 stable · 1883 in review · 0 drafts
+**1886 entries** · 0 stable · 1886 in review · 0 drafts
 
 ---
 
@@ -148,6 +148,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Beacon](beacon.md) - Beacon is a web-based conversational academic-support system developed by Andy Gray that uses retrieval-augmented generation over approved course teaching materials to assist undergraduate computing students.
 * [Becoming Effective Learners Student Survey (BEL-S)](becoming-effective-learners-student-survey-bel-s.md) - The BEL-S is a Rasch-based student self-report survey developed by Camille A.
 * [Berea College Promise Neighborhood initiative](berea-college-promise-neighborhood-initiative.md) - A Berea College–run place-based education initiative serving students and communities across Clay, Jackson, and Owsley Counties in rural Appalachian Kentucky.
+* [Berlin end-of-schooling tracking dataset (2,155 students, 87 schools)](berlin-end-of-schooling-tracking-dataset-2155-students-87-schools.md) - A research dataset from Dumont et al.
 * [Bernauer and Tomei's integrated matrix of five faculty integrator quadrants](bernauer-and-tomeis-integrated-matrix-of-five-faculty-integrator-quadrants.md) - A higher-education faculty-development framework that organizes competencies, objectives, and teaching practices into five stages of pedagogical and technology integration, from apprentice to master integrator.
 * [Best Practice Framework for Online Safety Education](best-practice-framework-for-online-safety-education.md) - A national framework developed by Walsh et al.
 * [bettermarks](bettermarks.md) - bettermarks is a mathematics intelligent tutoring system that provides adaptive practice, detects learner errors and knowledge gaps, and assigns targeted learning materials for school students.
@@ -870,6 +871,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Large-scale dataset of authentic student–AI chat logs from six Technion courses](large-scale-dataset-of-authentic-studentai-chat-logs-from-six-technion-courses.md) - An anonymized, IRB-approved dataset of authentic undergraduate student–AI interaction logs collected across six Technion courses and released by Taelin Karidi et al.
 * [Large-scale field study dataset and code release for AI-generated exam evaluation](large-scale-field-study-dataset-and-code-release-for-ai-generated-exam-evaluation.md) - A publicly released dataset and code package containing field-study student responses, AI-generated and comparison exam materials, and analysis code for evaluating course-tailored exams, produced by Calvin Isley and colleagues.
 * [LaTA](lata.md) - LaTA is an open-source, on-premises four-stage LLM autograder for LaTeX-native STEM coursework, developed for instructor-managed automated grading and feedback.
+* [Latin Sentence Tests A, B, I, II and III with printed scale values](latin-sentence-tests-a-b-i-ii-and-iii-with-printed-scale-values.md) - A set of standardized Latin sentence-translation tests with printed scale values for assessing secondary-school pupils' accuracy in translating Latin.
 * [LAUNCH](launch.md) - A Chicago Public Schools professional-development programme that recruits, prepares, and supports aspiring principals through intensified leadership knowledge, skills, and experience.
 * [LAVAC](lavac.md) - LAVAC (Laboratoire Audio-Visuel Actif-Comparatif) is a networked multimedia language-laboratory system developed for language instruction, providing linked student terminals, courseware-authoring tools, multimedia courseware, and teacher tutoring controls.
 * [LC101](lc101.md) - LC101 is LaunchCode's free coding-course and paid-apprenticeship programme for preparing participants for software-development careers.
@@ -1749,6 +1751,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The Scaffolded AI Literacy (SAIL) framework](the-scaffolded-ai-literacy-sail-framework.md) - A Delphi-developed framework by MacCallum et al.
 * [The Scholastic Quotient (S. Q.)](the-scholastic-quotient-s-q.md) - A historical scholastic-ranking assessment formula devised by Cummins that weights pupils' A–D marks from school records to estimate and classify scholastic standing.
 * [the Toolkit](the-toolkit.md) - The Toolkit is a four-part framework created by its authors to help teachers plan, implement, and evaluate technology-based lessons.
+* [The Triple-Focus Program](the-triple-focus-program.md) - The Triple-Focus Program is a pull-out reading-disability intervention developed by Lovett and colleagues that combines PHAST decoding and comprehension strategy instruction with RAVE-O lexical enrichment.
 * [The Writing Road to Reading](the-writing-road-to-reading.md) - Spalding's The Writing Road to Reading is a comprehensive K–6 speech-to-print literacy curriculum developed and provided by Spalding Education International, integrating explicit instruction in phonemic awareness, phonics, spelling, writing, and reading comprehension.
 * [Thermos](thermos.md) - Thermos is a student-facing learning analytics dashboard developed to visualize motivation, engagement, group-work skills, and study progress while offering actionable self-regulation support and connection suggestions.
 * [Thinking Math!](thinking-math.md) - Innovamat's PreK–8 mathematics curriculum package combines socio-constructivist lessons, manipulative materials, student logbooks, digital planning and progress monitoring, adaptive practice, and professional development.

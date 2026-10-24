@@ -48,3 +48,4 @@ The article reports, citing Nelson, Benner, and Gonzalez (2003), a meta-analysis
 - [In the Nelson, Benner, & Gonzalez (2005) RCT, SSL produced statistically significant positive effects on all five alphabetics outcomes](ssl-nelson-benner-gonzalez-2005-significant-outcomes.md) — related
 - [Nonresponsiveness to kindergarten intervention is persistent and predicts school-identified reading problems through third grade](nonresponsiveness-persistent-predicts-disability.md) — related
 - [Nonresponsive students scored significantly lower than always responsive students on seven measures and higher on problem behavior](nonresponders-posthoc-pairwise-deficits.md) — related
+- [Individual differences predicted response: estimated IQ predicted growth during intervention on seven of eight outcomes, while vocabulary and visual sequential memory predicted growth during follow-up](individual-differences-predict-intervention-growth.md) — related

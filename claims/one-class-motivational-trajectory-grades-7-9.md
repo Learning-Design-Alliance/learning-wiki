@@ -47,3 +47,6 @@ Growth mixture modeling of 612 students across four time points (Grades 7–9) c
 - [Adolescents' physics and chemistry ability self-concept and task values from seventh to twelfth grade fall into seven distinct motivational trajectories rather than a single declining pattern](seven-physics-chemistry-motivation-trajectories.md) — related
 - [Math self-concept declined then leveled off (U-shaped), L1 self-concept declined slightly, math interest declined while L1 interest increased across Grades 7–9](domain-divergent-motivation-trends-lower-secondary.md) — related
 - [Negative cross-domain relations between math and L1 motivation were far more prevalent among girls than boys](girls-dimensional-comparison-cross-domain-relations.md) — related
+- [Interest profiles combine homogeneous and heterogeneous patterns across the six dimensions](interest-profiles-homogeneous-and-heterogeneous-patterns.md) — related
+- [Latent profile analyses of interest dimensions best support two nearly identical sets of six profiles at both time points](lpa-six-interest-profiles-two-time-points.md) — related
+- [Discrepancies hint at a novel and separate developmental trajectory of interests requiring further investigation](novel-separate-interest-development-trajectory.md) — related
