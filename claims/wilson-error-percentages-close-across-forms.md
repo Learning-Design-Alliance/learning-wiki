@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: wilson-1922
     resource: "https://doi.org/10.1037/h0064444"
-    title: "Wilson, G. M. (1922). Language error tests. Journal of Educational Psychology, 13(6), 341-349. https://doi.org/10.1037/h0064444"
+    title: "Wilson, G. M. (1922). Language error tests. *Journal of Educational Psychology, 13*(6), 341–349. [doi:10.1037/h0064444](https://doi.org/10.1037/h0064444)"
     author: Wilson, G. M.
     q: 2
     i: "?"

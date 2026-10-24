@@ -54,7 +54,7 @@ Geary, D. C., Hoard, M. K., Nugent, L., & Scofield, J. E. (2021). In-Class Atten
 
 `q2 · i?` · `associational · r2`
 
-Multilevel models (students nested in seven seventh-grade schools) with income and race controls confirmed both predictors at ps < .002; the three-way interaction was not significant and was dropped.
+Multilevel models (students recruited from six schools, with seventh-grade school as the level-2 unit) with family-income and race dummy variables as demographic covariates confirmed both predictors at ps < .002; the three-way interaction was not significant and was dropped.
 
 > "The results confirm the Bayes factors regarding the importance of in-class attention and spatial ability in predicting seventh-grade mathematics achievement, controlling prior achievement (ps < .002)."
 
