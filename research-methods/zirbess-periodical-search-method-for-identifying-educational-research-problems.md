@@ -30,4 +30,4 @@ The article describes a search procedure that reads recent issues of nine educat
 -
 
 ## Key Sources
-- Zirbes, L. (1922). Research problems raised in recent issues of educational periodicals. The Journal of Educational Psychology, 13(1), 1-6.
+- Zirbes, L. (1922). Research problems raised in recent issues of educational periodicals. The Journal of Educational Psychology, 13(1), 1-6. https://doi.org/10.1037/h0074413

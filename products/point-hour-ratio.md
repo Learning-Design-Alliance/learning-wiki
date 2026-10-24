@@ -27,4 +27,4 @@ A historical Ohio State University academic-standing index that weights registra
 -
 
 ## Key Sources
-- Bridges, J. W. (1920). The correlation between college grades and the Alpha intelligence tests. The Journal of Educational Psychology, 11(7), 361-369.
+- Bridges, J. W. (1920). The correlation between college grades and the Alpha intelligence tests. The Journal of Educational Psychology, 11(7), 361-369. https://doi.org/10.1037/h0071462
