@@ -48,3 +48,4 @@ Linear mixed model analysis of reaction times in the Posner cue task for the no-
 - [Neither muscle mass nor weekly training frequency is associated with reaction time across cue conditions in healthy male high-school students](muscle-mass-weekly-training-not-associated-rt.md) — related
 - [Later time-point of cognitive testing is associated with faster reaction times, with significantly slower RT in the morning](testing-time-point-associated-rt.md) — related
 - [A significant main effect of stimuli category exists on reaction time in the Posner cue task](main-effect-stimuli-category-rt.md) — related
+- [Musical people react more by involuntary movements to unexpected stimuli, but strongly motor individuals are as common among non-musical as musical people](motor-individuals-equally-common-musical-nonmusical.md) — related

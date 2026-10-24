@@ -46,3 +46,4 @@ Regression-based prediction analysis of the Iowa height data using the Pearson c
 - [Average-type children's percentage of final height attained by age 7 supports prediction of ultimate stature (70.3% for boys, 74.2% for girls)](height-percentage-final-growth-age-seven.md) — related
 - [Children maintain their relative height rank within a group from ages 4 to 18, with little crossing of growth curves](height-rank-stability-little-curve-crossing.md) — related
 - [Growth measurements at age ten predict stature at sixteen within about 2.5 centimeters and IQ over the same period within 6.3 points](childhood-growth-predicts-later-stature-and-iq.md) — related
+- [Cross-sectional measurements of children of the same age may yield spurious growth facts because of great individual differences](cross-sectional-growth-facts-may-be-spurious-individual-differences.md) — related

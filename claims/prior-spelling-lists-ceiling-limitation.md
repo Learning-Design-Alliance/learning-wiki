@@ -46,3 +46,4 @@ Methodological critique of earlier test construction, citing Buckingham's publis
 - [Grades overlap massively in spelling: on average 20.8% of pupils reach or exceed the median of the next grade above](grade-overlapping-in-spelling.md) — related
 - [Two 100-word dictionary-sampled spelling lists administered to the same pupil yield scores agreeing within a mean variation of 2.2 points](two-spelling-lists-mean-variation-2-2-points.md) — related
 - [The six 100-word spelling lists are practically identical in difficulty, differing from list 1 by .9 to 3.4 points](six-spelling-lists-equal-difficulty.md) — related
+- [Three factors make for overlapping between grades — test unreliability, unimportance of the function tested, and improper classification — and improper classification can be established only when the first two are ruled out](kelley-three-factors-overlapping.md) — related

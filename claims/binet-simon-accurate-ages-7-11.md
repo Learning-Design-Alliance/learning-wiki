@@ -68,3 +68,4 @@ The article's summary states the scale measured intelligence development from se
 - [The twelve-year tests of the Binet-Simon scale were unsatisfactory, with several individual tests too difficult for the children tested](binet-simon-twelve-year-tests-unsatisfactory.md) — related
 - [Psychology has helped develop methods for determining school-system efficiency, including pedagogical retardation statistics and measurement scales](retardation-statistics-and-scales-school-efficiency.md) — related
 - [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- [Taylor's Sheffield study suggests the Binet scale is broadly suitable for English children, though tests for ages 6 and 7 seem too easy and tests above 11 seem unsatisfactory.](sheffield-103-children-binet-suitable-english-ages-6-7-easy.md) — related

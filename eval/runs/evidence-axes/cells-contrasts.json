@@ -41730,5 +41730,29 @@
  "practice-amount\trepeated practice exposures\tinitial exposure period": {
   "label": "repeated practice vs initial exposure",
   "treatment_is_a": true
+ },
+ "practice-amount\t13 to 20 periods of repeated intensity-discrimination practice\tearlier performance or less practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in pitch discrimination\tbefore practice or less practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated intensity-discrimination exercises\tperformance before extended practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated intensity-of-sound discrimination practice\tearlier practice performance": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated practice on sound-intensity discrimination\tearlier performance before extended practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "test-format\tTest 2: questions and exercises\tTest 1: learning and reproduction": {
+  "label": "Questions and exercises vs learning and reproduction",
+  "treatment_is_a": true
  }
 }

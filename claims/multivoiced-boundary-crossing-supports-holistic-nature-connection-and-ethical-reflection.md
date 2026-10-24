@@ -56,3 +56,4 @@ This is a single, small, intensive case (6 students, one week, one school) with 
 - [All families took photographs at each microsite as evidence of their observation, with only one family personalizing photos by including children.](photo-taking-evidence-of-observation.md) — related
 - [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — related
 - [Openness to material feedback is proposed as the single organizing dimension behind the FRA differences between science and generative models](openness-material-feedback-organizing-dimension.md) — related
+- [Blind and seeing high-school pupils show about the same sensory discrimination thresholds across six touch, hearing, and kinaesthetic measures](blind-seeing-equal-sensory-thresholds-six-tests.md) — related

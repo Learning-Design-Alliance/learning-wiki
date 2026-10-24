@@ -47,3 +47,4 @@ Independent samples t tests on the 188-participant sample (Table 2): male M = 3.
 - [Adult learners score much higher in autonomous than controlled regulation, with autonomous regulation mean 3.44 versus controlled 2.42](adults-higher-autonomous-than-controlled-regulation.md) — related
 - [Adult learners below secondary education show higher controlled regulation and lower academic self-concept and learning strategies than those above it](educational-level-controlled-regulation-self-concept.md) — related
 - [Women were less accurate than men on the opposites tests but were less mature and less advanced in scholarship](sex-differences-opposites-accuracy.md) — related
+- [In Study 1, women reported more epistemic conflict regulation than men](gender-difference-epistemic-conflict-regulation.md) — related

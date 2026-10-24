@@ -46,3 +46,4 @@ Administration of Latin Sentence Test A in seventeen schools in June 1916 and 19
 - [Some sentences show imperfect difficulty graduation, with inversions in per cent correct across years](latin-sentence-difficulty-graduation-inversions.md) — related
 - [Marked year-to-year overlap in Latin sentence translation ability: substantial percentages of pupils reach or exceed the medians of later years](latin-translation-year-overlap-percentages.md) — related
 - [Latin translation ability varies strikingly across schools, with first-year pupils in some schools outperforming third- and fourth-year pupils in others](latin-translation-school-variability-overlap.md) — related
+- [Question difficulty was scored as percentage of correctness, assumed inversely related to difficulty](percentage-correctness-inverse-difficulty.md) — related

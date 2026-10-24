@@ -55,3 +55,4 @@ Meta-regression and subgroup analyses on M1 tested child gender, parent gender, 
 - [Parenting self-efficacy shows a small to medium positive correlation with parents' contributions to the home-school partnership among primary school families](pse-hsp-overall-correlation.md) — a broader claim this one bears on
 - [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related
 - [Age, gender, developmental status, SES, and sample region do not significantly moderate the inhibitory control–mathematical ability correlation](no-demographic-moderation-inhibitory-control-math.md) — related
+- [Little evidence of heterogeneity in preschool effects by child characteristics, with suggestive larger behavioral drawbacks for lower-SES children](preschool-effects-homogeneous-child-characteristics.md) — related

@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 49 claims (15 for, 32 mixed, 2 against) · 37 studies (13 design, 10 associational, 7 causal, 3 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 7 of 37 report an effect size · 49 claims rest on one study
+> **Evidence** · 51 claims (16 for, 33 mixed, 2 against) · 39 studies (14 design, 11 associational, 7 causal, 3 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 7 of 39 report an effect size · 51 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -93,6 +93,8 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Cognitive artifact scoring in the digital workbook achieved high intercoder reliability, with average Spearman's rho of 0.97 overall](../claims/high-intercoder-reliability-workbook-scoring.md) [+W]
 - [Grading variability: 40.7% of grade variance lies between teachers and essay quality is the largest random effect](../claims/variance-decomposition-teacher-grading.md) [+W]
 - [Experiential attitudes toward feedback predict agreement with expert criteria on weak-essay grades](../claims/feedback-attitudes-predict-expert-consensus.md) [~W]
+- [After studying the composition scale, normal-school students double-rated 32 seventh-grade compositions, each composition being rated by two students with the second rater rating a different set](../claims/witham-double-rating-32-compositions.md) [+W]
+- [Sentence units of a completion test differ greatly in completion time, ranging from 12.8% of total test time for unit 1 down to 3.4% for unit 11.](../claims/completion-test-sentence-unit-time-differences.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

@@ -52,3 +52,5 @@ In the county-wide study of 2,581 low-income children, the abstract reports that
 - [Pre-K graduates outperform nonattending peers in achievement and executive functioning at the end of kindergarten](pre-k-graduates-outperform-nonattenders-end-of-kindergarten.md) — related
 - [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](wv-prek-print-awareness-gains.md) — related
 - [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](prek-small-positive-social-emotional-executive-emotion.md) — related
+- [Academic convergence between preschool and informal-care groups occurs almost entirely in kindergarten and first grade](academic-convergence-concentrated-in-early-elementary.md) — related
+- [Differences in children's social skills account for roughly 10–20% of the convergence in academic test scores](social-skills-explain-test-score-convergence.md) — related

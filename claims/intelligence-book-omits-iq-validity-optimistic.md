@@ -44,3 +44,4 @@ The reviewer's critique of the intelligence-testing volume, stating that "Techni
 
 ## Related Claims
 - [The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity](reviewer-critique-goddard-optimism.md) — possibly the same claim (merge candidate)
+- [Application of the Stanford Revision to 1000 non-selected children found the intelligence quotient a valid expression of intelligence, practically no sex differences, and social status not a disturbing influence on mental-age estimates.](stanford-revision-1000-non-selected-children-iq-valid-no-sex-differences.md) — related

@@ -68,3 +68,4 @@ In the same 300-case group, the mental-educational index correlation was .62 and
 - [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related
 - [The Myers Mental Measure requires only 20 minutes and is said to correlate .80 with the Standard Revision of the Binet Scale](myers-mental-measure-20-minutes-80-binet.md) — related
 - [Percentile-difference scales are crude and embody a fundamental fallacy because percentile units are not equal intervals](percentile-scales-crude-fallacy.md) — related
+- [Thorndike found correlations between Binet age and language tests higher than those between Binet age and a construction test, and therefore judged the Binet scale inadequate.](thorndike-binet-age-correlates-higher-with-language-than-construction-tests.md) — related

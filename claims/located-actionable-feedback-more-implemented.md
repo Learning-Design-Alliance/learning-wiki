@@ -44,3 +44,4 @@ The review reports, citing Nelson and Schunn (2009), a comparison of first and s
 
 ## Related Claims
 - [Natural language AI feedback is associated with faster convergence to correct solutions](nl-feedback-faster-convergence-correctness.md) — related
+- [Grading answers required weighted partial credit because responses varied in degrees of rightness](weighted-partial-credit-grading.md) — related

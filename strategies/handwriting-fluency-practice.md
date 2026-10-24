@@ -63,8 +63,10 @@ Transcription fluency is a bottleneck for written composition: children who labo
 6. **Fade the drills.** Once fluency benchmarks are met, reduce drill time and reinvest it in planning, drafting, and revision.
 
 ## Related Strategies
+
 - [Spelling Instruction](../strategies/spelling-instruction.md) — spelling automaticity is the linguistic half of transcription fluency; the two are trained in tandem
 - [Timed Writing Sprints](../strategies/timed-writing-sprints.md) — applies the same fluency logic at the idea-generation level for older writers
+- [Weigh legibility gains against speed gains when choosing a penmanship style to teach](weigh-legibility-against-speed-in-penmanship-teaching.md)
 
 ## Examples
 **[Handwriting Without Tears](https://www.lwtears.com/hwt)** — A widely used K–5 curriculum that sequences letter formation by stroke similarity, uses short multisensory lessons, and builds from formation accuracy to timed fluency activities.

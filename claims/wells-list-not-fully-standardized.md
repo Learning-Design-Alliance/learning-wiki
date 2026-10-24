@@ -47,3 +47,4 @@ Comparison of Wells' list against the authors' frequency table for 100 subjects:
 - [A graded hard-opposites list of twenty-five words was selected where accuracy of response was below 69%](hard-opposites-graded-difficulty-list.md) — related
 - [The two word lists were confirmed to be of equal difficulty before practice, with a correlation of +.93 between performance on the two lists](equal-difficulty-word-lists-confirmed-high-correlation.md) — related
 - [The six 100-word spelling lists are practically identical in difficulty, differing from list 1 by .9 to 3.4 points](six-spelling-lists-equal-difficulty.md) — related
+- [Question E was answered by all 27 high-school pupils, establishing a zero-difficulty reference 2.191 units below the median](question-e-zero-difficulty-anchor.md) — related

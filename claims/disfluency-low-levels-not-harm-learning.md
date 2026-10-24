@@ -47,3 +47,4 @@ The review reports, citing Seufert et al. (2017), that "a low level of legibilit
 - [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — reports the opposite
 - [All 13 special-issue studies failed to show overall better performance due to disfluency](thirteen-studies-null-disfluency-performance.md) — reports the opposite
 - [Disfluency does not automatically elicit effortful processing; test expectancy improves retention and transfer while disfluency has no effect](disfluency-no-effect-test-expectancy.md) — reports the opposite
+- [Medium slant is 9.76 per cent less legible than vertical writing, while mixed writing is 4.26 per cent more legible than extreme slant](legibility-percent-differences-between-slant-styles.md) — related

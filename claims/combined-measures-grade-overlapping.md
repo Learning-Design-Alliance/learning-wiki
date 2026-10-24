@@ -46,3 +46,4 @@ Combined-measure analysis of 401 pupils: each pupil's reading speed and comprehe
 - [Grades overlap massively in spelling: on average 20.8% of pupils reach or exceed the median of the next grade above](grade-overlapping-in-spelling.md) — related
 - [Standard spelling scores for grades 1–8 derived from 2500 pupils rise from 10 in grade 1 to 85 in grade 8](spelling-standard-scores-grades-1-8.md) — related
 - [Group averages are misleading when applied to individual pupils because of extensive overlapping in weight and height across grades](group-averages-misleading-individual-overlap.md) — related
+- [Corrected measures of overlapping show 33 per cent correct classification rather than the 17 per cent previously reported, and 19.5 per cent rather than 33 per cent exceeding or falling short of the adjacent grade's median](kelley-corrected-overlapping-classification-percentage.md) — related

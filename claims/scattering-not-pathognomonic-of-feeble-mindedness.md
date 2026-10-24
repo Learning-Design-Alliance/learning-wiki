@@ -50,3 +50,4 @@ Descriptive group-comparison analysis of 2206 Binet records from clinic and inst
 - [Sex differences in scattering reverse across scales: girls scatter more on the 1908 scale, boys on the 1911 and Stanford scales](sex-differences-in-binet-scattering-reverse-by-scale.md) — related
 - [Scattering varies with intelligence-age level: smallest at the lowest mental ages and possibly largest in the middle range, with age-level differences exceeding diagnostic-category differences](scattering-varies-with-mental-age-level.md) — related
 - [Because many delinquent girls learned quickly and accurately, the article concludes moral defects must be partially explained on grounds other than inferior mentality](delinquency-not-fully-explained-by-mentality.md) — related
+- [The author predicts the six elemental tests will not vary with age in children old enough to apply themselves, roughly five to ten years](prediction-no-age-variation-children-elemental-tests.md) — related

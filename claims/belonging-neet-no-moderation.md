@@ -51,3 +51,4 @@ Moderation tests in the two-cohort LSAY sample found no evidence the belonging-N
 - [Indigenous youth and low-achieving, low-SES youth are at elevated NEET risk; school-average SES is protective](neet-risk-predictors-indigenous-achievement-school-ses.md) — related
 - [School belonging at age 15 predicts lower likelihood of NEET status at ages 16-20 controlling for demographics, achievement, and school context](school-belonging-predicts-neet-status.md) — related
 - [The 2015 cohort was more likely to be NEET than the 2003 cohort, consistent with labor-market conditions](cohort-2015-higher-neet-risk.md) — related
+- [Little evidence of heterogeneity in preschool effects by child characteristics, with suggestive larger behavioral drawbacks for lower-SES children](preschool-effects-homogeneous-child-characteristics.md) — related

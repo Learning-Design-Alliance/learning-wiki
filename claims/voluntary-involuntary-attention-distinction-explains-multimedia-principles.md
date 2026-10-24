@@ -49,3 +49,4 @@ Theoretical mapping argument: the article links involuntary attention (stimulus 
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Signaling Improves Learning](signaling-improves-learning.md) — related
+- [Musical people react more by involuntary movements to unexpected stimuli, but strongly motor individuals are as common among non-musical as musical people](motor-individuals-equally-common-musical-nonmusical.md) — related

@@ -48,3 +48,4 @@ Normative tabulation of oral responses from 100 University of Iowa subjects (fac
 - [Opposites performance correlates positively with information and vocabulary, most strongly with range of information](opposites-correlate-information-vocabulary.md) — related
 - [Speed and accuracy correlate slightly on easy opposites lists but not on hard lists](speed-accuracy-easy-versus-hard-opposites.md) — related
 - [Easy opposites scores correlate with scholastic rank, faculty and graduates outscoring seniors and juniors](scholastic-rank-easy-opposites-scores.md) — related
+- [Question E was answered by all 27 high-school pupils, establishing a zero-difficulty reference 2.191 units below the median](question-e-zero-difficulty-anchor.md) — a narrower finding that bears on this claim

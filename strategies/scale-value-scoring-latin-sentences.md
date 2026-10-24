@@ -46,7 +46,8 @@ The article recommends weighting each sentence by its scale value: "A better met
 - [Summed scoring and IRT pattern scoring produce very similar scale score means and failing rates within any equating procedure](../claims/scoring-methods-similar-scale-scores-irt-bank.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Handle incorrect completions by giving full credit for correct or as-good-as-correct answers and part credit for answers that give sense but are not strictly correct](part-credit-for-sensible-wrong-completions.md)
 
 ## Examples
 -

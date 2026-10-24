@@ -72,3 +72,4 @@ ANOVA on the difference score between composite type-a and type-b task scores in
 - [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](structural-signals-aid-problem-solving-not-recall.md) — related
 - [Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps](no-organization-effect-on-local-tasks.md) — related
 - [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related
+- [The scale measures only the ability to recall definite facts promptly, a limited kind of historical ability](scale-measures-prompt-factual-recall-only.md) — related

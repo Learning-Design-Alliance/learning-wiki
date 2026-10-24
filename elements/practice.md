@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (17 for, 10 mixed, 3 against) · 42 studies (17 causal, 11 quant-synthesis, 8 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 42 report an effect size · 17 claims rest on one study
+> **Evidence** · 31 claims (17 for, 10 mixed, 4 against) · 43 studies (18 causal, 11 quant-synthesis, 8 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 43 report an effect size · 18 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -84,6 +84,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](../claims/ai-substitution-impedes-long-term-skill-development.md) [+W]
 - [GenAI compresses traditional sysadmin expertise pathways by shortcutting hands-on practice, mentorship, and iterative problem solving](../claims/genai-compresses-sysadmin-expertise-pathways.md) [-W]
 - [Both directed multisensory and silent visual spelling methods produced large improvement from baseline after 40 minutes of practice spread over four days](../claims/both-spelling-methods-large-improvement-baseline.md) [+W]
+- [Pitch discrimination can be tested so elementally that it shows no improvement with practice and no significant variation with age from eight to forty](../claims/pitch-discrimination-elemental-no-age-variation.md) [-W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 110 claims (71 show a difference, 23 mixed, 16 no difference) · 78 studies (31 associational, 24 causal, 10 review, 8 quant-synthesis, 5 theoretical), `q1`–`q4` · 19 of 78 report an effect size · 107 claims rest on one study
+> **Evidence** · 111 claims (71 show a difference, 24 mixed, 16 no difference) · 79 studies (31 associational, 24 causal, 10 review, 8 quant-synthesis, 6 theoretical), `q1`–`q4` · 19 of 79 report an effect size · 108 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -146,6 +146,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [IQ-grade correlation differs sharply by class standing: .69 for Juniors versus .17 for Sophomores, rising to .48 when three discrepant records are omitted](../claims/caldwell-1919-junior-sophomore-correlation-difference.md) [~W] — learners who differ on it differ in outcomes
 - [Test results correlate more highly with estimated intelligence than with grades, including Starch's .75 versus .30 at Wisconsin](../claims/caldwell-1919-estimated-intelligence-correlations.md) [+W] — learners who differ on it differ in outcomes
 - [Presenting young children with vast numbers of discrete sense impressions would not augment the natural development of intelligence](../claims/sense-impression-presentation-no-intelligence-gain.md) [-W] — instruction changes it
+- [Conspicuous talent does not reliably succeed on its own; success requires physical energy and willpower that gifted individuals often lack](../claims/talent-not-self-realizing-without-will-and-energy.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

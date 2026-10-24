@@ -44,3 +44,5 @@ This is the reviewer's summary of Godin's Part I discussion of the nature of gro
 
 ## Related Claims
 - [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
+- [Different limbs and limb sections show alternating periods of acceleration and retardation in individual growth curves](alternating-acceleration-retardation-limb-growth.md) — a narrower finding that bears on this claim
+- [Regular physical measurements of two brothers were taken from birth for six years four months and three years four months](longitudinal-physical-measurements-two-brothers-case-study.md) — related

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1905 entries** · 0 stable · 1905 in review · 0 drafts
+**1908 entries** · 0 stable · 1908 in review · 0 drafts
 
 ---
 
@@ -505,6 +505,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Effective Practice Incentive Community (EPIC) school award program](effective-practice-incentive-community-epic-school-award-program.md) - A school-level award programme operated through three partner organizations that uses school data to determine eligibility and recognizes eligible schools with EPIC awards.
 * [Eight proposed CRESST assessment tools](eight-proposed-cresst-assessment-tools.md) - A suite of eight assessment tools proposed by the National Center for Research on Evaluation, Standards, and Student Testing (CRESST) to measure learning processes and performance through concept mapping, simulation, outlining, problem solving, and related tasks.
 * [Eight-scale instrument for classifying teaching style](eight-scale-instrument-for-classifying-teaching-style.md) - A behavioral-recording and rating instrument developed by Garfunkel for describing classroom atmosphere and teaching style across eight bipolar scales.
+* [Eight-test ancient-history recall scale with weighted score cards](eight-test-ancient-history-recall-scale-with-weighted-score-cards.md) - An assessment developed by Sackett for measuring high-school and university learners’ recall of ancient-history facts through eight timed tests with weighted scoring.
 * [EISEL](eisel.md) - EISEL is an in-house LMS learning tool developed for the study that provides chapter-based question pools, randomized practice sets, immediate correctness feedback, and repeated practice for undergraduate MIS and information-technology learners.
 * [Eksploratoryòm](eksploratoryom.md) - Eksploratoryòm is Suzanne Cole et al.'s Haitian Creole digital science curriculum for early-grade learners, using story-based, culturally relevant interactive lessons that integrate STEM, literacy, and social-emotional learning.
 * [EL Education](el-education.md) - EL Education's integrated English Language Arts curriculum and professional-learning program, developed and provided by EL Education for schools and teachers.
@@ -1107,6 +1108,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [NADL (Numerical Activities of Daily Living) standardized battery](nadl-numerical-activities-of-daily-living-standardized-battery.md) - A standardized battery developed by Vigna Giulia et al.
 * [NAO humanoid robot with Choregraphe programming environment](nao-humanoid-robot-with-choregraphe-programming-environment.md) - SoftBank Robotics' NAO humanoid robot and Choregraphe visual programming environment enable developers to create multimodal behaviors using voice, vision, touch, and movement for educational and other applications.
 * [NASA Cognition battery](nasa-cognition-battery.md) - The NASA Cognition battery is a NASA-developed cognitive assessment battery that measures multiple cognitive domains relevant to astronaut performance.
+* [Nassau Supplement](nassau-supplement.md) - A 0–9 composition-rating scale developed by Truman L.
 * [National Assessment of Educational Progress (NAEP)](national-assessment-of-educational-progress-naep.md) - NAEP is a recurring national student assessment administered by the National Center for Education Statistics to measure achievement and trends across subjects and jurisdictions.
 * [National Black Student Debt Study](national-black-student-debt-study.md) - A mixed-method dataset and research project led by Jalil B.
 * [National Board Certification](national-board-certification.md) - A rigorous professional certification programme run by the National Board for Professional Teaching Standards in which teachers demonstrate advanced practice through a portfolio and assessment-centre examinations.
@@ -1471,6 +1473,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [S Bio and S Phy knowledge concept tagging datasets](s-bio-and-s-phy-knowledge-concept-tagging-datasets.md) - Benchmark datasets constructed by Zhiwei Yang et al.
 * [SACD Research Program](sacd-research-program.md) - The U.S.
+* [Sackett's mental alertness tests](sacketts-mental-alertness-tests.md) - A paper-and-pencil assessment battery by L.
 * [Safe Passage](safe-passage.md) - A Chicago Public Schools initiative that places adult monitors along predetermined routes to help students travel safely to and from designated schools.
 * [SaferSanerSchools™ Whole-School Change](safersanerschools-whole-school-change.md) - A whole-school restorative-practices programme disseminated through the International Institute of Restorative Practices that trains school staff and teams to improve relationships, responsibility, restoration, and school climate.
 * [SAFETUTORS benchmark](safetutors-benchmark.md) - A benchmark dataset of single-turn and multi-turn mathematics, physics, and chemistry tutoring dialogues, created and human-validated by Rima Hazra et al.

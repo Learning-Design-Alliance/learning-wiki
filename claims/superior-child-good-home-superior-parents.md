@@ -45,3 +45,4 @@ From the review of the sociological portion of Root's monograph, which includes 
 ## Related Claims
 - [In Root's study, superior children (IQ 135+ younger, 120+ older) excelled normal children on all administered tests](superior-children-excelled-normal-on-all-tests.md) — related
 - [Root argues that no current tests measure the real basis of superior intelligence, which he holds consists of ability to suspend judgment, freedom from suggestibility, and a critical attitude](tests-do-not-measure-real-basis-of-superior-intelligence.md) — related
+- [Pedagogy has developed for average and subnormal children but still lacks a pedagogy of supernormal children](lacking-pedagogy-of-supernormal-children.md) — related

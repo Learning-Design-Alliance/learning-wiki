@@ -82,3 +82,4 @@ Longitudinal study of a racially/ethnically and linguistically diverse sample of
 - [With covariates, early and intermediate EF groups become indistinguishable in math level and growth, but the later EF group's disadvantage remains](covariates-early-intermediate-overlap-later-distinct.md) — related
 - [Early EF developers start pre-k with higher math levels than intermediate and later developers and maintain that advantage over time](early-ef-developers-higher-math-advantage-maintained.md) — related
 - [Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)](inference-conflict-skill-three-way-interaction.md) — related
+- [Long-term academic benefits of preschool are almost entirely mediated by children's earlier skill development](preschool-long-term-benefits-mediated-by-early-skills.md) — related

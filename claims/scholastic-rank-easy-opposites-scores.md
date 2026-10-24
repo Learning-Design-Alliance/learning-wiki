@@ -47,3 +47,4 @@ Table III reports median scores and ranges for the 100 subjects by group on easy
 - [Opposites performance correlates positively with information and vocabulary, most strongly with range of information](opposites-correlate-information-vocabulary.md) — related
 - [Women were less accurate than men on the opposites tests but were less mature and less advanced in scholarship](sex-differences-opposites-accuracy.md) — related
 - [Speed and accuracy correlate slightly on easy opposites lists but not on hard lists](speed-accuracy-easy-versus-hard-opposites.md) — related
+- [The reported difficulty values are based on scholastically advanced adults, and whether the proportions would hold for less mature subjects remains an open question.](completion-test-values-adult-scope-limit.md) — related

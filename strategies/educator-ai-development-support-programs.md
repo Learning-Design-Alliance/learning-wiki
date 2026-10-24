@@ -54,6 +54,7 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [Implement educational chatbots with human-centred design, explicit AI policies, training, curated knowledge bases and continuous monitoring](chatbot-implementation-recommendations.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
+- [Address teacher perception biases through teacher training and professional development focused on scaffolding and identifying children needing extra support](teacher-pd-address-perception-biases.md)
 
 ## Examples
 -
