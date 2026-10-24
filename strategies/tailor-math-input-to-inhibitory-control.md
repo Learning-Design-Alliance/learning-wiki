@@ -45,7 +45,7 @@ Based on the finding that only children with higher inhibitory control benefited
 - [At high (but not low) levels of children's inhibitory control, parental number talk was associated with children's math performance](../claims/simple-slopes-number-talk-high-inhibition.md) [+W]
 - [The number talk × inhibitory control interaction is domain-specific: it did not hold for parents' overall talk or for children's vocabulary as the outcome](../claims/interaction-domain-specificity-math.md) [~W]
 - [Children's inhibitory control is positively related to math achievement as a main effect, independent of parental input](../claims/inhibitory-control-main-effect-math.md) [~W]
-- [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](../claims/student-characteristics-moderate-inquiry-effectiveness.md) [~W]
+- [Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept](../claims/student-characteristics-moderate-inquiry-effectiveness.md) [~W]
 
 ## Related Strategies
 

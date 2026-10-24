@@ -8,7 +8,7 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1920,
+"product":1919,
 "research-method":641,
 "strategy":6733,
 "theory":1360
@@ -210922,12 +210922,12 @@
 "type":"claim"
 },
 {
-"description":"Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction",
+"description":"Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept",
 "evidence_strength":"weak",
 "id":"student-characteristics-moderate-inquiry-effectiveness",
 "path":"claims/student-characteristics-moderate-inquiry-effectiveness.md",
 "status":"review",
-"title":"Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction",
+"title":"Student characteristics beyond prior knowledge bear on inquiry learning: inhibitory control predicts inquiry outcomes, and in one study a direct-instruction advantage over inquiry held only for students with low domain self-concept",
 "type":"claim"
 },
 {
@@ -265904,6 +265904,7 @@
 "type":"product"
 },
 {
+"aliases":["content-area-literacy-instruction-cali"],
 "description":"CALI is an individualized K–4 content-area literacy curriculum developed by Dombek et al.",
 "id":"cali-content-area-literacy-instruction",
 "path":"products/cali-content-area-literacy-instruction.md",
@@ -267007,14 +267008,6 @@
 "path":"products/consortium-on-chicago-school-research-biannual-survey-and-individualized-confidential-scho.md",
 "status":"review",
 "title":"Consortium on Chicago School Research biannual survey and individualized confidential school reports",
-"type":"product"
-},
-{
-"description":"CALI is a classroom literacy intervention run through integrated science and social studies instruction to develop content knowledge and related reading-comprehension skills in elementary students.",
-"id":"content-area-literacy-instruction-cali",
-"path":"products/content-area-literacy-instruction-cali.md",
-"status":"review",
-"title":"Content Area Literacy Instruction (CALI)",
 "type":"product"
 },
 {
@@ -380493,7 +380486,7 @@
 "connect-with-kids":"connect-with-kids",
 "connected":"connected",
 "consortium-on-chicago-school-research-biannual-survey-and-individualized-confidential-scho":"consortium-on-chicago-school-research-biannual-survey-and-individualized-confidential-scho",
-"content-area-literacy-instruction-cali":"content-area-literacy-instruction-cali",
+"content-area-literacy-instruction-cali":"cali-content-area-literacy-instruction",
 "content-focused-coaching":"content-focused-coaching",
 "content-literacy-continuum":"content-literacy-continuum",
 "content-proximity-tests":"content-proximity-tests",

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1920 entries** · 0 stable · 1920 in review · 0 drafts
+**1919 entries** · 0 stable · 1919 in review · 0 drafts
 
 ---
 
@@ -322,7 +322,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Connect with Kids](connect-with-kids.md) - Connect with Kids is a character-education curriculum developed for elementary and secondary students that uses peer-story videos, lessons, activities, and schoolwide and community outreach to promote prosocial attitudes and positive behavior.
 * [ConnectED](connected.md) - ConnectED is a web application developed by Thang Doan Viet et al.
 * [Consortium on Chicago School Research biannual survey and individualized confidential school reports](consortium-on-chicago-school-research-biannual-survey-and-individualized-confidential-scho.md) - A biannual school-conditions survey and confidential school reporting system operated by the Consortium on Chicago School Research to support school self-assessment and long-term planning.
-* [Content Area Literacy Instruction (CALI)](content-area-literacy-instruction-cali.md) - CALI is a classroom literacy intervention run through integrated science and social studies instruction to develop content knowledge and related reading-comprehension skills in elementary students.
 * [Content Literacy Continuum](content-literacy-continuum.md) - A schoolwide literacy framework developed by the University of Kansas Center for Research on Learning that organizes universal content-area instruction and targeted reading interventions into tiers.
 * [Content Proximity Tests](content-proximity-tests.md) - Content Proximity Tests are NWEA's MAP Growth assessment variant that uses an adaptive item-selection algorithm to give greater preference to on-grade content while retaining off-grade adaptivity.
 * [Content-Focused Coaching](content-focused-coaching.md) - Content-Focused Coaching is a literacy-focused professional-development and instructional-coaching programme in which trained district coaches support teachers through demonstrations, grade-level meetings, co-teaching, observation, and feedback.
