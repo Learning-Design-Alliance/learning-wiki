@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Test performance reciprocally predicts subsequent enjoyment, boredom, and anxiety in primary school students
-description: Test performance reciprocally predicts subsequent enjoyment, boredom, and anxiety in primary school students
+title: Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance
+description: Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance
 id: performance-predicts-subsequent-emotions
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# Test performance reciprocally predicts subsequent enjoyment, boredom, and anxiety in primary school students
+# Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
-`q3 i?` T2 mathematics test performance positively predicted T3 enjoyment and negatively predicted T3 boredom and anxiety, over and above autoregressive and cross-lagged relations. [→ Putwain 2021](#putwain-2021)
+`q3 i?` T2 mathematics test performance positively predicted T3 enjoyment and negatively predicted T3 boredom and anxiety, over and above autoregressive and cross-lagged relations; of the three emotions, only anxiety in turn predicted later performance. [→ Putwain 2021](#putwain-2021)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Putwain, D. W., Wood, P., & Pekrun, R. (2021). Achievement emotions and academic
 
 `q3 · i?` · `associational · r3`
 
-In the reciprocal relations model with 1,242 primary students, test performance predicted all three subsequent emotions: "T2 mathematics test performance positively predicted T3 enjoyment" and negatively predicted boredom and anxiety, supporting a reciprocal cycle for anxiety.
+In the reciprocal relations model with 1,242 primary students, test performance predicted all three subsequent emotions: "T2 mathematics test performance positively predicted T3 enjoyment" and negatively predicted boredom and anxiety, supporting a reciprocal cycle for anxiety. Only anxiety was reciprocal: T1 and T3 enjoyment and boredom did not significantly predict later test performance when the three emotions were modelled together. The design is a correlational cross-lagged panel, so the paths are predictive relations, not demonstrated causes.
 
 > "T2 mathematics test performance positively predicted T3 enjoyment over and above the auto-lagged relation with prior T1 enjoyment and the cross-lagged relations with prior T1 boredom and T1 anxiety."
 

@@ -49,6 +49,6 @@ In the simultaneous three-emotion SEM, "reciprocal relations with mathematics ac
 
 ## Related Claims
 - [Anxiety negatively predicts subsequent mathematics test performance in primary school students when emotions are modeled simultaneously](anxiety-negative-predicts-math-performance-primary.md) — possibly the same claim (merge candidate)
-- [Test performance reciprocally predicts subsequent enjoyment, boredom, and anxiety in primary school students](performance-predicts-subsequent-emotions.md) — related
+- [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](performance-predicts-subsequent-emotions.md) — related
 - [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](grades-negative-emotions-within-person-effects.md) — related
 - [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](buoyancy-moderates-anxiety-performance.md) — related

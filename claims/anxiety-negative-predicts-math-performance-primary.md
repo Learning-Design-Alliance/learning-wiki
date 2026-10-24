@@ -47,7 +47,7 @@ Structural equation modeling of four-wave longitudinal data from 1,242 primary s
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Test performance reciprocally predicts subsequent enjoyment, boredom, and anxiety in primary school students](performance-predicts-subsequent-emotions.md) — related
+- [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](performance-predicts-subsequent-emotions.md) — related
 - [Students' emotional experience predicts later academic achievement, while relationship quality does not](emotions-predict-achievement-relationship-does-not.md) — related
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](anxiety-strongest-predictor-when-emotions-modeled-together.md) — possibly the same claim (merge candidate)
 - [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](buoyancy-moderates-anxiety-performance.md) — related

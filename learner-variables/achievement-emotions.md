@@ -172,7 +172,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Student-perceived teacher enthusiasm mediates the relationship between teacher enjoyment and student enjoyment](../claims/teacher-enthusiasm-mediation-enjoyment.md) [+M] — instruction changes it
 - [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](../claims/enjoyment-decline-grade7-8-small.md) [+M] — instruction changes it
 - [Teacher enjoyment and student enjoyment in mathematics classrooms are positively related even after controlling for students' prior-year enjoyment](../claims/teacher-enjoyment-student-enjoyment-positive-link.md) [+M] — instruction changes it
-- [Test performance reciprocally predicts subsequent enjoyment, boredom, and anxiety in primary school students](../claims/performance-predicts-subsequent-emotions.md) [+M] — learners who differ on it differ in outcomes
+- [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](../claims/performance-predicts-subsequent-emotions.md) [+M] — learners who differ on it differ in outcomes
 - [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](../claims/reciprocal-model-superior-fit.md) [+M] — learners who differ on it differ in outcomes
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](../claims/anxiety-strongest-predictor-when-emotions-modeled-together.md) [+M] — learners who differ on it differ in outcomes
 

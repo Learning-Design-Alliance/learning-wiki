@@ -220,7 +220,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](../claims/buoyancy-moderates-anxiety-performance.md) [+M] — an instructional effect differs with it
 - [Anxiety negatively predicts subsequent mathematics test performance in primary school students when emotions are modeled simultaneously](../claims/anxiety-negative-predicts-math-performance-primary.md) [+M] — learners who differ on it differ in outcomes
 - [Retention improves math self-efficacy and reduces math anxiety in the first year, with effects maintained (anxiety showing a positive sleeper effect at Lag 4)](../claims/retention-self-efficacy-anxiety-effects.md) [+W] — instruction changes it
-- [Test performance reciprocally predicts subsequent enjoyment, boredom, and anxiety in primary school students](../claims/performance-predicts-subsequent-emotions.md) [+M] — learners who differ on it differ in outcomes
+- [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](../claims/performance-predicts-subsequent-emotions.md) [+M] — learners who differ on it differ in outcomes
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](../claims/anxiety-strongest-predictor-when-emotions-modeled-together.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question

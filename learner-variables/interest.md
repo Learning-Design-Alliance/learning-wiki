@@ -211,7 +211,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Teacher enjoyment and student enjoyment in mathematics classrooms are positively related even after controlling for students' prior-year enjoyment](../claims/teacher-enjoyment-student-enjoyment-positive-link.md) [+M] — instruction changes it
 - [Individual learning curves rise by irregular increments with occasional losses, with plateau-like periods attributed to changes in method and waning interest](../claims/irregular-individual-learning-increments-plateaus.md) [+M] — learners who differ on it differ in outcomes
 - [Differentiated and nondifferentiated interest structures were examined for associations with educational track choices and career image specificity](../claims/interest-structure-track-choice-associations.md) [+M] — learners who differ on it differ in outcomes
-- [Test performance reciprocally predicts subsequent enjoyment, boredom, and anxiety in primary school students](../claims/performance-predicts-subsequent-emotions.md) [+M] — learners who differ on it differ in outcomes
+- [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](../claims/performance-predicts-subsequent-emotions.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
