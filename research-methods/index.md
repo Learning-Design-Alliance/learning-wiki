@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**641 entries** · 0 stable · 641 in review · 0 drafts
+**642 entries** · 0 stable · 642 in review · 0 drafts
 
 ---
 
@@ -304,6 +304,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Hierarchical framework of domain-specific attitude constructs for synthesizing attitude outcomes](hierarchical-framework-of-domain-specific-attitude-constructs-for-synthesizing-attitude-ou.md) - The article proposes a hierarchical conceptual framework (Fig.
 * [Hierarchical resampling simulation framework for evaluating metacognitive measures](hierarchical-resampling-simulation-framework-for-evaluating-metacognitive-measures.md) - A simulation methodology in which real confidence-judgment datasets are resampled hierarchically (participants with replacement, then trials within participants) to create realistic simulated experiments without committing to a mathematical model of confidence.
 * [History-conditioned student simulation: two-component profile-generator-plus-simulator framework](history-conditioned-student-simulation-two-component-profile-generator-plus-simulator-fram.md) - The article establishes the task of history-conditioned student simulation, where a model predicts a student's next tutoring-dialogue turn conditioned on their prior question-answering and dialogue history.
+* [Homogeneous instructional-condition cohort comparison](homogeneous-instructional-condition-cohort-comparison.md) - The article's method is to first establish constancy of conditions, then compare standings.
 * [Homogeneous-outcome selection for causal learning-loss analysis](homogeneous-outcome-selection-for-causal-learning-loss-analysis.md) - This design principle holds that causal estimates of instructional disruptions require tight confinement of the counterfactual trend.
 * [Human-validated LLM reconstruction of syllabus assessment weights](human-validated-llm-reconstruction-of-syllabus-assessment-weights.md) - The pipeline converts syllabus PDFs to Markdown and uses an LLM through a university-managed API gateway to reconstruct final-grade weights for each assessment category, which feed the continuous GenAI-susceptibility treatment variable.
 * [Hybrid confidence framework integrating model-based confidence with dataset-derived aleatoric uncertainty via semantic heterogeneity](hybrid-confidence-framework-integrating-model-based-confidence-with-dataset-derived-aleato.md) - The framework treats LLM grading unreliability as arising from two sources: epistemic uncertainty, estimated from model-based signals (verbalized, latent, and consistency-based confidence), and aleatoric uncertainty, estimated from the dataset.

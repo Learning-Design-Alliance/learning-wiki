@@ -64,3 +64,4 @@ Review of secondary analyses of the PISA 2003 international assessment across 41
 - [In more competitive school environments, students from lower SES backgrounds report more positive self-views than their more advantaged peers, narrowing SES gaps in self-views](competitive-schools-narrow-ses-gaps-self-views.md) — related
 - [In more competitive school environments, lower-SES students perform better academically than their more advantaged peers, narrowing SES achievement gaps](competitive-schools-narrow-ses-gaps-achievement.md) — related
 - [Students with higher initial achievement in German benefited more from higher class mean achievement levels](german-class-mean-achievement-benefits-high-initial-achievers.md) — related
+- [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](math-class-strongest-bflpe-course-tracking.md) — a narrower finding that bears on this claim

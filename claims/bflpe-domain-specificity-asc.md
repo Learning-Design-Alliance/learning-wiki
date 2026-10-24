@@ -50,3 +50,4 @@ Narrative review of early BFLPE studies (Marsh and Parker 1984; Marsh 1987). The
 - [Class-average achievement and chosen upward comparisons each make substantial, unique negative contributions to math self-beliefs when modeled simultaneously](bflpe-generalized-and-specific-others-unique-effects.md) — related
 - [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related
 - [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](big-fish-little-pond-only-self-concepts-end-of-schooling.md) — related
+- [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](math-class-strongest-bflpe-course-tracking.md) — related

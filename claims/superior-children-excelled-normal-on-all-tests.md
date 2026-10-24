@@ -47,3 +47,4 @@ Review of Root's monograph, a sociological and psychological study of a small gr
 - [PoorAF children do not differ from controls on tasks retrieving semantic information (words, objects, countries) or verbal routines (proverbs)](pooraf-no-deficit-semantic-verbal-tasks.md) — related
 - [Root argues that no current tests measure the real basis of superior intelligence, which he holds consists of ability to suspend judgment, freedom from suggestibility, and a critical attitude](tests-do-not-measure-real-basis-of-superior-intelligence.md) — related
 - [Students of literary inclination excel on verbal tests while scientifically inclined students excel on constructive tests, with no digit-span difference](caldwell-1919-literary-scientific-test-profiles.md) — related
+- [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](mental-tests-more-needed-for-superior-selection.md) — related

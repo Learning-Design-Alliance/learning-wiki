@@ -67,3 +67,4 @@ Chart IX distributes yearly curve correlations of all twenty-nine boys by school
 - [Groups one year ahead of normal grade increase more rapidly in both weight and height than normal groups of the same age, with one exception](above-grade-faster-growth-increments.md) — related
 - [Tall, heavy children with good lung capacity are further along toward mental maturity as evidenced by school progress, based on 21,682 final term grades](physical-size-school-progress-relation.md) — related
 - [In a same-age, same-class group of eight boys followed through high school, the higher-scholarship half averaged taller in all four years and heavier in all years except the junior year](high-scholarship-half-taller-heavier.md) — related
+- [Most high-school students made rapid or normal elementary progress, yet most fail in some high-school work, and schools appear better fitted for girls than for boys](progress-and-sex-patterns-high-school.md) — related

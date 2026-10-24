@@ -43,4 +43,4 @@ The reviewer's critical assessment, offered as expert opinion in a 1922 book rev
 
 
 ## Related Claims
--
+- [The reviewer criticizes Davis' Technique of Teaching for ignoring scientific analyses of learning and referring teachers only to empirical, a-priori pedagogies](davis-teaching-book-lacks-scientific-learning-research.md) — possibly the same claim (merge candidate)

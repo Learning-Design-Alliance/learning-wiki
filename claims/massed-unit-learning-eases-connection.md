@@ -47,3 +47,5 @@ In the rat experiment, after learning Sections I-IV under massed conditions on s
 - [The longer and more difficult the motor problem, the more advisable it is to break it into units and learn both the units and their connections under massed conditions](difficult-problems-part-method-massed.md) — related
 - [The massed-versus-distributed question is tied to the whole-versus-part question: the hard problem remains hard unless learned in parts under massed conditions](massed-distribution-tied-to-whole-part.md) — a broader claim this one bears on
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
+- [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](rats-whole-method-time-errors-advantage.md) — related
+- [Maze units retain near-complete control when run in changed combinations, so contiguity of functioning does not cause the waste](unit-control-under-changed-combinations.md) — related

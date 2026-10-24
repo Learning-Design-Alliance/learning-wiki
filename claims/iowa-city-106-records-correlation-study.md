@@ -45,3 +45,4 @@ Methodological setup of the article's own observational study of school grades, 
 ## Related Claims
 
 - [Dearborn's study found university students maintain to a marked degree the same relative ranking they held in high school](dearborn-relative-ranking-maintained-university.md)
+- [Average elementary school standing correlates strongly with average high school standing (r = +.71)](elementary-high-school-standing-correlation-71.md) — related

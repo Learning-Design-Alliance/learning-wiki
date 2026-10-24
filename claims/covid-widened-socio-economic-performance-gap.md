@@ -50,3 +50,4 @@ Country-level analysis of the Pandemic-Related Performance Gap (difference betwe
 - [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — related
 - [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
+- [School-level socio-economic disadvantage significantly predicted immigrant students' self-efficacy and achievement but not valuing in exploratory multilevel tests](school-ses-disadvantage-predicts-efficacy-achievement-not-valuing.md) — related

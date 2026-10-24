@@ -86,3 +86,4 @@ Correlation analysis (Table 6, n=410) for the looking professional dimension, wh
 - [Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers](avoidant-style-higher-certainty-knowledge.md) — related
 - [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](combination-preferrers-higher-axis4-axis5-scores.md) — related
 - [Epistemological belief dimensions offer an understanding of human-GAI engagement](epistemological-dimensions-explain-human-gai-engagement.md) — related
+- [Self-reported learning gains and correlational analyses suggest interrelations among second-order and strategy knowledge, epistemological beliefs, explanation ability, topic knowledge, and interest](correlational-interrelatedness-history-reasoning-constructs.md) — related

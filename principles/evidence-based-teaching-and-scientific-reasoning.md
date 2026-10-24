@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (20 for, 15 mixed, 2 against) · 36 studies (9 review, 9 theoretical, 7 associational, 6 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 36 report an effect size · 35 claims rest on one study
+> **Evidence** · 38 claims (21 for, 15 mixed, 2 against) · 37 studies (10 review, 9 theoretical, 7 associational, 6 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 37 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - [Included reports are methodologically robust overall but weak on implementation fidelity, which was assessed in only about half of the programs](../claims/asp-reviews-fidelity-weakness.md) [~W]
 - [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](../claims/conclusions-rest-on-sixty-five-individual-cases.md) [~W]
 - [The article argues that continued simple, single-object experiments tend to make pupils unguarded and hasty in their conclusions, and that premise-testing experiments should correct this.](../claims/simple-experiments-hasty-judgments.md) [~W]
+- [The reviewer criticizes Davis' Technique of Teaching for ignoring scientific analyses of learning and referring teachers only to empirical, a-priori pedagogies](../claims/davis-teaching-book-lacks-scientific-learning-research.md) [+W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

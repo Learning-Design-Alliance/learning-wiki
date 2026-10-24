@@ -64,3 +64,4 @@ Re-analysis selecting pupils by age-grade criteria (more than one year off norma
 ## Related Claims
 - [Pupils designated retarded by their teachers score below grade-and-sex standards on the alertness tests](teacher-retarded-pupils-below-standard.md) — related
 - [Physiologically accelerated children are mentally accelerated: height correlates with mental age +0.53 for 49 girls with age held constant](physiological-acceleration-mental-acceleration.md) — related
+- [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](mental-tests-more-needed-for-superior-selection.md) — related

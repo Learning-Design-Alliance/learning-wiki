@@ -51,3 +51,4 @@ SEM model (Figure 2) fitted to data from 193 Grade 1 children with excellent fit
 - [Higher order cognitive skills (inference, perspective taking, monitoring) are differentially related to writing quality, writing productivity, and correctness in writing in Grade 2](higher-order-cognitions-differential-writing-dimensions-grade2.md) — related
 - [Total effects on writing quality are largest for discourse-level oral language (.46), working memory (.43), and spelling (.37)](total-effects-on-writing-quality-ranking.md) — related
 - [Discourse-level oral language is directly predicted by theory of mind, vocabulary, and working memory, but not inference or grammatical knowledge, in Grade 1](discourse-oral-language-predicted-by-tom-vocabulary-working-memory.md) — related
+- [Transcription, planning, revision, and self-efficacy explain 76% of writing-quality variance in Grades 4-6 and 82% in Grades 7-9](writing-model-explained-variance-76-82.md) — related

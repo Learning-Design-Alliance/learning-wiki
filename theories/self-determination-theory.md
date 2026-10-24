@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 84 claims (60 for, 23 mixed, 1 against) · 57 studies (21 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 57 report an effect size · 78 claims rest on one study
+> **Evidence** · 88 claims (63 for, 24 mixed, 1 against) · 59 studies (21 associational, 13 review, 9 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 59 report an effect size · 82 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -139,6 +139,10 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Classroom autonomy-supportive climate moderates teacher expectation effects: significant in low-autonomy-supportive classrooms but not in high ones](../claims/autonomy-supportive-climate-moderates-tee.md) [~M] — attached 2026-10-23 from David Trouilloud et al. (2006), which proposed "Self-determination theory account of autonomy-supportive climate as a moderator of social influence on students".
 - [Teachers' expectations and perceived autonomy-supportive climate are uncorrelated, making climate an unlikely consequence of expectations](../claims/expectations-climate-null-correlation.md) [~W]
 - [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [+W]
+- [Students empirically distinguish autonomy dissatisfaction from autonomy satisfaction and autonomy frustration (3-factor ESEM solution)](../claims/esem-three-factor-distinct-need-states.md) [+W] — attached 2026-10-24 from Sung Hyeon Cheon et al. (2019), which proposed "Three-state model of the psychological need for autonomy: satisfaction, frustration, and dissatisfaction".
+- [Intervention-enabled decreases in autonomy dissatisfaction uniquely predicted decreased end-of-semester disengagement after controlling for autonomy satisfaction and frustration](../claims/dissatisfaction-unique-predictor-disengagement.md) [+W] — attached 2026-10-24 from Sung Hyeon Cheon et al. (2019), which proposed "Three-state model of the psychological need for autonomy: satisfaction, frustration, and dissatisfaction"; tests this page's relationship.
+- [Need-based experiences mediate the effects of task difficulty and instructional style on motivational, cognitive, affective and behavioral outcomes](../claims/need-experiences-mediate-difficulty-and-style-effects.md) [+W]
+- [Children's autonomous and controlled motivation for mathematics rarely moderate the effects of task difficulty and instructional style](../claims/motivation-moderation-minimal-non-significant.md) [~W]
 
 ## The evidence by question
 

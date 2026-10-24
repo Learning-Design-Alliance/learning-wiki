@@ -47,3 +47,4 @@ The review reports that "teacher perceptions of student misbehavior are directly
 - [Cognitive reappraisal protects teachers from emotional exhaustion and burnout, while expressive suppression and surface acting are negatively linked to teaching effectiveness](reappraisal-protective-suppression-harmful-teachers.md) — related
 - [Study demands lead to exhaustion and self-undermining behaviors, instigating a loss spiral](self-undermining-loss-spiral-students.md) — related
 - [Conflictual teacher-student relationships are more strongly linked to teacher stress and burnout than relationship closeness](conflict-tsr-stronger-link-stress-burnout.md) — related
+- [Teachers' perceived classroom misbehavior exacerbates the negative association between externalizing student behavior and self-efficacy for behavior management](classroom-misbehavior-moderates-externalizing-tse.md) — related

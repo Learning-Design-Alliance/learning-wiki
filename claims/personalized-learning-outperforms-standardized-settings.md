@@ -65,3 +65,4 @@ Narrative review attribution: the review reports, citing [17], that empirical st
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](ai-personalization-benefits-performance-motivation.md) — a broader claim this one bears on
 - [Intelligent tutoring systems show moderate learning benefits but are less effective than human tutoring](its-moderate-effect-less-than-human-tutoring.md) — related
 - [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — related
+- [The article's title asserts that artificial intelligence enhances children's science learning from television shows, though the supplied text contains no results supporting this assertion](ai-enhances-children-science-learning-television-title-assertion.md) — related

@@ -46,3 +46,4 @@ The author's fourth conclusion from the maze experiments, stated in the results 
 - [The massed-versus-distributed question is tied to the whole-versus-part question: the hard problem remains hard unless learned in parts under massed conditions](massed-distribution-tied-to-whole-part.md) — related
 - [Short maze units learned under massed conditions connect into a serial whole with great economy, whereas units learned under distributed conditions connect only with extreme difficulty](massed-unit-learning-eases-connection.md) — related
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
+- [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](rats-whole-method-time-errors-advantage.md) — related

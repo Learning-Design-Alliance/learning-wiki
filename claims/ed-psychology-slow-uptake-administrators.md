@@ -44,3 +44,4 @@ Editorial observation based on the writer's reading of college presidents' and p
 
 ## Related Claims
 - [The limitations of mental discipline have been shown in many investigations, yet it remains a cornerstone of curricular argument among educators](mental-discipline-discredited-yet-still-cited.md) — a narrower finding that bears on this claim
+- [The editorial asserts that public education is still dominated by traditional aims and accomplishes little in inculcating the scientific temper of thought.](education-dominated-by-traditional-aims-1915.md) — related

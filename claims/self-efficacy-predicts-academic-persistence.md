@@ -194,3 +194,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Under enduring constraint, disengagement may reflect accurate calibration to low translation fidelity rather than low self-efficacy](disengagement-as-accurate-calibration-low-translation-fidelity.md) — related
 - [Maladaptive motivational profiles are associated with less time on task and lower cognitive task achievement](maladaptive-profiles-less-time-on-task-lower-achievement.md) — a narrower finding that bears on this claim
 - [Prior profile research links maladaptive motivational profiles to poorer school adjustment and achievement](prior-profiles-maladaptive-school-adjustment.md) — related
+- [Children's autonomous and controlled motivation for mathematics rarely moderate the effects of task difficulty and instructional style](motivation-moderation-minimal-non-significant.md) — related

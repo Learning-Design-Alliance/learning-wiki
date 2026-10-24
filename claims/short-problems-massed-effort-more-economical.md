@@ -49,3 +49,4 @@ Table I reports mean trials, time and errors for two groups of rats (nine per gr
 - [Short maze units learned under massed conditions connect into a serial whole with great economy, whereas units learned under distributed conditions connect only with extreme difficulty](massed-unit-learning-eases-connection.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](rats-whole-method-time-errors-advantage.md) — related

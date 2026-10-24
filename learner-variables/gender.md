@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 259 claims (159 show a difference, 62 mixed, 38 no difference) · 184 studies (116 associational, 32 causal, 14 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 30 of 184 report an effect size · 251 claims rest on one study
+> **Evidence** · 261 claims (161 show a difference, 62 mixed, 38 no difference) · 185 studies (117 associational, 32 causal, 14 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 30 of 185 report an effect size · 253 claims rest on one study
 
 ## How to read this page
 
@@ -297,6 +297,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male top-performing math students report higher math self-efficacy and stronger math-oriented motivation than female top performers](../claims/math-self-efficacy-gender-gap-top5.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male top-performing math students show strongly science-oriented science–reading profiles while female students' profiles are more balanced](../claims/science-reading-profile-gender-tilt-top5.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Differences in self-concept and value partly, but not fully, explain gender differences in STEM study intentions](../claims/gender-mediation-stem-intentions.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys are more likely than girls to rank at both the top and the bottom of the grade scale, supporting greater variability of excellence among boys](../claims/sex-variability-in-excellence-1912.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In this group the average girl's grades equal or exceed the average boy's in all six subjects, with the largest advantage in Latin](../claims/girl-boy-average-grade-comparison-1912.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

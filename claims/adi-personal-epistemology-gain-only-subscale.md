@@ -69,3 +69,4 @@ Independent-samples t-test on overall SLA-MB scores in the Results section. No s
 - [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md) — related
 - [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [No significant difference in motivation for learning science between computer-based and regular-classroom inquiry groups](no-motivation-difference-ibl-environments.md) — related
+- [Explicit teaching increases students' endorsement of criterialist epistemological beliefs about history](explicit-teaching-raises-criterialist-epistemological-beliefs.md) — related

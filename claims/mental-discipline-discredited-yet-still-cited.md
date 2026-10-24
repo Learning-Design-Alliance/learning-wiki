@@ -46,3 +46,4 @@ Editorial assertion in the Journal of Educational Psychology, offered without ci
 
 - [Investigations in educational psychology percolate slowly into the thinking of college administrators](ed-psychology-slow-uptake-administrators.md) — a broader claim this one bears on
 - [Lecturing persists for identifiable psychological and practical reasons: it is easy, exploits personal opinion, and satisfies pupils' craving for authority and ready-made knowledge](why-lecturing-persists.md)
+- [The editorial asserts that public education is still dominated by traditional aims and accomplishes little in inculcating the scientific temper of thought.](education-dominated-by-traditional-aims-1915.md) — a broader claim this one bears on

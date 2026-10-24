@@ -65,3 +65,4 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](embodied-language-learning-holistic-engagement-emotional-benefits.md) — related
 - [Performance benefits of UVIs may be limited to the perceived-useful content unless usefulness generalizes or interest develops](uvi-performance-benefits-context-limited.md) — related
 - [Mental tests have decided limitations: they miss motivation, persistence, and emotional life, and intelligence ratios are subject to change](intelligence-test-limitations-profile-needed.md) — related
+- [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](instructional-style-main-effect-limited-autonomy-satisfaction.md) — related

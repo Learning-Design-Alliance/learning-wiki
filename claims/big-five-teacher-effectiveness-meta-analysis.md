@@ -53,3 +53,4 @@ Random-effects meta-analysis of 25 studies (total N = 6294) pooling Pearson r co
 - [Teacher Big Five domains show their largest associations with burnout for emotional stability and conscientiousness, but none of the burnout effects are statistically significant](teacher-personality-burnout-null-findings.md) — related
 - Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis — related
 - [Most extracted associations are small: 219 of nearly 500 coefficients fall below a medium effect size, with conscientiousness–academic adjustment (.64) the largest](mostly-small-associations-conscientiousness-largest.md) — related
+- [Student-reported teacher conscientiousness is the strongest Big Five predictor of perceived teacher academic support in secondary mathematics and English classes](teacher-conscientiousness-predicts-academic-support.md) — related

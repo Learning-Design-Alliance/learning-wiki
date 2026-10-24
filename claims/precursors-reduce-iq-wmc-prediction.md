@@ -50,3 +50,4 @@ Regression analyses from the LOGIC reanalysis predicting later achievement with 
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — related
 - [Grade level, nonverbal intelligence, and working memory predicted mathematics achievement, explaining 88% of intercept variance but only 16-22% of slope variance](covariates-predict-math-growth.md) — related
+- [Teacher personality does not predict student academic achievement when previous achievement is controlled](teacher-personality-no-achievement-effect.md) — related

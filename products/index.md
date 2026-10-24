@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1919 entries** · 0 stable · 1919 in review · 0 drafts
+**1921 entries** · 0 stable · 1921 in review · 0 drafts
 
 ---
 
@@ -127,6 +127,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Attitudes Toward Trafficked Women and Sex Trafficking Scale (ATTS)](attitudes-toward-trafficked-women-and-sex-trafficking-scale-atts.md) - The ATTS is a modified 29-item attitude scale developed by Litam in collaboration with the original APPS developers to measure counselors' views of trafficked women and sex trafficking using person-first language.
 * [Augustus F. Hawkins Center for Excellence grant program](augustus-f-hawkins-center-for-excellence-grant-program.md) - A competitive federal grant programme administered by the U.S.
 * [Aurora Institute's Seven Critical Elements of Instructional Practice](aurora-institutes-seven-critical-elements-of-instructional-practice.md) - A framework developed by the Aurora Institute to guide competency-based instructional practice through learner agency, meaningful assessment, differentiated support, mastery-based progression, varied pathways and pacing, equity strategies, and transparent expectations.
+* [Austrian national educational standard assessment 2012 (mathematics, eighth grade)](austrian-national-educational-standard-assessment-2012-mathematics-eighth-grade.md) - A BIFIE-administered census assessment measuring mathematics achievement and math academic self-concept among Austria's eighth-grade students in 2012.
 * [AutoGen, MetaGPT, CrewAI, LangGraph, and Phidata](autogen-metagpt-crewai-langgraph-and-phidata.md) - A set of software platforms developed by their respective makers for building, orchestrating, and deploying agentic AI systems, including multi-agent workflows and role-based delegation.
 * [Automated Extended Essay Grading Software (AEEGS)](automated-extended-essay-grading-software-aeegs.md) - A web-based application developed by Olaoye DD et al.
 * [AutoTutor Script Authoring Tool (ASAT) and generic AutoTutor Conversation Engine (ACE)](autotutor-script-authoring-tool-asat-and-generic-autotutor-conversation-engine-ace.md) - The AutoTutor project’s ASAT authoring tool and ACE conversation engine let organizations create and deploy scripted conversational tutoring applications across domains.
@@ -818,6 +819,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [jmatayoshi/affect-transitions](jmatayoshiaffect-transitions.md) - An open-source Python module by Jeffrey Matayoshi for simulating affect transitions and computing L and L* statistics.
 * [Job Corps](job-corps.md) - Job Corps is a U.S.
 * [JOBSTART](jobstart.md) - JOBSTART is a nonresidential alternative education and occupational-training programme for disadvantaged high school dropouts, combining GED preparation, occupational skills training, support services, and job placement assistance.
+* [Jones' A First Course in Statistics](jones-a-first-course-in-statistics.md) - A statistics textbook by Jones that provides psychology and education research students with mathematical foundations in data description, correlation, probability, sampling, and curve fitting.
 * [Journal Data Dashboard](journal-data-dashboard.md) - The Journal Data Dashboard is a multi-panel visualization and retrieval tool developed by Nguyen et al.
 * [Journeys](journeys.md) - Journeys is a commercial K–6 English language arts curriculum developed and published by Houghton Mifflin Harcourt, with print and optional digital student and teacher materials.
 * [JTPA self-monitoring instrument](jtpa-self-monitoring-instrument.md) - A North Carolina State Department of Public Instruction instrument for reviewing Job Training Partnership Act program compliance across administrative, eligibility, training, work-experience, transition, and employment provisions.

@@ -65,3 +65,4 @@ For the first child, measurements covered "a period of six years and four months
 - [Different limbs and limb sections show alternating periods of acceleration and retardation in individual growth curves](alternating-acceleration-retardation-limb-growth.md) — related
 - [Cephalic index computed from calliper head measurements shows fluctuations in both children, with parental indices of 78.8 and 81.8](cephalic-index-fluctuations-two-children.md) — related
 - [Growth is not uniform but proceeds with variations in the limbs, trunk, and head, so gross measures require finer analysis](growth-nonuniform-segmental-development.md) — related
+- [Town's intensive study gave 52 first-year school children unusually thorough physical, anthropometric and mental measurement](town-52-children-thorough-measurement.md) — related

@@ -353,3 +353,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related
 - [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](spaced-practice-optimal-gaps-between-presentations.md) — a narrower finding that bears on this claim
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
+- [Material learned with the expectation of delayed reproduction is retained better than material learned for near-term reproduction](delayed-reproduction-expectation-improves-retention.md) — related

@@ -46,3 +46,4 @@ Correlational analysis within the same experiment relating posttest scores to be
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - [Correctness of generated and classified examples during learning correlates selectively with posttest task performance](example-correctness-correlations-posttest.md) — related
+- [Self-reported learning gains and correlational analyses suggest interrelations among second-order and strategy knowledge, epistemological beliefs, explanation ability, topic knowledge, and interest](correlational-interrelatedness-history-reasoning-constructs.md) — related

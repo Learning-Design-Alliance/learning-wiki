@@ -49,3 +49,4 @@ Reconstruction from lecture XXXIII of Mead's Course 50, in the article's section
 - Mead holds that social interaction precedes and produces reflective self-consciousness — related
 - [Mead observed that rapid change makes yesterday's knowledge useless, requiring education to teach coping with change rather than fixed content](mead-rapid-change-obsoletes-knowledge.md) — related
 - [Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application](washington-tuskegee-method-stifled-new-ideas.md) — related
+- [The editorial holds that the formal disciplinary idea of science as developing accuracy of method dominates science instruction and underlies claims of elementary pupils' immaturity.](formal-disciplinary-ideal-dominates-science-instruction.md) — related

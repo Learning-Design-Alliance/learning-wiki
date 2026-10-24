@@ -44,7 +44,8 @@ The brief distills its case studies and analyses into three themes and eight rec
 - [By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject](../claims/cps-ninth-graders-64-percent-miss-two-weeks-major-subject.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide special instruction for individual difficulties without full-day withdrawal from the regular classroom](special-instruction-individual-difficulties-without-withdrawal.md)
 
 ## Examples
 -

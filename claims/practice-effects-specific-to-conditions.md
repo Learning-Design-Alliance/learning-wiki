@@ -48,3 +48,4 @@ Theoretical conclusion drawn from the experiment's results and introspections. T
 - [Practice increases observers' ability to reproduce briefly exposed visual material, with final-over-initial gains ranging from 6% to 44% (average 22%).](practice-improves-visual-reproduction-6-44-percent.md) — related
 - [Practice gains are greater for nonsense material (average final gain 28%) than for sense-material (average final gain 10%).](nonsense-material-gains-exceed-sense-material.md) — related
 - [Systematic practise gives little warrant for markedly improving adults' quick visual perception; the slight poetry gain is attributed to familiarity with the poem](practise-negligible-effect-apprehension.md) — related
+- [Retroactive inhibition fails to appear when memorized syllables are merely recognized rather than actively reproduced](retroactive-inhibition-absent-for-recognition.md) — related

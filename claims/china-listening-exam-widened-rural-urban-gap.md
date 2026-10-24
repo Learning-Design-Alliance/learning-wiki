@@ -49,3 +49,4 @@ The article reports, citing Li et al. (2024), an analysis of administrative reco
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — a broader claim this one bears on
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
+- [The authors attribute rural children's superiority to city-school conditions: lack of correlation between the urban community and the school and inflexibility of the grade system](city-school-inflexibility-attribution.md) — related

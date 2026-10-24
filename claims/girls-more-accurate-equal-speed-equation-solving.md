@@ -66,3 +66,4 @@ Same ANOVA design on reaction times: the Gender main effect was not statisticall
 - [No significant gender differences in CTAT performance within either educational pathway](no-gender-differences-ctat-performance.md) — related
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
+- [In this group the average girl's grades equal or exceed the average boy's in all six subjects, with the largest advantage in Latin](girl-boy-average-grade-comparison-1912.md) — related

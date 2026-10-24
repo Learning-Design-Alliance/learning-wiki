@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 83 claims (53 for, 28 mixed, 2 against) · 62 studies (29 associational, 14 causal, 14 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 15 of 62 report an effect size · 82 claims rest on one study
+> **Evidence** · 90 claims (57 for, 31 mixed, 2 against) · 66 studies (33 associational, 14 causal, 14 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 16 of 66 report an effect size · 88 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -130,6 +130,13 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Self-efficacy mediates the relation between environmental antecedents and achievement emotions in e-learning, supporting the control-value theory mediation structure](../claims/self-efficacy-mediation-environmental-antecedents-emotions-e-learning.md) [+W]
 - [Gender, teaching experience, and educational level covary with TSE and burnout levels at Time 1](../claims/demographic-covariates-tse-burnout.md) [~W]
 - [In a structural equation model, self-efficacy for procedural knowledge positively predicts intended use of retrieval practice, while perceived cost negatively predicts reported use](../claims/self-efficacy-predicts-intent-cost-predicts-usage.md) [+W]
+- [Students' externalizing behavior is negatively associated with teachers' self-efficacy for instructional strategies, behavior management, student engagement, and emotional support](../claims/externalizing-behavior-lowers-tse-four-domains.md) [+W] — attached 2026-10-24 from M. Zee et al. (2016), which proposed "Dyadic perspective on teacher self-efficacy".
+- [Students' internalizing behavior predicts lower teacher self-efficacy for instructional strategies and emotional support but higher self-efficacy for behavior management](../claims/internalizing-behavior-mixed-tse-domains.md) [+W] — attached 2026-10-24 from M. Zee et al. (2016), which proposed "Dyadic perspective on teacher self-efficacy".
+- [Teachers' perceived classroom misbehavior exacerbates the negative association between externalizing student behavior and self-efficacy for behavior management](../claims/classroom-misbehavior-moderates-externalizing-tse.md) [+W] — attached 2026-10-24 from M. Zee et al. (2016), which proposed "Dyadic perspective on teacher self-efficacy".
+- [In Grades 7-9, transcription contributes to writing quality indirectly through planning and self-efficacy](../claims/transcription-indirect-effect-older-writers.md) [+W]
+- [Student-reported teacher neuroticism negatively predicts student performance self-efficacy, with effects that differ across mathematics and English](../claims/teacher-neuroticism-predicts-performance-self-efficacy.md) [~W]
+- [Planning and self-efficacy contributed more to text generation in Grades 7-9, transcription more in Grades 4-6](../claims/structural-paths-noninvariant-across-grades.md) [~W]
+- [Most variance in teachers' self-efficacy toward individual students occurs within teachers rather than between teachers](../claims/tse-variance-within-teachers-dyadic.md) [~W]
 
 ## The evidence by question
 

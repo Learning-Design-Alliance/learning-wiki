@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (17 for, 15 mixed) · 50 studies (16 causal, 10 quant-synthesis, 8 review, 6 theoretical, 4 associational, 4 qualitative, 2 design), `q1`–`q4` · 10 of 50 report an effect size · 22 claims rest on one study
+> **Evidence** · 33 claims (17 for, 16 mixed) · 51 studies (16 causal, 10 quant-synthesis, 8 review, 6 theoretical, 5 associational, 4 qualitative, 2 design), `q1`–`q4` · 10 of 51 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Claims this page cited before it was rewritten, and claims found for it that bea
 
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [+W] — one case analysis (`q1`, no comparison) of teacher candidates' weekly written reflections in a clinical course; it is about reflective writing on teaching, not writing instruction, and bears on responding before the final version and requiring revision only by analogy: progress was partial and not linear.
 - [Reading Writing Abilities Overlap](../claims/reading-writing-abilities-overlap.md) [+M]
+- [Revision skill was not related to writing quality in either grade group](../claims/revision-not-related-writing-quality.md) [~W] — attached 2026-10-24 from Limpo et al. (2013), which proposed "Teach transcription to automaticity and promote planning, revising, and self-efficacy in the middle grades"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

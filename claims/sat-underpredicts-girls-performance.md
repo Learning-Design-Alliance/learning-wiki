@@ -86,3 +86,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores](late-arriving-els-strong-gpas-low-sat.md) — related
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — related
 - [Women were less accurate than men on the opposites tests but were less mature and less advanced in scholarship](sex-differences-opposites-accuracy.md) — related
+- [In this group the average girl's grades equal or exceed the average boy's in all six subjects, with the largest advantage in Latin](girl-boy-average-grade-comparison-1912.md) — related

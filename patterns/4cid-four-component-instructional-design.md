@@ -37,7 +37,7 @@ grain_size: unit
 # 4C/ID (Four-Component Instructional Design)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 24 claims (14 for, 10 mixed) · 26 studies (10 causal, 5 theoretical, 4 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 26 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (14 for, 12 mixed) · 27 studies (11 causal, 5 theoretical, 4 review, 3 design, 2 qualitative, 1 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 27 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -138,6 +138,8 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 - [As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit](../claims/within-teacher-performance-trajectories-as-scaffolds-faded.md) [~W]
 - [Delayed post-learning assessments of ICL, ECL, and GCL do not differ between increasing and decreasing complexity sequences](../claims/delayed-assessments-invariant-to-sequence.md) [~W]
 - [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](../claims/icl-ratings-track-complexity-sequence.md) [~W]
+- [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](../claims/rats-whole-method-time-errors-advantage.md) [~W]
+- [The motor habit for a maze section shows practically no disintegration over the intervals between part-learning trials](../claims/negligible-motor-disintegration-over-interval.md) [~W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

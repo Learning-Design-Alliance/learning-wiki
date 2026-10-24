@@ -68,3 +68,4 @@ In the specific comparisons, test scores showed more negative neuroticism correl
 - [For agreeableness, the language–STEM difference in achievement correlations is significant only for test scores, yielding a significant domain × measure interaction](agreeableness-domain-measure-interaction.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
+- [Student-reported teacher neuroticism negatively predicts student performance self-efficacy, with effects that differ across mathematics and English](teacher-neuroticism-predicts-performance-self-efficacy.md) — related

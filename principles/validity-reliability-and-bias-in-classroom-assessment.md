@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 258 claims (110 for, 131 mixed, 17 against) · 189 studies (69 associational, 46 design, 27 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 189 report an effect size · 252 claims rest on one study
+> **Evidence** · 259 claims (110 for, 132 mixed, 17 against) · 191 studies (71 associational, 46 design, 27 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 191 report an effect size · 252 claims rest on one study
 
 ## Conditional relationship
 
@@ -332,6 +332,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The Haggerty Intelligence Examination Delta 1 for grades 1-3 correlates .68 with teachers' estimates](../claims/haggerty-delta-1-correlation-68-teachers-estimates.md) [~W]
 - [Thurstone-Brown agreement was closer than Otis-Illinois: median rank changes of 6.7 places (freshmen, r = 0.74) and 10.4 places (sophomores, r = 0.613), with 26 and 32.8 per cent wrongly classed](../claims/thurstone-brown-college-rank-agreement.md) [~W]
 - [EIRT addition-strategy parameters show convergent validity with broad mathematics achievement (R² = .42) but not reading efficiency (R² = .08)](../claims/eirt-parameters-math-not-reading-validity.md) [+W]
+- [Common rater and multiple rater effects partly explain why student-reports of teacher personality correlate more strongly with outcomes](../claims/common-rater-and-multiple-rater-effects-teacher-personality.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

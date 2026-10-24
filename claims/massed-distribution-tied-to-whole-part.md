@@ -46,3 +46,4 @@ The author's fifth conclusion, framing the paper's central thesis that the distr
 - [The longer and more difficult the motor problem, the more advisable it is to break it into units and learn both the units and their connections under massed conditions](difficult-problems-part-method-massed.md) — related
 - [Short maze units learned under massed conditions connect into a serial whole with great economy, whereas units learned under distributed conditions connect only with extreme difficulty](massed-unit-learning-eases-connection.md) — a narrower finding that bears on this claim
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
+- [For rats, whole and part maze learning show no difference in trials, but the whole method saves time and errors](rats-whole-method-time-errors-advantage.md) — related

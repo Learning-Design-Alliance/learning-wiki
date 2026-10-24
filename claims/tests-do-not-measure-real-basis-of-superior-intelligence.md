@@ -45,3 +45,4 @@ The review reports this as Root's stated opinion, offered with no evidence or ar
 ## Related Claims
 - [Root's case histories characterize the superior child as having a good home and superior parents](superior-child-good-home-superior-parents.md) — related
 - [In Root's study, superior children (IQ 135+ younger, 120+ older) excelled normal children on all administered tests](superior-children-excelled-normal-on-all-tests.md) — related
+- [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](mental-tests-more-needed-for-superior-selection.md) — related

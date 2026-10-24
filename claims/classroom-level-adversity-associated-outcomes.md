@@ -46,3 +46,4 @@ The essay attributes this to Abry et al. (2018), a study of 1073 elementary stud
 - [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — related
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
 - [Prior secondary-school evidence indicates stronger student–teacher alignment on observable facets such as classroom management (r = .64) than on more internal or interpretive aspects](secondary-agreement-stronger-observable-facets.md) — related
+- [Teachers' perceived classroom misbehavior exacerbates the negative association between externalizing student behavior and self-efficacy for behavior management](classroom-misbehavior-moderates-externalizing-tse.md) — related

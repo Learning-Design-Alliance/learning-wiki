@@ -56,3 +56,4 @@ In the integrated doubly latent path model with all covariates, the BFLPE on pos
 - [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — related
 - [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related
 - [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](big-fish-little-pond-only-self-concepts-end-of-schooling.md) — related
+- [The school-level BFLPE on math self-concept is weak once class-level achievement is controlled](school-level-bflpe-weak-after-class-control.md) — related

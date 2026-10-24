@@ -49,3 +49,4 @@ Administrative report on statewide test use by the Bureau of Educational Measure
 - [Rate of silent reading rises most rapidly in grades 2, 3 and 4, while quality of silent reading increases at about the same rate throughout the grades.](rate-versus-quality-progress-curves.md) — related
 - [Twelve-year-old pupils score a median of 23 on all three test forms](wilson-twelve-year-old-median-23-all-forms.md) — related
 - [The Kansas Silent Reading Tests appear to measure quality of silent reading (comprehension) rather than rate.](kansas-tests-measure-comprehension-not-rate.md) — related
+- [86% of Detroit prevocational pupils fall below the third-grade level in silent reading](detroit-prevocational-silent-reading-below-grade-3.md) — a narrower finding that bears on this claim

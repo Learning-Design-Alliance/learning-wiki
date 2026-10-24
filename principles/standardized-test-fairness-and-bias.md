@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (7 for, 38 mixed, 3 against) · 31 studies (11 associational, 7 causal, 7 review, 2 design, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 31 report an effect size · 47 claims rest on one study
+> **Evidence** · 49 claims (8 for, 38 mixed, 3 against) · 32 studies (11 associational, 8 review, 7 causal, 2 design, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 32 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -177,6 +177,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [The authors interpret stereotype threat as a partial explanation for the standardized-test achievement gap between low- and high-SES students](../claims/stereotype-threat-partly-explains-ses-achievement-gap.md) [~W]
 - [The 'heart and soul' effort item is suitable for learning contexts in Mandarin Chinese and Spanish but not in the other interviewed cultures](../claims/lifeblood-item-culture-limited.md) [~W]
 - [Experimental and statistical norms are practically useful only when determined for a group of the same general type with equal opportunity to acquire the measured characteristics](../claims/norms-valid-only-for-comparable-groups.md) [+W]
+- [Binet-Simon intelligence tests are applicable only to European and American conditions; other tests are needed for primitive peoples](../claims/binet-simon-tests-culturally-limited.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here
