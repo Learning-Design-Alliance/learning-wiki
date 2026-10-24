@@ -13,7 +13,7 @@ generated:
 # Retrieval
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (10 for, 6 mixed, 2 against) · 19 studies (12 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 9 of 19 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (10 for, 7 mixed, 2 against) · 20 studies (13 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 10 of 20 report an effect size · 17 claims rest on one study
 
 ## Description
 Retrieval practice (the "testing effect") requires learners to pull information out of memory — via free recall, short-answer questions, quizzes, or self-explanation — instead of passively reviewing it. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later than equivalent time spent re-reading.
@@ -67,6 +67,7 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [The memory rating requirement moderated the restudy-versus-retrieval pattern: interference on retrieval trials and facilitation on restudy trials both contributed to the restudy superiority.](../claims/memory-rating-reactivity-moderates-restudy-advantage.md) [~W]
 - [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](../claims/pupils-improve-with-practice-no-fatigue-effect.md) [+W]
 - [Attempted recall during vocabulary study showed no demonstrable superiority over mere reading and re-reading in adult learners](../claims/recall-no-superiority-vocabulary-learning-thorndike.md) [-W]
+- [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](../claims/overcoming-barriers-intervention-no-perceived-cost-reduction.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

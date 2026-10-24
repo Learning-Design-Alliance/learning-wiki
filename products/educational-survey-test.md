@@ -25,7 +25,8 @@ A 30-minute composite elementary-school achievement test assembled from eight st
 - [A Difference score comparing educational and mental index values diagnoses whether a child's attainment is commensurate with measured ability, with Differences between minus 8 and plus 8 occurring in about half of cases](../claims/difference-score-ability-attainment-diagnosis.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Pintner's Mental Survey](pintners-mental-survey.md)
 
 ## Key Sources
 - Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall

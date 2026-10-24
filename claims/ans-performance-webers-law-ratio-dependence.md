@@ -70,3 +70,4 @@ Descriptive comparison of ANS task performance across the two testing times (Tab
 - [ANS acuity is a unique concurrent predictor of preschool math ability beyond expressive vocabulary, non-numerical attention RT, and memory span](ans-acuity-unique-concurrent-predictor-beyond-domain-general.md) — related
 - [Early ANS acuity (accuracy and RT) uniquely predicts preschoolers' math ability six months later, controlling for initial math ability, age, and expressive vocabulary](early-ans-acuity-predicts-math-growth-preschoolers.md) — related
 - [Numerosity comparison accuracy is ratio-dependent across grades three to five](numerosity-accuracy-ratio-dependent-grades-3-5.md) — possibly the same claim (merge candidate)
+- [Performance on the newly learned symbols shows canonical ratio effects, consistent with mapping novel symbols onto Approximate Magnitude System representations](novel-symbol-ratio-effects-ams-mapping.md) — a narrower finding that bears on this claim

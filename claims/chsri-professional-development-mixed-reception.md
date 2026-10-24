@@ -49,3 +49,4 @@ Interview finding from the 2004 study; principals reported difficulty freeing te
 - [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](family-engagement-appreciation-governance-dissatisfaction.md) — related
 - [Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction](cps-pd-spending-not-integrated.md) — related
 - [Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community](teacher-collaboration-time-scarce-contract.md) — related
+- [Having teachers study themselves as learners of a comparably hard abstract subject increases their appreciation of pupils' difficulties and sympathy with their efforts](teacher-as-learner-increases-empathy.md) — related

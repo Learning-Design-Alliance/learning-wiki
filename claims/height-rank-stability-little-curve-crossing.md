@@ -45,3 +45,4 @@ Correlational analysis of consecutive height measurements in the Iowa longitudin
 ## Related Claims
 - [Average-type children's percentage of final height attained by age 7 supports prediction of ultimate stature (70.3% for boys, 74.2% for girls)](height-percentage-final-growth-age-seven.md) — related
 - [Height at age 12 can be predicted from height at age 6 with a probable error of estimate of 2.98 cm for boys and 2.58 cm for girls](height-prediction-probable-error.md) — related
+- [Growth measurements at age ten predict stature at sixteen within about 2.5 centimeters and IQ over the same period within 6.3 points](childhood-growth-predicts-later-stature-and-iq.md) — related

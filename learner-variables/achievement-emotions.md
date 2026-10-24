@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 132 claims (85 show a difference, 36 mixed, 11 no difference) · 85 studies (29 associational, 21 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 19 of 85 report an effect size · 129 claims rest on one study
+> **Evidence** · 137 claims (89 show a difference, 37 mixed, 11 no difference) · 86 studies (30 associational, 21 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 86 report an effect size · 134 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -167,6 +167,11 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Abundance hypothesis: state test boredom relates negatively to performance on the difficult test part but not the easy part](../claims/abundance-hypothesis-overchallenge-boredom-performance.md) [~M] — learners who differ on it differ in outcomes
 - [Test boredom correlates negatively with math grades but not with the math test score in Study 1](../claims/test-boredom-negative-grades-not-test-score.md) [~M] — learners who differ on it differ in outcomes
 - [Images during retrieval practice enhanced feelings of competence but not enjoyment](../claims/images-enhance-competence-not-enjoyment.md) [-M] — instruction changes it
+- [Only the current teacher's enthusiasm relates to students' enjoyment; prior-year teacher enthusiasm is unrelated to next-year enjoyment](../claims/current-teacher-only-enjoyment-effect.md) [~M] — instruction changes it
+- [Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level](../claims/enthusiasm-within-class-student-enjoyment.md) [+M] — instruction changes it
+- [Student-perceived teacher enthusiasm mediates the relationship between teacher enjoyment and student enjoyment](../claims/teacher-enthusiasm-mediation-enjoyment.md) [+M] — instruction changes it
+- [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](../claims/enjoyment-decline-grade7-8-small.md) [+M] — instruction changes it
+- [Teacher enjoyment and student enjoyment in mathematics classrooms are positively related even after controlling for students' prior-year enjoyment](../claims/teacher-enjoyment-student-enjoyment-positive-link.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 128 claims (77 show a difference, 33 mixed, 18 no difference) · 99 studies (56 associational, 17 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 99 report an effect size · 127 claims rest on one study
+> **Evidence** · 129 claims (77 show a difference, 33 mixed, 19 no difference) · 100 studies (56 associational, 18 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 9 of 100 report an effect size · 128 claims rest on one study
 
 ## How to read this page
 
@@ -213,6 +213,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Indigenous youth and low-achieving, low-SES youth are at elevated NEET risk; school-average SES is protective](../claims/neet-risk-predictors-indigenous-achievement-school-ses.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [All three social class indicators (parental education, family cultural capital, family economic capital) positively predict standardized test performance among 15-year-olds](../claims/social-class-indicators-positive-predictors-pisa-performance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [National income inequality strengthens the economically based social class test gap (family economic capital)](../claims/income-inequality-strengthens-economically-based-gap.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Neither URM status nor first-generation status moderates the intervention effects on retrieval practice outcomes](../claims/no-demographic-moderation-intervention-effects.md) [-W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

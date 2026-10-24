@@ -1,0 +1,49 @@
+---
+type: claim
+title: Cross-lagged panel models revealed robust support for four transactional models of teacher- and student-reported closeness and teacher-reported conflict and dependency
+description: Cross-lagged panel models revealed robust support for four transactional models of teacher- and student-reported closeness and teacher-reported conflict and dependency
+id: four-transactional-models-closeness-conflict-dependency
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-24
+evidence_strength: moderate
+sources:
+  - id: m-zee-2021
+    resource: "https://doi.org/10.1037/edu0000574"
+    title: "M. Zee, K. Moritz Rudasill, R.J. Bosman. (2021). A Cross-Lagged Study of Students' Motivation, Academic Achievement, and Relationships With Teachers From Kindergarten to 6th Grade. Journal of Educational Psychology. https://doi.org/10.1037/edu0000574"
+    author: M. Zee, K. Moritz Rudasill, R.J. Bosman
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Cross-lagged panel models revealed robust support for four transactional models of teacher- and student-reported closeness and teacher-reported conflict and dependency
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+
+## Subclaims
+`q3 i?` The study found robust support for 4 transactional models covering teacher- and student-reported closeness and teacher-reported conflict and dependency. [→ M. Zee 2021](#m-zee-2021)
+
+## Evidence
+
+### M. Zee 2021
+
+M. Zee, K. Moritz Rudasill, R.J. Bosman. (2021). A Cross-Lagged Study of Students' Motivation, Academic Achievement, and Relationships With Teachers From Kindergarten to 6th Grade. Journal of Educational Psychology. https://doi.org/10.1037/edu0000574
+
+`q3 · i?` · `associational · r2`
+
+Cross-lagged panel model analyses in the 3-wave COOL cohort study revealed "robust support for 4 transactional models" spanning both teacher- and student-reported closeness and teacher-reported conflict and dependency.
+
+> "Cross-lagged panel models revealed robust support for 4 transactional models of teacher- and student-reported closeness, and teacher-reported conflict and dependency."
+
+## Discussion
+
+
+## Related Claims
+- [Student-teacher closeness, conflict and dependency, students' motivation, and academic achievement inform each other across the elementary grades](transactional-relations-motivation-relationships-achievement-k6.md) — a broader claim this one bears on
+- [Teacher-child conflict does not predict subsequent increases in children's inattention and impulsivity, contradicting a bidirectional transaction](no-bidirectional-conflict-to-self-regulation-effect.md) — related
+- [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
+- [Teacher-child closeness shows concurrent benefits but no prospective spillover to other domains once conflict covariation is controlled](closeness-benefits-concurrent-not-prospective.md) — related

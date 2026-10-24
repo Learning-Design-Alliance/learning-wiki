@@ -44,3 +44,4 @@ Case illustration in the MEANS section: a class-and-individual graph (dated Marc
 
 ## Related Claims
 - [Class graphs from the test are judged sufficiently reliable, while individual graphs are usefully suggestive but the least reliable conclusion](class-graphs-reliable-individual-graphs-suggestive.md) — a broader claim this one bears on
+- [Comparison with standard scores suggested three groupings of pupils with distinct instructional needs](three-groupings-from-standard-scores.md) — related

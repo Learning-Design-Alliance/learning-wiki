@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 74 claims (43 for, 29 mixed, 2 against) · 61 studies (27 associational, 13 review, 12 causal, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 17 of 61 report an effect size · 70 claims rest on one study
+> **Evidence** · 75 claims (44 for, 29 mixed, 2 against) · 62 studies (27 associational, 13 causal, 13 review, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 17 of 62 report an effect size · 71 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -122,6 +122,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Gender and year group are associated with fear appeal appraisals and baseline academic self-efficacy](../claims/gender-year-group-covariates-fear-appeal-appraisal.md) [~W]
 - [Self-efficacy mediates the relation between environmental antecedents and achievement emotions in e-learning, supporting the control-value theory mediation structure](../claims/self-efficacy-mediation-environmental-antecedents-emotions-e-learning.md) [+W]
 - [Gender, teaching experience, and educational level covary with TSE and burnout levels at Time 1](../claims/demographic-covariates-tse-burnout.md) [~W]
+- [In a structural equation model, self-efficacy for procedural knowledge positively predicts intended use of retrieval practice, while perceived cost negatively predicts reported use](../claims/self-efficacy-predicts-intent-cost-predicts-usage.md) [+W]
 
 ## The evidence by question
 

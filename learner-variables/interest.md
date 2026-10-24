@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (123 show a difference, 28 mixed, 18 no difference) · 125 studies (45 causal, 33 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 31 of 125 report an effect size · 163 claims rest on one study
+> **Evidence** · 174 claims (127 show a difference, 29 mixed, 18 no difference) · 126 studies (45 causal, 34 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 32 of 126 report an effect size · 168 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -204,6 +204,11 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Leavers reported lower end-of-semester interest, lower prior achievement, and lower biology grades than stayers, with no differences in FG status, gender, or baseline interest](../claims/leavers-lower-interest-achievement-grades-than-stayers.md) [+W] — learners who differ on it differ in outcomes
 - [Between 10% and 21% of students experienced significant declines in expectancy, intrinsic value, and utility value during the first half of the semester](../claims/proportion-significant-motivational-decline.md) [+W] — instruction changes it
 - [Students' expectancy, intrinsic value, and utility value decline significantly while perceived psychological and effort costs increase during the first half of gateway math courses](../claims/first-half-semester-motivational-decline-gateway-math.md) [+W] — instruction changes it
+- [Only the current teacher's enthusiasm relates to students' enjoyment; prior-year teacher enthusiasm is unrelated to next-year enjoyment](../claims/current-teacher-only-enjoyment-effect.md) [~M] — instruction changes it
+- [Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level](../claims/enthusiasm-within-class-student-enjoyment.md) [+M] — instruction changes it
+- [Student-perceived teacher enthusiasm mediates the relationship between teacher enjoyment and student enjoyment](../claims/teacher-enthusiasm-mediation-enjoyment.md) [+M] — instruction changes it
+- [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](../claims/enjoyment-decline-grade7-8-small.md) [+M] — instruction changes it
+- [Teacher enjoyment and student enjoyment in mathematics classrooms are positively related even after controlling for students' prior-year enjoyment](../claims/teacher-enjoyment-student-enjoyment-positive-link.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

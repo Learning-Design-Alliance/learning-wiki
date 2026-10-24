@@ -47,3 +47,4 @@ Same photographic-analysis experiment. The article interprets good writers' clos
 
 ## Related Claims
 - [Better adult writers show slightly greater temporal regularity in handwriting strokes, with the total stroke period showing the least variability](better-writers-more-temporally-regular-total-stroke-least-variability.md) — related
+- [The experiment did not confirm that speed increase carries increased reading effectiveness within the same individual](speed-gain-does-not-carry-effectiveness-gain.md) — related

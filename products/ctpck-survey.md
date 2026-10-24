@@ -27,6 +27,7 @@ A 16-item vignette-based assessment developed by the ENACT partnership to measur
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **CT–PCK construct framework: five core computational thinking practices integrated into middle school math via three instructional strategies**: The survey's organizing framework defines CT–PCK as teachers' knowledge of content and of instructional strategies that make content accessible, operationalized through five core CT practices drawn from a literature review: "pattern recognition, abstraction, decomposition, debugging, and algorithm development." Items were mapped to middle school math topics from Common Core grades 6–8 and to three instructional strategies for CT integration adapted from Rich et al. (2020): framing the lesson, prompting, and inviting reflection. (Witherspoon et al. (2026))
+- **Theory-based tests assessing PCK and CK of secondary mathematics teachers**: An assessment instrument pair built to measure pedagogical content knowledge and content knowledge of secondary mathematics teachers. The article describes "the theory-based construction of tests to assess these knowledge categories and the implementation of these tests in a sample of German mathematics teachers (N=198)." The tests served to examine whether the two knowledge categories can be distinguished empirically and how their connectedness varies with mathematical expertise. (Krauss et al. (2008))
 
 ### Claims
 - [The 16-item CT–PCK Survey measures CT pedagogical content knowledge for math as a single overall construct](../claims/ct-pck-16-item-single-construct.md) [+M]
@@ -41,8 +42,8 @@ A 16-item vignette-based assessment developed by the ENACT partnership to measur
 
 ## Key Sources
 - Witherspoon, E.B.; Dracopoli, M., Hawkins, M., Dahlke, K. (2026). Developing a measure of middle school math teachers' pedagogical content knowledge of computational thinking (REL 2026–007). U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/use-work/resource-library/report/descriptive-study/developing-measure-middle-school-math-teachers-pedagogical-content-knowledge-computational-thinking
-
 <!-- merged 2026-10-10 from elements/ct-pck-survey-middle-school-math ("CT–PCK Survey: a 16-item vignette-based measure of middle school math teachers' computational thinking pedagogical content knowledge"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Krauss, Stefan; Brunner, M.; Kunter, M.; Baumert, J.; Blum, W.; Neubrand, M.; Jordan, A. (2008). Pedagogical content knowledge and content knowledge of secondary mathematics teachers. Journal of Educational Psychology 100 (3), S. 716-725. https://doi.org/10.1037/0022-0663.100.3.716
 
 # CT–PCK Survey: a 16-item vignette-based measure of middle school math teachers' computational thinking pedagogical content knowledge
 

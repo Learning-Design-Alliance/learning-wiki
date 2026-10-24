@@ -45,3 +45,4 @@ Descriptive analysis of the Iowa growth-curve data on height. The author reports
 ## Related Claims
 - [Height at age 12 can be predicted from height at age 6 with a probable error of estimate of 2.98 cm for boys and 2.58 cm for girls](height-prediction-probable-error.md) — related
 - [Children maintain their relative height rank within a group from ages 4 to 18, with little crossing of growth curves](height-rank-stability-little-curve-crossing.md) — related
+- [Growth measurements at age ten predict stature at sixteen within about 2.5 centimeters and IQ over the same period within 6.3 points](childhood-growth-predicts-later-stature-and-iq.md) — related

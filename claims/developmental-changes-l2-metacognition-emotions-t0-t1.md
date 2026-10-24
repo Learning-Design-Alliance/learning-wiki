@@ -74,3 +74,4 @@ Paired t tests on the AEQ-ES emotion scales showed boredom rising from M = 1.51 
 - [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) — related
 - [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](anxiety-enjoyment-boredom-critical-sla-emotions.md) — related
 - [Mathematics anxiety remains low and does not change significantly during the first three school years](math-anxiety-low-unchanged-early-grades.md) — related
+- [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](enjoyment-decline-grade7-8-small.md) — related

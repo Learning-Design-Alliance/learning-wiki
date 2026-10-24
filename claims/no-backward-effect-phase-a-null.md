@@ -46,8 +46,10 @@ Exploratory two-tailed GLMM contrasts on Phase A artist posttests in Experiment 
 - [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Experiment 2 replicated the forward effect of cue-only JOLs over restudy with rock categories, and item-by-item feedback did not change the effect](cue-only-jol-forward-effect-feedback-null-replication.md) — related
 - [In Experiment 1, cue-only JOLs produced significantly better Phase B memory and transfer than restudy, while overt retrieval's memory advantage over restudy was only marginal](cue-only-jols-beat-restudy-forward.md) — related
 - [In Experiment 1, interim tasks with high retrieval probability (overt retrieval, cue-only JOLs) enhanced new inductive learning more than low-retrieval tasks (cue–target JOLs, restudy) on both memory and transfer](high-retrieval-tasks-forward-effect-inductive-learning.md) — related
 - [Self-reported retrieval use moderated the forward benefit of cue-only JOLs: higher retrieval ratings predicted better Phase B memory and transfer only in the cue-only JOLs condition](retrieval-self-report-moderates-cue-only-jol-benefit.md) — related
 - [Over a whole term of chemistry and nature-study lessons, only the slightest indication existed that facts were remembered better by virtue of their position in the course](term-course-position-negligible-recall-effect.md) — related
+- [The maze task included a re-solve phase in which participants solved the same maze forward or backward from finish to start](maze-resolve-forward-backward-phase.md)

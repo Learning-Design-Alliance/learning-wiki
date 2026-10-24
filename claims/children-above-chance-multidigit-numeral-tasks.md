@@ -49,3 +49,4 @@ Experiment 1 tested 91 children in kindergarten through second grade on mapping 
 - [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](symbols-only-training-improves-difficult-items.md) — related
 - [Base-10 blocks training was followed by a significant drop in kindergarteners' numerals-condition scores](blocks-training-numerals-scores-dropped.md) — related
 - [Children perform better with written numerals than with base-10 blocks or dot arrays on multidigit tasks](numerals-condition-outperforms-blocks-and-dots.md) — related
+- [Children can learn the meanings of novel number symbols through an artificial symbol learning paradigm, performing above chance on a subsequent symbolic comparison task](children-learn-novel-symbols-artificial-paradigm.md) — related
