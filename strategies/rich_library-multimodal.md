@@ -81,6 +81,7 @@ Multimodal resources can support learning when verbal and visual channels are co
 7. Assess both the product and the process — which resources learners used, how they evaluated them, and what they gained from each modality.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the library works best when learners have a hook for connecting new resources to what they know
 - [Choice Boards](../strategies/choice_boards.md) — a common structural device for organizing multimodal choice
 - [Annotating](../principles/annotating.md) — the comprehension move learners apply across formats
@@ -88,6 +89,7 @@ Multimodal resources can support learning when verbal and visual channels are co
 - [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
 - [Increase access to digital learning so materials are organized and accessible online](digital-learning-access-organized-materials.md)
 - [Generate multiple concise LLM perspectives for learners to select from, and explore relevance-driven diversity aligned with learner interests](multiple-concise-llm-perspectives-learner-selection.md)
+- [Support all students' open-minded exploration of educational and vocational options from early on](support-open-minded-exploration-educational-options.md)
 
 ## Examples
 - **[Newsela](https://newsela.com)** — the same news article at multiple reading levels, pairing text with quizzes; a tiered-library implementation for mixed-readability classrooms.

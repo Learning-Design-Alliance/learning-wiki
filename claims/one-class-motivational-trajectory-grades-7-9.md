@@ -52,3 +52,4 @@ Growth mixture modeling of 612 students across four time points (Grades 7–9) c
 - [Interest profiles combine homogeneous and heterogeneous patterns across the six dimensions](interest-profiles-homogeneous-and-heterogeneous-patterns.md) — related
 - [Latent profile analyses of interest dimensions best support two nearly identical sets of six profiles at both time points](lpa-six-interest-profiles-two-time-points.md) — related
 - [Discrepancies hint at a novel and separate developmental trajectory of interests requiring further investigation](novel-separate-interest-development-trajectory.md) — related
+- [Class membership is statistically significantly related to external measures of math Fluency and Interest in Math](class-membership-external-validity-fluency-interest.md) — related

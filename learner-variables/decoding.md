@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (72 show a difference, 20 mixed, 15 no difference) · 69 studies (22 associational, 19 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 26 of 69 report an effect size · 102 claims rest on one study
+> **Evidence** · 108 claims (73 show a difference, 20 mixed, 15 no difference) · 70 studies (23 associational, 19 quant-synthesis, 16 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 26 of 70 report an effect size · 103 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -148,6 +148,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Patterns of relations among word reading and fluency measures were similar across Greek and English, consistent with a language-independent fluency development trajectory](../claims/fluency-development-patterns-similar-across-languages.md) [+M] — learners who differ on it differ in outcomes
 - [Text reading efficiency shows a stronger relation with reading comprehension than accuracy or rate](../claims/text-reading-efficiency-stronger-relation-than-accuracy-rate.md) [+M] — learners who differ on it differ in outcomes
 - [Text reading is strongly related to reading comprehension overall (r = .61)](../claims/text-reading-comprehension-overall-relation-r61.md) [+M] — learners who differ on it differ in outcomes
+- [At age 12, mathematics is more strongly correlated with reading comprehension than with word decoding at the phenotypic latent-factor level](../claims/mathematics-more-correlated-with-reading-comprehension-than-decoding.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

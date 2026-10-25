@@ -48,3 +48,4 @@ Qualitative interview analysis of bilingual participants' reflections on effort 
 - [Bilingual interviewees across six languages all recognized the effort–load distinction but emphasized different aspects of each construct](cross-cultural-effort-load-understanding.md) — a broader claim this one bears on
 - [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — related
 - [Promoting autonomous motivation was linked to higher motivation, lower experienced cognitive load, and higher achievement, but causality cannot be interpreted](autonomous-motivation-lower-load-higher-achievement-cross-sectional.md) — related
+- [Mental development proceeds from the indistinct to the distinct and from the passive to the active, driven by environmental experience rather than spontaneity alone](development-indistinct-to-distinct.md) — related

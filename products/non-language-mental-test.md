@@ -20,6 +20,7 @@ A group intelligence test developed by Pintner and colleagues for school childre
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Pintner's standardized non-language performance test scale (15 tests, eight standardized so far)**: Rudolf Pintner reported progress in standardizing performance tests that are independent of language, intended for examining individuals with poor language endowment or limited English. The report states a scale of such tests "will be very serviceable in examining non-English-speaking individuals." The tests standardized at the time of the report were the Feature Profile, Manikin, Five Figure Board, Two Figure Board, Casuist Form Board, Seguin Form Board, Adaptation Board, and Healy's Five Block Frame Test. (Kelley (1915))
 
 ### Claims
 - [A Difference score comparing educational and mental index values diagnoses whether a child's attainment is commensurate with measured ability, with Differences between minus 8 and plus 8 occurring in about half of cases](../claims/difference-score-ability-attainment-diagnosis.md) [+M]
@@ -31,3 +32,4 @@ A group intelligence test developed by Pintner and colleagues for school childre
 
 ## Key Sources
 - Pintner, R., and Marshall, H. (1920). A Combined Mental-Educational Survey. The Journal of Educational Psychology. https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall
+- Kelley, T. L. (1915). Report of the Twenty-fourth Annual Meeting of the American Psychological Association, Chicago, December 28-30, 1915. The Journal of Educational Psychology. https://www.jstor.org/journal/jeducpsych

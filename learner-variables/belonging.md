@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (75 show a difference, 22 mixed, 3 no difference) · 74 studies (23 review, 13 associational, 12 causal, 12 qualitative, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 4 of 74 report an effect size · 95 claims rest on one study
+> **Evidence** · 101 claims (76 show a difference, 22 mixed, 3 no difference) · 75 studies (23 review, 14 associational, 12 causal, 12 qualitative, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 4 of 75 report an effect size · 96 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -137,6 +137,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Engagement rises with equivalent peer and teacher relatedness, but this positive trend weakens and reverses below a printed threshold on the line of congruence (Study 1)](../claims/loc-engagement-rising-trend-reversal.md) [~W] — learners who differ on it differ in outcomes
 - [In Study 1, peer and teacher relatedness correlate moderately with each other and with outcomes, while well-being and engagement correlate only trivially](../claims/relatedness-descriptive-correlations-study1.md) [+M] — learners who differ on it differ in outcomes
 - [School engagement tends to be higher when peer relatedness exceeds teacher relatedness near average levels, but this reverses beyond about a 1.2 SD excess in peer relatedness (Study 1)](../claims/peer-over-teacher-relatedness-engagement-reversal.md) [~W] — learners who differ on it differ in outcomes
+- [Victims with at least one defender at the start of the school year report higher feelings of belonging at year's end than nondefended victims, but lower belonging than nonvictims](../claims/defended-victims-higher-belonging-than-nondefended-lower-than-nonvictims.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

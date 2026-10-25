@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 122 claims (43 for, 69 mixed, 10 against) · 65 studies (39 associational, 14 review, 6 theoretical, 3 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 65 report an effect size · 121 claims rest on one study
+> **Evidence** · 129 claims (46 for, 72 mixed, 11 against) · 69 studies (40 associational, 15 review, 7 theoretical, 4 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 8 of 69 report an effect size · 128 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -173,6 +173,13 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Eliminating both the normal school and normal mentality (I.Q.) groups yields Q = +.97 between school retarded/advanced and mentally backward/bright](../claims/school-mentality-q-both-normal-groups-eliminated-097.md) [~W]
 - [Schools retard more children than mentality levels would predict: 36.8% are below normal in school versus 20.1% below normal in mentality](../claims/schools-retard-mentally-normal-children.md) [~W]
 - [Excluding a middle 'normal' school group raises the association between school retardation/advancement and median-mentality to Q = +.85](../claims/school-mentality-q-eliminating-normal-school-group-085.md) [~W]
+- [Complete pictorial comprehension (imaginative insight) emerges only around adolescence, with earlier ages showing enumeration, description, and superficial unification](../claims/pictorial-comprehension-stages-by-age.md) [+W] — attached 2026-10-25 from Squire (1912), which proposed "Seven critical points of mental efficiency as the organizing axis for graded mental age-norms".
+- [Physical (cephalometric) indices of intelligence have only very limited practical application despite real organ-function correlations](../claims/cephalometry-limited-intelligence-index.md) [+W]
+- [A child's attitude materially affects test performance, so wilful failure on a test is not evidence of feeble-mindedness](../claims/attitude-affects-test-performance-wilful-failure.md) [-W]
+- [The short form saves about eleven hours of giving and scoring time per class of thirty pupils compared with the long scales](../claims/survey-test-saves-eleven-hours-per-class.md) [+W]
+- [Binet-Simon results fit normal children's chronological ages better in early years, while the Yerkes-Bridges point scale gives better results from age eight or nine on, due to scoring methods](../claims/binet-versus-yerkes-bridges-age-fit.md) [~W]
+- [The Binet-Simon metric scale works well with normal and slightly atypical children but is less satisfactory with imbeciles and idiots and almost worthless for dements](../claims/binet-scale-fails-severe-defect-and-dementia.md) [~W]
+- [Testing elementary psychic states is a poor direct measure of adult intelligence, but attention or memory measures are legitimate indirect indices in children](../claims/indirect-intelligence-measurement-children.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

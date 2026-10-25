@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1932 entries** · 0 stable · 1932 in review · 0 drafts
+**1937 entries** · 0 stable · 1937 in review · 0 drafts
 
 ---
 
@@ -409,6 +409,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [DBagent](dbagent.md) - DBagent is a course-specific LLM-based educational agent developed by Li et al.
 * [DC citywide lottery ranked-preference dataset from over 20,000 applicants to more than 100 schools](dc-citywide-lottery-ranked-preference-dataset-from-over-20000-applicants-to-more-than-100.md) - A dataset of ranked school-preference lists submitted by more than 20,000 families to Washington, DC's citywide lottery for over 100 traditional and charter public schools, collected for the associated 2013–2015 Walton Family Foundation project.
 * [DCPS Special Education Service Delivery Model (SDM)](dcps-special-education-service-delivery-model-sdm.md) - A District of Columbia Public Schools model that organizes decentralized special-education identification, assessment, placement, and early intervention through building-level collaborative teams.
+* [De Sanctis six-test series for measuring and grading mental deficiency](de-sanctis-six-test-series-for-measuring-and-grading-mental-deficiency.md) - A six-test medico-pedagogical assessment series proposed by Sante De Sanctis for classifying the degree of mental deficiency in institutionalized and special-school populations.
 * [Dearborn Intelligence Examination Series I and Series II](dearborn-intelligence-examination-series-i-and-series-ii.md) - A standardized group intelligence examination series developed by Walter F.
 * [DebugTracker](debugtracker.md) - DebugTracker is a Visual Studio Code extension created by Jiatong Liu et al.
 * [DeepTutor](deeptutor.md) - DeepTutor is an AI-powered personalized tutoring platform developed by Zhao et al.
@@ -724,10 +725,13 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Head-Toes-Knees-Shoulders (HTKS) task](head-toes-knees-shoulders-htks-task.md) - A brief, game-like direct assessment developed for young children that measures behavioral self-regulation through rule reversal, attention, working-memory, and inhibitory-control tasks.
 * [Headsprout Early Reading](headsprout-early-reading.md) - Headsprout Early Reading is an Internet-based supplemental early-literacy curriculum developed by Headsprout, using adaptive animated lessons, stories, flashcards, and readers to teach foundational reading skills.
 * [Healthy Harlem](healthy-harlem.md) - Healthy Harlem is a school-based health and wellness programme whose Get Fit and Prevention components promote students' physical fitness, nutrition knowledge, and physical-activity self-efficacy.
+* [Healthy Minds Program](healthy-minds-program.md) - A smartphone meditation and well-being training app developed and operated by the Center for Healthy Minds, organized around the Awareness, Connection, Insight, and Purpose model.
+* [Healthy Minds Program (HMP)](healthy-minds-program-hmp.md) - Healthy Minds Innovations' Healthy Minds Program is a free smartphone-based meditation app that delivers structured audio lessons and guided practices for cultivating well-being skills.
 * [HEARTS](hearts.md) - A whole-school, trauma-informed programme developed by the University of California, San Francisco and implemented in San Francisco Unified School District schools through tiered supports, staff training, consultation, and student interventions.
 * [HEC Health Equity Framework](hec-health-equity-framework.md) - A co-developed health-equity framework with implementation supports that organizes actions to improve care and disrupt intersecting systems of oppression in healthcare.
 * [Heggerty's Bridge to Reading](heggertys-bridge-to-reading.md) - A teacher-led foundational skills curriculum from Heggerty that combines explicit phonics and phonemic-awareness lessons for daily kindergarten through grade 2 instruction.
 * [HelpCoach](helpcoach.md) - A research-developed in situ chat-interface add-on by Hyoungwook Jin and colleagues that monitors and scaffolds students’ targeted help-seeking during AI-supported problem solving.
+* [Here and Now Story Book](here-and-now-story-book.md) - A collection of stories for young children based on their everyday activities and interests, published by E.
 * [Hero Elementary](hero-elementary.md) - Hero Elementary is a multiplatform K–2 science and literacy curriculum programme offering themed activity playlists for use in formal and informal learning settings.
 * [Hierarchical Diagnostic Reasoning (HDR)](hierarchical-diagnostic-reasoning-hdr.md) - A structured case-based assessment proposed by Takahashi et al.
 * [High School Redirection](high-school-redirection.md) - High School Redirection is an alternative high-school programme model for students at high risk of noncompletion, implemented through small schools offering remedial instruction, mentoring, childcare, independent study, and accelerated credit accumulation.
@@ -1982,6 +1986,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [1,650-question STEM diagram dataset collected via campus-wide submission campaign](1650-question-stem-diagram-dataset-collected-via-campus-wide-submission-campaign.md) - A restricted dataset of 1,650 educator- and student-submitted STEM questions containing structurally meaningful diagrams for evaluating AI interpretation of topological reasoning, collected and curated by Sun et al.
 * [10-item self-report questionnaire for critical use of genAI](10-item-self-report-questionnaire-for-critical-use-of-genai.md) - A 10-item, 5-point Likert self-report questionnaire developed by Markus H.
+* [100-word range of information test in botany](100-word-range-of-information-test-in-botany.md) - A 100-term botanical vocabulary and information test developed by Grier for assessing first-year high-school pupils' plant-life knowledge carried from nature study and school gardens.
 * [15-item theory-based cognitive load questionnaire](15-item-theory-based-cognitive-load-questionnaire.md) - A Krieglstein et al.
 * [168-essay three-draft-type corpus with standardized ChatGPT-4 revision prompt](168-essay-three-draft-type-corpus-with-standardized-chatgpt-4-revision-prompt.md) - A research dataset created by Zhao et al.
 * [18-item engagement rating list for observing CL engagement](18-item-engagement-rating-list-for-observing-cl-engagement.md) - An 18-item, rater-administered observation instrument developed by Hijzen et al.

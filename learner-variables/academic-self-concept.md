@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (81 show a difference, 23 mixed, 10 no difference) · 56 studies (30 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 14 of 56 report an effect size · 111 claims rest on one study
+> **Evidence** · 115 claims (82 show a difference, 23 mixed, 10 no difference) · 57 studies (31 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 14 of 57 report an effect size · 112 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -149,6 +149,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [In German, students' prior intrinsic value and attainment value positively predict their later academic self-concept](../claims/value-predicts-later-self-concept-german.md) [+M] — instruction changes it
 - [In math and English, students' prior academic self-concept positively predicts their later intrinsic value and attainment value across secondary school](../claims/self-concept-predicts-later-value-math-english.md) [+M] — learners who differ on it differ in outcomes
 - [The strength of relations among self-concept and value constructs remains stable in size across Grades 5 to 9](../claims/stable-relation-size-across-secondary-years.md) [+M] — learners who differ on it differ in outcomes
+- [Math self-concept and language arts utility value are the strongest single correlates of the corresponding final grades](../claims/domain-self-concept-utility-strongest-grade-correlates.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

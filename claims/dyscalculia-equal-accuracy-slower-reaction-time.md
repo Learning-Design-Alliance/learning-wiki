@@ -76,3 +76,4 @@ Format main effect on accuracy in the same ANOVA: symbolic numbers were responde
 - [No univariate activation-level differences between adults with dyscalculia and controls during symbolic or non-symbolic number processing](dyscalculia-no-univariate-activation-differences.md) — related
 - [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md)
 - [At all ages, children with developmental dyscalculia perform significantly lower than controls in magnitude comparison tasks using symbolic numbers](dd-symbolic-magnitude-comparison-deficit-all-ages.md) — related
+- [Defective children respond more slowly and more irregularly on the word-association test than normal children](defectives-slower-irregular-association-response-times.md) — related

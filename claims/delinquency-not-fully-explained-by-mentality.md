@@ -49,3 +49,4 @@ The author's interpretive conclusion drawn from the substitution-test performanc
 - [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — related
 - [For Dewey, moral knowledge is a product of moral inquiry, so character education should add moral problem solving rather than teach fixed principles through example, reward, or punishment](moral-knowledge-product-of-moral-inquiry.md) — related
 - [For the feeble-minded, punishment is of little avail because the moral sentiment is impaired](punishment-ineffective-impaired-moral-sentiment.md) — related
+- [A child's attitude materially affects test performance, so wilful failure on a test is not evidence of feeble-mindedness](attitude-affects-test-performance-wilful-failure.md) — related

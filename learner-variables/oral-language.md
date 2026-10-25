@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (61 show a difference, 20 mixed, 23 no difference) · 74 studies (26 associational, 16 review, 15 quant-synthesis, 14 causal, 2 theoretical, 1 design), `q1`–`q3` · 25 of 74 report an effect size · 101 claims rest on one study
+> **Evidence** · 105 claims (61 show a difference, 21 mixed, 23 no difference) · 75 studies (26 associational, 16 review, 15 causal, 15 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 26 of 75 report an effect size · 102 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -141,6 +141,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Total effects on writing quality are largest for discourse-level oral language (.46), working memory (.43), and spelling (.37)](../claims/total-effects-on-writing-quality-ranking.md) [+M] — learners who differ on it differ in outcomes
 - [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](../claims/general-oral-language-factor-predicts-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Non-LEP students outperformed LEP-designated students on oral language, reading comprehension, and decoding fluency factors with large effect sizes in grades 5 and 7](../claims/lep-nonlep-factor-score-differences-large-effects.md) [+M] — learners who differ on it differ in outcomes
+- [In Study 1, effects of language-focused Tier II instruction were moderated by qualification status: dual-qualified children gained on expressive language while language-only children scored lower on definitional vocabulary](../claims/study1-qualification-moderation-language-outcomes.md) [~M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

@@ -48,3 +48,4 @@ The only substantive content supplied is the manuscript's own title line on the 
 - [Non-competence-based constructs including temperaments, attachment, and socioeconomic variables predict or moderate achievement goals](non-competence-constructs-integrate-with-achievement-goals.md) — a broader claim this one bears on
 - [In more competitive school environments, students from lower SES backgrounds report more positive self-views than their more advantaged peers, narrowing SES gaps in self-views](competitive-schools-narrow-ses-gaps-self-views.md) — related
 - [The moderating effects of school competitiveness on SES gaps were statistically significant but small in size](competitiveness-ses-interactions-small-effects.md) — related
+- [Experimentally induced income inequality increases perceived competitiveness and decreases perceived cooperativeness of the school environment](induced-inequality-perceived-school-climate.md) — a narrower finding that bears on this claim

@@ -31,7 +31,7 @@ sources:
 # Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (17 for, 8 mixed, 3 against) · 45 studies (13 quant-synthesis, 10 causal, 10 review, 6 theoretical, 5 associational, 1 qualitative), `q1`–`q4` · 12 of 45 report an effect size · 16 claims rest on one study
+> **Evidence** · 29 claims (17 for, 8 mixed, 4 against) · 46 studies (13 quant-synthesis, 11 causal, 10 review, 6 theoretical, 5 associational, 1 qualitative), `q1`–`q4` · 12 of 46 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [The Torgerson et al. (2006) meta-analysis of randomized controlled trials found almost no strong evidence for systematic phonics](../claims/torgerson-rct-meta-analysis-weak-evidence-phonics.md) [-W]
 - [Long-term effects of systematic phonics are short-lived, reducing from d = 0.29 immediately after training to d = 0.07 after about a year](../claims/suggate-phonics-long-term-effects-short-lived.md) [-W]
 - [Over a decade of legally mandated synthetic phonics in England has not improved standardized reading outcomes (PIRLS, PISA, SATs)](../claims/england-mandated-phonics-no-standardized-outcome-gains.md) [-W]
+- [In Study 1, code-focused Tier II instruction yielded only a marginal advantage on letter names and no significant differences on other code-related measures](../claims/study1-code-tier2-marginal-only.md) [-W]
 
 ## Related Principles
 - [Chunking](chunking.md) — phonics scope-and-sequence works by introducing grapheme–phoneme correspondences in small, cumulative sets

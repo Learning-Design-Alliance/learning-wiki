@@ -46,3 +46,4 @@ Survey of the status-difference column of Chart I for the 100 cases. The author 
 
 ## Related Claims
 - [The Binet-Simon and Yerkes Point Scale ratings of children run parallel and are practically identical up to age ten](binet-point-scale-parallel-to-age-ten.md) — related
+- [Binet-Simon results fit normal children's chronological ages better in early years, while the Yerkes-Bridges point scale gives better results from age eight or nine on, due to scoring methods](binet-versus-yerkes-bridges-age-fit.md) — related

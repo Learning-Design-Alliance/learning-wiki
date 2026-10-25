@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 115 claims (59 for, 55 mixed, 1 against) · 73 studies (27 causal, 24 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 15 of 73 report an effect size · 112 claims rest on one study
+> **Evidence** · 116 claims (59 for, 56 mixed, 1 against) · 74 studies (27 causal, 25 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 15 of 74 report an effect size · 113 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -178,6 +178,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [The digit memory-span increases with age rather than with grade-promotion measures of intelligence, reaching a limit of six digits for most grammar and high school pupils](../claims/memory-span-increases-with-age-not-intelligence.md) [~W]
 - [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](../claims/problem-analysis-facilitates-text-recall.md) [+W] — attached 2026-10-24 from Schmidt et al. (1989), which proposed "Activation hypothesis: problem analysis packages activated prior knowledge into explanatory models that speed access and integration of new text information".
 - [More variable WM performance at all timescales is related to lower school achievement](../claims/wm-variability-lower-school-achievement.md) [+W]
+- [Picture memory span develops in stages: about six objects retained at ages six to seven, nine to ten objects at ages eight to ten, and higher at eleven and above](../claims/picture-memory-span-age-stages.md) [~W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

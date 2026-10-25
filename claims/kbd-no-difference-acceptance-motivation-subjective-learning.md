@@ -75,3 +75,4 @@ Welch t-test on the Perceived Competence subscale; the control group (M = 4.71, 
 - [Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment](adaptive-its-no-difference-cognitive-load-enjoyment.md) — related
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related
 - [In-session autonomy, competence and intrinsic motivation are higher during basketball mathematics than during classroom mathematics](higher-in-session-motivation-during-basketball-mathematics.md) — related
+- [The game sessions showed high attendance, engagement, and enjoyment, with no differences among conditions](board-game-high-engagement-enjoyment-attendance.md) — related

@@ -54,3 +54,4 @@ MGCFA nested-model comparisons (no constraint, equal loadings, equal loadings pl
 - [13%–15% of MAP Growth items per subject were flagged as significantly drifted by the Robust Z procedure, with no clear pattern among flagged items](map-growth-robust-z-flags-13-15-percent-items.md) — related
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
+- [The motivational measures show strict longitudinal measurement invariance across the two time points](strict-measurement-invariance-motivation-two-waves.md) — related

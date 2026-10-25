@@ -76,3 +76,4 @@ The review's summary of studies including mediation findings (Gniewosz et al., 2
 - [Achievement shows positive within-domain and negative cross-domain effects on academic self-concept and value, replicating dimensional comparison theory](dimensional-comparison-achievement-self-concept-paths.md) — related
 - [Grades show mediated dimensional comparison effects on course choices via self-concept and value](mediated-dimensional-comparison-course-choices.md) — related
 - [In German, students' prior intrinsic value and attainment value positively predict their later academic self-concept](value-predicts-later-self-concept-german.md) — related
+- [Within each school subject, self-concept and the three value facets correlate positively with one another and negatively with opportunity cost](within-subject-value-facets-positive-cost-negative.md) — related

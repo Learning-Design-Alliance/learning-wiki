@@ -72,3 +72,4 @@ Correlational study (Kohen-Raz & Masalha, 1988) showing suppression of synkineti
 - [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [Gesturing while explaining problem solving reduces cognitive load](gesturing-reduces-cognitive-load.md) — related
+- [Sidis's laboratory experiments found the condition of sleep similar to the condition produced by suggestion, both normal and abnormal](sidis-sleep-similar-to-suggestion-condition.md) — related

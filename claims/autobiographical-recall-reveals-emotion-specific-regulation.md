@@ -50,3 +50,4 @@ Cross-study comparison: Study 1 (hypothetical narratives, N = 80) found no emoti
 - [When recalling their own experiences, 5- and 6-year-olds use metacognitive strategies more to alleviate sadness and fear than anger](metacognitive-strategies-more-for-sadness-fear-than-anger.md) — related
 - [A majority of 5- and 6-year-olds can describe metacognitive emotion regulation strategies when asked about familiar hypothetical situations with multiple prompts](five-six-year-olds-describe-metacognitive-emotion-regulation.md) — related
 - [Five- and six-year-olds describe changing thoughts more often than changing goals as a metacognitive strategy](children-change-thoughts-more-than-goals.md) — related
+- [Three-year-old children show strong spontaneous interest in story-form recitals of their own daily activities](three-year-olds-revel-in-daily-routine-stories.md) — related

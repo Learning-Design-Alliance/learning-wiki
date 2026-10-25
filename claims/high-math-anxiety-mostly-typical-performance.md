@@ -51,3 +51,5 @@ In the same 1757-child cross-sectional sample, of students with high MA (scores 
 - [MA correlates negatively with mathematics performance in the whole sample (rs = -.30) but not within the DD or DD+RD groups](ma-performance-correlation-dissociates-in-dd.md) — related
 - [Developmental dyscalculia prevalence was 5.6% in this UK sample, with no significant gender difference](dd-prevalence-5-6-percent-no-gender-difference.md) — related
 - [High achievers show the lowest math anxiety and MLD students the highest across achievement groups](high-achievers-lowest-anxiety-mld-highest.md) — related
+- [Anxious low achievers: a large class of children shows low math achievement and the highest math anxiety despite average numerosity](anxious-low-achievers-average-numerosity.md) — related
+- [No group of high-performing children also showed high math anxiety in this sample](no-high-performers-with-high-anxiety.md) — related

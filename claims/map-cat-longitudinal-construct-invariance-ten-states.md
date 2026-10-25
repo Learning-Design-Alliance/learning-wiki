@@ -77,3 +77,4 @@ Nested linear MLGM model comparisons for measurement invariance across five wave
 - Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related
 - [Longitudinal partial strong measurement invariance of the four-item self-efficacy survey justifies fitting growth models to its scores](self-efficacy-survey-partial-longitudinal-invariance.md) — related
 - [Meaningful longitudinal linking depends on the construct not changing across measurement occasions](construct-stability-assumption-longitudinal-linking.md) — a broader claim this one bears on
+- [The motivational measures show strict longitudinal measurement invariance across the two time points](strict-measurement-invariance-motivation-two-waves.md) — related

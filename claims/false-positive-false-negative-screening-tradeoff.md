@@ -47,3 +47,4 @@ Theoretical argument in the review's framing of screening accuracy (citing Compt
 ## Related Claims
 - [Overall false positive error rates are about 10 percent and false negative error rates about 20 percent for value-added performance classifications](value-added-false-positive-negative-error-rates.md) — related
 - [MAP Growth cut scores at the 30th percentile of national norms best identify Grade K-8 students in need of intensive intervention in reading and mathematics](map-growth-30th-percentile-screening-cut-scores.md) — related
+- [In Study 2, intensified and narrowed Tier II instruction produced significant and moderate-to-large impacts for RTI-identified preschoolers](study2-intensified-tier2-significant-impacts.md) — related

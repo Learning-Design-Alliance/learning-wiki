@@ -50,6 +50,7 @@ Based on the finding that only children with higher inhibitory control benefited
 ## Related Strategies
 
 - [Non-intensive Home Numeracy Environment (HNE) Intervention Program](non-intensive-home-numeracy-environment-hne-intervention-program.md)
+- [Tailor number-game difficulty to each child's zone of proximal development rather than using a fixed interval for all](tailor-number-game-difficulty-to-zpd.md)
 
 ## Examples
 -

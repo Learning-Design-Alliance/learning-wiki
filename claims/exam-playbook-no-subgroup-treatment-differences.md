@@ -55,3 +55,4 @@ Moderation analyses within the two randomized cohorts of the Strategic Resource 
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
+- [Treatment effects were not moderated by employment category (teacher vs. other) or by intervention timing (summer vs. school year)](hmp-effects-not-moderated-employment-timing.md) — related

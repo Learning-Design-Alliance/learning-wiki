@@ -47,3 +47,4 @@ Comparison of Table III percentages passing at age: Kuhlmann's individual test d
 ## Related Claims
 - [Children with the same chronological age and mental age pass more group tests in higher grades, an increase the author attributes to additional school experience](grade-experience-increases-group-tests-passed.md) — related
 - [Several of the group tests (Discriminating Colors, Mutilated Pictures, Tying Bowknot) showed little discriminative capacity as group tests and are slated for substitution](lowell-group-tests-low-discriminative-capacity.md) — related
+- [Complete pictorial comprehension (imaginative insight) emerges only around adolescence, with earlier ages showing enumeration, description, and superficial unification](pictorial-comprehension-stages-by-age.md) — related

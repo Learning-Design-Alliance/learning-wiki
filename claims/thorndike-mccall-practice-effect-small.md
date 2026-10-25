@@ -47,3 +47,4 @@ Analysis of grade IV and VI mean scores across five successively administered fo
 ## Related Claims
 - [A single Thorndike-McCall administration deviates about 0.31 of a school year from the five-test composite; measuring monthly progress requires composites of 3 or 4 tests](single-test-deviation-composite-three-four-tests-monthly-progress.md) — related
 - [Correlations of reading tests with Stanford mental age rise steeply from grade III to grade VI](mental-age-reading-correlation-rises-with-grade.md) — related
+- [Short- and long-form grade curves agree closely for elementary subjects but are irregular in high school grades](survey-test-grade-curves-irregular-high-school.md) — related
