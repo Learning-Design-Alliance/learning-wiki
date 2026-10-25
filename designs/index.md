@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1041 entries** · 0 stable · 1041 in review · 0 drafts
+**1042 entries** · 0 stable · 1042 in review · 0 drafts
 
 ---
 
@@ -817,6 +817,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Sequence of nine structured instructor-led AI demonstrations for modeling strategic LLM delegation and evaluation](nine-structured-ai-demonstrations-sequence.md) - A deployable classroom intervention: nine short, instructor-led AI demonstrations delivered at roughly weekly cadence, progressing from baseline tool literacy through pedagogical framing (metacognition, Socratic tutor...
 * [Sequenced literacy units organized around a Driving Task Prompt moving through comprehension, knowledge building, genre study, synthesis, and writing](driving-task-prompt-sequenced-literacy-journey.md) - This pattern organizes curriculum units and modules around a Driving Task Prompt within a disciplinary-literacy framework.
 * [Serial order versus item recall short-term memory task battery with fMRI](serial-order-item-recall-fmri-task-battery.md) - A task battery contrasting short-term memory for serial order with short-term memory for item information, administered behaviorally and inside the fMRI scanner to adults with a history of developmental dyscalculia an...
+* [SERP-based document-selection task with scientific-expertise and personal-experiences sources](serp-document-selection-task-expertise-manipulation.md) - The core experimental material was a simulated Google search result list for each of four target topics (health, sports, or education domains), from which participants ticked checkboxes for documents to read further.
 * [Seven activity types by which SE grantees equip subgrantees to serve students with disabilities and English learners](se-activities-supporting-students-with-disabilities-and-els.md) - From open-ended survey responses, the report tallies seven activity types grantees used to ensure subgrantees can serve all students: technical assistance, partnering with the SEA, monitoring and audits, training, app...
 * [Seven trialogue designs for two-agent conversations with a human learner, adaptively administered by learner knowledge](seven-trialogue-designs-two-agents.md) - Trialogues involve a human interacting with two agents, typically a tutor agent and a student peer agent.
 * [Seven unit-specific custom GPT chatbots for pharmaceutical science units](seven-co-created-cgpt-chatbots-pharmaceutical-science.md) - Seven custom GPT chatbots (cGPTs) were co-created for six undergraduate units in a Bachelor of Pharmaceutical Science program: Polymer Knowledge, Polymer Socratic, Physiology 1, Physiology 2, Medicinal Chemistry 1, Ph...

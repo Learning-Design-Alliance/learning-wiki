@@ -67,3 +67,4 @@ Table 9 row for the Disengaged-to-Self-Determined transition path reports a chan
 - [During a year-long AI curriculum, most students maintained or moved upward in motivational profile, with substantial upward transitions out of the Disengaged profile](upward-motivational-transitions-year-ai-curriculum.md) — related
 - [Greater prior AI learning experience and female gender predicted upward motivational profile transitions](prior-ai-experience-gender-predict-profile-transitions.md) — related
 - [Secondary students in AI learning fall into three distinct SDT-based motivational profiles — Disengaged, Developing, and Self-Determined — at both pre- and post-test](three-sdt-motivational-profiles-ai-learning.md) — a broader claim this one bears on
+- [The self-determined motivational profile is related to the best level of achievement in physical education](self-determined-profile-best-achievement-pe.md) — related

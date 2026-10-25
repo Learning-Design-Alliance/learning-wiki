@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (11 for, 9 mixed, 4 against) · 22 studies (10 causal, 4 review, 4 associational, 2 quant-synthesis, 2 design), `q2`–`q3` · 4 of 22 report an effect size · 21 claims rest on one study
+> **Evidence** · 25 claims (12 for, 9 mixed, 4 against) · 23 studies (11 causal, 4 review, 4 associational, 2 quant-synthesis, 2 design), `q2`–`q3` · 4 of 23 report an effect size · 22 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -54,6 +54,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Removing detailed rubric explanations from prompts improved grading accuracy across all approaches in an ablation study](../claims/simplified-prompts-outperform-detailed-rubrics.md) [-W]
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](../claims/within-judge-stability-llm-rubric.md) [~W]
 - [Rubric performance level order shapes visual reading patterns—students attend most to the level presented first—but does not affect verbal references or performance](../claims/rubric-level-order-shapes-visual-reading-patterns.md) [~W]
+- [Using the Hillegas Scale reduces the standard deviations of judgments on all but two of the twenty-five compositions](../claims/hillegas-scale-reduces-judgment-sd.md) [+W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

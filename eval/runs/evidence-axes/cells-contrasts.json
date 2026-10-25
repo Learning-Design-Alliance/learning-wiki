@@ -42682,5 +42682,73 @@
  "rewards-incentives\tuse of competition as an incentive\tlittle or no competition": {
   "label": "competition vs little or no competition",
   "treatment_is_a": true
+ },
+ "active-learning\tjigsaw classroom\tteaching as usual": {
+  "label": "jigsaw cooperative learning vs individualistic/traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tjigsaw cooperative learning\tindividualistic learning": {
+  "label": "jigsaw cooperative learning vs individualistic/traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tjigsaw study\tindividualistic study": {
+  "label": "jigsaw cooperative learning vs individualistic/traditional instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief explanation about silent reading and the need for a change in mental set\tinitial oral and silent reading rates before the explanation": {
+  "label": "explicit explanation vs no explanation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tschool staff jointly use measurements to study pupils' needs\tschool work not based on such measurements": {
+  "label": "Collaborative formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tteacher uses measurements\tteacher works without measurements": {
+  "label": "Teacher formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tteacher uses measurements routinely\tmeasurements handled by a remote bureau": {
+  "label": "Teacher-led formative assessment vs externally administered assessment",
+  "treatment_is_a": true
+ },
+ "interleaving\tlesson mixing examples from Lessons 1-12\tcomparison condition not stated": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tlesson mixing examples from Lessons 1-12 with emphasis on shifting processes\tcomparison condition not stated": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater practice in the sequence\tearlier practice in the sequence": {
+  "label": "later vs earlier practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater test after repeated daily practice\tfirst tests before extended practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore frequent mindfulness practice\tless frequent mindfulness practice": {
+  "label": "more frequent vs less frequent practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trepeated Test A after the lesson\tfirst administration of Test A": {
+  "label": "repeated retrieval vs single retrieval",
+  "treatment_is_a": true
+ },
+ "test-format\tfirst minute of practice\taverage of later nine minutes": {
+  "label": "First minute vs later minutes",
+  "treatment_is_a": true
+ },
+ "test-format\tfirst minute of practice\tlater minutes of practice": {
+  "label": "First minute vs later minutes",
+  "treatment_is_a": true
+ },
+ "test-format\tfirst minute of practice\tremaining minutes": {
+  "label": "First minute vs later minutes",
+  "treatment_is_a": true
+ },
+ "test-format\tfirst minute of the ten-minute test\tlater minutes of the test": {
+  "label": "First minute vs later minutes",
+  "treatment_is_a": true
  }
 }

@@ -48,3 +48,4 @@ Single-case report: a former student, Mr. C. W. Hagen, Jr., chanced to visualize
 - [Follow-up testing of thirteen classmates showed variable retention: one near-complete auditory recall, one perfect reconstruction, five unable to arrange the syllables, and seven scores ranging from 2 to 48 steps](classmate-reconstruction-test-variable-retention.md) — related
 - [Incidental learning of nonsense syllables with no intent to secure permanence can nonetheless be retained long term](incidental-learning-no-intent-permanence-retention.md) — a broader claim this one bears on
 - [Seeming exactness of recall of long-forgotten incidents is largely illusory because belief in exact recall usually cannot be verified](seeming-exactness-recall-largely-illusory.md) — related
+- [Learning nonsense syllables backward takes a higher total-repetition ratio than forward, suggesting interference between habits](backward-learning-higher-repetition-ratio-interference.md) — related

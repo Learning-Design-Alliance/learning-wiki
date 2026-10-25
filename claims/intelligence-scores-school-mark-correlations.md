@@ -61,3 +61,4 @@ Correlational comparison of intelligence scores with scholarship in the Normal S
 - [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](point-scale-school-mark-and-schooling-correlations.md) — related
 - [Correlations among the brief tests were low and internally inconsistent: K and M correlated only .32 while M correlated .42 with the information test and K only .18](low-inconsistent-inter-test-correlations.md) — related
 - [Separate subtests of the short form correlate .41 to .68 with their corresponding long scales](survey-test-subtest-correlations-41-to-68.md) — related
+- [Memory correlates only slightly (about .30 by the Pearson formula) with scholarship, memory being only one factor](slight-correlation-memory-scholarship.md) — related

@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (19 for, 10 mixed, 5 against) · 45 studies (20 causal, 11 quant-synthesis, 8 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 45 report an effect size · 21 claims rest on one study
+> **Evidence** · 35 claims (19 for, 11 mixed, 5 against) · 46 studies (20 causal, 11 quant-synthesis, 8 review, 5 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 46 report an effect size · 22 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -88,6 +88,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Feeble-minded children show the same amount of improvement with practice as normal children of the same mental age and initial ability on a form sorting task](../claims/equal-practice-improvement-feeble-minded-normal-same-mental-age.md) [+W]
 - [In School O.K., the practised group obtained higher final reasoning marks on the whole, but the section-by-section excess improvement over the non-practised group was uncertain](../claims/winch-school-ok-practised-final-reasoning-advantage.md) [+W]
 - [In School S, practice in rule sums improved numerical computation but produced no transfer to accuracy in arithmetical reasoning](../claims/winch-1910-school-s-no-transfer.md) [-W]
+- [Daily practice over three weeks reduces the first-minute advantage, with first-minute accomplishment sometimes falling below later minutes](../claims/extended-practice-reduces-initial-spurt.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -56,3 +56,4 @@ The review attributes this to prior meta-analytic work (Mammadov, 2022; Poropat,
 - [University students overwhelmingly report goals to change at least one Big Five trait, but agreeableness may be the hardest trait to shift](students-want-to-change-traits.md) — related
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](conic-compensation-conscientiousness-interest.md) — related
 - [Conscientiousness is a reliable meta-analytic predictor of academic achievement](conscientiousness-predicts-academic-achievement.md) — related
+- [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](gpa-associated-with-conscientiousness-and-openness.md) — related

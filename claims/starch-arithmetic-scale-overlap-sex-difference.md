@@ -50,3 +50,4 @@ Meeting-report description of Starch's arithmetic scale of twelve problems scale
 ## Related Claims
 - [Corrected measures of overlapping show 33 per cent correct classification rather than the 17 per cent previously reported, and 19.5 per cent rather than 33 per cent exceeding or falling short of the adjacent grade's median](kelley-corrected-overlapping-classification-percentage.md) — related
 - [Boys are more likely than girls to rank at both the top and the bottom of the grade scale, supporting greater variability of excellence among boys](sex-variability-in-excellence-1912.md) — related
+- [Sex differences in arithmetic work are slight: girls do about 4% more work and make about 4% fewer errors than boys, but boys lead in the eighth grade](sex-differences-slight-arithmetic.md) — reports the opposite

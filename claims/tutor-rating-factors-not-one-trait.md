@@ -50,3 +50,4 @@ Confirmatory factor analysis of the four tutor-rating items. The one-factor mode
 - [In kindergarteners, trait beliefs and goal orientations form two separate but related factors rather than a coherent growth/fixed mindset](kindergarten-mindsets-two-factor-structure.md) — related
 - A confirmatory factor analysis supported a two-factor Gf–Gc representation of the cognitive measures, with a significant .33 correlation between the factors — related
 - [A two-factor (reactive–proactive) model of the Turkish RPQ fits adolescent data better than a one-factor general aggression model](rpq-two-factor-model-fits-better-turkish-adolescents.md) — related
+- [The twelve tests differed in value as measures of originality, yet each appeared to test some phase of the trait.](twelve-tests-unequal-value-same-trait.md) — related

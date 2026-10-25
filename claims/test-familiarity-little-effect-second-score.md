@@ -48,3 +48,4 @@ Analysis of Table II, which gives two sets of median scores for several cities t
 - [The apparent lack of increase in silent reading scores from grade 5 to grade 6 is probably an artifact of the change from Test I to Test II.](grade-5-6-plateau-test-change-artifact.md) — related
 - [Median scores on the Kansas Silent Reading Tests are available for more than 100,000 pupils across 160 cities, organized by grade and region.](kansas-silent-reading-norms-100000-pupils.md) — related
 - [A test score represents a pupil's performance under given conditions, not the pupil's ability, and conditions vary with the examiner and the pupil.](score-measures-performance-not-ability.md) — a broader claim this one bears on
+- [Merely making pupils conscious of the need to change mental set improved silent reading rate while comprehension was checked](consciousness-of-set-change-raises-silent-reading-rate.md) — related

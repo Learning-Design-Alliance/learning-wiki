@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 215 claims (137 show a difference, 33 mixed, 45 no difference) · 150 studies (42 associational, 37 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 36 of 150 report an effect size · 206 claims rest on one study
+> **Evidence** · 218 claims (138 show a difference, 34 mixed, 46 no difference) · 151 studies (43 associational, 37 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 36 of 151 report an effect size · 209 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -266,6 +266,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Text reading efficiency shows a stronger relation with reading comprehension than accuracy or rate](../claims/text-reading-efficiency-stronger-relation-than-accuracy-rate.md) [+M] — learners who differ on it differ in outcomes
 - [Text reading is strongly related to reading comprehension overall (r = .61)](../claims/text-reading-comprehension-overall-relation-r61.md) [+M] — learners who differ on it differ in outcomes
 - [Children with specific reading comprehension difficulties show substantially poorer reading comprehension than vocabulary relative to typical readers](../claims/scd-reading-comprehension-weakness-more-severe-than-vocabulary.md) [+M] — learners who differ on it differ in outcomes
+- [For students with a school-identified learning disability, there were no significant direct cross-lagged pathways between vocabulary knowledge and reading comprehension](../claims/no-cross-lagged-relations-ld-students.md) [-M] — learners who differ on it differ in outcomes
+- [For typically developing students, vocabulary knowledge and reading comprehension show bidirectional leading influences over time in kindergarten through fourth grade](../claims/bidirectional-vocabulary-reading-comprehension-influences-typically-developing.md) [+M] — learners who differ on it differ in outcomes
+- [Under the fitted model, non-LD students who start with high vocabulary but low reading comprehension are expected to grow nearly twice as much in reading comprehension as LD students starting at the same point](../claims/model-expected-rc-growth-gap-high-vocab-low-rc.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

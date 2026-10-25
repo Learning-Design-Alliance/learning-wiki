@@ -51,3 +51,4 @@ Experiment 6: 64 undergraduates circled 10 of 20 words to be tested on and under
 - [Merely selecting words by clicking on them, without any memorability instructions, enhanced their recall (a choice effect)](word-selection-choice-effect-enhances-recall.md) — related
 - [Relative to random choice, a metacognitive judgment of remembering boosted recall while a judgment of forgetting was associated with a memory cost](metacognitive-judgment-versus-random-choice.md) — related
 - [Words participants said they would remember were recalled earlier in output than words predicted to be forgotten or words not given a prediction](remember-predictions-recall-and-output-order.md) — related
+- [Mental set acquired for one task persists and impairs performance in spelling recall and in geography problem-solving](set-persistence-spelling-geography.md) — related

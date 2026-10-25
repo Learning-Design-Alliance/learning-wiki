@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1943 entries** · 0 stable · 1943 in review · 0 drafts
+**1946 entries** · 0 stable · 1946 in review · 0 drafts
 
 ---
 
@@ -146,6 +146,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [BASIE R and Stan code](basie-r-and-stan-code.md) - The BASIE R and Stan code is a released implementation by John Deke et al.
 * [Basketball Mathematics (BM) intervention program](basketball-mathematics-bm-intervention-program.md) - An 8-week programme run by trained instructors that integrates fraction learning into basketball drills within existing physical-education lessons for grades 6–7.
 * [BATS-R-US (Block-Adaptive-Tree Solarwind Roe Upwind Scheme)](bats-r-us-block-adaptive-tree-solarwind-roe-upwind-scheme.md) - A three-dimensional global magnetohydrodynamics simulation code developed by the University of Michigan and made publicly runnable through NASA's Community Coordinated Modeling Center.
+* [Battery measuring explicit and implicit beliefs about science and knowledge about how science works](battery-measuring-explicit-and-implicit-beliefs-about-science-and-knowledge-about-how-scie.md) - A researcher-developed battery for university students measuring explicit and implicit beliefs about science and knowledge of how science works, used by Schoor and colleagues.
+* [Battery of twelve tests for originality with self-recording time device](battery-of-twelve-tests-for-originality-with-self-recording-time-device.md) - A Chassell (1916) battery of twelve individually or group-administered tests for measuring and ranking originality in university students and adults, using oral and placard instructions and a self-recorded time device.
 * [Bayes Net Toolbox for Matlab](bayes-net-toolbox-for-matlab.md) - Bayes Net Toolbox for Matlab is a software toolbox developed by Kevin Murphy for representing, manipulating, and performing inference with Bayesian networks.
 * [bcause](bcause.md) - bcause is open-source software for causal inference in Bayesian and credal networks, supporting exact Bayesian-network inference and interventional and counterfactual queries.
 * [Beable](beable.md) - Beable is a K–12 digital learning platform developed by Beable Life-Ready Learning that personalizes literacy, content learning, language acquisition, intervention, and career-connected learning for students.
@@ -1067,6 +1069,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Microanalytic SRL assessment tool with open-ended and closed-ended questions across the three SRL phases](microanalytic-srl-assessment-tool-with-open-ended-and-closed-ended-questions-across-the-th.md) - A study-developed assessment instrument by Laura Dörrenbächer-Ulrich and colleagues that measures college students’ metacognitive and motivational strategy use before, during, and after a learning task through open- and closed-ended questions.
 * [MicroDYN](microdyn.md) - MicroDYN is Joachim Funke's scalable assessment system using linear structural-equation items to measure learners' exploration, mental-model externalization, and control of dynamic systems.
 * [Milpitas Early Learning Transitions Model](milpitas-early-learning-transitions-model.md) - A Milpitas Unified School District programme funded by the Heising-Simons Foundation to strengthen supports for preschool children and families preparing for elementary school.
+* [Mindfulness: A Practical Guide to Finding Peace in a Frantic World (M-FP)](mindfulness-a-practical-guide-to-finding-peace-in-a-frantic-world-m-fp.md) - An introductory, skills-based mindfulness curriculum developed from mindfulness-based cognitive therapy that sequences four themes across eight sessions and includes daily home practice for general adult learners.
 * [MindMatters school-based mental health promotion programme](mindmatters-school-based-mental-health-promotion-programme.md) - MindMatters is a comprehensive whole-school mental-health and resilience promotion programme originally developed in Australia and implemented in Swiss schools by Radix.
 * [Mindset Kit](mindset-kit.md) - Mindset Kit is a free, research-informed set of growth-mindset teaching and intervention materials developed by the Project for Education Research That Scales (PERTS) for educators and institutions.
 * [Mindsets mathematics program](mindsets-mathematics-program.md) - Mindsets is a middle-school mathematics curriculum program built around collaborative, hands-on, challenge-based tasks aligned with the Standards for Mathematical Practice and supported by teacher professional development and implementation assistance.

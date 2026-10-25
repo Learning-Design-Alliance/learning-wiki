@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (46 show a difference, 18 mixed, 12 no difference) · 51 studies (14 causal, 14 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 51 report an effect size · 75 claims rest on one study
+> **Evidence** · 79 claims (49 show a difference, 18 mixed, 12 no difference) · 53 studies (15 causal, 15 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 53 report an effect size · 78 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -116,6 +116,9 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Variability in word reading speed was greater in serial word reading than discrete word reading, with discrete speed reaching a plateau by Grade 3 while serial speed kept progressing through Grade 5](../claims/serial-speed-variability-greater-than-discrete.md) [+M] — learners who differ on it differ in outcomes
 - [Text reading efficiency shows a stronger relation with reading comprehension than accuracy or rate](../claims/text-reading-efficiency-stronger-relation-than-accuracy-rate.md) [+M] — learners who differ on it differ in outcomes
 - [Text reading is strongly related to reading comprehension overall (r = .61)](../claims/text-reading-comprehension-overall-relation-r61.md) [+M] — learners who differ on it differ in outcomes
+- [In Bird's school-wide testing, speed correlated positively with comprehension and accuracy but negatively with handwriting legibility.](../claims/speed-correlations-vary-by-subject.md) [+M] — learners who differ on it differ in outcomes
+- [Merely making pupils conscious of the need to change mental set improved silent reading rate while comprehension was checked](../claims/consciousness-of-set-change-raises-silent-reading-rate.md) [+W] — instruction changes it
+- [More effective readers are those who vary their reading rate to suit the type of material](../claims/rate-flexibility-marks-effective-readers.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

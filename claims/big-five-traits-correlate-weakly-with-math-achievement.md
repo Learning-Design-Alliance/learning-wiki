@@ -67,3 +67,6 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Most extracted associations are small: 219 of nearly 500 coefficients fall below a medium effect size, with conscientiousness–academic adjustment (.64) the largest](mostly-small-associations-conscientiousness-largest.md) — related
 - [Conscientiousness is a reliable meta-analytic predictor of academic achievement](conscientiousness-predicts-academic-achievement.md) — a broader claim this one bears on
 - [Student-reported teacher neuroticism negatively predicts student performance self-efficacy, with effects that differ across mathematics and English](teacher-neuroticism-predicts-performance-self-efficacy.md) — related
+- [Openness is most strongly associated with standardized test scores (especially English) and weakly or negatively associated with mathematics course grades](openness-predicts-standardized-tests-most.md) — related
+- [Personality-achievement coefficients are robust to correction for personality measurement error (average absolute beta differences of .01)](robustness-personality-measurement-error-correction.md) — related
+- [13 of 16 adjusted associations between achievement measures and openness/conscientiousness were statistically significantly positive](thirteen-of-sixteen-adjusted-associations-positive.md) — related

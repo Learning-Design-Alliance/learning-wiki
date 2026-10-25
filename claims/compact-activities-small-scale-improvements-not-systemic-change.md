@@ -55,3 +55,4 @@ Perception-based findings from interviews and site visits conducted for the dist
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — reports the opposite
 - [Most respondents found grant training useful, applied the information in their school, and shared it with others](grant-training-useful-applied-shared.md)
 - [Early implementation of the Kauffman Campuses grants was documented through a cross-site analysis of 2005 site visits and a spring 2006 faculty survey](kauffman-campuses-early-implementation-cross-site-analysis.md) — related
+- [Bureaus for educational research within school systems provide a continuous survey whose influence is more salutary and lasting than a transient external survey](research-bureaus-continuous-internal-survey.md) — related

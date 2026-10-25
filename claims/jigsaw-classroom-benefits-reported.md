@@ -50,3 +50,4 @@ Narrative review attributing this to E. Aronson and Bridgeman (1979): jigsaw cla
 
 ## Related Claims
 - [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — related
+- [With scrambled randomization and novel material, jigsaw produced no difference versus individualistic learning on a life-sciences test](jigsaw-vs-individualistic-null-sleep-cycle-e2.md) — related

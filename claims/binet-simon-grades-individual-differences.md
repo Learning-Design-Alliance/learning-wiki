@@ -78,3 +78,4 @@ Check on judgment reliability: 215 cases under twelve were judged by both teache
 - [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](mental-age-grouping-unreliable-for-educational-treatment.md) — related
 - [Teacher reports in the New Haven survey identified 370 children (about 1.5 per cent) as mentally deficient but only 45 as mentally superior](new-haven-teacher-reports-370-deficient-45-superior.md) — related
 - [Group-scale scores correlate moderately with teachers' ability rankings of first- to third-grade pupils](group-scale-correlates-teacher-rankings-primary.md) — related
+- [Regular classroom-teacher use of educational measurements would in the long run mean less, easier, and more successful teaching work, and the editorial judges it the most beneficial use](teacher-routine-measurement-use-most-beneficial.md) — related

@@ -55,3 +55,4 @@ Analysis of grade distributions from the spelling tests, presented in the curves
 - [Buckingham found information-question scores predict thought ability far better than thought-question scores predict information](buckingham-information-thought-regression-asymmetry.md) — related
 - [Seventh- and eighth-grade pupils overlap completely in ability, with no line of demarcation between grades](no-demarcation-between-school-grades.md) — a broader claim this one bears on
 - [The scale differentiates pupil material between schools in neighborhoods of different character](scale-differentiates-schools-pupil-material.md) — related
+- [Median work rises almost uniformly from fourth to eighth grade, but about a quarter of pupils overlap between fourth and eighth grades](grade-differences-with-overlapping-arithmetic.md) — related

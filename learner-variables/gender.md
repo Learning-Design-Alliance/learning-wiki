@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 276 claims (171 show a difference, 65 mixed, 40 no difference) · 195 studies (126 associational, 32 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 34 of 195 report an effect size · 268 claims rest on one study
+> **Evidence** · 277 claims (171 show a difference, 66 mixed, 40 no difference) · 196 studies (127 associational, 32 causal, 14 quant-synthesis, 9 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 34 of 196 report an effect size · 269 claims rest on one study
 
 ## How to read this page
 
@@ -314,6 +314,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Measured by arithmetic mean or refined median, the Point Scale sex difference is slight relative to its probable error](../claims/mean-median-sex-difference-slight-versus-pe.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Girls are overrepresented in the low-and-stable math self-efficacy trajectory](../claims/girls-overrepresented-low-stable-math-se-trajectory.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Girls show more very poor and fewer very good individuals relative to their own median than boys](../claims/girls-wider-variation-below-median.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex differences in arithmetic work are slight: girls do about 4% more work and make about 4% fewer errors than boys, but boys lead in the eighth grade](../claims/sex-differences-slight-arithmetic.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

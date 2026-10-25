@@ -49,3 +49,4 @@ Table III reports percentage distributions of intelligence ratings for each acad
 - [Most students show small discrepancies between intelligence percentile and scholarship percentile, but a substantial minority show large ones](alpha-scholarship-percentile-discrepancy-distribution.md) — related
 - [Academic high school freshmen show a very wide range of intelligence, but the group as a whole covers about the upper half of the population distribution](high-school-freshmen-cover-upper-half-intelligence-range.md) — related
 - [Students in the upper and lower tenths of an intelligence test show wide divergence in the character of their work](upper-lower-tenths-divergent-college-work.md) — related
+- [Mean Alpha scores rise across scholarship grades from E to A, with notable exceptions at both ends](alpha-grade-gradient-superiority.md) — related

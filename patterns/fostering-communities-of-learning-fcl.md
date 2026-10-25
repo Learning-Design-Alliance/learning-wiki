@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (14 for, 11 mixed) · 40 studies (13 quant-synthesis, 11 review, 6 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 9 of 40 report an effect size · 14 claims rest on one study
+> **Evidence** · 26 claims (14 for, 12 mixed) · 41 studies (13 quant-synthesis, 11 review, 7 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 10 of 41 report an effect size · 15 claims rest on one study
 
 ## Description and scope
 
@@ -110,9 +110,11 @@ Do not rank Fostering Communities of Learning against direct instruction, cooper
 - *Does modelling strategies and handing the lead to learners improve reading comprehension, and on which measures?* [Reciprocal Teaching Improves Reading Comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M]
 
 ## Further evidence, not yet read against this model
+
 Read against the model on 2026-10-19. Of the eleven claims listed here then, ten are now used above: contingent scaffolding and self-explanation (already in the sequence and the progression), self-monitoring and specific goals (steps 6 and 1), active participation and the critique of nonparticipation (the observation table's row on members who contribute nothing), and the four professional-learning-community claims (the adults-at-work row). What stays here does not change the model.
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — (not about this page) carried over from the merged jigsaw page, where it was listed as contradicting. Its studies are list-recall experiments on memory capacity; none tests instruction, peer teaching or how large a subtopic should be.
+- [In a two-hour randomized experiment, sixth graders in a jigsaw condition did not outperform those in an individualistic condition on a mathematics learning test](../claims/jigsaw-vs-individualistic-null-math-e1.md) [~W] — attached 2026-10-25 from Arnaud Stanczak et al. (2022), which proposed "The classical three-step jigsaw procedure: jigsaw groups on subtopics, expert groups, then teaching back to the jigsaw group"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

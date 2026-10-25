@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 206 claims (96 for, 106 mixed, 4 against) · 114 studies (62 associational, 22 review, 16 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 43 of 114 report an effect size · 198 claims rest on one study
+> **Evidence** · 207 claims (97 for, 106 mixed, 4 against) · 115 studies (62 associational, 22 review, 17 causal, 10 quant-synthesis, 4 theoretical), `q1`–`q4` · 43 of 115 report an effect size · 199 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -247,6 +247,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Grade 3 students are more variable than Grade 4 students in WM performance at the faster timescales](../claims/grade-3-more-variable-faster-timescales.md) [~W]
 - [After propensity score matching, bilingual kindergarteners show greater teacher-rated inhibitory control than matched monolinguals, and this effect is robust to unmeasured confounds](../claims/psm-bilingual-advantage-teacher-rated-inhibitory-control.md) [+W] — attached 2026-10-25 from Goodrich et al. (2019), which proposed "Doebel's ecological framework: executive function develops in the context of goal-directed behavior".
 - [After propensity score matching, no bilingual-monolingual differences appear on performance-based measures of working memory or cognitive flexibility in kindergarten](../claims/psm-no-bilingual-advantage-performance-based-ef.md) [~W] — attached 2026-10-25 from Goodrich et al. (2019), which proposed "Doebel's ecological framework: executive function develops in the context of goal-directed behavior".
+- [In arithmetic practice tests, pupils carry the previous operation's mental set into the next examples, and a supplementary lesson in shifting processes improves both accuracy and speed](../claims/operation-set-carryover-arithmetic-courtis.md) [+W] — attached 2026-10-25 from Zirbes (1919), which proposed "Mental set and rapid mental adjustment as a skill factor in achievement"; tests this page's relationship.
 
 ## Related Theories
 

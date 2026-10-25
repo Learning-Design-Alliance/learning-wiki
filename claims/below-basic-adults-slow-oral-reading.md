@@ -52,3 +52,4 @@ Analysis of the 2003 NAAL supplemental study of 19,714 adults administered decod
 - [Large shares of U.S. 4th and 8th graders read below the NAEP Basic level in reading comprehension](naep-2005-below-basic-reading.md)
 - [Children with only fluency difficulties read more correct words per minute than children with both decoding and fluency problems](fluency-only-difficulties-faster-than-combined.md) — related
 - [Adults read ordinary prose much faster than arithmetic problem material or isolated numerals](prose-read-faster-than-numerals-and-problems.md) — related
+- [More effective readers are those who vary their reading rate to suit the type of material](rate-flexibility-marks-effective-readers.md) — related

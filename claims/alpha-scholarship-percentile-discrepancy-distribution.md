@@ -69,3 +69,4 @@ The same percentile-discrepancy computation identified 62 extreme cases; the art
 - [Selected academic groups differ in Alpha distributions, with Phi Beta Kappa electees concentrated in higher classes and probationers lower](alpha-distribution-honors-probation.md) — related
 - [Academic high school freshmen show a very wide range of intelligence, but the group as a whole covers about the upper half of the population distribution](high-school-freshmen-cover-upper-half-intelligence-range.md) — related
 - [Students in the upper and lower tenths of an intelligence test show wide divergence in the character of their work](upper-lower-tenths-divergent-college-work.md) — related
+- [Army Alpha scores correlate moderately with first-semester college scholarship, and correlations were higher when students took the test seriously](alpha-correlation-total-scholarship-dartmouth.md) — related
