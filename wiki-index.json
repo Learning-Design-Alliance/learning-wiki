@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":27774,
+"claim":27773,
 "design":1048,
 "element":1057,
 "learner-variable":75,
@@ -61992,16 +61992,6 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry",
-"type":"claim"
-},
-{
-"description":"A training intervention on the control-of-variables strategy produced differential effects, with the skills that need to be taught and the learners who gain most as its guiding questions (title-level statement only; n...",
-"evidence_strength":"weak",
-"id":"cvs-training-intervention-differential-effects-title-only",
-"newest_evidence":"2023",
-"path":"claims/cvs-training-intervention-differential-effects-title-only.md",
-"status":"review",
-"title":"A training intervention on the control-of-variables strategy produced differential effects, with the skills that need to be taught and the learners who gain most as its guiding questions (title-level statement only; no results are present in the supplied text).",
 "type":"claim"
 },
 {
@@ -403094,7 +403084,6 @@
 "cvs-explicit-teaching-no-advantage":"cvs-explicit-teaching-no-advantage",
 "cvs-level-difficulty-ordering":"cvs-level-difficulty-ordering",
 "cvs-predicts-proportion-valid-experiments":"cvs-predicts-proportion-valid-experiments",
-"cvs-training-intervention-differential-effects-title-only":"cvs-training-intervention-differential-effects-title-only",
 "cvs-use-age-not-gender":"cvs-use-age-not-gender",
 "cvt-invariant-across-demographic-groupings":"cvt-invariant-across-demographic-groupings",
 "cvt-model-invariance-gender-area-country":"cvt-model-invariance-gender-area-country",

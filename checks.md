@@ -8,7 +8,7 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 27,774, from 7,197 sources |
+| Claims | 27,773, from 7,197 sources |
 | Reviewed by a person | 0 |
 | Every evidence entry compared with its source by the faithfulness judge | 4,908 claims (18%) |
 | Claims citing at least one DOI | 20,304 claims (73%) |
@@ -17,7 +17,7 @@ This wiki is written by language models, from published research, and checked by
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 3 |
 | Claims past their recheck year (fast-ageing kinds only) | 2,571 of 5,710 with one |
-| Claims removed by a check, all time | 4,424 |
+| Claims removed by a check, all time | 4,425 |
 
 ## The checks, in the order a claim meets them
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 20,304 of 27,774 claims (73%) cite a DOI; 2,878 claims removed for having none.
+**Coverage.** 20,304 of 27,773 claims (73%) cite a DOI; 2,878 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 33,374 evidence entries; 4,586 rest on a printed effect size and 28,807 report none (`i?`); 28,666 carry a rigour rating.
+**Coverage.** 33,373 evidence entries; 4,586 rest on a printed effect size and 28,806 report none (`i?`); 28,666 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -91,7 +91,7 @@ Two claims stating the same finding are merged, and two pages on the same thing 
 
 **Cannot catch.** Near-duplicates phrased far apart.
 
-**Coverage.** 2,971 pair decisions recorded.
+**Coverage.** 2,972 pair decisions recorded.
 
 ### 10. Currency
 
@@ -121,7 +121,7 @@ Removals are logged with their reason in `eval/removed/pages.ndjson`; git histor
 | Source cannot be believed (impossible statistics, invented references, retraction) | 11 |
 | Citation chase: a retracted article or off-topic methods literature | 83 |
 | Misfiled or thin page folded or dropped | 236 |
-| Other (see eval/removed/pages.ndjson) | 4 |
+| Other (see eval/removed/pages.ndjson) | 5 |
 
 ## What no check here does
 

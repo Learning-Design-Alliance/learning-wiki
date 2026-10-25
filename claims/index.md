@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**27774 entries** · 0 stable · 27774 in review · 0 drafts
+**27773 entries** · 0 stable · 27773 in review · 0 drafts
 
 ---
 
@@ -727,7 +727,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [A time-based stopping rule requires screening about 70% of abstracts to reach 95% sensitivity, saving on average 0.86 days](time-based-stopping-70-percent-95-sensitivity.md) - A time-based stopping rule requires screening about 70% of abstracts to reach 95% sensitivity, saving on average 0.86 days
 * [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) - A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used
 * [A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition](tracing-strategy-segmentation-prediction-efficiency.md) - A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition
-* [A training intervention on the control-of-variables strategy produced differential effects, with the skills that need to be taught and the learners who gain most as its guiding questions (title-level statement only; no results are present in the supplied text).](cvs-training-intervention-differential-effects-title-only.md) - A training intervention on the control-of-variables strategy produced differential effects, with the skills that need to be taught and the learners who gain most as its guiding questions (title-level statement only; n...
 * [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md)
 * [A trial Spanish-language NAEP mathematics assessment was administered to Puerto Rico public school students in grades 4 and 8 in 2003](trial-spanish-naep-math-puerto-rico-2003.md) - A trial Spanish-language NAEP mathematics assessment was administered to Puerto Rico public school students in grades 4 and 8 in 2003
 * [A trusting, supportive teacher-student relationship emerged as a prominent motivator for acting on feedback, especially for Information Seekers with Low Emotional Strain](teacher-relationship-motivates-feedback-action.md) - A trusting, supportive teacher-student relationship emerged as a prominent motivator for acting on feedback, especially for Information Seekers with Low Emotional Strain
