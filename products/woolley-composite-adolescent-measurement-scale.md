@@ -36,4 +36,4 @@ A historical composite assessment scale that combines percentile-ranked mental a
 -
 
 ## Key Sources
-- Woolley, Helen Thompson. (1915). A new scale of mental and physical measurements for adolescents, and some of its uses. The Journal of Educational Psychology, 6(9), 521-550.
+- Woolley, Helen Thompson. (1915). A new scale of mental and physical measurements for adolescents, and some of its uses. The Journal of Educational Psychology, 6(9), 521-550. https://doi.org/10.1037/h0075644
