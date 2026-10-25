@@ -30,4 +30,4 @@ A standardized handwriting-legibility rating scale developed by Leonard P. Ayres
 -
 
 ## Key Sources
-- King, I., and Johnson, H. (1914). The Writing Abilities of the Elementary and Grammar School Pupils of a City School System Measured by the Ayres Scale. The Journal of Educational Psychology. https://doi.org/10.1037/h0072531
+- King, I., & Johnson, H. (1912). The writing abilities of the elementary and grammar school pupils of a city school system measured by the Ayres scale. *Journal of Educational Psychology, 3*(9), 514–520. [doi:10.1037/h0071006](https://doi.org/10.1037/h0071006)

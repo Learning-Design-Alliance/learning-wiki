@@ -8,11 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 evidence_strength: moderate
-newest_evidence: 1914
+newest_evidence: 1912
 sources:
-  - id: king-1914
-    title: King, I., and Johnson, H. (1914). The Writing Abilities of the Elementary and Grammar School Pupils of a City School System Measured by the Ayres Scale. The Journal of Educational Psychology.
-    author: King, I., and Johnson, H.
+  - id: king-1912
+    resource: "https://doi.org/10.1037/h0071006"
+    title: "King, I., & Johnson, H. (1912). The writing abilities of the elementary and grammar school pupils of a city school system measured by the Ayres scale. *Journal of Educational Psychology, 3*(9), 514–520. [doi:10.1037/h0071006](https://doi.org/10.1037/h0071006)"
+    author: "King, I., & Johnson, H."
     q: 2
     i: "?"
     kind: associational
@@ -23,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The 2B grade exceeded 1A by 13 points on the Ayres scale, the most striking improvement between adjacent grades. [→ King 1914](#king-1914)
+`q2 i?` The 2B grade exceeded 1A by 13 points on the Ayres scale, the most striking improvement between adjacent grades. [→ King 1912](#king-1912)
 
 ## Evidence
 
-### King 1914
+### King 1912
 
-King, I., and Johnson, H. (1914). The Writing Abilities of the Elementary and Grammar School Pupils of a City School System Measured by the Ayres Scale. The Journal of Educational Psychology.
+King, I., & Johnson, H. (1912). The writing abilities of the elementary and grammar school pupils of a city school system measured by the Ayres scale. *Journal of Educational Psychology, 3*(9), 514–520. [doi:10.1037/h0071006](https://doi.org/10.1037/h0071006)
 
 `q2 · i?` · `associational · r2`
 

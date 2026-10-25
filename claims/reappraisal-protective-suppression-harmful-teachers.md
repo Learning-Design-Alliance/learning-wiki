@@ -9,6 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-25
 sources:
   - id: elena-savina-2025
     resource: "https://doi.org/10.1007/s10648-025-10018-2"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers' use of cognitive reappraisal is adaptive and protects against emotional exhaustion and burnout. [→ Elena Savina 2025](#elena-savina-2025)
-`q2 i?` Surface acting and suppressing emotional expression are negatively linked to teaching effectiveness, and student suppression exposure reduces students' positive emotions and prosocial behavior. [→ Elena Savina 2025 (2)](#elena-savina-2025-2)
+`q2 i?` Surface acting and suppressing emotional expression are negatively linked to teaching effectiveness, and when teachers suppress their emotional expression their students experience fewer positive emotions and less prosocial behavior; the review states these as associations, not as causal effects, and notes some evidence that suppression can promote sensitivity towards students. [→ Elena Savina 2025 (2)](#elena-savina-2025-2)
 
 ## Evidence
 
@@ -56,7 +57,7 @@ Elena Savina, Caroline Fulton, Christina Beaton. (2025). Teacher Emotional Compe
 
 `q2 · i?` · `theoretical · r3`
 
-The review attributes to Aldrup et al. (2024) that "surface acting and suppressing the expression of emotions are negatively linked to teaching effectiveness," and cites Braun et al. (2020) that students of suppressing teachers experience fewer positive emotions and less prosocial behavior. No effect size is printed.
+The review attributes to Aldrup et al. (2024) that "surface acting and suppressing the expression of emotions are negatively linked to teaching effectiveness," and cites Braun et al. (2020) that "when teachers suppress their emotional expression, students experience fewer positive emotions and are less engaged in prosocial behavior." The review presents these as associations and does not show that suppression causes the difference. It adds that "there is some evidence that expressive suppression can be beneficial for promoting sensitivity towards students (Aldrup et al., 2024)." No effect size is printed.
 
 > "Aldrup and colleagues' (2024) review found that surface acting and suppressing the expression of emotions are negatively linked to teaching effectiveness."
 
