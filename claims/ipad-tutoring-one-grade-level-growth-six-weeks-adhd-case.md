@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · McClanahan 2012: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` After six weeks of tutoring delivered largely via iPad, a fifth grader with ADHD reading at second-grade level improved one full grade level on an informal reading inventory. [→ McClanahan 2012](#mcclanahan-2012)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i0` negligible
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nurit Paz-Baruch 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` The Time × Intervention interaction on flexibility was not significant at immediate post-test, despite a significant pre-to-post improvement within the experimental group. [→ Nurit Paz-Baruch 2025](#nurit-paz-baruch-2025)

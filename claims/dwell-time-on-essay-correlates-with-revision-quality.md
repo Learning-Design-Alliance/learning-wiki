@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Van Meenen 2023: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Dwell time on essay correlated positively with the quality of the revised essays assessed by professors. [→ Van Meenen 2023](#van-meenen-2023)

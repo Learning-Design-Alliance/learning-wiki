@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mosher 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Baseline reading measured at the start of Grade 1 correlated with Grade 2 near- (r = .42), mid- (r = .50), and far-transfer (r = .50) comprehension outcomes, and Grade 2 untaught vocabulary correlated with near- (r = .45), mid- (r = .40), and far-transfer (r = .40) outcomes. [→ Mosher 2024](#mosher-2024)

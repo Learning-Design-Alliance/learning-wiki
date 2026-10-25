@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Janneke van de Pol 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The mean Spearman rank correlation between teachers' diagnosticity ranking and the actual ranking was 0.55 (SD = 0.36). [→ Janneke van de Pol 2024](#janneke-van-de-pol-2024)

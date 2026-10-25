@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Ramadoni 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` PTFC posttest self-efficacy (M=84.64) was significantly higher than CFC (M=81.15) after controlling for pretest, F(1,67)=5.99, p=.017. [→ Ramadoni 2022](#ramadoni-2022)

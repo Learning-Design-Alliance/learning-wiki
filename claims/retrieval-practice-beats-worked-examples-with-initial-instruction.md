@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Meng Cao & Paulo F. Carvalho 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` With initial instruction, participants using retrieval practice scored significantly higher on the final generalization test than those studying worked examples (ηp² = .10). [→ Meng Cao & Paulo F. Carvalho 2026](#meng-cao-paulo-f-carvalho-2026)

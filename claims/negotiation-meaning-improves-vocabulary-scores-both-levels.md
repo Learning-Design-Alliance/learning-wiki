@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Baoshu Yi & Zhinong Sun 2013: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Experimental groups outperformed control groups on post-vocabulary tests held a week later in both the high school and college samples. [→ Baoshu Yi & Zhinong Sun 2013](#baoshu-yi-zhinong-sun-2013)

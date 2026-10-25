@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i0` negligible
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Design limits** · dtr-null-1: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i0` On the DeepSeek-R1-8B base, DTR is essentially uncorrelated with every measured tutoring outcome (all |r| < 0.09), although the same probe achieves r = 0.683 on math accuracy in its original setting. [→ dtr-null-1](#dtr-null-1)

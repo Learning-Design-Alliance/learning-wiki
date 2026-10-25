@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 > **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Pyle 1911: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` In the author's own classes, correlation between memory and class standing was only slight, about .30 by the Pearson formula; habits of study and other factors also contribute to scholarship. [→ Pyle 1911](#pyle-1911)

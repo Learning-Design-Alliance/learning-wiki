@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Moores 2011: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In simultaneous multiple regressions, the three predictors explained about 70% of variance in spelling and reading, but only set size uniquely predicted spelling and only pre-cue use uniquely predicted reading. [→ Moores 2011](#moores-2011)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fong 2022: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Across the three study years, the proportion of teachers completing required professional learning ranged from 82 to 99 percent, while the proportion teaching the curriculum with fidelity ranged from 0 to 3 percent. [→ Fong 2022](#fong-2022)

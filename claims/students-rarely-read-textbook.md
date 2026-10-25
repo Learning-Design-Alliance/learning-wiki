@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 > **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
+> **Design limits** · Stelzer 2008: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Only 16% of study completers reported reading their textbook once per week or more, and 50% reported never using it during the semester. [→ Stelzer 2008](#stelzer-2008)

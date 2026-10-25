@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Marcus 1998: the intervention came bundled with another change (extensive practice and a chunking strategy based on meaningful running times) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Using an effective chunking strategy based on prior knowledge, a subject with a normal digit span of 7 increased his digit span to about 80 digits. [→ Marcus 1998](#marcus-1998)

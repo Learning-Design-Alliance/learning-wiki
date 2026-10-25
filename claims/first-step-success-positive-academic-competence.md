@@ -1,7 +1,7 @@
 ---
 type: claim
-title: First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)
-description: First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)
+title: First Step to Success shows potentially positive effects on teacher-rated academic competence (SSRS Academic Competence, effect size 0.32)
+description: The WWC rates First Step to Success potentially positive on its other academic performance domain on one RCT, where the outcome was teachers' nine-item estimate of students' academic competence (SSRS), not a test of achievement (effect size 0.32)
 id: first-step-success-positive-academic-competence
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)
+# First Step to Success shows potentially positive effects on teacher-rated academic competence (SSRS Academic Competence, effect size 0.32)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i1` Walker et al. (2009) found a positive and statistically significant difference between treatment and comparison groups on the SSRS Academic Competence Subscale. [→ First Step to Success: WWC Intervention Report 2012](#first-step-to-success-wwc-intervention-report-2012)
+`q3 i1` Walker et al. (2009) found a positive and statistically significant difference between treatment and comparison groups on the SSRS Academic Competence Subscale, teachers' ratings of students' reading and math performance, motivation, intellectual functioning and parental support, not a test of achievement. [→ First Step to Success: WWC Intervention Report 2012](#first-step-to-success-wwc-intervention-report-2012)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ First Step to Success: WWC Intervention Report. (2012). What Works Clearinghouse
 
 `q3 · i1` · `causal · r2`
 
-Single RCT in Albuquerque grades 1–3. The WWC-calculated effect size was "0.32" (improvement index +12, p = .03) on the nine-item teacher-rated Academic Competence Subscale, yielding a potentially positive effects rating with small extent of evidence.
+Single RCT in Albuquerque grades 1–3. The WWC-calculated effect size was "0.32" (improvement index +12, p = .03) on the nine-item teacher-rated Academic Competence Subscale (the teacher's estimate of each student's standing on a five-point percentage scale, not a test), yielding a potentially positive effects rating with small extent of evidence.
 
 > "Walker et al. (2009) found, and the WWC confirmed, a positive and statistically significant difference between treatment and comparison groups on the SSRS Academic Competence Subscale."
 

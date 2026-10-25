@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Maaike E. Prangsma 2008: groups were assigned but students were analysed as independent · Maaike E. Prangsma 2008 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In each condition pupils' scores increased significantly from pre-test to post-test and from pre-test to retention test (p = .00). [→ Maaike E. Prangsma 2008](#maaike-e-prangsma-2008)

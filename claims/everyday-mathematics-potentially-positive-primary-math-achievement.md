@@ -24,6 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 > **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · waite-total-math: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` In one quasi-experimental study meeting WWC standards with reservations, Everyday Mathematics® showed a positive effect on TAAS Total Math Scale Score with an effect size of 0.27 and an improvement index of +11, which was not statistically significant once corrections for clustering were made. [→ waite-total-math](#waite-total-math)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Matthew P. Steinberg and Lauren Sartain 2015: the comparison group also received the intervention (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` The pilot effect on reading remained significant in year 2 (0.115 SD), but the year 3 effect was not statistically significant. [→ Matthew P. Steinberg and Lauren Sartain 2015](#matthew-p-steinberg-and-lauren-sartain-2015)

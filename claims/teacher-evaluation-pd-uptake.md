@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Prast 2018: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The majority of teachers (76.3% in Cohort 1 and 76.7% in Cohort 2) mostly or fully agreed that they used what they learned in the PD for preparation and teaching of mathematics lessons, and teachers perceived positive effects on students' motivation and achievement. [→ Prast 2018](#prast-2018)

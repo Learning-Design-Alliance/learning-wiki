@@ -51,4 +51,4 @@ The brief reports Langman's research finding that many shooters were not bullied
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — related
 - [A two-year quasi-experimental study in Hong Kong found full-implementation restorative whole-school approach students reported significantly less bullying and larger empathy and self-esteem gains than control students](rwsa-hong-kong-less-bullying-empathy-gains.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
-- [By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders](learners-learned-definition-and-defending.md) — related
+- [At the end of the study all learner focus groups said they understood bullying as repeated aggression and reported being confident defenders](learners-learned-definition-and-defending.md) — related

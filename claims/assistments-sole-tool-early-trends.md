@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Feng 2025: groups were assigned but students were analysed as independent · Feng 2025 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Teachers using ASSISTments alone had marginally higher end-of-year scores (225.9 versus 223.4, p = 0.051) and a higher percentage of students outperforming VCG (average 63% versus 54%). [→ Feng 2025](#feng-2025)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 > **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · MM Casey and S McVitie 2009: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Grade-slippage due to incomplete assessment presentation was more severe for middle and lower parts of the grade distribution, but students at all levels slipped grades. [→ MM Casey and S McVitie 2009](#mm-casey-and-s-mcvitie-2009)

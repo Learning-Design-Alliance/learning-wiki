@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
 > **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · W. H. Winch 1910: no comparison group · W. H. Winch 1910 (2): no comparison group · W. H. Winch 1910 (3): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Pearson product-moment correlations between reasoning accuracy and computation accuracy were high in each school where computed. [→ W. H. Winch 1910](#w-h-winch-1910)

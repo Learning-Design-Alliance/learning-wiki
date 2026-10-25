@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Emma Kohnky 1913: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` After dental treatment, the treated fifth-grade class (Room 21) led the untreated comparison class (Room 18) in nine of ten tests, whereas before treatment Room 21 led in five of ten. [→ Emma Kohnky 1913](#emma-kohnky-1913)

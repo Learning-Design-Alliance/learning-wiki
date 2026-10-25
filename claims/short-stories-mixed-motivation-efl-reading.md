@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Üstündağ-Algın 2025: no comparison group; the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Most experimental group students preferred short stories over coursebook texts and reported increased curiosity and motivation, while five students found the short stories boring, hard to follow, or monotonous. [→ Üstündağ-Algın 2025](#ustundag-algn-2025)

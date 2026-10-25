@@ -49,6 +49,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Metropolitan Area Child Study Research Group 2002 (2): the intervention came bundled with another change · Metropolitan Area Child Study Research Group 2002 (3): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In the early intervention period, the Level C condition showed a significant Community × Treatment interaction on postintervention aggression. [→ Metropolitan Area Child Study Research Group 2002](#metropolitan-area-child-study-research-group-2002)

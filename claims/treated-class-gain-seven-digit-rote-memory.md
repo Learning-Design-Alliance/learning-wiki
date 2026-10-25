@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Emma Kohnky 1913: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The treated class improved on the seven-digit memory-span series (74.9% to 85.7%, a gain of 10.8%) while the untreated class showed no gain (71.4% both times). [→ Emma Kohnky 1913](#emma-kohnky-1913)

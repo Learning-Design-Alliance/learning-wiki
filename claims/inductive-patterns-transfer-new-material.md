@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Felix Sachs 1913: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The tutored observers decided correctly in every single case of the remaining 47 test-examples, giving very good explanations in from 26 to 29 cases and correct names in from 26 to 29 cases. [→ Felix Sachs 1913](#felix-sachs-1913)

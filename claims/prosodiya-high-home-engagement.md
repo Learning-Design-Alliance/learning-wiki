@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Holz 2023: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Most children completed the training plan at home without supervision, with high behavioral engagement. [→ Holz 2023](#holz-2023)

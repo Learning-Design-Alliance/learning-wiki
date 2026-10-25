@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Read Naturally® Updated July 2013 — WWC Intervention Report 2013: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In a quasi-experimental study matching 44 third-grade students (22 per group) on pretest, grade, demographics, and school AYP status, the author reported and the WWC confirmed a statistically significant positive effect on the NALT Reading portion. [→ Read Naturally® Updated July 2013 — WWC Intervention Report 2013](#read-naturally-updated-july-2013-wwc-intervention-report-2013)

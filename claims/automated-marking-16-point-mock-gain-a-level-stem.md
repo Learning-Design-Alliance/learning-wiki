@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Matey Yordanov 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Controlling for Z-scored pre-test baselines, the intervention group achieved an adjusted post-test mean of 81.2% versus 64.4% for the control group (F(1,139) = 24.32, p<.001, η²p = .149). [→ Matey Yordanov 2026](#matey-yordanov-2026)

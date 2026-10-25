@@ -76,7 +76,7 @@ tactical understanding to other domains.
 
 ## Related Claims
 
-- [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — a game-centred design against a traditional one in a very different domain.
+- [Newly arrived migrant children taught Italian through games showed larger vocabulary gains than traditionally taught peers on a vocabulary checklist inventory, not a direct test.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — a game-centred design against a traditional one in a very different domain.
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Action, strategy-intelligence, role-playing and sport traditional game genres positively predict social problem-solving scores](traditional-game-genres-positive-spsic-predictors.md) — related

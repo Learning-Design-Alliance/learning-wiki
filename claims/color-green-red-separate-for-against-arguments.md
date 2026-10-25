@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Marije van Amelsvoort 2016: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Color was used to separate for and against arguments in most diagrams, with green used for arguments in favor and red for arguments against in 14 of 20 diagrams. [→ Marije van Amelsvoort 2016](#marije-van-amelsvoort-2016)

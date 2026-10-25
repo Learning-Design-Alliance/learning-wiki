@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q2` · `i1` small
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Markus Huff 2025: no comparison group · Markus Huff 2025 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Youth text reading experience positively and significantly correlated with narrative comprehension (ρ = .10). [→ Markus Huff 2025](#markus-huff-2025)

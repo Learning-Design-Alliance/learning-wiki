@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Eric Isenberg 2009: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In the second year of the randomized controlled evaluation, comprehensive induction produced no measurable improvement in the qualifications of the teachers who were retained. [→ Eric Isenberg 2009](#eric-isenberg-2009)

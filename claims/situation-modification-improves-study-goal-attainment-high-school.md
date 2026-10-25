@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Duckworth Angela L. 2016 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` In a one-week field experiment, the situation modification condition (M = 3.39, SD = 0.83) outperformed the pooled response modulation and control conditions on goal accomplishment, Welch F(2, 73.24) = 4.35, p = .016, ηp2 = .06, d = 0.56. [→ Duckworth Angela L. 2016](#duckworth-angela-l-2016)

@@ -27,6 +27,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Yibo Meng 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The 20 experimental-group participants gave an overall SUS score of 84.3 on the 0–100 scale, corresponding to an Excellent adjective rating. [→ Yibo Meng 2026](#yibo-meng-2026)

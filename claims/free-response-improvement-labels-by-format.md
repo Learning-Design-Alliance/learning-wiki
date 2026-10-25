@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fumie Watanabe 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In the TT format, stiffness of speech (frequency 8) was the most common improvement label, with difficulty of content and abundance of difficult vocabulary also emerging; in the SS format, unnatural manner of speaking (frequency 14) was most common. [→ Fumie Watanabe 2026](#fumie-watanabe-2026)

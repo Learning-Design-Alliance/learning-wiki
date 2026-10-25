@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
 > **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Doors to Discovery™ WWC Intervention Report 2013: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i0` In one study meeting standards with reservations, differences between the Doors to Discovery™ group and the comparison group on phonological processing were neither statistically significant nor substantively important (Pre-CTOPPP Elision effect size 0.14). [→ Doors to Discovery™ WWC Intervention Report 2013](#doors-to-discoverytm-wwc-intervention-report-2013)

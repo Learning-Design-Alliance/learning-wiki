@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Matlen 2013: the comparison group also received the intervention (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Mean time on task was longer for the low-guidance set-ups than for the high-guidance set-ups during instruction. [→ Matlen 2013](#matlen-2013)

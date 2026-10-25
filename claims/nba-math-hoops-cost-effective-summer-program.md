@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · McKinney 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Total per-pupil cost was $184.41 (analytic sample); materials and in-person training alone cost $17.85 per pupil for a 0.19 SD math gain ($59.23 per pupil total sample for 1 SD). [→ McKinney 2026](#mckinney-2026)

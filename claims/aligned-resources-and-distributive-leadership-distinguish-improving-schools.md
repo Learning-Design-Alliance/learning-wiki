@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Smylie 2003: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Schools that were strong or improved were more effective at securing resources aligned with a particular development agenda and employing them efficiently and strategically, and distinguished themselves by cultivating strong, distributive leadership in which the principal played a make-or-break role. [→ Smylie 2003](#smylie-2003)

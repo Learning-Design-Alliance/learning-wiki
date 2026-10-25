@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Esther Tan 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Descriptively, the PISG sequence showed more occurrences of high-level generating evidence, evaluating evidence, and drawing conclusions than PSGI, but the differences were not statistically significant and effect sizes were small. [→ Esther Tan 2018](#esther-tan-2018)

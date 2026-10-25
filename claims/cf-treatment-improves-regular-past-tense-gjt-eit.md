@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Yusuke Sato 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Across all three feedback groups, learners improved GJT scores for regular past tense (partial η² = .31) and EIT scores (partial η² = .17) from pretest to posttests. [→ Yusuke Sato 2023](#yusuke-sato-2023)

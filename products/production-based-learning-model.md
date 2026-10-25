@@ -32,7 +32,7 @@ A named vocational-education instructional framework developed by the article’
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](../claims/tefa-t-syntax-construct-validity-cfa.md) [+M]
 - [The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses](../claims/tefa-t-higher-achievement-than-teacher-based.md) [+W]
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](../claims/tefa-t-improves-critical-thinking-skills.md) [+W]
-- [The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction](../claims/tefa-t-improves-metacognitive-skills.md) [+W]
+- [Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class](../claims/tefa-t-improves-metacognitive-skills.md) [+W]
 - [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](../claims/tefa-t-very-practical-rating.md) [+W]
 - Tefa T Very Practical Practicality [+M]
 
@@ -74,7 +74,7 @@ This pattern organises vocational lessons as a production cycle in which unstruc
 - Tefa T Very Practical Practicality [+M]
 - [The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses](../claims/tefa-t-higher-achievement-than-teacher-based.md) [+W]
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](../claims/tefa-t-improves-critical-thinking-skills.md) [+W]
-- [The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction](../claims/tefa-t-improves-metacognitive-skills.md) [+W]
+- [Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class](../claims/tefa-t-improves-metacognitive-skills.md) [+W]
 - [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](../claims/tefa-t-very-practical-rating.md) [+W]
 
 ## Related Patterns

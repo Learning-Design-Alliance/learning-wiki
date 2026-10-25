@@ -131,5 +131,5 @@ A systematic review of experimental and quasi-experimental studies of universal 
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
 - [Meditation shows significant but predominantly small effects on social competence, with teacher-facilitated programmes showing more significant effects](meditation-small-social-competence-effects.md) — related
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
-- [Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction](role-play-discussion-built-knowledge-empathy.md) — a narrower finding that bears on this claim
+- [Teachers reported that role-plays and the discussions after them fostered pupils' empathy and knowledge about bullying](role-play-discussion-built-knowledge-empathy.md) — a narrower finding that bears on this claim
 - [SEL programs with explicit skill teaching and regular practice can promote preschool EF, possibly including inhibitory control](sel-programs-preschool-ef-efficacy.md) — a narrower finding that bears on this claim

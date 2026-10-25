@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Knechtel 2017: the intervention came bundled with another change (KIPP early elementary school) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` KIPP Pre-K students maintain an academic advantage on one of two measures of reading achievement through grade 2, while impacts on reading comprehension largely dissipate by grade 2. [→ Knechtel 2017](#knechtel-2017)

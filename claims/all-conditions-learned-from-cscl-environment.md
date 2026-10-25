@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Elise H. Eshuis 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Posttest scores were significantly higher than pretest scores in all three conditions, with printed paired-samples effect sizes d = 1.19 (instruction with tool), d = 1.10 (instruction only), and d = 0.57 (control). [→ Elise H. Eshuis 2019](#elise-h-eshuis-2019)

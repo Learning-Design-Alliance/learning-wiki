@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Fanfei Li 2026 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` On the held-out CommonCoreText ground-truth set, the pipeline reduces Beyond-K-5 retention to 0% while preserving about 35% of K-5 documents. [→ Fanfei Li 2026](#fanfei-li-2026)

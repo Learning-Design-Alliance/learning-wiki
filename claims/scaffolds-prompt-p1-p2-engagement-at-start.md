@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Parks 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Four groups engaged in exploring the problem (P1) at the start of the scaffolded task but not the non-scaffolded task; four groups engaged in planning (P2) during the first half of the scaffolded task but not the non-scaffolded task. [→ Parks 2026](#parks-2026)

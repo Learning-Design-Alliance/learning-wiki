@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Melissa Roderick 1999: no comparison group; the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Among students retained in 1997 and still included in 1998, only 43% of third graders and 47% of sixth graders raised their scores enough to meet the cutoff by August 1998, but most were promoted anyway, presumably via waivers. [→ Melissa Roderick 1999](#melissa-roderick-1999)

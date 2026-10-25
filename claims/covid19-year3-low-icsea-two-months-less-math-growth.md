@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Design limits** · Gore 2021: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` Year 3 students in low-ICSEA schools (ICSEA < 950) achieved significantly less growth in mathematics in 2020 relative to 2019 (d = -0.16, p = 0.0331), equivalent to two months less growth. [→ Gore 2021](#gore-2021)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Veit Kubik 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The authors conclude that because JOLs reactively potentiate subsequent learning, researchers should include a judgment-free condition to obtain unbiased memory assessments. [→ Veit Kubik 2022](#veit-kubik-2022)

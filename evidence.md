@@ -6,7 +6,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **7,098 distinct studies** behind 27,793 claims. What they add up to (the sections below have the detail):
+The wiki holds **7,098 distinct studies** behind 27,792 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 31% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 56% are quasi-experiments, observational studies or narrative reviews, and 13% are case studies, opinion or theory.
 - **Few print an effect size.** 1,725 of 7,098 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
@@ -21,10 +21,10 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 27,793 |
-| Evidence entries | 33,214 |
+| Claims | 27,792 |
+| Evidence entries | 33,213 |
 | Distinct studies | 7,098 |
-| Claims resting on one study | 27,256 (98%) |
+| Claims resting on one study | 27,255 (98%) |
 | Claims with no coded evidence | 0 |
 | Studies reporting an effect size | 1,725 of 7,098 (24%) |
 
@@ -46,7 +46,7 @@ These figures describe two things at once: what education research has produced,
 |---|---|---|---|
 | 895 (13%) | 3,980 (56%) | 2,067 (29%) | 156 (2%) |
 
-**Studies per claim:** 0: 0, 1: 27,256, 2: 452, 3: 68, 4 or more: 17.
+**Studies per claim:** 0: 0, 1: 27,255, 2: 452, 3: 68, 4 or more: 17.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 

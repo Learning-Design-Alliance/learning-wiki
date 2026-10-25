@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Xinfei Cen 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A mediation analysis found no evidence that favorability scores were associated with posttest scores (t(51) = 1.67, p = .101). [→ Xinfei Cen 2026](#xinfei-cen-2026)

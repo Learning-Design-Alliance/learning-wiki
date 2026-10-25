@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gore 2021: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Year 4 students in major cities demonstrated one month's additional growth in reading in 2020 (d = 0.08, p = 0.0472), with no significant differences in mathematics. [→ Gore 2021](#gore-2021)

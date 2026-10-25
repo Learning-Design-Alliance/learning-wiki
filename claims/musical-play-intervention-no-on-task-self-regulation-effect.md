@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Zachariou 2023: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` No group × time interaction was found on any on-task self-regulation observational measure or its three areas, so there was no indication of an intervention effect on directly observed self-regulation. [→ Zachariou 2023](#zachariou-2023)

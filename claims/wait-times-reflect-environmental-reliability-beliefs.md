@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
+> **Design limits** · Kidd 2013: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Because manipulating experimenter reliability changed wait-times, wait-times cannot be attributed solely to self-control capacity differences. [→ Kidd 2013](#kidd-2013)

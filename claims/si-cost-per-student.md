@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Dekker 2022: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Total intervention costs of €98,400 divided by 255 invited students amount to €385.88 per student; spreading set-up costs lowers this to about €154. [→ Dekker 2022](#dekker-2022)

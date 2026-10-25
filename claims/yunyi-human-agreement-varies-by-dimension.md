@@ -30,6 +30,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i2`–`i3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Chen C and Liu T 2026 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` In a pilot validation on 40 recordings, total-score correlation with human ratings was weak to moderate (r = 0.36), and dimension-level agreement varied widely. [→ Chen C and Liu T 2026](#chen-c-and-liu-t-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Eva Erdosne Toth 2000: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The proportion of students applying the correct CVS evaluation strategy rose from 27% before instruction to 77% after, with the strategy distribution significantly different across tests. [→ Eva Erdosne Toth 2000](#eva-erdosne-toth-2000)

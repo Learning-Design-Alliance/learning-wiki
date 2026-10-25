@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ming Fai Pang 2011: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In a Hong Kong primary four quasi-experimental learning study, 57.14% of the learning study group versus 29.03% of the comparison group reached Category E (correct answer with proper explanation using 'equal shares') on the open-ended post-test question. [→ Ming Fai Pang 2011](#ming-fai-pang-2011)

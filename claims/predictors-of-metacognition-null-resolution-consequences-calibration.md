@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Casey Inez Canfield & Baruch Fischhoff & Alex Davis 2019: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` None of the individual or task predictors were significantly related to resolution (p > .01). [→ Casey Inez Canfield & Baruch Fischhoff & Alex Davis 2019](#casey-inez-canfield-baruch-fischhoff-alex-davis-2019)

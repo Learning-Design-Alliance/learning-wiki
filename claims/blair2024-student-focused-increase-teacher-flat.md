@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i0`–`i2`
 > **Currency** · newest study 2024 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Blair 2024: the intervention came bundled with another change · Blair 2024 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` Total student-focused codes showed a marginal pre-to-post increase (t(16) = -1.77, p = .096, d = 0.43), consistent with hypothesized shifts. [→ Blair 2024](#blair-2024)

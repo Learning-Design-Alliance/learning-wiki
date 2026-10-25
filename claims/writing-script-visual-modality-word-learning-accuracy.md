@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Polyanskaya 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` In the visual modality, Arabic speakers' word-learning accuracy was lower than that of Chinese speakers (d = 0.612) and Portuguese speakers (d = 0.713), while Chinese and Portuguese did not differ significantly. [→ Polyanskaya 2024](#polyanskaya-2024)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kelly Quinn 2018: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The mixed ANOVA found no significant interaction or main effect of time for processing speed; the intervention group's greater improvement at 4 weeks was significant only at α = .1 (p = .096). [→ Kelly Quinn 2018](#kelly-quinn-2018)

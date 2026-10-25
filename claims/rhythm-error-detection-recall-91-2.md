@@ -24,6 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Zhu Z 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The system achieved a 91.2% ± 1.8% recall rate in detecting complex rhythm errors. [→ Zhu Z 2026](#zhu-z-2026)

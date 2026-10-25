@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`–`q3`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Lessons in Character 2006 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In the randomized controlled trial, average responses across four character-attitude scales were not statistically significant as calculated by the WWC (domain average effect size 0.21). [→ Lessons in Character 2006](#lessons-in-character-2006)

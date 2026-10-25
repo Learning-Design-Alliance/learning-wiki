@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
 > **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Julia Kollmer 2020: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` There was no significant difference between the drawing-from-scratch and scaffolded-drawing conditions on absolute monitoring accuracy (d = 0.10, p = 0.36). [→ Julia Kollmer 2020](#julia-kollmer-2020)

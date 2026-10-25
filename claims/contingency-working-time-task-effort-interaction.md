@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · van de Pol 2015: the intervention came bundled with another change (The scaffolding intervention was also accompanied by increased independent working time) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The three-way interaction of occasion, contingency, and independent working time on students' task effort was significant (small effect size). [→ van de Pol 2015](#van-de-pol-2015)

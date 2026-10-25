@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Design limits** · challenge-rates: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Challenge occurred in about 1% of agent turns in both studies, although only Study 2's prompt asked for gently challenging follow-ups; over half of Study 2 participants received no challenging turn at all. [→ challenge-rates](#challenge-rates)

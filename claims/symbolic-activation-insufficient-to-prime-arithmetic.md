@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Hyde 2014: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Performance declined rather than improved from the first to the second symbolic addition test set, with no Test Set × Training Condition interaction, suggesting symbolic activation alone does not explain the ANS practice effect. [→ Hyde 2014](#hyde-2014)

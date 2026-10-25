@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Freeman Scott 2011: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The proportion of students receiving a grade below 1.5 differed significantly across the six quarters (χ2 = 44.7, df = 5, p ≪ 0.001), falling from 18.2% in Spring 2002 to 6.3% in Autumn 2009. [→ Freeman Scott 2011](#freeman-scott-2011)

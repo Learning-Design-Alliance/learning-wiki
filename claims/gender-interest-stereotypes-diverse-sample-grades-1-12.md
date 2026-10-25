@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Design limits** · Master 2021 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Students in grades 1–12 endorsed gender-interest stereotypes favoring boys in engineering (d = 0.73) and computer science (d = 0.44), including first graders for engineering (d = 0.71). [→ Master 2021](#master-2021)

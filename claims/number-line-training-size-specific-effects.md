@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Honoré N 2016: the intervention came bundled with another change (Each numerical training condition combined number comparison with number-line positioning) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` The time × size × group interaction was significant, with the non-symbolic group improving on large numerosities and the symbolic group on small numerosities. [→ Honoré N 2016](#honore-n-2016)

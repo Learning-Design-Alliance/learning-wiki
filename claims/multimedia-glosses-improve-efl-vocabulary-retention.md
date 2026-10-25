@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Samah Zakareya Ahmad 2019: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The gloss group scored significantly higher than the control group on the same vocabulary test administered two weeks after the posttest. [→ Samah Zakareya Ahmad 2019](#samah-zakareya-ahmad-2019)

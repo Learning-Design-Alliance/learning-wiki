@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Green Dot Public Schools 2018: the intervention came bundled with another change · Green Dot Public Schools 2018 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Attending a Green Dot Public School had statistically significant positive effects on CST English language arts scores in the first year of high school for students who started ninth grade in 2009–10 (Cohort 3). [→ Green Dot Public Schools 2018](#green-dot-public-schools-2018)

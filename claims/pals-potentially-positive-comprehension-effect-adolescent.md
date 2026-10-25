@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Peer-Assisted Learning Strategies 2012: groups were assigned but students were analysed as independent · Peer-Assisted Learning Strategies 2012 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 <!-- title before 2026-10-15: PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering -->
 
 ## Subclaims

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Arps 1917: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Errors in delayed recall were 4.33 times immediate-recall errors under the orderly procedure and 2.6 times under the random procedure, giving the random method a relative advantage of 1.73. [→ Arps 1917](#arps-1917)

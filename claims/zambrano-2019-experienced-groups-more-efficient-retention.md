@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jimmy Zambrano 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Experienced groups were more efficient (performance combined with mental effort) than inexperienced groups in the delayed retention test. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)

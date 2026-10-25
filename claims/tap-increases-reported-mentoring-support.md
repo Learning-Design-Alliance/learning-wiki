@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2009 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Steven Glazerman 2009: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In the first start-up year, teachers in Chicago TAP schools reported significantly more mentoring and support than teachers in similar schools. [→ Steven Glazerman 2009](#steven-glazerman-2009)

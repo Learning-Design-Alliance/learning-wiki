@@ -35,6 +35,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Fanfei Li 2026 (2): the comparison group also received the intervention (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` After SFT followed by GRPO, both LittleLearner and UNFILTERED improve within K-5, but in Beyond-K-5 post-training only modestly improves LittleLearner while producing considerably larger gains for UNFILTERED. [→ Fanfei Li 2026](#fanfei-li-2026)

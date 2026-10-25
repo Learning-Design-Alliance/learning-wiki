@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Johns 2016: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Diverse contexts aid recognition speed and accuracy, while redundant contexts support better semantic representation, revealing a dissociation between ease of processing and semantic representation. [→ Johns 2016](#johns-2016)

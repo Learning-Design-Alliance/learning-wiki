@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jan A. A. Engelen 2018: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` None of the keyword cue types (main idea, detail, incorrect, commission) significantly predicted test performance, including the number of main ideas. [→ Jan A. A. Engelen 2018](#jan-a-a-engelen-2018)

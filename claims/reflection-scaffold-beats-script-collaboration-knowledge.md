@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Sebastian Strauß 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` University students in the reflection condition gained more knowledge about effective collaboration (mid-test) than those in the script and control conditions, per multilevel modeling. [→ Sebastian Strauß 2025](#sebastian-strau-2025)

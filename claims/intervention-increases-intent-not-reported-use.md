@@ -64,7 +64,7 @@ Mixed ANOVA on general retrieval practice use across both sessions: reported use
 
 
 ## Related Claims
-- [Both intervention versions raise declarative metacognitive knowledge about retrieval practice equally, and this knowledge declines over three weeks regardless of version](declarative-knowledge-no-version-difference-declines.md) — related
+- [Two versions of a retrieval-practice intervention left students with equal declarative metacognitive knowledge about retrieval practice, which declined over three weeks regardless of version](declarative-knowledge-no-version-difference-declines.md) — related
 - [An overcoming-barriers retrieval-practice intervention increases undergraduates' generation of general retrieval practice examples at both immediate and three-week follow-up](overcoming-barriers-intervention-increases-general-retrieval-examples.md) — related
 - [The overcoming-barriers intervention raises self-efficacy for using retrieval practice immediately after the intervention but not at three-week follow-up](overcoming-barriers-intervention-self-efficacy-immediate-only.md) — related
 - [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](overcoming-barriers-intervention-no-perceived-cost-reduction.md) — related

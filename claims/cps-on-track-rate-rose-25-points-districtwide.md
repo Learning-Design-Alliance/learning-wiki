@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
+> **Design limits** · Roderick 2014: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The CPS on-track rate rose from 57 to 82 percent between 2007 and 2013, an estimated 6,900 additional students finishing ninth grade each year without significant course failures. [→ Roderick 2014](#roderick-2014)

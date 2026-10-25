@@ -1,7 +1,7 @@
 ---
 type: claim
-title: By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders
-description: By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders
+title: At the end of the study all learner focus groups said they understood bullying as repeated aggression and reported being confident defenders
+description: In end-of-study focus groups at one school using the Bullying Prevention Pack, learners said they understood bullying as repeated aggression and felt confident as defenders; there was no pre-intervention or comparison measure and no test of knowledge
 id: learners-learned-definition-and-defending
 status: review
 generated:
@@ -28,15 +28,16 @@ sources:
     rigour: 1
 ---
 
-# By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders
+# At the end of the study all learner focus groups said they understood bullying as repeated aggression and reported being confident defenders
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Peadar Donohoe and Carmel O’Sullivan 2015 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q2 i?` All focus groups reported understanding bullying as repeated aggression, indicating the definitional knowledge had been successfully communicated. [→ Peadar Donohoe and Carmel O’Sullivan 2015](#peadar-donohoe-and-carmel-osullivan-2015)
-`q2 i?` Learners reported overall confidence as defenders, whether by direct peer-to-peer intervention or reporting incidents to a trusted adult. [→ Peadar Donohoe and Carmel O’Sullivan 2015 (2)](#peadar-donohoe-and-carmel-osullivan-2015-2)
+`q2 i?` In end-of-study focus groups, all groups said they understood bullying as repeated aggression; the authors read this as the definition having been communicated, but understanding was self-reported, with no earlier focus group or comparison to show a change. [→ Peadar Donohoe and Carmel O’Sullivan 2015](#peadar-donohoe-and-carmel-osullivan-2015)
+`q2 i?` In the same focus groups, learners reported overall confidence as defenders (self-reported, with no pre-intervention or comparison measure), whether by direct peer-to-peer intervention or reporting incidents to a trusted adult. [→ Peadar Donohoe and Carmel O’Sullivan 2015 (2)](#peadar-donohoe-and-carmel-osullivan-2015-2)
 
 ## Evidence
 
@@ -56,7 +57,7 @@ Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fo
 
 `q2 · i?` · `causal · r1`
 
-Focus-group finding on the second objective, ability to defend. Learners commonly cited reporting to a teacher, with strengthened belief in teacher efficacy, e.g. "I know I can talk to the teacher who will do something about it".
+Focus-group finding on the second objective, ability to defend, from learners' own end-of-study reports; no earlier focus group, comparison group or observed defending is reported. Learners commonly cited reporting to a teacher, with strengthened belief in teacher efficacy, e.g. "I know I can talk to the teacher who will do something about it".
 
 > "Learners reported that overall they were conﬁdent defenders whether it was by direct peer-to- peer intervention or reporting bullying incidents to a trusted adult."
 

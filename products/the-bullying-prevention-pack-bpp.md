@@ -23,7 +23,7 @@ A five-week, teacher-led primary-school bullying-prevention programme developed 
 
 ### Claims
 - [The BPP intervention was followed by a large reduction in bullying victimisation at the research school relative to the control school](../claims/bpp-reduced-victimisation-versus-control.md) [+M]
-- [Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction](../claims/role-play-discussion-built-knowledge-empathy.md) [+M]
+- [Teachers reported that role-plays and the discussions after them fostered pupils' empathy and knowledge about bullying](../claims/role-play-discussion-built-knowledge-empathy.md) [+M]
 
 ## Related Products and Programmes
 -

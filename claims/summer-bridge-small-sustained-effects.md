@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Melissa Roderick 2003: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Summer Bridge students had slightly larger learning gains over two years than comparable students who did not attend, but effects were small and did not substantially alter school-year learning rates. [→ Melissa Roderick 2003](#melissa-roderick-2003)

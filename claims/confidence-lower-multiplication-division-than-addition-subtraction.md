@@ -29,6 +29,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Lortie-Forgues 2017 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Confidence ratings were lower for division than multiplication and lower for multiplication than addition and subtraction, with no difference between problems with decimals above versus below one among students whose judgments always followed whole number arithmetic. [→ Lortie-Forgues 2017](#lortie-forgues-2017)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Parks 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Groups showed more diversity of process turns, more uninterrupted transitions between processes (37 vs. 28 instances), and more oscillation between solving and evaluating on the scaffolded task. [→ Parks 2026](#parks-2026)

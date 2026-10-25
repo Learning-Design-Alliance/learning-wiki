@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Chiang 2015: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Most teachers (over 60%) received a bonus, suggesting bonuses were not challenging to earn, and the highest performing teachers received bonuses more than 3 times the average bonus of about $1,800. [→ Chiang 2015](#chiang-2015)

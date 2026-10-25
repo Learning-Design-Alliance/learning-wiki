@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nakamoto 2022: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` Research question 3 on minority group isolation is addressed only with school-level descriptive data in this interim report, and a design meeting WWC standards will be explored before the final report. [→ Nakamoto 2022](#nakamoto-2022)

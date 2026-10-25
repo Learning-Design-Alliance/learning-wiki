@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Roderick 2014: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In the 17 secondary-mover schools, the share of freshmen with Ds or Fs declined from 33 to 22 percent while the share with Bs or better rose from 28 to 37 percent. [→ Roderick 2014](#roderick-2014)

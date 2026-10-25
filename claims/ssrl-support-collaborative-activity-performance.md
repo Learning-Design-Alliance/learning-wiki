@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Leonardo Silva 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In the trial, superior performance in collaborative activities was achieved only by students who received SSRL and co-regulation support, not by those receiving SRL support alone. [→ Leonardo Silva 2023](#leonardo-silva-2023)

@@ -50,4 +50,4 @@ WWC synthesis of two RCTs (46 kindergarteners in Oregon; about 198 students in g
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
 - [Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk](lpa-four-baseline-risk-classes.md) — related
 - [Early Risers shows no discernible effects on external behavior for children at risk of emotional disturbance classification](early-risers-no-effect-external-behavior.md) — related
-- [First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)](first-step-success-positive-academic-competence.md) — related
+- [First Step to Success shows potentially positive effects on teacher-rated academic competence (SSRS Academic Competence, effect size 0.32)](first-step-success-positive-academic-competence.md) — related

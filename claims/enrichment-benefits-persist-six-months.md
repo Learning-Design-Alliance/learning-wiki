@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Andrä 2020: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Both enrichment types enhanced performance versus non-enriched learning, and benefits persisted up to 6 months after training for both concrete and abstract words. [→ Andrä 2020](#andra-2020)

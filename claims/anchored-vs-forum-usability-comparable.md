@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · van der Pol 2006: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Students reported no significant differences between the tools in technical difficulties, practicality, or percentage of messages read, and both were frequently used. [→ van der Pol 2006](#van-der-pol-2006)

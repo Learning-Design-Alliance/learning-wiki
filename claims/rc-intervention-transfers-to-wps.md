@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fuchs 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` RC.INT produced significant cross-domain transfer effects on WP Solutions and WP Retell versus control, with g = 0.41 and 0.68. [→ Fuchs 2024](#fuchs-2024)

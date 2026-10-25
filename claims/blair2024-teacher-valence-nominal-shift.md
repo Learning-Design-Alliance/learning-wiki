@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Blair 2024: the intervention came bundled with another change (a whole-class discussion and a 10-minute lecture following the contrasting-cases activity) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Within teacher-focused codes, presence-noting decreased and absence/missed-opportunity-noting increased, but this interaction was not significant. [→ Blair 2024](#blair-2024)

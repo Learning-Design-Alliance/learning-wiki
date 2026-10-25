@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-23 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Iordanou 2025 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Think-aloud comments against the own-side doubled and statements supporting the own-side decreased by half at post-test when reading the other-side text. [→ Iordanou 2025](#iordanou-2025)

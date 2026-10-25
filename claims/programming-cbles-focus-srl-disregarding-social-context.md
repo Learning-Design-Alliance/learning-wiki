@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Leonardo Silva 2023: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The authors' systematic literature review found that most regulatory-scaffold CBLEs in programming education attend to SRL only and disregard the social context. [→ Leonardo Silva 2023](#leonardo-silva-2023)

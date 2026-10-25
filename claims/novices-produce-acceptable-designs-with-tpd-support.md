@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Verstegen 2006: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Novices can make a reasonably good draft of a simulator training program without major problems when working seriously with the MASTER-TPD method and support. [→ Verstegen 2006](#verstegen-2006)

@@ -31,7 +31,7 @@ First Step to Success is a behavior-coaching programme developed for children at
 ### Claims
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](../claims/first-step-success-internal-behavior-substantive-nonsig.md) [+W]
 - [First Step to Success shows no discernible effects on reading achievement/literacy](../claims/first-step-success-no-reading-effects.md) [-W]
-- [First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)](../claims/first-step-success-positive-academic-competence.md) [+W]
+- [First Step to Success shows potentially positive effects on teacher-rated academic competence (SSRS Academic Competence, effect size 0.32)](../claims/first-step-success-positive-academic-competence.md) [+W]
 - [First Step to Success has positive effects on external behavior for children at risk for emotional disturbance (average improvement index +28)](../claims/first-step-success-positive-external-behavior.md) [+W]
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](../claims/first-step-success-positive-social-outcomes.md) [+W]
 - [Parent Coaching Outperforms Information Only](../claims/parent-coaching-outperforms-information-only.md) [+W]
@@ -70,7 +70,7 @@ First Step to Success is "an early intervention program designed to help childre
 
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](../claims/first-step-success-internal-behavior-substantive-nonsig.md) [+W]
 - [First Step to Success shows no discernible effects on reading achievement/literacy](../claims/first-step-success-no-reading-effects.md) [-W]
-- [First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)](../claims/first-step-success-positive-academic-competence.md) [+W]
+- [First Step to Success shows potentially positive effects on teacher-rated academic competence (SSRS Academic Competence, effect size 0.32)](../claims/first-step-success-positive-academic-competence.md) [+W]
 - [First Step to Success has positive effects on external behavior for children at risk for emotional disturbance (average improvement index +28)](../claims/first-step-success-positive-external-behavior.md) [+W]
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](../claims/first-step-success-positive-social-outcomes.md) [+W]
 - [Parent Coaching Outperforms Information Only](../claims/parent-coaching-outperforms-information-only.md) [+W]

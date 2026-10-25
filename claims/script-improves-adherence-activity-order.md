@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Judith Schoonenboom 2008: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Scores on out-of-order 'bad messages' were much higher in the unscripted than scripted condition (d=0.8) and higher in script-only than script+interface (d=0.9). [→ Judith Schoonenboom 2008](#judith-schoonenboom-2008)

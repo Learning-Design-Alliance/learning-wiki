@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Babette Park · Andreas Korbach · Paul Ginns · Roland Brünken 2023: the intervention came bundled with another change (In the study's tracing condition, participants used both pointing and tracing actions) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The authors' review concludes that studies with paper-based and digital material and participants of different age groups consistently confirm tracing benefits across performance measures including retention, comprehension, and transfer problem solving. [→ Babette Park · Andreas Korbach · Paul Ginns · Roland Brünken 2023](#babette-park-andreas-korbach-paul-ginns-roland-brunken-2023)

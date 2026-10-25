@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Manuela Macedonia 2023: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The correlation between age and language learning aptitude did not reach significance (r = -0.27, p = .070), though it was in the expected direction. [→ Manuela Macedonia 2023](#manuela-macedonia-2023)

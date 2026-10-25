@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Hirshberg Matthew J. 2022: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Of 344 participants assigned to the HMP, 329 (95.6%) downloaded the app and 271 (78.78%) had one or more days of use, with a mean of 10.88 days and 127.93 minutes of practice. [→ Hirshberg Matthew J. 2022](#hirshberg-matthew-j-2022)
@@ -48,5 +49,5 @@ Descriptive app-usage statistics reported in the Results for the 344 HMP-assigne
 - [A four-week smartphone meditation app reduces psychological distress in school system employees at post-intervention and three-month follow-up](hmp-reduces-psychological-distress-school-employees.md) — related
 - [App benefits on distress are as large or larger among participants with elevated baseline anxiety and depressive symptoms](hmp-benefits-elevated-baseline-symptoms.md) — related
 - [The meditation app showed no evidence of elevated adverse events, with lower odds of symptom worsening at post-test](hmp-no-elevated-adverse-events.md) — related
-- [The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action](hmp-improves-well-being-skills-persisting.md) — related
+- [The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action](hmp-improves-well-being-skills-persisting.md) — related
 - [Attrition was significantly higher in the app group than in the wait-list control group](hmp-trial-higher-attrition-treatment-group.md) — related

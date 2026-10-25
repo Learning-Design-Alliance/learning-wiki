@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Li 2019: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In three of four observed BROMP sessions, 83–94% of coded behavior and affect was on task and concentrating; in Session 4 only 52% of 128 observations showed on-task behavior. [→ Li 2019](#li-2019)

@@ -57,4 +57,4 @@ Semi-structured Zoom interviews with current and former Core Team members across
 - [Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices](states-co-design-voice-counts.md) — related
 - [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](small-pdsa-cycles-narrow-first-problem.md) — related
 - [Most RCS Core Team members who completed the Inclusive Innovation Survey showed positive beliefs and efficacy aligned with the Inclusive Innovation Core Tenets](iis-core-team-positive-beliefs-efficacy.md) — related
-- [By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders](learners-learned-definition-and-defending.md) — related
+- [At the end of the study all learner focus groups said they understood bullying as repeated aggression and reported being confident defenders](learners-learned-definition-and-defending.md) — related

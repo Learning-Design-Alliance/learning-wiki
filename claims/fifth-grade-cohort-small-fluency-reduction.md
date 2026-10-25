@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
 > **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Torgesen 2007: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` For students in the fifth-grade cohort, the four interventions combined improved phonemic decoding on one measure but led to a small statistically significant reduction in oral reading fluency. [→ Torgesen 2007](#torgesen-2007)

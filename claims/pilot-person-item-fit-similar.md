@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
+> **Design limits** · J. Patrick Meyer 2023: the intervention came bundled with another change · J. Patrick Meyer 2023 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Mean observed-minus-expected proportions and outfit statistics were close to expected values and very similar between groups for persons and items. [→ J. Patrick Meyer 2023](#j-patrick-meyer-2023)

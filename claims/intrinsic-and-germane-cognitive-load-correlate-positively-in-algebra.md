@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
+> **Design limits** · Gupta 2020: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The abstract reports a significant positive correlation between intrinsic and germane cognitive load. [→ Gupta 2020](#gupta-2020)

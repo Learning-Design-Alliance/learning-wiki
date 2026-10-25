@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Steven Glazerman 2012: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Retention of transferred teachers persisted beyond the incentive period: most TTI teachers remained on the job after payments ended. [→ Steven Glazerman 2012](#steven-glazerman-2012)

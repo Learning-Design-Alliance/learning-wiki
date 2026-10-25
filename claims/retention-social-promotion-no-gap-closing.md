@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nagaoka 2004 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Low-achieving students started school behind and fell further behind before the gate grade; the gap did not significantly close afterward for students near the cutoff. [→ Nagaoka 2004](#nagaoka-2004)

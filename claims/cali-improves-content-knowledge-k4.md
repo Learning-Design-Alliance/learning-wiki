@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2017 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Dombek 2017: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Students randomly assigned to CALI achieved significantly higher social studies post-unit scores than control students (g = 2.27). [→ Dombek 2017](#dombek-2017)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Darnon 2010: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In Study 1, self-set mastery goals predicted social comparison orientation, and this link was strengthened by higher performance-approach goal endorsement, as shown by a significant interaction effect. [→ Darnon 2010](#darnon-2010)

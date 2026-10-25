@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Arnaud Stanczak 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` Across 16 weekly sessions with a trained classroom teacher, learning outcomes were not higher in the jigsaw condition than in teaching-as-usual (d = -0.07). [→ Arnaud Stanczak 2022](#arnaud-stanczak-2022)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Carla Haelermans 2022: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Within the treatment group, the effect on grades is significant for the instruction-dependent and instruction-independent groups but not for the average group. [→ Carla Haelermans 2022](#carla-haelermans-2022)

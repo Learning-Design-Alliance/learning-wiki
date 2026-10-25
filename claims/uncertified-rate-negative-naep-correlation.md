@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Laczko-Kerr 2002: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` The percent of new teachers in a state who were uncertified correlated negatively with performance on six NAEP state assessments, with correlations from –.40 to –.63. [→ darling-hammond-corr-1](#laczko-kerr-2002)

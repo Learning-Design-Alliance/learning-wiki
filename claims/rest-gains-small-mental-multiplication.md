@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Edward L. Thorndike 1911: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A 30-minute rest increased product per unit of time by about 5 percent and a night's rest by about 7 percent more, while accuracy remained almost exactly the same. [→ Edward L. Thorndike 1911](#edward-l-thorndike-1911)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Verstegen 2006: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In open questionnaire questions, the most frequent self-reported reason for iteration was new insights or discovering later on that initial choices were not the best (seven subjects), followed by new information (three subjects). [→ Verstegen 2006](#verstegen-2006)

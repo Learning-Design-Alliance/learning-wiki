@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 1978 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Marli E.D.A. Andre and Thomas H. Anderson 1978: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` For trained questioners, the correlation between percentage of good comprehension questions and test scores was .62, and question percentage was a significant predictor of achievement, while study time was not. [→ Marli E.D.A. Andre and Thomas H. Anderson 1978](#marli-eda-andre-and-thomas-h-anderson-1978)

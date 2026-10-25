@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action
-description: The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action
+title: The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action
+description: In a randomised wait-list trial of 662 school system employees, the Healthy Minds Program app improved questionnaire ratings of self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being and meaning in life, persisting at three months except mindful action; no skill was assessed objectively
 id: hmp-improves-well-being-skills-persisting
 status: review
 generated:
@@ -36,16 +36,16 @@ sources:
     rigour: 3
 ---
 
-# The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action
+# The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r3` · `q3` · `i1`–`i2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i1` HMP assignment predicted a significant post-intervention improvement in mindful action (d=0.21). [→ Hirshberg Matthew J. 2022](#hirshberg-matthew-j-2022)
-`q3 i2` HMP assignment predicted significant post-intervention improvements in self-compassion (d=0.40), loneliness (d=-0.34), cognitive defusion (d=0.40), perseverative thinking (d=-0.35), well-being (d=0.42), and meaning in life (d=0.28). [→ Hirshberg Matthew J. 2022 (2)](#hirshberg-matthew-j-2022-2)
-`q3 i1` Improvements persisted at three-month follow-up for all secondary outcomes except mindful action (d=0.14, pFDR=.074). [→ Hirshberg Matthew J. 2022 (3)](#hirshberg-matthew-j-2022-3)
+`q3 i1` HMP assignment predicted a significant post-intervention improvement in self-reported mindful action (the Act with Awareness questionnaire subscale; d=0.21). [→ Hirshberg Matthew J. 2022](#hirshberg-matthew-j-2022)
+`q3 i2` HMP assignment predicted significant post-intervention improvements in self-reported (questionnaire) self-compassion (d=0.40), loneliness (d=-0.34), cognitive defusion (d=0.40), perseverative thinking (d=-0.35), well-being (d=0.42), and meaning in life (d=0.28). [→ Hirshberg Matthew J. 2022 (2)](#hirshberg-matthew-j-2022-2)
+`q3 i1` The self-reported improvements persisted at three-month follow-up for all secondary outcomes except mindful action (d=0.14, pFDR=.074). [→ Hirshberg Matthew J. 2022 (3)](#hirshberg-matthew-j-2022-3)
 
 ## Evidence
 
@@ -55,7 +55,7 @@ Hirshberg Matthew J., Frye Corrina, Dahl Cortland J., Riordan Kevin M., Vack Nat
 
 `q3 · i1` · `causal · r3`
 
-Piecewise linear mixed effects models with FDR correction on the N=662 intention-to-treat sample. "assignment to HMP predicted significant improvements compared to the WLC" in mindful action (d=0.21), a small effect.
+Piecewise linear mixed effects models with FDR correction on the N=662 intention-to-treat sample of a randomised wait-list trial. Every outcome was a self-report questionnaire (mindful action is the Five Facet Mindfulness Questionnaire's Act with Awareness subscale), and the authors name reliance on self-report in an unblinded trial as a limitation. "assignment to HMP predicted significant improvements compared to the WLC" in mindful action (d=0.21), a small effect.
 
 > "assignment to HMP predicted significant improvements compared to the WLC in mindful action (d=0.21 [0.06 to 0.36], pFDR=.001)"
 

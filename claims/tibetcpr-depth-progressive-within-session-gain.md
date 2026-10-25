@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Yibo Meng 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` A linear mixed-effects model on per-minute depth accuracy found a highly significant Group×Minute interaction (β=+0.030 per minute, p<.001). [→ Yibo Meng 2026](#yibo-meng-2026)

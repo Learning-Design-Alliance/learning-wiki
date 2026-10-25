@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i1` small
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ramsburg 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` In Experiment 1, the Confirmatory-Only condition rated nuclei marginally more important than the Complete condition after learning, ηp2 = .011. [→ Ramsburg 2015](#ramsburg-2015)

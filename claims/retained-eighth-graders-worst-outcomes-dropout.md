@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2002**: local conditions change quickly
+> **Design limits** · Melissa Roderick 1999: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Only 27% of retained or Transition Center eighth graders met the promotional criteria by May 1998, and roughly 16% of officially retained eighth graders dropped out by fall 1998. [→ Melissa Roderick 1999](#melissa-roderick-1999)

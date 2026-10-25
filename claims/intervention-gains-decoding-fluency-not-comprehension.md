@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kulesz 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` The treatment condition outperformed BaU on one decoding measure (ES = 0.58) and one reading fluency measure (ES = 0.46), with no significant differences on remaining decoding, fluency, reading comprehension, or spelling measures. [→ Kulesz 2024](#kulesz-2024)

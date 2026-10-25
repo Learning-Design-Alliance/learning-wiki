@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Nicole Shechtman 2019: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Students were logged into RM-CC5 an estimated average of 56.7 minutes per day, met about 36.7 learning objectives, and schools were compliant with the program model, with extensive variation at school and student levels. [→ Nicole Shechtman 2019](#nicole-shechtman-2019)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Metropolitan Area Child Study Research Group 2002: the intervention came bundled with another change (general enhancement classroom intervention) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` In the late intervention period, Level B participants were more aggressive at posttest than controls, with a printed effect size of 0.62 SD. [→ Metropolitan Area Child Study Research Group 2002](#metropolitan-area-child-study-research-group-2002)

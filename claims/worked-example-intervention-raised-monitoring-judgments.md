@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Scheibe 2022: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Participants in the intervention condition reported higher monitoring judgments than the control condition on all three post-intervention problems, controlling for gender and pretest monitoring judgments. [→ Scheibe 2022](#scheibe-2022)

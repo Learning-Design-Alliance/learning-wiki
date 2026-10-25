@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i1`–`i2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mulders 2025: groups were assigned but students were analysed as independent · Mulders 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` Self-assessed knowledge of students in the VR condition increased from pretest to posttest with a small effect (d = 0.34). [→ Mulders 2025](#mulders-2025)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Felix Sachs 1913: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The inductively tutored group averaged 42 correct validity decisions out of 45 test examples versus 35.3 for the class-taught group, and no class-taught observer matched the poorest tutored observer. [→ Felix Sachs 1913](#felix-sachs-1913)

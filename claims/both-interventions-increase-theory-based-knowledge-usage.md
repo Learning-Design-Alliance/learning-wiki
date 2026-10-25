@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Baier 2021: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Both groups reported drawing more strongly on theoretical knowledge when analysing classroom situations after the intervention, with a large effect size (η²p = 0.45). [→ Baier 2021](#baier-2021)

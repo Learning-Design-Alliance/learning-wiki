@@ -24,6 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Design limits** · Feng Z and Huang K 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The Bayesian DINA model achieved convergence on the EdNet dataset (N = 5,000, sparsity 91.3%) with all R-hat values below 1.01 and effective sample sizes above 200. [→ Feng Z and Huang K 2026](#feng-z-and-huang-k-2026)

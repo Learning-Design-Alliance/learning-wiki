@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Tetiana Zubenko 2019: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` After subtracting oral comprehension scores from each student's total, the LWPA group still outperformed the Comparison group on literacy components (Tukey/Kramer Q-stat = 3.01, p = .038). [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)

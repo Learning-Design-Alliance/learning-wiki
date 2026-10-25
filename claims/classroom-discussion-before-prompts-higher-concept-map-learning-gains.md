@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Elise H. Eshuis 2022: groups were assigned but students were analysed as independent · Elise H. Eshuis 2022 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Students in the example + discussion + prompts condition showed significantly higher learning gains on application-level items than all other conditions, and higher conceptual-level gains than the control and example conditions. [→ Elise H. Eshuis 2022](#elise-h-eshuis-2022)

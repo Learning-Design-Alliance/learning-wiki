@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Li Shenghui 2013: the intervention came bundled with another change · Li Shenghui 2013 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` After delaying school start time 30 and 60 minutes, sleep duration increased by 15.6 and 22.8 minutes respectively, and the intervention significantly improved sleep duration and daytime sleepiness. [→ Li Shenghui 2013](#li-shenghui-2013)

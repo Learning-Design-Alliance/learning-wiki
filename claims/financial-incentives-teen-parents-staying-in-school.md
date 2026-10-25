@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Financial Incentives for Teen Parents to Stay in School 2006 (2): the intervention came bundled with another change (case-management guidance and assistance with child care and transportation) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 

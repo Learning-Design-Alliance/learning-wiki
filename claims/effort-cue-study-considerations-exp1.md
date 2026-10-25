@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Janssen 2023: no comparison group · Janssen 2023 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In path analyses, the more effort invested during interleaved studying, the less effective students perceived it and the less willing they were to use it again. [→ Janssen 2023](#janssen-2023)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Thorndike 1922: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` The experiment seems useful for increasing teachers' appreciation of pupils' difficulties and as a warning against imputing poor results to perverseness or lack of effort. [→ Thorndike 1922](#thorndike-1922)

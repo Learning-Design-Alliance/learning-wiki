@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Holz 2023: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Syllable stress awareness correlated significantly with all spelling skills, and literacy skills correlated with in-game performance, including rs = .60 between standardized spelling and the in-game spelling game. [→ Holz 2023](#holz-2023)

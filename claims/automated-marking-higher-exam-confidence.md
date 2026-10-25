@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Matey Yordanov 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` Self-reported Exam Confidence was significantly higher in the intervention group (M=4.3/5.0) than the control group (M=3.4/5.0), t(140) = 4.56, p < .001, d= 0.76. [→ Matey Yordanov 2026](#matey-yordanov-2026)

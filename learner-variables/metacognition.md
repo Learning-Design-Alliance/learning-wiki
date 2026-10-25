@@ -173,7 +173,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Model answers combined with self-assessment instructions interactively improve monitoring-based regulation accuracy, with two model answers most effective](../claims/model-answers-self-assessment-interaction-regulation.md) [~M] — instruction changes it
 - [Model answers improve both monitoring-based and comprehension-based regulation accuracy](../claims/model-answers-improve-regulation-accuracy.md) [+M] — instruction changes it
 - [Higher order cognitive skills (inference, perspective taking, monitoring) are differentially related to writing quality, writing productivity, and correctness in writing in Grade 2](../claims/higher-order-cognitions-differential-writing-dimensions-grade2.md) [+W] — learners who differ on it differ in outcomes
-- [Both intervention versions raise declarative metacognitive knowledge about retrieval practice equally, and this knowledge declines over three weeks regardless of version](../claims/declarative-knowledge-no-version-difference-declines.md) [+M] — instruction changes it
+- [Two versions of a retrieval-practice intervention left students with equal declarative metacognitive knowledge about retrieval practice, which declined over three weeks regardless of version](../claims/declarative-knowledge-no-version-difference-declines.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

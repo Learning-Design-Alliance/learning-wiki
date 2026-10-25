@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2018 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Bos 2018: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Typical participation was approximately 20 percent per year, far below the 60 percent target needed for whole-school turnaround. [→ Bos 2018](#bos-2018)

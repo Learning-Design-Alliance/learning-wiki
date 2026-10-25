@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Peter Seban 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` On the one-week delayed test, the MTR group differed significantly from the 1R control group (p < 0.001) and the RR group also differed significantly from controls (p = 0.039). [→ Peter Seban 2025](#peter-seban-2025)

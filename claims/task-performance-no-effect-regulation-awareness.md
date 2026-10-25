@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Oudman 2024: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The cross-level interaction between regulation judgment accuracy and mean task performance on SOJ-r was not significant for either task, indicating performance level does not moderate regulation accuracy awareness. [→ Oudman 2024](#oudman-2024)

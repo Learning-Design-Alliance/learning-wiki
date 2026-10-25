@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kala 2023: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Experimental-group students spent the most mental effort on the very-high interactivity sessions (3 and 8) and the least on the low interactivity sessions (1 and 4). [→ Kala 2023](#kala-2023)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Sophie Wacker 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In 22.6% of judgments confidence was rated lower than the prior pre-monitoring judgment, which the authors read as a decrease in overconfidence. [→ Sophie Wacker 2024](#sophie-wacker-2024)

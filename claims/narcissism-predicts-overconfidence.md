@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · de Bruin 2017: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Higher NPI (grandiose narcissism) scores were significantly positively related to overconfidence at t=0 and t=2; HSNS (vulnerable narcissism) was negatively related at t=0 only; LOT-R optimism was not significantly related at either time. [→ de Bruin 2017](#de-bruin-2017)

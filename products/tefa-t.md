@@ -28,7 +28,7 @@ A teaching-factory instructional framework developed for automotive vocational e
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction](../claims/tefa-t-improves-metacognitive-skills.md) [+M]
+- [Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class](../claims/tefa-t-improves-metacognitive-skills.md) [+M]
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](../claims/tefa-t-improves-critical-thinking-skills.md) [+M]
 - [The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses](../claims/tefa-t-higher-achievement-than-teacher-based.md) [+M]
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](../claims/tefa-t-syntax-construct-validity-cfa.md) [+M]

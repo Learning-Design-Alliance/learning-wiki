@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rebecca Pape 2026: the comparison group also received the intervention (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The prioritize prompt was responded to appropriately in 17 of 17 cases, while the set goal prompt was responded to appropriately in only 3 of 17 cases. [→ Rebecca Pape 2026](#rebecca-pape-2026)

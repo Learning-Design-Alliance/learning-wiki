@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":27793,
+"claim":27792,
 "design":1050,
 "element":1057,
 "learner-variable":75,
@@ -59238,13 +59238,13 @@
 "type":"claim"
 },
 {
-"description":"Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction",
+"description":"Among 222 first-year high school students, critical thinking disposition was associated with higher self-reported ARCS motivation and a two-item self-rating of understanding after each of three text-to-speech lesson formats; learning was not tested and the association is not a cause",
 "evidence_strength":"moderate",
 "id":"critical-thinking-disposition-main-effects",
 "newest_evidence":"2026",
 "path":"claims/critical-thinking-disposition-main-effects.md",
 "status":"review",
-"title":"Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction",
+"title":"High school students with a stronger critical thinking disposition reported higher motivation and self-rated understanding across all TTS dialogue formats, with no format interaction",
 "type":"claim"
 },
 {
@@ -64498,13 +64498,13 @@
 "type":"claim"
 },
 {
-"description":"Both intervention versions raise declarative metacognitive knowledge about retrieval practice equally, and this knowledge declines over three weeks regardless of version",
+"description":"Undergraduates randomly assigned to a traditional or an overcoming-barriers retrieval-practice intervention did not differ in rated endorsement of retrieval practice over rereading, which fell between the immediate and three-week surveys; with no pre-intervention measure or untreated control, the study cannot show either version raised it",
 "evidence_strength":"moderate",
 "id":"declarative-knowledge-no-version-difference-declines",
 "newest_evidence":"2023",
 "path":"claims/declarative-knowledge-no-version-difference-declines.md",
 "status":"review",
-"title":"Both intervention versions raise declarative metacognitive knowledge about retrieval practice equally, and this knowledge declines over three weeks regardless of version",
+"title":"Two versions of a retrieval-practice intervention left students with equal declarative metacognitive knowledge about retrieval practice, which declined over three weeks regardless of version",
 "type":"claim"
 },
 {
@@ -97593,13 +97593,13 @@
 "type":"claim"
 },
 {
-"description":"First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)",
+"description":"The WWC rates First Step to Success potentially positive on its other academic performance domain on one RCT, where the outcome was teachers' nine-item estimate of students' academic competence (SSRS), not a test of achievement (effect size 0.32)",
 "evidence_strength":"weak",
 "id":"first-step-success-positive-academic-competence",
 "newest_evidence":"2012",
 "path":"claims/first-step-success-positive-academic-competence.md",
 "status":"review",
-"title":"First Step to Success shows potentially positive effects on other academic performance (SSRS Academic Competence, effect size 0.32)",
+"title":"First Step to Success shows potentially positive effects on teacher-rated academic competence (SSRS Academic Competence, effect size 0.32)",
 "type":"claim"
 },
 {
@@ -103812,14 +103812,13 @@
 "type":"claim"
 },
 {
-"description":"Ukrainian children aged 6–7 taught Italian vocabulary by games reached 171.91 words against 139.29 for traditional instruction over four weeks — a strong result in a population that transfers to almost nothing.",
+"description":"Ukrainian children aged 6–7 taught Italian by games reached 171.91 words against 139.29 for traditional instruction over four weeks, as counted on the MacArthur–Bates CDI checklist in non-randomised groups — a population that transfers to almost nothing.",
 "evidence_strength":"weak",
 "id":"game-based-practice-outperforms-traditional-l2-vocabulary-instruction",
 "newest_evidence":"2023",
 "path":"claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md",
-"source_checked":"2026-10-20",
 "status":"review",
-"title":"Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.",
+"title":"Newly arrived migrant children taught Italian through games showed larger vocabulary gains than traditionally taught peers on a vocabulary checklist inventory, not a direct test.",
 "type":"claim"
 },
 {
@@ -103845,14 +103844,13 @@
 "type":"claim"
 },
 {
-"description":"An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play",
+"description":"In a randomised trial, undergraduates who played commercial video games for about 14 hours over eight weeks rated themselves higher than controls on self-report scales of communication, adaptability and resourcefulness; the skills themselves were not directly assessed",
 "evidence_strength":"moderate",
 "id":"game-intervention-gains-all-three-graduate-skills",
 "newest_evidence":"2017",
 "path":"claims/game-intervention-gains-all-three-graduate-skills.md",
-"source_checked":"2026-10-20",
 "status":"review",
-"title":"An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play",
+"title":"An eight-week commercial video game intervention (about 14 hours of play) raised students' self-reported communication, adaptability and resourcefulness relative to a randomised control",
 "type":"claim"
 },
 {
@@ -120203,13 +120201,13 @@
 "type":"claim"
 },
 {
-"description":"The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action",
+"description":"In a randomised wait-list trial of 662 school system employees, the Healthy Minds Program app improved questionnaire ratings of self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being and meaning in life, persisting at three months except mindful action; no skill was assessed objectively",
 "evidence_strength":"moderate",
 "id":"hmp-improves-well-being-skills-persisting",
 "newest_evidence":"2022",
 "path":"claims/hmp-improves-well-being-skills-persisting.md",
 "status":"review",
-"title":"The meditation app improves well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning) that persist at follow-up, except mindful action",
+"title":"The meditation app improves school employees' self-reported well-being skills (self-compassion, loneliness, cognitive defusion, perseverative thinking, well-being, meaning), persisting at follow-up except for mindful action",
 "type":"claim"
 },
 {
@@ -142097,13 +142095,13 @@
 "type":"claim"
 },
 {
-"description":"By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders",
+"description":"In end-of-study focus groups at one school using the Bullying Prevention Pack, learners said they understood bullying as repeated aggression and felt confident as defenders; there was no pre-intervention or comparison measure and no test of knowledge",
 "evidence_strength":"weak",
 "id":"learners-learned-definition-and-defending",
 "newest_evidence":"2015",
 "path":"claims/learners-learned-definition-and-defending.md",
 "status":"review",
-"title":"By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders",
+"title":"At the end of the study all learner focus groups said they understood bullying as repeated aggression and reported being confident defenders",
 "type":"claim"
 },
 {
@@ -184658,16 +184656,6 @@
 "type":"claim"
 },
 {
-"description":"Changes in school organizational health may be a contextual mediator of PBIS effects on student performance",
-"evidence_strength":"weak",
-"id":"organizational-health-mediates-pbis-student-outcomes",
-"newest_evidence":"2009",
-"path":"claims/organizational-health-mediates-pbis-student-outcomes.md",
-"status":"review",
-"title":"Changes in school organizational health may be a contextual mediator of PBIS effects on student performance",
-"type":"claim"
-},
-{
 "description":"Organizational pictures tend to increase test performance compared to text-only items",
 "evidence_strength":"moderate",
 "id":"organizational-pictures-increase-performance",
@@ -222829,13 +222817,13 @@
 "type":"claim"
 },
 {
-"description":"Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction",
+"description":"In one Irish primary school using the Bullying Prevention Pack, teachers' written feedback and interviews credited role-plays and the ensuing discussions with fostering empathy and knowledge about bullying; neither was measured directly",
 "evidence_strength":"moderate",
 "id":"role-play-discussion-built-knowledge-empathy",
 "newest_evidence":"2015",
 "path":"claims/role-play-discussion-built-knowledge-empathy.md",
 "status":"review",
-"title":"Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction",
+"title":"Teachers reported that role-plays and the discussions after them fostered pupils' empathy and knowledge about bullying",
 "type":"claim"
 },
 {
@@ -265542,14 +265530,13 @@
 "type":"claim"
 },
 {
-"description":"The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction",
+"description":"On a self-report Likert metacognition scale, an automotive vocational class taught with the TEFA-T model rated their metacognitive skills higher than a non-randomised conventionally taught class",
 "evidence_strength":"moderate",
 "id":"tefa-t-improves-metacognitive-skills",
 "newest_evidence":"2022",
 "path":"claims/tefa-t-improves-metacognitive-skills.md",
-"source_checked":"2026-10-20",
 "status":"review",
-"title":"The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction",
+"title":"Students taught with the TEFA-T model rated their own metacognitive skills higher than a conventionally taught class",
 "type":"claim"
 },
 {
@@ -415288,7 +415275,6 @@
 "organizational-drawing-instruction-improves-monitoring-accuracy":"organizational-drawing-instruction-improves-monitoring-accuracy",
 "organizational-empowerment-enables-transfer":"organizational-empowerment-enables-transfer",
 "organizational-gains-without-instructional-gains":"organizational-gains-without-instructional-gains",
-"organizational-health-mediates-pbis-student-outcomes":"organizational-health-mediates-pbis-student-outcomes",
 "organizational-pictures-increase-performance":"organizational-pictures-increase-performance",
 "organizational-strategic-factors-associated-with-attitudes":"organizational-strategic-factors-associated-with-attitudes",
 "organizational-support-four-target-areas":"organizational-support-four-target-areas",

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Onan 2022: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Students were more likely to select interleaved practice when their perceived effort decreased across time (total path B = -3.64). [→ Onan 2022](#onan-2022)

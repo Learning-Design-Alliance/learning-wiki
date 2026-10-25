@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Nicole Shechtman 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` 89.5% of treatment teachers versus 10.7% of control teachers reported students used technology at least half of class time (t = 10.0, p < .0001). [→ Nicole Shechtman 2019](#nicole-shechtman-2019)

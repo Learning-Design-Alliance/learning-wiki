@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Arneson 2024: the intervention came bundled with another change · Arneson 2024 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Students in schools that fully removed SROs had a probability of a high-level infraction 2.2 percentage points lower than expected in 2022-23, a statistically significant difference-in-difference estimate. [→ Arneson 2024](#arneson-2024)

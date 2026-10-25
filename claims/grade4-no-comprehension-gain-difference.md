@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Björn B. de Koning 2017: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Fourth graders' reading comprehension gains did not differ significantly between the mental simulation training group and the control training group; equivalence was not tested. [→ Björn B. de Koning 2017](#bjorn-b-de-koning-2017)

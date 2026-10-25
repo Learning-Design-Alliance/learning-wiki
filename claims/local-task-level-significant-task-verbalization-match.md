@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gonny L. M. Schellings & Hein Broekkamp 2011: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` A chi-square test showed a significant relation between selection task and verbalization at the local task level (X2(df=2)=9.17, p<.025), with the linguistic task producing relatively more matching verbalizations than the educational and personal tasks. [→ Gonny L. M. Schellings & Hein Broekkamp 2011](#gonny-l-m-schellings-hein-broekkamp-2011)

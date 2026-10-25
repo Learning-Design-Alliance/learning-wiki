@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nadja Lindner 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Trained children gained significantly more on the number words comparison task than controls (r = .319), supporting a causal link between spatial language and numerical magnitude understanding. [→ Nadja Lindner 2025](#nadja-lindner-2025)

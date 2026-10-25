@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · schudde-meiselman-qed: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` In the Schudde & Meiselman (2019) cluster quasi-experimental design (34,849 students), DCMP students were more likely than business-as-usual students to ever pass a college-level math class by the end of the second semester (22.00% vs. 14.00%, effect size 0.33). [→ schudde-meiselman-qed](#schudde-meiselman-qed)

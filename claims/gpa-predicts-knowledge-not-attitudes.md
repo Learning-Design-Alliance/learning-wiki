@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Xiong 2014: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` GPA was significantly associated with posttest scores and procedural knowledge at the 5% level and with intellectual skills at the 10% level, but not with attitudes. [→ Xiong 2014](#xiong-2014)

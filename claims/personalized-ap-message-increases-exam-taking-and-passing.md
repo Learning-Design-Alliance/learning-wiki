@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Naihobe Gonzalez 2017: the intervention came bundled with another change (an effort to call attention to the personalized messages) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 

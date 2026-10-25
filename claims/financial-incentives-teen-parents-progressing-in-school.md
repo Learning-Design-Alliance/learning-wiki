@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Financial Incentives for Teen Parents to Stay in School 2006: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` LEAP treatment group members completed grade 11 at a rate not statistically different from controls (50% vs 45.4%). [→ Financial Incentives for Teen Parents to Stay in School 2006](#financial-incentives-for-teen-parents-to-stay-in-school-2006)

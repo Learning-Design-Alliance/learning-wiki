@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gerry Stahl 2011: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` A Chile group's approach of silent collaboration through mouse-based icon exchanges on a shared projected display yielded significant collaborative-learning gains. [→ Gerry Stahl 2011](#gerry-stahl-2011)

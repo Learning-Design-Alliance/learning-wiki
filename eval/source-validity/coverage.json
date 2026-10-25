@@ -33,5 +33,18 @@
   },
   "found_note": "problems both judges report",
   "scope": "causal entries on AI claims"
+ },
+ "study-causal": {
+  "at": "2026-10-25",
+  "entries_in_scope": 7638,
+  "entries_judged": 7568,
+  "entries_without_text": 470,
+  "found": {
+   "comparison": 295,
+   "isolation": 488,
+   "unit": 337
+  },
+  "found_note": "problems both judges report",
+  "scope": "every causal entry"
  }
 }

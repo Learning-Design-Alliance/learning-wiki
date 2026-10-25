@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jonathan Fernandez 2024: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Compared with students who received regular writing instruction, students who underwent the SRSD intervention produced higher-quality texts. [→ Jonathan Fernandez 2024](#jonathan-fernandez-2024)

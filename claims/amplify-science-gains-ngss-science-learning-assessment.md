@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4` · `i1` small
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Harris 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q4 i1` Students in intervention classrooms scored significantly higher on the NGSS-focused science learning assessment, an effect of 0.24 standard deviation units (Hedges's g, p < .001). [→ Harris 2023](#harris-2023)

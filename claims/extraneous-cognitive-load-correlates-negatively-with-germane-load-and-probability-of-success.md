@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i0`–`i1`
 > **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Gupta 2020: no comparison group · Gupta 2020 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i1` Extraneous and germane cognitive load were negatively correlated (r = -.264, p < .01). [→ Gupta 2020](#gupta-2020)

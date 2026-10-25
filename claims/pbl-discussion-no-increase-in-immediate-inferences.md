@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2001 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · W.S. de Grave 2001: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Inferences during free recall did not differ between the relevant-problem group (mean 9.56) and the control group (mean 11.19) when recall was tested immediately after study. [→ W.S. de Grave 2001](#ws-de-grave-2001)

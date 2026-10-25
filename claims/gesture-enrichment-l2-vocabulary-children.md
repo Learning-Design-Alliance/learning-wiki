@@ -49,6 +49,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · causal `r2` · `q3` · `i2`–`i3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Andrä 2020 (3): the intervention came bundled with another change · Andrä 2020 (4): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Gesture enrichment produced significantly higher L1-L2 translation scores than non-enriched learning in Experiment 1 (η²p = 0.11). [→ Andrä 2020](#andra-2020)

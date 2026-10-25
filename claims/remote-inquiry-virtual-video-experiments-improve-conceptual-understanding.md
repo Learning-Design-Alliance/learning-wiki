@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Flegr 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Students' conceptual understanding improved significantly from pre-test to immediate post-test after guided inquiry learning with virtual and video experiments during remote schooling, with a large time effect. [→ Flegr 2023](#flegr-2023)

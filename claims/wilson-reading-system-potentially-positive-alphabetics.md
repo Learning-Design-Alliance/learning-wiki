@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · What Works Clearinghouse 2007 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` A randomized controlled trial of 71 third-grade students found statistically significant effects of the Wilson Reading System on WRMT-R word identification and word attack subtests, with a domain average effect size of 0.33. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

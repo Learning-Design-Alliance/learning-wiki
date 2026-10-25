@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Anna-Maria Velentza 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Mean trust scores across all nine robot–task combinations showed strong positive intercorrelations (r = .56–.89, p < .001). [→ Anna-Maria Velentza 2026](#anna-maria-velentza-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Stuart Luppescu 1995: the intervention came bundled with another change (The third-grade comparison coincided with the ITBS Level 8 to Level 9 test-format change) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The pattern of smaller gains among retained students does not hold in third grade, and the authors attribute the third-grade gain dip at least partly to the change in test format from ITBS Level 8 to ITBS Level 9. [→ Stuart Luppescu 1995](#stuart-luppescu-1995)

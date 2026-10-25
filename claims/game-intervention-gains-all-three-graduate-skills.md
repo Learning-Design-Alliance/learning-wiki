@@ -1,7 +1,7 @@
 ---
 type: claim
-title: An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play
-description: An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play
+title: An eight-week commercial video game intervention (about 14 hours of play) raised students' self-reported communication, adaptability and resourcefulness relative to a randomised control
+description: In a randomised trial, undergraduates who played commercial video games for about 14 hours over eight weeks rated themselves higher than controls on self-report scales of communication, adaptability and resourcefulness; the skills themselves were not directly assessed
 id: game-intervention-gains-all-three-graduate-skills
 status: review
 generated:
@@ -9,7 +9,6 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-10-20
 sources:
   - id: matthew-barr-2017
     resource: "https://doi.org/10.1016/j.compedu.2017.05.016"
@@ -21,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play
+# An eight-week commercial video game intervention (about 14 hours of play) raised students' self-reported communication, adaptability and resourcefulness relative to a randomised control
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` All three self-report measures showed significant increases for the intervention group over control, with large effect sizes (Cohen's d between 0.9 and 1.15). [→ Matthew Barr 2017](#matthew-barr-2017)
+`q3 i?` Students rated their own communication, adaptability and resourcefulness higher after the games: all three self-report measures showed significant increases for the intervention group over control, with large effect sizes (Cohen's d between 0.9 and 1.15). [→ Matthew Barr 2017](#matthew-barr-2017)
 
 ## Evidence
 
@@ -38,7 +37,7 @@ Matthew Barr. (2017). Video games can develop graduate skills in higher educatio
 
 `q3 · i?` · `causal · r1`
 
-Overall result of the randomised trial: intervention students played specified games under controlled conditions over eight weeks (14 h total across eight games). All three measures showed significant increases and no confidence interval crossed zero; Cronbach's alphas at baseline were 0.88, 0.91 and 0.84.
+Overall result of the randomised trial: intervention students played specified games under controlled conditions over eight weeks (14 h total across eight games). All three measures were previously validated self-report scales (the Communicative Adaptability Scale, I-ADAPT-M and the Resourcefulness Scale), not direct assessments of the skills; all three showed significant increases and no confidence interval crossed zero; Cronbach's alphas at baseline were 0.88, 0.91 and 0.84.
 
 > "Test scores for communication, adaptability and resourcefulness all showed signi ﬁcant increases for the game-playing invention group over the control group, and 95% con ﬁdence intervals calculated for the difference between mean scores for the control and intervention groups did not cross zero"
 

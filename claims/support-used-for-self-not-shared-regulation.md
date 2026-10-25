@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Strauß 2021: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Across GAT and GAT + Prompt conditions, students' reported use of the support was higher for individual self-regulation than for group-level shared regulation, and the conditions did not differ significantly in either use. [→ Strauß 2021](#strau-2021)

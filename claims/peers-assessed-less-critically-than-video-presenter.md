@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Floris M. van Blankenstein 2019: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Students generated more positive judgments at T2 (real peers) than at T1 (video presenter), which the authors interpret as assessing peers less critically. [→ Floris M. van Blankenstein 2019](#floris-m-van-blankenstein-2019)

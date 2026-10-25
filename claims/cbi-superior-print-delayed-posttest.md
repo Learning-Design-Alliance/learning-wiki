@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 1988 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ross 1988: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The only significant presentation-mode effect was on the delayed posttest, where CBI subjects (M = 7.95) surpassed print subjects (M = 7.00), F(1,186) = 8.61, p < .01. [→ Ross 1988](#ross-1988)

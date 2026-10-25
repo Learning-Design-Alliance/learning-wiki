@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · What Works Clearinghouse 2007: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` In a randomized controlled trial, Failure Free Reading did not have a statistically significant effect on any of four alphabetics outcomes, and the domain average effect size (0.04) was not substantively important. [→ What Works Clearinghouse 2007](#what-works-clearinghouse-2007)

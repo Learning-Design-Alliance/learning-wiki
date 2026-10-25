@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Diamond Adele 2011: the intervention came bundled with another change (physical exercise and sessions emphasizing self-monitoring and planning) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Children receiving traditional Tae-Kwon-Do showed greater EF gains than children in standard physical education on all dimensions studied, generalizing across contexts and measures. [→ Diamond Adele 2011](#diamond-adele-2011)

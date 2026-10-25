@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q1`–`q2`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Lucero 2024: groups were assigned but students were analysed as independent · Lucero 2024 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Re-elaboration of the partner's contributions across historical reasoning components was significantly more frequent in the semiempty concept mapping condition; the discussion estimates up to five times more re-elaborations of causal relationships than in summary writing. [→ Lucero 2024](#lucero-2024)

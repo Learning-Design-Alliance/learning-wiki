@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
 > **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Woodrow 1915: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` The correlation between initial ability and absolute improvement changes from -.36 to -.13 (P.E. .15) for the feeble-minded group and from -.40 to -.11 (P.E. .17) for the normal group, remaining negative but becoming very small and unreliable. [→ Woodrow 1915](#woodrow-1915)

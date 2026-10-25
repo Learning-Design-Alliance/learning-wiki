@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Takako Nomi and Elaine M. Allensworth 2013: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Below-norm students were less likely to pass if their skill levels were well below the classroom average (coefficient of –.25); their relative skill levels improved post-policy, so their pass rates improved from .71 to .88 logits. [→ Takako Nomi and Elaine M. Allensworth 2013](#takako-nomi-and-elaine-m-allensworth-2013)

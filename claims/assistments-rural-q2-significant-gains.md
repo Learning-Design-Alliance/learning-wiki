@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Feng 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i2` The 421 rural students scoring between the 25th and 50th percentiles at baseline significantly outperformed the comparison group by 1.53 points (p = 0.050; effect size = 0.21). [→ Feng 2025](#feng-2025)

@@ -24,6 +24,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2013 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · phon-1: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` On the Pre-CTOPPP Elision subtest, differences between the Bright Beginnings group and the comparison group were not statistically significant, with an effect size of -0.08 favoring the comparison group. [→ phon-1](#phon-1)

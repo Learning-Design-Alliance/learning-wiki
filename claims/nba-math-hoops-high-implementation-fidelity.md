@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`–`q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
+> **Design limits** · McKinney 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Teachers implemented NBA Math Hoops on 12 of 14-15 potential instruction days, completed 8.31 of 10 lessons on average, and 71% of classrooms played more than 10 games. [→ McKinney 2026](#mckinney-2026)

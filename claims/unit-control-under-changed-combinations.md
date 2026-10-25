@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Pechstein 1917: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Groups given single trials in various combinations of the units, including the fully reversed order IV, III, II, I, never averaged higher than 2/5ths errors per day, showing absolute control over units kept as units. [→ Pechstein 1917](#pechstein-1917)

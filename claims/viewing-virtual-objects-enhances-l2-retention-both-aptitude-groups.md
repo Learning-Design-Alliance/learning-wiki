@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Manuela Macedonia 2023: the intervention came bundled with another change · Manuela Macedonia 2023 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` AVO learning significantly enhanced vocabulary test scores relative to AV learning (d = 1.06), and AVOG did not significantly exceed AVO (t = 0.56, p = .84). [→ Manuela Macedonia 2023](#manuela-macedonia-2023)

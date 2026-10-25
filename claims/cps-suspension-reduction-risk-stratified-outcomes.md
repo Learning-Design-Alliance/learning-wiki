@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rebecca Hinze-Pifer and Lauren Sartain 2015 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Students at the highest estimated risk of suspension felt safer in their schools when suspensions for severe infractions were reduced. [→ Rebecca Hinze-Pifer and Lauren Sartain 2015](#rebecca-hinze-pifer-and-lauren-sartain-2015)

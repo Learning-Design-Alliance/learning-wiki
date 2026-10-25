@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Burton 2023: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` S JOSs discriminate between solvable and unsolvable anagrams above chance even when anagrams that received AS JOSs are excluded from analysis. [→ Burton 2023](#burton-2023)

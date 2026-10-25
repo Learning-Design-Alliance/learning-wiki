@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Luiz Rodrigues 2026: the intervention came bundled with another change (The experimental condition combined AIED-U app use with teacher training) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Robust one-way ANOVAs on the six raw NASA-TLX subscales revealed no statistically significant difference across conditions after p-value adjustment. [→ Luiz Rodrigues 2026](#luiz-rodrigues-2026)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Emma Kohnky 1913: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` On the substitution (learning) test, the treated class's "learning power" — time saved between the first sheet first taken and the fourth sheet last taken — was 101.0 seconds versus 91.1 seconds for the untreated class. [→ Emma Kohnky 1913](#emma-kohnky-1913)

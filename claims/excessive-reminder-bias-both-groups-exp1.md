@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ceri Ngai and Sam J. Gilbert 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` One-sample tests showed reminder bias significantly above zero in both the feedback and no-feedback groups, replicating the pro-reminder bias found in prior optimal offloading studies. [→ Ceri Ngai and Sam J. Gilbert 2026](#ceri-ngai-and-sam-j-gilbert-2026)

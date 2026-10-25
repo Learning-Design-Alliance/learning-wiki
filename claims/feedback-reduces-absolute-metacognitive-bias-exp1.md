@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ceri Ngai and Sam J. Gilbert 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Absolute metacognitive bias was significantly lower in the feedback group at both timepoints, with a significant main effect of Group and no significant Group x Timepoint interaction. [→ Ceri Ngai and Sam J. Gilbert 2026](#ceri-ngai-and-sam-j-gilbert-2026)

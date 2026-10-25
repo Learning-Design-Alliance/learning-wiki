@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Schnaubert 2021: the intervention came bundled with another change (computer-generated partner answers presented with varying confidence levels) (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i2` Changes of the general direction of an answer toward agreement with the partner occurred significantly more often than changes toward disagreement (d = 0.58). [→ Schnaubert 2021](#schnaubert-2021)

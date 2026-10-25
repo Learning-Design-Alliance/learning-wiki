@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Eva Erdosne Toth 2000: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` An ANOVA on evaluation scores showed a main effect of problem type and a significant interaction between time of assessment and problem type. [→ Eva Erdosne Toth 2000](#eva-erdosne-toth-2000)

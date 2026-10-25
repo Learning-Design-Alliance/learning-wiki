@@ -27,6 +27,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2020 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
+> **Design limits** · Bo 2020: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Most items had exposure rates below 10% on both engines; CBE's Reading item-use rate was lower than COLO's, attributed to the passage item selection algorithm difference and CBE's much smaller sample size. [→ Bo 2020](#bo-2020)

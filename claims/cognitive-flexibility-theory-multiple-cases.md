@@ -34,7 +34,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Jacobson & Spiro 1995: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 Cognitive Flexibility Theory holds that ill-structured domains — where concepts vary unpredictably across situations — require learners to encounter the same content in multiple cases and from multiple conceptual perspectives, so knowledge is assembled flexibly rather than stored as a single oversimplified schema.
 

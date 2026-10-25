@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Begolli 2021: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` A significant negative treatment × pretest proportional reasoning interaction indicated treatment students with poorer pretest proportional reasoning benefited more, gaining more probabilistic reasoning at posttest. [→ Begolli 2021](#begolli-2021)

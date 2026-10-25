@@ -29,6 +29,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Van Rinsveld A 2015: the intervention came bundled with another change · Van Rinsveld A 2015 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` The problem size effect on accuracy was significant in French but not in German for complex additions. [→ Van Rinsveld A 2015](#van-rinsveld-a-2015)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Vidal-Abarca 1998: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The coherence version scored higher than the original on both indices of textual coherence (embedded propositions and argument repetitions per idea unit). [→ Vidal-Abarca 1998](#vidal-abarca-1998)

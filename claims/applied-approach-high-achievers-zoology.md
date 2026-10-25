@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gilbert 1909: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` In the distribution of semester averages, Section B had 46.6% of pupils above 85 versus 29.4% in Section A, which the author reads as a rather clear advantage for Section B. [→ Gilbert 1909](#gilbert-1909)

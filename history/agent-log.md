@@ -45,8 +45,14 @@ at the top, under this paragraph.
 - **`checks.md`** ("How Claims Are Checked", About menu) is generated from committed records only: each
   check, what it catches, what it cannot, and its coverage, with health at a glance. It says plainly that no
   page has been reviewed by a person.
-- **Not done**: the study judge has run on AI claims only (1,334 entries); every causal entry would be about
-  20,000 entries and $60-90. The review-level statistics findings (42 sources) and reference-DOI findings
+- **Then on every causal claim** (maintainer, same day): 7,585 entries with a text (471 have none), $22 first
+  judge, $34 second. Both agreed on 776 entries read from full text. 14 rewritten (self-report outcomes
+  behind skill claims, designs called randomised that were not); 684 claims carry a Design limits line.
+  **From an abstract only the outcome check counts**: 10 of the 13 "design overstated" findings were
+  abstract-only, on randomised studies (Karpicke & Blunt 2011, Ramani & Siegler 2008, Cepeda et al. 2008)
+  whose abstracts do not mention randomisation; both judges read silence as absence. Four earlier lines
+  from abstracts were withdrawn.
+- **Not done (AI pass)**: the first pass covered AI claims only. The review-level statistics findings (42 sources) and reference-DOI findings
   (202 sources) are listed, not worked.
 
 ## 2026-10-24 (later) — claims say how current they are

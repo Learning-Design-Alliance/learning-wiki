@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · van de Pol 2015: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The main effect of contingency on appreciation of support was significant (small effect size), with no interaction with occasion or independent working time. [→ van de Pol 2015](#van-de-pol-2015)

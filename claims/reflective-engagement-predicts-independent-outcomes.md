@@ -23,6 +23,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Chen X 2026: no comparison group; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Stronger coded reflective engagement predicted higher Week 8 higher-order thinking after covariate adjustment (B = 0.24, p = 0.007). [→ Chen X 2026](#chen-x-2026)

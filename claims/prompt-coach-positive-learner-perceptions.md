@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rohit Mehra 2026: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` All questionnaire parameters scored 5.67 to 6.33 on a 7-point scale; 100% agreement that PC improved prompt-writing skills, with significant one-sided Wilcoxon tests against the neutral midpoint after Holm-Bonferroni correction. [→ Rohit Mehra 2026](#rohit-mehra-2026)

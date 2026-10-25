@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i0` negligible
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Sebastian Strauß 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i0` Compared to no support, neither the script nor the reflection scaffold produced an effect on the quality of interaction during the second collaboration task. [→ Sebastian Strauß 2025](#sebastian-strau-2025)

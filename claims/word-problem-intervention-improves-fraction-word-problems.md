@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Fuchs 2016: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` WP outscored EXP (ES = 1.48) and CON (ES = 1.20) on word problems; EXP and CON did not differ significantly (ES = 0.12). [→ Fuchs 2016](#fuchs-2016)

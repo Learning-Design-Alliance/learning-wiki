@@ -30,6 +30,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1` · `q2`
 > **Currency** · newest study 2023 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · math-items-1: groups were assigned but students were analysed as independent · math-null-1: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Analyses of math data showed no significant difference overall between intervention and comparison children. [→ math-null-1](#math-null-1)

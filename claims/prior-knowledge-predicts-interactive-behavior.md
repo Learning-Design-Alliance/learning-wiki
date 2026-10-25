@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Huib K. Tabbers 2010: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Within the learner control group, prior knowledge correlated positively with time-on-task (r = .40), slides visited (r = .39), and narration segments requested (r = .42), while interest and estimated prior knowledge did not. [→ Huib K. Tabbers 2010](#huib-k-tabbers-2010)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Carla Haelermans 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` The experimental group shows significantly more growth than the control group on four learning strategy scales: elaboration, critical thinking, metacognitive self-regulation, and effort regulation. [→ Carla Haelermans 2022](#carla-haelermans-2022)

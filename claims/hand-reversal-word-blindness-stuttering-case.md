@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 1907 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · CHARLES HUGHES JOHNSTON; GUY MONTROSE WHIPPLE 1907: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q1 i?` A case cited by a recent writer concerns a young man of 20 afflicted with word-blindness and stuttering who was cured by reversing his hand. [→ CHARLES HUGHES JOHNSTON; GUY MONTROSE WHIPPLE 1907](#charles-hughes-johnston-guy-montrose-whipple-1907)
