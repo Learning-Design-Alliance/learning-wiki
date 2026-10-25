@@ -47,3 +47,4 @@ The review reports, on the Yoakum and Yerkes volume authorized by the War Depart
 ## Related Claims
 - [Army intelligence test rankings corresponded with officers' rankings of soldiers (average correlation 0.536 across twelve companies), suggesting the tests measured something beyond literacy](army-tests-officer-ranking-correlation.md) — related
 - [Group intelligence testing originated in the United States during wartime, while individual testing originated in France](group-testing-born-in-america-war-necessity.md) — related
+- [Adaptations of army trade tests may enable comparison of vocational students with men in the trades](army-trade-test-adaptations-for-vocational-comparison.md) — related

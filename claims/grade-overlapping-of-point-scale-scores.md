@@ -47,3 +47,4 @@ Analysis of point-scale score distributions for pupils in the fourth (43), sixth
 ## Related Claims
 - [Grades overlap massively in spelling: on average 20.8% of pupils reach or exceed the median of the next grade above](grade-overlapping-in-spelling.md) — a broader claim this one bears on
 - [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](point-scale-school-mark-and-schooling-correlations.md) — related
+- [Modified point and year scales with norms were developed for measuring the intelligence of the blind](binet-scales-adapted-for-blind-norms.md) — related

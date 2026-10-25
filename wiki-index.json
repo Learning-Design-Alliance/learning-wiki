@@ -1,16 +1,16 @@
 {
 "counts":{
-"claim":27454,
-"design":1039,
+"claim":27551,
+"design":1041,
 "element":1057,
 "learner-variable":75,
 "method":37,
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1939,
-"research-method":650,
-"strategy":6776,
+"product":1943,
+"research-method":652,
+"strategy":6781,
 "theory":1360
 },
 "kinds":[
@@ -7905,6 +7905,16 @@
 "type":"claim"
 },
 {
+"description":"Adultness, style and other-sexness repel children, and verse form makes no definite appeal",
+"evidence_strength":"weak",
+"id":"adultness-style-other-sexness-repel-children",
+"newest_evidence":"1921",
+"path":"claims/adultness-style-other-sexness-repel-children.md",
+"status":"review",
+"title":"Adultness, style and other-sexness repel children, and verse form makes no definite appeal",
+"type":"claim"
+},
+{
 "description":"Adults learn languages more quickly than children in the early stages of second language acquisition",
 "evidence_strength":"weak",
 "id":"adults-faster-early-stage-language-learning",
@@ -9393,6 +9403,16 @@
 "type":"claim"
 },
 {
+"description":"Uneven school coverage of ages makes general age norms for achievement tests practically impossible to establish",
+"evidence_strength":"weak",
+"id":"age-norms-impossible-uneven-school-coverage",
+"newest_evidence":"1920",
+"path":"claims/age-norms-impossible-uneven-school-coverage.md",
+"status":"review",
+"title":"Uneven school coverage of ages makes general age norms for achievement tests practically impossible to establish",
+"type":"claim"
+},
+{
 "description":"Older students perceive self-assessment as more useful than younger students, while no gender differences were reported",
 "evidence_strength":"weak",
 "id":"age-positive-gender-null-perceived-usefulness-self-assessment",
@@ -9420,6 +9440,16 @@
 "path":"claims/age-progression-steady-to-14.md",
 "status":"review",
 "title":"Handwriting quality rose steadily with age up to 14, with small drops reported at 14 and 16, but standings beyond 15 are based on too few cases",
+"type":"claim"
+},
+{
+"description":"Percentile analysis shows the range of ages within a grade is much greater in City C, nearly twice as great as City F for grades two and three",
+"evidence_strength":"weak",
+"id":"age-range-within-grade-percentiles",
+"newest_evidence":"1920",
+"path":"claims/age-range-within-grade-percentiles.md",
+"status":"review",
+"title":"Percentile analysis shows the range of ages within a grade is much greater in City C, nearly twice as great as City F for grades two and three",
 "type":"claim"
 },
 {
@@ -20624,6 +20654,16 @@
 "type":"claim"
 },
 {
+"description":"Correlations between intelligence tests and arithmetic peak at the somewhat-verbal step of the verbalness scale in both grade groups",
+"evidence_strength":"weak",
+"id":"arithmetic-correlation-peaks-somewhat-verbal",
+"newest_evidence":"1923",
+"path":"claims/arithmetic-correlation-peaks-somewhat-verbal.md",
+"status":"review",
+"title":"Correlations between intelligence tests and arithmetic peak at the somewhat-verbal step of the verbalness scale in both grade groups",
+"type":"claim"
+},
+{
 "description":"Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity",
 "evidence_strength":"weak",
 "id":"arithmetic-errors-rated-harsher-than-conceptual-errors",
@@ -20858,6 +20898,16 @@
 "path":"claims/army-tests-officer-ranking-correlation.md",
 "status":"review",
 "title":"Army intelligence test rankings corresponded with officers' rankings of soldiers (average correlation 0.536 across twelve companies), suggesting the tests measured something beyond literacy",
+"type":"claim"
+},
+{
+"description":"Adaptations of army trade tests may enable comparison of vocational students with men in the trades",
+"evidence_strength":"weak",
+"id":"army-trade-test-adaptations-for-vocational-comparison",
+"newest_evidence":"1921",
+"path":"claims/army-trade-test-adaptations-for-vocational-comparison.md",
+"status":"review",
+"title":"Adaptations of army trade tests may enable comparison of vocational students with men in the trades",
 "type":"claim"
 },
 {
@@ -21643,6 +21693,16 @@
 "path":"claims/assessment-barriers-young-multilingual-learners.md",
 "status":"review",
 "title":"Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration",
+"type":"claim"
+},
+{
+"description":"In Experiment 2, assessment condition differentially affected pupils' anagram difficulty choice, with easier anagrams chosen under grading conditions",
+"evidence_strength":"weak",
+"id":"assessment-condition-affects-anagram-choice",
+"newest_evidence":"2013",
+"path":"claims/assessment-condition-affects-anagram-choice.md",
+"status":"review",
+"title":"In Experiment 2, assessment condition differentially affected pupils' anagram difficulty choice, with easier anagrams chosen under grading conditions",
 "type":"claim"
 },
 {
@@ -24342,6 +24402,26 @@
 "type":"claim"
 },
 {
+"description":"The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions",
+"evidence_strength":"moderate",
+"id":"autonomy-support-fosters-need-satisfaction-emotions-behaviors",
+"newest_evidence":"2019",
+"path":"claims/autonomy-support-fosters-need-satisfaction-emotions-behaviors.md",
+"status":"review",
+"title":"The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions",
+"type":"claim"
+},
+{
+"description":"An autonomy-supportive intervention in secondary physics classrooms had a positive average impact on all measured motivational and behavioral outcomes",
+"evidence_strength":"moderate",
+"id":"autonomy-support-intervention-positive-average-effects-physics",
+"newest_evidence":"2019",
+"path":"claims/autonomy-support-intervention-positive-average-effects-physics.md",
+"status":"review",
+"title":"An autonomy-supportive intervention in secondary physics classrooms had a positive average impact on all measured motivational and behavioral outcomes",
+"type":"claim"
+},
+{
 "description":"Early autonomy-supportive parenting predicts children's achievement in both elementary and high school, uniquely over other parenting dimensions",
 "evidence_strength":"moderate",
 "id":"autonomy-support-predicts-achievement-elementary-high-school",
@@ -25581,6 +25661,16 @@
 "path":"claims/baseline-discrimination-link-types-pilot.md",
 "status":"review",
 "title":"Students could partially discriminate link reliability before training, rating good links highest and bad links lowest",
+"type":"claim"
+},
+{
+"description":"The two fifth-grade classes were equivalent at baseline: Room 18 led on half of the ten non-physical tests before treatment",
+"evidence_strength":"weak",
+"id":"baseline-equivalence-two-fifth-grade-classes-before-treatment",
+"newest_evidence":"1913",
+"path":"claims/baseline-equivalence-two-fifth-grade-classes-before-treatment.md",
+"status":"review",
+"title":"The two fifth-grade classes were equivalent at baseline: Room 18 led on half of the ten non-physical tests before treatment",
 "type":"claim"
 },
 {
@@ -28529,6 +28619,16 @@
 "type":"claim"
 },
 {
+"description":"Binet-Simon measurement alone is insufficient for diagnosis except in low-grade feeble-mindedness, per Healy and Bronner",
+"evidence_strength":"weak",
+"id":"binet-alone-insufficient-rough-diagnosis",
+"newest_evidence":"1917",
+"path":"claims/binet-alone-insufficient-rough-diagnosis.md",
+"status":"review",
+"title":"Binet-Simon measurement alone is insufficient for diagnosis except in low-grade feeble-mindedness, per Healy and Bronner",
+"type":"claim"
+},
+{
 "description":"The amount of advance credit earned on the Binet scale depends on the extent of testing, not the grade of intelligence of the pupils",
 "evidence_strength":"moderate",
 "id":"binet-credits-depend-on-extent-of-testing",
@@ -28647,6 +28747,16 @@
 "path":"claims/binet-scale-usable-by-teachers-and-principals.md",
 "status":"review",
 "title":"The Binet scale can be understood and applied by the average teacher or school principal as readily as current pedagogical tests",
+"type":"claim"
+},
+{
+"description":"Modified point and year scales with norms were developed for measuring the intelligence of the blind",
+"evidence_strength":"weak",
+"id":"binet-scales-adapted-for-blind-norms",
+"newest_evidence":"1917",
+"path":"claims/binet-scales-adapted-for-blind-norms.md",
+"status":"review",
+"title":"Modified point and year scales with norms were developed for measuring the intelligence of the blind",
 "type":"claim"
 },
 {
@@ -31330,6 +31440,7 @@
 "id":"bright-children-below-capacity",
 "newest_evidence":"1920",
 "path":"claims/bright-children-below-capacity.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"Brighter pupils tend to work below capacity: the authors argue the greatest wastage exists among the brightest children, who may keep up to group averages while working under their ability",
 "type":"claim"
@@ -33458,6 +33569,16 @@
 "path":"claims/cancellation-test-no-relation-other-tests.md",
 "status":"review",
 "title":"Cancellation test ability shows no relation, and possibly an inverse relation, to abilities shown in the other tests",
+"type":"claim"
+},
+{
+"description":"On the cancellation test the untreated class led before and after treatment, an exception attributed to the time limit",
+"evidence_strength":"mixed",
+"id":"cancellation-test-untreated-class-lead",
+"newest_evidence":"1913",
+"path":"claims/cancellation-test-untreated-class-lead.md",
+"status":"review",
+"title":"On the cancellation test the untreated class led before and after treatment, an exception attributed to the time limit",
 "type":"claim"
 },
 {
@@ -48937,6 +49058,16 @@
 "type":"claim"
 },
 {
+"description":"Critics of classroom competition argue that it arouses jealousy and bitterness and may lead pupils of poor vitality to bankrupt their health",
+"evidence_strength":"weak",
+"id":"competition-criticism-limited-pupils-jealousy",
+"newest_evidence":"1910",
+"path":"claims/competition-criticism-limited-pupils-jealousy.md",
+"status":"review",
+"title":"Critics of classroom competition argue that it arouses jealousy and bitterness and may lead pupils of poor vitality to bankrupt their health",
+"type":"claim"
+},
+{
 "description":"Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual",
 "evidence_strength":"weak",
 "id":"competition-enjoyment-task-focused-evaluation",
@@ -48955,6 +49086,16 @@
 "path":"claims/competition-main-effect-originality-not-fluency.md",
 "status":"review",
 "title":"Competition raises idea originality for all participants but does not affect fluency or flexibility",
+"type":"claim"
+},
+{
+"description":"The editorial asserts that competition is particularly valuable in developing the capacities of pupils of more than average ability",
+"evidence_strength":"weak",
+"id":"competition-powerful-incentive-advanced-pupils",
+"newest_evidence":"1910",
+"path":"claims/competition-powerful-incentive-advanced-pupils.md",
+"status":"review",
+"title":"The editorial asserts that competition is particularly valuable in developing the capacities of pupils of more than average ability",
 "type":"claim"
 },
 {
@@ -52996,6 +53137,16 @@
 "type":"claim"
 },
 {
+"description":"Teaching efficiency is impossible without continuous adjustment of the work to pupils' advancing attainments",
+"evidence_strength":"weak",
+"id":"continuous-adjustment-attainments-teaching-efficiency",
+"newest_evidence":"1910",
+"path":"claims/continuous-adjustment-attainments-teaching-efficiency.md",
+"status":"review",
+"title":"Teaching efficiency is impossible without continuous adjustment of the work to pupils' advancing attainments",
+"type":"claim"
+},
+{
 "description":"Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value",
 "evidence_strength":"moderate",
 "id":"continuous-enrollment-semesters-completion-gradient",
@@ -55051,6 +55202,16 @@
 "recheck_by":"2031",
 "status":"review",
 "title":"Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S. teachers",
+"type":"claim"
+},
+{
+"description":"Actual counts show arithmetic textbooks give far less practice on some elementary facts than teachers suppose and distribute practice unevenly toward easier facts",
+"evidence_strength":"moderate",
+"id":"counts-textbooks-uneven-practice-facts",
+"newest_evidence":"1921",
+"path":"claims/counts-textbooks-uneven-practice-facts.md",
+"status":"review",
+"title":"Actual counts show arithmetic textbooks give far less practice on some elementary facts than teachers suppose and distribute practice unevenly toward easier facts",
 "type":"claim"
 },
 {
@@ -57118,6 +57279,16 @@
 "type":"claim"
 },
 {
+"description":"Latent mean comparisons show only partial grade-level development in CPS, with Grade 9 students performing worst on both dimensions",
+"evidence_strength":"moderate",
+"id":"cps-grade-development-grade-9-deviation",
+"newest_evidence":"2013",
+"path":"claims/cps-grade-development-grade-9-deviation.md",
+"status":"review",
+"title":"Latent mean comparisons show only partial grade-level development in CPS, with Grade 9 students performing worst on both dimensions",
+"type":"claim"
+},
+{
 "description":"In CPS ninth-grade math sections using mastery-based or weekly grading, those categories determined nearly all of the final grade; otherwise assessments carried the highest weight, with a median of 60 percent exceedin...",
 "evidence_strength":"moderate",
 "id":"cps-gradebook-category-weights-assessments-dominate",
@@ -57547,6 +57718,16 @@
 "type":"claim"
 },
 {
+"description":"MicroDYN measurement of CPS shows strong factorial invariance across grade levels ages 11 to 17",
+"evidence_strength":"moderate",
+"id":"cps-measurement-invariance-grades",
+"newest_evidence":"2013",
+"path":"claims/cps-measurement-invariance-grades.md",
+"status":"review",
+"title":"MicroDYN measurement of CPS shows strong factorial invariance across grade levels ages 11 to 17",
+"type":"claim"
+},
+{
 "description":"Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH...",
 "evidence_strength":"moderate",
 "id":"cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness",
@@ -57733,6 +57914,16 @@
 "path":"claims/cps-placement-school-characteristics-unrelated-first-year-effectiveness.md",
 "status":"review",
 "title":"Student teaching in higher- or lower-achieving CPS schools made no difference in teachers' first-year REACH ratings",
+"type":"claim"
+},
+{
+"description":"CPS predicts GPA beyond g, though the increment is small and not consistent across all grades",
+"evidence_strength":"moderate",
+"id":"cps-predicts-gpa-beyond-g",
+"newest_evidence":"2013",
+"path":"claims/cps-predicts-gpa-beyond-g.md",
+"status":"review",
+"title":"CPS predicts GPA beyond g, though the increment is small and not consistent across all grades",
 "type":"claim"
 },
 {
@@ -58027,6 +58218,16 @@
 "type":"claim"
 },
 {
+"description":"CPS is empirically best modeled as two distinct processes, knowledge acquisition and knowledge application, in high school students",
+"evidence_strength":"moderate",
+"id":"cps-two-dimensional-knowledge-acquisition-application",
+"newest_evidence":"2013",
+"path":"claims/cps-two-dimensional-knowledge-acquisition-application.md",
+"status":"review",
+"title":"CPS is empirically best modeled as two distinct processes, knowledge acquisition and knowledge application, in high school students",
+"type":"claim"
+},
+{
 "description":"Two-year persistence in four-year colleges declined from 66 percent to 60 percent over five years even as enrollee numbers grew",
 "evidence_strength":"moderate",
 "id":"cps-two-year-persistence-declined-66-to-60",
@@ -58045,6 +58246,16 @@
 "path":"claims/cps-undermatch-trend-rose-then-rebounded.md",
 "status":"review",
 "title":"Undermatch among CPS four-year college-goers rose from 42.7 percent in 2003 to 57.7 percent in 2013 before rebounding after 2013",
+"type":"claim"
+},
+{
+"description":"g predicts CPS performance, but substantial shared CPS variance remains separable from g",
+"evidence_strength":"moderate",
+"id":"cps-variance-separable-from-g",
+"newest_evidence":"2013",
+"path":"claims/cps-variance-separable-from-g.md",
+"status":"review",
+"title":"g predicts CPS performance, but substantial shared CPS variance remains separable from g",
 "type":"claim"
 },
 {
@@ -59100,6 +59311,36 @@
 "recheck_by":"2029",
 "status":"review",
 "title":"Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models",
+"type":"claim"
+},
+{
+"description":"Participatory directions keep zero scores and test failures rare in third-grade children",
+"evidence_strength":"moderate",
+"id":"cross-out-scale-low-zero-scores-directions",
+"newest_evidence":"1920",
+"path":"claims/cross-out-scale-low-zero-scores-directions.md",
+"status":"review",
+"title":"Participatory directions keep zero scores and test failures rare in third-grade children",
+"type":"claim"
+},
+{
+"description":"Partial and multiple correlation show the last two tests contribute most and the tests are fairly well selected",
+"evidence_strength":"moderate",
+"id":"cross-out-scale-partial-correlation-test-contributions",
+"newest_evidence":"1920",
+"path":"claims/cross-out-scale-partial-correlation-test-contributions.md",
+"status":"review",
+"title":"Partial and multiple correlation show the last two tests contribute most and the tests are fairly well selected",
+"type":"claim"
+},
+{
+"description":"School surveys with the scale found clear-cut group differences between sections, schools, and institutional children",
+"evidence_strength":"weak",
+"id":"cross-out-scale-survey-group-differences",
+"newest_evidence":"1920",
+"path":"claims/cross-out-scale-survey-group-differences.md",
+"status":"review",
+"title":"School surveys with the scale found clear-cut group differences between sections, schools, and institutional children",
 "type":"claim"
 },
 {
@@ -64088,6 +64329,16 @@
 "type":"claim"
 },
 {
+"description":"Declining math self-efficacy is characterized by decreasing mastery experiences and increasing negative emotional and physiological arousal",
+"evidence_strength":"moderate",
+"id":"decreasing-se-negative-mastery-and-arousal",
+"newest_evidence":"2026",
+"path":"claims/decreasing-se-negative-mastery-and-arousal.md",
+"status":"review",
+"title":"Declining math self-efficacy is characterized by decreasing mastery experiences and increasing negative emotional and physiological arousal",
+"type":"claim"
+},
+{
 "description":"Students were more positive about advising when their advisor was dedicated to a specific program of study or student population",
 "evidence_strength":"weak",
 "id":"dedicated-advisors-perceived-more-accurate",
@@ -65539,6 +65790,16 @@
 "path":"claims/demographics-unrelated-to-acceptability-ratings.md",
 "status":"review",
 "title":"Demographic and psychiatric-history variables are largely unrelated to treatment acceptability, with counseling history the exception",
+"type":"claim"
+},
+{
+"description":"After one school year, the dental-treatment class led in nine of ten psychological and psycho-physical tests, having led in only five of ten before treatment",
+"evidence_strength":"weak",
+"id":"dental-treatment-class-led-nine-of-ten-tests-after-treatment",
+"newest_evidence":"1913",
+"path":"claims/dental-treatment-class-led-nine-of-ten-tests-after-treatment.md",
+"status":"review",
+"title":"After one school year, the dental-treatment class led in nine of ten psychological and psycho-physical tests, having led in only five of ten before treatment",
 "type":"claim"
 },
 {
@@ -80317,6 +80578,16 @@
 "recheck_by":"2012",
 "status":"review",
 "title":"Elementary student mobility in CPS is predominantly a within-district phenomenon, with CPS-to-CPS transfers accounting for 50-60 percent of school-year transfers and two-thirds of summer transfers",
+"type":"claim"
+},
+{
+"description":"Nonlinear relations in elementary school are heterogeneous: positive on average in mathematics but significant in only about half the countries, and reversed (negative quadratic) in the verbal domain",
+"evidence_strength":"weak",
+"id":"elementary-nonlinear-heterogeneous-verbal-reversed",
+"newest_evidence":"2020",
+"path":"claims/elementary-nonlinear-heterogeneous-verbal-reversed.md",
+"status":"review",
+"title":"Nonlinear relations in elementary school are heterogeneous: positive on average in mathematics but significant in only about half the countries, and reversed (negative quadratic) in the verbal domain",
 "type":"claim"
 },
 {
@@ -97918,6 +98189,16 @@
 "type":"claim"
 },
 {
+"description":"Writing fluency completely mediates the relations of Grade 1 spelling and handwriting fluency to Grade 2 writing quality",
+"evidence_strength":"moderate",
+"id":"fluency-completely-mediattranscription-writing-quality",
+"newest_evidence":"2024",
+"path":"claims/fluency-completely-mediattranscription-writing-quality.md",
+"status":"review",
+"title":"Writing fluency completely mediates the relations of Grade 1 spelling and handwriting fluency to Grade 2 writing quality",
+"type":"claim"
+},
+{
 "description":"Patterns of relations among word reading and fluency measures were similar across Greek and English, consistent with a language-independent fluency development trajectory",
 "evidence_strength":"moderate",
 "id":"fluency-development-patterns-similar-across-languages",
@@ -97976,6 +98257,16 @@
 "path":"claims/fluency-marginally-explains-comprehension.md",
 "status":"review",
 "title":"Reading comprehension is only marginally explained by reading fluency, with no group-by-fluency interaction",
+"type":"claim"
+},
+{
+"description":"Product-based and process-based writing fluency measures represent a single latent construct in Grade 2",
+"evidence_strength":"moderate",
+"id":"fluency-measures-single-latent-construct",
+"newest_evidence":"2024",
+"path":"claims/fluency-measures-single-latent-construct.md",
+"status":"review",
+"title":"Product-based and process-based writing fluency measures represent a single latent construct in Grade 2",
 "type":"claim"
 },
 {
@@ -100187,6 +100478,16 @@
 "path":"claims/four-math-curricula-different-opportunities-to-learn.md",
 "status":"review",
 "title":"A comparative documentary analysis of four US mathematics curricula found substantially different types of opportunities to learn across the curricula",
+"type":"claim"
+},
+{
+"description":"Primary school children follow four distinct trajectories of change in math self-efficacy over a school year: high stable, low stable, increasing, and decreasing",
+"evidence_strength":"moderate",
+"id":"four-math-se-change-trajectories-primary-school",
+"newest_evidence":"2026",
+"path":"claims/four-math-se-change-trajectories-primary-school.md",
+"status":"review",
+"title":"Primary school children follow four distinct trajectories of change in math self-efficacy over a school year: high stable, low stable, increasing, and decreasing",
 "type":"claim"
 },
 {
@@ -109181,6 +109482,16 @@
 "type":"claim"
 },
 {
+"description":"Girls are overrepresented in the low-and-stable math self-efficacy trajectory",
+"evidence_strength":"moderate",
+"id":"girls-overrepresented-low-stable-math-se-trajectory",
+"newest_evidence":"2026",
+"path":"claims/girls-overrepresented-low-stable-math-se-trajectory.md",
+"status":"review",
+"title":"Girls are overrepresented in the low-and-stable math self-efficacy trajectory",
+"type":"claim"
+},
+{
 "description":"Girls' likelihood of majoring in PEMC is 3.1 times greater at the highest versus lowest value of 12th grade perceived mathematics ability under challenge (5.6% vs.",
 "evidence_strength":"moderate",
 "id":"girls-pemc-major-chances-triple-with-ability-under-challenge",
@@ -109238,6 +109549,16 @@
 "path":"claims/girls-stronger-asc-decrease-school-type-null.md",
 "status":"review",
 "title":"Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development",
+"type":"claim"
+},
+{
+"description":"Girls show more very poor and fewer very good individuals relative to their own median than boys",
+"evidence_strength":"weak",
+"id":"girls-wider-variation-below-median",
+"newest_evidence":"1915",
+"path":"claims/girls-wider-variation-below-median.md",
+"status":"review",
+"title":"Girls show more very poor and fewer very good individuals relative to their own median than boys",
 "type":"claim"
 },
 {
@@ -112991,6 +113312,7 @@
 "id":"group-test-adds-to-stanford-ma-prediction",
 "newest_evidence":"1923",
 "path":"claims/group-test-adds-to-stanford-ma-prediction.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"Adding the verbal group test to Stanford MA raises the multiple correlation with achievement from 0.54 to 0.605",
 "type":"claim"
@@ -114486,6 +114808,16 @@
 "path":"claims/haggerty-survey-16000-children-tested.md",
 "status":"review",
 "title":"The Haggerty survey report baseed its conclusions on testing of about 16,000 children with six to forty tests each",
+"type":"claim"
+},
+{
+"description":"The year scale and the point scale yield disparate results and differ in diagnostic accuracy for delinquent populations, per Haines's studies",
+"evidence_strength":"weak",
+"id":"haines-point-versus-year-scale-disparity",
+"newest_evidence":"1917",
+"path":"claims/haines-point-versus-year-scale-disparity.md",
+"status":"review",
+"title":"The year scale and the point scale yield disparate results and differ in diagnostic accuracy for delinquent populations, per Haines's studies",
 "type":"claim"
 },
 {
@@ -116390,6 +116722,26 @@
 "path":"claims/high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md",
 "status":"review",
 "title":"High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load",
+"type":"claim"
+},
+{
+"description":"In Experiment 1, both the high-grade and no-grade conditions produced higher continuing motivation for the task than the standard-grade condition",
+"evidence_strength":"moderate",
+"id":"high-and-no-grade-raise-continuing-motivation",
+"newest_evidence":"2013",
+"path":"claims/high-and-no-grade-raise-continuing-motivation.md",
+"status":"review",
+"title":"In Experiment 1, both the high-grade and no-grade conditions produced higher continuing motivation for the task than the standard-grade condition",
+"type":"claim"
+},
+{
+"description":"In Experiment 1, both the high-grade and no-grade conditions produced higher self-report task interest than the standard-grade condition",
+"evidence_strength":"moderate",
+"id":"high-and-no-grade-raise-task-interest-vs-standard",
+"newest_evidence":"2013",
+"path":"claims/high-and-no-grade-raise-task-interest-vs-standard.md",
+"status":"review",
+"title":"In Experiment 1, both the high-grade and no-grade conditions produced higher self-report task interest than the standard-grade condition",
 "type":"claim"
 },
 {
@@ -124769,6 +125121,16 @@
 "type":"claim"
 },
 {
+"description":"Increasing math self-efficacy co-occurs with increasing verbal persuasion, vicarious experiences, and mastery experiences and decreasing negative arousal",
+"evidence_strength":"moderate",
+"id":"increasing-se-social-sources-support",
+"newest_evidence":"2026",
+"path":"claims/increasing-se-social-sources-support.md",
+"status":"review",
+"title":"Increasing math self-efficacy co-occurs with increasing verbal persuasion, vicarious experiences, and mastery experiences and decreasing negative arousal",
+"type":"claim"
+},
+{
 "description":"",
 "evidence_strength":"weak",
 "id":"increasing-wait-time-improves-response-quality",
@@ -127369,6 +127731,16 @@
 "path":"claims/institutional-and-information-variables-weakly-related-to-ai-use.md",
 "status":"review",
 "title":"Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use",
+"type":"claim"
+},
+{
+"description":"The editorial proposes an institutional applied-psychology profession: thorough laboratory training without a full medical course, routine technical duties under a superintendent, and physician-level rank and salary f...",
+"evidence_strength":"weak",
+"id":"institutional-applied-psychologist-role-proposal",
+"newest_evidence":"1910",
+"path":"claims/institutional-applied-psychologist-role-proposal.md",
+"status":"review",
+"title":"The editorial proposes an institutional applied-psychology profession: thorough laboratory training without a full medical course, routine technical duties under a superintendent, and physician-level rank and salary for stability",
 "type":"claim"
 },
 {
@@ -130781,6 +131153,26 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants",
+"type":"claim"
+},
+{
+"description":"For 15-year-olds in mathematics, the achievement–self-concept relation is not significantly positive for lower achieving students but is significantly positive for higher achieving students",
+"evidence_strength":"strong",
+"id":"interrupted-math-15yo-zero-low-strong-high",
+"newest_evidence":"2020",
+"path":"claims/interrupted-math-15yo-zero-low-strong-high.md",
+"status":"review",
+"title":"For 15-year-olds in mathematics, the achievement–self-concept relation is not significantly positive for lower achieving students but is significantly positive for higher achieving students",
+"type":"claim"
+},
+{
+"description":"For Grade 8 students, the mathematics achievement–self-concept relation is stronger for higher achieving students than for lower achieving students",
+"evidence_strength":"moderate",
+"id":"interrupted-math-grade8-steeper-high",
+"newest_evidence":"2020",
+"path":"claims/interrupted-math-grade8-steeper-high.md",
+"status":"review",
+"title":"For Grade 8 students, the mathematics achievement–self-concept relation is stronger for higher achieving students than for lower achieving students",
 "type":"claim"
 },
 {
@@ -137413,6 +137805,16 @@
 "type":"claim"
 },
 {
+"description":"Kuhlmann argues the greater danger to the field is psychologists' destructive criticism of the Binet-Simon tests rather than errors from their use by untrained examiners",
+"evidence_strength":"weak",
+"id":"kuhlmann-danger-hostile-criticism-binet",
+"newest_evidence":"1917",
+"path":"claims/kuhlmann-danger-hostile-criticism-binet.md",
+"status":"review",
+"title":"Kuhlmann argues the greater danger to the field is psychologists' destructive criticism of the Binet-Simon tests rather than errors from their use by untrained examiners",
+"type":"claim"
+},
+{
 "description":"Kuhlmann argued the difference between mental age and chronological age does not represent the true degree of deficiency",
 "evidence_strength":"weak",
 "id":"kuhlmann-rate-of-mental-progress-over-age-difference",
@@ -143277,6 +143679,16 @@
 "type":"claim"
 },
 {
+"description":"A linear regression model fails to capture the achievement–self-concept relation for a substantial proportion (12%–22%) of students",
+"evidence_strength":"strong",
+"id":"linear-model-inadequate-substantial-proportion",
+"newest_evidence":"2020",
+"path":"claims/linear-model-inadequate-substantial-proportion.md",
+"status":"review",
+"title":"A linear regression model fails to capture the achievement–self-concept relation for a substantial proportion (12%–22%) of students",
+"type":"claim"
+},
+{
 "description":"Feedback provision proceeded linearly through the text, while feedback processing was less linear and used two interchangeable strategies",
 "evidence_strength":"moderate",
 "id":"linear-provision-less-linear-processing-procedure",
@@ -148754,6 +149166,16 @@
 "path":"claims/low-initial-proficiency-faster-growth-grades-1-5.md",
 "status":"review",
 "title":"Students with low initial reading and math proficiency grew faster over two school years than students with higher initial proficiency, with the inverse relation stronger in math than reading",
+"type":"claim"
+},
+{
+"description":"Low intelligence test scores alone cannot account for delinquency, since many non-delinquent adolescents show no more intelligence, per Haines",
+"evidence_strength":"weak",
+"id":"low-intelligence-insufficient-explanation-delinquency",
+"newest_evidence":"1917",
+"path":"claims/low-intelligence-insufficient-explanation-delinquency.md",
+"status":"review",
+"title":"Low intelligence test scores alone cannot account for delinquency, since many non-delinquent adolescents show no more intelligence, per Haines",
 "type":"claim"
 },
 {
@@ -154746,6 +155168,16 @@
 "type":"claim"
 },
 {
+"description":"Math self-efficacy trajectories differ in initial math skills and rate of math skill development",
+"evidence_strength":"moderate",
+"id":"math-skills-differ-across-se-trajectories",
+"newest_evidence":"2026",
+"path":"claims/math-skills-differ-across-se-trajectories.md",
+"status":"review",
+"title":"Math self-efficacy trajectories differ in initial math skills and rate of math skill development",
+"type":"claim"
+},
+{
 "description":"Effects of mathematics software products were uncorrelated with classroom and school characteristics",
 "evidence_strength":"weak",
 "id":"math-software-effects-uncorrelated-classroom-school-characteristics",
@@ -156100,6 +156532,26 @@
 "type":"claim"
 },
 {
+"description":"Median age per grade, not per cent of retardation, is the best single statement of the age-grade situation for most practical purposes",
+"evidence_strength":"weak",
+"id":"median-age-per-grade-better-than-percent-retardation",
+"newest_evidence":"1920",
+"path":"claims/median-age-per-grade-better-than-percent-retardation.md",
+"status":"review",
+"title":"Median age per grade, not per cent of retardation, is the best single statement of the age-grade situation for most practical purposes",
+"type":"claim"
+},
+{
+"description":"Median-age comparison of two cities shows children in City C substantially older per grade than in City F (first grade nearly six months, fourth grade over eight months)",
+"evidence_strength":"weak",
+"id":"median-age-per-grade-two-city-comparison",
+"newest_evidence":"1920",
+"path":"claims/median-age-per-grade-two-city-comparison.md",
+"status":"review",
+"title":"Median-age comparison of two cities shows children in City C substantially older per grade than in City F (first grade nearly six months, fourth grade over eight months)",
+"type":"claim"
+},
+{
 "description":"Aggregating peer grades with the median improves agreement with staff grades compared with unaggregated peer grades",
 "evidence_strength":"moderate",
 "id":"median-aggregation-improves-peer-grade-agreement",
@@ -156771,6 +157223,16 @@
 "type":"claim"
 },
 {
+"description":"Combining Stanford Mental Age with group tests raises the achievement correlation to 0.605, above either alone (0.54 and 0.52)",
+"evidence_strength":"weak",
+"id":"mental-age-plus-group-tests-raise-multiple-correlation",
+"newest_evidence":"1923",
+"path":"claims/mental-age-plus-group-tests-raise-multiple-correlation.md",
+"status":"review",
+"title":"Combining Stanford Mental Age with group tests raises the achievement correlation to 0.605, above either alone (0.54 and 0.52)",
+"type":"claim"
+},
+{
 "aliases":["reading-intelligence-correlation-increases-with-grade"],
 "description":"Stanford-Binet mental age correlations with reading rise from grade III to grade VI",
 "evidence_strength":"moderate",
@@ -156957,6 +157419,16 @@
 "type":"claim"
 },
 {
+"description":"Composite mental test rank shows a large positive correlation with school grade, physical rank only a small one",
+"evidence_strength":"moderate",
+"id":"mental-rank-large-correlation-school-grade",
+"newest_evidence":"1915",
+"path":"claims/mental-rank-large-correlation-school-grade.md",
+"status":"review",
+"title":"Composite mental test rank shows a large positive correlation with school grade, physical rank only a small one",
+"type":"claim"
+},
+{
 "description":"Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data",
 "evidence_strength":"weak",
 "id":"mental-representation-not-directly-instructable",
@@ -157026,6 +157498,16 @@
 "path":"claims/mental-tests-diagnostic-value-corroborate-teachers.md",
 "status":"review",
 "title":"The tests had diagnostic value, corroborating teachers' experience and illuminating difficult cases",
+"type":"claim"
+},
+{
+"description":"Mental tests can identify misplaced elementary-school children who succeed when differently placed, per Hoke's Richmond study",
+"evidence_strength":"weak",
+"id":"mental-tests-grade-placement-misplaced-children",
+"newest_evidence":"1917",
+"path":"claims/mental-tests-grade-placement-misplaced-children.md",
+"status":"review",
+"title":"Mental tests can identify misplaced elementary-school children who succeed when differently placed, per Hoke's Richmond study",
 "type":"claim"
 },
 {
@@ -163874,6 +164356,16 @@
 "type":"claim"
 },
 {
+"description":"Primary children need more skilled books incorporating salient interest-producing elements",
+"evidence_strength":"weak",
+"id":"more-skilled-books-with-interest-elements-for-primary-children",
+"newest_evidence":"1921",
+"path":"claims/more-skilled-books-with-interest-elements-for-primary-children.md",
+"status":"review",
+"title":"Primary children need more skilled books incorporating salient interest-producing elements",
+"type":"claim"
+},
+{
 "description":"More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.",
 "evidence_strength":"weak",
 "id":"more-successful-students-higher-gains-focused-actions",
@@ -164208,6 +164700,16 @@
 "source_checked":"2026-10-07",
 "status":"review",
 "title":"Most prospective teachers produced dynamic simulations rather than tutoring scripts, with 46% adding inquiry-oriented exploration",
+"type":"claim"
+},
+{
+"description":"Most children with SCD have vocabulary weaknesses, with intact vocabulary being rare",
+"evidence_strength":"weak",
+"id":"most-scd-children-have-vocabulary-weaknesses",
+"newest_evidence":"2019",
+"path":"claims/most-scd-children-have-vocabulary-weaknesses.md",
+"status":"review",
+"title":"Most children with SCD have vocabulary weaknesses, with intact vocabulary being rare",
 "type":"claim"
 },
 {
@@ -166886,6 +167388,16 @@
 "type":"claim"
 },
 {
+"description":"Study findings support multiplicative over additive versions of the Simple View for children with SCD",
+"evidence_strength":"moderate",
+"id":"multiplicative-over-additive-simple-view-scd",
+"newest_evidence":"2019",
+"path":"claims/multiplicative-over-additive-simple-view-scd.md",
+"status":"review",
+"title":"Study findings support multiplicative over additive versions of the Simple View for children with SCD",
+"type":"claim"
+},
+{
 "description":"A multisensory tablet with tonal and vibration feedback produced no significant difference in graphics-comprehension accuracy compared with tactile graphics",
 "evidence_strength":"weak",
 "id":"multisensory-tablet-no-difference-tactile-graphics",
@@ -167321,6 +167833,16 @@
 "path":"claims/myers-mental-measure-20-minutes-80-binet.md",
 "status":"review",
 "title":"The Myers Mental Measure requires only 20 minutes and is said to correlate .80 with the Standard Revision of the Binet Scale",
+"type":"claim"
+},
+{
+"description":"The wholly non-verbal Myers test shows low inter-correlations with verbal tests and low achievement correlations in grades IV-VIII",
+"evidence_strength":"weak",
+"id":"myers-nonverbal-test-low-achievement-correlations",
+"newest_evidence":"1923",
+"path":"claims/myers-nonverbal-test-low-achievement-correlations.md",
+"status":"review",
+"title":"The wholly non-verbal Myers test shows low inter-correlations with verbal tests and low achievement correlations in grades IV-VIII",
 "type":"claim"
 },
 {
@@ -176853,6 +177375,16 @@
 "type":"claim"
 },
 {
+"description":"Non-verbal test material becomes less valid for predicting school success as grade level rises from IV to VIII",
+"evidence_strength":"weak",
+"id":"nonverbal-validity-declines-with-grade",
+"newest_evidence":"1923",
+"path":"claims/nonverbal-validity-declines-with-grade.md",
+"status":"review",
+"title":"Non-verbal test material becomes less valid for predicting school success as grade level rises from IV to VIII",
+"type":"claim"
+},
+{
 "description":"(Nor)epinephrine follows an inverted-U for learning: low levels aid learning, high levels trigger quitting, and production fades after about 90 minutes but habituates with repeated safe exposure",
 "evidence_strength":"weak",
 "id":"norepinephrine-inverted-u-90-minute-limit-habituation",
@@ -176891,6 +177423,16 @@
 "recheck_by":"2029",
 "status":"review",
 "title":"Norm shifts can raise achievement percentiles for schools serving struggling students even when RIT gains and projected proficiency do not improve",
+"type":"claim"
+},
+{
+"description":"Distributions of normal and feeble-minded groups overlap, with a borderzone between them, per Kohs's examination of 335 inmates",
+"evidence_strength":"weak",
+"id":"normal-feeble-minded-distributions-overlap-borderzone",
+"newest_evidence":"1917",
+"path":"claims/normal-feeble-minded-distributions-overlap-borderzone.md",
+"status":"review",
+"title":"Distributions of normal and feeble-minded groups overlap, with a borderzone between them, per Kohs's examination of 335 inmates",
 "type":"claim"
 },
 {
@@ -181896,6 +182438,16 @@
 "type":"claim"
 },
 {
+"description":"Difficulty orderings from the 990-response standardization correlate .895 with the earlier 100-subject King and Gold standardization",
+"evidence_strength":"moderate",
+"id":"opposites-990-vs-100-subject-standardization-r-895",
+"newest_evidence":"1918",
+"path":"claims/opposites-990-vs-100-subject-standardization-r-895.md",
+"status":"review",
+"title":"Difficulty orderings from the 990-response standardization correlate .895 with the earlier 100-subject King and Gold standardization",
+"type":"claim"
+},
+{
 "description":"Opposites performance correlates positively with information and vocabulary, most strongly with range of information",
 "evidence_strength":"moderate",
 "id":"opposites-correlate-information-vocabulary",
@@ -181903,6 +182455,36 @@
 "path":"claims/opposites-correlate-information-vocabulary.md",
 "status":"review",
 "title":"Opposites performance correlates positively with information and vocabulary, most strongly with range of information",
+"type":"claim"
+},
+{
+"description":"Earlier opposites-test scoring methods ignored differences in stimulus-word difficulty, penalizing all errors equally",
+"evidence_strength":"weak",
+"id":"opposites-earlier-scoring-ignored-word-difficulty",
+"newest_evidence":"1918",
+"path":"claims/opposites-earlier-scoring-ignored-word-difficulty.md",
+"status":"review",
+"title":"Earlier opposites-test scoring methods ignored differences in stimulus-word difficulty, penalizing all errors equally",
+"type":"claim"
+},
+{
+"description":"Percentile-based and percentage-of-failure evaluations of stimulus-word difficulty agree almost perfectly (rank r = .996)",
+"evidence_strength":"moderate",
+"id":"opposites-word-difficulty-methods-rank-r-996",
+"newest_evidence":"1918",
+"path":"claims/opposites-word-difficulty-methods-rank-r-996.md",
+"status":"review",
+"title":"Percentile-based and percentage-of-failure evaluations of stimulus-word difficulty agree almost perfectly (rank r = .996)",
+"type":"claim"
+},
+{
+"description":"Response frequencies to stimulus words vary widely, with easy words answered correctly by most subjects and hard words such as suave missed by 96%",
+"evidence_strength":"moderate",
+"id":"opposites-word-difficulty-range-suave-96-percent",
+"newest_evidence":"1918",
+"path":"claims/opposites-word-difficulty-range-suave-96-percent.md",
+"status":"review",
+"title":"Response frequencies to stimulus words vary widely, with easy words answered correctly by most subjects and hard words such as suave missed by 96%",
 "type":"claim"
 },
 {
@@ -182898,6 +183480,57 @@
 "path":"claims/others-curiosity-discrepancy-alters-metacognitive-control.md",
 "status":"review",
 "title":"Exposure to others' discrepant curiosity ratings reduces the curiosity gap between opted-out and non-opted-out trials and between incorrect and correct trials, altering metacognitive control",
+"type":"claim"
+},
+{
+"aliases":["otis-1922-regression-line-not-true-correspondence"],
+"description":"The mean of the array of scores on one scale associated with a given score on another fallible measure tends to be nearer the overall mean than the truly corresponding value is, so the regression line does not show tr...",
+"evidence_strength":"weak",
+"id":"otis-1922-array-means-regress-toward-mean",
+"newest_evidence":"1922",
+"path":"claims/otis-1922-array-means-regress-toward-mean.md",
+"status":"review",
+"title":"The mean of the array of scores on one scale associated with a given score on another fallible measure tends to be nearer the overall mean than the truly corresponding value is, so the regression line does not show true correspondence",
+"type":"claim"
+},
+{
+"description":"The deviation of a correlation coefficient from unity varies inversely as the square of the variability of the group, per a corrected heterogeneity-adjustment formula (worked example 0.75 to 0.84)",
+"evidence_strength":"weak",
+"id":"otis-1922-heterogeneity-correction-inverse-square",
+"newest_evidence":"1922",
+"path":"claims/otis-1922-heterogeneity-correction-inverse-square.md",
+"status":"review",
+"title":"The deviation of a correlation coefficient from unity varies inversely as the square of the variability of the group, per a corrected heterogeneity-adjustment formula (worked example 0.75 to 0.84)",
+"type":"claim"
+},
+{
+"description":"The regression equation is a special case of the relation line when one variable is measured without error, and the relation formula is not to be used for prediction",
+"evidence_strength":"weak",
+"id":"otis-1922-regression-as-special-case",
+"newest_evidence":"1922",
+"path":"claims/otis-1922-regression-as-special-case.md",
+"status":"review",
+"title":"The regression equation is a special case of the relation line when one variable is measured without error, and the relation formula is not to be used for prediction",
+"type":"claim"
+},
+{
+"description":"For two tests of the same trait with unequal reliabilities, the line of true correspondence is y = (σY/σX)√(rYY/rXX)·x, measured from the respective means",
+"evidence_strength":"weak",
+"id":"otis-1922-relation-line-with-reliabilities",
+"newest_evidence":"1922",
+"path":"claims/otis-1922-relation-line-with-reliabilities.md",
+"status":"review",
+"title":"For two tests of the same trait with unequal reliabilities, the line of true correspondence is y = (σY/σX)√(rYY/rXX)·x, measured from the respective means",
+"type":"claim"
+},
+{
+"description":"The standard deviation of true scores equals the square root of the reliability coefficient times the standard deviation of obtained scores",
+"evidence_strength":"weak",
+"id":"otis-1922-true-score-sd-formula",
+"newest_evidence":"1922",
+"path":"claims/otis-1922-true-score-sd-formula.md",
+"status":"review",
+"title":"The standard deviation of true scores equals the square root of the reliability coefficient times the standard deviation of obtained scores",
 "type":"claim"
 },
 {
@@ -185532,6 +186165,16 @@
 "recheck_by":"2026",
 "status":"review",
 "title":"Parental discord and parental depression show the strongest individual-ACE associations with internalizing behavior",
+"type":"claim"
+},
+{
+"description":"Parental education predicts CPS and g performance inconsistently across grades",
+"evidence_strength":"weak",
+"id":"parental-education-cps-g-inconsistent",
+"newest_evidence":"2013",
+"path":"claims/parental-education-cps-g-inconsistent.md",
+"status":"review",
+"title":"Parental education predicts CPS and g performance inconsistently across grades",
 "type":"claim"
 },
 {
@@ -193032,6 +193675,16 @@
 "type":"claim"
 },
 {
+"description":"Physical measures showed no appreciable difference in height and a larger weight gain in the untreated class",
+"evidence_strength":"weak",
+"id":"physical-measures-weight-height-no-treated-advantage",
+"newest_evidence":"1913",
+"path":"claims/physical-measures-weight-height-no-treated-advantage.md",
+"status":"review",
+"title":"Physical measures showed no appreciable difference in height and a larger weight gain in the untreated class",
+"type":"claim"
+},
+{
 "description":"Physical neglect exposure is associated with prolonged latency for correct responses in the Pattern Recognition Memory test in healthy adults",
 "evidence_strength":"moderate",
 "id":"physical-neglect-pattern-recognition-latency",
@@ -196341,6 +196994,16 @@
 "type":"claim"
 },
 {
+"description":"In secondary school, positive quadratic relations between mathematics achievement and mathematics self-concept indicate weaker relations for lower achieving students than for higher achieving students",
+"evidence_strength":"strong",
+"id":"positive-quadratic-math-achievement-self-concept-secondary",
+"newest_evidence":"2020",
+"path":"claims/positive-quadratic-math-achievement-self-concept-secondary.md",
+"status":"review",
+"title":"In secondary school, positive quadratic relations between mathematics achievement and mathematics self-concept indicate weaker relations for lower achieving students than for higher achieving students",
+"type":"claim"
+},
+{
 "description":"Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged",
 "evidence_strength":"moderate",
 "id":"positive-relationships-increase-civic-engagement-intention",
@@ -197405,6 +198068,16 @@
 "path":"claims/practice-limits-signal-standing-and-performance.md",
 "status":"review",
 "title":"Initial test trials sit on variable and treacherous ground, while practice limits indicate both relative standing and general performance",
+"type":"claim"
+},
+{
+"description":"Practice should always be considered in light of the pupil's interest and motivation; excess practice enjoyed by the pupil is not a grave defect",
+"evidence_strength":"weak",
+"id":"practice-must-be-motivated",
+"newest_evidence":"1921",
+"path":"claims/practice-must-be-motivated.md",
+"status":"review",
+"title":"Practice should always be considered in light of the pupil's interest and motivation; excess practice enjoyed by the pupil is not a grave defect",
 "type":"claim"
 },
 {
@@ -200908,6 +201581,16 @@
 "type":"claim"
 },
 {
+"description":"Students' prior physics grades moderated the intervention's effects on three outcomes, with higher-grade students reporting greater optional choices, joy, and effort",
+"evidence_strength":"moderate",
+"id":"prior-grades-moderate-autonomy-support-effects",
+"newest_evidence":"2019",
+"path":"claims/prior-grades-moderate-autonomy-support-effects.md",
+"status":"review",
+"title":"Students' prior physics grades moderated the intervention's effects on three outcomes, with higher-grade students reporting greater optional choices, joy, and effort",
+"type":"claim"
+},
+{
 "description":"Prior reviews of inclusion published before 2000 reported equivocal effects, including a pooled effect size of 0.33 favouring inclusion",
 "evidence_strength":"weak",
 "id":"prior-inclusion-reviews-equivocal-wang-baker-033",
@@ -202073,6 +202756,7 @@
 "id":"problem-analysis-facilitates-text-recall",
 "newest_evidence":"1989",
 "path":"claims/problem-analysis-facilitates-text-recall.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts",
 "type":"claim"
@@ -205889,6 +206573,16 @@
 "type":"claim"
 },
 {
+"description":"Provisional practice requirements vary with bond difficulty and pupil ability, from twelve practices for easy bonds to hundreds for difficult ones",
+"evidence_strength":"weak",
+"id":"provisional-practice-amounts-by-difficulty",
+"newest_evidence":"1921",
+"path":"claims/provisional-practice-amounts-by-difficulty.md",
+"status":"review",
+"title":"Provisional practice requirements vary with bond difficulty and pupil ability, from twelve practices for easy bonds to hundreds for difficult ones",
+"type":"claim"
+},
+{
 "description":"When groups are physically far apart, mutual gaze forms the dominant pathway into monitoring, and behavioral challenges dominate",
 "evidence_strength":"moderate",
 "id":"prox-far-mutual-gaze-monitoring-pathway",
@@ -207128,6 +207822,16 @@
 "type":"claim"
 },
 {
+"description":"Public school children score somewhat above parochial school children in every test except rote memory, with parochial children over-represented at both extremes",
+"evidence_strength":"weak",
+"id":"public-vs-parochial-test-comparison",
+"newest_evidence":"1915",
+"path":"claims/public-vs-parochial-test-comparison.md",
+"status":"review",
+"title":"Public school children score somewhat above parochial school children in every test except rote memory, with parochial children over-represented at both extremes",
+"type":"claim"
+},
+{
 "description":"Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing",
 "evidence_strength":"mixed",
 "id":"public-vs-private-reflection-mixed",
@@ -208190,6 +208894,16 @@
 "recheck_by":"2029",
 "status":"review",
 "title":"More than a quarter of California LEAs offered no classroom language model for multilingual TK students, and 38% of those LEAs serve populations where a third or more students are English learners",
+"type":"claim"
+},
+{
+"description":"About a quarter of eighteen-year-old working children fall below the Yerkes normal-adult range on the Yerkes Point Scale",
+"evidence_strength":"weak",
+"id":"quarter-working-youth-below-yerkes-normal-range",
+"newest_evidence":"1915",
+"path":"claims/quarter-working-youth-below-yerkes-normal-range.md",
+"status":"review",
+"title":"About a quarter of eighteen-year-old working children fall below the Yerkes normal-adult range on the Yerkes Point Scale",
 "type":"claim"
 },
 {
@@ -211352,6 +212066,16 @@
 "type":"claim"
 },
 {
+"description":"Reading shows the greatest increase in correlation with intelligence tests as test material becomes more verbal",
+"evidence_strength":"weak",
+"id":"reading-correlation-increases-most-with-verbalness",
+"newest_evidence":"1923",
+"path":"claims/reading-correlation-increases-most-with-verbalness.md",
+"status":"review",
+"title":"Reading shows the greatest increase in correlation with intelligence tests as test material becomes more verbal",
+"type":"claim"
+},
+{
 "description":"The four supplemental reading comprehension curricula had no statistically significant impacts on students one year after the end of their implementation (Cohort 1 follow-up in sixth grade).",
 "evidence_strength":"moderate",
 "id":"reading-curricula-no-impacts-one-year-after-implementation",
@@ -212539,6 +213263,7 @@
 "id":"recall-benefit-limited-to-explanatory-propositions",
 "newest_evidence":"1989",
 "path":"claims/recall-benefit-limited-to-explanatory-propositions.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"The text-recall benefit of problem analysis is confined to explanatory propositions; descriptive facts are not better remembered",
 "type":"claim"
@@ -223696,6 +224421,36 @@
 "type":"claim"
 },
 {
+"description":"The pattern of SCD weaknesses is consistent across identification criteria, but criteria identify widely differing proportions of children",
+"evidence_strength":"moderate",
+"id":"scd-pattern-robust-across-identification-criteria",
+"newest_evidence":"2019",
+"path":"claims/scd-pattern-robust-across-identification-criteria.md",
+"status":"review",
+"title":"The pattern of SCD weaknesses is consistent across identification criteria, but criteria identify widely differing proportions of children",
+"type":"claim"
+},
+{
+"description":"Children with specific reading comprehension difficulties show substantially poorer reading comprehension than vocabulary relative to typical readers",
+"evidence_strength":"moderate",
+"id":"scd-reading-comprehension-weakness-more-severe-than-vocabulary",
+"newest_evidence":"2019",
+"path":"claims/scd-reading-comprehension-weakness-more-severe-than-vocabulary.md",
+"status":"review",
+"title":"Children with specific reading comprehension difficulties show substantially poorer reading comprehension than vocabulary relative to typical readers",
+"type":"claim"
+},
+{
+"description":"The vocabulary weakness of children with SCD is best characterized as a developmental delay rather than a developmental deficit",
+"evidence_strength":"moderate",
+"id":"scd-vocabulary-weakness-developmental-delay-not-deficit",
+"newest_evidence":"2019",
+"path":"claims/scd-vocabulary-weakness-developmental-delay-not-deficit.md",
+"status":"review",
+"title":"The vocabulary weakness of children with SCD is best characterized as a developmental delay rather than a developmental deficit",
+"type":"claim"
+},
+{
 "description":"Publication bias analyses suggest possible small-sample bias for SCED studies, with trim-and-fill reducing the adjusted mean effect to 1.01",
 "evidence_strength":"weak",
 "id":"sced-publication-bias-trim-and-fill-101",
@@ -223939,6 +224694,16 @@
 "recheck_by":"2019",
 "status":"review",
 "title":"Students' risk of suspension is more strongly determined by which school they attend than by their individual backgrounds",
+"type":"claim"
+},
+{
+"description":"School-attitude ratings add almost nothing to mental age and group tests in predicting achievement; their residual unique correlation is 0.12",
+"evidence_strength":"weak",
+"id":"school-attitude-adds-little-beyond-intelligence-tests",
+"newest_evidence":"1923",
+"path":"claims/school-attitude-adds-little-beyond-intelligence-tests.md",
+"status":"review",
+"title":"School-attitude ratings add almost nothing to mental age and group tests in predicting achievement; their residual unique correlation is 0.12",
 "type":"claim"
 },
 {
@@ -225195,6 +225960,16 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"School Supports Including Academic Press, Social Support, and Instructional Program Coherence Relate to Achievement",
+"type":"claim"
+},
+{
+"description":"The editorial argues that a school system cannot be successfully conducted without some sort of unification and standardization",
+"evidence_strength":"weak",
+"id":"school-system-needs-unification-standardization",
+"newest_evidence":"1910",
+"path":"claims/school-system-needs-unification-standardization.md",
+"status":"review",
+"title":"The editorial argues that a school system cannot be successfully conducted without some sort of unification and standardization",
 "type":"claim"
 },
 {
@@ -232339,6 +233114,16 @@
 "path":"claims/seventh-grade-test-two-reversal.md",
 "status":"review",
 "title":"The relative difficulty of the two tasks reverses from fifth to seventh grade, with seventh graders scoring distinctly lower on the exercise test",
+"type":"claim"
+},
+{
+"description":"Seventh graders' task performance plummeted in the standard-grade condition while remaining at parity in the other two conditions",
+"evidence_strength":"weak",
+"id":"seventh-graders-performance-plummeted-standard-grade",
+"newest_evidence":"2013",
+"path":"claims/seventh-graders-performance-plummeted-standard-grade.md",
+"status":"review",
+"title":"Seventh graders' task performance plummeted in the standard-grade condition while remaining at parity in the other two conditions",
 "type":"claim"
 },
 {
@@ -247732,6 +248517,16 @@
 "type":"claim"
 },
 {
+"description":"Most considered student characteristics (gender, effort, interest, extrinsic motivation, self-efficacy, perceived autonomy) showed no reported moderation of intervention effects",
+"evidence_strength":"weak",
+"id":"student-characteristics-mostly-no-moderation-autonomy-support",
+"newest_evidence":"2019",
+"path":"claims/student-characteristics-mostly-no-moderation-autonomy-support.md",
+"status":"review",
+"title":"Most considered student characteristics (gender, effort, interest, extrinsic motivation, self-efficacy, perceived autonomy) showed no reported moderation of intervention effects",
+"type":"claim"
+},
+{
 "description":"Fewer than a quarter of studies evaluated student characteristics, with ability level and gender most explored",
 "evidence_strength":"moderate",
 "id":"student-characteristics-understudied-peer-feedback",
@@ -253150,6 +253945,16 @@
 "type":"claim"
 },
 {
+"description":"Surprise and plot are the leading positive interest factors in children's story preferences",
+"evidence_strength":"weak",
+"id":"surprise-and-plot-lead-childrens-interest-factors",
+"newest_evidence":"1921",
+"path":"claims/surprise-and-plot-lead-childrens-interest-factors.md",
+"status":"review",
+"title":"Surprise and plot are the leading positive interest factors in children's story preferences",
+"type":"claim"
+},
+{
 "description":"Three- to six-year-old children learn novel verbs and nouns from a single exposure following core knowledge violations, including outside the laboratory",
 "evidence_strength":"moderate",
 "id":"surprise-enhances-childrens-word-learning-museum",
@@ -256167,6 +256972,16 @@
 "type":"claim"
 },
 {
+"description":"Perceived task autonomy mediated the no-grade condition's higher task interest and continuing motivation for the task relative to standard grading",
+"evidence_strength":"moderate",
+"id":"task-autonomy-mediation-both-motivations",
+"newest_evidence":"2013",
+"path":"claims/task-autonomy-mediation-both-motivations.md",
+"status":"review",
+"title":"Perceived task autonomy mediated the no-grade condition's higher task interest and continuing motivation for the task relative to standard grading",
+"type":"claim"
+},
+{
 "description":"Perceived task cohesion strength relates to team performance in collaborative learning teams",
 "evidence_strength":"weak",
 "id":"task-cohesion-relates-team-performance",
@@ -256584,6 +257399,16 @@
 "path":"claims/task-performance-and-learning-are-different-processes.md",
 "status":"review",
 "title":"Task performance and learning are related but fundamentally different processes",
+"type":"claim"
+},
+{
+"description":"Task performance mediated the reward contrast's effect on task interest but failed to mediate its effect on continuing motivation for the task",
+"evidence_strength":"mixed",
+"id":"task-performance-mediation-task-interest-not-continuing",
+"newest_evidence":"2013",
+"path":"claims/task-performance-mediation-task-interest-not-continuing.md",
+"status":"review",
+"title":"Task performance mediated the reward contrast's effect on task interest but failed to mediate its effect on continuing motivation for the task",
 "type":"claim"
 },
 {
@@ -261148,6 +261973,16 @@
 "type":"claim"
 },
 {
+"description":"Even experienced teachers over-estimate the amount of practice an average arithmetic textbook provides on elementary arithmetical facts",
+"evidence_strength":"moderate",
+"id":"teachers-overestimate-practice-arithmetic-textbooks",
+"newest_evidence":"1921",
+"path":"claims/teachers-overestimate-practice-arithmetic-textbooks.md",
+"status":"review",
+"title":"Even experienced teachers over-estimate the amount of practice an average arithmetic textbook provides on elementary arithmetical facts",
+"type":"claim"
+},
+{
 "description":"Teachers overestimate their SRL practice compared to classroom observations and student ratings, motivating complementing observation research with self-report data",
 "evidence_strength":"weak",
 "id":"teachers-overestimate-srl-practice-versus-observations",
@@ -261454,6 +262289,16 @@
 "path":"claims/teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md",
 "status":"review",
 "title":"Teachers actively synthesize professional-development practices with their own context rather than transferring them intact",
+"type":"claim"
+},
+{
+"description":"Teachers can be taught to administer the Binet scale with surprising accuracy in a six-weeks summer course",
+"evidence_strength":"weak",
+"id":"teachers-trained-six-weeks-binet-accuracy",
+"newest_evidence":"1917",
+"path":"claims/teachers-trained-six-weeks-binet-accuracy.md",
+"status":"review",
+"title":"Teachers can be taught to administer the Binet scale with surprising accuracy in a six-weeks summer course",
 "type":"claim"
 },
 {
@@ -263531,6 +264376,16 @@
 "path":"claims/test-format-timing-moderate-note-taking-effects.md",
 "status":"review",
 "title":"Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test",
+"type":"claim"
+},
+{
+"description":"Exceptional mismatches between test rank and school grade are explicable by social circumstances",
+"evidence_strength":"weak",
+"id":"test-grade-mismatches-explained-by-home-conditions",
+"newest_evidence":"1915",
+"path":"claims/test-grade-mismatches-explained-by-home-conditions.md",
+"status":"review",
+"title":"Exceptional mismatches between test rank and school grade are explicable by social circumstances",
 "type":"claim"
 },
 {
@@ -265684,6 +266539,16 @@
 "recheck_by":"2031",
 "status":"review",
 "title":"Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors",
+"type":"claim"
+},
+{
+"description":"Excess practice and over-learning are justifiable in three cases: changed mental sets, isolating a new element, and bonds of special practical importance",
+"evidence_strength":"weak",
+"id":"three-cases-justifying-overlearning",
+"newest_evidence":"1921",
+"path":"claims/three-cases-justifying-overlearning.md",
+"status":"review",
+"title":"Excess practice and over-learning are justifiable in three cases: changed mental sets, isolating a new element, and bonds of special practical importance",
 "type":"claim"
 },
 {
@@ -270459,6 +271324,36 @@
 "path":"claims/trc-spanish-least-correlated-with-other-assessments.md",
 "status":"review",
 "title":"TRC-Spanish is the assessment least correlated with the others, though strongly correlated with TRC-English",
+"type":"claim"
+},
+{
+"description":"On the seven-digit rote memory test the treated class gained 10.8% over its own first record while the untreated class gained none",
+"evidence_strength":"weak",
+"id":"treated-class-gain-seven-digit-rote-memory",
+"newest_evidence":"1913",
+"path":"claims/treated-class-gain-seven-digit-rote-memory.md",
+"status":"review",
+"title":"On the seven-digit rote memory test the treated class gained 10.8% over its own first record while the untreated class gained none",
+"type":"claim"
+},
+{
+"description":"On the substitution learning test the treated class showed a larger saving of time (101.0 vs.",
+"evidence_strength":"weak",
+"id":"treated-class-learning-power-substitution-test",
+"newest_evidence":"1913",
+"path":"claims/treated-class-learning-power-substitution-test.md",
+"status":"review",
+"title":"On the substitution learning test the treated class showed a larger saving of time (101.0 vs. 91.1 seconds) between first and last sheets",
+"type":"claim"
+},
+{
+"description":"The treated class showed greater gains in tapping endurance, leading in endurance on both hands by the second test despite greater initial fatigue",
+"evidence_strength":"weak",
+"id":"treated-class-tapping-endurance-gain",
+"newest_evidence":"1913",
+"path":"claims/treated-class-tapping-endurance-gain.md",
+"status":"review",
+"title":"The treated class showed greater gains in tapping endurance, leading in endurance on both hands by the second test despite greater initial fatigue",
 "type":"claim"
 },
 {
@@ -276645,6 +277540,16 @@
 "type":"claim"
 },
 {
+"description":"In the verbal domain of 15-year-olds, reading achievement is more strongly related to verbal self-concept for higher achieving than for lower achieving students",
+"evidence_strength":"moderate",
+"id":"verbal-15yo-stronger-high-achievers",
+"newest_evidence":"2020",
+"path":"claims/verbal-15yo-stronger-high-achievers.md",
+"status":"review",
+"title":"In the verbal domain of 15-year-olds, reading achievement is more strongly related to verbal self-concept for higher achieving than for lower achieving students",
+"type":"claim"
+},
+{
 "description":"Verbal ability and Internet experience predict correct answering of comprehension questions about digital texts in e-learning",
 "evidence_strength":"moderate",
 "id":"verbal-ability-internet-experience-predict-elearning-comprehension",
@@ -276953,6 +277858,7 @@
 "type":"claim"
 },
 {
+"aliases":["verbalness-outweighs-test-length-for-predicting-achievement"],
 "description":"Verbalness outweighs test length as a factor determining correlations with achievement",
 "evidence_strength":"moderate",
 "id":"verbalness-outweighs-test-length",
@@ -276970,6 +277876,16 @@
 "path":"claims/verbalness-predicts-school-achievement.md",
 "status":"review",
 "title":"The more verbal the test material, the higher its correlation with school achievement, with a partial correlation of 0.69 for verbalness alone",
+"type":"claim"
+},
+{
+"description":"More verbal intelligence-test material yields higher correlations with mental age and with verbal school subjects in grades IV-VIII",
+"evidence_strength":"moderate",
+"id":"verbalness-raises-correlation-with-achievement",
+"newest_evidence":"1923",
+"path":"claims/verbalness-raises-correlation-with-achievement.md",
+"status":"review",
+"title":"More verbal intelligence-test material yields higher correlations with mental age and with verbal school subjects in grades IV-VIII",
 "type":"claim"
 },
 {
@@ -279088,6 +280004,16 @@
 "type":"claim"
 },
 {
+"description":"Grade 1 vocabulary is directly related to Grade 2 writing quality over and above writing fluency",
+"evidence_strength":"moderate",
+"id":"vocabulary-direct-writing-quality-over-fluency",
+"newest_evidence":"2024",
+"path":"claims/vocabulary-direct-writing-quality-over-fluency.md",
+"status":"review",
+"title":"Grade 1 vocabulary is directly related to Grade 2 writing quality over and above writing fluency",
+"type":"claim"
+},
+{
 "description":"Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled",
 "evidence_strength":"moderate",
 "id":"vocabulary-diversity-30-months-predicts-vocabulary-42-months",
@@ -279338,6 +280264,16 @@
 "path":"claims/vocabulary-size-predicts-syntactic-growth-19-30-months.md",
 "status":"review",
 "title":"Vocabulary size at 19 months is a strong predictor of later syntactic growth between 19 and 30 months",
+"type":"claim"
+},
+{
+"description":"Grade 1 vocabulary shows a suppression effect on Grade 2 writing fluency in the multivariate model",
+"evidence_strength":"weak",
+"id":"vocabulary-suppression-writing-fluency",
+"newest_evidence":"2024",
+"path":"claims/vocabulary-suppression-writing-fluency.md",
+"status":"review",
+"title":"Grade 1 vocabulary shows a suppression effect on Grade 2 writing fluency in the multivariate model",
 "type":"claim"
 },
 {
@@ -280793,6 +281729,16 @@
 "path":"claims/weak-inconsistent-scaffolding-uptake-correlation-real-world.md",
 "status":"review",
 "title":"Student uptake is only weakly and inconsistently correlated with chatbot scaffolding in real-world deployments",
+"type":"claim"
+},
+{
+"description":"Mental and physical test ranks correlate positively but weakly, allowing rough sorting into five ability groups",
+"evidence_strength":"moderate",
+"id":"weak-mental-physical-correlation-five-groups",
+"newest_evidence":"1915",
+"path":"claims/weak-mental-physical-correlation-five-groups.md",
+"status":"review",
+"title":"Mental and physical test ranks correlate positively but weakly, allowing rough sorting into five ability groups",
 "type":"claim"
 },
 {
@@ -283577,6 +284523,16 @@
 "type":"claim"
 },
 {
+"description":"Individuals' composite scale ranks are fairly constant from age fourteen to fifteen",
+"evidence_strength":"moderate",
+"id":"woolley-scale-ranks-stable-year-to-year",
+"newest_evidence":"1915",
+"path":"claims/woolley-scale-ranks-stable-year-to-year.md",
+"status":"review",
+"title":"Individuals' composite scale ranks are fairly constant from age fourteen to fifteen",
+"type":"claim"
+},
+{
 "description":"A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention",
 "evidence_strength":"weak",
 "id":"woot-math-rct-adaptivity-significant-effects",
@@ -284530,6 +285486,16 @@
 "type":"claim"
 },
 {
+"description":"Kindergarten working memory is indirectly related to Grade 2 writing fluency and quality via Grade 1 spelling, while attentional control shows no direct or indirect relation",
+"evidence_strength":"mixed",
+"id":"working-memory-indirect-via-spelling-attentional-control-null",
+"newest_evidence":"2024",
+"path":"claims/working-memory-indirect-via-spelling-attentional-control-null.md",
+"status":"review",
+"title":"Kindergarten working memory is indirectly related to Grade 2 writing fluency and quality via Grade 1 spelling, while attentional control shows no direct or indirect relation",
+"type":"claim"
+},
+{
 "description":"Working memory effectiveness mediates the relation between chronic stereotype threat and mathematical achievement only for highly gender-identified girls",
 "evidence_strength":"moderate",
 "id":"working-memory-mediation-chronic-stereotype-threat",
@@ -285087,6 +286053,16 @@
 "path":"claims/writing-duration-not-related-to-retrieval-accuracy.md",
 "status":"review",
 "title":"Accuracy in retrieving orthographic and semantic information is not significantly affected by time spent handwriting or typing during learning",
+"type":"claim"
+},
+{
+"description":"Grade 2 writing fluency is moderately and independently related to Grade 2 writing quality among beginning writers",
+"evidence_strength":"moderate",
+"id":"writing-fluency-related-writing-quality-beginning-writers",
+"newest_evidence":"2024",
+"path":"claims/writing-fluency-related-writing-quality-beginning-writers.md",
+"status":"review",
+"title":"Grade 2 writing fluency is moderately and independently related to Grade 2 writing quality among beginning writers",
 "type":"claim"
 },
 {
@@ -287472,6 +288448,14 @@
 "path":"designs/authentic-long-texts-ecological-vocabulary-research.md",
 "status":"review",
 "title":"Study incidental vocabulary learning in ecologically valid conditions by using long, authentic texts",
+"type":"design"
+},
+{
+"description":"A standardized physics teaching unit on heat transfer delivered either with autonomy support or in the regular teaching style.",
+"id":"autonomy-support-heat-transfer-unit",
+"path":"designs/autonomy-support-heat-transfer-unit.md",
+"status":"review",
+"title":"Autonomy-supportive teaching unit on heat transfer with choices, rationales, and informational language",
 "type":"design"
 },
 {
@@ -291152,6 +292136,14 @@
 "path":"designs/knowledge-building-portfolios-collective-assessment.md",
 "status":"review",
 "title":"Knowledge-building portfolios as assessment that characterizes and scaffolds collective knowledge advances",
+"type":"design"
+},
+{
+"description":"This element is the study design of Kohnky's 1913 preliminary study: two fifth-grade classes in one down-town school, matched on grading, neighborhood, and foreign-birth composition, with the experimental class chosen...",
+"id":"kohnky-1913-dental-treatment-comparison-design",
+"path":"designs/kohnky-1913-dental-treatment-comparison-design.md",
+"status":"review",
+"title":"Kohnky 1913 two-class dental-treatment comparison design with a Whipple test battery and coin-toss assignment",
 "type":"design"
 },
 {
@@ -310346,6 +311338,14 @@
 "type":"product"
 },
 {
+"description":"A standardized school assessment developed by Pressey and normed for interpreting pupils' scores across grades and ages.",
+"id":"cross-out-scale",
+"path":"products/cross-out-scale.md",
+"status":"review",
+"title":"Cross-out scale",
+"type":"product"
+},
+{
 "description":"CS50-Duck is a subject-matter conversational agent developed for and deployed in Harvard's CS50 programming course through the CS50 platform and Visual Studio Code.",
 "id":"cs50-duck",
 "path":"products/cs50-duck.md",
@@ -312929,6 +313929,14 @@
 "path":"products/grad-partnership-student-success-systems.md",
 "status":"review",
 "title":"GRAD Partnership Student Success Systems",
+"type":"product"
+},
+{
+"description":"A historical verbal-association and word-knowledge assessment developed by Harry A.",
+"id":"graded-80-word-opposites-test-list-with-difficulty-point-values-from-5-to-20-totaling-100",
+"path":"products/graded-80-word-opposites-test-list-with-difficulty-point-values-from-5-to-20-totaling-100.md",
+"status":"review",
+"title":"Graded 80-word opposites-test list with difficulty point values from .5 to 2.0 totaling 100 points",
 "type":"product"
 },
 {
@@ -321363,6 +322371,14 @@
 "type":"product"
 },
 {
+"description":"A four-test group intelligence assessment developed by Pressey for measuring general ability in grades 4–8 and preliminarily identifying pupils for further individual study.",
+"id":"the-pressey-cross-out-brief-group-intelligence-scale-for-grades-4-8",
+"path":"products/the-pressey-cross-out-brief-group-intelligence-scale-for-grades-4-8.md",
+"status":"review",
+"title":"The Pressey 'Cross-out' brief group intelligence scale for grades 4-8",
+"type":"product"
+},
+{
 "description":"The Reading Edge is a whole-school cooperative-learning reading programme adapted from Student Team Reading and delivered by classroom teachers during regular language-arts instruction.",
 "id":"the-reading-edge",
 "path":"products/the-reading-edge.md",
@@ -322554,6 +323570,14 @@
 "path":"products/woodworth-wells-substitution-test.md",
 "status":"review",
 "title":"Woodworth-Wells substitution test",
+"type":"product"
+},
+{
+"description":"A historical composite assessment scale that combines percentile-ranked mental and physical test results into age- and sex-normed scores for educational and vocational guidance.",
+"id":"woolley-composite-adolescent-measurement-scale",
+"path":"products/woolley-composite-adolescent-measurement-scale.md",
+"status":"review",
+"title":"Woolley composite adolescent measurement scale",
 "type":"product"
 },
 {
@@ -326070,6 +327094,14 @@
 "type":"research-method"
 },
 {
+"description":"A scoring account in which each stimulus word's difficulty is estimated from the percentage of subjects failing it, then converted to a percentile value by reading from a table based on the area of the probability curve, assuming the tested ability fits that curve.",
+"id":"probability-curve-percentile-weighting-of-item-difficulty-for-scoring-opposites-tests",
+"path":"research-methods/probability-curve-percentile-weighting-of-item-difficulty-for-scoring-opposites-tests.md",
+"status":"review",
+"title":"Probability-curve percentile weighting of item difficulty for scoring opposites tests",
+"type":"research-method"
+},
+{
 "description":"PSW methods operationalize a cognitive discrepancy approach to LD identification based on identifying an intraindividual pattern of processing strengths and weaknesses.",
 "id":"processing-strengths-and-weaknesses-psw-approaches-to-learning-disability-identification",
 "path":"research-methods/processing-strengths-and-weaknesses-psw-approaches-to-learning-disability-identification.md",
@@ -326228,6 +327260,14 @@
 "path":"research-methods/referent-aligned-multilevel-analysis-of-relationship-measures.md",
 "status":"review",
 "title":"Referent-aligned multilevel analysis of relationship measures",
+"type":"research-method"
+},
+{
+"description":"A statistical technique described by Stanovich and Siegel (1994) that tests whether a skill is developmentally delayed or deficient by predicting the skill from achievement level and then adding a group contrast.",
+"id":"regression-based-matching-technique-for-developmental-delay-versus-deficit-hypotheses",
+"path":"research-methods/regression-based-matching-technique-for-developmental-delay-versus-deficit-hypotheses.md",
+"status":"review",
+"title":"Regression-based matching technique for developmental delay-versus-deficit hypotheses",
 "type":"research-method"
 },
 {
@@ -330282,6 +331322,14 @@
 "path":"strategies/analyze-and-inventory-before-edtech-purchase.md",
 "status":"review",
 "title":"Analyze & Inventory: use cross-departmental data analysis and an inventory of existing interventions before buying new edtech",
+"type":"strategy"
+},
+{
+"description":"Beyond estimating average treatment effects, the article recommends examining conditional effects — interactions of an intervention with each of several student characteristics — to determine for whom an intervention...",
+"id":"analyze-differential-effects-of-motivational-interventions",
+"path":"strategies/analyze-differential-effects-of-motivational-interventions.md",
+"status":"review",
+"title":"Analyze differential effects of motivational interventions by testing interactions with multiple student characteristics",
 "type":"strategy"
 },
 {
@@ -341403,6 +342451,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends improving on past hit-and-miss customs by the \\\"proper division of practice amongst bonds, the arrangement of learning so that each bond helps the others, the adroit shifting of practice of a bon...",
+"id":"divide-practice-so-bonds-help-each-other",
+"path":"strategies/divide-practice-so-bonds-help-each-other.md",
+"status":"review",
+"title":"Divide practice among bonds so each bond helps the others and shift practice to new types of situations",
+"type":"strategy"
+},
+{
 "description":"The article prescribes a concrete adaptation recipe for implementing DL2F in Philippine secondary schools: align with the K-12 curriculum and DepEd goals, select authentic resources reflecting Philippine culture, hist...",
 "id":"dl2f-philippine-contextual-adaptation-strategy",
 "path":"strategies/dl2f-philippine-contextual-adaptation-strategy.md",
@@ -345308,6 +346364,14 @@
 "path":"strategies/explicit-teaching-srl-methods-online-blended.md",
 "status":"review",
 "title":"Provide explicit teaching of SRL methods as structured guidance for regulating learning in online and blended settings",
+"type":"strategy"
+},
+{
+"description":"Drawing on the study's findings together with prior causal evidence, the article recommends that writing instruction for young children systematically address the skills supporting the writing process.",
+"id":"explicit-transcription-and-language-instruction-writing-quality",
+"path":"strategies/explicit-transcription-and-language-instruction-writing-quality.md",
+"status":"review",
+"title":"Systematically and explicitly teach transcription skills, vocabulary and oral language to support beginning writers' writing quality",
 "type":"strategy"
 },
 {
@@ -358261,6 +359325,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends that when supporting math skill development, teachers should also monitor learners' self-efficacy and math learning experiences, since children whose self-efficacy and positive experiences decli...",
+"id":"monitor-math-se-and-experiences-with-skills",
+"path":"strategies/monitor-math-se-and-experiences-with-skills.md",
+"status":"review",
+"title":"Monitor children's math learning experiences and self-efficacy beliefs alongside math skill development from the early school years",
+"type":"strategy"
+},
+{
 "description":"The report recommends that schools routinely collect and monitor preschool attendance data and act on it early.",
 "id":"monitor-preschool-attendance-watch-lists-transition-sharing",
 "path":"strategies/monitor-preschool-attendance-watch-lists-transition-sharing.md",
@@ -358669,6 +359741,14 @@
 "path":"strategies/multi-component-math-difficulty-interventions.md",
 "status":"review",
 "title":"Multi-component math interventions targeting achievement, numerosity, and anxiety together",
+"type":"strategy"
+},
+{
+"description":"The article recommends remediating SCD with interventions that combine components rather than targeting vocabulary alone.",
+"id":"multi-component-scd-intervention-oral-language-plus",
+"path":"strategies/multi-component-scd-intervention-oral-language-plus.md",
+"status":"review",
+"title":"Use multi-component interventions combining oral language instruction with word recognition and other foundational literacy skills",
 "type":"strategy"
 },
 {
@@ -394203,6 +395283,7 @@
 "adult-supervision-safety-gradient":"adult-supervision-safety-gradient",
 "adult-thinking-task-novelty-not-constitutional":"adult-thinking-task-novelty-not-constitutional",
 "adult-working-memory-limit-3-4-chunks":"adult-working-memory-limit-3-4-chunks",
+"adultness-style-other-sexness-repel-children":"adultness-style-other-sexness-repel-children",
 "adults-faster-early-stage-language-learning":"adults-faster-early-stage-language-learning",
 "adults-find-pronunciation-harder-than-children":"adults-find-pronunciation-harder-than-children",
 "adults-greater-fmri-activation-reversed-letters-than-children":"adults-greater-fmri-activation-reversed-letters-than-children",
@@ -394348,9 +395429,11 @@
 "age-negatively-correlated-passive-sentence-production":"age-negatively-correlated-passive-sentence-production",
 "age-negatively-moderates-pretend-play-social-competence":"age-negatively-moderates-pretend-play-social-competence",
 "age-nonspecific-responses-memory-only":"age-nonspecific-responses-memory-only",
+"age-norms-impossible-uneven-school-coverage":"age-norms-impossible-uneven-school-coverage",
 "age-positive-gender-null-perceived-usefulness-self-assessment":"age-positive-gender-null-perceived-usefulness-self-assessment",
 "age-predicts-toddler-delay-task-success":"age-predicts-toddler-delay-task-success",
 "age-progression-steady-to-14":"age-progression-steady-to-14",
+"age-range-within-grade-percentiles":"age-range-within-grade-percentiles",
 "age-slowness-no-accuracy-difference":"age-slowness-no-accuracy-difference",
 "age-weighted-progress-method-scope-limit":"age-weighted-progress-method-scope-limit",
 "age-youngest-child-inversely-associated-parental-self-efficacy":"age-youngest-child-inversely-associated-parental-self-efficacy",
@@ -395439,6 +396522,7 @@
 "argumentative-writing-gains-scaffolded-llm-assignments":"argumentative-writing-gains-scaffolded-llm-assignments",
 "argus-45-percent-flagged-spring-2026":"argus-45-percent-flagged-spring-2026",
 "arithmetic-and-english-separate-capacities":"arithmetic-and-english-separate-capacities",
+"arithmetic-correlation-peaks-somewhat-verbal":"arithmetic-correlation-peaks-somewhat-verbal",
 "arithmetic-errors-rated-harsher-than-conceptual-errors":"arithmetic-errors-rated-harsher-than-conceptual-errors",
 "arithmetic-fluency-gradient-complex-multiplication-null-for-math":"arithmetic-fluency-gradient-complex-multiplication-null-for-math",
 "arithmetic-fluency-growth-grades-1-3":"arithmetic-fluency-growth-grades-1-3",
@@ -395462,6 +396546,7 @@
 "army-alpha-school-standing-correlation-31":"army-alpha-school-standing-correlation-31",
 "army-mental-tests-selection-value":"army-mental-tests-selection-value",
 "army-tests-officer-ranking-correlation":"army-tests-officer-ranking-correlation",
+"army-trade-test-adaptations-for-vocational-comparison":"army-trade-test-adaptations-for-vocational-comparison",
 "aroc-uncorrelated-with-difficulty-and-dprime":"aroc-uncorrelated-with-difficulty-and-dprime",
 "aronson-2002-significant-gpa-effect":"aronson-2002-significant-gpa-effect",
 "arousal-and-task-perceptions-predict-learning-outcomes":"arousal-and-task-perceptions-predict-learning-outcomes",
@@ -395538,6 +396623,7 @@
 "assessing-minicycle-requires-extended-time-scale":"assessing-minicycle-requires-extended-time-scale",
 "assessment-always-mediational":"assessment-always-mediational",
 "assessment-barriers-young-multilingual-learners":"assessment-barriers-young-multilingual-learners",
+"assessment-condition-affects-anagram-choice":"assessment-condition-affects-anagram-choice",
 "assessment-design-shapes-genai-engagement":"assessment-design-shapes-genai-engagement",
 "assessment-for-learning-improves-achievement":"assessment-for-learning-improves-achievement",
 "assessment-instruments-embed-telos":"assessment-instruments-embed-telos",
@@ -395800,6 +396886,8 @@
 "autonomy-structure-relationship-moderators":"autonomy-structure-relationship-moderators",
 "autonomy-structure-student-outcomes":"autonomy-structure-student-outcomes",
 "autonomy-support-associated-emotional-engagement":"autonomy-support-associated-emotional-engagement",
+"autonomy-support-fosters-need-satisfaction-emotions-behaviors":"autonomy-support-fosters-need-satisfaction-emotions-behaviors",
+"autonomy-support-intervention-positive-average-effects-physics":"autonomy-support-intervention-positive-average-effects-physics",
 "autonomy-support-predicts-achievement-elementary-high-school":"autonomy-support-predicts-achievement-elementary-high-school",
 "autonomy-support-predicts-executive-functions-54-months":"autonomy-support-predicts-executive-functions-54-months",
 "autonomy-support-predicts-intrinsic-motivation-effort-persistence":"autonomy-support-predicts-intrinsic-motivation-effort-persistence",
@@ -395922,6 +397010,7 @@
 "baseline-assignments-rudimentary-but-students-completed-demanding-tasks":"baseline-assignments-rudimentary-but-students-completed-demanding-tasks",
 "baseline-capability-nonmonotonic-ai-benefit":"baseline-capability-nonmonotonic-ai-benefit",
 "baseline-discrimination-link-types-pilot":"baseline-discrimination-link-types-pilot",
+"baseline-equivalence-two-fifth-grade-classes-before-treatment":"baseline-equivalence-two-fifth-grade-classes-before-treatment",
 "baseline-final-change-near-zero":"baseline-final-change-near-zero",
 "baseline-generators-saturate-proposed-method-keeps-improving":"baseline-generators-saturate-proposed-method-keeps-improving",
 "baseline-intercorrelations-independent-processes":"baseline-intercorrelations-independent-processes",
@@ -396204,6 +397293,7 @@
 "binary-criterion-higher-eol-accuracy-than-ttl-criterion":"binary-criterion-higher-eol-accuracy-than-ttl-criterion",
 "binding-tasks-load-focus-of-attention-no-episodic-buffer":"binding-tasks-load-focus-of-attention-no-episodic-buffer",
 "binet-agreement-correlations":"binet-agreement-correlations",
+"binet-alone-insufficient-rough-diagnosis":"binet-alone-insufficient-rough-diagnosis",
 "binet-credits-depend-on-extent-of-testing":"binet-credits-depend-on-extent-of-testing",
 "binet-healy-different-classifications-65-cases":"binet-healy-different-classifications-65-cases",
 "binet-iq-healy-score-correlation-point15":"binet-iq-healy-score-correlation-point15",
@@ -396216,6 +397306,7 @@
 "binet-scale-cross-national-agreement-age-ranking":"binet-scale-cross-national-agreement-age-ranking",
 "binet-scale-fails-severe-defect-and-dementia":"binet-scale-fails-severe-defect-and-dementia",
 "binet-scale-usable-by-teachers-and-principals":"binet-scale-usable-by-teachers-and-principals",
+"binet-scales-adapted-for-blind-norms":"binet-scales-adapted-for-blind-norms",
 "binet-simon-accurate-ages-7-11":"binet-simon-accurate-ages-7-11",
 "binet-simon-examiner-bias-negligible":"binet-simon-examiner-bias-negligible",
 "binet-simon-exceptional-cases-4-percent":"binet-simon-exceptional-cases-4-percent",
@@ -396681,6 +397772,7 @@
 "canadian-students-judge-genai-use-more-unethical-than-korean":"canadian-students-judge-genai-use-more-unethical-than-korean",
 "cancellation-4-7-no-transfer":"cancellation-4-7-no-transfer",
 "cancellation-test-no-relation-other-tests":"cancellation-test-no-relation-other-tests",
+"cancellation-test-untreated-class-lead":"cancellation-test-untreated-class-lead",
 "candidate-resilience-factors-reading-math":"candidate-resilience-factors-reading-math",
 "candidate-selection-loss-oracle-ranker":"candidate-selection-loss-oracle-ranker",
 "canfield-learning-style-predicts-academic-success":"canfield-learning-style-predicts-academic-success",
@@ -398190,8 +399282,10 @@
 "competency-progression-limited-grade-level-emphasis":"competency-progression-limited-grade-level-emphasis",
 "competing-rationales-burden-students":"competing-rationales-burden-students",
 "competing-time-priorities-dominant-barrier-language-curriculum":"competing-time-priorities-dominant-barrier-language-curriculum",
+"competition-criticism-limited-pupils-jealousy":"competition-criticism-limited-pupils-jealousy",
 "competition-enjoyment-task-focused-evaluation":"competition-enjoyment-task-focused-evaluation",
 "competition-main-effect-originality-not-fluency":"competition-main-effect-originality-not-fluency",
+"competition-powerful-incentive-advanced-pupils":"competition-powerful-incentive-advanced-pupils",
 "competitive-answer-options-enhance-retention":"competitive-answer-options-enhance-retention",
 "competitive-environments-clear-goals-engagement-interpretation":"competitive-environments-clear-goals-engagement-interpretation",
 "competitive-grading-pits-students-against-each-other":"competitive-grading-pits-students-against-each-other",
@@ -398585,6 +399679,7 @@
 "contingent-tutor-metacognitive-demand-matches-withholding-tutor":"contingent-tutor-metacognitive-demand-matches-withholding-tutor",
 "continued-ai-conversations-linked-to-perceived-utility":"continued-ai-conversations-linked-to-perceived-utility",
 "continued-interaction-improves-cgpt-instruction-adherence":"continued-interaction-improves-cgpt-instruction-adherence",
+"continuous-adjustment-attainments-teaching-efficiency":"continuous-adjustment-attainments-teaching-efficiency",
 "continuous-enrollment-semesters-completion-gradient":"continuous-enrollment-semesters-completion-gradient",
 "contract-guarantees-b-for-completion-not-quality":"contract-guarantees-b-for-completion-not-quality",
 "contract-yields-more-student-work":"contract-yields-more-student-work",
@@ -398789,6 +399884,7 @@
 "country-practice-levels-consistent-across-waves":"country-practice-levels-consistent-across-waves",
 "country-ses-moderates-skill-reading-paths-not-ses-reading":"country-ses-moderates-skill-reading-paths-not-ses-reading",
 "country-specific-genai-concern-profiles-qatar-india":"country-specific-genai-concern-profiles-qatar-india",
+"counts-textbooks-uneven-practice-facts":"counts-textbooks-uneven-practice-facts",
 "county-home-cma-inflates-feeble-minded-percent":"county-home-cma-inflates-feeble-minded-percent",
 "county-variation-tk-hiring-demand":"county-variation-tk-hiring-demand",
 "coupling-robust-across-sexes-age":"coupling-robust-across-sexes-age",
@@ -398988,6 +400084,7 @@
 "cps-freshman-ontrack-rose-24-points":"cps-freshman-ontrack-rose-24-points",
 "cps-freshman-ontrack-rose-28-points-then-flattened":"cps-freshman-ontrack-rose-28-points-then-flattened",
 "cps-grade-20-special-education-reclassification-1992-1999":"cps-grade-20-special-education-reclassification-1992-1999",
+"cps-grade-development-grade-9-deviation":"cps-grade-development-grade-9-deviation",
 "cps-gradebook-category-weights-assessments-dominate":"cps-gradebook-category-weights-assessments-dominate",
 "cps-gradebook-cusp-grades-higher-grade-peaks":"cps-gradebook-cusp-grades-higher-grade-peaks",
 "cps-gradebook-task-counts-by-family":"cps-gradebook-task-counts-by-family",
@@ -399028,6 +400125,7 @@
 "cps-lacks-capacity-to-use-data-for-improvement":"cps-lacks-capacity-to-use-data-for-improvement",
 "cps-learning-gains-rose-through-1996-may-have-peaked-by-1999":"cps-learning-gains-rose-through-1996-may-have-peaked-by-1999",
 "cps-math-incremental-reading-flat":"cps-math-incremental-reading-flat",
+"cps-measurement-invariance-grades":"cps-measurement-invariance-grades",
 "cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness":"cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness",
 "cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness":"cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness",
 "cps-mentor-teachers-more-qualified-qualifications-unrelated-to-outcomes":"cps-mentor-teachers-more-qualified-qualifications-unrelated-to-outcomes",
@@ -399046,6 +400144,7 @@
 "cps-pathway-differences-coursework-length-and-career-plans":"cps-pathway-differences-coursework-length-and-career-plans",
 "cps-pd-spending-not-integrated":"cps-pd-spending-not-integrated",
 "cps-placement-school-characteristics-unrelated-first-year-effectiveness":"cps-placement-school-characteristics-unrelated-first-year-effectiveness",
+"cps-predicts-gpa-beyond-g":"cps-predicts-gpa-beyond-g",
 "cps-principals-technology-use-rose-dramatically-2001-2005":"cps-principals-technology-use-rose-dramatically-2001-2005",
 "cps-process-sequences-varied-nonlinear":"cps-process-sequences-varied-nonlinear",
 "cps-productivity-improvements-stalled-after-1997":"cps-productivity-improvements-stalled-after-1997",
@@ -399073,8 +400172,10 @@
 "cps-suspension-reduction-school-climate":"cps-suspension-reduction-school-climate",
 "cps-systemwide-first-year-on-track-percentages":"cps-systemwide-first-year-on-track-percentages",
 "cps-teachers-moderately-positive-reform-1991":"cps-teachers-moderately-positive-reform-1991",
+"cps-two-dimensional-knowledge-acquisition-application":"cps-two-dimensional-knowledge-acquisition-application",
 "cps-two-year-persistence-declined-66-to-60":"cps-two-year-persistence-declined-66-to-60",
 "cps-undermatch-trend-rose-then-rebounded":"cps-undermatch-trend-rose-then-rebounded",
+"cps-variance-separable-from-g":"cps-variance-separable-from-g",
 "cpse-cs-major-groups-higher-collaborative":"cpse-cs-major-groups-higher-collaborative",
 "cpse-similar-individual-and-collaborative-programming":"cpse-similar-individual-and-collaborative-programming",
 "cr-mean-accuracy-moderated-by-prospective-confidence":"cr-mean-accuracy-moderated-by-prospective-confidence",
@@ -399178,6 +400279,9 @@
 "cross-llm-convergence-task-dependent":"cross-llm-convergence-task-dependent",
 "cross-model-agreement-filter-improves-top-annotators":"cross-model-agreement-filter-improves-top-annotators",
 "cross-model-rpla-degradation-consistent":"cross-model-rpla-degradation-consistent",
+"cross-out-scale-low-zero-scores-directions":"cross-out-scale-low-zero-scores-directions",
+"cross-out-scale-partial-correlation-test-contributions":"cross-out-scale-partial-correlation-test-contributions",
+"cross-out-scale-survey-group-differences":"cross-out-scale-survey-group-differences",
 "cross-paradigm-communication-the-main-cscl-challenge":"cross-paradigm-communication-the-main-cscl-challenge",
 "cross-program-major-fit-prediction":"cross-program-major-fit-prediction",
 "cross-role-threads-adversarial-integrity-contact":"cross-role-threads-adversarial-integrity-contact",
@@ -399665,6 +400769,7 @@
 "decreased-absenteeism-schools-fidelity-phone-mentorship-texting":"decreased-absenteeism-schools-fidelity-phone-mentorship-texting",
 "decreased-perceived-pronunciation-difficulty":"decreased-perceived-pronunciation-difficulty",
 "decreasing-emotions-linked-better-learning-gains":"decreasing-emotions-linked-better-learning-gains",
+"decreasing-se-negative-mastery-and-arousal":"decreasing-se-negative-mastery-and-arousal",
 "dedicated-advisors-perceived-more-accurate":"dedicated-advisors-perceived-more-accurate",
 "deductive-reasoning-stages-explicit-metalogic":"deductive-reasoning-stages-explicit-metalogic",
 "deep-approach-higher-performance-medical-dental":"deep-approach-higher-performance-medical-dental",
@@ -399808,6 +400913,7 @@
 "demographics-small-correlates-school-feelings":"demographics-small-correlates-school-feelings",
 "demographics-trivial-effects-conceptions":"demographics-trivial-effects-conceptions",
 "demographics-unrelated-to-acceptability-ratings":"demographics-unrelated-to-acceptability-ratings",
+"dental-treatment-class-led-nine-of-ten-tests-after-treatment":"dental-treatment-class-led-nine-of-ten-tests-after-treatment",
 "denver-cross-functional-review-shrunk-edtech-portfolio":"denver-cross-functional-review-shrunk-edtech-portfolio",
 "denver-restorative-justice-suspension-gap-narrowed":"denver-restorative-justice-suspension-gap-narrowed",
 "department-differences-mindset-goal-orientation":"department-differences-mindset-goal-orientation",
@@ -401243,6 +402349,7 @@
 "elementary-less-selective-alt-routes-similar-traditional":"elementary-less-selective-alt-routes-similar-traditional",
 "elementary-lower-infection-rates-than-secondary-model":"elementary-lower-infection-rates-than-secondary-model",
 "elementary-mobility-within-district":"elementary-mobility-within-district",
+"elementary-nonlinear-heterogeneous-verbal-reversed":"elementary-nonlinear-heterogeneous-verbal-reversed",
 "elementary-on-track-categories-predict-graduation":"elementary-on-track-categories-predict-graduation",
 "elementary-quartile-time-allocation-differences":"elementary-quartile-time-allocation-differences",
 "elementary-reading-no-relationship-research-model":"elementary-reading-no-relationship-research-model",
@@ -402973,6 +404080,7 @@
 "flp-shared-reading-only-largest-comprehension-effect":"flp-shared-reading-only-largest-comprehension-effect",
 "flp-single-setting-training-larger-comprehension-effects":"flp-single-setting-training-larger-comprehension-effects",
 "fluency-building-activities-strong-evidence-grades-4-9":"strong-evidence-fluency-building-activities-grades-4-9",
+"fluency-completely-mediattranscription-writing-quality":"fluency-completely-mediattranscription-writing-quality",
 "fluency-development-patterns-similar-across-languages":"fluency-development-patterns-similar-across-languages",
 "fluency-formula-evidence-base-single-small-rct":"fluency-formula-evidence-base-single-small-rct",
 "fluency-formula-fluency-effects-differ-by-initial-ability":"fluency-formula-fluency-effects-differ-by-initial-ability",
@@ -402980,6 +404088,7 @@
 "fluency-formula-positive-nonsignificant-fluency-effect":"fluency-formula-positive-nonsignificant-fluency-effect",
 "fluency-judgments-mislead-learners":"fluent-illusions-mislead-self-assessment",
 "fluency-marginally-explains-comprehension":"fluency-marginally-explains-comprehension",
+"fluency-measures-single-latent-construct":"fluency-measures-single-latent-construct",
 "fluency-misleads-judgments-of-learning":"fluency-misleads-judgments-of-learning",
 "fluency-no-additional-value-beyond-linguistic-knowledge-writing":"fluency-no-additional-value-beyond-linguistic-knowledge-writing",
 "fluency-not-emotions-predict-math-performance":"fluency-not-emotions-predict-math-performance",
@@ -403197,6 +404306,7 @@
 "four-limits-perfect-ai-execution":"four-limits-perfect-ai-execution",
 "four-llm-learner-profiles-lca":"four-llm-learner-profiles-lca",
 "four-math-curricula-different-opportunities-to-learn":"four-math-curricula-different-opportunities-to-learn",
+"four-math-se-change-trajectories-primary-school":"four-math-se-change-trajectories-primary-school",
 "four-mbmlc-patterns-alt-arithmetic":"four-mbmlc-patterns-alt-arithmetic",
 "four-mindsets-six-skillsets-alignment":"four-mindsets-six-skillsets-alignment",
 "four-motivational-profiles-adult-learners":"four-motivational-profiles-adult-learners",
@@ -404075,12 +405185,14 @@
 "girls-lower-initial-interest-higher-gain":"girls-lower-initial-interest-higher-gain",
 "girls-more-accurate-equal-speed-equation-solving":"girls-more-accurate-equal-speed-equation-solving",
 "girls-outperform-boys-on-grade-2-writing-measures":"girls-outperform-boys-on-grade-2-writing-measures",
+"girls-overrepresented-low-stable-math-se-trajectory":"girls-overrepresented-low-stable-math-se-trajectory",
 "girls-pemc-major-chances-triple-with-ability-under-challenge":"girls-pemc-major-chances-triple-with-ability-under-challenge",
 "girls-perceive-higher-utility-value-of-social-competences":"girls-perceive-higher-utility-value-of-social-competences",
 "girls-prefer-visual-and-agency-support":"girls-prefer-visual-and-agency-support",
 "girls-report-higher-social-competences-than-boys":"girls-report-higher-social-competences-than-boys",
 "girls-sport-one-hour-better-math-reading":"girls-sport-one-hour-better-math-reading",
 "girls-stronger-asc-decrease-school-type-null":"girls-stronger-asc-decrease-school-type-null",
+"girls-wider-variation-below-median":"girls-wider-variation-below-median",
 "girls-younger-students-higher-engagement":"girls-younger-students-higher-engagement",
 "giving-problem-identification-feedback-predicts-assessor-performance":"giving-problem-identification-feedback-predicts-assessor-performance",
 "giving-suggestions-predicts-assessor-performance":"giving-suggestions-predicts-assessor-performance",
@@ -404598,6 +405710,7 @@
 "hackathon-teamwork-challenges-sixteen-general-seven-types":"hackathon-teamwork-challenges-sixteen-general-seven-types",
 "haggerty-delta-1-correlation-68-teachers-estimates":"haggerty-delta-1-correlation-68-teachers-estimates",
 "haggerty-survey-16000-children-tested":"haggerty-survey-16000-children-tested",
+"haines-point-versus-year-scale-disparity":"haines-point-versus-year-scale-disparity",
 "hake-ie-gains-two-sd-greater":"hake-ie-gains-two-sd-greater",
 "hal-human-likeness-did-not-transfer-embodied":"hal-human-likeness-did-not-transfer-embodied",
 "half-2023-ca-credentials-substandard":"half-2023-ca-credentials-substandard",
@@ -404785,6 +405898,8 @@
 "high-and-low-achievers-benefit-authentic-assignments":"high-and-low-achievers-benefit-authentic-assignments",
 "high-and-low-achievers-benefit-from-quality-assignments":"high-and-low-achievers-benefit-from-quality-assignments",
 "high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load":"high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load",
+"high-and-no-grade-raise-continuing-motivation":"high-and-no-grade-raise-continuing-motivation",
+"high-and-no-grade-raise-task-interest-vs-standard":"high-and-no-grade-raise-task-interest-vs-standard",
 "high-authenticity-simulations-higher-effects":"high-authenticity-simulations-higher-effects",
 "high-but-heterogeneous-voluntary-ai-discussion-uptake":"high-but-heterogeneous-voluntary-ai-discussion-uptake",
 "high-cf-higher-rule-acquisition-rate-probabilistic":"high-cf-higher-rule-acquisition-rate-probabilistic",
@@ -405599,6 +406714,7 @@
 "increased-efficiency-threatens-response-time-model-validity":"increased-efficiency-threatens-response-time-model-validity",
 "increased-funding-improves-outcomes-low-income":"increased-funding-improves-outcomes-low-income",
 "increasing-collegial-interaction-across-concern-stages":"increasing-collegial-interaction-across-concern-stages",
+"increasing-se-social-sources-support":"increasing-se-social-sources-support",
 "increasing-wait-time-improves-response-quality":"increasing-wait-time-improves-response-quality",
 "incremental-frameworks-predict-math-reading-comprehension-not-decoding":"incremental-frameworks-predict-math-reading-comprehension-not-decoding",
 "ind1-ind2-no-significant-difference":"ind1-ind2-no-significant-difference",
@@ -405853,6 +406969,7 @@
 "institutional-ai-governance-uneven":"institutional-ai-governance-uneven",
 "institutional-ai-policy-maturity-lags-adoption":"institutional-ai-policy-maturity-lags-adoption",
 "institutional-and-information-variables-weakly-related-to-ai-use":"institutional-and-information-variables-weakly-related-to-ai-use",
+"institutional-applied-psychologist-role-proposal":"institutional-applied-psychologist-role-proposal",
 "institutional-conditions-explain-genai-readiness-country-gap":"institutional-conditions-explain-genai-readiness-country-gap",
 "institutional-contradiction-genai-integration-versus-misconduct":"institutional-contradiction-genai-integration-versus-misconduct",
 "institutional-privacy-practical-barriers-chatbot-adoption":"institutional-privacy-practical-barriers-chatbot-adoption",
@@ -406191,6 +407308,8 @@
 "interpreting-shaping-strongest-co-occurrence-ai-simulations":"interpreting-shaping-strongest-co-occurrence-ai-simulations",
 "interpreting-student-work-epistemic-endeavor":"interpreting-student-work-epistemic-endeavor",
 "interprofessional-mixed-groups-mutual-respect-consent-training":"interprofessional-mixed-groups-mutual-respect-consent-training",
+"interrupted-math-15yo-zero-low-strong-high":"interrupted-math-15yo-zero-low-strong-high",
+"interrupted-math-grade8-steeper-high":"interrupted-math-grade8-steeper-high",
 "interrupting-juxtaposition-impairs-inductive-learning":"interrupting-juxtaposition-impairs-inductive-learning",
 "intersecting-backgrounds-increase-literacy-risk":"intersecting-backgrounds-increase-literacy-risk",
 "intersectional-belonging-women-of-color-lowest-white-men-highest":"intersectional-belonging-women-of-color-lowest-white-men-highest",
@@ -406835,6 +407954,7 @@
 "kt4eqg-competitive-under-alternative-tracers":"kt4eqg-competitive-under-alternative-tracers",
 "kt4eqg-highest-exam-score-all-modules":"kt4eqg-highest-exam-score-all-modules",
 "kubsch-multimodal-prediction-prior-knowledge-timing":"kubsch-multimodal-prediction-prior-knowledge-timing",
+"kuhlmann-danger-hostile-criticism-binet":"kuhlmann-danger-hostile-criticism-binet",
 "kuhlmann-rate-of-mental-progress-over-age-difference":"kuhlmann-rate-of-mental-progress-over-age-difference",
 "kvec-microcredentials-teacher-rank-and-salary-increase":"kvec-microcredentials-teacher-rank-and-salary-increase",
 "l-and-l-star-theoretical-value-ranges":"l-and-l-star-theoretical-value-ranges",
@@ -407415,6 +408535,7 @@
 "linear-algebra-performance-above-overall-first-year-trend":"linear-algebra-performance-above-overall-first-year-trend",
 "linear-dose-response-early-math-interventions":"linear-dose-response-early-math-interventions",
 "linear-homogeneous-reading-fluency-development-pre-trend":"linear-homogeneous-reading-fluency-development-pre-trend",
+"linear-model-inadequate-substantial-proportion":"linear-model-inadequate-substantial-proportion",
 "linear-provision-less-linear-processing-procedure":"linear-provision-less-linear-processing-procedure",
 "linear-regression-selected-linking-model":"linear-regression-selected-linking-model",
 "linear-relation-cpk-timing-measures":"linear-relation-cpk-timing-measures",
@@ -407938,6 +409059,7 @@
 "low-income-summer-test-score-drop":"low-income-summer-test-score-drop",
 "low-inconsistent-inter-test-correlations":"low-inconsistent-inter-test-correlations",
 "low-initial-proficiency-faster-growth-grades-1-5":"low-initial-proficiency-faster-growth-grades-1-5",
+"low-intelligence-insufficient-explanation-delinquency":"low-intelligence-insufficient-explanation-delinquency",
 "low-intelligence-school-correlation-unexplained":"low-intelligence-school-correlation-unexplained",
 "low-inter-rater-agreement-preservice-grading":"low-inter-rater-agreement-preservice-grading",
 "low-inter-rater-agreement-qm-criteria":"low-inter-rater-agreement-qm-criteria",
@@ -408515,6 +409637,7 @@
 "math-self-efficacy-predicts-monitoring-judgments":"math-self-efficacy-predicts-monitoring-judgments",
 "math-sex-difference-concentrated-at-high-end":"math-sex-difference-concentrated-at-high-end",
 "math-sex-difference-larger-in-higher-achieving-nations":"math-sex-difference-larger-in-higher-achieving-nations",
+"math-skills-differ-across-se-trajectories":"math-skills-differ-across-se-trajectories",
 "math-software-effects-uncorrelated-classroom-school-characteristics":"math-software-effects-uncorrelated-classroom-school-characteristics",
 "math-talks-support-explanations-agency":"math-talks-support-explanations-agency",
 "math-task-type-moderates-ma-link":"math-task-type-moderates-ma-link",
@@ -408647,6 +409770,8 @@
 "media-influence-perception-trust-formats":"media-influence-perception-trust-formats",
 "media-rich-videos-more-engaging-than-text-only":"media-rich-videos-more-engaging-than-text-only",
 "median-age-half-year-assumption-incorrect":"median-age-half-year-assumption-incorrect",
+"median-age-per-grade-better-than-percent-retardation":"median-age-per-grade-better-than-percent-retardation",
+"median-age-per-grade-two-city-comparison":"median-age-per-grade-two-city-comparison",
 "median-aggregation-improves-peer-grade-agreement":"median-aggregation-improves-peer-grade-agreement",
 "mediated-dimensional-comparison-course-choices":"mediated-dimensional-comparison-course-choices",
 "mediated-structured-play-efficacy":"mediated-structured-play-efficacy",
@@ -408713,6 +409838,7 @@
 "memphis-model-adjusts-mobility-demographics-measurement-error":"memphis-model-adjusts-mobility-demographics-measurement-error",
 "menstrual-phase-no-moderation-flexibility":"menstrual-phase-no-moderation-flexibility",
 "mental-age-grouping-unreliable-for-educational-treatment":"mental-age-grouping-unreliable-for-educational-treatment",
+"mental-age-plus-group-tests-raise-multiple-correlation":"mental-age-plus-group-tests-raise-multiple-correlation",
 "mental-age-reading-correlation-rises-with-grade":"mental-age-reading-correlation-rises-with-grade",
 "mental-discipline-discredited-yet-still-cited":"mental-discipline-discredited-yet-still-cited",
 "mental-effort-and-task-difficulty-ratings-differ":"mental-effort-and-task-difficulty-ratings-differ",
@@ -408731,6 +409857,7 @@
 "mental-imagery-no-achievement-relation-ceiling":"mental-imagery-no-achievement-relation-ceiling",
 "mental-index-two-year-reliability":"mental-index-two-year-reliability",
 "mental-multiplication-improves-during-continuous-work":"mental-multiplication-improves-during-continuous-work",
+"mental-rank-large-correlation-school-grade":"mental-rank-large-correlation-school-grade",
 "mental-representation-not-directly-instructable":"mental-representation-not-directly-instructable",
 "mental-rotation-gender-gap-adolescence-medium":"mental-rotation-gender-gap-adolescence-medium",
 "mental-rotation-moderates-alignment-benefit":"mental-rotation-moderates-alignment-benefit",
@@ -408738,6 +409865,7 @@
 "mental-simulation-training-improves-grade3-reading-comprehension":"mental-simulation-training-improves-grade3-reading-comprehension",
 "mental-simulation-training-raises-reading-motivation":"mental-simulation-training-raises-reading-motivation",
 "mental-tests-diagnostic-value-corroborate-teachers":"mental-tests-diagnostic-value-corroborate-teachers",
+"mental-tests-grade-placement-misplaced-children":"mental-tests-grade-placement-misplaced-children",
 "mental-tests-more-needed-for-superior-selection":"mental-tests-more-needed-for-superior-selection",
 "mentalizing-wellbeing-interactive-skills":"mentalizing-wellbeing-interactive-skills",
 "mentioning-precedes-workbook-assignments":"mentioning-precedes-workbook-assignments",
@@ -409411,6 +410539,7 @@
 "more-regulation-higher-product-quality":"more-regulation-higher-product-quality",
 "more-representations-mathematical-ideas-higher-achievement":"more-representations-mathematical-ideas-higher-achievement",
 "more-school-level-variance-fall-to-spring-growth":"more-school-level-variance-fall-to-spring-growth",
+"more-skilled-books-with-interest-elements-for-primary-children":"more-skilled-books-with-interest-elements-for-primary-children",
 "more-successful-students-higher-gains-focused-actions":"more-successful-students-higher-gains-focused-actions",
 "more-than-two-representations-benefit-load-and-performance":"more-than-two-representations-benefit-load-and-performance",
 "more-than-two-representations-negative-effects-low-prior-knowledge":"more-than-two-representations-negative-effects-low-prior-knowledge",
@@ -409444,6 +410573,7 @@
 "most-gifted-underachievement-studies-lack-group-comparison-designs":"most-gifted-underachievement-studies-lack-group-comparison-designs",
 "most-improved-profile-integrated-ai-support-pattern":"most-improved-profile-integrated-ai-support-pattern",
 "most-prospective-teachers-produce-dynamic-simulations":"most-prospective-teachers-produce-dynamic-simulations",
+"most-scd-children-have-vocabulary-weaknesses":"most-scd-children-have-vocabulary-weaknesses",
 "most-schools-of-choice-district-run":"most-schools-of-choice-district-run",
 "most-state-preschool-programs-mixed-delivery":"most-state-preschool-programs-mixed-delivery",
 "most-states-adopted-college-career-readiness-standards-2013-14":"most-states-adopted-college-career-readiness-standards-2013-14",
@@ -409708,6 +410838,7 @@
 "multiplication-retrieval-bias-fourth-grade-only":"multiplication-retrieval-bias-fourth-grade-only",
 "multiplication-retrieval-extent-exceeds-addition-subtraction":"multiplication-retrieval-extent-exceeds-addition-subtraction",
 "multiplication-three-ability-groups-primary-children":"multiplication-three-ability-groups-primary-children",
+"multiplicative-over-additive-simple-view-scd":"multiplicative-over-additive-simple-view-scd",
 "multisensory-tablet-no-difference-tactile-graphics":"multisensory-tablet-no-difference-tactile-graphics",
 "multisyllabic-word-reading-instruction-strong-evidence-grades-4-9":"strong-evidence-multisyllabic-word-reading-instruction-grades-4-9",
 "multitasking-increases-subsequent-academic-attention-problems":"multitasking-increases-subsequent-academic-attention-problems",
@@ -409752,6 +410883,7 @@
 "mvpa-negatively-associated-off-task-carlson":"mvpa-negatively-associated-off-task-carlson",
 "my-side-bias-written-summaries-controversial-history":"my-side-bias-written-summaries-controversial-history",
 "myers-mental-measure-20-minutes-80-binet":"myers-mental-measure-20-minutes-80-binet",
+"myers-nonverbal-test-low-achievement-correlations":"myers-nonverbal-test-low-achievement-correlations",
 "n100-congruency-modulation-sighted-only":"n100-congruency-modulation-sighted-only",
 "n170-peak-latency-delayed-children":"n170-peak-latency-delayed-children",
 "n170-reversal-effect-adults-not-children":"n170-reversal-effect-adults-not-children",
@@ -410681,10 +411813,12 @@
 "nonverbal-effects-depend-on-task-type":"nonverbal-effects-depend-on-task-type",
 "nonverbal-frequencies-increase-with-engagement-ratings":"nonverbal-frequencies-increase-with-engagement-ratings",
 "nonverbal-iq-nonsignificant-math-predictor":"nonverbal-iq-nonsignificant-math-predictor",
+"nonverbal-validity-declines-with-grade":"nonverbal-validity-declines-with-grade",
 "norepinephrine-inverted-u-90-minute-limit-habituation":"norepinephrine-inverted-u-90-minute-limit-habituation",
 "norm-policing-amplifies-distress":"norm-policing-amplifies-distress",
 "norm-referenced-metrics-hide-structural-development":"norm-referenced-metrics-hide-structural-development",
 "norm-shifts-raise-school-percentiles-struggling-students":"norm-shifts-raise-school-percentiles-struggling-students",
+"normal-feeble-minded-distributions-overlap-borderzone":"normal-feeble-minded-distributions-overlap-borderzone",
 "normal-school-conditions-injurious-to-health":"normal-school-conditions-injurious-to-health",
 "normality-assumption-met-foundational-skills-norming":"normality-assumption-met-foundational-skills-norming",
 "normality-assumption-reasonable-course-specific":"normality-assumption-reasonable-course-specific",
@@ -411173,7 +412307,11 @@
 "opposite-foci-pattern-engineering":"opposite-foci-pattern-engineering",
 "opposite-intervention-effects-by-profile":"opposite-intervention-effects-by-profile",
 "opposite-ssmr-foci-engineering":"opposite-ssmr-foci-engineering",
+"opposites-990-vs-100-subject-standardization-r-895":"opposites-990-vs-100-subject-standardization-r-895",
 "opposites-correlate-information-vocabulary":"opposites-correlate-information-vocabulary",
+"opposites-earlier-scoring-ignored-word-difficulty":"opposites-earlier-scoring-ignored-word-difficulty",
+"opposites-word-difficulty-methods-rank-r-996":"opposites-word-difficulty-methods-rank-r-996",
+"opposites-word-difficulty-range-suave-96-percent":"opposites-word-difficulty-range-suave-96-percent",
 "opposition-genai-human-centred-research-data":"opposition-genai-human-centred-research-data",
 "opt-out-consent-preferred-mmla":"opt-out-consent-preferred-mmla",
 "opt-out-curiosity-findings-replicate-uk-sample":"opt-out-curiosity-findings-replicate-uk-sample",
@@ -411270,6 +412408,12 @@
 "other-made-choices-beneficial-east-asian-youth":"other-made-choices-beneficial-east-asian-youth",
 "other-report-personality-stronger-than-self-report":"other-report-personality-stronger-than-self-report",
 "others-curiosity-discrepancy-alters-metacognitive-control":"others-curiosity-discrepancy-alters-metacognitive-control",
+"otis-1922-array-means-regress-toward-mean":"otis-1922-array-means-regress-toward-mean",
+"otis-1922-heterogeneity-correction-inverse-square":"otis-1922-heterogeneity-correction-inverse-square",
+"otis-1922-regression-as-special-case":"otis-1922-regression-as-special-case",
+"otis-1922-regression-line-not-true-correspondence":"otis-1922-array-means-regress-toward-mean",
+"otis-1922-relation-line-with-reliabilities":"otis-1922-relation-line-with-reliabilities",
+"otis-1922-true-score-sd-formula":"otis-1922-true-score-sd-formula",
 "otis-illinois-rank-disagreement-120-pupils":"otis-illinois-rank-disagreement-120-pupils",
 "otis-scores-practical-guidance-value":"otis-scores-practical-guidance-value",
 "oulad-calibrated-logistic-regression-strong-prediction":"oulad-calibrated-logistic-regression-strong-prediction",
@@ -411527,6 +412671,7 @@
 "parental-aspirations-weak-emotion-effects":"parental-aspirations-weak-emotion-effects",
 "parental-compensation-partial-not-full-offset":"parental-compensation-partial-not-full-offset",
 "parental-discord-depression-internalizing":"parental-discord-depression-internalizing",
+"parental-education-cps-g-inconsistent":"parental-education-cps-g-inconsistent",
 "parental-education-numeral-recognition-home-numeracy":"parental-education-numeral-recognition-home-numeracy",
 "parental-education-occupation-not-significant-adhd":"parental-education-occupation-not-significant-adhd",
 "parental-elaborative-reminiscing-relates-to-child-outcomes":"parental-elaborative-reminiscing-relates-to-child-outcomes",
@@ -412265,6 +413410,7 @@
 "physical-environment-affects-learning":"physical-environment-affects-learning",
 "physical-experience-enhances-science-learning":"physical-experience-enhances-science-learning",
 "physical-guide-improves-older-adult-low-vision-spatial-learning":"physical-guide-improves-older-adult-low-vision-spatial-learning",
+"physical-measures-weight-height-no-treated-advantage":"physical-measures-weight-height-no-treated-advantage",
 "physical-neglect-pattern-recognition-latency":"physical-neglect-pattern-recognition-latency",
 "physical-neglect-spatial-working-memory-errors":"physical-neglect-spatial-working-memory-errors",
 "physical-outlets-emotional-hygiene":"physical-outlets-emotional-hygiene",
@@ -412587,6 +413733,7 @@
 "positive-negative-distortion-cancellation":"positive-negative-distortion-cancellation",
 "positive-parenting-associated-higher-kindergarten-curiosity":"positive-parenting-associated-higher-kindergarten-curiosity",
 "positive-performance-effort-expectancy-ai-pre-service-teachers":"positive-performance-effort-expectancy-ai-pre-service-teachers",
+"positive-quadratic-math-achievement-self-concept-secondary":"positive-quadratic-math-achievement-self-concept-secondary",
 "positive-relationships-increase-civic-engagement-intention":"positive-relationships-increase-civic-engagement-intention",
 "positive-relationships-protect-against-violence":"positive-relationships-protect-against-violence",
 "positive-relationships-support-secondary-learning-wellbeing":"positive-relationships-support-secondary-learning-wellbeing",
@@ -412693,6 +413840,7 @@
 "practice-improves-visual-reproduction-6-44-percent":"practice-improves-visual-reproduction-6-44-percent",
 "practice-instrument-partial-reliability-validity-info":"practice-instrument-partial-reliability-validity-info",
 "practice-limits-signal-standing-and-performance":"practice-limits-signal-standing-and-performance",
+"practice-must-be-motivated":"practice-must-be-motivated",
 "practice-period-length-addition-long-not-inferior":"practice-period-length-addition-long-not-inferior",
 "practice-points-did-not-inflate-grades":"practice-points-did-not-inflate-grades",
 "practice-presence-raises-cbi-posttest-achievement":"practice-presence-raises-cbi-posttest-achievement",
@@ -413037,6 +414185,7 @@
 "prior-expulsion-history-predicts-expulsion-risk":"prior-expulsion-history-predicts-expulsion-risk",
 "prior-frameworks-category-level-limitation":"prior-frameworks-category-level-limitation",
 "prior-genai-use-poorer-unaided-reasoning":"prior-genai-use-poorer-unaided-reasoning",
+"prior-grades-moderate-autonomy-support-effects":"prior-grades-moderate-autonomy-support-effects",
 "prior-inclusion-reviews-equivocal-wang-baker-033":"prior-inclusion-reviews-equivocal-wang-baker-033",
 "prior-kipp-research-limited-scope-and-methods":"prior-kipp-research-limited-scope-and-methods",
 "prior-knowledge-23-topics-five-communities":"prior-knowledge-23-topics-five-communities",
@@ -413528,6 +414677,7 @@
 "providing-peer-feedback-more-cognitively-engaging":"providing-peer-feedback-more-cognitively-engaging",
 "provision-support-beats-reception-support":"provision-support-beats-reception-support",
 "provision-support-improves-both-process-qualities":"provision-support-improves-both-process-qualities",
+"provisional-practice-amounts-by-difficulty":"provisional-practice-amounts-by-difficulty",
 "prox-far-mutual-gaze-monitoring-pathway":"prox-far-mutual-gaze-monitoring-pathway",
 "proxemic-configuration-rr1-relational-shift":"proxemic-configuration-rr1-relational-shift",
 "proximal-event-effects-moderated-by-prior-vulnerability":"proximal-event-effects-moderated-by-prior-vulnerability",
@@ -413649,6 +414799,7 @@
 "public-regard-discrimination-longitudinal-buffering":"public-regard-discrimination-longitudinal-buffering",
 "public-school-students-close-gap-during-school-year":"public-school-students-close-gap-during-school-year",
 "public-source-benchmark-corrected-scores-rise-dramatically":"public-source-benchmark-corrected-scores-rise-dramatically",
+"public-vs-parochial-test-comparison":"public-vs-parochial-test-comparison",
 "public-vs-private-reflection-mixed":"public-vs-private-reflection-mixed",
 "publication-bias-adjusted-effect-036":"publication-bias-adjusted-effect-036",
 "publication-bias-asymmetry-but-pcurve-evidential-value":"publication-bias-asymmetry-but-pcurve-evidential-value",
@@ -413751,6 +414902,7 @@
 "quantway-statway-corequisite-65-percent-success":"quantway-statway-corequisite-65-percent-success",
 "quantway-versus-statway-corequisite-success-rates":"quantway-versus-statway-corequisite-success-rates",
 "quarter-of-leas-no-tk-language-model":"quarter-of-leas-no-tk-language-model",
+"quarter-working-youth-below-yerkes-normal-range":"quarter-working-youth-below-yerkes-normal-range",
 "quartile-category-correspondence-breaks-extremes":"quartile-category-correspondence-breaks-extremes",
 "quartile-far-failure-contrast":"quartile-far-failure-contrast",
 "quartile-groups-differ-on-exam-scores":"quartile-groups-differ-on-exam-scores",
@@ -414058,6 +415210,7 @@
 "reading-comprehension-predicts-multimedia-learning":"reading-comprehension-predicts-multimedia-learning",
 "reading-comprehension-sourcing-mixed":"reading-comprehension-sourcing-mixed",
 "reading-comprehension-variance-fully-shared":"reading-comprehension-variance-fully-shared",
+"reading-correlation-increases-most-with-verbalness":"reading-correlation-increases-most-with-verbalness",
 "reading-curricula-no-impacts-one-year-after-implementation":"reading-curricula-no-impacts-one-year-after-implementation",
 "reading-effects-smaller-nonsignificant-most-grades":"reading-effects-smaller-nonsignificant-most-grades",
 "reading-failure-fixed-ability-attribution":"reading-failure-fixed-ability-attribution",
@@ -415279,6 +416432,9 @@
 "scattering-not-sign-of-psychopathy-or-instability":"scattering-not-sign-of-psychopathy-or-instability",
 "scattering-varies-by-binet-scale-version":"scattering-varies-by-binet-scale-version",
 "scattering-varies-with-mental-age-level":"scattering-varies-with-mental-age-level",
+"scd-pattern-robust-across-identification-criteria":"scd-pattern-robust-across-identification-criteria",
+"scd-reading-comprehension-weakness-more-severe-than-vocabulary":"scd-reading-comprehension-weakness-more-severe-than-vocabulary",
+"scd-vocabulary-weakness-developmental-delay-not-deficit":"scd-vocabulary-weakness-developmental-delay-not-deficit",
 "sced-publication-bias-trim-and-fill-101":"sced-publication-bias-trim-and-fill-101",
 "sced-text-reading-significant-decoding-null":"sced-text-reading-significant-decoding-null",
 "scenario-lessons-pooled-74-percent-gain":"scenario-lessons-pooled-74-percent-gain",
@@ -415304,6 +416460,7 @@
 "school-attachment-family-climate-school-adjustment-not-gpa":"school-attachment-family-climate-school-adjustment-not-gpa",
 "school-attachment-promotes-academic-self-regulation":"school-attachment-promotes-academic-self-regulation",
 "school-attended-determines-suspension-risk-more-than-background":"school-attended-determines-suspension-risk-more-than-background",
+"school-attitude-adds-little-beyond-intelligence-tests":"school-attitude-adds-little-beyond-intelligence-tests",
 "school-average-achievement-negative-compositional-effect-asc-gpa":"school-average-achievement-negative-compositional-effect-asc-gpa",
 "school-average-act-explains-school-variance":"school-average-act-explains-school-variance",
 "school-average-act-predicts-graduation":"school-average-act-predicts-graduation",
@@ -415426,6 +416583,7 @@
 "school-support-predicts-ai-self-efficacy-usefulness":"school-support-predicts-ai-self-efficacy-usefulness",
 "school-supports-promote-pd-quality":"school-supports-promote-pd-quality",
 "school-supports-relate-to-achievement":"school-supports-relate-to-achievement",
+"school-system-needs-unification-standardization":"school-system-needs-unification-standardization",
 "school-test-scores-strongly-related-to-family-income":"school-test-scores-strongly-related-to-family-income",
 "school-track-differences-learner-characteristics":"school-track-differences-learner-characteristics",
 "school-type-locale-turnover-differences":"school-type-locale-turnover-differences",
@@ -416141,6 +417299,7 @@
 "seventh-grade-slump-dt":"seventh-grade-slump-dt",
 "seventh-grade-slump-moderators":"seventh-grade-slump-moderators",
 "seventh-grade-test-two-reversal":"seventh-grade-test-two-reversal",
+"seventh-graders-performance-plummeted-standard-grade":"seventh-graders-performance-plummeted-standard-grade",
 "severe-depression-co-occurs-self-harm-suicidal-tendencies":"severe-depression-co-occurs-self-harm-suicidal-tendencies",
 "severe-teacher-underestimation-dampens-growth":"severe-teacher-underestimation-dampens-growth",
 "sex-advantage-diminishes-under-mastery-learning":"sex-advantage-diminishes-under-mastery-learning",
@@ -417657,6 +418816,7 @@
 "student-characteristics-completion-gaps":"student-characteristics-completion-gaps",
 "student-characteristics-moderate-inquiry-effectiveness":"student-characteristics-moderate-inquiry-effectiveness",
 "student-characteristics-moderate-resource-management-effects":"student-characteristics-moderate-resource-management-effects",
+"student-characteristics-mostly-no-moderation-autonomy-support":"student-characteristics-mostly-no-moderation-autonomy-support",
 "student-characteristics-understudied-peer-feedback":"student-characteristics-understudied-peer-feedback",
 "student-classroom-interaction-variance-noncognitive-factors":"student-classroom-interaction-variance-noncognitive-factors",
 "student-coauthorship-enacts-epistemic-equity":"student-coauthorship-enacts-epistemic-equity",
@@ -418184,6 +419344,7 @@
 "surface-similarity-no-effect-integration":"surface-similarity-no-effect-integration",
 "surface-strategies-declined-after-modules":"surface-strategies-declined-after-modules",
 "surface-validation-works-substantive-validation-fails":"surface-validation-works-substantive-validation-fails",
+"surprise-and-plot-lead-childrens-interest-factors":"surprise-and-plot-lead-childrens-interest-factors",
 "surprise-enhances-childrens-word-learning-museum":"surprise-enhances-childrens-word-learning-museum",
 "surprise-enhances-infant-object-sound-learning":"surprise-enhances-infant-object-sound-learning",
 "surprise-learning-effect-is-entity-specific":"surprise-learning-effect-is-entity-specific",
@@ -418481,6 +419642,7 @@
 "tas-adapt-rather-than-copy-ai-drafts":"tas-adapt-rather-than-copy-ai-drafts",
 "task-and-collaboration-regulation-both-important":"task-and-collaboration-regulation-both-important",
 "task-and-problem-effects-rcj-accuracy":"task-and-problem-effects-rcj-accuracy",
+"task-autonomy-mediation-both-motivations":"task-autonomy-mediation-both-motivations",
 "task-cohesion-relates-team-performance":"task-cohesion-relates-team-performance",
 "task-completion-weak-proxy-competence":"task-completion-weak-proxy-competence",
 "task-complexity-and-difficulty-dominate-wd-variance":"task-complexity-and-difficulty-dominate-wd-variance",
@@ -418522,6 +419684,7 @@
 "task-motivation-time-on-task-moderators-hypothesis":"task-motivation-time-on-task-moderators-hypothesis",
 "task-orientation-partially-mediates-ef-math":"task-orientation-partially-mediates-ef-math",
 "task-performance-and-learning-are-different-processes":"task-performance-and-learning-are-different-processes",
+"task-performance-mediation-task-interest-not-continuing":"task-performance-mediation-task-interest-not-continuing",
 "task-performance-no-effect-monitoring-awareness":"task-performance-no-effect-monitoring-awareness",
 "task-performance-no-effect-regulation-awareness":"task-performance-no-effect-regulation-awareness",
 "task-persistence-evokes-autonomy-granting":"task-persistence-evokes-autonomy-granting",
@@ -418971,6 +420134,7 @@
 "teachers-of-color-higher-turnover-mover-rates":"teachers-of-color-higher-turnover-mover-rates",
 "teachers-of-color-higher-turnover-rate":"toc-higher-turnover-than-white-teachers",
 "teachers-of-color-workplace-stress-dissatisfaction":"teachers-of-color-workplace-stress-dissatisfaction",
+"teachers-overestimate-practice-arithmetic-textbooks":"teachers-overestimate-practice-arithmetic-textbooks",
 "teachers-overestimate-srl-practice-versus-observations":"teachers-overestimate-srl-practice-versus-observations",
 "teachers-overestimate-students-performance-22-percent":"teachers-overestimate-students-performance-22-percent",
 "teachers-perceive-genai-semi-autonomous-retain-control":"teachers-perceive-genai-semi-autonomous-retain-control",
@@ -419001,6 +420165,7 @@
 "teachers-struggle-designing-interactive-activities":"teachers-struggle-designing-interactive-activities",
 "teachers-surprised-by-student-questioning-capability":"teachers-surprised-by-student-questioning-capability",
 "teachers-synthesize-pd-practices-with-context-not-just-transfer-them":"teachers-synthesize-pd-practices-with-context-not-just-transfer-them",
+"teachers-trained-six-weeks-binet-accuracy":"teachers-trained-six-weeks-binet-accuracy",
 "teachers-unaware-ocf-strategies-cognition-absent":"teachers-unaware-ocf-strategies-cognition-absent",
 "teachers-underestimate-students-college-plans":"teachers-underestimate-students-college-plans",
 "teachers-underestimate-students-monitoring-accuracy-14-percent":"teachers-underestimate-students-monitoring-accuracy-14-percent",
@@ -419210,6 +420375,7 @@
 "test-experience-beats-study-experience-for-debiasing":"test-experience-beats-study-experience-for-debiasing",
 "test-familiarity-little-effect-second-score":"test-familiarity-little-effect-second-score",
 "test-format-timing-moderate-note-taking-effects":"test-format-timing-moderate-note-taking-effects",
+"test-grade-mismatches-explained-by-home-conditions":"test-grade-mismatches-explained-by-home-conditions",
 "test-item-construction-affects-kvl-difficulty-scores":"test-item-construction-affects-kvl-difficulty-scores",
 "test-length-predicts-achievement":"test-length-predicts-achievement",
 "test-order-intervention-reduces-stereotype-threat-girls-math":"test-order-intervention-reduces-stereotype-threat-girls-math",
@@ -419424,6 +420590,7 @@
 "three-big-data-methods-insights-mass-collaboration":"three-big-data-methods-insights-mass-collaboration",
 "three-capacities-for-evaluative-self-monitoring":"three-capacities-for-evaluative-self-monitoring",
 "three-career-adapt-abilities-latent-profiles-english-majors":"three-career-adapt-abilities-latent-profiles-english-majors",
+"three-cases-justifying-overlearning":"three-cases-justifying-overlearning",
 "three-categories-student-choice-factors-high-school":"three-categories-student-choice-factors-high-school",
 "three-challenges-memorization-management-education":"three-challenges-memorization-management-education",
 "three-challenges-parent-child-math-tutoring":"three-challenges-parent-child-math-tutoring",
@@ -419888,6 +421055,9 @@
 "trauma-memory-specific-deficit":"trauma-memory-specific-deficit",
 "travis-128-students-prose-passage-tests-no-group-value":"travis-128-students-prose-passage-tests-no-group-value",
 "trc-spanish-least-correlated-with-other-assessments":"trc-spanish-least-correlated-with-other-assessments",
+"treated-class-gain-seven-digit-rote-memory":"treated-class-gain-seven-digit-rote-memory",
+"treated-class-learning-power-substitution-test":"treated-class-learning-power-substitution-test",
+"treated-class-tapping-endurance-gain":"treated-class-tapping-endurance-gain",
 "treatment-ability-interaction-middle-group-excluded":"treatment-ability-interaction-middle-group-excluded",
 "treatment-amenability-subscales-null-manova":"treatment-amenability-subscales-null-manova",
 "treatment-classrooms-less-disruptive-than-control":"universal-classroom-management-reduces-problem-behavior",
@@ -420497,6 +421667,7 @@
 "ventral-atl-integrates-face-identity-semantic-knowledge":"ventral-atl-integrates-face-identity-semantic-knowledge",
 "venture-funding-one-percent-black-entrepreneurs":"venture-funding-one-percent-black-entrepreneurs",
 "verb-latency-longer-noun-latency-moderately-correlated":"verb-latency-longer-noun-latency-moderately-correlated",
+"verbal-15yo-stronger-high-achievers":"verbal-15yo-stronger-high-achievers",
 "verbal-ability-internet-experience-predict-elearning-comprehension":"verbal-ability-internet-experience-predict-elearning-comprehension",
 "verbal-achievement-mediates-discipline-motivation-relations":"verbal-achievement-mediates-discipline-motivation-relations",
 "verbal-achievement-tests-may-underestimate-via-symbolic-mismatch":"verbal-achievement-tests-may-underestimate-via-symbolic-mismatch",
@@ -420528,7 +421699,9 @@
 "verbalizing-overconfidence-consistency-local-failures":"verbalizing-overconfidence-consistency-local-failures",
 "verbally-gifted-adhd-poor-online-memorization":"verbally-gifted-adhd-poor-online-memorization",
 "verbalness-outweighs-test-length":"verbalness-outweighs-test-length",
+"verbalness-outweighs-test-length-for-predicting-achievement":"verbalness-outweighs-test-length",
 "verbalness-predicts-school-achievement":"verbalness-predicts-school-achievement",
+"verbalness-raises-correlation-with-achievement":"verbalness-raises-correlation-with-achievement",
 "verbose-slope-definition-buries-unit-rate":"verbose-slope-definition-buries-unit-rate",
 "verbosity-preference-response-length":"verbosity-preference-response-length",
 "verfugungswissen-orientierungswissen-inverse":"verfugungswissen-orientierungswissen-inverse",
@@ -420734,6 +421907,7 @@
 "vocabulary-counting-recall-predict-compare-to-half":"vocabulary-counting-recall-predict-compare-to-half",
 "vocabulary-coverage-thresholds-for-inference":"vocabulary-coverage-thresholds-for-inference",
 "vocabulary-critical-mass-10000-12000-words":"vocabulary-critical-mass-10000-12000-words",
+"vocabulary-direct-writing-quality-over-fluency":"vocabulary-direct-writing-quality-over-fluency",
 "vocabulary-diversity-30-months-predicts-vocabulary-42-months":"vocabulary-diversity-30-months-predicts-vocabulary-42-months",
 "vocabulary-does-not-predict-later-serial-order-stm":"vocabulary-does-not-predict-later-serial-order-stm",
 "vocabulary-enhancement-activities-support-reading-acquisition":"vocabulary-enhancement-activities-support-reading-acquisition",
@@ -420758,6 +421932,7 @@
 "vocabulary-programs-insufficient-to-close-vocabulary-gap":"vocabulary-programs-insufficient-to-close-vocabulary-gap",
 "vocabulary-promotive-not-protective-skill-enhancing":"vocabulary-promotive-not-protective-skill-enhancing",
 "vocabulary-size-predicts-syntactic-growth-19-30-months":"vocabulary-size-predicts-syntactic-growth-19-30-months",
+"vocabulary-suppression-writing-fluency":"vocabulary-suppression-writing-fluency",
 "vocabulary-tests-inadequate-reading-measure":"vocabulary-tests-inadequate-reading-measure",
 "vocabulary-unique-predictor-local-coherence-younger-children":"vocabulary-unique-predictor-local-coherence-younger-children",
 "vocabulary-uniquely-related-word-reading-spelling-kindergarten":"vocabulary-uniquely-related-word-reading-spelling-kindergarten",
@@ -420903,6 +422078,7 @@
 "weak-essential-supports-four-to-five-times-stagnation":"weak-essential-supports-four-to-five-times-stagnation",
 "weak-implementation-before-research-funding":"weak-implementation-before-research-funding",
 "weak-inconsistent-scaffolding-uptake-correlation-real-world":"weak-inconsistent-scaffolding-uptake-correlation-real-world",
+"weak-mental-physical-correlation-five-groups":"weak-mental-physical-correlation-five-groups",
 "weak-methods-shared-strong-methods-expert-only":"weak-methods-shared-strong-methods-expert-only",
 "weak-organization-enables-principle-experimentation":"weak-organization-enables-principle-experimentation",
 "weak-preparation-predicts-teacher-attrition":"underprepared-teachers-leave-at-2-3-times-rate",
@@ -421177,6 +422353,7 @@
 "women-underrepresented-physics-engineering-computer-science-degrees":"women-underrepresented-physics-engineering-computer-science-degrees",
 "womens-own-success-definitions-collegiality-mentoring":"womens-own-success-definitions-collegiality-mentoring",
 "woolley-18-year-industrial-workers-25-5-percent-feeble-minded":"woolley-18-year-industrial-workers-25-5-percent-feeble-minded",
+"woolley-scale-ranks-stable-year-to-year":"woolley-scale-ranks-stable-year-to-year",
 "woot-math-rct-adaptivity-significant-effects":"woot-math-rct-adaptivity-significant-effects",
 "word-attack-group-differences-er-weakest":"word-attack-group-differences-er-weakest",
 "word-attack-strongest-gain-d46":"word-attack-strongest-gain-d46",
@@ -421273,6 +422450,7 @@
 "working-memory-demand-increases-with-math-problem-complexity":"working-memory-demand-increases-with-math-problem-complexity",
 "working-memory-explains-coding-variance":"working-memory-explains-coding-variance",
 "working-memory-foundational-but-mediated-in-writing":"working-memory-foundational-but-mediated-in-writing",
+"working-memory-indirect-via-spelling-attentional-control-null":"working-memory-indirect-via-spelling-attentional-control-null",
 "working-memory-limited-with-partially-independent-subcomponents":"working-memory-partially-independent-modality-subcomponents",
 "working-memory-mediation-chronic-stereotype-threat":"working-memory-mediation-chronic-stereotype-threat",
 "working-memory-mixed-moderator-interleaving":"working-memory-mixed-moderator-interleaving",
@@ -421328,6 +422506,7 @@
 "writing-difficulties-predict-behavior-problems-grade2":"writing-difficulties-predict-behavior-problems-grade2",
 "writing-disorder-prevalence-7-15-percent":"writing-disorder-prevalence-7-15-percent",
 "writing-duration-not-related-to-retrieval-accuracy":"writing-duration-not-related-to-retrieval-accuracy",
+"writing-fluency-related-writing-quality-beginning-writers":"writing-fluency-related-writing-quality-beginning-writers",
 "writing-improves-mathematical-understanding":"writing-improves-mathematical-understanding",
 "writing-instruction-positive-overall-effect-us-ell":"writing-instruction-positive-overall-effect-us-ell",
 "writing-interventions-variable-effects-coping-model":"writing-interventions-variable-effects-coping-model",
@@ -421583,6 +422762,7 @@
 "augmented-bow-track-graded-friction":"augmented-bow-track-graded-friction",
 "augmented-knights-castle-akc":"augmented-knights-castle-akc",
 "authentic-long-texts-ecological-vocabulary-research":"authentic-long-texts-ecological-vocabulary-research",
+"autonomy-support-heat-transfer-unit":"autonomy-support-heat-transfer-unit",
 "avp-state-generation-separation-framework":"avp-state-generation-separation-framework",
 "banking-onboarding-teaching-case":"banking-onboarding-teaching-case",
 "bayesian-cdi-kst-clt-path-framework":"bayesian-cdi-kst-clt-path-framework",
@@ -422042,6 +423222,7 @@
 "kiss-pro-openhpi-mooc-ai-teacher-pd":"kiss-pro-openhpi-mooc-ai-teacher-pd",
 "kli-framework-guiding-multi-agent-instructional-design":"kli-framework-guiding-multi-agent-instructional-design",
 "knowledge-building-portfolios-collective-assessment":"knowledge-building-portfolios-collective-assessment",
+"kohnky-1913-dental-treatment-comparison-design":"kohnky-1913-dental-treatment-comparison-design",
 "l2c-rl-coaching-framework":"l2c-rl-coaching-framework",
 "language-05-project-processing-speed-cohort":"language-05-project-processing-speed-cohort",
 "large-school-conversion-into-small-charter-schools":"large-school-conversion-into-small-charter-schools",
@@ -424684,6 +425865,7 @@
 "critsly":"critsly",
 "cromley-and-azevedo-multiple-choice-strategy-use-measure":"cromley-and-azevedo-multiple-choice-strategy-use-measure",
 "cross-dataset-bloom-classification-benchmark-corpus-of-five-datasets-totaling-4179-questio":"cross-dataset-bloom-classification-benchmark-corpus-of-five-datasets-totaling-4179-questio",
+"cross-out-scale":"cross-out-scale",
 "cs50-duck":"cs50-duck",
 "cs50-forum-external-validation-set-of-150-public-course-oriented-programming-questions":"cs50-forum-external-validation-set-of-150-public-course-oriented-programming-questions",
 "csebench":"csebench",
@@ -425013,6 +426195,7 @@
 "gpt-2-output-detector-demo":"gpt-2-output-detector-demo",
 "gpt-tutor":"gpt-tutor",
 "grad-partnership-student-success-systems":"grad-partnership-student-success-systems",
+"graded-80-word-opposites-test-list-with-difficulty-point-values-from-5-to-20-totaling-100":"graded-80-word-opposites-test-list-with-difficulty-point-values-from-5-to-20-totaling-100",
 "gradeopt":"gradeopt",
 "grail-combined-dataset-of-three-classroom-experiments-on-non-interactive-teaching-in-optic":"grail-combined-dataset-of-three-classroom-experiments-on-non-interactive-teaching-in-optic",
 "graph4learn-g4l-intelligent-tutoring-system":"graph4learn-g4l-intelligent-tutoring-system",
@@ -426075,6 +427258,7 @@
 "the-nomads":"the-nomads",
 "the-opportunity-atlas":"the-opportunity-atlas",
 "the-pedagogy-benchmark":"the-pedagogy-benchmark",
+"the-pressey-cross-out-brief-group-intelligence-scale-for-grades-4-8":"the-pressey-cross-out-brief-group-intelligence-scale-for-grades-4-8",
 "the-reading-edge":"the-reading-edge",
 "the-region-15-face-collaborative":"the-region-15-face-collaborative",
 "the-river-conceptual-model":"the-river-conceptual-model",
@@ -426229,6 +427413,7 @@
 "wolfram-computable-document-format-cdf":"wolfram-computable-document-format-cdf",
 "woodcock-johnson-tests-of-achievementapplied-problems-subtest":"woodcock-johnson-tests-of-achievementapplied-problems-subtest",
 "woodworth-wells-substitution-test":"woodworth-wells-substitution-test",
+"woolley-composite-adolescent-measurement-scale":"woolley-composite-adolescent-measurement-scale",
 "word-association-test-wat":"word-association-test-wat",
 "wordometer-app-for-the-smi-iview-x-eye-tracker":"wordometer-app-for-the-smi-iview-x-eye-tracker",
 "wordstream-maker":"wordstream-maker",
@@ -426681,6 +427866,7 @@
 "privacy-preserving-heterogeneous-multi-llm-federated-inference-framework-for-cognitive-dia":"privacy-preserving-heterogeneous-multi-llm-federated-inference-framework-for-cognitive-dia",
 "privacy-preserving-linkage-and-analysis-of-educational-data-using-privacy-enhancing-techno":"privacy-preserving-linkage-and-analysis-of-educational-data-using-privacy-enhancing-techno",
 "probabilistic-peer-grading-models-pg1-pg2-pg3":"probabilistic-peer-grading-models-pg1-pg2-pg3",
+"probability-curve-percentile-weighting-of-item-difficulty-for-scoring-opposites-tests":"probability-curve-percentile-weighting-of-item-difficulty-for-scoring-opposites-tests",
 "processing-strengths-and-weaknesses-psw-approaches-to-learning-disability-identification":"processing-strengths-and-weaknesses-psw-approaches-to-learning-disability-identification",
 "projection-approach-combining-absenteeism-literature-estimates-with-summer-learning-patter":"projection-approach-combining-absenteeism-literature-estimates-with-summer-learning-patter",
 "promotion-power-measure-of-school-effectiveness":"promotion-power-measure-of-school-effectiveness",
@@ -426702,6 +427888,7 @@
 "rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators":"within-study-comparison-wsc-methodology",
 "rec-cbm-framework-rubric-aware-error-correction-concept-bottleneck-model-for-trustworthy-o":"rec-cbm-framework-rubric-aware-error-correction-concept-bottleneck-model-for-trustworthy-o",
 "referent-aligned-multilevel-analysis-of-relationship-measures":"referent-aligned-multilevel-analysis-of-relationship-measures",
+"regression-based-matching-technique-for-developmental-delay-versus-deficit-hypotheses":"regression-based-matching-technique-for-developmental-delay-versus-deficit-hypotheses",
 "regression-discontinuity-design-power-and-validity-analysis":"regression-discontinuity-design-power-and-validity-analysis",
 "regression-discontinuity-embedded-in-a-piecewise-multilevel-growth-model-for-entry-age-eff":"regression-discontinuity-embedded-in-a-piecewise-multilevel-growth-model-for-entry-age-eff",
 "reinforcement-learning-measurement-model-rlmm":"reinforcement-learning-measurement-model-rlmm",
@@ -427223,6 +428410,7 @@
 "analogies":"analogies",
 "analysis_of_classroom_dynamics_through_shadowing":"analysis_of_classroom_dynamics_through_shadowing",
 "analyze-and-inventory-before-edtech-purchase":"analyze-and-inventory-before-edtech-purchase",
+"analyze-differential-effects-of-motivational-interventions":"analyze-differential-effects-of-motivational-interventions",
 "analyze-el-outcomes-by-years-as-el-subgroups":"analyze-el-outcomes-by-years-as-el-subgroups",
 "analyze-lecturer-proof-discourse-for-de-ritualization-characteristics":"analyze-lecturer-proof-discourse-for-de-ritualization-characteristics",
 "analyze-networks-at-initiative-outset":"analyze-networks-at-initiative-outset",
@@ -428668,6 +429856,7 @@
 "diversify-educator-workforce-grow-your-own":"diversify-educator-workforce-grow-your-own",
 "diversify-services-strategic-partnerships-arts-organizations":"diversify-services-strategic-partnerships-arts-organizations",
 "diversity_of_perspectives_and_identities":"diversity_of_perspectives_and_identities",
+"divide-practice-so-bonds-help-each-other":"divide-practice-so-bonds-help-each-other",
 "dl2f-philippine-contextual-adaptation-strategy":"dl2f-philippine-contextual-adaptation-strategy",
 "dlg-special-education-adaptation-strategies":"dlg-special-education-adaptation-strategies",
 "dlp-unobtrusive-language-experiments":"dlp-unobtrusive-language-experiments",
@@ -429181,6 +430370,7 @@
 "explicit-ta-tutorial-training-checkpoint-outcomes":"explicit-ta-tutorial-training-checkpoint-outcomes",
 "explicit-teaching":"explicit-teaching",
 "explicit-teaching-srl-methods-online-blended":"explicit-teaching-srl-methods-online-blended",
+"explicit-transcription-and-language-instruction-writing-quality":"explicit-transcription-and-language-instruction-writing-quality",
 "explicit-transfer-discussion-strategy":"explicit-transfer-discussion-strategy",
 "explicit-vocabulary-instruction":"explicit-vocabulary-instruction",
 "explicit-writing-instruction":"explicit-writing-instruction",
@@ -430874,6 +432064,7 @@
 "monitor-local-affect-trajectories-in-cps-systems":"monitor-local-affect-trajectories-in-cps-systems",
 "monitor-manage-team-emotional-arousal-crm":"monitor-manage-team-emotional-arousal-crm",
 "monitor-math-anxiety-early-schooling":"monitor-math-anxiety-early-schooling",
+"monitor-math-se-and-experiences-with-skills":"monitor-math-se-and-experiences-with-skills",
 "monitor-preschool-attendance-watch-lists-transition-sharing":"monitor-preschool-attendance-watch-lists-transition-sharing",
 "monitor-progress-with-seasonal-interim-growth-models":"monitor-progress-with-seasonal-interim-growth-models",
 "monitor-source-contrast-and-reading-order":"monitor-source-contrast-and-reading-order",
@@ -430930,6 +432121,7 @@
 "multi-assessment-plus-enrollment-data-for-gap-trends":"multi-assessment-plus-enrollment-data-for-gap-trends",
 "multi-channel-homeless-student-identification-strategy":"multi-channel-homeless-student-identification-strategy",
 "multi-component-math-difficulty-interventions":"multi-component-math-difficulty-interventions",
+"multi-component-scd-intervention-oral-language-plus":"multi-component-scd-intervention-oral-language-plus",
 "multi-directional-effects-approach":"multi-directional-effects-approach",
 "multi-format-media-access-provision":"multi-format-media-access-provision",
 "multi-layered-rollout-capacity-building-optel":"multi-layered-rollout-capacity-building-optel",

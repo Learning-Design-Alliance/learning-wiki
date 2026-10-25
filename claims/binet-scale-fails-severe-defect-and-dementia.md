@@ -47,3 +47,4 @@ The author's own empirical clinical experience applying the metric scale across 
 ## Related Claims
 - [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](binet-simon-scale-valuable-trained-dangerous-untrained.md) — related
 - [Binet-Simon results fit normal children's chronological ages better in early years, while the Yerkes-Bridges point scale gives better results from age eight or nine on, due to scoring methods](binet-versus-yerkes-bridges-age-fit.md) — related
+- [Kuhlmann argues the greater danger to the field is psychologists' destructive criticism of the Binet-Simon tests rather than errors from their use by untrained examiners](kuhlmann-danger-hostile-criticism-binet.md) — related

@@ -50,3 +50,4 @@ Applying a seventy-five per cent correct-judgment standard to the same digit-spa
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
 - [Auditory memory (digit-span) tests are overrepresented in the adult scale and depress the rankings of otherwise high-performing students](caldwell-1919-auditory-memory-overweighting.md) — related
 - [Six per cent of the 200 Dartmouth freshmen failed six-digit auditory memory span, so the lower limit of the ability went unrecorded](dartmouth-six-percent-fail-six-digit-span.md) — related
+- [On the seven-digit rote memory test the treated class gained 10.8% over its own first record while the untreated class gained none](treated-class-gain-seven-digit-rote-memory.md) — related

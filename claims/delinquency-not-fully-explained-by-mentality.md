@@ -50,3 +50,4 @@ The author's interpretive conclusion drawn from the substitution-test performanc
 - [For Dewey, moral knowledge is a product of moral inquiry, so character education should add moral problem solving rather than teach fixed principles through example, reward, or punishment](moral-knowledge-product-of-moral-inquiry.md) — related
 - [For the feeble-minded, punishment is of little avail because the moral sentiment is impaired](punishment-ineffective-impaired-moral-sentiment.md) — related
 - [A child's attitude materially affects test performance, so wilful failure on a test is not evidence of feeble-mindedness](attitude-affects-test-performance-wilful-failure.md) — related
+- [Low intelligence test scores alone cannot account for delinquency, since many non-delinquent adolescents show no more intelligence, per Haines](low-intelligence-insufficient-explanation-delinquency.md) — possibly the same claim (merge candidate)

@@ -12,7 +12,7 @@ generated:
 # Glasser's Choice Theory and Cooperative Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational), `q3`–`q4` · 1 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Glasser's (1990) cooperation-through-problem-solving approach — also called reality therapy — is the other half of the humanist tradition in classroom management, alongside [Ginott's Congruent Communication](ginotts-congruent-communication.md); Glasser and Ginott "represent two sides of the same coin." Glasser holds that effective classroom managers create a learning environment students *want* to be in, develop mutually agreed-upon standards of behavior that must be followed to remain in that environment, and hold problem-solving conferences with students who violate those standards.
@@ -53,6 +53,7 @@ Applied concretely, Glasser's specific recommendations for taking over a disrupt
 ## Claims
 
 - [Being good role models, taking interest in students' lives outside class, and allowing students choices were the behaviours most consistently associated with positive change in engagement](../claims/role-modelling-interest-choice-top-engagement-predictors.md) [+W]
+- [Critics of classroom competition argue that it arouses jealousy and bitterness and may lead pupils of poor vitality to bankrupt their health](../claims/competition-criticism-limited-pupils-jealousy.md) [+W]
 
 ## Related Theories
 - [Ginott's Congruent Communication](ginotts-congruent-communication.md) — the other humanist-tradition approach; Glasser's private-conference protocol draws on similar communication-skills groundwork

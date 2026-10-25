@@ -59,3 +59,4 @@ Longitudinal SEM of kindergarten component skills predicting first-grade outcome
 - [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related
 - [Reading comprehension differentially mediates the relations of discourse oral language and lexical literacy to writing quality in Grade 2](reading-comprehension-mediation-writing-quality.md) — related
 - [Total effects of oral language, cognition, transcription, and reading comprehension vary largely across the three dimensions of written composition](total-effects-vary-writing-dimensions.md) — related
+- [Grade 1 vocabulary is directly related to Grade 2 writing quality over and above writing fluency](vocabulary-direct-writing-quality-over-fluency.md) — related

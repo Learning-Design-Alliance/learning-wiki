@@ -48,3 +48,4 @@ A comparative study of 65 children, mostly tested at a school in Ann Arbor and a
 - [The Healy Picture Completion test is easier than the Terman Binet: a child ranking at age level on the Healy will in all likelihood test below age on the Binet, especially children of lower mentality](healy-picture-completion-easier-than-binet.md) — related
 - [Binet IQ correlates insignificantly with Healy Picture Completion score (r = +.15 ± .082) among 65 children](binet-iq-healy-score-correlation-point15.md) — related
 - [Binet IQ shows a negative, insignificant correlation with Healy Picture Completion time (r = -.05 ± .093)](binet-iq-healy-time-correlation-negative05.md) — related
+- [Binet-Simon measurement alone is insufficient for diagnosis except in low-grade feeble-mindedness, per Healy and Bronner](binet-alone-insufficient-rough-diagnosis.md) — related

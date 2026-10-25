@@ -49,6 +49,7 @@ The article recommends that teachers and schools attend to math anxiety from the
 - [Promote motivation alongside executive functioning and early numeracy development from the earliest stages of mathematics education](promote-motivation-from-earliest-stages-math.md)
 - [Provide early intensified support for struggling arithmetic learners and design mathematics environments that promote positive emotions](early-arithmetic-support-positive-emotion-environment.md)
 - [Multi-component math interventions targeting achievement, numerosity, and anxiety together](multi-component-math-difficulty-interventions.md)
+- [Monitor children's math learning experiences and self-efficacy beliefs alongside math skill development from the early school years](monitor-math-se-and-experiences-with-skills.md)
 
 ## Examples
 -

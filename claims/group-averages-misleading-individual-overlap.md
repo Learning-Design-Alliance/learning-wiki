@@ -45,6 +45,7 @@ Descriptive comparison of individual records within the freshman group. Among th
 
 
 ## Related Claims
+
 - [Groups one year ahead of normal grade increase more rapidly in both weight and height than normal groups of the same age, with one exception](above-grade-faster-growth-increments.md) — related
 - [Grades overlap massively in spelling: on average 20.8% of pupils reach or exceed the median of the next grade above](grade-overlapping-in-spelling.md) — related
 - [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](letter-grades-hide-within-grade-score-variation.md) — related
@@ -56,3 +57,5 @@ Descriptive comparison of individual records within the freshman group. Among th
 - [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](mental-age-grouping-unreliable-for-educational-treatment.md) — a narrower finding that bears on this claim
 - [Children in the same school grade show extreme ranges of ability in every physical and mental trait examined](extreme-ability-within-single-school-grades.md) — related
 - [Seventh- and eighth-grade pupils overlap completely in ability, with no line of demarcation between grades](no-demarcation-between-school-grades.md) — related
+- [Physical measures showed no appreciable difference in height and a larger weight gain in the untreated class](physical-measures-weight-height-no-treated-advantage.md) — related
+- [Public school children score somewhat above parochial school children in every test except rote memory, with parochial children over-represented at both extremes](public-vs-parochial-test-comparison.md)

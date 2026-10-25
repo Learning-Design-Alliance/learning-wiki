@@ -51,3 +51,4 @@ The review reports Iyengar and Lepper's (1999) experiments with Anglo-American a
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — reports the opposite
 - [Parental pressure frequently predicts positive academic outcomes among East Asian children, including stronger mastery goals and higher self-efficacy](parental-pressure-positive-outcomes-east-asian-children.md) — related
 - [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — reports the opposite
+- [In Experiment 2, assessment condition differentially affected pupils' anagram difficulty choice, with easier anagrams chosen under grading conditions](assessment-condition-affects-anagram-choice.md) — related

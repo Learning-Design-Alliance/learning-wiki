@@ -50,3 +50,4 @@ Analysis of group mental-test and grade data from three schools (children of sup
 - [Kornhauser's reported association of Q = +.61 between parental economic standing and children's intelligence depends on excluding the normal group; including normals lowers it to about +.30](kornhauser-q-sensitive-to-normal-group-exclusion.md) — related
 - [Eliminating both the normal school and normal mentality (I.Q.) groups yields Q = +.97 between school retarded/advanced and mentally backward/bright](school-mentality-q-both-normal-groups-eliminated-097.md) — related
 - [Schools retard more children than mentality levels would predict: 36.8% are below normal in school versus 20.1% below normal in mentality](schools-retard-mentally-normal-children.md) — related
+- [Median age per grade, not per cent of retardation, is the best single statement of the age-grade situation for most practical purposes](median-age-per-grade-better-than-percent-retardation.md) — related

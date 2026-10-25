@@ -49,3 +49,4 @@ Content analysis of workbook question 2 responses (N = 95) about surprising valu
 - [Outlier rates in Spanish item calibration are extremely low, which the authors take as evidence of very high calibration quality](spanish-calibration-outlier-rates-extremely-low.md) — related
 - [Teachers reported that trusting students to generate and pursue their own questions worked better than expected and revealed new student capabilities and gaps](teachers-surprised-by-student-questioning-capability.md) — related
 - [Three- to six-year-old children learn novel verbs and nouns from a single exposure following core knowledge violations, including outside the laboratory](surprise-enhances-childrens-word-learning-museum.md) — related
+- [Surprise and plot are the leading positive interest factors in children's story preferences](surprise-and-plot-lead-childrens-interest-factors.md) — related

@@ -48,6 +48,7 @@ The article recommends that educators and policymakers analyze screening data at
 - [Use multiple, diverse data sources selected to offer distinct yet complementary information](use-multiple-diverse-data-sources.md)
 - [Select evidence-based mindfulness programs matched to school needs assessment data](select-evidence-based-mindfulness-programs-needs-assessment.md)
 - [Apply a set of dos and don'ts when examining school performance data to decide school support options](dos-and-donts-school-performance-data-interpretation.md)
+- [Analyze differential effects of motivational interventions by testing interactions with multiple student characteristics](analyze-differential-effects-of-motivational-interventions.md)
 
 ## Examples
 -

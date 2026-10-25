@@ -59,3 +59,5 @@ Descriptive group-comparison analysis of 2206 Binet records from clinic and inst
 - [Feeble-mindedness physically represents arrested development of the entire organism and is distinct from mental disease](feeble-mindedness-arrested-development-distinct-from-disease.md) — related
 - [Individual pupils' abilities vary widely across traits, showing little evidence of correlation of abilities](little-correlation-of-abilities-within-pupils.md) — related
 - [Delinquent boys at the Texas State Juvenile Training School averaged constructive merit of 51.3, equal to that of normal 9.5-year-olds](delinquent-boys-merit-51-3-equal-normal-9-5-year-old.md) — related
+- [The year scale and the point scale yield disparate results and differ in diagnostic accuracy for delinquent populations, per Haines's studies](haines-point-versus-year-scale-disparity.md) — related
+- [Low intelligence test scores alone cannot account for delinquency, since many non-delinquent adolescents show no more intelligence, per Haines](low-intelligence-insufficient-explanation-delinquency.md) — related

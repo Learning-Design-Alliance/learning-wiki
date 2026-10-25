@@ -57,3 +57,4 @@ Theoretical neurobiological argument in the review: rising catecholamines and co
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — a narrower finding that bears on this claim
 - [Hot executive function (CGT risk adjustment) shows a bell-shaped developmental curve, peaking at age 14 and declining thereafter](hot-ef-bell-shaped-development.md) — related
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related
+- [Declining math self-efficacy is characterized by decreasing mastery experiences and increasing negative emotional and physiological arousal](decreasing-se-negative-mastery-and-arousal.md) — related

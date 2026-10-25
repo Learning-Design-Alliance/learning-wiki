@@ -55,3 +55,4 @@ Full SEM with direct and indirect effects (Model 4) in the same cohort, testing 
 - [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](oral-language-first-grade-quality-only.md) — related
 - [A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
 - [Letter-writing fluency has a small unique concurrent relation to kindergarten compositional fluency but no significant relation to first-grade writing outcomes](letter-writing-fluency-concurrent-not-longitudinal.md) — related
+- [Grade 2 writing fluency is moderately and independently related to Grade 2 writing quality among beginning writers](writing-fluency-related-writing-quality-beginning-writers.md) — related

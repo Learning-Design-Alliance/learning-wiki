@@ -64,3 +64,5 @@ Null finding from the multilevel models: expressive vocabulary (WJ-III Picture V
 - [Kindergarten oral language independently predicts third-grade narrative writing quality](kindergarten-oral-language-predicts-narrative-writing-quality.md) — related
 - [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](oral-language-first-grade-quality-only.md) — related
 - [Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity](vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) — related
+- [Grade 1 vocabulary shows a suppression effect on Grade 2 writing fluency in the multivariate model](vocabulary-suppression-writing-fluency.md) — related
+- [Grade 2 writing fluency is moderately and independently related to Grade 2 writing quality among beginning writers](writing-fluency-related-writing-quality-beginning-writers.md) — related

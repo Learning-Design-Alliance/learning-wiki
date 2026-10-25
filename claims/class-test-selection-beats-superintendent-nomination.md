@@ -46,3 +46,4 @@ Comparison of the superintendent's pre-testing nomination list of 23 suspected b
 
 ## Related Claims
 - [If the lowest half of the home children as ranked by class tests had been individually tested, all feeble-minded cases and almost all definitely backward cases would have been detected](testing-lowest-half-detects-all-feeble-minded.md) — related
+- [The editorial proposes an institutional applied-psychology profession: thorough laboratory training without a full medical course, routine technical duties under a superintendent, and physician-level rank and salary for stability](institutional-applied-psychologist-role-proposal.md) — related

@@ -48,3 +48,4 @@ The review attributes to Goddard's 1912 Journal of Criminal Law and Criminology 
 - [Large majorities of delinquent and reformatory girls tested with the Binet scale were classified feeble-minded](reformatory-girls-binet-feeble-minded-majorities.md) — related
 - [Goddard's Binet results indicated fifteen thousand feeble-minded children in the New York City public schools](nyc-fifteen-thousand-feeble-minded-estimate.md) — related
 - [Among 82 state charity cases of dependent children, the most conservative estimate put 19.5% feeble-minded and only about 37% testing up to normal](state-charity-dependents-19-percent-feeble-minded.md) — related
+- [Distributions of normal and feeble-minded groups overlap, with a borderzone between them, per Kohs's examination of 335 inmates](normal-feeble-minded-distributions-overlap-borderzone.md) — related

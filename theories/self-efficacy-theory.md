@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 90 claims (57 for, 31 mixed, 2 against) · 66 studies (33 associational, 14 causal, 14 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 16 of 66 report an effect size · 88 claims rest on one study
+> **Evidence** · 93 claims (58 for, 33 mixed, 2 against) · 67 studies (34 associational, 14 causal, 14 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 17 of 67 report an effect size · 91 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -137,6 +137,9 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Student-reported teacher neuroticism negatively predicts student performance self-efficacy, with effects that differ across mathematics and English](../claims/teacher-neuroticism-predicts-performance-self-efficacy.md) [~W]
 - [Planning and self-efficacy contributed more to text generation in Grades 7-9, transcription more in Grades 4-6](../claims/structural-paths-noninvariant-across-grades.md) [~W]
 - [Most variance in teachers' self-efficacy toward individual students occurs within teachers rather than between teachers](../claims/tse-variance-within-teachers-dyadic.md) [~W]
+- [Primary school children follow four distinct trajectories of change in math self-efficacy over a school year: high stable, low stable, increasing, and decreasing](../claims/four-math-se-change-trajectories-primary-school.md) [+W] — attached 2026-10-25 from Peura et al. (2026), which proposed "Dynamic person-oriented account of math self-efficacy change within social cognitive theory's triadic reciprocity".
+- [Declining math self-efficacy is characterized by decreasing mastery experiences and increasing negative emotional and physiological arousal](../claims/decreasing-se-negative-mastery-and-arousal.md) [~M] — attached 2026-10-25 from Peura et al. (2026), which proposed "Dynamic person-oriented account of math self-efficacy change within social cognitive theory's triadic reciprocity".
+- [Increasing math self-efficacy co-occurs with increasing verbal persuasion, vicarious experiences, and mastery experiences and decreasing negative arousal](../claims/increasing-se-social-sources-support.md) [~M] — attached 2026-10-25 from Peura et al. (2026), which proposed "Dynamic person-oriented account of math self-efficacy change within social cognitive theory's triadic reciprocity".
 
 ## The evidence by question
 

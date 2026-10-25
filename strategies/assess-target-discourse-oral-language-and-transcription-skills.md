@@ -46,7 +46,8 @@ Because the study found a complex array of potential sources of breakdown in wri
 - [Working memory is a foundational cognitive skill for language and transcription skills, but its relation to writing is primarily mediated by other component skills](../claims/working-memory-foundational-but-mediated-in-writing.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Systematically and explicitly teach transcription skills, vocabulary and oral language to support beginning writers' writing quality](explicit-transcription-and-language-instruction-writing-quality.md)
 
 ## Examples
 -

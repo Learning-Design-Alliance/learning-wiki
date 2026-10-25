@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (99 show a difference, 42 mixed, 13 no difference) · 90 studies (33 associational, 22 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 90 report an effect size · 151 claims rest on one study
+> **Evidence** · 155 claims (100 show a difference, 42 mixed, 13 no difference) · 91 studies (33 associational, 23 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 91 report an effect size · 152 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -189,6 +189,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Lagged over-aspiration effects on achievement emotions are null, while the expectation–aspiration mean predicts next-year anxiety](../claims/parental-overaspiration-lagged-null.md) [~W] — instruction changes it
 - [Parental aspirations show weak, mostly non-significant links to achievement emotions once expectations are controlled](../claims/parental-aspirations-weak-emotion-effects.md) [-W] — instruction changes it
 - [Parental over-aspiration contemporaneously predicts lower positive and higher negative achievement emotions, particularly anxiety and pride](../claims/parental-overaspiration-contemporaneous-emotions.md) [+W] — instruction changes it
+- [The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions](../claims/autonomy-support-fosters-need-satisfaction-emotions-behaviors.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

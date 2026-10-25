@@ -50,3 +50,6 @@ Correlational analysis across grades IV to VIII in one school, arranging group t
 - [Non-verbal test materials add little to predicting achievement beyond verbal tests and mental age](non-verbal-tests-add-little.md) — related
 - [Adding the verbal group test to Stanford MA raises the multiple correlation with achievement from 0.54 to 0.605](group-test-adds-to-stanford-ma-prediction.md) — related
 - [The Binet scale is heavily verbal — 43 of its 54 tests use words rather than acts — a criticism Ayres raises and the reviewer partially rebuts](binet-scale-43-of-54-tests-verbal.md) — related
+- [Correlations between intelligence tests and arithmetic peak at the somewhat-verbal step of the verbalness scale in both grade groups](arithmetic-correlation-peaks-somewhat-verbal.md) — related
+- [Reading shows the greatest increase in correlation with intelligence tests as test material becomes more verbal](reading-correlation-increases-most-with-verbalness.md) — related
+- [More verbal intelligence-test material yields higher correlations with mental age and with verbal school subjects in grades IV-VIII](verbalness-raises-correlation-with-achievement.md) — a narrower finding that bears on this claim

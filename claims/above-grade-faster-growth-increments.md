@@ -50,3 +50,4 @@ Observational analysis of 266 weight increments and 264 height increments distri
 - [Physiologically accelerated children are mentally accelerated: height correlates with mental age +0.53 for 49 girls with age held constant](physiological-acceleration-mental-acceleration.md) — related
 - [When individual growth-increment curves are correlated with scholarship without reference to body size or stage of development, no decided relation between scholarship and physical growth appears](growth-increment-scholarship-no-decided-relation.md) — related
 - [In a same-age, same-class group of eight boys followed through high school, the higher-scholarship half averaged taller in all four years and heavier in all years except the junior year](high-scholarship-half-taller-heavier.md) — related
+- [Physical measures showed no appreciable difference in height and a larger weight gain in the untreated class](physical-measures-weight-height-no-treated-advantage.md) — related

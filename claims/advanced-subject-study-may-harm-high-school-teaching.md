@@ -46,3 +46,4 @@ Editorial argument (theoretical opinion, no data) in the Journal of Educational 
 
 ## Related Claims
 - [The authors' data supports that Calculus 1 need not be a prerequisite for lower-level CS courses](calculus1-need-not-prerequisite-lower-level-cs.md) — related
+- [The editorial argues that a school system cannot be successfully conducted without some sort of unification and standardization](school-system-needs-unification-standardization.md) — related

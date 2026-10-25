@@ -48,3 +48,4 @@ Summary of the combined distribution tables for 1,405 pupils in system A and 487
 - [Content Proximity pilot tests contained significantly more on-grade items and made better use of adjacent-grade items than traditional MAP Growth tests](content-proximity-more-on-grade-items.md) — related
 - [The dashboard reports median achievement percentiles normed to a nationally representative pre-COVID sample and projected proficiency against state cut scores](dashboard-metrics-percentiles-and-proficiency-projections.md) — related
 - [The supervised school system showed a larger range of grade-to-grade drawing progress (5.53 units from grade 1A to 8A) than the unsupervised system (2.44 units)](supervision-linked-to-larger-drawing-progress-range.md) — related
+- [Uneven school coverage of ages makes general age norms for achievement tests practically impossible to establish](age-norms-impossible-uneven-school-coverage.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 274 claims (118 for, 138 mixed, 18 against) · 203 studies (79 associational, 48 design, 28 review, 22 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 203 report an effect size · 267 claims rest on one study
+> **Evidence** · 276 claims (119 for, 139 mixed, 18 against) · 205 studies (80 associational, 48 design, 28 review, 23 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 205 report an effect size · 269 claims rest on one study
 
 ## Conditional relationship
 
@@ -348,6 +348,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The motivational measures show strict longitudinal measurement invariance across the two time points](../claims/strict-measurement-invariance-motivation-two-waves.md) [~W]
 - [Duplicate-form reliability coefficients placed the Spelling Test highest among the ten tests, which the author attributed to the longer tests having 50 elements versus 25 or less](../claims/duplicate-form-reliability-spelling-highest.md) [+W]
 - [Emotions relate to achievement most strongly within the same domain, supporting convergent and divergent validity of domain-specific emotion measures](../claims/emotions-achievement-same-domain-convergent-validity.md) [+W]
+- [The standard deviation of true scores equals the square root of the reliability coefficient times the standard deviation of obtained scores](../claims/otis-1922-true-score-sd-formula.md) [~W]
+- [MicroDYN measurement of CPS shows strong factorial invariance across grade levels ages 11 to 17](../claims/cps-measurement-invariance-grades.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

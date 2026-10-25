@@ -47,3 +47,4 @@ The review reports a rapid teacher-report survey of New Haven elementary school 
 ## Related Claims
 - [Figure12 Distribution Comparison Vitiated Unequal Totals](figure12-distribution-comparison-vitiated-unequal-totals.md)
 - [The Binet-Simon scale accurately graded fairly minute individual differences in mental ability within same-age groups, as validated against teacher and principal judgments](binet-simon-grades-individual-differences.md) — related
+- [Mental tests can identify misplaced elementary-school children who succeed when differently placed, per Hoke's Richmond study](mental-tests-grade-placement-misplaced-children.md) — related

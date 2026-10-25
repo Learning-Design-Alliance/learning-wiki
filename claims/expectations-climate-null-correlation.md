@@ -48,3 +48,4 @@ Secondary correlational check reported in the Limitations section of the same st
 - [Classroom autonomy-supportive climate moderates teacher expectation effects: significant in low-autonomy-supportive classrooms but not in high ones](autonomy-supportive-climate-moderates-tee.md) — related
 - [Teacher expectation effects on perceived competence are curvilinear: positive expectations are stronger than negative ones](positive-expectations-stronger-than-negative-tee.md) — related
 - [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](low-autonomy-climate-harmful-low-expectation-students.md) — related
+- [An autonomy-supportive intervention in secondary physics classrooms had a positive average impact on all measured motivational and behavioral outcomes](autonomy-support-intervention-positive-average-effects-physics.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/cancellation-test-untreated-class-lead.md
+---
+
+# Revision history: [claims/cancellation-test-untreated-class-lead](../claims/cancellation-test-untreated-class-lead.md)
+
+### 2026-10-25 · ingest · process:wiki-ingest
+Ingested from jrnl-e2ba84030e32 (Preliminary study of the effect of dental treatment upon the physical and mental efficiency of school children.) via eval_harness.py + ingest_extractions.py

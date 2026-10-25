@@ -48,3 +48,4 @@ Partial correlation analysis for grades IV to VIII comparing test working time w
 - [The more verbal the test material, the higher its correlation with school achievement, with a partial correlation of 0.69 for verbalness alone](verbalness-predicts-school-achievement.md) — related
 - [Verbalness outweighs test length as a factor determining correlations with achievement](verbalness-outweighs-test-length.md) — related
 - [Stanford-Binet mental age correlations with achievement rise with grade level, while verbal group test correlations stay about the same](stanford-ma-achievement-correlation-rises-with-grade.md) — related
+- [More verbal intelligence-test material yields higher correlations with mental age and with verbal school subjects in grades IV-VIII](verbalness-raises-correlation-with-achievement.md) — related

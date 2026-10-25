@@ -50,3 +50,4 @@ Standardization study in which seventy mimeographed exercises were sent to coope
 - [The two test forms were built to pair exercises of closely the same value, equal total values, and similar inter-exercise intervals, with 100 total points per form](parallel-forms-equal-total-values.md)
 - [Percentile-difference scales are crude and embody a fundamental fallacy because percentile units are not equal intervals](percentile-scales-crude-fallacy.md) — related
 - [Specific arithmetic problems were identified as troublesome through percentage analysis of test solutions](troublesome-arithmetic-problems-identified.md) — a narrower finding that bears on this claim
+- [Percentile-based and percentage-of-failure evaluations of stimulus-word difficulty agree almost perfectly (rank r = .996)](opposites-word-difficulty-methods-rank-r-996.md) — related

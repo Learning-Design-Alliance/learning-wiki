@@ -52,3 +52,4 @@ The reviewer summarizes the book's final-chapter recommendations, quoting its cl
 - [Important intellectual differences among people are not found on the sensory, perceptual, or purely reproductive level](intellectual-differences-not-sensory-perceptual-level.md) — related
 - [The review endorses educational guidance by early intelligence testing and selection by tests at high school and college entrance](review-endorses-test-based-educational-guidance.md) — related
 - [Women delinquents scored somewhat below an army comparison group on the Stanford-Binet, but overlap was so great that other causes of delinquency must be sought](delinquent-women-intelligence-overlap-great.md) — related
+- [Teaching efficiency is impossible without continuous adjustment of the work to pupils' advancing attainments](continuous-adjustment-attainments-teaching-efficiency.md) — related

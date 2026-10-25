@@ -11,9 +11,9 @@ evidence_strength: weak
 newest_evidence: 1917
 sources:
   - id: kohs-1917
-    resource: "https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
-    title: "Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs"
-    author: Kohs, Samuel C.
+    resource: "https://doi.org/10.1037/h0071443"
+    title: "Kohs, S. C. (1917). An annotated bibliography of recent literature on the Binet-Simon scale (1913-1917): Part IV. *Journal of Educational Psychology, 8*(10), 609–618. https://doi.org/10.1037/h0071443"
+    author: Kohs, S. C.
     q: 2
     i: "?"
     kind: associational
@@ -33,7 +33,7 @@ sources:
 
 ### Kohs 1917
 
-Kohs, Samuel C. (1917). An Annotated Bibliography of Recent Literature on the Binet-Simon Scale (1913-1917), Part IV. The Journal of Educational Psychology. https://www.google.com/search?q=%22Annotated+Bibliography+of+Recent+Literature+on+the+Binet-Simon+Scale%22+Kohs
+Kohs, S. C. (1917). An annotated bibliography of recent literature on the Binet-Simon scale (1913-1917): Part IV. *Journal of Educational Psychology, 8*(10), 609–618. https://doi.org/10.1037/h0071443
 
 `q2 · i?` · `associational · r2`
 
@@ -55,3 +55,4 @@ Entry 390 summarizes Terman, Lyman, Ordahl, Galbreath and Talbert's 1916 Journal
 - [In Goddard's Vineland examination of 1547 pupils, only about half of mentally over-age and under-age pupils show corresponding advancement or retardation in school grading](goddard-binet-mental-age-vs-pedagogical-age.md) — related
 - [The reviewer argues mental tests are more needed for selecting superior children than for selecting inferior children](mental-tests-more-needed-for-superior-selection.md) — related
 - [Goddard's Vineland testing of two thousand normal children found the Binet scale highly accurate](goddard-vineland-two-thousand-normal-children-accurate.md) — related
+- [Distributions of normal and feeble-minded groups overlap, with a borderzone between them, per Kohs's examination of 335 inmates](normal-feeble-minded-distributions-overlap-borderzone.md) — related

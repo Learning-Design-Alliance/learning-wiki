@@ -59,3 +59,4 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [Auditory memory (digit-span) tests are overrepresented in the adult scale and depress the rankings of otherwise high-performing students](caldwell-1919-auditory-memory-overweighting.md) — related
 - [Longer letter series yield somewhat higher average scores because they offer opportunities for occasional high scores via mental grouping](longer-series-higher-scores-grouping.md) — related
 - [Duplicate-form reliability coefficients placed the Spelling Test highest among the ten tests, which the author attributed to the longer tests having 50 elements versus 25 or less](duplicate-form-reliability-spelling-highest.md) — related
+- [On the seven-digit rote memory test the treated class gained 10.8% over its own first record while the untreated class gained none](treated-class-gain-seven-digit-rote-memory.md) — related

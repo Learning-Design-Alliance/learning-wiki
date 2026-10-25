@@ -67,3 +67,4 @@ Path-model mediation analysis in the same RCT tested whether motivational variab
 - [Giving students a choice between self-focused and other-focused utility-value assignments produced higher course grades than fixing the assignment type](uv-choice-structure-higher-grades.md) — a narrower finding that bears on this claim
 - [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md) — related
 - [In a college biology course, students assigned a variety of self- and other-focused utility-value assignments earned higher course grades than students who wrote the same assignment type three times](uv-variety-structure-higher-grades.md) — related
+- [Task performance mediated the reward contrast's effect on task interest but failed to mediate its effect on continuing motivation for the task](task-performance-mediation-task-interest-not-continuing.md) — related

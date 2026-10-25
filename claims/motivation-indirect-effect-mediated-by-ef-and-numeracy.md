@@ -53,3 +53,4 @@ Mediation analysis following Baron and Kenny on the same longitudinal SEM sample
 - [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — related
 - [Ecological factors and mathematics motivation explain significant variance in student- and school-level numeracy achievement](ecology-factors-motivation-predict-numeracy-achievement.md) — related
+- [Task performance mediated the reward contrast's effect on task interest but failed to mediate its effect on continuing motivation for the task](task-performance-mediation-task-interest-not-continuing.md) — related

@@ -45,7 +45,9 @@ Descriptive analysis of ten tests given to 22 seventh- and 22 eighth-grade pupil
 
 
 ## Related Claims
+
 - [An extra year of school life produced no discernible improvement in the traits tested, with possible deterioration in addition and spelling](extra-school-year-no-improvement-traits.md) — a narrower finding that bears on this claim
 - [Seventh- and eighth-grade pupils overlap completely in ability, with no line of demarcation between grades](no-demarcation-between-school-grades.md) — possibly the same claim (merge candidate)
 - [Individual pupils' abilities vary widely across traits, showing little evidence of correlation of abilities](little-correlation-of-abilities-within-pupils.md) — related
 - [Group averages are misleading when applied to individual pupils because of extensive overlapping in weight and height across grades](group-averages-misleading-individual-overlap.md) — related
+- [Public school children score somewhat above parochial school children in every test except rote memory, with parochial children over-represented at both extremes](public-vs-parochial-test-comparison.md)

@@ -42562,5 +42562,125 @@
  "test-format\tdouble tests\tsingle tests": {
   "label": "double tests vs single tests",
   "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive teaching\tregular teaching style": {
+  "label": "autonomy-supportive teaching vs regular teaching style",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive teaching via choices, rationales, and informational language\tregular teaching style": {
+  "label": "autonomy-supportive teaching vs regular teaching style",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive teaching with choices, rationales, and informational language\tregular teaching style": {
+  "label": "autonomy-supportive teaching vs regular teaching style",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tuse of easy divisors such as 2, 3, and 4 when teaching averages\tuse of harder divisors such as 7 and 9": {
+  "label": "easy-to-hard vs hard-to-easy",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcontinuous examinations and standardization used to monitor progress and adjust work\tteaching without continuous examinations or standardization": {
+  "label": "continuous formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\texaminations used to monitor pupil progress and adjust teaching\tteaching without examinations": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\texaminations with unification and standardization\tno examinations or an unstandardized system": {
+  "label": "standardized assessment vs unstandardized or no assessment",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadequate practice\tless than adequate practice": {
+  "label": "adequate vs less-than-adequate practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadequate practice\tunder-learning": {
+  "label": "adequate vs less-than-adequate practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadequate practice on each arithmetic bond\tless than adequate practice": {
+  "label": "adequate vs less-than-adequate practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\teasier arithmetical facts\tharder arithmetical facts": {
+  "label": "easier vs harder arithmetic facts",
+  "treatment_is_a": true
+ },
+ "practice-amount\texcess practice that is enjoyed\texcess practice that is not enjoyed": {
+  "label": "enjoyed vs not-enjoyed excess practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\textra practice operating a bond in a changed mental set, such as within long division\tpractice of the same bond in isolation": {
+  "label": "practice in varied contexts vs practice in isolation",
+  "treatment_is_a": true
+ },
+ "practice-amount\tless than a sufficient amount of practice\ta sufficient amount of practice": {
+  "label": "adequate vs less-than-adequate practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\tless than the reasonable amount of practice\tadequate practice": {
+  "label": "adequate vs less-than-adequate practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\tmore practice on easier arithmetical bonds\tless practice on harder arithmetical bonds": {
+  "label": "more practice on easier vs less practice on harder arithmetic facts",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice above the reasonable amount\treasonable amount of practice": {
+  "label": "more-than-reasonable practice (overlearning) vs reasonable practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice beyond the reasonable amount\treasonable amount of practice": {
+  "label": "more-than-reasonable practice (overlearning) vs reasonable practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in excess of the reasonable amount\treasonable amount of practice": {
+  "label": "more-than-reasonable practice (overlearning) vs reasonable practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tpractice in excess of the reasonable amount\tthe reasonable amount of practice": {
+  "label": "more-than-reasonable practice (overlearning) vs reasonable practice",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcompetition as an incentive\tschool work without competition": {
+  "label": "competition vs little or no competition",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tcompetition as an incentive for school work\tless or no competition": {
+  "label": "competition vs little or no competition",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigh-grade condition\tstandard-grade condition": {
+  "label": "high-grade grading scheme vs standard-grade grading scheme",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigh-grade grading scheme\tstandard-grade grading scheme": {
+  "label": "high-grade grading scheme vs standard-grade grading scheme",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tno grade\tstandard grade": {
+  "label": "no grade vs standard grade",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tno-grade condition\tstandard-grade condition": {
+  "label": "no grade vs standard grade",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tschool competition\tschool work without competition": {
+  "label": "competition vs little or no competition",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tschool system that makes free use of competition\tless use of competition": {
+  "label": "competition vs little or no competition",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tschool systems making free use of competition\tschool systems using less competition": {
+  "label": "competition vs little or no competition",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tuse of competition as an incentive\tlittle or no competition": {
+  "label": "competition vs little or no competition",
+  "treatment_is_a": true
  }
 }

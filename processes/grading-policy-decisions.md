@@ -12,7 +12,7 @@ generated:
 # Grading Policy Decisions
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 18 claims (3 for, 13 mixed, 2 against) · 15 studies (3 causal, 3 review, 3 associational, 3 theoretical, 2 qualitative, 1 design), `q1`–`q3` · 1 of 15 report an effect size · 18 claims rest on one study
+> **Evidence** · 21 claims (4 for, 15 mixed, 2 against) · 17 studies (4 causal, 3 review, 3 associational, 3 qualitative, 3 theoretical, 1 design), `q1`–`q3` · 1 of 17 report an effect size · 21 claims rest on one study
 
 ## Description
 Assigning a grade is rarely a single, self-evident calculation — it bundles several genuinely separable policy decisions, each carrying real tradeoffs.
@@ -67,6 +67,9 @@ Assigning a grade is rarely a single, self-evident calculation — it bundles se
 - [Single-item effort ratings show high internal consistency but their reliability is difficult to establish](../claims/single-item-effort-rating-reliability-problematic.md) [~W]
 - [After Michigan adopted a standard ranking scale, the percentage of failures remained below 3 per cent instead of approaching 10 per cent](../claims/michigan-scale-failures-below-3-percent.md) [~W]
 - [Evaluators using assessment for selection find more mistakes in tests attributed to low-SES than high-SES students, creating an artificial SES achievement gap](../claims/selection-assessment-creates-ses-gap.md) [-W]
+- [In Experiment 1, both the high-grade and no-grade conditions produced higher continuing motivation for the task than the standard-grade condition](../claims/high-and-no-grade-raise-continuing-motivation.md) [+M]
+- [In Experiment 1, both the high-grade and no-grade conditions produced higher self-report task interest than the standard-grade condition](../claims/high-and-no-grade-raise-task-interest-vs-standard.md) [~W]
+- [Exceptional mismatches between test rank and school grade are explicable by social circumstances](../claims/test-grade-mismatches-explained-by-home-conditions.md) [~W]
 
 ## Related Principles
 - [Validity, Reliability, and Bias in Classroom Assessment](../principles/validity-reliability-and-bias-in-classroom-assessment.md) — grading decisions inherit the underlying assessment's validity and reliability properties, but add a further, separable layer of composition choices

@@ -23,7 +23,7 @@ sources:
 # Drill & Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 1 mixed, 2 against) · 5 studies (4 causal, 1 theoretical), `q1`–`q3` · 0 of 5 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 6 studies (4 causal, 2 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 11 claims rest on one study
 
 ## Description
 Drill and practice is the element in which learners repeatedly perform a focused skill or response pattern until it becomes more fluent or automatic. It is useful when subskills need rapid, accurate execution to support later complex performance.
@@ -59,6 +59,7 @@ Drill and practice is the element in which learners repeatedly perform a focused
 - [Daily speed drills produced an 18.7% relative gain in silent reading speed among grade 4-6 pupils without injuriously affecting quality of reproduction](../claims/speed-drills-raise-reading-speed-without-quality-loss.md) [+W] — attached 2026-10-24 from Peters (1916), which proposed "Daily speed drill with oral reproduction procedure"; tests this page's relationship.
 - [An anomalous third-test result was attributed to urging all pupils to read as rapidly as possible, which spurred the no-drill group more](../claims/test-exhortation-unbalanced-groups.md) [-W]
 - [Typewriting practice focused on the most frequent letter combinations produced much more rapid improvement than the usual procedure](../claims/typewriting-practice-frequent-letter-combinations.md) [~W]
+- [Provisional practice requirements vary with bond difficulty and pupil ability, from twelve practices for easy bonds to hundreds for difficult ones](../claims/provisional-practice-amounts-by-difficulty.md) [~W]
 
 ## Related Elements
 - [Part-Task Practice](part-task-practice.md)

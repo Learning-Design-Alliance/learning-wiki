@@ -67,3 +67,5 @@ The review attributes to Morrow and Bridgman's 1912 Training School article the 
 - [Binet testing of one hundred juvenile court cases classified sixty-six per cent as feeble-minded](juvenile-court-binet-sixty-six-percent-feeble-minded.md) — related
 - [Goddard's Binet results indicated fifteen thousand feeble-minded children in the New York City public schools](nyc-fifteen-thousand-feeble-minded-estimate.md) — related
 - [In Wallin's St. Louis psycho-educational clinic, of 430 referred cases, 25.9% of 320 boys and 40% of 110 girls were found feeble-minded, with almost twice as many backward and retarded as feeble-minded.](wallin-st-louis-clinic-430-cases-feeble-minded-by-sex.md) — related
+- [The year scale and the point scale yield disparate results and differ in diagnostic accuracy for delinquent populations, per Haines's studies](haines-point-versus-year-scale-disparity.md) — related
+- [Low intelligence test scores alone cannot account for delinquency, since many non-delinquent adolescents show no more intelligence, per Haines](low-intelligence-insufficient-explanation-delinquency.md) — related

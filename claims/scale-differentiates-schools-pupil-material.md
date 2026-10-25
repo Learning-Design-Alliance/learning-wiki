@@ -66,3 +66,5 @@ School-comparison evidence in City A, where the worst school draws from a neighb
 ## Related Claims
 - [Intermedian grade distances on the scientific-thinking scale are derived from the per cent of each grade's pupils lying between successive grade medians](intermedian-distances-from-score-distributions.md) — related
 - [Grades overlap massively in spelling: on average 20.8% of pupils reach or exceed the median of the next grade above](grade-overlapping-in-spelling.md) — related
+- [Uneven school coverage of ages makes general age norms for achievement tests practically impossible to establish](age-norms-impossible-uneven-school-coverage.md) — related
+- [Median age per grade, not per cent of retardation, is the best single statement of the age-grade situation for most practical purposes](median-age-per-grade-better-than-percent-retardation.md) — related
