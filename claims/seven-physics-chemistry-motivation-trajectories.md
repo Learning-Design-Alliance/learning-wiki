@@ -72,3 +72,4 @@ Latent growth curve analysis preceded the mixture models; curvilinear models fit
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Math self-concept declined then leveled off (U-shaped), L1 self-concept declined slightly, math interest declined while L1 interest increased across Grades 7–9](domain-divergent-motivation-trends-lower-secondary.md) — related
 - [Adolescents' math and L1 self-concept and interest development across Grades 7–9 is best described by a single homogeneous trajectory profile](one-class-motivational-trajectory-grades-7-9.md) — related
+- [Self-concept and achievement slopes are positively associated, while higher initial self-concept predicts a more marked achievement decrease](self-concept-achievement-longitudinal-reciprocal-negative.md) — related

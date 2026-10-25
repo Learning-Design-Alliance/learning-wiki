@@ -90,3 +90,4 @@ The packet's rationale section asserts, citing Krashen (1981a), that "repetitive
 - [Processing instruction produces significant gains in both sentence-level comprehension and production](processing-instruction-gains-comprehension-and-production.md) — related
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — reports the opposite
 - [Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically](mechanical-drills-limited-use-meaning-form.md) — related
+- [Project-method proponents claim skills are acquired without specific repetition through motivated life situations, refusing compromise with demands for economical skill practice](project-method-no-specific-repetition-claim.md) — related

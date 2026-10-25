@@ -49,3 +49,4 @@ The review reports, citing Robayo-Tamayo et al. (2020), a 5-day quantitative dia
 - [Student factors — older age, personality traits, intrinsic motivation and self-efficacy — are associated with deeper approaches to learning](student-factors-deep-approach.md) — related
 - [Most studies show social and emotional competencies are positively associated with student engagement and negatively associated with disengagement across school levels and backgrounds](secs-positively-associated-student-engagement.md) — related
 - [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — related
+- [Cognitive appraisals and positive emotions form reciprocal daily feedback loops during exam preparation](daily-feedback-loops-appraisals-positive-emotions.md) — related

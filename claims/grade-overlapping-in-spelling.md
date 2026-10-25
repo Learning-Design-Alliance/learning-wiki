@@ -53,3 +53,5 @@ Analysis of grade distributions from the spelling tests, presented in the curves
 - [Corrected measures of overlapping show 33 per cent correct classification rather than the 17 per cent previously reported, and 19.5 per cent rather than 33 per cent exceeding or falling short of the adjacent grade's median](kelley-corrected-overlapping-classification-percentage.md) — related
 - [Intelligence-test scores overlap substantially across non-consecutive grades, with some fourth graders scoring above the fifth-grade norm](grade-overlapping-of-point-scale-scores.md) — a narrower finding that bears on this claim
 - [Buckingham found information-question scores predict thought ability far better than thought-question scores predict information](buckingham-information-thought-regression-asymmetry.md) — related
+- [Seventh- and eighth-grade pupils overlap completely in ability, with no line of demarcation between grades](no-demarcation-between-school-grades.md) — a broader claim this one bears on
+- [The scale differentiates pupil material between schools in neighborhoods of different character](scale-differentiates-schools-pupil-material.md) — related

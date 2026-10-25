@@ -46,3 +46,4 @@ Graphical analysis (Fig. 5) of the 16 problems of Arithmetic Test I for 121 indi
 
 ## Related Claims
 - [Per cent solved is a variable, not a constant unit of difficulty, and is not comparable across groups](percent-variable-unit-not-constant.md) — related
+- [Galton's ogive percentile graph serves as a convenient scale that lets an individual's test score be instantly translated into a rank within the normed group](ogive-percentile-graph-convenient-scale-rank.md) — related

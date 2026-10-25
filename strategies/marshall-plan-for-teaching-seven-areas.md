@@ -60,6 +60,7 @@ The report's central recommendation is 'a nationwide Marshall Plan for teaching,
 - [Invest in high-quality induction and mentoring programs, which are associated with higher retention particularly for teachers of color](induction-mentoring-retention-teachers-of-color.md)
 - [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
 - [Design profession-level governance arrangements, modeled on Ostrom's commons mechanisms, to sustain expertise regeneration](profession-level-commons-governance-ostrom-mechanisms.md)
+- [Recruit the rural teaching profession through state subsidies, supported by survey evidence and arguments from other professions' recruiting methods](state-subsidy-teacher-recruitment.md)
 
 ## Examples
 -

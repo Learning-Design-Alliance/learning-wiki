@@ -41,6 +41,7 @@ The article advises that public reflection (blogs, discussion boards) carries a 
 
 - [Multimodal Learning Logs/Blogs](multimodal-learning-logs-blogs.md)
 - [Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking](recording-consent-and-data-protection-tips.md)
+- [Publish an alternative note explaining why data or materials cannot be shared when confidentiality prevents it](alternative-note-for-unshareable-data.md)
 
 ## Examples
 -

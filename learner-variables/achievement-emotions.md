@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (97 show a difference, 40 mixed, 12 no difference) · 89 studies (32 associational, 22 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 89 report an effect size · 146 claims rest on one study
+> **Evidence** · 154 claims (99 show a difference, 42 mixed, 13 no difference) · 90 studies (33 associational, 22 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 90 report an effect size · 151 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -184,6 +184,11 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Peers' enjoyment raises students' mastery-approach goals but leaves performance-approach and performance-avoidance goals unchanged](../claims/peer-enjoyment-mastery-approach-goals.md) [~M] — learners who differ on it differ in outcomes
 - [Students exposed to peers' enjoyment achieve higher game performance than those exposed to peers' frustration](../claims/peer-enjoyment-game-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Students exposed to peers' frustration report higher mental effort than those exposed to peers' enjoyment or a neutral peer, contrary to hypothesis](../claims/peer-frustration-raises-mental-effort.md) [+M] — learners who differ on it differ in outcomes
+- [Higher parental expectations contemporaneously predict more positive and fewer negative mathematics achievement emotions, with boredom an exception](../claims/parental-expectations-contemporaneous-achievement-emotions.md) [~W] — instruction changes it
+- [Higher parental expectations predict higher anxiety, anger, and shame one year later, opposite in sign to contemporaneous effects](../claims/parental-expectations-lagged-negative-emotions.md) [+W] — instruction changes it
+- [Lagged over-aspiration effects on achievement emotions are null, while the expectation–aspiration mean predicts next-year anxiety](../claims/parental-overaspiration-lagged-null.md) [~W] — instruction changes it
+- [Parental aspirations show weak, mostly non-significant links to achievement emotions once expectations are controlled](../claims/parental-aspirations-weak-emotion-effects.md) [-W] — instruction changes it
+- [Parental over-aspiration contemporaneously predicts lower positive and higher negative achievement emotions, particularly anxiety and pride](../claims/parental-overaspiration-contemporaneous-emotions.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

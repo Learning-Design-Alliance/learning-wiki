@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (16 for, 12 mixed, 1 against) · 46 studies (23 causal, 8 review, 7 theoretical, 6 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 46 report an effect size · 19 claims rest on one study
+> **Evidence** · 30 claims (17 for, 12 mixed, 1 against) · 47 studies (24 causal, 8 review, 7 theoretical, 6 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 47 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Elaborated conceptual and procedural feedback are significantly more conducive to learning than no feedback, while KR feedback is not](../claims/elaborated-feedback-beats-no-feedback-kr-not-significant.md) [+W]
 - [Conceptual and procedural elaborated feedback do not differ significantly in effectiveness](../claims/conceptual-vs-procedural-feedback-no-difference.md) [~W]
 - [Both directed multisensory and silent visual spelling methods produced large improvement from baseline after 40 minutes of practice spread over four days](../claims/both-spelling-methods-large-improvement-baseline.md) [~W]
+- [Practice substantially improves numerical accuracy in rule sums, and in School B this carried over to better numerical accuracy within problem work](../claims/winch-1910-numerical-accuracy-gains-within-domain.md) [+W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

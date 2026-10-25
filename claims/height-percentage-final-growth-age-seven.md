@@ -49,3 +49,4 @@ Descriptive analysis of the Iowa growth-curve data on height. The author reports
 - [Children maintain their relative height rank within a group from ages 4 to 18, with little crossing of growth curves](height-rank-stability-little-curve-crossing.md) — related
 - [Growth measurements at age ten predict stature at sixteen within about 2.5 centimeters and IQ over the same period within 6.3 points](childhood-growth-predicts-later-stature-and-iq.md) — related
 - [Coefficients of variability for physical traits tend to decrease from ages seven to seventeen and are generally higher in boys than in girls, per the review of Baldwin's growth study](baldwin-variability-decreases-7-17-higher-boys.md) — related
+- [Measures of what an individual does reveal little about his achievement, whereas measures of what he can do help locate his difficulties and virtues](capacity-measures-diagnose-difficulties-and-virtues.md) — related

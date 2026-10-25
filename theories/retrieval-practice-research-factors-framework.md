@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (7 for, 11 mixed) · 20 studies (13 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 10 of 20 report an effect size · 17 claims rest on one study
+> **Evidence** · 19 claims (8 for, 11 mixed) · 21 studies (14 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 10 of 21 report an effect size · 18 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -57,6 +57,7 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](../claims/retrieval-practice-beats-worked-examples-with-initial-instruction.md) [~W]
 - [Posttests were coded as delayed if they occurred at least one day after treatment, with two-delay studies and studies lacking day/week delay metrics excluded from mean and median delay calculations](../claims/refutation-text-delayed-posttest-coding-rule.md) [~W]
 - [Practice gains are greater for nonsense material (average final gain 28%) than for sense-material (average final gain 10%).](../claims/nonsense-material-gains-exceed-sense-material.md) [~W]
+- [In School O.R. the practised group scored higher overall in final reasoning tests, but the section-by-section excess improvement was uncertain](../claims/winch-1910-school-or-practised-overall-gain.md) [+W]
 
 ## Related Theories
 - 

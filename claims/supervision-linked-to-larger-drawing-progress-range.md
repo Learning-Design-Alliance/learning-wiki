@@ -46,3 +46,4 @@ Comparison of the curves of progress of the two systems, one supervised and one 
 
 ## Related Claims
 - [Drawing ability scores rise from grade IB to grade 8A, but the data support group norms rather than a distinctive norm for each grade](drawing-group-norms-not-per-grade-norms.md) — related
+- [A Zone Plan of supervision of rural schools is reported to give results markedly superior to those of representative but unsupervised schools](zone-plan-rural-supervision-superior-results.md) — related

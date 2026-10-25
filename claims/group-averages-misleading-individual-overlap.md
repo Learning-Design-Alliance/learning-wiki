@@ -54,3 +54,5 @@ Descriptive comparison of individual records within the freshman group. Among th
 - [Cross-sectional measurements of children of the same age may yield spurious growth facts because of great individual differences](cross-sectional-growth-facts-may-be-spurious-individual-differences.md) — possibly the same claim (merge candidate)
 - [Physiological age, as evidenced by the advent of pubescence or first menstruation, shows wide variations and low correlations with other traits](physiological-age-low-correlations-other-traits.md) — related
 - [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](mental-age-grouping-unreliable-for-educational-treatment.md) — a narrower finding that bears on this claim
+- [Children in the same school grade show extreme ranges of ability in every physical and mental trait examined](extreme-ability-within-single-school-grades.md) — related
+- [Seventh- and eighth-grade pupils overlap completely in ability, with no line of demarcation between grades](no-demarcation-between-school-grades.md) — related

@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 222 claims (101 for, 113 mixed, 8 against) · 166 studies (53 associational, 43 causal, 25 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 39 of 166 report an effect size · 206 claims rest on one study
+> **Evidence** · 224 claims (103 for, 113 mixed, 8 against) · 167 studies (53 associational, 44 causal, 25 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 40 of 167 report an effect size · 208 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -269,6 +269,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Contemporary SRL models largely omit the broader social context and implicitly assume all learners are available to learn](../claims/srl-models-assume-availability-omit-context.md) [~W]
 - [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](../claims/srl-interventions-improve-achievement-domain-effects.md) [+W] — attached 2026-10-22 from Ulrich Trautwein et al. (2026), which proposed "Integrated multicomponent model of self-regulation competence unifying SRL, executive functions, and conscientiousness".
 - [Planning and self-efficacy contributed more to text generation in Grades 7-9, transcription more in Grades 4-6](../claims/structural-paths-noninvariant-across-grades.md) [~W]
+- [Randomly assigned high school students implementing situation modification accomplished more study goals than those using response modulation or no strategy](../claims/situation-modification-improves-study-goal-attainment-high-school.md) [+M] — attached 2026-10-25 from Duckworth Angela L. et al. (2016), which proposed "The process model of self-control organizes strategies into five categories corresponding to stages of impulse generation".
+- [Randomly assigned college students implementing situation modification accomplished more study goals than comparison groups](../claims/situation-modification-improves-study-goal-attainment-college.md) [+M] — attached 2026-10-25 from Duckworth Angela L. et al. (2016), which proposed "The process model of self-control organizes strategies into five categories corresponding to stages of impulse generation".
 
 ## The evidence by question
 

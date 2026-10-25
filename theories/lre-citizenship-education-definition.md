@@ -46,6 +46,7 @@ The digest defines LRE as education for citizenship rather than specialized lega
 
 - [Place LRE in the curriculum through special events, separate units or courses, or infusion](../strategies/lre-curriculum-placement-approaches.md)
 - [Five characteristics of effective law-related education programs](../designs/effective-lre-program-characteristics.md)
+- [An American Citizenship Course in United States History](../products/an-american-citizenship-course-in-united-states-history.md)
 
 ## Key Sources
 - Pereira, Carolyn. (1988). Law-Related Education in Elementary and Secondary Schools. ERIC Digest. https://eric.ed.gov/?id=ED296948

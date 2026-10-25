@@ -69,6 +69,7 @@ A balanced system works when assessment is treated as a decision-support tool, n
 - [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)
 - [Adopt through-year assessments that combine interim and summative functions to increase instructional relevance](through-year-assessments-instructional-relevance.md)
 - [Pair a contamination-resistant static benchmark core with a learner-in-the-loop layer for next-generation education evaluation](learner-in-the-loop-next-benchmark.md)
+- [A test-standards committee should encourage the continued inquiring use of every possible form of test or scale rather than force decisions among systems](committee-encourages-inquiring-test-use.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the core element; every layer of the system is an instance of it

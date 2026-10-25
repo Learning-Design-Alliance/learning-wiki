@@ -13,19 +13,20 @@ generated:
 # PALMA longitudinal dataset of math achievement and self-beliefs in Bavarian secondary schools
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (4 associational), `q2` · 0 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 The PALMA project dataset tracks mathematics achievement and self-beliefs across six measurement waves among secondary-school students in Bavarian schools, using standardized tests, grades, and student surveys.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **PALMA longitudinal dataset of parental expectations, aspirations, and mathematics achievement emotions**: PALMA (Project for the Analysis of Learning and Achievement in Mathematics) is a longitudinal German dataset with annual parent and student assessments in mathematics. 'In total, 3,424 students (50.0% female) provided data for parental expectation, aspiration, and students' achievement emotions at least in one wave.' It includes single-item parental expectation and aspiration measures, end-of-year math grades, and the AEQ–M covering seven achievement emotions, drawn from 42 schools across three Bavarian tracks. (Sakaki et al. (2025))
 
 ### Claims
-
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](../claims/rem-reciprocal-effects-ri-clpm-clpm-palma.md) [+M]
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](../claims/reanalyses-converging-support-extended-rem-asc-effect.md) [+M]
 - [In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](../claims/asc-achievement-temporal-asymmetry.md) [+M]
+- [Higher parental expectations contemporaneously predict more positive and fewer negative mathematics achievement emotions, with boredom an exception](../claims/parental-expectations-contemporaneous-achievement-emotions.md) [+M]
 
 ## Related Products and Programmes
 
@@ -33,3 +34,4 @@ The PALMA project dataset tracks mathematics achievement and self-beliefs across
 
 ## Key Sources
 - Marsh, H. W., Pekrun, R., Parker, P. D., Murayama, K., Guo, J., Dicke, T. and Arens, A. K. (2019). The murky distinction between self-concept and self-efficacy: beware of lurking jingle-jangle fallacies. Journal of Educational Psychology, 111 (2). pp. 331-353. https://doi.org/10.1037/edu0000281
+- Sakaki, M., Murayama, K., Frenzel, A. C., Goetz, T., Marsh, H. W., Lichtenfeld, S., Wünsch, M., & Pekrun, R. (2025). Parents' academic expectations and aspirations predict students' achievement emotions. Journal of Educational Psychology. https://doi.org/10.1037/edu0000959

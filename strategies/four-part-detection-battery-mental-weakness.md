@@ -50,6 +50,7 @@ This strategy operationalizes Major's recommendation that detection of mental de
 
 - [Establish a provisional classification period of roughly 45 to 90 days to detect and correct initial EL misclassifications](provisional-el-classification-period.md)
 - [Increase efforts to detect and treat post-deployment mental disorders, since effects may be long-lasting](increase-detection-treatment-post-deployment-mental-disorders.md)
+- [Teachers should periodically test all pupils in a wide variety of mental and physical traits to gain intimate knowledge of individual qualities and weaknesses](periodic-wide-trait-testing-of-all-pupils.md)
 
 ## Examples
 -

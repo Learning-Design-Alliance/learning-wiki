@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 265 claims (113 for, 134 mixed, 18 against) · 195 studies (73 associational, 46 design, 28 review, 22 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 195 report an effect size · 258 claims rest on one study
+> **Evidence** · 266 claims (113 for, 135 mixed, 18 against) · 196 studies (74 associational, 46 design, 28 review, 22 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 17 of 196 report an effect size · 259 claims rest on one study
 
 ## Conditional relationship
 
@@ -339,6 +339,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Intelligence test correlations with college performance are reportedly too low for administrative classification use](../claims/low-correlations-limit-college-intelligence-test-classification.md) [~W]
 - [None of the English tests correlates markedly with teachers' English grades, the highest raw correlation being 0.49](../claims/english-tests-low-correlation-with-teacher-grades.md) [-W]
 - [Total point score correlates with teachers' school marks at .80, .41, and .50 in the fourth, sixth, and eighth grades, and brightness coefficients rise with amount of schooling](../claims/point-scale-school-mark-and-schooling-correlations.md) [~W]
+- [Six per cent of the 200 Dartmouth freshmen failed six-digit auditory memory span, so the lower limit of the ability went unrecorded](../claims/dartmouth-six-percent-fail-six-digit-span.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

@@ -46,3 +46,4 @@ The review reports that Jordan supplemented his questionnaire with extended obse
 
 ## Related Claims
 - [Questionnaire responses from 3,598 pupils show boys' and girls' reading interests are far from identical, with some interests increasing or declining with age](jordan-3598-pupils-sex-differences-reading-interests.md) — related
+- [School progress is reported to relate to nationality across first, second, and third generations in St. Paul and Minneapolis school records](nationality-school-progress-generations-st-paul-minneapolis.md) — related

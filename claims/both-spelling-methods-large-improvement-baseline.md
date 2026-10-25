@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1913
+source_checked: 2026-10-25
 sources:
   - id: winch-1913
     resource: "https://doi.org/10.1037/h0075675"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1913 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both the combined method (from average 5.5 to 17.6) and the predominantly visual silent method (from average 5.7 to 15.8) produced substantial improvement in spelling after 40 minutes of practice spread over four days. [→ Winch 1913](#winch-1913)

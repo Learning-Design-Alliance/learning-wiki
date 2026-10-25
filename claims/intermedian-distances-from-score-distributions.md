@@ -49,3 +49,4 @@ Numerical derivation from the score distributions of the Scientific Method Test 
 - [Problems whose per cents solved do not increase monotonically across grades are eliminated as not measuring grade-to-grade progress](erratic-problems-eliminated.md) — related
 - [Problem positions are averaged across grades with a weighting scheme that distrusts per cents near 0% and 100% and omits entries 3 P.E. or more from the median](weighting-scheme-problem-averaging.md) — related
 - [The P.E. (median deviation) serves as an equal-step unit of difficulty, defined as the distance cutting off 25% of measures next the median](pe-unit-equal-steps-difficulty.md) — related
+- [The scale differentiates pupil material between schools in neighborhoods of different character](scale-differentiates-schools-pupil-material.md) — related

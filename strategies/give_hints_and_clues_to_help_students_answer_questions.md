@@ -65,6 +65,7 @@ Hinting is a form of [Scaffolding](../principles/scaffolding.md) delivered in th
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — hints frequently work by pointing learners to relevant prior knowledge
 - [Instructors can encourage student idea-offering by incrementally adding epistemic distancing to their questions](instructor-epistemic-distancing-questioning.md)
 - [During the discussion, the teacher asks directive questions that point to the relevant concepts students need to recall from their subsequent self-study](teacher-directive-questions-retrieve-prior-knowledge.md)
+- [Question-answer directions that let children answer as part of the administration](question-answer-directions-young-children.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — math exercises offer a sequence of hints, each revealing one step; the final hint is a fully worked step, and hint use is tracked as a signal of struggle.

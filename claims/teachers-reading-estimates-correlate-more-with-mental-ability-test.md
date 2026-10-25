@@ -48,3 +48,4 @@ Grade VIII reading study: 36 pupils tested, with two teachers independently rank
 - [The low corrected correlation between the arithmetic exercise and the English criterion affords objective evidence that arithmetic and English ability are separate capacities](arithmetic-and-english-separate-capacities.md) — related
 - [Under the expert-weighted criterion (Reading Ability C), the Terman Group Test correlates highest, raising the question whether the criterion measures general intelligence](weighted-reading-criterion-highest-with-terman.md) — related
 - [Of the so-called reading tests used, Thorndike's Visual Vocabulary is the best measure of reading ability](visual-vocabulary-best-of-reading-tests.md) — related
+- [Group-scale scores correlate moderately with teachers' ability rankings of first- to third-grade pupils](group-scale-correlates-teacher-rankings-primary.md) — related

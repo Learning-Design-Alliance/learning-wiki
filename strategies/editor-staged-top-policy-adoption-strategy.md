@@ -49,6 +49,7 @@ The article recommends that editors, publishers, and editorial committees at edu
 ## Related Strategies
 
 - [Editors and reviewers should reward transparency about limitations so researchers are not incentivized to overstate implications](editors-reward-transparency-about-limitations.md)
+- [Publish an alternative note explaining why data or materials cannot be shared when confidentiality prevents it](alternative-note-for-unshareable-data.md)
 
 ## Examples
 -
