@@ -17,7 +17,7 @@ sources:
 # The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 27 claims (25 for, 1 mixed, 1 against) · 20 studies (8 associational, 5 qualitative, 2 review, 2 design, 1 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 1 of 20 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (26 for, 1 mixed, 1 against) · 21 studies (9 associational, 5 qualitative, 2 review, 2 design, 1 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 1 of 21 report an effect size · 26 claims rest on one study
 
 ## Description
 The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—that operate in strong cooperation to enable or inhibit improvement in classroom practices. The article states that "when one of the essential supports is strengthened, it buttresses the development of the other supports," and that school leadership is theorized to be the catalyst that strengthens the other four. The authors adapt this framework, originally developed for elementary schools by Bryk et al. (2010), to early education settings with revised definitions such as "Effective Instructional Leaders."
@@ -64,6 +64,7 @@ The five essential supports framework specifies five school- or center-level org
 - [English/language arts classes in high-performing CHSRI schools required high academic demand, with high-level skill activities in 21 of 23 observed classes](../claims/chsri-classes-high-academic-demand.md) [+W]
 - [Effective, supportive principals retain teachers, with the largest effects in high-need schools](../claims/supportive-principals-retain-teachers.md) [+W]
 - [Among school-level factors, only principal leadership and school culture correlate positively with CMSE](../claims/cmse-school-level-correlates.md) [~W]
+- [Supportive leadership increased the likelihood of transitioning to the Ambitious profile](../claims/supportive-leadership-increases-ambitious-transition-likelihood.md) [+W]
 
 ## The evidence by question
 

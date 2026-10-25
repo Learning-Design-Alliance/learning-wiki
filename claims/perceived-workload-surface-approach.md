@@ -66,3 +66,4 @@ The review reports a study focusing on information load rather than general perc
 ## Related Claims
 - [Students who perceive teaching as good, and perceive clear goals, supportiveness and relevant courses, are more inclined towards a deep approach](perceived-teaching-quality-deep-approach.md) — related
 - [Student factors — older age, personality traits, intrinsic motivation and self-efficacy — are associated with deeper approaches to learning](student-factors-deep-approach.md) — related
+- [Perceived excessive work demands decreased the likelihood of transitioning to Good health or Ambitious profiles](excessive-work-demands-decrease-adaptive-transition-likelihood.md) — related

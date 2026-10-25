@@ -54,3 +54,4 @@ The review reports Barik and Swain's (1976) longitudinal analysis of Ottawa and 
 - [High performance in old age is associated with higher education, foreign language use and IQ, but not physical activity or personality](high-performance-linked-education-language-iq.md) — related
 - [Dual language learners especially benefit from high-quality early care and dual language immersion programs, and multilingualism is associated with cognitive, linguistic, social, and cultural strengths](dual-language-learners-benefit-from-immersion-programs.md) — a broader claim this one bears on
 - [Biliterate dual language learners show higher higher order cognitive skills regardless of instructional program](biliterate-status-higher-order-cognition.md) — related
+- [Children whose low first IQs reflected linguistic or environmental deficiency showed substantial IQ gains after gaining command of English or schooling](iq-gains-after-linguistic-environmental-remediation.md) — related

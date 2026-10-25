@@ -54,3 +54,4 @@ Convergent validity analysis correlating SRL-O subscales with MSLQ subscales in 
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [No existing online SRL questionnaire covers the breadth of motivational beliefs and learning strategies the SRL-O covers](no-online-srl-measure-covers-breadth.md) — related
 - [Conscientiousness facets and SRL scales show substantial multivariate overlap in college students](conscientiousness-srl-multivariate-overlap-study.md) — related
+- [Emotions relate to achievement most strongly within the same domain, supporting convergent and divergent validity of domain-specific emotion measures](emotions-achievement-same-domain-convergent-validity.md) — related

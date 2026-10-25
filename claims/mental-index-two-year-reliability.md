@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1920
+source_checked: 2026-10-25
 sources:
   - id: pintner-1920
     resource: "https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i3` large
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The correlation between mental indices from 1918 and 1920 testings of the same 46 children was r = .72, with a rank correlation of .77. [→ Pintner 1920](#pintner-1920)
@@ -69,3 +70,4 @@ The same 46-case retest study found lower correspondence for absolute achievemen
 - [Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21](binet-agreement-correlations.md) — related
 - [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related
 - [Teachers' estimates show the highest single-measure correlation with the Stanford Revision (.72, 60 cases)](teachers-estimates-highest-correlation-stanford-revision.md) — related
+- [Rankings from a battery of eight group class tests corresponded closely with Yerkes Scale rankings, with an overall correlation of r = .80 across the 88 class-tested cases](class-tests-rankings-correlate-with-yerkes-scale.md) — related

@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (116 show a difference, 40 mixed, 22 no difference) · 144 studies (54 associational, 26 causal, 24 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 22 of 144 report an effect size · 176 claims rest on one study
+> **Evidence** · 179 claims (116 show a difference, 40 mixed, 23 no difference) · 145 studies (55 associational, 26 causal, 24 review, 23 quant-synthesis, 10 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 22 of 145 report an effect size · 177 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -210,6 +210,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Rural eighth-graders were 0.92 of a year younger than city eighth-graders but took almost an hour longer on the Arithmetic test](../claims/rural-younger-slower-arithmetic-test.md) [+M] — learners who differ on it differ in outcomes
 - [Grade level and orthographic depth interact: orthographic differences emerge after primary grades](../claims/grade-by-orthographic-depth-interaction.md) [+M] — an instructional effect differs with it
 - [The text reading–comprehension relation weakens across grade levels, from .72 in primary grades to .45 in adults](../claims/text-reading-relation-declines-by-grade-level.md) [+M] — an instructional effect differs with it
+- [Within-domain relations of academic emotions are stable across grade levels, with no significant differences between Grade 8 and Grade 11](../claims/within-domain-relations-stable-across-grades.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

@@ -48,3 +48,4 @@ Covariate paths in the same SEM (gender 0 = male, 1 = female; year group 0 = Yea
 - [Latent correlations show threat appraisal flips from positive to negative with attainment value between T1 and T3](latent-correlations-appraisals-value-efficacy.md) — related
 - [Prior academic self-efficacy and attainment value do not cross-predict each other over the school year](no-cross-paths-between-efficacy-and-attainment-value.md) — related
 - [Higher attainment value with higher academic self-efficacy predicts challenge appraisal, whereas higher attainment value with lower academic self-efficacy predicts threat appraisal](value-and-efficacy-antecedents-of-fear-appeal-appraisal.md) — related
+- [Cross-level interactions between class-level and student-level fear appeals on evaluations and engagement are not significant](cross-level-interactions-fear-appeals-not-significant.md) — related

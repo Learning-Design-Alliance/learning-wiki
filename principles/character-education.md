@@ -35,7 +35,7 @@ sources:
 # Character Education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (18 for, 8 mixed, 1 against) · 13 studies (5 theoretical, 3 quant-synthesis, 2 causal, 2 associational, 1 qualitative), `q1`–`q4` · 4 of 13 report an effect size · 26 claims rest on one study
+> **Evidence** · 28 claims (19 for, 8 mixed, 1 against) · 14 studies (5 theoretical, 3 quant-synthesis, 2 causal, 2 associational, 1 review, 1 qualitative), `q1`–`q4` · 4 of 14 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Learners, programmes and outcomes differ across these claims (US elementary scho
 - [Field Notes Wake Up Calls](../claims/field-notes-wake-up-calls.md) [+M]
 - [Spontaneous Reactions Draw On Internalised Values](../claims/spontaneous-reactions-draw-on-internalised-values.md) [+M]
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](../claims/dewey-morality-in-everyday-problems.md) [+W]
+- [The sex-education conference's most conspicuous point of agreement was that sex education should be embedded in the whole purpose of education and life, as character education rather than a special form of education](../claims/sex-education-embedded-character-education.md) [+W] — attached 2026-10-25 from New Publications (1920), which proposed "Embed sex education within the whole purpose of education and of life, treating it as character education rather than a segregated special subject".
 
 ## Objective and learner-valued goal
 

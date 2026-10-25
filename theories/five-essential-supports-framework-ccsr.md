@@ -25,7 +25,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 50 claims (33 for, 17 mixed) · 40 studies (23 associational, 6 qualitative, 5 review, 3 design, 2 causal, 1 quant-synthesis), `q1`–`q3` · 3 of 40 report an effect size · 48 claims rest on one study
+> **Evidence** · 51 claims (34 for, 17 mixed) · 41 studies (24 associational, 6 qualitative, 5 review, 3 design, 2 causal, 1 quant-synthesis), `q1`–`q3` · 3 of 41 report an effect size · 49 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -107,6 +107,7 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](../claims/principal-program-content-instruction-collegial-data.md) [+W]
 - [Schools with high teacher turnover and large proportions of underprepared teachers are associated with lower achievement for all students and for students experiencing homelessness, after accounting for other factors](../claims/teacher-turnover-underprepared-teachers-lower-achievement-homeless.md) [~W]
 - [Among school-level factors, only principal leadership and school culture correlate positively with CMSE](../claims/cmse-school-level-correlates.md) [~W]
+- [Supportive leadership increased the likelihood of transitioning to the Ambitious profile](../claims/supportive-leadership-increases-ambitious-transition-likelihood.md) [+W]
 
 ## The evidence by question
 - *Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]

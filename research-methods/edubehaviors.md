@@ -28,7 +28,8 @@ EduBehaviors is an interpretable annotation framework in which researchers write
 - [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](../claims/regex-rules-improve-fewshot-llm-labeling-accuracy.md) [+W]
 
 ## Related Research Methods
--
+
+- [Reusable and inspectable behavioral annotation components](reusable-and-inspectable-behavioral-annotation-components.md)
 
 ## Key Sources
 - Julian Bernado, Ana Trindade Ribeiro, Xander Beberman, and Susanna Loeb. (2026). EduBehaviors: Assertion-Based Schemas for Auditable Coding of Educational Dialogues. https://arxiv.org/abs/2609.27043

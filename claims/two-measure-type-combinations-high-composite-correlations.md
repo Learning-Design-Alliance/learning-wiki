@@ -49,3 +49,4 @@ Correlational comparison of two-type combinations with the composite in the same
 - [Group tests correlate much lower with the Stanford Revision (.45 and .53) and only .37 with each other](group-tests-lower-correlation-stanford-revision.md) — related
 - [Any single measure type approximates the composite (.89, .87, .85) but has only limited value used alone](single-measure-types-approximate-composite-limited-value.md) — related
 - [Teachers' estimates show the highest single-measure correlation with the Stanford Revision (.72, 60 cases)](teachers-estimates-highest-correlation-stanford-revision.md) — related
+- [The 40-sample stereoscopic grading scale is highly reliable: sample grades correlate .98 with values from other judges, and individual placement correlates .92 with true scale placement](merit-scale-reliability-98-and-92.md) — related

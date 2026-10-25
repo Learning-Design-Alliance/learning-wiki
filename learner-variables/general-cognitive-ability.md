@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 116 claims (75 show a difference, 25 mixed, 16 no difference) · 83 studies (34 associational, 25 causal, 10 review, 8 quant-synthesis, 6 theoretical), `q1`–`q4` · 20 of 83 report an effect size · 113 claims rest on one study
+> **Evidence** · 120 claims (75 show a difference, 27 mixed, 18 no difference) · 86 studies (36 associational, 25 causal, 10 review, 8 quant-synthesis, 6 theoretical, 1 qualitative), `q1`–`q4` · 21 of 86 report an effect size · 117 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -152,6 +152,10 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [In School I the practised group showed an advantage in most ability sections, but its highest section scored worse than the non-practised section](../claims/winch-1910-school-i-section-advantage.md) [~W] — instruction changes it
 - [School-identified intelligent children spontaneously use the whole method in memorizing, suggesting memorizing manner as an index of intellectual level](../claims/whole-method-index-of-intelligence.md) [+M] — learners who differ on it differ in outcomes
 - [Vocational selection test scores correlate with later employment success, with correlations as high as .90 when testing employees whose ability is known to employers](../claims/vocational-test-employment-correlations-90.md) [+M] — learners who differ on it differ in outcomes
+- [Binet IQ correlates insignificantly with Healy Picture Completion score (r = +.15 ± .082) among 65 children](../claims/binet-iq-healy-score-correlation-point15.md) [-M] — learners who differ on it differ in outcomes
+- [Binet IQ shows a negative, insignificant correlation with Healy Picture Completion time (r = -.05 ± .093)](../claims/binet-iq-healy-time-correlation-negative05.md) [-M] — learners who differ on it differ in outcomes
+- [Children whose low first IQs reflected linguistic or environmental deficiency showed substantial IQ gains after gaining command of English or schooling](../claims/iq-gains-after-linguistic-environmental-remediation.md) [~W] — instruction changes it
+- [Manual-training experience is associated with roughly two scale units higher constructive ability test scores among high-school boys of the same age, but the author attributes this to selection rather than transfer](../claims/manual-training-two-scale-units-higher-selection.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

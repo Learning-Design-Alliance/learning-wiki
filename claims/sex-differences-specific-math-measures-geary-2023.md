@@ -52,3 +52,4 @@ Mean sex differences in the longitudinal study of 342 adolescents (169 boys) ass
 - [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — related
 - [The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries](math-sex-difference-larger-in-higher-achieving-nations.md) — related
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — reports the opposite
+- [Measured by arithmetic mean or refined median, the Point Scale sex difference is slight relative to its probable error](mean-median-sex-difference-slight-versus-pe.md) — related

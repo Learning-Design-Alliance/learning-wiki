@@ -58,3 +58,4 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related
 - [Auditory memory (digit-span) tests are overrepresented in the adult scale and depress the rankings of otherwise high-performing students](caldwell-1919-auditory-memory-overweighting.md) — related
 - [Longer letter series yield somewhat higher average scores because they offer opportunities for occasional high scores via mental grouping](longer-series-higher-scores-grouping.md) — related
+- [Duplicate-form reliability coefficients placed the Spelling Test highest among the ten tests, which the author attributed to the longer tests having 50 elements versus 25 or less](duplicate-form-reliability-spelling-highest.md) — related

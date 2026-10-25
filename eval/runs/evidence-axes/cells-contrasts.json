@@ -42546,5 +42546,21 @@
  "test-format\tabbreviated educational survey test\tlong Standard Educational Measurements": {
   "label": "abbreviated tests vs full-length tests",
   "treatment_is_a": true
+ },
+ "active-learning\thands-on learning activities\tless hands-on or conventional learning": {
+  "label": "active learning vs conventional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-group analysis of the blood-cell problem before reading\tsmall-group analysis of a control airplane problem before reading": {
+  "label": "content-relevant problem analysis vs unrelated control problem analysis",
+  "treatment_is_a": true
+ },
+ "problem-first\tDiscuss and explain the blood-cell problem before reading\tDiscuss the airplane problem before reading": {
+  "label": "Relevant problem vs irrelevant problem",
+  "treatment_is_a": true
+ },
+ "test-format\tdouble tests\tsingle tests": {
+  "label": "double tests vs single tests",
+  "treatment_is_a": true
  }
 }

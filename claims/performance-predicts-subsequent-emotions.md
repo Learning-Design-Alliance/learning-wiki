@@ -56,3 +56,4 @@ In the reciprocal relations model with 1,242 primary students, test performance 
 - [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](buoyancy-moderates-anxiety-performance.md) — related
 - [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](grades-negative-emotions-within-person-effects.md) — related
 - [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](grades-positive-emotions-within-person-reciprocal.md) — related
+- [Within-level behavioral engagement positively and threat evaluation negatively predict GCSE mathematics grade](engagement-and-threat-predict-gcse-grade-within-level.md) — related

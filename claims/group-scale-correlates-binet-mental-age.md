@@ -47,3 +47,4 @@ Validity correlations with the Stanford Revision, computed separately by age usi
 ## Related Claims
 - [Group tests correlate much lower with the Stanford Revision (.45 and .53) and only .37 with each other](group-tests-lower-correlation-stanford-revision.md) — related
 - [The Myers Mental Measure requires only 20 minutes and is said to correlate .80 with the Standard Revision of the Binet Scale](myers-mental-measure-20-minutes-80-binet.md) — related
+- [In the preliminary investigation, test scores correlated highly with a composite of the other tests and with Binet mental age, with composite and mental age correlating .94](preliminary-tests-correlate-with-composite-and-binet-mental-age.md) — related

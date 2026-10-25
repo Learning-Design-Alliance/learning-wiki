@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2001
+source_checked: 2026-10-25
 sources:
   - id: ws-de-grave-2001
     resource: "https://link.springer.com/journal/11251"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2001 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` First-year medical students who discussed the relevant 'Stinging incident' problem recalled significantly more accurate propositions from a blood pressure regulation text than students who discussed an unrelated control problem. [→ W.S. de Grave 2001](#ws-de-grave-2001)
@@ -54,3 +55,7 @@ Randomized experiment with 48 first-year medical students assigned to discuss ei
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — reports the opposite
 - [Analyzing a problem before reading facilitates subsequent recall of a relevant text for both novices and experts](problem-analysis-facilitates-text-recall.md) — related
 - [Problem analysis through small-group discussion particularly stimulates the production of explanatory propositions, via a significant treatment-by-proposition-type interaction](problem-analysis-favors-explanatory-propositions.md) — a narrower finding that bears on this claim
+- [Analyzing a problem before reading facilitates overall free recall of a relevant expository text](exp2-problem-analysis-total-recall-gain.md) — related
+- [Small-group discussion of a problem activates relevant prior knowledge, more than doubling free recall of propositions about the underlying process](problem-analysis-activates-prior-knowledge.md) — related
+- [The text-learning benefit of prior problem analysis is confined to explanatory propositions; recall of descriptive facts is not improved](recall-benefit-limited-to-explanatory-propositions.md) — related
+- [Novices and experts benefit alike from problem analysis before reading; the treatment-by-expertise interaction is not significant](problem-analysis-benefits-novices-and-experts-alike.md) — related

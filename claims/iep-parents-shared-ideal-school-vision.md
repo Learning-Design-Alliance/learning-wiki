@@ -53,3 +53,4 @@ Qualitative interview study of 29 parents of students with IEPs after the 2013 C
 - [Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding](learning-climate-teacher-collaboration-common-goals.md) — related
 - For many families, academic quality meant factors different from the district's performance policy rating, such as after-school programs, class sizes, and school environment — related
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related
+- [Latinx youths and parents reimagined ideal school realities centered on inclusive, welcoming, safe schools and schools free of cultural stressors with supportive allies](latinx-youth-parent-reimagined-ideal-school-realities.md) — related

@@ -58,3 +58,4 @@ Descriptive group-comparison analysis of 2206 Binet records from clinic and inst
 - [Grouping pupils by mental age is not a reliable means of ensuring proper educational treatment](mental-age-grouping-unreliable-for-educational-treatment.md) — related
 - [Feeble-mindedness physically represents arrested development of the entire organism and is distinct from mental disease](feeble-mindedness-arrested-development-distinct-from-disease.md) — related
 - [Individual pupils' abilities vary widely across traits, showing little evidence of correlation of abilities](little-correlation-of-abilities-within-pupils.md) — related
+- [Delinquent boys at the Texas State Juvenile Training School averaged constructive merit of 51.3, equal to that of normal 9.5-year-olds](delinquent-boys-merit-51-3-equal-normal-9-5-year-old.md) — related

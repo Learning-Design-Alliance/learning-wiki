@@ -51,3 +51,4 @@ Null cross-lagged paths in the same SEM; both constructs were instead strongly s
 - [Gender and year group are associated with fear appeal appraisals and baseline academic self-efficacy](gender-year-group-covariates-fear-appeal-appraisal.md) — related
 - [Higher attainment value with higher academic self-efficacy predicts challenge appraisal, whereas higher attainment value with lower academic self-efficacy predicts threat appraisal](value-and-efficacy-antecedents-of-fear-appeal-appraisal.md) — related
 - [Latent correlations show threat appraisal flips from positive to negative with attainment value between T1 and T3](latent-correlations-appraisals-value-efficacy.md) — related
+- [Cross-level interactions between class-level and student-level fear appeals on evaluations and engagement are not significant](cross-level-interactions-fear-appeals-not-significant.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-10-25
 sources:
   - id: floris-m-van-blankenstein-2011
     resource: "https://doi.org/10.1007/s11251-009-9124-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants who explained during a relevant simulated discussion recalled more text propositions one month later than participants who only listened (r = 0.31). [→ Floris M. van Blankenstein 2011](#floris-m-van-blankenstein-2011)
@@ -48,3 +49,4 @@ Randomized experiment with 70 Maastricht University students assigned to explana
 - [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](pbl-discussion-prior-to-text-increases-free-recall.md) — related
 - [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](relevant-discussion-immediate-recall-advantage-fades.md) — related
 - [Immediately after the discussion, participants who explained did not recall more than participants who only listened](no-immediate-advantage-of-explaining-over-listening.md) — related
+- [Analyzing a problem before reading facilitates overall free recall of a relevant expository text](exp2-problem-analysis-total-recall-gain.md) — related
