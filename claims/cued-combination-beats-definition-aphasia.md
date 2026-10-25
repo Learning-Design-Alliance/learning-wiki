@@ -8,17 +8,19 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 evidence_strength: weak
-newest_evidence: 1922
+newest_evidence: 1917
 sources:
-  - id: wells-1922
-    title: Wells, F. L. (1922). Aphasic performance in the Terman vocabulary test. The Journal of Educational Psychology.
+  - id: wells-1917
+    resource: "https://doi.org/10.1037/h0073107"
+    title: "Wells, F. L. (1917). Aphasic performance in the Terman vocabulary test. *Journal of Educational Psychology, 8*(8), 483–487. [doi:10.1037/h0073107](https://doi.org/10.1037/h0073107)"
     author: Wells, F. L.
     q: 1
     i: "?"
     kind: causal
     rigour: 1
-  - id: wells-1922-2
-    title: Wells, F. L. (1922). Aphasic performance in the Terman vocabulary test. The Journal of Educational Psychology.
+  - id: wells-1917-2
+    resource: "https://doi.org/10.1037/h0073107"
+    title: "Wells, F. L. (1917). Aphasic performance in the Terman vocabulary test. *Journal of Educational Psychology, 8*(8), 483–487. [doi:10.1037/h0073107](https://doi.org/10.1037/h0073107)"
     author: Wells, F. L.
     q: 1
     i: "?"
@@ -30,17 +32,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q1`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` On the full 100-word list, the patient passed more words by cued combination (68) than by definition (51), and failures under cued combination were more normally distributed. [→ Wells 1922](#wells-1922)
-`q1 i?` Of the 100 words, 26 were passed by combination but not by definition, versus 9 passed by definition but not by combination, and 23 passed by neither. [→ Wells 1922 (2)](#wells-1922-2)
+`q1 i?` On the full 100-word list, the patient passed more words by cued combination (68) than by definition (51), and failures under cued combination were more normally distributed. [→ Wells 1917](#wells-1917)
+`q1 i?` Of the 100 words, 26 were passed by combination but not by definition, versus 9 passed by definition but not by combination, and 23 passed by neither. [→ Wells 1917 (2)](#wells-1917-2)
 
 ## Evidence
 
-### Wells 1922
+### Wells 1917
 
-Wells, F. L. (1922). Aphasic performance in the Terman vocabulary test. The Journal of Educational Psychology.
+Wells, F. L. (1917). Aphasic performance in the Terman vocabulary test. *Journal of Educational Psychology, 8*(8), 483–487. [doi:10.1037/h0073107](https://doi.org/10.1037/h0073107)
 
 `q1 · i?` · `causal · r1`
 
@@ -48,9 +50,9 @@ Single-case administration on March 14, repeating the complete vocabulary list b
 
 > "With this method, the patient did very much better, and the failures were more normally distributed."
 
-### Wells 1922 (2)
+### Wells 1917 (2)
 
-Wells, F. L. (1922). Aphasic performance in the Terman vocabulary test. The Journal of Educational Psychology.
+Wells, F. L. (1917). Aphasic performance in the Terman vocabulary test. *Journal of Educational Psychology, 8*(8), 483–487. [doi:10.1037/h0073107](https://doi.org/10.1037/h0073107)
 
 `q1 · i?` · `causal · r1`
 

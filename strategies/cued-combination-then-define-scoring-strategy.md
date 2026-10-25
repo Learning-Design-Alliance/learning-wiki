@@ -8,8 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 sources:
-  - id: wells-1922
-    title: "Wells, F. L. (1922). Aphasic performance in the Terman vocabulary test. The Journal of Educational Psychology."
+  - id: wells-1917
+    title: "Wells, F. L. (1917). Aphasic performance in the Terman vocabulary test. *Journal of Educational Psychology, 8*(8), 483–487. [doi:10.1037/h0073107](https://doi.org/10.1037/h0073107)"
     author: Wells, F. L
 ---
 
@@ -55,4 +55,4 @@ The author describes an administration routine in which the vocabulary test is g
 -
 
 ## Key Sources
-- Wells, F. L. (1922). Aphasic performance in the Terman vocabulary test. The Journal of Educational Psychology.
+- Wells, F. L. (1917). Aphasic performance in the Terman vocabulary test. *Journal of Educational Psychology, 8*(8), 483–487. [doi:10.1037/h0073107](https://doi.org/10.1037/h0073107)
