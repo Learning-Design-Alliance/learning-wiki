@@ -72,3 +72,4 @@ The authors reanalyzed two data sources: the simulated data constructed by Sorjo
 - [Sorjonen et al.'s (2023) simulation lacked a temporal structure and therefore cannot justify replacing autoregressive effects with covariances in the LCSM](simulation-2023-lacked-temporal-structure-invalid-for-lcsm-justification.md) — related
 - [Sensitivity analyses showed most sequential CVT paths were spurious due to confounders; only interest→enjoyment was robust](sensitivity-analyses-confounded-cvt-paths.md) — related
 - [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](reciprocal-model-superior-fit.md) — related
+- [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — reports the opposite

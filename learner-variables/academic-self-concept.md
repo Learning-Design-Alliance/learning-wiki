@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (76 show a difference, 22 mixed, 8 no difference) · 53 studies (27 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 53 report an effect size · 103 claims rest on one study
+> **Evidence** · 108 claims (76 show a difference, 23 mixed, 9 no difference) · 54 studies (28 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 13 of 54 report an effect size · 105 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -141,6 +141,8 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Grades show mediated dimensional comparison effects on course choices via self-concept and value](../claims/mediated-dimensional-comparison-course-choices.md) [+M] — learners who differ on it differ in outcomes
 - [BFLPE is stronger on the regular class level and strongest on the domain-specific math class level](../claims/math-class-strongest-bflpe-course-tracking.md) [+M] — instruction changes it
 - [The school-level BFLPE on math self-concept is weak once class-level achievement is controlled](../claims/school-level-bflpe-weak-after-class-control.md) [~M] — instruction changes it
+- [In elementary school, achievement predicts later self-concept of ability but prior self-concept does not significantly predict later achievement when achievement is modeled with both marks and tests integrated](../claims/skill-development-model-elementary-helmke-1995.md) [-M] — learners who differ on it differ in outcomes
+- [Prior longitudinal SEM studies of self-concept versus achievement causality show heterogeneous causal predominance, varying with design, self-concept operationalization, domain, and achievement measure](../claims/heterogeneous-causal-predominance-prior-studies.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

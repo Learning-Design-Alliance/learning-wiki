@@ -56,3 +56,4 @@ Philosophical argument in the section on Dewey's view of character education: th
 - [International students expressed frustration at severe punishment for inappropriate citations, and the authors recommend education over pure punishment](plagiarism-cultural-conduct-frustration.md) — a narrower finding that bears on this claim
 - [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
 - [Because many delinquent girls learned quickly and accurately, the article concludes moral defects must be partially explained on grounds other than inferior mentality](delinquency-not-fully-explained-by-mentality.md) — related
+- [For the feeble-minded, punishment is of little avail because the moral sentiment is impaired](punishment-ineffective-impaired-moral-sentiment.md) — related

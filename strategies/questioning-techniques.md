@@ -69,6 +69,7 @@ Effective questioning converts passive reception into generative processing: ans
 - [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](six-teacher-questioning-techniques-reading-discussion.md)
 - [Counter-prompting: deliberately probing AI systems for their assumptions and using responses as data about the apparatus](counter-prompting-probing-ai-assumptions.md)
 - [Non-prescriptive GAI feedback via sequenced guiding questions calibrated to cognitive challenge](non-prescriptive-guiding-question-feedback.md)
+- [Probe problem solving with a graduated suggestion sequence moving from pure reason to concrete imagery to objective experiment](graduated-suggestion-sequence-probing.md)
 
 ## Examples
 - **Peer Instruction (Eric Mazur, Harvard)** — conceptual questions posed via clickers, individual answer, peer discussion, re-answer; the question sequence is the core of the method ([https://blog.peerinstruction.net](https://blog.peerinstruction.net)).

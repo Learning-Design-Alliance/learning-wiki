@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1923 entries** · 0 stable · 1923 in review · 0 drafts
+**1925 entries** · 0 stable · 1925 in review · 0 drafts
 
 ---
 
@@ -407,6 +407,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [DBagent](dbagent.md) - DBagent is a course-specific LLM-based educational agent developed by Li et al.
 * [DC citywide lottery ranked-preference dataset from over 20,000 applicants to more than 100 schools](dc-citywide-lottery-ranked-preference-dataset-from-over-20000-applicants-to-more-than-100.md) - A dataset of ranked school-preference lists submitted by more than 20,000 families to Washington, DC's citywide lottery for over 100 traditional and charter public schools, collected for the associated 2013–2015 Walton Family Foundation project.
 * [DCPS Special Education Service Delivery Model (SDM)](dcps-special-education-service-delivery-model-sdm.md) - A District of Columbia Public Schools model that organizes decentralized special-education identification, assessment, placement, and early intervention through building-level collaborative teams.
+* [Dearborn Intelligence Examination Series I and Series II](dearborn-intelligence-examination-series-i-and-series-ii.md) - A standardized group intelligence examination series developed by Walter F.
 * [DebugTracker](debugtracker.md) - DebugTracker is a Visual Studio Code extension created by Jiatong Liu et al.
 * [DeepTutor](deeptutor.md) - DeepTutor is an AI-powered personalized tutoring platform developed by Zhao et al.
 * [Degree Qualifications Profile (DQP)](degree-qualifications-profile-dqp.md) - The Lumina Foundation's Degree Qualifications Profile is a framework describing expected knowledge and abilities across associate's, bachelor's, and master's degree levels in five learning areas.
@@ -981,6 +982,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Magnetic Reading Foundations](magnetic-reading-foundations.md) - Magnetic Reading Foundations is a curriculum from Magnetic Reading that provides daily K–2 instruction in foundational reading skills through digital lessons, assessments, and interactive tutorials for differentiation.
 * [MAI-AI: Metacognitive Awareness Inventory for Artificial Intelligence](mai-ai-metacognitive-awareness-inventory-for-artificial-intelligence.md) - A 29-item AI-centered Likert self-report instrument developed by Pau Benazet i Montobbio et al.
 * [MAIC platform](maic-platform.md) - An online learning environment developed by the article's authors that combines course-preparation workflows, multi-agent classrooms, customizable classmate agents, and large-model learning-analytics tools for instructors and university students.
+* [Major's diagnostic procedure for detecting mental debility in youth](majors-diagnostic-procedure-for-detecting-mental-debility-in-youth.md) - A multi-part diagnostic procedure attributed to Major that uses mathematical problems, discrimination questions, school-learning tests, psychoanalytic tests, and medical examination to assess youth suspected of mental debility.
 * [Maker Learning Leadership Framework](maker-learning-leadership-framework.md) - A Digital Promise framework that helps K–12 leadership teams establish a maker-learning vision, build a supporting culture, and develop sustainable maker-learning programs.
 * [Making Sense of Decoding and Spelling (MSDS)](making-sense-of-decoding-and-spelling-msds.md) - MSDS is a structured adult basic-education curriculum developed by Alamprese et al.
 * [MALA (Modular Artificial Learning Assistance)](mala-modular-artificial-learning-assistance.md) - A GPT-4o-based modular chatbot architecture developed by Gabelmann et al.

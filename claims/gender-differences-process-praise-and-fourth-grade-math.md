@@ -67,3 +67,4 @@ Preliminary t-test comparisons in the same longitudinal sample. Boys' process pr
 - [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related
 - [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](girls-younger-students-higher-engagement.md) — related
 - [Boys outperform girls on the final two-digit number test in this sample](gender-gap-final-math-test-first-graders.md) — related
+- [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related

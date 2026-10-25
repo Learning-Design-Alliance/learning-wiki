@@ -50,3 +50,4 @@ Cross-tabulation of recreational and vocational responses within the 800-girl in
 - [Girls' vocational choices showed a striking narrowness of outlook, with teaching, nursing, and stenography filling nearly the whole horizon and possibilities diminishing with age](narrow-vocational-horizon-girls-1920.md) — related
 - [In twenty-five of thirty-four cases where girls mentioned parents regarding occupation, the parents' wishes differed decidedly from the girls' own](parental-opposition-vocational-choice-girls-1920.md) — related
 - [Reading as a pastime peaked at about one-fifth of preferences among thirteen-to-fourteen-year-old girls](reading-peaks-early-adolescence-girls-1920.md) — related
+- [Most normal schools had gymnasiums with physical directors, but student participation in athletics and recreation lagged](gymnasiums-common-athletics-participation-low.md) — related

@@ -67,6 +67,7 @@ Probing questions work because they elicit elaboration and self-explanation, whi
 - [Foster articulation by having students build testable artifacts and explain ideas to other students](articulation-through-buildable-artifacts.md)
 - [Generate targeted diagnostic follow-up questions using variant-problem and probe-the-gap strategies for ambiguous cases](variant-problem-probe-the-gap-follow-ups.md)
 - [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
+- [Probe problem solving with a graduated suggestion sequence moving from pure reason to concrete imagery to objective experiment](graduated-suggestion-sequence-probing.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the primary setting where probing questions operate

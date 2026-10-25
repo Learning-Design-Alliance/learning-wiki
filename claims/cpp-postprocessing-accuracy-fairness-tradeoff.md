@@ -53,3 +53,4 @@ Accuracy-fairness trade-off analysis of LR models with four mitigation technique
 - [Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects](removing-race-feature-little-performance-impact.md) — related
 - [When demographic groups have different base rates, no method can satisfy calibration, equalized odds, and statistical parity simultaneously](impossibility-fairness-metrics-base-rates.md) — related
 - [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — a broader claim this one bears on
+- [At a sensitivity of .672 the MD prediction model showed specificity of .754–.762 but a low positive predictive value (.245–.252)](md-model-sensitivity-specificity-ppv.md) — related

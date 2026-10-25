@@ -12,7 +12,7 @@ generated:
 # Instinct, Drive, and Arousal Theories
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 mixed, 1 against) · 2 studies (1 associational, 1 theoretical), `q1`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 These three theories represent an early, largely biological line of thinking about motivation, each superseding the last, and each still echoed in later frameworks.
@@ -50,6 +50,7 @@ These three theories represent an early, largely biological line of thinking abo
 ## Claims
 
 - [No evidence for a curvilinear relationship between arousal and test performance](../claims/no-curvilinear-arousal-performance.md) [-W]
+- [The article argues that the expressive instinct drives children to objectify mental states through muscular activity, increasingly the musculature of speech](../claims/expressive-instinct-speech-development.md) [~W]
 
 ## Related Theories
 

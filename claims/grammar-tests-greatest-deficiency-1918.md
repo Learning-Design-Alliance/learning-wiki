@@ -49,3 +49,4 @@ Comparison of central tendencies with tentative norms (Table 1A) for pupils in g
 - [Comparison with standard scores suggested three groupings of pupils with distinct instructional needs](three-groupings-from-standard-scores.md) — related
 - [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — related
 - [Whipple's Group Test for Grammar Grades is only tentatively standardized and its administration difficulties make its use somewhat unsatisfactory](whipple-grammar-grade-test-administration-difficulties.md) — related
+- [The customary large-sample lumping method of standardizing tests produced complaints that whole classes were placed too high or too low and that rankings across tests diverged](lumped-norming-complaints-class-placement.md) — related

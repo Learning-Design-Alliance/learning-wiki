@@ -48,3 +48,5 @@ Argumentative conclusion of the section on biological science courses, which rep
 - [Books are judged of little advantage for sex instruction in the earlier stages because they lack the personal touch and may serve as an excuse for omitting personal talk.](books-inadequate-early-sex-instruction.md) — related
 - [The instructor's personality and attitudes influence outcomes of sex instruction as much as the facts taught, so personal appeal should carry greater stress than information alone.](instructor-personality-as-important-as-facts.md) — related
 - [Attempts to strip sex instruction of all feeling are doomed to failure, because emotion is more basic than information in determining ethical living](disemotionalized-sex-instruction-doomed.md) — related
+- [Normal schools gave comparatively little attention to sex hygiene and rarely used nature study and biology as an approach to it](sex-hygiene-neglected-in-normal-schools.md) — related
+- [The best planned hygiene instruction occurred in normal schools devoting considerable time to the sciences](best-hygiene-instruction-in-science-strong-schools.md) — related

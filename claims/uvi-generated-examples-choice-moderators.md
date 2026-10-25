@@ -71,3 +71,4 @@ Narrative review reporting that essay word count consistently mediates UVI effec
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Performance benefits of UVIs may be limited to the perceived-useful content unless usefulness generalizes or interest develops](uvi-performance-benefits-context-limited.md) — related
 - [Perceived control and choice benefit motivation and simple-fact learning, but most students do not manage their learning effectively when given choice](choice-benefits-motivation-but-learners-manage-poorly.md) — related
+- [The UVI influenced short-term performance through engagement and long-term persistence through personal focus, two distinct motivational processes](uvi-two-distinct-motivational-processes.md) — related

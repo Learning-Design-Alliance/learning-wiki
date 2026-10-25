@@ -50,3 +50,4 @@ Comparison of individual test records with teacher deficiency markings. The arti
 - [Comparison with standard scores suggested three groupings of pupils with distinct instructional needs](three-groupings-from-standard-scores.md) — related
 - [Whipple's Group Test for Grammar Grades is only tentatively standardized and its administration difficulties make its use somewhat unsatisfactory](whipple-grammar-grade-test-administration-difficulties.md) — related
 - [None of the English tests correlates markedly with teachers' English grades, the highest raw correlation being 0.49](english-tests-low-correlation-with-teacher-grades.md) — related
+- [The customary large-sample lumping method of standardizing tests produced complaints that whole classes were placed too high or too low and that rankings across tests diverged](lumped-norming-complaints-class-placement.md) — related

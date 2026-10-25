@@ -12,7 +12,7 @@ generated:
 # Language Acquisition Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 9 studies (5 associational, 3 review, 1 causal), `q2`–`q3` · 0 of 9 report an effect size · 14 claims rest on one study
+> **Evidence** · 17 claims (12 for, 5 mixed) · 10 studies (5 associational, 3 review, 1 causal, 1 theoretical), `q1`–`q3` · 0 of 10 report an effect size · 16 claims rest on one study
 
 ## Description
 How children acquire language so quickly and reliably, without formal instruction, is a long-running theoretical debate with three main competing accounts.
@@ -55,6 +55,8 @@ The current consensus among researchers is that no single account is sufficient 
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](../claims/ses-differences-quantity-quality-parental-input.md) [+W]
 - [Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](../claims/vocabulary-diversity-30-months-predicts-vocabulary-42-months.md) [~W]
 - [Parent spatial language is concurrently associated with child spatial language at 48 months, explaining substantial variance beyond controls](../claims/concurrent-parent-child-spatial-language-association.md) [+W]
+- [The article argues that children's play with vocal sounds develops the range of articulate sounds before proper speech is acquired](../claims/vocal-play-develops-articulation.md) [+W]
+- [The article argues the social instinct — the craving for sympathy and appreciation — underlies speech because its full development is possible only through language](../claims/social-instinct-underlies-speech.md) [~W]
 
 ## Related Theories
 

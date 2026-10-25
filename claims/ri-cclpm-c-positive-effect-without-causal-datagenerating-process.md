@@ -65,3 +65,4 @@ Simulation study using R (lavaan, MASS packages). SIM-NEW data (N = 3527, matchi
 - [The SIM-NEW simulation's assumptions (fully simulated data, a single latent ability factor, and a non-REM time-reversed analysis) limit its relevance to the reciprocal effects debate](sim-new-assumptions-limit-relevance-to-rem-debate.md) — related
 - [Sorjonen et al.'s (2023) simulation lacked a temporal structure and therefore cannot justify replacing autoregressive effects with covariances in the LCSM](simulation-2023-lacked-temporal-structure-invalid-for-lcsm-justification.md) — related
 - [A latent change score model of correlated initial levels and change scores of self-concepts and comparison-related beliefs fits the data well](correlated-change-model-good-fit.md) — related
+- [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — reports the opposite

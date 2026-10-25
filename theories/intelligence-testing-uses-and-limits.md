@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 112 claims (39 for, 63 mixed, 10 against) · 59 studies (35 associational, 13 review, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 7 of 59 report an effect size · 111 claims rest on one study
+> **Evidence** · 113 claims (39 for, 64 mixed, 10 against) · 60 studies (36 associational, 13 review, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 7 of 60 report an effect size · 112 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -163,6 +163,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Students in the upper and lower tenths of an intelligence test show wide divergence in the character of their work](../claims/upper-lower-tenths-divergent-college-work.md) [+W]
 - [Intelligence-test scores overlap substantially across non-consecutive grades, with some fourth graders scoring above the fifth-grade norm](../claims/grade-overlapping-of-point-scale-scores.md) [+W]
 - [Under the expert-weighted criterion (Reading Ability C), the Terman Group Test correlates highest, raising the question whether the criterion measures general intelligence](../claims/weighted-reading-criterion-highest-with-terman.md) [+W]
+- [IQ scores tend to run low in communities where adults are engaged mostly in unskilled or semi-skilled labor, and apparent age- or grade-level anomalies usually have an explainable cause](../claims/iq-skew-linked-to-community-labor-context.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

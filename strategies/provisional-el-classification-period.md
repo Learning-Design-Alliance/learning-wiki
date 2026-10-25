@@ -40,6 +40,7 @@ The report recommends a limited time frame after initial classification during w
 
 - [Use trained staff, parent interviews, and EL classification committees to reduce initial EL misclassifications](el-classification-training-committees-parent-interviews.md)
 - [Regularly examine the validity of classification instruments and procedures, monitoring accuracy for student groups prone to classification errors](monitor-el-classification-validity-vulnerable-groups.md)
+- [Detect suspected mental debility in children via a four-part test battery plus medical examination](four-part-detection-battery-mental-weakness.md)
 
 ## Examples
 -

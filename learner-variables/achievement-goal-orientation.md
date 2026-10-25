@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (52 show a difference, 29 mixed, 12 no difference) · 37 studies (17 associational, 7 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 15 of 37 report an effect size · 91 claims rest on one study
+> **Evidence** · 95 claims (52 show a difference, 31 mixed, 12 no difference) · 38 studies (17 associational, 8 causal, 6 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 15 of 38 report an effect size · 93 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -128,6 +128,8 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [The link between mastery goals and social comparison orientation is stronger the higher learners' performance-approach goal endorsement](../claims/mastery-goals-sco-moderated-by-performance-approach-goals.md) [~M] — an instructional effect differs with it
 - [The mastery–performance-approach goal interaction on social comparison replicates across correlational and experimental methods](../claims/goal-interaction-sco-replicates-across-methods.md) [~M] — an instructional effect differs with it
 - [University instructors' achievement goals differentially predict positive affect, attitudes towards help, and self-reported teaching quality, with effects invariant across status groups.](../claims/goals-predict-affect-help-attitudes-teaching-quality.md) [+M] — learners who differ on it differ in outcomes
+- [Effects of peers' emotions on mastery-avoidance goals are not robust across analyses](../claims/peer-emotion-mastery-avoidance-not-robust.md) [~M] — instruction changes it
+- [Peers' enjoyment raises students' mastery-approach goals but leaves performance-approach and performance-avoidance goals unchanged](../claims/peer-enjoyment-mastery-approach-goals.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

@@ -46,6 +46,7 @@ The brief recommends that schools and the state prioritize efficiently screening
 - [Provide school-level supports and resources to schools with many traditionally underserved students and broader challenges to learning opportunities](school-level-supports-opportunity-gaps.md)
 - [Target tutoring equity by prioritizing underserved students and using culturally reflective curriculum and formative data](equity-focused-tutoring-targeting.md)
 - [Start behavioral and achievement support before school entry and monitor trajectories continuously](early-preschool-intervention-stable-trajectories.md)
+- [Use kindergarten-age screening information to identify children at potential risk of math difficulties and provide access to early support](kindergarten-screening-early-md-support.md)
 
 ## Examples
 -

@@ -77,3 +77,5 @@ Lag2 robustness check extending the French RI-CCLPM with second-order paths capt
 - [Academic self-concept predicts lagged (across-semester) changes in academic skills in both mathematics and French](self-concept-lagged-effects-on-skills.md) — related
 - [Academic skills predict contemporaneous (within-semester) changes in academic self-concept in both mathematics and French](skills-contemporaneous-effects-on-self-concept.md) — related
 - [The temporal asymmetry in effect sizes: contemporaneous skill effects on self-concept are moderate (d = 0.33 in French) while alternative cross-effects are null or negligible](temporal-asymmetry-effect-sizes.md) — related
+- [Sixth-grade mathematics anxiety and attitudes do not predict seventh-grade mathematics achievement; the relation is directional from competence to affect, not reciprocal](competence-to-affect-directional-not-reciprocal.md) — reports the opposite
+- [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — reports the opposite

@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (21 for, 16 mixed, 2 against) · 38 studies (10 review, 9 theoretical, 7 causal, 7 associational, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 38 report an effect size · 37 claims rest on one study
+> **Evidence** · 40 claims (21 for, 17 mixed, 2 against) · 39 studies (10 review, 9 theoretical, 8 causal, 7 associational, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 39 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Nonexperimental designs, including natural experiments and structural equation modeling, can inform cause-effect relationships to a degree that depends on study design and analysis](../claims/nonexperimental-designs-inform-causal-effects.md) [+W] — attached 2026-10-21 from Grosz (2023), which proposed "Researchers should discuss practical implications in their articles regardless of design, while transparently communicating limitations and assumptions".
 - [Retrieval practice has been implemented and studied in authentic middle school classrooms, with general recommendations for applied research](../claims/retrieval-practice-implementation-middle-school-classrooms.md) [+W] — attached 2026-10-22 from Pooja K. Agarwal (2012), which proposed "Apply a century of cognitive psychology research on human learning and memory to real-world education to ground practice in evidence rather than doctrine".
 - [Measurement units for changes in learners are essential to an adequate science of education, since most educational practice problems depend on the amount of some change.](../claims/measurement-units-essential-science-of-education.md) [+W] — attached 2026-10-24 from Thorndike (1910), which proposed "Decide competing teaching methods with controlled comparative trials and measurement, rather than from unaided classroom experience.".
+- [A head-to-head teaching contest between a primarily visual method and a combined method produced nearly identical averages (22.9 vs 23.0) and could not decide between the methods because of uncontrolled confounds](../claims/uncontrolled-teacher-contest-inconclusive.md) [~W] — attached 2026-10-25 from Winch (1913), which proposed "Teachers should improve instruction through controlled experiments with exact measurement, supported by educational psychologists rather than directives from superior persons".
 
 ## Objective and learner-valued goal
 

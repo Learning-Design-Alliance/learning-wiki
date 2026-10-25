@@ -50,3 +50,4 @@ Narrative synthesis of environmental health research in a policy brief, citing S
 - [Reducing student density in classrooms and shared school spaces, combined with precautions such as physical distancing, some mask wearing, and good ventilation, allows for a safer school reopening during COVID-19](reduced-density-precautions-safer-school-reopening.md) — related
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — related
 - [California school facilities are chronically underfunded, with stark facility-condition and spending disparities](california-facilities-underfunded-disparities.md) — related
+- [About two-thirds of responding normal schools reported conditions injurious to student health, chiefly poor ventilation, lighting, boarding, and overpressure of work](normal-school-conditions-injurious-to-health.md) — related

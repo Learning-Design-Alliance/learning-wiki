@@ -56,3 +56,4 @@ Bivariate correlations in the descriptive analysis of the full sample showed gen
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
 - [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) — related
 - [Exploratory analyses found videos more beneficial for retention among boys than girls and among fifth graders more than sixth graders](modality-gender-grade-interactions.md) — related
+- [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related

@@ -50,3 +50,4 @@ Supplementary offline checks on the same OULAD d-14 test split compare stronger 
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — related
 - [Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities](explainable-models-78-percent-accuracy-calibrated.md) — related
 - [Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model](small-gain-from-question-level-features.md) — related
+- [A reduced model using only the six top-ranked predictors maintains relatively similar MD prediction performance (AUC .776)](six-predictor-md-model-auc-776.md) — related

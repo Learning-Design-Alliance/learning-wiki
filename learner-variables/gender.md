@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 262 claims (162 show a difference, 62 mixed, 38 no difference) · 186 studies (118 associational, 32 causal, 14 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 30 of 186 report an effect size · 254 claims rest on one study
+> **Evidence** · 267 claims (165 show a difference, 64 mixed, 38 no difference) · 188 studies (120 associational, 32 causal, 14 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 31 of 188 report an effect size · 259 claims rest on one study
 
 ## How to read this page
 
@@ -300,6 +300,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Boys are more likely than girls to rank at both the top and the bottom of the grade scale, supporting greater variability of excellence among boys](../claims/sex-variability-in-excellence-1912.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [In this group the average girl's grades equal or exceed the average boy's in all six subjects, with the largest advantage in Latin](../claims/girl-boy-average-grade-comparison-1912.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender effects on growth were small: boys grew more quickly in math in most cohorts, with small intercept differences by grade](../claims/gender-small-effects-math-growth-intercepts.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Adolescent girls report higher mathematics anxiety for evaluations than boys, but not for mathematics learning](../claims/girls-higher-evaluation-math-anxiety.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](../claims/gender-levels-not-causal-pattern.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls with low mathematics achievement are at higher risk of developing mathematics anxiety and poor mathematics attitudes than low-achieving boys](../claims/low-achieving-girls-higher-anxiety-risk.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Higher sixth-grade mathematical competence predicts lower evaluation anxiety and better mathematics attitudes in seventh grade for girls but not boys](../claims/competence-predicts-girls-anxiety-attitudes.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The negative concurrent correlation between mathematical competence and evaluation anxiety is stronger in girls than in boys in sixth grade](../claims/competence-evaluation-anxiety-link-stronger-girls.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

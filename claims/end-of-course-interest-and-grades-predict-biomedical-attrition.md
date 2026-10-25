@@ -50,3 +50,4 @@ Binary logistic regression on the 1193-student sample controlling for demographi
 - [Utility-value interventions enhance perceived utility value, engagement, performance, and persistence in introductory college science courses](uvi-improve-engagement-performance-persistence.md) — related
 - [Interest and value were the dominant topics in leavers' explanations, especially among students leaving due to attraction](interest-value-dominant-topic-in-attrition-explanations.md) — related
 - [College students' attributions of motivation problems to lack of value and interest strongly predict lower intention to take additional classes in the field](value-interest-attributions-predict-attrition-intention.md) — related
+- [Course grade in the introductory biology course strongly predicted both enrollment in the second course and biomedical major two years later](gateway-grade-predicts-biomedical-persistence.md) — related

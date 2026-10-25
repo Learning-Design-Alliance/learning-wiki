@@ -52,6 +52,7 @@ The article recommends that children at risk for long-term mathematics difficult
 
 - [Assess Arabic numeral identification and symbolic magnitude estimation to identify children likely to struggle with math](assess-symbolic-number-skills-for-early-identification.md)
 - [Use the SYMP Test as a quick screening measure to identify children at risk for mathematical difficulties or dyscalculia](symp-screening-at-risk-children-strategy.md)
+- [Use kindergarten-age screening information to identify children at potential risk of math difficulties and provide access to early support](kindergarten-screening-early-md-support.md)
 
 ## Examples
 -

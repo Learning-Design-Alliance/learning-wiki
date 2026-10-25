@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 272 claims (186 show a difference, 58 mixed, 28 no difference) · 206 studies (74 associational, 52 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 53 of 206 report an effect size · 260 claims rest on one study
+> **Evidence** · 274 claims (187 show a difference, 59 mixed, 28 no difference) · 207 studies (74 associational, 53 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 53 of 207 report an effect size · 262 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -322,6 +322,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Leavers reported lower end-of-semester interest, lower prior achievement, and lower biology grades than stayers, with no differences in FG status, gender, or baseline interest](../claims/leavers-lower-interest-achievement-grades-than-stayers.md) [+M] — learners who differ on it differ in outcomes
 - [Perceived communal goal affordances in STEM roles positively predict later persistence intentions among Indigenous STEM students, controlling for baseline](../claims/communal-affordances-direct-effect-indigenous-persistence.md) [+M] — learners who differ on it differ in outcomes
 - [Material learned with the expectation of delayed reproduction is retained better than material learned for near-term reproduction](../claims/delayed-reproduction-expectation-improves-retention.md) [+M] — learners who differ on it differ in outcomes
+- [Personal focus in students' essays partially mediated the UVI x confidence effect on persistence, whereas engagement did not mediate direct persistence effects](../claims/personal-focus-mediation-persistence.md) [~M] — instruction changes it
+- [The UVI influenced short-term performance through engagement and long-term persistence through personal focus, two distinct motivational processes](../claims/uvi-two-distinct-motivational-processes.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

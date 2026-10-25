@@ -50,3 +50,4 @@ Mediation analysis reported in the longitudinal study of kindergarten children (
 - [Some aspects of spatial skills are more predictive of mathematical development than others, so the construct must be differentiated](spatial-skills-aspects-differ-in-math-predictivity.md) — related
 - [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related
 - [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](number-naming-comparison-better-predictors-than-number-line-estimation.md) — reports the opposite
+- [The most important kindergarten predictors of Grade 6 MD are RAN, spatial relations, arithmetic skills, number concepts, attention-orientation, and counting](top-predictors-md-ran-spatial-attention.md) — related

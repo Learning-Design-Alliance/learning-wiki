@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (40 show a difference, 17 mixed, 12 no difference) · 49 studies (14 causal, 13 associational, 10 review, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 13 of 49 report an effect size · 68 claims rest on one study
+> **Evidence** · 74 claims (44 show a difference, 18 mixed, 12 no difference) · 50 studies (14 causal, 14 associational, 10 review, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 13 of 50 report an effect size · 73 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -109,6 +109,11 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [School subjects intercorrelate lowly except reading comprehension with reading rate (0.85)](../claims/low-school-subject-intercorrelations.md) [+M] — learners who differ on it differ in outcomes
 - [Rate of silent reading rises most rapidly in grades 2, 3 and 4, while quality of silent reading increases at about the same rate throughout the grades.](../claims/rate-versus-quality-progress-curves.md) [+W] — instruction changes it
 - [Reading-related skills show significant individual differences in growth rates in kindergarten through grade 2 but not in grades 3 through 5](../claims/reading-growth-individual-differences-early-not-late-elementary.md) [~W] — instruction changes it
+- [Patterns of relations among word reading and fluency measures were similar across Greek and English, consistent with a language-independent fluency development trajectory](../claims/fluency-development-patterns-similar-across-languages.md) [+M] — learners who differ on it differ in outcomes
+- [Serial digit naming uniquely predicted word-list and text reading fluency beyond isolated word reading speed in Grades 3 and 5, in both languages](../claims/serial-digit-naming-unique-predictor-grades-3-5.md) [+M] — learners who differ on it differ in outcomes
+- [The correlation between discrete word reading and both word-list and text reading fluency gradually decreased from Grade 1 to Grade 5 in Greek and English](../claims/discrete-serial-word-reading-correlation-decreases.md) [~M] — learners who differ on it differ in outcomes
+- [The two-predictor model (discrete word reading plus serial digit naming) accounted for similar amounts of variance in text and word-list reading fluency](../claims/two-predictor-model-similar-variance-text-list.md) [+M] — learners who differ on it differ in outcomes
+- [Variability in word reading speed was greater in serial word reading than discrete word reading, with discrete speed reaching a plateau by Grade 3 while serial speed kept progressing through Grade 5](../claims/serial-speed-variability-greater-than-discrete.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (16 for, 11 mixed) · 33 studies (13 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 10 of 33 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (17 for, 12 mixed) · 34 studies (14 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 10 of 34 report an effect size · 24 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -63,6 +63,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](../claims/dynamic-vs-static-visualization-meta-analysis-small-benefit.md) [~W]
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](../claims/textual-beats-pictorial-slides-speeded-lectures.md) [~W]
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
+- [The combined method's advantage over the visual method held across ability levels, for weaker as well as abler pupils](../claims/combined-method-advantage-weaker-and-abler-standard-iv.md) [+W]
+- [For Standard IV boys (average age 11), a combined articulatory-auditory-visual spelling method with directed attention yields higher dictation scores than a silent visual method without directed attention](../claims/combined-spelling-method-beats-visual-standard-iv.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

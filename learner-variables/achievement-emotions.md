@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (94 show a difference, 39 mixed, 12 no difference) · 88 studies (32 associational, 21 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 88 report an effect size · 142 claims rest on one study
+> **Evidence** · 149 claims (97 show a difference, 40 mixed, 12 no difference) · 89 studies (32 associational, 22 causal, 13 review, 10 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 20 of 89 report an effect size · 146 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -180,6 +180,10 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [High-confidence errors were unrelated to epistemic anxiety, while wrong answers as such raised anxiety and correct answers raised pride](../claims/anxiety-unrelated-to-high-confidence-errors-pride-after-correct.md) [~M] — instruction changes it
 - [Intra-individual effects of high-confidence errors, discrepancy resolution, and emotions on exploration did not vary significantly between persons](../claims/no-inter-individual-variation-in-emotional-mechanisms.md) [-M] — learners who differ on it differ in outcomes
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](../claims/high-confidence-errors-intensify-epistemic-emotions-and-anger.md) [+M] — instruction changes it
+- [Students exposed to a peer model's enjoyment report higher positive and lower negative activity emotions than those exposed to the peer's frustration](../claims/peer-enjoyment-raises-student-positive-activity-emotions.md) [+M] — instruction changes it
+- [Peers' enjoyment raises students' mastery-approach goals but leaves performance-approach and performance-avoidance goals unchanged](../claims/peer-enjoyment-mastery-approach-goals.md) [~M] — learners who differ on it differ in outcomes
+- [Students exposed to peers' enjoyment achieve higher game performance than those exposed to peers' frustration](../claims/peer-enjoyment-game-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Students exposed to peers' frustration report higher mental effort than those exposed to peers' enjoyment or a neutral peer, contrary to hypothesis](../claims/peer-frustration-raises-mental-effort.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

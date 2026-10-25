@@ -56,3 +56,4 @@ The publication's summary of its research findings states that "reducing the num
 - [Agent-based modeling indicates routine testing can greatly reduce or eliminate within-school Covid-19 transmission](routine-testing-reduces-within-school-transmission.md) — related
 - [In schools attending fully in person, temporary closures in response to known cases are far less effective than hybrid operation from the start and increase schedule disruption](temporary-closures-less-effective-than-hybrid-model.md) — related
 - [Elementary schools are predicted to have lower infection rates than secondary schools using the same operating strategies](elementary-lower-infection-rates-than-secondary-model.md) — related
+- [About two-thirds of responding normal schools reported conditions injurious to student health, chiefly poor ventilation, lighting, boarding, and overpressure of work](normal-school-conditions-injurious-to-health.md) — related

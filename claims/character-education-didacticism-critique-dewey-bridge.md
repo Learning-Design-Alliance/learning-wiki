@@ -54,3 +54,4 @@ Philosophical argument in the article's framing section: the author states that 
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](dewey-morality-in-everyday-problems.md) — related
 - [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related
 - [In the third year, children acquire moral judgments about whether one should help, judging helping obligatory in simple situations](third-year-moral-judgments-about-helping.md) — related
+- [For the feeble-minded, punishment is of little avail because the moral sentiment is impaired](punishment-ineffective-impaired-moral-sentiment.md) — related

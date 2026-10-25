@@ -50,3 +50,4 @@ Descriptive analysis of informal interviews with eight hundred girls aged six to
 - [Fairy tales dominated the reading choices of girls aged six to eight but dwindled sharply with age, while girls' series books peaked between eleven and sixteen](age-graded-reading-tastes-girls-1920.md) — related
 - [Girls' vocational choices showed a striking narrowness of outlook, with teaching, nursing, and stenography filling nearly the whole horizon and possibilities diminishing with age](narrow-vocational-horizon-girls-1920.md) — related
 - [In twenty-five of thirty-four cases where girls mentioned parents regarding occupation, the parents' wishes differed decidedly from the girls' own](parental-opposition-vocational-choice-girls-1920.md) — related
+- [Most normal schools had gymnasiums with physical directors, but student participation in athletics and recreation lagged](gymnasiums-common-athletics-participation-low.md) — related
