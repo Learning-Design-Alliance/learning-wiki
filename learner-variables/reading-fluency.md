@@ -120,7 +120,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Merely making pupils conscious of the need to change mental set improved silent reading rate while comprehension was checked](../claims/consciousness-of-set-change-raises-silent-reading-rate.md) [+W] — instruction changes it
 - [More effective readers are those who vary their reading rate to suit the type of material](../claims/rate-flexibility-marks-effective-readers.md) [+W] — learners who differ on it differ in outcomes
 - [Early working memory, processing speed, and attentive behavior predict later calculations, word-problem solving, and reading, but nonverbal reasoning is not significantly associated with any outcome](../claims/domain-general-predictors-null-nonverbal-reasoning.md) [+W] — instruction changes it
-- [Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solving, and reading](../claims/numerical-cognition-mediation-academic-outcomes.md) [+W] — instruction changes it
+- [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](../claims/numerical-cognition-mediation-academic-outcomes.md) [+W] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

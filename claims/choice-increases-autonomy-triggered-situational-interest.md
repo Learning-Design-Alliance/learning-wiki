@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-25
 sources:
   - id: asher-2025
     resource: "https://doi.org/10.1037/edu0000921"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The choice manipulation increased perceived autonomy by more than .9 standard deviations relative to control (d = 0.92, p < .001). [→ Asher 2025](#asher-2025)
@@ -46,7 +47,7 @@ Asher, M. W., & Harackiewicz, J. M. (2025). Using Choice and Utility Value to Pr
 
 `q3 · i3` · `causal · r2`
 
-Internal meta-regression across seven lab experiments with undergraduates learning regression via a choice manipulation (choosing among three dataset-based lesson versions, yoked controls). The meta-analysis found choice "increasing perceived autonomy by more than .9 standard deviations relative to control, d = 0.92, p < .001."
+Internal meta-regression of a series of seven lab experiments (total N = 2,019) with undergraduates learning regression. The choice manipulation (choosing among three dataset-based lesson versions, with yoked no-choice controls) was not part of Studies 1–2: it was introduced in Study 3, so the choice contrasts come only from the later studies that included a choice condition. The meta-analysis found choice "increasing perceived autonomy by more than .9 standard deviations relative to control, d = 0.92, p < .001."
 
 > "The choice manipulation was significantly more effective at increasing participants’ perceptions of autonomy during the learning session, p < .001, increasing perceived autonomy by more than .9 standard deviations relative to control, d = 0.92, p < .001."
 
@@ -56,7 +57,7 @@ Asher, M. W., & Harackiewicz, J. M. (2025). Using Choice and Utility Value to Pr
 
 `q3 · i?` · `causal · r?`
 
-Meta-regression of the choice contrast on triggered situational interest across Studies 1–7 showed choice "increased triggered situational interest by .24 standard deviations relative to control, p < .001," exceeding the utility value manipulation's effect.
+Meta-regression of the choice contrast on triggered situational interest (from the studies, Study 3 onward, that included a choice condition, within the seven-study series) showed choice "increased triggered situational interest by .24 standard deviations relative to control, p < .001," exceeding the utility value manipulation's effect.
 
 > "The choice manipulation increased triggered situational interest by .24 standard deviations relative to control, p < .001, and this effect size was significantly stronger than that of the directly-communicated utility value manipulation, p = .043."
 

@@ -8,19 +8,19 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 evidence_strength: weak
-newest_evidence: 1917
+newest_evidence: 1918
 sources:
-  - id: haggerty-1917
+  - id: haggerty-1918
     resource: "https://doi.org/10.1037/h0071405"
-    title: "Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://doi.org/10.1037/h0071405"
+    title: "Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405"
     author: Haggerty, M. E.
     q: 3
     i: "?"
     kind: associational
     rigour: 1
-  - id: haggerty-1917-2
+  - id: haggerty-1918-2
     resource: "https://doi.org/10.1037/h0071405"
-    title: "Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://doi.org/10.1037/h0071405"
+    title: "Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405"
     author: Haggerty, M. E.
     q: 3
     i: "?"
@@ -32,16 +32,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Time of reading correlates -.14 with S. L. A. marks but positive .24 with medical school marks, while omnibus raw time gives positive correlations of .39 and .51 with S. L. A. and medical school marks. [→ Haggerty 1917](#haggerty-1917)
+`q3 i?` Time of reading correlates -.14 with S. L. A. marks but positive .24 with medical school marks, while omnibus raw time gives positive correlations of .39 and .51 with S. L. A. and medical school marks. [→ Haggerty 1918](#haggerty-1918)
 
 ## Evidence
 
-### Haggerty 1917
+### Haggerty 1918
 
-Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://doi.org/10.1037/h0071405
+Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405
 
 `q3 · i?` · `associational · r1`
 
@@ -49,9 +49,9 @@ Correlational analysis of the same applicant cohort. The article reports the rea
 
 > "With the S. L. A. marks it is —14 and with medical school marks it is positive .24. From this it would seem that in a test as difficult as the reading scale the time consumed is no indication of ability."
 
-### Haggerty 1917 (2)
+### Haggerty 1918 (2)
 
-Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://doi.org/10.1037/h0071405
+Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405
 
 `q3 · i?` · `associational · r1`
 

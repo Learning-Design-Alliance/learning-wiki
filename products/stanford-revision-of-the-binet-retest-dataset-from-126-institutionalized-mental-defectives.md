@@ -28,4 +28,4 @@ A published dataset compiled by Poull from Stanford-revision Binet retests of 12
 -
 
 ## Key Sources
-- Poull, L. E. (1921). Constancy of I. Q. in mental defectives, according to the Stanford-revision of Binet tests. The Journal of Educational Psychology.
+- Poull, L. E. (1921). Constancy of the I.Q. in mental defectives according to the Stanford revision of Binet tests. *Journal of Educational Psychology, 12*(6), 323–324. https://doi.org/10.1037/h0071851

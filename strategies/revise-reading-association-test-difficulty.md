@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 sources:
-  - id: haggerty-1917
+  - id: haggerty-1918
     resource: "https://doi.org/10.1037/h0071405"
-    title: "Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://doi.org/10.1037/h0071405"
+    title: "Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405"
     author: Haggerty, M. E
 ---
 
@@ -50,4 +50,4 @@ Based on experience with the 1916 testing, the article recommends two changes: "
 -
 
 ## Key Sources
-- Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://doi.org/10.1037/h0071405
+- Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405

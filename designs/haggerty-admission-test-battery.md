@@ -8,9 +8,9 @@ generated:
   by: "process:settle-candidates"
   at: 2026-10-25
 sources:
-  - id: haggerty-1917
+  - id: haggerty-1918
     resource: "https://books.google.com"
-    title: "Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://books.google.com"
+    title: "Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405 https://books.google.com"
     author: Haggerty, M. E
 ---
 
@@ -47,4 +47,4 @@ The battery used for 1916 medical school applicants comprised an omnibus test "f
 -
 
 ## Key Sources
-- Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://books.google.com
+- Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405 https://books.google.com

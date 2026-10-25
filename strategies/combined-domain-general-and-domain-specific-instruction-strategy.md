@@ -39,7 +39,7 @@ The authors recommend that interventions for children with co-occurring mathemat
 ## Claims
 
 - [Early working memory, processing speed, and attentive behavior predict later calculations, word-problem solving, and reading, but nonverbal reasoning is not significantly associated with any outcome](../claims/domain-general-predictors-null-nonverbal-reasoning.md) [+M]
-- [Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solving, and reading](../claims/numerical-cognition-mediation-academic-outcomes.md) [+M]
+- [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](../claims/numerical-cognition-mediation-academic-outcomes.md) [+M]
 - [End-of-first-grade numerical cognition directly predicts later calculations, word-problem solving, and word reading, with the strongest relation to calculations](../claims/numerical-cognition-predicts-all-three-outcomes.md) [+M]
 - [Crossover effects: early reading fluency predicts later mathematics outcomes more strongly than early mathematics skills predict later reading](../claims/crossover-effects-reading-mathematics.md) [+M]
 

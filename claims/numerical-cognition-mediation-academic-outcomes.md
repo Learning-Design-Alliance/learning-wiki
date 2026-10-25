@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solving, and reading
-description: Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solvin...
+title: Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading
+description: In a longitudinal path model of 370 first graders, end-of-first-grade numerical cognition statistically mediated associations between early cognitive and academic skills and later calculations, word-problem solving and reading; the observational design cannot show cause.
 id: numerical-cognition-mediation-academic-outcomes
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-10-25
 sources:
   - id: spencer-mercedes-2022
     resource: "https://doi.org/10.1037/edu0000670"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solving, and reading
+# Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Intermediary numerical cognition mediated associations between early calculation skill, WPS, reading, processing speed, working memory, and attentive behavior and all three later outcomes. [→ Spencer Mercedes 2022](#spencer-mercedes-2022)
+`q3 i?` In an observational path model, intermediary numerical cognition statistically mediated associations between early calculation skill, WPS, reading, processing speed, working memory, and attentive behavior and all three later outcomes; this shows associations, not causal effects. [→ Spencer Mercedes 2022](#spencer-mercedes-2022)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Spencer Mercedes, Fuchs Lynn S., Geary David C., Fuchs Douglas. (2022). Connecti
 
 `q3 · i?` · `associational · r2`
 
-Path analysis mediation model (final pruned model) fitted to longitudinal data from 370 first graders with bootstrapped 95% bias-corrected CIs (5,000 draws); the final model showed intermediary NC "mediated associations between early calculation skill, WPS, reading, processing speed, working memory, and attentive behavior and all outcomes."
+Path analysis mediation model (final pruned model) fitted to longitudinal data from 370 first graders with bootstrapped 95% bias-corrected CIs (5,000 draws); the final model showed intermediary NC "mediated associations between early calculation skill, WPS, reading, processing speed, working memory, and attentive behavior and all outcomes." The authors frame this as a causal mediation model, but the data are observational: the mediated paths are associations, and the authors themselves note likely residual confounding (for example by language comprehension and executive function), so the model cannot show that numerical cognition carries a causal effect.
 
 > "intermediary NC was related to later calculations, WPS, and reading performance and mediated associations between early calculation skill, WPS, reading, processing speed, working memory, and attentive behavior and all outcomes"
 

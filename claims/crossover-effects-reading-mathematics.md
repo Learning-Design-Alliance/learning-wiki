@@ -70,6 +70,6 @@ Mathematics-to-reading crossover effects from the same final pruned model; the a
 
 ## Related Claims
 - [End-of-first-grade numerical cognition directly predicts later calculations, word-problem solving, and word reading, with the strongest relation to calculations](numerical-cognition-predicts-all-three-outcomes.md) — related
-- [Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related
+- [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related
 - [The final pruned mediation model fits the data excellently and accounts for 58.0%, 62.2%, and 53.2% of variance in later calculations, word-problem solving, and reading](final-model-fit-variance-explained.md) — related
 - [Early listening comprehension directly predicts later word-problem solving and word reading but not calculations, and numerical cognition does not mediate this relation](listening-comprehension-predicts-wps-reading-not-calculations.md) — related

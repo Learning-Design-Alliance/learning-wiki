@@ -46,7 +46,7 @@ Model-fit results from the path analysis on 370 children: "The final pruned mode
 
 ## Related Claims
 - [Crossover effects: early reading fluency predicts later mathematics outcomes more strongly than early mathematics skills predict later reading](crossover-effects-reading-mathematics.md) — related
-- [Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related
+- [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related
 - [End-of-first-grade numerical cognition directly predicts later calculations, word-problem solving, and word reading, with the strongest relation to calculations](numerical-cognition-predicts-all-three-outcomes.md) — related
 - [Early listening comprehension directly predicts later word-problem solving and word reading but not calculations, and numerical cognition does not mediate this relation](listening-comprehension-predicts-wps-reading-not-calculations.md) — related
 - [Early working memory, processing speed, and attentive behavior predict later calculations, word-problem solving, and reading, but nonverbal reasoning is not significantly associated with any outcome](domain-general-predictors-null-nonverbal-reasoning.md) — related

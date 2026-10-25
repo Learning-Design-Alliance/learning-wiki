@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 evidence_strength: weak
-newest_evidence: 1917
+newest_evidence: 1918
 sources:
-  - id: haggerty-1917
+  - id: haggerty-1918
     resource: "https://doi.org/10.1037/h0071405"
-    title: "Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://doi.org/10.1037/h0071405"
+    title: "Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405"
     author: Haggerty, M. E.
     q: 3
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The correlation between weighted time in association and quality of reading is .34, indicating the two tests measure in part the same functions and in part different things. [→ Haggerty 1917](#haggerty-1917)
+`q3 i?` The correlation between weighted time in association and quality of reading is .34, indicating the two tests measure in part the same functions and in part different things. [→ Haggerty 1918](#haggerty-1918)
 
 ## Evidence
 
-### Haggerty 1917
+### Haggerty 1918
 
-Haggerty, M. E. (1917). Tests of Applicants for Admission to University of Minnesota Medical School. The Journal of Educational Psychology. https://doi.org/10.1037/h0071405
+Haggerty, M. E. (1918). Tests of applicants for admission to University of Minnesota Medical School. *Journal of Educational Psychology, 9*(5), 278–286. https://doi.org/10.1037/h0071405
 
 `q3 · i?` · `associational · r1`
 

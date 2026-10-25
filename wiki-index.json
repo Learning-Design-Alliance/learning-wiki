@@ -40318,6 +40318,7 @@
 "id":"choice-increases-autonomy-triggered-situational-interest",
 "newest_evidence":"2025",
 "path":"claims/choice-increases-autonomy-triggered-situational-interest.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"Providing meaningful choice during a lesson increases perceived autonomy and triggered situational interest in undergraduates learning statistics",
 "type":"claim"
@@ -48016,7 +48017,7 @@
 "description":"Combined weighted-time and reading-quality scores correlate substantially with first-semester medical school marks",
 "evidence_strength":"moderate",
 "id":"combined-omnibus-reading-predict-medical-marks",
-"newest_evidence":"1917",
+"newest_evidence":"1918",
 "path":"claims/combined-omnibus-reading-predict-medical-marks.md",
 "status":"review",
 "title":"Combined weighted-time and reading-quality scores correlate substantially with first-semester medical school marks",
@@ -54790,6 +54791,7 @@
 "id":"corrections-reduce-belief-in-cancer-misinformation",
 "newest_evidence":"2025",
 "path":"claims/corrections-reduce-belief-in-cancer-misinformation.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"Both truth sandwich and bottom-loaded refutation corrections reduced belief in cancer misinformation relative to no correction",
 "type":"claim"
@@ -144947,11 +144949,12 @@
 "type":"claim"
 },
 {
-"description":"Early listening comprehension directly predicts later word-problem solving and word reading but not calculations, and numerical cognition does not mediate this relation",
+"description":"In a longitudinal path model of 370 first graders, early listening comprehension had direct associations with later word-problem solving (0.167) and word reading (0.103) but not calculations, not mediated by numerical cognition; the design is observational and cannot show cause.",
 "evidence_strength":"moderate",
 "id":"listening-comprehension-predicts-wps-reading-not-calculations",
 "newest_evidence":"2022",
 "path":"claims/listening-comprehension-predicts-wps-reading-not-calculations.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"Early listening comprehension directly predicts later word-problem solving and word reading but not calculations, and numerical cognition does not mediate this relation",
 "type":"claim"
@@ -172972,6 +172975,7 @@
 "id":"no-belief-difference-truth-sandwich-vs-refutation-immediate",
 "newest_evidence":"2025",
 "path":"claims/no-belief-difference-truth-sandwich-vs-refutation-immediate.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"Truth sandwich and bottom-loaded refutation produced equivalent belief reduction immediately after correction",
 "type":"claim"
@@ -174353,6 +174357,7 @@
 "id":"no-format-difference-belief-after-delay",
 "newest_evidence":"2025",
 "path":"claims/no-format-difference-belief-after-delay.md",
+"source_checked":"2026-10-25",
 "status":"review",
 "title":"No belief difference between truth sandwich and bottom-loaded refutation immediately or after a two-week delay",
 "type":"claim"
@@ -179604,13 +179609,14 @@
 "type":"claim"
 },
 {
-"description":"Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solvin...",
+"description":"In a longitudinal path model of 370 first graders, end-of-first-grade numerical cognition statistically mediated associations between early cognitive and academic skills and later calculations, word-problem solving and reading; the observational design cannot show cause.",
 "evidence_strength":"moderate",
 "id":"numerical-cognition-mediation-academic-outcomes",
 "newest_evidence":"2022",
 "path":"claims/numerical-cognition-mediation-academic-outcomes.md",
+"source_checked":"2026-10-25",
 "status":"review",
-"title":"Numerical cognition assessed at end of first grade mediates effects of early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior on later calculations, word-problem solving, and reading",
+"title":"Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading",
 "type":"claim"
 },
 {
@@ -181369,7 +181375,7 @@
 "description":"The omnibus and reading tests correlate .34, indicating they measure partly the same and partly different functions",
 "evidence_strength":"weak",
 "id":"omnibus-reading-correlation-34",
-"newest_evidence":"1917",
+"newest_evidence":"1918",
 "path":"claims/omnibus-reading-correlation-34.md",
 "status":"review",
 "title":"The omnibus and reading tests correlate .34, indicating they measure partly the same and partly different functions",
@@ -213743,7 +213749,7 @@
 "description":"Reading-test time scores correlate equivocally with academic marks, unlike raw association time",
 "evidence_strength":"weak",
 "id":"reading-time-equivocal-raw-time-positive",
-"newest_evidence":"1917",
+"newest_evidence":"1918",
 "path":"claims/reading-time-equivocal-raw-time-positive.md",
 "status":"review",
 "title":"Reading-test time scores correlate equivocally with academic marks, unlike raw association time",
@@ -265887,7 +265893,7 @@
 "description":"Test rankings show high retention of median, tertile and quartile positions in medical school marks",
 "evidence_strength":"moderate",
 "id":"test-rank-retention-quartiles-medical-marks",
-"newest_evidence":"1917",
+"newest_evidence":"1918",
 "path":"claims/test-rank-retention-quartiles-medical-marks.md",
 "status":"review",
 "title":"Test rankings show high retention of median, tertile and quartile positions in medical school marks",
@@ -266293,7 +266299,7 @@
 "description":"The mental tests were a better indication of medical school ability than the applicants' prior academic records",
 "evidence_strength":"moderate",
 "id":"tests-beat-academic-records-prognosis",
-"newest_evidence":"1917",
+"newest_evidence":"1918",
 "path":"claims/tests-beat-academic-records-prognosis.md",
 "status":"review",
 "title":"The mental tests were a better indication of medical school ability than the applicants' prior academic records",

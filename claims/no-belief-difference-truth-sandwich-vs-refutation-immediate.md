@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-25
 sources:
   - id: swire-thompson-2025
     resource: "https://doi.org/10.1037/edu0000961"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 1, post-correction belief did not differ between the truth sandwich and bottom-loaded refutation conditions, with Bayesian analyses supporting the null. [→ Swire-Thompson 2025](#swire-thompson-2025)
