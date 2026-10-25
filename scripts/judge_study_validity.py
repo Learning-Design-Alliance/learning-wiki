@@ -118,7 +118,8 @@ def judge(job, model, key):
     prompt = (f"## The study ({basis}: {source})\n{text}\n\n## Wiki page claims/{r['claim']}.md\n"
               f"Claim: {title}\n\nSubclaims resting on this study:\n" + ("\n".join(subs) or "(none)")
               + f"\n\nEvidence entry:\n{block}")
-    gen = oc.generate(model, SYSTEM, prompt, key, max_tokens=3000)
+    # the second model reasons at length before its JSON; 3000 tokens cut 113 replies short
+    gen = oc.generate(model, SYSTEM, prompt, key, max_tokens=3000 if model != SECOND else 9000)
     data = extract_json(gen.raw_text)
     if not isinstance(data, dict) or data.get("outcome_measured") not in OUTCOMES \
             or data.get("comparison") not in COMPARISONS:
