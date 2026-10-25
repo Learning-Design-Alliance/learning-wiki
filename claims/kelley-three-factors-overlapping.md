@@ -47,3 +47,4 @@ An analytical statement by Kelley, offered without data, enumerating the causes 
 ## Related Claims
 - [Prior spelling test lists (Ayres, Buckingham) are too easy for better pupils, with more than half of eighth-graders spelling all Buckingham list words correctly](prior-spelling-lists-ceiling-limitation.md) — related
 - [Buckingham found information-question scores predict thought ability far better than thought-question scores predict information](buckingham-information-thought-regression-asymmetry.md) — related
+- [A word list used for measuring school attainments becomes unreliable once children become accustomed to spelling the particular words of the scale](spelling-list-unreliable-when-children-accustomed.md) — a narrower finding that bears on this claim

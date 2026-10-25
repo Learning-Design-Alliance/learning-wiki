@@ -54,3 +54,4 @@ SEM fit of the ESDM on simulated PALMA-like data. The article reports "a good fi
 - [Simulated time-on-task achievement correlations resemble empirical distributions from K-12 classroom studies without any fitting procedure](comsa-time-on-task-matches-empirical.md) — related
 - [Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement](corrected-lcsm-proper-solution-positive-asc-ach-effects.md) — reports the opposite
 - [A latent change score model of correlated initial levels and change scores of self-concepts and comparison-related beliefs fits the data well](correlated-change-model-good-fit.md) — related
+- [Latent cross-lagged modeling yielded coefficients highly similar to the pooled analyses and a good model fit (CFI = .94, RMSEA = .08, SRMR = .04)](latent-sem-fit-similar-to-pooled-analyses.md) — related

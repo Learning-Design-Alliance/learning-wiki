@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2005 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Chwen Jen Chen 2005: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` The adjusted mean difference of 5.714 between assimilator and accommodator learners in the guided VR mode was not significant (η² = .032); equivalence was not tested. [→ Chwen Jen Chen 2005](#chwen-jen-chen-2005)

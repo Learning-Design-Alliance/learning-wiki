@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2024 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Lindquist 2024: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` A two-way ANOVA found little evidence that student retention performance varied by class hour, while the treatment effect remained significant. [→ Lindquist 2024](#lindquist-2024)

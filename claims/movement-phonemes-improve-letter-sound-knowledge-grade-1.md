@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Damsgaard 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` MOVE improved naming of all letter-sounds from T1 to T2 significantly more than CON (d = 2.0). [→ Damsgaard 2023](#damsgaard-2023)

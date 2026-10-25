@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2021 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Dominguez 2021: no comparison group; the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Interview data indicated families who explored the app most often and most deeply reported stronger self-reported changes in joint media engagement and science, while families confused about the app's purpose did not seem to have tried its strategies or tools. The pattern is descriptive and does not show that more use caused the changes. [→ Dominguez 2021](#dominguez-2021)

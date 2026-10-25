@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3` · `i2`–`i3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Han Xue 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Feedback style showed a significant main effect on comprehension monitoring, with higher scores under Socratic feedback (large effect). [→ Han Xue 2026](#han-xue-2026)

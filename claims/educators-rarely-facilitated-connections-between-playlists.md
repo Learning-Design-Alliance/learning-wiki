@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Li 2019: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Facilitating connections across activities and playlists was not consistently included in educators' scaffolding, and most educators did not observe students making connections. [→ Li 2019](#li-2019)

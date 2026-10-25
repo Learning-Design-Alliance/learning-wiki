@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Tetiana Zubenko 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Second-year ESL students who repeated target vocabulary once a month via audio lessons scored higher on the End-of-Experiment test than comparison students, and the article reports the difference as statistically significant by one-way ANOVA. [→ Tetiana Zubenko 2022](#tetiana-zubenko-2022)

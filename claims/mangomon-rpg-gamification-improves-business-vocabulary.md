@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Tangkiengsirisin 2025: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 <!-- title before 2026-10-15: Thai business undergraduates' vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group -->
 <!-- deprecated title (2026-10-05, overstated its evidence): Four weeks of out-of-class role-playing gamification with Mangomon significantly improved Thai undergraduates' business vocabulary test scores -->
 

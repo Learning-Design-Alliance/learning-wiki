@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 280 claims (120 for, 142 mixed, 18 against) · 209 studies (82 associational, 48 design, 28 review, 24 theoretical, 18 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 209 report an effect size · 273 claims rest on one study
+> **Evidence** · 282 claims (121 for, 142 mixed, 19 against) · 211 studies (83 associational, 49 design, 28 review, 24 theoretical, 18 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 18 of 211 report an effect size · 275 claims rest on one study
 
 ## Conditional relationship
 
@@ -223,6 +223,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Specific text- and question-type factor scores were not reliable and were hardly related to word reading speed, vocabulary, and working memory](../claims/specific-comprehension-factor-scores-unreliable-unrelated-cognitive-abilities.md) [~W] — attached 2026-10-25 from M.M.L. Muijselaar et al. (2017), which proposed "Do not assume separate comprehension abilities by text or question type when assessing fourth-grade reading comprehension"; tests this page's relationship.
 - [The total score of the abbreviated Educational Survey Test correlates about .786 with the combined long standard scales](../claims/survey-test-total-correlates-786-with-long-scales.md) [+W] — attached 2026-10-25 from Rudolf Pintner et al. (1918), which proposed "Use short group survey tests to obtain fair measures of general attainment for groups and school systems"; tests this page's relationship.
 - [First-minute and last-minute arithmetic performance correlate highly across all fundamentals and grades](../claims/high-correlation-first-last-minute.md) [+W] — attached 2026-10-25 from Phillips (1916), which proposed "A one-minute arithmetic test is a fair measure of pupil ability, but scores should be interpreted knowing first-minute output runs slightly higher"; tests this page's relationship.
+- [Standardized illustrative sentences written in advance were used by all examiners when administering the Springfield spelling list to about 25,000 children in 78 schools](../claims/standardized-illustrative-sentences-spelling-administration.md) [+W] — attached 2026-10-25 from David Spence Hill (1917), which proposed "Standardize the administration procedure of spelling scales, including uniform illustrative sentences, before comparing achievement results".
 
 ## Objective and learner-valued goal
 
@@ -354,6 +355,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The scale reduces spread on individual compositions without reducing the spread of median scores across compositions (range of medians 32 points in both conditions)](../claims/hillegas-scale-preserves-median-spread.md) [~W]
 - [Teachers' geometry marks usually bear a positive relation to the four fundamental abilities](../claims/teachers-marks-relate-to-geometry-abilities.md) [~W]
 - [The editorial argues existing composition scales measure form on topics of artificial interest and cannot measure improvement in thought content](../claims/existing-composition-scales-miss-thought-content.md) [~W]
+- [School grades show very wide variation among teachers, shrinking little within a single institution (Starch)](../claims/starch-wide-variation-school-grades.md) [-W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

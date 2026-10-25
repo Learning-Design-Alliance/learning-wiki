@@ -35,6 +35,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i2` medium
 > **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Design limits** · Kayaalp et al. 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 Writing about to-be-learned material — rather than only reading or listening — deepens understanding by forcing learners to organize, elaborate, and articulate ideas in their own words. The claim concerns *understanding* (conceptual knowledge, transfer), not rote recall, and applies to writing as a learning activity during instruction — not to writing instruction aimed at improving composition skill, which is a distinct outcome.
 

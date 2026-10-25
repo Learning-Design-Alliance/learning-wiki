@@ -35,6 +35,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`–`q3`
 > **Currency** · newest study 2016 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Alison Wellington 2016: no comparison group · Wellington 2016: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 

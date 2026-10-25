@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1920
+source_checked: 2026-10-25
 sources:
   - id: pintner-1920
     resource: "https://www.google.com/search?q=A+Combined+Mental-Educational+Survey+Pintner+Marshall"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Difference, obtained by subtracting the mental index from the educational index, expresses the relationship between a child's native capacity and actual accomplishment and is presented as the most important value for school diagnosis. [→ Pintner 1920](#pintner-1920)

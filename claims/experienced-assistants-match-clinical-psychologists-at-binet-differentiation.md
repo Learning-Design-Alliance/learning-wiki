@@ -47,3 +47,4 @@ The author's assertion, with no supporting data, that assistants whose "extended
 ## Related Claims
 - [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](binet-simon-scale-valuable-trained-dangerous-untrained.md) — related
 - [The editorial proposes an institutional applied-psychology profession: thorough laboratory training without a full medical course, routine technical duties under a superintendent, and physician-level rank and salary for stability](institutional-applied-psychologist-role-proposal.md) — related
+- [Applying the Binet-Simon tests thoroughly requires forty-five minutes to an hour per child, so school laboratories should train special-class teachers to give some tests and reserve laboratory time for the rest.](wallin-1911-teacher-testing-delegation.md) — related

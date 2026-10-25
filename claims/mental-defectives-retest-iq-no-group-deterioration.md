@@ -47,3 +47,4 @@ Retest study of 126 unselected inmates of Children's Hospital, Randall's Island,
 ## Related Claims
 - [The distribution of IQ changes among mental defectives does not differ from Terman's curve for unselected school children, indicating mental defectives are not more variable than normal subjects](mental-defectives-iq-variability-similar-to-normal.md) — related
 - [A large percentage of retested cases show IQ variations large enough to change their classification, demonstrating the injustice of disposing of persons on the basis of a single test](single-test-classification-unjust-iq-variation.md) — related
+- [One-year Binet retest gains average one year of mental rank, with defectives gaining about half a year (Berry)](binet-retest-one-year-gain-berry.md) — related

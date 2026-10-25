@@ -59,3 +59,4 @@ The editorial contrasts the Binet scale, whose per-pupil individual examination 
 - [The Myers Mental Measure requires only 20 minutes and is said to correlate .80 with the Standard Revision of the Binet Scale](myers-mental-measure-20-minutes-80-binet.md) — related
 - [The short form saves about eleven hours of giving and scoring time per class of thirty pupils compared with the long scales](survey-test-saves-eleven-hours-per-class.md) — related
 - [Every scale or test then available can be given, scored, and tabulated by an intelligent teacher with a little careful practice](any-test-givable-by-intelligent-teacher-with-practice.md) — related
+- [Applying the Binet-Simon tests thoroughly requires forty-five minutes to an hour per child, so school laboratories should train special-class teachers to give some tests and reserve laboratory time for the rest.](wallin-1911-teacher-testing-delegation.md) — related

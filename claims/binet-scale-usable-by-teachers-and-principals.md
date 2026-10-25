@@ -52,3 +52,4 @@ An argumentative communication opposing restricting intelligence tests to traine
 - [The personal equation of the experimenters never amounted to more than one-third of the average mean variation, too small to be considered significant](binet-simon-examiner-bias-negligible.md) — related
 - [Exceptional Binet-Simon test outcomes were rare (4 per cent) and mostly attributable to error in adult judgments rather than the scale](binet-simon-exceptional-cases-4-percent.md) — related
 - [Teachers can be taught to administer the Binet scale with surprising accuracy in a six-weeks summer course](teachers-trained-six-weeks-binet-accuracy.md) — a narrower finding that bears on this claim
+- [Applying the Binet-Simon tests thoroughly requires forty-five minutes to an hour per child, so school laboratories should train special-class teachers to give some tests and reserve laboratory time for the rest.](wallin-1911-teacher-testing-delegation.md) — related

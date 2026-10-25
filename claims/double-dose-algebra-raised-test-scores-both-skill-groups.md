@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2010 · checked against its sources 2026-10-08 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Claire Durwood 2010: the intervention came bundled with another change · Claire Durwood 2010 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Students in double-dose algebra classes showed significantly higher algebra test scores after the policy, despite declines in peer skill levels. [→ Claire Durwood 2010](#claire-durwood-2010)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2020 · checked against its sources 2026-10-09 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Bo 2020: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Test lengths average around 40–41 items (Reading) and 50–51 items (Mathematics) on both engines, while CBE durations exceed COLO's in both terms and content areas. [→ Bo 2020](#bo-2020)

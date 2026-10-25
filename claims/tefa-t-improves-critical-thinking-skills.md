@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Maksum 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` After ten weeks, TEFA-T students had better critical thinking skills on all indicators (analysis, evaluation, inference, deductive and inductive reasoning) than students in conventional classes. [→ Maksum 2022](#maksum-2022)

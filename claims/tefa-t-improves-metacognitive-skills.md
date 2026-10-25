@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Maksum 2022: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Independent t-test showed a statistically significant difference in metacognitive skills between the TEFA-T experimental class and the conventional control class (significance value less than 0.05). [→ Maksum 2022](#maksum-2022)

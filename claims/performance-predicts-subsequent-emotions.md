@@ -51,9 +51,11 @@ In the reciprocal relations model with 1,242 primary students, test performance 
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Anxiety negatively predicts subsequent mathematics test performance in primary school students when emotions are modeled simultaneously](anxiety-negative-predicts-math-performance-primary.md) — related
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](anxiety-strongest-predictor-when-emotions-modeled-together.md) — related
 - [Academic buoyancy moderates the relation between anxiety and mathematics test performance, with performance highest when anxiety is low and buoyancy high](buoyancy-moderates-anxiety-performance.md) — related
 - [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](grades-negative-emotions-within-person-effects.md) — related
 - [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](grades-positive-emotions-within-person-reciprocal.md) — related
 - [Within-level behavioral engagement positively and threat evaluation negatively predict GCSE mathematics grade](engagement-and-threat-predict-gcse-grade-within-level.md) — related
+- [Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling](buoyancy-adaptability-reciprocal-cross-lagged-effects.md)

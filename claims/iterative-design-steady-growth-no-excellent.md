@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Ren 2025: the intervention came bundled with another change · Ren 2025 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Across three rounds of iterative design, original plan means rose from 58.2 to 67.6 to 76.6, and by the final round all five products were rated good or above. [→ Ren 2025](#ren-2025)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Tetiana Zubenko 2019: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` First-year ESL students using the LWPA strategy scored significantly higher on the End-of-Unit exam total than comparison students (mean 81.9 vs 63.2). [→ Tetiana Zubenko 2019](#tetiana-zubenko-2019)

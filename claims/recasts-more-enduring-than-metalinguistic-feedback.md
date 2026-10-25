@@ -35,6 +35,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r?` · `q2`–`q3` · n=33 studies
 > **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Ehsan Rassaei 2011: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 <!-- deprecated title (2026-09-30, overstated its evidence): Recasts have a more enduring effect than metalinguistic feedback on wh-question performance over a ten-day delay -->
 
 ## Subclaims

@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0`–`i1`
 > **Currency** · newest study 2012 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Early Risers 2012: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` August et al. (2002) found a positive, statistically significant effect on the Social Skills Composite (effect size 0.33) but not on the Adaptability Composite. [→ Early Risers 2012](#early-risers-2012)

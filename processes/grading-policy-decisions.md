@@ -12,7 +12,7 @@ generated:
 # Grading Policy Decisions
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 21 claims (4 for, 15 mixed, 2 against) · 17 studies (4 causal, 3 review, 3 associational, 3 qualitative, 3 theoretical, 1 design), `q1`–`q3` · 1 of 17 report an effect size · 21 claims rest on one study
+> **Evidence** · 22 claims (4 for, 15 mixed, 3 against) · 18 studies (4 causal, 4 associational, 3 review, 3 qualitative, 3 theoretical, 1 design), `q1`–`q3` · 1 of 18 report an effect size · 22 claims rest on one study
 
 ## Description
 Assigning a grade is rarely a single, self-evident calculation — it bundles several genuinely separable policy decisions, each carrying real tradeoffs.
@@ -70,6 +70,7 @@ Assigning a grade is rarely a single, self-evident calculation — it bundles se
 - [In Experiment 1, both the high-grade and no-grade conditions produced higher continuing motivation for the task than the standard-grade condition](../claims/high-and-no-grade-raise-continuing-motivation.md) [+M]
 - [In Experiment 1, both the high-grade and no-grade conditions produced higher self-report task interest than the standard-grade condition](../claims/high-and-no-grade-raise-task-interest-vs-standard.md) [~W]
 - [Exceptional mismatches between test rank and school grade are explicable by social circumstances](../claims/test-grade-mismatches-explained-by-home-conditions.md) [~W]
+- [School grades show very wide variation among teachers, shrinking little within a single institution (Starch)](../claims/starch-wide-variation-school-grades.md) [-W]
 
 ## Related Principles
 - [Validity, Reliability, and Bias in Classroom Assessment](../principles/validity-reliability-and-bias-in-classroom-assessment.md) — grading decisions inherit the underlying assessment's validity and reliability properties, but add a further, separable layer of composition choices

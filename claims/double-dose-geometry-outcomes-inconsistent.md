@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2008 · checked against its sources 2026-10-08 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Takako Nomi and Elaine M. Allensworth 2008: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Geometry GPAs and failure rates diverged between students just below and above the median in 2003, but there were no differences in 10th-grade course outcomes in 2004. [→ Takako Nomi and Elaine M. Allensworth 2008](#takako-nomi-and-elaine-m-allensworth-2008)

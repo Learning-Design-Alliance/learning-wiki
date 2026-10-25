@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2024 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Laura Gabler 2024: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i3` Flexibility explained a significant share of variance in word problem solving scores (ηp2 = 0.23). [→ Laura Gabler 2024](#laura-gabler-2024)

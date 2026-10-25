@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2013 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Doris B. Chin 2013: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i3` Kit+TA students improved more than Kit-Only students on basic-value (curriculum) measures; the article prints an effect size of d = 1.1 for this learning-gain difference. [→ Doris B. Chin 2013](#doris-b-chin-2013)

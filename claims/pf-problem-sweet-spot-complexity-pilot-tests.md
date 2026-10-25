@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2020 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Valentina Nachtigall · Katja Serova · Nikol Rummel 2020: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Pilot tests showed students produced non-canonical solution ideas (on average 6.5 ideas in round one) that typically included at least one of the four targeted errors, supporting sweet-spot complexity for the PF problem. [→ Valentina Nachtigall · Katja Serova · Nikol Rummel 2020](#valentina-nachtigall-katja-serova-nikol-rummel-2020)

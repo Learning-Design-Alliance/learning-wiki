@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Sarré 2011: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` Meaning-focused task completion through computer-mediated communication fosters negotiated interactions, with negotiation of meaning occurring in discussion board, text chat and videoconferencing interactions. [→ Sarré 2011](#sarre-2011)

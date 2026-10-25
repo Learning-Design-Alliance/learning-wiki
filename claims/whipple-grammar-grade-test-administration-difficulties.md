@@ -48,3 +48,4 @@ Annotated-list entry for Guy M. Whipple's Group Test for Grammar Grades, publish
 - [Standardized test results showed the greatest deficiency in grammar tests among summer-school pupils](grammar-tests-greatest-deficiency-1918.md) — related
 - [The National Intelligence Tests, prepared by a committee under National Research Council auspices with $25,000 from the General Education Board, are probably the most reliable group tests](national-intelligence-tests-most-reliable.md) — related
 - [Teacher judgment ratings diverged from standardized test results for individual pupils](teacher-judgment-diverges-from-tests.md) — related
+- [Results of the uniform-sentence administration were tabulated by trained assistants and compiled by grade, sex, and race as a basis for tentative standardization](spelling-results-tabulated-trained-assistants.md) — related

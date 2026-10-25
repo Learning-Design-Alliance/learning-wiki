@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2013 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Takako Nomi and Elaine M. Allensworth 2013: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i?` Algebra test scores improved for below-average skills students even though they took algebra with lower achieving peers post-policy; the coefficient rises from .76 to .85 once peer skill levels are controlled. [→ Takako Nomi and Elaine M. Allensworth 2013](#takako-nomi-and-elaine-m-allensworth-2013)

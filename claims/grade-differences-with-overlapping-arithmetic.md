@@ -48,3 +48,4 @@ Grade-level medians for first-minute and average-of-other-nine-minutes work in a
 - [Grades overlap massively in spelling: on average 20.8% of pupils reach or exceed the median of the next grade above](grade-overlapping-in-spelling.md) — related
 - [Intelligence-test scores overlap substantially across non-consecutive grades, with some fourth graders scoring above the fifth-grade norm](grade-overlapping-of-point-scale-scores.md) — related
 - [Standard spelling scores for grades 1–8 derived from 2500 pupils rise from 10 in grade 1 to 85 in grade 8](spelling-standard-scores-grades-1-8.md) — related
+- [Standardized illustrative sentences written in advance were used by all examiners when administering the Springfield spelling list to about 25,000 children in 78 schools](standardized-illustrative-sentences-spelling-administration.md) — related

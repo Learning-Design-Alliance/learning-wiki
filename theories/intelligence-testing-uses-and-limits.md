@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 166 claims (56 for, 95 mixed, 15 against) · 82 studies (50 associational, 17 review, 8 theoretical, 4 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 9 of 82 report an effect size · 165 claims rest on one study
+> **Evidence** · 171 claims (58 for, 98 mixed, 15 against) · 85 studies (51 associational, 17 review, 9 theoretical, 5 design, 2 quant-synthesis, 1 causal), `q1`–`q3` · 9 of 85 report an effect size · 170 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -217,6 +217,11 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Army Alpha point scores correlate about +0.36 with academic grades among nearly 6000 college students, with correlations varying across sub-tests](../claims/army-alpha-grades-correlation-036-college.md) [~W]
 - [The tests rank in the order opposites, sentence completion, logical selection, arithmetical problems, and symbol-digit substitution as measures of native intelligence](../claims/rank-order-native-intelligence-tests.md) [~W]
 - [The editorial proposes building thought-content scales from roughly ten topics of child interest, administered to many children, to yield a profile of thinking power](../claims/thought-content-scale-proposal-profile.md) [~W]
+- [The Binet-Simon measuring scale is the best systematic experimental device then available for measuring intellectual development, but its norms and level placement require revision.](../claims/wallin-1911-binet-scale-status-revision.md) [+W] — attached 2026-10-25 from J. K. W. Wallin (1911), which proposed "Four ages of the child: chronological, physiological, pedagogical and psychical".
+- [Results of the uniform-sentence administration were tabulated by trained assistants and compiled by grade, sex, and race as a basis for tentative standardization](../claims/spelling-results-tabulated-trained-assistants.md) [+W]
+- [Applying the Binet-Simon tests thoroughly requires forty-five minutes to an hour per child, so school laboratories should train special-class teachers to give some tests and reserve laboratory time for the rest.](../claims/wallin-1911-teacher-testing-delegation.md) [~W]
+- [One-year Binet retest gains average one year of mental rank, with defectives gaining about half a year (Berry)](../claims/binet-retest-one-year-gain-berry.md) [~W]
+- [Every pedagogically retarded child should receive a psycho-clinical examination to distinguish genuine subnormal development from retardation caused by late entrance, irregular attendance, illness, or poor teaching.](../claims/wallin-1911-examine-retarded-cause-diagnosis.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

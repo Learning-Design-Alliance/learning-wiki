@@ -51,3 +51,4 @@ Correlational analysis of the fourteen- and fifteen-year composite scores of the
 - [Composite mental test rank shows a large positive correlation with school grade, physical rank only a small one](mental-rank-large-correlation-school-grade.md) — related
 - [Individuals' composite scale ranks are fairly constant from age fourteen to fifteen](woolley-scale-ranks-stable-year-to-year.md) — related
 - [Tall, heavy children with good lung capacity are further along toward mental maturity as evidenced by school progress, based on 21,682 final term grades](physical-size-school-progress-relation.md) — related
+- [Among 800 fourteen-year-old children, girls outperformed boys on mental tests while boys excelled in strength and vital capacity (Woolley and Fischer)](woolley-fischer-800-fourteen-year-old-sex-differences.md) — related
