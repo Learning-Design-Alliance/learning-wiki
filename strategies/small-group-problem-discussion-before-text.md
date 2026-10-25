@@ -9,8 +9,8 @@ generated:
   at: 2026-10-24
 sources:
   - id: schmidt-1989
-    resource: "https://doi.org/10.1037//0022-0663.81.4.610"
-    title: "Schmidt, H. G., De Volder, M. L., De Grave, W. S., Moust, J. H. C., & Patel, V. L. (1989). Explanatory Models in the Processing of Science Text: The Role of Prior Knowledge Activation Through Small-Group Discussion. Journal of Educational Psychology, 81(4), 610-619. https://doi.org/10.1037//0022-0663.81.4.610"
+    resource: "https://doi.org/10.1037/0022-0663.81.4.610"
+    title: "Schmidt, H. G., De Volder, M. L., De Grave, W. S., Moust, J. H. C., & Patel, V. L. (1989). Explanatory Models in the Processing of Science Text: The Role of Prior Knowledge Activation Through Small-Group Discussion. Journal of Educational Psychology, 81(4), 610-619. https://doi.org/10.1037/0022-0663.81.4.610"
     author: "Schmidt, H. G., De Volder, M. L., De Grave, W. S., Moust, J. H. C., & Patel, V. L"
 ---
 
@@ -58,4 +58,4 @@ Small groups of learners are given a description of natural phenomena and asked 
 -
 
 ## Key Sources
-- Schmidt, H. G., De Volder, M. L., De Grave, W. S., Moust, J. H. C., & Patel, V. L. (1989). Explanatory Models in the Processing of Science Text: The Role of Prior Knowledge Activation Through Small-Group Discussion. Journal of Educational Psychology, 81(4), 610-619. https://doi.org/10.1037//0022-0663.81.4.610
+- Schmidt, H. G., De Volder, M. L., De Grave, W. S., Moust, J. H. C., & Patel, V. L. (1989). Explanatory Models in the Processing of Science Text: The Role of Prior Knowledge Activation Through Small-Group Discussion. Journal of Educational Psychology, 81(4), 610-619. https://doi.org/10.1037/0022-0663.81.4.610

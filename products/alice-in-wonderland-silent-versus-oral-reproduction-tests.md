@@ -32,4 +32,4 @@ A reading-comprehension assessment developed by Mead that has pupils read an Ali
 -
 
 ## Key Sources
-- Mead, C. D. (1916). Results in Silent Versus Oral Reading. Journal of Educational Psychology. https://eric.ed.gov
+- Mead, C. D. (1917). Results in silent versus oral reading. *Journal of Educational Psychology, 8*(6), 367–368. https://doi.org/10.1037/h0067774

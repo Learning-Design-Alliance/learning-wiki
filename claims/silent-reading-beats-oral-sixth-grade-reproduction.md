@@ -8,11 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-25
 evidence_strength: moderate
-newest_evidence: 1916
+newest_evidence: 1917
 sources:
-  - id: mead-1916
+  - id: mead-1917
     resource: "https://doi.org/10.1037/h0067774"
-    title: "Mead, C. D. (1916). Results in Silent Versus Oral Reading. Journal of Educational Psychology. https://doi.org/10.1037/h0067774"
+    title: "Mead, C. D. (1917). Results in silent versus oral reading. *Journal of Educational Psychology, 8*(6), 367–368. https://doi.org/10.1037/h0067774"
     author: Mead, C. D.
     q: 2
     i: "?"
@@ -24,16 +24,16 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` All five sixth-grade classes reproduced a greater percentage of possible points under the silent method, and 71% of children taken separately did better by this method. [→ Mead 1916](#mead-1916)
+`q2 i?` All five sixth-grade classes reproduced a greater percentage of possible points under the silent method, and 71% of children taken separately did better by this method. [→ Mead 1917](#mead-1917)
 
 ## Evidence
 
-### Mead 1916
+### Mead 1917
 
-Mead, C. D. (1916). Results in Silent Versus Oral Reading. Journal of Educational Psychology. https://doi.org/10.1037/h0067774
+Mead, C. D. (1917). Results in silent versus oral reading. *Journal of Educational Psychology, 8*(6), 367–368. https://doi.org/10.1037/h0067774
 
 `q2 · i?` · `causal · r1`
 

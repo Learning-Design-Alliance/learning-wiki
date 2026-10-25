@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1914
+source_checked: 2026-10-25
 sources:
   - id: whipple-1914
     resource: "https://eric.ed.gov/?q=preliminary+investigation+of+skimming+in+reading"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1914 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Expectation of a reproduction test reduced reading speed for all subjects by all methods. [→ Whipple 1914](#whipple-1914)
